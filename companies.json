@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Anthropic",
+    "github_repo": "anthropics/anthropic-quickstarts",
+    "blog_rss": "https://www.anthropic.com/rss.xml"
+  },
+  {
+    "name": "OpenAI",
+    "github_repo": "openai/openai-python",
+    "blog_rss": "https://openai.com/blog/rss.xml"
+  },
+  {
+    "name": "Hugging Face",
+    "github_repo": "huggingface/transformers",
+    "blog_rss": "https://huggingface.co/blog/rss"
+  }
+]
