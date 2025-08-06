@@ -14,4 +14,9 @@
     "github_repo": "huggingface/transformers",
     "blog_rss": "https://huggingface.co/blog/rss"
   }
+  {
+    "name": "Google DeepMind",
+    "github_repo": "google-deepmind/deepmind-research",
+    "blog_rss": "https://deepmind.google/discover/blog/rss.xml"
+  }
 ]
