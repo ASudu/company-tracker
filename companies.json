@@ -13,10 +13,26 @@
     "name": "Hugging Face",
     "github_repo": "huggingface/transformers",
     "blog_rss": "https://huggingface.co/blog/rss"
-  }
+  },
   {
     "name": "Google DeepMind",
     "github_repo": "google-deepmind/deepmind-research",
     "blog_rss": "https://deepmind.google/discover/blog/rss.xml"
+  },
+  {
+    "name": "Insilico Medicine",
+    "github_repo": "insilicomedicine/GENTRL"
+  },
+  {
+    "name": "Meta",
+    "github_repo": "facebookresearch/llama",
+    "blog_rss": "https://about.fb.com/news/rss/"
+  },
+  {
+    "name": "Vertex Pharmaceuticals"
+  },
+  {
+    "name": "NVIDIA Healthcare",
+    "github_repo": "NVIDIA/NeMo"
   }
 ]
