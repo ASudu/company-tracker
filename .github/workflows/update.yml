@@ -1,0 +1,42 @@
+name: Daily Company Tracker
+
+on:
+  schedule:
+    # Runs at 12:00 UTC every day
+    - cron: '0 12 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo (with write access)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run fetch_data.py
+        run: python fetch_data.py
+
+      - name: Commit & push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json || echo "no changes to add"
+          if git diff --quiet --cached; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily data update: $(date -u +'%Y-%m-%d')"
+            git push
+          fi

@@ -1,0 +1,11 @@
+# _config.yml
+
+title: mini-monitor
+description: Track companies with daily updates
+theme: jekyll-theme-primer
+
+exclude:
+  - node_modules
+  - frontend/node_modules
+  - README.md
+  - LICENSE
