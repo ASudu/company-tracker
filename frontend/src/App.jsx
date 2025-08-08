@@ -72,8 +72,6 @@ export default function App() {
 
   const formatDateTime = (dateStr) => {
     const date = new Date(dateStr);
-    // For debugging: log the parsed date and local offset
-    console.log("Original:", dateStr, "| Parsed:", date, "| Local offset (min):", date.getTimezoneOffset());
     return date.toLocaleString(undefined, {
       year: "numeric",
       month: "long",
@@ -110,7 +108,7 @@ export default function App() {
     <div className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-950 text-white p-6">
       {/* Header */}
       <div className="flex justify-between items-center mb-6">
-        <h1 className="text-3xl font-bold">mini-monitor</h1>
+        <h1 className="text-3xl font-bold">Company Tracker</h1>
         <span className="text-gray-400 text-sm">Updated daily at 12:00 UTC</span>
       </div>
 
@@ -187,8 +185,10 @@ export default function App() {
                 <div className="mb-6">
                   <h3 className="text-lg font-semibold mb-2">Stock</h3>
                   <p>
-                    Price:{" "}
-                    <span className="font-bold">${companyData.stock.latest.close.toFixed(2)}</span>{" "}
+                    Ticker:{" "}
+                    <span className="font-bold">{companyData.stock.ticker}</span>{" "}
+                    | Price ({companyData.stock.currency}):{" "}
+                    <span className="font-bold">{companyData.stock.latest.close.toFixed(2)}</span>{" "}
                     | Change:{" "}
                     <span
                       className={

@@ -27,7 +27,7 @@ COMPANIES = [
     {"name": "Insilico Medicine", "ticker": None},
     {"name": "Amgen", "ticker": "AMGN"},
     {"name": "Alcon", "ticker": "ALC"},
-    {"name": "TCS", "ticker": "TCS.N"},
+    {"name": "TCS", "ticker": "TCS.NS"},
     {"name": "SBI", "ticker": "SBIN.NS"},
     {"name": "Infosys", "ticker": "INFY"},
     {"name": "IDFC First Bank", "ticker": "IDFCFIRSTB.NS"},
@@ -85,9 +85,10 @@ def fetch_stock(ticker: str):
         latest = prices[-1] if prices else None
         return {
             "ticker": ticker,
+            "currency": info.get("currency"),
             "latest": latest,
             "history": prices,
-            "name": info.get("shortName") or info.get("longName")
+            "name": info.get("shortName") or info.get("longName"),
         }
     except Exception as e:
         return {"ticker": ticker, "error": str(e)}

@@ -2,7 +2,7 @@
   "name": "Infosys",
   "slug": "infosys",
   "ticker": "INFY",
-  "fetched_at": "2025-08-08T19:20:55.758675+00:00",
+  "fetched_at": "2025-08-08T18:14:42.483593+00:00",
   "news": [
     {
       "title": "Infosys Recognized as Number One Service Provider in Cloud & Infrastructure Services in the Whitelane Research IT Sourcing Study 2025 UK & Ireland - PR Newswire",
@@ -26,10 +26,10 @@
       "source": "Stock Titan"
     },
     {
-      "title": "Infosys share price falls 1% in morning trade - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWNFcTB4bTFTdFpLMU1EOVJBMXVWYkx3THVwX25pTmlKWnMyOU11cmh6RFZqdUVxUlZCaFpZQnVkU1dvdTIzZDlqY1NOUWtLbTZfOENtb1V1SzNQV2F0aUcyd2MyVEY3M01kbHAzR09IOGppV2NPRG4xUjk2ZGNWVjVEVmNGeHdNSkNoMVlxZ01yXzd6eUxQWUZidWxsU18tQk5IeWZwbzdkWTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWNFcTB4bTFTdFpLMU1EOVJBMXVWYkx3THVwX25pTmlKWnMyOU11cmh6RFZqdUVxUlZCaFpZQnVkU1dvdTIzZDlqY1NOUWtLbTZfOENtb1V1SzNQV2F0aUcyd2MyVEY3M01kbHAzR09IOGppV2NPRG4xUjk2ZGNWVjVEVmNGeHdNSkNoMVlxZ01yXzd6eUxQWUZidWxsU18tQk5IeWZwbzdkWTA?oc=5\" target=\"_blank\">Infosys share price falls 1% in morning trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "published": "2025-08-08T05:06:18+00:00",
+      "title": "Infosys Recognized as Top Cloud & Infrastructure Service Provider in UK & Ireland - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXl2M0dnOXNTWTZ5LWFTdVBGLXNYTWNyVGI5VUJBTGFVN3JEcUtOdXpGY2xIR2FxbnJscldWTWtvR0RDWmpHZGluemtfeTVweFlhVkEzbzRKelJSdi1aUVhoRFgzVWNKTEV2ZnNuSUEtTHR2ZGpmRTVyWko2bUktc0UyZXIyWkpsMlJOWGotX0FUaUZNbkFob0ZhVmRjdVo1b3pFa010SEUyVjRNVTM0X2hRWHVQbGlpcnI5cXhMeU5sZEZ0MHZybVpPSWIwYU5seXI1TEItaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZXl2M0dnOXNTWTZ5LWFTdVBGLXNYTWNyVGI5VUJBTGFVN3JEcUtOdXpGY2xIR2FxbnJscldWTWtvR0RDWmpHZGluemtfeTVweFlhVkEzbzRKelJSdi1aUVhoRFgzVWNKTEV2ZnNuSUEtTHR2ZGpmRTVyWko2bUktc0UyZXIyWkpsMlJOWGotX0FUaUZNbkFob0ZhVmRjdVo1b3pFa010SEUyVjRNVTM0X2hRWHVQbGlpcnI5cXhMeU5sZEZ0MHZybVpPSWIwYU5seXI1TEItaw?oc=5\" target=\"_blank\">Infosys Recognized as Top Cloud & Infrastructure Service Provider in UK & Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2025-08-08T10:52:01+00:00",
       "source": "TradingView"
     },
     {
@@ -100,10 +100,9 @@
   ],
   "stock": {
     "ticker": "INFY",
-    "currency": "USD",
     "latest": {
       "date": "2025-08-08",
-      "close": 16.020000457763672
+      "close": 16.030000686645508
     },
     "history": [
       {
@@ -132,7 +131,7 @@
       },
       {
         "date": "2025-08-08",
-        "close": 16.020000457763672
+        "close": 16.030000686645508
       }
     ],
     "name": "Infosys Limited"

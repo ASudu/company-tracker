@@ -2,7 +2,7 @@
   "name": "Johnson & Johnson",
   "slug": "johnson-and-johnson",
   "ticker": "JNJ",
-  "fetched_at": "2025-08-08T18:14:17.626461+00:00",
+  "fetched_at": "2025-08-08T19:20:31.820336+00:00",
   "news": [
     {
       "title": "55,098 Shares in Johnson & Johnson (NYSE:JNJ) Acquired by Zions Bancorporation National Association UT - MarketBeat",
@@ -100,9 +100,10 @@
   ],
   "stock": {
     "ticker": "JNJ",
+    "currency": "USD",
     "latest": {
       "date": "2025-08-08",
-      "close": 173.5
+      "close": 173.9149932861328
     },
     "history": [
       {
@@ -131,7 +132,7 @@
       },
       {
         "date": "2025-08-08",
-        "close": 173.5
+        "close": 173.9149932861328
       }
     ],
     "name": "Johnson & Johnson"
