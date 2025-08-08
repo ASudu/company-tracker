@@ -1,0 +1,71 @@
+{
+  "generated_at": "2025-08-08T16:42:25.208571+00:00",
+  "companies": [
+    {
+      "name": "Apple",
+      "slug": "apple",
+      "ticker": "AAPL",
+      "last_updated": "2025-08-08T16:41:47.040375+00:00"
+    },
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+      "ticker": "MSFT",
+      "last_updated": "2025-08-08T16:41:51.265337+00:00"
+    },
+    {
+      "name": "Alphabet",
+      "slug": "alphabet",
+      "ticker": "GOOGL",
+      "last_updated": "2025-08-08T16:41:54.979910+00:00"
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "ticker": "AMZN",
+      "last_updated": "2025-08-08T16:41:59.335827+00:00"
+    },
+    {
+      "name": "Meta",
+      "slug": "meta",
+      "ticker": "META",
+      "last_updated": "2025-08-08T16:42:03.574675+00:00"
+    },
+    {
+      "name": "NVIDIA",
+      "slug": "nvidia",
+      "ticker": "NVDA",
+      "last_updated": "2025-08-08T16:42:06.625615+00:00"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "slug": "johnson-and-johnson",
+      "ticker": "JNJ",
+      "last_updated": "2025-08-08T16:42:11.290677+00:00"
+    },
+    {
+      "name": "Vertex Pharmaceuticals",
+      "slug": "vertex-pharmaceuticals",
+      "ticker": "VRTX",
+      "last_updated": "2025-08-08T16:42:14.894737+00:00"
+    },
+    {
+      "name": "Insilico Medicine",
+      "slug": "insilico-medicine",
+      "ticker": null,
+      "last_updated": "2025-08-08T16:42:17.813209+00:00"
+    },
+    {
+      "name": "Amgen",
+      "slug": "amgen",
+      "ticker": "AMGN",
+      "last_updated": "2025-08-08T16:42:21.600580+00:00"
+    },
+    {
+      "name": "Alcon",
+      "slug": "alcon",
+      "ticker": "ALC",
+      "last_updated": "2025-08-08T16:42:25.207027+00:00"
+    }
+  ]
+}
