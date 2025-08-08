@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* quick glassmorphism */
+.card {
+  @apply bg-white/5 backdrop-blur-md rounded-2xl p-4 shadow-lg;
+}
