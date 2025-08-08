@@ -26,7 +26,14 @@ COMPANIES = [
     {"name": "Vertex Pharmaceuticals", "ticker": "VRTX"},
     {"name": "Insilico Medicine", "ticker": None},
     {"name": "Amgen", "ticker": "AMGN"},
-    {"name": "Alcon", "ticker": "ALC"}  # Alcon is listed as ALC.N (may vary); if missing, set None
+    {"name": "Alcon", "ticker": "ALC"},
+    {"name": "TCS", "ticker": "TCS.N"},
+    {"name": "SBI", "ticker": "SBIN.NS"},
+    {"name": "Infosys", "ticker": "INFY"},
+    {"name": "IDFC First Bank", "ticker": "IDFCFIRSTB.NS"},
+    {"name": "Yes Bank", "ticker": "YESBANK.NS"},
+    {"name": "Torrent Pharamceuticals", "ticker": "TORNTPHARM.NS"},
+    {"name": "Mahindra & Mahindra", "ticker": "M&M.NS"}
 ]
 
 DATA_DIR = Path("frontend/public/data")
