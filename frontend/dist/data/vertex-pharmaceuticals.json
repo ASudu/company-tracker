@@ -2,7 +2,7 @@
   "name": "Vertex Pharmaceuticals",
   "slug": "vertex-pharmaceuticals",
   "ticker": "VRTX",
-  "fetched_at": "2025-08-08T18:14:20.992328+00:00",
+  "fetched_at": "2025-08-08T19:20:35.610270+00:00",
   "news": [
     {
       "title": "Vertex Stock Tumbles After Strong Earnings. What’s Spooking Investors. - Barron's",
@@ -100,9 +100,10 @@
   ],
   "stock": {
     "ticker": "VRTX",
+    "currency": "USD",
     "latest": {
       "date": "2025-08-08",
-      "close": 367.82000732421875
+      "close": 365.70001220703125
     },
     "history": [
       {
@@ -131,7 +132,7 @@
       },
       {
         "date": "2025-08-08",
-        "close": 367.82000732421875
+        "close": 365.70001220703125
       }
     ],
     "name": "Vertex Pharmaceuticals Incorpor"
