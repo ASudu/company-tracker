@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/*.json || echo "no changes to add"
+          git add frontend/public/data/*.json || echo "no changes to add"
           if git diff --quiet --cached; then
             echo "No changes to commit."
           else
