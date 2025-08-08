@@ -2,7 +2,7 @@
   "name": "Vertex Pharmaceuticals",
   "slug": "vertex-pharmaceuticals",
   "ticker": "VRTX",
-  "fetched_at": "2025-08-08T19:20:35.610270+00:00",
+  "fetched_at": "2025-08-08T19:52:05.294413+00:00",
   "news": [
     {
       "title": "Vertex Stock Tumbles After Strong Earnings. What’s Spooking Investors. - Barron's",
@@ -47,18 +47,18 @@
       "source": "The Times of India"
     },
     {
-      "title": "Altos ascends with new clinical leader—Chutes & Ladders - Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXdweFRsbTFTc3hPX3BPTWFjYUUtWjNFNFJIZjVkazUxNlI0Qm1IbUEtdnU4RHJqcUYwdlhEajB4MHZVenZFMFZldzJDOEFhb3VVckVrb2l5WFhTYWczRmVfZHdhYW5nWDQ1Q28wZmJlc3Q3aTJYckNpeG1fd09oS3lkbE5EeWRBY2NSYzlLNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXdweFRsbTFTc3hPX3BPTWFjYUUtWjNFNFJIZjVkazUxNlI0Qm1IbUEtdnU4RHJqcUYwdlhEajB4MHZVenZFMFZldzJDOEFhb3VVckVrb2l5WFhTYWczRmVfZHdhYW5nWDQ1Q28wZmJlc3Q3aTJYckNpeG1fd09oS3lkbE5EeWRBY2NSYzlLNA?oc=5\" target=\"_blank\">Altos ascends with new clinical leader—Chutes & Ladders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font>",
-      "published": "2025-08-08T12:30:00+00:00",
-      "source": "Fierce Biotech"
-    },
-    {
       "title": "Vertex Pharmaceuticals stock falls as pain drug fails in phase 2 (VRTX:NASDAQ) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0cybWZfaWhIaWhXQUVCemw1QzIteFlPaXNHSElIYWdVakktNC16Z2c0NzFNTnkySS1CS01Mam1tMUwtdnpvMEpTb3ZKRERhQlJGd081Ym1WTFZ4Y3hSSUU0TmlpbGJLSjRJQ3h6OWU4czdvdTFOcnJ2THdxRlp4TEFEM2VQT1JMLU9SUmppSVdtOHlIRTFPVWQ5MUstcWZtS3RUOQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0cybWZfaWhIaWhXQUVCemw1QzIteFlPaXNHSElIYWdVakktNC16Z2c0NzFNTnkySS1CS01Mam1tMUwtdnpvMEpTb3ZKRERhQlJGd081Ym1WTFZ4Y3hSSUU0TmlpbGJLSjRJQ3h6OWU4czdvdTFOcnJ2THdxRlp4TEFEM2VQT1JMLU9SUmppSVdtOHlIRTFPVWQ5MUstcWZtS3RUOQ?oc=5\" target=\"_blank\">Vertex Pharmaceuticals stock falls as pain drug fails in phase 2 (VRTX:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
       "published": "2025-08-05T08:12:56+00:00",
       "source": "Seeking Alpha"
+    },
+    {
+      "title": "Altos ascends with new clinical leader—Chutes & Ladders - Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXdweFRsbTFTc3hPX3BPTWFjYUUtWjNFNFJIZjVkazUxNlI0Qm1IbUEtdnU4RHJqcUYwdlhEajB4MHZVenZFMFZldzJDOEFhb3VVckVrb2l5WFhTYWczRmVfZHdhYW5nWDQ1Q28wZmJlc3Q3aTJYckNpeG1fd09oS3lkbE5EeWRBY2NSYzlLNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXdweFRsbTFTc3hPX3BPTWFjYUUtWjNFNFJIZjVkazUxNlI0Qm1IbUEtdnU4RHJqcUYwdlhEajB4MHZVenZFMFZldzJDOEFhb3VVckVrb2l5WFhTYWczRmVfZHdhYW5nWDQ1Q28wZmJlc3Q3aTJYckNpeG1fd09oS3lkbE5EeWRBY2NSYzlLNA?oc=5\" target=\"_blank\">Altos ascends with new clinical leader—Chutes & Ladders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Biotech</font>",
+      "published": "2025-08-08T12:30:00+00:00",
+      "source": "Fierce Biotech"
     }
   ],
   "product_launches": [
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2025-08-08",
-      "close": 365.70001220703125
+      "close": 365.5249938964844
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2025-08-08",
-        "close": 365.70001220703125
+        "close": 365.5249938964844
       }
     ],
     "name": "Vertex Pharmaceuticals Incorpor"

@@ -2,7 +2,7 @@
   "name": "Alcon",
   "slug": "alcon",
   "ticker": "ALC",
-  "fetched_at": "2025-08-08T19:20:45.574728+00:00",
+  "fetched_at": "2025-08-08T19:52:12.312992+00:00",
   "news": [
     {
       "title": "Alcon agrees to acquire STAAR Surgical - Ophthalmology Times",
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2025-08-08",
-      "close": 85.75
+      "close": 85.44000244140625
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2025-08-08",
-        "close": 85.75
+        "close": 85.44000244140625
       }
     ],
     "name": "Alcon Inc."
