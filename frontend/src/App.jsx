@@ -27,6 +27,7 @@ ChartJS.register(
 
 export default function App() {
   const [companies, setCompanies] = useState([]);
+  const [lastUpdated, setLastUpdated] = useState(null);
   const [selectedCompany, setSelectedCompany] = useState(null);
   const [companyData, setCompanyData] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -39,6 +40,7 @@ export default function App() {
       const data = await fetchCompanies();
       console.log("Loaded companies:", data);
       setCompanies(data.companies);
+      setLastUpdated(data.generated_at)
       setCompaniesLoading(false);
     }
     
@@ -109,7 +111,7 @@ export default function App() {
       {/* Header */}
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-3xl font-bold">Company Tracker</h1>
-        <span className="text-gray-400 text-sm">Updated daily at 12:00 UTC</span>
+        <span className="text-gray-400 text-sm">Last updated: {formatDateTime(lastUpdated)}</span>
       </div>
 
       {/* Layout */}
@@ -117,31 +119,35 @@ export default function App() {
         {/* Company List */}
         <div className="w-1/4 border-r border-gray-800 pr-4">
           <h2 className="text-lg font-semibold mb-4">Companies</h2>
-          <ul className="space-y-2">
-            {companiesLoading ? (
-              <p className="text-gray-500">Loading companies...</p>
-            ) : 
-            
-            companies.length > 0 ? (
-              companies.map((company) => (
-                <li
-                  key={company.slug}
-                  onClick={() => handleSelectCompany(company)}
-                  className={`p-2 rounded cursor-pointer transition ${
-                    selectedCompany?.slug === company.slug
-                      ? "bg-indigo-600"
-                      : "hover:bg-gray-800"
-                  }`}
-                >
-                  {company.name}
-                </li>
-              ))
-            ) :
-            
-            (
-             <p className="text-gray-500">No companies found.</p>
-            )}
-          </ul>
+          <div
+            className="overflow-y-auto max-h-[80vh] custom-scrollbar"
+          >
+            <ul className="space-y-2">
+              {companiesLoading ? (
+                <p className="text-gray-500">Loading companies...</p>
+              ) : 
+              
+              companies.length > 0 ? (
+                companies.map((company) => (
+              <li
+                key={company.slug}
+                onClick={() => handleSelectCompany(company)}
+                className={`p-2 rounded cursor-pointer transition ${
+                  selectedCompany?.slug === company.slug
+                ? "bg-indigo-600"
+                : "hover:bg-gray-800"
+                }`}
+              >
+                {company.name}
+              </li>
+                ))
+              ) :
+              
+              (
+                <p className="text-gray-500">No companies found.</p>
+              )}
+            </ul>
+          </div>
         </div>
 
         {/* Company Data */}
@@ -230,12 +236,24 @@ export default function App() {
               )}
 
               {/* Products */}
-              {companyData.products && companyData.products.length > 0 && (
-                <div>
-                  <h3 className="text-lg font-semibold mb-2">New Products</h3>
-                  <ul className="list-disc pl-5 space-y-1">
-                    {companyData.products.map((product, idx) => (
-                      <li key={idx}>{product}</li>
+              {companyData.product_launches && companyData.product_launches.length > 0 && (
+                <div className="mb-6">
+                  <h3 className="text-lg font-semibold mb-2">Latest Product Launches</h3>
+                  <ul className="space-y-2">
+                    {companyData.product_launches.map((item, idx) => (
+                      <li key={idx}>
+                        <a
+                          href={item.link}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-indigo-400 hover:underline"
+                        >
+                          {item.title}
+                        </a>{" "}
+                        <span className="text-gray-500 text-sm">
+                          ({formatDateTime(item.published)})
+                        </span>
+                      </li>
                     ))}
                   </ul>
                 </div>

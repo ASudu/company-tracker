@@ -6,3 +6,15 @@
 .card {
   @apply bg-white/5 backdrop-blur-md rounded-2xl p-4 shadow-lg;
 }
+
+/* custom scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  background: #1e293b;
+  border-radius: 8px;
+}
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #38383e transparent;
+}
