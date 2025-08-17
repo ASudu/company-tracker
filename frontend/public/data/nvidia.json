@@ -2,35 +2,21 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-08-16T12:20:43.893285+00:00",
+  "fetched_at": "2025-08-17T12:21:29.908724+00:00",
   "news": [
+    {
+      "title": "Q&A: Why China Is Discouraging Its Firms From Buying Nvidia H20 Chips - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxNMXBkaHhEYVcxeV9TUW5NSnNPRmlnVEV5M0puNGJSOWFlME1rUmg2NjJZeTllUEE5SnBlN0VVQW85LWhaQ1U3UG0ybnF2cE9idXFUbDNDOWlWdDlIQm03UXhBRGNESTQxcmFBWXU0NXZhWDFIbUw2Y0k0R3hpLUE2RERzR2M1NGZDNXNybHFTaE1Dc0dtUXpMVkFtOHN2d1BxeE9hbjNDdjNqelEwcklKZnNwY2FQUlF5X19fRXhOVGhUeUUweVFaNlBPYkFnZDB2dWtDVzFzOU8zRDBxeHpteGxtd2QwTGJkSUJTTWt4Q1R3cXZfMjQwYnUzSzRTS0lUQWpUMUo5NXl1YXo0WnFRNDBVeHV3b0hQMjRMQ29tUFFRRXdDRWxWdFZ6V1NBSEdFbHk1dHV4NEZfVl9QRWNXTU1QXzVRMDZZYzZKdldheU1nN2lzOUxfVUk2Q050RV9wWllweVRFZlItNEE5cGxFMDI0SGtGWEhSZWZRamV6MzBBSl9pUnR4OS0wV0pUcEw3cUxKeDh0WF80eEFtbkVuQ3JiTF9Mbnl6MXBRLXNhdk9YbHdERUx1bXNmT1NNZlJJREpKbzFBVWZzSWw1WUFjSy14VzhBMS0td3M0QkV5Q0d6TGoyZEh6VWQ0eEFESXpzc0J5NzEwbTBuNlppanN0SXR5U3p2bno0NXdN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwRBVV95cUxNMXBkaHhEYVcxeV9TUW5NSnNPRmlnVEV5M0puNGJSOWFlME1rUmg2NjJZeTllUEE5SnBlN0VVQW85LWhaQ1U3UG0ybnF2cE9idXFUbDNDOWlWdDlIQm03UXhBRGNESTQxcmFBWXU0NXZhWDFIbUw2Y0k0R3hpLUE2RERzR2M1NGZDNXNybHFTaE1Dc0dtUXpMVkFtOHN2d1BxeE9hbjNDdjNqelEwcklKZnNwY2FQUlF5X19fRXhOVGhUeUUweVFaNlBPYkFnZDB2dWtDVzFzOU8zRDBxeHpteGxtd2QwTGJkSUJTTWt4Q1R3cXZfMjQwYnUzSzRTS0lUQWpUMUo5NXl1YXo0WnFRNDBVeHV3b0hQMjRMQ29tUFFRRXdDRWxWdFZ6V1NBSEdFbHk1dHV4NEZfVl9QRWNXTU1QXzVRMDZZYzZKdldheU1nN2lzOUxfVUk2Q050RV9wWllweVRFZlItNEE5cGxFMDI0SGtGWEhSZWZRamV6MzBBSl9pUnR4OS0wV0pUcEw3cUxKeDh0WF80eEFtbkVuQ3JiTF9Mbnl6MXBRLXNhdk9YbHdERUx1bXNmT1NNZlJJREpKbzFBVWZzSWw1WUFjSy14VzhBMS0td3M0QkV5Q0d6TGoyZEh6VWQ0eEFESXpzc0J5NzEwbTBuNlppanN0SXR5U3p2bno0NXdN?oc=5\" target=\"_blank\">Q&amp;A: Why China Is Discouraging Its Firms From Buying Nvidia H20 Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-08-14T03:28:00+00:00",
+      "source": "The Wall Street Journal"
+    },
     {
       "title": "China isn't welcoming Nvidia back with open arms after Trump clears way for H20 exports - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOElHT01rbGJMTmdfMXFjVjZvbkFJWE5qQnJRVHB3OUNLNWdzVFNRaHRVcGpZTUxJczJxbFBnUVBuWDRlRUpDM1hGMEdXMHI2djJsbzdHWklaWEcwXzZOM3FiTVdXZWhiVC1meUc0TXRJVXFwWWJGNjIwX0FXRzJpUlpkVUFRbUtxVWdiY3VFcVEzWU1qZU81dXh0azRMa2x6NklZRFl3VWI0cWc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOElHT01rbGJMTmdfMXFjVjZvbkFJWE5qQnJRVHB3OUNLNWdzVFNRaHRVcGpZTUxJczJxbFBnUVBuWDRlRUpDM1hGMEdXMHI2djJsbzdHWklaWEcwXzZOM3FiTVdXZWhiVC1meUc0TXRJVXFwWWJGNjIwX0FXRzJpUlpkVUFRbUtxVWdiY3VFcVEzWU1qZU81dXh0azRMa2x6NklZRFl3VWI0cWc?oc=5\" target=\"_blank\">China isn't welcoming Nvidia back with open arms after Trump clears way for H20 exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1QwSFNQSEhQbzRhTXhsN0w1QUtpRVFLSVhIRE5XQkNBSFRsdWROa0VGNDJpdnJabWNmbV9mTXJFTjFQUy1rM1FBSUhLRkw3R2dndmdyWHU3NnhTYXJBZ3RIaW1OMlhsOWpXUjF2Q1k5TWJFd3d4MlBXc3dodmNIYTVR?oc=5\" target=\"_blank\">Why Trump Flip-Flopped on Nvidia Selling H20 Chips to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdEhnRmdFeU9mRDRwQ01ITU1nTVh0ZmdvcEtqNXA0VXMtOVYwZnRDS05mTllaWm1aYzloZFJ2Uld5OEMwVE5WTEZnX0pIOTZPNjd5cEFoc3FUaW8zWnpGRnBFRXZySVY1ZmVIQ3NMOE4xVjB4TmpLaTgtOThPQ2hQY2FTUHRHVkFLTGEyWXdna1NDU2QzUjJoZmw5UTdWQ1d2bTh3Nmx2WWllUS1VMlpuZ1R6Q0RQZ1llWHFB?oc=5\" target=\"_blank\">China cautions tech firms over Nvidia H20 AI chip purchases, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOElHT01rbGJMTmdfMXFjVjZvbkFJWE5qQnJRVHB3OUNLNWdzVFNRaHRVcGpZTUxJczJxbFBnUVBuWDRlRUpDM1hGMEdXMHI2djJsbzdHWklaWEcwXzZOM3FiTVdXZWhiVC1meUc0TXRJVXFwWWJGNjIwX0FXRzJpUlpkVUFRbUtxVWdiY3VFcVEzWU1qZU81dXh0azRMa2x6NklZRFl3VWI0cWc?oc=5\" target=\"_blank\">China isn't welcoming Nvidia back with open arms after Trump clears way for H20 exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2025-08-15T09:33:25+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "NVIDIA (NVDA) Stock Gets Bullish Call Amid U.S.–China Chip Agreement Reports - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWk84Rl9mLVRMdWJwaHREVUMzSV9TYWZ4QndiQ1UzZTlzQUVUdFZEMXFvQVNhRFp4aDNSanpUNXVybnlxREQ1UUJtTXgzUUt6d3JQaW1fY1NwMEh5aG13RFk2S3ozODNBZkpiSDhlMDNXXzhncUd3a3hoYVBzRE1TVWdB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWk84Rl9mLVRMdWJwaHREVUMzSV9TYWZ4QndiQ1UzZTlzQUVUdFZEMXFvQVNhRFp4aDNSanpUNXVybnlxREQ1UUJtTXgzUUt6d3JQaW1fY1NwMEh5aG13RFk2S3ozODNBZkpiSDhlMDNXXzhncUd3a3hoYVBzRE1TVWdB?oc=5\" target=\"_blank\">NVIDIA (NVDA) Stock Gets Bullish Call Amid U.S.–China Chip Agreement Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-15T23:06:59+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Slips Amid Chip Tariff Talk. Big Funds Are Piling Into the Stock. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43a3FUR21ITTgzSmIwQzBnYzdoUEp1ZHFvTUxsOHRjdmlUQ2txN2QwTEtUaUlNQnFINGdtRkRUNjZrdnZpemdlNVBrN0JYbU5BWldaeVpBbzZJTUpZMmVSOXJ1OXhiamlWUUM3X2p5cWxmTDBqeDg5cQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE43a3FUR21ITTgzSmIwQzBnYzdoUEp1ZHFvTUxsOHRjdmlUQ2txN2QwTEtUaUlNQnFINGdtRkRUNjZrdnZpemdlNVBrN0JYbU5BWldaeVpBbzZJTUpZMmVSOXJ1OXhiamlWUUM3X2p5cWxmTDBqeDg5cQ?oc=5\" target=\"_blank\">Nvidia Slips Amid Chip Tariff Talk. Big Funds Are Piling Into the Stock.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2025-08-15T14:59:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Did Nvidia Make a Mistake by Selling SoundHound AI Stock? The Answer Might Surprise You. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2pOXzdseHR3NmJVY0ZTYTBlQ1JQb2FVOWpzUVFndVU4TENfVUdtMVc2UTRnT0tjeUQ0V3haa3F6MDR4OGJzQ01RUktlQ1dpdWJNdDRnbmMtNFhBcnByVEJXdkN5bldBdFF5bGxJOW8xcWxaWTl3N1YySGhjZWFfUHFZTUVpTTRaSkNBamVuRHdrT0ZTSTlzXw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2pOXzdseHR3NmJVY0ZTYTBlQ1JQb2FVOWpzUVFndVU4TENfVUdtMVc2UTRnT0tjeUQ0V3haa3F6MDR4OGJzQ01RUktlQ1dpdWJNdDRnbmMtNFhBcnByVEJXdkN5bldBdFF5bGxJOW8xcWxaWTl3N1YySGhjZWFfUHFZTUVpTTRaSkNBamVuRHdrT0ZTSTlzXw?oc=5\" target=\"_blank\">Did Nvidia Make a Mistake by Selling SoundHound AI Stock? The Answer Might Surprise You.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2025-08-16T08:24:00+00:00",
-      "source": "The Motley Fool"
     },
     {
       "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs—combined - Fortune",
@@ -47,18 +33,32 @@
       "source": "The Washington Post"
     },
     {
-      "title": "Trump Is Letting Nvidia Sell Chips to China. Under One Condition. - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGg4UGxfdS1TcnlLT21TdGRnQ3lldEh2c3gxaG1HSnlHcUEtYm9mSDVsLVlWNk9qQ2MxY21wakgyWHpXSndRRllLMGxwSEVRSDZXeWh1d2UzOUxJeVk0d3pQd2FNd3BHOTJjdEVMUzV0OFc3d1JmazktYnlMNS11bGFmZEhGZ3ZQTC1FMll3OG96dmtKYWlhcUhFVHJfdURuT0x5NFltOFVxYXVWMkRGSWRHa1BqbWl6ZFJTalk4azd6T0FNZi1IcA?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGg4UGxfdS1TcnlLT21TdGRnQ3lldEh2c3gxaG1HSnlHcUEtYm9mSDVsLVlWNk9qQ2MxY21wakgyWHpXSndRRllLMGxwSEVRSDZXeWh1d2UzOUxJeVk0d3pQd2FNd3BHOTJjdEVMUzV0OFc3d1JmazktYnlMNS11bGFmZEhGZ3ZQTC1FMll3OG96dmtKYWlhcUhFVHJfdURuT0x5NFltOFVxYXVWMkRGSWRHa1BqbWl6ZFJTalk4azd6T0FNZi1IcA?oc=5\" target=\"_blank\">Trump Is Letting Nvidia Sell Chips to China. Under One Condition.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHRvY2UxSlBTYXFhRG9kZDM3a183WlhfUzI4aHBFX0tEY0h5a1pDNlBFTDZzN0h0bWNtbUlqLVBDYW9sQ0dvSGFuUzZMUUszNkloT3c0X0VlbDMwNzdYenNtOWFFMENkLWhmNzdNUnVmWWtfZzVvOGxEVHBTcU43NjVhb1Bnc0lUSEd2VVY2dHFqMmtKeFZRWmw3YnI0UzBFb3ZBNHJ2b3d0b0NPcjNGMVhSVlVhREdHWTk1SzNqMHItVGtBNjlEcEptOFo?oc=5\" target=\"_blank\">There’s a small problem with Trump’s export deal with Nvidia and AMD: The Constitution says it’s illegal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwNBVV95cUxOS1dEX2h6YkVsNHpLX1hzdmIxbWctQWRmZHZzclBpallHWjJCLXd2OU5iakd5Mi1qZ09ZeDA3a2h4WTNaRllEQUdLd09ldlVXZ3luczNnRUtMSUVaQUU0MUZ4OGtFQmV0em5yZDdJeWFnZ2U0dWVzcm5rUTFYRVV1c0tSV1l4UUdaeXlsYllQWXVEMjdmZXBVaGtmMnRIemlaU1pLakVzMGw0MExrVnZQUnBCN1cwVTlRbHJQQ0RIR09ZT0YtM3JhY0xCSnJ6eDZFZ0VnVElQQVg1WXhzb21CYmhhRUE4V0R2UXZNZF9lY3ZSZWdiSjV1RDg3VlRhTEZUX2l1MTE4S2l2bnNORWtzbWJPVEFYa1p6TFpXVk9LakNOUEgzMjBxeDR5MVBrcFgyTk5UUFk4bG4xS09aSG9RaDdBVjVEYlVDM1dLQWRhbC1KZU5tckpJWmJCdDBMbjlPaEpyWE1Yb01NZzZ2U1M5NlFwZlF1c3BTVG1FbzJORmxHSHZOS0xsTzBvcUlBd3JVVUplQ2lRbmxndXlIM3p3?oc=5\" target=\"_blank\">Opinion | Trump Takes a Wrong Turn on Nvidia’s Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li></ol>",
-      "published": "2025-08-14T21:30:08+00:00",
-      "source": "Bloomberg.com"
+      "title": "5 big analyst AI moves: Nvidia price target raised; Adobe, Cisco downgraded - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamN6RFUtUDVaOFNHa1N6QUNYWmpDY0NQU0thQlNmbkpGSWtwaklGcnVDVGVXclY4dkNxSnhieE14R3Z1bVpnOVpYaUx3V3pFZXhjeXFvQ01XWWVTODhmNlUxRmRyY0J0RGhTM1NDbzZlV2NuWk5JRW9FMGpLV3Y3NDZmdjN4ZDZpVVhaX1ljcUFHQmFTakx0cFFaSTY2WEU1LXA1WV9zTExsVjNPLWtSd0FZRnJpOXBDZVBacG5nd1Job1B1eDhfVA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamN6RFUtUDVaOFNHa1N6QUNYWmpDY0NQU0thQlNmbkpGSWtwaklGcnVDVGVXclY4dkNxSnhieE14R3Z1bVpnOVpYaUx3V3pFZXhjeXFvQ01XWWVTODhmNlUxRmRyY0J0RGhTM1NDbzZlV2NuWk5JRW9FMGpLV3Y3NDZmdjN4ZDZpVVhaX1ljcUFHQmFTakx0cFFaSTY2WEU1LXA1WV9zTExsVjNPLWtSd0FZRnJpOXBDZVBacG5nd1Job1B1eDhfVA?oc=5\" target=\"_blank\">5 big analyst AI moves: Nvidia price target raised; Adobe, Cisco downgraded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2025-08-17T09:01:07+00:00",
+      "source": "Investing.com"
     },
     {
-      "title": "NSF and NVIDIA partnership enables Ai2 to develop fully open AI models to fuel U.S. scientific innovation - NSF - National Science Foundation (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTZQZDlRcVpHR0FJQVBWeWxIRXNjdnVwVGhzM0I4MzlsV1UtTXBVdVpSOXhiSzFnMWxLMTdndWVqS29ISFNNaTFuU0lEaTM3OXpEdWZuMjJ6N3djSGs3SXNZWTJHdlF5eUxobW50Tm5pdUxMY0hvdmpQck9oNjJYbkgzV2ZiWkhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTZQZDlRcVpHR0FJQVBWeWxIRXNjdnVwVGhzM0I4MzlsV1UtTXBVdVpSOXhiSzFnMWxLMTdndWVqS29ISFNNaTFuU0lEaTM3OXpEdWZuMjJ6N3djSGs3SXNZWTJHdlF5eUxobW50Tm5pdUxMY0hvdmpQck9oNjJYbkgzV2ZiWkhR?oc=5\" target=\"_blank\">NSF and NVIDIA partnership enables Ai2 to develop fully open AI models to fuel U.S. scientific innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NSF - National Science Foundation (.gov)</font>",
-      "published": "2025-08-14T12:07:12+00:00",
-      "source": "NSF - National Science Foundation (.gov)"
+      "title": "Nvidia Slips Amid Chip Tariff Talk. Big Funds Are Piling Into the Stock. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43a3FUR21ITTgzSmIwQzBnYzdoUEp1ZHFvTUxsOHRjdmlUQ2txN2QwTEtUaUlNQnFINGdtRkRUNjZrdnZpemdlNVBrN0JYbU5BWldaeVpBbzZJTUpZMmVSOXJ1OXhiamlWUUM3X2p5cWxmTDBqeDg5cQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE43a3FUR21ITTgzSmIwQzBnYzdoUEp1ZHFvTUxsOHRjdmlUQ2txN2QwTEtUaUlNQnFINGdtRkRUNjZrdnZpemdlNVBrN0JYbU5BWldaeVpBbzZJTUpZMmVSOXJ1OXhiamlWUUM3X2p5cWxmTDBqeDg5cQ?oc=5\" target=\"_blank\">Nvidia Slips Amid Chip Tariff Talk. Big Funds Are Piling Into the Stock.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2025-08-15T14:59:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWtpSkZFV3o1MklSajlWeVduUm1jdVdIZ3Z3SWg1b19NT3B5VWZqRUplZjRiSGlOMHkyb1pDTTJwQUluc1lOdTNmdV9UQmNSNlRUdG9EdF9nZWZ1UXY1UmlmcjNzUFJtVGI0TnNHdEhGTWxiT3lVX19rYUlrUEN0X2ZGMjVOSGpqN1RMT29uSEU?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWtpSkZFV3o1MklSajlWeVduUm1jdVdIZ3Z3SWg1b19NT3B5VWZqRUplZjRiSGlOMHkyb1pDTTJwQUluc1lOdTNmdV9UQmNSNlRUdG9EdF9nZWZ1UXY1UmlmcjNzUFJtVGI0TnNHdEhGTWxiT3lVX19rYUlrUEN0X2ZGMjVOSGpqN1RMT29uSEU?oc=5\" target=\"_blank\">U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbDFHdy1NUnN0Mk5hTXhUV1JhQVp6YmNpbHZyZmdfUEUzTEg2ZURJN1gyZ1U5M2pXV3gtYVh5RVFXbkdlazhTbHE4MzlhT3d6cDBqN3gtY0lfNmhERWJUeDl3c0dsSmdvVy1jYk1qRmpPajNnMlhWVk1UbFJJTEVvMlE3dTFGRFVueFVIRkNvUVRfS3dJTFJ0WEQ1ZDloUdIBowFBVV95cUxQS1ByUTdvVXFhU1ZITmJ1dGNLUTJtOXpzRDktYUhSLTdVcmRlS0lPdDA5Q3ZMWldOYWZMZURDR3NiOFVUMUtudy1QZkhQN1U3cFVGUjNJQVFFaERyX2hIblZidkI3MmhsM0NlZkQxS1pRcG9hM3dmVXJpX00zZ3FocGFnOEltQTFmYmcwTXBYM0tfUHZDdjlDa3hDWEQwc0FMUDdB?oc=5\" target=\"_blank\">White House says it's working out legality of Nvidia and AMD China chip deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPaHRvY2UxSlBTYXFhRG9kZDM3a183WlhfUzI4aHBFX0tEY0h5a1pDNlBFTDZzN0h0bWNtbUlqLVBDYW9sQ0dvSGFuUzZMUUszNkloT3c0X0VlbDMwNzdYenNtOWFFMENkLWhmNzdNUnVmWWtfZzVvOGxEVHBTcU43NjVhb1Bnc0lUSEd2VVY2dHFqMmtKeFZRWmw3YnI0UzBFb3ZBNHJ2b3d0b0NPcjNGMVhSVlVhREdHWTk1SzNqMHItVGtBNjlEcEptOFo?oc=5\" target=\"_blank\">There’s a small problem with Trump’s export deal with Nvidia and AMD: The Constitution says it’s illegal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li></ol>",
+      "published": "2025-08-10T23:54:54+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Better Technology Stock: Nvidia vs. Palantir - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemx5Z3hEYThXWnZjMmtOQ0JoUmNQa3czOW9rVHQ3RzR0NC1YbENCNzAwekRzQlo4Z1BsLTRPaG80NEhzZ0J4bUJmNnNsSk5IYUloR1lSb1A3b3otYjdYVkI0aUFBSTdhMFZpRk03c1V3MEI2d1JIZzhnbmdOb3BxSjVGMFViOVltZGgxdHFB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPemx5Z3hEYThXWnZjMmtOQ0JoUmNQa3czOW9rVHQ3RzR0NC1YbENCNzAwekRzQlo4Z1BsLTRPaG80NEhzZ0J4bUJmNnNsSk5IYUloR1lSb1A3b3otYjdYVkI0aUFBSTdhMFZpRk03c1V3MEI2d1JIZzhnbmdOb3BxSjVGMFViOVltZGgxdHFB?oc=5\" target=\"_blank\">Better Technology Stock: Nvidia vs. Palantir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2025-08-17T05:00:00+00:00",
+      "source": "The Motley Fool"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "NVIDIA Newsroom"
     },
     {
+      "title": "NVIDIA launches professional graphics cards with \"Ada Lovelace\" display architecture for more workstation models - Mashdigi",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd09MNlkwS2tQc3B0R0tISjd5anI3SE5NbWpDUmdYU3U2UkNyaUJDcC1KZnZGMWJ0cmlVU3ZVRmtwb3NkSzI3QTZReUR4akF0RDhlR0ZKZFBaOU0xSmwya2xkLXN6OHdCZkowVUpvYkpPd3lyTlhXOEkxQ1A4OWZxc1MyNmh5aExVN3JCNDZkY1FXU3JfREZsQXY3V2pJc1F1aGFEeFNWVm5kUkMwRE4xWEhUYngyVU5PdTBqYUpicTEzY0lLaFRpZURua01GdjdkMVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd09MNlkwS2tQc3B0R0tISjd5anI3SE5NbWpDUmdYU3U2UkNyaUJDcC1KZnZGMWJ0cmlVU3ZVRmtwb3NkSzI3QTZReUR4akF0RDhlR0ZKZFBaOU0xSmwya2xkLXN6OHdCZkowVUpvYkpPd3lyTlhXOEkxQ1A4OWZxc1MyNmh5aExVN3JCNDZkY1FXU3JfREZsQXY3V2pJc1F1aGFEeFNWVm5kUkMwRE4xWEhUYngyVU5PdTBqYUpicTEzY0lLaFRpZURua01GdjdkMVE?oc=5\" target=\"_blank\">NVIDIA launches professional graphics cards with \"Ada Lovelace\" display architecture for more workstation models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashdigi</font>",
+      "published": "2025-08-16T22:28:32+00:00",
+      "source": "Mashdigi"
+    },
+    {
       "title": "NVIDIA to launch Ruby AI architecture on schedule in 2026 - igor´sLAB",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXEtS1Z2SjRVdWExVW9EeHgycUVRbDA0UTdxOXBuRFB6N2g0Q29sWk4zdXk5S083U1pCbGpuWHktM29aaTNESDdCdk5wNDVUQkk3ZnJRRDdJR0w5Q0NwdWJTUXNJWFFZNFNLbmpCUnZyQUF0QURVZXhXT25OcmFRdGwzZ19kM2NVZDQw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXEtS1Z2SjRVdWExVW9EeHgycUVRbDA0UTdxOXBuRFB6N2g0Q29sWk4zdXk5S083U1pCbGpuWHktM29aaTNESDdCdk5wNDVUQkk3ZnJRRDdJR0w5Q0NwdWJTUXNJWFFZNFNLbmpCUnZyQUF0QURVZXhXT25OcmFRdGwzZ19kM2NVZDQw?oc=5\" target=\"_blank\">NVIDIA to launch Ruby AI architecture on schedule in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
       "published": "2025-08-15T04:00:00+00:00",
       "source": "igor´sLAB"
-    },
-    {
-      "title": "NVIDIA Launches Advanced Omniverse Libraries and Cosmos Models to Enhance Robotics Development and Simulation Capabilities - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU1dWNjVPS1NGaGpsMzJfSklEZzFqdzk1SmpOVWhuRHR6dUZPVEVYN2k5RkJDZEJzZ01ZT3B0RUVmdW1MaFRhbXFFZUFnOUxsdFhhNlJNTWs4NXA5d1Zja25tM2lqRktJWkU0eS1fdHJrd1VkcjBMRGRiODdBcHBuSzJXZGVuaVZwNVBRZ1Bjdk10Wnh1dzBtU0JyZGQwZXpkT3hHSUR1Z0VqeGg5UW1XRGRKT3RYakI2OXdVbUgzcVl2YUtZVWxxaFg2aTRkaXNPQmRhLUFjVDVxcVVvQVZfbTZrODBMd3IzV2Mw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU1dWNjVPS1NGaGpsMzJfSklEZzFqdzk1SmpOVWhuRHR6dUZPVEVYN2k5RkJDZEJzZ01ZT3B0RUVmdW1MaFRhbXFFZUFnOUxsdFhhNlJNTWs4NXA5d1Zja25tM2lqRktJWkU0eS1fdHJrd1VkcjBMRGRiODdBcHBuSzJXZGVuaVZwNVBRZ1Bjdk10Wnh1dzBtU0JyZGQwZXpkT3hHSUR1Z0VqeGg5UW1XRGRKT3RYakI2OXdVbUgzcVl2YUtZVWxxaFg2aTRkaXNPQmRhLUFjVDVxcVVvQVZfbTZrODBMd3IzV2Mw?oc=5\" target=\"_blank\">NVIDIA Launches Advanced Omniverse Libraries and Cosmos Models to Enhance Robotics Development and Simulation Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "published": "2025-08-11T15:12:00+00:00",
-      "source": "Quiver Quantitative"
     },
     {
       "title": "Nvidia Totally Blew The 50 Series GPU Launch - Medium",
