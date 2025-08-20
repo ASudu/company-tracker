@@ -2,73 +2,66 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-08-19T12:22:25.208611+00:00",
+  "fetched_at": "2025-08-20T12:22:17.920572+00:00",
   "news": [
+    {
+      "title": "Microsoft workers occupy HQ in protest against company’s ties to Israeli military - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUi1KS3lRRVBqMzhpNnpiWHQta1JVUnlQY3pUbV8xN2VhUFhtMjNoWUhOSEhtTHBGbU13MWdRaXhjOEk5bEFJdDNFOERwVk1vNnVvU0JQZnZpOGQ4WnpzTE91Yk9DYW52aXU3SjdPTWdIOWtaVVVPRFkyMGJUS1RrMWUyQ2dFdVFyZ0RyNy1ONXBsSVJKMVRBS1NB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUi1KS3lRRVBqMzhpNnpiWHQta1JVUnlQY3pUbV8xN2VhUFhtMjNoWUhOSEhtTHBGbU13MWdRaXhjOEk5bEFJdDNFOERwVk1vNnVvU0JQZnZpOGQ4WnpzTE91Yk9DYW52aXU3SjdPTWdIOWtaVVVPRFkyMGJUS1RrMWUyQ2dFdVFyZ0RyNy1ONXBsSVJKMVRBS1NB?oc=5\" target=\"_blank\">Microsoft workers occupy HQ in protest against company’s ties to Israeli military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2025-08-20T02:03:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Microsoft Workers Protesting Israel Ties Say They’ve Occupied HQ - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFZGWFV5a0NZZU1BZUl3LVdadnY4MERpTXRicWpTYTNMaWVRSnp4TWxrVXM2d1hybkxyZTd3UjM2RjVZdGlJQ2dCR0pOMklYMkZwcEZWQVJFQldqNS0zdnp5b1VfblpSTWFmVjBOMFZDY0dZbU9INmg3bG9ISXR4clRVMVJPVlRLc3VxR203RlBGeUYzX2RyMXRpZGpyYUpZMFN6NGMzTDVId1Njc2xMWnBtSXh3QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFZGWFV5a0NZZU1BZUl3LVdadnY4MERpTXRicWpTYTNMaWVRSnp4TWxrVXM2d1hybkxyZTd3UjM2RjVZdGlJQ2dCR0pOMklYMkZwcEZWQVJFQldqNS0zdnp5b1VfblpSTWFmVjBOMFZDY0dZbU9INmg3bG9ISXR4clRVMVJPVlRLc3VxR203RlBGeUYzX2RyMXRpZGpyYUpZMFN6NGMzTDVId1Njc2xMWnBtSXh3QQ?oc=5\" target=\"_blank\">Microsoft Workers Protesting Israel Ties Say They’ve Occupied HQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-08-19T20:45:24+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Microsoft launches formal review into Gaza surveillance claims - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnRZWmQ0Z1NhTFZrVjhfWEliZFFueWpGbnp4MDhZUGpBN21UQTlXY0I5WGlINUJ4YzhybVRIZ3daZ1BEbDZnaUp3dXQ2UGVnX2p2cEo1SWx1ZHRvVll3ZnNRSkV3R252VkJBN3hWZUh3ckdCLTJCc3J4UzV3bzkySnBuRXJMSXctRS1aXzhsOVFSeEstbU9pak54elp1SDlBREZN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnRZWmQ0Z1NhTFZrVjhfWEliZFFueWpGbnp4MDhZUGpBN21UQTlXY0I5WGlINUJ4YzhybVRIZ3daZ1BEbDZnaUp3dXQ2UGVnX2p2cEo1SWx1ZHRvVll3ZnNRSkV3R252VkJBN3hWZUh3ckdCLTJCc3J4UzV3bzkySnBuRXJMSXctRS1aXzhsOVFSeEstbU9pak54elp1SDlBREZN?oc=5\" target=\"_blank\">Microsoft launches formal review into Gaza surveillance claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+      "published": "2025-08-19T13:00:00+00:00",
+      "source": "The Seattle Times"
+    },
+    {
+      "title": "Microsoft Failed to Disclose Key Details About Use of China-Based Engineers in U.S. Defense Work, Record Shows - ProPublica",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY3NySE9ORWxoS00zSjZuQzNhWGdHTXZlOWxsLTM3eG5ScWI1TjQ3cXkzZzZMR1RoRDYzUEIxV09iLWRtOVpQM2lTMzhqdmlrYnZrbjVqTGNUZkJPektvaHFTWU5IMnU0bXA5OUhOMG4yN1J5WXdYVTFtOVZ0RDJGbUd4MmxPaW83ZFgtbDJ0SllWLUZnNUlfODJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPY3NySE9ORWxoS00zSjZuQzNhWGdHTXZlOWxsLTM3eG5ScWI1TjQ3cXkzZzZMR1RoRDYzUEIxV09iLWRtOVpQM2lTMzhqdmlrYnZrbjVqTGNUZkJPektvaHFTWU5IMnU0bXA5OUhOMG4yN1J5WXdYVTFtOVZ0RDJGbUd4MmxPaW83ZFgtbDJ0SllWLUZnNUlfODJR?oc=5\" target=\"_blank\">Microsoft Failed to Disclose Key Details About Use of China-Based Engineers in U.S. Defense Work, Record Shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPublica</font>",
+      "published": "2025-08-20T09:00:00+00:00",
+      "source": "ProPublica"
+    },
+    {
+      "title": "Get up to 83% off lifetime licenses for Acrobat Classic and Microsoft Office Professional - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHJsM1hlT0FYZXp2bTJWMTN1VEhUTERrQXlpcDZmMmpsSUlBZGJjZTd5OUtTai0yUVhGZ3NvUlFaNXBYbVpQcXBYVlhDNUJNdVNIZFFxMFZ5ZjNPb0dBejI3N3BHWEVVMnBoMjduWmVVdXZRSWRYSzNlQk9MblpGeHplcUVXMjJOUWN2Y0tBN29Ka0hzdndoWXQwY2JrcFQ3cVdMMXFOdGFLTWoyZXFhQTlR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHJsM1hlT0FYZXp2bTJWMTN1VEhUTERrQXlpcDZmMmpsSUlBZGJjZTd5OUtTai0yUVhGZ3NvUlFaNXBYbVpQcXBYVlhDNUJNdVNIZFFxMFZ5ZjNPb0dBejI3N3BHWEVVMnBoMjduWmVVdXZRSWRYSzNlQk9MblpGeHplcUVXMjJOUWN2Y0tBN29Ka0hzdndoWXQwY2JrcFQ3cVdMMXFOdGFLTWoyZXFhQTlR?oc=5\" target=\"_blank\">Get up to 83% off lifetime licenses for Acrobat Classic and Microsoft Office Professional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "published": "2025-08-19T15:26:27+00:00",
+      "source": "Fox News"
+    },
+    {
+      "title": "Microsoft Confirms Emergency Windows Update—Your PC ‘Might Fail’ - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTi1GV1prNTZLNHhwWjBuTlVIX2QxcnoxR0RuMDFGbkMzdmpuaWVvSktSRXpjOGVJbjEwUy03RUxsVXpVdmhITEdKLWczbld2OGVmSzU2MWNORmJjSjRVS2hSakVYNTgtcUNCV2lLTlNLb3gzeXpMdXk1ckdHQWlYTFNVWDVDb3RkSnliQ3ptVVFTWGpOMVAyb3FkYmVqaHhiZFRmT2NYc2ZBYnVwQ1FBUGd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTi1GV1prNTZLNHhwWjBuTlVIX2QxcnoxR0RuMDFGbkMzdmpuaWVvSktSRXpjOGVJbjEwUy03RUxsVXpVdmhITEdKLWczbld2OGVmSzU2MWNORmJjSjRVS2hSakVYNTgtcUNCV2lLTlNLb3gzeXpMdXk1ckdHQWlYTFNVWDVDb3RkSnliQ3ptVVFTWGpOMVAyb3FkYmVqaHhiZFRmT2NYc2ZBYnVwQ1FBUGd3?oc=5\" target=\"_blank\">Microsoft Confirms Emergency Windows Update—Your PC ‘Might Fail’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2025-08-20T10:27:00+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft: August security updates break Windows recovery, reset - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUG9pRDhwY2JVMHdIOVBnOS1ESlNSb2JyWFhhanNMSjI3blE1dEFoblRsZWVpSXI0SnBIZmFyMlFCLXFqaE5uTEhpLVNfdTlyNjg4dlU0TVdabDNDNEJ6VFAtSzJyMnNPLU01U1l4c013WFc0RXYyQUZTaXpHX3pUM2Y3bXZaeEpzX3NvNFdITVYzbE1IbGxGcVQyQkxvTjE3SllzX1ozLW9JOVNyaTBzZtIBtgFBVV95cUxOOHB1WHhzTGhraWtGR195UUdNNWhqemszNTVaYTBRdEJLakhlWG5Ld2w4MklEc2VoNG9ETWZWbnRIZmxRNzlzZkNJRzdwR0haYmFsUFFJbkZfU3JLeGNnLVpsVllmM2dOR05jTE55cGNMT2JMaFdyMkdycjNqNG85ZU04ZVBzck5pdEtiWnVlYXFIY09QeElzaHBFX0VhcUhYMGQzQzR0QlRfbU52MGdxcnVTcGttUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUG9pRDhwY2JVMHdIOVBnOS1ESlNSb2JyWFhhanNMSjI3blE1dEFoblRsZWVpSXI0SnBIZmFyMlFCLXFqaE5uTEhpLVNfdTlyNjg4dlU0TVdabDNDNEJ6VFAtSzJyMnNPLU01U1l4c013WFc0RXYyQUZTaXpHX3pUM2Y3bXZaeEpzX3NvNFdITVYzbE1IbGxGcVQyQkxvTjE3SllzX1ozLW9JOVNyaTBzZtIBtgFBVV95cUxOOHB1WHhzTGhraWtGR195UUdNNWhqemszNTVaYTBRdEJLakhlWG5Ld2w4MklEc2VoNG9ETWZWbnRIZmxRNzlzZkNJRzdwR0haYmFsUFFJbkZfU3JLeGNnLVpsVllmM2dOR05jTE55cGNMT2JMaFdyMkdycjNqNG85ZU04ZVBzck5pdEtiWnVlYXFIY09QeElzaHBFX0VhcUhYMGQzQzR0QlRfbU52MGdxcnVTcGttUQ?oc=5\" target=\"_blank\">Microsoft: August security updates break Windows recovery, reset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-08-19T13:39:30+00:00",
+      "source": "BleepingComputer"
+    },
     {
       "title": "Microsoft Windows 11 24H2 Update May Cause SSD Failures - TechPowerUp",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXQ1anlkeVJSbmM0SUNmVzBNTFJHVUVzZTd1SnF2R1VvVDlRVEtSVEFGU3FhakVZa3ppU3ZSVmUzNy1UYTAyR3kyVXNLVm1MUTZrQ3lIWnMyTGkyaVpKUDlTQlVJWGpRRnJCWTBwSlBTdk5UNS1lQ3M0RmpqV2NDcHVTbWpjcm5jZlYxOHZlYmNVbnJK0gGaAUFVX3lxTFA4SkppelR5N2g2NlRra2UyRXItUXNmWUdJRGFKZzF2VUdKeXZEQXRnN2VzSGJPNVFYQ09mYzdLRVRsZmRIMkdMeW5idmNzZktEVjVuQUZsZWtVY3RpQXd0UVlKTkdTbWM4VnMyU1BQMHBjZkNxX0Q1RVFsNDljbXJsVDFDRTVtb3BJNmJxdnlSekU3SmI2clBRcEE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXQ1anlkeVJSbmM0SUNmVzBNTFJHVUVzZTd1SnF2R1VvVDlRVEtSVEFGU3FhakVZa3ppU3ZSVmUzNy1UYTAyR3kyVXNLVm1MUTZrQ3lIWnMyTGkyaVpKUDlTQlVJWGpRRnJCWTBwSlBTdk5UNS1lQ3M0RmpqV2NDcHVTbWpjcm5jZlYxOHZlYmNVbnJK0gGaAUFVX3lxTFA4SkppelR5N2g2NlRra2UyRXItUXNmWUdJRGFKZzF2VUdKeXZEQXRnN2VzSGJPNVFYQ09mYzdLRVRsZmRIMkdMeW5idmNzZktEVjVuQUZsZWtVY3RpQXd0UVlKTkdTbWM4VnMyU1BQMHBjZkNxX0Q1RVFsNDljbXJsVDFDRTVtb3BJNmJxdnlSekU3SmI2clBRcEE?oc=5\" target=\"_blank\">Microsoft Windows 11 24H2 Update May Cause SSD Failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
       "published": "2025-08-18T14:33:05+00:00",
       "source": "TechPowerUp"
-    },
-    {
-      "title": "Microsoft Windows Warning—Do Not Save These Files On Your PC - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDhwY09GT0dHZEExWEFVS2Z6aHI1RWVudWFacXYyYk1jWTQ0U3pBUGZRblJRNzVYLWJkMmtQWFMzbjNBRzZpbFpWYjdnTlhWWndndmhJYjFvUkFZYnc2dUhJeDRzYWFfT0VkZ0U0MEtuQkV5YUZvQXg0LW5vd3VpRm9hVjhJMUFVWVJLOGNxbGo2ZU1YZWhGNGxaQmhaWmcyUjhTLTA0WThoZWsxMGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDhwY09GT0dHZEExWEFVS2Z6aHI1RWVudWFacXYyYk1jWTQ0U3pBUGZRblJRNzVYLWJkMmtQWFMzbjNBRzZpbFpWYjdnTlhWWndndmhJYjFvUkFZYnc2dUhJeDRzYWFfT0VkZ0U0MEtuQkV5YUZvQXg0LW5vd3VpRm9hVjhJMUFVWVJLOGNxbGo2ZU1YZWhGNGxaQmhaWmcyUjhTLTA0WThoZWsxMGc?oc=5\" target=\"_blank\">Microsoft Windows Warning—Do Not Save These Files On Your PC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-08-17T22:12:19+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Microsoft breaks Windows reset and recovery - theregister.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FamdlZ2ZBOERtaFpJb2Q0cW4zdjk0YURkWWh4eUMzVHJJWE1ZTlJJZUFpTno4WGEtT1pheEhNZlFYYkhibWV1aDl0S3E3UXJtWmczRWFESm5XbjVMQ095VDhLRzdNLVRLd1NmS29WWUoxVzV4SUE2Tw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5FamdlZ2ZBOERtaFpJb2Q0cW4zdjk0YURkWWh4eUMzVHJJWE1ZTlJJZUFpTno4WGEtT1pheEhNZlFYYkhibWV1aDl0S3E3UXJtWmczRWFESm5XbjVMQ095VDhLRzdNLVRLd1NmS29WWUoxVzV4SUE2Tw?oc=5\" target=\"_blank\">Microsoft breaks Windows reset and recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
-      "published": "2025-08-19T11:28:00+00:00",
-      "source": "theregister.com"
-    },
-    {
-      "title": "No escape from AI now - Microsoft is shoving Copilot into every Excel cell - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVNSX0VUN1RKenNoaExwNUxlWFhOcEk4ZWhTQ2dxTnNUZXdHRTNmTktNbGNGUXFlb3JUem5VR3VjYmtHUnRHMW9oZHNGUW5OSmtIWTlBdWRfRzhMZlNQeHRTWXhncExRbTI3TXBuZVZIYnhOR0xUZmFDYXdoT01nS0FNRC1hblFOQXlFSThsX2l1aUdKRFZ5aGNvQ01ZY0dWV1luLQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVNSX0VUN1RKenNoaExwNUxlWFhOcEk4ZWhTQ2dxTnNUZXdHRTNmTktNbGNGUXFlb3JUem5VR3VjYmtHUnRHMW9oZHNGUW5OSmtIWTlBdWRfRzhMZlNQeHRTWXhncExRbTI3TXBuZVZIYnhOR0xUZmFDYXdoT01nS0FNRC1hblFOQXlFSThsX2l1aUdKRFZ5aGNvQ01ZY0dWV1luLQ?oc=5\" target=\"_blank\">No escape from AI now - Microsoft is shoving Copilot into every Excel cell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
-      "published": "2025-08-19T10:27:00+00:00",
-      "source": "TechRadar"
-    },
-    {
-      "title": "Microsoft (MSFT) Maintains Cloud Growth Momentum, Stifel Keeps Buy Rating - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUm9FZ2pkRnAxYms1a1VMNUNYTVloVll1cXY1eElySGZweEFhczlJejA1U3NQVE5XbFZsZTRwZVMwb1hHZFVESFAxVFVKY1BvZS1sMnJHVGlLbmJianB4WVN0VHVFWVJnNHR1YkMtdHZJUUI5ZmszYW54ZUtVakE2YUhSbXRvN1owOTNZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUm9FZ2pkRnAxYms1a1VMNUNYTVloVll1cXY1eElySGZweEFhczlJejA1U3NQVE5XbFZsZTRwZVMwb1hHZFVESFAxVFVKY1BvZS1sMnJHVGlLbmJianB4WVN0VHVFWVJnNHR1YkMtdHZJUUI5ZmszYW54ZUtVakE2YUhSbXRvN1owOTNZ?oc=5\" target=\"_blank\">Microsoft (MSFT) Maintains Cloud Growth Momentum, Stifel Keeps Buy Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-18T03:59:50+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Stanley Druckenmiller ramps up health-care stock exposure, gets back into Microsoft - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT25TR3BOQXRVZlkyLVE3cjBMWTZZcWZTU0dtbGRrTjdUY19qRzhsRndIODdDV09GVGFScWRpeWQzX014Q0ZQMnZDNXBUY3JtcjRMV2FLa1pUNlhRUzV3cVpMa1FnMnA2NzlvdmgwZjdaMkxsbFVGYjN3Qkg5VUl3aGtmZnVuem1WdFE2RG84ZGVQajRJeWtVYkVWT2tfakxIaXFETW1kazdGanFNTjk5d0pxNUFRN3NPc21N?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT25TR3BOQXRVZlkyLVE3cjBMWTZZcWZTU0dtbGRrTjdUY19qRzhsRndIODdDV09GVGFScWRpeWQzX014Q0ZQMnZDNXBUY3JtcjRMV2FLa1pUNlhRUzV3cVpMa1FnMnA2NzlvdmgwZjdaMkxsbFVGYjN3Qkg5VUl3aGtmZnVuem1WdFE2RG84ZGVQajRJeWtVYkVWT2tfakxIaXFETW1kazdGanFNTjk5d0pxNUFRN3NPc21N?oc=5\" target=\"_blank\">Stanley Druckenmiller ramps up health-care stock exposure, gets back into Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-08-18T18:01:31+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft's new return to office plan: Three-day office attendance or employees can… - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdWZQZ0xsNHNRamVnYklzSHhjU3ZBaUJTYW5tX2ZnRTF1UDlMNnNMUFoxcDFiMUQ0WGtuSG8zRUxGZVRXMkkzMnFQWmE0NXc0U05SNHRlWnh3S0hZbkwtaWFHTm9CQkZoVWtaVHNqLXVPM3Ryc2h5NjZWSGNGQVhZaGowSmFOZFBvMzEwUl9uc1pWMVl6cG40dUJOV01lbHVPcllmQ1A1NExzOUI5MlFfQmZCa2tiQ1V3NHhrN2NPOGoxV2l0VVZ3MUEwWVFldVR6YUtTVUp5dExFTi1sbjdjR29JdXZBYzN5ZnZ5UVF3eGg1ZmlLOFJj0gH8AUFVX3lxTE56VXZLR2hVQllQbFBlSVE0R2pBSnFmSURsOXUtTkxIZ1J6Wjc0aFMybmRkMTlzeXJmQmNUbU5rZ01xcnR6cHY5Z3QtQWZ5aHVGY0h2YVEwdU5qbWxSTTdLY09NRmR1ckdxc0lSN2ZMajN2NjREN2hYRkY4NzRZMlNUX1U3X0RDS0c4ME5kYjBFcVVlb1V5ZkNCbWVKNm9aUFZ4U0I4bmdWWF9wa2xzSFVzTWgxanRnRGd4MVo1bVNTYV9iRzdiY0pGQm13Wm1zcDlCb0M0Q0Jqbk9WNm5aUHVZVTlRNkE3eEdXb3Z4QmR2M1h5ajVYV0pncGlENw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdWZQZ0xsNHNRamVnYklzSHhjU3ZBaUJTYW5tX2ZnRTF1UDlMNnNMUFoxcDFiMUQ0WGtuSG8zRUxGZVRXMkkzMnFQWmE0NXc0U05SNHRlWnh3S0hZbkwtaWFHTm9CQkZoVWtaVHNqLXVPM3Ryc2h5NjZWSGNGQVhZaGowSmFOZFBvMzEwUl9uc1pWMVl6cG40dUJOV01lbHVPcllmQ1A1NExzOUI5MlFfQmZCa2tiQ1V3NHhrN2NPOGoxV2l0VVZ3MUEwWVFldVR6YUtTVUp5dExFTi1sbjdjR29JdXZBYzN5ZnZ5UVF3eGg1ZmlLOFJj0gH8AUFVX3lxTE56VXZLR2hVQllQbFBlSVE0R2pBSnFmSURsOXUtTkxIZ1J6Wjc0aFMybmRkMTlzeXJmQmNUbU5rZ01xcnR6cHY5Z3QtQWZ5aHVGY0h2YVEwdU5qbWxSTTdLY09NRmR1ckdxc0lSN2ZMajN2NjREN2hYRkY4NzRZMlNUX1U3X0RDS0c4ME5kYjBFcVVlb1V5ZkNCbWVKNm9aUFZ4U0I4bmdWWF9wa2xzSFVzTWgxanRnRGd4MVo1bVNTYV9iRzdiY0pGQm13Wm1zcDlCb0M0Q0Jqbk9WNm5aUHVZVTlRNkE3eEdXb3Z4QmR2M1h5ajVYV0pncGlENw?oc=5\" target=\"_blank\">Microsoft's new return to office plan: Three-day office attendance or employees can…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "published": "2025-08-19T03:37:00+00:00",
-      "source": "The Times of India"
-    },
-    {
-      "title": "Microsoft May Fix Some of the Worst Dark Mode Problems in Windows 11 - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNampVa01zLVlhRTFibHVoWjhRSjdlelFWTHI0UkxOZjNPN1drakNqZU81dE1HNUczNHg5eld4UGNaWjZFWXlWYXZ3X1dyVnZ4aGtwOW5yT2QteUwzUXdodC04ejZOWWtMX0ZUal9lVDAzVDJab2xPb0ptc3pSdmg2OXdDTzVCeHozdFdrQnFtX2FINjFqTDdrOVlYOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNampVa01zLVlhRTFibHVoWjhRSjdlelFWTHI0UkxOZjNPN1drakNqZU81dE1HNUczNHg5eld4UGNaWjZFWXlWYXZ3X1dyVnZ4aGtwOW5yT2QteUwzUXdodC04ejZOWWtMX0ZUal9lVDAzVDJab2xPb0ptc3pSdmg2OXdDTzVCeHozdFdrQnFtX2FINjFqTDdrOVlYOA?oc=5\" target=\"_blank\">Microsoft May Fix Some of the Worst Dark Mode Problems in Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2025-08-18T13:01:39+00:00",
-      "source": "PCMag"
     }
   ],
   "product_launches": [
-    {
-      "title": "PPL Launches Debut Product in Partnership With Microsoft - - Insurance Edge",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUFMYjZKd0wxVFdPV2drbDBobzVhd1FKTm1yUTJPMUFTX2pDNms5eE5aZUJ5TUhaR05aLXRKOTlCMVA4UnNUcG16dVRCUWg3THNnRzhnNHR2eFk3ZEtpLUo5WDhzSFkyMC1tRHlXX3JxMzNOalF4Qkt6X3Y3S1dhYzMxOUd2Vmx4clRBeXhCRzZ4ZWhxSXVpM1FSOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUFMYjZKd0wxVFdPV2drbDBobzVhd1FKTm1yUTJPMUFTX2pDNms5eE5aZUJ5TUhaR05aLXRKOTlCMVA4UnNUcG16dVRCUWg3THNnRzhnNHR2eFk3ZEtpLUo5WDhzSFkyMC1tRHlXX3JxMzNOalF4Qkt6X3Y3S1dhYzMxOUd2Vmx4clRBeXhCRzZ4ZWhxSXVpM1FSOA?oc=5\" target=\"_blank\">PPL Launches Debut Product in Partnership With Microsoft -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insurance Edge</font>",
-      "published": "2025-08-19T09:14:32+00:00",
-      "source": "Insurance Edge"
-    },
     {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
@@ -77,18 +70,11 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft is confirmed to unveil new Surface products on October 10nd, but it may not include a phone... - Mashdigi",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdjRJRjJpQy1TYzI5X3lMZEQwWDRDV0JzUUNLVkFIOUNTZDBudTlHSlRkNURQR255YmllNWxYOXQ2WVRfU2l6SHp4LVBhNUV3aFplVXpzSVptbjhxV0pmZFU1R1BNYS1mNEdoWnJqcXVrWVdtckRBbU1xUHR5UzI5cDh0MmZJTjN1ZkVqUUl2SDNMMjJnX3RUbjEzN0xhNEZrMUdMenpjRWFqTzlMNHlNZG5DOG9XOExGLUQwXzUtc0s0cHl6QkxZZ1hSSmFqamtTcEFsNmVPZVQtRnY5c2w1ZmhBV2ZPMWdHeUZkMnY0M0dCd1dXaW1qZWdjMTdEeXNUNHRoZ2VZcUV6c19FRl9qbmYxOW5GWVprVWIzUUxUOHN0WHV1SHgzS0N5ZWl5WlJDRFZxV2NMdl92bmNFSXBXVzFpTUxNZ2oy?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdjRJRjJpQy1TYzI5X3lMZEQwWDRDV0JzUUNLVkFIOUNTZDBudTlHSlRkNURQR255YmllNWxYOXQ2WVRfU2l6SHp4LVBhNUV3aFplVXpzSVptbjhxV0pmZFU1R1BNYS1mNEdoWnJqcXVrWVdtckRBbU1xUHR5UzI5cDh0MmZJTjN1ZkVqUUl2SDNMMjJnX3RUbjEzN0xhNEZrMUdMenpjRWFqTzlMNHlNZG5DOG9XOExGLUQwXzUtc0s0cHl6QkxZZ1hSSmFqamtTcEFsNmVPZVQtRnY5c2w1ZmhBV2ZPMWdHeUZkMnY0M0dCd1dXaW1qZWdjMTdEeXNUNHRoZ2VZcUV6c19FRl9qbmYxOW5GWVprVWIzUUxUOHN0WHV1SHgzS0N5ZWl5WlJDRFZxV2NMdl92bmNFSXBXVzFpTUxNZ2oy?oc=5\" target=\"_blank\">Microsoft is confirmed to unveil new Surface products on October 10nd, but it may not include a phone...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashdigi</font>",
-      "published": "2025-08-18T05:45:54+00:00",
-      "source": "Mashdigi"
-    },
-    {
-      "title": "Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdERQSURiY1NlMkx5eC1hZ2hlWFpLUC1mekxvbEJXVlk5LXQxdWJxY3pZQTAxLUhRTUg5cXNSeFBIajBfXzRNcWVkbUMzN2lkT1M3bWFhUFRQanZ4blgtTXJrTGcyUjk2aGJIWS1Pbkl4aTJtTDk5cUpwX0pybjdzenRJRGdBbWJYMEszY2hmQUZEMHduLTFLNV94VFBEcVlsTld5SWJ0RHlMSmgxbm1aUFJtWHBjLWRYclZoMGRrVnZRTElsTlRUX0duVjlqNTVEc0NDT3dwWXpBR0VUdTdaR0NrSXBTekowRHdLMkU5RjExTm0yS2ZpOEtnX3I?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdERQSURiY1NlMkx5eC1hZ2hlWFpLUC1mekxvbEJXVlk5LXQxdWJxY3pZQTAxLUhRTUg5cXNSeFBIajBfXzRNcWVkbUMzN2lkT1M3bWFhUFRQanZ4blgtTXJrTGcyUjk2aGJIWS1Pbkl4aTJtTDk5cUpwX0pybjdzenRJRGdBbWJYMEszY2hmQUZEMHduLTFLNV94VFBEcVlsTld5SWJ0RHlMSmgxbm1aUFJtWHBjLWRYclZoMGRrVnZRTElsTlRUX0duVjlqNTVEc0NDT3dwWXpBR0VUdTdaR0NrSXBTekowRHdLMkU5RjExTm0yS2ZpOEtnX3I?oc=5\" target=\"_blank\">Preview upcoming Dynamics 365 features at the Microsoft Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-04-16T07:00:00+00:00",
-      "source": "Microsoft"
+      "title": "PPL Launches Debut Product in Partnership With Microsoft - - Insurance Edge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUFMYjZKd0wxVFdPV2drbDBobzVhd1FKTm1yUTJPMUFTX2pDNms5eE5aZUJ5TUhaR05aLXRKOTlCMVA4UnNUcG16dVRCUWg3THNnRzhnNHR2eFk3ZEtpLUo5WDhzSFkyMC1tRHlXX3JxMzNOalF4Qkt6X3Y3S1dhYzMxOUd2Vmx4clRBeXhCRzZ4ZWhxSXVpM1FSOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUFMYjZKd0wxVFdPV2drbDBobzVhd1FKTm1yUTJPMUFTX2pDNms5eE5aZUJ5TUhaR05aLXRKOTlCMVA4UnNUcG16dVRCUWg3THNnRzhnNHR2eFk3ZEtpLUo5WDhzSFkyMC1tRHlXX3JxMzNOalF4Qkt6X3Y3S1dhYzMxOUd2Vmx4clRBeXhCRzZ4ZWhxSXVpM1FSOA?oc=5\" target=\"_blank\">PPL Launches Debut Product in Partnership With Microsoft -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insurance Edge</font>",
+      "published": "2025-08-19T09:14:32+00:00",
+      "source": "Insurance Edge"
     },
     {
       "title": "The Microsoft 365 Copilot launch was a total disaster - ZDNET",
@@ -96,20 +82,30 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnQ4Y2RabmtXRWYwY2ZTMTdiWjFiVDF4RTF1WHRGeTZ0T2cwblU3Y1QxamYxZGRlSDVtejVObEdQeGhNU1N3MHBadEpHNWZkV01tb2FlUFpXZVBoUzV2SWhQM29CbWRGNWR5MXgtTm1IeHQ5eGVOS1RUZ2JoR1U0U3ZDbEN1emNlSjhfdkVYSW1ERGFpTkhHWDhJLWs4NEJOTXlrdA?oc=5\" target=\"_blank\">The Microsoft 365 Copilot launch was a total disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
       "published": "2025-01-24T08:00:00+00:00",
       "source": "ZDNET"
+    },
+    {
+      "title": "Nvidia Launches New Google And Microsoft Azure Products At GTC 2025 - CRN Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGRyYnA2M0ZIREh0bExwZnpWMWR6MHhOTnduNDhvUGN1WXZKa1hkdVlfNVJHUkt1N3FtUWFEQ1pVRkJVcTM2d3FnaGV0dWhfNVR0NzFEb0VzTFNDNmxxVW96Y2FJVmJIRE5VQ01BRlg3SW1KVkIwU2M5Vk9GWUhYV2xZU2dnb1BldTZXNnZfS1Z2STdxbUtQeFdkZG1UN3RHcHJ6eWF3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGRyYnA2M0ZIREh0bExwZnpWMWR6MHhOTnduNDhvUGN1WXZKa1hkdVlfNVJHUkt1N3FtUWFEQ1pVRkJVcTM2d3FnaGV0dWhfNVR0NzFEb0VzTFNDNmxxVW96Y2FJVmJIRE5VQ01BRlg3SW1KVkIwU2M5Vk9GWUhYV2xZU2dnb1BldTZXNnZfS1Z2STdxbUtQeFdkZG1UN3RHcHJ6eWF3?oc=5\" target=\"_blank\">Nvidia Launches New Google And Microsoft Azure Products At GTC 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CRN Magazine</font>",
+      "published": "2025-03-21T07:00:00+00:00",
+      "source": "CRN Magazine"
+    },
+    {
+      "title": "How AI innovation powers Microsoft’s finance journey | EY - US - EY",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRFd6SlFNbFlXMW9RS21Tczk4WWlabU1jcVVkWEktRHNTcjh1bjVhMUxEckxoQ1ZjalZQQm9iSU9uOV9pWDhwOTdRYkYyOXE3d3dFbDE5V1VrRndPQWV6dkcwVFNNR0xPT1ozX21DbUdPb1Z4RFRkN3pnUnFMaEdxYmhDelE2eTFsN2RWRnF4WlFNeUhraFlWVDV2SVlhb1VJNjQ3QnNMckpTdFRxak9IcWdWUHVFOUM1R2pVb0wydjc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRFd6SlFNbFlXMW9RS21Tczk4WWlabU1jcVVkWEktRHNTcjh1bjVhMUxEckxoQ1ZjalZQQm9iSU9uOV9pWDhwOTdRYkYyOXE3d3dFbDE5V1VrRndPQWV6dkcwVFNNR0xPT1ozX21DbUdPb1Z4RFRkN3pnUnFMaEdxYmhDelE2eTFsN2RWRnF4WlFNeUhraFlWVDV2SVlhb1VJNjQ3QnNMckpTdFRxak9IcWdWUHVFOUM1R2pVb0wydjc?oc=5\" target=\"_blank\">How AI innovation powers Microsoft’s finance journey | EY - US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EY</font>",
+      "published": "2025-04-29T19:28:23+00:00",
+      "source": "EY"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-08-18",
-      "close": 517.0999755859375
+      "date": "2025-08-19",
+      "close": 509.7699890136719
     },
     "history": [
-      {
-        "date": "2025-08-08",
-        "close": 522.0399780273438
-      },
       {
         "date": "2025-08-11",
         "close": 521.77001953125
@@ -133,6 +129,10 @@
       {
         "date": "2025-08-18",
         "close": 517.0999755859375
+      },
+      {
+        "date": "2025-08-19",
+        "close": 509.7699890136719
       }
     ],
     "name": "Microsoft Corporation"
