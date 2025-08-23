@@ -2,72 +2,86 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2025-08-22T12:21:47.522085+00:00",
+  "fetched_at": "2025-08-23T12:19:54.702656+00:00",
   "news": [
     {
-      "title": "Meta signs over $10 billion cloud deal with Google, source says - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbS0tcjRncHowekNQNjcxeUlyb29EWm9WNnBkRHFLa2V1NllqbVpsMjlXSENYbmpqVV9OTDJzQVRxcmRjZ2JZc2dUaUpnYXFaZEhUZTBITnRmTFpFX1pZWnI3T3dHVXA1OEduNGppYXUtQmc1c2UyV1ZYeE4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbS0tcjRncHowekNQNjcxeUlyb29EWm9WNnBkRHFLa2V1NllqbVpsMjlXSENYbmpqVV9OTDJzQVRxcmRjZ2JZc2dUaUpnYXFaZEhUZTBITnRmTFpFX1pZWnI3T3dHVXA1OEduNGppYXUtQmc1c2UyV1ZYeE4?oc=5\" target=\"_blank\">Meta signs over $10 billion cloud deal with Google, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-21T23:00:20+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Google scores six-year Meta cloud deal worth over $10 billion - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY0poM29HakQ0dFRhSGpKdTktc0pmSGpEWHNXQ2hzNU5EeUlkVWkzY29SdkdDdWtLZnhuODVObC1icmJfT21PdURhU0FmRmc4anMxQ2VEbDRiYWVEMG1ydlJwcG9Qd3dObTNTOF8tbXFCVUlCclgySkkzMDVPaFg3ZTlkQklsQWVROXU0RVNoSllQcFJYX1gzdHZnSDl6Z9IBowFBVV95cUxQMmtqeWIwbTdMZ0h6NTRmTFVaclVTemRyd2tvaHVNTjNSVFBYVnV4TVR4czFJNFB1d3NPYkY2bTF5UE5ZQkxZM1V6dmQ3M1BxODlRVlFWWVVCZy04WFVaNHlHWUZqaVBkOS1nVVRkdzZNalAyNWFoblREbFNITEJYQXZkWmR2NzVvd2s5NEQ0QmgzclQtU19OMHJveTB2WGxYdllR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPY0poM29HakQ0dFRhSGpKdTktc0pmSGpEWHNXQ2hzNU5EeUlkVWkzY29SdkdDdWtLZnhuODVObC1icmJfT21PdURhU0FmRmc4anMxQ2VEbDRiYWVEMG1ydlJwcG9Qd3dObTNTOF8tbXFCVUlCclgySkkzMDVPaFg3ZTlkQklsQWVROXU0RVNoSllQcFJYX1gzdHZnSDl6Z9IBowFBVV95cUxQMmtqeWIwbTdMZ0h6NTRmTFVaclVTemRyd2tvaHVNTjNSVFBYVnV4TVR4czFJNFB1d3NPYkY2bTF5UE5ZQkxZM1V6dmQ3M1BxODlRVlFWWVVCZy04WFVaNHlHWUZqaVBkOS1nVVRkdzZNalAyNWFoblREbFNITEJYQXZkWmR2NzVvd2s5NEQ0QmgzclQtU19OMHJveTB2WGxYdllR?oc=5\" target=\"_blank\">Google scores six-year Meta cloud deal worth over $10 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-08-22T00:03:00+00:00",
+      "title": "Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5\" target=\"_blank\">Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-08-22T20:29:49+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg",
+      "title": "Meta to unveil new Smart Glasses and smart wearables at Connect Conference - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2cxR2VSUmpBN0duNnNDTWJZa0NNQzVGRmw3M3Jyc0I2YW9NbERUSk5QMjFFN3UycUJNYld3clJoeDUzUkJYWng3VVUxZGt0SkJVaUhjRFRJbDhXUlNPaEViRmItbTZwSzR3SWdTTVdvSGNiemg3N2lMSkxCMG1sUTJZX1YtcWQ1bDJiM3FTaXJGR08zR0FfTndjbVU0RDRCSk9IdWpTX1VTMS1YVlVqcGFmbDR6d0NBMzRyX3BZalRZRFNhejd6dtIBzwFBVV95cUxOVVRpQjRDZ3kyWGZxcF9FbG1uRzRnNW0yYmIyWklEOXVyYWdtcTItSFEyWHpPNGN5SFpPd1F1X0VzREFuSTJjRkt5YkdSY0xIWVhuMGIzVmhXeHgwZmxrYTY3T3lGbVlJMU1hR0I5RWh6Zll1a0xZNHhpaFI0LVFFTlZDVzQzLVRkSTAwTGpHTXctQ1hhbW1ZY3ltbUx3dzh3MXd4d2piUV9hLW5reVJqZkpKOWN4MGlsOVB2ODdPRjdOemwyS3dRQjE1cFZFYnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2cxR2VSUmpBN0duNnNDTWJZa0NNQzVGRmw3M3Jyc0I2YW9NbERUSk5QMjFFN3UycUJNYld3clJoeDUzUkJYWng3VVUxZGt0SkJVaUhjRFRJbDhXUlNPaEViRmItbTZwSzR3SWdTTVdvSGNiemg3N2lMSkxCMG1sUTJZX1YtcWQ1bDJiM3FTaXJGR08zR0FfTndjbVU0RDRCSk9IdWpTX1VTMS1YVlVqcGFmbDR6d0NBMzRyX3BZalRZRFNhejd6dtIBzwFBVV95cUxOVVRpQjRDZ3kyWGZxcF9FbG1uRzRnNW0yYmIyWklEOXVyYWdtcTItSFEyWHpPNGN5SFpPd1F1X0VzREFuSTJjRkt5YkdSY0xIWVhuMGIzVmhXeHgwZmxrYTY3T3lGbVlJMU1hR0I5RWh6Zll1a0xZNHhpaFI0LVFFTlZDVzQzLVRkSTAwTGpHTXctQ1hhbW1ZY3ltbUx3dzh3MXd4d2piUV9hLW5reVJqZkpKOWN4MGlsOVB2ODdPRjdOemwyS3dRQjE1cFZFYnM?oc=5\" target=\"_blank\">Meta to unveil new Smart Glasses and smart wearables at Connect Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+      "published": "2025-08-23T08:51:15+00:00",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "You can preorder the Oakley Meta smart glasses right now - why they're worth it - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm9VclJENzBFNVdBS1dIUWo4bUZHQWFna1kxOXZmYnVsejdRY0U2YWxuMnFyeFU1eGtLRHBJZ2JtQ05TZnV5aVNZclNkbC1ycW1HeTRoZnZoWWRoRXlZRzJrLU9oRF9lYlJBM0FQc1pqbTJycHMzRlFaVUx0VzR1WldHSV9GaWdfcUFPMkVSS0VOOWVNd3RZaFQ2ZzVfSkFEZzhabTJwNVUwbUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYm9VclJENzBFNVdBS1dIUWo4bUZHQWFna1kxOXZmYnVsejdRY0U2YWxuMnFyeFU1eGtLRHBJZ2JtQ05TZnV5aVNZclNkbC1ycW1HeTRoZnZoWWRoRXlZRzJrLU9oRF9lYlJBM0FQc1pqbTJycHMzRlFaVUx0VzR1WldHSV9GaWdfcUFPMkVSS0VOOWVNd3RZaFQ2ZzVfSkFEZzhabTJwNVUwbUE?oc=5\" target=\"_blank\">You can preorder the Oakley Meta smart glasses right now - why they're worth it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2025-08-22T13:45:00+00:00",
+      "source": "ZDNET"
+    },
+    {
+      "title": "Meta freezes AI hiring, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnBwbUNkdkxzSk1VWHM2R0YtTUdOMFhNR2FxczZFb0d0cUZkODZjaUVreTJTakxkejZLWTNPQmRIQWx0QjNLZHBhd2lVV3k0ajVUYkh3X0JnWTliNld4R0xpLW5nY2tRZDA1Zzl4N1NoYThUbnZmRWF2ak9BXzByTzkwWjJrQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnBwbUNkdkxzSk1VWHM2R0YtTUdOMFhNR2FxczZFb0d0cUZkODZjaUVreTJTakxkejZLWTNPQmRIQWx0QjNLZHBhd2lVV3k0ajVUYkh3X0JnWTliNld4R0xpLW5nY2tRZDA1Zzl4N1NoYThUbnZmRWF2ak9BXzByTzkwWjJrQQ?oc=5\" target=\"_blank\">Meta freezes AI hiring, WSJ reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7wJBVV95cUxOUlVFRFdrd1JxLTA0UnRtWncwTDg5YWdCdDN1b19PTW0zNjdLclBWVkZvM2xMaXNSU2ctdDVyVEF5WE96Wk56dkJVeEVEMVkyb0hLeWE0VTFGYWxFMm9kNTJzdzFlUEJyUjhpSFVrTnR1M1NlZlkzSktJM3FzVmRvWlU4U2U5WFdTcW1rNEJaYzN6SGZja1lNYm1RTjZGYmNXUWJKbnRJc2RpYjNPZmU0dTM5ZlhRVTdjNnBjaTBQcWViR2tJV1pJWkp4NFl2bVVRa0dDcWF6TUh1NHpOajhtV2JQTjE3NkJ4c0drSVdGSzd6YUhJQUdUU1g4c0h5eWNGT202eTlxa3FTc21wY0txa2lGbWNjbkpNZFRJWlFuVG1ZcjFxTlVrYTFRXy1rWHIxa0ZLMWtxUlpZendkQW1kMWlxeEhLaktFaWJwU1AwODBVQ1BpYTRnYk1UclRJdFZ2a2pTSUQ1NDNiQUdTU1pF?oc=5\" target=\"_blank\">Exclusive | Meta Freezes AI Hiring After Blockbuster Spending Spree - WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlZCeFNtY21oQnAxQVNTVUxXNDZqcmtHdGVEdVpWcnBSamFkc1NFeUxIeXN5aWJhajFEWFVfa3ZETlktOVQ2SFBnOEJxT2hiZ3QzVk0tSGhWbExJMGJJdmVJSGZKUDVLdmpZenZZRDBOTmFEMTVnTkM2ODBtOFdYQWZ0dw?oc=5\" target=\"_blank\">Meta Doubles Down on ‘Superintelligence’ Investment. It’s Good for AI Stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+      "published": "2025-08-21T01:47:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta to license AI technology from start-up as in-house models lag rivals - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNlV0TmhKREFkajFVQ3lSb2VoZEdNU3pRY1pXMF9jb2ZlS0ZlWU1lQnlaRDdyQXBsVExlbFVqRWJncFR6NWl6Z2lzcFA3cnFUN0ZSQnJjSW02NnFiazFHMHNEY21yQ213MlJmUlZlZ0g?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNlV0TmhKREFkajFVQ3lSb2VoZEdNU3pRY1pXMF9jb2ZlS0ZlWU1lQnlaRDdyQXBsVExlbFVqRWJncFR6NWl6Z2lzcFA3cnFUN0ZSQnJjSW02NnFiazFHMHNEY21yQ213MlJmUlZlZ0g?oc=5\" target=\"_blank\">Meta to license AI technology from start-up as in-house models lag rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2025-08-22T23:15:04+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVo1blE5UnI3UEM0ZlV5SWRXRzFCdjUySkNUQm52SXdRVG5hWTlaS1RSQlBlS2tDc1lidkFvWkdMbjVULUNlVmNtU3E2aE9nRGhDZG1MS2FlOXVkQzV2M3NsZ3ctV0pTajZFUV9LNWRYaWZCNy13Ny1scjcyUm5jb1R4RjRwbS1adGJXTXZPeVdZakxacWh3SFlOZVd2NV96Znl2MWY0aGxrd0dRWkhIY3ExMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVo1blE5UnI3UEM0ZlV5SWRXRzFCdjUySkNUQm52SXdRVG5hWTlaS1RSQlBlS2tDc1lidkFvWkdMbjVULUNlVmNtU3E2aE9nRGhDZG1MS2FlOXVkQzV2M3NsZ3ctV0pTajZFUV9LNWRYaWZCNy13Ny1scjcyUm5jb1R4RjRwbS1adGJXTXZPeVdZakxacWh3SFlOZVd2NV96Znl2MWY0aGxrd0dRWkhIY3ExMA?oc=5\" target=\"_blank\">Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNVo1blE5UnI3UEM0ZlV5SWRXRzFCdjUySkNUQm52SXdRVG5hWTlaS1RSQlBlS2tDc1lidkFvWkdMbjVULUNlVmNtU3E2aE9nRGhDZG1MS2FlOXVkQzV2M3NsZ3ctV0pTajZFUV9LNWRYaWZCNy13Ny1scjcyUm5jb1R4RjRwbS1adGJXTXZPeVdZakxacWh3SFlOZVd2NV96Znl2MWY0aGxrd0dRWkhIY3ExMA?oc=5\" target=\"_blank\">Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPY0poM29HakQ0dFRhSGpKdTktc0pmSGpEWHNXQ2hzNU5EeUlkVWkzY29SdkdDdWtLZnhuODVObC1icmJfT21PdURhU0FmRmc4anMxQ2VEbDRiYWVEMG1ydlJwcG9Qd3dObTNTOF8tbXFCVUlCclgySkkzMDVPaFg3ZTlkQklsQWVROXU0RVNoSllQcFJYX1gzdHZnSDl6Z9IBowFBVV95cUxQMmtqeWIwbTdMZ0h6NTRmTFVaclVTemRyd2tvaHVNTjNSVFBYVnV4TVR4czFJNFB1d3NPYkY2bTF5UE5ZQkxZM1V6dmQ3M1BxODlRVlFWWVVCZy04WFVaNHlHWUZqaVBkOS1nVVRkdzZNalAyNWFoblREbFNITEJYQXZkWmR2NzVvd2s5NEQ0QmgzclQtU19OMHJveTB2WGxYdllR?oc=5\" target=\"_blank\">Google scores six-year Meta cloud deal worth over $10 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEdnMHdjclpYM2k0MzA2dTA5Z09MSlVqXy1IWU5WM1RrQXp4MWZRY29IeFBraXNmY0lSb1RXbEpISjVuNzBXNHprVDQzdEV6Z3ZJTE5YUm5UeUlISnBnaGQycDBjQ1ZLeUMwWnd5OVlhZW45YkF5VTd2QXlmUjhRTXV5UFh1UDV3MHVkY3RsaGVCWnFQd0U2T0xUZXFfakM5cG9zaXA2aUZ4dw?oc=5\" target=\"_blank\">Meta signs over $10 billion cloud deal with Google, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
       "published": "2025-08-22T00:21:00+00:00",
-      "source": "Bloomberg"
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Exclusive | Meta Freezes AI Hiring After Blockbuster Spending Spree - WSJ - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQTnRoZVpBdjdlVWFKY28wRE96VVFSY09zdzVzX0RmM0Y4aUtaX2pSQjY2SDFPdmxtMVB3NWsxX1haWWtyVGdzX3RmZkgzdzR0UzUzTFA0RnpJVjQtamFXWFpuVGFRMmlqUFdZTDQ5LTgwWVZvLTV6N1RRTVR3V2otQm1naGVLOHFjVjB3bEFMaDdCZ2lOSlpuM19MZ1JrSVZ5RVZyaGVqMU1QMXd0UWloV2QxUHhqRVFBS1BkRXl3RnRqdzc5RWpUclNXOVJEVkhMWm16WGpzRkpwLVA5ZUFSSTRRRDdzVmVXVDF2TzdUNWIyclJMWUNGazZOY3FmbzFhUVM1UjhMakplUTdub0xyRFR5NzVVRndRSTBUOUNMc3VLeDZ1alRxa3FnUWVtQVpGNTV3X1UtaWNFVDFoeERsTnVFNXFQN215LTR5WDlzWjVHajJ6NkxRa2E1M3oydEszbFNFWFVPcW9BY2M3ejQ0?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7wJBVV95cUxQTnRoZVpBdjdlVWFKY28wRE96VVFSY09zdzVzX0RmM0Y4aUtaX2pSQjY2SDFPdmxtMVB3NWsxX1haWWtyVGdzX3RmZkgzdzR0UzUzTFA0RnpJVjQtamFXWFpuVGFRMmlqUFdZTDQ5LTgwWVZvLTV6N1RRTVR3V2otQm1naGVLOHFjVjB3bEFMaDdCZ2lOSlpuM19MZ1JrSVZ5RVZyaGVqMU1QMXd0UWloV2QxUHhqRVFBS1BkRXl3RnRqdzc5RWpUclNXOVJEVkhMWm16WGpzRkpwLVA5ZUFSSTRRRDdzVmVXVDF2TzdUNWIyclJMWUNGazZOY3FmbzFhUVM1UjhMakplUTdub0xyRFR5NzVVRndRSTBUOUNMc3VLeDZ1alRxa3FnUWVtQVpGNTV3X1UtaWNFVDFoeERsTnVFNXFQN215LTR5WDlzWjVHajJ6NkxRa2E1M3oydEszbFNFWFVPcW9BY2M3ejQ0?oc=5\" target=\"_blank\">Exclusive | Meta Freezes AI Hiring After Blockbuster Spending Spree - WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUXRKeGptYnBWejBmUkhsWTJoUlRvMU5GcnJQbENVMnZkNE00aUlIYXZHR19FMUJfaVd1ZlZjYTNYQ3pqZEJiLU5GV1dUZFlINjBLbnh4NFdHSGF1czdHSkJzTFNweTlJMVN1NUN5VWpCbnZqN09DWmd6QzhnS256Y2NLbktKdXdYUklkNWNxYWtaeUJWV1RrczdibS11dGs1TjJULU5HSUFGaGxTTzlPT0tKV3FlUlpQbXhPcGRuelZodWJwUkpuZTJDSlc4cTJU0gHWAUFVX3lxTE9SMXM4bU5OODNWWTE5YmpMSUc5ejRvVU5SZzZ1VzM2LU9zYlJfMjh0MGpNbXd0UXlYakQwWU5tRGRwb0dJQ1hlRlRwNmNUZDlJNndDMVlmTXFydFJSMG9YbHM5cmc5Y3ZWS0dkbkgwckRBOTRMbU1La05wSGU4ZUk1dVp1UThWVjVISGZ1LXNZTG9wQVhuZjZRSllobU5DXzhKSFYtTUxrU0JqTkU3cWRTZi1QSXp4THprSDRIT2JRRDl2Mk14cHI2Vm1EeEx0ajVScU1nOEE?oc=5\" target=\"_blank\">Meta puts the brakes on its massive AI talent spending spree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjhYVzQ3Sk5MeHpuRWhlaG5mdktGRjZNYU1MejhWc3phbnBwYmktdjBvYU1FYjJHRVBValFNbkd6YjlGVmt2eVpkbmhMdzBLNDh1Tm9uVFEzbDNfeEphZ1FiQXlBaVhNQm1WNlRORzdGQ2tiaDFCaTlEVTF3MWxmNlZmQ1I4MlBzb2ZtaUUzQnN3ME1JTEhwWnh2b1I2QXBFVHZ3ZEU3ZHF3X3NEbHFBVkVHSmVKeW1DeU5BSzlEWWRYblU?oc=5\" target=\"_blank\">Meta Poaches Apple AI Executive Even as It Plans Hiring Slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li></ol>",
-      "published": "2025-08-21T01:00:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "Is This an A.I. Bubble? + Meta’s Missing Morals + TikTok Shock Slop - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlc1Q2dVaUUxR1I5c2RKWEhUQWRPSVQyclBwYWI1TUxybnVXVzVjNjNKallxaXpTNGM1M1pOZS1aWUlhY2lxOUZWV3A3LTBRWDBPTnJabG9lR0VBbGhjdW5JVkh5c09fQlhXejhsVkwzdGtvck5Eam1sM05Lc2JJNm5PVHA5X3IwT0xYUWowLU12cExmR3ZUUWJhX1U1UG5JbTYyeWQ0VmpqaUpm?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlc1Q2dVaUUxR1I5c2RKWEhUQWRPSVQyclBwYWI1TUxybnVXVzVjNjNKallxaXpTNGM1M1pOZS1aWUlhY2lxOUZWV3A3LTBRWDBPTnJabG9lR0VBbGhjdW5JVkh5c09fQlhXejhsVkwzdGtvck5Eam1sM05Lc2JJNm5PVHA5X3IwT0xYUWowLU12cExmR3ZUUWJhX1U1UG5JbTYyeWQ0VmpqaUpm?oc=5\" target=\"_blank\">Is This an A.I. Bubble? + Meta’s Missing Morals + TikTok Shock Slop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-08-22T11:00:03+00:00",
+      "source": "The New York Times"
     },
     {
-      "title": "Broadcom's AI Push Gains Speed With Microsoft, Meta, And Apple Pouring Billions Into Data Infrastructure - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekc5Q0dxbElPSDJWUGtXQzVfM2RKbTBmQ0JLMTh1Z0M2LWRpbEZEUnZreWo3empoS2c4aUJiSnN4VU16VjRvTzc1aS1oN0NvRHVKSlBzZHFrMUhFeW5QM0NiZlVybmkxS2JvT0hvTTh4b3Vfeml2dVAtX01BTzF0Nw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOekc5Q0dxbElPSDJWUGtXQzVfM2RKbTBmQ0JLMTh1Z0M2LWRpbEZEUnZreWo3empoS2c4aUJiSnN4VU16VjRvTzc1aS1oN0NvRHVKSlBzZHFrMUhFeW5QM0NiZlVybmkxS2JvT0hvTTh4b3Vfeml2dVAtX01BTzF0Nw?oc=5\" target=\"_blank\">Broadcom's AI Push Gains Speed With Microsoft, Meta, And Apple Pouring Billions Into Data Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-22T10:33:29+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Elon Musk asked Meta CEO Mark Zuckerberg to join xAI bid to buy OpenAI, filing shows - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenZLX0QzMTF3OExMcmV2M1pFSUs5TEg3TWVZbHo0UzZscmJXcjNHRzZwVng2dnV3Zy1BRXpOVUYtR05nUWtfcWdqVGtsb2JjdVF3aXAwU3Y4VV9Ea0dqVl8yTDM1OUtZdHNybjdkOVY3N3hlN0g0eFJBUE1HVzZ6b2xHdEtJaURmMGRlZ3hBQjNteTZQLUxhMHdrYVNkbWFhbkVpdGV1VmdzN0XSAbABQVVfeXFMT3FCQ3VrT2Q2UnREYnRsOE5VdjZWNVZrY05HMl82aE5tOTZSNmUtTjFBMTNrN245aDNJSlRpQ1hfVzBIc0pVRldhNUlYRUh5SndMVzc1SmhwWEkwRnNOaTc4UWVhb2t2WnhwLU90MFZKSWFucXY2V2xPcTAwRHNOdEtLLWJPd3lsUjNKT0dJSFQ3QS1zeG9yUjh2QkFia0ZJMXBKZlEzVWFjUTBfVTQxVl8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenZLX0QzMTF3OExMcmV2M1pFSUs5TEg3TWVZbHo0UzZscmJXcjNHRzZwVng2dnV3Zy1BRXpOVUYtR05nUWtfcWdqVGtsb2JjdVF3aXAwU3Y4VV9Ea0dqVl8yTDM1OUtZdHNybjdkOVY3N3hlN0g0eFJBUE1HVzZ6b2xHdEtJaURmMGRlZ3hBQjNteTZQLUxhMHdrYVNkbWFhbkVpdGV1VmdzN0XSAbABQVVfeXFMT3FCQ3VrT2Q2UnREYnRsOE5VdjZWNVZrY05HMl82aE5tOTZSNmUtTjFBMTNrN245aDNJSlRpQ1hfVzBIc0pVRldhNUlYRUh5SndMVzc1SmhwWEkwRnNOaTc4UWVhb2t2WnhwLU90MFZKSWFucXY2V2xPcTAwRHNOdEtLLWJPd3lsUjNKT0dJSFQ3QS1zeG9yUjh2QkFia0ZJMXBKZlEzVWFjUTBfVTQxVl8?oc=5\" target=\"_blank\">Elon Musk asked Meta CEO Mark Zuckerberg to join xAI bid to buy OpenAI, filing shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-08-22T03:05:00+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWpUNm5BTDVpS2dyaVdVWkxqMjh5a0phWDFTVFBSZlg2b28yMVdyZVJ0N2VaYXg3UE4welRZTlNjZ1FGWlI0Y2N1RkIxTWdYdE90WU85NUFEQko4QVRqbjhmQV9WcXFhbXJxREtmTjNJbnJiX29CYjc0OWRIalEteUpJT3VfcXJob1V6SDNXOU84bGw4dXRGWF8wQ1FuLW9Wenc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORWpUNm5BTDVpS2dyaVdVWkxqMjh5a0phWDFTVFBSZlg2b28yMVdyZVJ0N2VaYXg3UE4welRZTlNjZ1FGWlI0Y2N1RkIxTWdYdE90WU85NUFEQko4QVRqbjhmQV9WcXFhbXJxREtmTjNJbnJiX29CYjc0OWRIalEteUpJT3VfcXJob1V6SDNXOU84bGw4dXRGWF8wQ1FuLW9Wenc?oc=5\" target=\"_blank\">OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-08-22T00:31:38+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ChatGPT-maker wants ‘proof’ from Meta when Elon Musk wanted to buy OpenAI- The legal drama explained - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZDhWenNJM2ttV084V2VMaGx0RjdHLVYyZkk1YkNsdGRSV05TSV9uOXZHLUFvRWwyZlRSNDgtWW02VEp3MkFvRmFkTTJ1SC05LS1namo1V0JBX21MX0NZcVhuaFhHdFJ5aGJuRi03dUs5MkpqQ3BTVHJyVGZPdlNMWGUyNTBHWDdLOVdQaWFuZnByQU9hN1Rzb0s1MmhoZWlwYlJIeS1pMzV1ZEt5ZHExN3FVQkVyTzdtQmhNcEdvT0V3NjBMdDJXV2txaEUyVEgzRUJGbXlyWlhaUlJIQWl6RXBYLThKd0FNRHNMcU9kLW8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZDhWenNJM2ttV084V2VMaGx0RjdHLVYyZkk1YkNsdGRSV05TSV9uOXZHLUFvRWwyZlRSNDgtWW02VEp3MkFvRmFkTTJ1SC05LS1namo1V0JBX21MX0NZcVhuaFhHdFJ5aGJuRi03dUs5MkpqQ3BTVHJyVGZPdlNMWGUyNTBHWDdLOVdQaWFuZnByQU9hN1Rzb0s1MmhoZWlwYlJIeS1pMzV1ZEt5ZHExN3FVQkVyTzdtQmhNcEdvT0V3NjBMdDJXV2txaEUyVEgzRUJGbXlyWlhaUlJIQWl6RXBYLThKd0FNRHNMcU9kLW8?oc=5\" target=\"_blank\">ChatGPT-maker wants ‘proof’ from Meta when Elon Musk wanted to buy OpenAI- The legal drama explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
-      "published": "2025-08-22T04:00:42+00:00",
-      "source": "Hindustan Times"
+      "title": "Meta might be secretly scanning your phone's camera roll - how to check and turn it off - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXM3Z21obmN3S0hoT01MRUtFbDZMZ3llX0tmOV9EYTJxQVNKcmFoaUNvUWJGamNQZDRUUUdLbVpESUk2QnFRT2VVWDYyZEVnaFR6Uzl4SWIzRjFSR0FGTHBKVmNhNkNZWXBQTUNKUTFpcENkVm1QZmxwcXdUZFlQRVR6TXJ6aWdLcVBrTjhwYmRFeGV3ck45aGp1ZVBMSlgzVUhBTHRkRTRkcTkzNmlhVmtOVGM0QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXM3Z21obmN3S0hoT01MRUtFbDZMZ3llX0tmOV9EYTJxQVNKcmFoaUNvUWJGamNQZDRUUUdLbVpESUk2QnFRT2VVWDYyZEVnaFR6Uzl4SWIzRjFSR0FGTHBKVmNhNkNZWXBQTUNKUTFpcENkVm1QZmxwcXdUZFlQRVR6TXJ6aWdLcVBrTjhwYmRFeGV3ck45aGp1ZVBMSlgzVUhBTHRkRTRkcTkzNmlhVmtOVGM0QQ?oc=5\" target=\"_blank\">Meta might be secretly scanning your phone's camera roll - how to check and turn it off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2025-08-22T15:06:00+00:00",
+      "source": "ZDNET"
     }
   ],
   "product_launches": [
+    {
+      "title": "Children deserve protection: Senator launches investigation into Meta for training AI Chatbots to target children - The Highland County Press",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHVwRlNOSHhqSzhxOHdCWU42QmlBSXZCUGV0UmxhZG5YSmh1SE9SdzBUWEdfdFJlQzRRTTRpVnJHQmcwd29EUVBjUGVOMVFjVDUzZTRNVjBBVFFhSjNJS1JXMkVPOWhQYlVSU2hscnBwWnJtcV9SRUxlVDRnS3N1TzR3Q3d0Z1lzUWVGZ3l2TFRXN05MLW1EbTlJSmIwMmp4WS03bXI5Q3pSQkFoOFFEZUEwRjQ1R00wd2Vqd0NKZHExejQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHVwRlNOSHhqSzhxOHdCWU42QmlBSXZCUGV0UmxhZG5YSmh1SE9SdzBUWEdfdFJlQzRRTTRpVnJHQmcwd29EUVBjUGVOMVFjVDUzZTRNVjBBVFFhSjNJS1JXMkVPOWhQYlVSU2hscnBwWnJtcV9SRUxlVDRnS3N1TzR3Q3d0Z1lzUWVGZ3l2TFRXN05MLW1EbTlJSmIwMmp4WS03bXI5Q3pSQkFoOFFEZUEwRjQ1R00wd2Vqd0NKZHExejQ?oc=5\" target=\"_blank\">Children deserve protection: Senator launches investigation into Meta for training AI Chatbots to target children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Highland County Press</font>",
+      "published": "2025-08-23T10:28:22+00:00",
+      "source": "The Highland County Press"
+    },
     {
       "title": "Meta's Smart Glasses With Built-In Display May Launch Next Month - PCMag",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhTR205eVZ1eWphWXFHZVVaVHJEWV9ETHJjWXh1OF9yTE1fVUd2RlFqQkRfeEozOWt3WGFXX2xhb2pPbWdCZW1WQXFYMjBfZ09CcGV5YjJacHFVLWtmSWxUaTROdVBXdndXeHo5NkRlM3RyT3NKUHV2N1JUY3RjNC1FR3JJRG1oUFFZZGVQVno4YzhL?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhTR205eVZ1eWphWXFHZVVaVHJEWV9ETHJjWXh1OF9yTE1fVUd2RlFqQkRfeEozOWt3WGFXX2xhb2pPbWdCZW1WQXFYMjBfZ09CcGV5YjJacHFVLWtmSWxUaTROdVBXdndXeHo5NkRlM3RyT3NKUHV2N1JUY3RjNC1FR3JJRG1oUFFZZGVQVno4YzhL?oc=5\" target=\"_blank\">Meta's Smart Glasses With Built-In Display May Launch Next Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
       "published": "2025-08-18T09:45:47+00:00",
       "source": "PCMag"
+    },
+    {
+      "title": "Meta to launch ‘Celeste’ smart glasses - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM3M1cjNPamNJaWJtUmFKZGdvWm04R0VYY1BxTktuSzdrdHJTcFdVZzNHZWFSLTh4c0hzRHBSaExONmV5M0VhQ0ZaaXdZeHl4dUNBMU96aG9HYW1UeVhhTDdFTmwyQkVURFQ0ZERBT28zSW9UeFVLeGpIVEZ4Slh5cnZCVjNtdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOM3M1cjNPamNJaWJtUmFKZGdvWm04R0VYY1BxTktuSzdrdHJTcFdVZzNHZWFSLTh4c0hzRHBSaExONmV5M0VhQ0ZaaXdZeHl4dUNBMU96aG9HYW1UeVhhTDdFTmwyQkVURFQ0ZERBT28zSW9UeFVLeGpIVEZ4Slh5cnZCVjNtdw?oc=5\" target=\"_blank\">Meta to launch ‘Celeste’ smart glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
+      "published": "2025-08-18T22:40:08+00:00",
+      "source": "The Jerusalem Post"
     },
     {
       "title": "Meta Launches Meta Superintelligence Labs Under New AI Chief Alexandr Wang - AI Insider",
@@ -77,39 +91,21 @@
       "source": "AI Insider"
     },
     {
-      "title": "'Kids Deserve Protection': Hawley Launches Investigation into Meta for Training its AI Chatbots to Target Children with 'Sensual' Conversation - U.S. Senate (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWmkwMGFpUXFLVWRHUFltU3FQQ0NUd1JDT0p0R3RyODR2em4xVVNVM1dCdXExTGMtaGtvYlZYUUYxU1EtRF9xd1hJVU5zV21vMzhPemR1LUgzZXRYSU1SbXRiUzlIdjNHXzFQSEo5M2U1WEpmRWZmRE9Mb2hPd21Sbm80bW1qbGs5S1NaempENW1wUWFZWnQzcHFBWTV5NmNMX201cldrU2ZkZEhLaHZ1bF9jVHNXQ2M3QW9BR0pZUUlGc3VEZFhyRU5obEt3c0QyN0VQSlVKUkNPdFkyeWFjR0tUSHprc2VzX0lZbEk0NU9QR3psajVCdHl4LW8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWmkwMGFpUXFLVWRHUFltU3FQQ0NUd1JDT0p0R3RyODR2em4xVVNVM1dCdXExTGMtaGtvYlZYUUYxU1EtRF9xd1hJVU5zV21vMzhPemR1LUgzZXRYSU1SbXRiUzlIdjNHXzFQSEo5M2U1WEpmRWZmRE9Mb2hPd21Sbm80bW1qbGs5S1NaempENW1wUWFZWnQzcHFBWTV5NmNMX201cldrU2ZkZEhLaHZ1bF9jVHNXQ2M3QW9BR0pZUUlGc3VEZFhyRU5obEt3c0QyN0VQSlVKUkNPdFkyeWFjR0tUSHprc2VzX0lZbEk0NU9QR3psajVCdHl4LW8?oc=5\" target=\"_blank\">'Kids Deserve Protection': Hawley Launches Investigation into Meta for Training its AI Chatbots to Target Children with 'Sensual' Conversation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Senate (.gov)</font>",
-      "published": "2025-08-15T17:26:15+00:00",
-      "source": "U.S. Senate (.gov)"
-    },
-    {
       "title": "Meta reportedly racing to launch AI glasses with a display - MIXED Reality News",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GVzdJQnh4T2xEcEk3Z2wtT1VORW1lM1ZEZ2owYUJMbmw3MHFDYU9uTHJHMkFKOFBEbUp6NUE0cHVnS2NOalJpbzBiTzBBbzlTbC13bGgwOEhOUUx3RWo5WFVJWmdLVVViR0wyWjJLV24?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5GVzdJQnh4T2xEcEk3Z2wtT1VORW1lM1ZEZ2owYUJMbmw3MHFDYU9uTHJHMkFKOFBEbUp6NUE0cHVnS2NOalJpbzBiTzBBbzlTbC13bGgwOEhOUUx3RWo5WFVJWmdLVVViR0wyWjJLV24?oc=5\" target=\"_blank\">Meta reportedly racing to launch AI glasses with a display</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIXED Reality News</font>",
       "published": "2025-04-28T07:00:00+00:00",
       "source": "MIXED Reality News"
-    },
-    {
-      "title": "Meta Set to Launch Hypernova AR Glasses in September at $800 Price Point - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVRNTVk0U1lKUVpRVDRhbWc2OFVqTEFCTXlOWHktUFd2cWtfNzdoeUlFaDFBQmxBOE4ybTAzVEFFQlRZZnE5YllBYjZMdEZHREVFaUQ5V3Nwc2J6VWpRelhMY2VONnVmWnUzSVRBSTBPZWdwUGVIZklmaE1GRlRmaG5hRHhMRVk2Q1pFbFFOVEY4TVROT1hfVjZ3Ti1ZbURtbEg2X1Y3Q2daZjluOVY5N3BZTUxkSGF2b29vNElybXdkbmx3alVN0gHMAUFVX3lxTE44VE02akNVLVNSaTRsbGFPQ1dodjhrZVpFZDBVY0tQWmg5dmUxazdXX2Flc21xbWF3WnRrcmxubTllcXZDT2ZFWTlKOS1ENlA5QXh6T0wtREF0NEtWNzVxM0FpdWRrbXNla3pMOUJJOVBPNDBQaHdUOXhWMTFDMThHcVYycFJXVWI3R0QzY19sYllRbzNoNzFmWHFXWkgwNnMxZGt1X0VHVk05dm9XOFBNbHNGUkNfamFxZlVNaVdpSllKRldBbGs1LThjbQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVRNTVk0U1lKUVpRVDRhbWc2OFVqTEFCTXlOWHktUFd2cWtfNzdoeUlFaDFBQmxBOE4ybTAzVEFFQlRZZnE5YllBYjZMdEZHREVFaUQ5V3Nwc2J6VWpRelhMY2VONnVmWnUzSVRBSTBPZWdwUGVIZklmaE1GRlRmaG5hRHhMRVk2Q1pFbFFOVEY4TVROT1hfVjZ3Ti1ZbURtbEg2X1Y3Q2daZjluOVY5N3BZTUxkSGF2b29vNElybXdkbmx3alVN0gHMAUFVX3lxTE44VE02akNVLVNSaTRsbGFPQ1dodjhrZVpFZDBVY0tQWmg5dmUxazdXX2Flc21xbWF3WnRrcmxubTllcXZDT2ZFWTlKOS1ENlA5QXh6T0wtREF0NEtWNzVxM0FpdWRrbXNla3pMOUJJOVBPNDBQaHdUOXhWMTFDMThHcVYycFJXVWI3R0QzY19sYllRbzNoNzFmWHFXWkgwNnMxZGt1X0VHVk05dm9XOFBNbHNGUkNfamFxZlVNaVdpSllKRldBbGs1LThjbQ?oc=5\" target=\"_blank\">Meta Set to Launch Hypernova AR Glasses in September at $800 Price Point</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
-      "published": "2025-08-18T06:28:21+00:00",
-      "source": "The Hans India"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2025-08-21",
-      "close": 739.0999755859375
+      "date": "2025-08-22",
+      "close": 754.7899780273438
     },
     "history": [
-      {
-        "date": "2025-08-13",
-        "close": 780.0800170898438
-      },
       {
         "date": "2025-08-14",
         "close": 782.1300048828125
@@ -133,6 +129,10 @@
       {
         "date": "2025-08-21",
         "close": 739.0999755859375
+      },
+      {
+        "date": "2025-08-22",
+        "close": 754.7899780273438
       }
     ],
     "name": "Meta Platforms, Inc."
