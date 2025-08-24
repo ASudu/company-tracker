@@ -2,14 +2,21 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-08-23T12:19:44.445437+00:00",
+  "fetched_at": "2025-08-24T12:20:03.317230+00:00",
   "news": [
     {
-      "title": "Apple Explores Using Google Gemini AI to Power Revamped Siri - Bloomberg.com",
+      "title": "Inside Texas Instruments' $60 billion U.S. megaproject, where Apple will make iPhone chips - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDFfZGFZRVZlNDZsSUlBY2ZFYkVub1pYZjhDTE9rSkVWZGdQcV9FclpRdnFkVUpuNDcweHRXUkFNTzRYS2hTVE9OWHNEN0pJV0dQZEdDTEJNT3IwRnpaTnNtbnJ1OHRobG5SM3RDWVdvdEttbW0tc3RWekRyVzJXSjFxY08zU1ZDanFOei01MjF5eWxodlhxNHhEcWlmbmpSX1hZ0gGoAUFVX3lxTFBmRnBtakZrRDBZNlBpUkZYYng1M3hMOHpsZWh0YlFtb2xRTmt3dXJLaEtoSWt6RWFqODJOS2ZfU1hjYmZUSHJwbkZ5MWNwZEdfdHM1NmV3b0NHVUU4a1VyY3I3RlI3UjRPZV85LXB6U0xzcFlZWEdLVFNGLUpUTTE4bXFrRV9jRkNEOEJDeVpHM2FTXzVhUF9IRXJlNHM2MVlOMTVBWXZQXw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDFfZGFZRVZlNDZsSUlBY2ZFYkVub1pYZjhDTE9rSkVWZGdQcV9FclpRdnFkVUpuNDcweHRXUkFNTzRYS2hTVE9OWHNEN0pJV0dQZEdDTEJNT3IwRnpaTnNtbnJ1OHRobG5SM3RDWVdvdEttbW0tc3RWekRyVzJXSjFxY08zU1ZDanFOei01MjF5eWxodlhxNHhEcWlmbmpSX1hZ0gGoAUFVX3lxTFBmRnBtakZrRDBZNlBpUkZYYng1M3hMOHpsZWh0YlFtb2xRTmt3dXJLaEtoSWt6RWFqODJOS2ZfU1hjYmZUSHJwbkZ5MWNwZEdfdHM1NmV3b0NHVUU4a1VyY3I3RlI3UjRPZV85LXB6U0xzcFlZWEdLVFNGLUpUTTE4bXFrRV9jRkNEOEJDeVpHM2FTXzVhUF9IRXJlNHM2MVlOMTVBWXZQXw?oc=5\" target=\"_blank\">Inside Texas Instruments' $60 billion U.S. megaproject, where Apple will make iPhone chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-08-22T12:00:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple Explores Using Google Gemini AI to Power Revamped Siri - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGFtYWtINFVkMUg3Q002akJadW13eFYtMXlHNDY1ZVpGU3lTWkdXM2RnUkpLaFpKelFueTZrZFoyM3ZwNFFLTloyRWc3QVNFTlRxZWlqa3Bpel95OUVNaFM1Um4tc2RzMDJiaWtQTkx2SkFuemQtemxLelBDWk5yWFZzb0tpeDlNRHNCcFlTOTcydFlJcXZNOGFMYmE0WmFxUW5XaG1UeWxLd0VUczFIMg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGFtYWtINFVkMUg3Q002akJadW13eFYtMXlHNDY1ZVpGU3lTWkdXM2RnUkpLaFpKelFueTZrZFoyM3ZwNFFLTloyRWc3QVNFTlRxZWlqa3Bpel95OUVNaFM1Um4tc2RzMDJiaWtQTkx2SkFuemQtemxLelBDWk5yWFZzb0tpeDlNRHNCcFlTOTcydFlJcXZNOGFMYmE0WmFxUW5XaG1UeWxLd0VUczFIMg?oc=5\" target=\"_blank\">Apple Explores Using Google Gemini AI to Power Revamped Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGFtYWtINFVkMUg3Q002akJadW13eFYtMXlHNDY1ZVpGU3lTWkdXM2RnUkpLaFpKelFueTZrZFoyM3ZwNFFLTloyRWc3QVNFTlRxZWlqa3Bpel95OUVNaFM1Um4tc2RzMDJiaWtQTkx2SkFuemQtemxLelBDWk5yWFZzb0tpeDlNRHNCcFlTOTcydFlJcXZNOGFMYmE0WmFxUW5XaG1UeWxLd0VUczFIMg?oc=5\" target=\"_blank\">Apple Explores Using Google Gemini AI to Power Revamped Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "published": "2025-08-22T17:18:30+00:00",
-      "source": "Bloomberg.com"
+      "source": "Bloomberg"
     },
     {
       "title": "Google shares rise on report of Apple using Gemini for Siri - CNBC",
@@ -26,18 +33,18 @@
       "source": "Reuters"
     },
     {
-      "title": "Foxconn’s Recall of More Chinese Staff Tests Apple’s India Push - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXlVS1ZmUUpIaUdCT0pGVmNMUWxwQlBMVTNYSVpENEVTa0Z1R3FvUzJHTTlkRXJOekRFeUxBejBLc1lVTTZKS0FwYk16eHVSd0pVbzlCY0FwMmxOVVF5TnhPSjh2OXlwajE5Tk1SYXZTV053UWVPOE5qd0QwTmxpWE5fNHhzUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxORXlVS1ZmUUpIaUdCT0pGVmNMUWxwQlBMVTNYSVpENEVTa0Z1R3FvUzJHTTlkRXJOekRFeUxBejBLc1lVTTZKS0FwYk16eHVSd0pVbzlCY0FwMmxOVVF5TnhPSjh2OXlwajE5Tk1SYXZTV053UWVPOE5qd0QwTmxpWE5fNHhzUQ?oc=5\" target=\"_blank\">Foxconn’s Recall of More Chinese Staff Tests Apple’s India Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-23T10:07:49+00:00",
-      "source": "Yahoo Finance"
+      "title": "Apple to Kick Off Three-Year Plan to Reinvent Its Iconic iPhone - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPODRYN2luWkpmaXA1Ym9uSWhLT05zRXo5NDVFV09TMkZFU0ZDTHh6emUtSkZ3elA4dDRNX3l1Y19CdHRPQW5UZmZPdFBEZ1hNODhINUZlTWlieHZYc20tS2UwaHNlMkZGbDVHZWU0anNlcGlGUEhxLWw5M0gwdUs4X0Z1c0N0eUFEdjdtMHU1UDl2dktqZll1aHVKT0lRLVRwR2ktZHJPbUVQdEJUd3NrZWQ5S1JxTkNVaWlQNmd5OTVaV2IxRjhER2FXNVRBZE1jMk5oT3hJZ2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPODRYN2luWkpmaXA1Ym9uSWhLT05zRXo5NDVFV09TMkZFU0ZDTHh6emUtSkZ3elA4dDRNX3l1Y19CdHRPQW5UZmZPdFBEZ1hNODhINUZlTWlieHZYc20tS2UwaHNlMkZGbDVHZWU0anNlcGlGUEhxLWw5M0gwdUs4X0Z1c0N0eUFEdjdtMHU1UDl2dktqZll1aHVKT0lRLVRwR2ktZHJPbUVQdEJUd3NrZWQ5S1JxTkNVaWlQNmd5OTVaV2IxRjhER2FXNVRBZE1jMk5oT3hJZ2s?oc=5\" target=\"_blank\">Apple to Kick Off Three-Year Plan to Reinvent Its Iconic iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2025-08-24T12:00:27+00:00",
+      "source": "Bloomberg"
     },
     {
-      "title": "Michigan's orchards set to open with cider and donuts: Where to find them - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUo4VXJBSFQtckNTTWRvLTFoczNIT01LdGFPT01zLTFrXzZSTm9fS2M4VHFFN1ZGOUs4aTlYU0RtWTZPQy1aNXkxZ2pKM1FhTUg4a0wxUXNCalk4VG03TXRQR3VlYThiMUU4S3p4T3pLN2V1WGplVm9Ga0pFMmlHdnNMTEI3VHZacWFfNWVWZ0JjdXhxLVBpMnpwWVB6LTl2MjVEZkFmV2t0MUVkamxNLWJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUo4VXJBSFQtckNTTWRvLTFoczNIT01LdGFPT01zLTFrXzZSTm9fS2M4VHFFN1ZGOUs4aTlYU0RtWTZPQy1aNXkxZ2pKM1FhTUg4a0wxUXNCalk4VG03TXRQR3VlYThiMUU4S3p4T3pLN2V1WGplVm9Ga0pFMmlHdnNMTEI3VHZacWFfNWVWZ0JjdXhxLVBpMnpwWVB6LTl2MjVEZkFmV2t0MUVkamxNLWJ3?oc=5\" target=\"_blank\">Michigan's orchards set to open with cider and donuts: Where to find them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>",
-      "published": "2025-08-23T11:02:04+00:00",
-      "source": "Detroit Free Press"
+      "title": "Apple TV+ hikes subscription for third time in three years - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rTldiNk5kWjFUMFhtRHplaU93Q3E3NnJoeHFXLU5fYjVoRHhsNWJtN3ZUdEY5UGxzMjZheGNTVW5aMm1FUUozNTA1UWM2SVA0Z0NMc3hTeUVjVjJDeVFhTWlVc2JHV2I4OE5nd0I0NWRDUdIBd0FVX3lxTE1EQ0lGNnhQRnZONHhNTmU4aHB5TnpHTjBVZGFpdFAtMnREbkRxSWllT0hKVXBubXBIR29QQm1qY1FkRWlIS2dHLTBMdjNwZTZibU9hN1JNRERmekRfRXV6c1pPMHBZVDdqVkZQQWVmNTQwdDhlSGRZ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5rTldiNk5kWjFUMFhtRHplaU93Q3E3NnJoeHFXLU5fYjVoRHhsNWJtN3ZUdEY5UGxzMjZheGNTVW5aMm1FUUozNTA1UWM2SVA0Z0NMc3hTeUVjVjJDeVFhTWlVc2JHV2I4OE5nd0I0NWRDUdIBd0FVX3lxTE1EQ0lGNnhQRnZONHhNTmU4aHB5TnpHTjBVZGFpdFAtMnREbkRxSWllT0hKVXBubXBIR29QQm1qY1FkRWlIS2dHLTBMdjNwZTZibU9hN1JNRERmekRfRXV6c1pPMHBZVDdqVkZQQWVmNTQwdDhlSGRZ?oc=5\" target=\"_blank\">Apple TV+ hikes subscription for third time in three years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTmFZSi1tYXBqZVQzOHpzY01XbVl1Ukl6UDlSd0NfdW1XTzZJQ1BVcXZobXVhYVpJNXA1MzFITGZIamNwZjdlWmFURE1IWEdSUzU2MWd4NXRiZ9IBX0FVX3lxTE5YdExNVEpQV1Q5cjF2cXlpak9NRkVYcTdPT0dDallscnNNT3hOWm5CZkJUS2ZzMVlIUDhRNkE0VVg0aFF0eGtXbmsyVGkzbExfV2JaX2JfSGhicjFLTVZZ?oc=5\" target=\"_blank\">Apple TV+ raises subscription prices worldwide, including in UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTFVa1Rtd0dvNU04Sm1laFhHN3VFVDZxd3FVZ3FlSV80dXFCZ2xwaHo4eFpUaTVyczhYb2NodW5OTGN2c3E4aFFUU3IzVHdJMTBmYTc2QnJkbk5mQ2tfdGRBUXV3OWI4REJybk03emZoR3lqc0s1eTRpOGVEYktXNWRWZExNWDJQM1hpWVNJZGd4MktyYjdtTg?oc=5\" target=\"_blank\">Apple just indirectly boosted the value of its all-in-one subscription service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li></ol>",
+      "published": "2025-08-21T15:25:46+00:00",
+      "source": "CNBC"
     },
     {
       "title": "Apple Fitness Chief Accused of Toxic Workplace Culture and Harassment - The New York Times",
@@ -47,27 +54,27 @@
       "source": "The New York Times"
     },
     {
-      "title": "Apple TV+ raises subscription prices worldwide, including in UK - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTmFZSi1tYXBqZVQzOHpzY01XbVl1Ukl6UDlSd0NfdW1XTzZJQ1BVcXZobXVhYVpJNXA1MzFITGZIamNwZjdlWmFURE1IWEdSUzU2MWd4NXRiZ9IBX0FVX3lxTE5YdExNVEpQV1Q5cjF2cXlpak9NRkVYcTdPT0dDallscnNNT3hOWm5CZkJUS2ZzMVlIUDhRNkE0VVg0aFF0eGtXbmsyVGkzbExfV2JaX2JfSGhicjFLTVZZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTmFZSi1tYXBqZVQzOHpzY01XbVl1Ukl6UDlSd0NfdW1XTzZJQ1BVcXZobXVhYVpJNXA1MzFITGZIamNwZjdlWmFURE1IWEdSUzU2MWd4NXRiZ9IBX0FVX3lxTE5YdExNVEpQV1Q5cjF2cXlpak9NRkVYcTdPT0dDallscnNNT3hOWm5CZkJUS2ZzMVlIUDhRNkE0VVg0aFF0eGtXbmsyVGkzbExfV2JaX2JfSGhicjFLTVZZ?oc=5\" target=\"_blank\">Apple TV+ raises subscription prices worldwide, including in UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2025-08-22T14:22:32+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "Apple TV+ hikes subscription for third time in three years - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rTldiNk5kWjFUMFhtRHplaU93Q3E3NnJoeHFXLU5fYjVoRHhsNWJtN3ZUdEY5UGxzMjZheGNTVW5aMm1FUUozNTA1UWM2SVA0Z0NMc3hTeUVjVjJDeVFhTWlVc2JHV2I4OE5nd0I0NWRDUdIBd0FVX3lxTE1EQ0lGNnhQRnZONHhNTmU4aHB5TnpHTjBVZGFpdFAtMnREbkRxSWllT0hKVXBubXBIR29QQm1qY1FkRWlIS2dHLTBMdjNwZTZibU9hN1JNRERmekRfRXV6c1pPMHBZVDdqVkZQQWVmNTQwdDhlSGRZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5rTldiNk5kWjFUMFhtRHplaU93Q3E3NnJoeHFXLU5fYjVoRHhsNWJtN3ZUdEY5UGxzMjZheGNTVW5aMm1FUUozNTA1UWM2SVA0Z0NMc3hTeUVjVjJDeVFhTWlVc2JHV2I4OE5nd0I0NWRDUdIBd0FVX3lxTE1EQ0lGNnhQRnZONHhNTmU4aHB5TnpHTjBVZGFpdFAtMnREbkRxSWllT0hKVXBubXBIR29QQm1qY1FkRWlIS2dHLTBMdjNwZTZibU9hN1JNRERmekRfRXV6c1pPMHBZVDdqVkZQQWVmNTQwdDhlSGRZ?oc=5\" target=\"_blank\">Apple TV+ hikes subscription for third time in three years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-08-21T15:25:46+00:00",
-      "source": "CNBC"
+      "title": "Apple iPhone 17, iPhone 17 Air: New Report Specifies Key Dates - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0VhSnUwT2NhWEtzTGtWOUh2bmJpTXJWVVVxNUNDOVpnV0F6ZTQ5ZVhjMUJYRVdwUkZta2lHU29LdWsxZGJjSktKd0xWNzNGakV0djlNU1B3SXVzMktuY1pGQ0tTUXJjSHE5RXlqMkdTOTU0UmVqLXpkLTJiMnFEWXFaSkoxbDZ3MGtxQWtocHVnOG9mc1ZZLU5MeDktOHhrOXN2eE5leHRtWW5vUTlfZjJObGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0VhSnUwT2NhWEtzTGtWOUh2bmJpTXJWVVVxNUNDOVpnV0F6ZTQ5ZVhjMUJYRVdwUkZta2lHU29LdWsxZGJjSktKd0xWNzNGakV0djlNU1B3SXVzMktuY1pGQ0tTUXJjSHE5RXlqMkdTOTU0UmVqLXpkLTJiMnFEWXFaSkoxbDZ3MGtxQWtocHVnOG9mc1ZZLU5MeDktOHhrOXN2eE5leHRtWW5vUTlfZjJObGc?oc=5\" target=\"_blank\">Apple iPhone 17, iPhone 17 Air: New Report Specifies Key Dates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2025-08-22T13:26:00+00:00",
+      "source": "Forbes"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple to launch new version of FineWoven with iPhone 17, report claims - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1U0pISlZKVG5wMkdiTE9HcDlVTFJtSGc3V2ZlZUVIY2FlTUk0M0lkNldhbWtIQTEzNkZlNG51cFh4Q2ZGNy0wc3hPdjRlZ1JXdHpVc3VQMFJfVkgzWEZtSkxxWkpTRFNXU0ZIQkQ0NEFBLWQ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA1U0pISlZKVG5wMkdiTE9HcDlVTFJtSGc3V2ZlZUVIY2FlTUk0M0lkNldhbWtIQTEzNkZlNG51cFh4Q2ZGNy0wc3hPdjRlZ1JXdHpVc3VQMFJfVkgzWEZtSkxxWkpTRFNXU0ZIQkQ0NEFBLWQ3?oc=5\" target=\"_blank\">Apple to launch new version of FineWoven with iPhone 17, report claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-08-20T10:02:48+00:00",
-      "source": "Mashable"
+      "title": "Apple to Kick Off Three-Year Plan to Reinvent Its Iconic iPhone - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPODRYN2luWkpmaXA1Ym9uSWhLT05zRXo5NDVFV09TMkZFU0ZDTHh6emUtSkZ3elA4dDRNX3l1Y19CdHRPQW5UZmZPdFBEZ1hNODhINUZlTWlieHZYc20tS2UwaHNlMkZGbDVHZWU0anNlcGlGUEhxLWw5M0gwdUs4X0Z1c0N0eUFEdjdtMHU1UDl2dktqZll1aHVKT0lRLVRwR2ktZHJPbUVQdEJUd3NrZWQ5S1JxTkNVaWlQNmd5OTVaV2IxRjhER2FXNVRBZE1jMk5oT3hJZ2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPODRYN2luWkpmaXA1Ym9uSWhLT05zRXo5NDVFV09TMkZFU0ZDTHh6emUtSkZ3elA4dDRNX3l1Y19CdHRPQW5UZmZPdFBEZ1hNODhINUZlTWlieHZYc20tS2UwaHNlMkZGbDVHZWU0anNlcGlGUEhxLWw5M0gwdUs4X0Z1c0N0eUFEdjdtMHU1UDl2dktqZll1aHVKT0lRLVRwR2ktZHJPbUVQdEJUd3NrZWQ5S1JxTkNVaWlQNmd5OTVaV2IxRjhER2FXNVRBZE1jMk5oT3hJZ2s?oc=5\" target=\"_blank\">Apple to Kick Off Three-Year Plan to Reinvent Its Iconic iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2025-08-24T12:00:27+00:00",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "3 Reasons You Should Buy Apple Stock Ahead of a Major Product Launch - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkJ6dUR0ZVRoUjRFQ1dpUWpsRkM2Vm9ndW9fNkVpWFlqYVlvRnFvM09GYUJMTXBOc252bVdfdGxOWnYtazl0TVY1YnJnYmN5b0U0ZmNaS05zRGZuUjc0X3ZJNWxOVi1aeFhJZzRINC1zZUdZSXlabmJjYXlMeDg4RA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkJ6dUR0ZVRoUjRFQ1dpUWpsRkM2Vm9ndW9fNkVpWFlqYVlvRnFvM09GYUJMTXBOc252bVdfdGxOWnYtazl0TVY1YnJnYmN5b0U0ZmNaS05zRGZuUjc0X3ZJNWxOVi1aeFhJZzRINC1zZUdZSXlabmJjYXlMeDg4RA?oc=5\" target=\"_blank\">3 Reasons You Should Buy Apple Stock Ahead of a Major Product Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-08-23T22:27:08+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Apple is launching 15+ new products this fall, here’s what’s coming - 9to5Mac",
@@ -77,25 +84,18 @@
       "source": "9to5Mac"
     },
     {
+      "title": "Apple to launch new version of FineWoven with iPhone 17, report claims - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1U0pISlZKVG5wMkdiTE9HcDlVTFJtSGc3V2ZlZUVIY2FlTUk0M0lkNldhbWtIQTEzNkZlNG51cFh4Q2ZGNy0wc3hPdjRlZ1JXdHpVc3VQMFJfVkgzWEZtSkxxWkpTRFNXU0ZIQkQ0NEFBLWQ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA1U0pISlZKVG5wMkdiTE9HcDlVTFJtSGc3V2ZlZUVIY2FlTUk0M0lkNldhbWtIQTEzNkZlNG51cFh4Q2ZGNy0wc3hPdjRlZ1JXdHpVc3VQMFJfVkgzWEZtSkxxWkpTRFNXU0ZIQkQ0NEFBLWQ3?oc=5\" target=\"_blank\">Apple to launch new version of FineWoven with iPhone 17, report claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-08-20T10:13:49+00:00",
+      "source": "Mashable"
+    },
+    {
       "title": "iPhone 17 launch timeline may have just leaked - will there be a staggered launch of Apple products in Sep - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNUzBFdzlobzlHZWxsSmFXdzhpYXRVT2FwQlhVQUl1QkFLT2NoQzBDUWVoNFp1WGNDeHh3VlJNeGxram1QN3FBQTFrWlRkem8tRG9sUnBQV1o2N3MtM21ZaExTcXZUb0hfVTlRblgtN1ByNkpsc0Ftekt2bE16d21QOGp3N3BUbjNPVENJb1hWd0R1YmxUd3BGZ2xKTjFVV2staWdEM1FBUGx2WFNnX2FJY3dQNExRQWt6ZTMyX3JlNTBJcWFHYUZwRV9IMDhVUHd0bW9vMnVPMnBoSm8xTVNYZXowNkVNTmczNHhMM3BfWGkxNmpWSUxrZlhWaFVmZVY5Z29oZlFFUldJcGRYMHFLdkpUOVXSAZoCQVVfeXFMUDZmZXAzc19MNmdwcGFFV25RM0xVQ0w1Z0hua1NEbUFkZUxWMjVWY2hkX0p1ejZmN1A1ZUFyeTZ1Vm9uUVEwdWVaaC03NDJBVUZqbmRyRjNYZTN4cXZvODVBYkpIVjJIcXp6M0o0eV8yT01LVlVyRlVMQXptNFltVkdFdFB1c3ZfV0hMeGlZWUhxWkRaRW1wMGdtQjNOUTZ2LWU5YWQweDk2Z1ZHNXpuWkE1dFZTY1ZyNF93dG4zUXo4U0xkZjJjOVNtZG1nODhNZHhwNzVtWHpFZFM2UFE4X1lCaERHYWRMOWRINWV1a3N1T3VPWXlTY2tUSmg4RFQtSnljUzFFRVgwQlhJTjBucENTQXZleGFFc0tR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNUzBFdzlobzlHZWxsSmFXdzhpYXRVT2FwQlhVQUl1QkFLT2NoQzBDUWVoNFp1WGNDeHh3VlJNeGxram1QN3FBQTFrWlRkem8tRG9sUnBQV1o2N3MtM21ZaExTcXZUb0hfVTlRblgtN1ByNkpsc0Ftekt2bE16d21QOGp3N3BUbjNPVENJb1hWd0R1YmxUd3BGZ2xKTjFVV2staWdEM1FBUGx2WFNnX2FJY3dQNExRQWt6ZTMyX3JlNTBJcWFHYUZwRV9IMDhVUHd0bW9vMnVPMnBoSm8xTVNYZXowNkVNTmczNHhMM3BfWGkxNmpWSUxrZlhWaFVmZVY5Z29oZlFFUldJcGRYMHFLdkpUOVXSAZoCQVVfeXFMUDZmZXAzc19MNmdwcGFFV25RM0xVQ0w1Z0hua1NEbUFkZUxWMjVWY2hkX0p1ejZmN1A1ZUFyeTZ1Vm9uUVEwdWVaaC03NDJBVUZqbmRyRjNYZTN4cXZvODVBYkpIVjJIcXp6M0o0eV8yT01LVlVyRlVMQXptNFltVkdFdFB1c3ZfV0hMeGlZWUhxWkRaRW1wMGdtQjNOUTZ2LWU5YWQweDk2Z1ZHNXpuWkE1dFZTY1ZyNF93dG4zUXo4U0xkZjJjOVNtZG1nODhNZHhwNzVtWHpFZFM2UFE4X1lCaERHYWRMOWRINWV1a3N1T3VPWXlTY2tUSmg4RFQtSnljUzFFRVgwQlhJTjBucENTQXZleGFFc0tR?oc=5\" target=\"_blank\">iPhone 17 launch timeline may have just leaked - will there be a staggered launch of Apple products in Sep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
       "published": "2025-08-20T17:14:20+00:00",
       "source": "The Economic Times"
-    },
-    {
-      "title": "When is Apple’s iPhone 17 launch event? Date, time, what to expect - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMW5JcHFVWC1DNmZjVnh0Tk9WOG5vTUFPbXlBTFFCVjBQcHljOHNzNF9FVllkMk1SNnU1QVhuLTBBeDBMQXRNbmtpUU91RjlMWjV4cmRHOGRHZXBmcHJGVnFScjJfcTg0MHpINnF6b1NCQVQ5V29xNXFkM2RTdlk5STBzRUZST01pOWFpODA5OXdDTjFRYTczVlFZcGZpRWdZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQMW5JcHFVWC1DNmZjVnh0Tk9WOG5vTUFPbXlBTFFCVjBQcHljOHNzNF9FVllkMk1SNnU1QVhuLTBBeDBMQXRNbmtpUU91RjlMWjV4cmRHOGRHZXBmcHJGVnFScjJfcTg0MHpINnF6b1NCQVQ5V29xNXFkM2RTdlk5STBzRUZST01pOWFpODA5OXdDTjFRYTczVlFZcGZpRWdZ?oc=5\" target=\"_blank\">When is Apple’s iPhone 17 launch event? Date, time, what to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
-      "published": "2025-08-19T17:32:33+00:00",
-      "source": "Fast Company"
-    },
-    {
-      "title": "13 New Apple products coming in 2025: What the rumors say - Gadget Flow",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UjI0NkI4emxzTWFaZS1jZmMxVmNtdE5XelQwNFRnSTgzenVVSXA0OWhvYmhncFhLeWF3c2JKZzdBcFRxNmlEVDlLTjJMM2dQc21hN18yeExqS1cxT0dlNEdKdjRtQXdQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UjI0NkI4emxzTWFaZS1jZmMxVmNtdE5XelQwNFRnSTgzenVVSXA0OWhvYmhncFhLeWF3c2JKZzdBcFRxNmlEVDlLTjJMM2dQc21hN18yeExqS1cxT0dlNEdKdjRtQXdQ?oc=5\" target=\"_blank\">13 New Apple products coming in 2025: What the rumors say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Flow</font>",
-      "published": "2025-07-04T07:00:00+00:00",
-      "source": "Gadget Flow"
     }
   ],
   "stock": {
