@@ -2,49 +2,14 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-08-30T12:19:20.978086+00:00",
+  "fetched_at": "2025-08-31T12:20:02.647309+00:00",
   "news": [
-    {
-      "title": "Microsoft unveils powerful new homegrown AI models - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0ZaYmxNZ0Jsc3paNVduUmZucWdpUklKMHdCakVoblNMSWtwQW41cHdzQ2VRT0pJbW9Ma1AyVFFpM1BLY1dSZzM0VFdRcGRRdnlyRU43RTZQNTVyY2hlOC1zTENZeUVnU19BbjdFS1Q1SklUN2lEWEJDbEZJdHp6Zzd2WFhTMzRJaF9jTTVXN2U0XzlPYnQwZmJn?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0ZaYmxNZ0Jsc3paNVduUmZucWdpUklKMHdCakVoblNMSWtwQW41cHdzQ2VRT0pJbW9Ma1AyVFFpM1BLY1dSZzM0VFdRcGRRdnlyRU43RTZQNTVyY2hlOC1zTENZeUVnU19BbjdFS1Q1SklUN2lEWEJDbEZJdHp6Zzd2WFhTMzRJaF9jTTVXN2U0XzlPYnQwZmJn?oc=5\" target=\"_blank\">Microsoft unveils powerful new homegrown AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXZReWloaXNwb0hzaXZGNElsMFR1QkNMdVZtaVlfUTY2SnVZdzd1MFZpRlczczZuUm03RFRJV0ItaTNlV085YnVINldMZDUycVU3dGhxb2U1VmhMMnVkdUF6Qm1VZ1FlbktTOWdtMHRCckx6VlM1dWdQcmVZM0tWTHFEQ2pqQQ?oc=5\" target=\"_blank\">Microsoft AI launches its first in-house models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1zeEpZRWZpVWZtSXNISVNjSDU0UlppTU9DRURCWG51dlk2VFVtSF96VlQ0eHRrNFpZaVhpczlMUm9pRFRhdWQ3WG13UGgwQmplUWp5dkFXSFlOcHdHTWxSeTUwcldwTHpWcWI3a0dROUxIWUpKVHhQRHRDd9IBgAFBVV95cUxNNDg4RlZXS3NMTjFzeS1fWE5zVjlzaHQ0UWF0UWRDcEVFaHJYbS15Vy1FNnIxd3hyU2g5QWlsMnZsTmo1YzhCOFY4YkVhQjYxdC11YWtyNUhLUWZ2VW1EN29vOG5XeEpvdVh0bTgtYzVtdURyT0N6VHgtV0hfQXNveg?oc=5\" target=\"_blank\">Jobs that are most at risk from AI, according to Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li></ol>",
-      "published": "2025-08-28T17:01:00+00:00",
-      "source": "Semafor"
-    },
-    {
-      "title": "Pentagon Warns Microsoft: Company’s Use of China-Based Engineers Was a “Breach of Trust” - ProPublica",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdldrbG9CcXFaUV94LU05MHg5V2UwM052dzhseXVraFphck5ZUGtkczg5NDJIU2ZJZ3IzU294NWRoa2FoQ2RaRGltbjgyam1uYkNjbGtDclJEbUFLQnl3UWlkQTBQUlBYYVp3VzU1WnE2V21Tb0xQTW11SURRU1FaQWRTdm5KeUZZMFRtNFRpNXQ3R0Y3dGJJMHZma2dIZnlsRTNueXRfV0F5ejQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdldrbG9CcXFaUV94LU05MHg5V2UwM052dzhseXVraFphck5ZUGtkczg5NDJIU2ZJZ3IzU294NWRoa2FoQ2RaRGltbjgyam1uYkNjbGtDclJEbUFLQnl3UWlkQTBQUlBYYVp3VzU1WnE2V21Tb0xQTW11SURRU1FaQWRTdm5KeUZZMFRtNFRpNXQ3R0Y3dGJJMHZma2dIZnlsRTNueXRfV0F5ejQ?oc=5\" target=\"_blank\">Pentagon Warns Microsoft: Company’s Use of China-Based Engineers Was a “Breach of Trust”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPublica</font>",
-      "published": "2025-08-29T20:10:00+00:00",
-      "source": "ProPublica"
-    },
     {
       "title": "Microsoft Software Engineer Dies on Silicon Valley Campus at 35 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2l4SHdNQ0tQcWhLdWNDUy1RZTJVeXNiYk8xS1FFblBXME9USWkyVy14aHNOWmhJQktnMVY4MEtlV0VOT05iSUJ0Zk1pYllnYXlCZkpYVTRMVVFvclVPbVlfdmJDMlU5bUNEcWNUVGRkNnNFTl85ZzlGLVJqVWZfWUFBZjdYSFBXMDItamFxcTRlZ2pHMVRWT3czYjMtcmIteDBMdy1aWDgyTnlzZDNjVlp0QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2l4SHdNQ0tQcWhLdWNDUy1RZTJVeXNiYk8xS1FFblBXME9USWkyVy14aHNOWmhJQktnMVY4MEtlV0VOT05iSUJ0Zk1pYllnYXlCZkpYVTRMVVFvclVPbVlfdmJDMlU5bUNEcWNUVGRkNnNFTl85ZzlGLVJqVWZfWUFBZjdYSFBXMDItamFxcTRlZ2pHMVRWT3czYjMtcmIteDBMdy1aWDgyTnlzZDNjVlp0QQ?oc=5\" target=\"_blank\">Microsoft Software Engineer Dies on Silicon Valley Campus at 35</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2l4SHdNQ0tQcWhLdWNDUy1RZTJVeXNiYk8xS1FFblBXME9USWkyVy14aHNOWmhJQktnMVY4MEtlV0VOT05iSUJ0Zk1pYllnYXlCZkpYVTRMVVFvclVPbVlfdmJDMlU5bUNEcWNUVGRkNnNFTl85ZzlGLVJqVWZfWUFBZjdYSFBXMDItamFxcTRlZ2pHMVRWT3czYjMtcmIteDBMdy1aWDgyTnlzZDNjVlp0QQ?oc=5\" target=\"_blank\">Microsoft Software Engineer Dies on Silicon Valley Campus at 35</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRjUyMFpDZ1JsMmgzM0pEdW1PTmpLR3RHMzBkSHpxaFpzRkktLWw3b3RZWGRXbVdrSGVCU19tdUlCbk9ZdUFhdHlDYzFweTdjczhwVnlUUk1qU2h4U0oxZGtYWHZmd0lGUVN1NXdkVVJmQW12ZjEzMm02emhTYk1PenQ2TDZzN04zQ1B0eDFCNnVvUERGc3VLMDdKRXlGcDY1MS1xTkpWcE80N3cyVDRTRS1UTTM0U1kxUGVjVFcweVR0TU1lYnRvNDZnLUwzc3d3bEcyR1VObW1mUWdIOFHSAeMBQVVfeXFMUDc1WklSN2VPTHpwRVBXN1ZEd3hxNkJjQnhzUmJHeGV4RTc0MkhkbFBIclRyRWYtcWtLUFFHOGltbXV1Nm82em5xUjJZdk9jck05bnB6Um5qSUtxRlV0aHFHUUVGcjMwaXRCa1JCcm4xLWctOE02WW4tekJ4dUROMzRWMGFWaXFlT2d1QVAtT3o2eUZORXI4V1ZpM0luY01haUo1T1EzZk9OU1hDWVNqTW5BdnhNQU50WXlqWnVfLXE5Vjlud3FvbzNIYnlJaUREQTdHcndRbHJXa0ZjOFlsRUxoQTA?oc=5\" target=\"_blank\">Who was Pratik Pandey, Indian-origin Microsoft techie found dead in California office? | Trending - Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGVEOE9HdmRQUXE5THM1ZUI0VkdwMzMyQldOS2FuMmY0Yk0wUzByQU9fZ2s2d3V5aWQxMDZjSmhydXRUeWNvQlVnVGE1YzVjVHNXLWJLSl9ucF9IVDhCQVVzeDgyMHBFczRTNHlhNHBxZkRROEh0YU5NeU0yUXFTaXpyRWFsQ1JOV0p4bklVN0s1UDd4VVBhMnRaZXlHNlBrQ0dUOG9BSkZiWjFod0FFalZSQ2RzRFdE?oc=5\" target=\"_blank\">Family of Microsoft employee who died warn tech companies not to overwork workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palo Alto Daily Post</font></li></ol>",
       "published": "2025-08-28T20:13:33+00:00",
       "source": "Bloomberg.com"
-    },
-    {
-      "title": "Who Was Pratik Pandey, Indian-Origin Engineer Found Dead At Microsoft Office - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnVRcWZOb2NRLW9xdjdkUEo1M0Z4WkNqNjFDbE9LbVQ4alVHZzI4bmk2eVZVQUdmM0lUbUlIR1NkeEJuQUV4NWFKUFduM0lHUDU2UnBtMHNaaGVudzZfZmZaT3hEQW9qbnpGbzNZTVpERklhRW5nRGR4LWZpOEk5NHdUdzFWbUlFT3ZoVDZyLUF6eGItUVRmY1hRdUZkWFo3Y1pEaWJDU1NLMUJtTDJhOFpKSWZVQdIBvgFBVV95cUxNYzVhcWJBNUNzV243UU40OXU3VGstMU9zT3AzN3ZFNkZXajFHWkdUVUhfWmVOWWsyUGRHSkdzdXNmRWpERndHWkw4RElVTnJxNmR4Q2pPSTUtQnkwSUxfOHNfOFJHbXFwZy05SWNjM1J1c2xwRGhsUlZKcE9odlYxZ0t6a1JFaWMxZFVfcVhpTGIweDNZZkdraXBWVm0yZ1NreXRZRlBuWmthT3dCT0NrVkw0OU8xZW40WlRUNXd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnVRcWZOb2NRLW9xdjdkUEo1M0Z4WkNqNjFDbE9LbVQ4alVHZzI4bmk2eVZVQUdmM0lUbUlIR1NkeEJuQUV4NWFKUFduM0lHUDU2UnBtMHNaaGVudzZfZmZaT3hEQW9qbnpGbzNZTVpERklhRW5nRGR4LWZpOEk5NHdUdzFWbUlFT3ZoVDZyLUF6eGItUVRmY1hRdUZkWFo3Y1pEaWJDU1NLMUJtTDJhOFpKSWZVQdIBvgFBVV95cUxNYzVhcWJBNUNzV243UU40OXU3VGstMU9zT3AzN3ZFNkZXajFHWkdUVUhfWmVOWWsyUGRHSkdzdXNmRWpERndHWkw4RElVTnJxNmR4Q2pPSTUtQnkwSUxfOHNfOFJHbXFwZy05SWNjM1J1c2xwRGhsUlZKcE9odlYxZ0t6a1JFaWMxZFVfcVhpTGIweDNZZkdraXBWVm0yZ1NreXRZRlBuWmthT3dCT0NrVkw0OU8xZW40WlRUNXd3?oc=5\" target=\"_blank\">Who Was Pratik Pandey, Indian-Origin Engineer Found Dead At Microsoft Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-      "published": "2025-08-29T09:05:44+00:00",
-      "source": "NDTV"
-    },
-    {
-      "title": "Family of Microsoft employee who died warn tech companies not to overwork workers - Palo Alto Daily Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGVEOE9HdmRQUXE5THM1ZUI0VkdwMzMyQldOS2FuMmY0Yk0wUzByQU9fZ2s2d3V5aWQxMDZjSmhydXRUeWNvQlVnVGE1YzVjVHNXLWJLSl9ucF9IVDhCQVVzeDgyMHBFczRTNHlhNHBxZkRROEh0YU5NeU0yUXFTaXpyRWFsQ1JOV0p4bklVN0s1UDd4VVBhMnRaZXlHNlBrQ0dUOG9BSkZiWjFod0FFalZSQ2RzRFdE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGVEOE9HdmRQUXE5THM1ZUI0VkdwMzMyQldOS2FuMmY0Yk0wUzByQU9fZ2s2d3V5aWQxMDZjSmhydXRUeWNvQlVnVGE1YzVjVHNXLWJLSl9ucF9IVDhCQVVzeDgyMHBFczRTNHlhNHBxZkRROEh0YU5NeU0yUXFTaXpyRWFsQ1JOV0p4bklVN0s1UDd4VVBhMnRaZXlHNlBrQ0dUOG9BSkZiWjFod0FFalZSQ2RzRFdE?oc=5\" target=\"_blank\">Family of Microsoft employee who died warn tech companies not to overwork workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palo Alto Daily Post</font>",
-      "published": "2025-08-30T06:50:21+00:00",
-      "source": "Palo Alto Daily Post"
-    },
-    {
-      "title": "Microsoft fires two employees over breaking into its president’s office - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzZlbG1Ea0FWZTRzZ0swTlM4eW5WT0UwNnJzM0M1b1hTSjZlRmpYMnRIQkR3WXBZSDJVdkdVNGh3dmV3QUptbjcyVGM0UFJ0VThJZ0ZHcTg0YnlKclpBclMweUxMdFVxaTcyRElwSjdJaktKb1FMdk9HcVJIS2I0UWxLVkhFYlZQWkFKc3B4d2RjSFFORGVoYUw2ZlZFMUQ3cUU4LUhfQXRoQUxYbDJQbnZudWFnbXl5VXdZ0gHAAUFVX3lxTE0zZHByOTZVY0JKd3hobV9YTF82U09qU1licU1iZHNjT1BXdUFpOFladmotY1BGcGlrRUlmVzFVbjh4UXRMelY0OWUzaWFOaURLakhQRDNKdmlUdWZnWDRhMFBxUXlqN2RyTFRUN2hRNndkcTA1X2U5Nm5rR090azlDUU90TkVUZG5tSy1LOTloOUJZb1B1cXBXbzJtbi1jT29XclRnRlN2cjZzM2N1QWg4eUNLRUg3ZFo5SG82ei10MA?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzZlbG1Ea0FWZTRzZ0swTlM4eW5WT0UwNnJzM0M1b1hTSjZlRmpYMnRIQkR3WXBZSDJVdkdVNGh3dmV3QUptbjcyVGM0UFJ0VThJZ0ZHcTg0YnlKclpBclMweUxMdFVxaTcyRElwSjdJaktKb1FMdk9HcVJIS2I0UWxLVkhFYlZQWkFKc3B4d2RjSFFORGVoYUw2ZlZFMUQ3cUU4LUhfQXRoQUxYbDJQbnZudWFnbXl5VXdZ0gHAAUFVX3lxTE0zZHByOTZVY0JKd3hobV9YTF82U09qU1licU1iZHNjT1BXdUFpOFladmotY1BGcGlrRUlmVzFVbjh4UXRMelY0OWUzaWFOaURLakhQRDNKdmlUdWZnWDRhMFBxUXlqN2RyTFRUN2hRNndkcTA1X2U5Nm5rR090azlDUU90TkVUZG5tSy1LOTloOUJZb1B1cXBXbzJtbi1jT29XclRnRlN2cjZzM2N1QWg4eUNLRUg3ZFo5SG82ei10MA?oc=5\" target=\"_blank\">Microsoft fires two employees over breaking into its president’s office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUQ5Ni10V2RFc1A3QldfTm5MbmlrYVJpYjhNMDVfd0FUeldRanJGLW5WTGNyVm0tQnZLYjdHTV9RNWhwcmJrNlRSdXhxZkRfUE9GXzA5S3poSUhuZFUwOWF4UlZ6ZmNzTHBjQzFhdTJXemlzQnRlX3gtX1E4Q1V2dEN3bjlHYXF3ZTAtdlJsOExRVFhMQm5tTmRLVXRqZXFneFAtc0NJR3hERFEwR3Z2VWlyMl9CS25xekZZc1RubVpNS284MjhEQ0ptcTIwb2MzTXJN?oc=5\" target=\"_blank\">Microsoft fires four workers for on-site protests over company's ties to Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDEwV3NsUmxtQ0t0YUFocXBYLUJIRFdDaTJGWnI1MnFHbHFtX0J6V1VJbzJHdWdSejUzWC1UZ0JzU3gtOGhobDdIbUF1RVd4VWdYYkwxdlMzVnJIUVViQVdoYkNkc3Q4QlQyQU5ZcWVpamZsdjlqd19HanRwTUs5X2gxV1A4UXZNYXdRMWJR0gGTAUFVX3lxTFBkT2hfaE4yZWkxZjhnYzhLSjFVM3RiR2NncXdBS1d0VGpnOUhRdTZuajBzblVNbzdZdzlJY2dXd284eVlXbnJNRXRSNUdqZHhoRHhBaWx0MG9SYVRyQzRidEVZZkVjeS1SQm90Y2o2cnJ4VXB3M2plYk9lMXlUcW1TZjNWemJJVTcwaVBvVzZHY3I4OA?oc=5\" target=\"_blank\">Microsoft fires 4 employees after protest, break-in at president's office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
-      "published": "2025-08-28T04:49:22+00:00",
-      "source": "CNBC"
     },
     {
       "title": "Microsoft says recent Windows update didn't kill your SSD - BleepingComputer",
@@ -54,11 +19,46 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft swats down reports of SSD failures in Windows — company says recent update didn't cause storage failures - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOHhBNndySUExcjhfRXZBUzlRN0NWdjBBVlFZV0FjNUNxRVk0REwzMFpxS2ZmQ1lBMENRWGx1VTNDYzhfVjJfVTRxVzgtT2piT1g0ZXJtWTNQbHhFbE1LRFFoMGJoWDNvbFdsY0ozcjFMTzlEeTBqaVRER2FLRXhnb201OEFoaFplczNZUm5Vc0NZdjVXWkxPSVhZSDFlRlhzRU94UjFVMl9Hd195aWFMaU91NXNKM09BWUVFc0RybVBMSHY1M29OcnVpVG5vem5rR2FBQU1XVndTU3ExdEhrY2w4d01sR1JRaW4yR053?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOHhBNndySUExcjhfRXZBUzlRN0NWdjBBVlFZV0FjNUNxRVk0REwzMFpxS2ZmQ1lBMENRWGx1VTNDYzhfVjJfVTRxVzgtT2piT1g0ZXJtWTNQbHhFbE1LRFFoMGJoWDNvbFdsY0ozcjFMTzlEeTBqaVRER2FLRXhnb201OEFoaFplczNZUm5Vc0NZdjVXWkxPSVhZSDFlRlhzRU94UjFVMl9Hd195aWFMaU91NXNKM09BWUVFc0RybVBMSHY1M29OcnVpVG5vem5rR2FBQU1XVndTU3ExdEhrY2w4d01sR1JRaW4yR053?oc=5\" target=\"_blank\">Microsoft swats down reports of SSD failures in Windows — company says recent update didn't cause storage failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2025-08-30T14:14:33+00:00",
+      "source": "Tom's Hardware"
+    },
+    {
       "title": "Microsoft’s next annual update for Windows 11 is in Release Preview testing - The Verge",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm81MDYxOWthRF9LYnRxdTdwSXRHWEIySjd0dnJxZ0JOLTlkeVhFRHp3N0pxOU5faldzQWtKRTVXQThHLTdtYkZmT2dXTHhFRzJybGV0MV9pWlB4V2RxUnRIejJNWEVwTGJib3ZTTFplRVdJVnVIVjI4SndtOWhNb0cyR0QxVVBMdjVtYXJlUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm81MDYxOWthRF9LYnRxdTdwSXRHWEIySjd0dnJxZ0JOLTlkeVhFRHp3N0pxOU5faldzQWtKRTVXQThHLTdtYkZmT2dXTHhFRzJybGV0MV9pWlB4V2RxUnRIejJNWEVwTGJib3ZTTFplRVdJVnVIVjI4SndtOWhNb0cyR0QxVVBMdjVtYXJlUQ?oc=5\" target=\"_blank\">Microsoft’s next annual update for Windows 11 is in Release Preview testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2025-08-29T19:21:15+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Microsoft fires 4 employees after protest, break-in at president's office - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDEwV3NsUmxtQ0t0YUFocXBYLUJIRFdDaTJGWnI1MnFHbHFtX0J6V1VJbzJHdWdSejUzWC1UZ0JzU3gtOGhobDdIbUF1RVd4VWdYYkwxdlMzVnJIUVViQVdoYkNkc3Q4QlQyQU5ZcWVpamZsdjlqd19HanRwTUs5X2gxV1A4UXZNYXdRMWJR0gGTAUFVX3lxTFBkT2hfaE4yZWkxZjhnYzhLSjFVM3RiR2NncXdBS1d0VGpnOUhRdTZuajBzblVNbzdZdzlJY2dXd284eVlXbnJNRXRSNUdqZHhoRHhBaWx0MG9SYVRyQzRidEVZZkVjeS1SQm90Y2o2cnJ4VXB3M2plYk9lMXlUcW1TZjNWemJJVTcwaVBvVzZHY3I4OA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDEwV3NsUmxtQ0t0YUFocXBYLUJIRFdDaTJGWnI1MnFHbHFtX0J6V1VJbzJHdWdSejUzWC1UZ0JzU3gtOGhobDdIbUF1RVd4VWdYYkwxdlMzVnJIUVViQVdoYkNkc3Q4QlQyQU5ZcWVpamZsdjlqd19HanRwTUs5X2gxV1A4UXZNYXdRMWJR0gGTAUFVX3lxTFBkT2hfaE4yZWkxZjhnYzhLSjFVM3RiR2NncXdBS1d0VGpnOUhRdTZuajBzblVNbzdZdzlJY2dXd284eVlXbnJNRXRSNUdqZHhoRHhBaWx0MG9SYVRyQzRidEVZZkVjeS1SQm90Y2o2cnJ4VXB3M2plYk9lMXlUcW1TZjNWemJJVTcwaVBvVzZHY3I4OA?oc=5\" target=\"_blank\">Microsoft fires 4 employees after protest, break-in at president's office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzZlbG1Ea0FWZTRzZ0swTlM4eW5WT0UwNnJzM0M1b1hTSjZlRmpYMnRIQkR3WXBZSDJVdkdVNGh3dmV3QUptbjcyVGM0UFJ0VThJZ0ZHcTg0YnlKclpBclMweUxMdFVxaTcyRElwSjdJaktKb1FMdk9HcVJIS2I0UWxLVkhFYlZQWkFKc3B4d2RjSFFORGVoYUw2ZlZFMUQ3cUU4LUhfQXRoQUxYbDJQbnZudWFnbXl5VXdZ0gHAAUFVX3lxTE0zZHByOTZVY0JKd3hobV9YTF82U09qU1licU1iZHNjT1BXdUFpOFladmotY1BGcGlrRUlmVzFVbjh4UXRMelY0OWUzaWFOaURLakhQRDNKdmlUdWZnWDRhMFBxUXlqN2RyTFRUN2hRNndkcTA1X2U5Nm5rR090azlDUU90TkVUZG5tSy1LOTloOUJZb1B1cXBXbzJtbi1jT29XclRnRlN2cjZzM2N1QWg4eUNLRUg3ZFo5SG82ei10MA?oc=5\" target=\"_blank\">Microsoft fires two employees over breaking into its president’s office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNMWpoVEVlSGF0aDh6NWIzcUdkOFdRNGo4MWdDSWRoMGdfMWJneXlUMVBSeDJqcGZkbThHSjF5bEt6THRxRERRUGxGM2d1b2V6eGJiaE9Md1JNYXBMTFBYWVpmZzRxZ3RQZDdnMDQ4Z0pSeTVFQTRzTDVIWHJKcVA5cVNaTWFEN093dFlCZEZjOFBtNkU3ay10QzNhWElfeFg1a3A2SHo4dUhNN05KNk5LTlJlLU5ObFpTdG1BVHJhX1doQ2tzbDR4MlJTaW5PbTVnOF9aT1RRejNzbEpaSmlwSkhDNTU3RXpjTjJSUVAwWm80N0JYSTA4cUFvWnNzWE5OOWFzZTBpaEVQVVpFbTFQd0p4cjhZRTJ4SkFtWFVBWHM5QjA3em9QYzd2THVlcnZqQnFlU0d0TWlLaWRBWVZmc2Y5MHZtazY2YjdxNHM4elAzSzhISDBOWWxRd1ozdElyZ296djJSUnBZVE5TRTNlQVAtY2xuNHpoVmhwSm91RzBWd2paVjBWdzZ5bWJLblpDVi1KdUw3MVB6WFNoX1owSA?oc=5\" target=\"_blank\">First Google, Now Microsoft: Tech Staff Are in Revolt Over Gaza - WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li></ol>",
+      "published": "2025-08-28T14:48:00+00:00",
+      "source": "CBS News"
+    },
+    {
+      "title": "Pentagon Warns Microsoft: Company’s Use of China-Based Engineers Was a “Breach of Trust” - ProPublica",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdldrbG9CcXFaUV94LU05MHg5V2UwM052dzhseXVraFphck5ZUGtkczg5NDJIU2ZJZ3IzU294NWRoa2FoQ2RaRGltbjgyam1uYkNjbGtDclJEbUFLQnl3UWlkQTBQUlBYYVp3VzU1WnE2V21Tb0xQTW11SURRU1FaQWRTdm5KeUZZMFRtNFRpNXQ3R0Y3dGJJMHZma2dIZnlsRTNueXRfV0F5ejQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdldrbG9CcXFaUV94LU05MHg5V2UwM052dzhseXVraFphck5ZUGtkczg5NDJIU2ZJZ3IzU294NWRoa2FoQ2RaRGltbjgyam1uYkNjbGtDclJEbUFLQnl3UWlkQTBQUlBYYVp3VzU1WnE2V21Tb0xQTW11SURRU1FaQWRTdm5KeUZZMFRtNFRpNXQ3R0Y3dGJJMHZma2dIZnlsRTNueXRfV0F5ejQ?oc=5\" target=\"_blank\">Pentagon Warns Microsoft: Company’s Use of China-Based Engineers Was a “Breach of Trust”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPublica</font>",
+      "published": "2025-08-29T20:10:00+00:00",
+      "source": "ProPublica"
+    },
+    {
+      "title": "Microsoft AI launches its first in-house models - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXZReWloaXNwb0hzaXZGNElsMFR1QkNMdVZtaVlfUTY2SnVZdzd1MFZpRlczczZuUm03RFRJV0ItaTNlV085YnVINldMZDUycVU3dGhxb2U1VmhMMnVkdUF6Qm1VZ1FlbktTOWdtMHRCckx6VlM1dWdQcmVZM0tWTHFEQ2pqQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXZReWloaXNwb0hzaXZGNElsMFR1QkNMdVZtaVlfUTY2SnVZdzd1MFZpRlczczZuUm03RFRJV0ItaTNlV085YnVINldMZDUycVU3dGhxb2U1VmhMMnVkdUF6Qm1VZ1FlbktTOWdtMHRCckx6VlM1dWdQcmVZM0tWTHFEQ2pqQQ?oc=5\" target=\"_blank\">Microsoft AI launches its first in-house models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-08-28T21:13:04+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Jobs that are most at risk from AI, according to Microsoft - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zeEpZRWZpVWZtSXNISVNjSDU0UlppTU9DRURCWG51dlk2VFVtSF96VlQ0eHRrNFpZaVhpczlMUm9pRFRhdWQ3WG13UGgwQmplUWp5dkFXSFlOcHdHTWxSeTUwcldwTHpWcWI3a0dROUxIWUpKVHhQRHRDd9IBgAFBVV95cUxNNDg4RlZXS3NMTjFzeS1fWE5zVjlzaHQ0UWF0UWRDcEVFaHJYbS15Vy1FNnIxd3hyU2g5QWlsMnZsTmo1YzhCOFY4YkVhQjYxdC11YWtyNUhLUWZ2VW1EN29vOG5XeEpvdVh0bTgtYzVtdURyT0N6VHgtV0hfQXNveg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1zeEpZRWZpVWZtSXNISVNjSDU0UlppTU9DRURCWG51dlk2VFVtSF96VlQ0eHRrNFpZaVhpczlMUm9pRFRhdWQ3WG13UGgwQmplUWp5dkFXSFlOcHdHTWxSeTUwcldwTHpWcWI3a0dROUxIWUpKVHhQRHRDd9IBgAFBVV95cUxNNDg4RlZXS3NMTjFzeS1fWE5zVjlzaHQ0UWF0UWRDcEVFaHJYbS15Vy1FNnIxd3hyU2g5QWlsMnZsTmo1YzhCOFY4YkVhQjYxdC11YWtyNUhLUWZ2VW1EN29vOG5XeEpvdVh0bTgtYzVtdURyT0N6VHgtV0hfQXNveg?oc=5\" target=\"_blank\">Jobs that are most at risk from AI, according to Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "published": "2025-08-28T16:08:19+00:00",
+      "source": "Fox News"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "Microsoft"
     },
     {
-      "title": "Copilot launches in Excel, but Microsoft warns against using it \"for any task requiring accuracy\" - gHacks Technology News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTBpaUVsZ3YxUVJ2Ml8tSVR1OGo4cFdEbEk5NjZTM1VxdzdGMFhiQ2g0NHg1YWNsWWpsX0dyTm8wdTh1ZmJSTDY5dUlJcmJ1QmUyTUN0eU9mUHZJUHQzY1FWRU9wRlM2SDBMMFlvSnhMNUdUdUNRNVd6cW53a2JnOEp0UkdxdGFpaGFuS0NRNFd1eGhsZi1rSE85T08yNS1jSHQwSFNoVkI1WGd6ZE9mOW5LU1R1bm9KY0xiekd2VWZQZ3VYZ3dGLdIBzgFBVV95cUxNMW9pUWFrN1RwbVEyc01LZ3UzTko5OHdndElLd0lPMFRBYmhSYWdTNmd2QXgzck4tbFIxbkdBODNjNGpKV2J4ME51dFRIOXF3dU9PNmRBb1Z5TW1TR25TQVlTdGU2U25yN3JSWU9sME5ib1ViclBSQUxEZVNJVzY3aTVsdFNKUlhUMy15NmVIRDFBWjlDRnJoazQ1Q1RPbG04MGVwUHpSdndFZXJYZ05wYVk0UUNVZ2Jxb3U5eXRILUdtd2RTZ1RuelBlUEFJQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTBpaUVsZ3YxUVJ2Ml8tSVR1OGo4cFdEbEk5NjZTM1VxdzdGMFhiQ2g0NHg1YWNsWWpsX0dyTm8wdTh1ZmJSTDY5dUlJcmJ1QmUyTUN0eU9mUHZJUHQzY1FWRU9wRlM2SDBMMFlvSnhMNUdUdUNRNVd6cW53a2JnOEp0UkdxdGFpaGFuS0NRNFd1eGhsZi1rSE85T08yNS1jSHQwSFNoVkI1WGd6ZE9mOW5LU1R1bm9KY0xiekd2VWZQZ3VYZ3dGLdIBzgFBVV95cUxNMW9pUWFrN1RwbVEyc01LZ3UzTko5OHdndElLd0lPMFRBYmhSYWdTNmd2QXgzck4tbFIxbkdBODNjNGpKV2J4ME51dFRIOXF3dU9PNmRBb1Z5TW1TR25TQVlTdGU2U25yN3JSWU9sME5ib1ViclBSQUxEZVNJVzY3aTVsdFNKUlhUMy15NmVIRDFBWjlDRnJoazQ1Q1RPbG04MGVwUHpSdndFZXJYZ05wYVk0UUNVZ2Jxb3U5eXRILUdtd2RTZ1RuelBlUEFJQQ?oc=5\" target=\"_blank\">Copilot launches in Excel, but Microsoft warns against using it \"for any task requiring accuracy\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gHacks Technology News</font>",
-      "published": "2025-08-26T09:25:17+00:00",
-      "source": "gHacks Technology News"
-    },
-    {
       "title": "Microsoft Launches First In-House AI Models That Will Rival With OpenAI, Google Gemini - Mashable India",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFUxQjlrM1RyVVE3aXhtZVFqSjE2VHBlcTFRZ2dPMGtlMlNUNENXYTBGSGZQUVFsVGxCSl9KeUROZjFIdjRZZ1JlT2tIVnlVMENKRzhSeG1wVkFjLVVsZFcxV2U1S01jUEVXdmJpbVY5b3puWTJ1VG1lUy02OGFPVGJYYUxaVXZLRFVKVnpvaklNRDk0Q1plWWI0UUJVYThuZkJTalZHeGlGczVGN0QwVzhJTEJEQm1GT3cxYg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFUxQjlrM1RyVVE3aXhtZVFqSjE2VHBlcTFRZ2dPMGtlMlNUNENXYTBGSGZQUVFsVGxCSl9KeUROZjFIdjRZZ1JlT2tIVnlVMENKRzhSeG1wVkFjLVVsZFcxV2U1S01jUEVXdmJpbVY5b3puWTJ1VG1lUy02OGFPVGJYYUxaVXZLRFVKVnpvaklNRDk0Q1plWWI0UUJVYThuZkJTalZHeGlGczVGN0QwVzhJTEJEQm1GT3cxYg?oc=5\" target=\"_blank\">Microsoft Launches First In-House AI Models That Will Rival With OpenAI, Google Gemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable India</font>",
       "published": "2025-08-29T05:38:11+00:00",
       "source": "Mashable India"
+    },
+    {
+      "title": "Copilot launches in Excel, but Microsoft warns against using it \"for any task requiring accuracy\" - gHacks Technology News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTBpaUVsZ3YxUVJ2Ml8tSVR1OGo4cFdEbEk5NjZTM1VxdzdGMFhiQ2g0NHg1YWNsWWpsX0dyTm8wdTh1ZmJSTDY5dUlJcmJ1QmUyTUN0eU9mUHZJUHQzY1FWRU9wRlM2SDBMMFlvSnhMNUdUdUNRNVd6cW53a2JnOEp0UkdxdGFpaGFuS0NRNFd1eGhsZi1rSE85T08yNS1jSHQwSFNoVkI1WGd6ZE9mOW5LU1R1bm9KY0xiekd2VWZQZ3VYZ3dGLdIBzgFBVV95cUxNMW9pUWFrN1RwbVEyc01LZ3UzTko5OHdndElLd0lPMFRBYmhSYWdTNmd2QXgzck4tbFIxbkdBODNjNGpKV2J4ME51dFRIOXF3dU9PNmRBb1Z5TW1TR25TQVlTdGU2U25yN3JSWU9sME5ib1ViclBSQUxEZVNJVzY3aTVsdFNKUlhUMy15NmVIRDFBWjlDRnJoazQ1Q1RPbG04MGVwUHpSdndFZXJYZ05wYVk0UUNVZ2Jxb3U5eXRILUdtd2RTZ1RuelBlUEFJQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTBpaUVsZ3YxUVJ2Ml8tSVR1OGo4cFdEbEk5NjZTM1VxdzdGMFhiQ2g0NHg1YWNsWWpsX0dyTm8wdTh1ZmJSTDY5dUlJcmJ1QmUyTUN0eU9mUHZJUHQzY1FWRU9wRlM2SDBMMFlvSnhMNUdUdUNRNVd6cW53a2JnOEp0UkdxdGFpaGFuS0NRNFd1eGhsZi1rSE85T08yNS1jSHQwSFNoVkI1WGd6ZE9mOW5LU1R1bm9KY0xiekd2VWZQZ3VYZ3dGLdIBzgFBVV95cUxNMW9pUWFrN1RwbVEyc01LZ3UzTko5OHdndElLd0lPMFRBYmhSYWdTNmd2QXgzck4tbFIxbkdBODNjNGpKV2J4ME51dFRIOXF3dU9PNmRBb1Z5TW1TR25TQVlTdGU2U25yN3JSWU9sME5ib1ViclBSQUxEZVNJVzY3aTVsdFNKUlhUMy15NmVIRDFBWjlDRnJoazQ1Q1RPbG04MGVwUHpSdndFZXJYZ05wYVk0UUNVZ2Jxb3U5eXRILUdtd2RTZ1RuelBlUEFJQQ?oc=5\" target=\"_blank\">Copilot launches in Excel, but Microsoft warns against using it \"for any task requiring accuracy\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gHacks Technology News</font>",
+      "published": "2025-08-26T09:25:17+00:00",
+      "source": "gHacks Technology News"
     },
     {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
