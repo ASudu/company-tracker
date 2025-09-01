@@ -2,29 +2,8 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-08-31T12:20:12.690366+00:00",
+  "fetched_at": "2025-09-01T12:22:48.748180+00:00",
   "news": [
-    {
-      "title": "Nvidia stock in focus amid post-earnings dip (NVDA:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON2VzTzJYRzdPMlc4RHlTLTJYYTREdlpBNWt1dEMwWGoxMlREQXl0SkN5WGlzYXJtc051Z2dJYU1qWGE1YllBbXBlVG1WMFVoWU93MjhOS0t2UWl5TEpEZmpiY251T1FxSUR3TnF2d3FMaFJZOWlwd2hKUm1ac2ZGRXBmbUZMZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxON2VzTzJYRzdPMlc4RHlTLTJYYTREdlpBNWt1dEMwWGoxMlREQXl0SkN5WGlzYXJtc051Z2dJYU1qWGE1YllBbXBlVG1WMFVoWU93MjhOS0t2UWl5TEpEZmpiY251T1FxSUR3TnF2d3FMaFJZOWlwd2hKUm1ac2ZGRXBmbUZMZw?oc=5\" target=\"_blank\">Nvidia stock in focus amid post-earnings dip (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-08-30T18:52:25+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Nvidia earnings takeaways: A 'full steam' AI spend, but China uncertainty remains - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02WXZibGFaZmwzZWQ4LWdJbWk0R1daTi1TZnVEcjFkMXcyTkUxUmNObW5MZ1NRclV0d2F1ckdRbHNWeVBMWTBoNlNkdS01TURqSmR1c1B4cG1yWXRTMmg4MmxxSGg1aW56bmfSAW9BVV95cUxQcU10NGJWWURlbVNRVHNrZGliWkFOY2I2VThEZ2l5Q1ZfZmIwQW5fMG13NU9aNU9JVHUxVGhBdFN6TTlCd24xQjdpUkpIVHNNTHpxeUsxX1FvZjAtTXllUFlhYUdtVndpaHR0azhXUFk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02WXZibGFaZmwzZWQ4LWdJbWk0R1daTi1TZnVEcjFkMXcyTkUxUmNObW5MZ1NRclV0d2F1ckdRbHNWeVBMWTBoNlNkdS01TURqSmR1c1B4cG1yWXRTMmg4MmxxSGg1aW56bmfSAW9BVV95cUxQcU10NGJWWURlbVNRVHNrZGliWkFOY2I2VThEZ2l5Q1ZfZmIwQW5fMG13NU9aNU9JVHUxVGhBdFN6TTlCd24xQjdpUkpIVHNNTHpxeUsxX1FvZjAtTXllUFlhYUdtVndpaHR0azhXUFk?oc=5\" target=\"_blank\">Nvidia earnings takeaways: A 'full steam' AI spend, but China uncertainty remains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-08-28T12:59:52+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "AI and Nvidia have been bright spots in an uncertain economy, but there are doubts now - NPR",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XV3E5YlFkTjY1bDhjUkNUUGpvaHVqaGtWR0hreDJSVWVuWUdYTWJUTkxscE9DdW9CMHV6T0EzRzc0bnZVRzBEZi10LTlmWDZEbVpwdjU3Y1FZbE5tNnlUbjhYZUNhR3VHeHpEczJfQktYTnNr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9XV3E5YlFkTjY1bDhjUkNUUGpvaHVqaGtWR0hreDJSVWVuWUdYTWJUTkxscE9DdW9CMHV6T0EzRzc0bnZVRzBEZi10LTlmWDZEbVpwdjU3Y1FZbE5tNnlUbjhYZUNhR3VHeHpEczJfQktYTnNr?oc=5\" target=\"_blank\">AI and Nvidia have been bright spots in an uncertain economy, but there are doubts now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
-      "published": "2025-08-30T09:00:00+00:00",
-      "source": "NPR"
-    },
     {
       "title": "Two mystery customers alone were responsible for nearly 40% of Nvidia’s quarterly revenue - Fortune",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDl2SEd5ZjgzaFc1NmxaZG01cTJ5SHlRVzdvRFBVN1FBaGN0cWw4VGtJbE5QWHdtRFJCTlZsaVpab05sZmhPbjI3cjRSczZpaGl2OGszdlJ5bkd0WDR1U0V3TEVMZnY5X25uRUdGZzdlNlVoY2p2ZkVVS3VXZExmZl9nOTl5ZktS?oc=5",
@@ -33,32 +12,53 @@
       "source": "Fortune"
     },
     {
-      "title": "Why Wall Street has developed an unhealthy obsession with Nvidia - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUJOdm5SSWFhRE5YbzVFY1IzSFVSaHhkM2N4V0ZqamxUVlFRTngzT2V6VzFsWnlTd05IeVE1TjVPekJySC0xSHVoaVU4eDh0SWg2RlpiLVhhVlpMT2RNYkltdWJrU2s2ZmQyX1ZadldWdUVWamc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUJOdm5SSWFhRE5YbzVFY1IzSFVSaHhkM2N4V0ZqamxUVlFRTngzT2V6VzFsWnlTd05IeVE1TjVPekJySC0xSHVoaVU4eDh0SWg2RlpiLVhhVlpMT2RNYkltdWJrU2s2ZmQyX1ZadldWdUVWamc?oc=5\" target=\"_blank\">Why Wall Street has developed an unhealthy obsession with Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2025-08-30T15:00:00+00:00",
-      "source": "CNN"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq slide as Nvidia leads tech losses after PCE inflation, consumer data - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRXZCSlNGdVNwNlp0aUl4eS1xTlNWZVJDcDkxYkF4SjctdVZVM3dRMjdKcE1ZaF9kX2NBaVp2S1FMWGZsaXIwRjVQQVRmd0tZYmRYUnBWZWdtVE9jdXBuUkdRSVlCd1lSTHhENDhLYjloY2xuc09NdC05UzVsNlRRemJCaTVuOEJuTlk5bl9nTWVBdlNOUllUZFhXa1RSMU9weHNxYW5fejdadno0NGNNX3F3LWY1T1JsdWNKRXl6VG1UOWZQczFpM2dKcHlkREJ4NkF5ZkZwcVJhaDdiakV0T1JmakVZLW5ELXlz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRXZCSlNGdVNwNlp0aUl4eS1xTlNWZVJDcDkxYkF4SjctdVZVM3dRMjdKcE1ZaF9kX2NBaVp2S1FMWGZsaXIwRjVQQVRmd0tZYmRYUnBWZWdtVE9jdXBuUkdRSVlCd1lSTHhENDhLYjloY2xuc09NdC05UzVsNlRRemJCaTVuOEJuTlk5bl9nTWVBdlNOUllUZFhXa1RSMU9weHNxYW5fejdadno0NGNNX3F3LWY1T1JsdWNKRXl6VG1UOWZQczFpM2dKcHlkREJ4NkF5ZkZwcVJhaDdiakV0T1JmakVZLW5ELXlz?oc=5\" target=\"_blank\">Stock market today: Dow, S&amp;P 500, Nasdaq slide as Nvidia leads tech losses after PCE inflation, consumer data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-29T20:00:36+00:00",
+      "title": "Nvidia says two mystery customers accounted for 39% of Q2 revenue - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTV9qT1BLeEVSMGxMRE1rTUUyWFdpT1dxTC1JMFhMMXhjeGF1LVQtZnFfQmJiN3hxYkhUV1RmNnpOcVRtRzgwMmtaOW1wRkNQRWxpc1NjZV9Ua2hGaVpTdjRPZ3h6Sk9pVTBEMHEtaUtSZ0tNMXBDT0VGdjcyMl9OZmc1SHExQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTV9qT1BLeEVSMGxMRE1rTUUyWFdpT1dxTC1JMFhMMXhjeGF1LVQtZnFfQmJiN3hxYkhUV1RmNnpOcVRtRzgwMmtaOW1wRkNQRWxpc1NjZV9Ua2hGaVpTdjRPZ3h6Sk9pVTBEMHEtaUtSZ0tNMXBDT0VGdjcyMl9OZmc1SHExQQ?oc=5\" target=\"_blank\">Nvidia says two mystery customers accounted for 39% of Q2 revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-08-30T21:40:49+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Exclusive | Alibaba Creates AI Chip to Help China Fill Nvidia Void - WSJ - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQc21wQTlrOXpCR1pjQ1V0N09STUZxbGxSRE5XVGExeEdNTURvdDU5VWFWMGZpNU1uVWxtU29GTHM1OXpoc01WUXFISWhKSnhCZkRfQ1RQRTh5MmZVdlBwek03aW5QQXV1SFVydVQyanFsVnl6MDA0RENuNFBSSDM1eXp4NkxTWWJBb3YwYzVNODk3UVVfRFVrTzBzNEZvRGcyQW5WMmk4QTktWHphVEVxUGpGbzR6c0xfaGFFU2E0T21keEx3ZllqRDFjcE9iVjg4RGdKdmdQa1ZEUHR0Mnphb3I3eXhrX2VYOHMzMGE0UzNva2ltMFRJYnRHeG9XRXc1eFd1RnFiSHN6dy12ZFE1S2t2dXlmUHd0U25mVmROSjJwRHBnVXVSMVd5NnJyMTZUQXdocjRVbkhka0Z4aWF1azE2QzVFdHBDUUl4ckpDX3BUX01FLVJsaGdjcTdxMzN5NlowZkI0RWhpc01xa3JUZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxQc21wQTlrOXpCR1pjQ1V0N09STUZxbGxSRE5XVGExeEdNTURvdDU5VWFWMGZpNU1uVWxtU29GTHM1OXpoc01WUXFISWhKSnhCZkRfQ1RQRTh5MmZVdlBwek03aW5QQXV1SFVydVQyanFsVnl6MDA0RENuNFBSSDM1eXp4NkxTWWJBb3YwYzVNODk3UVVfRFVrTzBzNEZvRGcyQW5WMmk4QTktWHphVEVxUGpGbzR6c0xfaGFFU2E0T21keEx3ZllqRDFjcE9iVjg4RGdKdmdQa1ZEUHR0Mnphb3I3eXhrX2VYOHMzMGE0UzNva2ltMFRJYnRHeG9XRXc1eFd1RnFiSHN6dy12ZFE1S2t2dXlmUHd0U25mVmROSjJwRHBnVXVSMVd5NnJyMTZUQXdocjRVbkhka0Z4aWF1azE2QzVFdHBDUUl4ckpDX3BUX01FLVJsaGdjcTdxMzN5NlowZkI0RWhpc01xa3JUZg?oc=5\" target=\"_blank\">Exclusive | Alibaba Creates AI Chip to Help China Fill Nvidia Void - WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-08-29T10:31:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "More than 50% of Nvidia’s data center revenue comes from three customers — $21.9 billion in sales recorded from the unnamed companies - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUVZxQi16VExPWTQtZUM3cHlPRVdFT1FUc01NcmtuWTNFOVBOb3lhRUhDeVBkbUNPaDUxbVF2bUo2a1NZZTVBZHFPd3dBTFZCT3YxQ05wenNYTHVZSnd3Mjl1MG5vN3lSMTMzclRfMVp2QjZIWDJZRlRUVzF1RkR0dWRsS2c4c0dtckJaaGdTZ05NQlRiRGxzY3c1VHhBUFFuall3VjlLZTZnR3JCMlhFUnV4OVEzY0FFcFo0ci1VMUpJb3JuRkZlZDdmSXljSmpGTFF1YlFBenp2aVhoTU4xMDAyZ1JYc21JOUFyYTlyUUMwQzRQWUg1Ul9uSEI4a0JJckJGMWNNYjJZN1NLV2Rn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNUVZxQi16VExPWTQtZUM3cHlPRVdFT1FUc01NcmtuWTNFOVBOb3lhRUhDeVBkbUNPaDUxbVF2bUo2a1NZZTVBZHFPd3dBTFZCT3YxQ05wenNYTHVZSnd3Mjl1MG5vN3lSMTMzclRfMVp2QjZIWDJZRlRUVzF1RkR0dWRsS2c4c0dtckJaaGdTZ05NQlRiRGxzY3c1VHhBUFFuall3VjlLZTZnR3JCMlhFUnV4OVEzY0FFcFo0ci1VMUpJb3JuRkZlZDdmSXljSmpGTFF1YlFBenp2aVhoTU4xMDAyZ1JYc21JOUFyYTlyUUMwQzRQWUg1Ul9uSEI4a0JJckJGMWNNYjJZN1NLV2Rn?oc=5\" target=\"_blank\">More than 50% of Nvidia’s data center revenue comes from three customers — $21.9 billion in sales recorded from the unnamed companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2025-08-31T13:56:12+00:00",
+      "source": "Tom's Hardware"
     },
     {
-      "title": "Dow Jones Futures: Alibaba News Hits Nvidia, AI. Trump Tariffs Ruled Illegal. - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkl6cUExaVhta2Q1c1Utek1UUlo4WlFJYjZMdWZ0bUNOUjVBcVpyY2d6bkVoQndFamtaN1dOYVBqdkJWTU9mdmRfX3JQWDh2NzFEUk1rcEo1SURmOEpXT2FRNEVOSjB5ai0yS3FzVGttSjRzemJJRTI2WXpOU1o1NjJLaVZNYUNKRV9MTTRlVnNNZHBodEVYeGVNTldCdThteFMxX1FVMHA5ckxtZ2c3VTR4QkZ5Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkl6cUExaVhta2Q1c1Utek1UUlo4WlFJYjZMdWZ0bUNOUjVBcVpyY2d6bkVoQndFamtaN1dOYVBqdkJWTU9mdmRfX3JQWDh2NzFEUk1rcEo1SURmOEpXT2FRNEVOSjB5ai0yS3FzVGttSjRzemJJRTI2WXpOU1o1NjJLaVZNYUNKRV9MTTRlVnNNZHBodEVYeGVNTldCdThteFMxX1FVMHA5ckxtZ2c3VTR4QkZ5Zw?oc=5\" target=\"_blank\">Dow Jones Futures: Alibaba News Hits Nvidia, AI. Trump Tariffs Ruled Illegal.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2025-08-31T02:18:00+00:00",
-      "source": "Investor's Business Daily"
+      "title": "Op-ed: What Nvidia wouldn't say about China chip sales reveals everything you need to know - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqM0RmUGE3Tk43U0ZoOGFRRGFsR1MwaXM3djY1OWlIbmZ4SU9aaGRhSEE2TUR6QjFQYnBIVDlyWTQxdE5qcndLT0NUVGs2aC1EVlU0OENidzRQbjI1RUctUWpzWWNlVVRZYWpLUzBRQktUY3PSAXhBVV95cUxOVGZ6WXA5c3NRZFdrRm8xTGVieXZRbDJlWFVLQ2hzZVVsREp2aHFkRVNzQVNnT0c4azR2V25neG5VbHo3T1hYVjktZXhDZEVWaDVGX0VQMnN4SjE3b0JESW9MdzdqRkc0eWg4TFpUUnVLQ1dGQmpIaHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBqM0RmUGE3Tk43U0ZoOGFRRGFsR1MwaXM3djY1OWlIbmZ4SU9aaGRhSEE2TUR6QjFQYnBIVDlyWTQxdE5qcndLT0NUVGs2aC1EVlU0OENidzRQbjI1RUctUWpzWWNlVVRZYWpLUzBRQktUY3PSAXhBVV95cUxOVGZ6WXA5c3NRZFdrRm8xTGVieXZRbDJlWFVLQ2hzZVVsREp2aHFkRVNzQVNnT0c4azR2V25neG5VbHo3T1hYVjktZXhDZEVWaDVGX0VQMnN4SjE3b0JESW9MdzdqRkc0eWg4TFpUUnVLQ1dGQmpIaHc?oc=5\" target=\"_blank\">Op-ed: What Nvidia wouldn't say about China chip sales reveals everything you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-08-31T12:30:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia vs. Palantir: The Better Growth Stock to Own Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVQtVXFOZnhqYkJZS2FtZmF5TWc2Um9walNOREtGbEwteEtZS3lDbHdoNFJ2dmNvLTJfejUzTmZ5ckdfTzZwNzdsUC1hQWUtSVNVNFlVOXl6aXd5RmFiMFBTZkF5VGJrbEVhVnpOOXRvc3FaMjNvYlVwTkRVZnMtdHZwb1BSdkRsQ0VjQk50OEc0ZjAwNmVn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVQtVXFOZnhqYkJZS2FtZmF5TWc2Um9walNOREtGbEwteEtZS3lDbHdoNFJ2dmNvLTJfejUzTmZ5ckdfTzZwNzdsUC1hQWUtSVNVNFlVOXl6aXd5RmFiMFBTZkF5VGJrbEVhVnpOOXRvc3FaMjNvYlVwTkRVZnMtdHZwb1BSdkRsQ0VjQk50OEc0ZjAwNmVn?oc=5\" target=\"_blank\">Nvidia vs. Palantir: The Better Growth Stock to Own Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2025-09-01T01:30:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Nvidia Just Sounded the Silent Alarm -- but Are Investors Paying Attention? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGU4Z0Jxejcta29yS0NKanZJU2hoZ2M5d1cxZmhqdDNhVE4wM3lhcTJIN29ta2tIaTBFeXZZTjVMRW5FM2dyU3Zmc1otNlV3bHlpeTJPZEZnT2FyeUl3THBuckZTYjdEQjdqcnVaaVFJTDBPWmJHVzM4LU5FVnFzZ2VxeURIRnhYSTZwQ1FTTzQzeWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGU4Z0Jxejcta29yS0NKanZJU2hoZ2M5d1cxZmhqdDNhVE4wM3lhcTJIN29ta2tIaTBFeXZZTjVMRW5FM2dyU3Zmc1otNlV3bHlpeTJPZEZnT2FyeUl3THBuckZTYjdEQjdqcnVaaVFJTDBPWmJHVzM4LU5FVnFzZ2VxeURIRnhYSTZwQ1FTTzQzeWs?oc=5\" target=\"_blank\">Nvidia Just Sounded the Silent Alarm -- but Are Investors Paying Attention?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2025-09-01T07:51:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "S&P 500 ends lower as Dell and Nvidia drop - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXNxcXJaT2tLbzdOMi1TWk9EcmxMaHVJbVN0bUQyM2lxMUNrTFU1eVlkODNvRlJvaXVQc045UERENjJSX3NmVnVVRU90Z2diYkdMMFFJLXQtcDN4akZEOHAzVi0xM0lnaWhGSjMtNGFsSjBMdVMtX21vNGwtSDdGaGFnVEZwdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXNxcXJaT2tLbzdOMi1TWk9EcmxMaHVJbVN0bUQyM2lxMUNrTFU1eVlkODNvRlJvaXVQc045UERENjJSX3NmVnVVRU90Z2diYkdMMFFJLXQtcDN4akZEOHAzVi0xM0lnaWhGSjMtNGFsSjBMdVMtX21vNGwtSDdGaGFnVEZwdw?oc=5\" target=\"_blank\">S&amp;P 500 ends lower as Dell and Nvidia drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-08-29T22:15:17+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says AI will 'probably' bring 4-day work weeks: 'Every industrial revolution leads to some change in social behavior' - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFE2Mks5R1pSQW1TM3IzcXNHVXZfaVpOVmJxVnJSLWs1TjBLZGJYOXFpVzktUWVOamo3blNIUm1EaFBsUEd5dWhLb1hwOXdSblFoWW56R2dlTi1IQno4Zlh5Z1FacU5YS1l4QnQ2ZzVjNVhEajR5LVp3d0JVVHhDSzBxZ051YjBGVkVBNg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFE2Mks5R1pSQW1TM3IzcXNHVXZfaVpOVmJxVnJSLWs1TjBLZGJYOXFpVzktUWVOamo3blNIUm1EaFBsUEd5dWhLb1hwOXdSblFoWW56R2dlTi1IQno4Zlh5Z1FacU5YS1l4QnQ2ZzVjNVhEajR5LVp3d0JVVHhDSzBxZ051YjBGVkVBNg?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang says AI will 'probably' bring 4-day work weeks: 'Every industrial revolution leads to some change in social behavior'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2025-08-29T20:27:00+00:00",
+      "source": "Fortune"
     }
   ],
   "product_launches": [
@@ -77,6 +77,13 @@
       "source": "Yahoo Finance"
     },
     {
+      "title": "NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5\" target=\"_blank\">NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2025-05-18T07:00:00+00:00",
+      "source": "NVIDIA Newsroom"
+    },
+    {
       "title": "Nvidia Just Changed the Artificial Intelligence (AI) Market With This New Product - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3lzZlBnaUNBblR2b2lPTWhwLXBMcjRvMklKeDhxbUtzeHlKLUtucHYyWlBnVjQwdGZvZE1fWVFDeXlKZHdlQ0dFTGk0NDlKTjVzVUdHakM4S1NPLU1uaUluaDIzOGZmMFpDdHhVbHFaQy1sTzJHdzdMQ2NFOFd0azBNazRDY1dtZXF6WHR5NzdHLVlBVURkZA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3lzZlBnaUNBblR2b2lPTWhwLXBMcjRvMklKeDhxbUtzeHlKLUtucHYyWlBnVjQwdGZvZE1fWVFDeXlKZHdlQ0dFTGk0NDlKTjVzVUdHakM4S1NPLU1uaUluaDIzOGZmMFpDdHhVbHFaQy1sTzJHdzdMQ2NFOFd0azBNazRDY1dtZXF6WHR5NzdHLVlBVURkZA?oc=5\" target=\"_blank\">Nvidia Just Changed the Artificial Intelligence (AI) Market With This New Product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
@@ -89,13 +96,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5\" target=\"_blank\">Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
       "published": "2025-08-26T13:20:55+00:00",
       "source": "Seeking Alpha"
-    },
-    {
-      "title": "NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5\" target=\"_blank\">NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2025-05-18T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
