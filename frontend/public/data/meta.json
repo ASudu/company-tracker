@@ -2,42 +2,28 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2025-09-09T12:23:38.919914+00:00",
+  "fetched_at": "2025-09-10T12:21:23.123253+00:00",
   "news": [
     {
-      "title": "Meta suppressed research on child safety, employees say - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVFoSlFrcDRwck1LLUJQdEZlb0FUSTJmM3dSb25JenhMUVNBQWxHSUQwd3hSaG5UWGNqSWhna0dOOXhRSUc4R1RlNDIzY25oTmw0aFNmSXJ4NmdPUE1DYWIwcU9YZDhvSVV3RXdiU2Etc2V5dG51Zy1WcmVGR0o1OWJKbHE0RGEyQTluZWRVOWF5dVltdHFLTXljaFBzUTBYRmc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVFoSlFrcDRwck1LLUJQdEZlb0FUSTJmM3dSb25JenhMUVNBQWxHSUQwd3hSaG5UWGNqSWhna0dOOXhRSUc4R1RlNDIzY25oTmw0aFNmSXJ4NmdPUE1DYWIwcU9YZDhvSVV3RXdiU2Etc2V5dG51Zy1WcmVGR0o1OWJKbHE0RGEyQTluZWRVOWF5dVltdHFLTXljaFBzUTBYRmc?oc=5\" target=\"_blank\">Meta suppressed research on child safety, employees say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOU1M1MWRlZkRfMHhFRUtsOUp4NmpjVW16RlJHaGFtRVNzM1BCOHpIQUczRmJITEhEeElaVXRIMUlzaWxmOS1FYUx3bEhFbHNGN21iVXVVTjR2UGYtdHNsSjhaa05pb3VYTnJ6NkJaa3pzdXBRTVRORk93akNXM0pVU2tKUDY2SHRMYVBnOUZDNUZqdkw2ODhpME43dFo1UzJORUxkdDF5NFIwMW9uYnVGc3YyNUw0WkpKeW9kcjI0amNPdmx1NER2SzJST193UQ?oc=5\" target=\"_blank\">Mark Zuckerberg's Meta stifled research on sickos using VR to target kids, whistleblowers claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQbG04OHJ2VzgycFVSSlh1a19hbXBWLVBSYkZfZ0hPVU11UGw0ZE9ILXRPdGlnVDdfWEwwMzVob2tLN2lidmZQeS1WbFVrVUdKVk5rTVk3YTBNNU1CNlBOWl9tOTZldWx2cW1WZjFMSWYxdHAwRUxOdEN1TE5tcGVSaG1yUGdOaVhiYTR0NEs1bw?oc=5\" target=\"_blank\">Meta hid harms to children from VR products, whistleblowers allege</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li></ol>",
-      "published": "2025-09-08T16:00:06+00:00",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Facebook fiasco: why is Mark Zuckerberg suing Meta? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkZIQ0VqMVhLUmNXZkxPYWI1RnlTTU9yRnpsM2xZc3AyMGYtMWNXNzExVEp1ZkoxQWtrNlgwdW8tc2NzT05FNjc4YVBTWWtvZzBtaC1LT2MwVzNIRG95Q0FFcHJraGswZTA3dkh1RGxHZDh3bFo2V2pXLVVuN1lpckJrYVlSeXdCejdZdnExcFhyOUpkVjJJWEVIdGp4ZU5uY3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQkZIQ0VqMVhLUmNXZkxPYWI1RnlTTU9yRnpsM2xZc3AyMGYtMWNXNzExVEp1ZkoxQWtrNlgwdW8tc2NzT05FNjc4YVBTWWtvZzBtaC1LT2MwVzNIRG95Q0FFcHJraGswZTA3dkh1RGxHZDh3bFo2V2pXLVVuN1lpckJrYVlSeXdCejdZdnExcFhyOUpkVjJJWEVIdGp4ZU5uY3c?oc=5\" target=\"_blank\">Facebook fiasco: why is Mark Zuckerberg suing Meta?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2025-09-08T17:24:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Whistle-Blower Sues Meta Over Claims of WhatsApp Security Flaws - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTdCMjdqUVFydWgyNjBOVzBCUFBwaUcyd2k5dDFlV19NR251dFdjcVJkZkQwU29oWEVaRFc4ZlVCS0hLbldrV0Vib3lkNWxodkxYSXFPcnZiWHUwNmt2MkxDaDFnVi1vQmJVQXh5WmFTUGZZQWJSclFGcUxsdzViYjdaaFMzUG8x?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTdCMjdqUVFydWgyNjBOVzBCUFBwaUcyd2k5dDFlV19NR251dFdjcVJkZkQwU29oWEVaRFc4ZlVCS0hLbldrV0Vib3lkNWxodkxYSXFPcnZiWHUwNmt2MkxDaDFnVi1vQmJVQXh5WmFTUGZZQWJSclFGcUxsdzViYjdaaFMzUG8x?oc=5\" target=\"_blank\">Whistle-Blower Sues Meta Over Claims of WhatsApp Security Flaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2025-09-08T22:16:32+00:00",
+      "title": "Why Mark S. Zuckerberg Is Suing Facebook’s Parent Company, Meta - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdi1SeWFRbndjUTFUaU1IaTRva0hZT25hVkEwcjNYQkZjcjZvenhDOWdNeTJtQWZPY3Q0XzBEOXNwZk91N0p6RXlwOW1FeG85eFVSc2pZU0NHaDB3QjIxUWNra1Q0Vnh6UWtEQlBRZEVwTTNYU1B2X3hSMXcybWl4WHlSUkt2Rkk4M2l1MGZKSnR5bmJfQ1NzUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdi1SeWFRbndjUTFUaU1IaTRva0hZT25hVkEwcjNYQkZjcjZvenhDOWdNeTJtQWZPY3Q0XzBEOXNwZk91N0p6RXlwOW1FeG85eFVSc2pZU0NHaDB3QjIxUWNra1Q0Vnh6UWtEQlBRZEVwTTNYU1B2X3hSMXcybWl4WHlSUkt2Rkk4M2l1MGZKSnR5bmJfQ1NzUQ?oc=5\" target=\"_blank\">Why Mark S. Zuckerberg Is Suing Facebook’s Parent Company, Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-09T21:02:21+00:00",
       "source": "The New York Times"
     },
     {
-      "title": "Ex-Meta employee files whistleblower suit for alleged security flaws at WhatsApp - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDBpSFJXZ1ItR1E2bUJ5a1JEaVIzcUZmUVBEeTdULVlFczkySDBCWUp4emlzTWdhcWRjRldDdTNTd09aVk14VGM3ZmxELXpGRzRYUktYdWdjQmF4bkNWaVkzSEdhTEtZQU04RDh2X2dqRk4zb0dSVVZNcTNsQUJMS1JkemtwYVlNUXFJelo0Y3NTT3hiMlZuZ2xVcWhTUEdKRGQ4eHZsalLSAa4BQVVfeXFMUDliTGwyczNpQlpSUGxNWk9lNWplWHJSUnhjbTNlb0wxQWthc3VpWjEwYkl3eThrZTBPUzJxb2gtdk11Z3BFbmRmTkZpNi0xX3NNQ19LOGlZVEdXS0tMZjJRN0R3WnJJY3NpMkp5cVFrdlJlQTlJdElVejd3OVUxcU1UMWtPTm1Rak9rYWxUWElZR0JKa0cwMnZOY2hBSlA5cVM5dW9DbFU5aTJ0ekFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDBpSFJXZ1ItR1E2bUJ5a1JEaVIzcUZmUVBEeTdULVlFczkySDBCWUp4emlzTWdhcWRjRldDdTNTd09aVk14VGM3ZmxELXpGRzRYUktYdWdjQmF4bkNWaVkzSEdhTEtZQU04RDh2X2dqRk4zb0dSVVZNcTNsQUJMS1JkemtwYVlNUXFJelo0Y3NTT3hiMlZuZ2xVcWhTUEdKRGQ4eHZsalLSAa4BQVVfeXFMUDliTGwyczNpQlpSUGxNWk9lNWplWHJSUnhjbTNlb0wxQWthc3VpWjEwYkl3eThrZTBPUzJxb2gtdk11Z3BFbmRmTkZpNi0xX3NNQ19LOGlZVEdXS0tMZjJRN0R3WnJJY3NpMkp5cVFrdlJlQTlJdElVejd3OVUxcU1UMWtPTm1Rak9rYWxUWElZR0JKa0cwMnZOY2hBSlA5cVM5dW9DbFU5aTJ0ekFR?oc=5\" target=\"_blank\">Ex-Meta employee files whistleblower suit for alleged security flaws at WhatsApp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-09-08T21:14:32+00:00",
-      "source": "CNBC"
+      "title": "Meta to Pay $140 Million to Use Black Forest Labs AI for Images - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3RjckI5UUtNWE5DVVl0Nmpzc0JyQzRKSUpTckpKMTdWRUNTckhpTE1jQjQyUDV1MEdkMXNWakhPTkJhZmExcGhWdjdWNE1hdEtWVjA1enpPOWF1d3R5M3g4TjE4TDhkaElvREdKaG83RlVqbXBZNEI0UDUwYzRSRTA4RDY5QzJnU1dtWTNtSk1RX0sxWjVqdTNmNVQtdDlVV3VFa2dzZEE2STRHeVZyOUpCbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3RjckI5UUtNWE5DVVl0Nmpzc0JyQzRKSUpTckpKMTdWRUNTckhpTE1jQjQyUDV1MEdkMXNWakhPTkJhZmExcGhWdjdWNE1hdEtWVjA1enpPOWF1d3R5M3g4TjE4TDhkaElvREdKaG83RlVqbXBZNEI0UDUwYzRSRTA4RDY5QzJnU1dtWTNtSk1RX0sxWjVqdTNmNVQtdDlVV3VFa2dzZEE2STRHeVZyOUpCbw?oc=5\" target=\"_blank\">Meta to Pay $140 Million to Use Black Forest Labs AI for Images</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-09-09T18:38:48+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Ex-WhatsApp cybersecurity head says Meta endangered billions of users in new suit - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd19YMVYwMWtmT2l4QjR0SFMxejdjTmg3RW9Sb1dQNjIwQXVqTE9BeDlMWlgteGMzRkFDOVFxLUs1c1ktclRoZVJPeU15RUc4dnJLT1BXWUFCdlotSkJMQ2w1UXZrbFU3MzVLQVR2UDFYUDduVmVfYmpzaEFrQzBVWFJuejM0WDN2SFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOd19YMVYwMWtmT2l4QjR0SFMxejdjTmg3RW9Sb1dQNjIwQXVqTE9BeDlMWlgteGMzRkFDOVFxLUs1c1ktclRoZVJPeU15RUc4dnJLT1BXWUFCdlotSkJMQ2w1UXZrbFU3MzVLQVR2UDFYUDduVmVfYmpzaEFrQzBVWFJuejM0WDN2SFE?oc=5\" target=\"_blank\">Ex-WhatsApp cybersecurity head says Meta endangered billions of users in new suit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2025-09-09T03:19:00+00:00",
-      "source": "The Guardian"
+      "title": "Meta’s Elite AI Unit Sparks Tension With Old Guard - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNQ0xOYW1NdDdRMklacTlDeTVsV19Pa1VPRGJSYm9aMDZOaGI5MFRLb3lQVEFuLV9CNk9WSGNLRHVKTnF1LWdYWWtwX25Cem1DbXZjUnNPbGRHME5iY21DQkxrZ0dGbWNzdFR3Z3NRS3lDTkEwMHpwNUxXMjJBTE1tLVFIeVpfZDJJRzFnMk1xSUZ0TkZkZVppdUlBS3gyNGU0cmRRQ3hFMEhWSklHcFdWNmJTLS1mRlBHSkJyNmJOOUp5aUVUQlFCV0szb3ZBajVHVF9Td2FZdjNNRGZQMi1oNEpOZERzQ3dMUV94cUl2Y0tydlpOZDMyb0RBZlZEc2dacHBkeG5hS3ZmR1E3S2g2am9OTFJjQWFiOWZaVS1JWFppckdLOFBNdHFMMEdFWWlLaWxac3JZVkkxRWF6d1BDekhZd0Npd3RJOVdqcFk0WTUxYWNNdkFxTEEtSENEakRXaHpITlhlV080R0RVRTEzQkl2N1ZLd2xYTGI3cHJjd0JZRkhoRWtpeA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiANBVV95cUxNQ0xOYW1NdDdRMklacTlDeTVsV19Pa1VPRGJSYm9aMDZOaGI5MFRLb3lQVEFuLV9CNk9WSGNLRHVKTnF1LWdYWWtwX25Cem1DbXZjUnNPbGRHME5iY21DQkxrZ0dGbWNzdFR3Z3NRS3lDTkEwMHpwNUxXMjJBTE1tLVFIeVpfZDJJRzFnMk1xSUZ0TkZkZVppdUlBS3gyNGU0cmRRQ3hFMEhWSklHcFdWNmJTLS1mRlBHSkJyNmJOOUp5aUVUQlFCV0szb3ZBajVHVF9Td2FZdjNNRGZQMi1oNEpOZERzQ3dMUV94cUl2Y0tydlpOZDMyb0RBZlZEc2dacHBkeG5hS3ZmR1E3S2g2am9OTFJjQWFiOWZaVS1JWFppckdLOFBNdHFMMEdFWWlLaWxac3JZVkkxRWF6d1BDekhZd0Npd3RJOVdqcFk0WTUxYWNNdkFxTEEtSENEakRXaHpITlhlV080R0RVRTEzQkl2N1ZLd2xYTGI3cHJjd0JZRkhoRWtpeA?oc=5\" target=\"_blank\">Meta’s Elite AI Unit Sparks Tension With Old Guard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-09-10T02:11:00+00:00",
+      "source": "The Wall Street Journal"
     },
     {
       "title": "Meta Set to Spend More Than $600 Billion in AI Spree. Which Stocks Will Benefit. - Barron's",
@@ -47,35 +33,35 @@
       "source": "Barron's"
     },
     {
-      "title": "Senator says Meta ignored warnings about AI chatbots and teens - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGpuVDVrRlpZbjhkeDMzbGNQSHJFd2xzYmV4ZzUyMm9oUHVoSU9ES1FmM2dDazRtUENQa0VXdzFKR3lodzQxT2tMSTZTaXh2SVZBZy0yZXJxMDhZQWY1akc1eXQ0am5Zc3VJc2pfMlZtUURhR0F3a0ZBNGFfVEJrQUVvTEpaQjRFcWlXZjByUkJBanJROUttLXhLTWw3emtQQm1XY9IBVkFVX3lxTE14UWtMMTRPc1RYRGtZTkdLWHBOaHgwTkxHSG9zYnZ6V05INXFfNGJHSVo2enYzTDVQNzU1MkJVb3lQNnhBWS1GZVMtdWZFNWlQVkxkOEhn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORGpuVDVrRlpZbjhkeDMzbGNQSHJFd2xzYmV4ZzUyMm9oUHVoSU9ES1FmM2dDazRtUENQa0VXdzFKR3lodzQxT2tMSTZTaXh2SVZBZy0yZXJxMDhZQWY1akc1eXQ0am5Zc3VJc2pfMlZtUURhR0F3a0ZBNGFfVEJrQUVvTEpaQjRFcWlXZjByUkJBanJROUttLXhLTWw3emtQQm1XY9IBVkFVX3lxTE14UWtMMTRPc1RYRGtZTkdLWHBOaHgwTkxHSG9zYnZ6V05INXFfNGJHSVo2enYzTDVQNzU1MkJVb3lQNnhBWS1GZVMtdWZFNWlQVkxkOEhn?oc=5\" target=\"_blank\">Senator says Meta ignored warnings about AI chatbots and teens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2025-09-08T14:28:53+00:00",
-      "source": "NBC News"
+      "title": "Meta covered up potential child harms, whistleblowers claim - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jYnVENFNSMDI0VXdQMDRVVk9BOXdSSU5jZS1jeXg3YllEeGp6NTJTandlR1otN0poTVB5RjNiYVUtTllsRWdkUUFYR29yUmR6cnd4RndCdzJtUdIBX0FVX3lxTFB6MlBmdjBxUDE2eFlCSjZvcWxiUzYtZFVQQWd1MXJwQmQ1VzhqZU45ZGtPa0JOSWZrUWFXLTdCN01tOGFMbGZLbjhsU2VaNjg2eEZyLTBNQllJckZ0SFN3?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jYnVENFNSMDI0VXdQMDRVVk9BOXdSSU5jZS1jeXg3YllEeGp6NTJTandlR1otN0poTVB5RjNiYVUtTllsRWdkUUFYR29yUmR6cnd4RndCdzJtUdIBX0FVX3lxTFB6MlBmdjBxUDE2eFlCSjZvcWxiUzYtZFVQQWd1MXJwQmQ1VzhqZU45ZGtPa0JOSWZrUWFXLTdCN01tOGFMbGZLbjhsU2VaNjg2eEZyLTBNQllJckZ0SFN3?oc=5\" target=\"_blank\">Meta covered up potential child harms, whistleblowers claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVFoSlFrcDRwck1LLUJQdEZlb0FUSTJmM3dSb25JenhMUVNBQWxHSUQwd3hSaG5UWGNqSWhna0dOOXhRSUc4R1RlNDIzY25oTmw0aFNmSXJ4NmdPUE1DYWIwcU9YZDhvSVV3RXdiU2Etc2V5dG51Zy1WcmVGR0o1OWJKbHE0RGEyQTluZWRVOWF5dVltdHFLTXljaFBzUTBYRmc?oc=5\" target=\"_blank\">Meta suppressed research on child safety, employees say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1pVOVR5dDVjMXMtemtWVEpnTlFUM1VtMS1ONUhjRFhCSDRvMFpXOGxuamFjRDBCVFJmWlVkMlZWNGlxa2JfT1pNT3UybmdTOFJYcUFSNlRvSEZNbzhKQW43Q1VTemJXTVFHQk1NaWRFQjRaYzJVdF9RN2tHRTlMTGJaRzRTTVlkYkNoUXdQa21iSmRKZVZiT1BNU1ZOUjg1WEl3ZDA1Nld4X3ht0gFWQVVfeXFMTnI2SV9GanRKWkVNWGRPbDk5LW5VVTZHNGg1ejU1czIzdGp4U1g4OGZxS1dqVGNleWZxbnpYSmd6ZjZmaF9zUzg3M003NXdONmExU1hfRGc?oc=5\" target=\"_blank\">Meta blocked research on kids using VR, two former employees say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+      "published": "2025-09-10T02:05:05+00:00",
+      "source": "BBC"
     },
     {
-      "title": "Scale AI just made another round of cuts to its workforce after Meta's $14 billion investment - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUk9pbjV4RnlYSnpzbVRlVXBMcHRfM1hETlJZUm5CbWwtdkJabEd4YXRGcGtEZkg4ekNqdlRQUWRTU1pqNnFKeVlmbDByZ0k3ODF5alJFdmdBYndfMkp1QTgwdHFBSDBMNDRvLWc4VDBuWFNtOFhlSkFHQWpUWGFjWUNnaGVVS2tGRVhPM0RKN2ZxaWNXcGsw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUk9pbjV4RnlYSnpzbVRlVXBMcHRfM1hETlJZUm5CbWwtdkJabEd4YXRGcGtEZkg4ekNqdlRQUWRTU1pqNnFKeVlmbDByZ0k3ODF5alJFdmdBYndfMkp1QTgwdHFBSDBMNDRvLWc4VDBuWFNtOFhlSkFHQWpUWGFjWUNnaGVVS2tGRVhPM0RKN2ZxaWNXcGsw?oc=5\" target=\"_blank\">Scale AI just made another round of cuts to its workforce after Meta's $14 billion investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-09-08T21:09:00+00:00",
-      "source": "Business Insider"
+      "title": "Meta, TikTok win challenge against EU tech fees, forcing regulators to recalculate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZDg1NTVNOUZVQkU2aTVZOXVKTGlTNFpVdkN1VlBwZFJFNkxQNXVYbDBIVUF3VHR3QTk4UE1kZWIzSVJsVy1zbHdIbHF0ZV9objFXMkpPV05QQWxpQ0ZoZGwzWTRTY2lPNnFOLUFVT3pKWkdiLTMzZUdHcjFmWS1MMDZsZVhHYThTTjVQR2Y4QzE2OVUtRW9SVU81WlJsLTZscE4zTjVZRUNCa3hrRnhiTXZqX0tqSWluYjhueVZ4UW5CWFlOR2MtQzlucEY5Zjc5cFpBSXFlc2EwUll5QklrOHJXd1p5TE1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZDg1NTVNOUZVQkU2aTVZOXVKTGlTNFpVdkN1VlBwZFJFNkxQNXVYbDBIVUF3VHR3QTk4UE1kZWIzSVJsVy1zbHdIbHF0ZV9objFXMkpPV05QQWxpQ0ZoZGwzWTRTY2lPNnFOLUFVT3pKWkdiLTMzZUdHcjFmWS1MMDZsZVhHYThTTjVQR2Y4QzE2OVUtRW9SVU81WlJsLTZscE4zTjVZRUNCa3hrRnhiTXZqX0tqSWluYjhueVZ4UW5CWFlOR2MtQzlucEY5Zjc5cFpBSXFlc2EwUll5QklrOHJXd1p5TE1E?oc=5\" target=\"_blank\">Meta, TikTok win challenge against EU tech fees, forcing regulators to recalculate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-10T11:22:11+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta Stock (META) Slips Despite Defeating Europe Over Digital Act Fees - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1ZiY0l5bDcxbFZ2QXNBZHpZVmUtMFVfZV9LN0pBVmRoVkUyS1o5ZWdaa1VkRGVMRXh4dENST2F2TkdRa1ppbDc1Z3pzaGdZQkFxNWlWUHdUNlh3SVgwTkxZYldtQkQtUXkzbHJDdEVMb1NOVi1rdzhVN1BZZllTdzl2YVV5VVhtZmpMckRhVlNHdm9OQjBMcEhCZ0U1MUk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1ZiY0l5bDcxbFZ2QXNBZHpZVmUtMFVfZV9LN0pBVmRoVkUyS1o5ZWdaa1VkRGVMRXh4dENST2F2TkdRa1ppbDc1Z3pzaGdZQkFxNWlWUHdUNlh3SVgwTkxZYldtQkQtUXkzbHJDdEVMb1NOVi1rdzhVN1BZZllTdzl2YVV5VVhtZmpMckRhVlNHdm9OQjBMcEhCZ0U1MUk?oc=5\" target=\"_blank\">Meta Stock (META) Slips Despite Defeating Europe Over Digital Act Fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2025-09-10T10:25:01+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "EU court upholds Meta, TikTok challenges against EU tech fees - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0lJTXNzeDR4UUFIc2ZtRHlLbk5FeGxoTFVxZzB2S1c1V1hiUWw1bEh1OEY3TDNOTVhJWXVSMWpCN3lRbE1HZVBRb1FUU2QyZnl2bTFBeFpvbWNUMmIwbVBjdDY0Si1zY3EtNW4yRVg4dzlSYi1FaXVuWVFMOUVQUnExMVFUMVJ1NUd3RmRnN294TVhGT1diRHd5Zk1NYkZiSGdZTHI2bHZaSTE3OENoR2NvYWRIbDVPNW1BZzVQWG85UmswODgyeGludW9aN1B6S2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0lJTXNzeDR4UUFIc2ZtRHlLbk5FeGxoTFVxZzB2S1c1V1hiUWw1bEh1OEY3TDNOTVhJWXVSMWpCN3lRbE1HZVBRb1FUU2QyZnl2bTFBeFpvbWNUMmIwbVBjdDY0Si1zY3EtNW4yRVg4dzlSYi1FaXVuWVFMOUVQUnExMVFUMVJ1NUd3RmRnN294TVhGT1diRHd5Zk1NYkZiSGdZTHI2bHZaSTE3OENoR2NvYWRIbDVPNW1BZzVQWG85UmswODgyeGludW9aN1B6S2c?oc=5\" target=\"_blank\">EU court upholds Meta, TikTok challenges against EU tech fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-10T07:31:42+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
-    {
-      "title": "Meta's 'Hypernova' smart glasses will cost a lot less than we thought, new report claims - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yemJnekFOZ2NGMndWc1d4dlY3eEFSUGZYUVpub05SU0lOZC1TS3FyNVplUm9oNjNnZUhHYzRpYzRaVzdVUmJPdWZxUDFNeGIxNmlLOVpOMVd1alhkUG9Fc2NhSnlHSHlselVrUXRTRzU3NG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9yemJnekFOZ2NGMndWc1d4dlY3eEFSUGZYUVpub05SU0lOZC1TS3FyNVplUm9oNjNnZUhHYzRpYzRaVzdVUmJPdWZxUDFNeGIxNmlLOVpOMVd1alhkUG9Fc2NhSnlHSHlselVrUXRTRzU3NG8?oc=5\" target=\"_blank\">Meta's 'Hypernova' smart glasses will cost a lot less than we thought, new report claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-09-09T07:20:32+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Apple product launch, Meta Super PAC, Trump & Cracker Barrel - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHdfYnlyeXlYZVVrVjZLV3VYdEh0a2l1c09GdldZdndSdGNaQkhkQ0hSMUdvWlh2S0g5ZWRteW1PZW9helN1Z3paZmw4SThmZkxxbnMyd3hWVXl2eUNfWVlnbTFsdW1LQTBydlNjUWVESTJWU0VLbm5zU1dhQ0cxX3hPdkc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHdfYnlyeXlYZVVrVjZLV3VYdEh0a2l1c09GdldZdndSdGNaQkhkQ0hSMUdvWlh2S0g5ZWRteW1PZW9helN1Z3paZmw4SThmZkxxbnMyd3hWVXl2eUNfWVlnbTFsdW1LQTBydlNjUWVESTJWU0VLbm5zU1dhQ0cxX3hPdkc?oc=5\" target=\"_blank\">Apple product launch, Meta Super PAC, Trump & Cracker Barrel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-26T07:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
     {
       "title": "Meta is racing the clock to launch its newest Llama AI model this year - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnNaN0VSakwyZlljaDNteXpHTlE1S3ZwNDV4S0dwRTZrc0UwdkpjMjZndjlrY1BiWlFkVkg4elVyaERsZGhhNFNpX1FCbTE3UkYyVUVLVWpwY1VqTFdZc3d6bGZ2aHJZdXM5Z2M5OE1vNGhPcFY4T1VVX3VWWWZIRTFIaDF0UVJWaTdmSno4bWt6SWxpQlhQV2VxVW5YVF90?oc=5",
@@ -84,11 +70,18 @@
       "source": "Business Insider"
     },
     {
-      "title": "Meta's Smart Glasses With Built-In Display May Launch Next Month - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhTR205eVZ1eWphWXFHZVVaVHJEWV9ETHJjWXh1OF9yTE1fVUd2RlFqQkRfeEozOWt3WGFXX2xhb2pPbWdCZW1WQXFYMjBfZ09CcGV5YjJacHFVLWtmSWxUaTROdVBXdndXeHo5NkRlM3RyT3NKUHV2N1JUY3RjNC1FR3JJRG1oUFFZZGVQVno4YzhL?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhTR205eVZ1eWphWXFHZVVaVHJEWV9ETHJjWXh1OF9yTE1fVUd2RlFqQkRfeEozOWt3WGFXX2xhb2pPbWdCZW1WQXFYMjBfZ09CcGV5YjJacHFVLWtmSWxUaTROdVBXdndXeHo5NkRlM3RyT3NKUHV2N1JUY3RjNC1FR3JJRG1oUFFZZGVQVno4YzhL?oc=5\" target=\"_blank\">Meta's Smart Glasses With Built-In Display May Launch Next Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2025-08-18T07:00:00+00:00",
-      "source": "PCMag"
+      "title": "Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5\" target=\"_blank\">Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-08-22T07:00:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta's new cutting-edge smart glasses tipped to launch in September — here's what we know - Tom's Guide",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEtqd050VXFvcEtpdlRrVUZDSXhVUEJIQTF5RnlMLUFPMm5nYkRPX2dJUlNoX004aWh6OEM4WVptNFFpYmRfYi1SeU1wYXB2NFBPcVNxM25zaVNJU0pUZmdqaEg4dXRuTjN6akVzd3RwRGt4V1ctN2ZOTi1JdXNGLUR5NFRiLTVJbUl2dnRodWpEaDZYVVp1TkJOcDNMa0FjZWNLeW11OGdIMWdycjMyTDNOdk92SmUwX3hVSk1YRjF6bEhuVVhOUnJ6SU0tVW5M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEtqd050VXFvcEtpdlRrVUZDSXhVUEJIQTF5RnlMLUFPMm5nYkRPX2dJUlNoX004aWh6OEM4WVptNFFpYmRfYi1SeU1wYXB2NFBPcVNxM25zaVNJU0pUZmdqaEg4dXRuTjN6akVzd3RwRGt4V1ctN2ZOTi1JdXNGLUR5NFRiLTVJbUl2dnRodWpEaDZYVVp1TkJOcDNMa0FjZWNLeW11OGdIMWdycjMyTDNOdk92SmUwX3hVSk1YRjF6bEhuVVhOUnJ6SU0tVW5M?oc=5\" target=\"_blank\">Meta's new cutting-edge smart glasses tipped to launch in September — here's what we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font>",
+      "published": "2025-08-25T07:00:00+00:00",
+      "source": "Tom's Guide"
     },
     {
       "title": "Meta’s Superintelligence Labs Losing Key Staff Months After Launch - eWeek",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbGJ1QUw1bEstWUVjcHg4eno3aDhxNldyX2RVVEJUU1dnS0kzajhIWm1pUjRpZEV5alEycFcxRUtxRXBFdno1Z1BDcjUwMGlma1VEMU45bi1naUo1X2N0V3JvZURnNFRhM3JHa01XaXhEbVVFLUIw?oc=5\" target=\"_blank\">Meta’s Superintelligence Labs Losing Key Staff Months After Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eWeek</font>",
       "published": "2025-09-01T07:00:00+00:00",
       "source": "eWeek"
+    },
+    {
+      "title": "Meta's Smart Glasses With Built-In Display May Launch Next Month - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhTR205eVZ1eWphWXFHZVVaVHJEWV9ETHJjWXh1OF9yTE1fVUd2RlFqQkRfeEozOWt3WGFXX2xhb2pPbWdCZW1WQXFYMjBfZ09CcGV5YjJacHFVLWtmSWxUaTROdVBXdndXeHo5NkRlM3RyT3NKUHV2N1JUY3RjNC1FR3JJRG1oUFFZZGVQVno4YzhL?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhTR205eVZ1eWphWXFHZVVaVHJEWV9ETHJjWXh1OF9yTE1fVUd2RlFqQkRfeEozOWt3WGFXX2xhb2pPbWdCZW1WQXFYMjBfZ09CcGV5YjJacHFVLWtmSWxUaTROdVBXdndXeHo5NkRlM3RyT3NKUHV2N1JUY3RjNC1FR3JJRG1oUFFZZGVQVno4YzhL?oc=5\" target=\"_blank\">Meta's Smart Glasses With Built-In Display May Launch Next Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2025-08-18T07:00:00+00:00",
+      "source": "PCMag"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-08",
-      "close": 752.2999877929688
+      "date": "2025-09-09",
+      "close": 765.7000122070312
     },
     "history": [
-      {
-        "date": "2025-08-28",
-        "close": 751.1099853515625
-      },
       {
         "date": "2025-08-29",
         "close": 738.7000122070312
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-08",
         "close": 752.2999877929688
+      },
+      {
+        "date": "2025-09-09",
+        "close": 765.7000122070312
       }
     ],
     "name": "Meta Platforms, Inc."
