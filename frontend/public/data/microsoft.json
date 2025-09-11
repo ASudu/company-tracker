@@ -2,21 +2,35 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-09-10T12:21:14.193580+00:00",
+  "fetched_at": "2025-09-11T12:21:09.341873+00:00",
   "news": [
+    {
+      "title": "Free developer registration for individual developers on Microsoft Store - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0hfQjktNlRpbC1oNmo1WE9uR252NlRGanpzemY3NWlWT3F6SDVESFdTMkxQN2Rzdm4yallYbVNRc2FKbU5aRXhzN3dtNnlfM3RaUDE3TWZ6V0p0ajM3aDAzMFNJaWVsRjdDN3ROYVA3NUw2REF5VWRKaDZ4UlNKNFoyRzRxaGVDNWhzZjdnV2JWUmhpU2FuaVZZbzRpeHpjZXJqeWhpX0xxLVppNzFxaEgtaDB5VUhlOGFRRjdENHQwSklFbHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0hfQjktNlRpbC1oNmo1WE9uR252NlRGanpzemY3NWlWT3F6SDVESFdTMkxQN2Rzdm4yallYbVNRc2FKbU5aRXhzN3dtNnlfM3RaUDE3TWZ6V0p0ajM3aDAzMFNJaWVsRjdDN3ROYVA3NUw2REF5VWRKaDZ4UlNKNFoyRzRxaGVDNWhzZjdnV2JWUmhpU2FuaVZZbzRpeHpjZXJqeWhpX0xxLVppNzFxaEgtaDB5VUhlOGFRRjdENHQwSklFbHc?oc=5\" target=\"_blank\">Free developer registration for individual developers on Microsoft Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
+      "published": "2025-09-10T19:07:30+00:00",
+      "source": "Windows Blog"
+    },
+    {
+      "title": "Microsoft waives fees for Windows devs publishing to Microsoft Store - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeThyV3RfeDVNaDVhZ0JLcEhyZmw0R0dPNTFhRFRrclR2VXlZNXVidDlwZ3pUZ0l6am5PVmdlU2hCZ2ljWHNkRTRsZ2FEejBFU1BJTWxSTzR0T0RkaTlnMTFpdFJlMXp5djFPWkh2bTZTa05LZy03T1pSR0dfajdiVzE0SEotOVNIcXhWRkdPZW16WXNDNi1KTGJzMEtrb3BRNlF5VUNJeGF1bzRHYWNBaVkzQUNWLWZW0gG-AUFVX3lxTE1Wa2FZb2NBQ1VrTDIwcFFsdkRJbWwxT2RqTlJXbXV3ajhyaUNZMlFxUERIUTFNcXFjRl91MFdZdlF6czBnR2RLWEFOYTFfS3Zva25YNURNdEFDQXVMaWJnOEsyb1dUWU83UlY1TVFwbjVLZlY5bG5Hdk90WHVtV3BtZnROaDhJQks2YTZLZENrbHZpSkFvUlVrYnF3NEZ2c1hJN3daV1Rpc2xhN3NlYUxSR1c5YUotOXhtQjdna2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeThyV3RfeDVNaDVhZ0JLcEhyZmw0R0dPNTFhRFRrclR2VXlZNXVidDlwZ3pUZ0l6am5PVmdlU2hCZ2ljWHNkRTRsZ2FEejBFU1BJTWxSTzR0T0RkaTlnMTFpdFJlMXp5djFPWkh2bTZTa05LZy03T1pSR0dfajdiVzE0SEotOVNIcXhWRkdPZW16WXNDNi1KTGJzMEtrb3BRNlF5VUNJeGF1bzRHYWNBaVkzQUNWLWZW0gG-AUFVX3lxTE1Wa2FZb2NBQ1VrTDIwcFFsdkRJbWwxT2RqTlJXbXV3ajhyaUNZMlFxUERIUTFNcXFjRl91MFdZdlF6czBnR2RLWEFOYTFfS3Zva25YNURNdEFDQXVMaWJnOEsyb1dUWU83UlY1TVFwbjVLZlY5bG5Hdk90WHVtV3BtZnROaDhJQks2YTZLZENrbHZpSkFvUlVrYnF3NEZ2c1hJN3daV1Rpc2xhN3NlYUxSR1c5YUotOXhtQjdna2c?oc=5\" target=\"_blank\">Microsoft waives fees for Windows devs publishing to Microsoft Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-09-10T18:21:30+00:00",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Windows developers can now publish apps to Microsoft’s store without fees - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTVqa2pJN0IwUDA0UERQQ1VyRGdGTW9QdXNaMVRBQUszZ2w1NUVpR1Y5VFhQSlVmQ0VrZGl2NTZlX1N4dlNKcS1ZTGNCU1FIS3JHQUxZYTM2T0pTWDBXVDRwY3dONzV2MmpsNUROdWRJNW5OVlhidzg3SlVsVV9KVDlIMGlfUWhKN3VibHVxYlM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTVqa2pJN0IwUDA0UERQQ1VyRGdGTW9QdXNaMVRBQUszZ2w1NUVpR1Y5VFhQSlVmQ0VrZGl2NTZlX1N4dlNKcS1ZTGNCU1FIS3JHQUxZYTM2T0pTWDBXVDRwY3dONzV2MmpsNUROdWRJNW5OVlhidzg3SlVsVV9KVDlIMGlfUWhKN3VibHVxYlM?oc=5\" target=\"_blank\">Windows developers can now publish apps to Microsoft’s store without fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-10T17:38:54+00:00",
+      "source": "The Verge"
+    },
     {
       "title": "Microsoft is officially sending employees back to the office. Read the memo. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU1WSHktc2lzd3BDeVNFdjg5TlE5bEZhMm40WUVQcmo4UHN0c2lqalk5Zm1qYkM0S1NpZ1otUGdCeExxVUdYVjU3Mmw1b1dNRWdUTGZQSzh0QWVQTEJTci1jN2NSbUhEU3IzZktVMjJkVXVadjM4a2hORExXVkVVZGFYd2drMC01YUJxQjExeTlUdWY1NVZkUlBR?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU1WSHktc2lzd3BDeVNFdjg5TlE5bEZhMm40WUVQcmo4UHN0c2lqalk5Zm1qYkM0S1NpZ1otUGdCeExxVUdYVjU3Mmw1b1dNRWdUTGZQSzh0QWVQTEJTci1jN2NSbUhEU3IzZktVMjJkVXVadjM4a2hORExXVkVVZGFYd2drMC01YUJxQjExeTlUdWY1NVZkUlBR?oc=5\" target=\"_blank\">Microsoft is officially sending employees back to the office. Read the memo.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDJKSjdBeWR5Tm9LaGxfdEV0MXZsOEkwTVNaYllVdE1RVVg5elRUcl90RjVDdWVFaDdvSFdBWnl4eGZTV0s3Ym5aUFdVTm04bUNKcFlkM0pKMnI3aWdMM1lTRFRsMU9YQ2xrMXUtelppMjhoQ1dCelRWSF8yRVJGMnN5dHllcFpVbzdZZnltZnNnRnh5c0ViVXBtRE5vM3pmS1NLbk42SHB4UdIBrwFBVV95cUxPYVRfaXNpV0lHcGZhd0JXU3ZIN0lJa1FaQ0Z6ckFuck52U2NJMzREQmFqNzZCSkd5cWhXbmV1dFFmSklMRWNwVDF6dGgxcXRDNHdydnpYcXE1XzllQmtaWWpKakRlMWdGZldZb25HZ2VZZ2VaSXF6NkNVMC1uR2pLNEloYnMzLVpKSUsyMkxCUkZHb1RLX2JLY1hCcHc0M2p1ejdrcEgwNzFTMXVwcS04?oc=5\" target=\"_blank\">Microsoft says employees will be expected in office three days a week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWsyZGVodW5TemJiV21raVQ2VmJ0NFpmLXRSYVlVTmllamx4Z3VDd2VCcHpIYkg2YUxWdWM3eXMyeGkzZlB2c0tMY25nVlhmZkREOFI4MXBYMDlXSUFyYjI4T0JkQTdiVUkzOVd1aW5WNnpIRG1zMHZsZFpkbnJhZ1FKOTJKeWJmLV9obFN6VWdray1wV0RHVzN6QUc5eXh3NkpHczR5cm1lTnVYWDA0?oc=5\" target=\"_blank\">Microsoft sets new RTO policy, requiring employees in the office 3 days per week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font></li></ol>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUU1WSHktc2lzd3BDeVNFdjg5TlE5bEZhMm40WUVQcmo4UHN0c2lqalk5Zm1qYkM0S1NpZ1otUGdCeExxVUdYVjU3Mmw1b1dNRWdUTGZQSzh0QWVQTEJTci1jN2NSbUhEU3IzZktVMjJkVXVadjM4a2hORExXVkVVZGFYd2drMC01YUJxQjExeTlUdWY1NVZkUlBR?oc=5\" target=\"_blank\">Microsoft is officially sending employees back to the office. Read the memo.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPcTQ3OTR3RmZkRE1NX2hPU2cwN1hKN1FjZVBiSmNubXJPRUpldXd0LWhQa1ZRQTVFQ2FjQmFQTVd6Skk0ZTJrU1BQT2hjSUFSWDZUaFZtSUxkMmdaNUs5ZG15c29FbjlCamVBWExhOG9jUHhRSE9iaGZsWTRqY1hvLXpZQmV4YTBSSXQtTzVDTlVwYm1kaGNrOHJlVW9xZE5JQTJRRTRDVzgyS2xOZjY5RXdkTk1QdjMyYjdmZWFVa2pCMjdfY3g2WWlISjlnbkg2NGJ0N0dDUTlkYUgyeWVYa3pEWUZOV25BbVlFMG5vRDhxMDVTNUxYSjBXM3hYQmRKbUHSAYcCQVVfeXFMTktCYzgzLW1VejhpUlJjekZ1WThPejl2Y001aFpQM3hXSUVyNlU1ZEprU0JQaDVoYUhQQTNBVDUzYjVIOG50NGpXNHFuQTJMbFdjdFc1eEhMOGFkM19NZHpmbWVZZmt0clc3QUw5VmhxQUFLQ0FjRU5UYmIwaXZUaTZjMW8wT1R1TjFwU2VJRWg4dVp3WnBvODFpZFBvTkVtc3JVc3pBcUZZUDJaMk5ZZFhoVHJySUtGSllScktSdWplcENVZUNlN2hfR3kxbkpIaXE5OTlYc1hXdHZZajkxT0ZpWkJ1R3YxVmFlR29iWjZudFhVT1JRRndfWWZTUXlHUmcyWXNrNTQ?oc=5\" target=\"_blank\">Microsoft sends company wide memo, asks employees to return to office; read the full letter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimANBVV95cUxNWXVkeUtzeDJBam1nX3hXREx4c09wYXVQQkdWaGxYZnNTNmlHZDVveWxBQ0lrclZSbUIxc3M1NjA3QVMzY285MTNncWhZX01ablhVcDBEaXBtN0xWN09DbWRXTWdUUXhudVZlYlJjeTVNdW9ab0dwMW93T0RSb2JocFpGanR3SzFwd3RRbHkwRHlHLUhmV0J0dWlVNldkcFFNTmlLRzZIZERzVC1QYmVYN3hzT2NoUllmTzhibndSQ2EyMnJFbUNNWGVJUU9qb25ZSEhPSGJFYmk2YjZqbkhjSEx6X0RuTkVGOUtqQUpuVzh2RHdodHoxWl9jVUV6UERnYmJOYVNCMGlYVjFGWnpRQkxXRHpNTXRRS3g1cC1XU3JYOWpWV1k1bEpqMnRSakRpcml0QmJ1S3loYUNkTi02SmlNc1ltVzR4Z3B0Z281U242djEzV2hnR3lUV3dTNC0ycjRZMWpKVHA1MzhPLWw1aHFFaFhxNzFnclZxWjBoenlTbTB6eDlJcTl5YU5BeW91Z0I2T09lTlc?oc=5\" target=\"_blank\">Microsoft Cracks Down on Work Speech, Limits Remote Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li></ol>",
       "published": "2025-09-09T15:05:00+00:00",
       "source": "Business Insider"
-    },
-    {
-      "title": "Nebius stock soars nearly 50% on Microsoft AI deal - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOG41R0RMTERxNDZ0MFltV2RHU1hZZk1OdC1OZVAwdlRmVnRsSWpZeWF2d2V2dEE3d2FVazhQOUlZWk5FSEdYSXF3N095ekQ5cTdVMWVIMjRxTE5wN1FoQzh1c2VMeGZubERreHVBMjZOM29jOVg4cUpkTUNiYWYzNTVjTWVtLThUNlVJczlTd01oWE5iSzBWTjB2UUZyZHZFLUF0MHFn0gGrAUFVX3lxTE5jTXBLNjlDT0dhRXRkMGpDbnFHMTl2STFGMW1ETFluWF9RWkdtYU9ETGF1dHNKcjk2dDQ5LUQ0QV82cDg1Tl9pbjFzaHRucjc4V1NBeWY5SUFHNUNqbXg5RE5lOG5iZEt4a1pWNi1jeWpLNHNmbS1xbTU3RE9pS1lHdDlNMkotOW9PNExGeExfRXJRejAtNS0yVGRFeFJnZ1AxSXBaRGZJTUhnMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNOG41R0RMTERxNDZ0MFltV2RHU1hZZk1OdC1OZVAwdlRmVnRsSWpZeWF2d2V2dEE3d2FVazhQOUlZWk5FSEdYSXF3N095ekQ5cTdVMWVIMjRxTE5wN1FoQzh1c2VMeGZubERreHVBMjZOM29jOVg4cUpkTUNiYWYzNTVjTWVtLThUNlVJczlTd01oWE5iSzBWTjB2UUZyZHZFLUF0MHFn0gGrAUFVX3lxTE5jTXBLNjlDT0dhRXRkMGpDbnFHMTl2STFGMW1ETFluWF9RWkdtYU9ETGF1dHNKcjk2dDQ5LUQ0QV82cDg1Tl9pbjFzaHRucjc4V1NBeWY5SUFHNUNqbXg5RE5lOG5iZEt4a1pWNi1jeWpLNHNmbS1xbTU3RE9pS1lHdDlNMkotOW9PNExGeExfRXJRejAtNS0yVGRFeFJnZ1AxSXBaRGZJTUhnMA?oc=5\" target=\"_blank\">Nebius stock soars nearly 50% on Microsoft AI deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-09-09T09:05:08+00:00",
-      "source": "CNBC"
     },
     {
       "title": "Nebius Group hits record high as $17.4 billion Microsoft deal affirms expansion strategy - Reuters",
@@ -26,39 +40,25 @@
       "source": "Reuters"
     },
     {
-      "title": "Nvidia: The Real Winner In The $19B Microsoft/Nebius Deal (NASDAQ:NVDA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXBsTS11ZV9EdW1idUtEbUFDQjZtTzZONGdaX0htUEU2d0RFdjVEZWhqd0t2YWE3RTZZOWZEMlpuand0QWhsbUpNdm5LUnlHaHFiU1U5RUF2QWhTdWlUQkpSSWtzOEhmekpoWjc5SlJuclp4dWhCc1FLLVVTWFdKVm5uSGNRQWx2cUl0Z2RpLTNobHVLSEhwZ1Fydjg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXBsTS11ZV9EdW1idUtEbUFDQjZtTzZONGdaX0htUEU2d0RFdjVEZWhqd0t2YWE3RTZZOWZEMlpuand0QWhsbUpNdm5LUnlHaHFiU1U5RUF2QWhTdWlUQkpSSWtzOEhmekpoWjc5SlJuclp4dWhCc1FLLVVTWFdKVm5uSGNRQWx2cUl0Z2RpLTNobHVLSEhwZ1Fydjg?oc=5\" target=\"_blank\">Nvidia: The Real Winner In The $19B Microsoft/Nebius Deal (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-09-09T13:52:37+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Wyden Says Microsoft Flaws Led to Hack of US Hospital System - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnlFMzBuWm9xLXQxekFGaXlBRFZqNTZwS3dzaTF0MHdvQnpjN2pyVXZ6bWM4UDJGQ01lNS1VYzdiamU4MlhzcXZtbjN5REtDZmUtQmY1dHlQWFd2OEhBaWRYLS11WDRKSjd4TE9qaXVXM1d1d2dkMlR3c0dYT0R4SDh2SzhudG5IMm04enFUQTdvaFl0R1VVQVRKME5ZU0NmV2VVeXdFX2dmc2U1azF1eQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnlFMzBuWm9xLXQxekFGaXlBRFZqNTZwS3dzaTF0MHdvQnpjN2pyVXZ6bWM4UDJGQ01lNS1VYzdiamU4MlhzcXZtbjN5REtDZmUtQmY1dHlQWFd2OEhBaWRYLS11WDRKSjd4TE9qaXVXM1d1d2dkMlR3c0dYT0R4SDh2SzhudG5IMm04enFUQTdvaFl0R1VVQVRKME5ZU0NmV2VVeXdFX2dmc2U1azF1eQ?oc=5\" target=\"_blank\">Wyden Says Microsoft Flaws Led to Hack of US Hospital System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-10T10:00:00+00:00",
+      "title": "Nebius to Raise $3 Billion for Growth After Microsoft Deal - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVRIcXlmMGhOODVueE5VdU9VRm5BYjM3S1lCbFZCdVJXMkxqU19VV25uMThUdV9Sd1Ytb0h3d3F1eFppMTAza1lCcjNLbDhsQXNMYkdDeDNINkpjeW5HdkRxV2R3ZHhFZnpyRWJvZS12VUQybzhsQTBIQy1tMkRVZGhPc0VpVjBwX1lUS0M4ZHdRLVk1dmVPVDFzR25BRFV4X25HMDExLUdOb3BrdTJHT0NiRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVRIcXlmMGhOODVueE5VdU9VRm5BYjM3S1lCbFZCdVJXMkxqU19VV25uMThUdV9Sd1Ytb0h3d3F1eFppMTAza1lCcjNLbDhsQXNMYkdDeDNINkpjeW5HdkRxV2R3ZHhFZnpyRWJvZS12VUQybzhsQTBIQy1tMkRVZGhPc0VpVjBwX1lUS0M4ZHdRLVk1dmVPVDFzR25BRFV4X25HMDExLUdOb3BrdTJHT0NiRQ?oc=5\" target=\"_blank\">Nebius to Raise $3 Billion for Growth After Microsoft Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-09-10T13:22:07+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Microsoft to Buy AI From Anthropic in Partial Shift From OpenAI - The Information",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXhtdkpqeHljeWNzbmFUV3pXcGROdHNXLUlLck9Db1NScl9PZzdCSmFaN2w0YV9qdzFvMGFaMDRuWFQ0dHJ1c2s4UVN2d2VXUEgxY3FwajZYcFZLNDNXb0FMbENjNFBtVWRpTkp0Ny1ZOFhFTHVOdFBBRExFRHl4dG1SQnpyUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXhtdkpqeHljeWNzbmFUV3pXcGROdHNXLUlLck9Db1NScl9PZzdCSmFaN2w0YV9qdzFvMGFaMDRuWFQ0dHJ1c2s4UVN2d2VXUEgxY3FwajZYcFZLNDNXb0FMbENjNFBtVWRpTkp0Ny1ZOFhFTHVOdFBBRExFRHl4dG1SQnpyUQ?oc=5\" target=\"_blank\">Microsoft to Buy AI From Anthropic in Partial Shift From OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2025-09-09T18:18:00+00:00",
-      "source": "The Information"
+      "title": "Nebius prices stock-market offering at 44% premium to before it announced Microsoft deal - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd09iQnlNelQxS1ZBYklHVTIyTTdpS0FJSGNuTEVNd1BFd3lDYnVqcEtpOVpDTVRNV2lTZHU3VDJ4QjNDV05KN2xSamF3MUVmQkJIcmlnd0RhM1BLb1M2dUJkWlp1c05CbC1Dd0hJekpoRTM3czNUVmdkemhvbnZ3c0EtZkxMM2VkZ2gwVGFKdk1pZE9QMU5MQ0lVNWZzNWF4eWRXekh4OTVqenc5SDd3ZFY4dGxOMXM3bzBSSUxGbk1ERVMxcTFKdDVR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNd09iQnlNelQxS1ZBYklHVTIyTTdpS0FJSGNuTEVNd1BFd3lDYnVqcEtpOVpDTVRNV2lTZHU3VDJ4QjNDV05KN2xSamF3MUVmQkJIcmlnd0RhM1BLb1M2dUJkWlp1c05CbC1Dd0hJekpoRTM3czNUVmdkemhvbnZ3c0EtZkxMM2VkZ2gwVGFKdk1pZE9QMU5MQ0lVNWZzNWF4eWRXekh4OTVqenc5SDd3ZFY4dGxOMXM3bzBSSUxGbk1ERVMxcTFKdDVR?oc=5\" target=\"_blank\">Nebius prices stock-market offering at 44% premium to before it announced Microsoft deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2025-09-11T09:14:00+00:00",
+      "source": "MarketWatch"
     },
     {
-      "title": "Microsoft Will Use Anthropic Models in Office 365 Copilot - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGVfV19zWFpJVkxfZ2dIZHo5ZnNTRmIxRFp1Vkd3MVVOUGdCamZVVFg0VHYzVjZ0SnVJNXRFSHp2alNpbmJ1WU5QTzBFcV9GNEtGV3NJSkFKUl83UHMtY3ZrUUI4Vm1UV3hqdHdGWG1DWjlBQmNVamhSaDc1QmNzblM4cFJ2dGptTndoSmxSQnhyYjZnN3FtT0VXVTFHeW04eWJ6cUdZcjZCQjl3MmJabnJB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGVfV19zWFpJVkxfZ2dIZHo5ZnNTRmIxRFp1Vkd3MVVOUGdCamZVVFg0VHYzVjZ0SnVJNXRFSHp2alNpbmJ1WU5QTzBFcV9GNEtGV3NJSkFKUl83UHMtY3ZrUUI4Vm1UV3hqdHdGWG1DWjlBQmNVamhSaDc1QmNzblM4cFJ2dGptTndoSmxSQnhyYjZnN3FtT0VXVTFHeW04eWJ6cUdZcjZCQjl3MmJabnJB?oc=5\" target=\"_blank\">Microsoft Will Use Anthropic Models in Office 365 Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "published": "2025-09-10T02:03:45+00:00",
-      "source": "PYMNTS.com"
-    },
-    {
-      "title": "Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVVyM2dNNk5oLUpwSFg3UElFLVJaMTNsVWtnSmU3MnZ2enBwM1lJTE9OeHZlaGxGdTdvTWVsYnEwdWZGVGhXdzdsaWNJUHRBNEcxSnJzWWZtd24tYjhNNHE3YnVLUm1Ob1Q5OTlfTVRrb2g2RXdZMndTME90TzJvMVUtcXM0SXVrNFEzQkZhRXlwNko4cmdOQXhSdFFmbGhLYzhRSTd5bEhFdW8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVVyM2dNNk5oLUpwSFg3UElFLVJaMTNsVWtnSmU3MnZ2enBwM1lJTE9OeHZlaGxGdTdvTWVsYnEwdWZGVGhXdzdsaWNJUHRBNEcxSnJzWWZtd24tYjhNNHE3YnVLUm1Ob1Q5OTlfTVRrb2g2RXdZMndTME90TzJvMVUtcXM0SXVrNFEzQkZhRXlwNko4cmdOQXhSdFFmbGhLYzhRSTd5bEhFdW8?oc=5\" target=\"_blank\">Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-09-09T20:11:30+00:00",
-      "source": "TechCrunch"
+      "title": "Oracle Is Outshining Microsoft and Amazon. What It Has That They Don’t. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeU5JM3p3MUtuMUo5U2F4SGJsRXpOdXA3cG1CUXR0RWJuWTJvUXVGRU1Qc25qSlQ4NTRVcjFFZS1iU1phWDdJZlpvVHE0d2VDTGx4UFNqVVpJb0RCQlRRMVNGVkc2NU44V05QTVNsWlYzR0c4aDczT3BQYmF3WkRIU3JlVWpvaFVaWjBCRjRMRU4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeU5JM3p3MUtuMUo5U2F4SGJsRXpOdXA3cG1CUXR0RWJuWTJvUXVGRU1Qc25qSlQ4NTRVcjFFZS1iU1phWDdJZlpvVHE0d2VDTGx4UFNqVVpJb0RCQlRRMVNGVkc2NU44V05QTVNsWlYzR0c4aDczT3BQYmF3WkRIU3JlVWpvaFVaWjBCRjRMRU4?oc=5\" target=\"_blank\">Oracle Is Outshining Microsoft and Amazon. What It Has That They Don’t.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2025-09-10T13:47:00+00:00",
+      "source": "Barron's"
     }
   ],
   "product_launches": [
@@ -66,7 +66,7 @@
       "title": "Microsoft launches its own LLMs — here’s what that really means - Computerworld",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFFKSmktYjY2YUpYaFNwcWJXSXBmLXFLZ2xwVm5IcWFlYXN6X0pxV2QtOEk1WnFkMFRWQkh4WnhlSlIybnd3NlJDaWdJREF2QU1JU1FvVzlVenBwRVVFUG1nOHk5T2s2MDk0elhWYzRYUHdVVlJwZkhEb29kN1JaZFg3OWF1Vnc5ckhrMllJU0dUVFl5UzA1STVNVW5IT0pXY0pWX2wyV3d6VWFqdUFsRA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFFKSmktYjY2YUpYaFNwcWJXSXBmLXFLZ2xwVm5IcWFlYXN6X0pxV2QtOEk1WnFkMFRWQkh4WnhlSlIybnd3NlJDaWdJREF2QU1JU1FvVzlVenBwRVVFUG1nOHk5T2s2MDk0elhWYzRYUHdVVlJwZkhEb29kN1JaZFg3OWF1Vnc5ckhrMllJU0dUVFl5UzA1STVNVW5IT0pXY0pWX2wyV3d6VWFqdUFsRA?oc=5\" target=\"_blank\">Microsoft launches its own LLMs — here’s what that really means</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computerworld</font>",
-      "published": "2025-09-10T10:03:45+00:00",
+      "published": "2025-09-11T00:10:01+00:00",
       "source": "Computerworld"
     },
     {
@@ -77,18 +77,18 @@
       "source": "Microsoft"
     },
     {
-      "title": "OpenAI | ChatGPT, Sam Altman, Microsoft, & History | Britannica Money - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, Microsoft, & History | Britannica Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
-      "published": "2025-09-05T22:00:00+00:00",
-      "source": "Britannica"
-    },
-    {
       "title": "PPL Launches Debut Product in Partnership With Microsoft - - Insurance Edge",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUFMYjZKd0wxVFdPV2drbDBobzVhd1FKTm1yUTJPMUFTX2pDNms5eE5aZUJ5TUhaR05aLXRKOTlCMVA4UnNUcG16dVRCUWg3THNnRzhnNHR2eFk3ZEtpLUo5WDhzSFkyMC1tRHlXX3JxMzNOalF4Qkt6X3Y3S1dhYzMxOUd2Vmx4clRBeXhCRzZ4ZWhxSXVpM1FSOA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUFMYjZKd0wxVFdPV2drbDBobzVhd1FKTm1yUTJPMUFTX2pDNms5eE5aZUJ5TUhaR05aLXRKOTlCMVA4UnNUcG16dVRCUWg3THNnRzhnNHR2eFk3ZEtpLUo5WDhzSFkyMC1tRHlXX3JxMzNOalF4Qkt6X3Y3S1dhYzMxOUd2Vmx4clRBeXhCRzZ4ZWhxSXVpM1FSOA?oc=5\" target=\"_blank\">PPL Launches Debut Product in Partnership With Microsoft -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insurance Edge</font>",
       "published": "2025-08-19T07:00:00+00:00",
       "source": "Insurance Edge"
+    },
+    {
+      "title": "The Microsoft 365 Copilot launch was a total disaster - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnQ4Y2RabmtXRWYwY2ZTMTdiWjFiVDF4RTF1WHRGeTZ0T2cwblU3Y1QxamYxZGRlSDVtejVObEdQeGhNU1N3MHBadEpHNWZkV01tb2FlUFpXZVBoUzV2SWhQM29CbWRGNWR5MXgtTm1IeHQ5eGVOS1RUZ2JoR1U0U3ZDbEN1emNlSjhfdkVYSW1ERGFpTkhHWDhJLWs4NEJOTXlrdA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnQ4Y2RabmtXRWYwY2ZTMTdiWjFiVDF4RTF1WHRGeTZ0T2cwblU3Y1QxamYxZGRlSDVtejVObEdQeGhNU1N3MHBadEpHNWZkV01tb2FlUFpXZVBoUzV2SWhQM29CbWRGNWR5MXgtTm1IeHQ5eGVOS1RUZ2JoR1U0U3ZDbEN1emNlSjhfdkVYSW1ERGFpTkhHWDhJLWs4NEJOTXlrdA?oc=5\" target=\"_blank\">The Microsoft 365 Copilot launch was a total disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2025-01-24T08:00:00+00:00",
+      "source": "ZDNET"
     },
     {
       "title": "Nvidia Launches New Google And Microsoft Azure Products At GTC 2025 - CRN Magazine",
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-09",
-      "close": 498.4100036621094
+      "date": "2025-09-10",
+      "close": 500.3699951171875
     },
     "history": [
-      {
-        "date": "2025-08-29",
-        "close": 506.69000244140625
-      },
       {
         "date": "2025-09-02",
         "close": 505.1199951171875
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-09",
         "close": 498.4100036621094
+      },
+      {
+        "date": "2025-09-10",
+        "close": 500.3699951171875
       }
     ],
     "name": "Microsoft Corporation"
