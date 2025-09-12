@@ -2,42 +2,56 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-09-11T12:21:20.452678+00:00",
+  "fetched_at": "2025-09-12T12:21:19.990888+00:00",
   "news": [
     {
-      "title": "Nvidia Stock Upgraded. The Case to Buy Amid Oracle AI Surge. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXRDVDQ4LXZLNWtENVVyQXgzTktlMUhldG8wdmVPOGRuNDdBb05SeThJbkd5VWpDbmUwSmlzX3Q2MTBvcUtDSE0zbV9feVZJS0RrV3JwdFpEX24zSmNzdkExcWZPUE54R1dSWXU2anZRU01Ra2hlb1V3c2VSeHA4N3BR?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXRDVDQ4LXZLNWtENVVyQXgzTktlMUhldG8wdmVPOGRuNDdBb05SeThJbkd5VWpDbmUwSmlzX3Q2MTBvcUtDSE0zbV9feVZJS0RrV3JwdFpEX24zSmNzdkExcWZPUE54R1dSWXU2anZRU01Ra2hlb1V3c2VSeHA4N3BR?oc=5\" target=\"_blank\">Nvidia Stock Upgraded. The Case to Buy Amid Oracle AI Surge.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEVBSXZXcVF0ZFcwazUtUTMxcGswSEdDYml4SFl6TnRmMkVmQkpGeGlibjZkYld5TFR1WldhNDhsTjNGelRNTkhSWERISUx6X1dWd3NqeEZkQnZpSWVVa0psSGRyY3RwVHRZR3VsZ3pFV1VBa1hVdVJWZFlBRjdsTkwtZkg1eTZKajlvT2F4Q2hfbUZBX3RxdA?oc=5\" target=\"_blank\">Forget Nvidia: Oracle Is a Better AI Stock to Buy Right Now.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2tuRG94N3hDQ3QyUGFIV3YySDNySGdiTmIzYjk0VGYzeTJlWS1Mb3ctSkQ0WFFBMERXaGRoeE9STW1uQVdFSHFFN2c0c0FXZmQ1bmI1emxOOEJZdWtQMWlrVi1jQ19HWVB6c2F0Z1pWeHZKaDUzMDktcjUzeFpPMlJwRHRnNDVfbWtVRTYyQUVlSURaM1ZQMEVwV3d4ZzJGb2hKWTBldURfSkx3UW0zaXd6cjRHZXNoV2poX1I0M2pPUld6dGVNaTFJSXZEdw?oc=5\" target=\"_blank\">Stock Market Today: Dow Up Ahead Of Inflation Data; Nvidia, Palantir, Tesla Rally (Live Coverage)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li></ol>",
-      "published": "2025-09-11T11:16:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Nvidia gets an upgrade from D.A. Davidson, which calls chipmaker ‘the heart of the AI trade’ - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDFIRnRzb25FU1hXZVBtcDdlSG83QU5kbENFWDdrTU5Fa1prd3N0OGwwUnlOWUN1WXh3TV8yWVRlcEFLTFFuUjdFTVN4VTRFQXZpX09rRDR1NkpzR25IVVNJT094dlFYUXp6S0VIRVNkUnc4b3hMMTVQZ1I4d0piczIxY1Njb2h4T2F5TlZzaC12NEVfZGM2cDc2d0JkMGp0MHE0Q2ZZYkVkRk53UjdUOEtCVm1lSi04aXMyT3dKTWdIQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDFIRnRzb25FU1hXZVBtcDdlSG83QU5kbENFWDdrTU5Fa1prd3N0OGwwUnlOWUN1WXh3TV8yWVRlcEFLTFFuUjdFTVN4VTRFQXZpX09rRDR1NkpzR25IVVNJT094dlFYUXp6S0VIRVNkUnc4b3hMMTVQZ1I4d0piczIxY1Njb2h4T2F5TlZzaC12NEVfZGM2cDc2d0JkMGp0MHE0Q2ZZYkVkRk53UjdUOEtCVm1lSi04aXMyT3dKTWdIQQ?oc=5\" target=\"_blank\">Nvidia gets an upgrade from D.A. Davidson, which calls chipmaker ‘the heart of the AI trade’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-09-11T11:44:22+00:00",
+      "title": "Nvidia and OpenAI to back major investment in UK AI infrastructure - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0h6Y2JqeVIxNE9scng2dUdBbFdzUmNNajlhV2JfeTFHaERNMjc5Zi1mSmpDcWpWYXdXZ0NaSU12N3I1Nko5LUtySkNyUUU2SG4xcXlRYkpQMjhWcmlBTEQ0VF9WWWx2UkhfUy1hVmt1ZW1wc0lOSFY0VVMwM3pBaGRjcGZlY3pzSzZJSTIwU1JPUHFyZW1iek5aVWo5dWRBZnp0N0d30gGrAUFVX3lxTE5FRnVMaVJvSGQwWTR6QThwWXA0bTdCNEtHM3NrSE1yR0Q1cDJiLUhLd3htSllwa0Y0MWZaT2ZIYUlJYzRkT2hOc2JNeXFvb2FxSjhraHlxSmZwYWVpN09sbHhQVUNody1XSVJ5Q2R1cVlISnVmbUNMS0NuSWxMZW9fZmV2cVM0VGsxdXpsTWVFeXBHZFMtTnM4V1RpaGlCY3BDVjFKZnVzQ2pjUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0h6Y2JqeVIxNE9scng2dUdBbFdzUmNNajlhV2JfeTFHaERNMjc5Zi1mSmpDcWpWYXdXZ0NaSU12N3I1Nko5LUtySkNyUUU2SG4xcXlRYkpQMjhWcmlBTEQ0VF9WWWx2UkhfUy1hVmt1ZW1wc0lOSFY0VVMwM3pBaGRjcGZlY3pzSzZJSTIwU1JPUHFyZW1iek5aVWo5dWRBZnp0N0d30gGrAUFVX3lxTE5FRnVMaVJvSGQwWTR6QThwWXA0bTdCNEtHM3NrSE1yR0Q1cDJiLUhLd3htSllwa0Y0MWZaT2ZIYUlJYzRkT2hOc2JNeXFvb2FxSjhraHlxSmZwYWVpN09sbHhQVUNody1XSVJ5Q2R1cVlISnVmbUNMS0NuSWxMZW9fZmV2cVM0VGsxdXpsTWVFeXBHZFMtTnM4V1RpaGlCY3BDVjFKZnVzQ2pjUQ?oc=5\" target=\"_blank\">Nvidia and OpenAI to back major investment in UK AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-09-12T11:14:46+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Top Beijing Adviser Says China Should Ditch Nvidia For Own Tech - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTEwN0NkVkhxTDBzYVZhQXptSmJEdlpRZzFwcncyV3AwUmJweEZ6dGs3VzdYWVBZTXBOWWE3S3hfRUZoWk5XWW5SS2txWnp4eS1VeXFTS2RiUU1JTllLZ3VWWDhMQVhVc0QzV005bUlMWkRweE5SQXdibkVrRFBycFFqaElWT0tEZ1dZWFV3NEdrVDBQRUFHNmlqbmdzQmFrVnRfc3hxUHM2YXdoLW1VOEFrQ0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTEwN0NkVkhxTDBzYVZhQXptSmJEdlpRZzFwcncyV3AwUmJweEZ6dGs3VzdYWVBZTXBOWWE3S3hfRUZoWk5XWW5SS2txWnp4eS1VeXFTS2RiUU1JTllLZ3VWWDhMQVhVc0QzV005bUlMWkRweE5SQXdibkVrRFBycFFqaElWT0tEZ1dZWFV3NEdrVDBQRUFHNmlqbmdzQmFrVnRfc3hxUHM2YXdoLW1VOEFrQ0U?oc=5\" target=\"_blank\">Top Beijing Adviser Says China Should Ditch Nvidia For Own Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-11T10:06:29+00:00",
+      "title": "OpenAI, Nvidia CEOs Set to Announce UK Data Center Investments - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnZ6MVpFamdyVE9RTVhnRm9SbzR2VlFBY1c2YVd0X2VzbVltT3RMRVYtMzVHYWJKRUVxMERuSi15enlhSlpfUk1LbnpfaXlzaFpFZ3R1Zl9VWl9EM0NJUTAtYzVnbzdaSDdaUFJsSjNxTEExLTZqZUdRUEo0MEV6TC1nSkZjUEc2Z0ljZ3ZUNDdFZUJiWHktN0FsdmxuYTRaekp4SncyRl9xQ0ZGTU9HM3BB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnZ6MVpFamdyVE9RTVhnRm9SbzR2VlFBY1c2YVd0X2VzbVltT3RMRVYtMzVHYWJKRUVxMERuSi15enlhSlpfUk1LbnpfaXlzaFpFZ3R1Zl9VWl9EM0NJUTAtYzVnbzdaSDdaUFJsSjNxTEExLTZqZUdRUEo0MEV6TC1nSkZjUEc2Z0ljZ3ZUNDdFZUJiWHktN0FsdmxuYTRaekp4SncyRl9xQ0ZGTU9HM3BB?oc=5\" target=\"_blank\">OpenAI, Nvidia CEOs Set to Announce UK Data Center Investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-09-12T02:41:00+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Nvidia is worth $4 trillion. So why isn't CEO Jensen Huang the world's richest person? - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWhBbHZ1WDFuTUhsMmlEZUZvVGJVR09EMjZsc0RmZi10Rm1nS0ZRQWxaZE1UanVZU3BTSEZ2ODh2THpFdnF0RjJEanBabWI5OVhiMEl6SDR5ZWgxYmp6Z2IxMTl3RDY5dEtmOEk1XzBTNkFmdTl3REpxdFdQVmh0ajJDWUVKdUZ0MkhpcF9WWWNaTk5wUjFWR216VWVmZ1c3ekFnX1dxck0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWhBbHZ1WDFuTUhsMmlEZUZvVGJVR09EMjZsc0RmZi10Rm1nS0ZRQWxaZE1UanVZU3BTSEZ2ODh2THpFdnF0RjJEanBabWI5OVhiMEl6SDR5ZWgxYmp6Z2IxMTl3RDY5dEtmOEk1XzBTNkFmdTl3REpxdFdQVmh0ajJDWUVKdUZ0MkhpcF9WWWNaTk5wUjFWR216VWVmZ1c3ekFnX1dxck0?oc=5\" target=\"_blank\">Nvidia is worth $4 trillion. So why isn't CEO Jensen Huang the world's richest person?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-09-09T09:47:00+00:00",
+      "title": "OpenAI, Nvidia set to announce UK data center investments, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlNEX3JQMnZkUzV2UkNTZDNwRElLNzRzVTFVc1laN0g4b1hqQnpXeXhLLS1uUjN6U281YkQyRFE0SWRwZ0V4R3F3LUZpVUZCSWtRLUVXRjZKXzZGRk4zeW1zdFhsWXduUmJ2SW1JaF9tRWY2UGF0ZjY5cGZFQ29xUWtaUUMzdHUtVzJ3V1Zma1dvUllzbW9tekE5YVBhSGdJZTFuZ0VGckFIYVJpMWZCMUp2Y3ZjTjBvZFZQLTVzWkhoOTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlNEX3JQMnZkUzV2UkNTZDNwRElLNzRzVTFVc1laN0g4b1hqQnpXeXhLLS1uUjN6U281YkQyRFE0SWRwZ0V4R3F3LUZpVUZCSWtRLUVXRjZKXzZGRk4zeW1zdFhsWXduUmJ2SW1JaF9tRWY2UGF0ZjY5cGZFQ29xUWtaUUMzdHUtVzJ3V1Zma1dvUllzbW9tekE5YVBhSGdJZTFuZ0VGckFIYVJpMWZCMUp2Y3ZjTjBvZFZQLTVzWkhoOTQ?oc=5\" target=\"_blank\">OpenAI, Nvidia set to announce UK data center investments, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-12T01:21:10+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "SMCI: Supermicro Stock Jumps After Unveiling NVIDIA Blackwell Ultra AI Systems - uk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmVrWWd5MzRLeGc3MF9ETE9SRngxamxDMjU2QmxrMVh0aFc5dFNxS28ya1A1bnkwWXdoMVZaaEVPZXo5LWVXbjhlUjNBeGtnRjZIaXdrbFJ3T2RYTVlPbmhlUUc5XzZMTGE0UVNfSHFzY2NydTFBTXZWbmtCNWpLZlhydER5ODcyLWlpTGRtRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQmVrWWd5MzRLeGc3MF9ETE9SRngxamxDMjU2QmxrMVh0aFc5dFNxS28ya1A1bnkwWXdoMVZaaEVPZXo5LWVXbjhlUjNBeGtnRjZIaXdrbFJ3T2RYTVlPbmhlUUc5XzZMTGE0UVNfSHFzY2NydTFBTXZWbmtCNWpLZlhydER5ODcyLWlpTGRtRQ?oc=5\" target=\"_blank\">SMCI: Supermicro Stock Jumps After Unveiling NVIDIA Blackwell Ultra AI Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uk.finance.yahoo.com</font>",
+      "published": "2025-09-12T12:09:52+00:00",
+      "source": "uk.finance.yahoo.com"
+    },
+    {
+      "title": "OpenAI and Nvidia bosses ‘set to pledge multbillion-dollar UK investments’ - uk.finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1FIN2NoUi1BVkpmaEdQYTFlWmJpakRuY2ltczdpV1hpR3o4ZS1yYTR5RU1DVUN6OVIyR0dOdDJBM2tkWVFfWFZCNktWcWlVdlE2eGVGdy1YamZPYkFzSUNpckhwUTFodVN0RXZfa3MtcGhzWkZKQkxjc21YRkJQODJsd3JucFk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1FIN2NoUi1BVkpmaEdQYTFlWmJpakRuY2ltczdpV1hpR3o4ZS1yYTR5RU1DVUN6OVIyR0dOdDJBM2tkWVFfWFZCNktWcWlVdlE2eGVGdy1YamZPYkFzSUNpckhwUTFodVN0RXZfa3MtcGhzWkZKQkxjc21YRkJQODJsd3JucFk?oc=5\" target=\"_blank\">OpenAI and Nvidia bosses ‘set to pledge multbillion-dollar UK investments’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uk.finance.yahoo.com</font>",
+      "published": "2025-09-12T10:45:01+00:00",
+      "source": "uk.finance.yahoo.com"
+    },
+    {
+      "title": "Nvidia has finally won over one of its biggest Wall Street bears - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEt1WnVKNHh1MzRyQTJOSVpBMGlseVhReWdfSENmUm1rYkZ4RXA1NV8zRk44SG5ycmdfTzczaWd4X2tPN2ZfZFFZSmlldzdDNkUxWXhlN1ZDRmgzWUJFRHNMenVZX0s5XzJHZlc3dHk2M1NZZDJHeVozUHBjSm1tM04zNy0ydEhCd1NudjJUNnNfcm9OTlRfQnZBSkw2R0N5Nzhv?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEt1WnVKNHh1MzRyQTJOSVpBMGlseVhReWdfSENmUm1rYkZ4RXA1NV8zRk44SG5ycmdfTzczaWd4X2tPN2ZfZFFZSmlldzdDNkUxWXhlN1ZDRmgzWUJFRHNMenVZX0s5XzJHZlc3dHk2M1NZZDJHeVozUHBjSm1tM04zNy0ydEhCd1NudjJUNnNfcm9OTlRfQnZBSkw2R0N5Nzhv?oc=5\" target=\"_blank\">Nvidia has finally won over one of its biggest Wall Street bears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYk5uSmRrRTV2ZkVhVkYzRkZxNmZaRnJVcTgyNTNpYXVaYy1qY0VzM01weU9tY0d4OHN4ZXdSbjRmSGE4SmJsZzFTdG95Rk1TSnlUR1RhU3FhaE5ya0txUnRwc0ozQXJNRVpjNTRJSmE1clpoblRmOGxsdDVpd1ZrTG5uQks4eVZFY0ZWMmdhMG1ZVm9hRHdTWlExdW1xMFhDcUVGRlM2N0otdFhncHhsc1Z1c29NbHlKVnJGTGFDOTFBWDNhVWozVzVERTBsYl9kbFJRdHlXSjd3QVZoZnhYTzJPb0VwaXRHQjlYUTlvbU0xb0U1M0J3Nw?oc=5\" target=\"_blank\">Nvidia Leads 13 Stocks, Including 2 That Hit Record Highs, Onto Best Stock Lists. Check Out The IBD 50, Sector Leaders Watchlist And More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxQOHdLcW5mZGZqdW9rM1Atdmw1b3RBaThsd3VjZEdyTW9qX3p1bVBPTHE5RU9MUTlSRU5OQ3dCRDFsMWg0SVVmZFhrVC0tMU9VVFk2YXRBNG1LU3ZyUVkyMy1PRHFzUEttcmUyNmNLWDgxRDJZeV95S0xPY1FRMnZjd3lpSXBucE1JdUY0LTJVSWpFYTFVck94MzRzS0o2cEpNT1dCc29acEJ5aGR6anE1Q0RRd2QtZUVLc1dmVFFMdWhHQlBnaUYybGFnTVZSN2FnWUhLZlBSS0Rra0prQlhZODFTNnVTQzJfZHJfc2piT1Bna3AyQ1dXODRLd29PSUNMbmp5MTB0M0JTQkM4REI3V2FSZWo0azZMWlNybEp5ZmJweTNmd2g1MWtON201cnRPMTUzWjgxY0h6OEVHM2VJVHZRYXlYamw1dGt1Z3h3b3ZIU3JPQ1VYU3lQMF9uYUM2a2lxZUtTdlNlNTlPMnF4V3FYOXJDRTQ?oc=5\" target=\"_blank\">Oracle Is the New Nvidia, for Better or Worse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li></ol>",
+      "published": "2025-09-11T14:31:00+00:00",
       "source": "Business Insider"
     },
     {
-      "title": "NVIDIA GeForce RTX 50-Series SUPER GPUs Could Arrive at CES 2026 - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3RfYm4waEx1WURqV2VQQjZsclJ5NEFUQWU2U1d4T2p2RWY3YkVudVdCd3NEZVB2T1ZCVVBhWDJlbWNiU1k2OW5SeFhpVDFKT19xSktpY2liaHVhcWU5dWcxQXgtTlRrdGdfOHp2cEkwTHZEUy1sTnB1aHhNeEFGZEhuWHhLWTlKS0NqVmNXRlN6V0dZclJHQXdQNkVlb1Fa0gGmAUFVX3lxTFBYeEpIT1ItY1dpTGlqRnNONGl1YjNmaVVRb2NpTm5WdWgwaHRQb19fczFmUU9TX3phcFFXNi1IRTZ5MzZuQTZhRUJSMFhhUFh3RU5Ba1M5VWNFa1g5Umw1Zm5BaVRYalExYTdJenBRU1NyUU10UzZhbTVjU1Y2X0t5WkxPdXZTYWFnQVlFX3Fzd256MEFqeFRIVnFCejRCdU5YVlZzMlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3RfYm4waEx1WURqV2VQQjZsclJ5NEFUQWU2U1d4T2p2RWY3YkVudVdCd3NEZVB2T1ZCVVBhWDJlbWNiU1k2OW5SeFhpVDFKT19xSktpY2liaHVhcWU5dWcxQXgtTlRrdGdfOHp2cEkwTHZEUy1sTnB1aHhNeEFGZEhuWHhLWTlKS0NqVmNXRlN6V0dZclJHQXdQNkVlb1Fa0gGmAUFVX3lxTFBYeEpIT1ItY1dpTGlqRnNONGl1YjNmaVVRb2NpTm5WdWgwaHRQb19fczFmUU9TX3phcFFXNi1IRTZ5MzZuQTZhRUJSMFhhUFh3RU5Ba1M5VWNFa1g5Umw1Zm5BaVRYalExYTdJenBRU1NyUU10UzZhbTVjU1Y2X0t5WkxPdXZTYWFnQVlFX3Fzd256MEFqeFRIVnFCejRCdU5YVlZzMlE?oc=5\" target=\"_blank\">NVIDIA GeForce RTX 50-Series SUPER GPUs Could Arrive at CES 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2025-09-10T14:22:58+00:00",
-      "source": "TechPowerUp"
+      "title": "Nvidia’s GeForce Now Update Feels Like Someone Put an RTX 5080 in My MacBook - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMXJ4dXZLaTd3THA4U2xPalNYYjZOZFVQNXJUWWdNbFlrTzVlQ0NldUxMdlNGV0QzQmZxcjdIZnE5ZTZ3eWl1aDFfaEFOeGx6OVhLck13VVlMbGFXeVIxQ2hteHB5YlF5NUpCWEdLQ0JvbkRwOWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMXJ4dXZLaTd3THA4U2xPalNYYjZOZFVQNXJUWWdNbFlrTzVlQ0NldUxMdlNGV0QzQmZxcjdIZnE5ZTZ3eWl1aDFfaEFOeGx6OVhLck13VVlMbGFXeVIxQ2hteHB5YlF5NUpCWEdLQ0JvbkRwOWc?oc=5\" target=\"_blank\">Nvidia’s GeForce Now Update Feels Like Someone Put an RTX 5080 in My MacBook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2025-09-11T15:30:00+00:00",
+      "source": "WIRED"
     },
     {
       "title": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped - The Verge",
@@ -45,30 +59,9 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmlIM0dMWFFtNjk4RFVIOEZIYUpKNXZnZ2Y4dHlnaERRZ3prWl9RRzhtS1FoLWp1TThVeGJ1OGIyM0Y5SDFubDZBVTZDNEVUOF9tTzFzQlhhQUpabEE2Q3h1TXVtY2I1Q2FlU0ljcVZRWjhqYl9BblZ4bm1fZlVpbXBKSQ?oc=5\" target=\"_blank\">Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2025-09-10T13:00:00+00:00",
       "source": "The Verge"
-    },
-    {
-      "title": "Upgraded Nvidia RTX 5090 gets 128GB VRAM and $13,000 price tag — 'super limited' GPU is described as a 'prototype' - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWW02RUg3bi0xOFBIQUNFV2hZbzFIYWRMOUU3b0Y2and0WXB2ai1tVG1nZTN6Z01EZVZZSzFvVmxiQ1RBckcwbEQyVlZMczI2dTZUNEllVlJiV0REQVFfNEJtaUlUT2pHOXJDeHRrTWVNVmVnLWNlbS1rYTZMbW5pWlZQZ3ZYQ2V3NFROeENybzZWRUYyOVUzXzRTNzVseTFMUHlCVDBmLWd1WWpkNThhQ1BVZjB2QThWR0xLU200UUdVemVaTXVnQnEtYWZVZlVlVEVkem9YbUc2Y21PUlc3OVlWSVdPbmR1c0xkUmp5TQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWW02RUg3bi0xOFBIQUNFV2hZbzFIYWRMOUU3b0Y2and0WXB2ai1tVG1nZTN6Z01EZVZZSzFvVmxiQ1RBckcwbEQyVlZMczI2dTZUNEllVlJiV0REQVFfNEJtaUlUT2pHOXJDeHRrTWVNVmVnLWNlbS1rYTZMbW5pWlZQZ3ZYQ2V3NFROeENybzZWRUYyOVUzXzRTNzVseTFMUHlCVDBmLWd1WWpkNThhQ1BVZjB2QThWR0xLU200UUdVemVaTXVnQnEtYWZVZlVlVEVkem9YbUc2Y21PUlc3OVlWSVdPbmR1c0xkUmp5TQ?oc=5\" target=\"_blank\">Upgraded Nvidia RTX 5090 gets 128GB VRAM and $13,000 price tag — 'super limited' GPU is described as a 'prototype'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2025-09-08T12:24:22+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "NVDA: Nvidia Shares Jump as Rubin CPX AI Chip System Unveiled - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVhqeTVsWmhPalYycXJnbTQ0VV9hSDJ3Q2tRZC04YWtrOC1zb29Ldk1ndVQyMDY5aWNoTWtZblNXN2dBSEVKNWdrenI3LUJjRGtzUkItRmRBOFpVdlhyWTBDNlB2czRXVTdHc0NFeG1vSHJJZEF1SzlhZ1NVZjBCcg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVhqeTVsWmhPalYycXJnbTQ0VV9hSDJ3Q2tRZC04YWtrOC1zb29Ldk1ndVQyMDY5aWNoTWtZblNXN2dBSEVKNWdrenI3LUJjRGtzUkItRmRBOFpVdlhyWTBDNlB2czRXVTdHc0NFeG1vSHJJZEF1SzlhZ1NVZjBCcg?oc=5\" target=\"_blank\">NVDA: Nvidia Shares Jump as Rubin CPX AI Chip System Unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-09-10T17:28:32+00:00",
-      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
-    {
-      "title": "Nvidia Unveils New Chip System for AI Video, Software Creation - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkNqMnlFNXNCVlR4MGhqZ0t1a2c1dzZJSDR4YW9mQ0I2ejk4cE5PRVdwcllvenFmenVEbUVqcXdrT195MERNOEp5SGJJcXprT0xZSWJTdGhIV1BOZnk5emV4YktkSmp0TDhWWTE4NjZ2cjU4YkFKcHhKTzVGMXBfM3BMWFRQQUdKc1YxNWZrQ1RXdjFTTHlHNlNNa0xrbjVPRHBDY2Z6OS02SnQwNXdlXzRB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkNqMnlFNXNCVlR4MGhqZ0t1a2c1dzZJSDR4YW9mQ0I2ejk4cE5PRVdwcllvenFmenVEbUVqcXdrT195MERNOEp5SGJJcXprT0xZSWJTdGhIV1BOZnk5emV4YktkSmp0TDhWWTE4NjZ2cjU4YkFKcHhKTzVGMXBfM3BMWFRQQUdKc1YxNWZrQ1RXdjFTTHlHNlNNa0xrbjVPRHBDY2Z6OS02SnQwNXdlXzRB?oc=5\" target=\"_blank\">Nvidia Unveils New Chip System for AI Video, Software Creation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-09T15:00:00+00:00",
-      "source": "Bloomberg.com"
-    },
     {
       "title": "NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5",
@@ -84,55 +77,62 @@
       "source": "Quiver Quantitative"
     },
     {
-      "title": "Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjR6OHJYYjlhdjY4OWlqNTVBNEVEdnBTY1BoM3Ayc0s5M2x0WWduc1JEaG5vVjg5WVZzbkxOSnA4dTFHTWxDR1hUWW5IV2dhVWdoamp4ZDR3a2tWZzk1ZFJYOGc4Y1hRZ0tLd0UyMUNPOXdpWWZPX2VGOXNKN0Myd2FUa1A3T2MzLWgtTlJQNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjR6OHJYYjlhdjY4OWlqNTVBNEVEdnBTY1BoM3Ayc0s5M2x0WWduc1JEaG5vVjg5WVZzbkxOSnA4dTFHTWxDR1hUWW5IV2dhVWdoamp4ZDR3a2tWZzk1ZFJYOGc4Y1hRZ0tLd0UyMUNPOXdpWWZPX2VGOXNKN0Myd2FUa1A3T2MzLWgtTlJQNA?oc=5\" target=\"_blank\">Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-27T07:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
       "title": "Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5\" target=\"_blank\">Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
       "published": "2025-08-26T07:00:00+00:00",
       "source": "Seeking Alpha"
+    },
+    {
+      "title": "Nvidia to reportedly halt H20 chips, may offer China new product - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdU9RcldjQV9KdkxzdkdYc05zZ0ZoYnpRSGFfTzFrTW56ejczdVVVZzBPdWVpQTU1d2NIWVhHNW1lN3Z6ZV9jdmdUZ1FYNWx5Tm5jbmM1M2E4QS13U0thQ2dCRGIyX0h6eWhfVnNnMXRXTXRqSXJoVkxWWVhQQ283X0lJSl9KZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdU9RcldjQV9KdkxzdkdYc05zZ0ZoYnpRSGFfTzFrTW56ejczdVVVZzBPdWVpQTU1d2NIWVhHNW1lN3Z6ZV9jdmdUZ1FYNWx5Tm5jbmM1M2E4QS13U0thQ2dCRGIyX0h6eWhfVnNnMXRXTXRqSXJoVkxWWVhQQ283X0lJSl9KZw?oc=5\" target=\"_blank\">Nvidia to reportedly halt H20 chips, may offer China new product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-08-22T07:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia in talks with Trump administration about “new product to China”, says CEO - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTgyZFl2QXR3dWJNS1JKa2Nmd3V4V0lLWWZwTTdQYUEwYmotZlA4X0djTDRCdEg1SUpYQTVmQnRMWjV5cGticnR3VzMtTWxpR0hQWUNDWGVPbVNvQk1HYjZXRHJVa1JBOHd5NDcwZWRFSDdIUnVuZHFPSENfeEZLeXl4Ul91MkhiQk94RlNrbWN4VGY3Z1ZFbzVKN1QwRjd1UFIyRzVhM25tTmRf?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTgyZFl2QXR3dWJNS1JKa2Nmd3V4V0lLWWZwTTdQYUEwYmotZlA4X0djTDRCdEg1SUpYQTVmQnRMWjV5cGticnR3VzMtTWxpR0hQWUNDWGVPbVNvQk1HYjZXRHJVa1JBOHd5NDcwZWRFSDdIUnVuZHFPSENfeEZLeXl4Ul91MkhiQk94RlNrbWN4VGY3Z1ZFbzVKN1QwRjd1UFIyRzVhM25tTmRf?oc=5\" target=\"_blank\">Nvidia in talks with Trump administration about “new product to China”, says CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
+      "published": "2025-08-24T07:00:00+00:00",
+      "source": "Cybernews"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-10",
-      "close": 177.3300018310547
+      "date": "2025-09-11",
+      "close": 177.1699981689453
     },
     "history": [
       {
-        "date": "2025-09-02",
-        "close": 170.77999877929688
-      },
-      {
         "date": "2025-09-03",
-        "close": 170.6199951171875
+        "close": 170.61038208007812
       },
       {
         "date": "2025-09-04",
-        "close": 171.66000366210938
+        "close": 171.65032958984375
       },
       {
         "date": "2025-09-05",
-        "close": 167.02000427246094
+        "close": 167.01058959960938
       },
       {
         "date": "2025-09-08",
-        "close": 168.30999755859375
+        "close": 168.30050659179688
       },
       {
         "date": "2025-09-09",
-        "close": 170.75999450683594
+        "close": 170.7503662109375
       },
       {
         "date": "2025-09-10",
-        "close": 177.3300018310547
+        "close": 177.32000732421875
+      },
+      {
+        "date": "2025-09-11",
+        "close": 177.1699981689453
       }
     ],
     "name": "NVIDIA Corporation"
