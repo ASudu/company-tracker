@@ -2,49 +2,14 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-09-14T12:18:46.066495+00:00",
+  "fetched_at": "2025-09-15T12:22:08.125846+00:00",
   "news": [
     {
-      "title": "Apple AI and Search Executive Robby Walker to Leave Company - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNm5aeWZyTkRscHoyLVZLTHZXaEZsNXR1YWpxZ1liS1lmOTM0M05hWFF6b01Ia3FVUzQ4bFRETFFkR01JdVRPNVNvMHJjb3BVYUNyak53T3VCMHljVmw4ZzVXeXhnNExEMU1VY3lXM2kzdXBrSGstaEl1c0E3QlR3aUU3MjZrdmpRanJlem5nT0hxVDloZ0s4T2tpM0JTeHFMdjQ0WnJLTUZxNVUxRTBBS0piWmxBQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNm5aeWZyTkRscHoyLVZLTHZXaEZsNXR1YWpxZ1liS1lmOTM0M05hWFF6b01Ia3FVUzQ4bFRETFFkR01JdVRPNVNvMHJjb3BVYUNyak53T3VCMHljVmw4ZzVXeXhnNExEMU1VY3lXM2kzdXBrSGstaEl1c0E3QlR3aUU3MjZrdmpRanJlem5nT0hxVDloZ0s4T2tpM0JTeHFMdjQ0WnJLTUZxNVUxRTBBS0piWmxBQQ?oc=5\" target=\"_blank\">Apple AI and Search Executive Robby Walker to Leave Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-12T19:05:09+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "One of Apple's top AI executives is reportedly leaving the company - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2RQaEpaRkhfcXhNZ3YzLS1pdExuNjFzWXBKTl9Qa28tbnM0UzNmMl9KMzV0YTdISzJxUDdwZXVkXzNaYTVtQWRTMUx4VTUyaFdEdVVhNEhrY2NodGloRjFNYVVmc28yck9nNlNST0F5YmdTa0VLdFdxUVZCN3p4aW1CUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2RQaEpaRkhfcXhNZ3YzLS1pdExuNjFzWXBKTl9Qa28tbnM0UzNmMl9KMzV0YTdISzJxUDdwZXVkXzNaYTVtQWRTMUx4VTUyaFdEdVVhNEhrY2NodGloRjFNYVVmc28yck9nNlNST0F5YmdTa0VLdFdxUVZCN3p4aW1CUQ?oc=5\" target=\"_blank\">One of Apple's top AI executives is reportedly leaving the company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-09-13T09:00:00+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Apple's AI and search executive Robby Walker to leave, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFFmWFBWajlKN1E3azlDMlc3UkhYeFB5dnFjcnJScS1GSV9KOWI1ODdQdUxpNHJFR1JnRmd1eFRtVFhSaFRyQzVYWXFQNHdaMjlIc214SWowaDZCc3hVUFNmbDR0MF9wQml3cXkySzdEbFptS3R0bTFHNEpuNFRpaU9HQjFWRHNiN09yTWh2Zk40Y2VpNjFFamxuTjNJZXFwUUViRm0zUE1RdVQyQUttQzVhMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFFmWFBWajlKN1E3azlDMlc3UkhYeFB5dnFjcnJScS1GSV9KOWI1ODdQdUxpNHJFR1JnRmd1eFRtVFhSaFRyQzVYWXFQNHdaMjlIc214SWowaDZCc3hVUFNmbDR0MF9wQml3cXkySzdEbFptS3R0bTFHNEpuNFRpaU9HQjFWRHNiN09yTWh2Zk40Y2VpNjFFamxuTjNJZXFwUUViRm0zUE1RdVQyQUttQzVhMA?oc=5\" target=\"_blank\">Apple's AI and search executive Robby Walker to leave, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-09-12T19:53:38+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "US FDA clears Apple Watch hypertension feature - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0duRXNlWGt0SjNfSzlPVGxkYjZ5RUhhYkVTM0pNX1NuYnR5R19SRy14MTNtb20yOVdmb0Q2SEJDY1lCZmxqR1FXVk5QLUNpX3BMRlJINmRkWE1KZElrdExjSGNHc2lzLXkwSndpUHVRaTNlUWNaQmkwZDhNbFZYa19acEg0bzYzaU9uVnd3MDRZVDJ6S3c2SkZLZi11d1VQajJnak9TRHBua0FZM2ZfZUptaUFhTGMxV3ZJR1Qwdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0duRXNlWGt0SjNfSzlPVGxkYjZ5RUhhYkVTM0pNX1NuYnR5R19SRy14MTNtb20yOVdmb0Q2SEJDY1lCZmxqR1FXVk5QLUNpX3BMRlJINmRkWE1KZElrdExjSGNHc2lzLXkwSndpUHVRaTNlUWNaQmkwZDhNbFZYa19acEg0bzYzaU9uVnd3MDRZVDJ6S3c2SkZLZi11d1VQajJnak9TRHBua0FZM2ZfZUptaUFhTGMxV3ZJR1Qwdw?oc=5\" target=\"_blank\">US FDA clears Apple Watch hypertension feature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-09-13T05:32:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple Watch Fans Get a Much-Needed Upgrade With the Ultra 3 - CNET",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3BwS1ZEYThnVXNYWDhCVnpjVUd3eGNTMnNhc3g3RnRYajlkMUhDY3dyZ2tjWXAyTVhSNXdfTlMwdmxqdzN1QmtCam4xZlBFUlBKX3ZkN2JweFBTRjI5THVBWVZ2eFNRd3VZZ3QwV1dzOW92R0VFM1JXWGZyb0NVcEppN1c5V2NyWlp3dXNPR25JQ3N6SUkyYQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3BwS1ZEYThnVXNYWDhCVnpjVUd3eGNTMnNhc3g3RnRYajlkMUhDY3dyZ2tjWXAyTVhSNXdfTlMwdmxqdzN1QmtCam4xZlBFUlBKX3ZkN2JweFBTRjI5THVBWVZ2eFNRd3VZZ3QwV1dzOW92R0VFM1JXWGZyb0NVcEppN1c5V2NyWlp3dXNPR25JQ3N6SUkyYQ?oc=5\" target=\"_blank\">Apple Watch Fans Get a Much-Needed Upgrade With the Ultra 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-09-12T18:55:00+00:00",
-      "source": "CNET"
-    },
-    {
-      "title": "Your Apple Watch Can Now Detect Hypertension - Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aOU5EMEFxc2pxV0JheWh2NGlGa2ktWkVHSTBQeVAyMXVYUlcxMlBaVFBNbGNTT3o5a1k1QXE3YlZzTy1SeEU0X1p0OVlIUGNJTTlzU2cyNUs0OUVDa3ZuSGJreUduWTRSbEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9aOU5EMEFxc2pxV0JheWh2NGlGa2ktWkVHSTBQeVAyMXVYUlcxMlBaVFBNbGNTT3o5a1k1QXE3YlZzTy1SeEU0X1p0OVlIUGNJTTlzU2cyNUs0OUVDa3ZuSGJreUduWTRSbEE?oc=5\" target=\"_blank\">Your Apple Watch Can Now Detect Hypertension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Time Magazine</font>",
-      "published": "2025-09-12T22:32:21+00:00",
-      "source": "Time Magazine"
+      "title": "Liquid Glass Could Be One of Apple's Most Divisive System Designs Yet - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVpYZlhMY2FadWJMZTZiQlJjektQMmp5N1ljLUZyU1pOZTM2a1pVSktCdmhrU3BhYkZuUDRUN2IzRFVUMWFBNUxTNkduZFdhaUxOVVpRTk9pRF9KQmJQVEh6emota3Nlc3lvQy1pOXhOZVZnX1Q2MlZ2YU9GV1dGUkxaVGVSTDBQcGxDRGZ6RFFIN3NvMFlyblFpRkZrZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWVpYZlhMY2FadWJMZTZiQlJjektQMmp5N1ljLUZyU1pOZTM2a1pVSktCdmhrU3BhYkZuUDRUN2IzRFVUMWFBNUxTNkduZFdhaUxOVVpRTk9pRF9KQmJQVEh6emota3Nlc3lvQy1pOXhOZVZnX1Q2MlZ2YU9GV1dGUkxaVGVSTDBQcGxDRGZ6RFFIN3NvMFlyblFpRkZrZw?oc=5\" target=\"_blank\">Liquid Glass Could Be One of Apple's Most Divisive System Designs Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2025-09-15T10:00:00+00:00",
+      "source": "WIRED"
     },
     {
       "title": "Apple Pitches a Return to Its Design Roots, Six Years After Jony Ive’s Exit - Bloomberg.com",
@@ -54,11 +19,46 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "Apple Loses Its Cool While OpenAI Loses Its Purpose - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkdyWDFmdUFyZDJZcGVkaHdtVEwtSHRrYlFLT3FidURTMFlJbVc2MGppVXdxWXA0d3BhZWVIYzFvSzRXdGhpRGtHb1ZYckRuaEo3dkZJVElvM2ptYTlPbDFDQ0I5RGRjbXRSc0x0d1d5MDNkVTgwRUxsUGx2VlAzYk5NR2p5NGhkSzFMRGZWTlM1bm5HeDZuSUZROU9vS1gxRkl6bUJTamlUY0xQQWhuTkpTVC1IaXZtWVd4S0VGc19vZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkdyWDFmdUFyZDJZcGVkaHdtVEwtSHRrYlFLT3FidURTMFlJbVc2MGppVXdxWXA0d3BhZWVIYzFvSzRXdGhpRGtHb1ZYckRuaEo3dkZJVElvM2ptYTlPbDFDQ0I5RGRjbXRSc0x0d1d5MDNkVTgwRUxsUGx2VlAzYk5NR2p5NGhkSzFMRGZWTlM1bm5HeDZuSUZROU9vS1gxRkl6bUJTamlUY0xQQWhuTkpTVC1IaXZtWVd4S0VGc19vZw?oc=5\" target=\"_blank\">Apple Loses Its Cool While OpenAI Loses Its Purpose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-14T12:00:23+00:00",
-      "source": "Bloomberg.com"
+      "title": "Phone Air, iPhone 17, and more: First look at Apple’s new gadgets - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzVfdzZ0UnlmMmlxYmNocHE1UE5EdHVGeEdxaUFJN2dMZ1RrU1kzZVh2MXFVR0NtVXpXaWRob3BSa2ZZSWdWUjU1X1F6dFBpUmRpbXA1ZFB5aDNOand1STVrNlN5Rm1UbXRSTEVnMnJYbGVIOUNnZ1hkeG5vMEJlMi01enJMNVFCRFNnRkNFazVmdlQzOV9RQ2ZR?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzVfdzZ0UnlmMmlxYmNocHE1UE5EdHVGeEdxaUFJN2dMZ1RrU1kzZVh2MXFVR0NtVXpXaWRob3BSa2ZZSWdWUjU1X1F6dFBpUmRpbXA1ZFB5aDNOand1STVrNlN5Rm1UbXRSTEVnMnJYbGVIOUNnZ1hkeG5vMEJlMi01enJMNVFCRFNnRkNFazVmdlQzOV9RQ2ZR?oc=5\" target=\"_blank\">Phone Air, iPhone 17, and more: First look at Apple’s new gadgets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlJPRkxEWHB5OHZOMFlXUmsxT3NOSzlDT2NRTWY4aXNZTW5FR3oya3VsaVo4ODFlcENIU3Y2QkhVOEhGRm4zZzRMaXdUT1JEOHQzbGZLSHVnLWV5U3h1X0pvb2NoWk5qVjROcDNIQmN2QnF1LUlsZW15VFk5WlRoRDB0WjZld1lpbUlPbXE1TVR1ZTlCSUNNWGNrcTZlY3RPYkFDNzFCQmFMVGNqQjZ6NmRUOVBLd2N6cm9JZWw2TEw3dw?oc=5\" target=\"_blank\">iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple's hardware event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2xnSGFiUUhhMXVqTjNoc3dzMjRKdTFoZ0Y5VlJFUTFWakR3azdXanplNXpNNFpoejVLSms2eHl0NXVvSktIeTNxWlJyRmFRZ2xyVnZTRC1SZktTdmRGclUyc0QtSzBYRGRQR3d4bjhsY3N6UWNWNXdSYTV2U244NFgwOEI?oc=5\" target=\"_blank\">Apple Stock Gains. What Preorders Say About iPhone 17 Demand.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+      "published": "2025-09-12T20:41:23+00:00",
+      "source": "USA Today"
+    },
+    {
+      "title": "Apple (AAPL) Valuation: Examining the Numbers After Recent Stock Moves - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1FfT3NjemxpcEhka1hidXZQYVFtTGdEV2J5OGtXQjdISU1aeUZlZk1LdTBvY01DQTc2Y2VnTFhHa2dMQTNYcjd0WVdndEtyTnZkVlFVSUV4bnlzQ2hKRGRQQVliak1zdDYxazZRdkNGd2ROWGRUNFZmVjJNQlJxREM1U2Q0VWxyTWhueg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1FfT3NjemxpcEhka1hidXZQYVFtTGdEV2J5OGtXQjdISU1aeUZlZk1LdTBvY01DQTc2Y2VnTFhHa2dMQTNYcjd0WVdndEtyTnZkVlFVSUV4bnlzQ2hKRGRQQVliak1zdDYxazZRdkNGd2ROWGRUNFZmVjJNQlJxREM1U2Q0VWxyTWhueg?oc=5\" target=\"_blank\">Apple (AAPL) Valuation: Examining the Numbers After Recent Stock Moves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-09-15T10:55:37+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "As with every year, Apple’s launch event made waves — but this time, the AirPods Pro 3 took center stage - Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTlhDMWxaRnZIV0xxRmVEbHI1YkpIcjlqbm9Da2Q0V2plUFFMWG5MVWdjekRKQXNmWnJGMmxib1JsV2M3YWtXY0t4eklrcFRwb1lqWWZURnpuRmh6ZTRtcU9DTmpvY2s5dUtaRA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTlhDMWxaRnZIV0xxRmVEbHI1YkpIcjlqbm9Da2Q0V2plUFFMWG5MVWdjekRKQXNmWnJGMmxib1JsV2M3YWtXY0t4eklrcFRwb1lqWWZURnpuRmh6ZTRtcU9DTmpvY2s5dUtaRA?oc=5\" target=\"_blank\">As with every year, Apple’s launch event made waves — but this time, the AirPods Pro 3 took center stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ynetnews</font>",
+      "published": "2025-09-15T00:37:19+00:00",
+      "source": "Ynetnews"
+    },
+    {
+      "title": "Apple announces AirPods Pro 3 with ‘world’s best ANC’ and heart rate sensing - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFdBLXJEYlNhWGxka0tVVk8yVEZ2SW1HcGk1dXRhRV9xQnpUWGQyanA1R2NlcWY3eTVfSFREc21qcTIzMGp0Z29aME9oNHpaX3c2N2F2OHVlaEg2OXEtLVRzRWVNR3d5X2hPQm1xNm13T096TS0tZUZHVGhPeTZUZmxGZXJLS25QV1YzZl9KNzlKOGti?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFdBLXJEYlNhWGxka0tVVk8yVEZ2SW1HcGk1dXRhRV9xQnpUWGQyanA1R2NlcWY3eTVfSFREc21qcTIzMGp0Z29aME9oNHpaX3c2N2F2OHVlaEg2OXEtLVRzRWVNR3d5X2hPQm1xNm13T096TS0tZUZHVGhPeTZUZmxGZXJLS25QV1YzZl9KNzlKOGti?oc=5\" target=\"_blank\">Apple announces AirPods Pro 3 with ‘world’s best ANC’ and heart rate sensing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-09T17:05:08+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "My Apple AirPods Pro 3 Review: Big Improvements, Same Price, No Compromises - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmhYQkN3bjQ3a2lyLUV4VFk3TV9vYVlqdFZRc285dzh1emZ1ZF9fMGkyNGROcnZ4ajc0LXJCQUxWYnZrYWVzeE54d09UejVBcmJveWZaQTBfVUNqWGVQRjdhWHZyMkliYWQyb2JKWUJ5Q2cweWJfOEtNektpYTN5Z2ZSYjJJeTlmM1h5cFBxMkxlYWI4ZDdxYXdNVEhWU3BPSC1LWXdyVFBRZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmhYQkN3bjQ3a2lyLUV4VFk3TV9vYVlqdFZRc285dzh1emZ1ZF9fMGkyNGROcnZ4ajc0LXJCQUxWYnZrYWVzeE54d09UejVBcmJveWZaQTBfVUNqWGVQRjdhWHZyMkliYWQyb2JKWUJ5Q2cweWJfOEtNektpYTN5Z2ZSYjJJeTlmM1h5cFBxMkxlYWI4ZDdxYXdNVEhWU3BPSC1LWXdyVFBRZw?oc=5\" target=\"_blank\">My Apple AirPods Pro 3 Review: Big Improvements, Same Price, No Compromises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2025-09-15T12:12:30+00:00",
+      "source": "CNET"
+    },
+    {
+      "title": "iOS 26: What to know about the free iPhone software update arriving September 15 - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQXNiRUJHOG90RmRIY0s5SUZzSkNZQ2FOWjB5dTJMc1JZWk56Z1dVNTJfR050QUhhZU5rTHpCVzFGUDhzNmtzSGRLZ09tSFJHSFJMV25qRGNJUmZUODJLYXR3RDE0UEZETkJYQWdnSnlSSm5PQ0FVaWtNdDROWWlHN0NNZEEwR19FZDR6Wmtyel9fb1hfTHJZTlQteVNXX3JLSEUzT1dFMm1QaUdjay1PemRIdzZJUFh4M3Nwd1d1VzF3UExx?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQXNiRUJHOG90RmRIY0s5SUZzSkNZQ2FOWjB5dTJMc1JZWk56Z1dVNTJfR050QUhhZU5rTHpCVzFGUDhzNmtzSGRLZ09tSFJHSFJMV25qRGNJUmZUODJLYXR3RDE0UEZETkJYQWdnSnlSSm5PQ0FVaWtNdDROWWlHN0NNZEEwR19FZDR6Wmtyel9fb1hfTHJZTlQteVNXX3JLSEUzT1dFMm1QaUdjay1PemRIdzZJUFh4M3Nwd1d1VzF3UExx?oc=5\" target=\"_blank\">iOS 26: What to know about the free iPhone software update arriving September 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2025-09-11T14:19:30+00:00",
+      "source": "Engadget"
     }
   ],
   "product_launches": [
@@ -66,8 +66,15 @@
       "title": "All the 'Awe Dropping' Announcements You Missed at Apple's Event - CNET",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1pXOWJKdnBOb056UGtrN2NScjVaa3d2TGo5bW9ibzZpTnhhT1g4WTZ4TEcteF8wcUgzR3BVcm43N2tjNnExdjZvS1h1YV9nX25NQWRrWXJ5SGFzSE5ORFpoWHd2X0x2UFFoMG5vVG12LXBWQjBkLUpOMzk5Z2dWN1JRU2syTFJGYkpBRmR3?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1pXOWJKdnBOb056UGtrN2NScjVaa3d2TGo5bW9ibzZpTnhhT1g4WTZ4TEcteF8wcUgzR3BVcm43N2tjNnExdjZvS1h1YV9nX25NQWRrWXJ5SGFzSE5ORFpoWHd2X0x2UFFoMG5vVG12LXBWQjBkLUpOMzk5Z2dWN1JRU2syTFJGYkpBRmR3?oc=5\" target=\"_blank\">All the 'Awe Dropping' Announcements You Missed at Apple's Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-09-14T00:17:17+00:00",
+      "published": "2025-09-15T04:51:53+00:00",
       "source": "CNET"
+    },
+    {
+      "title": "Apple Pitches a Return to Its Design Roots, Six Years After Jony Ive’s Exit - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkpGZERmc0JFNWdTOFJnV2pqMHU1YWFrTE9yWm96MUFvZWtoMTUzckFoNE5uVm1WdWZndU1ZcVQyei1KUDRYYkVTbU5MMXI5SFZaQVEwVVR5YXVGX1hYVWd3dWFLalhLYXRFWFYtN2lGZDNUNDhOU0ZZbW91REs2NUplNzZUbnkyNUI2RWNXeGlvZ1J0eUV5cmRKcFo4bFdfM3VodkU3a2Rrc1BsU3NvQlJ2UkZROWkzbHJqaTlqNTlDbVNuUzI3Qjd2a1Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkpGZERmc0JFNWdTOFJnV2pqMHU1YWFrTE9yWm96MUFvZWtoMTUzckFoNE5uVm1WdWZndU1ZcVQyei1KUDRYYkVTbU5MMXI5SFZaQVEwVVR5YXVGX1hYVWd3dWFLalhLYXRFWFYtN2lGZDNUNDhOU0ZZbW91REs2NUplNzZUbnkyNUI2RWNXeGlvZ1J0eUV5cmRKcFo4bFdfM3VodkU3a2Rrc1BsU3NvQlJ2UkZROWkzbHJqaTlqNTlDbVNuUzI3Qjd2a1Y?oc=5\" target=\"_blank\">Apple Pitches a Return to Its Design Roots, Six Years After Jony Ive’s Exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-09-14T12:00:20+00:00",
+      "source": "Bloomberg.com"
     },
     {
       "title": "Apple debuts iPhone 17 - Apple",
@@ -77,25 +84,18 @@
       "source": "Apple"
     },
     {
-      "title": "Apple unveils slim iPhone Air at annual product launch event - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmVGakFqXzlzUHFvRVFEbXJ5UHVlTmk2elRnLVNZY0NkSi1ZOGpTZjBmYnFGMmV6SVBpUmhDcWY4SjNFQzhqS3VHS1dMME5UV1lsTURmYXpJZXNnME5Hc2dCSUNmZkRwUXNNLVA1ODY2Nm1qek4wR0tjOXlXaWJhbVZLX3NDTk9QMDg5Q1hPZ2FuQ1AzY0o1TExrWEx0T3NHWGhLczd30gGrAUFVX3lxTFBXVHNBcXFYZXhpd3hZaXVoWFlvS1FwNlVheTROY3ZnakV2aEpJQ1V1WGhodjhkN1pXMHloYzBwcTlFTVlpVTV0VWlRRC0zTENGZkxjcTJXb3ltQWpzd29tM2pyWERRZ1pYcktzREpiZXJXT0FIUU5sZHZxbmhTNEIwZnNMTGFZakRVeWt2aG12b2ZDVTd2SUdhelVqWjlXMjlFTU5fQXFwZG80RQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmVGakFqXzlzUHFvRVFEbXJ5UHVlTmk2elRnLVNZY0NkSi1ZOGpTZjBmYnFGMmV6SVBpUmhDcWY4SjNFQzhqS3VHS1dMME5UV1lsTURmYXpJZXNnME5Hc2dCSUNmZkRwUXNNLVA1ODY2Nm1qek4wR0tjOXlXaWJhbVZLX3NDTk9QMDg5Q1hPZ2FuQ1AzY0o1TExrWEx0T3NHWGhLczd30gGrAUFVX3lxTFBXVHNBcXFYZXhpd3hZaXVoWFlvS1FwNlVheTROY3ZnakV2aEpJQ1V1WGhodjhkN1pXMHloYzBwcTlFTVlpVTV0VWlRRC0zTENGZkxjcTJXb3ltQWpzd29tM2pyWERRZ1pYcktzREpiZXJXT0FIUU5sZHZxbmhTNEIwZnNMTGFZakRVeWt2aG12b2ZDVTd2SUdhelVqWjlXMjlFTU5fQXFwZG80RQ?oc=5\" target=\"_blank\">Apple unveils slim iPhone Air at annual product launch event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "published": "2025-09-09T20:00:58+00:00",
-      "source": "Al Jazeera"
+      "title": "Apple Reportedly Plans to Launch These 10 Products in 'Coming Months' - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnd5bUYtQThmQjlBZnpmdHNUOWlZRjRNeFFYMU1PbktJZ3FPUjZ0OVZodkZRVVFQdVlySmg3YndmbU9Ba2lMN2FnU1FhSFlROU9fZTUwLS10WHFpX2R3QXJXQnRFSTAyN1l0QzVhbkZ1TFE1UUpGQmhEZ3kzOUJobW95cjh2ajA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnd5bUYtQThmQjlBZnpmdHNUOWlZRjRNeFFYMU1PbktJZ3FPUjZ0OVZodkZRVVFQdVlySmg3YndmbU9Ba2lMN2FnU1FhSFlROU9fZTUwLS10WHFpX2R3QXJXQnRFSTAyN1l0QzVhbkZ1TFE1UUpGQmhEZ3kzOUJobW95cjh2ajA?oc=5\" target=\"_blank\">Apple Reportedly Plans to Launch These 10 Products in 'Coming Months'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2025-09-14T15:45:00+00:00",
+      "source": "MacRumors"
     },
     {
-      "title": "Apple unveils iPhone 17; latest on iPhone Air, AirPods and Apple Watch - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXN0T2FqVEdITUo0Q3R2Y05QTmJFemloOENleWtQZ2xLWVdVV1BEYmlvbjBCQWVQZm1kUU40UXJIdE9PVVFVbXprNndwSmtDemFvcnRmM3hwa3I5WFBhaUhrWENMeTlkbkVGODhNRUZwbVV5WWZWc2JJU3dRYWZwb1NBVi10UkN0aFlGZVJ4bHpMdkU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXN0T2FqVEdITUo0Q3R2Y05QTmJFemloOENleWtQZ2xLWVdVV1BEYmlvbjBCQWVQZm1kUU40UXJIdE9PVVFVbXprNndwSmtDemFvcnRmM3hwa3I5WFBhaUhrWENMeTlkbkVGODhNRUZwbVV5WWZWc2JJU3dRYWZwb1NBVi10UkN0aFlGZVJ4bHpMdkU?oc=5\" target=\"_blank\">Apple unveils iPhone 17; latest on iPhone Air, AirPods and Apple Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2025-09-09T19:30:00+00:00",
-      "source": "USA Today"
-    },
-    {
-      "title": "Apple Pitches a Return to Its Design Roots, Six Years After Jony Ive’s Exit - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkpGZERmc0JFNWdTOFJnV2pqMHU1YWFrTE9yWm96MUFvZWtoMTUzckFoNE5uVm1WdWZndU1ZcVQyei1KUDRYYkVTbU5MMXI5SFZaQVEwVVR5YXVGX1hYVWd3dWFLalhLYXRFWFYtN2lGZDNUNDhOU0ZZbW91REs2NUplNzZUbnkyNUI2RWNXeGlvZ1J0eUV5cmRKcFo4bFdfM3VodkU3a2Rrc1BsU3NvQlJ2UkZROWkzbHJqaTlqNTlDbVNuUzI3Qjd2a1Y?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkpGZERmc0JFNWdTOFJnV2pqMHU1YWFrTE9yWm96MUFvZWtoMTUzckFoNE5uVm1WdWZndU1ZcVQyei1KUDRYYkVTbU5MMXI5SFZaQVEwVVR5YXVGX1hYVWd3dWFLalhLYXRFWFYtN2lGZDNUNDhOU0ZZbW91REs2NUplNzZUbnkyNUI2RWNXeGlvZ1J0eUV5cmRKcFo4bFdfM3VodkU3a2Rrc1BsU3NvQlJ2UkZROWkzbHJqaTlqNTlDbVNuUzI3Qjd2a1Y?oc=5\" target=\"_blank\">Apple Pitches a Return to Its Design Roots, Six Years After Jony Ive’s Exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-14T12:00:20+00:00",
-      "source": "Bloomberg.com"
+      "title": "Apple still has 10 more product launches in the pipeline, here’s what’s coming - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2dVQ0N6VDlQYVhzMGJUTVFmcHRPbEpQMnlBYVB0WmpOUFM0VmE1VGRSOUNGck83Qm5maktvTUM3VlpkWFZCNjYybzBGY05rM1dadHN6Ym15anFGS0dXNHR5ZGJQSmFsVUw0LUZhNTZ2QlZGRXZ5UjZNRHhJMXdMQ09YZjRVdjF5VEZ6YkRuSldnaTRob0djbnVlNzFZblRZTWEzaFh0T01Eak0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2dVQ0N6VDlQYVhzMGJUTVFmcHRPbEpQMnlBYVB0WmpOUFM0VmE1VGRSOUNGck83Qm5maktvTUM3VlpkWFZCNjYybzBGY05rM1dadHN6Ym15anFGS0dXNHR5ZGJQSmFsVUw0LUZhNTZ2QlZGRXZ5UjZNRHhJMXdMQ09YZjRVdjF5VEZ6YkRuSldnaTRob0djbnVlNzFZblRZTWEzaFh0T01Eak0?oc=5\" target=\"_blank\">Apple still has 10 more product launches in the pipeline, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2025-09-14T12:40:00+00:00",
+      "source": "9to5Mac"
     }
   ],
   "stock": {

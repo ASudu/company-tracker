@@ -2,63 +2,63 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-09-14T12:18:59.001643+00:00",
+  "fetched_at": "2025-09-15T12:22:21.076720+00:00",
   "news": [
     {
-      "title": "Tesla, Nvidia Lead Five Stocks Near Buy Zones - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yMzRDQ1p4Q0xkU0N0bnE5YWJIc09kTVhlQlQ5endjQm5COW1VSlpxSmp6NjBsbndsZXFWU1FuWkI4emNCbm11dHFPM3VVUVJEbllYN3c4Q2hPazc2ZXNIZWxKV2hweTFmcDY4VnhKMGp4OUd0YjNoUA?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9yMzRDQ1p4Q0xkU0N0bnE5YWJIc09kTVhlQlQ5endjQm5COW1VSlpxSmp6NjBsbndsZXFWU1FuWkI4emNCbm11dHFPM3VVUVJEbllYN3c4Q2hPazc2ZXNIZWxKV2hweTFmcDY4VnhKMGp4OUd0YjNoUA?oc=5\" target=\"_blank\">Tesla, Nvidia Lead Five Stocks Near Buy Zones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1BOQzFrZ3BHZEkxbUc0YVNRQURFUTE1ZWRoVmMzNVlwQ0ROU1dTMFlxLVJQdFZXMlJYUk45QU4tZy1sS1dqZjVNdEVJSURIMVhVQVdFeXJjS3BOanhMRk5mNlk0bGEycG1sZ29zNWd4azU0Tm1OTDBYS0o4OVF5NDBvVVVuVkU?oc=5\" target=\"_blank\">Analyst Shares His ‘Concern’ About Nvidia (NVDA) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWllUSF9PTGZQLUM3MXdSUkRBTGxDd296Ukp2Umh6cXBZNkJ5czRfb0Z5c3Z5OGpnRlBfbElCbFpVT0tZTTNTMDRCUHAzQXliOENtS0QtMW9yRkhEQjdXdE1ObDM0TG55aHQtLWxTNkdubFBoY3RfcVJBaEVsQjR4SHBBNA?oc=5\" target=\"_blank\">Nvidia Stock Ticks Up. It’s Getting a Super Micro Boost.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
-      "published": "2025-09-13T12:00:00+00:00",
-      "source": "Investor's Business Daily"
-    },
-    {
-      "title": "Nvidia Steps Back From Cloud Effort to Compete with AWS - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeEUzWmlxc0xOcFkwcENtY2xEdkJyRlB5MEtiMjNGM01pWkc4dVByTEJMNVZpUmI4VnBaaHpZbHZVUWlWX0xpM1VFcUUyY3hsbEpnMktEb3V6dTdRQkFOcnE3cVdHWlVFTW9qX29sNWVxcXFkVFhZR1JySkpMQ1JVVmRLaU50anFPZ2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOeEUzWmlxc0xOcFkwcENtY2xEdkJyRlB5MEtiMjNGM01pWkc4dVByTEJMNVZpUmI4VnBaaHpZbHZVUWlWX0xpM1VFcUUyY3hsbEpnMktEb3V6dTdRQkFOcnE3cVdHWlVFTW9qX29sNWVxcXFkVFhZR1JySkpMQ1JVVmRLaU50anFPZ2c?oc=5\" target=\"_blank\">Nvidia Steps Back From Cloud Effort to Compete with AWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2025-09-12T13:00:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Cyberport may use Chinese GPUs at Hong Kong supercomputing hub to cut reliance on Nvidia - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGZ4NE14ZlhONHo4Si13cWdXWFpPWUFTY3d5N3I5bjN1N3ZhOVBFQld2NXgtX2FicEUwV3RnclY3bXlBSk9OWW0xelRvV2I2ZzZpeFVXOGVlemxJa2F6eGtEWnlfV0owV1lVa0QyVTJzN2NxNkZ2OFZuRk1FMm5YVVNGOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGZ4NE14ZlhONHo4Si13cWdXWFpPWUFTY3d5N3I5bjN1N3ZhOVBFQld2NXgtX2FicEUwV3RnclY3bXlBSk9OWW0xelRvV2I2ZzZpeFVXOGVlemxJa2F6eGtEWnlfV0owV1lVa0QyVTJzN2NxNkZ2OFZuRk1FMm5YVVNGOA?oc=5\" target=\"_blank\">Cyberport may use Chinese GPUs at Hong Kong supercomputing hub to cut reliance on Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-09-14T09:30:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "SK Hynix continues monster $80 billion rally as it readies next-gen chips for Nvidia - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnloWFFBSWRBeUt5MDNRN3lCZlc5VXJWRkxXZUhwQ2taQnZ4Si0tenZGeUpkeXdULU0xWkZOOVRfTC1wV1RaOVNSMzNSQm50ZEJER1RRcHhfbDlZUFhCYVFURDl5alFmZzl4eXFnbENjMzUzUXQ4ZXgzakVuekxBR3hjTEXSAYoBQVVfeXFMTVhNM1d6bDBLclZTaUtQelpwYk83WFE1TkJiSF8yN1BNNWlleXFCbHRPNjYtWmgybmpHRFBvTWVZMUtPbHQxZDd6b25fQXBGdGwxT2hkWlZXTGQ4UDl2bmRZQW9QSVJMd0lQelpwX0phRVYzUGZyYVA5QXdVclF6elBQb0txM2VNOERR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORnloWFFBSWRBeUt5MDNRN3lCZlc5VXJWRkxXZUhwQ2taQnZ4Si0tenZGeUpkeXdULU0xWkZOOVRfTC1wV1RaOVNSMzNSQm50ZEJER1RRcHhfbDlZUFhCYVFURDl5alFmZzl4eXFnbENjMzUzUXQ4ZXgzakVuekxBR3hjTEXSAYoBQVVfeXFMTVhNM1d6bDBLclZTaUtQelpwYk83WFE1TkJiSF8yN1BNNWlleXFCbHRPNjYtWmgybmpHRFBvTWVZMUtPbHQxZDd6b25fQXBGdGwxT2hkWlZXTGQ4UDl2bmRZQW9QSVJMd0lQelpwX0phRVYzUGZyYVA5QXdVclF6elBQb0txM2VNOERR?oc=5\" target=\"_blank\">SK Hynix continues monster $80 billion rally as it readies next-gen chips for Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-09-12T06:28:32+00:00",
+      "title": "China says Nvidia violated anti-monopoly law after preliminary probe - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3c0UVN5c1lJWWZreFFxbC1qRjRVZjdIS2s3bWY0QkRBRXJ5RUZyazJUQ2ZQUGtIeUZobnhIejBYRUF4QmJTVzQzdUdfTFF4MV9uVUtQUzJBM3JiWnd6UjNxbWMwZEVrMGtvM2s5NnR3NkRXYjBQX1dUdEhhM3MzUGh1Ti1jQkpudE1XMHhsWE9VRWk3cUt2MzN5bUthamcwYU5rVlE0b9IBrAFBVV95cUxPQXBELXFjZWl5cml6RFAtZi15NDFIdTFSS0IwQk5VeU5WQXU5RmxtajlRNEN4eE81a19ocXliQjVwQThGMWpGWTZ0Z1AtZklfVnUtRXZzZFpDcTBkUEhXN3ZDVTdjbXFxOTdFbjhLZG9zY1FRRnV3YmZIaU04TkZ2STducnNwN1A1MktPNTA0YW1DdE9sTDZOSERZeEprSTNtazQtLTN4a25zN3FB?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3c0UVN5c1lJWWZreFFxbC1qRjRVZjdIS2s3bWY0QkRBRXJ5RUZyazJUQ2ZQUGtIeUZobnhIejBYRUF4QmJTVzQzdUdfTFF4MV9uVUtQUzJBM3JiWnd6UjNxbWMwZEVrMGtvM2s5NnR3NkRXYjBQX1dUdEhhM3MzUGh1Ti1jQkpudE1XMHhsWE9VRWk3cUt2MzN5bUthamcwYU5rVlE0b9IBrAFBVV95cUxPQXBELXFjZWl5cml6RFAtZi15NDFIdTFSS0IwQk5VeU5WQXU5RmxtajlRNEN4eE81a19ocXliQjVwQThGMWpGWTZ0Z1AtZklfVnUtRXZzZFpDcTBkUEhXN3ZDVTdjbXFxOTdFbjhLZG9zY1FRRnV3YmZIaU04TkZ2STducnNwN1A1MktPNTA0YW1DdE9sTDZOSERZeEprSTNtazQtLTN4a25zN3FB?oc=5\" target=\"_blank\">China says Nvidia violated anti-monopoly law after preliminary probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVFMaVlxN1g0VXk5OFpkOFNxbGdENERONGdxZTF5TWFta3FMRFJxQThPZVozdk5zNml4Y0E0cEZmU1JxbXhMQ2lTU0IybnlZOEkxUC1RM1Y1UDJ5Z2YwWVg3NnpidURfejl0WUFXTFhxWkZKd2NpRUxUSDExb0g4bU5Ea2dZdVFaTWZFbEhDU3pNSXQtQWVrclV5OVBmNFd3WmZBQ0YtT1MwMllQd2hnN1BHRkVqTy1aeXpWM2YweGxXWE52WUxwNDhibmxRUTlMcHBmZTRyVE10Xzd2?oc=5\" target=\"_blank\">China says preliminary probe shows Nvidia violated anti-monopoly law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxON0RIWTFWZXRxUFl0TjF2c05WcXY3RDJWSW1FRi0yaXJQN1lqNl9XT1hJdUkxRDBhY05LZmFBcEhmU05fbjBkTDhwUzd5Ym1kUkFZNGFGeDNBdU5CSHc1N0diS29xVl8ycTluT1IxREV4MllhWUF2d3hYYTMyaHZ5ajMzN2d4LWM40gGOAUFVX3lxTFA1SUVjcm8wSlJ4ZTdLMFQ1YVN5SnBuSGxyLVV4d1JnRUMwUHNwVFRuZGtlSi1RV2xkc05NamVsY0tyc0tja1lxdWdPdnltZ0RVVnpTLTFOYXg2ZWNtYndTbUFzSGRrZGRRZVBLTEhDaktRMlNlSlBjM3dOeDRmZ1I0Wk5TTUdVcnZ0RUVWMVE?oc=5\" target=\"_blank\">China accuses Nvidia of violating antimonopoly laws following investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9RcEFiYzR3TzdHWjNVd2JDRmFteGFKQW10bFpjcWI0d2I5LWRDOExDemYtdVdvSEs2WjBINnkyU2tuQ2dXS0Mzb0RoWU9NMmg1N2haa1ZoeEJfNURFVG1xLTBwWHlyRVhtSDllY3hlRGdjcURXMTBVM3Q2cw?oc=5\" target=\"_blank\">Nvidia Broke Antitrust Law, China Says, as Tensions With U.S. Mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeEFpYmN5d3JzYlFfdVZLYlE0WHlfVkNhRjEzb21BWV85ZTNURVRuNjRlTVlxMjQ2TFh2N3FMYlQxQ1hMMDNsYzZ4S3Y2cmwwVm80N3pGbHY2TmF6Zmt5ZXc3ZjdNdlh6UDBVMGdhUWRjRjhlOUJGdGhzRQ?oc=5\" target=\"_blank\">China finds Nvidia violated anti-monopoly law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ1M4cndQNkYyY1ZIOVFPRkc2U0JjOFQ0SUFiS2owb0NNSHJSWkt0dnhHMTE2bGVhR1Z6d0o3aWJnMXVWNG1JNW04ZlFYekpkWlI1cjRwbHYxMnpwV3I1cV9IQnpYT25wYk9ubUdfUUVYUHdxNmFNWGtrdlZkNmZZRDlITUZJMUhxXzhR?oc=5\" target=\"_blank\">China Finds Nvidia Violated Antitrust Law After Initial Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNU05c3VIUkk3WHZpQUxKaTNwLWdXczEyeHVwYmZIcDBXYk1YM1FhcG04S2dha3o3cUx1aHlrVkZtQUtkZ0NvUXZ1bE1Na2RVbnNSZmlHeHhmUTdZSGJrdmwxajllbFFZQ3JiamxNUjl5VFlIQml6eHB6Mms0anBYelpvbkFGYkJfWjFKYXVtWkIwY3dFOGxkVzlXajZjbFBzd3NoT2gxUU1xQi00VDBpNmNn?oc=5\" target=\"_blank\">China Finds Nvidia Violated Antitrust Law After Initial Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5vS0ZtLUl4UmZNUmpxNm1FYW1MdXVCaEc2OVIzUmF5Z0FhZTdlOVk0RU1xSWg4bXVFMmZSMzh1cEhuTTJOUFVGR1pyVlQzTy15WjJCQ2E1V3I1VkRlM1Q5TUxRdGsxTi1ucmxuYnVxNDFLcUY0X0hLSWwtZlItUHM?oc=5\" target=\"_blank\">Nvidia Stock Drops After China Says It Broke Monopoly Laws. What It Means for the Chip Maker.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ0xFOGVEVlNHYkxqMlBuZ2NQT2NnNEptTi1USEgwR0F0YkI3UjdfdVZJRlExaU1lckJaS3BCRXpWNXlyS01KTzRPcXdTZllQMm51NTN3dVA1bDNQWXRNZUh5YTJ0V2ZYUHdsc0tWbjFCdVBvZlhEYlE5cEl4MEZsWU9jYUVtcHhWTFNkaThEeTRPcmxnVGZfaVdCYk5zQUZLRVdFcl9maUZUN3k0YzIxSGdrR2lYR2s1WHZF?oc=5\" target=\"_blank\">China finds Nvidia broke antitrust law and extends probe. Shares are dropping.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li></ol>",
+      "published": "2025-09-15T08:25:45+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Nvidia and OpenAI to back major investment in UK AI infrastructure - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0h6Y2JqeVIxNE9scng2dUdBbFdzUmNNajlhV2JfeTFHaERNMjc5Zi1mSmpDcWpWYXdXZ0NaSU12N3I1Nko5LUtySkNyUUU2SG4xcXlRYkpQMjhWcmlBTEQ0VF9WWWx2UkhfUy1hVmt1ZW1wc0lOSFY0VVMwM3pBaGRjcGZlY3pzSzZJSTIwU1JPUHFyZW1iek5aVWo5dWRBZnp0N0d30gGrAUFVX3lxTE5FRnVMaVJvSGQwWTR6QThwWXA0bTdCNEtHM3NrSE1yR0Q1cDJiLUhLd3htSllwa0Y0MWZaT2ZIYUlJYzRkT2hOc2JNeXFvb2FxSjhraHlxSmZwYWVpN09sbHhQVUNody1XSVJ5Q2R1cVlISnVmbUNMS0NuSWxMZW9fZmV2cVM0VGsxdXpsTWVFeXBHZFMtTnM4V1RpaGlCY3BDVjFKZnVzQ2pjUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0h6Y2JqeVIxNE9scng2dUdBbFdzUmNNajlhV2JfeTFHaERNMjc5Zi1mSmpDcWpWYXdXZ0NaSU12N3I1Nko5LUtySkNyUUU2SG4xcXlRYkpQMjhWcmlBTEQ0VF9WWWx2UkhfUy1hVmt1ZW1wc0lOSFY0VVMwM3pBaGRjcGZlY3pzSzZJSTIwU1JPUHFyZW1iek5aVWo5dWRBZnp0N0d30gGrAUFVX3lxTE5FRnVMaVJvSGQwWTR6QThwWXA0bTdCNEtHM3NrSE1yR0Q1cDJiLUhLd3htSllwa0Y0MWZaT2ZIYUlJYzRkT2hOc2JNeXFvb2FxSjhraHlxSmZwYWVpN09sbHhQVUNody1XSVJ5Q2R1cVlISnVmbUNMS0NuSWxMZW9fZmV2cVM0VGsxdXpsTWVFeXBHZFMtTnM4V1RpaGlCY3BDVjFKZnVzQ2pjUQ?oc=5\" target=\"_blank\">Nvidia and OpenAI to back major investment in UK AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-09-12T11:14:46+00:00",
-      "source": "CNBC"
+      "title": "U.S. and China close to TikTok deal amid fresh Nvidia ruling - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBicjBxX3FmRTRVOWJWQjZfLXY0dkVpejBzcTdjMEJTa2dId2VuTk9GSDFOaGFaZVVjSXIyNndXVFFHT1dheWZGVkRlNW51R3l5RTV3bE5MQUpaX2Mwd3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBicjBxX3FmRTRVOWJWQjZfLXY0dkVpejBzcTdjMEJTa2dId2VuTk9GSDFOaGFaZVVjSXIyNndXVFFHT1dheWZGVkRlNW51R3l5RTV3bE5MQUpaX2Mwd3c?oc=5\" target=\"_blank\">U.S. and China close to TikTok deal amid fresh Nvidia ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
+      "published": "2025-09-15T12:12:46+00:00",
+      "source": "Quartz"
     },
     {
-      "title": "Nvidia and OpenAI to back major UK investment in artificial intelligence - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMSm12cWhaR0FINFY0SndpR1ZkbUpoQlRUOG82QjhzNjU3QUpscWc3cThMMm1RZ3FXNGRweE1Odkt4ZmNxanJUWjEySEtmY21aRk15YU0xVE9RZFVKUHprTVh0RngzT2V4SFUzTXRXZzU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBMSm12cWhaR0FINFY0SndpR1ZkbUpoQlRUOG82QjhzNjU3QUpscWc3cThMMm1RZ3FXNGRweE1Odkt4ZmNxanJUWjEySEtmY21aRk15YU0xVE9RZFVKUHprTVh0RngzT2V4SFUzTXRXZzU?oc=5\" target=\"_blank\">Nvidia and OpenAI to back major UK investment in artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2025-09-12T08:15:00+00:00",
+      "title": "S&P 500 futures rise but Nvidia shares fall - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPb19VbHR5dlpCY25ZQTcyejVCMXZnbTZvY2VlYW4zWEJyVWpWc1hscUNnUm1HT05RcmpSOUp0TTQxclRPRHNvSTNUTHhHcVhOdEE4YzZDR0J5cW1HRXR1WUFqUUM1NUNlVGhvMFRqblB6eGsta055Qy1mWWxibVJ4SlZoZ1Ryc1dmQUk3bWhhWGV5WnptTjlvNXN3b3UzYXRHN19WS0VUNDh6Y29Uc3p1NHVRUXlzX2s5U3pnTWFyMWIwX0F2a0VubTJ4Tm9NQ2t2Z25QajQ2V1JBQnZvOXl6SEJVWjJIUGQyYXYyQU9WNWthOXdFM1R0d3FrcVZXNno1cGctbDRkMTJ5bjRSYVBuaWVUbGlZMkd0R2IwOF9TSm1fcVYwNUVKM3NrcDF1dzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPb19VbHR5dlpCY25ZQTcyejVCMXZnbTZvY2VlYW4zWEJyVWpWc1hscUNnUm1HT05RcmpSOUp0TTQxclRPRHNvSTNUTHhHcVhOdEE4YzZDR0J5cW1HRXR1WUFqUUM1NUNlVGhvMFRqblB6eGsta055Qy1mWWxibVJ4SlZoZ1Ryc1dmQUk3bWhhWGV5WnptTjlvNXN3b3UzYXRHN19WS0VUNDh6Y29Uc3p1NHVRUXlzX2s5U3pnTWFyMWIwX0F2a0VubTJ4Tm9NQ2t2Z25QajQ2V1JBQnZvOXl6SEJVWjJIUGQyYXYyQU9WNWthOXdFM1R0d3FrcVZXNno1cGctbDRkMTJ5bjRSYVBuaWVUbGlZMkd0R2IwOF9TSm1fcVYwNUVKM3NrcDF1dzA?oc=5\" target=\"_blank\">S&amp;P 500 futures rise but Nvidia shares fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2025-09-15T09:20:45+00:00",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Nvidia Has $4.3 Billion Invested in These 6 Artificial Intelligence (AI) Stocks. Here's the Best of the Bunch. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjVFMnA2bEh6enNvV2doaFBnY0t4QUdGUUlPWFYyMVVBVXpKeTk5Z1NuUXMxY2FhazBPX0g0MXBwS1Z5bXp0ODhORkxiTk1zRTQyWk9iVnhReFJQSjlPRm5IVElOTjR4bjhyNHhTNVYxMW1hOHpMdXlaSldOMWFTSEJna1QzZDRsOGRkQWJJSUZIdVkt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjVFMnA2bEh6enNvV2doaFBnY0t4QUdGUUlPWFYyMVVBVXpKeTk5Z1NuUXMxY2FhazBPX0g0MXBwS1Z5bXp0ODhORkxiTk1zRTQyWk9iVnhReFJQSjlPRm5IVElOTjR4bjhyNHhTNVYxMW1hOHpMdXlaSldOMWFTSEJna1QzZDRsOGRkQWJJSUZIdVkt?oc=5\" target=\"_blank\">Nvidia Has $4.3 Billion Invested in These 6 Artificial Intelligence (AI) Stocks. Here's the Best of the Bunch.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2025-09-15T08:44:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "China says Nvidia violated antitrust law when it bought Mellanox - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11UWlhV1JkS3E0V2M1LW5OcFJodmxwM2JSclZkVnJFLVRGX0xmTUVEQ0lzLW0yNGE2SFpyWDhrMTR3RGU0aHFmMmhpdTd4VjdSRVFfUGJONldXc1hsZ3FKS1FDVXpyV0NGU1RKc1lYVXI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE11UWlhV1JkS3E0V2M1LW5OcFJodmxwM2JSclZkVnJFLVRGX0xmTUVEQ0lzLW0yNGE2SFpyWDhrMTR3RGU0aHFmMmhpdTd4VjdSRVFfUGJONldXc1hsZ3FKS1FDVXpyV0NGU1RKc1lYVXI?oc=5\" target=\"_blank\">China says Nvidia violated antitrust law when it bought Mellanox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2025-09-15T08:43:53+00:00",
       "source": "Financial Times"
     },
     {
-      "title": "OpenAI, Nvidia said to announce U.K. data center investments during Trump visit (NVDA:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjRWR0E1aGFDLXNRZDM0U3NyS3N5SFhlTFJmQmVoMDB4cjBqN2Nwd2hYc2VSUXBVVlU0T2hRMzhicEhyOXA0eTJGT0NySkhnc19HT1liZEN4bHgwZmZSbUE0Rm9TRGdOTXJOZXdfVFZwYUZNd2h3RDBRaXZ0S055NXROQWdqZjZFR25rT2RaeTJrMWpZb1l5VVJpR1l6OWNyd1AxSFhjWFlaakl1c2VPVjB0RQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQjRWR0E1aGFDLXNRZDM0U3NyS3N5SFhlTFJmQmVoMDB4cjBqN2Nwd2hYc2VSUXBVVlU0T2hRMzhicEhyOXA0eTJGT0NySkhnc19HT1liZEN4bHgwZmZSbUE0Rm9TRGdOTXJOZXdfVFZwYUZNd2h3RDBRaXZ0S055NXROQWdqZjZFR25rT2RaeTJrMWpZb1l5VVJpR1l6OWNyd1AxSFhjWFlaakl1c2VPVjB0RQ?oc=5\" target=\"_blank\">OpenAI, Nvidia said to announce U.K. data center investments during Trump visit (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-09-12T08:41:31+00:00",
-      "source": "Seeking Alpha"
+      "title": "China Says Nvidia Violated Antitrust Laws - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXp0bmd3NFlzUFc0V0laUmxVS3RyNU83VEVOaS1HUldlZWdBSUY1R3haWmpTS0RyMjVteVBfWW4yUzltbEtiRTVfTkRHQnFBd0djM2llSnJzSGdTclpPN2dISjkzWG02UnpuSTIzMk9PTlJyZ19RMU4ybEhCU1BTNUVuSU5HdFE3eDRlbF9hc0hWNndUYWM0OXhhQ0c0bURSa3p3U01Fc3g?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXp0bmd3NFlzUFc0V0laUmxVS3RyNU83VEVOaS1HUldlZWdBSUY1R3haWmpTS0RyMjVteVBfWW4yUzltbEtiRTVfTkRHQnFBd0djM2llSnJzSGdTclpPN2dISjkzWG02UnpuSTIzMk9PTlJyZ19RMU4ybEhCU1BTNUVuSU5HdFE3eDRlbF9hc0hWNndUYWM0OXhhQ0c0bURSa3p3U01Fc3g?oc=5\" target=\"_blank\">China Says Nvidia Violated Antitrust Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2025-09-15T09:37:00+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "These companies could follow Nvidia’s lead with AI driving rapid sales growth - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXBBYmpmWmhjUGw3T2NFMDFXTXBmSnhkM0o4OU56TjFWVW8yRVB4TGlsc0xqeVZkS1pjbFh2UzZPWFlRWXgtbVRKWEpTYUFiY2h6clZNZUxRa2o3THVBMktJa1BLcVRWWHRxMHVpTFhNQ1VwVUpWbjJxS1dvRlRqUEZGaDk2VXRSUEZmRTR3cTZmOHZhZnJoRlBzbkVxWmkwWm1QYXhMTTNOdjFkcVo2OVBfMDBKQnRNRFY0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXBBYmpmWmhjUGw3T2NFMDFXTXBmSnhkM0o4OU56TjFWVW8yRVB4TGlsc0xqeVZkS1pjbFh2UzZPWFlRWXgtbVRKWEpTYUFiY2h6clZNZUxRa2o3THVBMktJa1BLcVRWWHRxMHVpTFhNQ1VwVUpWbjJxS1dvRlRqUEZGaDk2VXRSUEZmRTR3cTZmOHZhZnJoRlBzbkVxWmkwWm1QYXhMTTNOdjFkcVo2OVBfMDBKQnRNRFY0?oc=5\" target=\"_blank\">These companies could follow Nvidia’s lead with AI driving rapid sales growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "published": "2025-09-12T19:26:00+00:00",
-      "source": "MarketWatch"
+      "title": "Nvidia Violated Antitrust Law, China Says - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVhHLXJHWHd0N2Z3akNUYllYVzQ2ZzJSazhpUlA3M3hEVjNUVTRKeW1CQm1HcWJvQUdlSXFLNzZOdG9VR1E5OWx3dmdrSXZEM3ZDRHZuVHB2eGM4UzBlT3R3T3ItaE9LejFuOElrY2phaVlyNk1WSFNrWFNPaHVjQTFWZDU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVhHLXJHWHd0N2Z3akNUYllYVzQ2ZzJSazhpUlA3M3hEVjNUVTRKeW1CQm1HcWJvQUdlSXFLNzZOdG9VR1E5OWx3dmdrSXZEM3ZDRHZuVHB2eGM4UzBlT3R3T3ItaE9LejFuOElrY2phaVlyNk1WSFNrWFNPaHVjQTFWZDU?oc=5\" target=\"_blank\">Nvidia Violated Antitrust Law, China Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "published": "2025-09-15T11:53:41+00:00",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Nvidia stock crashes by 3% as China accuses it of breaching anti-monopoly law - Cryptopolitan",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RWWRYNmcyeHpjZUMyR01LWDQ3aW9wNngwb2E3bnFhWE44SGkzeHh3a1N1SWJFUmw3aGEtQUZSbGNPTXdFMnVjaTctdUl0YXk5eXM1WEYtTEFfcXlNMzZnemVHNVdwVXcyWXpYZm53SzdFWmV0WWNZMWNn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9RWWRYNmcyeHpjZUMyR01LWDQ3aW9wNngwb2E3bnFhWE44SGkzeHh3a1N1SWJFUmw3aGEtQUZSbGNPTXdFMnVjaTctdUl0YXk5eXM1WEYtTEFfcXlNMzZnemVHNVdwVXcyWXpYZm53SzdFWmV0WWNZMWNn?oc=5\" target=\"_blank\">Nvidia stock crashes by 3% as China accuses it of breaching anti-monopoly law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+      "published": "2025-09-15T09:20:00+00:00",
+      "source": "Cryptopolitan"
     }
   ],
   "product_launches": [
@@ -68,6 +68,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5\" target=\"_blank\">NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2025-05-18T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
+    },
+    {
+      "title": "Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjR6OHJYYjlhdjY4OWlqNTVBNEVEdnBTY1BoM3Ayc0s5M2x0WWduc1JEaG5vVjg5WVZzbkxOSnA4dTFHTWxDR1hUWW5IV2dhVWdoamp4ZDR3a2tWZzk1ZFJYOGc4Y1hRZ0tLd0UyMUNPOXdpWWZPX2VGOXNKN0Myd2FUa1A3T2MzLWgtTlJQNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjR6OHJYYjlhdjY4OWlqNTVBNEVEdnBTY1BoM3Ayc0s5M2x0WWduc1JEaG5vVjg5WVZzbkxOSnA4dTFHTWxDR1hUWW5IV2dhVWdoamp4ZDR3a2tWZzk1ZFJYOGc4Y1hRZ0tLd0UyMUNPOXdpWWZPX2VGOXNKN0Myd2FUa1A3T2MzLWgtTlJQNA?oc=5\" target=\"_blank\">Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-08-27T07:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "[News] Kioxia Reportedly Eyes 2027 Launch for NVIDIA-Partnered AI SSDs with 100x Speed Boost - TrendForce",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlBrNmVLZ0dQZEoyRzJNdmlVcnkzMUoyb3pWblV2WEc2R2JEWmk4cFlUQ3IzRmc2NGNRbXFONjBhZGt0VHZBVkx5SVZmT29VQktfVVduSlhxdXRBVzNzTmZISzZWdDkyTnZ2VHYwSVl5VklZU2ZwY3dRaXdaMTFxNnlRZUt0SXRPellwd0FyRkRjdnpUYWYxTkNqVzkyZ3FpN2luT2JTLWdZcm01b1htSWk1MUN1QjJSLXN5OFlOc2FqcmU1RXVtV0NWSVoyRTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlBrNmVLZ0dQZEoyRzJNdmlVcnkzMUoyb3pWblV2WEc2R2JEWmk4cFlUQ3IzRmc2NGNRbXFONjBhZGt0VHZBVkx5SVZmT29VQktfVVduSlhxdXRBVzNzTmZISzZWdDkyTnZ2VHYwSVl5VklZU2ZwY3dRaXdaMTFxNnlRZUt0SXRPellwd0FyRkRjdnpUYWYxTkNqVzkyZ3FpN2luT2JTLWdZcm01b1htSWk1MUN1QjJSLXN5OFlOc2FqcmU1RXVtV0NWSVoyRTg?oc=5\" target=\"_blank\">[News] Kioxia Reportedly Eyes 2027 Launch for NVIDIA-Partnered AI SSDs with 100x Speed Boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+      "published": "2025-09-11T08:46:37+00:00",
+      "source": "TrendForce"
     },
     {
       "title": "NVIDIA Launches Rubin CPX GPU for Unprecedented AI Performance and New Revenue Opportunities - Quiver Quantitative",
@@ -82,20 +96,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5\" target=\"_blank\">Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
       "published": "2025-08-26T07:00:00+00:00",
       "source": "Seeking Alpha"
-    },
-    {
-      "title": "Nvidia to reportedly halt H20 chips, may offer China new product - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdU9RcldjQV9KdkxzdkdYc05zZ0ZoYnpRSGFfTzFrTW56ejczdVVVZzBPdWVpQTU1d2NIWVhHNW1lN3Z6ZV9jdmdUZ1FYNWx5Tm5jbmM1M2E4QS13U0thQ2dCRGIyX0h6eWhfVnNnMXRXTXRqSXJoVkxWWVhQQ283X0lJSl9KZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdU9RcldjQV9KdkxzdkdYc05zZ0ZoYnpRSGFfTzFrTW56ejczdVVVZzBPdWVpQTU1d2NIWVhHNW1lN3Z6ZV9jdmdUZ1FYNWx5Tm5jbmM1M2E4QS13U0thQ2dCRGIyX0h6eWhfVnNnMXRXTXRqSXJoVkxWWVhQQ283X0lJSl9KZw?oc=5\" target=\"_blank\">Nvidia to reportedly halt H20 chips, may offer China new product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-22T07:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia in talks with Trump administration about “new product to China”, says CEO - Cybernews",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTgyZFl2QXR3dWJNS1JKa2Nmd3V4V0lLWWZwTTdQYUEwYmotZlA4X0djTDRCdEg1SUpYQTVmQnRMWjV5cGticnR3VzMtTWxpR0hQWUNDWGVPbVNvQk1HYjZXRHJVa1JBOHd5NDcwZWRFSDdIUnVuZHFPSENfeEZLeXl4Ul91MkhiQk94RlNrbWN4VGY3Z1ZFbzVKN1QwRjd1UFIyRzVhM25tTmRf?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTgyZFl2QXR3dWJNS1JKa2Nmd3V4V0lLWWZwTTdQYUEwYmotZlA4X0djTDRCdEg1SUpYQTVmQnRMWjV5cGticnR3VzMtTWxpR0hQWUNDWGVPbVNvQk1HYjZXRHJVa1JBOHd5NDcwZWRFSDdIUnVuZHFPSENfeEZLeXl4Ul91MkhiQk94RlNrbWN4VGY3Z1ZFbzVKN1QwRjd1UFIyRzVhM25tTmRf?oc=5\" target=\"_blank\">Nvidia in talks with Trump administration about “new product to China”, says CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
-      "published": "2025-08-24T07:00:00+00:00",
-      "source": "Cybernews"
     }
   ],
   "stock": {
