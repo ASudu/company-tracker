@@ -2,66 +2,80 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-09-18T12:21:51.810304+00:00",
+  "fetched_at": "2025-09-19T12:22:47.019005+00:00",
   "news": [
     {
-      "title": "Nvidia to invest $5 billion in Intel; companies will work together on products for data centers, PCs - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaWN6dS1ZanIzWHNUN045bkVWdW5zcnBsVXczcHJLUDlUeDJtX29JQlAtOERMNWFROFFwdlJ0dl82MVVFeS1hUm9xeHRUV2tCcHY0c3dQSjVqNUE3dHJFYlNwTktvbGpBVGdjRFU0Y3FBT1JSSUhKRzNOQmNQS0F3ak95U2RPcUt1WjFWSUMyTHpWb2xxOXJKTWo3UWtrSEdiRExFN3NILS1pc3dzN0IwemdQWGFLTUp6aGhkVWlEck5za2dqcjcybFRVWUZ2WXlOclowZWFLWUg1WmM2UFHSAeMBQVVfeXFMUFlQZ0hrU3FRclh6dmVVTncwLUhreGMwT1Y4NHg5bEluZmp1QWVaQ2xkRUVHa3Z1dTFwSEcwRzVGUGV0VkNKYTBqXzBxMGJDa25VWENwaTduNTg3TzlNcExKdUlraXg3QmFWSWRDNFZRaTlXZzZUNzhKMmNKUm1LOEVEOEF0R3BuVEhmaGNfOVFiQVhiUmxjNzZZTHpkRDBQNVpZeFh3aVNweHN3YVlGS0M4WVJzdGNTeEhmbkgzMUZNU2dDbi1mUHBZbEtmdmd6MEFRUTJ1QVRBNS0zOUZHQXNQN2M?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaWN6dS1ZanIzWHNUN045bkVWdW5zcnBsVXczcHJLUDlUeDJtX29JQlAtOERMNWFROFFwdlJ0dl82MVVFeS1hUm9xeHRUV2tCcHY0c3dQSjVqNUE3dHJFYlNwTktvbGpBVGdjRFU0Y3FBT1JSSUhKRzNOQmNQS0F3ak95U2RPcUt1WjFWSUMyTHpWb2xxOXJKTWo3UWtrSEdiRExFN3NILS1pc3dzN0IwemdQWGFLTUp6aGhkVWlEck5za2dqcjcybFRVWUZ2WXlOclowZWFLWUg1WmM2UFHSAeMBQVVfeXFMUFlQZ0hrU3FRclh6dmVVTncwLUhreGMwT1Y4NHg5bEluZmp1QWVaQ2xkRUVHa3Z1dTFwSEcwRzVGUGV0VkNKYTBqXzBxMGJDa25VWENwaTduNTg3TzlNcExKdUlraXg3QmFWSWRDNFZRaTlXZzZUNzhKMmNKUm1LOEVEOEF0R3BuVEhmaGNfOVFiQVhiUmxjNzZZTHpkRDBQNVpZeFh3aVNweHN3YVlGS0M4WVJzdGNTeEhmbkgzMUZNU2dDbi1mUHBZbEtmdmd6MEFRUTJ1QVRBNS0zOUZHQXNQN2M?oc=5\" target=\"_blank\">Nvidia to invest $5 billion in Intel; companies will work together on products for data centers, PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnIyY0E4UUNZbTNBWGFnTjRnaFlyei1jcy1CRHc1cUFpVm54WDNMZmJDOXVJbVBIc1VJMlZJUmdCSFUxNG1FUk0zbXR1UzhPa3NEQUdvaENyN1lsRTZid0tvTnVvbENjaDJoQW1jby1Edm1NbU5TY2docUFmOG5ybXBsTE83RHotZWU4WkZDdVJjZ1V3UHpIaFZXUHh3VVV3aE1uTk5xTFpZYUM4Uk1oemxpQWlQTm8xaGFNTk5STnA0WjQyZkE?oc=5\" target=\"_blank\">Nvidia to invest $5 billion in Intel; companies will work together on AI infrastructure and PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNOHBSZ1lvTWRVeHJadnJDZWNMTkV6ZUZxYUVmQXdRUXA1ZHRPS01oYUpuWmVyc3VQVWZ1OHdJdThLVVlmT1FROUVXSnh2ck5vQW80cEQ0OUtwSU42X3p4SnRybEdlRmE1?oc=5\" target=\"_blank\">Intel shares soar as Nvidia announces $5 billion investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font></li></ol>",
-      "published": "2025-09-18T11:52:00+00:00",
-      "source": "The Hill"
-    },
-    {
-      "title": "Speaker Johnson says China is straining U.S. relations with Nvidia chip ban - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjNXJISjJIcUppelpndzRlR0dyc09yYlg5NzRvcXlpTm5IdG1XOGR3Qm1qNnYxYWExZHAzQlJsa0NJbmJzbmJMc19lZkFwVlNEMERNM3lYVUVfN0xMcWZZMnA4WG8yWnNiUzBGMVdR0gFzQVVfeXFMTy1xM3hrYVFuYi1vR0dzN01USmRTMmxyclJIM3hCWllpbTV3UTVRUU1DMVVxM2Rqbkc1TTV0Mmx4aFc4UlBtR2FKRkh1dzhtM0VfeWVqSkpzc3hTRm9MUGhsMkVyUFFreTR4eHNtS1ZacGRzRQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBjNXJISjJIcUppelpndzRlR0dyc09yYlg5NzRvcXlpTm5IdG1XOGR3Qm1qNnYxYWExZHAzQlJsa0NJbmJzbmJMc19lZkFwVlNEMERNM3lYVUVfN0xMcWZZMnA4WG8yWnNiUzBGMVdR0gFzQVVfeXFMTy1xM3hrYVFuYi1vR0dzN01USmRTMmxyclJIM3hCWllpbTV3UTVRUU1DMVVxM2Rqbkc1TTV0Mmx4aFc4UlBtR2FKRkh1dzhtM0VfeWVqSkpzc3hTRm9MUGhsMkVyUFFreTR4eHNtS1ZacGRzRQ?oc=5\" target=\"_blank\">Speaker Johnson says China is straining U.S. relations with Nvidia chip ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7wJBVV95cUxOY3U1cVNfOVdldGp2WUxOWG5Wd2N2N1Q3VHEtNnVucEw0TjdTRExTbE1iVENLdVRGeERDaElFUmliOU82Q3VORDBVanByZENoejlIVW1vY08zeDVDN2RrTFNZb3phQ09QV1hOd1k3NkR2b25iSFhid0xPUkJpLVE5Q2NZUmhwaWViSjVucHZmTUZzSGc2VW9RR0FGV1g4dk1nM29WaG00cHVkN0JpcTljUmlBVXdRM2NqbFloWTcwUnZGNnBsc0x1T0RzM3E4ZFg3cVdWeHY3aF9KWXliQTVvUWNNN2p5SHZsZ3NNVm1GajBWSDIwR2sxY2w4UUdlYXdYY2Y0S0t0eU1NYXpaeXNRWXVGYnJjcVpfNVRudHNsaHZqbmRHWFVqd05remVpZm4tWF9mbWU0R1RWX1dIeHV2aVpiWVlLT1llQ1lOUGJ2d3pXMjF3MkppdW1zb3pXUElwZXpHVkhET0p1RzJ6NC04?oc=5\" target=\"_blank\">Chinese Officials Urge Firms to Shun Nvidia AI Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE42MDB6YWVtT0hXbVV5SmZyVWpZZ25MSFB2YUlKQzFMOUNCaHN3X1F4Mk1VdGV3djBaQ1hrNjVWZDhpU0ZPNmlaVnNpdzAxaFdWOGhRVHhDMUFhOGdDZjdYbEh4aFhpSHVYRHUyOWEzbEJhTTdmSU9XS0lB?oc=5\" target=\"_blank\">Nvidia Stock Rebounding After China Ban. Why Trump Can Drive Shares Higher.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
-      "published": "2025-09-17T12:25:00+00:00",
+      "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3BoUHVnNmhCSjQ2azUxRGZQZjktR0dWajVvdEE4R0lYcEF5N3Nra0Mta3pPZ2xiVUhNcXVRTHZxTnZER215c0RtSUZ1UzYtVXZWZnRoS1RaQlRsSVc2MVQ0MVJ2aHlQUUhOVVNWaHotaUNIUkVFSFRlVFNUck9mZG4wNWtleGgtYWZGVjlTWEY4bl9IendyV0NlbmY0aEhvTTRDRmltQ1jSAa4BQVVfeXFMUFQwa2xCMlBpV3l3alpnOGotdjI1b2RwQXZOb1BFRF8yVUVvS1FaQU5iZE5VQmd1djZqQ0tfWDJfTklFNU1sUk0tTVpmYjl0MGtyb0Z1LWhxSkx6Mkd6U05pLVc3bnpvQlRmY0puVldheXJVdTF2SHFyUlFtM3BrLXVxcGtrbTAxZmhoQzFFVzVpclpFa0RNcTJwYlN1OEkxVkdNdW9QTFV6X2o5VTV3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3BoUHVnNmhCSjQ2azUxRGZQZjktR0dWajVvdEE4R0lYcEF5N3Nra0Mta3pPZ2xiVUhNcXVRTHZxTnZER215c0RtSUZ1UzYtVXZWZnRoS1RaQlRsSVc2MVQ0MVJ2aHlQUUhOVVNWaHotaUNIUkVFSFRlVFNUck9mZG4wNWtleGgtYWZGVjlTWEY4bl9IendyV0NlbmY0aEhvTTRDRmltQ1jSAa4BQVVfeXFMUFQwa2xCMlBpV3l3alpnOGotdjI1b2RwQXZOb1BFRF8yVUVvS1FaQU5iZE5VQmd1djZqQ0tfWDJfTklFNU1sUk0tTVpmYjl0MGtyb0Z1LWhxSkx6Mkd6U05pLVc3bnpvQlRmY0puVldheXJVdTF2SHFyUlFtM3BrLXVxcGtrbTAxZmhoQzFFVzVpclpFa0RNcTJwYlN1OEkxVkdNdW9QTFV6X2o5VTV3?oc=5\" target=\"_blank\">Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-09-18T22:23:04+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Huawei Unveils New AI Chip Tech to Challenge Nvidia’s Lead - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkNFdjRNZnlNVnlvMl81VkFKSXR2ZnZzVW9lYWlsQUhCcHI0QVMxeEFmX1I3QndYUGx0bHNENlJsYThEaF9RMFR4ckdTcVhSU0hRdWpmNGNiVHIwbV96VTdIY2ZxRTdYRnVzZjBncmNvbWpuTFMxZ2NLUWxac2lRNUdlVDZsMnZSV1ZUTDJyeHFQZXpsaVpJeHBWbUMteHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkNFdjRNZnlNVnlvMl81VkFKSXR2ZnZzVW9lYWlsQUhCcHI0QVMxeEFmX1I3QndYUGx0bHNENlJsYThEaF9RMFR4ckdTcVhSU0hRdWpmNGNiVHIwbV96VTdIY2ZxRTdYRnVzZjBncmNvbWpuTFMxZ2NLUWxac2lRNUdlVDZsMnZSV1ZUTDJyeHFQZXpsaVpJeHBWbUMteHc?oc=5\" target=\"_blank\">Huawei Unveils New AI Chip Tech to Challenge Nvidia’s Lead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-18T09:05:04+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nvidia and Microsoft bosses hail huge UK AI investment - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zN3NOWVJpdnZKd2FkeUdidHpMQndkeGlNeXBLTlpuUkVoZU82Z3NlLTQtM3NNQmNWQU5hbmhJMXhYQW9UdF9tNzVXcFBsTU1RQzg4TG5KVHdmQdIBX0FVX3lxTE5wT1dYMmFpZmc5akdQek5DVkUyMTFCb0xyaEEza1VRc0VLMlNtNDlER1lZREtFdmxKU3Q4dDNMSHgwWW0wQ215QmZHem5pQnZDb255bVBJQ2xQdURERGE0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zN3NOWVJpdnZKd2FkeUdidHpMQndkeGlNeXBLTlpuUkVoZU82Z3NlLTQtM3NNQmNWQU5hbmhJMXhYQW9UdF9tNzVXcFBsTU1RQzg4TG5KVHdmQdIBX0FVX3lxTE5wT1dYMmFpZmc5akdQek5DVkUyMTFCb0xyaEEza1VRc0VLMlNtNDlER1lZREtFdmxKU3Q4dDNMSHgwWW0wQ215QmZHem5pQnZDb255bVBJQ2xQdURERGE0?oc=5\" target=\"_blank\">Nvidia and Microsoft bosses hail huge UK AI investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2025-09-17T16:00:11+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "AI startup Nscale came out of nowhere and is blowing away Nvidia CEO Jensen Huang - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGhGcjBKbHFwT3FIYnpEcTU2RVM2d0lLUEtuX0QwaEZnbnBfVVhydnZwYmNCelRlc0ViYzNhRU11SUdyZERuVzFTNllUemU2eXM5SUVoT19abm52amRfczRWQXhFckZ3RU5WSFF5RTdfQWdjY29MXzdOTGl5VXl3aklGV1k5ZHFpdjRYYWI2YzU3b3pvNTBhU3NSbGtDTnViWTcwMdIBqgFBVV95cUxNVzdHRXRVTDZ6UEpsSHo4a3VqS3FfNl9CU19jRFN5SktZS013SXB3cVVXdDVCOTU1ZTBZcGZWc3hxdHl1ZFJQOTNfLURSdkxDc0RLUGVONFR4WmNSVnp5c3NDUGRSNXJvZjZYU3FIU3g5RUhmV3hZMkZlSEpsMHBPeU91Und1cjNkUXloUW9idmxGZ2dueGdObnZoWWZ3WXE5ZDYtQ2NVRGFmdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGhGcjBKbHFwT3FIYnpEcTU2RVM2d0lLUEtuX0QwaEZnbnBfVVhydnZwYmNCelRlc0ViYzNhRU11SUdyZERuVzFTNllUemU2eXM5SUVoT19abm52amRfczRWQXhFckZ3RU5WSFF5RTdfQWdjY29MXzdOTGl5VXl3aklGV1k5ZHFpdjRYYWI2YzU3b3pvNTBhU3NSbGtDTnViWTcwMdIBqgFBVV95cUxNVzdHRXRVTDZ6UEpsSHo4a3VqS3FfNl9CU19jRFN5SktZS013SXB3cVVXdDVCOTU1ZTBZcGZWc3hxdHl1ZFJQOTNfLURSdkxDc0RLUGVONFR4WmNSVnp5c3NDUGRSNXJvZjZYU3FIU3g5RUhmV3hZMkZlSEpsMHBPeU91Und1cjNkUXloUW9idmxGZ2dueGdObnZoWWZ3WXE5ZDYtQ2NVRGFmdw?oc=5\" target=\"_blank\">AI startup Nscale came out of nowhere and is blowing away Nvidia CEO Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-09-17T20:57:05+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Nvidia announces massive UK investment, including tens of thousands of AI GPUs - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdW5SUFJfazRzMVZvWW9VMDEwMFR6dHhBMFNwYjNYRVBfS2RIRjNvUWFqX0luNVdfY1pZVWhHaHhFQWszVkY0TVNyVHpuQ3RvNU5hUDRMb1VLanlCeUhEazlpUHFRMmVwcVAtZ2RHWWdtYkNNMGxMVUhXRmE2Y2RCZE84MjI3UXU4TTNSTTJDWEp0SjZmUEFoSU50dFQzQlRlMDYyNHNMZVhJNFJyUG1nMDFET0o3TnZJaDY1TzhNSjQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdW5SUFJfazRzMVZvWW9VMDEwMFR6dHhBMFNwYjNYRVBfS2RIRjNvUWFqX0luNVdfY1pZVWhHaHhFQWszVkY0TVNyVHpuQ3RvNU5hUDRMb1VLanlCeUhEazlpUHFRMmVwcVAtZ2RHWWdtYkNNMGxMVUhXRmE2Y2RCZE84MjI3UXU4TTNSTTJDWEp0SjZmUEFoSU50dFQzQlRlMDYyNHNMZVhJNFJyUG1nMDFET0o3TnZJaDY1TzhNSjQ?oc=5\" target=\"_blank\">Nvidia announces massive UK investment, including tens of thousands of AI GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-09-16T21:30:15+00:00",
+      "title": "Nvidia spent over $900 million to hire Enfabrica CEO, license technology, CNBC reports - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjdhRW9KcWxCT0w4WU1VZUZxSmVYTVJTMlUxNnpaX2FyN0ZkR1QyX2Nvd1lid1YwVUtGT0ZhdFdnNXFYRTFNQkkzeEt6Y0g1WW5FNzF2ZWsxTUFYdDlhX1dGaGFDRVQ0V1kxUzU5Y28xVHA4aXdpUVVxYXV2Uy1WZg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjdhRW9KcWxCT0w4WU1VZUZxSmVYTVJTMlUxNnpaX2FyN0ZkR1QyX2Nvd1lid1YwVUtGT0ZhdFdnNXFYRTFNQkkzeEt6Y0g1WW5FNzF2ZWsxTUFYdDlhX1dGaGFDRVQ0V1kxUzU5Y28xVHA4aXdpUVVxYXV2Uy1WZg?oc=5\" target=\"_blank\">Nvidia spent over $900 million to hire Enfabrica CEO, license technology, CNBC reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-09-18T22:35:52+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GUUQwaU9zekVGWE9VYTNLV2pFZDFJUUZnQXpQd0JoVXRaN04tVDIyS1lCam1zYWhHak5GUV9oSDVKWVp6WjBrazA3VC12Z1hyNGtyUDU2eC01R2EtRG1IUkllVkZLZ2FzeFFNdDRiUlM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9GUUQwaU9zekVGWE9VYTNLV2pFZDFJUUZnQXpQd0JoVXRaN04tVDIyS1lCam1zYWhHak5GUV9oSDVKWVp6WjBrazA3VC12Z1hyNGtyUDU2eC01R2EtRG1IUkllVkZLZ2FzeFFNdDRiUlM?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2025-09-17T13:53:12+00:00",
-      "source": "WIRED"
+      "title": "Nvidia spent over $900 million to hire Enfabrica CEO, license technology, CNBC reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSDRZMlBUZmE1VWpKMkNQMHNBZ2xhbzg5cVl1dHctUVdJX1pwMEhIbEZka3gxcFNBaHV6MlVPa2pCTmN6cHBJSVRXTGtBNTV0MWhXazhxa2tia2dmd2hlc1VHU0N2VDlDeElLdG12ZEo2Z3lNT3hzdFRLUUdGNGlRR1hqRVJSaU4wZTI0b2FjVFJtMS1MSFZZQ29Nc0dsMGFNcXoxLW9BemdKYjV3WXRMNDlpVTdlQVZoa1pSanhsUFZaMkF0akE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSDRZMlBUZmE1VWpKMkNQMHNBZ2xhbzg5cVl1dHctUVdJX1pwMEhIbEZka3gxcFNBaHV6MlVPa2pCTmN6cHBJSVRXTGtBNTV0MWhXazhxa2tia2dmd2hlc1VHU0N2VDlDeElLdG12ZEo2Z3lNT3hzdFRLUUdGNGlRR1hqRVJSaU4wZTI0b2FjVFJtMS1MSFZZQ29Nc0dsMGFNcXoxLW9BemdKYjV3WXRMNDlpVTdlQVZoa1pSanhsUFZaMkF0akE?oc=5\" target=\"_blank\">Nvidia spent over $900 million to hire Enfabrica CEO, license technology, CNBC reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-18T23:30:07+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Nvidia: You’ll Regret Not Selling Here (NASDAQ:NVDA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbFAzdWJSaTFGaThXZUdXSkc0MC1aQ0xQdjVNb29Wa1FxMEJwYjFBeTBTYmRyUVhBWlA0STJtSzZTZm1ZMHhLZmFkSWJmaGpNWjlyeVdLS0ZIeDl6aE50WnlXeVV4SVRrUDMtSU1PYl9YQWJvVkNGM3V0LTl2enpSZmhxYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbFAzdWJSaTFGaThXZUdXSkc0MC1aQ0xQdjVNb29Wa1FxMEJwYjFBeTBTYmRyUVhBWlA0STJtSzZTZm1ZMHhLZmFkSWJmaGpNWjlyeVdLS0ZIeDl6aE50WnlXeVV4SVRrUDMtSU1PYl9YQWJvVkNGM3V0LTl2enpSZmhxYw?oc=5\" target=\"_blank\">Nvidia: You’ll Regret Not Selling Here (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-09-17T18:15:25+00:00",
-      "source": "Seeking Alpha"
+      "title": "Nvidia will take a $5 billion stake in Intel, joining the US government as a major shareholder - CNN",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42eVQ1Y01nT2lnZ2pxN2E5cWJXaldacS1ONTV6QklDNnN1ZExGc1YwSngwSk1rR0Via3NmQmdyN0d6YkNyZzBJenVLYmtXVF9CZU5KeW1pWnBCQllhajN1SVYzWlE3QklvcHdMb0xMZw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE42eVQ1Y01nT2lnZ2pxN2E5cWJXaldacS1ONTV6QklDNnN1ZExGc1YwSngwSk1rR0Via3NmQmdyN0d6YkNyZzBJenVLYmtXVF9CZU5KeW1pWnBCQllhajN1SVYzWlE3QklvcHdMb0xMZw?oc=5\" target=\"_blank\">Nvidia will take a $5 billion stake in Intel, joining the US government as a major shareholder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnk3aktUT3N6UnA3ZXF0MzFGbHFJVDYxZGg0X2xBTWRJTlNrb1d3ZFpWVnZKdC13SWxmNWNpWEE1S3F3bU5wVmQ3VlBCeWVlZFg2ZFplanliejYxXzNTcFlEeTdqRkpfLVNDRHJGWjZvTXFwWWZ3YlZ3TjR5NUtYNFhMUV9fNkszNUp6TDhDNDJocFRhTVpKbjVtcW1XQktCbldQalJ30gGrAUFVX3lxTE0xMlU5ZFY1eFExREtyeXpMX3luRVNqeE5LQUR2N0Q2RWFFZW5hdE9aazFaXzhIM3J1TDIzQTZwd0RnNWJTN3lrM3ZfMzdXV3lzVUVWaUFkUVl3VTg3RC15WW15cVZ2U3A2VE5DQTZTYzdKM3g2SHBNZUdHYndwdjJlRTBna0kwQjBaYTk1RWFRSXN1WUFFWkJGR2M5akoxRWpDTUIwRmZTRnd6VQ?oc=5\" target=\"_blank\">Nvidia CEO Huang says $5 billion stake in rival Intel will be 'an incredible investment'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXFoS3k0TlU3Vlpianh5Y0lYRk1nT1lTdVFlOFI4MENWbElfNFp6WXktSllHNUxUNm5rQUxTR0c4ejFhNnl2R0NZMnhDYzBLNF9sSjZlaXdSN1p1OVVjS0N3ZGJ2ejh2VVBoOUJMaS1qek5kY3BnSWpoOG5BWXVLRmxvUlFFS1Y0dmJDVkhkSnoyNXctRDZB?oc=5\" target=\"_blank\">Watch What Nvidia Gets Out of the Deal With Intel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+      "published": "2025-09-18T12:39:49+00:00",
+      "source": "CNN"
+    },
+    {
+      "title": "Nvidia, Wayve in Talks Over $500 Million Investment in Self-Driving Car Startup - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNUnczaDFrV2FKMTEzcEFZcEhhUGhQTU9rNktQb2ZJSkJ1a3lXQnRyMzdnVnotV1VmMlZBNUpCN1RDaVpIWkhXUnhMUmZzVkZaVXhCRnhzUmZLQURHWktPWklrLWJfR3N5bUxmcmVRY1VBZHpVamU3NDNPVk1OSjkyTkRWQkkwX0hHUTR4QkpBWXFERGRvOWdqZnczM2lhR0lVUDJHLXhzV2RsQW0weVA4czQ1SDRqa2V4X3VMN2owUVBYYjhuRmRMNk16Y0R6QXNkTFZKYTZTYW1QQzlpUk9aT2FSQ08yLUdobGczekwxVVJjY0JUMHVvdXFoZDNIenBuQVR0SGhpR0RlQkxBV0YzZEUxOUU3Y1BCekhGendxZDMwY09pUG1TQlQ2WW9JOHZ1blBLV2FXcWtIZ3J4c1RjcWFJRjBjVGt1a1NsQ3k3bWZJTlRuRGlhdHVGVzZZcmh5NVJZVERJYzBud0JXYmxJcFg2T1VkZmhWWlhIaTBjWU5mOXRtRk5scDRDNWdXa1NVS0RYVmYyRlN0QlJnSEpYSnh0M2RyaDh4dTUxMGpMN2xZVm5yZmpicGF3NDhUS01zVTlv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwNBVV95cUxNUnczaDFrV2FKMTEzcEFZcEhhUGhQTU9rNktQb2ZJSkJ1a3lXQnRyMzdnVnotV1VmMlZBNUpCN1RDaVpIWkhXUnhMUmZzVkZaVXhCRnhzUmZLQURHWktPWklrLWJfR3N5bUxmcmVRY1VBZHpVamU3NDNPVk1OSjkyTkRWQkkwX0hHUTR4QkpBWXFERGRvOWdqZnczM2lhR0lVUDJHLXhzV2RsQW0weVA4czQ1SDRqa2V4X3VMN2owUVBYYjhuRmRMNk16Y0R6QXNkTFZKYTZTYW1QQzlpUk9aT2FSQ08yLUdobGczekwxVVJjY0JUMHVvdXFoZDNIenBuQVR0SGhpR0RlQkxBV0YzZEUxOUU3Y1BCekhGendxZDMwY09pUG1TQlQ2WW9JOHZ1blBLV2FXcWtIZ3J4c1RjcWFJRjBjVGt1a1NsQ3k3bWZJTlRuRGlhdHVGVzZZcmh5NVJZVERJYzBud0JXYmxJcFg2T1VkZmhWWlhIaTBjWU5mOXRtRk5scDRDNWdXa1NVS0RYVmYyRlN0QlJnSEpYSnh0M2RyaDh4dTUxMGpMN2xZVm5yZmpicGF3NDhUS01zVTlv?oc=5\" target=\"_blank\">Nvidia, Wayve in Talks Over $500 Million Investment in Self-Driving Car Startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-09-19T11:39:00+00:00",
+      "source": "The Wall Street Journal"
+    },
+    {
+      "title": "Nvidia explores $500 million investment in UK self-driving startup Wayve - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT244OTVuVUx5a0lHWXM3akxUQW1UU2JkNVhIbFBHYkpuZzF5a2VJd18xZTFmbVJJNlhBV0ZrMi10SkpKUThtd1Bsalc2Q0F2WjU0WDEtWTI1RjJIcWtiYTZUcm1HMzlPNG5QWkVvaGhhZlEyOUZwQ0FFbTcySjdkUWJMZWppOVBaSkxyYjMwdVc2T3h0Q0ZsVmY0dEMzRW5QZ0hHUDlVM2VTSlRUajdLZVFOMExLTm1Rd0thRDV3WFY0TVNTR2NxaWlXNVE3ZlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOT244OTVuVUx5a0lHWXM3akxUQW1UU2JkNVhIbFBHYkpuZzF5a2VJd18xZTFmbVJJNlhBV0ZrMi10SkpKUThtd1Bsalc2Q0F2WjU0WDEtWTI1RjJIcWtiYTZUcm1HMzlPNG5QWkVvaGhhZlEyOUZwQ0FFbTcySjdkUWJMZWppOVBaSkxyYjMwdVc2T3h0Q0ZsVmY0dEMzRW5QZ0hHUDlVM2VTSlRUajdLZVFOMExLTm1Rd0thRDV3WFY0TVNTR2NxaWlXNVE3ZlE?oc=5\" target=\"_blank\">Nvidia explores $500 million investment in UK self-driving startup Wayve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-19T09:31:45+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nvidia in talks for $500mn investment in UK self-driving start-up Wayve - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83WFI5OW03ZjdRdGpNbTE1Y3U0ZXdtaGFIUEVPUTVqWnkwdEJYa3pjajMtckhxVmQ1OWQ5VTIwSHlhOUV5Tjh1aHJIV1NHQjNLRk9hWE42U2hYRE9MMUxYVTdJQjVUSU83eTgzUVdnWTY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE83WFI5OW03ZjdRdGpNbTE1Y3U0ZXdtaGFIUEVPUTVqWnkwdEJYa3pjajMtckhxVmQ1OWQ5VTIwSHlhOUV5Tjh1aHJIV1NHQjNLRk9hWE42U2hYRE9MMUxYVTdJQjVUSU83eTgzUVdnWTY?oc=5\" target=\"_blank\">Nvidia in talks for $500mn investment in UK self-driving start-up Wayve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2025-09-19T07:02:53+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "Samsung clears Nvidia hurdle for 12-layer HBM3E supply, setting stage for HBM4 battle - KED Global",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxY3gzQkdpNWpsN3lWU2dYMUZubENsY1ppZWowa3BWaGxuUElBZThYdUtieEU0MnBCWlpibG9reEQyb1dQeDFJSW51Q29aYWtsTTRsQlJXWi10T2EwNG9FdGU4LUNJUW55M0cwbzl6MnBhT3FWWFdz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAxY3gzQkdpNWpsN3lWU2dYMUZubENsY1ppZWowa3BWaGxuUElBZThYdUtieEU0MnBCWlpibG9reEQyb1dQeDFJSW51Q29aYWtsTTRsQlJXWi10T2EwNG9FdGU4LUNJUW55M0cwbzl6MnBhT3FWWFdz?oc=5\" target=\"_blank\">Samsung clears Nvidia hurdle for 12-layer HBM3E supply, setting stage for HBM4 battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+      "published": "2025-09-19T08:34:00+00:00",
+      "source": "KED Global"
     }
   ],
   "product_launches": [
+    {
+      "title": "NVIDIA’s $5 Billion Deal with Intel - Brownstone Research",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVTZxVGVKRjhBWXZ0Q0ttd2lPZnJWUzlHR25IaU8tVlpPem1WMjVZZEVoQThCcHprUU5RWmxMYUNmMXAxWUFxdnBVMHFQdGVubkRxQm41ZjR6bUd0TE1LWV9jaXZBd2x5SzVEbGJ4YTU2UzVqM0NOVE1oVEZ0bFVLdHZndUtyMEhJTHlZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVTZxVGVKRjhBWXZ0Q0ttd2lPZnJWUzlHR25IaU8tVlpPem1WMjVZZEVoQThCcHprUU5RWmxMYUNmMXAxWUFxdnBVMHFQdGVubkRxQm41ZjR6bUd0TE1LWV9jaXZBd2x5SzVEbGJ4YTU2UzVqM0NOVE1oVEZ0bFVLdHZndUtyMEhJTHlZ?oc=5\" target=\"_blank\">NVIDIA’s $5 Billion Deal with Intel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brownstone Research</font>",
+      "published": "2025-09-19T02:52:52+00:00",
+      "source": "Brownstone Research"
+    },
+    {
+      "title": "[News] Mega NVIDIA-Intel Deal: No Chipmaking Orders, Co-Developed Products Might Launch 2027–28 - TrendForce",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSkNOeVZQN1dUQl92d3hRWFBWTjZXNGJHay1paFhmNHZRZUgwSThDS3dGZEI1UVpNODdYanowTlNwRUZPZW42Y2F3MWV1THVER3prWWhQd0R5aGQ4ZENQVVpPWXQ0amptSjNaaW15a2pZSF9RcFp2VEpkdVpoazRoaEk5alpzQlg5TmZxQXZyd1dNT3FwMmFKM1lCRUNWMWg2UTE2MEV4VUZjZDFFTUl4RjVTS3BXZ2U2cHhuaExMaUowbUg4NmY4aFJTVXk4SlZpY2NuUVBGbWxKRi1tenc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSkNOeVZQN1dUQl92d3hRWFBWTjZXNGJHay1paFhmNHZRZUgwSThDS3dGZEI1UVpNODdYanowTlNwRUZPZW42Y2F3MWV1THVER3prWWhQd0R5aGQ4ZENQVVpPWXQ0amptSjNaaW15a2pZSF9RcFp2VEpkdVpoazRoaEk5alpzQlg5TmZxQXZyd1dNT3FwMmFKM1lCRUNWMWg2UTE2MEV4VUZjZDFFTUl4RjVTS3BXZ2U2cHhuaExMaUowbUg4NmY4aFJTVXk4SlZpY2NuUVBGbWxKRi1tenc?oc=5\" target=\"_blank\">[News] Mega NVIDIA-Intel Deal: No Chipmaking Orders, Co-Developed Products Might Launch 2027–28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TrendForce</font>",
+      "published": "2025-09-19T04:15:40+00:00",
+      "source": "TrendForce"
+    },
     {
       "title": "NVIDIA Partners with Nscale to Launch Largest AI Infrastructure Rollout in U.K. History with £11 Billion Investment - Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSXBIWHFCQ1l5c2M4T1JSTWxkSUxjSTQ5VnVYdW9WT09PcnJqUUlaNTBFdG1lNXFDeklZQVFOeVFTM3Y0U0FNQjIxMF9GenZLLTItLUlCNUVLQlotdDc1R28zUzhqOGJwU045OWRvNW14eW9rTlE1eGtFN2xzeGNzLVJHZDFvMV9QR2JDQXVfWHNBS3lJZERjVS1WSnVVYXE0MW9LeXAzVUJDZXBFeFp6Ry11eGZ6WXc4RnItV1BZR2gzekQyOG1wWEc1YkRHRW5jY2JRazZkaEZpRFNKVjZuMlc0bXFockla?oc=5",
@@ -77,39 +91,21 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjR6OHJYYjlhdjY4OWlqNTVBNEVEdnBTY1BoM3Ayc0s5M2x0WWduc1JEaG5vVjg5WVZzbkxOSnA4dTFHTWxDR1hUWW5IV2dhVWdoamp4ZDR3a2tWZzk1ZFJYOGc4Y1hRZ0tLd0UyMUNPOXdpWWZPX2VGOXNKN0Myd2FUa1A3T2MzLWgtTlJQNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjR6OHJYYjlhdjY4OWlqNTVBNEVEdnBTY1BoM3Ayc0s5M2x0WWduc1JEaG5vVjg5WVZzbkxOSnA4dTFHTWxDR1hUWW5IV2dhVWdoamp4ZDR3a2tWZzk1ZFJYOGc4Y1hRZ0tLd0UyMUNPOXdpWWZPX2VGOXNKN0Myd2FUa1A3T2MzLWgtTlJQNA?oc=5\" target=\"_blank\">Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-08-27T07:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5\" target=\"_blank\">Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-08-26T07:00:00+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Nvidia in talks with Trump administration about “new product to China”, says CEO - Cybernews",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTgyZFl2QXR3dWJNS1JKa2Nmd3V4V0lLWWZwTTdQYUEwYmotZlA4X0djTDRCdEg1SUpYQTVmQnRMWjV5cGticnR3VzMtTWxpR0hQWUNDWGVPbVNvQk1HYjZXRHJVa1JBOHd5NDcwZWRFSDdIUnVuZHFPSENfeEZLeXl4Ul91MkhiQk94RlNrbWN4VGY3Z1ZFbzVKN1QwRjd1UFIyRzVhM25tTmRf?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTgyZFl2QXR3dWJNS1JKa2Nmd3V4V0lLWWZwTTdQYUEwYmotZlA4X0djTDRCdEg1SUpYQTVmQnRMWjV5cGticnR3VzMtTWxpR0hQWUNDWGVPbVNvQk1HYjZXRHJVa1JBOHd5NDcwZWRFSDdIUnVuZHFPSENfeEZLeXl4Ul91MkhiQk94RlNrbWN4VGY3Z1ZFbzVKN1QwRjd1UFIyRzVhM25tTmRf?oc=5\" target=\"_blank\">Nvidia in talks with Trump administration about “new product to China”, says CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
-      "published": "2025-08-24T07:00:00+00:00",
-      "source": "Cybernews"
+      "title": "Nvidia's $5B Shock Deal With Intel Sends Wall Street Reeling - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDVwdGtYQnNoYVh5U3d3c1BPN2dHWWY0TW9tOVhMekxPbHFkamlVUmVoWGRVVDM1dFdoeV8taXlQeVpVMWRacE1XRlRLeFplcFVKMnBRQkxWS21STjZReG11YnVoUTB2OWFHYnZwZng0cEM1RmZmVllXVWt1anktRzdrLV9teFBES2JDT0E3cHd4VzhDMktKNTl4Y1VxYlE4YjRUQjNwNXVXTTFuTFRKOTR0U29pVmhaNlcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDVwdGtYQnNoYVh5U3d3c1BPN2dHWWY0TW9tOVhMekxPbHFkamlVUmVoWGRVVDM1dFdoeV8taXlQeVpVMWRacE1XRlRLeFplcFVKMnBRQkxWS21STjZReG11YnVoUTB2OWFHYnZwZng0cEM1RmZmVllXVWt1anktRzdrLV9teFBES2JDT0E3cHd4VzhDMktKNTl4Y1VxYlE4YjRUQjNwNXVXTTFuTFRKOTR0U29pVmhaNlcw?oc=5\" target=\"_blank\">Nvidia's $5B Shock Deal With Intel Sends Wall Street Reeling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2025-09-18T16:24:27+00:00",
+      "source": "TradingView"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-17",
-      "close": 170.2899932861328
+      "date": "2025-09-18",
+      "close": 176.24000549316406
     },
     "history": [
-      {
-        "date": "2025-09-09",
-        "close": 170.7503662109375
-      },
       {
         "date": "2025-09-10",
         "close": 177.32000732421875
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-17",
         "close": 170.2899932861328
+      },
+      {
+        "date": "2025-09-18",
+        "close": 176.24000549316406
       }
     ],
     "name": "NVIDIA Corporation"
