@@ -2,15 +2,8 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2025-09-22T12:22:43.035555+00:00",
+  "fetched_at": "2025-09-23T12:22:11.871335+00:00",
   "news": [
-    {
-      "title": "Meta Connect 2025 Roundup: Everything Announced, And What We Tested - UploadVR",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtbkRlUFkxTHU0R0tWRkNaQWw3UGR4Y1h1S25UZjNFTHpHaldKT2M0dTZtelRYTE5nbnZ3RHl3LUFWakh4VUZvcU1JN2l4MWhZV2I3ZGFVd3FOUi1FZzF5UQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtbkRlUFkxTHU0R0tWRkNaQWw3UGR4Y1h1S25UZjNFTHpHaldKT2M0dTZtelRYTE5nbnZ3RHl3LUFWakh4VUZvcU1JN2l4MWhZV2I3ZGFVd3FOUi1FZzF5UQ?oc=5\" target=\"_blank\">Meta Connect 2025 Roundup: Everything Announced, And What We Tested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOdklqMm5GZ1kwNXhOQktrSUZFWU9LbDdiVVdxZW5ObDhRWVJVWkJRWUYzZy1kRlFrYzcwa3ZWVmxDMkNTSG9fNWVWQko4Sm9jb1RwaUJlUXZ4YmFoYmNERXNSS0xfdlFZajNGSWlDWDFXR1ZlcHVtMmxFUVZNMVJ0VEg1eDdaYUXSAYwBQVVfeXFMTVhUOUVRbG01cUMzRHVwaWV2NUZoYkZGTTRVOGotTlBFblFtc3BCVkFqSHFYaDFUbGFsNkhBcXRfMUp0ZVltRjJKZnJfZXRmLTEzUmRZUUNJb0lXQUlCWVlFUkhrQWctYjcwZHdaRC1HbVpuckkwODVTNUFoMnhyd3FrY1ZMbGEwR1VxMEQ?oc=5\" target=\"_blank\">Mark Zuckerberg unveils $799 Meta Ray-Ban Display glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbThlbmp2ZWlLYWU1VkdmMUsyVTQxdHlEM2F6VWwwcWpzb3hUdU5YaVdNN0dtNzlNaDhHbG1QVFMzeE5EUjQ5ZDlUNVBrM21LeWhmdmFOZFJNM1hOYXA3MGxDN3NXU1IzSk1QcTQyOU1qV3RCUllvQWsySnA1TXBqX2xFT21QTWQxMHU2QWhLTFR6WFE0SWR5X0QtMmlxd0k?oc=5\" target=\"_blank\">Seeing Through the Reality of Meta’s Smart Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
-      "published": "2025-09-21T18:59:53+00:00",
-      "source": "UploadVR"
-    },
     {
       "title": "Louisiana Hands Meta a Tax Break and Power for Its Biggest Data Center - WIRED",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXREOGNVaENnM3h6OTZKVjVVb0tkY3laWVZIbkxjUTdlQnA0YjQyREhvUXZlRUhYYjlQRDUyVEtrVUpKSmQ3YVFfb0ZTRUFCdk1tdHRESUU2NmZNQUdEMWNmNWUyYTEwYk5WeENYXzEtcW9OQlNpMVFPaHJCMDhIaXR4WnhIbWhab2dsSFNtN091Q0ZxYzdpbzZhZXRxdTlr?oc=5",
@@ -19,46 +12,53 @@
       "source": "WIRED"
     },
     {
+      "title": "Mark Zuckerberg unveils $799 Meta Ray-Ban Display glasses - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdklqMm5GZ1kwNXhOQktrSUZFWU9LbDdiVVdxZW5ObDhRWVJVWkJRWUYzZy1kRlFrYzcwa3ZWVmxDMkNTSG9fNWVWQko4Sm9jb1RwaUJlUXZ4YmFoYmNERXNSS0xfdlFZajNGSWlDWDFXR1ZlcHVtMmxFUVZNMVJ0VEg1eDdaYUXSAYwBQVVfeXFMTVhUOUVRbG01cUMzRHVwaWV2NUZoYkZGTTRVOGotTlBFblFtc3BCVkFqSHFYaDFUbGFsNkhBcXRfMUp0ZVltRjJKZnJfZXRmLTEzUmRZUUNJb0lXQUlCWVlFUkhrQWctYjcwZHdaRC1HbVpuckkwODVTNUFoMnhyd3FrY1ZMbGEwR1VxMEQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOdklqMm5GZ1kwNXhOQktrSUZFWU9LbDdiVVdxZW5ObDhRWVJVWkJRWUYzZy1kRlFrYzcwa3ZWVmxDMkNTSG9fNWVWQko4Sm9jb1RwaUJlUXZ4YmFoYmNERXNSS0xfdlFZajNGSWlDWDFXR1ZlcHVtMmxFUVZNMVJ0VEg1eDdaYUXSAYwBQVVfeXFMTVhUOUVRbG01cUMzRHVwaWV2NUZoYkZGTTRVOGotTlBFblFtc3BCVkFqSHFYaDFUbGFsNkhBcXRfMUp0ZVltRjJKZnJfZXRmLTEzUmRZUUNJb0lXQUlCWVlFUkhrQWctYjcwZHdaRC1HbVpuckkwODVTNUFoMnhyd3FrY1ZMbGEwR1VxMEQ?oc=5\" target=\"_blank\">Mark Zuckerberg unveils $799 Meta Ray-Ban Display glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2cyQ19Jbjc3SUhxelBLRlNacDdhQjJVNHczVkQxdzJ4cUUwOU8wUTczQWoxODU2TkdWeThBRE9uNzBQLVhSMXkzSnBwZTlXZDNOY1Y5QV9HSDRMN1phY21TeU10Z2hybzF4WExqMHVMUTR3bHFpUmxBYm1iZmotajFvdGlLVXPSAYwBQVVfeXFMTUtpLU82MDk5bk5yWENMV3RwZi16M2p3MnhBODRoZzU0WVktTkdXdmNpRXFhRzh0RW5FR09mb3NKRThwVElWRDF0eC11eEwyekVYeWZaOHVxMEhqOEdLbXdETVlXTWJZZTMwYzRzY2g0ZnJHNC1yTnNSSVVrM1lqSVZDNjgzblUzTmUwYjI?oc=5\" target=\"_blank\">Meta Ray-Ban Display: AI Glasses With an EMG Wristband</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3Rnc1FSY1k2T3VQenBGdHF6NTBHU09rRTg2VVpvVUNXZ3hydzNGOFBGZEJ3M0tkcWhITU1sWDJWVjRxcmtpTUFJdEtZNHVVTENrb3Z4cFhKbnZmY1c0VFdOMUIyOG96VHBhTU80WlU3VWJSV3ViWDF0clJDc2hIbm1fNzdUZ2xhMTk3SHd2bEhSSmVSb2c?oc=5\" target=\"_blank\">Meta Connect 2025: the 6 biggest announcements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li></ol>",
+      "published": "2025-09-18T00:28:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple, Meta power 27% of Q2 S&P 500 buybacks despite 20% drop (SPY:NYSEARCA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHI5d05hX2IzQy1fblF4akhldndJMDUtV1VkTTlTVTlBS3RQX0dueHVqVnczbkdRa3JLMXAxb3R2R1dCTHE5VTdScFZNa2RHWU9FeUFBdHBoYlo3QjQzRVZZMG5qZjJ1N29CZTdDYmNiVEtscjBvVGVqWlhJbHlPdVplUzBlVHJkNnVKWjRRRDVlMUdHUzM2TkxMMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHI5d05hX2IzQy1fblF4akhldndJMDUtV1VkTTlTVTlBS3RQX0dueHVqVnczbkdRa3JLMXAxb3R2R1dCTHE5VTdScFZNa2RHWU9FeUFBdHBoYlo3QjQzRVZZMG5qZjJ1N29CZTdDYmNiVEtscjBvVGVqWlhJbHlPdVplUzBlVHJkNnVKWjRRRDVlMUdHUzM2TkxMMA?oc=5\" target=\"_blank\">Apple, Meta power 27% of Q2 S&amp;P 500 buybacks despite 20% drop (SPY:NYSEARCA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2025-09-23T10:08:09+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Accelerating AI Adoption Across the Federal Government - Meta Store",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDBnbXdfZGVia3NlYTUwMXpvTDlVcWZxUmVqbWtWaDBjeUQweV9EYUc5blZINmhGLUNjbHdsTC1fbGJnOFFueDZjVFV1eWlkM1lSbklTT2JxekZfbVhQUVJfcWUxcE1XZDhMQTRBeHgxc0s1dGRaOThTREdpMjRpaFlwd2RVWHExZWJDTTZB0gGTAUFVX3lxTE5oemQyWDNza3V5aVViTmVvYmo0TkRFcGJ0bzFSOE1hTUZjUnpIbHRVd29rUVdEVjJCUDBlQW0ySnZXUU50SW1sUVFoN01aT0ZBQzFQZDVKa1Rpd3VVX1VTa2lNaE1uT19tQWlxV0doOTJnR0tqLVpJcWVndVdyazdBeVZNN0xvZnVzSmh6aGNmSWp2Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDBnbXdfZGVia3NlYTUwMXpvTDlVcWZxUmVqbWtWaDBjeUQweV9EYUc5blZINmhGLUNjbHdsTC1fbGJnOFFueDZjVFV1eWlkM1lSbklTT2JxekZfbVhQUVJfcWUxcE1XZDhMQTRBeHgxc0s1dGRaOThTREdpMjRpaFlwd2RVWHExZWJDTTZB0gGTAUFVX3lxTE5oemQyWDNza3V5aVViTmVvYmo0TkRFcGJ0bzFSOE1hTUZjUnpIbHRVd29rUVdEVjJCUDBlQW0ySnZXUU50SW1sUVFoN01aT0ZBQzFQZDVKa1Rpd3VVX1VTa2lNaE1uT19tQWlxV0doOTJnR0tqLVpJcWVndVdyazdBeVZNN0xvZnVzSmh6aGNmSWp2Yw?oc=5\" target=\"_blank\">Accelerating AI Adoption Across the Federal Government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
+      "published": "2025-09-22T10:00:41+00:00",
+      "source": "Meta Store"
+    },
+    {
       "title": "Meta's AI system Llama approved for use by US government agencies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGFKU01PWXlNQXFEY2hGc2VEWjE5S2FFaWNIZk1nT1lhaU5aU2Jmc3lCNkd1azlUMXA3SUVyaXlHRjNTNkVla2ZHbnhLMm0tY29paGwyMkZMMDdTVVdJSUtrLW56ZHdrZllZMDFIOG1fcDZ0ZjBSWHhoUXM2ZF9HazB3MGRqLUpQNzVMV0hYN1l6MzJPQ3k1anZBRHVqakIxVjBYR09xeTU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGFKU01PWXlNQXFEY2hGc2VEWjE5S2FFaWNIZk1nT1lhaU5aU2Jmc3lCNkd1azlUMXA3SUVyaXlHRjNTNkVla2ZHbnhLMm0tY29paGwyMkZMMDdTVVdJSUtrLW56ZHdrZllZMDFIOG1fcDZ0ZjBSWHhoUXM2ZF9HazB3MGRqLUpQNzVMV0hYN1l6MzJPQ3k1anZBRHVqakIxVjBYR09xeTU?oc=5\" target=\"_blank\">Meta's AI system Llama approved for use by US government agencies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-09-22T10:04:55+00:00",
+      "published": "2025-09-22T14:41:16+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Meta exposé author faces bankruptcy after ban on criticising company - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUmM3b0Rrc0tFME1lYm5YZDUtRXNuejRqc2ctdThmZEtSazVLc3VmTEdyQzJzWGVNYmV2QzYwS0dvVURYVnpycmh4UlAzM2VpQWFJM2FpZm43Yng4dEp5aEJjTDd4VnBaZFRtUjZMUko5UV9laHp1TTZuNmZZNUhXWlA4N0RsQlUwdnJRekZtT24yMmhLdHRIYUx2SklmWGJWM2RaNVFvbWgza3JxM0UxOVpmVWhiM25QYURWTG1VU1dXRTJYZ0tzd3V2UVVnS3BHb055cmln?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUmM3b0Rrc0tFME1lYm5YZDUtRXNuejRqc2ctdThmZEtSazVLc3VmTEdyQzJzWGVNYmV2QzYwS0dvVURYVnpycmh4UlAzM2VpQWFJM2FpZm43Yng4dEp5aEJjTDd4VnBaZFRtUjZMUko5UV9laHp1TTZuNmZZNUhXWlA4N0RsQlUwdnJRekZtT24yMmhLdHRIYUx2SklmWGJWM2RaNVFvbWgza3JxM0UxOVpmVWhiM25QYURWTG1VU1dXRTJYZ0tzd3V2UVVnS3BHb055cmln?oc=5\" target=\"_blank\">Meta exposé author faces bankruptcy after ban on criticising company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2025-09-22T01:30:00+00:00",
-      "source": "The Guardian"
+      "title": "Trump administration allowing government agencies to use Meta AI system - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTlBVUtCU1RZTUNoZTZndWItOENFcmpSaDVRd3ZaOE9sUnZXSEFwM0l5cy1xMGdqRE9DTS1laXc3VUM2SU9GeXhpLTJ1dVIweUE3cGxoM0l2MWl2ODcwbk1GUVZzMjdYMWN6UDZmOVBFZjNGbUljb3dzNXhXdkwyVVBDVWl0WjRPeV8zdmUxdDU2VlnSAZgBQVVfeXFMUHpoWlA1bWNncFIyNVpUc2JTdWRhNmVPcnNxaE50a0o4dWtYSjFsdGJIaF80aGZfLWVSVmdBQm96RFU4ZGF6RHV4QlFFM1ZNSll5RzI3SkVWc3luQkZpcWdpSXl1RnpSUnhpUDhfdjh5dDl1clItY1RqaFg0UHplRGJ5TUxRRnVBTVdGSVBTNnhvVUlBZ25lSWI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTlBVUtCU1RZTUNoZTZndWItOENFcmpSaDVRd3ZaOE9sUnZXSEFwM0l5cy1xMGdqRE9DTS1laXc3VUM2SU9GeXhpLTJ1dVIweUE3cGxoM0l2MWl2ODcwbk1GUVZzMjdYMWN6UDZmOVBFZjNGbUljb3dzNXhXdkwyVVBDVWl0WjRPeV8zdmUxdDU2VlnSAZgBQVVfeXFMUHpoWlA1bWNncFIyNVpUc2JTdWRhNmVPcnNxaE50a0o4dWtYSjFsdGJIaF80aGZfLWVSVmdBQm96RFU4ZGF6RHV4QlFFM1ZNSll5RzI3SkVWc3luQkZpcWdpSXl1RnpSUnhpUDhfdjh5dDl1clItY1RqaFg0UHplRGJ5TUxRRnVBTVdGSVBTNnhvVUlBZ25lSWI?oc=5\" target=\"_blank\">Trump administration allowing government agencies to use Meta AI system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+      "published": "2025-09-22T14:03:00+00:00",
+      "source": "The Hill"
     },
     {
-      "title": "Apple’s iPhone 17 Shows Device’s Staying Power — At Least for Now - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSi1aUWFlVzZNQXB2SGZnRXdhZXBXT0VjMmhodXI4TkdJMDg5NmlTalNRMGIzVUhtbGoyQ2diLTVhLVhCYk10cnBxUmNMcS1VemhCWmZYbHNzWlhfT242MFl4ci1mYWlzZWFsbFdpYzlFWDVNM21sUEFwaFcyYmtVc0VBcndKaFo1YUVlR0VPNzBTd245UWt5a1loaGlNTVlPUDVpa191TnhSZEp2TmVwNDJsb3hfdEs5VVptMkEzRnJ5X0NQNXVkdzBQTzU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSi1aUWFlVzZNQXB2SGZnRXdhZXBXT0VjMmhodXI4TkdJMDg5NmlTalNRMGIzVUhtbGoyQ2diLTVhLVhCYk10cnBxUmNMcS1VemhCWmZYbHNzWlhfT242MFl4ci1mYWlzZWFsbFdpYzlFWDVNM21sUEFwaFcyYmtVc0VBcndKaFo1YUVlR0VPNzBTd245UWt5a1loaGlNTVlPUDVpa191TnhSZEp2TmVwNDJsb3hfdEs5VVptMkEzRnJ5X0NQNXVkdzBQTzU?oc=5\" target=\"_blank\">Apple’s iPhone 17 Shows Device’s Staying Power — At Least for Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-21T12:00:27+00:00",
-      "source": "Bloomberg.com"
+      "title": "Your Meta Quest headset just got a useful upgrade for free - including a big one for 3D - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkl6Z3ZzMHhiNC1zdnBES2dPUGR1UnZNZDVGRWdvdVhGYjUyOTVwaG5CWDAtTllSWmtUcE9zU21aMGpuRl9lN2NJM2hCRUk3cFJCWXFfVkpwYTlQV0p2WmszWlR6RDd0UTRvWnJGdDdkeXgycFYxa2Q1ekF2T2dTLWdPRzY4eEtfNUd3UlZicW1BYVdsRHBOd3NnNjc1VmRvUXZqQTRNamYyMENSVkZZVFl4akM1MkU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkl6Z3ZzMHhiNC1zdnBES2dPUGR1UnZNZDVGRWdvdVhGYjUyOTVwaG5CWDAtTllSWmtUcE9zU21aMGpuRl9lN2NJM2hCRUk3cFJCWXFfVkpwYTlQV0p2WmszWlR6RDd0UTRvWnJGdDdkeXgycFYxa2Q1ekF2T2dTLWdPRzY4eEtfNUd3UlZicW1BYVdsRHBOd3NnNjc1VmRvUXZqQTRNamYyMENSVkZZVFl4akM1MkU?oc=5\" target=\"_blank\">Your Meta Quest headset just got a useful upgrade for free - including a big one for 3D</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2025-09-22T18:55:00+00:00",
+      "source": "ZDNET"
     },
     {
-      "title": "Palantir and Meta Platforms Just Signaled a $17 Billion Warning for Wall Street -- Is It Time to Worry? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVJuaThDeENBVTB4d3BGb1V5eTNVQ2QxSlFJSDlZb0dMVnRfZ0x5VUUxTkxpNzZxSHNNX2ZvOEk5TUJqTlpFYXRfYUd4a3RTWFZvQlBZVDFLYldKcUhBQVVRYi10eVVHbmVfWGlWLWdpUV9qVE9yNHl2S0wwT3Rvb0ZzT0xRN2JLV1RkSFN4ZzczQnI0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVJuaThDeENBVTB4d3BGb1V5eTNVQ2QxSlFJSDlZb0dMVnRfZ0x5VUUxTkxpNzZxSHNNX2ZvOEk5TUJqTlpFYXRfYUd4a3RTWFZvQlBZVDFLYldKcUhBQVVRYi10eVVHbmVfWGlWLWdpUV9qVE9yNHl2S0wwT3Rvb0ZzT0xRN2JLV1RkSFN4ZzczQnI0?oc=5\" target=\"_blank\">Palantir and Meta Platforms Just Signaled a $17 Billion Warning for Wall Street -- Is It Time to Worry?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2025-09-22T07:51:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "'Return To US Within 24 Hours, Don't Leave': Meta, Microsoft To H-1B Visa Holders - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1N2WEt1bjRZQmNkcU1kZmVSaURITEwtSmZVSTZFeF9zWkRpNzA0XzJZdWNrOFpMeUU0alVkeGMwZWE0UTluV1lNV1BqUjdpcTgyTkY3NEV0T3E1MkZPTUFiSEViT1dfNll3ZlZqU2VSb0tSeXV2QjFDbGhZU05nVTVEblhoOUdIUEFjdEV5YjRqUkdEeTREbVEtR29XZ2duTkE4Z05NZjFhVXRUV2xRYlhfak8zbjlzODk4OHFuVUdYNmVuQmFR0gHPAUFVX3lxTE5UTEFHVW1WdkxGMkNMX3lnVFRRS2tNUzZmeEIweFN0MzdjcGYyQ295NGVpc3pxUWZvVS1keHJVY0c5aHFLdmI4UXNMWXBuNy1PWmNOdlozWktTSThkUXFBaWhkVUlsX1pIMzZCYXltXzVSc29USm9RNGZlbWYtcmFBTmVINEUwdTZCemNBWVJXSDBFSzZFVDV6TmlONU50UnZpQnlhRmkwci0wUVc4Wms3bDZ5OEtqME5BQTV3R1BUdnN1ZXBOZHBNQjBFeHdqVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1N2WEt1bjRZQmNkcU1kZmVSaURITEwtSmZVSTZFeF9zWkRpNzA0XzJZdWNrOFpMeUU0alVkeGMwZWE0UTluV1lNV1BqUjdpcTgyTkY3NEV0T3E1MkZPTUFiSEViT1dfNll3ZlZqU2VSb0tSeXV2QjFDbGhZU05nVTVEblhoOUdIUEFjdEV5YjRqUkdEeTREbVEtR29XZ2duTkE4Z05NZjFhVXRUV2xRYlhfak8zbjlzODk4OHFuVUdYNmVuQmFR0gHPAUFVX3lxTE5UTEFHVW1WdkxGMkNMX3lnVFRRS2tNUzZmeEIweFN0MzdjcGYyQ295NGVpc3pxUWZvVS1keHJVY0c5aHFLdmI4UXNMWXBuNy1PWmNOdlozWktTSThkUXFBaWhkVUlsX1pIMzZCYXltXzVSc29USm9RNGZlbWYtcmFBTmVINEUwdTZCemNBWVJXSDBFSzZFVDV6TmlONU50UnZpQnlhRmkwci0wUVc4Wms3bDZ5OEtqME5BQTV3R1BUdnN1ZXBOZHBNQjBFeHdqVQ?oc=5\" target=\"_blank\">'Return To US Within 24 Hours, Don't Leave': Meta, Microsoft To H-1B Visa Holders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-      "published": "2025-09-20T05:42:00+00:00",
+      "title": "Ex-Meta Employee Reveals 88% Of Team Held H-1B Visas, Urges Americans To Claim Top Tech Jobs - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0tLbnd4R0Rhd0lzWlJsbEdxQjdDWlpFUE04ak0zUWNlT0JZY3BQdzc1LWRoc0VsVEZGd3dCMGhUVE9rZlA5MFQ5WjJHWEhIVmFPblE1cDVTNjZvWS1rRU9BeG5JTU8tVHVtSkl0aDl5eDhZWTl6Mnk2djNMSTR0Z0hHSmZMYTlxTXBydmNKTDhYSWFrNjBtVUJQek1iSzNJd3dBZ3lyVWVhS1FibnlIcmFwemFVZF9SamNscHBCcUtDd3B5NFHSAc4BQVVfeXFMT01WdXFIcFdpVXhLZGEtU05HQkNLMjFZVjhBaENFXzlQWE9LV2JXdTVlUnFCdGxEOEpzbU9mcnkya0hjaDk5RG9KQ2gySHFhUTFMaHJ2T216dnZQV2ZkWlNiWEFNdnZTTVZiMXZnRDYwQVczRWJNSTNLLWhmQjNEWUlvZ1pGTl9vbTBlbUFZRjJ4cFdJQ3RHREV5REZNSVkyQTM0VVJneWRDUFNEMDlSaHdaRXhRZ1VtT2xZZzVTdE1nUU1qUFJQU0JxY3diRnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0tLbnd4R0Rhd0lzWlJsbEdxQjdDWlpFUE04ak0zUWNlT0JZY3BQdzc1LWRoc0VsVEZGd3dCMGhUVE9rZlA5MFQ5WjJHWEhIVmFPblE1cDVTNjZvWS1rRU9BeG5JTU8tVHVtSkl0aDl5eDhZWTl6Mnk2djNMSTR0Z0hHSmZMYTlxTXBydmNKTDhYSWFrNjBtVUJQek1iSzNJd3dBZ3lyVWVhS1FibnlIcmFwemFVZF9SamNscHBCcUtDd3B5NFHSAc4BQVVfeXFMT01WdXFIcFdpVXhLZGEtU05HQkNLMjFZVjhBaENFXzlQWE9LV2JXdTVlUnFCdGxEOEpzbU9mcnkya0hjaDk5RG9KQ2gySHFhUTFMaHJ2T216dnZQV2ZkWlNiWEFNdnZTTVZiMXZnRDYwQVczRWJNSTNLLWhmQjNEWUlvZ1pGTl9vbTBlbUFZRjJ4cFdJQ3RHREV5REZNSVkyQTM0VVJneWRDUFNEMDlSaHdaRXhRZ1VtT2xZZzVTdE1nUU1qUFJQU0JxY3diRnc?oc=5\" target=\"_blank\">Ex-Meta Employee Reveals 88% Of Team Held H-1B Visas, Urges Americans To Claim Top Tech Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+      "published": "2025-09-23T02:15:42+00:00",
       "source": "NDTV"
-    },
-    {
-      "title": "Judge tells Meta not to share Instagram users’ information with Trump admin - Politico",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzk1aXlXVVF3N203MDNqOU1zaTJ5UTZWYThFdDEtWC1Scm8tWXpkQTB5SnR1U2FPbWF0aThmd1Q0eUo0WlVSM3ZHYVhuWTNSR2wyRDdja0t5N1Q2OVJGaUFfTjFSblhQRWlPMXBoZ0czb0s0eEZEQjNUV1dVQ0wwV3MyQmVWQjFoc0pkeXhob3ZnVlR0WlZ2YU9uVlJLY3loY3NUMGsyUGF6bEN2VVRfbV9DWTF2OG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzk1aXlXVVF3N203MDNqOU1zaTJ5UTZWYThFdDEtWC1Scm8tWXpkQTB5SnR1U2FPbWF0aThmd1Q0eUo0WlVSM3ZHYVhuWTNSR2wyRDdja0t5N1Q2OVJGaUFfTjFSblhQRWlPMXBoZ0czb0s0eEZEQjNUV1dVQ0wwV3MyQmVWQjFoc0pkeXhob3ZnVlR0WlZ2YU9uVlJLY3loY3NUMGsyUGF6bEN2VVRfbV9DWTF2OG8?oc=5\" target=\"_blank\">Judge tells Meta not to share Instagram users’ information with Trump admin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
-      "published": "2025-09-19T22:19:09+00:00",
-      "source": "Politico"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "Reuters"
     },
     {
-      "title": "Meta Platforms (META) Receives Buy Rating Amid AI Glasses Launch - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXV1cFRvTnV5SWFPUUNTSWFpTWtnQ3pKbWVoTS1HZzJvWUR4NFNBblVaOWpZakhZY1gwYWJ6bVBRb2wtMEZhWFdSQzY5ekRJYTZOS21LNlY5TTFhNnBETllVaGRqd0d1VnlGQ0ZHVUZVakw3cjhLZ3JwVkdCUzNtY3F1aFZENVQ4MWpNUDl4MnMxRTVkT1h2TVhrWHpfWHBiZVVj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXV1cFRvTnV5SWFPUUNTSWFpTWtnQ3pKbWVoTS1HZzJvWUR4NFNBblVaOWpZakhZY1gwYWJ6bVBRb2wtMEZhWFdSQzY5ekRJYTZOS21LNlY5TTFhNnBETllVaGRqd0d1VnlGQ0ZHVUZVakw3cjhLZ3JwVkdCUzNtY3F1aFZENVQ4MWpNUDl4MnMxRTVkT1h2TVhrWHpfWHBiZVVj?oc=5\" target=\"_blank\">Meta Platforms (META) Receives Buy Rating Amid AI Glasses Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-      "published": "2025-09-22T07:01:04+00:00",
-      "source": "GuruFocus"
+      "title": "Meta Is Debuting New Smart Glasses Today. Here’s How to Watch - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuZFNFU0NiWHNOSWlvMkZsYV93ZDIwWHZBbjJ4N0tNVDRXR1pENTBvdWtjNFhrTURSVkx5eXZ6MHgyOEFDNlJlUVV6NVJvUmNxdHZSbk5fdVhlRFJ5UGM4cGtEbjgzRF9NbzE4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBuZFNFU0NiWHNOSWlvMkZsYV93ZDIwWHZBbjJ4N0tNVDRXR1pENTBvdWtjNFhrTURSVkx5eXZ6MHgyOEFDNlJlUVV6NVJvUmNxdHZSbk5fdVhlRFJ5UGM4cGtEbjgzRF9NbzE4?oc=5\" target=\"_blank\">Meta Is Debuting New Smart Glasses Today. Here’s How to Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2025-09-17T10:30:00+00:00",
+      "source": "WIRED"
     },
     {
-      "title": "Meta Launches $799 Glasses With Screen and AI Integration - Bloomberg.com",
+      "title": "Meta Launches $799 Glasses With Screen and AI Integration - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnMtMk4wc0JBYU5SSGdYMmwzUy1qXzU5dGVUSXF6RE1xVElHTlA4Z1lHb2k1eF8zTUtYdVlsdm8wYzBwdUNXNmR6eGlmN1c3YUxzeXJ3ZGJqWXhDbUh4M0FGbVVMTEg0eGRoX01PYUx3TFhXcmRYblprUGRYR0l4bWhON3RlYUR6WDk2NjJ5TW1tOWoyVm85a0lWSUt4Zk9ETmNQZFN4V2llcWFXQUVKZVBsNjU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnMtMk4wc0JBYU5SSGdYMmwzUy1qXzU5dGVUSXF6RE1xVElHTlA4Z1lHb2k1eF8zTUtYdVlsdm8wYzBwdUNXNmR6eGlmN1c3YUxzeXJ3ZGJqWXhDbUh4M0FGbVVMTEg0eGRoX01PYUx3TFhXcmRYblprUGRYR0l4bWhON3RlYUR6WDk2NjJ5TW1tOWoyVm85a0lWSUt4Zk9ETmNQZFN4V2llcWFXQUVKZVBsNjU?oc=5\" target=\"_blank\">Meta Launches $799 Glasses With Screen and AI Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnMtMk4wc0JBYU5SSGdYMmwzUy1qXzU5dGVUSXF6RE1xVElHTlA4Z1lHb2k1eF8zTUtYdVlsdm8wYzBwdUNXNmR6eGlmN1c3YUxzeXJ3ZGJqWXhDbUh4M0FGbVVMTEg0eGRoX01PYUx3TFhXcmRYblprUGRYR0l4bWhON3RlYUR6WDk2NjJ5TW1tOWoyVm85a0lWSUt4Zk9ETmNQZFN4V2llcWFXQUVKZVBsNjU?oc=5\" target=\"_blank\">Meta Launches $799 Glasses With Screen and AI Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "published": "2025-09-18T01:08:00+00:00",
-      "source": "Bloomberg.com"
+      "source": "Bloomberg"
     },
     {
       "title": "Best Buy and Meta team up to launch immersive in-store experience – book your Meta Ray-Ban Display demo now - Best Buy",
@@ -102,37 +102,37 @@
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-19",
-      "close": 778.3800048828125
+      "date": "2025-09-22",
+      "close": 765.1599731445312
     },
     "history": [
       {
-        "date": "2025-09-11",
-        "close": 750.9000244140625
-      },
-      {
         "date": "2025-09-12",
-        "close": 755.5900268554688
+        "close": 755.0803833007812
       },
       {
         "date": "2025-09-15",
-        "close": 764.7000122070312
+        "close": 764.1842041015625
       },
       {
         "date": "2025-09-16",
-        "close": 779.0
+        "close": 778.4745483398438
       },
       {
         "date": "2025-09-17",
-        "close": 775.719970703125
+        "close": 775.19677734375
       },
       {
         "date": "2025-09-18",
-        "close": 780.25
+        "close": 779.7237548828125
       },
       {
         "date": "2025-09-19",
-        "close": 778.3800048828125
+        "close": 777.85498046875
+      },
+      {
+        "date": "2025-09-22",
+        "close": 765.1599731445312
       }
     ],
     "name": "Meta Platforms, Inc."
