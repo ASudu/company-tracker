@@ -2,66 +2,73 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-09-24T12:22:28.493317+00:00",
+  "fetched_at": "2025-09-25T12:23:11.714574+00:00",
   "news": [
+    {
+      "title": "Microsoft adds Anthropic AI model to Copilot assistant, diversifying from OpenAI - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXVPSVNJXzZtRmRrLUlNanV5N1ktQ21VY005dlN0TkpvalhYdU5LWWt4Vm5nSW5tcElCQkp5dDREOVR1UGhPVWZmdVFGMHF3cUF1ZWNHSWxXM3QxbDRFN010M2g3U1lOR3AwRVJCUTJjNmRqRS1pMjY2VlQ4VzRHajJ6Y1NUUGZlYVY1cFM1cFJkX3BHcm000gGcAUFVX3lxTE1MSnZPa3VId0k2NmVpWDF3Rk1INERvZ1JqMmJQcGVmZ2ZuRGU3RFpuN1dJdExEenV6Y2RLZGpJbl9LdHROSFIwc3lrZUZZckRRVk1RVkFGeW54RDRMM2RnX0ZoNzZRc1pETWNwSFV5V0hicUxpalN2b2RDSHY1eTVKVWZ4dWw4RTRzc1B3WWwyMDVzaEYwbnVIanZoYg?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXVPSVNJXzZtRmRrLUlNanV5N1ktQ21VY005dlN0TkpvalhYdU5LWWt4Vm5nSW5tcElCQkp5dDREOVR1UGhPVWZmdVFGMHF3cUF1ZWNHSWxXM3QxbDRFN010M2g3U1lOR3AwRVJCUTJjNmRqRS1pMjY2VlQ4VzRHajJ6Y1NUUGZlYVY1cFM1cFJkX3BHcm000gGcAUFVX3lxTE1MSnZPa3VId0k2NmVpWDF3Rk1INERvZ1JqMmJQcGVmZ2ZuRGU3RFpuN1dJdExEenV6Y2RLZGpJbl9LdHROSFIwc3lrZUZZckRRVk1RVkFGeW54RDRMM2RnX0ZoNzZRc1pETWNwSFV5V0hicUxpalN2b2RDSHY1eTVKVWZ4dWw4RTRzc1B3WWwyMDVzaEYwbnVIanZoYg?oc=5\" target=\"_blank\">Microsoft adds Anthropic AI model to Copilot assistant, diversifying from OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW15cTEzUklKNkNkenJZRFVhQVBpRnJSRmJGdXFaYUhzOUM2VVN0Zm5hYmMtOVltTG5DUk5ZLUhqOW5qTDYxNVQ4dFJFOFJHTlBrbThJRjROQ0dCOWRZYUdqQmtvdUdBNWtJUUJPQS1rN1NTbW5qTXMzRHRGT1hZcXo5cWdkM3dSUzNJYTM2eHRncEVSMzk3X1BZNnVNWmhDZ21IRzU0eFZIVVBtNmtuMzNmd05wc1hLb1pV?oc=5\" target=\"_blank\">Microsoft brings Anthropic AI models to 365 Copilot, diversifies beyond OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE45a1dQN0lvWmI4SE9QbllZNWR5eWI4d0k5Rkhab2xuUUtGUUoxV1RmMUNXVkxNa1ZqdWRzblBHZm1GS1ZhQzViMThtZXNSMlRxTWJ6ZzRMaWZNWTJIVUdVNGRfM3AxelR5dUduYklGYkpGWXZOa2dz?oc=5\" target=\"_blank\">Scoop: Microsoft looks to build AI marketplace for publishers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li></ol>",
+      "published": "2025-09-24T15:00:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft forced to make Windows 10 extended security updates truly free in Europe - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazZxZTQ3dHplNkphOGpvelBGcTYyZXlqZ1EwMHE3b3ozVm4xbTJ3ajdnc1kwWkY3T2cweFlfSHBrRHh2LWoyU3JIV0xVQjBDd2o2dEZ2ZXQ0YVIyS1RmTHNidmRzLU5sdU9Ob0hWOE9zZGc4Qi1oQ0NRNEoxZjU2aGZMTFJtNS1UemR2UGZfb01nOWFYNkhfVUFVSVAtU0xOOTdkN2NB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOazZxZTQ3dHplNkphOGpvelBGcTYyZXlqZ1EwMHE3b3ozVm4xbTJ3ajdnc1kwWkY3T2cweFlfSHBrRHh2LWoyU3JIV0xVQjBDd2o2dEZ2ZXQ0YVIyS1RmTHNidmRzLU5sdU9Ob0hWOE9zZGc4Qi1oQ0NRNEoxZjU2aGZMTFJtNS1UemR2UGZfb01nOWFYNkhfVUFVSVAtU0xOOTdkN2NB?oc=5\" target=\"_blank\">Microsoft forced to make Windows 10 extended security updates truly free in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-25T11:36:14+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft offers no-cost Windows 10 lifeline - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HanppUmNnNWJvUU1vWWJheVVPbTdEc1U1VEhud1BacEpxVTRWdk03VE9YMGlKSHh3VEt5MEQtWEUxMmZ3MzBrbkFRZlo0ZzZoYjVXaS1RQ3BKNi15dFJHOHA3MHlVc1RYYjBjZl9SU294MjFqT2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9HanppUmNnNWJvUU1vWWJheVVPbTdEc1U1VEhud1BacEpxVTRWdk03VE9YMGlKSHh3VEt5MEQtWEUxMmZ3MzBrbkFRZlo0ZzZoYjVXaS1RQ3BKNi15dFJHOHA3MHlVc1RYYjBjZl9SU294MjFqT2c?oc=5\" target=\"_blank\">Microsoft offers no-cost Windows 10 lifeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Xplore</font>",
+      "published": "2025-09-24T19:26:46+00:00",
+      "source": "Tech Xplore"
+    },
+    {
+      "title": "Video: Microsoft and Google Say They Remain Committed to Climate Goals - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYjlSVVRNNGJkUElUcHRwSEtrVV82bk9ndE1HcFlLX2dOUGJPejd5Q1ZHNF9PbEwxalhoUVZNcmtBb0F3MHZ3UTFJd2VtUlRtQXM1bTdfUjNMVnhjM2lMUXZPekJVM2xWUU90V0c0cDR1bnd6MDZzSnByUFdQcFVraGpQV0swZzJtWnhKQXpGc2JTOVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYjlSVVRNNGJkUElUcHRwSEtrVV82bk9ndE1HcFlLX2dOUGJPejd5Q1ZHNF9PbEwxalhoUVZNcmtBb0F3MHZ3UTFJd2VtUlRtQXM1bTdfUjNMVnhjM2lMUXZPekJVM2xWUU90V0c0cDR1bnd6MDZzSnByUFdQcFVraGpQV0swZzJtWnhKQXpGc2JTOVU?oc=5\" target=\"_blank\">Video: Microsoft and Google Say They Remain Committed to Climate Goals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-24T17:02:24+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhRF9vSzBHazRQSHg2WmtYSklLM0pGM0Uzc1ZmenBmZ0dkeHN3dVowSjdtZzEzdWpXOEM3TnBKZGxIdTd5eUs5UERkemJrNkVBaGNxNl9obmpwN3NDTnV3X0xXTlB1a2IyVTdpdlI1YThuUGlseUx2UTZKUVhNdkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBhRF9vSzBHazRQSHg2WmtYSklLM0pGM0Uzc1ZmenBmZ0dkeHN3dVowSjdtZzEzdWpXOEM3TnBKZGxIdTd5eUs5UERkemJrNkVBaGNxNl9obmpwN3NDTnV3X0xXTlB1a2IyVTdpdlI1YThuUGlseUx2UTZKUVhNdkE?oc=5\" target=\"_blank\">Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2025-09-22T05:47:00+00:00",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Flight Simulator 2024 soars onto PS5 Dec 8 - PlayStation.Blog",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWVSdEFNYjlMU0d6V2hQNklXMHNPUjRXdEdia3p2d3Y0QTc3d3NDYmNzMmlNMzNwWWxqa0NwMkZxbnR0WENFLUxMVTM0Vkp2a0piOU1OOVVzX2xCMUdSNS10UDQxdG4wNmRMMnBCV3dEcHF1NFZDdVY3d0E2SVQyX3pWeXViazktSXBNeC1rZ1pnV0x4allsSg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWVSdEFNYjlMU0d6V2hQNklXMHNPUjRXdEdia3p2d3Y0QTc3d3NDYmNzMmlNMzNwWWxqa0NwMkZxbnR0WENFLUxMVTM0Vkp2a0piOU1OOVVzX2xCMUdSNS10UDQxdG4wNmRMMnBCV3dEcHF1NFZDdVY3d0E2SVQyX3pWeXViazktSXBNeC1rZ1pnV0x4allsSg?oc=5\" target=\"_blank\">Microsoft Flight Simulator 2024 soars onto PS5 Dec 8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PlayStation.Blog</font>",
+      "published": "2025-09-24T21:12:30+00:00",
+      "source": "PlayStation.Blog"
+    },
+    {
+      "title": "Microsoft Flight Simulator 2024 Coming to PlayStation 5 - IGN",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFJDWmdFVHFycXRJdmFxVmo5SkdFd1ItUzhvN3lhYjc5SlBvU3Itc2ZsRC1MdFV5ZnZuTVhFQzNMTUczZ2p6QnlEUXo1NV9BMkEwSHA2bGdLVWxicXRpbko5TEFjeWNDcDVidVJvZWQzY2pma1JZQVhqZHJweEg5enhLLWFKN1V6bk1wcg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFJDWmdFVHFycXRJdmFxVmo5SkdFd1ItUzhvN3lhYjc5SlBvU3Itc2ZsRC1MdFV5ZnZuTVhFQzNMTUczZ2p6QnlEUXo1NV9BMkEwSHA2bGdLVWxicXRpbko5TEFjeWNDcDVidVJvZWQzY2pma1JZQVhqZHJweEg5enhLLWFKN1V6bk1wcg?oc=5\" target=\"_blank\">Microsoft Flight Simulator 2024 Coming to PlayStation 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
+      "published": "2025-09-24T23:03:45+00:00",
+      "source": "IGN"
+    },
+    {
+      "title": "Oh, so the Xbox experiment is actually dead then, huh? - Polygon",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wRmRxYXk4M3RndFZwVkplcm02cmVsWVRCVkJ1Tkxsc2NienU1SGtiZl9WcjQ5ZHF4S01Kb1RnSUNzaEpsLVVzcTQ1S3gyRzBndFFfa3pnUjUtY3pSSElDdXZDUVFtRUdrVFJuWi10aU5IblNEbDE3OU5aN2czUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1wRmRxYXk4M3RndFZwVkplcm02cmVsWVRCVkJ1Tkxsc2NienU1SGtiZl9WcjQ5ZHF4S01Kb1RnSUNzaEpsLVVzcTQ1S3gyRzBndFFfa3pnUjUtY3pSSElDdXZDUVFtRUdrVFJuWi10aU5IblNEbDE3OU5aN2czUQ?oc=5\" target=\"_blank\">Oh, so the Xbox experiment is actually dead then, huh?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Polygon</font>",
+      "published": "2025-09-24T22:46:00+00:00",
+      "source": "Polygon"
+    }
+  ],
+  "product_launches": [
     {
       "title": "Scoop: Microsoft looks to build AI marketplace for publishers - Axios",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45a1dQN0lvWmI4SE9QbllZNWR5eWI4d0k5Rkhab2xuUUtGUUoxV1RmMUNXVkxNa1ZqdWRzblBHZm1GS1ZhQzViMThtZXNSMlRxTWJ6ZzRMaWZNWTJIVUdVNGRfM3AxelR5dUduYklGYkpGWXZOa2dz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE45a1dQN0lvWmI4SE9QbllZNWR5eWI4d0k5Rkhab2xuUUtGUUoxV1RmMUNXVkxNa1ZqdWRzblBHZm1GS1ZhQzViMThtZXNSMlRxTWJ6ZzRMaWZNWTJIVUdVNGRfM3AxelR5dUduYklGYkpGWXZOa2dz?oc=5\" target=\"_blank\">Scoop: Microsoft looks to build AI marketplace for publishers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2025-09-23T19:46:32+00:00",
+      "published": "2025-09-23T19:12:13+00:00",
       "source": "Axios"
     },
-    {
-      "title": "Microsoft Is Turning to the Field of Microfluidics to Cool Down AI Chips - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkdjRkppa1JmSzd2dnVjMUpuMUlfRHhEbHZOUGczX0FKSm1KVldBZTV2ZW5jUGQ4Wm0xTzZNTWpKYjBhVUR4bUYxNGsyZ1h2LXZLdllPLWFRNjJfcVZaN0swSl9hMTBEU0tNTEVPRTR1a2RxdGRSNzZKcE5idDU0LTZoa1huNDM1QUV0OEdUTmYtaThUaVZGcEs4a1ZpX2hDaEJqR0ZLQVQyUTUzNzQtT0JrMHlGZFhCdmR0VUM2ZEhjMV92R3Fr?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkdjRkppa1JmSzd2dnVjMUpuMUlfRHhEbHZOUGczX0FKSm1KVldBZTV2ZW5jUGQ4Wm0xTzZNTWpKYjBhVUR4bUYxNGsyZ1h2LXZLdllPLWFRNjJfcVZaN0swSl9hMTBEU0tNTEVPRTR1a2RxdGRSNzZKcE5idDU0LTZoa1huNDM1QUV0OEdUTmYtaThUaVZGcEs4a1ZpX2hDaEJqR0ZLQVQyUTUzNzQtT0JrMHlGZFhCdmR0VUM2ZEhjMV92R3Fr?oc=5\" target=\"_blank\">Microsoft Is Turning to the Field of Microfluidics to Cool Down AI Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVpOcWU3V1llRE1jNFFyTEFvcEhKME9wSVFoNWg0ZHI2U1VPZmUwTWI3LXA3NThJZUQwVFVhX2lpa0U2ZTNxTnd1X1ZORC1zSHZFRWhXYXZDS01yWnBHS2FlLWFZd1lVQUFNU3ZUTnRNSFc4bkNOZjNIT1dVeENjWG1wN0xlU3ZVcTFwNktveWxNY0JiempXeDZLUGtXQXZQbUUwLVpOSlBrb3d2MmE4UEpxbTk3TFdpbkNacnRlWQ?oc=5\" target=\"_blank\">Microsoft tames intense chip heat with liquid cooling veins, designed by AI and inspired by biology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWlhdGNmVjNYcDBJOFV3Wkp2RG1xRzZnbjQzQ2VtcG5BMHBpNUNUM3NGNGNFQWtTUU56RUJ6SkU1VENMcVM0c054NklteVlRR010d2syMFJtemE5UzlZY0Z6UHhOb0hMa2U2cGFyUV81bjlGS0JqN05Rc1htdFFEeVNCVG9rNmhrRG5F?oc=5\" target=\"_blank\">Microsoft claims breakthrough in AI chip cooling technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2025-09-23T18:09:54+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Auterion Raises $130M, Aims to Be Microsoft for Drones - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHJHYU1vUUtBSzdSU1JtblhtQS12dXBGSFNNY093bndad1dnTWhVT1RpYjFOMzhaaDRUb0RHRlJQQ3BjTFV2WEduYkFMekgyNGZ4cHpwS0ZYbWZkRUxSbnpWTXJtNXBaSGttVW5KWWUwbjYxSVp4a2M5MHJkdlAyZXlJT3VTQ3lvNGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNHJHYU1vUUtBSzdSU1JtblhtQS12dXBGSFNNY093bndad1dnTWhVT1RpYjFOMzhaaDRUb0RHRlJQQ3BjTFV2WEduYkFMekgyNGZ4cHpwS0ZYbWZkRUxSbnpWTXJtNXBaSGttVW5KWWUwbjYxSVp4a2M5MHJkdlAyZXlJT3VTQ3lvNGc?oc=5\" target=\"_blank\">Auterion Raises $130M, Aims to Be Microsoft for Drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-09-24T09:33:49+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "EU targets Apple, Google and Microsoft over online financial scams - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZXdVLWpWcDItVjMxRXlXZGFram1qLXRsVWM4Qk14TU43MTJUbE9OYjdaN2I4VEVMTnpQckRkNE5DYVQ1am5nNVJRQ01IdXpSYUs0dERYelgzYkdqWkxOTEVJYmM0YlpuaWtsVlcxTVM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZXdVLWpWcDItVjMxRXlXZGFram1qLXRsVWM4Qk14TU43MTJUbE9OYjdaN2I4VEVMTnpQckRkNE5DYVQ1am5nNVJRQ01IdXpSYUs0dERYelgzYkdqWkxOTEVJYmM0YlpuaWtsVlcxTVM?oc=5\" target=\"_blank\">EU targets Apple, Google and Microsoft over online financial scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2025-09-23T10:26:25+00:00",
-      "source": "Financial Times"
-    },
-    {
-      "title": "EU asks Apple, Google and Microsoft what they are doing to tackle finance scams - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWlpZHFrQzJyN0V4dlluSHhqT083cnhITThQT0t6U0tyM0xZeHd6M2xIOG1QYU11WnpvQ3JfRmcyUGNwRDBieFhwWkkxcldnSU0tTEpRYm1FeThpVWJkbXB3Y2tTMnJGSGN0UHBsOEkyN3QtQ1F5REN3cmQtcEd0MFdqaFIzQlNz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWlpZHFrQzJyN0V4dlluSHhqT083cnhITThQT0t6U0tyM0xZeHd6M2xIOG1QYU11WnpvQ3JfRmcyUGNwRDBieFhwWkkxcldnSU0tTEpRYm1FeThpVWJkbXB3Y2tTMnJGSGN0UHBsOEkyN3QtQ1F5REN3cmQtcEd0MFdqaFIzQlNz?oc=5\" target=\"_blank\">EU asks Apple, Google and Microsoft what they are doing to tackle finance scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2025-09-24T12:03:30+00:00",
-      "source": "Yahoo"
-    },
-    {
-      "title": "The EU is scrutinizing how Apple, Google, and Microsoft tackle online scams - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0ZOekJzM3M3R2R0Z0J0TmZxNUV2ZzNRcmtsRU9zVFM3dlJLTVhTSm5TODNkZ3VFeWM3dmZoZlY4Wkg3YWtweXowb3NqMmpya0VUTE5vX2ZrLW02Qkc3b3VZNTQtd05kZ1FmSTFOQjBWVVp0bG1TcFFockFCd2F6bHZWZ3F6MEpuSFp2ZFB0Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0ZOekJzM3M3R2R0Z0J0TmZxNUV2ZzNRcmtsRU9zVFM3dlJLTVhTSm5TODNkZ3VFeWM3dmZoZlY4Wkg3YWtweXowb3NqMmpya0VUTE5vX2ZrLW02Qkc3b3VZNTQtd05kZ1FmSTFOQjBWVVp0bG1TcFFockFCd2F6bHZWZ3F6MEpuSFp2ZFB0Yw?oc=5\" target=\"_blank\">The EU is scrutinizing how Apple, Google, and Microsoft tackle online scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2025-09-23T12:11:38+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Options Bolsters Security Leadership with Microsoft Solutions Partner Specialization for Threat Detection - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0dBQ0tHc2xjVXA1SHRqWFdXWGNSazZaYlhEMk0zLTV1YXNzN2dGMTZ5RGVIYkEtRmNhV1JVODhhVWFJdGNMZG5JNl9Eb2c1QnItVzJUa0tSSmFRanhTeGtpaHBsQmtSTEhuMHU4alVoeHFIbk5MbUpkRGNCZ1k2ai1QWnBpTHRrNTk0RjVrakwzNXh6SDl6a29NYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0dBQ0tHc2xjVXA1SHRqWFdXWGNSazZaYlhEMk0zLTV1YXNzN2dGMTZ5RGVIYkEtRmNhV1JVODhhVWFJdGNMZG5JNl9Eb2c1QnItVzJUa0tSSmFRanhTeGtpaHBsQmtSTEhuMHU4alVoeHFIbk5MbUpkRGNCZ1k2ai1QWnBpTHRrNTk0RjVrakwzNXh6SDl6a29NYw?oc=5\" target=\"_blank\">Options Bolsters Security Leadership with Microsoft Solutions Partner Specialization for Threat Detection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2025-09-24T10:30:00+00:00",
-      "source": "Yahoo"
-    },
-    {
-      "title": "Microsoft proposes Caledonia project to support massive data center in Mount Pleasant - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYURlSm5wZWhtald1QmxuOC1Qel93THA4b05fcy1YeU5PVmMxc3hXVlA2ekR4U290Uk1WNVlMVmNtTjdteFB6STRQbUdlMjh6aWxSX3FOdlZCUnRtbGk0cFhHZG91Tm9YMVN3TGNLbFJJeUxuak8xa0lFMmhPOG5fZERDN3FlWUxvUzNGZ2F5cU5SN1RtVmZjMHNBQWxlQ0tCUDdPejFvcUowMmJyLVBQSnBtLTFqNkp6OEhDWWM1cjRsU1d2SmtmamFRT2xKUmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOYURlSm5wZWhtald1QmxuOC1Qel93THA4b05fcy1YeU5PVmMxc3hXVlA2ekR4U290Uk1WNVlMVmNtTjdteFB6STRQbUdlMjh6aWxSX3FOdlZCUnRtbGk0cFhHZG91Tm9YMVN3TGNLbFJJeUxuak8xa0lFMmhPOG5fZERDN3FlWUxvUzNGZ2F5cU5SN1RtVmZjMHNBQWxlQ0tCUDdPejFvcUowMmJyLVBQSnBtLTFqNkp6OEhDWWM1cjRsU1d2SmtmamFRT2xKUmc?oc=5\" target=\"_blank\">Microsoft proposes Caledonia project to support massive data center in Mount Pleasant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
-      "published": "2025-09-23T22:49:14+00:00",
-      "source": "Milwaukee Journal Sentinel"
-    }
-  ],
-  "product_launches": [
     {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5iaXJ1R1hnaHFDUkpOcF9ZWEpSaktJMUZGUll3V0JZdm9aNkVuZklObUl6dWUtMDZvQzVCck4zZFV3M0NPcFhNeUUwcjNyeElZMjR3SFpYemt1UHU0Rm0tUGNJckxzZW9HRjRzYQ?oc=5\" target=\"_blank\">We’re launching a new Google app for Windows experiment in Labs.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Keyword</font>",
       "published": "2025-09-16T07:00:00+00:00",
       "source": "The Keyword"
-    },
-    {
-      "title": "Microsoft 365 Copilot: Enabling human-agent teams - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUZwUkdyZldSb01DTTR2Ymlwa1Q2U1UxaTZYSDYtS1ZJUEVteWEycjctNDVYTVpaZUZPdjJGRjREVE04dUNYaFFYMVJpRm5kNk1tRzNVb3AwQmZsMGVZalVOQmtraDk1WTRsVTdnTGx6NDJGSFJ5QThpNlJyNnZ3RkxLV2FmeXZGUE5hWUd2aWtFLU1nLVduNmZsa1QxNk1tRTdlYktBUXZ4NER2T2VNWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUZwUkdyZldSb01DTTR2Ymlwa1Q2U1UxaTZYSDYtS1ZJUEVteWEycjctNDVYTVpaZUZPdjJGRjREVE04dUNYaFFYMVJpRm5kNk1tRzNVb3AwQmZsMGVZalVOQmtraDk1WTRsVTdnTGx6NDJGSFJ5QThpNlJyNnZ3RkxLV2FmeXZGUE5hWUd2aWtFLU1nLVduNmZsa1QxNk1tRTdlYktBUXZ4NER2T2VNWQ?oc=5\" target=\"_blank\">Microsoft 365 Copilot: Enabling human-agent teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-09-18T16:00:00+00:00",
-      "source": "Microsoft"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-23",
-      "close": 509.2300109863281
+      "date": "2025-09-24",
+      "close": 510.1499938964844
     },
     "history": [
-      {
-        "date": "2025-09-15",
-        "close": 515.3599853515625
-      },
       {
         "date": "2025-09-16",
         "close": 509.0400085449219
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-23",
         "close": 509.2300109863281
+      },
+      {
+        "date": "2025-09-24",
+        "close": 510.1499938964844
       }
     ],
     "name": "Microsoft Corporation"
