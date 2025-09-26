@@ -2,72 +2,79 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-09-25T12:23:08.824215+00:00",
+  "fetched_at": "2025-09-26T12:22:01.697602+00:00",
   "news": [
-    {
-      "title": "Apple pushes EU to repeal tech rules over feature delays, app vulnerabilities - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUW1DNHhXRGdZQnNOcmhXM1huWk04YmRNLUlMRkVIOFJ4THRLdGdjb0hCQlNzUmM2eTlZWEFWMDdwZkltLUhOeEV5ZVk5V1dXa0RvRHdLUERqcUpob3NIc3ctTTVvY2F4cTlBWXctTXBRREFaSmpNNS1HeUYxbmZNNzFJR1NONzMyaWRRUkZEdjFfTVZoczhUUXJ2eWxFb1U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUW1DNHhXRGdZQnNOcmhXM1huWk04YmRNLUlMRkVIOFJ4THRLdGdjb0hCQlNzUmM2eTlZWEFWMDdwZkltLUhOeEV5ZVk5V1dXa0RvRHdLUERqcUpob3NIc3ctTTVvY2F4cTlBWXctTXBRREFaSmpNNS1HeUYxbmZNNzFJR1NONzMyaWRRUkZEdjFfTVZoczhUUXJ2eWxFb1U?oc=5\" target=\"_blank\">Apple pushes EU to repeal tech rules over feature delays, app vulnerabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-09-25T09:07:42+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple Asks EU to Repeal Bloc’s Landmark Digital Markets Act - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxObm44LVJXbTNILVVycHR6SGUzZG9oOUQ2WWpMblByQjNQMGFWRTRuWlFCX09Qdms3TW5RWE9URnhhUnBMbVBrWWo4NjhUb1c2T0k1dnp1SGJfQ0o0STh6ZFlwLWFvUFVmUmpOaUNsT2FJVVRDMHNJT0ZTVVYxTGJvRXRUR2Mwa0ZWUjI4bFlZVmpJSTl0VUt5Y2Mxc2F1TmdfZzJvbnMzektMMnBQMGd5TTFIMDl3Y2ZOeTFmT19tMXU3S1hqNmNrbW52SVVsSXdHUE1JMS01cDJOQnlZSDMycmYzSGFPd3cxVjJ1MkFsT3AzWlFFV2cwMW1wQ1BNZGd1ZUIyc1Y3VlNlYTZMNXFyYmtFUmlwNFhLcjdjN2kyemhzYWp2NjhmRkcwUTRDNGpSWDNtWVRucVZfZUhGN3lQX2dvTTZGZE9RYU4zU0JzdHBSMnhyb1FMM01SMTNTVTlDYkc0OHA1Z1g3RHAyQk9zWUtEWElMNnVibngxUkxsN25iQ2RlSG9Pd2d6VnFsR1l3VERraTcwU0ZLMzlj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinANBVV95cUxObm44LVJXbTNILVVycHR6SGUzZG9oOUQ2WWpMblByQjNQMGFWRTRuWlFCX09Qdms3TW5RWE9URnhhUnBMbVBrWWo4NjhUb1c2T0k1dnp1SGJfQ0o0STh6ZFlwLWFvUFVmUmpOaUNsT2FJVVRDMHNJT0ZTVVYxTGJvRXRUR2Mwa0ZWUjI4bFlZVmpJSTl0VUt5Y2Mxc2F1TmdfZzJvbnMzektMMnBQMGd5TTFIMDl3Y2ZOeTFmT19tMXU3S1hqNmNrbW52SVVsSXdHUE1JMS01cDJOQnlZSDMycmYzSGFPd3cxVjJ1MkFsT3AzWlFFV2cwMW1wQ1BNZGd1ZUIyc1Y3VlNlYTZMNXFyYmtFUmlwNFhLcjdjN2kyemhzYWp2NjhmRkcwUTRDNGpSWDNtWVRucVZfZUhGN3lQX2dvTTZGZE9RYU4zU0JzdHBSMnhyb1FMM01SMTNTVTlDYkc0OHA1Z1g3RHAyQk9zWUtEWElMNnVibngxUkxsN25iQ2RlSG9Pd2d6VnFsR1l3VERraTcwU0ZLMzlj?oc=5\" target=\"_blank\">Apple Asks EU to Repeal Bloc’s Landmark Digital Markets Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-09-25T03:24:00+00:00",
-      "source": "The Wall Street Journal"
-    },
     {
       "title": "Apple calls for changes to anti-monopoly laws and says it may stop shipping to the EU - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVRTaGFVQkxPU1BSOTctQk01UFM3QXJWckdkcFBrNmtSQnFjVVRRaGlTM21PeFduMGR6ZDlPM01WQVdtc3RINjl3ZTJUTUpjM3Z2SDVFS3k4R25TcDVUWkFNSnVrNkFhS0tYbTZXOXo4UXBaazhLRWktTy1NdG9qejZSTE1sVFluNGJFeEZYWFdHTTFxWExMeDVFUzFtVFVVVDZrNGFrZXlxRHBoSktSZ2NHaThSVGM1S2czR0g4b2swcGRKS2VheHpnMl9SYzczVlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVRTaGFVQkxPU1BSOTctQk01UFM3QXJWckdkcFBrNmtSQnFjVVRRaGlTM21PeFduMGR6ZDlPM01WQVdtc3RINjl3ZTJUTUpjM3Z2SDVFS3k4R25TcDVUWkFNSnVrNkFhS0tYbTZXOXo4UXBaazhLRWktTy1NdG9qejZSTE1sVFluNGJFeEZYWFdHTTFxWExMeDVFUzFtVFVVVDZrNGFrZXlxRHBoSktSZ2NHaThSVGM1S2czR0g4b2swcGRKS2VheHpnMl9SYzczVlE?oc=5\" target=\"_blank\">Apple calls for changes to anti-monopoly laws and says it may stop shipping to the EU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2025-09-24T20:22:37+00:00",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVRTaGFVQkxPU1BSOTctQk01UFM3QXJWckdkcFBrNmtSQnFjVVRRaGlTM21PeFduMGR6ZDlPM01WQVdtc3RINjl3ZTJUTUpjM3Z2SDVFS3k4R25TcDVUWkFNSnVrNkFhS0tYbTZXOXo4UXBaazhLRWktTy1NdG9qejZSTE1sVFluNGJFeEZYWFdHTTFxWExMeDVFUzFtVFVVVDZrNGFrZXlxRHBoSktSZ2NHaThSVGM1S2czR0g4b2swcGRKS2VheHpnMl9SYzczVlE?oc=5\" target=\"_blank\">Apple calls for changes to anti-monopoly laws and says it may stop shipping to the EU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE8xUVBzU2I4ODY2by1qOVlCc2J0cVhBMHM3N3FERWtvR0hwR0lpSzNPZFZUVlhlUnEwOTNCVXFLNHpDeVNKd2ZPbnNJVUplTGhHWlEyNmdfNGFQemtsTXllN3I2Q0JueTljOEgwMHpEdTc4OFNxeVBnOXhXSDU?oc=5\" target=\"_blank\">EU Commission lashes out at Apple for wanting landmark digital law scrapped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUW1DNHhXRGdZQnNOcmhXM1huWk04YmRNLUlMRkVIOFJ4THRLdGdjb0hCQlNzUmM2eTlZWEFWMDdwZkltLUhOeEV5ZVk5V1dXa0RvRHdLUERqcUpob3NIc3ctTTVvY2F4cTlBWXctTXBRREFaSmpNNS1HeUYxbmZNNzFJR1NONzMyaWRRUkZEdjFfTVZoczhUUXJ2eWxFb1U?oc=5\" target=\"_blank\">Apple pushes EU to repeal tech rules over feature delays, app vulnerabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+      "published": "2025-09-25T15:03:35+00:00",
       "source": "The Guardian"
     },
     {
       "title": "Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjV4Q09ERUs2V0dDSy1sWEUxaDdweXJKeUdIazRHZWphTGNUU1JZQ1Q1TXRxN2Vfb1F6aVdrTXZCQ1U0NV94OW92bmxmdTkxcHNIQXdJc1FYeEZYcjBnWFFRVzZaSElTLTFWMHctOTZuOWtOS29ucTRaZTNoLUYwdF9jeWxidmFCTnhTb05uRlBaTm1vZGxKTGplSnIzelBiVllOT3F6cC1xMDYxdVNleld6N0xuMEx3R3VoNQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjV4Q09ERUs2V0dDSy1sWEUxaDdweXJKeUdIazRHZWphTGNUU1JZQ1Q1TXRxN2Vfb1F6aVdrTXZCQ1U0NV94OW92bmxmdTkxcHNIQXdJc1FYeEZYcjBnWFFRVzZaSElTLTFWMHctOTZuOWtOS29ucTRaZTNoLUYwdF9jeWxidmFCTnhTb05uRlBaTm1vZGxKTGplSnIzelBiVllOT3F6cC1xMDYxdVNleld6N0xuMEx3R3VoNQ?oc=5\" target=\"_blank\">Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1lwTlVKZ3pMRHdhYW80OTBwYlhtU1dOd2x3UnZKYm1JR3UySkY5aEk2SnJQX0trYkswRVdkOEVJNFhKNmd4NUJhbVFiUXFKcnpQdU1qc2VLRmxrSDQ5VTY0NUFWUkRpUnBPYi1yUExUTkVXb1gtOUR1MHY5ODA2cHJrN2Ywdw?oc=5\" target=\"_blank\">Intel Said to Seek Investment From Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3hrSlEzanY5Y3NVaWxUQnA3Zm1neWRXQ1pwa3FVajdKckN3NUhkMFRaVWZDVHVST2R4ak12YUFDMXVGaWVQVDdQeVZCbFFOUzJkZXBMTDhFcGJxYS12OHlKTmU5YnZKb0hpenpWSm43T1puRXpHS3EyMW9LX2VKSg?oc=5\" target=\"_blank\">What a Potential Apple-Intel Deal Says About Trump’s Pull Over Big Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
-      "published": "2025-09-25T10:23:53+00:00",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjV4Q09ERUs2V0dDSy1sWEUxaDdweXJKeUdIazRHZWphTGNUU1JZQ1Q1TXRxN2Vfb1F6aVdrTXZCQ1U0NV94OW92bmxmdTkxcHNIQXdJc1FYeEZYcjBnWFFRVzZaSElTLTFWMHctOTZuOWtOS29ucTRaZTNoLUYwdF9jeWxidmFCTnhTb05uRlBaTm1vZGxKTGplSnIzelBiVllOT3F6cC1xMDYxdVNleld6N0xuMEx3R3VoNQ?oc=5\" target=\"_blank\">Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1lwTlVKZ3pMRHdhYW80OTBwYlhtU1dOd2x3UnZKYm1JR3UySkY5aEk2SnJQX0trYkswRVdkOEVJNFhKNmd4NUJhbVFiUXFKcnpQdU1qc2VLRmxrSDQ5VTY0NUFWUkRpUnBPYi1yUExUTkVXb1gtOUR1MHY5ODA2cHJrN2Ywdw?oc=5\" target=\"_blank\">Intel Said to Seek Investment From Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxPcmlTa1VDNzBaMGgzZlo2b1MzSDdMLXBlZ0VlTEtRNnVmUVd6YmxpMlB0OTBDenBLdkNMVVVnMHk2ZEhlZXVPMzl3NlBGZVgzbVo5UGlpTDh0SnBSQ18yVDVCeC01TWhjTnVDNml6bGZseEpMbkNsQm1hdXotc1JfMHFCNXh0RDdNZ05TWmVrdnBILS1LOU8yeU4zal8zSXpPQTBGaElMOWRhM25scWU5eEZHYjNmM2ZWVU5XV3RyWEl3UGlycTh4dXJNdE40RTZ0c2wxTWZFVURrT1lmM0xtSGtFVFpYRmJxRXBzV2F5LTdwSTlRTmJjZWE0c05FdkdfdDBDUHM5eVEwUGR5OHhfNGZaZ3NmWEZnRWVaOFpIc2hDbUl6TC1CUXFFYmxaZ0JheDlVekR4djBzVmxjN09PVFk1TmJWSFVtRjBkOFBoRXNyLXh5eS1mdEFhSDJhU0JUMnljWTRqdDlUN3UyUHdPekU4LUEzUHd2d0JYV2RGZnV0UGNRSlJ3Q0I2YkVlZ2I1al9Rd0lsRlNrWEVjYW5RLXFuY2I?oc=5\" target=\"_blank\">Intel Seeks Help From Apple and Others as U.S. Backs Comeback Bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li></ol>",
+      "published": "2025-09-24T19:48:39+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "OpenAI US Data Centers, Uber Prepaid Passes, Apple Live Translation in the EU | Tech Today - Video - CNET",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0wzdEJ2a1RWQkdmSlU4Y3p1NHdfYlFEWlI2dTNnbmZCWUM3bnU2TGhLM3ZPMmpnLXQ4STFVaC1sUHhDMnl5OVdCYVBBWklYWWQwUFJrTkRtS3dDdEE0Q1NMdWU0NU5Kb0ZoNmJBOVMyUG1fSF91aWFKaDNEcWpOQlRmSXZnbDQwc1BvQ3dmeU9hRGlUeEV6WVBwWnNrY2E2UEt0MC1qV2pjaWgxcGlJTXhZTVNUUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0wzdEJ2a1RWQkdmSlU4Y3p1NHdfYlFEWlI2dTNnbmZCWUM3bnU2TGhLM3ZPMmpnLXQ4STFVaC1sUHhDMnl5OVdCYVBBWklYWWQwUFJrTkRtS3dDdEE0Q1NMdWU0NU5Kb0ZoNmJBOVMyUG1fSF91aWFKaDNEcWpOQlRmSXZnbDQwc1BvQ3dmeU9hRGlUeEV6WVBwWnNrY2E2UEt0MC1qV2pjaWgxcGlJTXhZTVNUUQ?oc=5\" target=\"_blank\">OpenAI US Data Centers, Uber Prepaid Passes, Apple Live Translation in the EU | Tech Today - Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-09-25T12:00:03+00:00",
-      "source": "CNET"
+      "title": "How to watch crucial Tigers vs Red Sox series on Apple TV on Friday - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZXhiMFRxV0loRDc3bUI0OTRBODl5b0tWVFF1Sm5KczlpUTl0WW8tLV9KZ3B5U3lGWnVBMFY5M0tQSk5tQUNYa1lvaWpWSjVSY0NMcHpYQkFCanItWUV3dGlWZ0RvZERZNGNrNnRuSWVRX2NJNzY5dkdXTVJWcVZVY0xIS0Q0UnJGemVQWTJ1WmJjdW1PdDEyU2RXT3YwVkpFYmc0Y3BfenhaQVVkbFpRMGhGTkl6SVUtdUtNNENwS3dDZHlLQzRBV3U4aFBJVkd0Qjlr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZXhiMFRxV0loRDc3bUI0OTRBODl5b0tWVFF1Sm5KczlpUTl0WW8tLV9KZ3B5U3lGWnVBMFY5M0tQSk5tQUNYa1lvaWpWSjVSY0NMcHpYQkFCanItWUV3dGlWZ0RvZERZNGNrNnRuSWVRX2NJNzY5dkdXTVJWcVZVY0xIS0Q0UnJGemVQWTJ1WmJjdW1PdDEyU2RXT3YwVkpFYmc0Y3BfenhaQVVkbFpRMGhGTkl6SVUtdUtNNENwS3dDZHlLQzRBV3U4aFBJVkd0Qjlr?oc=5\" target=\"_blank\">How to watch crucial Tigers vs Red Sox series on Apple TV on Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>",
+      "published": "2025-09-26T10:06:36+00:00",
+      "source": "Detroit Free Press"
     },
     {
-      "title": "Prediction: This No-Brainer Artificial Intelligence (AI) Stock Could Be Worth More Than Apple and Palantir Combined by 2030 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeFZQYzBKRTAxOG5EOGxySXlZR25FU0VTU0o0aG55SWVaWVQzX0pvLTM5ZDVsUG5hWlVPb3ZIcldnR0g0RlFiZXJNejdad1JOTUNlcnhGN214RVlfaS1pTmQwWHVuaGlKMXl6TGZrNXVLZFVmUjZiMnZmV0NRUVZfNWUtZ1NVRDRtcmFyZ0laQUQwMHdzVHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeFZQYzBKRTAxOG5EOGxySXlZR25FU0VTU0o0aG55SWVaWVQzX0pvLTM5ZDVsUG5hWlVPb3ZIcldnR0g0RlFiZXJNejdad1JOTUNlcnhGN214RVlfaS1pTmQwWHVuaGlKMXl6TGZrNXVLZFVmUjZiMnZmV0NRUVZfNWUtZ1NVRDRtcmFyZ0laQUQwMHdzVHc?oc=5\" target=\"_blank\">Prediction: This No-Brainer Artificial Intelligence (AI) Stock Could Be Worth More Than Apple and Palantir Combined by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-09-25T10:30:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Here are Friday's biggest analyst calls: Apple, Oracle, Nike, CoreWeave, Tesla, Microsoft, Costco, Home Depot & more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzhkbHpqd283Tm10RjU5dGQ3NWpzYi1NdzJFekprMEhfVFZOdzMwWXhuNnUxaU9VYXJyZ1VLcmlya3hNTU9iWjNCSzVxYXpTY1h5ZmtjTWJkWXJqZ1ktaldVcF9oZlg2dUNTQ2x5YzlYY0V0Zm1oN1lHUEs4Tjg5VzJJa1BQUEVwR252R0h3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzhkbHpqd283Tm10RjU5dGQ3NWpzYi1NdzJFekprMEhfVFZOdzMwWXhuNnUxaU9VYXJyZ1VLcmlya3hNTU9iWjNCSzVxYXpTY1h5ZmtjTWJkWXJqZ1ktaldVcF9oZlg2dUNTQ2x5YzlYY0V0Zm1oN1lHUEs4Tjg5VzJJa1BQUEVwR252R0h3?oc=5\" target=\"_blank\">Here are Friday's biggest analyst calls: Apple, Oracle, Nike, CoreWeave, Tesla, Microsoft, Costco, Home Depot & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-09-26T12:15:37+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Jessica Chastain Criticizes Apple’s Decision to Postpone ‘The Savant’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUlXaDR3YmIzYk9COU9ocDNWbWl5bXNFbW5KQzJBNUxHMTR2bWVma18yMDU2S3RoQ3NzX01yRUVFTDhRdkgzOWVHRjNvc0pKWG5ZTDZYXzZQS3I4TWRzSk5pNVNlQTFEMlFfVWhHNHRjRjlLWnNvX3Nrd1VBbXVJVGwzRWhoMlEzV3ZYU0NwcTVxdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUlXaDR3YmIzYk9COU9ocDNWbWl5bXNFbW5KQzJBNUxHMTR2bWVma18yMDU2S3RoQ3NzX01yRUVFTDhRdkgzOWVHRjNvc0pKWG5ZTDZYXzZQS3I4TWRzSk5pNVNlQTFEMlFfVWhHNHRjRjlLWnNvX3Nrd1VBbXVJVGwzRWhoMlEzV3ZYU0NwcTVxdw?oc=5\" target=\"_blank\">Jessica Chastain Criticizes Apple’s Decision to Postpone ‘The Savant’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2025-09-24T16:14:27+00:00",
+      "title": "Tigers-Red Sox clash on Apple TV+ will feature live game footage on new iPhone 17 Pro - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXBJYVBFUXliekE1NUZlVGV3R0RwdURTQnVjNE1ydzV2Q0N1OGFSTlRQdXNXbWhuT1RodmNpWTJTZE0tOHVvSE56UEN2MlNhaWpMX3FYRmZRalNXNWRFZ0g5OFJldTdINy11TmdjZGd6LWtZYTlDUmpPV2tPUjNMMVJRYzJFS3M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXBJYVBFUXliekE1NUZlVGV3R0RwdURTQnVjNE1ydzV2Q0N1OGFSTlRQdXNXbWhuT1RodmNpWTJTZE0tOHVvSE56UEN2MlNhaWpMX3FYRmZRalNXNWRFZ0g5OFJldTdINy11TmdjZGd6LWtZYTlDUmpPV2tPUjNMMVJRYzJFS3M?oc=5\" target=\"_blank\">Tigers-Red Sox clash on Apple TV+ will feature live game footage on new iPhone 17 Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
+      "published": "2025-09-26T11:01:39+00:00",
+      "source": "MLB.com"
+    },
+    {
+      "title": "Jessica Chastain ‘not aligned’ with Apple pausing release of ‘The Savant’ in wake of Charlie Kirk murder - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGxQekFkYjB6aTVfaDVhak5RU0Y0dzUzaGxva1dBMU9SM1RxT1dIZ2QycnlCUTdUUXRvdFRFclBfNXNlOTBmYy1TanE1dUt3bXBTaFd0WF9FTUl1TEltOFhDMUEwUDUtOHZWWDc5aktycHUyZHdCRWhmMVNaam5pbmlBTDRLdG9VcjZ4dF9Gamg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORGxQekFkYjB6aTVfaDVhak5RU0Y0dzUzaGxva1dBMU9SM1RxT1dIZ2QycnlCUTdUUXRvdFRFclBfNXNlOTBmYy1TanE1dUt3bXBTaFd0WF9FTUl1TEltOFhDMUEwUDUtOHZWWDc5aktycHUyZHdCRWhmMVNaam5pbmlBTDRLdG9VcjZ4dF9Gamg?oc=5\" target=\"_blank\">Jessica Chastain ‘not aligned’ with Apple pausing release of ‘The Savant’ in wake of Charlie Kirk murder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2025-09-24T17:55:32+00:00",
+      "source": "CNN"
+    },
+    {
+      "title": "This Is Exactly Why Apple TV+ Pulled 'The Savant' From Its Lineup - Esquire",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUhoUTdmcjZwdzd2bzhEVVdNT0hhXzVyc1pDVWlXSDZEeXBwZWdFXzIyYl9udnh6Q1Y5Y2NMaFRzYVpSODZQMktZbUJfcTlVTTRTeHp4cmFqMGlxWnhKLWJ4bUh1R1FHck1ieDZJcGp5ZGlLYWhnSDJPYzVDWEdIVFluZ3pWQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUhoUTdmcjZwdzd2bzhEVVdNT0hhXzVyc1pDVWlXSDZEeXBwZWdFXzIyYl9udnh6Q1Y5Y2NMaFRzYVpSODZQMktZbUJfcTlVTTRTeHp4cmFqMGlxWnhKLWJ4bUh1R1FHck1ieDZJcGp5ZGlLYWhnSDJPYzVDWEdIVFluZ3pWQQ?oc=5\" target=\"_blank\">This Is Exactly Why Apple TV+ Pulled 'The Savant' From Its Lineup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Esquire</font>",
+      "published": "2025-09-26T10:00:00+00:00",
+      "source": "Esquire"
+    },
+    {
+      "title": "Why Did Apple Get Cold Feet About ‘The Savant’? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUU4zVlBSR2ZCWHo0SEpYdlR6NTJnZUxYTHJNMUpSVHVfSGJrZ2dENFJBRmpCUVMza29TOTBkOVJRQWlVOEpaUlFYUkJrQ19CMUtqSkpBSzQ4Ry1ZaTNtV0xvcWNYZ21kRlZDS3VZcHd1NWxseE95eXhnLXAyaldMYURaOHdMZ2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPUU4zVlBSR2ZCWHo0SEpYdlR6NTJnZUxYTHJNMUpSVHVfSGJrZ2dENFJBRmpCUVMza29TOTBkOVJRQWlVOEpaUlFYUkJrQ19CMUtqSkpBSzQ4Ry1ZaTNtV0xvcWNYZ21kRlZDS3VZcHd1NWxseE95eXhnLXAyaldMYURaOHdMZ2s?oc=5\" target=\"_blank\">Why Did Apple Get Cold Feet About ‘The Savant’?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-24T21:34:22+00:00",
       "source": "The New York Times"
-    },
-    {
-      "title": "Jessica Chastain 'not aligned' with Apple decision to delay Savant - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEFBZ25Sb2pyMENURUxVU0ZVSFJuUXNVN2RMdmVFcHdJbS0zS3d3YkVzM0VydFVBcXY1QkJ2UGlnQ1BXTFNOOEZwbTFVaEFGRlNZdHRoSU1qLUdBbWMxak9WaWpkQ3BjTDA0R0lpREZBaU1mRmRjd09nZ0FhUUlRVi13aUZIelh0SWg5NjJNY3BNRjdGVlRWakF4VURDZ9IBVkFVX3lxTE4ybHV0X04wb3RPM1pjblFQcFFlWEd2aEk0SzdOMjJlZ3lwSWs0UUtPdVY2RFZNaTdJNkhNSms0TnJHeDMtY18yejh5c0FjSWh4d2RnSHNn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPSEFBZ25Sb2pyMENURUxVU0ZVSFJuUXNVN2RMdmVFcHdJbS0zS3d3YkVzM0VydFVBcXY1QkJ2UGlnQ1BXTFNOOEZwbTFVaEFGRlNZdHRoSU1qLUdBbWMxak9WaWpkQ3BjTDA0R0lpREZBaU1mRmRjd09nZ0FhUUlRVi13aUZIelh0SWg5NjJNY3BNRjdGVlRWakF4VURDZ9IBVkFVX3lxTE4ybHV0X04wb3RPM1pjblFQcFFlWEd2aEk0SzdOMjJlZ3lwSWs0UUtPdVY2RFZNaTdJNkhNSms0TnJHeDMtY18yejh5c0FjSWh4d2RnSHNn?oc=5\" target=\"_blank\">Jessica Chastain 'not aligned' with Apple decision to delay Savant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2025-09-24T16:34:29+00:00",
-      "source": "NBC News"
     }
   ],
   "product_launches": [
     {
-      "title": "An overlooked billionaire winner of the new Apple launch: the guy who actually assembles iPhones - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1lMVUtaRHhXdFhnbDNOZzdrTUYtb0gyUlhfQjA3Z0JVVmJ6Qzgyb19yVzZfMnV4cGo0OE1EamdrdzFkMG8wX1ZBU3ZwMEFzc3hHWVg0YjJhZHl5c0RjRktJNW5ma2hMaUU2NFlnR2hURFkyWWMxLUlVdlRfdDhXZlA4WHM2SnNzSlBOc2t3a1Q2SDUwSllHaTZzWTV4YVN2RDdsSjNIOGh0aGE3a2FHVXVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1lMVUtaRHhXdFhnbDNOZzdrTUYtb0gyUlhfQjA3Z0JVVmJ6Qzgyb19yVzZfMnV4cGo0OE1EamdrdzFkMG8wX1ZBU3ZwMEFzc3hHWVg0YjJhZHl5c0RjRktJNW5ma2hMaUU2NFlnR2hURFkyWWMxLUlVdlRfdDhXZlA4WHM2SnNzSlBOc2t3a1Q2SDUwSllHaTZzWTV4YVN2RDdsSjNIOGh0aGE3a2FHVXVB?oc=5\" target=\"_blank\">An overlooked billionaire winner of the new Apple launch: the guy who actually assembles iPhones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-09-24T17:46:00+00:00",
-      "source": "Business Insider"
+      "title": "Apple debuts iPhone 17 - Apple",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd2tHY3FyMG1kdTVndjhuUlNEX01DLUpwa1hqZExxekdxUkM3MWNqYXR4YmNyeDR2VHBDTUdhUGQ4UDVuS3Rhc3FaM0xIUHN0YWVrcWhJTVpxc0FxUkt6S0JXdWdPWXhXT1ZLSWc1VQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd2tHY3FyMG1kdTVndjhuUlNEX01DLUpwa1hqZExxekdxUkM3MWNqYXR4YmNyeDR2VHBDTUdhUGQ4UDVuS3Rhc3FaM0xIUHN0YWVrcWhJTVpxc0FxUkt6S0JXdWdPWXhXT1ZLSWc1VQ?oc=5\" target=\"_blank\">Apple debuts iPhone 17</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
+      "published": "2025-09-09T07:00:00+00:00",
+      "source": "Apple"
+    },
+    {
+      "title": "First Week of iPhone 17: Inside the Apple Store Launch - Berawang News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMW4yNks4N1lvQ3A2QlpMcUl3aEd5WFQwSzZRZ1dEWjJISjFfRE1mbF8wbzdycDFlZ0JvbzBheEEzZFBRa3BFbllINjRWSU54Z2JBQmQ4UmNLS05KNk1Ub3ZVa0VwWjdCZzNfR0RLLVNSTUxrVTRrb2lQX3JLWGFiclF1VU5pLXk4ZzY0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMW4yNks4N1lvQ3A2QlpMcUl3aEd5WFQwSzZRZ1dEWjJISjFfRE1mbF8wbzdycDFlZ0JvbzBheEEzZFBRa3BFbllINjRWSU54Z2JBQmQ4UmNLS05KNk1Ub3ZVa0VwWjdCZzNfR0RLLVNSTUxrVTRrb2lQX3JLWGFiclF1VU5pLXk4ZzY0?oc=5\" target=\"_blank\">First Week of iPhone 17: Inside the Apple Store Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Berawang News</font>",
+      "published": "2025-09-26T12:00:04+00:00",
+      "source": "Berawang News"
     },
     {
       "title": "Apple unveils slim iPhone Air at annual product launch event - Al Jazeera",
@@ -77,13 +84,6 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "The iPhone Air Is Apple’s Most Delightful New Product in a Long Time. Is It Enough? - Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmNBZlNScGNuNHhscGJEbDNTR01XVkgzdWh6WUlNTVM5WFJaN3J2cUlWaE1kMmU4cUx6ZEJZdkxZY2FFM1J4OHhvcXVIa3Z0eWVuSDRxMHpiVWJVejExa0hCSkNhMEdMN3NfTFVUN19oMENzY2poRXZIZEt4OGpZaDlGeDBBcFZaRkVKVTFWQTBacWh6S21FR2VlNTJ6SDkyOG1nZjRENkVKXzRZM2JkOUprQ3lpYTliSExQMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmNBZlNScGNuNHhscGJEbDNTR01XVkgzdWh6WUlNTVM5WFJaN3J2cUlWaE1kMmU4cUx6ZEJZdkxZY2FFM1J4OHhvcXVIa3Z0eWVuSDRxMHpiVWJVejExa0hCSkNhMEdMN3NfTFVUN19oMENzY2poRXZIZEt4OGpZaDlGeDBBcFZaRkVKVTFWQTBacWh6S21FR2VlNTJ6SDkyOG1nZjRENkVKXzRZM2JkOUprQ3lpYTliSExQMA?oc=5\" target=\"_blank\">The iPhone Air Is Apple’s Most Delightful New Product in a Long Time. Is It Enough?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.com</font>",
-      "published": "2025-09-22T08:35:13+00:00",
-      "source": "Inc.com"
-    },
-    {
       "title": "Apple iPhone 17 event — here's the 7 new products expected to launch on 'Awe Dropping' day - Tom's Guide",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHVUSlUxUDhBd25WdWUtU3B3N1BJenJCeEFqUXVsRWM1YUt6UUlDSTNfRUxYT19rQVhYVnlLdVBKZ3pSSTJSdHczUjFWbHNqU3RSOUJRLWlrRkt1dEJfVV9EQnU2Z095ZW9sN3EyTVVya2p6M1phVXoyWms2UHlFaXV5SHdnSlE3dnFZY05udGgzZFVGN2V0MmFwOHM5QUw0azY2RlpZUW1vZVBFZ2tJdHFmTGFkcWl2b2MtTGJDLWg2OUZO?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHVUSlUxUDhBd25WdWUtU3B3N1BJenJCeEFqUXVsRWM1YUt6UUlDSTNfRUxYT19rQVhYVnlLdVBKZ3pSSTJSdHczUjFWbHNqU3RSOUJRLWlrRkt1dEJfVV9EQnU2Z095ZW9sN3EyTVVya2p6M1phVXoyWms2UHlFaXV5SHdnSlE3dnFZY05udGgzZFVGN2V0MmFwOHM5QUw0azY2RlpZUW1vZVBFZ2tJdHFmTGFkcWl2b2MtTGJDLWg2OUZO?oc=5\" target=\"_blank\">Apple iPhone 17 event — here's the 7 new products expected to launch on 'Awe Dropping' day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font>",
@@ -91,25 +91,21 @@
       "source": "Tom's Guide"
     },
     {
-      "title": "All 7 new products we're expecting Apple to announce at its 'Awe Dropping' September event - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTThFSkx5OF9nWE16SUhsWnpLNzNwOG9uV1prZ0RsbllsUG0wdE1lNzlDTURJYnIxNG1GNEVvR3N5aEd5RzViSGRycFFETG01YllFc0lnMldSVjc0VUtIdHZNNnNZVWV0cEVGX3NjcmNRMmxqbDJ3ZFhaVE5ocGpEdHBFYkl4M1B6UkNYUGJ0TGxJQkVBc3V4aUFmN1NSTkZPYUI3ZDVmRWRfa2JU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTThFSkx5OF9nWE16SUhsWnpLNzNwOG9uV1prZ0RsbllsUG0wdE1lNzlDTURJYnIxNG1GNEVvR3N5aEd5RzViSGRycFFETG01YllFc0lnMldSVjc0VUtIdHZNNnNZVWV0cEVGX3NjcmNRMmxqbDJ3ZFhaVE5ocGpEdHBFYkl4M1B6UkNYUGJ0TGxJQkVBc3V4aUFmN1NSTkZPYUI3ZDVmRWRfa2JU?oc=5\" target=\"_blank\">All 7 new products we're expecting Apple to announce at its 'Awe Dropping' September event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2025-08-30T07:00:00+00:00",
-      "source": "Fortune"
+      "title": "Everything Apple announced at its big event: iPhone Air, iPhone 17, new Apple Watches and more - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WdXlhcUsxT0FlUDRpTnNoSk1zQXJsM1FHOEJROWwzSkYyOWNYamE0d0Nfam01Nmk1NXNRd2RLbVBDdGFNdUhUNHlWX21ONFFKS0RHcUYzZHVjcUVwOEkzOTllRTRYM2FWNUFMQ3ZJYTlnNjBrZTEybjlxRzk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1WdXlhcUsxT0FlUDRpTnNoSk1zQXJsM1FHOEJROWwzSkYyOWNYamE0d0Nfam01Nmk1NXNRd2RLbVBDdGFNdUhUNHlWX21ONFFKS0RHcUYzZHVjcUVwOEkzOTllRTRYM2FWNUFMQ3ZJYTlnNjBrZTEybjlxRzk?oc=5\" target=\"_blank\">Everything Apple announced at its big event: iPhone Air, iPhone 17, new Apple Watches and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2025-09-09T07:00:00+00:00",
+      "source": "CNN"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-24",
-      "close": 252.30999755859375
+      "date": "2025-09-25",
+      "close": 256.8699951171875
     },
     "history": [
-      {
-        "date": "2025-09-16",
-        "close": 238.14999389648438
-      },
       {
         "date": "2025-09-17",
         "close": 238.99000549316406
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-24",
         "close": 252.30999755859375
+      },
+      {
+        "date": "2025-09-25",
+        "close": 256.8699951171875
       }
     ],
     "name": "Apple Inc."
