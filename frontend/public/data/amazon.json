@@ -2,73 +2,66 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2025-09-26T12:22:09.707002+00:00",
+  "fetched_at": "2025-09-27T12:19:26.365689+00:00",
   "news": [
     {
-      "title": "Amazon to pay historic $2.5 billion settlement for allegedly tricking customers into signing up for Prime - CNN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOEFGS0VGRnVVMFlrMUtZMVVqZ2NTazFveWpvSkNvWUMxVk94Z0F5LTR2YXR4YnRfTmtyY0Z4RFNQbjVkeDBWdlIxa01qZEQ0VzA0UGFnUEJZR3NyUElGakk3VWh0NHVJa1VlUTVySkQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOEFGS0VGRnVVMFlrMUtZMVVqZ2NTazFveWpvSkNvWUMxVk94Z0F5LTR2YXR4YnRfTmtyY0Z4RFNQbjVkeDBWdlIxa01qZEQ0VzA0UGFnUEJZR3NyUElGakk3VWh0NHVJa1VlUTVySkQ?oc=5\" target=\"_blank\">Amazon to pay historic $2.5 billion settlement for allegedly tricking customers into signing up for Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLW9zU1l5czgzX0RFRmd2T3pZM1FPYUtLUkJnbjFFT3RYaDJrWVRpb1BacDFmTHU1TzAxeHU2ZE9pN3lacWxkZzY3RGhtcG5DNVdCUUpNMEt0bFRDZU5tWVE3QThaZHZFVlFjeUdFTGw5U0EyV2pHeGUzdjlMeTMxc1RjWF9vd3B2bG5GU1BmY1FTRlpQazFXY09YUTBZZmhzaHN4TEpneEE0RE9mMVZkQjFHQndVWURF0gG-AUFVX3lxTFBFVFNGT2dyNjlKcUJwLWhZOGRranNRd3o1OVFfcWEzaWNMOGsxX2pGV3FOejZsdm9KSHR0SWQ1UEttWVJjT00yT0kxREJ6UU5ndlQ2UlhwRWFlcG01eUJMQ3V3R1lUVFlmUHgzLTlhVjg3Z21jRkJuQlFNeDhEc0ZwNVgwWWtBSGc4bHhzTnN3dmxoNS0yN3RUQkNNVzVCdmhRdkJ1RjR0c0xYdEhuQVVwdGRwWEI5OFc1R3o3MUE?oc=5\" target=\"_blank\">Amazon settles FTC lawsuit over Prime subscription practices for record $2.5B settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPajJ5cjZnd2kzRk8yOHlvNkN4TW8wcncwUzN0YkpzYnZIQVFsVlc0Mjl3UTV2VW9jYWRKeDFmMGZkc2pCaEk4YXVjMTZZN0lmODlmZGU4czhHYnZhalZTaDBrMWpmVElWX1c3cTVRNFhHUGRjUkhGdy1DeFIyVWhRWGtBRzlNdU12ZTJZdGFsMmhIZHIyNzhjSA?oc=5\" target=\"_blank\">Video Amazon agrees to pay $2.5 billion to settle FTC claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9OMUtqWl81Ymh3ektVSVBNLVF2amtJUFFUMUVPTVU0d3lQZjdVRHZJbEZfT05rNklhOWtCVXVaelk5MGlzTXZ5RU1KUHhDcGdHblZ5bFAzdmU3TGpUdGFqcHVhajktMG9OTHZ5WjVhd09vaTJCLVMw?oc=5\" target=\"_blank\">Amazon to pay $2.5 billion for allegedly duping millions to sign up for Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTdEMWF6OUQ4cGVBUDJrQkotMXVpRkItYWxiVnNaalpXY0FOa3hnM0U3a01hRm5HaEg0VVVyYncySGN4N1BzRll2Z1NMX2FuUEV0bktMNFIzVm1XYVkzX25YVW91eGdoQjlpY2I5Uk5sLXMzMVJIR0ZUNk9iVGdQM0pya1BIampUVkQtejVn?oc=5\" target=\"_blank\">Amazon will refund $1.5 billion to Prime subscribers in $2.5 billion FTC settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE42NzMzVEl3MTFPX18xTmxzTTlEbVZsNmpGTXkzZ0xHVjNDVTV2enQzbzFDYnAwMFlsZXRtdnNnZ3Vya0U3Yi15S3FTWGk4VmI4TjI3R25PX1l0Mnd2MVJTSFVvUHl2M3ZFR1dyNFRpMjNYd9IBd0FVX3lxTE1pcF8yY0tMS3E1WFZTN3pKY1JtU3N4dGIxQXNmbDFlaVNDc0FxQUJLVWVpbk53UXhvUFBoUUNYejA0ZGxVanVMcWJuaGNXUER2WmU0MnI4S3BBVW5oNjRJNUNsdy1fVWhCa2ptZXBYeEdyT3N0akdj?oc=5\" target=\"_blank\">Amazon reaches $2.5 billion settlement with FTC over 'deceptive' Prime program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUh5ZjcxNzBoSG9hUEs5cm1zalQ0czZTbnhMN0R5U3cwNFd4TUI3NHFMcjY3YzJfUnlnTkdMeVREM2hGQjdiR2Q3Z0R0S0VfOGx6VDFlTmVmZnRQWi1pempSSi0xaHRrMDJodDNtQU84T0p5RWNPYmtQUWN0VkFKM0V3MXB1a0lvOEVtWmJ2WXI4NEk?oc=5\" target=\"_blank\">Amazon to pay $2.5 billion to settle claims it duped Prime customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBiZnpMWUVYX3RxcVFHaG9QQ2hGREttQTdoRjRKZDR3bU10WFM0c21tekJqUkdoMjh0Qy1SeGtSM21lU3NjT3RUZlFab0NqN2NLQ2lZVGVtZ1hxNlUzdmRNaUIxMU9sbDZaVk9RRlFpVkZfRmJiUWhQeDhR?oc=5\" target=\"_blank\">Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUpvQ2ZuSDk0emI4OElGaDdpYXZpVlphN2RXYjdVeTNuY2paZk11REEyWlQ2N19xUmo4eDBWU3dVeTZsUVRjQVNpUGEyd0VDVFpuUWxaUlVfZ2VqejM2NVdXcHBCb3U4dU90Z2pWbGRLX0ZDQlhobV9qR3JtczRJREJpbl9TRF9XWF9zZHNqeXNxYlRnY2c3MDlMTW5qUm5LWnpiYUY3YzZILWxTdE5aa2pfRGRpSlgzek5XemtCdmMtdXFVSXBV?oc=5\" target=\"_blank\">Amazon to Pay $2.5 Billion to Settle FTC Lawsuit Over Prime “Cancellation Trickery”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font></li></ol>",
-      "published": "2025-09-25T16:05:03+00:00",
-      "source": "CNN"
+      "title": "Statement from Amazon on FTC agreement - about Amazon",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzdEcEhYZmZXalgwRjM2alR1bGVmbWtqaDZoVWJQZUR5ak1MV0NxQ19oZXBZbEx6TTBReXhwNUxWNldUaG1Lc2ZKX0hNbzRxNFFiOVhJbS1lcGZmaHVXUDF1WGdzTlI3bW1icVJOQUFhVUtKVUYzdFBQa19aWE5BYm1ZdF8?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzdEcEhYZmZXalgwRjM2alR1bGVmbWtqaDZoVWJQZUR5ak1MV0NxQ19oZXBZbEx6TTBReXhwNUxWNldUaG1Lc2ZKX0hNbzRxNFFiOVhJbS1lcGZmaHVXUDF1WGdzTlI3bW1icVJOQUFhVUtKVUYzdFBQa19aWE5BYm1ZdF8?oc=5\" target=\"_blank\">Statement from Amazon on FTC agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA1WXVkbk5XT0tOa2t6cUJkMHlUR1ZfVENEZmpkNWtVQ21QU19JRnRoYmFQdHRLNzFOaUxVdWRwaHNXUGZBcTZUZjUtODNCZzlMTzBrejZTdEVzRWxnSjZWWmV4b0I5RFVUNm5WRw?oc=5\" target=\"_blank\">Amazon reaches $2.5 billion settlement over FTC's Prime lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbE5oTV9uVzRVMDZsWTJnNlVTdndWN2dycE84MWFHOTZXV0szNE5yMUVPVkdjd3NaeVBEeUxKX1dkeGxOaExJU0dCbFc3OWpSYUkySlA1R0RkMzc2dFRPa3ZFWnJFOUd3UkctNmZqZkhlTnpCWW9Zc20yaVhvcHdBWjAtOEJfLUxNTllTajhHX3pUS1VUQTZ2Z3laaENKZGF4LV9ac08zVjR3RzU3dFVidWo1NEVnNEp6Q2p5UnNoLVZNRmdFLU1EVlpVc9IB0wFBVV95cUxPWVpubkdTSDd1R2phcW9NS0g3OTAyOERPQkQzcDdWa08wSjkyRVY4WHVhZERaZjc2QlRQSW9ySjViZmF2WjBCd3NBZ1FxanMyc25ST3U3SWVZSHpyVFZNVW5LOThBNjNhOUc2QkJRUEZ2bDNMbGR6MWttOUpEQjZvU3NieUFTOWFGOFA0Z1BKMWp3R3JZWmdQQmRQSkRIcVQxNWZYYjNGeWF6UjZOUVVLYVdoU09jWjZ4XzQ5LUQwMkw3dTVWckxEMHF1aVZqM2t1SUVz?oc=5\" target=\"_blank\">After Amazon agrees to $2.5B settlement, here's how to know if you're eligible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 5 Chicago</font></li></ol>",
+      "published": "2025-09-25T16:11:03+00:00",
+      "source": "about Amazon"
     },
     {
-      "title": "Soaring Soy Demand Pushes Farmers Deeper Into Brazil’s Amazon - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblJPVFdRQmtIREduY0ZzTzdmSjJVajItakJFUzNvNkNsTGkxWDlYNEdXbVZiTXBxYS0xeXY3bUo2RXEtUWlLcXg1ejFXa3BBbEFMazd6QmVDS3VoQXl6TUF0Xy10cTkxMXZvQWNMdGxwVXBGVmVjOThVZzVXTzYtZEZlbE55ZzdRYTVlMG43ZWZHbHJyMHpSUWlvUmxMbF8xTHRtdW9NazFZTFV1Y09SZklHbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPblJPVFdRQmtIREduY0ZzTzdmSjJVajItakJFUzNvNkNsTGkxWDlYNEdXbVZiTXBxYS0xeXY3bUo2RXEtUWlLcXg1ejFXa3BBbEFMazd6QmVDS3VoQXl6TUF0Xy10cTkxMXZvQWNMdGxwVXBGVmVjOThVZzVXTzYtZEZlbE55ZzdRYTVlMG43ZWZHbHJyMHpSUWlvUmxMbF8xTHRtdW9NazFZTFV1Y09SZklHbw?oc=5\" target=\"_blank\">Soaring Soy Demand Pushes Farmers Deeper Into Brazil’s Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-26T10:00:10+00:00",
-      "source": "Bloomberg.com"
+      "title": "Amazon Prime Big Deal Days Are in October, but We Already Found 30 Early Deals - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91TXZYbDNkMTFHeHp2UHNySl80NGRvVVZkaHZ6QW91akcwVDZDQk96UFIyWjZxdHpYRnpWaXFQcFc1S1lRUUtlZ0R6Uk9IbmVrNkg0aUtFMVNWV2lydE5hdmp4elFMbDQxU1hPUjRzSEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE91TXZYbDNkMTFHeHp2UHNySl80NGRvVVZkaHZ6QW91akcwVDZDQk96UFIyWjZxdHpYRnpWaXFQcFc1S1lRUUtlZ0R6Uk9IbmVrNkg0aUtFMVNWV2lydE5hdmp4elFMbDQxU1hPUjRzSEw?oc=5\" target=\"_blank\">Amazon Prime Big Deal Days Are in October, but We Already Found 30 Early Deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2025-09-25T09:01:00+00:00",
+      "source": "WIRED"
     },
     {
-      "title": "How to get a refund from the Amazon Prime FTC settlement - Axios",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVHZfNFRhbnRJcUdkQUViQWlta041LWJOYVpnYjA1SUlhMU5yNVFaRl9tR09sSTkxXzZ3S1JqeGVkZlA5Y2tnTzVXZFdpNnFPV01iaFBEV1B2Vms2Smd1YUhjX085a3F1QVljQ0o5eGdrakt0cUJjQlFMMGNiYkk3bzBXdW1YUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVHZfNFRhbnRJcUdkQUViQWlta041LWJOYVpnYjA1SUlhMU5yNVFaRl9tR09sSTkxXzZ3S1JqeGVkZlA5Y2tnTzVXZFdpNnFPV01iaFBEV1B2Vms2Smd1YUhjX085a3F1QVljQ0o5eGdrakt0cUJjQlFMMGNiYkk3bzBXdW1YUQ?oc=5\" target=\"_blank\">How to get a refund from the Amazon Prime FTC settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2025-09-26T11:33:43+00:00",
-      "source": "Axios"
+      "title": "The 50 Best Deals Hiding in Amazon’s Outlet This Weekend — Up to 73% Off - People.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NS1dDQm9GajlHUGU0TmROVk9jVG14VkdCS1A2WXNsX2lRQmtLTG5pTnhGYVh1TXg3QzBtOF9yVmxVeVFvZTRxVEl5N0xqdVdLVzFwTVVKdlFFSWE5Y1h5MWJqUzJFTm1DN2d6UWpHSS1PQ1N1OVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5NS1dDQm9GajlHUGU0TmROVk9jVG14VkdCS1A2WXNsX2lRQmtLTG5pTnhGYVh1TXg3QzBtOF9yVmxVeVFvZTRxVEl5N0xqdVdLVzFwTVVKdlFFSWE5Y1h5MWJqUzJFTm1DN2d6UWpHSS1PQ1N1OVE?oc=5\" target=\"_blank\">The 50 Best Deals Hiding in Amazon’s Outlet This Weekend — Up to 73% Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2025-09-27T10:30:00+00:00",
+      "source": "People.com"
     },
     {
-      "title": "Amazon to pay $2.5 billion for allegedly duping millions to sign up for Prime - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQk43SFJZT1N0OTI0a19IeVZYbWhudVBFQmY1UURCeW5GMlh2REd3UlVSajFXNDYzVGx0bENPYlN2VFV1ZWpYLXpUNkxnYlpwVGsxQWstN0ROT2hHallnWkQ4TGV3TXVqSUJ4RDFzcXZwNEEtOGpaa1NIZzNfSW1fbm13RVJDb0Y5U1Iya256cXZaVWJMNWZHUTNqTGo2Zkk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQk43SFJZT1N0OTI0a19IeVZYbWhudVBFQmY1UURCeW5GMlh2REd3UlVSajFXNDYzVGx0bENPYlN2VFV1ZWpYLXpUNkxnYlpwVGsxQWstN0ROT2hHallnWkQ4TGV3TXVqSUJ4RDFzcXZwNEEtOGpaa1NIZzNfSW1fbm13RVJDb0Y5U1Iya256cXZaVWJMNWZHUTNqTGo2Zkk?oc=5\" target=\"_blank\">Amazon to pay $2.5 billion for allegedly duping millions to sign up for Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-09-26T08:38:11+00:00",
-      "source": "Reuters"
+      "title": "Prime Time to Save: Amazon's Best Early Big Deal Days Discounts on Laptops, Tablets, TV, Speakers, and More - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHFXcGtPbU9Bd2FWOU50Y0k1b1RBeWdiVklwck5wY0l3XzFBbjB5c2FPeXZKbmZEeVo4Tmx5ZnU5NTJjd1NNN1VGN3VHb1hHQlJHajdxOXdVdmFld2Fjbzk3SmptQlZBVXNMNk5pc2FBY2VmbW84ZGsyNjZReTZIUHBIVTU2dUVDcmt2Q1JWQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHFXcGtPbU9Bd2FWOU50Y0k1b1RBeWdiVklwck5wY0l3XzFBbjB5c2FPeXZKbmZEeVo4Tmx5ZnU5NTJjd1NNN1VGN3VHb1hHQlJHajdxOXdVdmFld2Fjbzk3SmptQlZBVXNMNk5pc2FBY2VmbW84ZGsyNjZReTZIUHBIVTU2dUVDcmt2Q1JWQQ?oc=5\" target=\"_blank\">Prime Time to Save: Amazon's Best Early Big Deal Days Discounts on Laptops, Tablets, TV, Speakers, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2025-09-26T18:11:15+00:00",
+      "source": "PCMag"
     },
     {
-      "title": "Amazon will refund Prime subscribers in major FTC settlement. How to get yours - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUxUTUFGZWVZbExlY0dqb0xONjVNUDFUR0d4MUR2Q1M4THkwRTJkbW4yNVhvV3BNUi1LVlhpaTNneU9aT3IySE1QSlVoaDdvYlNCN0NPLWI0V3BvQnZOaV9WVDVyalRQUlVhby1wVXhXV3lPT2FoZHhualo2SDZjWE8zMy1Ic0piSnVqWFJmU2ptU0FCUUp0UkdOVjJJVHktekVKV2xWZGNtTFd6T1RmMlBpSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUxUTUFGZWVZbExlY0dqb0xONjVNUDFUR0d4MUR2Q1M4THkwRTJkbW4yNVhvV3BNUi1LVlhpaTNneU9aT3IySE1QSlVoaDdvYlNCN0NPLWI0V3BvQnZOaV9WVDVyalRQUlVhby1wVXhXV3lPT2FoZHhualo2SDZjWE8zMy1Ic0piSnVqWFJmU2ptU0FCUUp0UkdOVjJJVHktekVKV2xWZGNtTFd6T1RmMlBpSQ?oc=5\" target=\"_blank\">Amazon will refund Prime subscribers in major FTC settlement. How to get yours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle</font>",
-      "published": "2025-09-26T11:12:25+00:00",
-      "source": "Houston Chronicle"
+      "title": "Amazon contractor in Fenton closes, leaving dozens out of work - First Alert 4",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3VCeGEyRkNELWN3d3d4S2NIWUJqd1ZmVm1BalM3U09RZUtRNmI4dnBZMmlfQ0UyQUs4MS1lbmZPYTNjdGxzQmsxT0gzb1NlaE1IclBrTG5kV2VHSXJqbmdZTE9WeGVfVVdXN1Z1bGRNclFqTjlFOC1DR1ZqakRFSDk4aHVydEdsa0Q4anJERVJfdnBMTFdoamo3Y9IBrwFBVV95cUxOQ1cxeVVNNkhKcmh0Z0pBLUo3QUhjQ0cxSVpSNjhtbW1IRkNoXzQ1akttQ3dsY0w3NTJubkZrbWtvLTd1N0IyR2p5OUVrcWYtZDlRT1A3aXJrYVpvZjBZQUNULWFCTWtKZkpZRDU5elE1bllqUEdYeXBhcEgtX3RkQzQwVUZvbzJnaWpBUENyM21zSENxdDRkODJnUHc0cGE4UHYtaUlfb1hOVVFoWnRR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3VCeGEyRkNELWN3d3d4S2NIWUJqd1ZmVm1BalM3U09RZUtRNmI4dnBZMmlfQ0UyQUs4MS1lbmZPYTNjdGxzQmsxT0gzb1NlaE1IclBrTG5kV2VHSXJqbmdZTE9WeGVfVVdXN1Z1bGRNclFqTjlFOC1DR1ZqakRFSDk4aHVydEdsa0Q4anJERVJfdnBMTFdoamo3Y9IBrwFBVV95cUxOQ1cxeVVNNkhKcmh0Z0pBLUo3QUhjQ0cxSVpSNjhtbW1IRkNoXzQ1akttQ3dsY0w3NTJubkZrbWtvLTd1N0IyR2p5OUVrcWYtZDlRT1A3aXJrYVpvZjBZQUNULWFCTWtKZkpZRDU5elE1bllqUEdYeXBhcEgtX3RkQzQwVUZvbzJnaWpBUENyM21zSENxdDRkODJnUHc0cGE4UHYtaUlfb1hOVVFoWnRR?oc=5\" target=\"_blank\">Amazon contractor in Fenton closes, leaving dozens out of work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">First Alert 4</font>",
+      "published": "2025-09-26T03:32:00+00:00",
+      "source": "First Alert 4"
     },
     {
-      "title": "Amazon to pay $2.5bn for allegedly duping millions to sign up for Prime - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3BScHcwOWZUSG5kanJQTnZ5dGQ1T3RXNE5CN2JtVVBuTlBwbXFBWHlQVzVxZzNzdmF3aGhhRzU5aWFYYTBscnRibVdmXzk0RWQyNWJzSlZjY2lmclZBbkp4QVktQ2lyVUJnLW03dXFCMXFEbEpXSDdmQ1Rmc0tXRkVsNlRWZ0V4Zk1GZktnN3ROSTBQdE56M2hEYTVCY3F0V0lmUEVnSWtITllMRkJpRVZlZ1DSAboBQVVfeXFMTnlJcHU3VTBIWm9JQ0NiXzYta0NuVnpqMjZkVEVnSU5aNlozYW9KNjlpdXVlWWN4ZEJYekVwcHg2WHRuWEo3ZUU0SEdwRUxLdXhIWnJwT1lBTDlfdzhjM29kZVVpVWdyQTJqcXJZcjVlVDd6UHd1VjFXaUE1WkpiWjNTcm82eExScURmZDVoZS1iUG5UMFktZS1hVW5WQTlMVHEyLUtUamxYZ2lYZVBuUFZsbXF6R2t0QTV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3BScHcwOWZUSG5kanJQTnZ5dGQ1T3RXNE5CN2JtVVBuTlBwbXFBWHlQVzVxZzNzdmF3aGhhRzU5aWFYYTBscnRibVdmXzk0RWQyNWJzSlZjY2lmclZBbkp4QVktQ2lyVUJnLW03dXFCMXFEbEpXSDdmQ1Rmc0tXRkVsNlRWZ0V4Zk1GZktnN3ROSTBQdE56M2hEYTVCY3F0V0lmUEVnSWtITllMRkJpRVZlZ1DSAboBQVVfeXFMTnlJcHU3VTBIWm9JQ0NiXzYta0NuVnpqMjZkVEVnSU5aNlozYW9KNjlpdXVlWWN4ZEJYekVwcHg2WHRuWEo3ZUU0SEdwRUxLdXhIWnJwT1lBTDlfdzhjM29kZVVpVWdyQTJqcXJZcjVlVDd6UHd1VjFXaUE1WkpiWjNTcm82eExScURmZDVoZS1iUG5UMFktZS1hVW5WQTlMVHEyLUtUamxYZ2lYZVBuUFZsbXF6R2t0QTV3?oc=5\" target=\"_blank\">Amazon to pay $2.5bn for allegedly duping millions to sign up for Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "published": "2025-09-25T21:29:28+00:00",
-      "source": "Al Jazeera"
+      "title": "The Free Perk You Need to Take Advantage of Through Amazon Prime - Good Housekeeping",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGFuWW9PcGZ6LWlOdWNycWdwUi1xZG9TajhrOWpoYWZtbnJIZWdhbFBpOUV6c0k3QVlMQ0N2dlhkLXZvc1dFQWdHcTdndW8tMVBjUWZLYktqNHY1djRuVU0zV1kxNGlCdmRLU3o3ZF9OSks4NGVPTFdNXzlVU1F6Uk1wRzBtRzZDWEJUajBFQjZlQUpv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGFuWW9PcGZ6LWlOdWNycWdwUi1xZG9TajhrOWpoYWZtbnJIZWdhbFBpOUV6c0k3QVlMQ0N2dlhkLXZvc1dFQWdHcTdndW8tMVBjUWZLYktqNHY1djRuVU0zV1kxNGlCdmRLU3o3ZF9OSks4NGVPTFdNXzlVU1F6Uk1wRzBtRzZDWEJUajBFQjZlQUpv?oc=5\" target=\"_blank\">The Free Perk You Need to Take Advantage of Through Amazon Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Good Housekeeping</font>",
+      "published": "2025-09-26T21:21:00+00:00",
+      "source": "Good Housekeeping"
     },
     {
-      "title": "You Might Be Getting $51 Back From Amazon Soon. Here's Why. - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb29NWGZaTjdndzNESkFWTGRxX2tHR2E5c19zLWRLR1RJZWNJcFVnQ3F1VzdmM2RKN1k3UFBOOF93SFdEc1ZDNlgwTzZVOHVodGNEa25kZVc0TlZXYzM0T29kdDdLaEZWVWJNeHpxT2gyMXJSejlsV3FBOXhOZFVNeGE4Mmk1Y2FuR1Q5TjdabGlBcElZaDh2RktIdlpvQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNb29NWGZaTjdndzNESkFWTGRxX2tHR2E5c19zLWRLR1RJZWNJcFVnQ3F1VzdmM2RKN1k3UFBOOF93SFdEc1ZDNlgwTzZVOHVodGNEa25kZVc0TlZXYzM0T29kdDdLaEZWVWJNeHpxT2gyMXJSejlsV3FBOXhOZFVNeGE4Mmk1Y2FuR1Q5TjdabGlBcElZaDh2RktIdlpvQQ?oc=5\" target=\"_blank\">You Might Be Getting $51 Back From Amazon Soon. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
-      "published": "2025-09-25T22:07:36+00:00",
-      "source": "Investopedia"
+      "title": "Amazon’s Fire TV Stick 4K Max is already $20 off ahead of Amazon’s fall Prime Day event - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTNwcW52aVZ1WHl0VDd2N0w2RHFmZVJHSHRUb0w1aDJZeER2UGoxdGJUakZ6UnhkRUtBZEZKSGJjeDFnZHBpdXAxekVaNkJFV2hQdzA2TlRMMTUxajBaeUdiY1dVeUFONjdMejNmYkw3VUwzMlBBRUJEeGVRV0FEbEk1eXd0d3VrQ1VnNEZfWkhxQ19fOTBfYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTNwcW52aVZ1WHl0VDd2N0w2RHFmZVJHSHRUb0w1aDJZeER2UGoxdGJUakZ6UnhkRUtBZEZKSGJjeDFnZHBpdXAxekVaNkJFV2hQdzA2TlRMMTUxajBaeUdiY1dVeUFONjdMejNmYkw3VUwzMlBBRUJEeGVRV0FEbEk1eXd0d3VrQ1VnNEZfWkhxQ19fOTBfYw?oc=5\" target=\"_blank\">Amazon’s Fire TV Stick 4K Max is already $20 off ahead of Amazon’s fall Prime Day event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-26T15:51:01+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime - NPR",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkZwWjlCTHB3dGNrUE12TGdWVFhUMXJ4RWgtRnFpVlU1RTRUUld6NnZBcWJYTUlPcFFNcy1WRWtUZ2c4X0RWQnBkd3A1NTJaQUVkdlZJdU1sOXBJTHc2czVYNXpUdDFNT3hLNG80NjE1QXVLSWo0R3pmc0Q4eVRoSjNfVlFNd28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkZwWjlCTHB3dGNrUE12TGdWVFhUMXJ4RWgtRnFpVlU1RTRUUld6NnZBcWJYTUlPcFFNcy1WRWtUZ2c4X0RWQnBkd3A1NTJaQUVkdlZJdU1sOXBJTHc2czVYNXpUdDFNT3hLNG80NjE1QXVLSWo0R3pmc0Q4eVRoSjNfVlFNd28?oc=5\" target=\"_blank\">Amazon to pay $2.5 billion to settle U.S. lawsuit that it 'tricked' people into Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
-      "published": "2025-09-25T16:55:48+00:00",
-      "source": "NPR"
+      "title": "Amazon Fire TV devices expected to ditch Android for Linux in 2025 - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmpYM2gwTzh0T0xxc0Qxcjc3ZUpqZFFUTXUyMW1XU3kwNnVLbzBSZ0V1NkJGQWZYRmtjaGNsTkFXZnJFUUFzU2EwNk14YVpiSmVYZExhbllqeDMxdzJkVUVuTnRuTVdMdm9ZMDBmdEdibWZGOHlJd2hzZ2lxUTBYZXR1cDFrVW9ITnFmZm9UNkNKMkhBOEEzbUNUaTY5bkpYUUx2RllCeUtjbDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmpYM2gwTzh0T0xxc0Qxcjc3ZUpqZFFUTXUyMW1XU3kwNnVLbzBSZ0V1NkJGQWZYRmtjaGNsTkFXZnJFUUFzU2EwNk14YVpiSmVYZExhbllqeDMxdzJkVUVuTnRuTVdMdm9ZMDBmdEdibWZGOHlJd2hzZ2lxUTBYZXR1cDFrVW9ITnFmZm9UNkNKMkhBOEEzbUNUaTY5bkpYUUx2RllCeUtjbDQ?oc=5\" target=\"_blank\">Amazon Fire TV devices expected to ditch Android for Linux in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2025-09-25T21:27:55+00:00",
+      "source": "Ars Technica"
     }
   ],
   "product_launches": [
-    {
-      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5\" target=\"_blank\">Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2025-09-18T13:05:36+00:00",
-      "source": "About Amazon"
-    },
     {
       "title": "Amazon accidentally confirms Vega TV OS launch for 2025 - The Verge",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jV1I4cHdiVEQ5WEY5cDM0R2x0VWtRQmpEN25VeDNmRzZOeHdOYW51bFhQeVozRlpOR2RodFY5MkdjMWhDWk1aX194dDdfLWNJbWZKU1BMYmFDRnhBSFZ5amFaZkFSQ01VREFsdG9n?oc=5",
@@ -77,11 +70,18 @@
       "source": "The Verge"
     },
     {
-      "title": "Amazon’s AWS boss chides staff for slow product rollouts: ‘It’s valuable if we can actually launch them’ - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREhqdHlLMzZjRXRnSG1kRk9sbzZndmFfOFEzY0xrR09hZ2N4b0MtLWN1d1dYSG1xZXI1djFtYW5pcTk0V1dUS19jS0RyVFNBMVZyem12c2lpRzdKakNyaFR6Q1FvcTBtMXBvNWV4RWxWOXVoSjhxZEZVYmtUeTZ1MERYdHZ4Sm5xYnlhWVdIbWhHX20tMUlGS1FSNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPREhqdHlLMzZjRXRnSG1kRk9sbzZndmFfOFEzY0xrR09hZ2N4b0MtLWN1d1dYSG1xZXI1djFtYW5pcTk0V1dUS19jS0RyVFNBMVZyem12c2lpRzdKakNyaFR6Q1FvcTBtMXBvNWV4RWxWOXVoSjhxZEZVYmtUeTZ1MERYdHZ4Sm5xYnlhWVdIbWhHX20tMUlGS1FSNA?oc=5\" target=\"_blank\">Amazon’s AWS boss chides staff for slow product rollouts: ‘It’s valuable if we can actually launch them’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-      "published": "2025-09-25T23:15:00+00:00",
-      "source": "New York Post"
+      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed - about Amazon",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5\" target=\"_blank\">Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about Amazon</font>",
+      "published": "2025-09-18T07:00:00+00:00",
+      "source": "about Amazon"
+    },
+    {
+      "title": "Amazon's AWS CEO chides staff for slow product rollouts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWludFVCRXFrR3lTSmtQZ1pHUnYxakszU3JZWnFCSGJfMnBBcWtoNHM0SU85bDhDZmNCWldDcFR2UWN6X1BJRDhKWEVsZ2NyWF9USU9zZm93SlJtcV94bmJSNF93U3QycmwxZ2h2ODBoUFlzU2JKWDhaLWZ2cXV0dEd6a2VpV3RDMXg0cWN6bF9vWnlzMlNKbW8xR3B1MjFEWnNyZnNB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWludFVCRXFrR3lTSmtQZ1pHUnYxakszU3JZWnFCSGJfMnBBcWtoNHM0SU85bDhDZmNCWldDcFR2UWN6X1BJRDhKWEVsZ2NyWF9USU9zZm93SlJtcV94bmJSNF93U3QycmwxZ2h2ODBoUFlzU2JKWDhaLWZ2cXV0dEd6a2VpV3RDMXg0cWN6bF9vWnlzMlNKbW8xR3B1MjFEWnNyZnNB?oc=5\" target=\"_blank\">Amazon's AWS CEO chides staff for slow product rollouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-25T22:05:21+00:00",
+      "source": "Reuters"
     },
     {
       "title": "Amazon AI Enhancements Help Marketplace Sellers Launch Products - HomePage News",
@@ -91,25 +91,21 @@
       "source": "HomePage News"
     },
     {
-      "title": "Amazon cloud boss scolds staff for slow product rollouts, says customers want launches not hype - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWU5HTFFMZ0RDUEM0cHBnN203U1owSW9uZUczS2hCOU1la0ctUmJsSC13YTlndmZQd014eDZXM0IxVjFVS1VqYzBFV2lzejgxS3prUGNuMXVWTEUwWmlhbm9NcjdqeW1nWFZHT04tWlJneHhGelRCTGxBZWxsSTl6cmROTzZXeVkxSnotT213RDJfaEs5Tm01YzNnUXowWkpNQThTNTJScTZGVkJFOFdSOVRkS0NHTk0zcDdxR1U4VW9BbGdRVy14VmNwMkMzd1MzRTZndGJxXzRzQUlrQVhib0lDY1JCanZvRWVtYjB3VTJaYnPSAfgBQVVfeXFMUE40OEFCQ3NhNWVXcWtUNXVCX3VFYlctX2JxVFd6QWVVN3R6VGVNN1NBZlpQbk9POHZGT0tOWHIwQUVYSTNBODBFOGhraTk3VVhOQkcxMV9NbWU0VEVfamhkT0daM3VOOXhHWHlCbnZzOE9VQk1NUVU1Smc3VmRDdkR4QlhkemI3b1dXVmJiY25iejhYREV0UllFUkhFT1Bia2ZTcF9tYWRlYXIxeE5na1BCSl9BcTRzeG15M20ySHoydE10RDFBSmJUbk5jSmRRcFV6cER2a3FNOUpqUEE5cG1nVTdOdXFZVW14aldkUlZvenkySVlqYXA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWU5HTFFMZ0RDUEM0cHBnN203U1owSW9uZUczS2hCOU1la0ctUmJsSC13YTlndmZQd014eDZXM0IxVjFVS1VqYzBFV2lzejgxS3prUGNuMXVWTEUwWmlhbm9NcjdqeW1nWFZHT04tWlJneHhGelRCTGxBZWxsSTl6cmROTzZXeVkxSnotT213RDJfaEs5Tm01YzNnUXowWkpNQThTNTJScTZGVkJFOFdSOVRkS0NHTk0zcDdxR1U4VW9BbGdRVy14VmNwMkMzd1MzRTZndGJxXzRzQUlrQVhib0lDY1JCanZvRWVtYjB3VTJaYnPSAfgBQVVfeXFMUE40OEFCQ3NhNWVXcWtUNXVCX3VFYlctX2JxVFd6QWVVN3R6VGVNN1NBZlpQbk9POHZGT0tOWHIwQUVYSTNBODBFOGhraTk3VVhOQkcxMV9NbWU0VEVfamhkT0daM3VOOXhHWHlCbnZzOE9VQk1NUVU1Smc3VmRDdkR4QlhkemI3b1dXVmJiY25iejhYREV0UllFUkhFT1Bia2ZTcF9tYWRlYXIxeE5na1BCSl9BcTRzeG15M20ySHoydE10RDFBSmJUbk5jSmRRcFV6cER2a3FNOUpqUEE5cG1nVTdOdXFZVW14aldkUlZvenkySVlqYXA?oc=5\" target=\"_blank\">Amazon cloud boss scolds staff for slow product rollouts, says customers want launches not hype</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
-      "published": "2025-09-26T06:45:20+00:00",
-      "source": "India Today"
+      "title": "4 rumored Amazon products that have me truly excited for the September 30 event - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSEpoS19Pa3RIY0lQVDBaeDg0QUlBVnl6SEQ1MXV0VTh4YWFRMXFBYWJaR2tPSDcycjBic1VmV0FYRUhRT1hjTU56TVNGeTM1Ni1tUEl4SDZsdXpUWjNXU2wyTmo1Mk5ETmZZQ3BYbVNkUGRuZU1lWFVfRm5UanVyS3NmRU5lVlc0SGNtSU1jLVNGODRRZWN5OVlObzZmOWJtOTNaTTBkc0ZlS19rN2RfbDZtQmxXbW9iWXBSdWdGZDVIYkdrcGVRRA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSEpoS19Pa3RIY0lQVDBaeDg0QUlBVnl6SEQ1MXV0VTh4YWFRMXFBYWJaR2tPSDcycjBic1VmV0FYRUhRT1hjTU56TVNGeTM1Ni1tUEl4SDZsdXpUWjNXU2wyTmo1Mk5ETmZZQ3BYbVNkUGRuZU1lWFVfRm5UanVyS3NmRU5lVlc0SGNtSU1jLVNGODRRZWN5OVlObzZmOWJtOTNaTTBkc0ZlS19rN2RfbDZtQmxXbW9iWXBSdWdGZDVIYkdrcGVRRA?oc=5\" target=\"_blank\">4 rumored Amazon products that have me truly excited for the September 30 event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2025-09-24T18:12:00+00:00",
+      "source": "ZDNET"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-25",
-      "close": 218.14999389648438
+      "date": "2025-09-26",
+      "close": 219.77999877929688
     },
     "history": [
-      {
-        "date": "2025-09-17",
-        "close": 231.6199951171875
-      },
       {
         "date": "2025-09-18",
         "close": 231.22999572753906
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-25",
         "close": 218.14999389648438
+      },
+      {
+        "date": "2025-09-26",
+        "close": 219.77999877929688
       }
     ],
     "name": "Amazon.com, Inc."
