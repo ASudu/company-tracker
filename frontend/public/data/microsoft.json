@@ -2,35 +2,14 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-09-30T12:23:01.104860+00:00",
+  "fetched_at": "2025-10-01T12:23:20.074825+00:00",
   "news": [
     {
       "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9DVWlibUZSSGUzTTBJZlYyYURXWXMwc29JLW1IanB0RTZaYzlmTzF2UVJwa0VabFdyV1hsT2FwMUxOMDl1Yzl5VzVMVXVjdlp1MnJPRkRhYlVHZmpRSzBRN0xFY0l1NVFkakxvYmczLUZnd0lf?oc=5\" target=\"_blank\">Microsoft debuts \"vibe working\" in Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGQ3R1poa01Pc094YktTcVUxXzZpTkhJZkF5MHJOa0tiZWpSYlIzOTFua2RscWptVXNuUlZkbkVNQ05qMWJzRmpFRENJWUozalRad3JWcmJUdm1BTTBvRnNlZm04NmE1Z0prbGpWQklvU3RHQ3Bfek0zemRSYVhob2w2WVdBV2JIem5TVGhMWFU1cnhCYlE?oc=5\" target=\"_blank\">Microsoft is trying to make 'vibe working' a thing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li></ol>",
-      "published": "2025-09-29T13:30:15+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-29T13:30:00+00:00",
       "source": "The Verge"
-    },
-    {
-      "title": "Microsoft merges Windows core engineering teams with Windows client teams in effort to build an agentic OS - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRElyYk10MUVnSFVYQTFpWHBvOHdVNGlfWE5FYkRUeThrWktwaHhfckJyMlVWc0VSbW5ab0ZydXhtTFQ2aFZoSGxQcmJPUXQxM05jaHkwMlQzMUY4RkRPY2VLWUdvR2h5S0Z3Znp6NndFSFBRcXE1Ynl2NTVVaWZvVkkyQjVzWlNocXVXVy1SYk4zRHlXYUhBOTZIY3NrMVlYSkhySm1VRERmZjd5NlRPeFJsbF8wY1dvN2NKVy1HX3VBNmMxalkzczR4Q3JEVmZ4VlZCZDFqSTlPRHNacFNEVVoxdjZ0dkRfUkZmTVlPdEJ0SHJWSGFQVUtQSmZPcVUyNXg3TkR4RQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQRElyYk10MUVnSFVYQTFpWHBvOHdVNGlfWE5FYkRUeThrWktwaHhfckJyMlVWc0VSbW5ab0ZydXhtTFQ2aFZoSGxQcmJPUXQxM05jaHkwMlQzMUY4RkRPY2VLWUdvR2h5S0Z3Znp6NndFSFBRcXE1Ynl2NTVVaWZvVkkyQjVzWlNocXVXVy1SYk4zRHlXYUhBOTZIY3NrMVlYSkhySm1VRERmZjd5NlRPeFJsbF8wY1dvN2NKVy1HX3VBNmMxalkzczR4Q3JEVmZ4VlZCZDFqSTlPRHNacFNEVVoxdjZ0dkRfUkZmTVlPdEJ0SHJWSGFQVUtQSmZPcVUyNXg3TkR4RQ?oc=5\" target=\"_blank\">Microsoft merges Windows core engineering teams with Windows client teams in effort to build an agentic OS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
-      "published": "2025-09-29T22:29:33+00:00",
-      "source": "Windows Central"
-    },
-    {
-      "title": "Microsoft is bringing its Windows engineering teams back together again - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzFWblBDQVQ1SXRZOFhmZE5EZk55TEFKdkR4b29QenBsRUFLaW9KWVg4anVsUW4xY2psOWpzLTdleXczNmFGVXIzOWlmR2JBZTRaUmFDelU0Rld3WjhkYjN3cE93V0NyamJYa192QTUwUWVWQlVWaHgzNWhhbEFDNFZYdVZGc0tCemNnSHNfcFhNbm1Pb01TaGFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzFWblBDQVQ1SXRZOFhmZE5EZk55TEFKdkR4b29QenBsRUFLaW9KWVg4anVsUW4xY2psOWpzLTdleXczNmFGVXIzOWlmR2JBZTRaUmFDelU0Rld3WjhkYjN3cE93V0NyamJYa192QTUwUWVWQlVWaHgzNWhhbEFDNFZYdVZGc0tCemNnSHNfcFhNbm1Pb01TaGFR?oc=5\" target=\"_blank\">Microsoft is bringing its Windows engineering teams back together again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2025-09-29T22:07:32+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Microsoft offers no-cost Windows 10 lifeline - IOL",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUJ3V2F3elc0LTdZOHJ0NElTYkphVmFLN29qLV82alZObDIxMkFrd2ktZVJsTGFnT0d1STRfcFhfRm9hTUxnaVJQMDMzSFJpd0FzVFBtWnVhclJTWXVETGlVWGVFU2FpUmJvY3RBRkJmQ3NqbHFpbTFhYnJyZlNpZE5NWGoyeEF0ZlN2d0szZTB0Rm8tX2c5QkZBYk9TM3V4bmh5MHh2bw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUJ3V2F3elc0LTdZOHJ0NElTYkphVmFLN29qLV82alZObDIxMkFrd2ktZVJsTGFnT0d1STRfcFhfRm9hTUxnaVJQMDMzSFJpd0FzVFBtWnVhclJTWXVETGlVWGVFU2FpUmJvY3RBRkJmQ3NqbHFpbTFhYnJyZlNpZE5NWGoyeEF0ZlN2d0szZTB0Rm8tX2c5QkZBYk9TM3V4bmh5MHh2bw?oc=5\" target=\"_blank\">Microsoft offers no-cost Windows 10 lifeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IOL</font>",
-      "published": "2025-09-29T17:46:27+00:00",
-      "source": "IOL"
     },
     {
       "title": "Microsoft unveils new liquid-cooled computer chips — they could prevent AI data centers from massively overheating - Live Science",
@@ -40,48 +19,69 @@
       "source": "Live Science"
     },
     {
-      "title": "Empty Microsoft Towers Trigger Loan Default by Australian Fund - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmhMZUNua0w4eVE3SnBzQUVNWWxzUE4tMkJsMmVVMHBqdHJNS0hSSXFxZjgxU21iejdfRmdVX01uRl9mVFdBQ2ZBVEo5N3ZjcC1meHlDMmQ2d1pVRHVETVhFU1BWbXk0TmdyU2VJT0pLWE0xVHBfeFdpY21pNkI5eDl1ajRWYXFnNXJEQ1h2XzF5TE0xU1pHSElDNVZUbEdYMXVsbjFhT29qR2lLWm0tcmwybw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmhMZUNua0w4eVE3SnBzQUVNWWxzUE4tMkJsMmVVMHBqdHJNS0hSSXFxZjgxU21iejdfRmdVX01uRl9mVFdBQ2ZBVEo5N3ZjcC1meHlDMmQ2d1pVRHVETVhFU1BWbXk0TmdyU2VJT0pLWE0xVHBfeFdpY21pNkI5eDl1ajRWYXFnNXJEQ1h2XzF5TE0xU1pHSElDNVZUbEdYMXVsbjFhT29qR2lLWm0tcmwybw?oc=5\" target=\"_blank\">Empty Microsoft Towers Trigger Loan Default by Australian Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-29T16:06:07+00:00",
-      "source": "Bloomberg.com"
+      "title": "Microsoft Hopes Anthropic Will Solve Its Copilot Problems - The Information",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWIxWktBTW1lYjh2N2NNRHVaenpWbEY3bmJvN3RnV1NzN1NlSF8xLWtEcFRLbjhPZXA3TGlJZDA4eUtlRzU0TjVvUFk0VWJvclpBWk1OdVd3bF91WTFucDRnazN2WFBWajI2M0pNclFCXzh1amZIVjZJZGtqRkY1WVpSc2lIVWdiT2RiQ2UyUXhPX0RpakVwOQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWIxWktBTW1lYjh2N2NNRHVaenpWbEY3bmJvN3RnV1NzN1NlSF8xLWtEcFRLbjhPZXA3TGlJZDA4eUtlRzU0TjVvUFk0VWJvclpBWk1OdVd3bF91WTFucDRnazN2WFBWajI2M0pNclFCXzh1amZIVjZJZGtqRkY1WVpSc2lIVWdiT2RiQ2UyUXhPX0RpakVwOQ?oc=5\" target=\"_blank\">Microsoft Hopes Anthropic Will Solve Its Copilot Problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2025-09-30T17:30:00+00:00",
+      "source": "The Information"
     },
     {
-      "title": "Microsoft: What Changed My Mind (NASDAQ:MSFT) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nZDhoTVNsNURJUmdacGh0YnMxOUhscWpKMHR5cEZrazdqQ0EzZ1lNTW03Smd4N3ZWb2hTNmlncWg5MFZSLXRpMmdrb0FhNGtzXzh2LTlWb3dJaXIyVUhUMWhmTE9tOUF0XzliMkdoMkkxX1R6cGhlM2pWQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1nZDhoTVNsNURJUmdacGh0YnMxOUhscWpKMHR5cEZrazdqQ0EzZ1lNTW03Smd4N3ZWb2hTNmlncWg5MFZSLXRpMmdrb0FhNGtzXzh2LTlWb3dJaXIyVUhUMWhmTE9tOUF0XzliMkdoMkkxX1R6cGhlM2pWQQ?oc=5\" target=\"_blank\">Microsoft: What Changed My Mind (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-09-29T23:38:02+00:00",
-      "source": "Seeking Alpha"
+      "title": "Microsoft debuts \"vibe working\" in Office - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DVWlibUZSSGUzTTBJZlYyYURXWXMwc29JLW1IanB0RTZaYzlmTzF2UVJwa0VabFdyV1hsT2FwMUxOMDl1Yzl5VzVMVXVjdlp1MnJPRkRhYlVHZmpRSzBRN0xFY0l1NVFkakxvYmczLUZnd0lf?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9DVWlibUZSSGUzTTBJZlYyYURXWXMwc29JLW1IanB0RTZaYzlmTzF2UVJwa0VabFdyV1hsT2FwMUxOMDl1Yzl5VzVMVXVjdlp1MnJPRkRhYlVHZmpRSzBRN0xFY0l1NVFkakxvYmczLUZnd0lf?oc=5\" target=\"_blank\">Microsoft debuts \"vibe working\" in Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2025-09-29T13:30:41+00:00",
+      "source": "Axios"
     },
     {
-      "title": "How to set up a passkey for your Microsoft account - pcworld.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDJKNXBXZEtmaUFMLVp4SUdhMnVhb0lSeThab2Z0TE13bUItbTFMSFN3T0VWbC1iaTk0MzNSb3dqMmNsSkVRWkFLb2RpXzZBSkhtUHFiWlZVNFZ2ZHlybTltVTh6MmlydVRYNFpQakgxNW9rXzQyLVZaemxMYmxoc2JPR014bGMyRWRZSXpZbTJHVGdzWGtmM09JTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDJKNXBXZEtmaUFMLVp4SUdhMnVhb0lSeThab2Z0TE13bUItbTFMSFN3T0VWbC1iaTk0MzNSb3dqMmNsSkVRWkFLb2RpXzZBSkhtUHFiWlZVNFZ2ZHlybTltVTh6MmlydVRYNFpQakgxNW9rXzQyLVZaemxMYmxoc2JPR014bGMyRWRZSXpZbTJHVGdzWGtmM09JTQ?oc=5\" target=\"_blank\">How to set up a passkey for your Microsoft account</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pcworld.com</font>",
-      "published": "2025-09-29T14:00:00+00:00",
-      "source": "pcworld.com"
+      "title": "Microsoft data center wins initial approvals in Caledonia - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSTl1SWl3b0h1dm1fQ3dEcmFfWHNTaTk4TXh4V0pKRUZqekxkUnJiQlVVMU16VGZ3VEc1TTJ5cE0tTUZGc0hETklpbnZpcGxhaERUcTg1dnQ1MDJmeThHck5kWGlYTi13V0tYOFltM0txM2FfZXo1dVVmRkp0N0N0WlBLcDdja0JoQ3JKSnFMTVYyUWpNeFVlaGJFVHM1dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSTl1SWl3b0h1dm1fQ3dEcmFfWHNTaTk4TXh4V0pKRUZqekxkUnJiQlVVMU16VGZ3VEc1TTJ5cE0tTUZGc0hETklpbnZpcGxhaERUcTg1dnQ1MDJmeThHck5kWGlYTi13V0tYOFltM0txM2FfZXo1dVVmRkp0N0N0WlBLcDdja0JoQ3JKSnFMTVYyUWpNeFVlaGJFVHM1dw?oc=5\" target=\"_blank\">Microsoft data center wins initial approvals in Caledonia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "published": "2025-09-30T11:58:00+00:00",
+      "source": "The Business Journals"
+    },
+    {
+      "title": "Microsoft’s Windows 11 2025 update is available now - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTJVanZTOS1ncHFNai1qeDVhN3hxMTRacGh3bWNSYWJTOHRTX2hsbmlxTkNNMVhCd2JVYTN3eUROTTMxd3dNRWV4UXkwSlVsVU5kMjZOR1N5UGNTOGh2cjVOa1FKb2tkczRLcGtReks5bXFWQUtyMlpDSW1mX0xCRXRobnZReV91b1J3VTdB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTJVanZTOS1ncHFNai1qeDVhN3hxMTRacGh3bWNSYWJTOHRTX2hsbmlxTkNNMVhCd2JVYTN3eUROTTMxd3dNRWV4UXkwSlVsVU5kMjZOR1N5UGNTOGh2cjVOa1FKb2tkczRLcGtReks5bXFWQUtyMlpDSW1mX0xCRXRobnZReV91b1J3VTdB?oc=5\" target=\"_blank\">Microsoft’s Windows 11 2025 update is available now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-30T17:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft Releases Windows 11 25H2... With Zero New Features? - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSEpOYWJ5U3poRU5TR1hCWDQwZ2M3eTQ1Mm02WVgwcjN0QjVhdEUyVXhsWXpfRXh0QlZpdFZxM3QyU081ZzdPNFBRdVVVNWt4Njc5Skd2WjRwMW5PVnNMb2VaV2N1VEZ3QXQ4Zi0ycGxDLWZoRmh2cGlzV1ZQaXlMTEQzLTVDeURKc0VCSnZPUGt0U0p4LTV30gGcAUFVX3lxTE9JMXBYMmN2OHlDdEJyOFlvaWFRTHVvcHZnWFE2ck1weXlCNGl0WVdGdDRaNHJsYWkzaXJ2TXdJRV9GRE1RQ0FTemZReDBNWkRWdEIyc0xFTDN1ckppSFAwcnJrU1IwWi1IV1Y2Und5QVNzcWNZN0ZzNzgxMWlZWG9ucnlNM3RzVjQxaEVBemZTT28xejNyVDY2c3Fjdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQSEpOYWJ5U3poRU5TR1hCWDQwZ2M3eTQ1Mm02WVgwcjN0QjVhdEUyVXhsWXpfRXh0QlZpdFZxM3QyU081ZzdPNFBRdVVVNWt4Njc5Skd2WjRwMW5PVnNMb2VaV2N1VEZ3QXQ4Zi0ycGxDLWZoRmh2cGlzV1ZQaXlMTEQzLTVDeURKc0VCSnZPUGt0U0p4LTV30gGcAUFVX3lxTE9JMXBYMmN2OHlDdEJyOFlvaWFRTHVvcHZnWFE2ck1weXlCNGl0WVdGdDRaNHJsYWkzaXJ2TXdJRV9GRE1RQ0FTemZReDBNWkRWdEIyc0xFTDN1ckppSFAwcnJrU1IwWi1IV1Y2Und5QVNzcWNZN0ZzNzgxMWlZWG9ucnlNM3RzVjQxaEVBemZTT28xejNyVDY2c3Fjdw?oc=5\" target=\"_blank\">Microsoft Releases Windows 11 25H2... With Zero New Features?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2025-10-01T06:23:37+00:00",
+      "source": "TechPowerUp"
+    },
+    {
+      "title": "Microsoft's Windows 11 2025 update starts rolling out today (but don't expect anything new) - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdmtIZXlhTG8zN1ZwUVVIME8zQUVFSF9PbDdmZ3A4NGtvZ1hGQWdRTDU1aEY2S3lLdUJnMWpPbThPMWJmZ2RhYm9yWml0OHhEeUlHbW5CaTV5bmpmM0ljN015cXRpd1pCTnZzMjgwTHd5VjA0QzZqY19JS3l2VzhIcWRGUW9TakRpZUNQLUJPR0R3Ylo3ald2X1NEcVI5Z01qLVhINkQtNU1xdkNoUF9RalpKaUxpQ0pRNHdDZHFfZUJPT3JLOTJ0WEpzc2tNenoxVXN3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdmtIZXlhTG8zN1ZwUVVIME8zQUVFSF9PbDdmZ3A4NGtvZ1hGQWdRTDU1aEY2S3lLdUJnMWpPbThPMWJmZ2RhYm9yWml0OHhEeUlHbW5CaTV5bmpmM0ljN015cXRpd1pCTnZzMjgwTHd5VjA0QzZqY19JS3l2VzhIcWRGUW9TakRpZUNQLUJPR0R3Ylo3ald2X1NEcVI5Z01qLVhINkQtNU1xdkNoUF9RalpKaUxpQ0pRNHdDZHFfZUJPT3JLOTJ0WEpzc2tNenoxVXN3?oc=5\" target=\"_blank\">Microsoft's Windows 11 2025 update starts rolling out today (but don't expect anything new)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2025-09-30T17:00:05+00:00",
+      "source": "Engadget"
     }
   ],
   "product_launches": [
-    {
-      "title": "Smart Virtual Assistant Market Forecasts Report 2025-2030: Alphabet, Apple, Amazon, Microsoft and Samsung Drive Growth Through R&D, Product Launches and Partnerships - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGVXQnphR1ZJYXlpeG1FS2lKUVBONmQ0NGhMVjBOTXJGa3FvNHJGUE5pcHpRTnlXRFo4Wm1RZTRibmRpMTdRM3BiMGhlczRxWThuQjI3OUpKbHFGQ1V6TmRLR1U2SnZSUXNDSmNGOFNfNGhRcDlXNDR4aWMtOVl5d0dvZ1RHUmc1elRwUnRMZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGVXQnphR1ZJYXlpeG1FS2lKUVBONmQ0NGhMVjBOTXJGa3FvNHJGUE5pcHpRTnlXRFo4Wm1RZTRibmRpMTdRM3BiMGhlczRxWThuQjI3OUpKbHFGQ1V6TmRLR1U2SnZSUXNDSmNGOFNfNGhRcDlXNDR4aWMtOVl5d0dvZ1RHUmc1elRwUnRMZw?oc=5\" target=\"_blank\">Smart Virtual Assistant Market Forecasts Report 2025-2030: Alphabet, Apple, Amazon, Microsoft and Samsung Drive Growth Through R&amp;D, Product Launches and Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-09-30T10:41:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Microsoft launches ‘vibe working’ with AI Agents in Office Apps - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmNYY2tsWGNaU25qVFJFZXRWbU5sdFdxWmgzVXZxZ1Uxdk5YVUdWWkNSOWlQX2t1eThFaFdTeDYwdVdtRW4tbnRNZUxiVVBMUURtVUVCOTl6Qm9kYkpER016UWpEdFBwUTRkS0pXVW9hdlgzT0VIQV81eGZ6NzVYM19pUndJNXVpN1lfSHR1QWlfdFo1bEpTaTlMbU5DSWI2Y19LV3Q2VlA0Yl9XTzFzZHpwUGZ5VXJ0NnBwOXU0MUFMYlI30gHLAUFVX3lxTE01RGVxVzNMQ0JYOGZrTXBlaGd0WGFfa2laeGwyRml4U0Y3VUtndjQ4VGVZUF83Mm9FM3oyd19XY3F6U1hjbVhSYzB0ZWFvSExyV3JNbWQ1clE3bWNnaXREWjM0eEVQWk41T1hKQVRvX3V0UXVoLU5qZE9MUTZKTjR5LWN3Q0NyOWRvUW14Um5ZLWtkcld0blFJWVRFVWdrRHFSVVRQclJOM3ZNdTBvY2tJSXY3WE1fRXBEWGVhN2t1NXhkRnB5SDA3TG5V?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORmNYY2tsWGNaU25qVFJFZXRWbU5sdFdxWmgzVXZxZ1Uxdk5YVUdWWkNSOWlQX2t1eThFaFdTeDYwdVdtRW4tbnRNZUxiVVBMUURtVUVCOTl6Qm9kYkpER016UWpEdFBwUTRkS0pXVW9hdlgzT0VIQV81eGZ6NzVYM19pUndJNXVpN1lfSHR1QWlfdFo1bEpTaTlMbU5DSWI2Y19LV3Q2VlA0Yl9XTzFzZHpwUGZ5VXJ0NnBwOXU0MUFMYlI30gHLAUFVX3lxTE01RGVxVzNMQ0JYOGZrTXBlaGd0WGFfa2laeGwyRml4U0Y3VUtndjQ4VGVZUF83Mm9FM3oyd19XY3F6U1hjbVhSYzB0ZWFvSExyV3JNbWQ1clE3bWNnaXREWjM0eEVQWk41T1hKQVRvX3V0UXVoLU5qZE9MUTZKTjR5LWN3Q0NyOWRvUW14Um5ZLWtkcld0blFJWVRFVWdrRHFSVVRQclJOM3ZNdTBvY2tJSXY3WE1fRXBEWGVhN2t1NXhkRnB5SDA3TG5V?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ with AI Agents in Office Apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-      "published": "2025-09-30T07:15:00+00:00",
-      "source": "The Hindu"
-    },
     {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2025-04-30T07:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-29T13:30:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Smart Virtual Assistant Market Forecasts Report 2025-2030: Alphabet, Apple, Amazon, Microsoft and Samsung Drive Growth Through R&D, Product Launches and Partnerships - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGVXQnphR1ZJYXlpeG1FS2lKUVBONmQ0NGhMVjBOTXJGa3FvNHJGUE5pcHpRTnlXRFo4Wm1RZTRibmRpMTdRM3BiMGhlczRxWThuQjI3OUpKbHFGQ1V6TmRLR1U2SnZSUXNDSmNGOFNfNGhRcDlXNDR4aWMtOVl5d0dvZ1RHUmc1elRwUnRMZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGVXQnphR1ZJYXlpeG1FS2lKUVBONmQ0NGhMVjBOTXJGa3FvNHJGUE5pcHpRTnlXRFo4Wm1RZTRibmRpMTdRM3BiMGhlczRxWThuQjI3OUpKbHFGQ1V6TmRLR1U2SnZSUXNDSmNGOFNfNGhRcDlXNDR4aWMtOVl5d0dvZ1RHUmc1elRwUnRMZw?oc=5\" target=\"_blank\">Smart Virtual Assistant Market Forecasts Report 2025-2030: Alphabet, Apple, Amazon, Microsoft and Samsung Drive Growth Through R&amp;D, Product Launches and Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-09-30T10:41:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Microsoft Launches SharePoint Knowledge Agent in Preview - Petri IT Knowledgebase",
@@ -91,25 +91,21 @@
       "source": "Petri IT Knowledgebase"
     },
     {
-      "title": "Microsoft launches Agent Mode and Office Agent for 365 Copilot - TestingCatalog",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzk3ZHJZLVFNUUpmaGpoYzdjcGdxU0RuYUVPaXBOWUFTQlhzY3E0SjREVTBwaHVpODBFeFpReF9VQjBSSjg2RTZXSUJhT0s1ekoySDlOOHFUXzRsbHRpa3FyUkRBRHhwY3F0OVBHZ1FFajlIWUNEVUlGTzAyNDN2S2wzeXNIT3RsazlKN21Vd3lvUk5EbnBuYmp3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzk3ZHJZLVFNUUpmaGpoYzdjcGdxU0RuYUVPaXBOWUFTQlhzY3E0SjREVTBwaHVpODBFeFpReF9VQjBSSjg2RTZXSUJhT0s1ekoySDlOOHFUXzRsbHRpa3FyUkRBRHhwY3F0OVBHZ1FFajlIWUNEVUlGTzAyNDN2S2wzeXNIT3RsazlKN21Vd3lvUk5EbnBuYmp3?oc=5\" target=\"_blank\">Microsoft launches Agent Mode and Office Agent for 365 Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TestingCatalog</font>",
-      "published": "2025-09-29T21:19:31+00:00",
-      "source": "TestingCatalog"
+      "title": "Microsoft launches Marketplace for a unified cloud offering - Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dkMjdrUlZQemR0ZkJId1hON2VVSkNGenJYWmhRWV9sUUNCVDlMblFWc0Q5RTVLVVZKelozd0pSNlZTWHBBMUNLbnQ4Y3hGMkljM1BiMEpsSEQwZHBKUXZzTVZLZVRIMG5hZXNmTTk1Vllza1AybGVwLUNfZm13ellFQnBnai1uLUllSUg3QzNFVk0xcW11SWV0NG9ObEdxakd0cEg3My1mcDJHUmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dkMjdrUlZQemR0ZkJId1hON2VVSkNGenJYWmhRWV9sUUNCVDlMblFWc0Q5RTVLVVZKelozd0pSNlZTWHBBMUNLbnQ4Y3hGMkljM1BiMEpsSEQwZHBKUXZzTVZLZVRIMG5hZXNmTTk1Vllza1AybGVwLUNfZm13ellFQnBnai1uLUllSUg3QzNFVk0xcW11SWV0NG9ObEdxakd0cEg3My1mcDJHUmc?oc=5\" target=\"_blank\">Microsoft launches Marketplace for a unified cloud offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techzine Global</font>",
+      "published": "2025-09-29T10:23:59+00:00",
+      "source": "Techzine Global"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-29",
-      "close": 514.5999755859375
+      "date": "2025-09-30",
+      "close": 517.9500122070312
     },
     "history": [
-      {
-        "date": "2025-09-19",
-        "close": 517.9299926757812
-      },
       {
         "date": "2025-09-22",
         "close": 514.4500122070312
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-29",
         "close": 514.5999755859375
+      },
+      {
+        "date": "2025-09-30",
+        "close": 517.9500122070312
       }
     ],
     "name": "Microsoft Corporation"

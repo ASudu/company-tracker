@@ -2,66 +2,80 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-09-30T12:22:58.175794+00:00",
+  "fetched_at": "2025-10-01T12:23:17.228669+00:00",
   "news": [
     {
-      "title": "Apple’s ChatGPT-Style Chatbot App Deserves a Public Release - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWd5VF9PejRLY0dHVWRaU2dwaWdCN1Zfb3Biak9YNUZsdGtNMGxXQWJkRTd6b1lUMU55MHdyaFd3Z1RqQ01BYWhlS0NnVUhjaU9qOWVqczA5UnJjQmh1OEJ6VjFWVUJuVGFGSmNZUHIxRTNHVy1fSHNTbEJyb2YwWHZDdE1BWGQySUxlYjV6NmZnSl9yaDZvbFpGWXFicXhBZ3hvcjN2d09tcEpqYkdmeFdiYVgwbGYzWm5WOUl5T05UMXVxb3hVTWVGZTg5Umpva0dJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWd5VF9PejRLY0dHVWRaU2dwaWdCN1Zfb3Biak9YNUZsdGtNMGxXQWJkRTd6b1lUMU55MHdyaFd3Z1RqQ01BYWhlS0NnVUhjaU9qOWVqczA5UnJjQmh1OEJ6VjFWVUJuVGFGSmNZUHIxRTNHVy1fSHNTbEJyb2YwWHZDdE1BWGQySUxlYjV6NmZnSl9yaDZvbFpGWXFicXhBZ3hvcjN2d09tcEpqYkdmeFdiYVgwbGYzWm5WOUl5T05UMXVxb3hVTWVGZTg5Umpva0dJ?oc=5\" target=\"_blank\">Apple’s ChatGPT-Style Chatbot App Deserves a Public Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-09-28T12:00:17+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple is reportedly nearing production for its M5 MacBooks - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQanM5S1FkeFViUjYzajU4VDRxSHlkbEhVUXZwVEpnWllRTmZiLThaeGVybjkxYWhBeEFJenV5LXJPZzZjTDgwak5INHNPbFA0X0MzWnM0TGh6MDlHM2wxT3JsWXMyZkF5eTJmbmZ0aFdTMzRBQXZrRHFZU18wbndFdzNubV9QTkg0WVpwU0M4cklzSXpjVHctemx4eGRxZElpb0x6bjVOTTgwQV8wS0UycXpua2FMU3V6OWNSNWtMV1RVSUZRbFhERDBESQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQanM5S1FkeFViUjYzajU4VDRxSHlkbEhVUXZwVEpnWllRTmZiLThaeGVybjkxYWhBeEFJenV5LXJPZzZjTDgwak5INHNPbFA0X0MzWnM0TGh6MDlHM2wxT3JsWXMyZkF5eTJmbmZ0aFdTMzRBQXZrRHFZU18wbndFdzNubV9QTkg0WVpwU0M4cklzSXpjVHctemx4eGRxZElpb0x6bjVOTTgwQV8wS0UycXpua2FMU3V6OWNSNWtMV1RVSUZRbFhERDBESQ?oc=5\" target=\"_blank\">Apple is reportedly nearing production for its M5 MacBooks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2025-09-28T15:41:48+00:00",
-      "source": "Engadget"
-    },
-    {
-      "title": "Apple Event in October? Here's What to Expect - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CcTdTNzcwQ29MVHo3djNKU3dnRDBwRGRKYkhjS3lkaGlzdUZqV0o0MGp1MllSaXBnTGJWR0dXTm8yV2U1eVB1RnBkdlg2TU9ibmVlckRpZldUR1RBdTVfV3psa1dfSElEYWYyWDctelNnelpKTmhSZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9CcTdTNzcwQ29MVHo3djNKU3dnRDBwRGRKYkhjS3lkaGlzdUZqV0o0MGp1MllSaXBnTGJWR0dXTm8yV2U1eVB1RnBkdlg2TU9ibmVlckRpZldUR1RBdTVfV3psa1dfSElEYWYyWDctelNnelpKTmhSZg?oc=5\" target=\"_blank\">Apple Event in October? Here's What to Expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2025-09-29T16:31:23+00:00",
+      "title": "FCC Accidentally Leaks Apple's Next Vision Pro - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WVWZpZVVWYldyWmhva3FuTTZJbDI0dXU3a3hnQTJoNVZnUWJYT2hnSEhLTlNwU0paYWZnOG56bkRqelRNNE5kdUxIZ1ZMTFZSWDZxUFp0NVlQVUdIUEd6SW4xdUt6N2lmT2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1WVWZpZVVWYldyWmhva3FuTTZJbDI0dXU3a3hnQTJoNVZnUWJYT2hnSEhLTlNwU0paYWZnOG56bkRqelRNNE5kdUxIZ1ZMTFZSWDZxUFp0NVlQVUdIUEd6SW4xdUt6N2lmT2c?oc=5\" target=\"_blank\">FCC Accidentally Leaks Apple's Next Vision Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2025-09-30T22:48:32+00:00",
       "source": "MacRumors"
     },
     {
-      "title": "Apple releases iOS 26.0.1: What's in the update? And how can you download it? - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lQy1OTmxoZ2FzeFpnWlBJVGllTVRkNTZVZ0EzRENTRVZfZnd2ZTVWNDhONWVIZC0xUGIwZVRfQVg4eElhdlBJQk9PUXZVZUN5Z0ZmRVE5VVVZQUFPVldxTlR3VGZEMlBjTDV4SDU0emFNMmJYdG9Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1lQy1OTmxoZ2FzeFpnWlBJVGllTVRkNTZVZ0EzRENTRVZfZnd2ZTVWNDhONWVIZC0xUGIwZVRfQVg4eElhdlBJQk9PUXZVZUN5Z0ZmRVE5VVVZQUFPVldxTlR3VGZEMlBjTDV4SDU0emFNMmJYdG9Z?oc=5\" target=\"_blank\">Apple releases iOS 26.0.1: What's in the update? And how can you download it?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-09-29T18:47:05+00:00",
+      "title": "Apple Vision Pro 2 rumors: Release date, upgrades, and more - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlBjTEVFTjY3V1JzU3NXY0tvVVNEODlCc3lkNUVPSUFzcFk2WkVGdU52ZUw2NEZUbzQtMS1zR1M0Xy1ZZWtoc1VwN3h0YlVFeFVKTkYzVjgxSTZsNEhkanUzSDQyM212Z0U4cnVjNk5nRkhBb0RkWjRuWGRJTHV5TlhJM1ZTbXFiZDhGbjJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlBjTEVFTjY3V1JzU3NXY0tvVVNEODlCc3lkNUVPSUFzcFk2WkVGdU52ZUw2NEZUbzQtMS1zR1M0Xy1ZZWtoc1VwN3h0YlVFeFVKTkYzVjgxSTZsNEhkanUzSDQyM212Z0U4cnVjNk5nRkhBb0RkWjRuWGRJTHV5TlhJM1ZTbXFiZDhGbjJB?oc=5\" target=\"_blank\">Apple Vision Pro 2 rumors: Release date, upgrades, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-09-30T20:59:01+00:00",
       "source": "Mashable"
     },
     {
-      "title": "Apple Releases iOS 26.0.1 With Fixes for Wi-Fi, Cellular, and Camera Issues on iPhone 17 Models - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc0pUOG9uRmR4TldWM1I1eHBVNmpMWWxfV0k5S1hTZGlYUjFqZzltUkZsQ0hyckxLVFpCUjF3N2NKaEw0Ql9pc080ZlM4dURLOHFmeHctVjVMcEk5Ujdual9OempoNTdzVG9rSjdwNGpZaHNxM19pR1BMOGpIWnhIZDlLZ085ZjZfLXBZdHE5b1JSaE5peEl3ZDdhc1kxQnJraWNEUm5lYkRSYnAwakVzRHdiaUhYR1VONFhsZFplZTBOby1NbDR5TjRuUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQc0pUOG9uRmR4TldWM1I1eHBVNmpMWWxfV0k5S1hTZGlYUjFqZzltUkZsQ0hyckxLVFpCUjF3N2NKaEw0Ql9pc080ZlM4dURLOHFmeHctVjVMcEk5Ujdual9OempoNTdzVG9rSjdwNGpZaHNxM19pR1BMOGpIWnhIZDlLZ085ZjZfLXBZdHE5b1JSaE5peEl3ZDdhc1kxQnJraWNEUm5lYkRSYnAwakVzRHdiaUhYR1VONFhsZFplZTBOby1NbDR5TjRuUQ?oc=5\" target=\"_blank\">Apple Releases iOS 26.0.1 With Fixes for Wi-Fi, Cellular, and Camera Issues on iPhone 17 Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2025-09-29T17:12:26+00:00",
-      "source": "MacRumors"
+      "title": "Apple’s M5 iPad Pro might have leaked in Russia - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDNLZmJfeUp3QkwwU1VCdkJURXpWcllLRHVIX1pTSDBTLUlmeEozNTNpeWxUajZ1T1dRMnRydVE2MTNVaFJLOEhRb0MwejQ1N1Zfdkx4SjJDa2pLQkFTTk9jUkJUang1TDRiU1ZmLTFFQ2RfMmZyWVYzc3Z1eEJsZjJxNF9yU3g3X1Rr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDNLZmJfeUp3QkwwU1VCdkJURXpWcllLRHVIX1pTSDBTLUlmeEozNTNpeWxUajZ1T1dRMnRydVE2MTNVaFJLOEhRb0MwejQ1N1Zfdkx4SjJDa2pLQkFTTk9jUkJUang1TDRiU1ZmLTFFQ2RfMmZyWVYzc3Z1eEJsZjJxNF9yU3g3X1Rr?oc=5\" target=\"_blank\">Apple’s M5 iPad Pro might have leaked in Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-30T16:44:59+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "iOS 26 Quickly Draining Your iPhone's Battery? Apple Says It's Normal - CNET",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcm01TEtlUV9hdUtnemM4RVVzaWJvU21jZFE5aTFicFlsQUhic2JINE5RSVZmSUlLRzZ5enJlb3huYlVtYmZFVjZOSkxJdjNDR21MbzNWSVpudzQtWGhmNnlKQVI0T21fNy1EMjh6aFF5T2JsRUJYd3VTNXBnd09DVEpHd0ZrUWd3Y1k1Qzd5WXRSWERxWm44Umd4aDRSSmlpRTJhaGZ5VjZLQ1VTMmQ3MEZic3g0QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcm01TEtlUV9hdUtnemM4RVVzaWJvU21jZFE5aTFicFlsQUhic2JINE5RSVZmSUlLRzZ5enJlb3huYlVtYmZFVjZOSkxJdjNDR21MbzNWSVpudzQtWGhmNnlKQVI0T21fNy1EMjh6aFF5T2JsRUJYd3VTNXBnd09DVEpHd0ZrUWd3Y1k1Qzd5WXRSWERxWm44Umd4aDRSSmlpRTJhaGZ5VjZLQ1VTMmQ3MEZic3g0QQ?oc=5\" target=\"_blank\">iOS 26 Quickly Draining Your iPhone's Battery? Apple Says It's Normal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-09-30T10:00:00+00:00",
-      "source": "CNET"
+      "title": "Apple is nowhere near the limits of Apple Silicon - Computerworld",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU9hUnR0a182SnZhY2JaQVVRR1ZFME5mRXRrSUdZcXZBY0d0ODRXNWpNc0stOHFIeXUxbU9waGpuWWV2V2pwQ0dPdS1EWEllZ052OXhWZTJOOUY1dmQ5Q1JqREtlUVJLQzRiX1NBVUhqZkxKSThaWlVCR19VWGQ0MFVaMDlPMnJTRmNwT242V0JkWnB2aUZTVm8wb0NZX1NzWmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU9hUnR0a182SnZhY2JaQVVRR1ZFME5mRXRrSUdZcXZBY0d0ODRXNWpNc0stOHFIeXUxbU9waGpuWWV2V2pwQ0dPdS1EWEllZ052OXhWZTJOOUY1dmQ5Q1JqREtlUVJLQzRiX1NBVUhqZkxKSThaWlVCR19VWGQ0MFVaMDlPMnJTRmNwT242V0JkWnB2aUZTVm8wb0NZX1NzWmc?oc=5\" target=\"_blank\">Apple is nowhere near the limits of Apple Silicon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computerworld</font>",
+      "published": "2025-09-30T14:12:52+00:00",
+      "source": "Computerworld"
     },
     {
-      "title": "Tim Cook wore one-of-a-kind Nike sneakers on a visit to an Apple store in Japan - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1gtcXpfNHNwdlZIdWpTUS1GemVRbXpfRDd1cTVKOFowVkNZY0hjV242b2VmMGxwbWFIdnhWYmxYVjJyRzRKaHZNcnpRUXlyTGFITHg3Y0hfbGtxdUJUYmF6UWVpWVdQR0R3UFgxZkdTdjB5QXZZbEs2OGdRR1Rld09jSzlocElHeS1OZjY1UzBPWHRSd294Tg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1gtcXpfNHNwdlZIdWpTUS1GemVRbXpfRDd1cTVKOFowVkNZY0hjV242b2VmMGxwbWFIdnhWYmxYVjJyRzRKaHZNcnpRUXlyTGFITHg3Y0hfbGtxdUJUYmF6UWVpWVdQR0R3UFgxZkdTdjB5QXZZbEs2OGdRR1Rld09jSzlocElHeS1OZjY1UzBPWHRSd294Tg?oc=5\" target=\"_blank\">Tim Cook wore one-of-a-kind Nike sneakers on a visit to an Apple store in Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-09-30T09:56:00+00:00",
-      "source": "Business Insider"
+      "title": "US agency sues Apple for alleged discrimination against Jewish worker - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW5YalM5UHgxbHlIZTU1X0FOMFZPWTJIdXRKNm5Wck56NFhUWFBpZjI4dWZ1T0RZWWJ1Q3hLd1dlbDRtTVFBQkRSOUJhUmlUTjJIbFM1RURTajVDMzR0WGN6TTY1Z0lteGhFNV9WTWp5dC1INlJaQVE4UFl6VFV5dnlfWnRyQ3c1OTUwQlFxUTNlQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW5YalM5UHgxbHlIZTU1X0FOMFZPWTJIdXRKNm5Wck56NFhUWFBpZjI4dWZ1T0RZWWJ1Q3hLd1dlbDRtTVFBQkRSOUJhUmlUTjJIbFM1RURTajVDMzR0WGN6TTY1Z0lteGhFNV9WTWp5dC1INlJaQVE4UFl6VFV5dnlfWnRyQ3c1OTUwQlFxUTNlQQ?oc=5\" target=\"_blank\">US agency sues Apple for alleged discrimination against Jewish worker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2025-10-01T00:21:00+00:00",
+      "source": "CNN"
     },
     {
-      "title": "AAPL: Apple Stock Wobbles as iPhone 17 Demand Cools In U.S. Market - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWFmT3ZLemEzZHYzd3U3MS1Ed0w4WWc0UUNYYk9zRkVUeGZycUh6WFp1dUlzVGpwMHZpR0JNdTAzMWJ3RTNaWjl1SUZacm9ta2o3WkNVcW16WVZvQkRTNzRGRzNpamk0a3l6REJKYUgwMG0zci1kUTBiQmp6UjdJRnNONA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWFmT3ZLemEzZHYzd3U3MS1Ed0w4WWc0UUNYYk9zRkVUeGZycUh6WFp1dUlzVGpwMHZpR0JNdTAzMWJ3RTNaWjl1SUZacm9ta2o3WkNVcW16WVZvQkRTNzRGRzNpamk0a3l6REJKYUgwMG0zci1kUTBiQmp6UjdJRnNONA?oc=5\" target=\"_blank\">AAPL: Apple Stock Wobbles as iPhone 17 Demand Cools In U.S. Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-09-30T12:18:01+00:00",
-      "source": "Yahoo Finance"
+      "title": "Apple sued by EEOC over religious discrimination - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWW03Z2RobEtWSG01Xy1OVEh3XzJqLVZ2LXl4NjZHNmRpY015RDdFMnE0cUJQWXlpbU5LYXNNNDd1UzdEaGdzenFZbkgzeGF4WkxSN293cGZrZGFZMDNDV3pPbWZHVnhXUVpkOFZWaDliVkQtMWxQemE0X0xZRGhUbmhVY3JlV0ZPeDBEM0hRNVhCeGpaT1NibVpxMkhHNTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWW03Z2RobEtWSG01Xy1OVEh3XzJqLVZ2LXl4NjZHNmRpY015RDdFMnE0cUJQWXlpbU5LYXNNNDd1UzdEaGdzenFZbkgzeGF4WkxSN293cGZrZGFZMDNDV3pPbWZHVnhXUVpkOFZWaDliVkQtMWxQemE0X0xZRGhUbmhVY3JlV0ZPeDBEM0hRNVhCeGpaT1NibVpxMkhHNTQ?oc=5\" target=\"_blank\">Apple sued by EEOC over religious discrimination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2025-09-30T19:28:00+00:00",
+      "source": "AppleInsider"
+    },
+    {
+      "title": "Apple hit with religious discrimination and retaliation federal lawsuit - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUlqdklXcm9qYTdETUNPN1llRjVnRG95cjJfcndHQzVsd1BaNlprSVVfdEVUM25PTk1pU1pvdUw5b3JYS2ZfbDFQN3RVVXZncU9kRFlHWmJ3RkJ5XzVtYi13Q0tOOUJlOUVTUzBVeVhISVN1UWtEWnR6Sk96dGg0T1BhSnpqMkFWUDBtaVVMWmNGU2cteWVYQmhSRkg5NnpQbGZ4WW9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUlqdklXcm9qYTdETUNPN1llRjVnRG95cjJfcndHQzVsd1BaNlprSVVfdEVUM25PTk1pU1pvdUw5b3JYS2ZfbDFQN3RVVXZncU9kRFlHWmJ3RkJ5XzVtYi13Q0tOOUJlOUVTUzBVeVhISVN1UWtEWnR6Sk96dGg0T1BhSnpqMkFWUDBtaVVMWmNGU2cteWVYQmhSRkg5NnpQbGZ4WW9B?oc=5\" target=\"_blank\">Apple hit with religious discrimination and retaliation federal lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2025-09-30T21:09:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple, Google, Meta must face lawsuits over casino-style gambling apps - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT0plckEtUmo1ZUFZVVJ3VXNkdHNkY0NpazZSd0MyWDNsY19obDZncXNyRGhRZGJUd0NNQjNfbzhrNkJKQnI2enlJa1JTdnFsZzlIZ2NqUkVnUklBMHJicjNPdlc0QW9ObkdJTnJIRE0zX0llaFg0WlNEb3FnV3FiNmc1V0ZZTEpLbXczaV9ZamtxdUhfZ3V1QlFrRUwwRnNIcF9RUEtZUUd1MjhsRFNnX01mUWoyYnk1QmljeEJwcU9YczNhUUp0NEFpZUM4aWpnZEZGQkQxaS0zajQ4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT0plckEtUmo1ZUFZVVJ3VXNkdHNkY0NpazZSd0MyWDNsY19obDZncXNyRGhRZGJUd0NNQjNfbzhrNkJKQnI2enlJa1JTdnFsZzlIZ2NqUkVnUklBMHJicjNPdlc0QW9ObkdJTnJIRE0zX0llaFg0WlNEb3FnV3FiNmc1V0ZZTEpLbXczaV9ZamtxdUhfZ3V1QlFrRUwwRnNIcF9RUEtZUUd1MjhsRFNnX01mUWoyYnk1QmljeEJwcU9YczNhUUp0NEFpZUM4aWpnZEZGQkQxaS0zajQ4?oc=5\" target=\"_blank\">Apple, Google, Meta must face lawsuits over casino-style gambling apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-30T22:29:40+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple product launch roadmap leaked: Vision Pro 2, M5 iPad Pro and MacBook Pro coming soon - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVV5b3hKUDZLRGlwVldKUXBFaHhXVk9pOVd5bi1yc0t4UHZNZTAwaHljckpabXRPMEF3XzdudlRtS3hSaVJaeS1ieUZNRV9Ra2hnQVVEUnkxWUlueE40dXFQNGU0T1c1ZWlvdVFVdnp1SjhMUzhadlU4d2FmZF92dTlESnBQdGRCMG9MdGxMREFBZkw5QVc2QjhMakJkQTJUejJSY3ljSERFdFczSzRpa1pwQjFkcU1pM0phYXpVQWxIRGFlY1BDUzJ6dGZYbmprLWwta1VqNW9DUnpGZ3NVS21LOHV3XzVsOW0w0gHwAUFVX3lxTE9od193bnJxU09mX2NZanBfVmFMbUJKcDJYbFRJMU80cjQwUDZ5WkFmeTMzYndROUh1TlFaa0Y1ZEk2UVRhdXUtMUlSOXQyYTVFM2hpbUVCaHEzUnVaRkhQM3Z3c3dsZnIyMGtrdzVfSnYzRFNqMkF2SHAyMzcwQVdpQ3Z0RzdTaHZBMm1IY0Noazd4UXM4X1ZXZFlEbkdSTHVfbGRoYUNCc01BRGpPdUJSOS1mSEFwVGZ5OUJfZThOOUxQTE5oVmNXWTlfb295TUptQU5fVV9HRTNud0ZWeWFhNjNqcU9jVy0zaDRLQVhJdA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVV5b3hKUDZLRGlwVldKUXBFaHhXVk9pOVd5bi1yc0t4UHZNZTAwaHljckpabXRPMEF3XzdudlRtS3hSaVJaeS1ieUZNRV9Ra2hnQVVEUnkxWUlueE40dXFQNGU0T1c1ZWlvdVFVdnp1SjhMUzhadlU4d2FmZF92dTlESnBQdGRCMG9MdGxMREFBZkw5QVc2QjhMakJkQTJUejJSY3ljSERFdFczSzRpa1pwQjFkcU1pM0phYXpVQWxIRGFlY1BDUzJ6dGZYbmprLWwta1VqNW9DUnpGZ3NVS21LOHV3XzVsOW0w0gHwAUFVX3lxTE9od193bnJxU09mX2NZanBfVmFMbUJKcDJYbFRJMU80cjQwUDZ5WkFmeTMzYndROUh1TlFaa0Y1ZEk2UVRhdXUtMUlSOXQyYTVFM2hpbUVCaHEzUnVaRkhQM3Z3c3dsZnIyMGtrdzVfSnYzRFNqMkF2SHAyMzcwQVdpQ3Z0RzdTaHZBMm1IY0Noazd4UXM4X1ZXZFlEbkdSTHVfbGRoYUNCc01BRGpPdUJSOS1mSEFwVGZ5OUJfZThOOUxQTE5oVmNXWTlfb295TUptQU5fVV9HRTNud0ZWeWFhNjNqcU9jVy0zaDRLQVhJdA?oc=5\" target=\"_blank\">Apple product launch roadmap leaked: Vision Pro 2, M5 iPad Pro and MacBook Pro coming soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+      "published": "2025-10-01T06:33:03+00:00",
+      "source": "India Today"
+    },
+    {
+      "title": "The Launch List: From Apple’s New iPhone To Louis Vuitton’s Beauty Line - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNci1jemp6NWtJTXRfMUs3STFPd0xZY2t3U0VFeVVhSmsxNHUtejZtcjJ4VXNROVdMeDZiWW01VmlGVW1KRnI5T1JRREVBZE5WS0FXaWtiRzItR0ZNbnJfeE50dHdUcHV4R20yaWxXSmFUN0xldnRJTEo3OTRGVjdHTUdBOWlIZFVnTnBuTndwaURPVHlK?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNci1jemp6NWtJTXRfMUs3STFPd0xZY2t3U0VFeVVhSmsxNHUtejZtcjJ4VXNROVdMeDZiWW01VmlGVW1KRnI5T1JRREVBZE5WS0FXaWtiRzItR0ZNbnJfeE50dHdUcHV4R20yaWxXSmFUN0xldnRJTEo3OTRGVjdHTUdBOWlIZFVnTnBuTndwaURPVHlK?oc=5\" target=\"_blank\">The Launch List: From Apple’s New iPhone To Louis Vuitton’s Beauty Line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2025-10-01T00:09:46+00:00",
+      "source": "Forbes"
+    },
     {
       "title": "Apple could announce new devices in October — what we expect to see - Tom's Guide",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2JVc2VBRk1DUjAyazBZcDJYM19pcmx6Q1VJUnpmVHJ5VzVaLUZoOWJxVndaT3NTU1BLMEw1a3ZlNmlxNEVOV0ZPVnhvUGVVZ1NBWjRDOUhKQWEyNm5lcTJ2WWVPYUMwVVc0eENjZmhNM0tBdElxWllqTHNDY3JUT0tjYW5EeHRHLW1GdTlSakYzb2RnTWU2NWVwUWFoWm5ibFhF?oc=5",
@@ -70,11 +84,11 @@
       "source": "Tom's Guide"
     },
     {
-      "title": "Apple grants staff three extra “Steve Days” off amid blockbuster iPhone launch - Storyboard18",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkZwWUw1cW1UbHM2dmRfdUZMUGZyRjEtR0ZfMEtqaGZNZk0zN0g0TkRULWp5aUtxRzFGamJUTXlQQVFONmpGWENZV184XzBOVlBnYlFoY3Fpa1hnRl9veTlnRHc5ZlFYRGwwQ1pNMGJ2TzR5T3pWVzJIWlMzVDY5U2gxT0hnSThDX3dVVFdBaG9QakctUWZhcjRYVHBZTUw2SDZoelBUT3hBZjZzZzEwb1U5cGY2cmI5UzVZV1NvNWJPcm9JRHZlcmhHc9IB0AFBVV95cUxOOTRVR0kxVmtocThIaFR0N0l6Ykd6MWN2djl0cUgwbG41SGVwQmMxUXM2OFVVS0JpTXpvV2c1TkkzNV8wTDdUenppWDZRUHNPT2hIVlFBVmQ4TFRINFIxS2lsR21ocHB6UGlBMWl3dk04NGxwMVVZeWtoV2NPQlltM1lMWUItLTR1NUVscU1hRzczeTNIb0dYS3U5SU04U3J6UHFyZC0yX0ozdkNJS0l5UVd0QWp1bFZFRjJ0WlBxdlNGTFRZQWxTRUJzV0JTREJs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkZwWUw1cW1UbHM2dmRfdUZMUGZyRjEtR0ZfMEtqaGZNZk0zN0g0TkRULWp5aUtxRzFGamJUTXlQQVFONmpGWENZV184XzBOVlBnYlFoY3Fpa1hnRl9veTlnRHc5ZlFYRGwwQ1pNMGJ2TzR5T3pWVzJIWlMzVDY5U2gxT0hnSThDX3dVVFdBaG9QakctUWZhcjRYVHBZTUw2SDZoelBUT3hBZjZzZzEwb1U5cGY2cmI5UzVZV1NvNWJPcm9JRHZlcmhHc9IB0AFBVV95cUxOOTRVR0kxVmtocThIaFR0N0l6Ykd6MWN2djl0cUgwbG41SGVwQmMxUXM2OFVVS0JpTXpvV2c1TkkzNV8wTDdUenppWDZRUHNPT2hIVlFBVmQ4TFRINFIxS2lsR21ocHB6UGlBMWl3dk04NGxwMVVZeWtoV2NPQlltM1lMWUItLTR1NUVscU1hRzczeTNIb0dYS3U5SU04U3J6UHFyZC0yX0ozdkNJS0l5UVd0QWp1bFZFRjJ0WlBxdlNGTFRZQWxTRUJzV0JTREJs?oc=5\" target=\"_blank\">Apple grants staff three extra “Steve Days” off amid blockbuster iPhone launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Storyboard18</font>",
-      "published": "2025-09-30T06:21:03+00:00",
-      "source": "Storyboard18"
+      "title": "Apple Product Roadmap Leak Reveals Vision Pro 2 And M5 Upgrades For iPad, MacBook - Mashable India",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0d0VEdFR0JYNm8ybnFQeEJNOFRrNTUtTTdIODUxNU81MUU4ZzZKRlBPVUJaTmpZdHFOajJ4aVNGSkNUNGd4XzJmM29UdnZMTjE4RnFKcFpzWFl0ZnZGWkhkWFBlYzNxX2daR2hKalNJX09OcnczeXJUZ2dlTzZaTFZqTVVxMy1kRWl3T2dKX1IzQzVueUpmeWdwbDNCblFocjRfUi1lczBlc0Y2WFRDQmRyMGZoa2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0d0VEdFR0JYNm8ybnFQeEJNOFRrNTUtTTdIODUxNU81MUU4ZzZKRlBPVUJaTmpZdHFOajJ4aVNGSkNUNGd4XzJmM29UdnZMTjE4RnFKcFpzWFl0ZnZGWkhkWFBlYzNxX2daR2hKalNJX09OcnczeXJUZ2dlTzZaTFZqTVVxMy1kRWl3T2dKX1IzQzVueUpmeWdwbDNCblFocjRfUi1lczBlc0Y2WFRDQmRyMGZoa2s?oc=5\" target=\"_blank\">Apple Product Roadmap Leak Reveals Vision Pro 2 And M5 Upgrades For iPad, MacBook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable India</font>",
+      "published": "2025-10-01T12:01:46+00:00",
+      "source": "Mashable India"
     },
     {
       "title": "Apple debuts iPhone 17 - Apple",
@@ -82,34 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd2tHY3FyMG1kdTVndjhuUlNEX01DLUpwa1hqZExxekdxUkM3MWNqYXR4YmNyeDR2VHBDTUdhUGQ4UDVuS3Rhc3FaM0xIUHN0YWVrcWhJTVpxc0FxUkt6S0JXdWdPWXhXT1ZLSWc1VQ?oc=5\" target=\"_blank\">Apple debuts iPhone 17</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
       "published": "2025-09-09T07:00:00+00:00",
       "source": "Apple"
-    },
-    {
-      "title": "Apple unveils slim iPhone Air at annual product launch event - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmVGakFqXzlzUHFvRVFEbXJ5UHVlTmk2elRnLVNZY0NkSi1ZOGpTZjBmYnFGMmV6SVBpUmhDcWY4SjNFQzhqS3VHS1dMME5UV1lsTURmYXpJZXNnME5Hc2dCSUNmZkRwUXNNLVA1ODY2Nm1qek4wR0tjOXlXaWJhbVZLX3NDTk9QMDg5Q1hPZ2FuQ1AzY0o1TExrWEx0T3NHWGhLczd30gGrAUFVX3lxTFBXVHNBcXFYZXhpd3hZaXVoWFlvS1FwNlVheTROY3ZnakV2aEpJQ1V1WGhodjhkN1pXMHloYzBwcTlFTVlpVTV0VWlRRC0zTENGZkxjcTJXb3ltQWpzd29tM2pyWERRZ1pYcktzREpiZXJXT0FIUU5sZHZxbmhTNEIwZnNMTGFZakRVeWt2aG12b2ZDVTd2SUdhelVqWjlXMjlFTU5fQXFwZG80RQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmVGakFqXzlzUHFvRVFEbXJ5UHVlTmk2elRnLVNZY0NkSi1ZOGpTZjBmYnFGMmV6SVBpUmhDcWY4SjNFQzhqS3VHS1dMME5UV1lsTURmYXpJZXNnME5Hc2dCSUNmZkRwUXNNLVA1ODY2Nm1qek4wR0tjOXlXaWJhbVZLX3NDTk9QMDg5Q1hPZ2FuQ1AzY0o1TExrWEx0T3NHWGhLczd30gGrAUFVX3lxTFBXVHNBcXFYZXhpd3hZaXVoWFlvS1FwNlVheTROY3ZnakV2aEpJQ1V1WGhodjhkN1pXMHloYzBwcTlFTVlpVTV0VWlRRC0zTENGZkxjcTJXb3ltQWpzd29tM2pyWERRZ1pYcktzREpiZXJXT0FIUU5sZHZxbmhTNEIwZnNMTGFZakRVeWt2aG12b2ZDVTd2SUdhelVqWjlXMjlFTU5fQXFwZG80RQ?oc=5\" target=\"_blank\">Apple unveils slim iPhone Air at annual product launch event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "published": "2025-09-09T07:00:00+00:00",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Apple still has 10 more product launches in the pipeline, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2dVQ0N6VDlQYVhzMGJUTVFmcHRPbEpQMnlBYVB0WmpOUFM0VmE1VGRSOUNGck83Qm5maktvTUM3VlpkWFZCNjYybzBGY05rM1dadHN6Ym15anFGS0dXNHR5ZGJQSmFsVUw0LUZhNTZ2QlZGRXZ5UjZNRHhJMXdMQ09YZjRVdjF5VEZ6YkRuSldnaTRob0djbnVlNzFZblRZTWEzaFh0T01Eak0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2dVQ0N6VDlQYVhzMGJUTVFmcHRPbEpQMnlBYVB0WmpOUFM0VmE1VGRSOUNGck83Qm5maktvTUM3VlpkWFZCNjYybzBGY05rM1dadHN6Ym15anFGS0dXNHR5ZGJQSmFsVUw0LUZhNTZ2QlZGRXZ5UjZNRHhJMXdMQ09YZjRVdjF5VEZ6YkRuSldnaTRob0djbnVlNzFZblRZTWEzaFh0T01Eak0?oc=5\" target=\"_blank\">Apple still has 10 more product launches in the pipeline, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2025-09-14T07:00:00+00:00",
-      "source": "9to5Mac"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2025-09-29",
-      "close": 254.42999267578125
+      "date": "2025-09-30",
+      "close": 254.6300048828125
     },
     "history": [
-      {
-        "date": "2025-09-19",
-        "close": 245.5
-      },
       {
         "date": "2025-09-22",
         "close": 256.0799865722656
@@ -133,6 +129,10 @@
       {
         "date": "2025-09-29",
         "close": 254.42999267578125
+      },
+      {
+        "date": "2025-09-30",
+        "close": 254.6300048828125
       }
     ],
     "name": "Apple Inc."
