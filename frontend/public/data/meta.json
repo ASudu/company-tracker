@@ -2,8 +2,15 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2025-10-08T12:23:16.772976+00:00",
+  "fetched_at": "2025-10-09T12:22:30.871250+00:00",
   "news": [
+    {
+      "title": "Meta Llama: Everything you need to know about the open generative AI model - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDJ6ZFl2UFZYZzBMck1VNEhzVm5vZm1tbmIxbVB0WTJZVVJ3b1RHTlIzRUtCR3R0YWwtbHU5VzM4QlhVYXFWd29SM01TektsNC05V1p4SzJpMjJxNUsxSWRoRFFlZnROSVo5bk5xZEZYdV9ITE4xNGh1VzRaTmxVR05CT09CVEliMUJqd3kzNm03T24tYXI3RGFHYTAwWjVHN2lWWUd4M3lYZERR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDJ6ZFl2UFZYZzBMck1VNEhzVm5vZm1tbmIxbVB0WTJZVVJ3b1RHTlIzRUtCR3R0YWwtbHU5VzM4QlhVYXFWd29SM01TektsNC05V1p4SzJpMjJxNUsxSWRoRFFlZnROSVo5bk5xZEZYdV9ITE4xNGh1VzRaTmxVR05CT09CVEliMUJqd3kzNm03T24tYXI3RGFHYTAwWjVHN2lWWUd4M3lYZERR?oc=5\" target=\"_blank\">Meta Llama: Everything you need to know about the open generative AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2025-10-06T17:11:50+00:00",
+      "source": "TechCrunch"
+    },
     {
       "title": "Finding and Sharing Reels on Facebook Just Got Easier and More Fun - Meta Store",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1lPVVFtTG9Hemh2cElGNnVYakhxNXp3eDdpVGJpTUYzbUFpaGtfOWZuWmRpNTE0amZCcF90bTJVVml4b3pKenZKbHp4ZjR0S2JJdzlVRlpoN3piRTh1QjJ0c3JENkhYckVCbEViX1dSX1ljUVZmOGhqSFV0QzEtTURMaHNxVDRCc1JUdm9Yb1FzQlFu0gGaAUFVX3lxTE94cXJCZ1F1cWpJR2dkSmdMVWtBc2dBTTdzVld0QzVzVjJGQWllUEF5UmwxRTZ4M0k5ZnZJY1dWdjZ2V1d4eXlMNVo2Q3hNb2hmdGJjSzFzRmI4bEowTGg0aUFzZGxlLUQzakFPQlFySV93WWJwOEY0Vmg2dWU5RzZ5VnhmeVFiU1Z0MzZPckRmZlpzY3RONkpCLWc?oc=5",
@@ -12,53 +19,46 @@
       "source": "Meta Store"
     },
     {
-      "title": "Sora, AI Bicycles, and Meta Disruption - Stratechery by Ben Thompson",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zRm5iWXREbms2S1JlMkhYZEJhTV94VXZrRlFQb1dhYVNZb3VDMFRBSVozSElqenR2eHJUUDlHaDZjMDZiMG9kVWFMUV9tcGMtbF9sZHhfbDBwa1hBVlpqVjRlN3VBbmwyeXlPWnhSVlBKZHA3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4zRm5iWXREbms2S1JlMkhYZEJhTV94VXZrRlFQb1dhYVNZb3VDMFRBSVozSElqenR2eHJUUDlHaDZjMDZiMG9kVWFMUV9tcGMtbF9sZHhfbDBwa1hBVlpqVjRlN3VBbmwyeXlPWnhSVlBKZHA3?oc=5\" target=\"_blank\">Sora, AI Bicycles, and Meta Disruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stratechery by Ben Thompson</font>",
-      "published": "2025-10-06T10:04:14+00:00",
-      "source": "Stratechery by Ben Thompson"
-    },
-    {
-      "title": "Meta and Apple close to settling EU cases - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10Vmx0TFI3andNRzZSOVNrRmk2MS1EWVNRbmV3eFlQbjZScmllRXpYQWVwQURlZm93N1RGRVhSU011U1ZSMDloX1RnTmpBVndLUF9xUmE0Z2ltcW4zSTN2OGtkVVpRUlJmb3k1YUNjY1k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE10Vmx0TFI3andNRzZSOVNrRmk2MS1EWVNRbmV3eFlQbjZScmllRXpYQWVwQURlZm93N1RGRVhSU011U1ZSMDloX1RnTmpBVndLUF9xUmE0Z2ltcW4zSTN2OGtkVVpRUlJmb3k1YUNjY1k?oc=5\" target=\"_blank\">Meta and Apple close to settling EU cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2025-10-08T10:22:18+00:00",
-      "source": "Financial Times"
-    },
-    {
-      "title": "Prologis, Amazon and Meta sign low-carbon concrete pact - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlR3ZjVodzVzaktQa3JoUk50ZVFqTkxKaHo4TFJKNE1TQzljdGx6NHQtSXRFcmxVZmJ0ZzJDLTB3U0I3b0xUalRudF9pd2cxMkRuUS1oV2p2U2NSempqOUdGUGo2TkxyNTRJc2tsVXhIdWxjaUlGdjZ4QlhrVTRHbXd4d29fZnltOGJta0RvMlFqN2RiZVHSAZsBQVVfeXFMT1RzV1cweEpvY3plYkVWZGxUNHNUNzNMcGx6ejRsSDUwSUVVWDR3cE55ZEdKRzlqUHJhdkxRVUVsTXpudjBRcG14R0NPZk13aFYxZjhCSGdkLXpEYVQ4elVub0QybDhMZDVUYzFERHNPTFljTDFOUUM0dUUyNzRuU21vWnJxTWw1TTNyUS1aQl9kSlU2Ri05MndLczA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlR3ZjVodzVzaktQa3JoUk50ZVFqTkxKaHo4TFJKNE1TQzljdGx6NHQtSXRFcmxVZmJ0ZzJDLTB3U0I3b0xUalRudF9pd2cxMkRuUS1oV2p2U2NSempqOUdGUGo2TkxyNTRJc2tsVXhIdWxjaUlGdjZ4QlhrVTRHbXd4d29fZnltOGJta0RvMlFqN2RiZVHSAZsBQVVfeXFMT1RzV1cweEpvY3plYkVWZGxUNHNUNzNMcGx6ejRsSDUwSUVVWDR3cE55ZEdKRzlqUHJhdkxRVUVsTXpudjBRcG14R0NPZk13aFYxZjhCSGdkLXpEYVQ4elVub0QybDhMZDVUYzFERHNPTFljTDFOUUM0dUUyNzRuU21vWnJxTWw1TTNyUS1aQl9kSlU2Ri05MndLczA?oc=5\" target=\"_blank\">Prologis, Amazon and Meta sign low-carbon concrete pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-10-05T14:00:01+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Supreme Court declines to revive Laura Loomer RICO suit against Meta, Twitter - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEVKOU9ZN19RcjM1cTRPQkFid3UzdjJwQUt2bTdkQVpBOWtpZ3h0bEpHQ3d4VFdXUk5aT01OWXM1ZGdoN25ueUtCV1RGa18xdVd2NXQzTUtLZkRLVGRWeFNLZEtmWXk4dFVYZGtjVVh4ZHBORjUyMExuR0dxSDBTQTdCZ1NGdGlvR19Sc05RczJ5ZXZaMkHSAZsBQVVfeXFMT2VzcmJrcVNaR24zT3RRUXRxMk4tc2RrZlJna1JOaFpVUmotbjh3ODVjbkdBd3RxZWhubWdabUlLRjJIYmVNelZSUTM4ZjB3M201ZmlDcjM1MXZpM2dINEFralhnTE9NNTg5MlJLTEJLM1psRFNiU0ZMUjVWTU1Ia3I5czEzNUZLZVprYmtwSlREYUFCdDEwX2tUdWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEVKOU9ZN19RcjM1cTRPQkFid3UzdjJwQUt2bTdkQVpBOWtpZ3h0bEpHQ3d4VFdXUk5aT01OWXM1ZGdoN25ueUtCV1RGa18xdVd2NXQzTUtLZkRLVGRWeFNLZEtmWXk4dFVYZGtjVVh4ZHBORjUyMExuR0dxSDBTQTdCZ1NGdGlvR19Sc05RczJ5ZXZaMkHSAZsBQVVfeXFMT2VzcmJrcVNaR24zT3RRUXRxMk4tc2RrZlJna1JOaFpVUmotbjh3ODVjbkdBd3RxZWhubWdabUlLRjJIYmVNelZSUTM4ZjB3M201ZmlDcjM1MXZpM2dINEFralhnTE9NNTg5MlJLTEJLM1psRFNiU0ZMUjVWTU1Ia3I5czEzNUZLZVprYmtwSlREYUFCdDEwX2tUdWc?oc=5\" target=\"_blank\">Supreme Court declines to revive Laura Loomer RICO suit against Meta, Twitter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-      "published": "2025-10-06T13:55:00+00:00",
-      "source": "The Hill"
-    },
-    {
-      "title": "META addresses community concerns over southern Indiana data center - WDRB",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmh6VHZOWlF1NWU5VnkxME5kd0swMUNmaWNqdTM1MDV4SmZLbEFHMDAtS0NJUUVGR1ROVmt0VDVBMWt0SENGbUNYb1JsdGR5bWIyUFNDMFRUWUpXZE5jYW1KLVhSYzRxX2tBQllwVUlYVmdCU05RVXQ3WHhaUUQ4RS1zQVBBU29zOXF5aG1Bd2JBTGF5U2Z0WkJ1RUxOY044U1lxajZfVVRwenFYLUNIalVQcDN1Z28ySm42VFdNb0lkb0pNZXowOVNNNEFyYzl0QlVtakFhT0ZLRWxScjJ1VktOM2tTODA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmh6VHZOWlF1NWU5VnkxME5kd0swMUNmaWNqdTM1MDV4SmZLbEFHMDAtS0NJUUVGR1ROVmt0VDVBMWt0SENGbUNYb1JsdGR5bWIyUFNDMFRUWUpXZE5jYW1KLVhSYzRxX2tBQllwVUlYVmdCU05RVXQ3WHhaUUQ4RS1zQVBBU29zOXF5aG1Bd2JBTGF5U2Z0WkJ1RUxOY044U1lxajZfVVRwenFYLUNIalVQcDN1Z28ySm42VFdNb0lkb0pNZXowOVNNNEFyYzl0QlVtakFhT0ZLRWxScjJ1VktOM2tTODA?oc=5\" target=\"_blank\">META addresses community concerns over southern Indiana data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>",
-      "published": "2025-10-08T03:30:55+00:00",
-      "source": "WDRB"
-    },
-    {
-      "title": "Supreme Court Rejects Bid to Sue Meta Over Church Shooting - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUs2c3ZNVDZIbFVPMS1iWnlpUjJsNUl3MURsUFBoamRqS2tZbHdHMVl0eDFwdjlreWR6TnFCWF9XbmJZV0l5aHhyT2VFQzlpNmtOeWxvaHVOS0o2VUJwVjF3dU5HYXB1WHh0MVNlSExLaVhqN3hLU2ZHejNqaW9fSzhFakE5QmJMZDlGcjFnODh0RFZiNzlidmxVb2h5Skk1V1AwTEltSzg3UDZhQ0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUs2c3ZNVDZIbFVPMS1iWnlpUjJsNUl3MURsUFBoamRqS2tZbHdHMVl0eDFwdjlreWR6TnFCWF9XbmJZV0l5aHhyT2VFQzlpNmtOeWxvaHVOS0o2VUJwVjF3dU5HYXB1WHh0MVNlSExLaVhqN3hLU2ZHejNqaW9fSzhFakE5QmJMZDlGcjFnODh0RFZiNzlidmxVb2h5Skk1V1AwTEltSzg3UDZhQ0E?oc=5\" target=\"_blank\">Supreme Court Rejects Bid to Sue Meta Over Church Shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-10-06T13:38:07+00:00",
+      "title": "Ray-Ban Maker Essilor Touts Meta Glasses as Next Smartphone Blockbuster - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWFqQVUxdzIzT09OZjdkdlU0TXFEN1lsdjgzcDNvT2NwUEVVOWlIYUNMU0NraTlKa0tiZFk4Z09sZVBqVGJDZDd3S3pqVjk5b3BvMjFGUzV6SmRjVXZIVHdLSmk2Vk1fS2R2cC03VkhGb0xuUEZPemJYWnBZMU03NDNVUGlJOHdKMmdDUUhkb2tTVmJNREk0NFhsSU9TN0FvbUxBSWJ4S1JIZ3IwS2lhM2xKakxGZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWFqQVUxdzIzT09OZjdkdlU0TXFEN1lsdjgzcDNvT2NwUEVVOWlIYUNMU0NraTlKa0tiZFk4Z09sZVBqVGJDZDd3S3pqVjk5b3BvMjFGUzV6SmRjVXZIVHdLSmk2Vk1fS2R2cC03VkhGb0xuUEZPemJYWnBZMU03NDNVUGlJOHdKMmdDUUhkb2tTVmJNREk0NFhsSU9TN0FvbUxBSWJ4S1JIZ3IwS2lhM2xKakxGZw?oc=5\" target=\"_blank\">Ray-Ban Maker Essilor Touts Meta Glasses as Next Smartphone Blockbuster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-10-09T10:58:11+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "The Death of the Headset? Apple and Meta Bet on AR Glasses - XR Today",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUU3czZUd085V0lmNGtKajJ1YWllQW80RVJZY2NXd09xTGYtYS1zSUNTZXRsMjhTUUctUmN0d1diSDN6RHBQSXVPOUpYMTNSb3lITF93VkZEZDF1WmpaNWxNNUZQbmN5QjBHY3ExNVJGNTN0bEVmdjhNaU9ZSHRILVExWWpyUlJYWmRIcWpQbEdhaU1uSGwzT081Sm5QYkRROEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUU3czZUd085V0lmNGtKajJ1YWllQW80RVJZY2NXd09xTGYtYS1zSUNTZXRsMjhTUUctUmN0d1diSDN6RHBQSXVPOUpYMTNSb3lITF93VkZEZDF1WmpaNWxNNUZQbmN5QjBHY3ExNVJGNTN0bEVmdjhNaU9ZSHRILVExWWpyUlJYWmRIcWpQbEdhaU1uSGwzT081Sm5QYkRROEE?oc=5\" target=\"_blank\">The Death of the Headset? Apple and Meta Bet on AR Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XR Today</font>",
-      "published": "2025-10-07T15:07:30+00:00",
-      "source": "XR Today"
+      "title": "Meta Platforms: Power Of The Adoption Curve (NASDAQ:META) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0ZTRU5CRThWRjVkSl9hdmFxZDhkOE1CZWNKa1lhVlZuMVE5NFkwZ3BuYnlONDNQM1F1d3NES1hoc2RzWGRHcW1rVDhfUElJQnhKMlFKVTRtaTh5MW9sbTdDcTZkS1Z0amx5cVFMWmNBLVA3NGNiZEJsRTIxQ1Vza0ZMWV9qdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0ZTRU5CRThWRjVkSl9hdmFxZDhkOE1CZWNKa1lhVlZuMVE5NFkwZ3BuYnlONDNQM1F1d3NES1hoc2RzWGRHcW1rVDhfUElJQnhKMlFKVTRtaTh5MW9sbTdDcTZkS1Z0amx5cVFMWmNBLVA3NGNiZEJsRTIxQ1Vza0ZMWV9qdw?oc=5\" target=\"_blank\">Meta Platforms: Power Of The Adoption Curve (NASDAQ:META)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2025-10-08T20:18:30+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "The Meta Ray-Ban Display’s most interesting tech might be the glass - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTFyMm1feGhBcTNTdVBkd1A3aWRNcnB4YU52c1ltdVBnVUNhVXpTQlZOOVlkSWtKbWVjWmhfN0NmdjRib0xuYjhFWS1oMUZybnd1dGdJS1VvRjY5R3FidGloZ1hrSEljYkJFRnZHYXpVNzdzc0hZRXM0cFJlRl95eUwxRktJbllyV2g1MU90RHRLeUFJbzE4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTFyMm1feGhBcTNTdVBkd1A3aWRNcnB4YU52c1ltdVBnVUNhVXpTQlZOOVlkSWtKbWVjWmhfN0NmdjRib0xuYjhFWS1oMUZybnd1dGdJS1VvRjY5R3FidGloZ1hrSEljYkJFRnZHYXpVNzdzc0hZRXM0cFJlRl95eUwxRktJbllyV2g1MU90RHRLeUFJbzE4?oc=5\" target=\"_blank\">The Meta Ray-Ban Display’s most interesting tech might be the glass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-10-09T09:58:16+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Meta’s next big bet for VR: Your living room - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBa3N6b05qYzdZbllPcDQ3VDZtOXQ2LTF3MmpPdUVnZ1J0NmpZTVpPQm1Bdng3dEttcTNuRE9CWW1FYm0zN182TTRuS3VfTmJiei14R25zbC13SVJlU0hteWFBbmZIVWhDZ2JqUmNvU0tva1M2bmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBBa3N6b05qYzdZbllPcDQ3VDZtOXQ2LTF3MmpPdUVnZ1J0NmpZTVpPQm1Bdng3dEttcTNuRE9CWW1FYm0zN182TTRuS3VfTmJiei14R25zbC13SVJlU0hteWFBbmZIVWhDZ2JqUmNvU0tva1M2bmc?oc=5\" target=\"_blank\">Meta’s next big bet for VR: Your living room</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "published": "2025-10-08T17:45:13+00:00",
+      "source": "Fast Company"
+    },
+    {
+      "title": "eBay Has the Best Meta Quest Deals for October Prime Day (Quest 3 for $360, Quest 3S for $215) - IGN",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX2Y5NmcxTTU0c2lhR2xmcGF5SjNaSlFNNjZuZk5oUlJlQVF4RGhmVm54M21iNE42XzBUdFYwV0FoZU5acVZ5NHRNS1gwN1VUQS1GdXRYSEl6WmdMa1pHVngyMk5MWUNWcUEzOFNha0x6Z200YjNwTkJ2MXJMTFN4eF82N01YVlZFeW5QODI1cU9JR0g2QngxQThhd3RJRTlleERSZUhiTGpnR215X2ZaU0pfQnJGYkpJcXhXNDRxc1VFWVRI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQX2Y5NmcxTTU0c2lhR2xmcGF5SjNaSlFNNjZuZk5oUlJlQVF4RGhmVm54M21iNE42XzBUdFYwV0FoZU5acVZ5NHRNS1gwN1VUQS1GdXRYSEl6WmdMa1pHVngyMk5MWUNWcUEzOFNha0x6Z200YjNwTkJ2MXJMTFN4eF82N01YVlZFeW5QODI1cU9JR0g2QngxQThhd3RJRTlleERSZUhiTGpnR215X2ZaU0pfQnJGYkpJcXhXNDRxc1VFWVRI?oc=5\" target=\"_blank\">eBay Has the Best Meta Quest Deals for October Prime Day (Quest 3 for $360, Quest 3S for $215)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
+      "published": "2025-10-09T07:46:38+00:00",
+      "source": "IGN"
+    },
+    {
+      "title": "Republican AGs demand Meta explain handling of Oct 7 terror content, Hamas 'atrocities' circulated online - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXVLT1N0LWVNYlJBWXJUcG5Na0VrOWVpd0I0NzZmdlctWnJBa2FaMGY4QlBhOG5MWW1aM0V1dGhjdGhwbHhTUVVYc1JtV2hEM3FORGR0cmo2d0dXOEpoRThtbW8zOEh6UndsVVVKbUlnUVdKcElMQXUteTYwUFgtRzhXWmdrWkpobUp0RVZudnQtbVAtbzJySndyNUZuMERXVzVyYmRZSEVNbmI5SG1Cd1V5ZW1Xdk84SkV1QjNPMGdyWXExeDdmenJ4LVg2cWphRnhPZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXVLT1N0LWVNYlJBWXJUcG5Na0VrOWVpd0I0NzZmdlctWnJBa2FaMGY4QlBhOG5MWW1aM0V1dGhjdGhwbHhTUVVYc1JtV2hEM3FORGR0cmo2d0dXOEpoRThtbW8zOEh6UndsVVVKbUlnUVdKcElMQXUteTYwUFgtRzhXWmdrWkpobUp0RVZudnQtbVAtbzJySndyNUZuMERXVzVyYmRZSEVNbmI5SG1Cd1V5ZW1Xdk84SkV1QjNPMGdyWXExeDdmenJ4LVg2cWphRnhPZA?oc=5\" target=\"_blank\">Republican AGs demand Meta explain handling of Oct 7 terror content, Hamas 'atrocities' circulated online</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2025-10-08T16:08:00+00:00",
+      "source": "Fox Business"
     }
   ],
   "product_launches": [
@@ -77,39 +77,35 @@
       "source": "MarTech Cube"
     },
     {
+      "title": "Meta unveils new smart glasses with a display and wristband controller - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2l3RW9KcG9ISlczc3BJbW5yazFCMW1qQXhqVmdRS0todEppN0Nka1htYmNnRnFiNlNWZTZ1RVhWWi00Q0VkaDhULWtPMWU4MEFrM1RGQ0NyaTEwWTkybF9UeGVPR3NoUklFXzVnaGhKeVB5MmtKeE11QkFBV2Z2eWhvWkxJQnRob3FQdnJlMVJVRjFNZFBQbDZCOE1HWHhLcm9Pc1FubHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2l3RW9KcG9ISlczc3BJbW5yazFCMW1qQXhqVmdRS0todEppN0Nka1htYmNnRnFiNlNWZTZ1RVhWWi00Q0VkaDhULWtPMWU4MEFrM1RGQ0NyaTEwWTkybF9UeGVPR3NoUklFXzVnaGhKeVB5MmtKeE11QkFBV2Z2eWhvWkxJQnRob3FQdnJlMVJVRjFNZFBQbDZCOE1HWHhLcm9Pc1FubHc?oc=5\" target=\"_blank\">Meta unveils new smart glasses with a display and wristband controller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2025-09-17T07:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta launches Business AI to handle customer purchase inquiries - thekeyword.co",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3c4M1JTWklmVWNWenJLTjkzRjhEdmg4TS1FNGN5TWU0R1lFS3k4YXFMeEVBcHNYMEdsOTFqRUU5UDBiVTFXTDNjNmg4V2Q2cFhMWlBiMlJUa2lzcEt5OXRwakVXMDF4MGJ2R2JJMmxjOWJneEQtZU1pMlY3dEFEQWlDLUVIZ3NLLWx2YjhCQkN6LUM0UnBxbHNR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3c4M1JTWklmVWNWenJLTjkzRjhEdmg4TS1FNGN5TWU0R1lFS3k4YXFMeEVBcHNYMEdsOTFqRUU5UDBiVTFXTDNjNmg4V2Q2cFhMWlBiMlJUa2lzcEt5OXRwakVXMDF4MGJ2R2JJMmxjOWJneEQtZU1pMlY3dEFEQWlDLUVIZ3NLLWx2YjhCQkN6LUM0UnBxbHNR?oc=5\" target=\"_blank\">Meta launches Business AI to handle customer purchase inquiries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thekeyword.co</font>",
+      "published": "2025-10-03T15:15:33+00:00",
+      "source": "thekeyword.co"
+    },
+    {
       "title": "Introducing Vibes: A New Way to Discover and Create AI Videos - Meta Store",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ySHNCQ1lPRjBFWDdnMm96UnMwUEFtdXRTQUxLREpJZk1RY1g4VzF4WnFmZHhUSi1MSnU0cm9MS2IyN1ptZUU5SllaNC1CU3dRbkNBNUt6T0t3d25PUi1BZEhUR3REdVhpSi0tOUlYa9IBdEFVX3lxTE1MR1NzakpQMDhmamZnQ1kyY0dRWkR2a3Y2RUozQkhqTUZEc3BLSlB0dlNCV3dadDlRazV3cExoNGhKYVo5QmNSV3pnbUI1UFV1Wlpha0NncmU4bXd2MFhTbnhMa0V0MHAzaDM3QnRaTUFtam82?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8ySHNCQ1lPRjBFWDdnMm96UnMwUEFtdXRTQUxLREpJZk1RY1g4VzF4WnFmZHhUSi1MSnU0cm9MS2IyN1ptZUU5SllaNC1CU3dRbkNBNUt6T0t3d25PUi1BZEhUR3REdVhpSi0tOUlYa9IBdEFVX3lxTE1MR1NzakpQMDhmamZnQ1kyY0dRWkR2a3Y2RUozQkhqTUZEc3BLSlB0dlNCV3dadDlRazV3cExoNGhKYVo5QmNSV3pnbUI1UFV1Wlpha0NncmU4bXd2MFhTbnhMa0V0MHAzaDM3QnRaTUFtam82?oc=5\" target=\"_blank\">Introducing Vibes: A New Way to Discover and Create AI Videos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
       "published": "2025-09-25T07:00:00+00:00",
       "source": "Meta Store"
-    },
-    {
-      "title": "Meta launches $799 glasses with screen and AI integration - SiliconValley.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXlveElwT2FVSWZhYVNYaVFCLTF2X2tLTDlSZlNZcElMSFRrbWpaOG1rMEItT2tXcU00OWpJdWt4Wm5uV3FhU2phcGJaOE11QWlvcjk2Nlp3NTN3TzExYzFualFNN05WZG4tQUN6LVdrSkhYb1RxalprQ3hSb3huY0dGV3l4WlhSTUZYV0lvSGhRWW4zM3NteWtkR25ETDjSAaQBQVVfeXFMTTlYa0V0UWRob2xnS1ZTN2VoSW5yZUVwS1J1TXExdm9KTjMyS0Z4V1dtS1RHSXM4QWZ6TDVrTlNwakZlbWdHNHpCYmxmeVc0SUF3SmFxbXgyeDluRDVqNFFWY0JnNWxIeWlxLVJFZW9NTDBYSTE4ekVyRm1wV0poN25OMmh2Zjl6VHNPb0x3V3BQYzNtc2s5SEpaeHppMTgzSjdoa3A?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXlveElwT2FVSWZhYVNYaVFCLTF2X2tLTDlSZlNZcElMSFRrbWpaOG1rMEItT2tXcU00OWpJdWt4Wm5uV3FhU2phcGJaOE11QWlvcjk2Nlp3NTN3TzExYzFualFNN05WZG4tQUN6LVdrSkhYb1RxalprQ3hSb3huY0dGV3l4WlhSTUZYV0lvSGhRWW4zM3NteWtkR25ETDjSAaQBQVVfeXFMTTlYa0V0UWRob2xnS1ZTN2VoSW5yZUVwS1J1TXExdm9KTjMyS0Z4V1dtS1RHSXM4QWZ6TDVrTlNwakZlbWdHNHpCYmxmeVc0SUF3SmFxbXgyeDluRDVqNFFWY0JnNWxIeWlxLVJFZW9NTDBYSTE4ekVyRm1wV0poN25OMmh2Zjl6VHNPb0x3V3BQYzNtc2s5SEpaeHppMTgzSjdoa3A?oc=5\" target=\"_blank\">Meta launches $799 glasses with screen and AI integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconValley.com</font>",
-      "published": "2025-09-18T07:00:00+00:00",
-      "source": "SiliconValley.com"
-    },
-    {
-      "title": "Meta Launches Vibes, OpenAI Launches Sora 2, Sora as a Social App? - Above Avalon",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVVhUkdJTkZxT2JuNHduTE9oeEZKTlhENExpRjNtdVRVcWc3b1dSV3JHekFWY2RERG1McUptVDcwSlk1Z3YtV09tOU5OSU9kc1hUVTNXVzhNOUdISG9BMTl2MFdtTXZIb1N4dVFrQjlRSHkyV0E1R3d3MDNIUmdvVEtHZTlnV0E2STZzUVdiX3c0LU9pT09UbVBrc0JqWjdZaUtvLThWbDNtX0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVVhUkdJTkZxT2JuNHduTE9oeEZKTlhENExpRjNtdVRVcWc3b1dSV3JHekFWY2RERG1McUptVDcwSlk1Z3YtV09tOU5OSU9kc1hUVTNXVzhNOUdISG9BMTl2MFdtTXZIb1N4dVFrQjlRSHkyV0E1R3d3MDNIUmdvVEtHZTlnV0E2STZzUVdiX3c0LU9pT09UbVBrc0JqWjdZaUtvLThWbDNtX0U?oc=5\" target=\"_blank\">Meta Launches Vibes, OpenAI Launches Sora 2, Sora as a Social App?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Above Avalon</font>",
-      "published": "2025-10-05T17:47:42+00:00",
-      "source": "Above Avalon"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2025-10-07",
-      "close": 713.0800170898438
+      "date": "2025-10-08",
+      "close": 717.8400268554688
     },
     "history": [
-      {
-        "date": "2025-09-29",
-        "close": 743.4000244140625
-      },
       {
         "date": "2025-09-30",
         "close": 734.3800048828125
@@ -133,6 +129,10 @@
       {
         "date": "2025-10-07",
         "close": 713.0800170898438
+      },
+      {
+        "date": "2025-10-08",
+        "close": 717.8400268554688
       }
     ],
     "name": "Meta Platforms, Inc."
