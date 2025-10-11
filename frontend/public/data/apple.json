@@ -2,66 +2,87 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-10-10T12:22:55.746911+00:00",
+  "fetched_at": "2025-10-11T12:19:14.199302+00:00",
   "news": [
     {
-      "title": "Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQalBZMU5YdFMyaUczVmU2WTVUOTZoOTJwUkZJRzJUYndqYk9Lb0RzMzh3Z25yRzZ5NHlFOUdSSWp3T3dwTmxYbGVyejgxLTNwUTA4S29jalFRSXNmSWNjNzNCc2RJWEJoWjFKMWtvNUlIbHRTYUxJck4tc3ZNXzF4YXlsaWViTnAwOVhTZlpEUVFvZnRHQ05RTXBZbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQalBZMU5YdFMyaUczVmU2WTVUOTZoOTJwUkZJRzJUYndqYk9Lb0RzMzh3Z25yRzZ5NHlFOUdSSWp3T3dwTmxYbGVyejgxLTNwUTA4S29jalFRSXNmSWNjNzNCc2RJWEJoWjFKMWtvNUlIbHRTYUxJck4tc3ZNXzF4YXlsaWViTnAwOVhTZlpEUVFvZnRHQ05RTXBZbw?oc=5\" target=\"_blank\">Apple Took Down These ICE-Tracking Apps. The Developers Aren't Giving Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2025-10-09T17:22:00+00:00",
+      "title": "Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tOWsxWGhtQ0xvdVlDY0F2dENrY2l0cWtYZFZwdGlqRGJORi00Tm5jeGItMjZRbWVRUHpVdUV1MEIxWEltVjFDSUVMSGNfWXRuU1JZZF9pdG5sa2RmUHJ2cFMtVXpVcmpEbDZKalJIY1E1MHlqWDNNYVlZQUI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5tOWsxWGhtQ0xvdVlDY0F2dENrY2l0cWtYZFZwdGlqRGJORi00Tm5jeGItMjZRbWVRUHpVdUV1MEIxWEltVjFDSUVMSGNfWXRuU1JZZF9pdG5sa2RmUHJ2cFMtVXpVcmpEbDZKalJIY1E1MHlqWDNNYVlZQUI?oc=5\" target=\"_blank\">Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2025-10-10T09:15:00+00:00",
       "source": "WIRED"
     },
     {
-      "title": "Sora copycats flooded Apple’s App Store, and some still remain - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdW9yMHc2a2g1ZHB4Y1BmSnZ6Tm5tenBHMTRweU1JZ0N1bzNpdl9jRUYzaUo5YnZReXZySlhzeDBiTlhqWUpCN2tVNjZMM2RVU1dsWVBVaFJxQWsxUmFCQlZ4V0tuUFZjNWprbzM1TUlCeXdVWnVpcEVacDMxVUU4LXhOb2x3bUhZM2FvV2FmeFp6X1hIbWEwSTZlTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdW9yMHc2a2g1ZHB4Y1BmSnZ6Tm5tenBHMTRweU1JZ0N1bzNpdl9jRUYzaUo5YnZReXZySlhzeDBiTlhqWUpCN2tVNjZMM2RVU1dsWVBVaFJxQWsxUmFCQlZ4V0tuUFZjNWprbzM1TUlCeXdVWnVpcEVacDMxVUU4LXhOb2x3bUhZM2FvV2FmeFp6X1hIbWEwSTZlTQ?oc=5\" target=\"_blank\">Sora copycats flooded Apple’s App Store, and some still remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-10-09T20:06:49+00:00",
-      "source": "TechCrunch"
+      "title": "Apple is about to give more generous payouts from its Bug Bounty Program - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejdLU3FGN0w1S3FSSHBHb3RjaUJsWUVTSXo3MW9tUDZjVk5HZUdyT18wZUJBZ0pKeUoxdF9ibG52ekphRVlmc1RNbktEN2ZXZURXTThDSmo2VFZNcGdWODBkMEpDdHR0cUNHaEpKQ3N3ZXdSLWpxdUo1a05uYnA2R3Fnb19hbEtSam9BdW42aDJPNThXb2o4bjBnZ1FfekdSYU9OQUoxYXpVRWFlSjFidVhQd1poQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQejdLU3FGN0w1S3FSSHBHb3RjaUJsWUVTSXo3MW9tUDZjVk5HZUdyT18wZUJBZ0pKeUoxdF9ibG52ekphRVlmc1RNbktEN2ZXZURXTThDSmo2VFZNcGdWODBkMEpDdHR0cUNHaEpKQ3N3ZXdSLWpxdUo1a05uYnA2R3Fnb19hbEtSam9BdW42aDJPNThXb2o4bjBnZ1FfekdSYU9OQUoxYXpVRWFlSjFidVhQd1poQQ?oc=5\" target=\"_blank\">Apple is about to give more generous payouts from its Bug Bounty Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2025-10-10T12:33:00+00:00",
+      "source": "AppleInsider"
     },
     {
-      "title": "Apple Smart Glasses Could Address Meta's Mistakes - CNET",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmxDRTZCd1FibWtwTGhOY3NTNmdKLXQwbE1KS3NyS2FUWW80Z1NCZ2h1MDBLN3ZpVTNGaTJPaUYzYkpmaVFFUkUtN2V4YlozNmlPeUtfdXVTa2xKQW00ZmpmWjN0ekNhMjAxNUtPZi1ZeDFLOWVPeEUyZlNER1Q0Tm01U0dBem1PcDZLa3J2SlIzb3RGbjEw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmxDRTZCd1FibWtwTGhOY3NTNmdKLXQwbE1KS3NyS2FUWW80Z1NCZ2h1MDBLN3ZpVTNGaTJPaUYzYkpmaVFFUkUtN2V4YlozNmlPeUtfdXVTa2xKQW00ZmpmWjN0ekNhMjAxNUtPZi1ZeDFLOWVPeEUyZlNER1Q0Tm01U0dBem1PcDZLa3J2SlIzb3RGbjEw?oc=5\" target=\"_blank\">Apple Smart Glasses Could Address Meta's Mistakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-10-10T12:00:03+00:00",
-      "source": "CNET"
+      "title": "Apple now offers $2 million for zero-click RCE vulnerabilities - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQl8weVpEclVFRTRsV1BpXzI1ZmdYb1dVeFhlUHZyYWt4LXpmSmdvRTVKS3o3Yzd0XzdXSjNkdU9lcDFyYldueU0xcEU4RU1jSi11eWNRdDc3RFZ0YnVneE9Ma2g1ZS1wek1PLVoyOHJPWjdmNlVDLVdwWVA1bGxvdFloOHowWkhDbjhQUk44cm1oVGFtY29oSF9aX081VERFaWo2b3ZtMV9NZDFHQUHSAbMBQVVfeXFMUDY4X3VqMzlwTUhNYV9qTVYwdWVsbE9uclktNXQ1eC0yZlpOOUs5Zl9Tb3JwM3JNYXh0VXVucjhLb0tyY2FFdWlDQm5UakdsMHFmSmFNdERaMzZheEJDeHF1ZHVTQnluN0ZHeHRYdDA3TGZvYXNTN1ZiVjlSdzk3bmtwREdJSnNpS2lUMlJ5LTBxMDZDV1Z4LWhZUldJZWVJRmo5dkMyalZTSGE1eWpvUVpQYWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQl8weVpEclVFRTRsV1BpXzI1ZmdYb1dVeFhlUHZyYWt4LXpmSmdvRTVKS3o3Yzd0XzdXSjNkdU9lcDFyYldueU0xcEU4RU1jSi11eWNRdDc3RFZ0YnVneE9Ma2g1ZS1wek1PLVoyOHJPWjdmNlVDLVdwWVA1bGxvdFloOHowWkhDbjhQUk44cm1oVGFtY29oSF9aX081VERFaWo2b3ZtMV9NZDFHQUHSAbMBQVVfeXFMUDY4X3VqMzlwTUhNYV9qTVYwdWVsbE9uclktNXQ1eC0yZlpOOUs5Zl9Tb3JwM3JNYXh0VXVucjhLb0tyY2FFdWlDQm5UakdsMHFmSmFNdERaMzZheEJDeHF1ZHVTQnluN0ZHeHRYdDA3TGZvYXNTN1ZiVjlSdzk3bmtwREdJSnNpS2lUMlJ5LTBxMDZDV1Z4LWhZUldJZWVJRmo5dkMyalZTSGE1eWpvUVpQYWs?oc=5\" target=\"_blank\">Apple now offers $2 million for zero-click RCE vulnerabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-10-10T16:50:35+00:00",
+      "source": "BleepingComputer"
     },
     {
-      "title": "The Pieces for Apple's Glasses Are Already Here - CNET",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNHl6cjhkQjIzdGluVlB4QVUyUlg5LWRxM3dXZjlLcHFyR2lfRy1RbWQwNERuUXQ1QUZNRGhldmF5QmJFYUxFbFlOOUpHSWZVTDFfOThQQUNTMy1CenZlbW1rbEJMaERZQUN2Y3VwZnVwbV9wd05hdkw0Y1BQVFJHcGU4RjZiMFRiVm9z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNHl6cjhkQjIzdGluVlB4QVUyUlg5LWRxM3dXZjlLcHFyR2lfRy1RbWQwNERuUXQ1QUZNRGhldmF5QmJFYUxFbFlOOUpHSWZVTDFfOThQQUNTMy1CenZlbW1rbEJMaERZQUN2Y3VwZnVwbV9wd05hdkw0Y1BQVFJHcGU4RjZiMFRiVm9z?oc=5\" target=\"_blank\">The Pieces for Apple's Glasses Are Already Here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-10-10T12:00:00+00:00",
-      "source": "CNET"
-    },
-    {
-      "title": "Apple to Move Health, Fitness Divisions to Services in Reorganization - Bloomberg.com",
+      "title": "Apple Reorganization Moves Health and Fitness to Services - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRko3Z1dCWldmenN2UEpBY3hEYjZXZ0dHMmtzTHdpS2VlVW1aZmJ6MzJZeEFBbFpHbU5iQzZPZEZySlliRjNMMWRLNWx2cU54U1ctU0g0X3lPMFNnOF9lUENONElHV2JsS0xwY1BnMUhLaExDWllQNUdyNVUwN2dBVy13a1MyY0pvUDRKa0hkc09kQkQ2WXg3cThnemRiTEthenVlUjA4TDgxMlZtX0V1c1A5dmxLT3l6MjJn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRko3Z1dCWldmenN2UEpBY3hEYjZXZ0dHMmtzTHdpS2VlVW1aZmJ6MzJZeEFBbFpHbU5iQzZPZEZySlliRjNMMWRLNWx2cU54U1ctU0g0X3lPMFNnOF9lUENONElHV2JsS0xwY1BnMUhLaExDWllQNUdyNVUwN2dBVy13a1MyY0pvUDRKa0hkc09kQkQ2WXg3cThnemRiTEthenVlUjA4TDgxMlZtX0V1c1A5dmxLT3l6MjJn?oc=5\" target=\"_blank\">Apple to Move Health, Fitness Divisions to Services in Reorganization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRko3Z1dCWldmenN2UEpBY3hEYjZXZ0dHMmtzTHdpS2VlVW1aZmJ6MzJZeEFBbFpHbU5iQzZPZEZySlliRjNMMWRLNWx2cU54U1ctU0g0X3lPMFNnOF9lUENONElHV2JsS0xwY1BnMUhLaExDWllQNUdyNVUwN2dBVy13a1MyY0pvUDRKa0hkc09kQkQ2WXg3cThnemRiTEthenVlUjA4TDgxMlZtX0V1c1A5dmxLT3l6MjJn?oc=5\" target=\"_blank\">Apple Reorganization Moves Health and Fitness to Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "published": "2025-10-10T00:54:00+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Apple (AAPL) Reshuffles Leadership Ahead of Health Push - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc3NvVGdWNHBCaE1pdkxwMWFuYXFnemV3bGRxVnRpbVo5aGxsckZoYjVIS2FLOUE0b3oyc1lReUJwTFBIMlhheFdpaHpjQ1lxNXV1bTMwNTFkTlByQXBwSmRnYmpMUUpMU0drMmVMZGlRM29mbkRGLXctLUt0LVdLSGZQM0MtU2JtRTVJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc3NvVGdWNHBCaE1pdkxwMWFuYXFnemV3bGRxVnRpbVo5aGxsckZoYjVIS2FLOUE0b3oyc1lReUJwTFBIMlhheFdpaHpjQ1lxNXV1bTMwNTFkTlByQXBwSmRnYmpMUUpMU0drMmVMZGlRM29mbkRGLXctLUt0LVdLSGZQM0MtU2JtRTVJ?oc=5\" target=\"_blank\">Apple (AAPL) Reshuffles Leadership Ahead of Health Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2025-10-10T09:57:06+00:00",
-      "source": "TipRanks"
+      "title": "Apple Reorganizes Health and Fitness Divisions Ahead of Former COO’s Retirement - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1pUcGxlZHY2TUdkRFBRNm5uQ081THlHeUxianFIY2UzOTRMV0d1LWRia2J3NTB4U3dtbFk0MnZMX29EMEFEZ1VEWG1sMDY3cEMtSGhzclFSUHZ5WWhvTS1mYUJKaVd2Qlk4aGJRa1dkaWJ3SjE3Z25iWW1NbDMtSmJ4Q1JubEQyNDA1RExlNU9zYnQya3JqX1hsMldGdlo5cDE0enVNdVBJekNRT083dUJ2QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1pUcGxlZHY2TUdkRFBRNm5uQ081THlHeUxianFIY2UzOTRMV0d1LWRia2J3NTB4U3dtbFk0MnZMX29EMEFEZ1VEWG1sMDY3cEMtSGhzclFSUHZ5WWhvTS1mYUJKaVd2Qlk4aGJRa1dkaWJ3SjE3Z25iWW1NbDMtSmJ4Q1JubEQyNDA1RExlNU9zYnQya3JqX1hsMldGdlo5cDE0enVNdVBJekNRT083dUJ2QQ?oc=5\" target=\"_blank\">Apple Reorganizes Health and Fitness Divisions Ahead of Former COO’s Retirement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+      "published": "2025-10-11T00:11:15+00:00",
+      "source": "PYMNTS.com"
     },
     {
-      "title": "Health+ could debut in 2026 as Apple's next subscription service - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2k4STZQWW56YkVXNFVGa2ZPT2ZwYXU2a295S1dkYkdRNFJ2RmFyYnViZUdvbTVGY0JlNEZDeDAzMWRPd0kxVHNLVUNFTFJjc2tRS05zVllZMTdJVGJ3SFJyQkNiRG0tU3paNG10bV9YcGNHNVNvdmNhTEg2UzZQMTdEUzVkVllCM0JPemU3UFpXRzZXbFlhUml4RDl2eEhKMkljTHpWQmM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2k4STZQWW56YkVXNFVGa2ZPT2ZwYXU2a295S1dkYkdRNFJ2RmFyYnViZUdvbTVGY0JlNEZDeDAzMWRPd0kxVHNLVUNFTFJjc2tRS05zVllZMTdJVGJ3SFJyQkNiRG0tU3paNG10bV9YcGNHNVNvdmNhTEg2UzZQMTdEUzVkVllCM0JPemU3UFpXRzZXbFlhUml4RDl2eEhKMkljTHpWQmM?oc=5\" target=\"_blank\">Health+ could debut in 2026 as Apple's next subscription service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
-      "published": "2025-10-10T02:31:18+00:00",
-      "source": "AppleInsider"
+      "title": "Apple’s executive reshuffling isn’t over - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHRtWTRRMUFKZzJWQ3QySHhJc19mNkdia3g3dzlJckEyU01xVm9OSmtubUlzMXFFX3MtNURjUXR2SEpMXzhGQVQyYWtIOXpVWVNPYlVzdEZUMU9RalNKZkxlQ0hvTzF6bURXeHJ0ZmxkNTVBY3Q3N0trWGZUOW93SlpJV3pTdURNV243T0RxdFg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWHRtWTRRMUFKZzJWQ3QySHhJc19mNkdia3g3dzlJckEyU01xVm9OSmtubUlzMXFFX3MtNURjUXR2SEpMXzhGQVQyYWtIOXpVWVNPYlVzdEZUMU9RalNKZkxlQ0hvTzF6bURXeHJ0ZmxkNTVBY3Q3N0trWGZUOW93SlpJV3pTdURNV243T0RxdFg?oc=5\" target=\"_blank\">Apple’s executive reshuffling isn’t over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-10-10T15:18:17+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "Apple will pay up to $2M for finding an iPhone security flaw - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zekwzU2E2Z24wZTloX2pWdEhYTkpJeDEwdC1VcFMyaXlJVGI4LW15VjRqMzRHRnRzWkpzVzVwVHdRRjMtRFF3dDAxTW5abUFwdHhkSTJ2dmFUdUJFZmZ3aTF6bHhZSFN1NGQxa18teVFuZ3RDTm82M0ZGdUpsUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8zekwzU2E2Z24wZTloX2pWdEhYTkpJeDEwdC1VcFMyaXlJVGI4LW15VjRqMzRHRnRzWkpzVzVwVHdRRjMtRFF3dDAxTW5abUFwdHhkSTJ2dmFUdUJFZmZ3aTF6bHhZSFN1NGQxa18teVFuZ3RDTm82M0ZGdUpsUQ?oc=5\" target=\"_blank\">Apple will pay up to $2M for finding an iPhone security flaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2025-10-10T09:17:06+00:00",
-      "source": "Axios"
+      "title": "Where Will Apple Stock Be in 1 Year? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVXdtZW1fVnMzR2RhTzZBdHNNMk9lNDJtX2N3UG5jRnh4MXRaUWpHNVFiVXVQZm9QNWFNc3lXUlk2TkhvN2Z5czFPVmtVZklfWnZYLVRGQU1FdzdfczZwQXk5NzdSUnpGeGJ2bFVVM3cxZmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVXdtZW1fVnMzR2RhTzZBdHNNMk9lNDJtX2N3UG5jRnh4MXRaUWpHNVFiVXVQZm9QNWFNc3lXUlk2TkhvN2Z5czFPVmtVZklfWnZYLVRGQU1FdzdfczZwQXk5NzdSUnpGeGJ2bFVVM3cxZmc?oc=5\" target=\"_blank\">Where Will Apple Stock Be in 1 Year?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-10-11T11:15:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkVzSFk5YkV2dTF1RHJrWEJqbVJXOUZlWmFkaU5xM2Y2ZjR0ZWNPdktMbHNBU01JbEZOcHVKRlg0UWVKR3NveHZpa0RKMW1GS3o0T1VFWGVrTW5LTlRJMDdrX1V0X0VKZTF4V3RaeWlnWHdScGhOUXN2QWhVXzZPT1RnanBZRG5hUFVpWl80YWZOVm9mNVJXWGhDT2wwa3pNZHI0eUhsOVh2azFWbTlRYmRYaGFCa2lNVFlWWHNjTXZtQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkVzSFk5YkV2dTF1RHJrWEJqbVJXOUZlWmFkaU5xM2Y2ZjR0ZWNPdktMbHNBU01JbEZOcHVKRlg0UWVKR3NveHZpa0RKMW1GS3o0T1VFWGVrTW5LTlRJMDdrX1V0X0VKZTF4V3RaeWlnWHdScGhOUXN2QWhVXzZPT1RnanBZRG5hUFVpWl80YWZOVm9mNVJXWGhDT2wwa3pNZHI0eUhsOVh2azFWbTlRYmRYaGFCa2lNVFlWWHNjTXZtQQ?oc=5\" target=\"_blank\">Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2025-10-11T10:00:00+00:00",
+      "source": "WIRED"
     }
   ],
   "product_launches": [
+    {
+      "title": "macOS Tahoe itself has leaked 2025 and 2026 Mac release timelines - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUxPYnpGMW11LWhBV2lZc0IxMGFMYzlraUpTakJSRWhtTXNlSUkwZTkwbnJldjhuUDVscFdOSkxmZVdtdEN1aTk1MGtXV0RHY3RRU0U4SnFVS2N3b09mU0JKVXdweUw1d1FwcHZfVEpVcHlHOEFJWkQ5cVo3MEI4V1N0S0JWNk9ZMnh5OWYxR1UtOXEzTFhrT2FlS1NLN1ZhbTZ5OXBVaHcwNkJH?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUxPYnpGMW11LWhBV2lZc0IxMGFMYzlraUpTakJSRWhtTXNlSUkwZTkwbnJldjhuUDVscFdOSkxmZVdtdEN1aTk1MGtXV0RHY3RRU0U4SnFVS2N3b09mU0JKVXdweUw1d1FwcHZfVEpVcHlHOEFJWkQ5cVo3MEI4V1N0S0JWNk9ZMnh5OWYxR1UtOXEzTFhrT2FlS1NLN1ZhbTZ5OXBVaHcwNkJH?oc=5\" target=\"_blank\">macOS Tahoe itself has leaked 2025 and 2026 Mac release timelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2025-10-10T18:35:00+00:00",
+      "source": "AppleInsider"
+    },
+    {
+      "title": "Apple October event: Expected date, product launches, and more | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3VFSlRMZjM5Qkk1MS1jbVZpS3ZMX0NzeWJmWTJlRVZ4X3RIVFhXMFphVENHbldWOVVna0QyZ2JsQkVGa1lTeWU5YW50SnVoTnhQai11REtmT3JwNDJnSURLMnNLUmVVQ1pSbnNzRE1NcGtuWldqZkxNQWdDOFZNNkZuRlVoSm5LdEdDTk5qSThwamY0YW9RZXJvYnN6dm9DbE1SMUpLeVNLdXdlODJjcDZKVHdqX2FYUHZMdGdKY9IBxAFBVV95cUxPaXhzSWZjeXIwaFpFeC1fTzRDMWwzX2MwWjE0ZzdXZkM3ZzVybTJfSzhwWU9YQVA1VnN4UDRjbG43WnpjRE5lRnNldjlad3owRm9uT3B1THBFdXl1enpHT2Y5Z3o5MFU2RzJNazlEQWJBZGkyd2JqRU52el83ekcyNXJvRUlpUUZFUVJrelpudDl2RzlFMkFwdEJ0eVdqZlZpdzFhZlJMQ0NpTk5pUFJTZ1dmLUZieEtuUXlfcWJ6R0pyNHU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3VFSlRMZjM5Qkk1MS1jbVZpS3ZMX0NzeWJmWTJlRVZ4X3RIVFhXMFphVENHbldWOVVna0QyZ2JsQkVGa1lTeWU5YW50SnVoTnhQai11REtmT3JwNDJnSURLMnNLUmVVQ1pSbnNzRE1NcGtuWldqZkxNQWdDOFZNNkZuRlVoSm5LdEdDTk5qSThwamY0YW9RZXJvYnN6dm9DbE1SMUpLeVNLdXdlODJjcDZKVHdqX2FYUHZMdGdKY9IBxAFBVV95cUxPaXhzSWZjeXIwaFpFeC1fTzRDMWwzX2MwWjE0ZzdXZkM3ZzVybTJfSzhwWU9YQVA1VnN4UDRjbG43WnpjRE5lRnNldjlad3owRm9uT3B1THBFdXl1enpHT2Y5Z3o5MFU2RzJNazlEQWJBZGkyd2JqRU52el83ekcyNXJvRUlpUUZFUVJrelpudDl2RzlFMkFwdEJ0eVdqZlZpdzFhZlJMQ0NpTk5pUFJTZ1dmLUZieEtuUXlfcWJ6R0pyNHU0?oc=5\" target=\"_blank\">Apple October event: Expected date, product launches, and more | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+      "published": "2025-10-11T04:30:10+00:00",
+      "source": "Hindustan Times"
+    },
+    {
+      "title": "Apple to Launch New Products Starting Next Week, Claims Dubious Leak [Updated] - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVA2eEVITWlzVFluU25ZVm1KTDl0V0VVOGxIVVE4YklHekVuRENlQXVlcXMwUlQyaGlsOWFhZUt5SGZfV3pRdlpUblVuMEZkanhJVy1pZTF6NktjN3hXZ1R1NkRYZkVPS1hPT2lNYVBkTTVXV3JTVm1RYl9nTDdyckN6anJtRm9kWGVzRWF3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVA2eEVITWlzVFluU25ZVm1KTDl0V0VVOGxIVVE4YklHekVuRENlQXVlcXMwUlQyaGlsOWFhZUt5SGZfV3pRdlpUblVuMEZkanhJVy1pZTF6NktjN3hXZ1R1NkRYZkVPS1hPT2lNYVBkTTVXV3JTVm1RYl9nTDdyckN6anJtRm9kWGVzRWF3?oc=5\" target=\"_blank\">Apple to Launch New Products Starting Next Week, Claims Dubious Leak [Updated]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2025-10-10T12:57:10+00:00",
+      "source": "MacRumors"
+    },
     {
       "title": "16 New Apple products coming in 2025: What the rumors say - Gadget Flow",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UjI0NkI4emxzTWFaZS1jZmMxVmNtdE5XelQwNFRnSTgzenVVSXA0OWhvYmhncFhLeWF3c2JKZzdBcFRxNmlEVDlLTjJMM2dQc21hN18yeExqS1cxT0dlNEdKdjRtQXdQ?oc=5",
@@ -70,46 +91,21 @@
       "source": "Gadget Flow"
     },
     {
-      "title": "Here are five exciting Apple product launches to look forward to next year - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTERPWWNxdTZLUVlRS2RqODdmMDB4NndFSGZsd2t3a2x6d0hSUm9sV3A0NEtJZzNqbFB6NnpDWjVGcFRfZWJsYXQzckVrbzBGaEVyUUZpNF9McUNmYnFzMWlUaWZ5dEk1WlIzWHJIc2hoUGFkMDB2ZkFSZ2pOYzZpNXR3dzh0LUNyNWxR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTERPWWNxdTZLUVlRS2RqODdmMDB4NndFSGZsd2t3a2x6d0hSUm9sV3A0NEtJZzNqbFB6NnpDWjVGcFRfZWJsYXQzckVrbzBGaEVyUUZpNF9McUNmYnFzMWlUaWZ5dEk1WlIzWHJIc2hoUGFkMDB2ZkFSZ2pOYzZpNXR3dzh0LUNyNWxR?oc=5\" target=\"_blank\">Here are five exciting Apple product launches to look forward to next year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2025-10-04T15:32:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
       "title": "Apple debuts iPhone 17 - Apple",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd2tHY3FyMG1kdTVndjhuUlNEX01DLUpwa1hqZExxekdxUkM3MWNqYXR4YmNyeDR2VHBDTUdhUGQ4UDVuS3Rhc3FaM0xIUHN0YWVrcWhJTVpxc0FxUkt6S0JXdWdPWXhXT1ZLSWc1VQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9Hd2tHY3FyMG1kdTVndjhuUlNEX01DLUpwa1hqZExxekdxUkM3MWNqYXR4YmNyeDR2VHBDTUdhUGQ4UDVuS3Rhc3FaM0xIUHN0YWVrcWhJTVpxc0FxUkt6S0JXdWdPWXhXT1ZLSWc1VQ?oc=5\" target=\"_blank\">Apple debuts iPhone 17</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
       "published": "2025-09-09T07:00:00+00:00",
       "source": "Apple"
-    },
-    {
-      "title": "Apple’s Best New Product in Years Is Unexpectedly Controversial - Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjhpdE5nbDVzOUJEUENPbWZTZWxlX29yRE9BNDVnMGZjN1BGMHNLWnVLbjJxYVBOX0t4a0U3TllpVXR4MUFUWVNsa3FaRlVmM2tuRjF2Q3N2WmphOG43X0o4UFBEX3c1UktLTkxGVWRqRXYtSjluNE5ZbTN3SlJpOHR5N2FNamhoS09zZkI1RlFic2IyOHFCaXYtVnFuT2tqOWxFYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjhpdE5nbDVzOUJEUENPbWZTZWxlX29yRE9BNDVnMGZjN1BGMHNLWnVLbjJxYVBOX0t4a0U3TllpVXR4MUFUWVNsa3FaRlVmM2tuRjF2Q3N2WmphOG43X0o4UFBEX3c1UktLTkxGVWRqRXYtSjluNE5ZbTN3SlJpOHR5N2FNamhoS09zZkI1RlFic2IyOHFCaXYtVnFuT2tqOWxFYw?oc=5\" target=\"_blank\">Apple’s Best New Product in Years Is Unexpectedly Controversial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.com</font>",
-      "published": "2025-10-09T08:37:48+00:00",
-      "source": "Inc.com"
-    },
-    {
-      "title": "Apple Event This October? Here's the Latest on What to Expect - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DY0dzUUNNaVBVa2RWc3JFMURIQXdZVG9MT2phQTlkZEpWWXEtNi1XT05FWWpCS0tObmZ4TFBzMTBHNjR5UHcyN0FhdUdFSkI3LUpBVVA3TGpkejB6UlVodUxreF9NYWpzaTR4YWFxWFFhQ0NiU1pXVUlraw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1DY0dzUUNNaVBVa2RWc3JFMURIQXdZVG9MT2phQTlkZEpWWXEtNi1XT05FWWpCS0tObmZ4TFBzMTBHNjR5UHcyN0FhdUdFSkI3LUpBVVA3TGpkejB6UlVodUxreF9NYWpzaTR4YWFxWFFhQ0NiU1pXVUlraw?oc=5\" target=\"_blank\">Apple Event This October? Here's the Latest on What to Expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2025-10-09T14:00:00+00:00",
-      "source": "MacRumors"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2025-10-09",
-      "close": 254.0399932861328
+      "date": "2025-10-10",
+      "close": 245.27000427246094
     },
     "history": [
-      {
-        "date": "2025-10-01",
-        "close": 255.4499969482422
-      },
       {
         "date": "2025-10-02",
         "close": 257.1300048828125
@@ -133,6 +129,10 @@
       {
         "date": "2025-10-09",
         "close": 254.0399932861328
+      },
+      {
+        "date": "2025-10-10",
+        "close": 245.27000427246094
       }
     ],
     "name": "Apple Inc."
