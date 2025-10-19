@@ -2,12 +2,19 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-10-18T12:19:57.731236+00:00",
+  "fetched_at": "2025-10-19T12:20:05.288654+00:00",
   "news": [
+    {
+      "title": "Why Microsoft Let OpenAI Play the Field - The Information",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlU1hic0Jab2xESlNrRXloZ0xWV0t5SkZDUkxnbDE3THZhbnMwYW9wQlBscHE4TEVNNUZ4RmVnT3VsMEJBbElTRUNzbm5UZlNKNjFJdnNUaGRmQTJLTkZ6eTI1TjBJa2FZckFOUHJaYzRFLUR2QV82VERCOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBlU1hic0Jab2xESlNrRXloZ0xWV0t5SkZDUkxnbDE3THZhbnMwYW9wQlBscHE4TEVNNUZ4RmVnT3VsMEJBbElTRUNzbm5UZlNKNjFJdnNUaGRmQTJLTkZ6eTI1TjBJa2FZckFOUHJaYzRFLUR2QV82VERCOA?oc=5\" target=\"_blank\">Why Microsoft Let OpenAI Play the Field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2025-10-16T13:00:00+00:00",
+      "source": "The Information"
+    },
     {
       "title": "Microsoft wants you to talk to your PC and let AI control it - The Verge",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS21icUdEWmhMaXdoUlBVQnJVZnhONnkwdHBHVjdtUFVaOHZ3dnc4Z2RyY3BSWXVKVk9XZkJvUWxSUW01ZnJnYUdESC1scWRHdjUtMEdJYW9wTWt0bzA1U0pEVGFTSWYxemlINDM1dmE5UHdTeGdSN3UxTElZR1Q5emthTVpJYVpMaG83UzhR?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQS21icUdEWmhMaXdoUlBVQnJVZnhONnkwdHBHVjdtUFVaOHZ3dnc4Z2RyY3BSWXVKVk9XZkJvUWxSUW01ZnJnYUdESC1scWRHdjUtMEdJYW9wTWt0bzA1U0pEVGFTSWYxemlINDM1dmE5UHdTeGdSN3UxTElZR1Q5emthTVpJYVpMaG83UzhR?oc=5\" target=\"_blank\">Microsoft wants you to talk to your PC and let AI control it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUThPdmJWN3puYUV0enVFa3AzeEluNmhBTm4wNE5rYzJxbk9nV2xKeGF0cHBrWEVyc3I5VGJvVGxXMVAzX3pidXc2cW5Qa3QtWGl5Rzc5b1paNENFQm1OUzBTX1lneHE3emJjMFFUanZDYzdqZmMtaE9DUklhQ3dMaVBMNUFBQQ?oc=5\" target=\"_blank\">As Microsoft Forces Users to Ditch Windows 10, It Announces That It’s Also Turning Windows 11 into an AI-Controlled Monstrosity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOakFpSFRWdG80b0tGNzAyanhBa1dmdlROVnhkdEJuTHVpLVhYd1BfZFlrUG5LMTA3ejBqU0ROSEpsRUNDdjlQWFVWeHhORXY1Y19BZXUzekxlVHY5bldBY0FoRTd6YXd6c3BEODBlOS04OUVVOVZ2S25nZ2tJNkw3RVBhdVlpUHE3QzQyR2d3?oc=5\" target=\"_blank\">Microsoft Copilot's new AI features combine 'simplicity and power'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQS21icUdEWmhMaXdoUlBVQnJVZnhONnkwdHBHVjdtUFVaOHZ3dnc4Z2RyY3BSWXVKVk9XZkJvUWxSUW01ZnJnYUdESC1scWRHdjUtMEdJYW9wTWt0bzA1U0pEVGFTSWYxemlINDM1dmE5UHdTeGdSN3UxTElZR1Q5emthTVpJYVpMaG83UzhR?oc=5\" target=\"_blank\">Microsoft wants you to talk to your PC and let AI control it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2025-10-16T13:00:00+00:00",
       "source": "The Verge"
     },
@@ -19,27 +26,6 @@
       "source": "Anthropic"
     },
     {
-      "title": "Microsoft sounds alarm as hackers turn Teams platform into 'real-world dangers' for users - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2tqSlQ4Z29WeGp1enFNQjNIZ2FoalR3OXV1RkhMTVdzanNZZlhYX29xNVZkdDZuVjNkdElPRUNWcXcyRlBxajlsRWh1WkVPUS1NV21PU3l0ZzRsSkhfbHVOTE5LYTJRU1psVzNja09aNXpOLUVuNzZfMXRuTXRKQ1VMbjVMNEVmX2FOdndPVVRkR1M3WVBmcE1YTlZuNEZfZ2E1LUhHSdIBrAFBVV95cUxPSDgtRjl5WjZxZWJmQ1BMaW5QMTdNdTBrcTZ1bzN3YUZrR18wWTVYTXdiMkkwWTJfRTZvNEFFc0lkUC1SS01qeXlTbW9GaEsxUGpKNG96QUJSQ3hjS1hHcDdTUHc2SmtJT0lrZGNUbExOQXpZVTV1NFFuMXlSS2RaVDlNTEF1V3FYMzgxU1piQWg1ZUx1S0tqa0JDekR3NHhnMXZFa2E1NkdQaTBz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR2tqSlQ4Z29WeGp1enFNQjNIZ2FoalR3OXV1RkhMTVdzanNZZlhYX29xNVZkdDZuVjNkdElPRUNWcXcyRlBxajlsRWh1WkVPUS1NV21PU3l0ZzRsSkhfbHVOTE5LYTJRU1psVzNja09aNXpOLUVuNzZfMXRuTXRKQ1VMbjVMNEVmX2FOdndPVVRkR1M3WVBmcE1YTlZuNEZfZ2E1LUhHSdIBrAFBVV95cUxPSDgtRjl5WjZxZWJmQ1BMaW5QMTdNdTBrcTZ1bzN3YUZrR18wWTVYTXdiMkkwWTJfRTZvNEFFc0lkUC1SS01qeXlTbW9GaEsxUGpKNG96QUJSQ3hjS1hHcDdTUHc2SmtJT0lrZGNUbExOQXpZVTV1NFFuMXlSS2RaVDlNTEF1V3FYMzgxU1piQWg1ZUx1S0tqa0JDekR3NHhnMXZFa2E1NkdQaTBz?oc=5\" target=\"_blank\">Microsoft sounds alarm as hackers turn Teams platform into 'real-world dangers' for users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "published": "2025-10-17T12:10:48+00:00",
-      "source": "Fox News"
-    },
-    {
-      "title": "Intel Foundry Reportedly Secures 18A Order from Microsoft for Maia 2 Accelerator - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1RaUXBoUGlkRGZ4R01zczlyTWh0TDdacHpxZXJ0WjktTFFOV2t3aThtSi01Q0lsYTBGZEJTVmRFelhGQUhxOUZLY2RFSHpJNERoNFpvTmlOLThGSkFNSjUzN0lmSFQ2d21TSm5udFVBVXpnQkxPWmVONzRvYldtbk9sRURpLXhfQ3ZvTGNOVVJzLXNvRS1XVFQySFJyQ1Rzd2o1enVGNkxrMGFzOGh1NVA1Q1gwZ9IBuwFBVV95cUxQWFg1Vmdld1A0NjV5cU9ITWNUcDk4b1gwbjNNUU9JSE83WVhnU1lsLXloUGE5UTR6Nm0xbkh5MVA2R2hyQ3RwajM2ME5GY0hNUE1MZmVyRTNCaWxrZlYyWkVxUngweHBRbXJsbEdETlZEV1BvRDdTeFFES1h3TVB1R3F6Y0tFZm9wakNVRUtUbUJ5N19HcER4dVJHejZFZ2hUTDRSdmQzemFTYWhSTUdGY1lPNU5KWkZjaFBr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1RaUXBoUGlkRGZ4R01zczlyTWh0TDdacHpxZXJ0WjktTFFOV2t3aThtSi01Q0lsYTBGZEJTVmRFelhGQUhxOUZLY2RFSHpJNERoNFpvTmlOLThGSkFNSjUzN0lmSFQ2d21TSm5udFVBVXpnQkxPWmVONzRvYldtbk9sRURpLXhfQ3ZvTGNOVVJzLXNvRS1XVFQySFJyQ1Rzd2o1enVGNkxrMGFzOGh1NVA1Q1gwZ9IBuwFBVV95cUxQWFg1Vmdld1A0NjV5cU9ITWNUcDk4b1gwbjNNUU9JSE83WVhnU1lsLXloUGE5UTR6Nm0xbkh5MVA2R2hyQ3RwajM2ME5GY0hNUE1MZmVyRTNCaWxrZlYyWkVxUngweHBRbXJsbEdETlZEV1BvRDdTeFFES1h3TVB1R3F6Y0tFZm9wakNVRUtUbUJ5N19HcER4dVJHejZFZ2hUTDRSdmQzemFTYWhSTUdGY1lPNU5KWkZjaFBr?oc=5\" target=\"_blank\">Intel Foundry Reportedly Secures 18A Order from Microsoft for Maia 2 Accelerator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2025-10-17T15:00:06+00:00",
-      "source": "TechPowerUp"
-    },
-    {
-      "title": "What Microsoft Could Teach Oracle - The Information",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tY0tBaVd0dzAxTXRIMjVGWTBuV2tWVXZzNnRLZHVzWEJvb1hCV2NFS2RkeURKZ1pQXzd0NWJ3bV9fLXVMZE1ZVERfVjBhNDdKWUVrb0h0dDJqZi1GRWFQQWNkTC1EU3NOQkRocmxRMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5tY0tBaVd0dzAxTXRIMjVGWTBuV2tWVXZzNnRLZHVzWEJvb1hCV2NFS2RkeURKZ1pQXzd0NWJ3bV9fLXVMZE1ZVERfVjBhNDdKWUVrb0h0dDJqZi1GRWFQQWNkTC1EU3NOQkRocmxRMA?oc=5\" target=\"_blank\">What Microsoft Could Teach Oracle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2025-10-17T22:00:00+00:00",
-      "source": "The Information"
-    },
-    {
       "title": "Microsoft lifts more safeguard holds blocking Windows 11 updates - BleepingComputer",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlBqMTExUWs5aHpjTnlZekNtSDhBUFhEalpPdTlndkk0QXNhaUttV1FRV2poWXpicWp2Q0ZjazVFMlBkbTlRNjlXYWhsWXBaTGxveDl2Rl9WdEY5dVJhSF8zampLQ05hVU9RSXpYb0ZMd3BsRU04bTNjQUNRLWY2WU5xNkxYR3BlTzZteTRUUmY5azB3S2VxQ2F2WUVYWnQ2dWRtcTdpYzJJTlZLT2lsYjMxUdIBuAFBVV95cUxNZjgtMTJsSkNLdm1NblktQm1ydjJFQnlRYVpsNXRWRHV0TVJfTmNaZjAwc3EtNWszajJkeExCOHZGTGMyTm5lN1VTcUJBb0RtMmhjc1JkU19PRXJhTUh1WUZDWEQtSU96TVlQZlZLeXNlWF9IZjVhUnRjVmtxdlJFd1hKUjV1UGZTWFRlVWw1VVJmc0dhdE1PdnJZWHRFREt5cm05U0UwNXN5SGpaNU8tT2FEVnNrMk81?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlBqMTExUWs5aHpjTnlZekNtSDhBUFhEalpPdTlndkk0QXNhaUttV1FRV2poWXpicWp2Q0ZjazVFMlBkbTlRNjlXYWhsWXBaTGxveDl2Rl9WdEY5dVJhSF8zampLQ05hVU9RSXpYb0ZMd3BsRU04bTNjQUNRLWY2WU5xNkxYR3BlTzZteTRUUmY5azB3S2VxQ2F2WUVYWnQ2dWRtcTdpYzJJTlZLT2lsYjMxUdIBuAFBVV95cUxNZjgtMTJsSkNLdm1NblktQm1ydjJFQnlRYVpsNXRWRHV0TVJfTmNaZjAwc3EtNWszajJkeExCOHZGTGMyTm5lN1VTcUJBb0RtMmhjc1JkU19PRXJhTUh1WUZDWEQtSU96TVlQZlZLeXNlWF9IZjVhUnRjVmtxdlJFd1hKUjV1UGZTWFRlVWw1VVJmc0dhdE1PdnJZWHRFREt5cm05U0UwNXN5SGpaNU8tT2FEVnNrMk81?oc=5\" target=\"_blank\">Microsoft lifts more safeguard holds blocking Windows 11 updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
@@ -47,11 +33,11 @@
       "source": "BleepingComputer"
     },
     {
-      "title": "ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1QyU09MN1NyVkp0UWtNS1VpNlZyZ0NTblBZTWFfWjFfNmx5QjNZeTZQNS1FaDFoNTVUNXdtYkFYRlpnaFo3MExSUXNGWXBTQ1RQUkUzNjljekI1MFF4eFQ4QXAzbXVOUUFiU002c2pMRzAwMzdHRC0xWHFaczl2NU9HbXJvSVRMTXUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1QyU09MN1NyVkp0UWtNS1VpNlZyZ0NTblBZTWFfWjFfNmx5QjNZeTZQNS1FaDFoNTVUNXdtYkFYRlpnaFo3MExSUXNGWXBTQ1RQUkUzNjljekI1MFF4eFQ4QXAzbXVOUUFiU002c2pMRzAwMzdHRC0xWHFaczl2NU9HbXJvSVRMTXUw?oc=5\" target=\"_blank\">ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
-      "published": "2025-10-17T14:00:00+00:00",
-      "source": "NPR"
+      "title": "As Microsoft Forces Users to Ditch Windows 10, It Announces That It’s Also Turning Windows 11 into an AI-Controlled Monstrosity - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUThPdmJWN3puYUV0enVFa3AzeEluNmhBTm4wNE5rYzJxbk9nV2xKeGF0cHBrWEVyc3I5VGJvVGxXMVAzX3pidXc2cW5Qa3QtWGl5Rzc5b1paNENFQm1OUzBTX1lneHE3emJjMFFUanZDYzdqZmMtaE9DUklhQ3dMaVBMNUFBQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUThPdmJWN3puYUV0enVFa3AzeEluNmhBTm4wNE5rYzJxbk9nV2xKeGF0cHBrWEVyc3I5VGJvVGxXMVAzX3pidXc2cW5Qa3QtWGl5Rzc5b1paNENFQm1OUzBTX1lneHE3emJjMFFUanZDYzdqZmMtaE9DUklhQ3dMaVBMNUFBQQ?oc=5\" target=\"_blank\">As Microsoft Forces Users to Ditch Windows 10, It Announces That It’s Also Turning Windows 11 into an AI-Controlled Monstrosity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
+      "published": "2025-10-17T17:08:59+00:00",
+      "source": "Futurism"
     },
     {
       "title": "How a Microsoft data scientist found community in a Chinatown SRO - The San Francisco Standard",
@@ -59,6 +45,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9rVUtNdURtV2ZqY3RxeGZMZkNfMDV3bEJLdWt0QTJQZllpb0pMMXl4ZUxvQ28tSVVuTS1XQzdXUUs1b3QzekVZanp2eTlzM29jdVcyYktmWDBtT2RyRl8waEFUMmpTYUdFTzJuZWs3SXpzQQ?oc=5\" target=\"_blank\">How a Microsoft data scientist found community in a Chinatown SRO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The San Francisco Standard</font>",
       "published": "2025-10-17T13:00:00+00:00",
       "source": "The San Francisco Standard"
+    },
+    {
+      "title": "Microsoft said my PC can't run Windows 11, but I upgraded in 5 minutes anyway - here's how - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdF9fcnFQdW5PRXRvY3ltc3pxWmpnM0ozenhZd3p0NGZRVmFaQzU1Q2xLYWRvVTBRQUp6dHZHY21kNW1pLXd5M3pTMUdad2JjckUxazZEUWJPRl8tNzFtb3ZGajF1N0hMdExiZnZxOWRNLVBnX0p6aW0wVGpGYzFYWVZpaWE3dHh1am53UE9JQ01TanJYdjlYQzRVZWV2dG8talk1c190bmVXQWxlZE94YnBnWmROSnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdF9fcnFQdW5PRXRvY3ltc3pxWmpnM0ozenhZd3p0NGZRVmFaQzU1Q2xLYWRvVTBRQUp6dHZHY21kNW1pLXd5M3pTMUdad2JjckUxazZEUWJPRl8tNzFtb3ZGajF1N0hMdExiZnZxOWRNLVBnX0p6aW0wVGpGYzFYWVZpaWE3dHh1am53UE9JQ01TanJYdjlYQzRVZWV2dG8talk1c190bmVXQWxlZE94YnBnWmROSnc?oc=5\" target=\"_blank\">Microsoft said my PC can't run Windows 11, but I upgraded in 5 minutes anyway - here's how</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2025-10-16T17:21:00+00:00",
+      "source": "ZDNET"
+    },
+    {
+      "title": "Microsoft confirms Windows 11 25H2 is now available for everyone - Windows Latest",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTTlLM1dOdUt3U2RMYWdqWEJobE1NSklWNHE2RUpvX3phTV9qWEo1Zl9BNzAxa2Y4NXJLUGh4Q1BVdjh3MXVaWGtBZExUS0lrTHdNRGpsdndxSHpfeVNzaVFuYnE2M0U3cW5mLV94RGVTLW96cU5kQjFPNEF0N0VnMUU5TGowRFdFdFY3Q0tINnM5cjRNTGp0VGRKV1VDUWFKRFVMRlVLNEtCdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTTlLM1dOdUt3U2RMYWdqWEJobE1NSklWNHE2RUpvX3phTV9qWEo1Zl9BNzAxa2Y4NXJLUGh4Q1BVdjh3MXVaWGtBZExUS0lrTHdNRGpsdndxSHpfeVNzaVFuYnE2M0U3cW5mLV94RGVTLW96cU5kQjFPNEF0N0VnMUU5TGowRFdFdFY3Q0tINnM5cjRNTGp0VGRKV1VDUWFKRFVMRlVLNEtCdw?oc=5\" target=\"_blank\">Microsoft confirms Windows 11 25H2 is now available for everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
+      "published": "2025-10-18T20:32:23+00:00",
+      "source": "Windows Latest"
     }
   ],
   "product_launches": [
@@ -77,18 +77,18 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft launches its first in-house AI image generator: What makes the launch important - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTFoYmptODhHVjhPS3FkeHExeTQ5djdhQ1J4MzF5OTN2X3N5OFR1d3hnZVN2X3diTmZSTm1JVElaQW0zVlU4bWRnZHc5dl9QNFUtSW1kUnBCU3FyamNpaFBMSE9NZEZTMVhOd1lwYjVxb19qYUlyQ3VDa0FlVEM4N3RUZXpvcEY0NllaOFB4ODMyVTBLdUJtdzZZWEpCU1JIMnFhMllhNk1VUGxXTmd2TE5aakhtTDk4M0RaSkxSOThaeDdYRlloeTE2aGlvZFZzYXN4Xy1lV2VoaV84blJFTVdwSkVXeEw0ZzJyNGt6T2VVMVNyOG15cDBVV1oyY0tl0gGGAkFVX3lxTE9CaHpWaXBPRGEzc0ZKcmZXdi1HMzR6ZmZMemR3VTM0S051Nkg3TXVvUTFhSG1qRVpWWU93bFM1R19JdTJ3NGQ0RXdHVzZUT0JWY2dRQ2dZZUVpdThEaHBkeUpnYm9uVnJCZm44aTdXM1pWRloyMS1TaDRydFg0Sm84eEItLTRzdEhVZkNDU0xEZmREU2xnS0tTRnFkcjNfTlMzLURqbzVDNElsdjUwdU1XSl9LSGdFQXZxVEwzVWMwdjVzRzFHWjVtaDJNLVoxdXJKM3pXQzV5Q3R0eXJMRFNDUXBtalRCckVDRGtqNHp2R2lUQlZMbXlVVWczVmRFRUhweWNEaVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTFoYmptODhHVjhPS3FkeHExeTQ5djdhQ1J4MzF5OTN2X3N5OFR1d3hnZVN2X3diTmZSTm1JVElaQW0zVlU4bWRnZHc5dl9QNFUtSW1kUnBCU3FyamNpaFBMSE9NZEZTMVhOd1lwYjVxb19qYUlyQ3VDa0FlVEM4N3RUZXpvcEY0NllaOFB4ODMyVTBLdUJtdzZZWEpCU1JIMnFhMllhNk1VUGxXTmd2TE5aakhtTDk4M0RaSkxSOThaeDdYRlloeTE2aGlvZFZzYXN4Xy1lV2VoaV84blJFTVdwSkVXeEw0ZzJyNGt6T2VVMVNyOG15cDBVV1oyY0tl0gGGAkFVX3lxTE9CaHpWaXBPRGEzc0ZKcmZXdi1HMzR6ZmZMemR3VTM0S051Nkg3TXVvUTFhSG1qRVpWWU93bFM1R19JdTJ3NGQ0RXdHVzZUT0JWY2dRQ2dZZUVpdThEaHBkeUpnYm9uVnJCZm44aTdXM1pWRloyMS1TaDRydFg0Sm84eEItLTRzdEhVZkNDU0xEZmREU2xnS0tTRnFkcjNfTlMzLURqbzVDNElsdjUwdU1XSl9LSGdFQXZxVEwzVWMwdjVzRzFHWjVtaDJNLVoxdXJKM3pXQzV5Q3R0eXJMRFNDUXBtalRCckVDRGtqNHp2R2lUQlZMbXlVVWczVmRFRUhweWNEaVE?oc=5\" target=\"_blank\">Microsoft launches its first in-house AI image generator: What makes the launch important</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "published": "2025-10-14T09:54:00+00:00",
-      "source": "The Times of India"
-    },
-    {
       "title": "Microsoft, Google, and Amazon Reportedly Move Production Out Of China As Tensions Rise - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObzhRdUJrUWk4MldvWm5xNjI5N3hmNGZoUlgwTjdvUXR4MlpOQm0zRTFOZEt3Q1d3RFJ6VkpubXllLUZZZDZTT0NVSDFQWmNwZGpWN1J1MEhXZER3bEZyU04zdjZMelRfNUpud3NqMGJ4UDNZeDRNU2c2MFRWTkt6U3lteXVhT1FKYkYwLTZ4MGRfYkd6N0NrTFNhR3EtYV84NWFHX3VVc19XdkZuUnZGOXg4MjlKRGtoRXpVRV9ickVYN295dU1CVE1OYmdNeGM1M2Nz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxObzhRdUJrUWk4MldvWm5xNjI5N3hmNGZoUlgwTjdvUXR4MlpOQm0zRTFOZEt3Q1d3RFJ6VkpubXllLUZZZDZTT0NVSDFQWmNwZGpWN1J1MEhXZER3bEZyU04zdjZMelRfNUpud3NqMGJ4UDNZeDRNU2c2MFRWTkt6U3lteXVhT1FKYkYwLTZ4MGRfYkd6N0NrTFNhR3EtYV84NWFHX3VVc19XdkZuUnZGOXg4MjlKRGtoRXpVRV9ickVYN295dU1CVE1OYmdNeGM1M2Nz?oc=5\" target=\"_blank\">Microsoft, Google, and Amazon Reportedly Move Production Out Of China As Tensions Rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
       "published": "2025-10-17T09:24:54+00:00",
       "source": "Benzinga"
+    },
+    {
+      "title": "Microsoft launches its first in-house AI image generator: What makes the launch important - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTFoYmptODhHVjhPS3FkeHExeTQ5djdhQ1J4MzF5OTN2X3N5OFR1d3hnZVN2X3diTmZSTm1JVElaQW0zVlU4bWRnZHc5dl9QNFUtSW1kUnBCU3FyamNpaFBMSE9NZEZTMVhOd1lwYjVxb19qYUlyQ3VDa0FlVEM4N3RUZXpvcEY0NllaOFB4ODMyVTBLdUJtdzZZWEpCU1JIMnFhMllhNk1VUGxXTmd2TE5aakhtTDk4M0RaSkxSOThaeDdYRlloeTE2aGlvZFZzYXN4Xy1lV2VoaV84blJFTVdwSkVXeEw0ZzJyNGt6T2VVMVNyOG15cDBVV1oyY0tl0gGGAkFVX3lxTE9CaHpWaXBPRGEzc0ZKcmZXdi1HMzR6ZmZMemR3VTM0S051Nkg3TXVvUTFhSG1qRVpWWU93bFM1R19JdTJ3NGQ0RXdHVzZUT0JWY2dRQ2dZZUVpdThEaHBkeUpnYm9uVnJCZm44aTdXM1pWRloyMS1TaDRydFg0Sm84eEItLTRzdEhVZkNDU0xEZmREU2xnS0tTRnFkcjNfTlMzLURqbzVDNElsdjUwdU1XSl9LSGdFQXZxVEwzVWMwdjVzRzFHWjVtaDJNLVoxdXJKM3pXQzV5Q3R0eXJMRFNDUXBtalRCckVDRGtqNHp2R2lUQlZMbXlVVWczVmRFRUhweWNEaVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTFoYmptODhHVjhPS3FkeHExeTQ5djdhQ1J4MzF5OTN2X3N5OFR1d3hnZVN2X3diTmZSTm1JVElaQW0zVlU4bWRnZHc5dl9QNFUtSW1kUnBCU3FyamNpaFBMSE9NZEZTMVhOd1lwYjVxb19qYUlyQ3VDa0FlVEM4N3RUZXpvcEY0NllaOFB4ODMyVTBLdUJtdzZZWEpCU1JIMnFhMllhNk1VUGxXTmd2TE5aakhtTDk4M0RaSkxSOThaeDdYRlloeTE2aGlvZFZzYXN4Xy1lV2VoaV84blJFTVdwSkVXeEw0ZzJyNGt6T2VVMVNyOG15cDBVV1oyY0tl0gGGAkFVX3lxTE9CaHpWaXBPRGEzc0ZKcmZXdi1HMzR6ZmZMemR3VTM0S051Nkg3TXVvUTFhSG1qRVpWWU93bFM1R19JdTJ3NGQ0RXdHVzZUT0JWY2dRQ2dZZUVpdThEaHBkeUpnYm9uVnJCZm44aTdXM1pWRloyMS1TaDRydFg0Sm84eEItLTRzdEhVZkNDU0xEZmREU2xnS0tTRnFkcjNfTlMzLURqbzVDNElsdjUwdU1XSl9LSGdFQXZxVEwzVWMwdjVzRzFHWjVtaDJNLVoxdXJKM3pXQzV5Q3R0eXJMRFNDUXBtalRCckVDRGtqNHp2R2lUQlZMbXlVVWczVmRFRUhweWNEaVE?oc=5\" target=\"_blank\">Microsoft launches its first in-house AI image generator: What makes the launch important</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2025-10-14T09:54:00+00:00",
+      "source": "Times of India"
     },
     {
       "title": "Microsoft Ads launches Supplemental Feeds to streamline product updates - Search Engine Land",
