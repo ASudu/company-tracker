@@ -2,8 +2,22 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-10-19T12:20:15.523149+00:00",
+  "fetched_at": "2025-10-20T12:23:14.092444+00:00",
   "news": [
+    {
+      "title": "Nvidia's Big Tech customers might also be its biggest competitive threat - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTFiWHlFZGZhbUJieTdqckdBVS0xZnBnRTROR0FUSGtJMU0xT1ZFckx4dGpLVnNBNHA1TjJ3MUFLbEN0bjZIWXFpenhocnNNLWw2QlRDR1l5QjE5cGowMEVuMDJlbEJrckljYnlJUjRYSjN0R2FwR2RlZElXTTB4Q2xEdjB1d0lJTFVzMUh0a0tYMGluLWFXYWtUdTJFcWhfZHZBbG9ydWxiUUVpTE9wZlMzeW1ybFpB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcTFiWHlFZGZhbUJieTdqckdBVS0xZnBnRTROR0FUSGtJMU0xT1ZFckx4dGpLVnNBNHA1TjJ3MUFLbEN0bjZIWXFpenhocnNNLWw2QlRDR1l5QjE5cGowMEVuMDJlbEJrckljYnlJUjRYSjN0R2FwR2RlZElXTTB4Q2xEdjB1d0lJTFVzMUh0a0tYMGluLWFXYWtUdTJFcWhfZHZBbG9ydWxiUUVpTE9wZlMzeW1ybFpB?oc=5\" target=\"_blank\">Nvidia's Big Tech customers might also be its biggest competitive threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-10-19T15:41:14+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Jensen Huang says Nvidia went from 95% market share in China to 0% - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlBsb1AtemUyZ2hJWFo4ejNOaklWcVNzTnpvaE9UTklBZzV5UGpfTG9oWTlEQjUyLUlFSDJiTDg4SGxNWEFabEVPRUJVcmhFeF9jbFhsemNkV3ktLWV0eTl1aHZlcmRCZzlXNGpDXzUtb2JraDl3d2YxcENTVks0NXJqVjJZanEtbWlDYi1WR3lKMUhsSDdBYzROSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlBsb1AtemUyZ2hJWFo4ejNOaklWcVNzTnpvaE9UTklBZzV5UGpfTG9oWTlEQjUyLUlFSDJiTDg4SGxNWEFabEVPRUJVcmhFeF9jbFhsemNkV3ktLWV0eTl1aHZlcmRCZzlXNGpDXzUtb2JraDl3d2YxcENTVks0NXJqVjJZanEtbWlDYi1WR3lKMUhsSDdBYzROSQ?oc=5\" target=\"_blank\">Jensen Huang says Nvidia went from 95% market share in China to 0%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2025-10-19T21:17:00+00:00",
+      "source": "Fortune"
+    },
     {
       "title": "Nvidia CEO Jensen Huang to attend APEC CEO Summit in South Korea - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzZTT041NzZnZGxOeTNqVzI2STZVWncyN2tsSjVyTXBkdWxPcVlNSzNTendfRU5tUGFlSGFDR3MxWVdKdE5vUDRVWWhZRkk5SFZhSGtOTWxIc0FVeG1VVkhmbVdKaDktNHZZUUZSblllLVhqeHdBWmR0UDEzUGc5YnQzQzNvV3A4cW11dVJFU2ZEeHl2ejl4NG51ZUhHVWNxcml0WHRfOUxQZw?oc=5",
@@ -12,61 +26,47 @@
       "source": "Reuters"
     },
     {
-      "title": "Jensen says Nvidia’s China AI GPU market share has plummeted from 95% to zero — the Chinese market previously amounted to 20% to 25% of the chipmaker's data center revenue - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3cyV2Z1WW5kdjdOY3Axem82VGNSb3dHaTRKOFNCTnhLZDJCeFhXZDAyaG1fcWpyQXVzeE13cDJ1cFRWOV9WZ0duMk41dEJTcUs5T2xvUkZ3SHpXV19xb3BSTEJfRTNVb2ZTMEI2eGxqNXFsTmtnajhWQVI1NmxCc0JEQjc0ckpVaV91TTJVYmJWUXZNcGFscktuSk9kaXI0TnAteVZxbnI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3cyV2Z1WW5kdjdOY3Axem82VGNSb3dHaTRKOFNCTnhLZDJCeFhXZDAyaG1fcWpyQXVzeE13cDJ1cFRWOV9WZ0duMk41dEJTcUs5T2xvUkZ3SHpXV19xb3BSTEJfRTNVb2ZTMEI2eGxqNXFsTmtnajhWQVI1NmxCc0JEQjc0ckpVaV91TTJVYmJWUXZNcGFscktuSk9kaXI0TnAteVZxbnI?oc=5\" target=\"_blank\">Jensen says Nvidia’s China AI GPU market share has plummeted from 95% to zero — the Chinese market previously amounted to 20% to 25% of the chipmaker's data center revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2025-10-18T13:53:18+00:00",
+      "title": "Nvidia CEO touts new AI 'industrial revolution,' praises Trump tariffs for role in chip production - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHRfNXQzR3lnRV90dDFvbDNwY3ZjSmJ4MmwzLUZtSy10RTdZR2QzRWR5STVmSlhPX1FraDBJcGVJbWxPcXpKOTVDZHM0RzJoUnVGMWtaZ0t4RmhRUF9BRS1WazZJR3V0OUo4cUdLclFwMEl0Tlk2blFYVWhyLTZadFNHZmVXRUs1VURtTzJOUFRIQUZzNktmTnUxMlYxS0NWQWxvNjVHMklWNl94VFg5TWFwZ3YwdngwRlRZNjAta9IBxAFBVV95cUxPdXNVNVE2SldYdU9YZFJMNkR3RFBORThsaFpNN2x2Mm1TRGU3Wk1xV0hjV3dHclRISHNscXJfdWhFcU5iX0w5SFRYOE5ZbUhnaThEbmgxMEFSQThEb3d2Ukd6Z002UWpCa0dsTjNfVmpwTEZqZTNkajhEZ2N0d0NqRjRZZnY1bHI2SzJmMGdrenB6NVg2MkJZN0ZqYXV1dE0wM3ZoX2llMldmWFpHSU1CaUV0TUZfUHZxUjE1R3pvdjhWZlY5?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHRfNXQzR3lnRV90dDFvbDNwY3ZjSmJ4MmwzLUZtSy10RTdZR2QzRWR5STVmSlhPX1FraDBJcGVJbWxPcXpKOTVDZHM0RzJoUnVGMWtaZ0t4RmhRUF9BRS1WazZJR3V0OUo4cUdLclFwMEl0Tlk2blFYVWhyLTZadFNHZmVXRUs1VURtTzJOUFRIQUZzNktmTnUxMlYxS0NWQWxvNjVHMklWNl94VFg5TWFwZ3YwdngwRlRZNjAta9IBxAFBVV95cUxPdXNVNVE2SldYdU9YZFJMNkR3RFBORThsaFpNN2x2Mm1TRGU3Wk1xV0hjV3dHclRISHNscXJfdWhFcU5iX0w5SFRYOE5ZbUhnaThEbmgxMEFSQThEb3d2Ukd6Z002UWpCa0dsTjNfVmpwTEZqZTNkajhEZ2N0d0NqRjRZZnY1bHI2SzJmMGdrenB6NVg2MkJZN0ZqYXV1dE0wM3ZoX2llMldmWFpHSU1CaUV0TUZfUHZxUjE1R3pvdjhWZlY5?oc=5\" target=\"_blank\">Nvidia CEO touts new AI 'industrial revolution,' praises Trump tariffs for role in chip production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2025-10-19T17:25:25+00:00",
+      "source": "Fox Business"
+    },
+    {
+      "title": "Nvidia and TSMC produce the first Blackwell wafer made in the U.S. — chips still need to be shipped back to Taiwan to complete the final product - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMjU3T3VtNUt6UmFNUEtTazdHZ2MydEUyaHl0Z3ItVXI0c2FYQ1hJWmpJaHVKSi1ReU94MUVVb3duWk1mWGhlTjFNaWRPbDlxbVRLM2lJV2J0LXVjYlVTaXJZRTE1MzU3UUdaOWtrQUs3eUpYZTZWMTZZQ0NWSHJxZUpBVFRZQ2tXdktTVm9nUDV4blpJeVc0a0l6cEgtazZfNGk0bFczaGRZUzgwYXVqSVBMMElhRmNPZUZBXzNudnZvZFkwZ3NhQnNLVF9CdkNaNXZmR2ZsbnFBZ0twOUpJQWZ2N0xJSXpjQ3pPa0FZNGVZMTZRVlpnZTBKd1ZaYTFuN2NSUmxnUkdPLUU5YkRHYkdGajd1cEhjVm5HLVB0bXY1LTFoVXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOMjU3T3VtNUt6UmFNUEtTazdHZ2MydEUyaHl0Z3ItVXI0c2FYQ1hJWmpJaHVKSi1ReU94MUVVb3duWk1mWGhlTjFNaWRPbDlxbVRLM2lJV2J0LXVjYlVTaXJZRTE1MzU3UUdaOWtrQUs3eUpYZTZWMTZZQ0NWSHJxZUpBVFRZQ2tXdktTVm9nUDV4blpJeVc0a0l6cEgtazZfNGk0bFczaGRZUzgwYXVqSVBMMElhRmNPZUZBXzNudnZvZFkwZ3NhQnNLVF9CdkNaNXZmR2ZsbnFBZ0twOUpJQWZ2N0xJSXpjQ3pPa0FZNGVZMTZRVlpnZTBKd1ZaYTFuN2NSUmxnUkdPLUU5YkRHYkdGajd1cEhjVm5HLVB0bXY1LTFoVXc?oc=5\" target=\"_blank\">Nvidia and TSMC produce the first Blackwell wafer made in the U.S. — chips still need to be shipped back to Taiwan to complete the final product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2025-10-18T14:48:16+00:00",
       "source": "Tom's Hardware"
     },
     {
-      "title": "Upset Nvidia CEO Jensen Huang says: Our market share has fallen to Zero from 95% in ... - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbmRNY08waUFaMWdTOFhIY3V0cmhtdnRZRXk4TDk4TkNlQ1dmUFZmREpKR0xyTm5iWXU3RDRVTjQtNnM2bGw5LXVqQlV6dVdhcFhZT1pxcW5hY0dCN0NuZWhMOC1Xa0YxMVc3YW8zR0JER2RteE5pVXdxMXVqU3VaMjlBaHVnRWF1UzdoWldzQlpFNW4yaEpoQ3ZMQ0dZZlRUaV81MGs0YTBQbFh4Yi1EOE5aQWM0YlRCbzJhaGtfdGJQZmc5alhCcFhoYUF0UFpYcEdKU294c2p2dk9lWWxxVWpON0EtNFBxd1BQdXhjYk12Wlhnal9scdIB_gFBVV95cUxNMmh5Z0hiNW13YVgtSzJVLVhHVHc4TkhZN1J6bzZZblpXcmxJVElKRnptZFpRN0lCckFFcm1fN3A0LU45MUhBSDZqNGJweUx0UzQxbHdBZkJGNUFrUTdvODh0SDJDREJZdTk5YTJFelpYOWZ3TWpOUlZVMTgzQ3I2UWFObHY0bDZDQkR6T0lTYkVJRU9CSVp3Qi16bHZUakdUZUxUNmVGR1VxTk10V05UT1dhT2RIdk5wRmxzTG8yekJkNkpJMmdjMDBFR3ZzUkUwZ1ZYTk4zeGZxaWMzUHFJTUZ5S3JWa1dFRTFUS0paUU5qRExvRkg3cnFwb1JVUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbmRNY08waUFaMWdTOFhIY3V0cmhtdnRZRXk4TDk4TkNlQ1dmUFZmREpKR0xyTm5iWXU3RDRVTjQtNnM2bGw5LXVqQlV6dVdhcFhZT1pxcW5hY0dCN0NuZWhMOC1Xa0YxMVc3YW8zR0JER2RteE5pVXdxMXVqU3VaMjlBaHVnRWF1UzdoWldzQlpFNW4yaEpoQ3ZMQ0dZZlRUaV81MGs0YTBQbFh4Yi1EOE5aQWM0YlRCbzJhaGtfdGJQZmc5alhCcFhoYUF0UFpYcEdKU294c2p2dk9lWWxxVWpON0EtNFBxd1BQdXhjYk12Wlhnal9scdIB_gFBVV95cUxNMmh5Z0hiNW13YVgtSzJVLVhHVHc4TkhZN1J6bzZZblpXcmxJVElKRnptZFpRN0lCckFFcm1fN3A0LU45MUhBSDZqNGJweUx0UzQxbHdBZkJGNUFrUTdvODh0SDJDREJZdTk5YTJFelpYOWZ3TWpOUlZVMTgzQ3I2UWFObHY0bDZDQkR6T0lTYkVJRU9CSVp3Qi16bHZUakdUZUxUNmVGR1VxTk10V05UT1dhT2RIdk5wRmxzTG8yekJkNkpJMmdjMDBFR3ZzUkUwZ1ZYTk4zeGZxaWMzUHFJTUZ5S3JWa1dFRTFUS0paUU5qRExvRkg3cnFwb1JVUQ?oc=5\" target=\"_blank\">Upset Nvidia CEO Jensen Huang says: Our market share has fallen to Zero from 95% in ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-10-19T10:09:00+00:00",
-      "source": "Times of India"
+      "title": "Nvidia CEO credits Trump’s tariffs as catalyst for US AI chip manufacturing - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Yc09ub214OXNjekU2MlF5TlFaWmtrV18zdnhfcy12b3FsRmNVZ1hWRVNyN1BpX3ZzSU9kYWtWVUVKbG9RYmV4bE0xZFhaeHBGSUh5NjBB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Yc09ub214OXNjekU2MlF5TlFaWmtrV18zdnhfcy12b3FsRmNVZ1hWRVNyN1BpX3ZzSU9kYWtWVUVKbG9RYmV4bE0xZFhaeHBGSUh5NjBB?oc=5\" target=\"_blank\">Nvidia CEO credits Trump’s tariffs as catalyst for US AI chip manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "published": "2025-10-19T17:24:51+00:00",
+      "source": "Fox News"
     },
     {
-      "title": "Exclusive: Nvidia and TSMC unveil first Blackwell chip wafer made in U.S. - Axios",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ERlpfaE5FaHdpZWdLckZjZGtQYXZZNFV5eFpUSml0UzhhMS1xWU9ISV8xM3RZV01FYzdPS1Voc25vZ0RlN0RBXzg5WkdsRW9Pb0o1b1E3LW1kM2t5cjY5alplVU1oTGl1LVVVWWFaNk1EUGdfVGtj?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ERlpfaE5FaHdpZWdLckZjZGtQYXZZNFV5eFpUSml0UzhhMS1xWU9ISV8xM3RZV01FYzdPS1Voc25vZ0RlN0RBXzg5WkdsRW9Pb0o1b1E3LW1kM2t5cjY5alplVU1oTGl1LVVVWWFaNk1EUGdfVGtj?oc=5\" target=\"_blank\">Exclusive: Nvidia and TSMC unveil first Blackwell chip wafer made in U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1ZqQkFUX2dRY0hHbDZiX2tsekNaNENwSlllUV9aR3F6SDFnclNCX0FDZ0pod2wzQ0R6Y0prUDU0SFF0MDlNTnVpZUJDZkJ0UGRlSXc2dU1lbGJWTFVyTnZYNnJVTEVhUV9ham5ub3VscDhSVkdwMHpKZjdxb3JBbzhGRktlMkF2VGIyTEdackpHbmpkdFBFUzBKbjU3d1pzbEl6aXlOdEFRNFdraXlhUjJCUnk?oc=5\" target=\"_blank\">Nvidia unveils first Blackwell chip wafer made with TSMC in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOMjU3T3VtNUt6UmFNUEtTazdHZ2MydEUyaHl0Z3ItVXI0c2FYQ1hJWmpJaHVKSi1ReU94MUVVb3duWk1mWGhlTjFNaWRPbDlxbVRLM2lJV2J0LXVjYlVTaXJZRTE1MzU3UUdaOWtrQUs3eUpYZTZWMTZZQ0NWSHJxZUpBVFRZQ2tXdktTVm9nUDV4blpJeVc0a0l6cEgtazZfNGk0bFczaGRZUzgwYXVqSVBMMElhRmNPZUZBXzNudnZvZFkwZ3NhQnNLVF9CdkNaNXZmR2ZsbnFBZ0twOUpJQWZ2N0xJSXpjQ3pPa0FZNGVZMTZRVlpnZTBKd1ZaYTFuN2NSUmxnUkdPLUU5YkRHYkdGajd1cEhjVm5HLVB0bXY1LTFoVXc?oc=5\" target=\"_blank\">Nvidia and TSMC produce the first Blackwell wafer made in the U.S. — chips still need to be shipped back to Taiwan to complete the final product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font></li></ol>",
-      "published": "2025-10-17T19:59:25+00:00",
-      "source": "Axios"
-    },
-    {
-      "title": "Where Will Nvidia Stock Be in 3 Years? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqYXlkVlJiUWxiMFdINF9GQlhObFpzZG1fbkxMdFozR3o5ckdfZm03NFotMW9lUThCOUZoN3JhbHpJeWd1bVFGSDhqekFUcmpuVnhaZGhqcFhibkY3aTZWcFVZcURuaDFrVjZlR2VXbVRGY0I3SlF2TWpoWno?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBqYXlkVlJiUWxiMFdINF9GQlhObFpzZG1fbkxMdFozR3o5ckdfZm03NFotMW9lUThCOUZoN3JhbHpJeWd1bVFGSDhqekFUcmpuVnhaZGhqcFhibkY3aTZWcFVZcURuaDFrVjZlR2VXbVRGY0I3SlF2TWpoWno?oc=5\" target=\"_blank\">Where Will Nvidia Stock Be in 3 Years?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5RNm5xSlA0akxGR043ejVaeklmYXc4ZnZGY0F1V0Z0bmVreDZnOFdBRVVCTzJxVXRtN2JOZDZVaVNSREFCYjFBZVFvdHFHOEo5NHNLUFoweGlWcWRDLUNPc0ZTLWRUZmpGYTlVdU53V3NjekJta0xuWURsc3lfMDg?oc=5\" target=\"_blank\">Nvidia: It's Not A Bubble, It's A Dam (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5kVU9LSUVxZjBkMWhrMEFONFRLYjdvMGhCemVINmJFZWRwRGxIYmR1ODhfMGgybzBvZTJValNnaTZjaEE1S1FNSEVyM1dYR25QRWs1Ym1qdUFMbmRaME84dmJoR3R0cVlYMG9SUWQzc2gwR0MtRS1RZjBvbFZtUQ?oc=5\" target=\"_blank\">Is Nvidia Going to Plunge 40% (or More)? History Offers a Very Clear Answer.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2025-10-19T09:37:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "What’s next for AI: Researchers at Nvidia, Apple, Google and Stanford envision the next leap forward - SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFJSWWdWVzhMTXFFeEZESk1XNk9GRHhiYUZBcTk4dVNUWDA4QTFJRk5qT2JLQ0piaGE1dE05SnRPeGxfNTdybWpLcElLQlowR1ZrVk1kRFEwd2wwRWVodmVqUkJNUTlxcDB0djJzZzR2UFg0Z25ha0Y4NmFCREJZU1Z0UlFXOTE1VjVjNzViY04wVUNMZzRHTnBfdVN0UGtFQmREWWlNMW41WngtdnpTcm5td1c3MmR1NXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFJSWWdWVzhMTXFFeEZESk1XNk9GRHhiYUZBcTk4dVNUWDA4QTFJRk5qT2JLQ0piaGE1dE05SnRPeGxfNTdybWpLcElLQlowR1ZrVk1kRFEwd2wwRWVodmVqUkJNUTlxcDB0djJzZzR2UFg0Z25ha0Y4NmFCREJZU1Z0UlFXOTE1VjVjNzViY04wVUNMZzRHTnBfdVN0UGtFQmREWWlNMW41WngtdnpTcm5td1c3MmR1NXc?oc=5\" target=\"_blank\">What’s next for AI: Researchers at Nvidia, Apple, Google and Stanford envision the next leap forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
-      "published": "2025-10-18T22:02:28+00:00",
-      "source": "SiliconANGLE"
-    },
-    {
-      "title": "Where Will Nvidia Be 24 Months After the Blackwell Launch? Here's What History Says. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnUwQzYwUWQ0bG8xcUdjQlFOTEk2NFY4STcxMFZRVWtQMHFRSmhzOHM2My1YMEpNRzFaOE9kd0xXOE92SkF2bkJGa3hlY2hJNXh1X2dKaVJHSzFXZklObmREaFVPZUdDOGloSzNGTVBPakFUNnZqU09wT1VpeXRUUXBSOTZYNUtNVEZraE5yR09ZckFwdHpjdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnUwQzYwUWQ0bG8xcUdjQlFOTEk2NFY4STcxMFZRVWtQMHFRSmhzOHM2My1YMEpNRzFaOE9kd0xXOE92SkF2bkJGa3hlY2hJNXh1X2dKaVJHSzFXZklObmREaFVPZUdDOGloSzNGTVBPakFUNnZqU09wT1VpeXRUUXBSOTZYNUtNVEZraE5yR09ZckFwdHpjdw?oc=5\" target=\"_blank\">Where Will Nvidia Be 24 Months After the Blackwell Launch? Here's What History Says.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2025-10-18T17:15:00+00:00",
+      "title": "Prediction: This Will Be Nvidia's Stock Price 5 Years From Now - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2pJS2hfMWk5MXFJN1ZrNFhZclIyUVE5MGFpU0RrcWU4MEE2QnZLTmw1T0g1ZUhad0N0TTREZzVVX2FyQWp3YURXNEVDZmU0N0Q0ZUlyU3dMZzBucFdqTjE2WENrY0RqUTAxVEdBZ3YtX2tJSVo0OUExcjhSMk13Ul9Ccnl6VnB0V085WGVmRVVxcWpweUlKRw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2pJS2hfMWk5MXFJN1ZrNFhZclIyUVE5MGFpU0RrcWU4MEE2QnZLTmw1T0g1ZUhad0N0TTREZzVVX2FyQWp3YURXNEVDZmU0N0Q0ZUlyU3dMZzBucFdqTjE2WENrY0RqUTAxVEdBZ3YtX2tJSVo0OUExcjhSMk13Ul9Ccnl6VnB0V085WGVmRVVxcWpweUlKRw?oc=5\" target=\"_blank\">Prediction: This Will Be Nvidia's Stock Price 5 Years From Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQaW5WYjN2Wlg0WWdWQTdWWlgtaVplOVMxbTl2bVZwLVB5cFZZYjdyOHFfYjBmR0ZqNVhZaWE4eVN1UURUTFBMeFc0UXBveEVfSUg0TEFjbExpb2hOTGE4WUpuX0lxOGRLajlPVDNYdXNveDYzcG1PTk1PM3Zsb3dfekF0NjdsWE5oZkZlSjJnLTFZQQ?oc=5\" target=\"_blank\">Prediction: This Semiconductor Stock Will Beat Nvidia in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjY2SzZxSjdtR1FTR29vU0pyWXJPWTQ4ZHNaSmFlQ1NYOGhzNjhmdnRTX1c3NVFxQWdpZkluXzVJZ0VfUjFaT2w3NWpRc1VJSC1xWVdGcjFmeEVhanBMbE9iS3BKTEw4alRPSFhHTXZUSW5rSVNrdGdFOW9NYUhCNzhSMA?oc=5\" target=\"_blank\">Jensen Huang Just Announced Bad News for Nvidia's Rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2025-10-19T07:02:00+00:00",
       "source": "The Motley Fool"
     },
     {
-      "title": "Nvidia Targets AI Data Centers And All-Renewable Electricity - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkx3Z3lvOU5wMjFnSUhyMUZrZTlsazl5THBoLU5ITFlCQndzSy1lMkVSQUplbTdRSXR2N1RTWFpPbllnTzZWbmtvbk5maDA1X2dTMTJFMVJkQXBPMEhyRFViT1dvMXRLYlRqbGZzLTRaWG0wMDZ2VzBuVEpMRVpXdFVzRHBTWHVKUG81YkJ4TEE5ZkNubVF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkx3Z3lvOU5wMjFnSUhyMUZrZTlsazl5THBoLU5ITFlCQndzSy1lMkVSQUplbTdRSXR2N1RTWFpPbllnTzZWbmtvbk5maDA1X2dTMTJFMVJkQXBPMEhyRFViT1dvMXRLYlRqbGZzLTRaWG0wMDZ2VzBuVEpMRVpXdFVzRHBTWHVKUG81YkJ4TEE5ZkNubVF3?oc=5\" target=\"_blank\">Nvidia Targets AI Data Centers And All-Renewable Electricity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2025-10-17T13:00:00+00:00",
-      "source": "Investor's Business Daily"
+      "title": "Alibaba Cloud claims to slash Nvidia GPU use by 82% with new pooling system - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFlzMDlTZjlLb3lzbUZDREEwYVlxZFhjYk04VHVxcWJNdTR3UUJLa0o3NGFidUlwdkw3bHFtZy1IUk1FeDZ0UDl3b2sxdmRwNERKbThMdXNobVBub2s1SUNPTFZTX0xnbHB3TlNTcTcxOVBhdjFQQXQ4SE1UTEZLb3R4OHVmQkVUaDgzdExZV3AtUHZCZFN5T0ZER05SaTBlcTgya0xOTGt6WHNNZ1HSAa4BQVVfeXFMUGF3ejdzMDNNOXBQWjB3Tlk1TVNPYUQ3OEJWQnU1UUhsUk9NNUwzdU1FVGZGZVItamtxbkZrQWFNSU1wRjQxQ2l6VmpwOEgtbUtqUkpCdHBFcmZybDhZVnVsVTJMVkZPdmpvMEZlRC0tTDI5TWowQXZPLUZHWllLZDE4dVl2eFhwS0psb0piTHRpNzhDemhVT0RHREswMnlUX2xqNU9zUW5qX1ZMdDhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFlzMDlTZjlLb3lzbUZDREEwYVlxZFhjYk04VHVxcWJNdTR3UUJLa0o3NGFidUlwdkw3bHFtZy1IUk1FeDZ0UDl3b2sxdmRwNERKbThMdXNobVBub2s1SUNPTFZTX0xnbHB3TlNTcTcxOVBhdjFQQXQ4SE1UTEZLb3R4OHVmQkVUaDgzdExZV3AtUHZCZFN5T0ZER05SaTBlcTgya0xOTGt6WHNNZ1HSAa4BQVVfeXFMUGF3ejdzMDNNOXBQWjB3Tlk1TVNPYUQ3OEJWQnU1UUhsUk9NNUwzdU1FVGZGZVItamtxbkZrQWFNSU1wRjQxQ2l6VmpwOEgtbUtqUkpCdHBFcmZybDhZVnVsVTJMVkZPdmpvMEZlRC0tTDI5TWowQXZPLUZHWllLZDE4dVl2eFhwS0psb0piTHRpNzhDemhVT0RHREswMnlUX2xqNU9zUW5qX1ZMdDhR?oc=5\" target=\"_blank\">Alibaba Cloud claims to slash Nvidia GPU use by 82% with new pooling system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+      "published": "2025-10-18T03:00:12+00:00",
+      "source": "South China Morning Post"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA DGX Spark Arrives for World’s AI Developers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5\" target=\"_blank\">NVIDIA DGX Spark Arrives for World’s AI Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2025-10-13T23:43:04+00:00",
+      "title": "NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5\" target=\"_blank\">NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2025-05-18T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
