@@ -2,49 +2,56 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2025-10-21T12:23:44.865495+00:00",
+  "fetched_at": "2025-10-22T12:23:45.522651+00:00",
   "news": [
     {
-      "title": "Outage at Amazon Web Services disrupts websites across the internet - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hVW9PVlZ3T21XNUtXTHFMbHBvcDJ2UHFoX2piVGZfS3Y3cExjZDJsY2cxNndoRWh1Q09jTmVfdGZfZVplbHN6VS1VaExGbGt3NkFvcW56bGlzUTdTbEJ6UE9WR0pMdw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hVW9PVlZ3T21XNUtXTHFMbHBvcDJ2UHFoX2piVGZfS3Y3cExjZDJsY2cxNndoRWh1Q09jTmVfdGZfZVplbHN6VS1VaExGbGt3NkFvcW56bGlzUTdTbEJ6UE9WR0pMdw?oc=5\" target=\"_blank\">Outage at Amazon Web Services disrupts websites across the internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0tZWTlkWnJ4aHRPejNIeHZmMmlUZEFtbWxLMG90MkdiWS0xemd0b1BxV0NBUFRzWHI1STBkblotQS1CZHVGUFZDdVo3WllaM3Z2OERCVk1faDgxZC1GbHVCQ1JzTk5hQzQ4bzlESzV4dVB1UlNwdF9ZeVkzUUdhSHQyWkdPZWo4ZVNzalhxLXZnZw?oc=5\" target=\"_blank\">Video Fallout after Amazon Web Services outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0yZV9fNW9KVHlrZjVnRGxYWGE0VWFoWXVTWUxNQ0lMVU0wTmUtX2dyeTE3VHNJTjFnLWJOTDV6d1R6amd6OXNZTUNpTWtzU0VadUJ4U1dULVZQQWFQYkNzbkFzbzRuYl9uSGZHTHMtSFhYV1VqOVB5Yk4zNA?oc=5\" target=\"_blank\">Huge global outage impacts Amazon, Fortnite and Snapchat | CNN Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3Z5UkRTaG9zX3d6VEFHWmloQzdNY0Y2NEZNQ1RuZGFHNlpyN0NieHJRUHI0MFBKRGJvM25kUVByVTc1V3BUaW0xZjBiNjM5RS1ndkt0VW4tS3dPNWN4TnBOVlBUMFJuZC1IbHFiV2RzY3cxRGpKdjM2amlZc2hGYkp2M3JCUDMyR0s0Vnh5ZW1jM1JjVmc?oc=5\" target=\"_blank\">Is Amazon Alexa still down? Issues reported with app amid AWS outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5aTFRoSDUzSW5pYWpMal9xdFFGNXg2NUVjZGRnV1RmUVdQRm41MVdYS1Y3emJRQkcyeFBUNEdVRFBpejBJb2tSSmxsejZacGJtV2lrZlZlcy1FMVdPaVlSQ3ltcFI3RVdzZjlxdnRrUQ?oc=5\" target=\"_blank\">AWS was down in massive outage that broke the internet — live updates and what happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFYyMlZVejFyMjduMkxveGZ0dFpWVUM2SWRBNjdLTXk5bkVpUFBSNnQ0X1J3ZWVZdDdLVnVibHAzc1hHcGRCS3JQdUhMaWlQYmdnOGhzNlNZT21MQk1OckhQaHNVaEhWeU1DbHFMN1ZnRVU4XzVDU1l3aGJDUmlUUA?oc=5\" target=\"_blank\">4 'key' reasons Amazon will recover from AWS outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3d0YV9QekVHTzhxcjJPT1VJdkdrUVA0Y2NfdFBYZFdfTlRKWGdGRHNLZjVNMUc1UHRnRGJwaDlxV2VqU2lSdVVYaU5iSmExUTNrTzQzSUhub2U1ZHFtcUNGVlByXzFaUmJOS0t6WTBPWVI5YWpYeTU1YWdFX3ZxczdGYm12bVBpd3pBNjdMcElvTmdtelNocGFRcGdRNXRkSWVZOQ?oc=5\" target=\"_blank\">Amazon fixes huge AWS outage that broke much of the internet – here's what happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEhsUDR3MVJWY2RfaWRjdFgwSEhUQlBPVWhUYU5jQTUyN1NmMndxbU5VQlZzNDFRal9DMUhSZWxIdEIxZXZ4My1PN2dJQ1lzaUdvZUNjcno2WmxPbWpPNUI2djlTQzdza2syNVNSLVd6UXdwY3dhZ082dmMwTGlLWnN0N3NmdXdpaVhYN0QtYjl3YWNDRzNQdDNHdklScGpfNUHSAacBQVVfeXFMUGtiRWZxWUk3UlJVb3F1M2hmdjRWenRQWk50VU9nTHJWWXRjNEpmX29JNUxBQkdWdWl3NXlpNFNQYnMzM0xyNXJLU2h5V2lUajQwc1c5TEZ0X082LVJYYXpydlhoVHhWUHFoc2syOHo4VWVyNkVMYTZaYlYtNEFGTlVBTnNOTGpraTRUcmZza0RtMy1Bb1psOHBqMnFfN0Y3RC1KT2c2VFE?oc=5\" target=\"_blank\">Is AWS still down? Amazon Web Services outage resolved after disrupting internet use worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNldVZ1BBRmZaNzJIa3AwTnVXWWVMYU5GeUo0N0NJYk5CYTl0RGVTQV9FY3VqU1JTWndwZ0JCajQwRUlJc2JVWFJXZXpBMnlldWhzRGUwTmhqVVZ0cmNxQV9mVk5LOW9ZeE1tNHZRSkR3MXRXZGluUWFobVE1VXlGUS1tWm4zV2ZENDRDRXcwSV81SHQxM2NFWTdITFhhM2pwdkxUZmdUOWpxaVBlampDek9BbEtoYlZOeVRKNHBVZ2ZoalBlR1JHaUY5ME9UeEdGSUZNaHRXdnl6eTlRWUdjQW1TM1g0SGRY?oc=5\" target=\"_blank\">Amazon cloud outage takes down many online services around the world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font></li></ol>",
-      "published": "2025-10-20T22:12:13+00:00",
-      "source": "NPR"
+      "title": "Amazon plans for 75 percent of operations to be run by robots, report reveals - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lN2N5UlVmSnZIcGM5NEhZY1N6MHgtVFZ1V2YtQ0JvUDVHZG1HYlhzT2g4eEVfeHJSNl81M2hYNlJDcVdJWVFJWlM1ck0tWTdzR2NFd29xaE5jMUxIbnpYbEpLOGh2eW5h?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lN2N5UlVmSnZIcGM5NEhZY1N6MHgtVFZ1V2YtQ0JvUDVHZG1HYlhzT2g4eEVfeHJSNl81M2hYNlJDcVdJWVFJWlM1ck0tWTdzR2NFd29xaE5jMUxIbnpYbEpLOGh2eW5h?oc=5\" target=\"_blank\">Amazon plans for 75 percent of operations to be run by robots, report reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYU4yLWxCczVNZGwxUWVTb3hpT1B6bm1zUUNPc2kyVEQxWFpsN1ptbEZWc0hNeWdrSWo1dnVKTUZvdi1ybThZVWZ5UkNnWHNMeGZFYkFHODk3S1pmU0g5QWpKS1JwM2pidFNpRVY3WU5WMktWT1RwYW1MSHVQS2VvX2ZxV3lmOGUyTDNReVcyelBkekVkSGxnQzBnOA?oc=5\" target=\"_blank\">Amazon Plans to Replace 600,000 Human Workers With Robots, Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09ZMXF3X3pHd1BGTTJkQTdzc2xrcF9VUC03c0xiT0Zvci1GNzRRZmxReXJBOTRwd24xV0t2TWtOWG9qWEs1cEFoQ01XQ0t5VXpQbHZkOXNESWVab1gydmFGUy0xTV9uTDhoNk42QnBGQXRQS1dKS09vVFNxa0hTcFo2b3k3VVp0dG5yM1dPTEJNUQ?oc=5\" target=\"_blank\">Video Robots could replace 600,000 jobs at Amazon: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li></ol>",
+      "published": "2025-10-21T21:19:44+00:00",
+      "source": "Mashable"
     },
     {
-      "title": "Amazon hopes to replace 600,000 US workers with robots, according to leaked documents - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlBubjZNN04ydDhtYnBTX3RjSnFNQ3dfZDdmSW9IcFdXWGQ1dmRBWDBLUFE1QUNybVBFVmY4NmVpcnpxT3phZi1tWnhXckRGTzVoV3pKdXJQdmZqT0xaRFZHeTFUcE41NWE3b1NTZHUyTEJaYWI2OFowck8wdUtYSk9hM2kxTnAxMG45WEtEa2Q4dEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlBubjZNN04ydDhtYnBTX3RjSnFNQ3dfZDdmSW9IcFdXWGQ1dmRBWDBLUFE1QUNybVBFVmY4NmVpcnpxT3phZi1tWnhXckRGTzVoV3pKdXJQdmZqT0xaRFZHeTFUcE41NWE3b1NTZHUyTEJaYWI2OFowck8wdUtYSk9hM2kxTnAxMG45WEtEa2Q4dEk?oc=5\" target=\"_blank\">Amazon hopes to replace 600,000 US workers with robots, according to leaked documents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2025-10-21T11:11:19+00:00",
-      "source": "The Verge"
+      "title": "Huge global outage impacts Amazon, Fortnite and Snapchat | CNN Business - CNN",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yZV9fNW9KVHlrZjVnRGxYWGE0VWFoWXVTWUxNQ0lMVU0wTmUtX2dyeTE3VHNJTjFnLWJOTDV6d1R6amd6OXNZTUNpTWtzU0VadUJ4U1dULVZQQWFQYkNzbkFzbzRuYl9uSGZHTHMtSFhYV1VqOVB5Yk4zNA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0yZV9fNW9KVHlrZjVnRGxYWGE0VWFoWXVTWUxNQ0lMVU0wTmUtX2dyeTE3VHNJTjFnLWJOTDV6d1R6amd6OXNZTUNpTWtzU0VadUJ4U1dULVZQQWFQYkNzbkFzbzRuYl9uSGZHTHMtSFhYV1VqOVB5Yk4zNA?oc=5\" target=\"_blank\">Huge global outage impacts Amazon, Fortnite and Snapchat | CNN Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRnR5cnlhbTQ4V1U3ODJCdTJkdDh4V0sxLVVGTExtWkR5eTRGdjJUSlFmMmtiSVBjQmM0eG1qSEVoZ2hPdTh6S2hYdkpqSGtiLUxaXzgtaFVaLTJRVHVvUVFUbEkybzZhRWplSW9CQy03UUpraTNXeGtncHJGX1lhXy1WT1poTXI3RlJlc3pyekhKakpnTlhUZ1dZZGp6Y2V4UmJEay1DMi1Pbi01dGV3dFJSZHh4OTJ0R21FcA?oc=5\" target=\"_blank\">Amazon's massive AWS outage points to a key weakness in the modern internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVoyTlJJNXdERnRBTkV4N1h2Q2c1dDM0MnNHY0FNeVdkY1k1Wk9jcXdWRi1hSmk2Uk9XYkxDay1ybWtVSUZKLW9OdFRhVmZ0Rm9vVFBfR1J3SGFONFBxOFVqLXNkSUdnT2lPMFNMWnNjb2M0NUZER2Q3UkJKSmtrcU4waEhIZw?oc=5\" target=\"_blank\">Major AWS outage took down Fortnite, Alexa, Snapchat, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li></ol>",
+      "published": "2025-10-21T14:01:00+00:00",
+      "source": "CNN"
     },
     {
-      "title": "Want to get up to $51 from Amazon? What to do to join a $2.5 billion settlement - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN3NQT2xPX2ZWeXNtZFU0VkpzWmM2Sm1zeS1hck0zX3lDd2k3d1BZbEswd3dYNXA3V19PRFl6Qk11cWZfT0xrb29LR1R3cExtV3lFQWlfWTZmZS1TM09zcUVnTnJXWTBPa1BBbHI0cnIxNjZRVWZQT1lKTmFJRER1dVpyc3QyMnZrejRCWHQwZHp2d1d3U1RJTzMwby1BNTB5T0xlc3oyVlM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN3NQT2xPX2ZWeXNtZFU0VkpzWmM2Sm1zeS1hck0zX3lDd2k3d1BZbEswd3dYNXA3V19PRFl6Qk11cWZfT0xrb29LR1R3cExtV3lFQWlfWTZmZS1TM09zcUVnTnJXWTBPa1BBbHI0cnIxNjZRVWZQT1lKTmFJRER1dVpyc3QyMnZrejRCWHQwZHp2d1d3U1RJTzMwby1BNTB5T0xlc3oyVlM?oc=5\" target=\"_blank\">Want to get up to $51 from Amazon? What to do to join a $2.5 billion settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2025-10-21T11:38:16+00:00",
-      "source": "USA Today"
+      "title": "Best Fire Stick deal: Save $20 on Amazon Fire Stick 4K - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pSGYxbTJTaGtNMnl6RWw3aDZYMXlPSjRiaDBtNC1ScEptOEx1UUJocm1zT3FiejZyMDZxazY1NmpMaVluU21GYVVCT2RpWWlCeXI2ZzN3UUE5a2xRSDhqd2pVVXQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pSGYxbTJTaGtNMnl6RWw3aDZYMXlPSjRiaDBtNC1ScEptOEx1UUJocm1zT3FiejZyMDZxazY1NmpMaVluU21GYVVCT2RpWWlCeXI2ZzN3UUE5a2xRSDhqd2pVVXQ?oc=5\" target=\"_blank\">Best Fire Stick deal: Save $20 on Amazon Fire Stick 4K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-10-22T10:30:50+00:00",
+      "source": "Mashable"
     },
     {
-      "title": "Amazon Web Services outage finally resolved - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTFPRlJjYk85YTE2SVA3RnVuNFdMeEg0TmxRWEhfU2FIZnlkbElpVmRpUUVvUVlfTm5BRUltaFVaeUFwUXRqN1F3TWs3eHdVWG94NVlSTS1rUzdtcUJIUlp0bUJDSGt2Ykt0ZF9pZjJndDVHVEZPSEJrUGRuMGFPSXp2ZU51UGpuYWpuUno0dGhQNVBENUtHLdIBngFBVV95cUxQeTdmdm5UVEZyOTlfcmw1NkRiVWVra2ExQ0pnQXJTMm9QZDVkdkIxNUlQVlBNbnh2cVBNUlN6dUdsTjlfcHZkdmRENWJZd1R6NUJvbGhUaU5sTGhMVWZGNnp6R0NtMEVjeklQM2V3SmhxUjJmYVoyMnIwcXowSjhCbTVhdGRoLVZFNlNzLThuZVBXQ2VzNXVKR1hXWEUwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTFPRlJjYk85YTE2SVA3RnVuNFdMeEg0TmxRWEhfU2FIZnlkbElpVmRpUUVvUVlfTm5BRUltaFVaeUFwUXRqN1F3TWs3eHdVWG94NVlSTS1rUzdtcUJIUlp0bUJDSGt2Ykt0ZF9pZjJndDVHVEZPSEJrUGRuMGFPSXp2ZU51UGpuYWpuUno0dGhQNVBENUtHLdIBngFBVV95cUxQeTdmdm5UVEZyOTlfcmw1NkRiVWVra2ExQ0pnQXJTMm9QZDVkdkIxNUlQVlBNbnh2cVBNUlN6dUdsTjlfcHZkdmRENWJZd1R6NUJvbGhUaU5sTGhMVWZGNnp6R0NtMEVjeklQM2V3SmhxUjJmYVoyMnIwcXowSjhCbTVhdGRoLVZFNlNzLThuZVBXQ2VzNXVKR1hXWEUwQQ?oc=5\" target=\"_blank\">Amazon Web Services outage finally resolved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "published": "2025-10-21T08:34:00+00:00",
-      "source": "CBS News"
+      "title": "Amazon may owe you money. Here's everything to know about the settlement - The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzBqd3NGRkdoUVEwQjlWRkhhekYtUmVvZVhRdkNHd092VnFFcnBRSnl2YzQ2VGFWWDU4QkN0RGZOY2ZWcnRpZ2xmV3lSYjkzaEJwelpZV3E3UkkyQ3Y4SjlyZzl4QlVrSTItcFk5aXVCZ2lyc05LS1VBX2xUWVAyX2RnZ0dRcnoxTV9iaU82a0RkQTJDbTVMSDkycDkwc1k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQzBqd3NGRkdoUVEwQjlWRkhhekYtUmVvZVhRdkNHd092VnFFcnBRSnl2YzQ2VGFWWDU4QkN0RGZOY2ZWcnRpZ2xmV3lSYjkzaEJwelpZV3E3UkkyQ3Y4SjlyZzl4QlVrSTItcFk5aXVCZ2lyc05LS1VBX2xUWVAyX2RnZ0dRcnoxTV9iaU82a0RkQTJDbTVMSDkycDkwc1k?oc=5\" target=\"_blank\">Amazon may owe you money. Here's everything to know about the settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arizona Republic</font>",
+      "published": "2025-10-21T12:11:38+00:00",
+      "source": "The Arizona Republic"
     },
     {
-      "title": "Amazon Web Services says widespread internet outage issues are resolved - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRVNwTGFpNGdfOExnZlowUzNPUWp4ZHJUZXNiM19ydk1xcUlmOEFjTEdGZGxTYTR1c1hDazJHZ2xSSmJXdjBLX1h4X2hWM0ZaZDFoSEpmNUdPWUdBbUV1RnFJNzYxaVZWTGx6dXhVYmh6RE9OLWRFcERsTk1Pd2dLd0Q0WjhVRUVJVU00OGpQbWxuZ9IBlwFBVV95cUxPWGMyTnNtdENyOVFaM0MwRFcyaGdCRzNRMU9icHhkTk9fZjJadGtHbmRILTRReUtEN3dfUTUyeG5mLUkzYWh0b2M3MHhNMVU0Y3VZTXRtYjZhaUVoSmxUTEpSbTMwZTE2dmluSFZHYjFERUc5b1RzaTJEUmtnY2dWdVFSN056YUlYQk9aWlJLcGIwSGxQSnZR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRVNwTGFpNGdfOExnZlowUzNPUWp4ZHJUZXNiM19ydk1xcUlmOEFjTEdGZGxTYTR1c1hDazJHZ2xSSmJXdjBLX1h4X2hWM0ZaZDFoSEpmNUdPWUdBbUV1RnFJNzYxaVZWTGx6dXhVYmh6RE9OLWRFcERsTk1Pd2dLd0Q0WjhVRUVJVU00OGpQbWxuZ9IBlwFBVV95cUxPWGMyTnNtdENyOVFaM0MwRFcyaGdCRzNRMU9icHhkTk9fZjJadGtHbmRILTRReUtEN3dfUTUyeG5mLUkzYWh0b2M3MHhNMVU0Y3VZTXRtYjZhaUVoSmxUTEpSbTMwZTE2dmluSFZHYjFERUc5b1RzaTJEUmtnY2dWdVFSN056YUlYQk9aWlJLcGIwSGxQSnZR?oc=5\" target=\"_blank\">Amazon Web Services says widespread internet outage issues are resolved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-      "published": "2025-10-21T09:34:07+00:00",
-      "source": "ABC News - Breaking News, Latest News and Videos"
+      "title": "Amazon’s $2.5 billion settlement over Prime subscriptions: When will payments be sent out? - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmNJRkJTTVV6TGt1T1JZa3UwcjJfX1ZFWmRCNnVfa0M2dVhqWFpJTU1Na1NTQUFid2tUaWpibnNLWnFhVlNpV1hmbUNlNW5vbGVQNmw3WnRNanY5VGl5UklPZDBDUzI2QnRQRExlbkw3X2NPQmxDZlpKOTVOXzBUUmRHOEV3U0dGa2c2bGhxQzhEZVJkT3FlRktsMHhnWGtWR3BXQ2JIZ1Fta0xBSGNlSWxzeEdlTE5Ma0dUQ0lLUndLQdIBxwFBVV95cUxQWVg4YmZQX3F3TkhfcGlZeG14cG5VYjQyai1ZV1BVMjZadzJFcDRTenBfSHJTa1p5Mi1ZamNQOFFCd2h3SjJER3ZBb2pCQndqSTIxMFVTb2JvWl9QUnhMaUgzWmxsWko2eVVWWUNmNnYzcmIzanlXZnY2RHBWVkhTalZZNWpvM0J6djI3cUxsNjhkQXlpalpnR3NGeUVnWWhtenRGUDdsMTZXVEJmelNCd21ReGw2b1RlLVE3YkM2N29yQUZIcXBr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmNJRkJTTVV6TGt1T1JZa3UwcjJfX1ZFWmRCNnVfa0M2dVhqWFpJTU1Na1NTQUFid2tUaWpibnNLWnFhVlNpV1hmbUNlNW5vbGVQNmw3WnRNanY5VGl5UklPZDBDUzI2QnRQRExlbkw3X2NPQmxDZlpKOTVOXzBUUmRHOEV3U0dGa2c2bGhxQzhEZVJkT3FlRktsMHhnWGtWR3BXQ2JIZ1Fta0xBSGNlSWxzeEdlTE5Ma0dUQ0lLUndLQdIBxwFBVV95cUxQWVg4YmZQX3F3TkhfcGlZeG14cG5VYjQyai1ZV1BVMjZadzJFcDRTenBfSHJTa1p5Mi1ZamNQOFFCd2h3SjJER3ZBb2pCQndqSTIxMFVTb2JvWl9QUnhMaUgzWmxsWko2eVVWWUNmNnYzcmIzanlXZnY2RHBWVkhTalZZNWpvM0J6djI3cUxsNjhkQXlpalpnR3NGeUVnWWhtenRGUDdsMTZXVEJmelNCd21ReGw2b1RlLVE3YkM2N29yQUZIcXBr?oc=5\" target=\"_blank\">Amazon’s $2.5 billion settlement over Prime subscriptions: When will payments be sent out?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+      "published": "2025-10-21T21:01:00+00:00",
+      "source": "The Hill"
     },
     {
-      "title": "Amazon says AWS cloud service is back to normal after outage disrupts businesses worldwide - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE4ycmlacV9XMzUzeE83dnZlcUV4c3RBNXJkMlhkSUxaTmhKQjNyV0dDbTJWRW9nUE8teU1MczY0dTZKUFVkSW9jNnJHVVFlQkhQNklXNlV0bkx1dy1STk9lZjM0ZE1JMVFnbmdzdGltRU1Wd21Nbm9GUDFqZmhpWmJGaER4ZGRxOFNfYzNvNmN6ZEFZYTdJVkdsdjRDbWZnRHlhbmh1NXpjdzFuNjBLeldkd3ZramM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeE4ycmlacV9XMzUzeE83dnZlcUV4c3RBNXJkMlhkSUxaTmhKQjNyV0dDbTJWRW9nUE8teU1MczY0dTZKUFVkSW9jNnJHVVFlQkhQNklXNlV0bkx1dy1STk9lZjM0ZE1JMVFnbmdzdGltRU1Wd21Nbm9GUDFqZmhpWmJGaER4ZGRxOFNfYzNvNmN6ZEFZYTdJVkdsdjRDbWZnRHlhbmh1NXpjdzFuNjBLeldkd3ZramM?oc=5\" target=\"_blank\">Amazon says AWS cloud service is back to normal after outage disrupts businesses worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-10-21T07:25:54+00:00",
-      "source": "Reuters"
+      "title": "Amazon revamps Prime: Free shipping limited to same-household members only - WRAL.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGQwUlR1T2hKbUltTjBTeGd1bHVZaDZrRDBPUFVpZGYyQWZOTUF4WVVjX1JWRHBUSUVJZmdhb0F5ZmxZM0ZaVmZhTzdobmRCb1B0MkxLSWJaSmFxa20wQ0ZGMVZnYno2YkZaUW9HWTlZMU43UTVOWk90R01feVRXSWJzcUFNNHBBbjJmQUpSeU5ndDRLUlp0allXeXFVMzM1SUVpUmt6WjAycWthUXA4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGQwUlR1T2hKbUltTjBTeGd1bHVZaDZrRDBPUFVpZGYyQWZOTUF4WVVjX1JWRHBUSUVJZmdhb0F5ZmxZM0ZaVmZhTzdobmRCb1B0MkxLSWJaSmFxa20wQ0ZGMVZnYno2YkZaUW9HWTlZMU43UTVOWk90R01feVRXSWJzcUFNNHBBbjJmQUpSeU5ndDRLUlp0allXeXFVMzM1SUVpUmt6WjAycWthUXA4?oc=5\" target=\"_blank\">Amazon revamps Prime: Free shipping limited to same-household members only</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL.com</font>",
+      "published": "2025-10-21T04:23:00+00:00",
+      "source": "WRAL.com"
+    },
+    {
+      "title": "Amazon continues expansion of ultrafast 15-minute delivery to UAE after India launch - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeXMwS2hMNVc2X2I3cDUzRS12emVTb2p0d1JkOW4tSHNodUhqY1AyWGtZZlNHTWRaUmxLTU1QcTAxdzdKMzd1eTlJMmYtYVVEazF3SGkxTmFZRjRpWlp6bXdIVkdZbl9hZ3UxUGVmMHVNdXB2SHRRUjBXaUlWZmlvN3NoQdIBiAFBVV95cUxOUjdwTWE5dEdSMHViWjdOM2d3WWxzbjlOZ2liMk1NemFvYWtBT3Y1bXdhaW1kZExUZW9Mb1gzbS05S3RwZDBLbUpyMVhDTjd0YWdYTlo0LXZyRHJaa3NlZWthQUZVUFIwZDVjWjZvTldQYzhtdTE5VktXb0VaZGNILXNiMjdvZDhZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeXMwS2hMNVc2X2I3cDUzRS12emVTb2p0d1JkOW4tSHNodUhqY1AyWGtZZlNHTWRaUmxLTU1QcTAxdzdKMzd1eTlJMmYtYVVEazF3SGkxTmFZRjRpWlp6bXdIVkdZbl9hZ3UxUGVmMHVNdXB2SHRRUjBXaUlWZmlvN3NoQdIBiAFBVV95cUxOUjdwTWE5dEdSMHViWjdOM2d3WWxzbjlOZ2liMk1NemFvYWtBT3Y1bXdhaW1kZExUZW9Mb1gzbS05S3RwZDBLbUpyMVhDTjd0YWdYTlo0LXZyRHJaa3NlZWthQUZVUFIwZDVjWjZvTldQYzhtdTE5VktXb0VaZGNILXNiMjdvZDhZ?oc=5\" target=\"_blank\">Amazon continues expansion of ultrafast 15-minute delivery to UAE after India launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-10-21T16:35:29+00:00",
+      "source": "CNBC"
     },
     {
       "title": "Amazon Now delivers essentials across UAE in just 15 minutes - about Amazon",
@@ -52,13 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5QbmpWYXBZUWlJNWlNQnEtVVhJX01TVllKX0VWMnZndXZZOWIzUUxPNEw3XzJWSkxCX1JSR2Q0R29LLWV6eVFEYThBWl9QNTRydm9HQXFzTjNOal8yTTVvbXpScjZza2NOZHlQSF9sUWVxMUZTVGc?oc=5\" target=\"_blank\">Amazon Now delivers essentials across UAE in just 15 minutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about Amazon</font>",
       "published": "2025-10-21T05:53:42+00:00",
       "source": "about Amazon"
-    },
-    {
-      "title": "Massive Amazon cloud outage has been resolved after disrupting internet use worldwide - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHA2NndLZ2xsQTV2UjRpWGlCenF3X1o2RTJkOS1uNnMtZHhtM2F0Y2ZsUXRVME9tMjFMN2p5RG1DdUNlVnk4c0phNHRPZGlNQUliYzBzUllfamhNUXE3Y2pZWk1BaG10S2JnT25LZzZaYkRnMF8taHBycTJDUEw2T2lVb0hzZFozUWJNeEdLUG5xNDdndXh0VGJ1UVo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHA2NndLZ2xsQTV2UjRpWGlCenF3X1o2RTJkOS1uNnMtZHhtM2F0Y2ZsUXRVME9tMjFMN2p5RG1DdUNlVnk4c0phNHRPZGlNQUliYzBzUllfamhNUXE3Y2pZWk1BaG10S2JnT25LZzZaYkRnMF8taHBycTJDUEw2T2lVb0hzZFozUWJNeEdLUG5xNDdndXh0VGJ1UVo?oc=5\" target=\"_blank\">Massive Amazon cloud outage has been resolved after disrupting internet use worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-10-21T00:12:00+00:00",
-      "source": "AP News"
     }
   ],
   "product_launches": [
@@ -77,13 +77,6 @@
       "source": "about Amazon"
     },
     {
-      "title": "Amazon event 2025: Live updates from the devices and services launch today - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMV9BaHA4M2trM3pUMnZxVkhQV2xHSEV1YnRoUHBmMlQ1aGszSUloOFIwbktOYVY1T1hnT09NRnozdnJNWGNQOWdCYjlLMWtHcDRzaUhfdFhZLVhzdXRibDBxT19UVW00bllkT0g1UkxTOUZYeVVwYk0tYVNvZUV6d1hCTnVjdlZYOWV6azdDaWdNRVRLbGNYYVhNdklGNFlmQUJwRmJGUUJHLWNZNUhPVkZGRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMV9BaHA4M2trM3pUMnZxVkhQV2xHSEV1YnRoUHBmMlQ1aGszSUloOFIwbktOYVY1T1hnT09NRnozdnJNWGNQOWdCYjlLMWtHcDRzaUhfdFhZLVhzdXRibDBxT19UVW00bllkT0g1UkxTOUZYeVVwYk0tYVNvZUV6d1hCTnVjdlZYOWV6azdDaWdNRVRLbGNYYVhNdklGNFlmQUJwRmJGUUJHLWNZNUhPVkZGRQ?oc=5\" target=\"_blank\">Amazon event 2025: Live updates from the devices and services launch today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2025-09-30T07:00:00+00:00",
-      "source": "Engadget"
-    },
-    {
       "title": "Amazon launches ‘price-conscious’ grocery line of items mostly under $5 — but don’t expect it to cater to everyone - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXlxbDlUc3d4WVE3Ym9MRXdqSUJ0Tng2VW15VlNuVTlUNHIxMjNwRFBLcm94aEhGU0ZzVmVZNVN1aEZMY0V4TFRtWWxjUzNUazcxZjFEa3RBN2tNcTk0N0NGVGgtdjlYeFN3R0VOYTIzTFRyNVVlLUxSUnhQcHFwU2Zqbk54OTZPUjhHY1BR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXlxbDlUc3d4WVE3Ym9MRXdqSUJ0Tng2VW15VlNuVTlUNHIxMjNwRFBLcm94aEhGU0ZzVmVZNVN1aEZMY0V4TFRtWWxjUzNUazcxZjFEa3RBN2tNcTk0N0NGVGgtdjlYeFN3R0VOYTIzTFRyNVVlLUxSUnhQcHFwU2Zqbk54OTZPUjhHY1BR?oc=5\" target=\"_blank\">Amazon launches ‘price-conscious’ grocery line of items mostly under $5 — but don’t expect it to cater to everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -91,25 +84,28 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "An 8-figure Amazon seller says it's never been easier to get started and explains how to launch a brand with $2,000 - businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTh4ajFHMks0bmJjQ1lWRTVrUUx4aGpXTjhIcHJHakhISElfbThNYUlDQXRTaDJRbmJqWUpyU0V1TGh2cFZPZHhVM19TcEtsS01zSUEzNjVya2JfQlE0U01Bd1dvdEkycGtjLUxqRnBrWFBScUg4LWlwMGFpbHVhdmprR0p6c1hHZVVBTjJmMmVWeHhH?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTh4ajFHMks0bmJjQ1lWRTVrUUx4aGpXTjhIcHJHakhISElfbThNYUlDQXRTaDJRbmJqWUpyU0V1TGh2cFZPZHhVM19TcEtsS01zSUEzNjVya2JfQlE0U01Bd1dvdEkycGtjLUxqRnBrWFBScUg4LWlwMGFpbHVhdmprR0p6c1hHZVVBTjJmMmVWeHhH?oc=5\" target=\"_blank\">An 8-figure Amazon seller says it's never been easier to get started and explains how to launch a brand with $2,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">businessinsider.com</font>",
-      "published": "2025-10-08T07:00:00+00:00",
-      "source": "businessinsider.com"
+      "title": "Amazon event 2025: Live updates from the devices and services launch today - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMV9BaHA4M2trM3pUMnZxVkhQV2xHSEV1YnRoUHBmMlQ1aGszSUloOFIwbktOYVY1T1hnT09NRnozdnJNWGNQOWdCYjlLMWtHcDRzaUhfdFhZLVhzdXRibDBxT19UVW00bllkT0g1UkxTOUZYeVVwYk0tYVNvZUV6d1hCTnVjdlZYOWV6azdDaWdNRVRLbGNYYVhNdklGNFlmQUJwRmJGUUJHLWNZNUhPVkZGRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMV9BaHA4M2trM3pUMnZxVkhQV2xHSEV1YnRoUHBmMlQ1aGszSUloOFIwbktOYVY1T1hnT09NRnozdnJNWGNQOWdCYjlLMWtHcDRzaUhfdFhZLVhzdXRibDBxT19UVW00bllkT0g1UkxTOUZYeVVwYk0tYVNvZUV6d1hCTnVjdlZYOWV6azdDaWdNRVRLbGNYYVhNdklGNFlmQUJwRmJGUUJHLWNZNUhPVkZGRQ?oc=5\" target=\"_blank\">Amazon event 2025: Live updates from the devices and services launch today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2025-09-30T07:00:00+00:00",
+      "source": "Engadget"
+    },
+    {
+      "title": "Amazon launches 15-minute delivery in UAE - Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3TktkVloySUU0TjRuY09iLWVoSlJzcVE3clh4Mm9DREhVd2VxLWRaVmd2YnJiNVVCV0xRb1huVEZ1cWtNREx2bE5mS2owb3BxMjFRVDlNOWJzc0RBWUdyMmNTMWN4MTJJX1J5bWRLcEJGSUZmdDQ4dA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3TktkVloySUU0TjRuY09iLWVoSlJzcVE3clh4Mm9DREhVd2VxLWRaVmd2YnJiNVVCV0xRb1huVEZ1cWtNREx2bE5mS2owb3BxMjFRVDlNOWJzc0RBWUdyMmNTMWN4MTJJX1J5bWRLcEJGSUZmdDQ4dA?oc=5\" target=\"_blank\">Amazon launches 15-minute delivery in UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+      "published": "2025-10-22T04:03:00+00:00",
+      "source": "Tech in Asia"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2025-10-20",
-      "close": 216.47999572753906
+      "date": "2025-10-21",
+      "close": 222.02999877929688
     },
     "history": [
-      {
-        "date": "2025-10-10",
-        "close": 216.3699951171875
-      },
       {
         "date": "2025-10-13",
         "close": 220.07000732421875
@@ -133,6 +129,10 @@
       {
         "date": "2025-10-20",
         "close": 216.47999572753906
+      },
+      {
+        "date": "2025-10-21",
+        "close": 222.02999877929688
       }
     ],
     "name": "Amazon.com, Inc."
