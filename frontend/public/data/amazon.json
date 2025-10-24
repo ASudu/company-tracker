@@ -2,72 +2,79 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2025-10-23T12:23:29.678141+00:00",
+  "fetched_at": "2025-10-24T12:23:40.865759+00:00",
   "news": [
     {
-      "title": "Amazon Plans to Replace More Than Half a Million Jobs With Robots - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEN0TE1jbDgybWZTNFlHT0lzZm9ZQ0w2T2l6T3U1TTltMTg1OHBZaklkS2M0SDFUZHVmNVhCb3BVaVBWS2ZnSWtpOGRKdWN3R2lfMEx2WlhlOU90TkdwbUl4MGRIajI2eDJWNDhoNVdTZlRtdkMtRldhZVZEa0hyWDB6SXp1Y2dyU1Vmd0wyQXQ0TXFkTmlWdk9aXy1IQ0Nnb0k3Tw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEN0TE1jbDgybWZTNFlHT0lzZm9ZQ0w2T2l6T3U1TTltMTg1OHBZaklkS2M0SDFUZHVmNVhCb3BVaVBWS2ZnSWtpOGRKdWN3R2lfMEx2WlhlOU90TkdwbUl4MGRIajI2eDJWNDhoNVdTZlRtdkMtRldhZVZEa0hyWDB6SXp1Y2dyU1Vmd0wyQXQ0TXFkTmlWdk9aXy1IQ0Nnb0k3Tw?oc=5\" target=\"_blank\">Amazon Plans to Replace More Than Half a Million Jobs With Robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3lCRVlqNHpieU91YldqeERQSkJVTGNTak5POTdmVmk1NFFrMVB5RXZjblJycEZ1WGNxd0d0SkZfbXBISkhEa1FpM3ZYVHdLQTBMbWtkekZQcDdiOGRXMXlDakJWU3ZCVC1zbnJFcFZTWjN5b2RPZ1Q3YUhmbzItcjZwNU8?oc=5\" target=\"_blank\">Robots May Replace 600,000 Human Employees at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHZGNnhHSWNnMjQ4bFVTcklOYnQ5WFRXOEkxN0ZZRWwwUlFDdHlZVTl4SEtXaTVNSl9HY1ZDYUVOV1VCWUNmS0lIRTk5ZVRuLWE4VjVjbVJVQnZsRGloUlhucktuaW8wYVVvYnA5SFM2cHFRSEdQSEtMbmpJX2lCZDRoajBEcElkRDY3YWdB?oc=5\" target=\"_blank\">Amazon’s delivery glasses: The newest innovation designed to enhance the delivery experience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about Amazon</font></li></ol>",
-      "published": "2025-10-21T09:00:13+00:00",
+      "title": "Amazon’s new AI-powered shopping feature ‘Help Me Decide’ makes it easy to quickly pick the right product - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2thclBjQmM4bjM5Y0lBU3RMb241aWVnWjloVWlzekg2c3JnUkxQTnpIT1RZRzJxZ1VBYW1na2U4Nlk1OVMxUnFpRW5EaUQzQmVzcHZaX0tBN0NfLS1jYlpJRjh2ZS14YTJ4MlFmaWZZTFlDX0ZNUU1GbmFzRlJPYnVJUDFJeTdUbEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2thclBjQmM4bjM5Y0lBU3RMb241aWVnWjloVWlzekg2c3JnUkxQTnpIT1RZRzJxZ1VBYW1na2U4Nlk1OVMxUnFpRW5EaUQzQmVzcHZaX0tBN0NfLS1jYlpJRjh2ZS14YTJ4MlFmaWZZTFlDX0ZNUU1GbmFzRlJPYnVJUDFJeTdUbEE?oc=5\" target=\"_blank\">Amazon’s new AI-powered shopping feature ‘Help Me Decide’ makes it easy to quickly pick the right product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2025-10-23T13:03:17+00:00",
+      "source": "About Amazon"
+    },
+    {
+      "title": "Amazon’s delivery glasses: The newest innovation designed to enhance the delivery experience - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHZGNnhHSWNnMjQ4bFVTcklOYnQ5WFRXOEkxN0ZZRWwwUlFDdHlZVTl4SEtXaTVNSl9HY1ZDYUVOV1VCWUNmS0lIRTk5ZVRuLWE4VjVjbVJVQnZsRGloUlhucktuaW8wYVVvYnA5SFM2cHFRSEdQSEtMbmpJX2lCZDRoajBEcElkRDY3YWdB?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHZGNnhHSWNnMjQ4bFVTcklOYnQ5WFRXOEkxN0ZZRWwwUlFDdHlZVTl4SEtXaTVNSl9HY1ZDYUVOV1VCWUNmS0lIRTk5ZVRuLWE4VjVjbVJVQnZsRGloUlhucktuaW8wYVVvYnA5SFM2cHFRSEdQSEtMbmpJX2lCZDRoajBEcElkRDY3YWdB?oc=5\" target=\"_blank\">Amazon’s delivery glasses: The newest innovation designed to enhance the delivery experience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNamk1cGJ6R1JmOTFjUlRVWG94S1dNYmk5amFCWUZJdzhKU2l2c3NpSFdGVEt5TTJZUkM1a1dxVVNNMmtrcF94bE45c1p4UUo0Q0dSQmpzMWtaal93MGprOTNUb1J0c2tnNWZNWmY0a2F4cDNxb2hvbmxPSVFvSVloVjVSVTUwV2NpZXR5RFNQUlRBZGJWcXpZRURtZFhKZlNxbXlLVzVn?oc=5\" target=\"_blank\">Amazon unveils AI-powered augmented reality glasses for delivery drivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaFVfM0ZVX08yS0MwMkFVUUFpSmJkTjU2dU1uT1NyTUkzcG8yekUyM1VMZmFKaXhpOVF2SWxYaVFlbUNycmVPZWdrVkxTME4tV3BlaTItZXViMFQ4S2hUQ3IwU3FHQmhNNktRUkhoMkYzRTJwemotQll6dGdXNlFTNA?oc=5\" target=\"_blank\">Man vs machine? Amazon debuts new robotic system amid rumors of 600,000 job cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font></li></ol>",
+      "published": "2025-10-22T17:26:19+00:00",
+      "source": "About Amazon"
+    },
+    {
+      "title": "Celebrities Fight Sora + Amazon’s Secret Automation Plans + ChatGPT Gets a Browser - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFJ2N3VBZ2NFNG53ZDVGejVSSEhueTdiSUNPMEtDZTZRODIybVNRczBQTkV2S1Q5VnVKaHB5NjBOU015cEZVUm9Ia0otLWxaQ2V4aHgySzdlWnJuelA0dkwxNEpUaDRwWlB3VDlkMFRESFVUYmNvQkxRUDZIR3BXWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFJ2N3VBZ2NFNG53ZDVGejVSSEhueTdiSUNPMEtDZTZRODIybVNRczBQTkV2S1Q5VnVKaHB5NjBOU015cEZVUm9Ia0otLWxaQ2V4aHgySzdlWnJuelA0dkwxNEpUaDRwWlB3VDlkMFRESFVUYmNvQkxRUDZIR3BXWQ?oc=5\" target=\"_blank\">Celebrities Fight Sora + Amazon’s Secret Automation Plans + ChatGPT Gets a Browser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-10-24T11:00:06+00:00",
       "source": "The New York Times"
     },
     {
-      "title": "Best Fire TV Stick HD deal: Save $15 at Amazon - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00N19RT2dVaXNqTW9ZMVlaVlFJOFN1akMxUE5mYmVMTVZMbUxpTElIcUxaR3IwUzVFWlM2VnVEUlY3cmtLVGM0QzJVQUpiM0RwcWVHaERsOUE5WmFOOS1KRHBoSWk3b0ha?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE00N19RT2dVaXNqTW9ZMVlaVlFJOFN1akMxUE5mYmVMTVZMbUxpTElIcUxaR3IwUzVFWlM2VnVEUlY3cmtLVGM0QzJVQUpiM0RwcWVHaERsOUE5WmFOOS1KRHBoSWk3b0ha?oc=5\" target=\"_blank\">Best Fire TV Stick HD deal: Save $15 at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-10-23T10:27:22+00:00",
-      "source": "Mashable"
+      "title": "Ditch Your TV's Clunky Apps and Bag an Amazon Fire TV Stick HD for Just $20 - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTcyTTVNWEhDQXpTMGwtNjdXYnFPN29NeU5sbG1oeDRnTDlBRmtoVW1nUDFpQjhsbE03QW4zbnc5c2FhcWxiUEVGVnJQUWN3aThWUllPUXhKZVM3X0E1OVlQWjBQcEZIVk5MVUMtelg2bjIwN3lwbnpwZnpnUlluYmdQRVRFTDZSYW5ybHZDM2pEV2VEUmpmZ0tNYnROakVuT1ow?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTcyTTVNWEhDQXpTMGwtNjdXYnFPN29NeU5sbG1oeDRnTDlBRmtoVW1nUDFpQjhsbE03QW4zbnc5c2FhcWxiUEVGVnJQUWN3aThWUllPUXhKZVM3X0E1OVlQWjBQcEZIVk5MVUMtelg2bjIwN3lwbnpwZnpnUlluYmdQRVRFTDZSYW5ybHZDM2pEV2VEUmpmZ0tNYnROakVuT1ow?oc=5\" target=\"_blank\">Ditch Your TV's Clunky Apps and Bag an Amazon Fire TV Stick HD for Just $20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2025-10-24T11:14:00+00:00",
+      "source": "CNET"
     },
     {
-      "title": "Massive Amazon cloud outage has been resolved after disrupting internet use worldwide - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHA2NndLZ2xsQTV2UjRpWGlCenF3X1o2RTJkOS1uNnMtZHhtM2F0Y2ZsUXRVME9tMjFMN2p5RG1DdUNlVnk4c0phNHRPZGlNQUliYzBzUllfamhNUXE3Y2pZWk1BaG10S2JnT25LZzZaYkRnMF8taHBycTJDUEw2T2lVb0hzZFozUWJNeEdLUG5xNDdndXh0VGJ1UVo?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHA2NndLZ2xsQTV2UjRpWGlCenF3X1o2RTJkOS1uNnMtZHhtM2F0Y2ZsUXRVME9tMjFMN2p5RG1DdUNlVnk4c0phNHRPZGlNQUliYzBzUllfamhNUXE3Y2pZWk1BaG10S2JnT25LZzZaYkRnMF8taHBycTJDUEw2T2lVb0hzZFozUWJNeEdLUG5xNDdndXh0VGJ1UVo?oc=5\" target=\"_blank\">Massive Amazon cloud outage has been resolved after disrupting internet use worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEU5X0J6LTgzZnFSR0RtYVlGUFhXSVNIcGFxaFRqWVlKV1A0RjhiM0plN2p0MmxRWnVDaGdjY1JFRXVCLXlUWllySmRpTnBmeC1DZ0lOQTNOOTVXcHJ3U0VsZzV6R1kzTlp0RE83Z0Exd2NDR000M3RzMlVNdnNIbC1jQ0kzZTFMdTFPT0dfYW5tc1dUaVE2ZGFZWm1QYlBCZ0FadUJBUGVCdndReHB4bW9EQnHSAboBQVVfeXFMUDNPdV9GcVJva2cyNTdkcXp2UWRRMDl0WmdyRVBjZ082S2djY3pyT05HbWhPUFByQ29VTFl1YV9neTZyWi1hTlR2QWxDMDRZR3ZuR1MwTmlBdHJXNW00eTc3SjFIUmlQbFpNNzNDNXJtcXhyYTZiWExVZkQtUXdBb0RkVjNnVnUyVHRJVkhIVTNlVklwOWtFY3dJaHdudVhaWnZEQ0pMeXNzWnh5RXN4ZVNtR0R6Um5qRE5R?oc=5\" target=\"_blank\">What caused Amazon’s AWS outage, and why did so many major apps go offline?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0yZV9fNW9KVHlrZjVnRGxYWGE0VWFoWXVTWUxNQ0lMVU0wTmUtX2dyeTE3VHNJTjFnLWJOTDV6d1R6amd6OXNZTUNpTWtzU0VadUJ4U1dULVZQQWFQYkNzbkFzbzRuYl9uSGZHTHMtSFhYV1VqOVB5Yk4zNA?oc=5\" target=\"_blank\">Huge global outage impacts Amazon, Fortnite and Snapchat | CNN Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
-      "published": "2025-10-21T00:12:00+00:00",
-      "source": "AP News"
+      "title": "Amazon Fall Bestsellers: Dr. Scholl's, NYX, Goshi and More - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yLWlPZ2lFeHdfMEpaUEd0R3d4amtHcGE4aWExM0JqcWZXcFg5VmFYS2FGdDg0bFhUeDVMLS01MEUtQ1N2Yk5yOEluNVRyUFNXU2laOUxRU21mTWMwU3RWcmZza1hTcEo0bHdoa2M5WExNZUw30gFUQVVfeXFMTTlIVW9sTXkzNnM1VzFwT1pab0ZFbUFReUtFS0F3R2QxQjlQVzdwSFYzdk5BcUwtTHVkY01HNkxtc1d4Ry1MLS15TV9HQWZ1d2dLNzZI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9yLWlPZ2lFeHdfMEpaUEd0R3d4amtHcGE4aWExM0JqcWZXcFg5VmFYS2FGdDg0bFhUeDVMLS01MEUtQ1N2Yk5yOEluNVRyUFNXU2laOUxRU21mTWMwU3RWcmZza1hTcEo0bHdoa2M5WExNZUw30gFUQVVfeXFMTTlIVW9sTXkzNnM1VzFwT1pab0ZFbUFReUtFS0F3R2QxQjlQVzdwSFYzdk5BcUwtTHVkY01HNkxtc1d4Ry1MLS15TV9HQWZ1d2dLNzZI?oc=5\" target=\"_blank\">Amazon Fall Bestsellers: Dr. Scholl's, NYX, Goshi and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TODAY.com</font>",
+      "published": "2025-10-24T11:55:00+00:00",
+      "source": "TODAY.com"
     },
     {
-      "title": "Amazon employees will soon suffer from alarming workplace trend - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjdwVHJOY3MzNU83djNKZ2VmaERlMTFUUmJ1MXNtcE1fVVpBS0ZxOFJnN1ZzcGprcFF2Wi0xZFNBUUNuS2w2Y2tndTRQcnBJQTRveG9iLWszdTR5UjZ5dmZBSVZOZm44NkJPakM1WlJxbUdqS0EzUHBSX1dsOEgzV3JXZ3NYOUNrNHdZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjdwVHJOY3MzNU83djNKZ2VmaERlMTFUUmJ1MXNtcE1fVVpBS0ZxOFJnN1ZzcGprcFF2Wi0xZFNBUUNuS2w2Y2tndTRQcnBJQTRveG9iLWszdTR5UjZ5dmZBSVZOZm44NkJPakM1WlJxbUdqS0EzUHBSX1dsOEgzV3JXZ3NYOUNrNHdZ?oc=5\" target=\"_blank\">Amazon employees will soon suffer from alarming workplace trend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-10-22T17:07:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Amazon’s redesigned Luna features GameNight, and includes 50+ games available with Prime - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXRoRmJmVVhxY1pBOHVtTXRGV1p4TU8tWVoxLTI2Yl80bWYtaFZ2UFBHYlp1NWNQX21jV0thakdRRmVNNlZSNWRUaktUdWp5dXVRVk1lX2Nad2RNR1M4bG1Lc1U5eTFtSWtsNzFDamozZGVsel9lekM0dTJnM2FsU2NfN0lFcjFhUmFV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXRoRmJmVVhxY1pBOHVtTXRGV1p4TU8tWVoxLTI2Yl80bWYtaFZ2UFBHYlp1NWNQX21jV0thakdRRmVNNlZSNWRUaktUdWp5dXVRVk1lX2Nad2RNR1M4bG1Lc1U5eTFtSWtsNzFDamozZGVsel9lekM0dTJnM2FsU2NfN0lFcjFhUmFV?oc=5\" target=\"_blank\">Amazon’s redesigned Luna features GameNight, and includes 50+ games available with Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2025-10-20T22:37:30+00:00",
+      "source": "About Amazon"
     },
     {
-      "title": "Sofia Richie Grainge’s fall Amazon Essentials collab is here— and prices start at just $15 - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDloUEFLY1ozOWxWMWFxTTA4QUlnVmhDRS1PR2IzUG9tQ29hc0JJczE0SktBMDB0TkluQjNHQnJRT3MtdmdlWVhBbzFHX2ZpZ09jRHVKc3VZZDAtYkRNNXFxaDRUdGkzWkctcE5xY2R4TTJEZUNwTW9tbDNZb3NMMjI4M25udG9lQUxUTmJrb3FKc3VFWFpvNzQ3N0JhZVFUcGRINHAzWi0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDloUEFLY1ozOWxWMWFxTTA4QUlnVmhDRS1PR2IzUG9tQ29hc0JJczE0SktBMDB0TkluQjNHQnJRT3MtdmdlWVhBbzFHX2ZpZ09jRHVKc3VZZDAtYkRNNXFxaDRUdGkzWkctcE5xY2R4TTJEZUNwTW9tbDNZb3NMMjI4M25udG9lQUxUTmJrb3FKc3VFWFpvNzQ3N0JhZVFUcGRINHAzWi0?oc=5\" target=\"_blank\">Sofia Richie Grainge’s fall Amazon Essentials collab is here— and prices start at just $15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Page Six</font>",
-      "published": "2025-10-22T16:35:00+00:00",
-      "source": "Page Six"
+      "title": "Amazon launches revamped Luna game-streaming service - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTc2TUI1Ujh4T2pVVHRxdjlWWjJIcDB0Z0xnZTFjZG52LWJseXpidmd3VDBNaElaUEhjQWFLbmJqUzBDaFBSRjhLdXVscGtTY2kxbEV6VnVJZTA3WjhMeWFTMkNKVVF6cU1DTV9uRHczd0VYQVBmTllxM2NKeGx3UjFDaWtfZFA0SC1xZFJiS1g?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTc2TUI1Ujh4T2pVVHRxdjlWWjJIcDB0Z0xnZTFjZG52LWJseXpidmd3VDBNaElaUEhjQWFLbmJqUzBDaFBSRjhLdXVscGtTY2kxbEV6VnVJZTA3WjhMeWFTMkNKVVF6cU1DTV9uRHczd0VYQVBmTllxM2NKeGx3UjFDaWtfZFA0SC1xZFJiS1g?oc=5\" target=\"_blank\">Amazon launches revamped Luna game-streaming service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2025-10-23T14:18:47+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Altoona couple accused of stealing $60K in Amazon packages - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEtIdGtBelV4MW5yaW1Cc19JWVBNOWROSWFuRGl1VDJSVjVyeDBOREQ3WHNfYlcyTWFlR044Vzdxa1hQMEpNYjhkc3c1X29LT2RmQWJacFhPc1I2V0NQYmxOaDhKYWZTXzVlN1pSZmNicmVxSENxZ0ZrU2RzZ2Jjd0pBSTd1S01BUmVibTJPaEhSemJqUWdqSHBB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEtIdGtBelV4MW5yaW1Cc19JWVBNOWROSWFuRGl1VDJSVjVyeDBOREQ3WHNfYlcyTWFlR044Vzdxa1hQMEpNYjhkc3c1X29LT2RmQWJacFhPc1I2V0NQYmxOaDhKYWZTXzVlN1pSZmNicmVxSENxZ0ZrU2RzZ2Jjd0pBSTd1S01BUmVibTJPaEhSemJqUWdqSHBB?oc=5\" target=\"_blank\">Altoona couple accused of stealing $60K in Amazon packages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCCI</font>",
-      "published": "2025-10-23T00:59:00+00:00",
-      "source": "KCCI"
-    },
-    {
-      "title": "Amazon Shoppers Love These 10 Best-Selling Denim Jackets That 'Look Super Classic'—Starting at Just $23 - Real Simple",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMl8xcVo4S0pTTF81b1FVTEpkVE4yUk9xdUhQTXpWQkhYV3I4LVdfRmt6S0JjbnFBYnQwYkNiS09KX3BFTFBjNjVEcjNaUUZSV1RwdVJTNXV3X19relc3WlBiTE94TURuckNrQWFPa3hrUWl2VjlRQ0tlMFd4RU01cWtzZDVSQW9OMFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQMl8xcVo4S0pTTF81b1FVTEpkVE4yUk9xdUhQTXpWQkhYV3I4LVdfRmt6S0JjbnFBYnQwYkNiS09KX3BFTFBjNjVEcjNaUUZSV1RwdVJTNXV3X19relc3WlBiTE94TURuckNrQWFPa3hrUWl2VjlRQ0tlMFd4RU01cWtzZDVSQW9OMFE?oc=5\" target=\"_blank\">Amazon Shoppers Love These 10 Best-Selling Denim Jackets That 'Look Super Classic'—Starting at Just $23</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Real Simple</font>",
-      "published": "2025-10-23T10:30:00+00:00",
-      "source": "Real Simple"
-    },
-    {
-      "title": "James Bond Producer EON Reports $20M Payment From Amazon MGM Studios For Stake In Spy Franchise - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPellDSlF5RHlRdmtmZlh4WjlpQXB3ZFpjTC1mRVpqZkI3Y3RValplNWppYmtzMnRMUUZMQURrWmVTUFpLQUJtMXc2SVZVc1NDMkotNXJSR201V05Dd0x3T3BraGJBSW1SQkxXbGtfWXdycVRfSlVmaWp1SHlzU2FoSDVWaElMTGRyNGkyN1NkaGl5Vjh5?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPellDSlF5RHlRdmtmZlh4WjlpQXB3ZFpjTC1mRVpqZkI3Y3RValplNWppYmtzMnRMUUZMQURrWmVTUFpLQUJtMXc2SVZVc1NDMkotNXJSR201V05Dd0x3T3BraGJBSW1SQkxXbGtfWXdycVRfSlVmaWp1SHlzU2FoSDVWaElMTGRyNGkyN1NkaGl5Vjh5?oc=5\" target=\"_blank\">James Bond Producer EON Reports $20M Payment From Amazon MGM Studios For Stake In Spy Franchise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>",
-      "published": "2025-10-22T18:08:00+00:00",
-      "source": "Deadline"
+      "title": "I got roasted by an AI Snoop Dogg in Amazon Luna — GameNight hub is set to take on Nvidia and Xbox cloud gaming - Tom's Guide",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEtrZDc3Z0ZQc1djU0hzSDl2cENldms2MUdIOS1rYTRfMjdEMnhrWkNnbUVPdUlkVmxOTExjczB0Z0VVSVZ1anYwT1BnVl9MMk1aZ09nQV95ekFreEcxWWYyamlKZzljdTdpekFJMUFYTDBSalVUb3hWdi11NHhMUm91Q0JzakpuaDRXcnk0RlRpQU91dFJzaGlsOXBmZDFOLWdFTkJMRE9BTUlzVkY3M2sxUWZHZGJmR2JGTlRMaGYweFB0enc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEtrZDc3Z0ZQc1djU0hzSDl2cENldms2MUdIOS1rYTRfMjdEMnhrWkNnbUVPdUlkVmxOTExjczB0Z0VVSVZ1anYwT1BnVl9MMk1aZ09nQV95ekFreEcxWWYyamlKZzljdTdpekFJMUFYTDBSalVUb3hWdi11NHhMUm91Q0JzakpuaDRXcnk0RlRpQU91dFJzaGlsOXBmZDFOLWdFTkJMRE9BTUlzVkY3M2sxUWZHZGJmR2JGTlRMaGYweFB0enc?oc=5\" target=\"_blank\">I got roasted by an AI Snoop Dogg in Amazon Luna — GameNight hub is set to take on Nvidia and Xbox cloud gaming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font>",
+      "published": "2025-10-23T13:00:00+00:00",
+      "source": "Tom's Guide"
     }
   ],
   "product_launches": [
     {
-      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed - about Amazon",
+      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5\" target=\"_blank\">Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about Amazon</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5\" target=\"_blank\">Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
       "published": "2025-09-18T07:00:00+00:00",
-      "source": "about Amazon"
+      "source": "About Amazon"
+    },
+    {
+      "title": "Amazon Launches AI Shopping Tool ‘Help Me Decide’ to Streamline Product Choices - Global Cosmetics News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkFTZ2M5ckRTblQ3NmR3VGwxLTVwS2tiR1hZODkyem1lSDlPdXQzYVMtUzR3VGNkMjZBZXJiVXVOT0tENzR4VS1WWEcwUFB2bFNPTE1xbDF1RGRLNUhQM1NERHFyY1pCLWxaaF9ZdTZPbTZLcU9OTno4R0NjUVdJQzJuYk5MWlpCeW1EMkVrVXh1cEpyd1NFeTZVNndkSkx1WHBNY3gwRU5ib3B0NUJIMzhvd20?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkFTZ2M5ckRTblQ3NmR3VGwxLTVwS2tiR1hZODkyem1lSDlPdXQzYVMtUzR3VGNkMjZBZXJiVXVOT0tENzR4VS1WWEcwUFB2bFNPTE1xbDF1RGRLNUhQM1NERHFyY1pCLWxaaF9ZdTZPbTZLcU9OTno4R0NjUVdJQzJuYk5MWlpCeW1EMkVrVXh1cEpyd1NFeTZVNndkSkx1WHBNY3gwRU5ib3B0NUJIMzhvd20?oc=5\" target=\"_blank\">Amazon Launches AI Shopping Tool ‘Help Me Decide’ to Streamline Product Choices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Cosmetics News</font>",
+      "published": "2025-10-24T05:00:36+00:00",
+      "source": "Global Cosmetics News"
     },
     {
       "title": "Amazon unveils new device lineup with AI powered experiences - About Amazon Europe",
@@ -77,39 +84,28 @@
       "source": "About Amazon Europe"
     },
     {
-      "title": "Amazon event 2025: Live updates from the devices and services launch today - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMV9BaHA4M2trM3pUMnZxVkhQV2xHSEV1YnRoUHBmMlQ1aGszSUloOFIwbktOYVY1T1hnT09NRnozdnJNWGNQOWdCYjlLMWtHcDRzaUhfdFhZLVhzdXRibDBxT19UVW00bllkT0g1UkxTOUZYeVVwYk0tYVNvZUV6d1hCTnVjdlZYOWV6azdDaWdNRVRLbGNYYVhNdklGNFlmQUJwRmJGUUJHLWNZNUhPVkZGRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMV9BaHA4M2trM3pUMnZxVkhQV2xHSEV1YnRoUHBmMlQ1aGszSUloOFIwbktOYVY1T1hnT09NRnozdnJNWGNQOWdCYjlLMWtHcDRzaUhfdFhZLVhzdXRibDBxT19UVW00bllkT0g1UkxTOUZYeVVwYk0tYVNvZUV6d1hCTnVjdlZYOWV6azdDaWdNRVRLbGNYYVhNdklGNFlmQUJwRmJGUUJHLWNZNUhPVkZGRQ?oc=5\" target=\"_blank\">Amazon event 2025: Live updates from the devices and services launch today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2025-09-30T07:00:00+00:00",
-      "source": "Engadget"
+      "title": "Amazon Launches New AI Shopping Tool in US for Indecisive - Transport Topics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4talB5bGVBUzZJNVlOY0FMSFVvRklhUHNNaGdmeFRiVjVrYTNEWDR4Wlc3X3p5OFcxUnRFWW5KVnRPODZhTm9xQVYtV01UOHo5TmNMV1ZXdEZPVnU1eExINS15SGgzcjFDNmM1Ng?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4talB5bGVBUzZJNVlOY0FMSFVvRklhUHNNaGdmeFRiVjVrYTNEWDR4Wlc3X3p5OFcxUnRFWW5KVnRPODZhTm9xQVYtV01UOHo5TmNMV1ZXdEZPVnU1eExINS15SGgzcjFDNmM1Ng?oc=5\" target=\"_blank\">Amazon Launches New AI Shopping Tool in US for Indecisive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transport Topics</font>",
+      "published": "2025-10-23T13:50:58+00:00",
+      "source": "Transport Topics"
     },
     {
-      "title": "Amazon launches ‘price-conscious’ grocery line of items mostly under $5 — but don’t expect it to cater to everyone - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXlxbDlUc3d4WVE3Ym9MRXdqSUJ0Tng2VW15VlNuVTlUNHIxMjNwRFBLcm94aEhGU0ZzVmVZNVN1aEZMY0V4TFRtWWxjUzNUazcxZjFEa3RBN2tNcTk0N0NGVGgtdjlYeFN3R0VOYTIzTFRyNVVlLUxSUnhQcHFwU2Zqbk54OTZPUjhHY1BR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXlxbDlUc3d4WVE3Ym9MRXdqSUJ0Tng2VW15VlNuVTlUNHIxMjNwRFBLcm94aEhGU0ZzVmVZNVN1aEZMY0V4TFRtWWxjUzNUazcxZjFEa3RBN2tNcTk0N0NGVGgtdjlYeFN3R0VOYTIzTFRyNVVlLUxSUnhQcHFwU2Zqbk54OTZPUjhHY1BR?oc=5\" target=\"_blank\">Amazon launches ‘price-conscious’ grocery line of items mostly under $5 — but don’t expect it to cater to everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-10-20T13:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "iQOO 15 Amazon listing reveals launch timeline: What to expect - India TV News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUhfdFpsZmNSRWxibXpnMzFYaGtFUUV3aHFObjVPdlVpUVM1RFJGakdxMGIzT0pwVzJiam1vcENFalU4eEVpMldxSzFPT180SWllS214cG4tQW01bzhXbm5hd1VuaFVSN0o0bjd6M0VLTEF1ajQySy1qblplNF9zSElOSG5QZ2g3WDZYdkVqTDlxaEkwTmIwZUpKYzFIZ21CLTNYaU1xYUlvRDZodTVGYWt3dDV6TXM4ajlBaUZHQjMxUdIBxwFBVV95cUxPWTJZUlNZRU52NGxJUDljTXQyWG8zMXNZMXpUVlNFdHJXX3FxVlE1TFNOaHVYSjhJdTVncmUyZjltcUlwTmM0SUxMRmEwa2JRTmY2Z1JtVjRfNnJBTHNHeGJIMlpnNXREMVlsWHk5NlI5dmFDWkFvT2UwcXg2S3VqVkMzR29QeWZwQ3lHQkp1LWRxM0lNbDVuZUE5cVd2M1AzNlZpWHpOZDloU0ZMSGhncTlJVHZoRTFqLWtqc05nMFRPVlFYNWRJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUhfdFpsZmNSRWxibXpnMzFYaGtFUUV3aHFObjVPdlVpUVM1RFJGakdxMGIzT0pwVzJiam1vcENFalU4eEVpMldxSzFPT180SWllS214cG4tQW01bzhXbm5hd1VuaFVSN0o0bjd6M0VLTEF1ajQySy1qblplNF9zSElOSG5QZ2g3WDZYdkVqTDlxaEkwTmIwZUpKYzFIZ21CLTNYaU1xYUlvRDZodTVGYWt3dDV6TXM4ajlBaUZHQjMxUdIBxwFBVV95cUxPWTJZUlNZRU52NGxJUDljTXQyWG8zMXNZMXpUVlNFdHJXX3FxVlE1TFNOaHVYSjhJdTVncmUyZjltcUlwTmM0SUxMRmEwa2JRTmY2Z1JtVjRfNnJBTHNHeGJIMlpnNXREMVlsWHk5NlI5dmFDWkFvT2UwcXg2S3VqVkMzR29QeWZwQ3lHQkp1LWRxM0lNbDVuZUE5cVd2M1AzNlZpWHpOZDloU0ZMSGhncTlJVHZoRTFqLWtqc05nMFRPVlFYNWRJ?oc=5\" target=\"_blank\">iQOO 15 Amazon listing reveals launch timeline: What to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India TV News</font>",
-      "published": "2025-10-23T07:42:01+00:00",
-      "source": "India TV News"
+      "title": "AI-Powered ‘Help Me Decide’ Launches for Millions of Amazon Shoppers in the U.S. - CoinCentral",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakdwTDkxdUdFczVSc1ZRTlZMYldLUjNpTi1jaWdPUDVHQjYtT2VjS3dnVF9rMnc4TEJQWS1mUGtvWnlaRU1mYk1CbWlLSU92SFNBS2doOVphZkROYmp4VjFtQlFrcWFiYUExeHNZQWxualB5MmNFaUJCVXROenBTNmtwWlE3Mzdmem53QTVPRGpOdTdwbFU0azVIUzQ2WHpGRXdvRA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNakdwTDkxdUdFczVSc1ZRTlZMYldLUjNpTi1jaWdPUDVHQjYtT2VjS3dnVF9rMnc4TEJQWS1mUGtvWnlaRU1mYk1CbWlLSU92SFNBS2doOVphZkROYmp4VjFtQlFrcWFiYUExeHNZQWxualB5MmNFaUJCVXROenBTNmtwWlE3Mzdmem53QTVPRGpOdTdwbFU0azVIUzQ2WHpGRXdvRA?oc=5\" target=\"_blank\">AI-Powered ‘Help Me Decide’ Launches for Millions of Amazon Shoppers in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "published": "2025-10-24T11:39:06+00:00",
+      "source": "CoinCentral"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2025-10-22",
-      "close": 217.9499969482422
+      "date": "2025-10-23",
+      "close": 221.08999633789062
     },
     "history": [
-      {
-        "date": "2025-10-14",
-        "close": 216.38999938964844
-      },
       {
         "date": "2025-10-15",
         "close": 215.57000732421875
@@ -133,6 +129,10 @@
       {
         "date": "2025-10-22",
         "close": 217.9499969482422
+      },
+      {
+        "date": "2025-10-23",
+        "close": 221.08999633789062
       }
     ],
     "name": "Amazon.com, Inc."
