@@ -2,43 +2,8 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-10-31T12:23:31.808812+00:00",
+  "fetched_at": "2025-11-01T12:19:56.250098+00:00",
   "news": [
-    {
-      "title": "The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlM5cFVPdjVOb1pyeElmRFFPR19hM1JzQ1J1TkRHQmo2bXFVTi1mekNmaXpmU0x4bG1DZUc1MTJNdmRFYW9WTDh4dlFyN0pMeG1FNFdtWm1obEhGQy1lNUYwZDdscENaZVRnYVJnelRna2IzeHdUbExOc0hoQmpSQVhjT08waVlVbHhJUS14Ry1vZWo3b1oxRGhudHBaZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYlM5cFVPdjVOb1pyeElmRFFPR19hM1JzQ1J1TkRHQmo2bXFVTi1mekNmaXpmU0x4bG1DZUc1MTJNdmRFYW9WTDh4dlFyN0pMeG1FNFdtWm1obEhGQy1lNUYwZDdscENaZVRnYVJnelRna2IzeHdUbExOc0hoQmpSQVhjT08waVlVbHhJUS14Ry1vZWo3b1oxRGhudHBaZw?oc=5\" target=\"_blank\">The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2025-10-29T20:20:00+00:00",
-      "source": "WIRED"
-    },
-    {
-      "title": "Azure outage: Microsoft still working on fix, says recovery expected in several hours - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX05JOHpPNV94T09iM2VIT0swc2hsSkUwNTlhNHFDbTZIcmNiMGZTTDZRVlNtZXlxUjlPekZKUnZSU3BMY3FKUjBaN3JFQmdhNjZ3QWpVSG5kSkxJRTRSTC1fRUo3dE1nVDdxekpWbmdBaWF6eE9qOFVoVG9RVzBONnFlUDlXZzU2dmIyWGpFLVBBZGhiQ2MwS21ZdS1qY1p0a2fSAacBQVVfeXFMTjdOMmM4NkZ2OXJJd0tTVDRSYUFrS0F3dzNpcVMtWGdRWnhRVmZwTXl6QTA1WVBTY29LeUN6NmlWRXhrd0Q0dlBTbmswU2ZWRGJPaUt6ME1nTlV5dW0weGcwN19GTlBfYWNRNHV5OVBneENRb21ZNkQwcUZZNmtLR2JHYllBWUt4dnlLdDVRbFFsWnpSc1kxdWtEcTlrSVNYZHotY3UyTWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOX05JOHpPNV94T09iM2VIT0swc2hsSkUwNTlhNHFDbTZIcmNiMGZTTDZRVlNtZXlxUjlPekZKUnZSU3BMY3FKUjBaN3JFQmdhNjZ3QWpVSG5kSkxJRTRSTC1fRUo3dE1nVDdxekpWbmdBaWF6eE9qOFVoVG9RVzBONnFlUDlXZzU2dmIyWGpFLVBBZGhiQ2MwS21ZdS1qY1p0a2fSAacBQVVfeXFMTjdOMmM4NkZ2OXJJd0tTVDRSYUFrS0F3dzNpcVMtWGdRWnhRVmZwTXl6QTA1WVBTY29LeUN6NmlWRXhrd0Q0dlBTbmswU2ZWRGJPaUt6ME1nTlV5dW0weGcwN19GTlBfYWNRNHV5OVBneENRb21ZNkQwcUZZNmtLR2JHYllBWUt4dnlLdDVRbFFsWnpSc1kxdWtEcTlrSVNYZHotY3UyTWM?oc=5\" target=\"_blank\">Azure outage: Microsoft still working on fix, says recovery expected in several hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-10-29T16:43:41+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnYydDVCWXBjTlREeFJiNDB0RmRRb1NDck1XRC1xMmppVHJPelllSVhSdHAtSEwwTEwzZUVuMjU0OVcwN2ExcDNra25rTVA0OFM2dzdqTUJ1N1BEemtsLXFuTWVmWERPeG4xUEM3NmFidEFkb3hZQXl2ci1jSk90YmpsRFRoWUNoWWktMTFIVlg4V3VDaWpROFBIY1JYZnNVLXhzaDI4aGRDZE1WOHJz0gG0AUFVX3lxTFB5N1FzbVVRbE16LVJSSEFIbnl5TkpZbnBOLU5BQV9vbmdfWk90YTExQXBLUWlKLXdRS25OUjhRRVY2cmN0Q2xCOEsxdXk2c1BiX2lCZmtuVk9rUWtpOHN0N0JDcWpBTXphYlZnbVRqVjBkZVV0bHNIWUtiUl9oTEl0QjQ2LUtGWEZLLUJjMHdyekx4N29JODF6RjMzYURTVW9SWWpmMDhTNnRORlNqa2NoYWc4dQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObnYydDVCWXBjTlREeFJiNDB0RmRRb1NDck1XRC1xMmppVHJPelllSVhSdHAtSEwwTEwzZUVuMjU0OVcwN2ExcDNra25rTVA0OFM2dzdqTUJ1N1BEemtsLXFuTWVmWERPeG4xUEM3NmFidEFkb3hZQXl2ci1jSk90YmpsRFRoWUNoWWktMTFIVlg4V3VDaWpROFBIY1JYZnNVLXhzaDI4aGRDZE1WOHJz0gG0AUFVX3lxTFB5N1FzbVVRbE16LVJSSEFIbnl5TkpZbnBOLU5BQV9vbmdfWk90YTExQXBLUWlKLXdRS25OUjhRRVY2cmN0Q2xCOEsxdXk2c1BiX2lCZmtuVk9rUWtpOHN0N0JDcWpBTXphYlZnbVRqVjBkZVV0bHNIWUtiUl9oTEl0QjQ2LUtGWEZLLUJjMHdyekx4N29JODF6RjMzYURTVW9SWWpmMDhTNnRORlNqa2NoYWc4dQ?oc=5\" target=\"_blank\">Microsoft: DNS outage impacts Azure and Microsoft 365 services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-10-29T16:49:33+00:00",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Warns Investors About Local Opposition to Data Centers - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWdtZjJlbXBEczJOTU9DNjNTaWJQeXdjM1Q3UVI0eG1GdkpsQXM1ZHk5anJYejRwQWpXbmw1TVhVeGpjN3h0cEhIVDhnYWhOeFdEMi1ZVkw4LXR3N01SY1pqNWhDUnhERHVjNGJMUzJsV0puLTh4SHZHVUhBUXJFMFQ5bnRGY3hja1hJZFowUW1KeEIzNkx6MnZlT2pSQXJCTUdWZjdVNzg4Rlg1ZjAtWlJJVGlYUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWdtZjJlbXBEczJOTU9DNjNTaWJQeXdjM1Q3UVI0eG1GdkpsQXM1ZHk5anJYejRwQWpXbmw1TVhVeGpjN3h0cEhIVDhnYWhOeFdEMi1ZVkw4LXR3N01SY1pqNWhDUnhERHVjNGJMUzJsV0puLTh4SHZHVUhBUXJFMFQ5bnRGY3hja1hJZFowUW1KeEIzNkx6MnZlT2pSQXJCTUdWZjdVNzg4Rlg1ZjAtWlJJVGlYUQ?oc=5\" target=\"_blank\">Microsoft Warns Investors About Local Opposition to Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-10-30T19:40:05+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Meta, Google, and Microsoft Triple Down on AI Spending - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFbDY0RzJqZVlFanBrM1JWZkVfeDh2MTE0RWFyVVZNUzhnNVROdHJKMVNzM1d5NFFvZlQ0am5idlEzdEtzWHFKSUI5ZThVTXpvVG9xVUN6ZGstQTZQT1lLdXV6Zl96SHRQbUJUYlRBbXRudw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBFbDY0RzJqZVlFanBrM1JWZkVfeDh2MTE0RWFyVVZNUzhnNVROdHJKMVNzM1d5NFFvZlQ0am5idlEzdEtzWHFKSUI5ZThVTXpvVG9xVUN6ZGstQTZQT1lLdXV6Zl96SHRQbUJUYlRBbXRudw?oc=5\" target=\"_blank\">Meta, Google, and Microsoft Triple Down on AI Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2025-10-30T02:09:00+00:00",
-      "source": "WIRED"
-    },
     {
       "title": "Google v Microsoft: the battle of AI business models - The Economist",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOams3WUxDZUdhOEdYeWdNTzVJWERzaFdxSGtRMENHQmpJQ3NSYlNQUkl2Wk1fS1kySGduZHdQT0dXVWJiZG9NUDNRS1VvYmI2VFcyejB2UWRqQmxoYng0YVFQekhOT3NhemNiNkx3cXZ0bHFoTFkzcVl3bnplLXdaTWYtdFd6UkI5akEySElTTUdVMVo4Zy1sOEhwMVF6dw?oc=5",
@@ -47,18 +12,53 @@
       "source": "The Economist"
     },
     {
-      "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFFUV3c0ZE1LY1JubFQyb2dSWkQ2eksyTGdFV2IySklSUnRKVG5KQkZGMHEwbnB0TmpmUWowQ2FYa3dFSjBkT3hRZ2RqT0RxbjZNS29HUVdJcGNfalhNRk9abmF6UkhUal9wd3dNNmdWOHA1dGltVUtPUTRMN2pVcXJn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFFUV3c0ZE1LY1JubFQyb2dSWkQ2eksyTGdFV2IySklSUnRKVG5KQkZGMHEwbnB0TmpmUWowQ2FYa3dFSjBkT3hRZ2RqT0RxbjZNS29HUVdJcGNfalhNRk9abmF6UkhUal9wd3dNNmdWOHA1dGltVUtPUTRMN2pVcXJn?oc=5\" target=\"_blank\">CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2025-10-31T08:46:00+00:00",
-      "source": "The Hacker News"
+      "title": "Microsoft Warns Investors About Local Opposition to Data Centers - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWdtZjJlbXBEczJOTU9DNjNTaWJQeXdjM1Q3UVI0eG1GdkpsQXM1ZHk5anJYejRwQWpXbmw1TVhVeGpjN3h0cEhIVDhnYWhOeFdEMi1ZVkw4LXR3N01SY1pqNWhDUnhERHVjNGJMUzJsV0puLTh4SHZHVUhBUXJFMFQ5bnRGY3hja1hJZFowUW1KeEIzNkx6MnZlT2pSQXJCTUdWZjdVNzg4Rlg1ZjAtWlJJVGlYUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWdtZjJlbXBEczJOTU9DNjNTaWJQeXdjM1Q3UVI0eG1GdkpsQXM1ZHk5anJYejRwQWpXbmw1TVhVeGpjN3h0cEhIVDhnYWhOeFdEMi1ZVkw4LXR3N01SY1pqNWhDUnhERHVjNGJMUzJsV0puLTh4SHZHVUhBUXJFMFQ5bnRGY3hja1hJZFowUW1KeEIzNkx6MnZlT2pSQXJCTUdWZjdVNzg4Rlg1ZjAtWlJJVGlYUQ?oc=5\" target=\"_blank\">Microsoft Warns Investors About Local Opposition to Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2025-10-30T19:40:05+00:00",
+      "source": "Bloomberg"
     },
     {
-      "title": "Microsoft to Double Data Center Footprint in Two Years - WSJ - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQRDBIeE5HTG9uVFE1YmtpVzV2TkFKUkoySEFDdS1FRXphcG9VSDVuaG14ZGFMUVBvOERibXpZLWcwVG10cXhueGhmb1BGSmFIOFQ4eGpuSVVMNUE3Z09TdzV5cWhreTJBRXJiaDZPMkV0ajV1LXUtZk1TOWdlMEZrUTl0VnF0Nkg4R0hmbUp1U29HQ1MwSlRrcUNIeWZ6UTJ1cVgzNm1EUWhXNE9TVVpmVGMzRTQzYkp4S1c0Zm9iMXJydFBVS2JidFV3cXFGUjNRMDVKYjBsV2tVc3B4ZXlkNnp2dmVtR0k4elZid3M2NUhZSnpmTUFna0dfeGZPT25iSVpMelZrU0tyQW9aNmM2NFVhWHZzMmpORlZfNzNiTi0xRGtrVGJXMUhUeW1rRjhRRlBvSTNaSEVxSUxoS1FyNEZpTl9iQ0pXR2Q2LUNoUm9NdHdCS3czblZfelhvY1E4WDhRMDhZNzAybTVGbmZBamJDbFRfNk9yUVFYSHF4Zl94T2I3YXc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxQRDBIeE5HTG9uVFE1YmtpVzV2TkFKUkoySEFDdS1FRXphcG9VSDVuaG14ZGFMUVBvOERibXpZLWcwVG10cXhueGhmb1BGSmFIOFQ4eGpuSVVMNUE3Z09TdzV5cWhreTJBRXJiaDZPMkV0ajV1LXUtZk1TOWdlMEZrUTl0VnF0Nkg4R0hmbUp1U29HQ1MwSlRrcUNIeWZ6UTJ1cVgzNm1EUWhXNE9TVVpmVGMzRTQzYkp4S1c0Zm9iMXJydFBVS2JidFV3cXFGUjNRMDVKYjBsV2tVc3B4ZXlkNnp2dmVtR0k4elZid3M2NUhZSnpmTUFna0dfeGZPT25iSVpMelZrU0tyQW9aNmM2NFVhWHZzMmpORlZfNzNiTi0xRGtrVGJXMUhUeW1rRjhRRlBvSTNaSEVxSUxoS1FyNEZpTl9iQ0pXR2Q2LUNoUm9NdHdCS3czblZfelhvY1E4WDhRMDhZNzAybTVGbmZBamJDbFRfNk9yUVFYSHF4Zl94T2I3YXc?oc=5\" target=\"_blank\">Microsoft to Double Data Center Footprint in Two Years - WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTU00OHV5di1uZTdRa0NrOFJTZG5Yb0l6LUM0c3N6TFJoemhHOFQtSUM5VkZnSnE3NnA0QTRsb1k4Z0dBV092VmtBem1LajdndmRaTUwtNHltQjExMlVseW83bkFqNUlIZG9UUjA5eEtnUTNnZmpHTHFyXzBJZGhvX9IBhgFBVV95cUxOYUNkNHFjb3lKejE1YjNzU3hFRl9wb2h1VG13Mi1DZ0lRV2tab1lwUVV4dlVwYjdudl9VZzNfYldpVEdUSWtoNmUtS2g1ZVhtV1ZGaE5lU1RLZGpqbHVkOWJBcGNkNmJoU2daMkk2dG9JYTRvbGpmS0VlWGtNbmFqZGF4N2lHQQ?oc=5\" target=\"_blank\">Microsoft stock drops on forecast for increased spending growth this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHMyY3N3cFFkellubGR4MFVYWlJ0NDc3S0NGV0hvbUJCWDVFbjJvWXdzNXFsSW82NWtWdG0xdGVPMXB3MlZrd2tkQjB2NGpKZXdRYUlBdWdUb2pQVWpPa1U1UkxzbHRvTkk3TDJOV2RXcHk5a1hPQy11UFNTQXpSOQ?oc=5\" target=\"_blank\">Microsoft Just Lit a Fuse Under Nebius (NBIS). Buy Now Before It Takes Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2025-10-29T22:45:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "100,000+ tech layoffs in 2025: Amazon, Microsoft, Intel, and these companies cut thousands of jobs - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzJvNldYa0Nxa1hxVnlWU1NfV3NKdFNPUGdkQ2ZSb1lXZEJnQkZYOGpLV21rNlRDcDFnZFBESjBMRElvMzNhaDZsaUJYZWlWSDJ0UWtiMEtUUU1hNS1zakExS29sN0lqMDJxblVRWXNNdkI1cVlHVDRtYUU1Wndqd1hLVmc3SVZBZXVVUFM1SWRqN1ZESDh5eHhTTURZSjBrRUk1VGJBRGFuNkMyemQ4aDJkRWdXR2N6dzRKUFN4ZmNSZ3NsZkJZRF9hRDZDYUtkNVM3Yjh6THoxMkVfNkRjVW4xOTFmLTZ1Vks3Z2Q0dF9ud25hX1dVOFBQeDFXNk16eUh6dVJn0gGLAkFVX3lxTE9tSnM1aXlPX3BxeW8zcTIwUUNZakNScktsaWY3UDFveE9LZ2NUamZ2U1doUDV2TkY2NnZSZFo0S0hmRWFjbXNJOXBSMUxwZGVfd2ZmcVE1ajJOZ2Yxckg4WmltT3JUTFBTU2h2enI3Q1p5VFRudUFLTjRhWl9sRFdvOGZBUUYwSXh3WklGUWlFWTlqMzdPSm4wN3FxSUkxOWZSZjhJWXJUYVRjcFo4QTBibGs5bVZTTjdsTUdUOXBDMi1kMnIwLUpmTndHLUlUMnBQSW9mLWdacmpKR1VYaUYyV3FlZHFjM0xJVWtnb3V6cnlsMzJTSUFjNTBtQXpLc1hzQWdWZlUzUUVyVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOYzJvNldYa0Nxa1hxVnlWU1NfV3NKdFNPUGdkQ2ZSb1lXZEJnQkZYOGpLV21rNlRDcDFnZFBESjBMRElvMzNhaDZsaUJYZWlWSDJ0UWtiMEtUUU1hNS1zakExS29sN0lqMDJxblVRWXNNdkI1cVlHVDRtYUU1Wndqd1hLVmc3SVZBZXVVUFM1SWRqN1ZESDh5eHhTTURZSjBrRUk1VGJBRGFuNkMyemQ4aDJkRWdXR2N6dzRKUFN4ZmNSZ3NsZkJZRF9hRDZDYUtkNVM3Yjh6THoxMkVfNkRjVW4xOTFmLTZ1Vks3Z2Q0dF9ud25hX1dVOFBQeDFXNk16eUh6dVJn0gGLAkFVX3lxTE9tSnM1aXlPX3BxeW8zcTIwUUNZakNScktsaWY3UDFveE9LZ2NUamZ2U1doUDV2TkY2NnZSZFo0S0hmRWFjbXNJOXBSMUxwZGVfd2ZmcVE1ajJOZ2Yxckg4WmltT3JUTFBTU2h2enI3Q1p5VFRudUFLTjRhWl9sRFdvOGZBUUYwSXh3WklGUWlFWTlqMzdPSm4wN3FxSUkxOWZSZjhJWXJUYVRjcFo4QTBibGs5bVZTTjdsTUdUOXBDMi1kMnIwLUpmTndHLUlUMnBQSW9mLWdacmpKR1VYaUYyV3FlZHFjM0xJVWtnb3V6cnlsMzJTSUFjNTBtQXpLc1hzQWdWZlUzUUVyVQ?oc=5\" target=\"_blank\">100,000+ tech layoffs in 2025: Amazon, Microsoft, Intel, and these companies cut thousands of jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2025-11-01T11:37:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella says Bill Gates told him his big bet on OpenAI would be a flop: ‘Yeah, you’re going to burn this billion dollars’ - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3VEdC1tSW9Bd3drNVVQcnJsb1l5Qy1XRXY5aktZUWstM2l5V2NVb2xLZU1IZmRsLVVZN3hsYS1zMVNiMEpnR1JOdjczR3ZWemt0X3JsVzFWbWtuanY4ck01Ymxpci1mY21ST1hxV0Y2bmhVWWU0S2c4eUVHWUU4NV9TZWQzWS1XTHhUeEdCRng5dnZGN0VsOXZ6R3pEcXdGN0ItU0NQVWdSWUFtaWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3VEdC1tSW9Bd3drNVVQcnJsb1l5Qy1XRXY5aktZUWstM2l5V2NVb2xLZU1IZmRsLVVZN3hsYS1zMVNiMEpnR1JOdjczR3ZWemt0X3JsVzFWbWtuanY4ck01Ymxpci1mY21ST1hxV0Y2bmhVWWU0S2c4eUVHWUU4NV9TZWQzWS1XTHhUeEdCRng5dnZGN0VsOXZ6R3pEcXdGN0ItU0NQVWdSWUFtaWc?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella says Bill Gates told him his big bet on OpenAI would be a flop: ‘Yeah, you’re going to burn this billion dollars’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2025-10-30T10:05:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "What Microsoft CEO Satya Nadella told employees in his annual letter: We must earn our permission to… - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOczlERmVOUFIwQmE2eHFhN3lvQkpNaGhfT1Q5Wmhzcm9lUU5lazZOLWZhVFZKcUJxZDhTbTNyYmUwcnJhX3JCczVQel9FWWtFUXJEcXFqcVBFa2FXcmVyVmY5aTFKT3puRm5tNGVHYmZiWlhTd1dPWjE1TFUyekVwVm1QZ0JkanVIWDhnSVJrd2xmYmNtUFV6bG51Ym4zZC1GdF9uaFVHeERLdzA5N0FGTVUyMWotRUxucXZrSXhBZDJCRWo3YnhfNUNTNWlkN0o5dGVwYU52aWtfVVZNeU5OVnpkLWVTdEJLc25TcFdSaE8wTFFJTDJtYk5fcmUyWXFhQ3l5THp3d294ejdFRHU40gGUAkFVX3lxTE9taC1JMjN1TVBXTHA5SVBJempLOGl4N2IyQ3hHRHVQY1lZZ0NvZTVmcHRxcXJMLUZudW5peGJyZG1uQVpWX2c4VFFRaGxDb1d0dWs1RHhYVlY5UGRiX1pCRi0wY2dQQ0lNNXRsUkg4TmtCdUo4a1dRLVI5OS0tLXBSTGl1dUVZTDdvTWdoSEprUG5yVEVhU3hpc0lvU0ozdFNEbl9qdnMxVDlYc0ZVSnVuVnVkUkRpZUJPVklWTDJ5LUpnNnpYTElPWjFJMS00QjN3WkVZR2hLZHU4Vk1xUEplcHM0cUh0VjJkXzEySWdpQWFaQldRWVBGUUkzOXhyYTVCSFRpQ1hFdWtZVXVIaHZGUVFDZg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOczlERmVOUFIwQmE2eHFhN3lvQkpNaGhfT1Q5Wmhzcm9lUU5lazZOLWZhVFZKcUJxZDhTbTNyYmUwcnJhX3JCczVQel9FWWtFUXJEcXFqcVBFa2FXcmVyVmY5aTFKT3puRm5tNGVHYmZiWlhTd1dPWjE1TFUyekVwVm1QZ0JkanVIWDhnSVJrd2xmYmNtUFV6bG51Ym4zZC1GdF9uaFVHeERLdzA5N0FGTVUyMWotRUxucXZrSXhBZDJCRWo3YnhfNUNTNWlkN0o5dGVwYU52aWtfVVZNeU5OVnpkLWVTdEJLc25TcFdSaE8wTFFJTDJtYk5fcmUyWXFhQ3l5THp3d294ejdFRHU40gGUAkFVX3lxTE9taC1JMjN1TVBXTHA5SVBJempLOGl4N2IyQ3hHRHVQY1lZZ0NvZTVmcHRxcXJMLUZudW5peGJyZG1uQVpWX2c4VFFRaGxDb1d0dWs1RHhYVlY5UGRiX1pCRi0wY2dQQ0lNNXRsUkg4TmtCdUo4a1dRLVI5OS0tLXBSTGl1dUVZTDdvTWdoSEprUG5yVEVhU3hpc0lvU0ozdFNEbl9qdnMxVDlYc0ZVSnVuVnVkUkRpZUJPVklWTDJ5LUpnNnpYTElPWjFJMS00QjN3WkVZR2hLZHU4Vk1xUEplcHM0cUh0VjJkXzEySWdpQWFaQldRWVBGUUkzOXhyYTVCSFRpQ1hFdWtZVXVIaHZGUVFDZg?oc=5\" target=\"_blank\">What Microsoft CEO Satya Nadella told employees in his annual letter: We must earn our permission to…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2025-11-01T04:55:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella to visit India in December, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblVFWjViZUNhcWs0enpEcjB0YkxTeEk0aVR0MC1BV2wzT2IzNkhTb0dtRFBDM2F6YkxEd0p4RGFoaUl3eFo3ZEp5WGx6aFU2N25OdUpyZ3VvcnZsZkhuODNRVDVOeDhUMGlwYnJJMFVQTHJYZmtaTkZkeHo2YWlXWmNUbGl1U1JidzMzei1wQ0VJQklUQnJzMWtVWXRnQTJfV1M3NDl4NU9Da1gyZmQ3Ymx0TQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPblVFWjViZUNhcWs0enpEcjB0YkxTeEk0aVR0MC1BV2wzT2IzNkhTb0dtRFBDM2F6YkxEd0p4RGFoaUl3eFo3ZEp5WGx6aFU2N25OdUpyZ3VvcnZsZkhuODNRVDVOeDhUMGlwYnJJMFVQTHJYZmtaTkZkeHo2YWlXWmNUbGl1U1JidzMzei1wQ0VJQklUQnJzMWtVWXRnQTJfV1M3NDl4NU9Da1gyZmQ3Ymx0TQ?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella to visit India in December, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-10-29T12:38:39+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "'AMG' or Amazon, Microsoft, and Google, Are a Cloud Money Machine - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ25FbnI0V3NTc3lfT05xbElJZVNuVjZVU2JVSEpUUGh4bHFBVGVVUkNIOWJhMWdzYWxvdkh1RDZJcF9FVWgxSlU2ZF9yMk5sQVBHUkFGR0V4cTdRUzFuTnFFMGEtZkZkMndlUlY4TElmLXVzc3V5SWI5TU5kV09SdmhtY3MtZ3dBaGE0NFpMY3M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ25FbnI0V3NTc3lfT05xbElJZVNuVjZVU2JVSEpUUGh4bHFBVGVVUkNIOWJhMWdzYWxvdkh1RDZJcF9FVWgxSlU2ZF9yMk5sQVBHUkFGR0V4cTdRUzFuTnFFMGEtZkZkMndlUlY4TElmLXVzc3V5SWI5TU5kV09SdmhtY3MtZ3dBaGE0NFpMY3M?oc=5\" target=\"_blank\">'AMG' or Amazon, Microsoft, and Google, Are a Cloud Money Machine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2025-10-31T22:13:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlM5cFVPdjVOb1pyeElmRFFPR19hM1JzQ1J1TkRHQmo2bXFVTi1mekNmaXpmU0x4bG1DZUc1MTJNdmRFYW9WTDh4dlFyN0pMeG1FNFdtWm1obEhGQy1lNUYwZDdscENaZVRnYVJnelRna2IzeHdUbExOc0hoQmpSQVhjT08waVlVbHhJUS14Ry1vZWo3b1oxRGhudHBaZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYlM5cFVPdjVOb1pyeElmRFFPR19hM1JzQ1J1TkRHQmo2bXFVTi1mekNmaXpmU0x4bG1DZUc1MTJNdmRFYW9WTDh4dlFyN0pMeG1FNFdtWm1obEhGQy1lNUYwZDdscENaZVRnYVJnelRna2IzeHdUbExOc0hoQmpSQVhjT08waVlVbHhJUS14Ry1vZWo3b1oxRGhudHBaZw?oc=5\" target=\"_blank\">The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2025-10-29T20:20:00+00:00",
+      "source": "WIRED"
     }
   ],
   "product_launches": [
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-10-30",
-      "close": 525.760009765625
+      "date": "2025-10-31",
+      "close": 517.8099975585938
     },
     "history": [
-      {
-        "date": "2025-10-22",
-        "close": 520.5399780273438
-      },
       {
         "date": "2025-10-23",
         "close": 520.5599975585938
@@ -133,6 +129,10 @@
       {
         "date": "2025-10-30",
         "close": 525.760009765625
+      },
+      {
+        "date": "2025-10-31",
+        "close": 517.8099975585938
       }
     ],
     "name": "Microsoft Corporation"
