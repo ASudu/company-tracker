@@ -2,36 +2,8 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2025-11-08T12:20:09.232428+00:00",
+  "fetched_at": "2025-11-09T12:20:08.430094+00:00",
   "news": [
-    {
-      "title": "Google Parent Alphabet Leads 17 Hot Newcomers Onto Best Stock Lists - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzNuOGNlWlB4YVB6djVWY2VIWmFXeHFUMl9xeDk0M0FVeE1xektrVmpYSWRfNkNjQ3ZQbm1UMEM5ZU1QUEYtSlA1bDhFZ3lHaS1WUEJhZWFwdF9JNzNpdmtxN21Ta1JxeUJYajdQUWc4cENkYUQ2ZUFxUUR4bzhZZmpuaWNHOEdleHEtbXdXMnJOb0Itc01RaUM1ZlltbURm?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzNuOGNlWlB4YVB6djVWY2VIWmFXeHFUMl9xeDk0M0FVeE1xektrVmpYSWRfNkNjQ3ZQbm1UMEM5ZU1QUEYtSlA1bDhFZ3lHaS1WUEJhZWFwdF9JNzNpdmtxN21Ta1JxeUJYajdQUWc4cENkYUQ2ZUFxUUR4bzhZZmpuaWNHOEdleHEtbXdXMnJOb0Itc01RaUM1ZlltbURm?oc=5\" target=\"_blank\">Google Parent Alphabet Leads 17 Hot Newcomers Onto Best Stock Lists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Rk1Ud2JnYlZzT2hTQXBSQUlzTVNDck9sdENELUVLMWZRcWlkeV9FSWNaRnFtblprTGc5bnZfQ1VlRmNwRGJvdndka1lyMUE2aG1qNTVGZWpzMElOSWJJREswT2N2T1NvSE9LMndqaWU3NE5FQWgtbzB2WGYtUQ?oc=5\" target=\"_blank\">Alphabet: The Ride Has Just Begun (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWtacFlBclhIbzJRYllucTQ2dDI0NVlObEgtbEdqYXNvWnJlSTdjc1A4WnlRSXo3RFN1REhPZXdfZEs2ZndtemNwZHQ4UGJId0ZxbFJOamNNNHIwMDQ4U1BNaEE3QWhHSVNQS3YtWEpEcDlQM2dySXVRZS1yY3NsTWs3eDlMNk9jZERDaDdvekQyX2VuNUJOV21rZw?oc=5\" target=\"_blank\">After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font></li></ol>",
-      "published": "2025-11-07T00:00:00+00:00",
-      "source": "Investor's Business Daily"
-    },
-    {
-      "title": "Nvidia, Meta, Alphabet, and SharkNinja: Why This Manager Thinks All Are Winners - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOaURsUTM5X1ZNUHFPaWdyLWxTSGVyQW1IcERlVno2WTFvZlExeU14ZS0tcGNxMEZNSTFfZ0pmSDFha1NqQUNhQkdfdW1DVTJhNEtXN2RrME5IcG9mMzJycFp4cHhzaE9yMGxZUWtwYzJDVHl1OUUzU0EyZ0pXcEhyVWFkM2l4bTFMVFlUZ29aaU5EOGhOc2Vtd0JwY0JTX0dDZDRraUNRdXJDZEJvVmZIZ2MyZG1aRVV6a2QtR09yUUZLR2VSZW1iaWZjeXQzZFB5clM0RlhQTnhWRFNRMVlENHVMM3MzSmpIeUJBMTVjaFlpNG45LXpYbGpha2xVM3ZCS1cxSFc3bXVJZ2l6Q1dPUTFGaDlrcUFVeElJMV8xRktuNms1dTYtXzk0Y1o3N1pBU1VwVEl4bUx1YWQ2M3dSVUFqZXVqQlFSMG5xa01mWUNnd0ROcTNzQ0UxblQzZmUwaGVKUGZmSmxtREJBSHR1elZiQXEzNmNZcWJHSG1ZVy1GejhOSGFURXNRS3k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxOaURsUTM5X1ZNUHFPaWdyLWxTSGVyQW1IcERlVno2WTFvZlExeU14ZS0tcGNxMEZNSTFfZ0pmSDFha1NqQUNhQkdfdW1DVTJhNEtXN2RrME5IcG9mMzJycFp4cHhzaE9yMGxZUWtwYzJDVHl1OUUzU0EyZ0pXcEhyVWFkM2l4bTFMVFlUZ29aaU5EOGhOc2Vtd0JwY0JTX0dDZDRraUNRdXJDZEJvVmZIZ2MyZG1aRVV6a2QtR09yUUZLR2VSZW1iaWZjeXQzZFB5clM0RlhQTnhWRFNRMVlENHVMM3MzSmpIeUJBMTVjaFlpNG45LXpYbGpha2xVM3ZCS1cxSFc3bXVJZ2l6Q1dPUTFGaDlrcUFVeElJMV8xRktuNms1dTYtXzk0Y1o3N1pBU1VwVEl4bUx1YWQ2M3dSVUFqZXVqQlFSMG5xa01mWUNnd0ROcTNzQ0UxblQzZmUwaGVKUGZmSmxtREJBSHR1elZiQXEzNmNZcWJHSG1ZVy1GejhOSGFURXNRS3k?oc=5\" target=\"_blank\">Nvidia, Meta, Alphabet, and SharkNinja: Why This Manager Thinks All Are Winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2025-11-06T05:30:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Why Anglophones use the alphabet so oddly - economist.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk0tbUFXV29FWWtSb20zNmJiN0NrdF9LUWxYYmN3VFduR3ltNW5qdWZwSm5kNEFNSHUwYmFZTENnenRadGUxZjItYzhvNHRTbnpJWEk0aVMyeHJkUkJieVBNc1BaVlpIV2x0bWhId21jMUx5Qm9VSkxFQVFFTjVNWGlSWWdUTVlEdnVZalBnaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk0tbUFXV29FWWtSb20zNmJiN0NrdF9LUWxYYmN3VFduR3ltNW5qdWZwSm5kNEFNSHUwYmFZTENnenRadGUxZjItYzhvNHRTbnpJWEk0aVMyeHJkUkJieVBNc1BaVlpIV2x0bWhId21jMUx5Qm9VSkxFQVFFTjVNWGlSWWdUTVlEdnVZalBnaw?oc=5\" target=\"_blank\">Why Anglophones use the alphabet so oddly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">economist.com</font>",
-      "published": "2025-11-06T14:01:38+00:00",
-      "source": "economist.com"
-    },
-    {
-      "title": "Waymo, Alphabet Sued for Bias After AI Allegedly Mislabels SF Doctor as Terrorist - KQED",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLThTd2s3VHh6QkpqQzgxeWw1OE9SazRMUTVReExJdHVYRjVvWDJGN3o0elRyYktiY2tlUGc1N25jbmROMllkZTAwdW5Scm5OcjJVUWEyOGFTdVV3VDlJNHZLcEFLbjhJVmZ6dGlqVDVhUkFhQlgtdlZCUFZyMkFOSjl1X3ZydG5GOUZBY1kzVkhQYmtYYkpINl9oeXBlel9abGFiRUdFZGVkYXdRUUc5ckhwOVptZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPLThTd2s3VHh6QkpqQzgxeWw1OE9SazRMUTVReExJdHVYRjVvWDJGN3o0elRyYktiY2tlUGc1N25jbmROMllkZTAwdW5Scm5OcjJVUWEyOGFTdVV3VDlJNHZLcEFLbjhJVmZ6dGlqVDVhUkFhQlgtdlZCUFZyMkFOSjl1X3ZydG5GOUZBY1kzVkhQYmtYYkpINl9oeXBlel9abGFiRUdFZGVkYXdRUUc5ckhwOVptZw?oc=5\" target=\"_blank\">Waymo, Alphabet Sued for Bias After AI Allegedly Mislabels SF Doctor as Terrorist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQED</font>",
-      "published": "2025-11-05T23:11:13+00:00",
-      "source": "KQED"
-    },
     {
       "title": "Meta Vs. Alphabet Stock: Which Offers More Upside? - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUF1TFhNckhlSFh1S25JS0FqNzJYc0FXeHM3Y2w1RDlWQ3U5dFI5ZVIzWjA0RG1XTU1DalhoUmlfQ2hXMzRmMXVXcmdabm5wUlUxLTd3dmVtbzNkSVcwRnhkWEMwaXRtWTByT2hYeUx1MXNlV1gtSFZKLTUzY1p5aFJmSzBDZklsSU85a3ltUm5RNVQxeWlEX3RxaGJDalViX1VBSFg3ZE8yQQ?oc=5",
@@ -40,25 +12,53 @@
       "source": "Forbes"
     },
     {
-      "title": "Alphabet Expands AI Edge With New 'Ironwood' Chip as TPU Demand Soars - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWtoZ3BXRXZMck5rZ1dWOFM4ZjdqeXV3M1FKUEZWaTBWRk9saTNub0RNM3N5bHAxWWxsS2pVYXBvRXl2U3F1ak5uRTZoa3h4d1FSTTBGVEIwNVdZS08ydGdpMjNQb3BPaWF4MzFYM3dDVjdsR1hUeDNYRFpVLURsd2lUUEdSQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUWtoZ3BXRXZMck5rZ1dWOFM4ZjdqeXV3M1FKUEZWaTBWRk9saTNub0RNM3N5bHAxWWxsS2pVYXBvRXl2U3F1ak5uRTZoa3h4d1FSTTBGVEIwNVdZS08ydGdpMjNQb3BPaWF4MzFYM3dDVjdsR1hUeDNYRFpVLURsd2lUUEdSQQ?oc=5\" target=\"_blank\">Alphabet Expands AI Edge With New 'Ironwood' Chip as TPU Demand Soars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-07T15:21:57+00:00",
-      "source": "Yahoo Finance"
+      "title": "Alphabet: The Ride Has Just Begun (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Rk1Ud2JnYlZzT2hTQXBSQUlzTVNDck9sdENELUVLMWZRcWlkeV9FSWNaRnFtblprTGc5bnZfQ1VlRmNwRGJvdndka1lyMUE2aG1qNTVGZWpzMElOSWJJREswT2N2T1NvSE9LMndqaWU3NE5FQWgtbzB2WGYtUQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Rk1Ud2JnYlZzT2hTQXBSQUlzTVNDck9sdENELUVLMWZRcWlkeV9FSWNaRnFtblprTGc5bnZfQ1VlRmNwRGJvdndka1lyMUE2aG1qNTVGZWpzMElOSWJJREswT2N2T1NvSE9LMndqaWU3NE5FQWgtbzB2WGYtUQ?oc=5\" target=\"_blank\">Alphabet: The Ride Has Just Begun (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzNuOGNlWlB4YVB6djVWY2VIWmFXeHFUMl9xeDk0M0FVeE1xektrVmpYSWRfNkNjQ3ZQbm1UMEM5ZU1QUEYtSlA1bDhFZ3lHaS1WUEJhZWFwdF9JNzNpdmtxN21Ta1JxeUJYajdQUWc4cENkYUQ2ZUFxUUR4bzhZZmpuaWNHOEdleHEtbXdXMnJOb0Itc01RaUM1ZlltbURm?oc=5\" target=\"_blank\">Google Parent Alphabet Leads 17 Hot Newcomers Onto Best Stock Lists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA3cDZTd0FpMWdZWXczMW0yUEdXTHFEQ0lHelBpTU1rMW0wMU9SVUFiOG1ZRWM3Tm9sd0RhZmtZdEo2X1d3SVJKQlNrVmJXc1Z4MklyWFlrLTV5cnhVQUtacmpiN2tRYlZhd1l4Zm9jMTNtdThrSEVWM1RCb2h5QQ?oc=5\" target=\"_blank\">The 1 Number That Shows Why Alphabet Is a Buy Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2025-11-07T23:32:42+00:00",
+      "source": "Seeking Alpha"
     },
     {
-      "title": "President Capital Issues Positive Forecast for Alphabet (NASDAQ:GOOGL) Stock Price - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV09zMkF5cUFvT3RlNWRzQXg0ZTkzSE5DSDBOdld4dUU2RFhfT3AxQkx6X2FBemJCX0c3dWZqd0p1WFlybnJiUlQ1TUp2eG90SU92dXV4UjY5WVRiM0U3dHo5bUprUjlCT3RXblRzQ0stRzJzaFVzQnRjUVctMGdSdjhEUS1hOVZ6ekZ6bmpJXzVqRGRkYmVPQWNhVVR5MlJtTlBvdHk2LTFzNFkwWUliUFMxX0gybFNqeWpCc1AwcTVmOFZPNmJCU2VrRE40QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPV09zMkF5cUFvT3RlNWRzQXg0ZTkzSE5DSDBOdld4dUU2RFhfT3AxQkx6X2FBemJCX0c3dWZqd0p1WFlybnJiUlQ1TUp2eG90SU92dXV4UjY5WVRiM0U3dHo5bUprUjlCT3RXblRzQ0stRzJzaFVzQnRjUVctMGdSdjhEUS1hOVZ6ekZ6bmpJXzVqRGRkYmVPQWNhVVR5MlJtTlBvdHk2LTFzNFkwWUliUFMxX0gybFNqeWpCc1AwcTVmOFZPNmJCU2VrRE40QQ?oc=5\" target=\"_blank\">President Capital Issues Positive Forecast for Alphabet (NASDAQ:GOOGL) Stock Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-      "published": "2025-11-06T14:35:52+00:00",
+      "title": "Why Anglophones use the alphabet so oddly - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk0tbUFXV29FWWtSb20zNmJiN0NrdF9LUWxYYmN3VFduR3ltNW5qdWZwSm5kNEFNSHUwYmFZTENnenRadGUxZjItYzhvNHRTbnpJWEk0aVMyeHJkUkJieVBNc1BaVlpIV2x0bWhId21jMUx5Qm9VSkxFQVFFTjVNWGlSWWdUTVlEdnVZalBnaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk0tbUFXV29FWWtSb20zNmJiN0NrdF9LUWxYYmN3VFduR3ltNW5qdWZwSm5kNEFNSHUwYmFZTENnenRadGUxZjItYzhvNHRTbnpJWEk0aVMyeHJkUkJieVBNc1BaVlpIV2x0bWhId21jMUx5Qm9VSkxFQVFFTjVNWGlSWWdUTVlEdnVZalBnaw?oc=5\" target=\"_blank\">Why Anglophones use the alphabet so oddly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
+      "published": "2025-11-06T14:01:38+00:00",
+      "source": "The Economist"
+    },
+    {
+      "title": "Nvidia, Meta, Alphabet, and SharkNinja: Why This Manager Thinks All Are Winners - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYXlHa1NJZ0RBaXEyTUNlUGlGSUxnblRPQ2lfanlwbjFKOFNwTkVPSTVTaUVkTFA2UGliVUs5X042Tm9kekJiN2otcEFLQ1YyMkNhNWJVMUZCWEd5eTdzc2Rja2lJWThhQkhlYUF1bTczeFJzTjJ0MGQzRm5MTUs5RFA3ZXVGbWloN1ZvM3VkMGFNd2NBOXE1Y01fTkdvSDcyYjlmMUVXX2hXel9tc3M3NVc5YWJGUGsxZ0VYWUw5SDgyajNJNVMzSkdveGZXWk5ETU55V0g0V3dNMy1OLThTTzFXc0JDT21USmMwWE8zTmEzWXd1d1FkTFJvbGI4LV9xWjdjaWN4T1dxeXJxcVV6dk1KRWU4bjNrUEJGNk1zeVFfV3h0X0FDSVQtdktyTDN0aGZLUkZBb0JoS3RiOVZ2UlFWb2lVNURWUFhVUGplZDNCUFFvejJWQlFTdkk1QXBvUUFxRENRXzcwcnBXa2FZdEFzVl9lYW5lZzNobzJzZ29HODNfM0UxS0Q4MS0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxOYXlHa1NJZ0RBaXEyTUNlUGlGSUxnblRPQ2lfanlwbjFKOFNwTkVPSTVTaUVkTFA2UGliVUs5X042Tm9kekJiN2otcEFLQ1YyMkNhNWJVMUZCWEd5eTdzc2Rja2lJWThhQkhlYUF1bTczeFJzTjJ0MGQzRm5MTUs5RFA3ZXVGbWloN1ZvM3VkMGFNd2NBOXE1Y01fTkdvSDcyYjlmMUVXX2hXel9tc3M3NVc5YWJGUGsxZ0VYWUw5SDgyajNJNVMzSkdveGZXWk5ETU55V0g0V3dNMy1OLThTTzFXc0JDT21USmMwWE8zTmEzWXd1d1FkTFJvbGI4LV9xWjdjaWN4T1dxeXJxcVV6dk1KRWU4bjNrUEJGNk1zeVFfV3h0X0FDSVQtdktyTDN0aGZLUkZBb0JoS3RiOVZ2UlFWb2lVNURWUFhVUGplZDNCUFFvejJWQlFTdkk1QXBvUUFxRENRXzcwcnBXa2FZdEFzVl9lYW5lZzNobzJzZ29HODNfM0UxS0Q4MS0?oc=5\" target=\"_blank\">Nvidia, Meta, Alphabet, and SharkNinja: Why This Manager Thinks All Are Winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2025-11-06T05:30:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Google Fires Back At Nvidia With Its New Ironwood AI Chip - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1ZkUWJtMXRIeHVFb2t5MmtJLU1DMmN1eFpMM2FYUXdTVGdYdDdNcUx2Q2x1b2dieGJwSVhBRXJUZTdlN29nZloxbFNDNUtRdnZPRTBaU1dBUGQ4NWFoaUQ3MWFvSmpOVHV5YzhYbnZ0TXMyN0p6Wnc0YnR1bTFCcVpNU3ZPNWE2Tm5MX2EyblR5TFA2OUN6WUFnX2s3T01VcHBzM0J1Q3l2VmlDWE13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1ZkUWJtMXRIeHVFb2t5MmtJLU1DMmN1eFpMM2FYUXdTVGdYdDdNcUx2Q2x1b2dieGJwSVhBRXJUZTdlN29nZloxbFNDNUtRdnZPRTBaU1dBUGQ4NWFoaUQ3MWFvSmpOVHV5YzhYbnZ0TXMyN0p6Wnc0YnR1bTFCcVpNU3ZPNWE2Tm5MX2EyblR5TFA2OUN6WUFnX2s3T01VcHBzM0J1Q3l2VmlDWE13?oc=5\" target=\"_blank\">Google Fires Back At Nvidia With Its New Ironwood AI Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "published": "2025-11-07T11:14:56+00:00",
+      "source": "Benzinga"
+    },
+    {
+      "title": "Alphabet Inc. $GOOG Shares Sold by Main Street Research LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFhZQ2c3dTl6aGVKSUI1Q1ZITmJzOE5xc2wzQTdpWmJ6TVpoU1FrT1F4cW1XbHNJa252QnFzYkd3ZENOVldTbU9pRWxIVURkWHpXaFZoOVNiS0E4OVVCSVlIQjA3bHdCUS0zNmhERy1xSS1UUTFxeFVUekd0NDdHRzZ1VDZYcG9oc0lTX2trUnhYZ3V3bUJQOEZ2SHVXY2xiMTExN2hQa0JteGZHTDJDNWs3N3drbEZweUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFhZQ2c3dTl6aGVKSUI1Q1ZITmJzOE5xc2wzQTdpWmJ6TVpoU1FrT1F4cW1XbHNJa252QnFzYkd3ZENOVldTbU9pRWxIVURkWHpXaFZoOVNiS0E4OVVCSVlIQjA3bHdCUS0zNmhERy1xSS1UUTFxeFVUekd0NDdHRzZ1VDZYcG9oc0lTX2trUnhYZ3V3bUJQOEZ2SHVXY2xiMTExN2hQa0JteGZHTDJDNWs3N3drbEZweUE?oc=5\" target=\"_blank\">Alphabet Inc. $GOOG Shares Sold by Main Street Research LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "published": "2025-11-06T09:49:20+00:00",
       "source": "MarketBeat"
     },
     {
-      "title": "Alphabet stock jumps after report of Apple’s plans to use Google AI for Siri - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWNwWUI1eW96X3BrcGJEbzZJTC14MUNqZHpqM19NTEFyRmVnMmVwZnRuZ09xc2NPUWdNMWlmVldmbFZyeWxzX1RpZFNERDUwdmo1LWdoTWh1MHd0SEVNMXpuY2xBbkR3c1BoVVJkdmQxeGFUQnU4RFhJOXVlM2hMVUZwOWhmX3hJTWJDcl9KSmd4M0VlMENBQ1NRVEVoSzVxeUd2alphNmRmd1dYSFNCQ1RGMVBXZ0VieEFDU2ZaY2h4NW9ya0FjQVl4djA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWNwWUI1eW96X3BrcGJEbzZJTC14MUNqZHpqM19NTEFyRmVnMmVwZnRuZ09xc2NPUWdNMWlmVldmbFZyeWxzX1RpZFNERDUwdmo1LWdoTWh1MHd0SEVNMXpuY2xBbkR3c1BoVVJkdmQxeGFUQnU4RFhJOXVlM2hMVUZwOWhmX3hJTWJDcl9KSmd4M0VlMENBQ1NRVEVoSzVxeUd2alphNmRmd1dYSFNCQ1RGMVBXZ0VieEFDU2ZaY2h4NW9ya0FjQVl4djA?oc=5\" target=\"_blank\">Alphabet stock jumps after report of Apple’s plans to use Google AI for Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2025-11-05T19:21:04+00:00",
-      "source": "Investing.com"
+      "title": "Alphabet: The AI Transformation Is Just Beginning (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUZGUXFzU1NQNDJRQkl1LU03a2VKWlVlSVBhemdUam9PNVA2RlR5aWVuWVdEV1R0ZUp4VzYySnZXUTI3c1QxTUcxM0RsdFJpUVh4U3p5WldEWXMyYkVkVWVjV1BjOGYyMkJQa19DZ05Va0xXZ2dJLXQ2RURxdldpX2RuS084SjJGZjJZMDlsRU1mUEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUZGUXFzU1NQNDJRQkl1LU03a2VKWlVlSVBhemdUam9PNVA2RlR5aWVuWVdEV1R0ZUp4VzYySnZXUTI3c1QxTUcxM0RsdFJpUVh4U3p5WldEWXMyYkVkVWVjV1BjOGYyMkJQa19DZ05Va0xXZ2dJLXQ2RURxdldpX2RuS084SjJGZjJZMDlsRU1mUEE?oc=5\" target=\"_blank\">Alphabet: The AI Transformation Is Just Beginning (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2025-11-06T12:39:59+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Prediction: This Supercharged Growth Stock Will Join Nvidia, Apple, Microsoft, and Alphabet in the $3 Trillion Club Before 2028 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONENYc3dzM0JWOHVIUVJwbndCTGRDUTJ3RzgxT1VfQnBVYkswclhfQ2NOOUtpNHRQSWtfME5HNXNQMWlmRnVES2Ftc0lqVmdKbWhMamkyR1FNSGNsM0VTVG9tbGVXTk1mVUk0S2s4LTRVb2tTUUVqc1FTUDlRNmNtbDRYVS1rMHBVdzBvdjNrbXY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONENYc3dzM0JWOHVIUVJwbndCTGRDUTJ3RzgxT1VfQnBVYkswclhfQ2NOOUtpNHRQSWtfME5HNXNQMWlmRnVES2Ftc0lqVmdKbWhMamkyR1FNSGNsM0VTVG9tbGVXTk1mVUk0S2s4LTRVb2tTUUVqc1FTUDlRNmNtbDRYVS1rMHBVdzBvdjNrbXY?oc=5\" target=\"_blank\">Prediction: This Supercharged Growth Stock Will Join Nvidia, Apple, Microsoft, and Alphabet in the $3 Trillion Club Before 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-11-08T18:02:00+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
@@ -84,18 +84,18 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "OpenAI teases launch of web browser, knocking down Alphabet’s Google stock - Cryptopolitan",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41NzNRUXlpSTI5ZkMwQjVLclVqQ0toMGVBLU5SQUh1aXJPcWZKWlJjYTRtRG1TY09VVkJ6Z3pyVEFPQW5Icmw0N1h2ME1JZHBxVFpEbGx3R3dhNzN4cUUyV2tTaDU1TF9DNm5PSGdqdDFIQjhK?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE41NzNRUXlpSTI5ZkMwQjVLclVqQ0toMGVBLU5SQUh1aXJPcWZKWlJjYTRtRG1TY09VVkJ6Z3pyVEFPQW5Icmw0N1h2ME1JZHBxVFpEbGx3R3dhNzN4cUUyV2tTaDU1TF9DNm5PSGdqdDFIQjhK?oc=5\" target=\"_blank\">OpenAI teases launch of web browser, knocking down Alphabet’s Google stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
-      "published": "2025-10-21T07:00:00+00:00",
-      "source": "Cryptopolitan"
-    },
-    {
       "title": "Alphabet's Google Reportedly to Hold Annual Product Launch Event on Aug. 20 - 富途牛牛",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1h6NklGYzJSalY2NlRzeHhYRWVBZWIwRDRxWlZNc2ppakE1SG1yNTh6azVpMjVfX1hUa0ZQdHdWRy0wWjlIc253cmZZVTF4ZTFScUc4M0tHWlRfc0dvem14RWg0OG9CaFNielF2MEhNT2d2LV9wZXVfcFZsN2V2MVVPXzJmVWdtckVqSkVHSnNKREpmcmtJOEdOZ2Fud29oQ0FkQ2Z1RXM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1h6NklGYzJSalY2NlRzeHhYRWVBZWIwRDRxWlZNc2ppakE1SG1yNTh6azVpMjVfX1hUa0ZQdHdWRy0wWjlIc253cmZZVTF4ZTFScUc4M0tHWlRfc0dvem14RWg0OG9CaFNielF2MEhNT2d2LV9wZXVfcFZsN2V2MVVPXzJmVWdtckVqSkVHSnNKREpmcmtJOEdOZ2Fud29oQ0FkQ2Z1RXM?oc=5\" target=\"_blank\">Alphabet's Google Reportedly to Hold Annual Product Launch Event on Aug. 20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
       "published": "2025-07-16T07:00:00+00:00",
       "source": "富途牛牛"
+    },
+    {
+      "title": "OpenAI teases launch of web browser, knocking down Alphabet’s Google stock - Cryptopolitan",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41NzNRUXlpSTI5ZkMwQjVLclVqQ0toMGVBLU5SQUh1aXJPcWZKWlJjYTRtRG1TY09VVkJ6Z3pyVEFPQW5Icmw0N1h2ME1JZHBxVFpEbGx3R3dhNzN4cUUyV2tTaDU1TF9DNm5PSGdqdDFIQjhK?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE41NzNRUXlpSTI5ZkMwQjVLclVqQ0toMGVBLU5SQUh1aXJPcWZKWlJjYTRtRG1TY09VVkJ6Z3pyVEFPQW5Icmw0N1h2ME1JZHBxVFpEbGx3R3dhNzN4cUUyV2tTaDU1TF9DNm5PSGdqdDFIQjhK?oc=5\" target=\"_blank\">OpenAI teases launch of web browser, knocking down Alphabet’s Google stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+      "published": "2025-10-21T07:00:00+00:00",
+      "source": "Cryptopolitan"
     }
   ],
   "stock": {
