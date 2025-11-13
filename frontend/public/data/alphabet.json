@@ -2,35 +2,21 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2025-11-12T12:23:59.763233+00:00",
+  "fetched_at": "2025-11-13T12:24:07.461827+00:00",
   "news": [
     {
-      "title": "Alphabet Generates Strong FCF and If It Continues GOOGL Stock is 40% Undervalued - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOazRlaDVVQ3c3Q0U2TU5OVzZDRE5KQk9DX3RYUFZZS3l4V1MydnlCbUs0QU5yMEl5RWl0Mm1rRFpyTTdIQ0I0cEVTZFJtajdLYjVJcnR5SlYwTUtVcDRaaUQxOWVGcVd5TGVCampaM2pjLTdVdURjTVNTbERGbVNYelFST3RVWkZlYTk1X0hiNjZUWkpwZ2NFMHp0ZmNrR2pmV3N2Qjh5M3ZNRHVHVG1nTjFxV3FzLVpoTVE5MFNKVXZQdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOazRlaDVVQ3c3Q0U2TU5OVzZDRE5KQk9DX3RYUFZZS3l4V1MydnlCbUs0QU5yMEl5RWl0Mm1rRFpyTTdIQ0I0cEVTZFJtajdLYjVJcnR5SlYwTUtVcDRaaUQxOWVGcVd5TGVCampaM2pjLTdVdURjTVNTbERGbVNYelFST3RVWkZlYTk1X0hiNjZUWkpwZ2NFMHp0ZmNrR2pmV3N2Qjh5M3ZNRHVHVG1nTjFxV3FzLVpoTVE5MFNKVXZQdw?oc=5\" target=\"_blank\">Alphabet Generates Strong FCF and If It Continues GOOGL Stock is 40% Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
-      "published": "2025-11-11T17:42:26+00:00",
-      "source": "Barchart.com"
-    },
-    {
-      "title": "Why Alphabet Stock Popped Today - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxamtiZHhTWlJWSktwNVVkWDZFV1c3YXVJNjNGTTlCYlhjYWhHTzN4amItWnZGekhUNWtNeldMTFNQeUhVemIwdlpOdjJ1R3pxN3p4WkZXbXBkeGFhWVVDUUtRaGFYc0Qwa1ZJWmZfT2ZibkQ4aVBOUGNYaWVEbWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBxamtiZHhTWlJWSktwNVVkWDZFV1c3YXVJNjNGTTlCYlhjYWhHTzN4amItWnZGekhUNWtNeldMTFNQeUhVemIwdlpOdjJ1R3pxN3p4WkZXbXBkeGFhWVVDUUtRaGFYc0Qwa1ZJWmZfT2ZibkQ4aVBOUGNYaWVEbWM?oc=5\" target=\"_blank\">Why Alphabet Stock Popped Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2025-11-10T16:47:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Alphabet: Quietly Dominating AI, One Layer At A Time (NASDAQ:GOOGL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3lxTkpyNFRScmowTHFwcmV4TjZGN3lfY2JhbHJkVFNhSm5LNUV0T1g3LTNkbXpZYk5OWFFoZjVSMTJGbFMzTkdTRVdmZGc2WExPczl2ZGpLck41SVJoM1BZUEhkY3JPNkxHQXZmTF9HUVc3clBjcWE1WXNnaXQxVnJpQTNxX3BxYTcyRTJ1QTBtOHpXUVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3lxTkpyNFRScmowTHFwcmV4TjZGN3lfY2JhbHJkVFNhSm5LNUV0T1g3LTNkbXpZYk5OWFFoZjVSMTJGbFMzTkdTRVdmZGc2WExPczl2ZGpLck41SVJoM1BZUEhkY3JPNkxHQXZmTF9HUVc3clBjcWE1WXNnaXQxVnJpQTNxX3BxYTcyRTJ1QTBtOHpXUVE?oc=5\" target=\"_blank\">Alphabet: Quietly Dominating AI, One Layer At A Time (NASDAQ:GOOGL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-11-11T13:35:41+00:00",
+      "title": "Alphabet: Google Cloud Is A Force To Be Reckoned With (Upgrade) (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORmZfTDlBQXFIMmJuWXZ1eWtrNk9McjAwSnBZM2dpLXZKYTRJSDlGSmJmUTVYdnpqMDNGOWVJZ0VuNnA0dThheTV3aUdMNGE0Z3c3VWJEWFJhZzZkTFNtbmluZGRRbTF3cThNUWZoTzFxWjVmcWQ5M0lOUkZSNFRsQV80UzkyNFVacll1NkEzZ1VzNGFJZ1JmVWpsdDdCWFByMkRn?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORmZfTDlBQXFIMmJuWXZ1eWtrNk9McjAwSnBZM2dpLXZKYTRJSDlGSmJmUTVYdnpqMDNGOWVJZ0VuNnA0dThheTV3aUdMNGE0Z3c3VWJEWFJhZzZkTFNtbmluZGRRbTF3cThNUWZoTzFxWjVmcWQ5M0lOUkZSNFRsQV80UzkyNFVacll1NkEzZ1VzNGFJZ1JmVWpsdDdCWFByMkRn?oc=5\" target=\"_blank\">Alphabet: Google Cloud Is A Force To Be Reckoned With (Upgrade) (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOazRlaDVVQ3c3Q0U2TU5OVzZDRE5KQk9DX3RYUFZZS3l4V1MydnlCbUs0QU5yMEl5RWl0Mm1rRFpyTTdIQ0I0cEVTZFJtajdLYjVJcnR5SlYwTUtVcDRaaUQxOWVGcVd5TGVCampaM2pjLTdVdURjTVNTbERGbVNYelFST3RVWkZlYTk1X0hiNjZUWkpwZ2NFMHp0ZmNrR2pmV3N2Qjh5M3ZNRHVHVG1nTjFxV3FzLVpoTVE5MFNKVXZQdw?oc=5\" target=\"_blank\">Alphabet Generates Strong FCF and If It Continues GOOGL Stock is 40% Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmpNUjNXazRQb3dieTV5aVZqTlZWU1hvQU1JUUl4bjlNSFBNbnpLQmJwLXdOQ005OVAxZGR4NGNYYnoxRDhmQTMyTm5mblYycjBBeW42Z3lyNE1QMmJoa0k5cmVxbzVQNkgzVHJKLXQ5YUFpaG03Z2ZHa3ZyTDMxUVN3Z3A4ZVVr?oc=5\" target=\"_blank\">This Growth Stock Continues to Crush the Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2025-11-12T10:59:51+00:00",
       "source": "Seeking Alpha"
     },
     {
-      "title": "Think It's Too Late to Buy Alphabet (Google) Stock? Here's the 1 Reason Why There's Still Time. - Nasdaq",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXVOb1JoX1U1WVZtcUVBUmFzWG9FanNISWtsdFNUZEFhaDJCTXh3aGhHQVF5cWxlTE44NVBIamhmclduZFBNTjlpcHh4LTNuRFl5SDIxZFRJNXR5Y2ktOGJHcWFGcVNKdmxBcUhlc29nalBMRzhJLVZuZW9jZC14SVYxajkxVkNOXzBnYkxHN0h0UFRBT2FOZkFRamVEU1NHQ09DVk5VY3F4ZWo4ZGFBVm9aMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUXVOb1JoX1U1WVZtcUVBUmFzWG9FanNISWtsdFNUZEFhaDJCTXh3aGhHQVF5cWxlTE44NVBIamhmclduZFBNTjlpcHh4LTNuRFl5SDIxZFRJNXR5Y2ktOGJHcWFGcVNKdmxBcUhlc29nalBMRzhJLVZuZW9jZC14SVYxajkxVkNOXzBnYkxHN0h0UFRBT2FOZkFRamVEU1NHQ09DVk5VY3F4ZWo4ZGFBVm9aMA?oc=5\" target=\"_blank\">Think It's Too Late to Buy Alphabet (Google) Stock? Here's the 1 Reason Why There's Still Time.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
-      "published": "2025-11-10T11:46:00+00:00",
-      "source": "Nasdaq"
+      "title": "EU Opens New Digital Markets Act Investigation into Alphabet’s Google - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxONXMwSXZaYUx2S29aYTdkOFFQUHFWS3haZkR3ZGxZWWtxTTdZaXk0NlIzU2o4OVUwUC1lZEEyTmU1VzZJbkZpRVpFRkNYOVI5ZzBPcGYxTXI3NWxSMi1ObWV6RDJuZ1V3T0pHeTk1QjJkQ3B6bHkyTFI0MTBaU2xPN2Rlb0NjblBCV1FYRHlVSjVlQllwRmFEZ0RhVlU1YmVtR3JETmg0bFBxU0s5WTlXWFNrSnhfeERfUXdNajdfT1dPSU9Pc3l5Y1ZleTBXeWdROVBSaWxuTm5rUjNPOWtnMnFLaGlFWWZ6Q0pqLW9qWEZ5Yk0xNDUtb2FyQVRFQUdOX1BsSXBubU85dkdmWHEwVzg3VnU5TS13cVBrWGh1Q05rQkhVTEVEb3pDcmNDbldQUVBrbnZSZTdEbGJJSHlwTlMtbHR3dE10WnQ0bTRHc2hUMERrSzYtZUw1QzJQLTZ5UmxYWmpET3dQczM4RmxDWnRYdFZzNk9xZzlzS2czOXhkN2NqaWEtWGZqeVF4ZjVQVHdjcWJmRTA4YUstTDY4aTItYXdUemF4TFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgNBVV95cUxONXMwSXZaYUx2S29aYTdkOFFQUHFWS3haZkR3ZGxZWWtxTTdZaXk0NlIzU2o4OVUwUC1lZEEyTmU1VzZJbkZpRVpFRkNYOVI5ZzBPcGYxTXI3NWxSMi1ObWV6RDJuZ1V3T0pHeTk1QjJkQ3B6bHkyTFI0MTBaU2xPN2Rlb0NjblBCV1FYRHlVSjVlQllwRmFEZ0RhVlU1YmVtR3JETmg0bFBxU0s5WTlXWFNrSnhfeERfUXdNajdfT1dPSU9Pc3l5Y1ZleTBXeWdROVBSaWxuTm5rUjNPOWtnMnFLaGlFWWZ6Q0pqLW9qWEZ5Yk0xNDUtb2FyQVRFQUdOX1BsSXBubU85dkdmWHEwVzg3VnU5TS13cVBrWGh1Q05rQkhVTEVEb3pDcmNDbldQUVBrbnZSZTdEbGJJSHlwTlMtbHR3dE10WnQ0bTRHc2hUMERrSzYtZUw1QzJQLTZ5UmxYWmpET3dQczM4RmxDWnRYdFZzNk9xZzlzS2czOXhkN2NqaWEtWGZqeVF4ZjVQVHdjcWJmRTA4YUstTDY4aTItYXdUemF4TFE?oc=5\" target=\"_blank\">EU Opens New Digital Markets Act Investigation into Alphabet’s Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-11-13T11:06:00+00:00",
+      "source": "The Wall Street Journal"
     },
     {
       "title": "Disney and Alphabet’s football fight will win them few fans - Financial Times",
@@ -40,24 +26,38 @@
       "source": "Financial Times"
     },
     {
-      "title": "Investing in AI: The View From One Big Investor - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQZGtzUUloRFFYeW14c3FNek5aTkVxbUlFWVl5ZmVyTkFGVmdaWXZfdk9PRzNtX1RicHNjSm5zRHRCRnFzR1pOMEpNazVaeFAtcU5kNnFGeHhyQlZBenZPRWF2Y0FtWDZFMHZRZlBvSmdPN3VwSlVhQzhyM2wwWEozSnpQVkpiRW1tanpCUFVCY1BycE1lUHg0ckg1M3JETVpHd3dRRS1aWmFyNjlkckU1QmkzYl9EYllaNHBqZGdtUnYtcjJycWMwZTlSZDB0Y3RQS24tMF9UZEVQQk1yWG1tRFVCNDQ2UzE0R2hlQWZKZHJKQkZNaEhWd1V2Zm9CUDk5aGVfQzdvNXFEZ1RKVVdScjktNGJ4TjlFQVRBbEtDd0R3SDVSTjdFWmJFdF92cWhZS0ctQjBqTjhBVnM5T2k4bFNQRWptWTlILXg5eUJ3Y1lkeXdaa3hLOTRXMVRRN0ZraGpsZlAtVldnNXdwY3FXQnd3TDR0ZzdacWluUA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxQZGtzUUloRFFYeW14c3FNek5aTkVxbUlFWVl5ZmVyTkFGVmdaWXZfdk9PRzNtX1RicHNjSm5zRHRCRnFzR1pOMEpNazVaeFAtcU5kNnFGeHhyQlZBenZPRWF2Y0FtWDZFMHZRZlBvSmdPN3VwSlVhQzhyM2wwWEozSnpQVkpiRW1tanpCUFVCY1BycE1lUHg0ckg1M3JETVpHd3dRRS1aWmFyNjlkckU1QmkzYl9EYllaNHBqZGdtUnYtcjJycWMwZTlSZDB0Y3RQS24tMF9UZEVQQk1yWG1tRFVCNDQ2UzE0R2hlQWZKZHJKQkZNaEhWd1V2Zm9CUDk5aGVfQzdvNXFEZ1RKVVdScjktNGJ4TjlFQVRBbEtDd0R3SDVSTjdFWmJFdF92cWhZS0ctQjBqTjhBVnM5T2k4bFNQRWptWTlILXg5eUJ3Y1lkeXdaa3hLOTRXMVRRN0ZraGpsZlAtVldnNXdwY3FXQnd3TDR0ZzdacWluUA?oc=5\" target=\"_blank\">Investing in AI: The View From One Big Investor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-11-10T19:00:00+00:00",
-      "source": "The Wall Street Journal"
-    },
-    {
-      "title": "Google to Invest €5.5 Billion In German Data Centers, Operations - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEZYXzktdFBIdUpCLUMyWlIyMTJOS040SEdMSzFTZEdpcmJPUFU5aXRWOXc0LUZDa2RVZXlWNXl0WkRzaWdEQTJ6Q2NWdTZ0MWJqRlhQZXNONC1JZWloVUR0ZVFlQVBHX052RnVocnkwV1c2c1N6V0o4NUwwQjc2U1FZdmhmRURqcW1KU0I5NklOZ0FnaC1oUklfRi04elVFRDRYa3lEZlU0NTBOSFVobTJFWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEZYXzktdFBIdUpCLUMyWlIyMTJOS040SEdMSzFTZEdpcmJPUFU5aXRWOXc0LUZDa2RVZXlWNXl0WkRzaWdEQTJ6Q2NWdTZ0MWJqRlhQZXNONC1JZWloVUR0ZVFlQVBHX052RnVocnkwV1c2c1N6V0o4NUwwQjc2U1FZdmhmRURqcW1KU0I5NklOZ0FnaC1oUklfRi04elVFRDRYa3lEZlU0NTBOSFVobTJFWQ?oc=5\" target=\"_blank\">Google to Invest €5.5 Billion In German Data Centers, Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-11T16:00:00+00:00",
+      "title": "Google Faces EU Competition Probe on News Rankings, FT Reports - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1hkbG5FWmlaUTlSUERXY1BzZVJITkJnT3I4SlpHUTRZU3ZlRTF5dzA4RVJfNUZyWkxCdENlcFpPWHY4TlJGS2JuR0dFSWNtLVQ5Y2xacThwOFpSY0pWTElGSU1NUTBxdVhXcFVFLThsV1lmNEh1b0N3cVo2VHl6TGFJYmN2UnRLR1JmVWN1blU3U0JnRjNDNU42ZHdLSnZyS3RVanlyZnlCbDBDR0p1UUZn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1hkbG5FWmlaUTlSUERXY1BzZVJITkJnT3I4SlpHUTRZU3ZlRTF5dzA4RVJfNUZyWkxCdENlcFpPWHY4TlJGS2JuR0dFSWNtLVQ5Y2xacThwOFpSY0pWTElGSU1NUTBxdVhXcFVFLThsV1lmNEh1b0N3cVo2VHl6TGFJYmN2UnRLR1JmVWN1blU3U0JnRjNDNU42ZHdLSnZyS3RVanlyZnlCbDBDR0p1UUZn?oc=5\" target=\"_blank\">Google Faces EU Competition Probe on News Rankings, FT Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-11-12T17:13:58+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "3 Cheap Tech Stocks to Buy Right Now - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUlJJdDBNWjlRNHZ2eHN0a3k5RTd5Wm43WUktVnprNmFUWFlJenNjMlU1Ui1zTnBWNHJ0WjlzeFRNejQ3ZHZENjIxcnVmUkRxS1NJRGFrUjhOR3RuY2ZHWDFlTDcybVV3VWthSWNCLXBocmVBZjZZSA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUlJJdDBNWjlRNHZ2eHN0a3k5RTd5Wm43WUktVnprNmFUWFlJenNjMlU1Ui1zTnBWNHJ0WjlzeFRNejQ3ZHZENjIxcnVmUkRxS1NJRGFrUjhOR3RuY2ZHWDFlTDcybVV3VWthSWNCLXBocmVBZjZZSA?oc=5\" target=\"_blank\">3 Cheap Tech Stocks to Buy Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-10T13:05:00+00:00",
+      "title": "Google’s top AI executive seeks the profound over profits and the “prosaic” - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONV9fRktxNnQyX1dzZXNSNm9NQ3Z1aHoxY240TzRyd01Fc3dVRjZkbXhUQVQxdGt5NUxMdTdLZjlRV3lObFBJSGZaZXBQa04tZkZ2TFlfT2FGYTltbEhGZDZMcTFNdUc2ZHRfUXItdnd5Ry0zZTFEZzdHQmRjRUdpeWczbmZacXZTV3hKdHJmWmxQZjVscUttQ3lEWEM5TkQ4T3dMRU9XMlEwR21Oai1CcA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONV9fRktxNnQyX1dzZXNSNm9NQ3Z1aHoxY240TzRyd01Fc3dVRjZkbXhUQVQxdGt5NUxMdTdLZjlRV3lObFBJSGZaZXBQa04tZkZ2TFlfT2FGYTltbEhGZDZMcTFNdUc2ZHRfUXItdnd5Ry0zZTFEZzdHQmRjRUdpeWczbmZacXZTV3hKdHJmWmxQZjVscUttQ3lEWEM5TkQ4T3dMRU9XMlEwR21Oai1CcA?oc=5\" target=\"_blank\">Google’s top AI executive seeks the profound over profits and the “prosaic”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-11-13T12:00:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "AMD, Cisco, Alphabet and Clearwater Analytics rise premarket - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmtxSlU5WVBpUGhFMG9BalVYYXd0M3VfOGxpZTE4UFg2ajJKVU9DaVlRNWFqWXRIZklPbjFORF9YdXA3VlFsSW9yUmQ0aS1Uc0FDVHlJUXUtWFE4VXUtZkdkbzBYMWxwb3VxRjhfUnhUdlZhckgybHpuVVlmYk42LXBfWEZWeGpuYUNDeGQxMDVVQmJ4Wm1MOG5RV2RBbUN0YjN6eU90YThqM1MxS21jNmdoVkw0UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmtxSlU5WVBpUGhFMG9BalVYYXd0M3VfOGxpZTE4UFg2ajJKVU9DaVlRNWFqWXRIZklPbjFORF9YdXA3VlFsSW9yUmQ0aS1Uc0FDVHlJUXUtWFE4VXUtZkdkbzBYMWxwb3VxRjhfUnhUdlZhckgybHpuVVlmYk42LXBfWEZWeGpuYUNDeGQxMDVVQmJ4Wm1MOG5RV2RBbUN0YjN6eU90YThqM1MxS21jNmdoVkw0UQ?oc=5\" target=\"_blank\">AMD, Cisco, Alphabet and Clearwater Analytics rise premarket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2025-11-12T12:51:03+00:00",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Alphabet (GOOGL) Launches a New AI Platform Called Private AI Compute - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeks5d09IQ0M4RFFqdkZMeGxESmNjbHNwYnZ5UGNQZTZnQzBWSnpSUkRsVVBaX2tjc1p6SDgyeHU4djdrSEFuQXNMeXgwSzhnc2Q3cU8ta1FwaG8zYlBoVHUyd19tZjkxU1BnenEwZ3VjemRRUlROYzJYWFRrUU0xdU04MVBQUGpFUnNlNnVybm5kdW9sWUlUWGJpcXdRQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeks5d09IQ0M4RFFqdkZMeGxESmNjbHNwYnZ5UGNQZTZnQzBWSnpSUkRsVVBaX2tjc1p6SDgyeHU4djdrSEFuQXNMeXgwSzhnc2Q3cU8ta1FwaG8zYlBoVHUyd19tZjkxU1BnenEwZ3VjemRRUlROYzJYWFRrUU0xdU04MVBQUGpFUnNlNnVybm5kdW9sWUlUWGJpcXdRQQ?oc=5\" target=\"_blank\">Alphabet (GOOGL) Launches a New AI Platform Called Private AI Compute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2025-11-12T19:24:54+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Alphabet’s (GOOGL) YouTube Didn’t Overpay For The Sunday Ticket, Believes Jim Cramer - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzN2WVBQeUpKX0UwTFpHSEd6MVdCckpsdXNEV2xyTHRmWjR1b29CaDh2anRXTVJHMjlIVTZNRE5hSUtmdy1qN1RtaDdndTUyT2g5Q0Q1X2NEV1V6eWR0VDdhTnZXTDJOQnQ4d2NVbVAwSzJCUjctWXRkWUowbWVEdg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzN2WVBQeUpKX0UwTFpHSEd6MVdCckpsdXNEV2xyTHRmWjR1b29CaDh2anRXTVJHMjlIVTZNRE5hSUtmdy1qN1RtaDdndTUyT2g5Q0Q1X2NEV1V6eWR0VDdhTnZXTDJOQnQ4d2NVbVAwSzJCUjctWXRkWUowbWVEdg?oc=5\" target=\"_blank\">Alphabet’s (GOOGL) YouTube Didn’t Overpay For The Sunday Ticket, Believes Jim Cramer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-11-12T18:09:59+00:00",
       "source": "Yahoo Finance"
     }
   ],
@@ -102,14 +102,10 @@
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2025-11-11",
-      "close": 291.30999755859375
+      "date": "2025-11-12",
+      "close": 286.7099914550781
     },
     "history": [
-      {
-        "date": "2025-11-03",
-        "close": 283.7200012207031
-      },
       {
         "date": "2025-11-04",
         "close": 277.5400085449219
@@ -133,6 +129,10 @@
       {
         "date": "2025-11-11",
         "close": 291.30999755859375
+      },
+      {
+        "date": "2025-11-12",
+        "close": 286.7099914550781
       }
     ],
     "name": "Alphabet Inc."
