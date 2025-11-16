@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-11-15T12:20:19.335234+00:00",
+  "fetched_at": "2025-11-16T12:20:39.532099+00:00",
   "news": [
     {
       "title": "Leaked documents shed light into how much OpenAI pays Microsoft - TechCrunch",
@@ -12,11 +12,46 @@
       "source": "TechCrunch"
     },
     {
-      "title": "Exclusive | Amazon and Microsoft Back Effort That Would Restrict Nvidia’s Exports to China - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxORTlmaXNET2l3NTVkeHpseWlaQXhzMzRIR2JmaGhRaWR6bkVpcXY4TkNyRThEbVBST0RCN1ZiUjJZOVpJREJTMlNUdGpaXzUtQm1jMDBtV2d2aUh1Uk4tYjNqdXJ6ZWlpMll3STlaRWtLRnFqYUQ3cUxVb1RMOFdHWEZlRUs0YVlvTmJvazdBTkxTOEJNeDJudnlXRGtmUXFMQVB5bk5yWWVlY2ZfMVNaeXdwazFtLWwyVW1iRU5kSGNxdnVteEJOenVLS2JyQTdkXzlzc0dtVnc2bkVOODgyVm8xQldwT2hmS1Zaeko3WWR5TENNQVhZRUxrQnQxUjdndGVBWWo4MjhKVkFMM0RhMXUyclVyZEpMaEZXYnZXTE45Mjk3TVBnMGNCNGZMUUZyOUk5SFd5RVhIZmU5WXV1dGN5bU1aNmNZQ2tabGtHbVh2N0dWMmRweWsxbktfRGxodnpmZWlsRTVxMUtHVUswSmxIcERWNzlUMXJSSkwyX09GT19oSGFKeUgyR0FKWjMtS2p5VFJHQW1DU3VIcXVxWmNxMkRvV0FocTZYS1lNV2k4Tk8yaWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxORTlmaXNET2l3NTVkeHpseWlaQXhzMzRIR2JmaGhRaWR6bkVpcXY4TkNyRThEbVBST0RCN1ZiUjJZOVpJREJTMlNUdGpaXzUtQm1jMDBtV2d2aUh1Uk4tYjNqdXJ6ZWlpMll3STlaRWtLRnFqYUQ3cUxVb1RMOFdHWEZlRUs0YVlvTmJvazdBTkxTOEJNeDJudnlXRGtmUXFMQVB5bk5yWWVlY2ZfMVNaeXdwazFtLWwyVW1iRU5kSGNxdnVteEJOenVLS2JyQTdkXzlzc0dtVnc2bkVOODgyVm8xQldwT2hmS1Zaeko3WWR5TENNQVhZRUxrQnQxUjdndGVBWWo4MjhKVkFMM0RhMXUyclVyZEpMaEZXYnZXTE45Mjk3TVBnMGNCNGZMUUZyOUk5SFd5RVhIZmU5WXV1dGN5bU1aNmNZQ2tabGtHbVh2N0dWMmRweWsxbktfRGxodnpmZWlsRTVxMUtHVUswSmxIcERWNzlUMXJSSkwyX09GT19oSGFKeUgyR0FKWjMtS2p5VFJHQW1DU3VIcXVxWmNxMkRvV0FocTZYS1lNV2k4Tk8yaWc?oc=5\" target=\"_blank\">Exclusive | Amazon and Microsoft Back Effort That Would Restrict Nvidia’s Exports to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-11-14T02:00:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JCbUdBcXNRV0hIM0ttcHBPdWxDUnF5OGZ6RUtrODNZei1QWFl4d3UzLVZub21JZGdOSXJib2ZvZW9SY2hQQ25Jd3RWUlJxdHlySnRETWlpNnZ4U2VZblJGMjd5R0U3amZfR09MeE5XcUVid3RGbWJpZ0k0WnplUmdDLWo5UDJvMlNtc2FVUmEySGhPR0NEd0VOSDViQ0dwRUliOThfUE1pb0dkUFl5bnFGbEVKSEtHOTdFTlBpUdIBxAFBVV95cUxNRklSNHAtUWZJTlJmWnRoanJlMUJKdTR3LWpqd3ZIeUxOWkNJS0lsR0xwekNEUVZ2WDNCWTFWUjFCdjNPUDJEZzlsbEpNR2s1d1M5eHBQc2k5M3RDaWxGUDg0NDRCNlQ0YUUzd0JYQlhyd1dDRTZsSEdodzlVaTNIM0gxZFNCeEg0dWdlRl83bkY0TmRRcWhiRS1ZQ1lwekpiVElhY3Q0SU83ZWx5N3RiS2pwaXVJbjFpMlJaYmJzMEtIRnZJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JCbUdBcXNRV0hIM0ttcHBPdWxDUnF5OGZ6RUtrODNZei1QWFl4d3UzLVZub21JZGdOSXJib2ZvZW9SY2hQQ25Jd3RWUlJxdHlySnRETWlpNnZ4U2VZblJGMjd5R0U3amZfR09MeE5XcUVid3RGbWJpZ0k0WnplUmdDLWo5UDJvMlNtc2FVUmEySGhPR0NEd0VOSDViQ0dwRUliOThfUE1pb0dkUFl5bnFGbEVKSEtHOTdFTlBpUdIBxAFBVV95cUxNRklSNHAtUWZJTlJmWnRoanJlMUJKdTR3LWpqd3ZIeUxOWkNJS0lsR0xwekNEUVZ2WDNCWTFWUjFCdjNPUDJEZzlsbEpNR2s1d1M5eHBQc2k5M3RDaWxGUDg0NDRCNlQ0YUUzd0JYQlhyd1dDRTZsSEdodzlVaTNIM0gxZFNCeEg0dWdlRl83bkY0TmRRcWhiRS1ZQ1lwekpiVElhY3Q0SU83ZWx5N3RiS2pwaXVJbjFpMlJaYmJzMEtIRnZJ?oc=5\" target=\"_blank\">Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-11-15T20:42:45+00:00",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft: We see all the backlash and we know we have a lot to fix in Windows - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMU5lOXFZZ2ZXQjd0NnRuZXgtME01ekVTdG1jR2NqMkhiWG1NZjJRd2RhRnkyM1dvZjNwa3hsem1qRGsza2owSjNKMGxzZzlLSzFoOU1wRzhuQ2lyOW1uT2I2dWpOMkZubWp0bXNCdE5Ia3B5WnpEMnB3ckRRSWxBSkZXNmROalhFNzdrVjhCZm1DSU0tMW9CTEZsLUctekFsc0JRTG1uVjBXZ9IBqAFBVV95cUxPQkdWTUhzaVl3UlA2U0o0N1dsLVFnMWpNZTNFTUhtdG9lZ2xxcUdsT1N3bVA4MXA4eWJLU25NdlZUNHluZXpkTlh3ZExnd25FRmFIcUtMaVl1WWh6RHdnazAxYlplNWJOU29XS0ZoR0NnY2xUWGVabE1ucm93V2xvUERYNXUwTjEyZ295LUI4cHdvMi1LMF9iaWE2YmpuR0syWnFIY1loRkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMU5lOXFZZ2ZXQjd0NnRuZXgtME01ekVTdG1jR2NqMkhiWG1NZjJRd2RhRnkyM1dvZjNwa3hsem1qRGsza2owSjNKMGxzZzlLSzFoOU1wRzhuQ2lyOW1uT2I2dWpOMkZubWp0bXNCdE5Ia3B5WnpEMnB3ckRRSWxBSkZXNmROalhFNzdrVjhCZm1DSU0tMW9CTEZsLUctekFsc0JRTG1uVjBXZ9IBqAFBVV95cUxPQkdWTUhzaVl3UlA2U0o0N1dsLVFnMWpNZTNFTUhtdG9lZ2xxcUdsT1N3bVA4MXA4eWJLU25NdlZUNHluZXpkTlh3ZExnd25FRmFIcUtMaVl1WWh6RHdnazAxYlplNWJOU29XS0ZoR0NnY2xUWGVabE1ucm93V2xvUERYNXUwTjEyZ295LUI4cHdvMi1LMF9iaWE2YmpuR0syWnFIY1loRkE?oc=5\" target=\"_blank\">Microsoft: We see all the backlash and we know we have a lot to fix in Windows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2025-11-16T01:40:00+00:00",
+      "source": "Neowin"
+    },
+    {
+      "title": "Why Microsoft is automatically upgrading certain Windows 11 PCs to version 25H2 and why you shouldn't try to block it - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQm9UYWU0S3d0c1RSU2FrODdaY0c5UTNGOTM5RHF0TDk4OEoxYnNYWGtfeDg3Q05sVng5dkFmcXdLd3dVelpTT0Q4bDQyaW5faFdXVlRyc2hWTWEyaHFGUWtlc18yUzRRZEp5bGFXRUlRYUdveVh5TGo1LTlzT19pOXZ1NVVDQ2RjZGxMYmx3SEVFaG83VjROQ1JIXzRBTnJ1XzhHN09hV25GNjY3X1MyUHRXNXZPTHcybGk4WnI3Y0hYc3hRYVVldHMzSUxlNndVb2tjNmhaT09DSU9oSnp0eDBwVnNobUlGSk1VdkE3WWNCdUF4VG05Z3hpaUY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQm9UYWU0S3d0c1RSU2FrODdaY0c5UTNGOTM5RHF0TDk4OEoxYnNYWGtfeDg3Q05sVng5dkFmcXdLd3dVelpTT0Q4bDQyaW5faFdXVlRyc2hWTWEyaHFGUWtlc18yUzRRZEp5bGFXRUlRYUdveVh5TGo1LTlzT19pOXZ1NVVDQ2RjZGxMYmx3SEVFaG83VjROQ1JIXzRBTnJ1XzhHN09hV25GNjY3X1MyUHRXNXZPTHcybGk4WnI3Y0hYc3hRYVVldHMzSUxlNndVb2tjNmhaT09DSU9oSnp0eDBwVnNobUlGSk1VdkE3WWNCdUF4VG05Z3hpaUY?oc=5\" target=\"_blank\">Why Microsoft is automatically upgrading certain Windows 11 PCs to version 25H2 and why you shouldn't try to block it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2025-11-15T14:27:12+00:00",
+      "source": "Windows Central"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella quotes Bill Gates to explain what makes a true AI platform; Elon Musk respond - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZV9TLUJRb3RFazBzd2d6YXU3SnFQZ2dnU0FMa0Z6X0N1SHJYTVZ6amlPQ3Eyd0EtVEVlYjBGeGljb3FzeVYzU3lnN213dHR1Ujg1ZEdidzIwSGczY0Z1UHQ5ZVZEZ1JtSUl4Qkc2RWNaSjM0UFBQZ04zZUliQktUcHlfMXVEU0x1NVJVdzhNYUVDejV0S21KSFdxd2xsU2VySUhIR2g3aG5hLVF1cS1qVnBsSnZQc1l1S1lrbkhQOXgwNkZCWFE0NkJiakotWnl0MzNvRVRNVUM4RTJSQnJTdTNqUnkzV0dtNGc3WlBfdFlzUHRkb0FXeXVvR1MwS29VLXg2WE9Pb2w0U21udWstNFM0ZEpyQlHSAZwCQVVfeXFMTU5Xcm1iMDRKVGFvb1BVb0F4UDdhbmtmcE93azY3S3ROOGRTU0I3OFpnNkZSVlRDeS1jWkZCUy0xaFE4akR4RDRoaG0zN0UwQ0RLNENqOHdDQVdsTG1UZ1RJS3BmZVlqNndGMHNMSS1nMGVCc3pLRFJIU1NjdTBDdnNLN3RjVTcxY2JwNkdqYVVkZEtuaTFyLUt0RWZ4X19ua1puanBpb0RLRG16VUgwbS1HRURxVUI3OXE5bjJiVVo0Q1ZTZjM4U3BLMU9YUHprLUowQklfYVh1QzFqVTZ5a01Gc21KdlN4THZaVF80QUlQTHN0UUhmN1ZNdzNhSHFFbzZRMVVoVHRZNE1qYV9aWnEyNWNoZmUzSHRPOVo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNZV9TLUJRb3RFazBzd2d6YXU3SnFQZ2dnU0FMa0Z6X0N1SHJYTVZ6amlPQ3Eyd0EtVEVlYjBGeGljb3FzeVYzU3lnN213dHR1Ujg1ZEdidzIwSGczY0Z1UHQ5ZVZEZ1JtSUl4Qkc2RWNaSjM0UFBQZ04zZUliQktUcHlfMXVEU0x1NVJVdzhNYUVDejV0S21KSFdxd2xsU2VySUhIR2g3aG5hLVF1cS1qVnBsSnZQc1l1S1lrbkhQOXgwNkZCWFE0NkJiakotWnl0MzNvRVRNVUM4RTJSQnJTdTNqUnkzV0dtNGc3WlBfdFlzUHRkb0FXeXVvR1MwS29VLXg2WE9Pb2w0U21udWstNFM0ZEpyQlHSAZwCQVVfeXFMTU5Xcm1iMDRKVGFvb1BVb0F4UDdhbmtmcE93azY3S3ROOGRTU0I3OFpnNkZSVlRDeS1jWkZCUy0xaFE4akR4RDRoaG0zN0UwQ0RLNENqOHdDQVdsTG1UZ1RJS3BmZVlqNndGMHNMSS1nMGVCc3pLRFJIU1NjdTBDdnNLN3RjVTcxY2JwNkdqYVVkZEtuaTFyLUt0RWZ4X19ua1puanBpb0RLRG16VUgwbS1HRURxVUI3OXE5bjJiVVo0Q1ZTZjM4U3BLMU9YUHprLUowQklfYVh1QzFqVTZ5a01Gc21KdlN4THZaVF80QUlQTHN0UUhmN1ZNdzNhSHFFbzZRMVVoVHRZNE1qYV9aWnEyNWNoZmUzSHRPOVo?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella quotes Bill Gates to explain what makes a true AI platform; Elon Musk respond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2025-11-16T09:42:00+00:00",
+      "source": "Times of India"
+    },
+    {
+      "title": "Bill and Melinda Gates Foundation just slashed its Microsoft holdings by nearly 65%, move raises eyebrows - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTHlfSmI4T2dDaDVsMF8zNUJpUzZEWWIwaFFVVkdncmtkd3dFQXdMakp4STZLS0RMVXZpWk5nYm5kUmZ4cEs2THd6UlY4UXJuSG50a3V3aGxuWUx1SkMxSElHLVlfMmVtUFRoMmYtT3dUT2lwczY2QTRNNGhyaklaMWlTNmNCQVItRmU2X2dSVXN3Q1hpNDdfSTVoSjRzTVluWl9xNWpBamxra081ZV9jSndqQlhMdjZvNVZ2eWFST0NZVmkxemc5OXdVdDItZ2FQQ1FrZ0hIeFZycnVhY3BXTlFzUUpZV2hJbDk3VVJ5VTFxTk1kSkVXWGwtNXd1Uk5ZanpJWGVpcXNGX2fSAZACQVVfeXFMTnVvbFRScUpfeHFEUEJHRGxtc3ZNWTNsOW5GdFVQZ0xQc0lfQjBXX0szQ01uVXR3YXZuN3RVcld5T2FRYkRLa2lPSl9EcmNLOGVBUUV4WDdEb3h6RTFBY1NwakZwRy1RNWlzcGFhdU5FT3FCWHU2SnIyMFEwNEFfOE1NSmV1NWxOMGZPUWdlaVo3YjBQVEkyTUM4SHZnclhQTkdVZGx1aV82SkVsZkV3LUpfNlFCZFdzR1d2U29naVVUbF95MmNMcmdDc2pLeDBmWjJnS0lSZTR4Zk9RRi0yQ2dzTlZRYVZIb0NlTVJXVlU0RFNiOTUtUXRSb3dKMk9qRnVTcHZxd0ZUcENzQVduUXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTHlfSmI4T2dDaDVsMF8zNUJpUzZEWWIwaFFVVkdncmtkd3dFQXdMakp4STZLS0RMVXZpWk5nYm5kUmZ4cEs2THd6UlY4UXJuSG50a3V3aGxuWUx1SkMxSElHLVlfMmVtUFRoMmYtT3dUT2lwczY2QTRNNGhyaklaMWlTNmNCQVItRmU2X2dSVXN3Q1hpNDdfSTVoSjRzTVluWl9xNWpBamxra081ZV9jSndqQlhMdjZvNVZ2eWFST0NZVmkxemc5OXdVdDItZ2FQQ1FrZ0hIeFZycnVhY3BXTlFzUUpZV2hJbDk3VVJ5VTFxTk1kSkVXWGwtNXd1Uk5ZanpJWGVpcXNGX2fSAZACQVVfeXFMTnVvbFRScUpfeHFEUEJHRGxtc3ZNWTNsOW5GdFVQZ0xQc0lfQjBXX0szQ01uVXR3YXZuN3RVcld5T2FRYkRLa2lPSl9EcmNLOGVBUUV4WDdEb3h6RTFBY1NwakZwRy1RNWlzcGFhdU5FT3FCWHU2SnIyMFEwNEFfOE1NSmV1NWxOMGZPUWdlaVo3YjBQVEkyTUM4SHZnclhQTkdVZGx1aV82SkVsZkV3LUpfNlFCZFdzR1d2U29naVVUbF95MmNMcmdDc2pLeDBmWjJnS0lSZTR4Zk9RRi0yQ2dzTlZRYVZIb0NlTVJXVlU0RFNiOTUtUXRSb3dKMk9qRnVTcHZxd0ZUcENzQVduUXc?oc=5\" target=\"_blank\">Bill and Melinda Gates Foundation just slashed its Microsoft holdings by nearly 65%, move raises eyebrows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "published": "2025-11-15T13:11:14+00:00",
+      "source": "The Economic Times"
+    },
+    {
+      "title": "Microsoft, facing conservative pressure, disavows religion bias - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlREUDEwS3JDVEFZYWhWYkFFSGFOVVkzZ3AxV0RxZ24zclphc05RcUUxaUFrZFl6MENRLXA4QzA3Yk1rMF9IRVV5Q2lOM3l4YlJqb25wXzdoMGo5OFlLTndGSU15djRSRjlwR1VCNzdZdHZzNWZsNXRGV2RtejB2b043V2ZGWUR2SzB4QXBVN0dwVXBzWFdBeg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlREUDEwS3JDVEFZYWhWYkFFSGFOVVkzZ3AxV0RxZ24zclphc05RcUUxaUFrZFl6MENRLXA4QzA3Yk1rMF9IRVV5Q2lOM3l4YlJqb25wXzdoMGo5OFlLTndGSU15djRSRjlwR1VCNzdZdHZzNWZsNXRGV2RtejB2b043V2ZGWUR2SzB4QXBVN0dwVXBzWFdBeg?oc=5\" target=\"_blank\">Microsoft, facing conservative pressure, disavows religion bias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-11-14T20:53:55+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Microsoft quietly unveils a project of staggering size - TheStreet",
@@ -24,41 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHAzblQ3emNpenFTR0lIaUVWakI1aU9WNG1Wb0U1VWxnMmRJX3hENDRIS0JPNUY2d3h2azV0SHRFZnBqXzZlVk1lUmx0YXBtNGxQTlpFMkQyVWlXbEo2cjl5RmR3TVdEbWJwX0ZBLUx4dzR2V3JnOFRhVHZ3WjRfM3c3aTV0V09uaXNSN29jb1hWcVBt?oc=5\" target=\"_blank\">Microsoft quietly unveils a project of staggering size</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheStreet</font>",
       "published": "2025-11-13T20:32:56+00:00",
       "source": "TheStreet"
-    },
-    {
-      "title": "Amazon, Microsoft back bill that aims to restrict AI chip exports: WSJ (NVDA:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2FRRFhVLU83dDBRRFU0TUtwdFJhSlZVOVk5cVRSdDlqV0Z1QUZ5YXdBZjZ3bm10TFdfOEhOYUV5MVJYRlFIdk10MUpoOUJGS0ROUUZ5XzhhTFNybzUweXBSY1N5Q3pTdmlTcUp2dE84MGRNS2NXczFxRDFJR2N1aDlBUWh3ZS11YUZSWEphMnRfMkVoYmcwcDZqQ09tS19jbnBiZXR4SEJXdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2FRRFhVLU83dDBRRFU0TUtwdFJhSlZVOVk5cVRSdDlqV0Z1QUZ5YXdBZjZ3bm10TFdfOEhOYUV5MVJYRlFIdk10MUpoOUJGS0ROUUZ5XzhhTFNybzUweXBSY1N5Q3pTdmlTcUp2dE84MGRNS2NXczFxRDFJR2N1aDlBUWh3ZS11YUZSWEphMnRfMkVoYmcwcDZqQ09tS19jbnBiZXR4SEJXdw?oc=5\" target=\"_blank\">Amazon, Microsoft back bill that aims to restrict AI chip exports: WSJ (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-11-14T11:26:16+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Microsoft Corporation (MSFT) Unveils Its $10 Billion Investment Plan for AI Infrastructure in a Data Center in Portugal - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTc0UkFlc190QUdOdzNOWXBLR0FGTUN3VGxoY1pZUW9UZFRTenIyZU9OVFN3ek8tTURyQU9SUjQtQm5GM1oyX1NPUm1Ob2wzb01lbmdPN0QtQnV3dGxLTURkT19jc0UyRk1qdGN3cDd1dTU0RS1NSGhsODVXTnZQRDZ0VzB6OWdHZWl3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTc0UkFlc190QUdOdzNOWXBLR0FGTUN3VGxoY1pZUW9UZFRTenIyZU9OVFN3ek8tTURyQU9SUjQtQm5GM1oyX1NPUm1Ob2wzb01lbmdPN0QtQnV3dGxLTURkT19jc0UyRk1qdGN3cDd1dTU0RS1NSGhsODVXTnZQRDZ0VzB6OWdHZWl3?oc=5\" target=\"_blank\">Microsoft Corporation (MSFT) Unveils Its $10 Billion Investment Plan for AI Infrastructure in a Data Center in Portugal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-15T09:43:27+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Microsoft, Facing Conservative Pressure, Disavows Religion Bias - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0Jsa3pVZEtEdVd2RUw5aGhnem5uYUxXTFFiWmhETTNWVXVBODFnTl9pYkNzenJhRkNxSkd3MVBRVXdzWlI2OWhyam4wTWQ4a1otS0Q2LVFRbk5TSnJ3SnRwUkdDUFNZSnhVdndxZTl6VnRBOWxvZEpHZV8yVEhUaFhSV2xpTzdJZXk5RnhJNXNGekRHeVVIdDdUNFA2ZlAzTE1mMnlFLXlUbkg1WDJjcklYVHhCM0MtR2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0Jsa3pVZEtEdVd2RUw5aGhnem5uYUxXTFFiWmhETTNWVXVBODFnTl9pYkNzenJhRkNxSkd3MVBRVXdzWlI2OWhyam4wTWQ4a1otS0Q2LVFRbk5TSnJ3SnRwUkdDUFNZSnhVdndxZTl6VnRBOWxvZEpHZV8yVEhUaFhSV2xpTzdJZXk5RnhJNXNGekRHeVVIdDdUNFA2ZlAzTE1mMnlFLXlUbkg1WDJjcklYVHhCM0MtR2c?oc=5\" target=\"_blank\">Microsoft, Facing Conservative Pressure, Disavows Religion Bias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-14T19:31:19+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "All Microsoft Windows Users Warned As New Bot Attacks Confirmed - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRG81QllqeF9GTzR0dnFMTm1NRzhtczRWMmt3RFpBRlB0aXRlS2pUelpfSWxRQ2NleDVROVZtdnhyWVBHTlhWekRHcVBoWDgwSVR3b3N4SUdTcDlPVHBaeGdValk5bVRCNjBiMjhVNE1fV0dabkc1SllNOW1FYURBeWpsMGlmN24xd2JtZWp3aVpLSDFyQ2pMcmVjUENxWS1GRXBLNXRLREU3LTN2X1BmY25hY1VyRms?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRG81QllqeF9GTzR0dnFMTm1NRzhtczRWMmt3RFpBRlB0aXRlS2pUelpfSWxRQ2NleDVROVZtdnhyWVBHTlhWekRHcVBoWDgwSVR3b3N4SUdTcDlPVHBaeGdValk5bVRCNjBiMjhVNE1fV0dabkc1SllNOW1FYURBeWpsMGlmN24xd2JtZWp3aVpLSDFyQ2pMcmVjUENxWS1GRXBLNXRLREU3LTN2X1BmY25hY1VyRms?oc=5\" target=\"_blank\">All Microsoft Windows Users Warned As New Bot Attacks Confirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-11-14T14:28:52+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Microsoft rolls out screen capture prevention for Teams users - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0RlV2YyaGd4WGtmSlFTOFlLcTNHOGt0a2dCVFVaN3l6Y0RhQ2dJRThIaTN6eFBrSXV0RjFqTmFHLU45Ml9rQVAtaVpIcWtmVkdzRnRVemhHUVNJaEp6SnI4UUw0cDhrOTRwRkU5WUJUaXBuUGd0STVNNG1fVllfa19GNng3aTk0ZlFMdE40aEg4Vy1EWVVKSTluZ1JFY0xXeGhkUFFqdTlVc25kN3BV0gG0AUFVX3lxTE83UERDNkVXWU1jV0hVUkR0SU12eTZudUc2TkRPZjFaRXJZZHdpaXI2clBvQy1KT09RTktTU0xuQXFVYkZtVkJfLUtraUhLUV8wa0RlN2d4Z0pra1RVNVljTktWQzVHV0UyeVhwSnd1U3BiRXFTeVNiNGhFQzJzMDZvRlVwdUFsQWRSckNuczYyOWVmVHlab1o1aG03T1IzQWJ3ekltQ0RMWk1sdHkzS2FaekVReA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0RlV2YyaGd4WGtmSlFTOFlLcTNHOGt0a2dCVFVaN3l6Y0RhQ2dJRThIaTN6eFBrSXV0RjFqTmFHLU45Ml9rQVAtaVpIcWtmVkdzRnRVemhHUVNJaEp6SnI4UUw0cDhrOTRwRkU5WUJUaXBuUGd0STVNNG1fVllfa19GNng3aTk0ZlFMdE40aEg4Vy1EWVVKSTluZ1JFY0xXeGhkUFFqdTlVc25kN3BV0gG0AUFVX3lxTE83UERDNkVXWU1jV0hVUkR0SU12eTZudUc2TkRPZjFaRXJZZHdpaXI2clBvQy1KT09RTktTU0xuQXFVYkZtVkJfLUtraUhLUV8wa0RlN2d4Z0pra1RVNVljTktWQzVHV0UyeVhwSnd1U3BiRXFTeVNiNGhFQzJzMDZvRlVwdUFsQWRSckNuczYyOWVmVHlab1o1aG03T1IzQWJ3ekltQ0RMWk1sdHkzS2FaekVReA?oc=5\" target=\"_blank\">Microsoft rolls out screen capture prevention for Teams users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-11-13T13:50:58+00:00",
-      "source": "BleepingComputer"
     }
   ],
   "product_launches": [
