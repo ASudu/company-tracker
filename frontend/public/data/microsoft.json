@@ -2,73 +2,66 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-11-17T12:23:35.598820+00:00",
+  "fetched_at": "2025-11-18T12:24:25.788391+00:00",
   "news": [
     {
-      "title": "Leaked documents shed light into how much OpenAI pays Microsoft - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGVad2RkYndueElqOW9XQU5TWlRTSTEwSl8zamladDRleTZGX1E5WHd0VjdtLUhST2ZaeXZWWUQ3NWVaVlVqU3E1UUktLTBESnptU1hhbVk1OGxNb3RuZVZBSE93LXA0U3ROb19NNFpFNmVULTRvTDVhamZ1VTJqOWl2YWQ0bWo2TTV6RWsxenMyZnhVOUhpaVVKRldjUkk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONGVad2RkYndueElqOW9XQU5TWlRTSTEwSl8zamladDRleTZGX1E5WHd0VjdtLUhST2ZaeXZWWUQ3NWVaVlVqU3E1UUktLTBESnptU1hhbVk1OGxNb3RuZVZBSE93LXA0U3ROb19NNFpFNmVULTRvTDVhamZ1VTJqOWl2YWQ0bWo2TTV6RWsxenMyZnhVOUhpaVVKRldjUkk?oc=5\" target=\"_blank\">Leaked documents shed light into how much OpenAI pays Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-11-15T00:47:41+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Bill Gates Foundation 'shocks' market as it makes a 'big cut' in Microsoft shares; losing 'majority statu - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTENpbmsxWENQay1LRDdOcFlocGI4SHZXU1lXeW11ODdmUEFIa3NwNXpVczBNRGd1eE9kTEFHOE01aEhtMlJiRkNSNWFpOXA0RXQyVmw1SXFYWmlYbzJQalVQVU4tWk52eDhuQ2dTTmctcjh6WU5FUXRVXzZndW5HUGJrcDdIS3I5c3RZb0tzVzNvZ0xmMUtFQ1Z6MVRvRnBCcGZ0RDRkV0dqajV2ald5MWVuQ2MwVWt6ZmRpV0lIeEtFV1lSYW9QUG1oZi1CcUZtSVFRaU9ndi1rMWFhUmh4VFpkRDR4XzdkMUtjZXZsdkxKTTJXZ2NWb0ZkMkFobkNkTmNPS2RhWm8tNDd6MDhESNIBlgJBVV95cUxPQjgzekRVYnBJX0xRcE5odEtPWTFJYUJHZU12NWg0UklnTmZFUEdBVzJWbjFONElaUXp2ZXVWVHBINFo3M251U3dBc19rMUUwcHVKOGRrbkd4NFVMWk1TbW5yYW93SEFOeWtlVlVReC02a0tjZUg0NWUwY2M3M2lLck0xOGk3SzlsQ2x4M1BYQ2VSZEkyaTZDeGhBbmg0WWk3dzJNalk5dVpjeXNFczhxX1RnU3JoMzV6aEQzM1dtMkh5dzYtaUpqWEJDVFJiUkNuTXJDUHdVZU51MzB6aWFtaGZlanRBbFVpVThHNUhiUEtBVGFhSTNpTUpVanhpWmhleUotNVhjYktPSnI5ajdQUFZFTnhjZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQTENpbmsxWENQay1LRDdOcFlocGI4SHZXU1lXeW11ODdmUEFIa3NwNXpVczBNRGd1eE9kTEFHOE01aEhtMlJiRkNSNWFpOXA0RXQyVmw1SXFYWmlYbzJQalVQVU4tWk52eDhuQ2dTTmctcjh6WU5FUXRVXzZndW5HUGJrcDdIS3I5c3RZb0tzVzNvZ0xmMUtFQ1Z6MVRvRnBCcGZ0RDRkV0dqajV2ald5MWVuQ2MwVWt6ZmRpV0lIeEtFV1lSYW9QUG1oZi1CcUZtSVFRaU9ndi1rMWFhUmh4VFpkRDR4XzdkMUtjZXZsdkxKTTJXZ2NWb0ZkMkFobkNkTmNPS2RhWm8tNDd6MDhESNIBlgJBVV95cUxPQjgzekRVYnBJX0xRcE5odEtPWTFJYUJHZU12NWg0UklnTmZFUEdBVzJWbjFONElaUXp2ZXVWVHBINFo3M251U3dBc19rMUUwcHVKOGRrbkd4NFVMWk1TbW5yYW93SEFOeWtlVlVReC02a0tjZUg0NWUwY2M3M2lLck0xOGk3SzlsQ2x4M1BYQ2VSZEkyaTZDeGhBbmg0WWk3dzJNalk5dVpjeXNFczhxX1RnU3JoMzV6aEQzM1dtMkh5dzYtaUpqWEJDVFJiUkNuTXJDUHdVZU51MzB6aWFtaGZlanRBbFVpVThHNUhiUEtBVGFhSTNpTUpVanhpWmhleUotNVhjYktPSnI5ajdQUFZFTnhjZw?oc=5\" target=\"_blank\">Bill Gates Foundation 'shocks' market as it makes a 'big cut' in Microsoft shares; losing 'majority statu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-11-17T08:57:00+00:00",
-      "source": "Times of India"
-    },
-    {
-      "title": "Elon Musk roasts Microsoft AI CEO for claiming it took 15 million hours to build a datacenter: ‘Are you doing it right?’ - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ19kbzF3TzRvN2dGTWFVOFlmekg0TkJNSkhRNjJSclc0YnFELW0xZ1lHSDkwaWhCVlFPWGU2cHBidFU1bDZWdVJiWEFURHFKc2ZFZnd4eFZxNzhXcmlMZTBxaHRJaDliMzB0WFp0Q2NmcWZjekZOb3prREZxWmUzTXYyY2x1enVxeXZwZWFTdmZhY3lDcTJfTGc1VGhGV05CNGFxWE90WEQzZlk2ZGRQMW1MUlg0RVU2ZVFKYW5YQnBLRU9rZjh0WmFkWjd4clNkTkNOeXVBeDRNaUNTZzNzLTg4Tm1INWMwdXpvenh4Vk9PQTJ4UXNqaVRWRFVVRmZ0cW80eGVwM0d5V3VlUGtPedIBlgJBVV95cUxQRGs0akpIZi11cFB6dGJJY2xfNHRuaHlDN3phS05sRjNKd3BreXczQjlpTjd1a1hXOE52dFlmenpJSHJyZkY4ZW8wY2Q5RG1WWXR0MWdCN1F6S2VtM2FLUE9MdzBySWltZFhxbDJaZEd1QjNqLUl4YzVzd2J4R2RhM2tjUF9OMXVBVWZONTM2TmhnQ1IxTml2d2hhMFN3ak53N1Q4VW1ocjl1a3Z1RUxmX0ppRkxlcENCXzRGUktORTZiczB6WWV5TDlmUW1BNzhnUXdldFBDNl82TWVVRG1VLVRqSGlVQzFQZmdGX3ZYa2t3b1FUY0oweGx2a3M4X3k4NTdjM1l6U3c1X0hwM3drQ29KOEx1UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ19kbzF3TzRvN2dGTWFVOFlmekg0TkJNSkhRNjJSclc0YnFELW0xZ1lHSDkwaWhCVlFPWGU2cHBidFU1bDZWdVJiWEFURHFKc2ZFZnd4eFZxNzhXcmlMZTBxaHRJaDliMzB0WFp0Q2NmcWZjekZOb3prREZxWmUzTXYyY2x1enVxeXZwZWFTdmZhY3lDcTJfTGc1VGhGV05CNGFxWE90WEQzZlk2ZGRQMW1MUlg0RVU2ZVFKYW5YQnBLRU9rZjh0WmFkWjd4clNkTkNOeXVBeDRNaUNTZzNzLTg4Tm1INWMwdXpvenh4Vk9PQTJ4UXNqaVRWRFVVRmZ0cW80eGVwM0d5V3VlUGtPedIBlgJBVV95cUxQRGs0akpIZi11cFB6dGJJY2xfNHRuaHlDN3phS05sRjNKd3BreXczQjlpTjd1a1hXOE52dFlmenpJSHJyZkY4ZW8wY2Q5RG1WWXR0MWdCN1F6S2VtM2FLUE9MdzBySWltZFhxbDJaZEd1QjNqLUl4YzVzd2J4R2RhM2tjUF9OMXVBVWZONTM2TmhnQ1IxTml2d2hhMFN3ak53N1Q4VW1ocjl1a3Z1RUxmX0ppRkxlcENCXzRGUktORTZiczB6WWV5TDlmUW1BNzhnUXdldFBDNl82TWVVRG1VLVRqSGlVQzFQZmdGX3ZYa2t3b1FUY0oweGx2a3M4X3k4NTdjM1l6U3c1X0hwM3drQ29KOEx1UQ?oc=5\" target=\"_blank\">Elon Musk roasts Microsoft AI CEO for claiming it took 15 million hours to build a datacenter: ‘Are you doing it right?’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
-      "published": "2025-11-17T10:04:41+00:00",
-      "source": "livemint.com"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, November 2025 Edition - Krebs on Security",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2tMQTFGdTF1YnpiNVo5VWs2V3VSUTlKSzZMUThTX3ZIRDNfRHlXdE82ZFpfRXBLWGNpdHdJRjlzYzN5VWV1Q3YxeG0yYmFjNXV2VFBONThnRDQtQUs0RVhrZFV2bEJCd1JJR2NMS3d4NlFGQUhERlVyVGFMend6akpMeHV6YUdhSXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2tMQTFGdTF1YnpiNVo5VWs2V3VSUTlKSzZMUThTX3ZIRDNfRHlXdE82ZFpfRXBLWGNpdHdJRjlzYzN5VWV1Q3YxeG0yYmFjNXV2VFBONThnRDQtQUs0RVhrZFV2bEJCd1JJR2NMS3d4NlFGQUhERlVyVGFMend6akpMeHV6YUdhSXc?oc=5\" target=\"_blank\">Microsoft Patch Tuesday, November 2025 Edition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Krebs on Security</font>",
-      "published": "2025-11-16T22:01:45+00:00",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JCbUdBcXNRV0hIM0ttcHBPdWxDUnF5OGZ6RUtrODNZei1QWFl4d3UzLVZub21JZGdOSXJib2ZvZW9SY2hQQ25Jd3RWUlJxdHlySnRETWlpNnZ4U2VZblJGMjd5R0U3amZfR09MeE5XcUVid3RGbWJpZ0k0WnplUmdDLWo5UDJvMlNtc2FVUmEySGhPR0NEd0VOSDViQ0dwRUliOThfUE1pb0dkUFl5bnFGbEVKSEtHOTdFTlBpUdIBxAFBVV95cUxNRklSNHAtUWZJTlJmWnRoanJlMUJKdTR3LWpqd3ZIeUxOWkNJS0lsR0xwekNEUVZ2WDNCWTFWUjFCdjNPUDJEZzlsbEpNR2s1d1M5eHBQc2k5M3RDaWxGUDg0NDRCNlQ0YUUzd0JYQlhyd1dDRTZsSEdodzlVaTNIM0gxZFNCeEg0dWdlRl83bkY0TmRRcWhiRS1ZQ1lwekpiVElhY3Q0SU83ZWx5N3RiS2pwaXVJbjFpMlJaYmJzMEtIRnZJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3JCbUdBcXNRV0hIM0ttcHBPdWxDUnF5OGZ6RUtrODNZei1QWFl4d3UzLVZub21JZGdOSXJib2ZvZW9SY2hQQ25Jd3RWUlJxdHlySnRETWlpNnZ4U2VZblJGMjd5R0U3amZfR09MeE5XcUVid3RGbWJpZ0k0WnplUmdDLWo5UDJvMlNtc2FVUmEySGhPR0NEd0VOSDViQ0dwRUliOThfUE1pb0dkUFl5bnFGbEVKSEtHOTdFTlBpUdIBxAFBVV95cUxNRklSNHAtUWZJTlJmWnRoanJlMUJKdTR3LWpqd3ZIeUxOWkNJS0lsR0xwekNEUVZ2WDNCWTFWUjFCdjNPUDJEZzlsbEpNR2s1d1M5eHBQc2k5M3RDaWxGUDg0NDRCNlQ0YUUzd0JYQlhyd1dDRTZsSEdodzlVaTNIM0gxZFNCeEg0dWdlRl83bkY0TmRRcWhiRS1ZQ1lwekpiVElhY3Q0SU83ZWx5N3RiS2pwaXVJbjFpMlJaYmJzMEtIRnZJ?oc=5\" target=\"_blank\">Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-11-15T20:42:45+00:00",
+      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3V4ZUdLbkg0bXFGZVRXa2paODZwNm14ekx4Ym9RX1J3bWYxUnJ2UlBNelpmb2lDYy04dDlsbTNVTlRHYlM4SDZCUzNhbGk5d3JnWlF1NkN1Q3lfS09NU2M4cENRNUJUR19PR2s5ODZXTi1DSkRrNF9MQTVFVC1zVW01MWFBMkM5Z194bldfZWVXWHAtaWhqQ0RxLWVkbEJtOHJ5MTl5NS1JUTZIeHZxVWx6c2M5S3ZNRFHSAb8BQVVfeXFMT3hRLUVBdzdQa094RFV3NkNiWmlPWThvVmY2MkhyWWNNN1IyaTlYaDZRRmc3Tk5BQ0xpOTdBTXNtWm9TN0UzTy1XLVY2ajJOUzM0WjhWT3hDd2daLUpoQTZCM2NqYjYyQkl6VHhCR1p6RkxjX3NXMUs5Q3RIOG1EQlE3Rm8yRVdBbzd2My1EZER3ejNMdkg5VHFTLVRveW1ZN2NUX2xiZ0Z2YTd6NklRRVc0MDlWVUxRNDk5RDFRanc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3V4ZUdLbkg0bXFGZVRXa2paODZwNm14ekx4Ym9RX1J3bWYxUnJ2UlBNelpmb2lDYy04dDlsbTNVTlRHYlM4SDZCUzNhbGk5d3JnWlF1NkN1Q3lfS09NU2M4cENRNUJUR19PR2s5ODZXTi1DSkRrNF9MQTVFVC1zVW01MWFBMkM5Z194bldfZWVXWHAtaWhqQ0RxLWVkbEJtOHJ5MTl5NS1JUTZIeHZxVWx6c2M5S3ZNRFHSAb8BQVVfeXFMT3hRLUVBdzdQa094RFV3NkNiWmlPWThvVmY2MkhyWWNNN1IyaTlYaDZRRmc3Tk5BQ0xpOTdBTXNtWm9TN0UzTy1XLVY2ajJOUzM0WjhWT3hDd2daLUpoQTZCM2NqYjYyQkl6VHhCR1p6RkxjX3NXMUs5Q3RIOG1EQlE3Rm8yRVdBbzd2My1EZER3ejNMdkg5VHFTLVRveW1ZN2NUX2xiZ0Z2YTd6NklRRVc0MDlWVUxRNDk5RDFRanc?oc=5\" target=\"_blank\">Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-11-17T17:13:15+00:00",
       "source": "BleepingComputer"
     },
     {
-      "title": "Bad News For Microsoft Windows 10 Users — Another Security Update Fail - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHBqLTZQSUNuQTFwQ0M5dElHNlBiajlMMEVYczdJcXlaLUNkVGxYZHd6WUFHNWNhTVpSY3dESFRYU3pTRWRrMzlDM0d4blh0NEsyNFlxeWFNbkZHY3ozcVlVR2NnQUFLV0JzVzdYSjJVUGJkeXhDVzIxRTFVakVJUUJubC1oN2NSWXB4TlVJbjZrS0V0QXNjYmJsZ1lMOWVuODlyWkVyVHN1MHRDaHdfalNCQVhCblRoYVhvbG91Nng?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHBqLTZQSUNuQTFwQ0M5dElHNlBiajlMMEVYczdJcXlaLUNkVGxYZHd6WUFHNWNhTVpSY3dESFRYU3pTRWRrMzlDM0d4blh0NEsyNFlxeWFNbkZHY3ozcVlVR2NnQUFLV0JzVzdYSjJVUGJkeXhDVzIxRTFVakVJUUJubC1oN2NSWXB4TlVJbjZrS0V0QXNjYmJsZ1lMOWVuODlyWkVyVHN1MHRDaHdfalNCQVhCblRoYVhvbG91Nng?oc=5\" target=\"_blank\">Bad News For Microsoft Windows 10 Users — Another Security Update Fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-11-16T14:08:58+00:00",
-      "source": "Forbes"
+      "title": "Microsoft AI chief warns AI superintelligence could be too powerful to control, says it should be ‘anti-goal’ - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONWFvRGZhR1ZxaGp2aHBVb0tscW5YX1JEdWZnempSNEZJSGo2Nm1NQ2tmcjc3WE56WU1jNVM0cHppbVZEdlNMWTdVWk92S2RmX3AxSzBpZzEzQkNZMUpFaXB1WnEyTzd1clhWYkdaY2RmU2FfSWhBUFJubUx1UlVfUlFuYUVqZkswd1cxemdvSWZNcVJySDF2RllCTXJwbDNsLVFJS1pNN3EwRWVObUdJMG8tdU9PbkctZ2YySkhkeFFPVlR6YTVPamh0RnNzeXpyaUdBTXJrQ1pxME1GTVVKZ1pyTTM3bnNQUGdvWHBPVzkwM1VSTmlCc3ZVREE5TllJ0gGGAkFVX3lxTE8ydDVmRThYQnRqWWp4ZEwtUWZlNi1LamlCb0VLTmtJSEQ2R0FybjQwaHV3UWxWRm95dmZ1bGVMWHU4Mm5wOGFXaVZHSFlJZFdfbnpiaFg0c3pKVFJ1TE9LVDlvVDRsTkJuVnRvelBnaDlSU0xDRGdOS3hqUmFYeGFVMlFsWGhNWjQwV1hCeE1wUkRaUmNvQTFSSU8xSjAyQTlENkViWER6ZUdDdXBUek1MZXNKb19BZTNQRzZ2ekxoRmxtWHZtenR5YW85M05VdDNEZENmeXNSd1JkLUdYbEtHRlNmdl9lS1RtN2RIWEFscHphT08wVnZtbFhWY3VnQkdFa2U4bHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxONWFvRGZhR1ZxaGp2aHBVb0tscW5YX1JEdWZnempSNEZJSGo2Nm1NQ2tmcjc3WE56WU1jNVM0cHppbVZEdlNMWTdVWk92S2RmX3AxSzBpZzEzQkNZMUpFaXB1WnEyTzd1clhWYkdaY2RmU2FfSWhBUFJubUx1UlVfUlFuYUVqZkswd1cxemdvSWZNcVJySDF2RllCTXJwbDNsLVFJS1pNN3EwRWVObUdJMG8tdU9PbkctZ2YySkhkeFFPVlR6YTVPamh0RnNzeXpyaUdBTXJrQ1pxME1GTVVKZ1pyTTM3bnNQUGdvWHBPVzkwM1VSTmlCc3ZVREE5TllJ0gGGAkFVX3lxTE8ydDVmRThYQnRqWWp4ZEwtUWZlNi1LamlCb0VLTmtJSEQ2R0FybjQwaHV3UWxWRm95dmZ1bGVMWHU4Mm5wOGFXaVZHSFlJZFdfbnpiaFg0c3pKVFJ1TE9LVDlvVDRsTkJuVnRvelBnaDlSU0xDRGdOS3hqUmFYeGFVMlFsWGhNWjQwV1hCeE1wUkRaUmNvQTFSSU8xSjAyQTlENkViWER6ZUdDdXBUek1MZXNKb19BZTNQRzZ2ekxoRmxtWHZtenR5YW85M05VdDNEZENmeXNSd1JkLUdYbEtHRlNmdl9lS1RtN2RIWEFscHphT08wVnZtbFhWY3VnQkdFa2U4bHc?oc=5\" target=\"_blank\">Microsoft AI chief warns AI superintelligence could be too powerful to control, says it should be ‘anti-goal’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+      "published": "2025-11-17T11:37:31+00:00",
+      "source": "livemint.com"
     },
     {
-      "title": "Exclusive | Amazon and Microsoft Back Effort That Would Restrict Nvidia’s Exports to China - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNXzdyMjZ2M2I0LURLQnVFVkVwNHRrRkZ2TTgxZjRGTHJEQXRyTThCRmt6VHk0T3FrbXV0S3lNaXFLOEM1QTJGT3NldDlUM0ZTUVNiQ3VJNE11akxjUU12c0Q2eW9sZDdDU2NtT0JyY1VTczJqRmNFMXV6WUtUNzlMblhOZWFRSWFaNU5kYkZFVTV0bmlOdWpvQ0JBVkxQZ1BrcHVQVk14endnWENwc3Z0alUweHhNZUh0S0FMaTF3TGJYdG5qclQ4U2JuXzZtSmhZYXctdTVfWVJBbzc5c3V4bERVSGEzQ3NJN0ZSZmdXcGRqYmxfd041VFZWOWVFZjV3b1ZPczZPUEZPR3MyRW02SHY2dnRlQllhTEE4SXQyc2V4YXd5aFZIaXo4U3VCbHZ6RzdUeTVXUjNJMlNZdWVDcllkcnJQdnRKTlBxZmpWbGd6YXY4dnYzeHhBU1VXem93eEEtUVNyYXBGV2hIclN6SkE4UTFYQnp5T1l0WVQ4SXUxeXFsQ2tvYUQ3RnRvS3h2dDdBVm5EcGVqOU1JaDVLSjJ5U3E0bGV0SW5CWExMYWYyWTVlQ3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxNXzdyMjZ2M2I0LURLQnVFVkVwNHRrRkZ2TTgxZjRGTHJEQXRyTThCRmt6VHk0T3FrbXV0S3lNaXFLOEM1QTJGT3NldDlUM0ZTUVNiQ3VJNE11akxjUU12c0Q2eW9sZDdDU2NtT0JyY1VTczJqRmNFMXV6WUtUNzlMblhOZWFRSWFaNU5kYkZFVTV0bmlOdWpvQ0JBVkxQZ1BrcHVQVk14endnWENwc3Z0alUweHhNZUh0S0FMaTF3TGJYdG5qclQ4U2JuXzZtSmhZYXctdTVfWVJBbzc5c3V4bERVSGEzQ3NJN0ZSZmdXcGRqYmxfd041VFZWOWVFZjV3b1ZPczZPUEZPR3MyRW02SHY2dnRlQllhTEE4SXQyc2V4YXd5aFZIaXo4U3VCbHZ6RzdUeTVXUjNJMlNZdWVDcllkcnJQdnRKTlBxZmpWbGd6YXY4dnYzeHhBU1VXem93eEEtUVNyYXBGV2hIclN6SkE4UTFYQnp5T1l0WVQ4SXUxeXFsQ2tvYUQ3RnRvS3h2dDdBVm5EcGVqOU1JaDVLSjJ5U3E0bGV0SW5CWExMYWYyWTVlQ3c?oc=5\" target=\"_blank\">Exclusive | Amazon and Microsoft Back Effort That Would Restrict Nvidia’s Exports to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-11-14T02:00:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "Microsoft and Amazon Are Downgraded as Redburn Breaks Ranks With Peers - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1Fqakt2dDh5Z3dldUE0VEt4VVJZaWJEWjA5VWQyVlV5Vl82c1lWd3VYWTNrWWdsLWJmNkNHRC1NMjc4WG5uQzR1b2hpS3NmM0xfMDFOa0VoOW9ORVpmalJhcGRwSkFTX0RnaXFfbzdYRGdQTFMySlE1N09xWGFyWUNod1pkZlM0eXkyZ3NUM1hNQUx6UFdfdG85YnpfZG1ldUppLXQyOFc4Tkl6Q2pfV1Viaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1Fqakt2dDh5Z3dldUE0VEt4VVJZaWJEWjA5VWQyVlV5Vl82c1lWd3VYWTNrWWdsLWJmNkNHRC1NMjc4WG5uQzR1b2hpS3NmM0xfMDFOa0VoOW9ORVpmalJhcGRwSkFTX0RnaXFfbzdYRGdQTFMySlE1N09xWGFyWUNod1pkZlM0eXkyZ3NUM1hNQUx6UFdfdG85YnpfZG1ldUppLXQyOFc4Tkl6Q2pfV1Viaw?oc=5\" target=\"_blank\">Microsoft and Amazon Are Downgraded as Redburn Breaks Ranks With Peers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-11-18T10:45:05+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Why Microsoft (MSFT) Is Spending Billions to Expand Its AI Infrastructure Worldwide - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTktnZTBhMjM1WWZfMjZpZm0ycWNlaE9PWnJpX3g4UXJBTGdIRlZnWUt3SGZBeEVMMEI4c2NIV3pKWDkyckxvbjRfcDdKc0t1TzNXaTh6SGtyOGxIMEx3R2pYNGtPcVM3dHFHSlhMdHJ6Q1lWOXNqdDhTSlpqOWxIT2RxazdEWmo1eWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTktnZTBhMjM1WWZfMjZpZm0ycWNlaE9PWnJpX3g4UXJBTGdIRlZnWUt3SGZBeEVMMEI4c2NIV3pKWDkyckxvbjRfcDdKc0t1TzNXaTh6SGtyOGxIMEx3R2pYNGtPcVM3dHFHSlhMdHJ6Q1lWOXNqdDhTSlpqOWxIT2RxazdEWmo1eWc?oc=5\" target=\"_blank\">Why Microsoft (MSFT) Is Spending Billions to Expand Its AI Infrastructure Worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-15T06:10:00+00:00",
+      "title": "EU probes Amazon, Microsoft's cloud services for potential curbs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQWFXam1ndHVfS3RuUmIyRVh3bVBTdm5udzI2eUFWemkzTjE5UXBWSXp2cjJVckZZV2dfMjd5Q2NlUDR0ZloyQ1JTaDZBa0wxbjM1Q3lJZTFaSERWZ0RzSVRjbW85MnhTam9USnNoZmJWZDROUDEtYWZBQjd6ZlVNYVVFbjRUak1PV3pCTnd6UmQ5c1MzYTY0R3pUTl9XUHlDUG13bTIwcTVhYS1lWXVGcVJoQTVlTXNVQUtzZmhSakc1bmprbmxRamdIc0p0RVBqdXZaZnhwVjVHam1ORzB3aA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQWFXam1ndHVfS3RuUmIyRVh3bVBTdm5udzI2eUFWemkzTjE5UXBWSXp2cjJVckZZV2dfMjd5Q2NlUDR0ZloyQ1JTaDZBa0wxbjM1Q3lJZTFaSERWZ0RzSVRjbW85MnhTam9USnNoZmJWZDROUDEtYWZBQjd6ZlVNYVVFbjRUak1PV3pCTnd6UmQ5c1MzYTY0R3pUTl9XUHlDUG13bTIwcTVhYS1lWXVGcVJoQTVlTXNVQUtzZmhSakc1bmprbmxRamdIc0p0RVBqdXZaZnhwVjVHam1ORzB3aA?oc=5\" target=\"_blank\">EU probes Amazon, Microsoft's cloud services for potential curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-11-18T10:35:24+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "EU probes Amazon, Microsoft's cloud services for potential curbs - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkJaYlpxQUdFRXFzX1J1Z3JqQ0RtUnM4Z0FLR3hQeklIVG5yTTF4cGo4M2pIQ0xDQXpYOW45bUt6ckM3cWlwZU9nOGtTTno5SXcyV3FEQW9pb1dCX3l2OEhOTy10YWUtYThoZE5ydGJZbFVpQVlmQ2QtSFJsYTNhcjlldWtxQ1UtdjBELW16c2pnYkhXZWN5SVpBUXdUMWtf0gGmAUFVX3lxTE5uYjRMRTNEQWY4bG9QQThoTVE0LWZza0YxR01scVowaC10Z3BmSGJGaXM5ZEtOYldDWGt0S2ZMbXJBNHh0VEVhV09ZUmtTeXdpUjk0RzZYQjNzbHEyb0dxZnRmUmVKSzM2T1JXN2ZJMDNaMUlIaldlX3lZNDFaLWw3eHIyYUNCS01HU2g3bTdRVVFzUk8zclJTcG42amQ1aU1JWEh1aFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkJaYlpxQUdFRXFzX1J1Z3JqQ0RtUnM4Z0FLR3hQeklIVG5yTTF4cGo4M2pIQ0xDQXpYOW45bUt6ckM3cWlwZU9nOGtTTno5SXcyV3FEQW9pb1dCX3l2OEhOTy10YWUtYThoZE5ydGJZbFVpQVlmQ2QtSFJsYTNhcjlldWtxQ1UtdjBELW16c2pnYkhXZWN5SVpBUXdUMWtf0gGmAUFVX3lxTE5uYjRMRTNEQWY4bG9QQThoTVE0LWZza0YxR01scVowaC10Z3BmSGJGaXM5ZEtOYldDWGt0S2ZMbXJBNHh0VEVhV09ZUmtTeXdpUjk0RzZYQjNzbHEyb0dxZnRmUmVKSzM2T1JXN2ZJMDNaMUlIaldlX3lZNDFaLWw3eHIyYUNCS01HU2g3bTdRVVFzUk8zclJTcG42amQ1aU1JWEh1aFE?oc=5\" target=\"_blank\">EU probes Amazon, Microsoft's cloud services for potential curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-11-18T11:00:05+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Amazon and Microsoft Swing Lower as Europe Launches Cloud ‘Gatekeeper’ Probe - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXE0QkpUOGdxTnd5OGd1akc4eWh6NXZfNUFWckZQM3VtMmI2SkhmdWszWlIyR19pbkREc2dWSnhsZW56Rm5hVVNoMy16dGwySVRqem1tXzVzMzNLZUVIaFlCTW5sSkJvSTRpUHNFZkZkVnp5dG1wRUl0YlBIQ3NFRjlnd0ZVTHgwZzV4NlU3dlVKZUltNjF4czQtcURodFBOWDQ1bXMwSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXE0QkpUOGdxTnd5OGd1akc4eWh6NXZfNUFWckZQM3VtMmI2SkhmdWszWlIyR19pbkREc2dWSnhsZW56Rm5hVVNoMy16dGwySVRqem1tXzVzMzNLZUVIaFlCTW5sSkJvSTRpUHNFZkZkVnp5dG1wRUl0YlBIQ3NFRjlnd0ZVTHgwZzV4NlU3dlVKZUltNjF4czQtcURodFBOWDQ1bXMwSQ?oc=5\" target=\"_blank\">Amazon and Microsoft Swing Lower as Europe Launches Cloud ‘Gatekeeper’ Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2025-11-18T11:24:32+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Protiviti Receives 2025-2026 Microsoft AI Business Solutions Inner Circle Award - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkpLWW9wbGdlNnlnSnJXbFp0eGd6SlgtZmdudDY5YzNnRGNSaDI2aUt1WGVHaXRraVVfaGtORGZtR3RKVURjVkRsdlVGWUhzZHQ4Tlg2Qy01c0xUb3B3bUpxYVJxR1k1ckFjYXFnQ3QzV1FGQTkwUVVtQ0s2bFBiR29CTjlYdk5mLXpIaQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkpLWW9wbGdlNnlnSnJXbFp0eGd6SlgtZmdudDY5YzNnRGNSaDI2aUt1WGVHaXRraVVfaGtORGZtR3RKVURjVkRsdlVGWUhzZHQ4Tlg2Qy01c0xUb3B3bUpxYVJxR1k1ckFjYXFnQ3QzV1FGQTkwUVVtQ0s2bFBiR29CTjlYdk5mLXpIaQ?oc=5\" target=\"_blank\">Protiviti Receives 2025-2026 Microsoft AI Business Solutions Inner Circle Award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-11-18T12:00:00+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "Levi’s Launches Into AI-tinged Future With Microsoft ‘Super-agent’ - WWD",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOblc2ZjF5N1FiOG0zdUt5d29vT3lKVnlIWWtjTkJ0SG5GWFEyS0NYekIxMmJoX1dlUDZKRHU2aUxkRjhncUdyV25IN1ctNFcySzdRdWlqSkFJcDRTVU9XSzZkWWJKQllDbmIxbHdpU0NuWHZSN2hka21QaTZIdnNUbThCSEZSdHdyMXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOblc2ZjF5N1FiOG0zdUt5d29vT3lKVnlIWWtjTkJ0SG5GWFEyS0NYekIxMmJoX1dlUDZKRHU2aUxkRjhncUdyV25IN1ctNFcySzdRdWlqSkFJcDRTVU9XSzZkWWJKQllDbmIxbHdpU0NuWHZSN2hka21QaTZIdnNUbThCSEZSdHdyMXc?oc=5\" target=\"_blank\">Levi’s Launches Into AI-tinged Future With Microsoft ‘Super-agent’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>",
+      "published": "2025-11-17T14:42:22+00:00",
+      "source": "WWD"
     }
   ],
   "product_launches": [
-    {
-      "title": "Microsoft once launched a useless product, and only 3 units were truly sold - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWQXpaV21TcldMQWlubTI0SW9saUVMZFNzRnptU3FZNkwzLTQxczRKNDhLUEtqQ0h5ZHYxdW5YZ3hsTWpEQjJFbnZUUGZ0YmlWcHdpaktCUVlDdkp1SGZyWUFXYzlYS3hpYkh1VlEzQUl0LUYwdWFFdTFkbW1xOV9nUm5ZcGo3WVQxLXkxYXBYUG5aVy1qUHNPUjNCS2I4aDlPWU81dGRKalB3R3NxWGo2MFN5MmtXNHpkYk1LMEkyeVlyNWlNMDk1bkd5RDNXRzM1bndPN3dQYlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWQXpaV21TcldMQWlubTI0SW9saUVMZFNzRnptU3FZNkwzLTQxczRKNDhLUEtqQ0h5ZHYxdW5YZ3hsTWpEQjJFbnZUUGZ0YmlWcHdpaktCUVlDdkp1SGZyWUFXYzlYS3hpYkh1VlEzQUl0LUYwdWFFdTFkbW1xOV9nUm5ZcGo3WVQxLXkxYXBYUG5aVy1qUHNPUjNCS2I4aDlPWU81dGRKalB3R3NxWGo2MFN5MmtXNHpkYk1LMEkyeVlyNWlNMDk1bkd5RDNXRzM1bndPN3dQYlE?oc=5\" target=\"_blank\">Microsoft once launched a useless product, and only 3 units were truly sold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
-      "published": "2025-11-16T14:05:00+00:00",
-      "source": "TechRadar"
-    },
     {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
@@ -77,10 +70,24 @@
       "source": "Microsoft"
     },
     {
+      "title": "Wiz and Microsoft alumni launch Mate with $15.5M Seed to build AI-native security operations - CTech",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zaFhSWjNFYnRvWHEzV0IwTHVCTkNkYVVwWkdwbDdYbXdLLXJFSnM1TzFhTm50LW5pcmpPWWlmQUNMTlBNUTlwQnVZVVlzaEFFSVRBajJoUHE5N3p0QVRrc09rN0J6T2tZeXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1zaFhSWjNFYnRvWHEzV0IwTHVCTkNkYVVwWkdwbDdYbXdLLXJFSnM1TzFhTm50LW5pcmpPWWlmQUNMTlBNUTlwQnVZVVlzaEFFSVRBajJoUHE5N3p0QVRrc09rN0J6T2tZeXc?oc=5\" target=\"_blank\">Wiz and Microsoft alumni launch Mate with $15.5M Seed to build AI-native security operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTech</font>",
+      "published": "2025-11-17T14:11:00+00:00",
+      "source": "CTech"
+    },
+    {
+      "title": "Microsoft once launched a useless product, and only 3 units were truly sold - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWQXpaV21TcldMQWlubTI0SW9saUVMZFNzRnptU3FZNkwzLTQxczRKNDhLUEtqQ0h5ZHYxdW5YZ3hsTWpEQjJFbnZUUGZ0YmlWcHdpaktCUVlDdkp1SGZyWUFXYzlYS3hpYkh1VlEzQUl0LUYwdWFFdTFkbW1xOV9nUm5ZcGo3WVQxLXkxYXBYUG5aVy1qUHNPUjNCS2I4aDlPWU81dGRKalB3R3NxWGo2MFN5MmtXNHpkYk1LMEkyeVlyNWlNMDk1bkd5RDNXRzM1bndPN3dQYlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWQXpaV21TcldMQWlubTI0SW9saUVMZFNzRnptU3FZNkwzLTQxczRKNDhLUEtqQ0h5ZHYxdW5YZ3hsTWpEQjJFbnZUUGZ0YmlWcHdpaktCUVlDdkp1SGZyWUFXYzlYS3hpYkh1VlEzQUl0LUYwdWFFdTFkbW1xOV9nUm5ZcGo3WVQxLXkxYXBYUG5aVy1qUHNPUjNCS2I4aDlPWU81dGRKalB3R3NxWGo2MFN5MmtXNHpkYk1LMEkyeVlyNWlNMDk1bkd5RDNXRzM1bndPN3dQYlE?oc=5\" target=\"_blank\">Microsoft once launched a useless product, and only 3 units were truly sold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+      "published": "2025-11-16T14:05:00+00:00",
+      "source": "TechRadar"
+    },
+    {
       "title": "Microsoft launches Discovery platform at NJ AI Hub - NJBIZ",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5\" target=\"_blank\">Microsoft launches Discovery platform at NJ AI Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJBIZ</font>",
-      "published": "2025-10-30T12:04:42+00:00",
+      "published": "2025-10-30T07:00:00+00:00",
       "source": "NJBIZ"
     },
     {
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5\" target=\"_blank\">Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2025-10-09T07:00:00+00:00",
       "source": "Microsoft"
-    },
-    {
-      "title": "Microsoft launches new AI avatar - The Arkansas Democrat-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lyaGs0Z3JNdUZucXJXM1ZabXh0N0pkUTVMWVF3SXRlRXNmNXdZdG5oN2VVUVM0WkVGWGlYSEd3dDJTaHlJNERiX0lfS0JoWmNhVk5mbnFjVkpKajh3NWtHT0xjNVA4NmxCS2hxUmIwSU11VlJpZGRQazdCczRtSE11OVlUaTZU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lyaGs0Z3JNdUZucXJXM1ZabXh0N0pkUTVMWVF3SXRlRXNmNXdZdG5oN2VVUVM0WkVGWGlYSEd3dDJTaHlJNERiX0lfS0JoWmNhVk5mbnFjVkpKajh3NWtHT0xjNVA4NmxCS2hxUmIwSU11VlJpZGRQazdCczRtSE11OVlUaTZU?oc=5\" target=\"_blank\">Microsoft launches new AI avatar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
-      "published": "2025-10-26T07:00:00+00:00",
-      "source": "The Arkansas Democrat-Gazette"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-11-14",
-      "close": 510.17999267578125
+      "date": "2025-11-17",
+      "close": 507.489990234375
     },
     "history": [
-      {
-        "date": "2025-11-06",
-        "close": 497.1000061035156
-      },
       {
         "date": "2025-11-07",
         "close": 496.82000732421875
@@ -133,6 +129,10 @@
       {
         "date": "2025-11-14",
         "close": 510.17999267578125
+      },
+      {
+        "date": "2025-11-17",
+        "close": 507.489990234375
       }
     ],
     "name": "Microsoft Corporation"

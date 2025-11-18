@@ -2,66 +2,80 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-11-17T12:23:45.680450+00:00",
+  "fetched_at": "2025-11-18T12:24:37.595932+00:00",
   "news": [
     {
-      "title": "First SoftBank, and now Peter Thiel dumps Nvidia position as talk of AI bubble intensifies - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPY3BPdzRoNm9GaTlld2ljNXJHSlYxbHRjaS0wVlB1YnJoYTBCTDFxV0I3dDZuV3RlOExweEwtZzFwT1VpWFZLS3BOeVIwdFhjeWlDVTYwTHFWZHVfNVQyRE93SWJ1WU4tQkJQZVNIOHc2bjM2UHAzS09PX2xtb2tmUWhYeXNlRDRKTE9zNGtfMGJ1MnlSWTRicjJaZml1cmYzTUFzZFlfU0dMTFBZUUl4NTh4eTJ6RE5VOTIycmFPNXowWG9fMms3WGJBWVIyZDliWUFNdXVHTUs0M0ZnMlBpX1o2MTNIaUJ6RzlqaHhueWRvbU1FbTdOcFlKVG5YcWNQbkVUX3puRV9VUC1IUXZUVzd4cm5vM2N2QnhLYlhxME1CaVU3U05DcW90TE5GX2hvOU5CV0lVazdFM3RsTTZtLTBWYTAtSmZya1BRVnhRTGtGZnFVV2VKUDlGMlpxNDI4dTFSUmd2TFdPTl9xQWdja09NNnFELUdORWJQWWJkSzZxSnlsNzUzVUxkeDlMVm9LUFB6RkhVT3BYSnJRcmVaSUpCRGFSSUpVR2hDa2xjSUpFZTgxYTNPSV8xMDhBWHI3dXRDem1rbmJNREZXMGlUajdn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gNBVV95cUxPY3BPdzRoNm9GaTlld2ljNXJHSlYxbHRjaS0wVlB1YnJoYTBCTDFxV0I3dDZuV3RlOExweEwtZzFwT1VpWFZLS3BOeVIwdFhjeWlDVTYwTHFWZHVfNVQyRE93SWJ1WU4tQkJQZVNIOHc2bjM2UHAzS09PX2xtb2tmUWhYeXNlRDRKTE9zNGtfMGJ1MnlSWTRicjJaZml1cmYzTUFzZFlfU0dMTFBZUUl4NTh4eTJ6RE5VOTIycmFPNXowWG9fMms3WGJBWVIyZDliWUFNdXVHTUs0M0ZnMlBpX1o2MTNIaUJ6RzlqaHhueWRvbU1FbTdOcFlKVG5YcWNQbkVUX3puRV9VUC1IUXZUVzd4cm5vM2N2QnhLYlhxME1CaVU3U05DcW90TE5GX2hvOU5CV0lVazdFM3RsTTZtLTBWYTAtSmZya1BRVnhRTGtGZnFVV2VKUDlGMlpxNDI4dTFSUmd2TFdPTl9xQWdja09NNnFELUdORWJQWWJkSzZxSnlsNzUzVUxkeDlMVm9LUFB6RkhVT3BYSnJRcmVaSUpCRGFSSUpVR2hDa2xjSUpFZTgxYTNPSV8xMDhBWHI3dXRDem1rbmJNREZXMGlUajdn?oc=5\" target=\"_blank\">First SoftBank, and now Peter Thiel dumps Nvidia position as talk of AI bubble intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "published": "2025-11-17T09:42:00+00:00",
-      "source": "MarketWatch"
+      "title": "Global stocks sell-off as AI valuation concerns persist ahead of Nvidia earnings - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZllsRzI1TFJ5bXcxUXA3UGo5bUZENHd1cUNoLWMyNnFlM0FMWllPT3lGSnRKQkhTRi0taTU5Q0pqeFRqcFdIY1Z1MkdVTHFjVWlFdHU4d1daYTFWZUY3a1dKaXFHbHRuUl85RmZCYU94YWl1cm5UdWFZOXpTWVVWRlY0WFUtWHBYYS1iQ1pkZFFkSGZtdUp0REhLWDlHZlllYkM5UDRSRXrSAa4BQVVfeXFMTUI2bXgyY1Q3eG1HT1ZfblU3b2VuMC14X0xxeDhFZi0zTVV2OHpkTk5Xd1ZRb1FmMEhPa1FPRklOUktPR1RtWEpOUWZ5YmVOMkNqcmVfajVhNzJtM1N0b3ktdG01T2lmY1FqS2czLUR6dFFwaE1kQlJzTEtZVXQ5VnhHMElKaktBeks1dTI2TFhrN3pCUHp1UGRhVExhRXJ5X0ZleHBYS2lpRkJ5UkhR?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZllsRzI1TFJ5bXcxUXA3UGo5bUZENHd1cUNoLWMyNnFlM0FMWllPT3lGSnRKQkhTRi0taTU5Q0pqeFRqcFdIY1Z1MkdVTHFjVWlFdHU4d1daYTFWZUY3a1dKaXFHbHRuUl85RmZCYU94YWl1cm5UdWFZOXpTWVVWRlY0WFUtWHBYYS1iQ1pkZFFkSGZtdUp0REhLWDlHZlllYkM5UDRSRXrSAa4BQVVfeXFMTUI2bXgyY1Q3eG1HT1ZfblU3b2VuMC14X0xxeDhFZi0zTVV2OHpkTk5Xd1ZRb1FmMEhPa1FPRklOUktPR1RtWEpOUWZ5YmVOMkNqcmVfajVhNzJtM1N0b3ktdG01T2lmY1FqS2czLUR6dFFwaE1kQlJzTEtZVXQ5VnhHMElKaktBeks1dTI2TFhrN3pCUHp1UGRhVExhRXJ5X0ZleHBYS2lpRkJ5UkhR?oc=5\" target=\"_blank\">Global stocks sell-off as AI valuation concerns persist ahead of Nvidia earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOLXgwQmdGSUQ4aEs1ckNFSmhJd0pXaGE5dEtiSnR0TnFwbzFLR1daTEVqcnVTLU5GSlN0RU03X1lJQmlRS243T0hUWmpYNGV1Y05nS3c2R3JMX0NURHZ3WXNRM1lqcFdvcUcxbHVPWTZTdVlnT2VtbFV0ZE9hTnlZNDlrWWt0MzdiVnJxVWhYVmhUeG1pZzRrSExOa1JocGFCd2NTNw?oc=5\" target=\"_blank\">Nvidia earnings, delayed jobs data, and Fed minutes are on tap in a packed week for markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1zVlJoV2RNV1gyUE1zQ2FFVXVLVFZybG9jWG5nRWV0UVpWZllqRzJwRUNnci1PMlU5WktUSjMzVnNGWTNzby0zcFFRcGlaQWYyMXJaXzE5NzRLQ2JoX1p4NVo4a1FLMXFGWWMzRVhSNjJZVkhzQnFuWUEtbWFPQTQ?oc=5\" target=\"_blank\">Nvidia set for $320 billion price swing after earnings, options indicate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2025-11-18T09:39:25+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Morning Bid: Nvidia earnings likely to overshadow delayed US data - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HWTBSUy1abUltUGhwZU9SbXFZbmJnT1lndkd3d1VCVUpRRnI0ZGJQUEpQS1pUQlNSMHJ0UkhLa3BsNmNuUkloTllVMEhsQVRpODZfWXhQUUJyQ1J3TlVWNU9LU2U2eFNseGRRZjlyY2pXTGlhbkZrRzZXcFdxTkE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5HWTBSUy1abUltUGhwZU9SbXFZbmJnT1lndkd3d1VCVUpRRnI0ZGJQUEpQS1pUQlNSMHJ0UkhLa3BsNmNuUkloTllVMEhsQVRpODZfWXhQUUJyQ1J3TlVWNU9LU2U2eFNseGRRZjlyY2pXTGlhbkZrRzZXcFdxTkE?oc=5\" target=\"_blank\">Morning Bid: Nvidia earnings likely to overshadow delayed US data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxOTHp5TVFSd0taVmc3Y1IzUDRoZDdwTUtzZDBvNmJwX3RyYlNiaFZtaXpXdVA3RlowMlYxZkdZRXNpX1QtLTZ6THQ1YlE2Tkc1VC05cVM3QjctQzNWaWZLWnlrTHpLd3k3dXlYUGxURzZrdWdpOE9IbmY3TW5IX2VDUEthS00ydjBJRVlSMGV6SC1pbnZMdkFwY09XU3dIOWJaUFI4OFVNaWdHeFNHQ1VLdVl0TkU2SUE4WHVFY1F1aFhyY09sdjFlWkQwYVVQb20tcGczX3Byay1sRGZDZEJQYUNOT0cxdnNCZ0FWNFowSlRqUTBUVnViWE4wM25hZEs1U2xhN05FNGJfM2V3aEdhdXpkWUtWXzYyS3huTTh3NXdISnFSN1N2TWtkdmpFX0tsV3NpMmNuMldiM1JieUh4Mndzd2tlV1EwTHB3ZW1ucFFZc2U4RnUyN3JEcC1palplSkc1eGFIMzFBSlNYS05VQzBaN2dMb1J4aWNTQlJsZEw5T3k2YVc1Y0hMTnNzbHFlY3Y5Z2ZrRFI4MW1KQnR1aw?oc=5\" target=\"_blank\">U.S. Futures Rise, Global Markets Mixed, Nvidia Earnings Eyed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGt2bG4ya2dWcWR2R1RoSEtUTW1rYU5kdnp4cGFSUHBwZnA4ZHQ4UjdpOU92RUl1QUd5RWktYXRwQ0Y2ZTdvQzJIa3dqQms2SmduVUd6UXNnWVVSSVJ0ZVdfMGVSazBsSXczVTg4ckJiMllrR0RzV2lxR01ULXEyYVRlWmdBOHBRZGlQX3NIOWp4Xy0tbDhmd3lHaEZhX3EtMUppXzBB0gGrAUFVX3lxTE8wQkdMNXE4bmxPbWpDdmQzVE41OVhaRDRCRnNkWTBtdXplV1RaNHdpaTVLaUVrc0hLMUZTY2tfZElNbXJESEl3Y3d2bjNQRnoycGx6Vkp6ZDFaVTViUzU4TTBjODBJRjlPVl9uS0NmSGtGa0dQVUNBb0JTcnNSdl85RWloRDF5cDMxX0xOcGl2ZFUwOEJqS3NrZGRvQjVEc1p4SUE5Sms5di1Jbw?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang surprised investors with a 'half a trillion' forecast. It'll come up at earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
-      "published": "2025-11-17T05:32:00+00:00",
-      "source": "Reuters"
+      "title": "Arm Neoverse platform integrates NVIDIA NVLink Fusion to accelerate AI data center adoption - Arm Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTDdIN20xcTlyc2RiaGJMbV9uTEZNYmRQSkdiY2R3SmFjMDY5VkQxTUVaYnNUa3N0LW9rQVNRTWFnY1FVRHpOcjIyRDAyUTY2SFFMRnVZcU4tRUphZjNFSHhRVUVxcDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTDdIN20xcTlyc2RiaGJMbV9uTEZNYmRQSkdiY2R3SmFjMDY5VkQxTUVaYnNUa3N0LW9rQVNRTWFnY1FVRHpOcjIyRDAyUTY2SFFMRnVZcU4tRUphZjNFSHhRVUVxcDQ?oc=5\" target=\"_blank\">Arm Neoverse platform integrates NVIDIA NVLink Fusion to accelerate AI data center adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arm Newsroom</font>",
+      "published": "2025-11-17T22:34:21+00:00",
+      "source": "Arm Newsroom"
     },
     {
-      "title": "Peter Thiel’s Fund Sold Off Entire Nvidia Stake in Third Quarter - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdG9kVTFEbjhlVmVBVGwxZWE0Qnpva2w4bFI3WUx4Y0hLbGdNTkM3XzBtaWI3TGp5dVJZdG5YUE1uN0w1U1JKcm9xVHViTnNQaWU1TUgtQl9weGFNdlVJa1JYSi1TQVAzU2toRi0xQ0RFdXBObjhhQl9tdEpULWtKYlNtcWZwNG8yZzRKTmc1bHY3cHhNd3FnakZtdk5ZMEVEck1yck9La0lSTnpGeUJySXg3dzluUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdG9kVTFEbjhlVmVBVGwxZWE0Qnpva2w4bFI3WUx4Y0hLbGdNTkM3XzBtaWI3TGp5dVJZdG5YUE1uN0w1U1JKcm9xVHViTnNQaWU1TUgtQl9weGFNdlVJa1JYSi1TQVAzU2toRi0xQ0RFdXBObjhhQl9tdEpULWtKYlNtcWZwNG8yZzRKTmc1bHY3cHhNd3FnakZtdk5ZMEVEck1yck9La0lSTnpGeUJySXg3dzluUQ?oc=5\" target=\"_blank\">Peter Thiel’s Fund Sold Off Entire Nvidia Stake in Third Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-17T10:38:31+00:00",
+      "title": "Arm custom chips get a boost with Nvidia partnership - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUk1ZUFPSUVpZ21pQWhJQ1NycFczSk12Z0tObXJsN0JUc2FNOFdUUFhxSXBMa2RMbzJUc3lDZHFGV0VDeEZwazdKeExhUVBrSjYtcGhYNFQ2MUpFMnZxcUtBRWlhYzFBTHZjeGVVMlYtV0FacEFvbElVTTJ1UGlZNG8tZ9IBiAFBVV95cUxNNWtjb3M0SlV0ekN4R2k4UTU3YnNIVHhtY3NQdDNoM2xZVWxQVzlxWm5JTndBeE5yUVNLRFQ5c3VzblJUWnZDS1RFSTRtMk9rSmlVQVlHYVlaOTZMZEtNZXVRYUxtWFVVdDljR0JZRFdfOG55ZG1seDMyODJHcDJXaTNNRUZNdE9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUk1ZUFPSUVpZ21pQWhJQ1NycFczSk12Z0tObXJsN0JUc2FNOFdUUFhxSXBMa2RMbzJUc3lDZHFGV0VDeEZwazdKeExhUVBrSjYtcGhYNFQ2MUpFMnZxcUtBRWlhYzFBTHZjeGVVMlYtV0FacEFvbElVTTJ1UGlZNG8tZ9IBiAFBVV95cUxNNWtjb3M0SlV0ekN4R2k4UTU3YnNIVHhtY3NQdDNoM2xZVWxQVzlxWm5JTndBeE5yUVNLRFQ5c3VzblJUWnZDS1RFSTRtMk9rSmlVQVlHYVlaOTZMZEtNZXVRYUxtWFVVdDljR0JZRFdfOG55ZG1seDMyODJHcDJXaTNNRUZNdE9B?oc=5\" target=\"_blank\">Arm custom chips get a boost with Nvidia partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-11-17T22:30:02+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Arm to Offer Nvidia’s NVLink Technology in AI Data Center Chips - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWZJdU51d1dHcW1QMHV0MGloTXI4WURjUHowMHU3ZFJlVUZ5dEZfQ29FanBtd21xNXE5QVdDcFJqRGxyR3FDMnEzUWV3eGlhVGFvTjMzdEQ1ejlValYzS1VFMkVFVHNKUGZvTGVvQWxXTW1Mb2lrbUF0RElMMTNCWEN4M1FVZlpSRllBNkFheUVnYmZwbUNwdTFHSFdERnhYZk1WQVRjTWRhalVnQWR1dHBza1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWZJdU51d1dHcW1QMHV0MGloTXI4WURjUHowMHU3ZFJlVUZ5dEZfQ29FanBtd21xNXE5QVdDcFJqRGxyR3FDMnEzUWV3eGlhVGFvTjMzdEQ1ejlValYzS1VFMkVFVHNKUGZvTGVvQWxXTW1Mb2lrbUF0RElMMTNCWEN4M1FVZlpSRllBNkFheUVnYmZwbUNwdTFHSFdERnhYZk1WQVRjTWRhalVnQWR1dHBza1E?oc=5\" target=\"_blank\">Arm to Offer Nvidia’s NVLink Technology in AI Data Center Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-11-17T22:25:00+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Alphabet, Apple, Dell, Nvidia, XPeng, Tesla, E.W. Scripps, and More Market Movers - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdnh5NlRNNWZ2MzBpcE12aDBNMDZqOGdXTGNlSGNNZGlzdTB5U1RFWUVxTnJ3S0JnSzk2eU1jMkRnU2dTN3o3a1BHaGhEdHFTSlNNU21pVEViVUJtaG9HN0d3U1cxRFpXbFJLRWNkWEFTY0k2a1RiNFJGbllLUkZBdXYteUUxamxwRklKSi00NS1wTDRYUjBka3JtSVM2TzI3YnNSazJSQ01vVG9oMUhFY1NjdEtxdk5wZTNnd3cyTktMNHM2WFd3MnBCS1pHQTlxVlgxb2dBVHBGZWRUdE5vbWZnSGVRR0FiZXpPSlFtWTEzOFVHQjltSFJxX0JHa1BjUWVDeWVNQ3ZQd21sRnlnWUkxWkd4NjVaRkxtTmkzQmVrVHR6REtQelc2R0JVYUhJUEdrcC1yRjRMNmxJYXdfWGlfQ0dRMEhweGZySFU2b1dTaDR0Y3VZdHlSVDRlQkFhX2NFdktYd2w3Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdnh5NlRNNWZ2MzBpcE12aDBNMDZqOGdXTGNlSGNNZGlzdTB5U1RFWUVxTnJ3S0JnSzk2eU1jMkRnU2dTN3o3a1BHaGhEdHFTSlNNU21pVEViVUJtaG9HN0d3U1cxRFpXbFJLRWNkWEFTY0k2a1RiNFJGbllLUkZBdXYteUUxamxwRklKSi00NS1wTDRYUjBka3JtSVM2TzI3YnNSazJSQ01vVG9oMUhFY1NjdEtxdk5wZTNnd3cyTktMNHM2WFd3MnBCS1pHQTlxVlgxb2dBVHBGZWRUdE5vbWZnSGVRR0FiZXpPSlFtWTEzOFVHQjltSFJxX0JHa1BjUWVDeWVNQ3ZQd21sRnlnWUkxWkd4NjVaRkxtTmkzQmVrVHR6REtQelc2R0JVYUhJUEdrcC1yRjRMNmxJYXdfWGlfQ0dRMEhweGZySFU2b1dTaDR0Y3VZdHlSVDRlQkFhX2NFdktYd2w3Zw?oc=5\" target=\"_blank\">Alphabet, Apple, Dell, Nvidia, XPeng, Tesla, E.W. Scripps, and More Market Movers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2025-11-17T11:40:00+00:00",
-      "source": "Barron's"
+      "title": "The business case behind Nvidia’s 22-week maternity leave - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1Z1YXNvWGIxQ2s2QV8wOW82WHVlcDB6Qk9YN0dKekRMMGxwLVgxS3g2X3hESWZVVTdqdWdNblA1eDdoZXlGdHJ5VUxRdGVBcWo0cnRBVTAzX3dxeE5EamdZTFpZUE9YNVJCazNzWHdtRVg3NHR2TEI1T3VCSmlYckt1aw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1Z1YXNvWGIxQ2s2QV8wOW82WHVlcDB6Qk9YN0dKekRMMGxwLVgxS3g2X3hESWZVVTdqdWdNblA1eDdoZXlGdHJ5VUxRdGVBcWo0cnRBVTAzX3dxeE5EamdZTFpZUE9YNVJCazNzWHdtRVg3NHR2TEI1T3VCSmlYckt1aw?oc=5\" target=\"_blank\">The business case behind Nvidia’s 22-week maternity leave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2025-11-18T12:00:00+00:00",
+      "source": "Fortune"
     },
     {
-      "title": "How subsidiary of a blacklisted Chinese company 'fooled' America to get banned Nvidia chips - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOR1g4N29LbzZnRE12YmNYci1OYWd6bm9CLWg3YzFvamhiWk9qaW1fNmgyV3pKNGg5M1VETm9LMkNDUjhXYWk5bDR0Z0EycnNJRnJQVDEtNHFDeUZlWW5VdFU2ZEVQdmp0c0JLRE13MXNEa1NnQkRHT2ZJY0ZfQmYwQ1NEOHRMOHdiRHp5M21ENF83bk84YW5ZVDZRUS0yZVhTVnU0VHF6R0ItM3MtT3A1ZUEweDVRYUpQZFgyTjc3LWxFRzhkVnpWYXplMVNVYmsxdW9wOGRGYjRZRjBUMWpyRGZaS0YxcTJvaW5FZFhKOGREdmpIb1dzTDRRdTVTbnpoRVHSAYcCQVVfeXFMTXdyWDhJZTVDdWxWWFlIRXNWajZlQUJtR2hIdW9vSkxIYkFvUHlwckRESGlNLTFud3d3dVBVZ0pLSDk2a0NPYWwzN1BOQ05ZLXpWQTN3cFg2UjZiazh0S1JWbGxqRW5Bek5RdG1OT2dqcXRzUHN1cEdTUTJCb0NGbk51MGdBaGtMZ3JiVUxxU2FEVlhZbHpTd2J4dWIySzBxeEMwY3pKdFpiODNpU2ZWeHExd0NMNWtiSmdDRWdvdklWaHBnT181Yks2bGtJZUNmWHBaVGZhMkVndkhRMllZWHNSRUV6NFY1aDF0VzVlZXE1Y1BfaU9pYmRrMWNMNXhJSFFjaDY4Q0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOR1g4N29LbzZnRE12YmNYci1OYWd6bm9CLWg3YzFvamhiWk9qaW1fNmgyV3pKNGg5M1VETm9LMkNDUjhXYWk5bDR0Z0EycnNJRnJQVDEtNHFDeUZlWW5VdFU2ZEVQdmp0c0JLRE13MXNEa1NnQkRHT2ZJY0ZfQmYwQ1NEOHRMOHdiRHp5M21ENF83bk84YW5ZVDZRUS0yZVhTVnU0VHF6R0ItM3MtT3A1ZUEweDVRYUpQZFgyTjc3LWxFRzhkVnpWYXplMVNVYmsxdW9wOGRGYjRZRjBUMWpyRGZaS0YxcTJvaW5FZFhKOGREdmpIb1dzTDRRdTVTbnpoRVHSAYcCQVVfeXFMTXdyWDhJZTVDdWxWWFlIRXNWajZlQUJtR2hIdW9vSkxIYkFvUHlwckRESGlNLTFud3d3dVBVZ0pLSDk2a0NPYWwzN1BOQ05ZLXpWQTN3cFg2UjZiazh0S1JWbGxqRW5Bek5RdG1OT2dqcXRzUHN1cEdTUTJCb0NGbk51MGdBaGtMZ3JiVUxxU2FEVlhZbHpTd2J4dWIySzBxeEMwY3pKdFpiODNpU2ZWeHExd0NMNWtiSmdDRWdvdklWaHBnT181Yks2bGtJZUNmWHBaVGZhMkVndkhRMllZWHNSRUV6NFY1aDF0VzVlZXE1Y1BfaU9pYmRrMWNMNXhJSFFjaDY4Q0E?oc=5\" target=\"_blank\">How subsidiary of a blacklisted Chinese company 'fooled' America to get banned Nvidia chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-11-17T08:58:00+00:00",
-      "source": "Times of India"
+      "title": "Nvidia-Backed Cassava Pushes to Expand AI Access Across Africa - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2dKVndfX2tZdV9HZ3NKb01MQnFIUHNSbUNDSHdINEd1UUdpSVlDbUNjeHFWZW04N1NLbmN2UW1XUVhBSnFTUlNBVWJIUlhYQmM3d2l5bEJIRUQyYnI1LUdyU2xnVG9CZjlWZFdZNkNzQzVBME5oNlZ4NzZCNHg2M2l2a0l5b0Q2Yl8tZWdDUkZuTy02Yk1EN01zUldFQU1kQXcyM2pVTF8zcjMxMjVNMUpwMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2dKVndfX2tZdV9HZ3NKb01MQnFIUHNSbUNDSHdINEd1UUdpSVlDbUNjeHFWZW04N1NLbmN2UW1XUVhBSnFTUlNBVWJIUlhYQmM3d2l5bEJIRUQyYnI1LUdyU2xnVG9CZjlWZFdZNkNzQzVBME5oNlZ4NzZCNHg2M2l2a0l5b0Q2Yl8tZWdDUkZuTy02Yk1EN01zUldFQU1kQXcyM2pVTF8zcjMxMjVNMUpwMA?oc=5\" target=\"_blank\">Nvidia-Backed Cassava Pushes to Expand AI Access Across Africa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-11-18T05:10:00+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Could Nvidia Stock Help You Become a Millionaire? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZExoUEJPdHNiQms2MlpuVDB1X0RSbDRqU3JUby14cENESVEwaEdmdDlSeWRiYkUwbV9UTVB4NjRmRXF0dU9vaEdKc2Y0N2FUcXQwWF9ZZi1HM0tkd2NrMjJkVXZ6RDhvRVYzN0FmSzZYeHNDdGM1WUViVE1leDU1V0JpMFlJWVBjZ1pDaWxRdUxVYkxXWUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZExoUEJPdHNiQms2MlpuVDB1X0RSbDRqU3JUby14cENESVEwaEdmdDlSeWRiYkUwbV9UTVB4NjRmRXF0dU9vaEdKc2Y0N2FUcXQwWF9ZZi1HM0tkd2NrMjJkVXZ6RDhvRVYzN0FmSzZYeHNDdGM1WUViVE1leDU1V0JpMFlJWVBjZ1pDaWxRdUxVYkxXWUE?oc=5\" target=\"_blank\">Could Nvidia Stock Help You Become a Millionaire?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2025-11-17T06:30:00+00:00",
-      "source": "The Motley Fool"
+      "title": "Here's How Much Traders Expect Nvidia Stock To Move After Wednesday's Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXBZZXMxSGxFQlFNNXlsVnAxWm84d245aWgxUGpoUXgycVRWeVM3WjBjd0JUNm1DTzdLeGdWaUFOa0h6Z2pvYUFHb2JQYlpudmw1LVV2SDNKSjM5WWZRWVZBV2cxcGRuX2RDNUxHbTJGbkctS05IMUtWUFF3WVdXZW0weE1LcllqWEpsUDlQcUl3SVpVOVltX2hiQTVYQ0t5eExTVjFnOE1CZEdCQTZhNkVDY3RIZzZUc1A4eXlUM2gtLTNKaVpNYnh3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXBZZXMxSGxFQlFNNXlsVnAxWm84d245aWgxUGpoUXgycVRWeVM3WjBjd0JUNm1DTzdLeGdWaUFOa0h6Z2pvYUFHb2JQYlpudmw1LVV2SDNKSjM5WWZRWVZBV2cxcGRuX2RDNUxHbTJGbkctS05IMUtWUFF3WVdXZW0weE1LcllqWEpsUDlQcUl3SVpVOVltX2hiQTVYQ0t5eExTVjFnOE1CZEdCQTZhNkVDY3RIZzZUc1A4eXlUM2gtLTNKaVpNYnh3?oc=5\" target=\"_blank\">Here's How Much Traders Expect Nvidia Stock To Move After Wednesday's Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "published": "2025-11-18T10:30:00+00:00",
+      "source": "Investopedia"
     },
     {
-      "title": "GMI Cloud to build $500 million AI data centre in Taiwan with Nvidia chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2R2QmlTZlpGM2k5eG5Pa0R6dktnRkJBTFlCM0FZNmlTam5OYnpCZFVXM18wS25Sd3ZMMVEwY2x2RDVXaUVtQkQxVVRXZDE0ZEFOWkxKSmt4dXJNMXdLa3ZrQi1aaU5kNXZKOHRDZ0dQVkFVZGVkU09VTFg0ZTJyYmVrNEV4M2RPQUNlTEs2WEFzV2pfUWptMnkyLVozQkxJcUV6RmpaNG1seGVMUVMyb3BOS1prMFBiZFNLQjlEM3dLQ1k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2R2QmlTZlpGM2k5eG5Pa0R6dktnRkJBTFlCM0FZNmlTam5OYnpCZFVXM18wS25Sd3ZMMVEwY2x2RDVXaUVtQkQxVVRXZDE0ZEFOWkxKSmt4dXJNMXdLa3ZrQi1aaU5kNXZKOHRDZ0dQVkFVZGVkU09VTFg0ZTJyYmVrNEV4M2RPQUNlTEs2WEFzV2pfUWptMnkyLVozQkxJcUV6RmpaNG1seGVMUVMyb3BOS1prMFBiZFNLQjlEM3dLQ1k?oc=5\" target=\"_blank\">GMI Cloud to build $500 million AI data centre in Taiwan with Nvidia chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-11-17T11:05:40+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Peter Thiel sells entire Nvidia stake amid AI bubble fears - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXhsYVF4M2xTVFBOTHE2a1liNGd3ZVphVXhqMjlDY29KZmI5QTNxZ2lXZUFDT2VhRkhic1l5ZmFRSl90emp4djMzT3d5VFdoVjJaWkNKTERlNXFXWFVrUU1lZXVtbG1ySm9BMkZXQjMxUWFBVUNRcHRjZlR3bmhucXV3SzF5Tl96ZU5pU2lELTBNU05CTmQtZEJWYmhwdktjM0UzbWt4WVlCbmVsZHhiLTZlU01qbV9hSWVjOE93UEVScGxKSjgw0gHMAUFVX3lxTE9HalJ3eExOTHFHeVNyVkc5LUJXSF9UdUN6OEpHTzhIWHFqbWxKa2F3SFMyVEJPUmdwNmFVNDJ1eEZJV2d2LXlCdnN2eFI5S1RzUzkyTGRLd01XVDF4UTRXNkhlZWZmaDh2ZkJDaW1VbXFUc19pbG4waGw3d1FLN29iNU9uLUJFNjhuTVhuLVJiNUxiajNGeGpybU1JdzdEMGJOMTV1SWwxSWFuSEN1bU5QOVlLYXdzTUZ3Xzc0TlZjMThHZTlOU1ZydXlQdQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXhsYVF4M2xTVFBOTHE2a1liNGd3ZVphVXhqMjlDY29KZmI5QTNxZ2lXZUFDT2VhRkhic1l5ZmFRSl90emp4djMzT3d5VFdoVjJaWkNKTERlNXFXWFVrUU1lZXVtbG1ySm9BMkZXQjMxUWFBVUNRcHRjZlR3bmhucXV3SzF5Tl96ZU5pU2lELTBNU05CTmQtZEJWYmhwdktjM0UzbWt4WVlCbmVsZHhiLTZlU01qbV9hSWVjOE93UEVScGxKSjgw0gHMAUFVX3lxTE9HalJ3eExOTHFHeVNyVkc5LUJXSF9UdUN6OEpHTzhIWHFqbWxKa2F3SFMyVEJPUmdwNmFVNDJ1eEZJV2d2LXlCdnN2eFI5S1RzUzkyTGRLd01XVDF4UTRXNkhlZWZmaDh2ZkJDaW1VbXFUc19pbG4waGw3d1FLN29iNU9uLUJFNjhuTVhuLVJiNUxiajNGeGpybU1JdzdEMGJOMTV1SWwxSWFuSEN1bU5QOVlLYXdzTUZ3Xzc0TlZjMThHZTlOU1ZydXlQdQ?oc=5\" target=\"_blank\">Peter Thiel sells entire Nvidia stake amid AI bubble fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-      "published": "2025-11-17T07:33:46+00:00",
-      "source": "The Economic Times"
+      "title": "Dell partners with Nvidia to help deliver AI computing power for enterprises - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEZYLUZKbl9vUUtkMmZmYklENEllNWVVT1kyVll5cE90a3NIRWx0MlFPcExKcExNV1V4Sjgwa2JVb21KYTZkMHVzMW50WGlKWG02UlN5aXFNRmJFSDFybElKeWVTdWU5MnhzUU5vdWNKcmgwYjJyODd5S2xhQXd3SDhvbnd3YWp0c0hBTkhzMlhoQUVZTG5VelRENUN6OU0yVTcySjJJRUtCc3MwWWNqaWtfZkk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEZYLUZKbl9vUUtkMmZmYklENEllNWVVT1kyVll5cE90a3NIRWx0MlFPcExKcExNV1V4Sjgwa2JVb21KYTZkMHVzMW50WGlKWG02UlN5aXFNRmJFSDFybElKeWVTdWU5MnhzUU5vdWNKcmgwYjJyODd5S2xhQXd3SDhvbnd3YWp0c0hBTkhzMlhoQUVZTG5VelRENUN6OU0yVTcySjJJRUtCc3MwWWNqaWtfZkk?oc=5\" target=\"_blank\">Dell partners with Nvidia to help deliver AI computing power for enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2025-11-17T15:31:41+00:00",
+      "source": "Seeking Alpha"
     }
   ],
   "product_launches": [
+    {
+      "title": "NVIDIA Partners with RIKEN to Launch Two Advanced Supercomputers for AI and Quantum Computing in Japan - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWhqRVlxQXBoNEoyVEJQbk5xUTVROHlNS3lnR3dUR2I1dlZoRi1ZMWpyRm13cExWXzYtR3lBSlRhWFF5aGpjMDNTQTJldzllTFlqMUVPV01DV1hyVTJmNUpvekJFRUZuekhiVWR5c3Z0TEtCOXBKRmRSdllVUDg2TGpHalhZc2dsU1p4cmpLZUtzTFByNnk5SjNDdnRwRUFvTTA5SV9JZC1uSTlzX3lVSzEyRDNiTlhxaS0tMEQ5LV93Ymh3OGFEVnlLRkh6RFh4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWhqRVlxQXBoNEoyVEJQbk5xUTVROHlNS3lnR3dUR2I1dlZoRi1ZMWpyRm13cExWXzYtR3lBSlRhWFF5aGpjMDNTQTJldzllTFlqMUVPV01DV1hyVTJmNUpvekJFRUZuekhiVWR5c3Z0TEtCOXBKRmRSdllVUDg2TGpHalhZc2dsU1p4cmpLZUtzTFByNnk5SjNDdnRwRUFvTTA5SV9JZC1uSTlzX3lVSzEyRDNiTlhxaS0tMEQ5LV93Ymh3OGFEVnlLRkh6RFh4?oc=5\" target=\"_blank\">NVIDIA Partners with RIKEN to Launch Two Advanced Supercomputers for AI and Quantum Computing in Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "published": "2025-11-17T22:41:00+00:00",
+      "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNbzEybzd0bl9qYmlPMFRpb0lkLS1KWWNyZnROMTJEcnpFQjV2LUF3U1N6MDF4U0RMcHpORGdINGVtTVY1dE5DNWVMd0wzQnFUd0luanRrWlU5RDRvUWtKbEVFb0hUczZZZ3ZMNDIyOTQ0bzF3amdRRU9RV1RJUzMtN3ktaEt6Ti1qcUdsWEw5bmhnb2ppVVc3Q0VaRmh6el9vVjF6U1VBQlk4OXJSTWpjSktURXNuY1RaS2oyUnZsUXpCRldqNHROWTVYSkUydW1fMmppU0Z0YXRiQUFTUGM4R3c4UUhwV1hBSl9lUWZtdEFFeWpnRHRJQU9ob2VDenlHYV9Cc05LNDd4b1ZHUzF6QXNjTU1KOWl6WTZiVTM3S21MS3JrUDBIeUtmT2NpXy1TenJjQ3hqeUQwMFZFUjY4LXVXQzhrbWRobEQzOXRQSHZydUVvZVhkS1dUaS1HZ1Z6S1AzVjdFWWx0Q0RtR3Z3TndtakQtOHROUkxaaTJ5XzlFNXVNTzI1SU1DRU9EM19fR0dObXJCeWdxTmpiZUI2Nw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNbzEybzd0bl9qYmlPMFRpb0lkLS1KWWNyZnROMTJEcnpFQjV2LUF3U1N6MDF4U0RMcHpORGdINGVtTVY1dE5DNWVMd0wzQnFUd0luanRrWlU5RDRvUWtKbEVFb0hUczZZZ3ZMNDIyOTQ0bzF3amdRRU9RV1RJUzMtN3ktaEt6Ti1qcUdsWEw5bmhnb2ppVVc3Q0VaRmh6el9vVjF6U1VBQlk4OXJSTWpjSktURXNuY1RaS2oyUnZsUXpCRldqNHROWTVYSkUydW1fMmppU0Z0YXRiQUFTUGM4R3c4UUhwV1hBSl9lUWZtdEFFeWpnRHRJQU9ob2VDenlHYV9Cc05LNDd4b1ZHUzF6QXNjTU1KOWl6WTZiVTM3S21MS3JrUDBIeUtmT2NpXy1TenJjQ3hqeUQwMFZFUjY4LXVXQzhrbWRobEQzOXRQSHZydUVvZVhkS1dUaS1HZ1Z6S1AzVjdFWWx0Q0RtR3Z3TndtakQtOHROUkxaaTJ5XzlFNXVNTzI1SU1DRU9EM19fR0dObXJCeWdxTmpiZUI2Nw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-10-28T07:00:00+00:00",
+      "source": "The Wall Street Journal"
+    },
     {
       "title": "NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5",
@@ -70,11 +84,11 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxObWNXb0JJVXZsQk82el9KOTI4ZF9fVml6VHlwdllfRHluaTBaenVEWkpoY3JXVGFJWkpOcGJhRVhfa204VzNWS2V6cEZ5VzB1S24tTGt5MFNZWTVBdkh1a1hUY3pGT0dDMVN5MlFBU1pVVlpWNGVfNU5lbDZ2LWxrY0lLT2tRNk1ERUxzc1Y3UmhhcGYydVhELUh3eGpSSnc1WldnRl9hbk9vXzhtbGJOWHdDSi1PSk5fWVBkbnZvU0J5eG5zT00tdE9kVXJ0TmNRT2F3X2pac3J3VGIzT1lLM3ZsaTBaaFJ0YzM1Wkh5bXpHT0liN3NmTVlXQ0NpNzV2UVBIQ1Y4MjlxLXJZb2Y3Yk5tWnctMzJOTF80M0tBTU02N09XNm9LSTNsQm40MWI1X1BHbmtXdEg1MncwQk5Ga0pmclR3TU01dmNuVDc1eDNERHIwNTZ4TF84R2RIYlN2eXRoWm1DTlZLT281WUE1Q1VFYlc3bmhLTlRuLWE5UENSbUhENFRrNzBSY1JvRnRscEVrUElOa196MnZHWW1sdA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxObWNXb0JJVXZsQk82el9KOTI4ZF9fVml6VHlwdllfRHluaTBaenVEWkpoY3JXVGFJWkpOcGJhRVhfa204VzNWS2V6cEZ5VzB1S24tTGt5MFNZWTVBdkh1a1hUY3pGT0dDMVN5MlFBU1pVVlpWNGVfNU5lbDZ2LWxrY0lLT2tRNk1ERUxzc1Y3UmhhcGYydVhELUh3eGpSSnc1WldnRl9hbk9vXzhtbGJOWHdDSi1PSk5fWVBkbnZvU0J5eG5zT00tdE9kVXJ0TmNRT2F3X2pac3J3VGIzT1lLM3ZsaTBaaFJ0YzM1Wkh5bXpHT0liN3NmTVlXQ0NpNzV2UVBIQ1Y4MjlxLXJZb2Y3Yk5tWnctMzJOTF80M0tBTU02N09XNm9LSTNsQm40MWI1X1BHbmtXdEg1MncwQk5Ga0pmclR3TU01dmNuVDc1eDNERHIwNTZ4TF84R2RIYlN2eXRoWm1DTlZLT281WUE1Q1VFYlc3bmhLTlRuLWE5UENSbUhENFRrNzBSY1JvRnRscEVrUElOa196MnZHWW1sdA?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-10-28T07:00:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "WECENT Announces Global Launch of Expanded NVIDIA GPU and Enterprise Server Portfolio to Support Next-Generation AI and Data Center Demands - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcTM0Rm5UN0IwY1hGdlRCUFpfaU1EOWp2RDhTSzhPWHJfanUxVURLZGhRbTJfaUJnZU5wekRFTDIwSDBwLWw1QzRJTjV6X3U1Yy1qWEtucjdUQUFuVUpOUEZmMEZlZ1o2WXNEaE9JNkZuQmNrbURrNGExTDF6Tk9haEIwSlB2dldJNDlxNnN4TFhpZjNUZV9ISV8zNUNfaTR6dUhhSU5rVGJFY0YydU1ETVBpMFh1WVNRLTVRWERiSUVUM19LOS1tXzJmSjh5ejlvMkZXSmZZZHdTZHpxYTJkUzA0ZjhwYkJUWFh4b0hvM2FCeGVZLWlYOHFMTmpCQ3hPZGZnYkFmWjlvSjNkNmdVdg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNcTM0Rm5UN0IwY1hGdlRCUFpfaU1EOWp2RDhTSzhPWHJfanUxVURLZGhRbTJfaUJnZU5wekRFTDIwSDBwLWw1QzRJTjV6X3U1Yy1qWEtucjdUQUFuVUpOUEZmMEZlZ1o2WXNEaE9JNkZuQmNrbURrNGExTDF6Tk9haEIwSlB2dldJNDlxNnN4TFhpZjNUZV9ISV8zNUNfaTR6dUhhSU5rVGJFY0YydU1ETVBpMFh1WVNRLTVRWERiSUVUM19LOS1tXzJmSjh5ejlvMkZXSmZZZHdTZHpxYTJkUzA0ZjhwYkJUWFh4b0hvM2FCeGVZLWlYOHFMTmpCQ3hPZGZnYkFmWjlvSjNkNmdVdg?oc=5\" target=\"_blank\">WECENT Announces Global Launch of Expanded NVIDIA GPU and Enterprise Server Portfolio to Support Next-Generation AI and Data Center Demands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "published": "2025-11-17T21:54:14+00:00",
+      "source": "Barchart.com"
     },
     {
       "title": "Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships - Yahoo Finance",
@@ -82,34 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjR6OHJYYjlhdjY4OWlqNTVBNEVEdnBTY1BoM3Ayc0s5M2x0WWduc1JEaG5vVjg5WVZzbkxOSnA4dTFHTWxDR1hUWW5IV2dhVWdoamp4ZDR3a2tWZzk1ZFJYOGc4Y1hRZ0tLd0UyMUNPOXdpWWZPX2VGOXNKN0Myd2FUa1A3T2MzLWgtTlJQNA?oc=5\" target=\"_blank\">Nvidia (NVDA): Valuation Insights Following New AI Product Launches and Major Enterprise Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2025-08-27T07:00:00+00:00",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRG5hVTBQVTJVTVB5cDE4M0hFWXBZQ1JtbTBIdXRZdUNFaWNTRUxUUWpoUmp3em1aVld6VGZFLXprR3FpMTZIaWpMNjMtTTJZQVhreVNud3JOb3lEZ2dtZlQ2UWhsOGh1cjZ6bGY1T0FzeDFBR0pJWE9ab00zRlJ3Q0R3UDRodHhoTnJEcmVreExhVjBEemc3d29n?oc=5\" target=\"_blank\">Nvidia Will Hit Another Jackpot With This New Product (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-08-26T07:00:00+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "NVIDIA DGX Spark Arrives for World’s AI Developers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5\" target=\"_blank\">NVIDIA DGX Spark Arrives for World’s AI Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2025-10-13T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2025-11-14",
-      "close": 190.1699981689453
+      "date": "2025-11-17",
+      "close": 186.60000610351562
     },
     "history": [
-      {
-        "date": "2025-11-06",
-        "close": 188.0800018310547
-      },
       {
         "date": "2025-11-07",
         "close": 188.14999389648438
@@ -133,6 +129,10 @@
       {
         "date": "2025-11-14",
         "close": 190.1699981689453
+      },
+      {
+        "date": "2025-11-17",
+        "close": 186.60000610351562
       }
     ],
     "name": "NVIDIA Corporation"
