@@ -2,72 +2,86 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-11-18T12:24:25.788391+00:00",
+  "fetched_at": "2025-11-19T12:23:34.401725+00:00",
   "news": [
     {
-      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3V4ZUdLbkg0bXFGZVRXa2paODZwNm14ekx4Ym9RX1J3bWYxUnJ2UlBNelpmb2lDYy04dDlsbTNVTlRHYlM4SDZCUzNhbGk5d3JnWlF1NkN1Q3lfS09NU2M4cENRNUJUR19PR2s5ODZXTi1DSkRrNF9MQTVFVC1zVW01MWFBMkM5Z194bldfZWVXWHAtaWhqQ0RxLWVkbEJtOHJ5MTl5NS1JUTZIeHZxVWx6c2M5S3ZNRFHSAb8BQVVfeXFMT3hRLUVBdzdQa094RFV3NkNiWmlPWThvVmY2MkhyWWNNN1IyaTlYaDZRRmc3Tk5BQ0xpOTdBTXNtWm9TN0UzTy1XLVY2ajJOUzM0WjhWT3hDd2daLUpoQTZCM2NqYjYyQkl6VHhCR1p6RkxjX3NXMUs5Q3RIOG1EQlE3Rm8yRVdBbzd2My1EZER3ejNMdkg5VHFTLVRveW1ZN2NUX2xiZ0Z2YTd6NklRRVc0MDlWVUxRNDk5RDFRanc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3V4ZUdLbkg0bXFGZVRXa2paODZwNm14ekx4Ym9RX1J3bWYxUnJ2UlBNelpmb2lDYy04dDlsbTNVTlRHYlM4SDZCUzNhbGk5d3JnWlF1NkN1Q3lfS09NU2M4cENRNUJUR19PR2s5ODZXTi1DSkRrNF9MQTVFVC1zVW01MWFBMkM5Z194bldfZWVXWHAtaWhqQ0RxLWVkbEJtOHJ5MTl5NS1JUTZIeHZxVWx6c2M5S3ZNRFHSAb8BQVVfeXFMT3hRLUVBdzdQa094RFV3NkNiWmlPWThvVmY2MkhyWWNNN1IyaTlYaDZRRmc3Tk5BQ0xpOTdBTXNtWm9TN0UzTy1XLVY2ajJOUzM0WjhWT3hDd2daLUpoQTZCM2NqYjYyQkl6VHhCR1p6RkxjX3NXMUs5Q3RIOG1EQlE3Rm8yRVdBbzd2My1EZER3ejNMdkg5VHFTLVRveW1ZN2NUX2xiZ0Z2YTd6NklRRVc0MDlWVUxRNDk5RDFRanc?oc=5\" target=\"_blank\">Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-11-17T17:13:15+00:00",
-      "source": "BleepingComputer"
+      "title": "Microsoft, Nvidia to invest in Anthropic as Claude maker commits $30 billion to Azure - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnR5U18zdTVwNDFwT3NmVXpqTHVfdnFtR1pKUk5odmRBRVJMLU53aXJmYVB5UE5CamFaQjR1YTY2bWJvVTdaLWIzeC1SdUVGejRyZTFTMUstTlhKdzN4SmxLcEQycUx4R2w5NmFWRnhUMFo1bWpUWG45STdzODJQcGY5SE5IWHJGNWJycA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnR5U18zdTVwNDFwT3NmVXpqTHVfdnFtR1pKUk5odmRBRVJMLU53aXJmYVB5UE5CamFaQjR1YTY2bWJvVTdaLWIzeC1SdUVGejRyZTFTMUstTlhKdzN4SmxLcEQycUx4R2w5NmFWRnhUMFo1bWpUWG45STdzODJQcGY5SE5IWHJGNWJycA?oc=5\" target=\"_blank\">Microsoft, Nvidia to invest in Anthropic as Claude maker commits $30 billion to Azure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNejh2a2xXR0ZRSHhnU3RpanBwMHFVOElVbU9FQ0NQb2R5YVhXakswLUZYT0NSbjVZQ3BYMVdkRENzaFdCOE1hV2FiNVRYYjhCdXp6VGNRNjRaeVVQbHA4R0MyZGJ4cFQyNENndjVuUDdLS2pZaU5KZm5mdTdIRllIcXI3VllHaGRTWm43Qzh4ZlJad0RCcDlodVFXVjMxYWRsVmo0dHdDbkk1aC1TUTA2b3NaU3k5aHVxSlRhakdXWHJhWXg2LWpHVWdGeF9DVTdUc2RRbTVGNWQtYkRlUkFISXk3TnlBQTN1V01qWWRicGlOUlJUQ2V3ODNLUUppUWFkRnl0VUZOcklrc29xY1BLMFdLOFc2UnZSYmJULWJnOGYwQTUzRzl3RlJmMldjVm5lRzZ3RkZpR3FFRnNRdkMtWE1ObzFtVG5yNDJUZUFmSXJTWTQ3THBXUFp2WE5qRlpmYXVOdFBPUS1zYkJTZmN1YWdJZVRzVV81TUhNNHBhakFsdmZFVkhJVmMxcmJpX2hGTzRmbXVMbzVyemZ1N3Q2RDRTLXdWNEY2NWZoS3p6VU1laVBYV2VHOHlB?oc=5\" target=\"_blank\">Nvidia, Microsoft Pour $15 Billion Into Anthropic for New AI Alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHU1STFtS3RtQldUOVVGUEd6Y3RCRERvTTFaUzVNclFlaUdBdzJLWmFkNjZxakptN0ZQc2dlUmpwUDhhdkkyQ3ZkOHJ4WUFKenI5ZFRvckNOUnNkVWdhR2k4WWprdWxkUWVGRXU0bmRUMlVMTVNzRS1kNVBaTW1UWmZzVlZEbDg?oc=5\" target=\"_blank\">Nvidia and Microsoft Strike Massive AI Deal With Anthropic -- What It Means For Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2025-11-18T15:07:18+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft AI chief warns AI superintelligence could be too powerful to control, says it should be ‘anti-goal’ - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONWFvRGZhR1ZxaGp2aHBVb0tscW5YX1JEdWZnempSNEZJSGo2Nm1NQ2tmcjc3WE56WU1jNVM0cHppbVZEdlNMWTdVWk92S2RmX3AxSzBpZzEzQkNZMUpFaXB1WnEyTzd1clhWYkdaY2RmU2FfSWhBUFJubUx1UlVfUlFuYUVqZkswd1cxemdvSWZNcVJySDF2RllCTXJwbDNsLVFJS1pNN3EwRWVObUdJMG8tdU9PbkctZ2YySkhkeFFPVlR6YTVPamh0RnNzeXpyaUdBTXJrQ1pxME1GTVVKZ1pyTTM3bnNQUGdvWHBPVzkwM1VSTmlCc3ZVREE5TllJ0gGGAkFVX3lxTE8ydDVmRThYQnRqWWp4ZEwtUWZlNi1LamlCb0VLTmtJSEQ2R0FybjQwaHV3UWxWRm95dmZ1bGVMWHU4Mm5wOGFXaVZHSFlJZFdfbnpiaFg0c3pKVFJ1TE9LVDlvVDRsTkJuVnRvelBnaDlSU0xDRGdOS3hqUmFYeGFVMlFsWGhNWjQwV1hCeE1wUkRaUmNvQTFSSU8xSjAyQTlENkViWER6ZUdDdXBUek1MZXNKb19BZTNQRzZ2ekxoRmxtWHZtenR5YW85M05VdDNEZENmeXNSd1JkLUdYbEtHRlNmdl9lS1RtN2RIWEFscHphT08wVnZtbFhWY3VnQkdFa2U4bHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxONWFvRGZhR1ZxaGp2aHBVb0tscW5YX1JEdWZnempSNEZJSGo2Nm1NQ2tmcjc3WE56WU1jNVM0cHppbVZEdlNMWTdVWk92S2RmX3AxSzBpZzEzQkNZMUpFaXB1WnEyTzd1clhWYkdaY2RmU2FfSWhBUFJubUx1UlVfUlFuYUVqZkswd1cxemdvSWZNcVJySDF2RllCTXJwbDNsLVFJS1pNN3EwRWVObUdJMG8tdU9PbkctZ2YySkhkeFFPVlR6YTVPamh0RnNzeXpyaUdBTXJrQ1pxME1GTVVKZ1pyTTM3bnNQUGdvWHBPVzkwM1VSTmlCc3ZVREE5TllJ0gGGAkFVX3lxTE8ydDVmRThYQnRqWWp4ZEwtUWZlNi1LamlCb0VLTmtJSEQ2R0FybjQwaHV3UWxWRm95dmZ1bGVMWHU4Mm5wOGFXaVZHSFlJZFdfbnpiaFg0c3pKVFJ1TE9LVDlvVDRsTkJuVnRvelBnaDlSU0xDRGdOS3hqUmFYeGFVMlFsWGhNWjQwV1hCeE1wUkRaUmNvQTFSSU8xSjAyQTlENkViWER6ZUdDdXBUek1MZXNKb19BZTNQRzZ2ekxoRmxtWHZtenR5YW85M05VdDNEZENmeXNSd1JkLUdYbEtHRlNmdl9lS1RtN2RIWEFscHphT08wVnZtbFhWY3VnQkdFa2U4bHc?oc=5\" target=\"_blank\">Microsoft AI chief warns AI superintelligence could be too powerful to control, says it should be ‘anti-goal’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
-      "published": "2025-11-17T11:37:31+00:00",
-      "source": "livemint.com"
+      "title": "Microsoft launches tracker to manage autonomous AI in the workplace - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZE5tVEZXM3FRakJDUlEzOXNNN2lNVjRkaUE2eHlBMkJCSjNUTy14LXFUUzAtRzFGZjNENGY2cUtyTTFwUEJjdkNvNjlGeEs4T0IxM3c4SVRzTG1zMllOR3VKYnZlNno3UGFpdXFyWUpYdTlKZTZPR0xVOTJZcUpSb3owNjJpZTZ2SnNCUTBkSGFxaDVFQU51MkVqdHdpMU54eFJwdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZE5tVEZXM3FRakJDUlEzOXNNN2lNVjRkaUE2eHlBMkJCSjNUTy14LXFUUzAtRzFGZjNENGY2cUtyTTFwUEJjdkNvNjlGeEs4T0IxM3c4SVRzTG1zMllOR3VKYnZlNno3UGFpdXFyWUpYdTlKZTZPR0xVOTJZcUpSb3owNjJpZTZ2SnNCUTBkSGFxaDVFQU51MkVqdHdpMU54eFJwdw?oc=5\" target=\"_blank\">Microsoft launches tracker to manage autonomous AI in the workplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-11-18T18:20:38+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "A 2011 cartoon depicted Microsoft's divisions in conflict. CEO Satya Nadella said it taught him some lessons. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTThycm1DSGxmUFZfaGZqSmk1Vi1jYmNUVmdCT2ZZSzdBR2NUWVl3X2lqTHQyUUh0c05ROC1CWHNZODJENTZlNmJ6V0hOaGZJUkRVNU5WemtSdjhJUFNyNTI2X2hLcEVoT2o2V1lqaUk2eVhtT01nN2F1X3ZWNHpiUy1JY3I5cVd4c3dCelhMcmswWTg4dFByalJSbWk1T0hnU2tQaU5sUVBkQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTThycm1DSGxmUFZfaGZqSmk1Vi1jYmNUVmdCT2ZZSzdBR2NUWVl3X2lqTHQyUUh0c05ROC1CWHNZODJENTZlNmJ6V0hOaGZJUkRVNU5WemtSdjhJUFNyNTI2X2hLcEVoT2o2V1lqaUk2eVhtT01nN2F1X3ZWNHpiUy1JY3I5cVd4c3dCelhMcmswWTg4dFByalJSbWk1T0hnU2tQaU5sUVBkQQ?oc=5\" target=\"_blank\">A 2011 cartoon depicted Microsoft's divisions in conflict. CEO Satya Nadella said it taught him some lessons.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2025-11-19T10:59:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sYTZoYkpQbC1BcG5Vc2o1aDAxc3U5eWhDQlc2ZkRCN2NnOTZSMWVTdXJCbzJ6bnVtd202QmdheF9MeXJXMjVTa0JkY2dROHdYanFIRjBhNDROOXNXalF5dml1bUJTbGs3dmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sYTZoYkpQbC1BcG5Vc2o1aDAxc3U5eWhDQlc2ZkRCN2NnOTZSMWVTdXJCbzJ6bnVtd202QmdheF9MeXJXMjVTa0JkY2dROHdYanFIRjBhNDROOXNXalF5dml1bUJTbGs3dmc?oc=5\" target=\"_blank\">Claude now available in Microsoft Foundry and Microsoft 365 Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anthropic</font>",
+      "published": "2025-11-18T15:26:29+00:00",
+      "source": "Anthropic"
+    },
+    {
+      "title": "Microsoft protesters demonstrate in Redmond, San Francisco - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUtWZHFNVHBTQnZtaXJiaDB0bmFFajRvN2F4ZU1MMVpmT2lFYmpISzFkQ3RtazJQbHR0Vk1qNU9XcXhvc2c5TXlZRGRFY3lLTE51S1lDMEQxd2JsUzVYMENIQjk2dWY0ekNIdm03Zk8yUUpibDdiUGdidkVKU1BRZ3VkNl9KMll4NW45VUdrd2xrTEJGUjVfdlhhSGxTY2lFc21sdXF6ME0yWVZRM2NQY1R6QUU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUtWZHFNVHBTQnZtaXJiaDB0bmFFajRvN2F4ZU1MMVpmT2lFYmpISzFkQ3RtazJQbHR0Vk1qNU9XcXhvc2c5TXlZRGRFY3lLTE51S1lDMEQxd2JsUzVYMENIQjk2dWY0ekNIdm03Zk8yUUpibDdiUGdidkVKU1BRZ3VkNl9KMll4NW45VUdrd2xrTEJGUjVfdlhhSGxTY2lFc21sdXF6ME0yWVZRM2NQY1R6QUU?oc=5\" target=\"_blank\">Microsoft protesters demonstrate in Redmond, San Francisco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+      "published": "2025-11-19T02:29:47+00:00",
+      "source": "The Seattle Times"
+    },
+    {
+      "title": "SAP Business Data Cloud Connect for Microsoft Fabric - SAP News Center",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeThKREVBVmoxNEJuUUxDbU44VUVhLUJ2TVdOX3Y0bVNfMTZfMUNfTGZxMzRLNHh1SXgxTWVPWXFzSjhmV0ZJV0loMUxGUVF5TjlfNmw0NWE3R25tTHlmWHM4QzlrLUdWQkxoa1ZiZjJIOVFCcU0yT0o2RHpmeC1mWWZRaDhKcDhaWkpHV2RXMVVRbzhBM2dJWnNnSUNONEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeThKREVBVmoxNEJuUUxDbU44VUVhLUJ2TVdOX3Y0bVNfMTZfMUNfTGZxMzRLNHh1SXgxTWVPWXFzSjhmV0ZJV0loMUxGUVF5TjlfNmw0NWE3R25tTHlmWHM4QzlrLUdWQkxoa1ZiZjJIOVFCcU0yT0o2RHpmeC1mWWZRaDhKcDhaWkpHV2RXMVVRbzhBM2dJWnNnSUNONEk?oc=5\" target=\"_blank\">SAP Business Data Cloud Connect for Microsoft Fabric</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAP News Center</font>",
+      "published": "2025-11-18T16:03:53+00:00",
+      "source": "SAP News Center"
     },
     {
       "title": "Microsoft and Amazon Are Downgraded as Redburn Breaks Ranks With Peers - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1Fqakt2dDh5Z3dldUE0VEt4VVJZaWJEWjA5VWQyVlV5Vl82c1lWd3VYWTNrWWdsLWJmNkNHRC1NMjc4WG5uQzR1b2hpS3NmM0xfMDFOa0VoOW9ORVpmalJhcGRwSkFTX0RnaXFfbzdYRGdQTFMySlE1N09xWGFyWUNod1pkZlM0eXkyZ3NUM1hNQUx6UFdfdG85YnpfZG1ldUppLXQyOFc4Tkl6Q2pfV1Viaw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1Fqakt2dDh5Z3dldUE0VEt4VVJZaWJEWjA5VWQyVlV5Vl82c1lWd3VYWTNrWWdsLWJmNkNHRC1NMjc4WG5uQzR1b2hpS3NmM0xfMDFOa0VoOW9ORVpmalJhcGRwSkFTX0RnaXFfbzdYRGdQTFMySlE1N09xWGFyWUNod1pkZlM0eXkyZ3NUM1hNQUx6UFdfdG85YnpfZG1ldUppLXQyOFc4Tkl6Q2pfV1Viaw?oc=5\" target=\"_blank\">Microsoft and Amazon Are Downgraded as Redburn Breaks Ranks With Peers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-18T10:45:05+00:00",
+      "published": "2025-11-18T14:52:10+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "EU probes Amazon, Microsoft's cloud services for potential curbs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQWFXam1ndHVfS3RuUmIyRVh3bVBTdm5udzI2eUFWemkzTjE5UXBWSXp2cjJVckZZV2dfMjd5Q2NlUDR0ZloyQ1JTaDZBa0wxbjM1Q3lJZTFaSERWZ0RzSVRjbW85MnhTam9USnNoZmJWZDROUDEtYWZBQjd6ZlVNYVVFbjRUak1PV3pCTnd6UmQ5c1MzYTY0R3pUTl9XUHlDUG13bTIwcTVhYS1lWXVGcVJoQTVlTXNVQUtzZmhSakc1bmprbmxRamdIc0p0RVBqdXZaZnhwVjVHam1ORzB3aA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQWFXam1ndHVfS3RuUmIyRVh3bVBTdm5udzI2eUFWemkzTjE5UXBWSXp2cjJVckZZV2dfMjd5Q2NlUDR0ZloyQ1JTaDZBa0wxbjM1Q3lJZTFaSERWZ0RzSVRjbW85MnhTam9USnNoZmJWZDROUDEtYWZBQjd6ZlVNYVVFbjRUak1PV3pCTnd6UmQ5c1MzYTY0R3pUTl9XUHlDUG13bTIwcTVhYS1lWXVGcVJoQTVlTXNVQUtzZmhSakc1bmprbmxRamdIc0p0RVBqdXZaZnhwVjVHam1ORzB3aA?oc=5\" target=\"_blank\">EU probes Amazon, Microsoft's cloud services for potential curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-11-18T10:35:24+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "EU probes Amazon, Microsoft's cloud services for potential curbs - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkJaYlpxQUdFRXFzX1J1Z3JqQ0RtUnM4Z0FLR3hQeklIVG5yTTF4cGo4M2pIQ0xDQXpYOW45bUt6ckM3cWlwZU9nOGtTTno5SXcyV3FEQW9pb1dCX3l2OEhOTy10YWUtYThoZE5ydGJZbFVpQVlmQ2QtSFJsYTNhcjlldWtxQ1UtdjBELW16c2pnYkhXZWN5SVpBUXdUMWtf0gGmAUFVX3lxTE5uYjRMRTNEQWY4bG9QQThoTVE0LWZza0YxR01scVowaC10Z3BmSGJGaXM5ZEtOYldDWGt0S2ZMbXJBNHh0VEVhV09ZUmtTeXdpUjk0RzZYQjNzbHEyb0dxZnRmUmVKSzM2T1JXN2ZJMDNaMUlIaldlX3lZNDFaLWw3eHIyYUNCS01HU2g3bTdRVVFzUk8zclJTcG42amQ1aU1JWEh1aFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkJaYlpxQUdFRXFzX1J1Z3JqQ0RtUnM4Z0FLR3hQeklIVG5yTTF4cGo4M2pIQ0xDQXpYOW45bUt6ckM3cWlwZU9nOGtTTno5SXcyV3FEQW9pb1dCX3l2OEhOTy10YWUtYThoZE5ydGJZbFVpQVlmQ2QtSFJsYTNhcjlldWtxQ1UtdjBELW16c2pnYkhXZWN5SVpBUXdUMWtf0gGmAUFVX3lxTE5uYjRMRTNEQWY4bG9QQThoTVE0LWZza0YxR01scVowaC10Z3BmSGJGaXM5ZEtOYldDWGt0S2ZMbXJBNHh0VEVhV09ZUmtTeXdpUjk0RzZYQjNzbHEyb0dxZnRmUmVKSzM2T1JXN2ZJMDNaMUlIaldlX3lZNDFaLWw3eHIyYUNCS01HU2g3bTdRVVFzUk8zclJTcG42amQ1aU1JWEh1aFE?oc=5\" target=\"_blank\">EU probes Amazon, Microsoft's cloud services for potential curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-11-18T11:00:05+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Amazon and Microsoft Swing Lower as Europe Launches Cloud ‘Gatekeeper’ Probe - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXE0QkpUOGdxTnd5OGd1akc4eWh6NXZfNUFWckZQM3VtMmI2SkhmdWszWlIyR19pbkREc2dWSnhsZW56Rm5hVVNoMy16dGwySVRqem1tXzVzMzNLZUVIaFlCTW5sSkJvSTRpUHNFZkZkVnp5dG1wRUl0YlBIQ3NFRjlnd0ZVTHgwZzV4NlU3dlVKZUltNjF4czQtcURodFBOWDQ1bXMwSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXE0QkpUOGdxTnd5OGd1akc4eWh6NXZfNUFWckZQM3VtMmI2SkhmdWszWlIyR19pbkREc2dWSnhsZW56Rm5hVVNoMy16dGwySVRqem1tXzVzMzNLZUVIaFlCTW5sSkJvSTRpUHNFZkZkVnp5dG1wRUl0YlBIQ3NFRjlnd0ZVTHgwZzV4NlU3dlVKZUltNjF4czQtcURodFBOWDQ1bXMwSQ?oc=5\" target=\"_blank\">Amazon and Microsoft Swing Lower as Europe Launches Cloud ‘Gatekeeper’ Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2025-11-18T11:24:32+00:00",
-      "source": "TipRanks"
-    },
-    {
-      "title": "Protiviti Receives 2025-2026 Microsoft AI Business Solutions Inner Circle Award - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkpLWW9wbGdlNnlnSnJXbFp0eGd6SlgtZmdudDY5YzNnRGNSaDI2aUt1WGVHaXRraVVfaGtORGZtR3RKVURjVkRsdlVGWUhzZHQ4Tlg2Qy01c0xUb3B3bUpxYVJxR1k1ckFjYXFnQ3QzV1FGQTkwUVVtQ0s2bFBiR29CTjlYdk5mLXpIaQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkpLWW9wbGdlNnlnSnJXbFp0eGd6SlgtZmdudDY5YzNnRGNSaDI2aUt1WGVHaXRraVVfaGtORGZtR3RKVURjVkRsdlVGWUhzZHQ4Tlg2Qy01c0xUb3B3bUpxYVJxR1k1ckFjYXFnQ3QzV1FGQTkwUVVtQ0s2bFBiR29CTjlYdk5mLXpIaQ?oc=5\" target=\"_blank\">Protiviti Receives 2025-2026 Microsoft AI Business Solutions Inner Circle Award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-18T12:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Levi’s Launches Into AI-tinged Future With Microsoft ‘Super-agent’ - WWD",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOblc2ZjF5N1FiOG0zdUt5d29vT3lKVnlIWWtjTkJ0SG5GWFEyS0NYekIxMmJoX1dlUDZKRHU2aUxkRjhncUdyV25IN1ctNFcySzdRdWlqSkFJcDRTVU9XSzZkWWJKQllDbmIxbHdpU0NuWHZSN2hka21QaTZIdnNUbThCSEZSdHdyMXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOblc2ZjF5N1FiOG0zdUt5d29vT3lKVnlIWWtjTkJ0SG5GWFEyS0NYekIxMmJoX1dlUDZKRHU2aUxkRjhncUdyV25IN1ctNFcySzdRdWlqSkFJcDRTVU9XSzZkWWJKQllDbmIxbHdpU0NuWHZSN2hka21QaTZIdnNUbThCSEZSdHdyMXc?oc=5\" target=\"_blank\">Levi’s Launches Into AI-tinged Future With Microsoft ‘Super-agent’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>",
-      "published": "2025-11-17T14:42:22+00:00",
-      "source": "WWD"
+      "title": "IBM Consulting Advantage Integrates with Microsoft Copilot to Drive Smarter, Faster Workflows with Enterprise AI - IBM Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRHJDRFRLSm5wN0cyUjJib0tPYzJtclZ1WnRvM3NQeXBTajZ6RmItU0pmUGRPWW9FZWNjWWtRWDZ6Z09XeVpBUDAzaEVVZnZFWW5sYlE1c3U2TUp2b1B1RDV3ZzYzNUhrUWhJZGk5dFJPaGg3OWQxajF4OExPS2VoaDFRb0VRRXJyRlN3ajJBdHhCX1F1Y0w0T05IWEUzOHJLNm0ydFBMdVJ5MTNwTjdqZ19HNUwzaVJDOFR5NmIzY2U1dy1VVDV5RlJqMVRfSXcxUkR4bVdBdUoxQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRHJDRFRLSm5wN0cyUjJib0tPYzJtclZ1WnRvM3NQeXBTajZ6RmItU0pmUGRPWW9FZWNjWWtRWDZ6Z09XeVpBUDAzaEVVZnZFWW5sYlE1c3U2TUp2b1B1RDV3ZzYzNUhrUWhJZGk5dFJPaGg3OWQxajF4OExPS2VoaDFRb0VRRXJyRlN3ajJBdHhCX1F1Y0w0T05IWEUzOHJLNm0ydFBMdVJ5MTNwTjdqZ19HNUwzaVJDOFR5NmIzY2U1dy1VVDV5RlJqMVRfSXcxUkR4bVdBdUoxQQ?oc=5\" target=\"_blank\">IBM Consulting Advantage Integrates with Microsoft Copilot to Drive Smarter, Faster Workflows with Enterprise AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM Newsroom</font>",
+      "published": "2025-11-18T14:05:37+00:00",
+      "source": "IBM Newsroom"
     }
   ],
   "product_launches": [
     {
-      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-04-30T07:00:00+00:00",
+      "title": "Microsoft Ignite 2025: Copilot and agents built to power the Frontier Firm - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1BvOERnNktIWWRmTU10aTVyN0MyR1JrSkg4VG9vVkZ4aTVjTWprWHB1c0pYZ1NfN3VqdEk1MUdwUDc3R2c0ZDZZbC1UeTVTMFgwUmVFYWFzdFJocjhUcWo3cEJseHpCLUpaUzVZcHp6TW1LUFlEeURTVVlERENiUzdmdGhiYkxoaTNXNG5wUW1nUUU0ZnpRRGJ0SW11WlpSbHZ2bjZaXzBBNGFmTGpVZkpNY0YwTzhrS3U2Q2x1cjVtUmRYamRPM3ZhYkJnd1ZjS1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1BvOERnNktIWWRmTU10aTVyN0MyR1JrSkg4VG9vVkZ4aTVjTWprWHB1c0pYZ1NfN3VqdEk1MUdwUDc3R2c0ZDZZbC1UeTVTMFgwUmVFYWFzdFJocjhUcWo3cEJseHpCLUpaUzVZcHp6TW1LUFlEeURTVVlERENiUzdmdGhiYkxoaTNXNG5wUW1nUUU0ZnpRRGJ0SW11WlpSbHZ2bjZaXzBBNGFmTGpVZkpNY0YwTzhrS3U2Q2x1cjVtUmRYamRPM3ZhYkJnd1ZjS1E?oc=5\" target=\"_blank\">Microsoft Ignite 2025: Copilot and agents built to power the Frontier Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-11-18T16:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "DevRev Launches Integration with Microsoft Fabric to Help Enterprises Unify Data for AI Workflows - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZW04OFV1NndhSUpQZjk2azdYOUJFbHpIX1k2Vlc2d0hDbUlkcEZxcUViU3N0V2R1MEZrVi1jOEVUMVhzYkctalRzQnh1LU5yaUlPamRENVZSMVJwVHVYY3lUS0xGRGpaTmxaT19nem1mRHh3MHFkS0NFd3lGalF0enNpN1RjZ0Vwa2k1TlRMSWx6R0RIZXJfaGRPcDNqVmU1WXRldHVycFFCZ2NaZ21VR1doUm5fYW9XYVBhYllUUVRXVS0xTDNid0FGNHYtZDN0WTJhSXlZcGc5c2pJTzlhdk5qZF9lbjJMQVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZW04OFV1NndhSUpQZjk2azdYOUJFbHpIX1k2Vlc2d0hDbUlkcEZxcUViU3N0V2R1MEZrVi1jOEVUMVhzYkctalRzQnh1LU5yaUlPamRENVZSMVJwVHVYY3lUS0xGRGpaTmxaT19nem1mRHh3MHFkS0NFd3lGalF0enNpN1RjZ0Vwa2k1TlRMSWx6R0RIZXJfaGRPcDNqVmU1WXRldHVycFFCZ2NaZ21VR1doUm5fYW9XYVBhYllUUVRXVS0xTDNid0FGNHYtZDN0WTJhSXlZcGc5c2pJTzlhdk5qZF9lbjJMQVE?oc=5\" target=\"_blank\">DevRev Launches Integration with Microsoft Fabric to Help Enterprises Unify Data for AI Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+      "published": "2025-11-18T20:00:00+00:00",
+      "source": "Business Wire"
+    },
+    {
+      "title": "Vertex Inc. Launches Configuration Agent for Microsoft Dynamics 365 to Enhance Tax Automation and Compliance - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY25IWlhqWDBwN19PcmYwX0NnbzU2MHFiUnhacFJab3JKcXdkWGZxUDR1Vy1aSlRidER2Y205ODhQNEJMcVpBeHBMLUh5QWtGbllVNUo5R09mQ09TZ181RTZta1dybUNmTEFEME9fSkEwQUo4S3Y4emVtOFpxRFVvX3hlMnFodGwyVUlwdGRqU1BPUklTOTFPSlkxTjgzS0RBS1FLN1p5NF9mY2Zhcm5CQ2o1SDlaYlJneTIzYlFVdWNtNTNDRzlmLXJxRF9aSnpmMlE2WUswMEQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY25IWlhqWDBwN19PcmYwX0NnbzU2MHFiUnhacFJab3JKcXdkWGZxUDR1Vy1aSlRidER2Y205ODhQNEJMcVpBeHBMLUh5QWtGbllVNUo5R09mQ09TZ181RTZta1dybUNmTEFEME9fSkEwQUo4S3Y4emVtOFpxRFVvX3hlMnFodGwyVUlwdGRqU1BPUklTOTFPSlkxTjgzS0RBS1FLN1p5NF9mY2Zhcm5CQ2o1SDlaYlJneTIzYlFVdWNtNTNDRzlmLXJxRF9aSnpmMlE2WUswMEQ?oc=5\" target=\"_blank\">Vertex Inc. Launches Configuration Agent for Microsoft Dynamics 365 to Enhance Tax Automation and Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "published": "2025-11-18T20:12:00+00:00",
+      "source": "Quiver Quantitative"
     },
     {
       "title": "Wiz and Microsoft alumni launch Mate with $15.5M Seed to build AI-native security operations - CTech",
@@ -77,39 +91,21 @@
       "source": "CTech"
     },
     {
-      "title": "Microsoft once launched a useless product, and only 3 units were truly sold - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWQXpaV21TcldMQWlubTI0SW9saUVMZFNzRnptU3FZNkwzLTQxczRKNDhLUEtqQ0h5ZHYxdW5YZ3hsTWpEQjJFbnZUUGZ0YmlWcHdpaktCUVlDdkp1SGZyWUFXYzlYS3hpYkh1VlEzQUl0LUYwdWFFdTFkbW1xOV9nUm5ZcGo3WVQxLXkxYXBYUG5aVy1qUHNPUjNCS2I4aDlPWU81dGRKalB3R3NxWGo2MFN5MmtXNHpkYk1LMEkyeVlyNWlNMDk1bkd5RDNXRzM1bndPN3dQYlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWQXpaV21TcldMQWlubTI0SW9saUVMZFNzRnptU3FZNkwzLTQxczRKNDhLUEtqQ0h5ZHYxdW5YZ3hsTWpEQjJFbnZUUGZ0YmlWcHdpaktCUVlDdkp1SGZyWUFXYzlYS3hpYkh1VlEzQUl0LUYwdWFFdTFkbW1xOV9nUm5ZcGo3WVQxLXkxYXBYUG5aVy1qUHNPUjNCS2I4aDlPWU81dGRKalB3R3NxWGo2MFN5MmtXNHpkYk1LMEkyeVlyNWlNMDk1bkd5RDNXRzM1bndPN3dQYlE?oc=5\" target=\"_blank\">Microsoft once launched a useless product, and only 3 units were truly sold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
-      "published": "2025-11-16T14:05:00+00:00",
-      "source": "TechRadar"
-    },
-    {
       "title": "Microsoft launches Discovery platform at NJ AI Hub - NJBIZ",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5\" target=\"_blank\">Microsoft launches Discovery platform at NJ AI Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJBIZ</font>",
       "published": "2025-10-30T07:00:00+00:00",
       "source": "NJBIZ"
-    },
-    {
-      "title": "Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5\" target=\"_blank\">Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-10-09T07:00:00+00:00",
-      "source": "Microsoft"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-11-17",
-      "close": 507.489990234375
+      "date": "2025-11-18",
+      "close": 493.7900085449219
     },
     "history": [
-      {
-        "date": "2025-11-07",
-        "close": 496.82000732421875
-      },
       {
         "date": "2025-11-10",
         "close": 506.0
@@ -133,6 +129,10 @@
       {
         "date": "2025-11-17",
         "close": 507.489990234375
+      },
+      {
+        "date": "2025-11-18",
+        "close": 493.7900085449219
       }
     ],
     "name": "Microsoft Corporation"

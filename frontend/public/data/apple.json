@@ -2,7 +2,7 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-11-18T12:24:22.776683+00:00",
+  "fetched_at": "2025-11-19T12:23:31.886563+00:00",
   "news": [
     {
       "title": "The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com",
@@ -12,63 +12,56 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "Apple loses iPhone Air designer to unnamed AI startup - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaU13VnRQczRDeUxDQUhUQ2Z3a2dMckhNa3YwY0Q5TVlXUm5WNnlITm56bG5fcGRZMHhfLXIxM241SE1ubFRwWHczLWg4anFxdVR0QVBnQjZiT29vd21vc0hTMEVGUHk2NmppR1ZqWDBWakN3MV9pZUdJb3cycl9fay0xX05zQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaU13VnRQczRDeUxDQUhUQ2Z3a2dMckhNa3YwY0Q5TVlXUm5WNnlITm56bG5fcGRZMHhfLXIxM241SE1ubFRwWHczLWg4anFxdVR0QVBnQjZiT29vd21vc0hTMEVGUHk2NmppR1ZqWDBWakN3MV9pZUdJb3cycl9fay0xX05zQQ?oc=5\" target=\"_blank\">Apple loses iPhone Air designer to unnamed AI startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2025-11-18T00:23:00+00:00",
+      "title": "The iPhone Air can't catch a break: The key designer behind the struggling ultrathin phone just left Apple for an AI startup - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeG03M3kxSHFlV0pLckhMZkZuc2VaMTlrWmRBVWFkZGlzSDM1T1lYVk1fZ1QyRzlrVE5QUXdQOE9maTZra0FieXA4eHlMZTdYb0wwQ3JIa3pCQXRiYUlIQUNRbzFuZkdheldSN2NxYy1qX0JZcElaSTVyX0o5VjlwYmZiZEllcWNjN2tldlA4T1lIbEhFRDRZSGNnSDE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeG03M3kxSHFlV0pLckhMZkZuc2VaMTlrWmRBVWFkZGlzSDM1T1lYVk1fZ1QyRzlrVE5QUXdQOE9maTZra0FieXA4eHlMZTdYb0wwQ3JIa3pCQXRiYUlIQUNRbzFuZkdheldSN2NxYy1qX0JZcElaSTVyX0o5VjlwYmZiZEllcWNjN2tldlA4T1lIbEhFRDRZSGNnSDE?oc=5\" target=\"_blank\">The iPhone Air can't catch a break: The key designer behind the struggling ultrathin phone just left Apple for an AI startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2025-11-18T19:32:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Abidur Chowdhury, Designer Of iPhone Air, Leaves Apple For AI Startup: Report - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHZkS2Nuc1FyU2hnbWJFTl9YMHJZd21NanNkeHdsT05xNFlCSW43UGczTGVWYU95d0pOdHRsaUR4T21xMHJtcmtWMWRxelF6WlpySFVhM05mMzhhUHcyUm43dEVTU0Etbm42WkVvTzVDZTJNUGtkQUpZZ0QyZnRKVFFWakc5Q3NoSWE5ZnFMaUVIdDdkNG5tVk43UHZVdUhWc1RXSzZnSVNyZ2prWktLdtIBuAFBVV95cUxPaU44Y3pvS0pWUXYwRm1VUVJheFNmSlctSF8weVB5Ti0yVHFTY3pHaEVPNlJvOHVuZFpITmk0MGw2a3ZWZWlPYjd5YUQ0TXpNZlpuQjJMSmN0b0FpdzBYSnlwTThjeHV3dmFMbHNibEZGdldLcFJFOWVxaHlXRHNMenBTeWE1Zlh0NF80aXJNSXdzTkx4T2FkWkVLN3RSQUdBM2gtajdSXzAxVVBiOGR0SkhJcWFHY2VI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHZkS2Nuc1FyU2hnbWJFTl9YMHJZd21NanNkeHdsT05xNFlCSW43UGczTGVWYU95d0pOdHRsaUR4T21xMHJtcmtWMWRxelF6WlpySFVhM05mMzhhUHcyUm43dEVTU0Etbm42WkVvTzVDZTJNUGtkQUpZZ0QyZnRKVFFWakc5Q3NoSWE5ZnFMaUVIdDdkNG5tVk43UHZVdUhWc1RXSzZnSVNyZ2prWktLdtIBuAFBVV95cUxPaU44Y3pvS0pWUXYwRm1VUVJheFNmSlctSF8weVB5Ti0yVHFTY3pHaEVPNlJvOHVuZFpITmk0MGw2a3ZWZWlPYjd5YUQ0TXpNZlpuQjJMSmN0b0FpdzBYSnlwTThjeHV3dmFMbHNibEZGdldLcFJFOWVxaHlXRHNMenBTeWE1Zlh0NF80aXJNSXdzTkx4T2FkWkVLN3RSQUdBM2gtajdSXzAxVVBiOGR0SkhJcWFHY2VI?oc=5\" target=\"_blank\">Abidur Chowdhury, Designer Of iPhone Air, Leaves Apple For AI Startup: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+      "published": "2025-11-18T15:59:48+00:00",
+      "source": "NDTV"
+    },
+    {
+      "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmoyWU5GYmxjdGltZjhBX3V4dXgzNzFKM25lZExBWDVFcXpHUk13Y25RLTRXNFl1MFNtakU5Q3N4b0FuX0wwMnc4b1VBTENFbFY3alBjM0NjSXlNNzFmaHJkZE9ZMEhlc0cyeU5INGM2c3JjUUdXSWdnWS1COUNQMXk3bw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmoyWU5GYmxjdGltZjhBX3V4dXgzNzFKM25lZExBWDVFcXpHUk13Y25RLTRXNFl1MFNtakU5Q3N4b0FuX0wwMnc4b1VBTENFbFY3alBjM0NjSXlNNzFmaHJkZE9ZMEhlc0cyeU5INGM2c3JjUUdXSWdnWS1COUNQMXk3bw?oc=5\" target=\"_blank\">The Apple deals worth shopping before Black Friday (and the discounts to expect)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-11-18T23:49:39+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "There’s a new No. 1 podcast in America, Apple says - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGUwNFNOYjllR21nVU50ZFlTbUc4a0c2aHRGLUJaOHppTThEQ21lSGVKbjNRSnZOOGd4ZzFBdm9oT2ktV3R4VXo2c2lRcFVIcExybTlMYjNkZFNLWERoekRUZWhLOUd1cl82d2phN2N2SHZ6Mk93ZkhnVTgwbFZrczMtamRzZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGUwNFNOYjllR21nVU50ZFlTbUc4a0c2aHRGLUJaOHppTThEQ21lSGVKbjNRSnZOOGd4ZzFBdm9oT2ktV3R4VXo2c2lRcFVIcExybTlMYjNkZFNLWERoekRUZWhLOUd1cl82d2phN2N2SHZ6Mk93ZkhnVTgwbFZrczMtamRzZw?oc=5\" target=\"_blank\">There’s a new No. 1 podcast in America, Apple says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2025-11-18T17:39:08+00:00",
+      "source": "CNN"
+    },
+    {
+      "title": "Joe Rogan Had the Most Popular Podcast On Apple in 2025 (Exclusive) - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT25VQUtoakxOYWdDOTFyNUtQZlR4NjhSSXhrQXdaUDNCYkFwRUJMLWRaUWtSTlJZZVV0S0FaTUhYRTFiTVk0OTcyc3plUHhIUnpxbG5ORVdMdllnRjJWQ3RSV2lpdzZYaS1mT1VQTWpMUHc4RnBUUkhQb2xxdUl3WUVzYnItSXNGQmhvdjMxc2wyRjdXR1NhXzUxT2ZjRU5hVnBQYlU3Nm9va0FNVHl4cS1ZYnFoMGRrTERxQU14THVnbjJCSXVuY2U2MTREems?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOT25VQUtoakxOYWdDOTFyNUtQZlR4NjhSSXhrQXdaUDNCYkFwRUJMLWRaUWtSTlJZZVV0S0FaTUhYRTFiTVk0OTcyc3plUHhIUnpxbG5ORVdMdllnRjJWQ3RSV2lpdzZYaS1mT1VQTWpMUHc4RnBUUkhQb2xxdUl3WUVzYnItSXNGQmhvdjMxc2wyRjdXR1NhXzUxT2ZjRU5hVnBQYlU3Nm9va0FNVHl4cS1ZYnFoMGRrTERxQU14THVnbjJCSXVuY2U2MTREems?oc=5\" target=\"_blank\">Joe Rogan Had the Most Popular Podcast On Apple in 2025 (Exclusive)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
+      "published": "2025-11-18T12:30:28+00:00",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "title": "Apple today shares the most popular (and best) podcasts of 2025 - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFNlMVVOQlBWRllxUlBNZ0diTVU0Q1JJUmtoSUo0am5lYmpISFZsR1lCNFlwemI3UFJXb0JjYjNfTjJsNVpsOWhJVzJDTkRsSERJU3JySHBKeDlxeWVJcHp1NVFMYVZqVy0wR1ktdFhnOE1TcmtQTGxsU1d6S18tYVpwQ3RDeF9KektWeXZfdG5oVy0xNUpMQg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFNlMVVOQlBWRllxUlBNZ0diTVU0Q1JJUmtoSUo0am5lYmpISFZsR1lCNFlwemI3UFJXb0JjYjNfTjJsNVpsOWhJVzJDTkRsSERJU3JySHBKeDlxeWVJcHp1NVFMYVZqVy0wR1ktdFhnOE1TcmtQTGxsU1d6S18tYVpwQ3RDeF9KektWeXZfdG5oVy0xNUpMQg?oc=5\" target=\"_blank\">Apple today shares the most popular (and best) podcasts of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2025-11-18T13:15:00+00:00",
       "source": "9to5Mac"
     },
     {
-      "title": "Abidur Chowdhury, the designer who introduced Apple’s thinnest iPhone on stage, quits; Why his exit matte - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMHhGdGhZTU03RFlHRzFIek5yTlB1MzZTel9XOEozdV95YTJ6a2g0Z0NVWWlxUjRiOE45YmQ2ZUZpQkYzMExESHRDQkFMcm9xQzFDSVlJT0htQzFsd0lmM3lrT3NIR3pIRW5yNks5a0phMnYzbkxKM2R3UUdFLWRuWm1ybC1UNXpaM1J0VHcwd2JHbWd4RVNiVExEaU92YmRBRGxPaTBYc2hIZVVpdDVPWWlOTUJZb1dzT05pLTN4RGJrUmRobFphbXl3WmxQdHVCOGFYZFVBRlpVdHRQX0lfcjJOcW1CcDhkYmdiNHkxaGhNTEgzaUQ1MTg2ZllyLTZUQTRXbjVfdFgtQjREcmZfX1UtN3jSAZoCQVVfeXFMT2w3cDFxSEs3RlpYZnhsYzJ5azBZdEVqTHhwV1Q2NFdONTFnZ1dnVkFHWERjdHJsZnJKaTVyOEFzVS10bThmSDJiTUdPS3VtN09QQm5mdjZMMnN6WnBRUV9ZeU1IQjVhaGozeS1kTGp5NWVXOEtrMTNyemVSdjRHRDBmQmdwZDhsaGtlUVpOVEpJUGJ2YzFBUldIdG15WGNqbXZ1Qk9TNms5UmVXVk96ME9oUkxoX2xkaGJaZmwtUmlrQmQ5Vk5PV0Itek4xQTBzN2kwR0s5ZVVEeFoyaXFGZWdzcld6ekt6Z2RKZTBBTmVBTWVkdzEyYkttdmhQc0ZBWkE3SWpRb00xZmxVRmxYZVZoVm1lUUF4dWt3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQMHhGdGhZTU03RFlHRzFIek5yTlB1MzZTel9XOEozdV95YTJ6a2g0Z0NVWWlxUjRiOE45YmQ2ZUZpQkYzMExESHRDQkFMcm9xQzFDSVlJT0htQzFsd0lmM3lrT3NIR3pIRW5yNks5a0phMnYzbkxKM2R3UUdFLWRuWm1ybC1UNXpaM1J0VHcwd2JHbWd4RVNiVExEaU92YmRBRGxPaTBYc2hIZVVpdDVPWWlOTUJZb1dzT05pLTN4RGJrUmRobFphbXl3WmxQdHVCOGFYZFVBRlpVdHRQX0lfcjJOcW1CcDhkYmdiNHkxaGhNTEgzaUQ1MTg2ZllyLTZUQTRXbjVfdFgtQjREcmZfX1UtN3jSAZoCQVVfeXFMT2w3cDFxSEs3RlpYZnhsYzJ5azBZdEVqTHhwV1Q2NFdONTFnZ1dnVkFHWERjdHJsZnJKaTVyOEFzVS10bThmSDJiTUdPS3VtN09QQm5mdjZMMnN6WnBRUV9ZeU1IQjVhaGozeS1kTGp5NWVXOEtrMTNyemVSdjRHRDBmQmdwZDhsaGtlUVpOVEpJUGJ2YzFBUldIdG15WGNqbXZ1Qk9TNms5UmVXVk96ME9oUkxoX2xkaGJaZmwtUmlrQmQ5Vk5PV0Itek4xQTBzN2kwR0s5ZVVEeFoyaXFGZWdzcld6ekt6Z2RKZTBBTmVBTWVkdzEyYkttdmhQc0ZBWkE3SWpRb00xZmxVRmxYZVZoVm1lUUF4dWt3?oc=5\" target=\"_blank\">Abidur Chowdhury, the designer who introduced Apple’s thinnest iPhone on stage, quits; Why his exit matte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "published": "2025-11-18T10:27:00+00:00",
-      "source": "The Times of India"
-    },
-    {
-      "title": "Apple Planning Largest-Ever Upgrade to iPhone - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmpSeUZfUnZOUjU5dTVYdnBRWWRBTHNFYURPNzhwdk02bTBSTnJnYjJOQlRrU2xmaFROUDNWMi1KczlyYzV5V1dBVG03UHpJZTZXaldUU0lkUnBOUkU1eUdNWXBpcHhJR1FMNmlFQVNMWmlnWU1Fa2lBX0dsTGdQdmVDVGlGVG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmpSeUZfUnZOUjU5dTVYdnBRWWRBTHNFYURPNzhwdk02bTBSTnJnYjJOQlRrU2xmaFROUDNWMi1KczlyYzV5V1dBVG03UHpJZTZXaldUU0lkUnBOUkU1eUdNWXBpcHhJR1FMNmlFQVNMWmlnWU1Fa2lBX0dsTGdQdmVDVGlGVG8?oc=5\" target=\"_blank\">Apple Planning Largest-Ever Upgrade to iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "published": "2025-11-17T00:58:42+00:00",
-      "source": "PYMNTS.com"
-    },
-    {
-      "title": "Apple takes 25% share of China smartphone market in October on iPhone 17 demand - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0doRHVCRGhlYUNWMmtoTWN2dVB5NzRubnpRQnVLaFZPR3ozS2dfTzZMVWtOQTcxQnpZWm9TZ254WTc0am1rRDVYOUNXc2REamtZeVdlRkFkYTZMWWdUYTlrTHhmVWM0MWdaNERzdFVYN0dIUkVWck9aRDlCZmpSRVl4TXJHMDlndmZhWWZpYUs2amwxTVVuODZMWDJIZ3VWSGdwOWIxdE5jR1FmNlZJSmU0QS16Zl9p?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0doRHVCRGhlYUNWMmtoTWN2dVB5NzRubnpRQnVLaFZPR3ozS2dfTzZMVWtOQTcxQnpZWm9TZ254WTc0am1rRDVYOUNXc2REamtZeVdlRkFkYTZMWWdUYTlrTHhmVWM0MWdaNERzdFVYN0dIUkVWck9aRDlCZmpSRVl4TXJHMDlndmZhWWZpYUs2amwxTVVuODZMWDJIZ3VWSGdwOWIxdE5jR1FmNlZJSmU0QS16Zl9p?oc=5\" target=\"_blank\">Apple takes 25% share of China smartphone market in October on iPhone 17 demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-11-18T08:20:25+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple’s iPhone Sales Surge in China to Take 25% Market Share - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXptbVE3ckxudTdGbmI5dDFybVhuYlNPck9CMDYwUE9pQ1ZVSURaUXpvOVNaa1ZlVERfcV8zejZvQzJTQ3gzNWhJMGdYSjRJMTg3MHEyY0x0SWk3bWhSZDkzZkhMVTZzbnNrVjVnZVdkMFVxcjQ2N0Q1RWlzUTlIQ3lsT3pfaWtUd2JpY0Z6Zk0xZWhzT09RaEJubWF3X21acngxbVVQZzBBQUN3QXEw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXptbVE3ckxudTdGbmI5dDFybVhuYlNPck9CMDYwUE9pQ1ZVSURaUXpvOVNaa1ZlVERfcV8zejZvQzJTQ3gzNWhJMGdYSjRJMTg3MHEyY0x0SWk3bWhSZDkzZkhMVTZzbnNrVjVnZVdkMFVxcjQ2N0Q1RWlzUTlIQ3lsT3pfaWtUd2JpY0Z6Zk0xZWhzT09RaEJubWF3X21acngxbVVQZzBBQUN3QXEw?oc=5\" target=\"_blank\">Apple’s iPhone Sales Surge in China to Take 25% Market Share</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-18T04:08:00+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple Jumps to 25% Market Share in China - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QLW9EeERyM2hGcTdGbTBkZk1SY1FNQkdhQnBfYTQ4Q2F0QmczRlZReEVjZ3h1RFBIYkZVUTdrVkEzZEhqd25yWDlRUlB5TE9XeHUxUExhZGVqczhYb3ItY1JSeXhMQU1EOXVBcmY2ekpfVmFzcVBtN2NSRlhGdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1QLW9EeERyM2hGcTdGbTBkZk1SY1FNQkdhQnBfYTQ4Q2F0QmczRlZReEVjZ3h1RFBIYkZVUTdrVkEzZEhqd25yWDlRUlB5TE9XeHUxUExhZGVqczhYb3ItY1JSeXhMQU1EOXVBcmY2ekpfVmFzcVBtN2NSRlhGdw?oc=5\" target=\"_blank\">Apple Jumps to 25% Market Share in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-18T11:28:38+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Apple’s Vision Pro Isn’t the Flop It Seems - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblpGOWs2QmlyMUYya2ZveWpuX3pscGtaT3pKOXh4LW50VjhvRkJhS1ZWTzc3Nk9jZnBoV0xzTV9hWHdFZmhaOHg2OTR5WFdFb0EtOEM0WWtmMWRhR3JVNHpzZ09Vb19HcENMcHVGeGlRS0hyODJBcHYxTFZBYWR1dkJWbEF0ak1XS29QcC1OT25vd055UjZEUjQtSHJnNkZmeDRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNblpGOWs2QmlyMUYya2ZveWpuX3pscGtaT3pKOXh4LW50VjhvRkJhS1ZWTzc3Nk9jZnBoV0xzTV9hWHdFZmhaOHg2OTR5WFdFb0EtOEM0WWtmMWRhR3JVNHpzZ09Vb19HcENMcHVGeGlRS0hyODJBcHYxTFZBYWR1dkJWbEF0ak1XS29QcC1OT25vd055UjZEUjQtSHJnNkZmeDRR?oc=5\" target=\"_blank\">Apple’s Vision Pro Isn’t the Flop It Seems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-18T10:30:36+00:00",
-      "source": "Bloomberg.com"
+      "title": "Why Apple’s stock is beating the market even as the tech sector sells off - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNR1hEWjl4WUNXeEhZRXp6TjhlUGR2Q3JNS1p0MWp3NnoyUW94RFRSWGJyZWczdW5GS3RSWnlNM0ktN3N2Q3J1OFZaYlg0TzM0NXVQVzFZX0NDSm4yV2pDcTNaa1VDeXNwNk9vYkl0blZERkxoMW9YQnlJT3RYQUFnSGhxQkl6U19kVU5nR2dLeEp1b2lyelBjTE1mRUs4WkV2SVRUN2RqQWprQlh6emRqc1A1Z3pHbHhndU96T1dld1l2bFFvXzVKZ0tDZElHcmZZUjZsZWFUVzJZRjJrR0JiLUJPb2RjNmRqaVNsRk9WbDh5QllDbHFJQk96YlhaenB1cDRJN2pDMEVkQmpYb0w5NmMzeGk3a0FaZUQ3T1VfWm8tVjV0dTNOMEItWGxXV2tCd2pOaTY1NE51Y2M2Z05MUHNRcVFpSEVfZkJhVzFUdGxqd2VRcTVxaUlDNXJhMFFFQ1ZWVEtHb2RzcHhmOEM2T05wYTdvdDJGblRXX2lIUzZxaExzbU1pU1FSUVlOYzhqZHpyQU13c1FYd2kzNWVIdlRJaTZYUk9wNzhzOEFEWklOWkJQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitANBVV95cUxNR1hEWjl4WUNXeEhZRXp6TjhlUGR2Q3JNS1p0MWp3NnoyUW94RFRSWGJyZWczdW5GS3RSWnlNM0ktN3N2Q3J1OFZaYlg0TzM0NXVQVzFZX0NDSm4yV2pDcTNaa1VDeXNwNk9vYkl0blZERkxoMW9YQnlJT3RYQUFnSGhxQkl6U19kVU5nR2dLeEp1b2lyelBjTE1mRUs4WkV2SVRUN2RqQWprQlh6emRqc1A1Z3pHbHhndU96T1dld1l2bFFvXzVKZ0tDZElHcmZZUjZsZWFUVzJZRjJrR0JiLUJPb2RjNmRqaVNsRk9WbDh5QllDbHFJQk96YlhaenB1cDRJN2pDMEVkQmpYb0w5NmMzeGk3a0FaZUQ3T1VfWm8tVjV0dTNOMEItWGxXV2tCd2pOaTY1NE51Y2M2Z05MUHNRcVFpSEVfZkJhVzFUdGxqd2VRcTVxaUlDNXJhMFFFQ1ZWVEtHb2RzcHhmOEM2T05wYTdvdDJGblRXX2lIUzZxaExzbU1pU1FSUVlOYzhqZHpyQU13c1FYd2kzNWVIdlRJaTZYUk9wNzhzOEFEWklOWkJQ?oc=5\" target=\"_blank\">Why Apple’s stock is beating the market even as the tech sector sells off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2025-11-18T22:54:00+00:00",
+      "source": "MarketWatch"
     }
   ],
   "product_launches": [
-    {
-      "title": "Apple's New Product Comes in 16\" and 32\" Lengths - Core77",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFQ5c2tvM29wakNCQTFfUmc3TmRkVklXU0huS0VQaC1rd0RONGJlbEhIem9sS3NyVnk2Nmk1WDBsUmljS1JOVUVKY0F4YnRTbEZfVm1wS1RKbWhzSHBwc2FtVVh4dTJpT3dUZ09oX2JMTGNGb05ESmZuYXJnaGZWM2I0TzlRR2Vj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFQ5c2tvM29wakNCQTFfUmc3TmRkVklXU0huS0VQaC1rd0RONGJlbEhIem9sS3NyVnk2Nmk1WDBsUmljS1JOVUVKY0F4YnRTbEZfVm1wS1RKbWhzSHBwc2FtVVh4dTJpT3dUZ09oX2JMTGNGb05ESmZuYXJnaGZWM2I0TzlRR2Vj?oc=5\" target=\"_blank\">Apple's New Product Comes in 16\" and 32\" Lengths</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Core77</font>",
-      "published": "2025-11-17T17:53:47+00:00",
-      "source": "Core77"
-    },
     {
       "title": "Report: Apple to Launch These New Products in 2026 - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGxIaTZobkJ3clBvYjg3Xzg1ZDJKR3I5Ql9zT0o5UzVoSkJjZjRScjJ3ZENyRGttV05jbHRJYU5pTFNrWVhnQVhJampiNTV4MDEwM2I4bjRpSGx1VjNoOWpoMHFHeHY4Q3BBOFZaZFdKLW5tZFZ4WFExSFFLaWNFSFZxODY5d1U?oc=5",
@@ -77,18 +70,18 @@
       "source": "MacRumors"
     },
     {
-      "title": "Apple Inc. | History, Products, Headquarters, & Facts - britannica.com",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5\" target=\"_blank\">Apple Inc. | History, Products, Headquarters, & Facts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">britannica.com</font>",
-      "published": "2025-11-15T22:11:00+00:00",
-      "source": "britannica.com"
+      "title": "Apple's New Product Comes in 16\" and 32\" Lengths - Core77",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFQ5c2tvM29wakNCQTFfUmc3TmRkVklXU0huS0VQaC1rd0RONGJlbEhIem9sS3NyVnk2Nmk1WDBsUmljS1JOVUVKY0F4YnRTbEZfVm1wS1RKbWhzSHBwc2FtVVh4dTJpT3dUZ09oX2JMTGNGb05ESmZuYXJnaGZWM2I0TzlRR2Vj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTFQ5c2tvM29wakNCQTFfUmc3TmRkVklXU0huS0VQaC1rd0RONGJlbEhIem9sS3NyVnk2Nmk1WDBsUmljS1JOVUVKY0F4YnRTbEZfVm1wS1RKbWhzSHBwc2FtVVh4dTJpT3dUZ09oX2JMTGNGb05ESmZuYXJnaGZWM2I0TzlRR2Vj?oc=5\" target=\"_blank\">Apple's New Product Comes in 16\" and 32\" Lengths</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Core77</font>",
+      "published": "2025-11-17T17:53:47+00:00",
+      "source": "Core77"
     },
     {
-      "title": "Apple Plots iPhone Revamp to Reduce Reliance on Annual Fall Launch - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaTm9WT3QyNmtNdkJRWVphcXNPYkpfRV9UTkZOMmdzT1ViNEFxd1IxRVhONDV6UDNGOGhhRFVXQ3ZzeTduS1ZoNjh6Q3RJakNwcmVFbkxTMzdDVU1kYXU1aVNtUUItdi1wWndJRmVVb2NEeG54V240?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBaTm9WT3QyNmtNdkJRWVphcXNPYkpfRV9UTkZOMmdzT1ViNEFxd1IxRVhONDV6UDNGOGhhRFVXQ3ZzeTduS1ZoNjh6Q3RJakNwcmVFbkxTMzdDVU1kYXU1aVNtUUItdi1wWndJRmVVb2NEeG54V240?oc=5\" target=\"_blank\">Apple Plots iPhone Revamp to Reduce Reliance on Annual Fall Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
-      "published": "2025-11-17T14:37:33+00:00",
-      "source": "TechRepublic"
+      "title": "Apple Inc. | History, Products, Headquarters, & Facts - Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5\" target=\"_blank\">Apple Inc. | History, Products, Headquarters, & Facts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+      "published": "2025-11-15T22:11:00+00:00",
+      "source": "Britannica"
     },
     {
       "title": "Is Apple's Valuation Justified After AI Product Launches and a 22% Share Price Gain? - Yahoo Finance",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa01aczR1STZlQkpCWmdFeGI5Sy1WRS1ZN2RYRFcyTG1mSzFnWGRHR0htZUZhQnRtb2NNQU80cWM1YzJETXZOTVJ0SGtzcWxTNGtHcmNhYWNzNU1VajA5LVo5cjZpdzFkREJZejRIU2xtLV9pRTF3bS1FMGE3XzhzX0tCeW54YkxmUHZF?oc=5\" target=\"_blank\">Is Apple's Valuation Justified After AI Product Launches and a 22% Share Price Gain?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2025-11-17T03:13:00+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Plans Samsung-Style Two-Event Launch Cycle for iPhones - SammyGuru",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkZXVjJzemJtTlp0N29tMExoSDg3Mk1Qb0h5ZE5samhmOTJwQnZPV0xHWjBGUUVrYl9sWGItc09mT2RwN2tVVXZ6S3NZOVItanByQklUR21WTVpDY2hSTHdxTGhST3FOYk5rcXg1bDMwV2U5UEYzbVlhS1ZUVmM5R1JMV2JiTkRfb21j?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkZXVjJzemJtTlp0N29tMExoSDg3Mk1Qb0h5ZE5samhmOTJwQnZPV0xHWjBGUUVrYl9sWGItc09mT2RwN2tVVXZ6S3NZOVItanByQklUR21WTVpDY2hSTHdxTGhST3FOYk5rcXg1bDMwV2U5UEYzbVlhS1ZUVmM5R1JMV2JiTkRfb21j?oc=5\" target=\"_blank\">Apple Plans Samsung-Style Two-Event Launch Cycle for iPhones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SammyGuru</font>",
+      "published": "2025-11-19T11:11:24+00:00",
+      "source": "SammyGuru"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2025-11-17",
-      "close": 267.4599914550781
+      "date": "2025-11-18",
+      "close": 267.44000244140625
     },
     "history": [
-      {
-        "date": "2025-11-07",
-        "close": 268.2099914550781
-      },
       {
         "date": "2025-11-10",
         "close": 269.42999267578125
@@ -133,6 +129,10 @@
       {
         "date": "2025-11-17",
         "close": 267.4599914550781
+      },
+      {
+        "date": "2025-11-18",
+        "close": 267.44000244140625
       }
     ],
     "name": "Apple Inc."
