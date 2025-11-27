@@ -2,72 +2,86 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-11-26T12:25:13.727355+00:00",
+  "fetched_at": "2025-11-27T12:24:06.419257+00:00",
   "news": [
     {
-      "title": "The iPhone 17 Effect: Apple To Edge Past Samsung To Become The Apex Smartphone Manufacturer - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1hBVlJIN3BTSHpqZ1VtYTJFZDZvTDJLT21DU2V1YjI3c0N6ZVoya1QwZmc2VW5xV2xnUWdmamowdUhUb0xhazdQeVBnWVdSRlZXVGQ3c2F0a0NGM0R0TTNVU2RCYWJPSUwwQy1OT19lUzJBWDl5ZWdCV2tQQjZ1WDRYcmdONUtzNV9lako4Wk5PZjhxbGFnZlJESzI2SGRxQzh0M1Vza3E4ZGRub000TW530gG3AUFVX3lxTFBUcGZhN0NOT0pVR3UzZG01TTIyZnlDVk85cFVlWEh2Y2hOcXNtV244NUw0b3lXTFFjWl9mVlVJSkJhTF9WV0VCbTNWWDh2UEdzOEFQTVpIMnRCclVCemFaRU1LYVJ1eG83WUNyZmdqR2VRQ0lHQzkyLXh5ZlNDWDVLVDVNWWI0NDl5dzZCamFjYU4tN1RXRzF4eDJ3Zk5SdmNXdEo2Y29oZFJkU1UzNHJDZ243YVA2bw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1hBVlJIN3BTSHpqZ1VtYTJFZDZvTDJLT21DU2V1YjI3c0N6ZVoya1QwZmc2VW5xV2xnUWdmamowdUhUb0xhazdQeVBnWVdSRlZXVGQ3c2F0a0NGM0R0TTNVU2RCYWJPSUwwQy1OT19lUzJBWDl5ZWdCV2tQQjZ1WDRYcmdONUtzNV9lako4Wk5PZjhxbGFnZlJESzI2SGRxQzh0M1Vza3E4ZGRub000TW530gG3AUFVX3lxTFBUcGZhN0NOT0pVR3UzZG01TTIyZnlDVk85cFVlWEh2Y2hOcXNtV244NUw0b3lXTFFjWl9mVlVJSkJhTF9WV0VCbTNWWDh2UEdzOEFQTVpIMnRCclVCemFaRU1LYVJ1eG83WUNyZmdqR2VRQ0lHQzkyLXh5ZlNDWDVLVDVNWWI0NDl5dzZCamFjYU4tN1RXRzF4eDJ3Zk5SdmNXdEo2Y29oZFJkU1UzNHJDZ243YVA2bw?oc=5\" target=\"_blank\">The iPhone 17 Effect: Apple To Edge Past Samsung To Become The Apex Smartphone Manufacturer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
-      "published": "2025-11-25T20:57:00+00:00",
-      "source": "Wccftech"
+      "title": "Apple projected to beat Samsung in smartphone shipments for first time since 2011 - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXJWOE5TOEs3LWFQOHlzdUx4bDQycmpDdGhuMlhKNGV5N2daT3lTMm9hb0doRGVLNXR4aXd6R2duTkdzY1dIMkx5MmU2SzBEU1ptdnRlWXgzUHFjVHJQTVJWSE8yMks2M2NLUHhZa0tpN0dKNmliQWc5alZSRXhmcEVENGdCUHBySldfak53eVRkTlBfUFdzcVN2TzVaejRhMnhsb0RPT2VuUGfSAbABQVVfeXFMTU1sUDBHMU9PRTVWRUtjaHNNZ2hRb3VKME9sOHU1ZVg2N3VOdDR1ZnpTenlheXJsY21oV19DbFpXbzdCMnZxQ0RDcDRTeHp1clBZckxZcnRPT3ZjYXN4QnVoYktZR3ItYlNUQlJPYXRfeGFUdDlWWXJhMGRHOUl2WDJMWk5TZTB2Q3hIQUhxZllUOXU5dlM0Y2dfYklGN1drMHl6WWMxeFJiT2hlYVgxSFg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXJWOE5TOEs3LWFQOHlzdUx4bDQycmpDdGhuMlhKNGV5N2daT3lTMm9hb0doRGVLNXR4aXd6R2duTkdzY1dIMkx5MmU2SzBEU1ptdnRlWXgzUHFjVHJQTVJWSE8yMks2M2NLUHhZa0tpN0dKNmliQWc5alZSRXhmcEVENGdCUHBySldfak53eVRkTlBfUFdzcVN2TzVaejRhMnhsb0RPT2VuUGfSAbABQVVfeXFMTU1sUDBHMU9PRTVWRUtjaHNNZ2hRb3VKME9sOHU1ZVg2N3VOdDR1ZnpTenlheXJsY21oV19DbFpXbzdCMnZxQ0RDcDRTeHp1clBZckxZcnRPT3ZjYXN4QnVoYktZR3ItYlNUQlJPYXRfeGFUdDlWWXJhMGRHOUl2WDJMWk5TZTB2Q3hIQUhxZllUOXU5dlM0Y2dfYklGN1drMHl6WWMxeFJiT2hlYVgxSFg?oc=5\" target=\"_blank\">Apple projected to beat Samsung in smartphone shipments for first time since 2011</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2025-11-26T20:42:00+00:00",
+      "source": "Fox Business"
     },
     {
-      "title": "Apple Set to Become World’s Top Phone Maker, Overtaking Samsung - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVhCZzNQZUJuRjRzUklGcnQ2ZVZBOFUwNGVnLVpPTTRxNEZDd3JWdTFaQ3pMWDF1U1AzT2VZeTRVUDNTRkw1N0xNd0cxc2tkbW9ieHl6dFptdllaME9LazUtRi0xWnQ5SGdrZ3JGOHlkbjZNYzVtYjlBTm5qdUpfaWl6MG9qa2xaRnNodC1mV29ObnBONkZZa0ctM0tyeV9WazhrT09MSFp2UzBPY2Z1QVRkcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVhCZzNQZUJuRjRzUklGcnQ2ZVZBOFUwNGVnLVpPTTRxNEZDd3JWdTFaQ3pMWDF1U1AzT2VZeTRVUDNTRkw1N0xNd0cxc2tkbW9ieHl6dFptdllaME9LazUtRi0xWnQ5SGdrZ3JGOHlkbjZNYzVtYjlBTm5qdUpfaWl6MG9qa2xaRnNodC1mV29ObnBONkZZa0ctM0tyeV9WazhrT09MSFp2UzBPY2Z1QVRkcw?oc=5\" target=\"_blank\">Apple Set to Become World’s Top Phone Maker, Overtaking Samsung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-25T17:10:54+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple iPhone Fold is ready to move to next stage with production of 100 units for EVT testing - PhoneArena",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRGtmVzYtZHRldHNoWG1tOWxBWFF0bTNZbmpIdFA0empYN0hDVkdfUVAwSC11dHNJdF92TXJGeWI0MmFNV3YyaVI5bGVNUFZWMEpCemVGS0dmdkhOaWlUWjJTM1lOSWNBZ19yalBkTzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRGtmVzYtZHRldHNoWG1tOWxBWFF0bTNZbmpIdFA0empYN0hDVkdfUVAwSC11dHNJdF92TXJGeWI0MmFNV3YyaVI5bGVNUFZWMEpCemVGS0dmdkhOaWlUWjJTM1lOSWNBZ19yalBkTzA?oc=5\" target=\"_blank\">Apple iPhone Fold is ready to move to next stage with production of 100 units for EVT testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font>",
-      "published": "2025-11-26T02:28:40+00:00",
-      "source": "PhoneArena"
-    },
-    {
-      "title": "Apple Cuts Jobs Across Its Sales Organization in Rare Layoff - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1N3S2Z1MS1VY0VaS2RFdW0wWWtvWXQtajNwOFI3NG1vTVZ2U1ZyVlN1Ym8wTTFxS2hMcEZ3b2pNajJjOWtTbDg5NWJyRFdudVJzNF9wN295ZkQtZmRfS3owbzNCc2l6QUhxYzZtVTZhN0doU0xRT3JBYVBuQUIwXzJtUTZTLUFXb2RaeXV3SUZScTZabXRLc0p0cG1kcEtTQUdJMjg5aWs0cndFOEk5cEtVY2x5RTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQS1N3S2Z1MS1VY0VaS2RFdW0wWWtvWXQtajNwOFI3NG1vTVZ2U1ZyVlN1Ym8wTTFxS2hMcEZ3b2pNajJjOWtTbDg5NWJyRFdudVJzNF9wN295ZkQtZmRfS3owbzNCc2l6QUhxYzZtVTZhN0doU0xRT3JBYVBuQUIwXzJtUTZTLUFXb2RaeXV3SUZScTZabXRLc0p0cG1kcEtTQUdJMjg5aWs0cndFOEk5cEtVY2x5RTA?oc=5\" target=\"_blank\">Apple Cuts Jobs Across Its Sales Organization in Rare Layoff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-24T19:36:51+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple cuts jobs across sales team - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3lvZEpQdTlqaFI3cW8xbzAwbnJfamRVbEdRVXRhWkFqX0M5MWhhMHpVRTlSVUExNzBGRms1cU5pOE1Sb25LYlJDV1laT2FzTXo2NGx5SDBwQ0U0eV9rcmh4VkY2VjZ5bXNuS2pNQi1Sb1NCYTl5a3dqTWdNWnNSdGt0YUFNaGtUZndKUWMyVFp3TzBlbU0weFAwbzZDWnZuR244ajFaeGJaYlRqT3pTRzlBOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3lvZEpQdTlqaFI3cW8xbzAwbnJfamRVbEdRVXRhWkFqX0M5MWhhMHpVRTlSVUExNzBGRms1cU5pOE1Sb25LYlJDV1laT2FzTXo2NGx5SDBwQ0U0eV9rcmh4VkY2VjZ5bXNuS2pNQi1Sb1NCYTl5a3dqTWdNWnNSdGt0YUFNaGtUZndKUWMyVFp3TzBlbU0weFAwbzZDWnZuR244ajFaeGJaYlRqT3pTRzlBOA?oc=5\" target=\"_blank\">Apple cuts jobs across sales team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-11-24T21:25:04+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple reportedly cuts sales jobs - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnBrTXVHSmQ4YXdwSkIxYWRzdWhUWkpHSTlzTTU3NWxJVTdXZE90VzlCQjVGS3dTMWJILXU0Nll2V011aG11cXZGSUdUNzRLYVROMFFlU2cwWm5Yc1NsSjZ4LW5WVC1jTGlac0xoanRCb0kwaTV2Rm5JLVFkb0t3dlNGX1lXUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnBrTXVHSmQ4YXdwSkIxYWRzdWhUWkpHSTlzTTU3NWxJVTdXZE90VzlCQjVGS3dTMWJILXU0Nll2V011aG11cXZGSUdUNzRLYVROMFFlU2cwWm5Yc1NsSjZ4LW5WVC1jTGlac0xoanRCb0kwaTV2Rm5JLVFkb0t3dlNGX1lXUQ?oc=5\" target=\"_blank\">Apple reportedly cuts sales jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-24T21:14:53+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Microsoft, Oracle, Live Nation, Coinbase & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjRpZDVXYl8tODBOZElvczBfM2VwcUVCV1hzYW5nZG1aOEZQRHZUcUJEX2JzV1NHbjBkb2dGUnhWRlgtWllYZS0xZG1hUUlrYi1NV1Z5dmhqUzZNTXJ6Z1lldll4ZF9qdVVZNjFxYkJfNXZucHM2Z1JCWHNjQ2llWnJJaTNXMEo1cWZiV3FxUm1qR1FIV0hLdnZfN21PN3J4UGJBNi1xc2dYZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjRpZDVXYl8tODBOZElvczBfM2VwcUVCV1hzYW5nZG1aOEZQRHZUcUJEX2JzV1NHbjBkb2dGUnhWRlgtWllYZS0xZG1hUUlrYi1NV1Z5dmhqUzZNTXJ6Z1lldll4ZF9qdVVZNjFxYkJfNXZucHM2Z1JCWHNjQ2llWnJJaTNXMEo1cWZiV3FxUm1qR1FIV0hLdnZfN21PN3J4UGJBNi1xc2dYZw?oc=5\" target=\"_blank\">Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Microsoft, Oracle, Live Nation, Coinbase & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-11-25T13:38:30+00:00",
+      "title": "Apple iPhone shipments to beat Samsung for the first time in 14 years, report says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXBwb2tkWG12RDJia1h1cE9YclpFVWVobHNhVkZPQ3lQQmtUX1FDQnpydWhHRFlzZHFRLXJub1VVZGdlY2FQdENxWWVJcmVIdzFPeURmZExBYTNfOHFBRU1OeGx4N0dFME56NTRDb1RLWjJidWFGclVpSnBvZGVUb2xVckpRVXlrT1FHMi16SDdDZXdUdmxXWVNleFZ1SngxelRjMEhyeHdJQdIBrwFBVV95cUxNNXZCbWI3M1UxT2NfWndZNXRzajVHdW5JZ0pQZUM1SDVVTFpCWUxuclRGeXFTcDdkbXNVWEw3VEVUdm1SNW9pV042MFpTNXYwOHdINndQUUhNNFU2aklnQzZ1LTJrb2x4a1NEX1FINlA2WWRaclRIOGktLWVTS3Zzc0tzTm80cXJmLUwyc1ktR0F4Wk5VZjJ0aDFEM3JzNjUtUnJhcWdTNFJpd0d4bEhr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXBwb2tkWG12RDJia1h1cE9YclpFVWVobHNhVkZPQ3lQQmtUX1FDQnpydWhHRFlzZHFRLXJub1VVZGdlY2FQdENxWWVJcmVIdzFPeURmZExBYTNfOHFBRU1OeGx4N0dFME56NTRDb1RLWjJidWFGclVpSnBvZGVUb2xVckpRVXlrT1FHMi16SDdDZXdUdmxXWVNleFZ1SngxelRjMEhyeHdJQdIBrwFBVV95cUxNNXZCbWI3M1UxT2NfWndZNXRzajVHdW5JZ0pQZUM1SDVVTFpCWUxuclRGeXFTcDdkbXNVWEw3VEVUdm1SNW9pV042MFpTNXYwOHdINndQUUhNNFU2aklnQzZ1LTJrb2x4a1NEX1FINlA2WWRaclRIOGktLWVTS3Zzc0tzTm80cXJmLUwyc1ktR0F4Wk5VZjJ0aDFEM3JzNjUtUnJhcWdTNFJpd0d4bEhr?oc=5\" target=\"_blank\">Apple iPhone shipments to beat Samsung for the first time in 14 years, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-11-26T14:37:55+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Alphabet’s stock is getting closer to this huge milestone. Why Apple should watch out. - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxORVRSU2w2cGJMcU12aGpwQXdpUC1oNVJGU2xMdW41elMwSVBzLTl5UV9hMFVweGVlRVJmXzVYMTRnRUt4T3BLVHV3eUJrVGY0TUZwa2J5Skd4eHJSRHlCNnQ2TEtPV2Z2c3IxS0F2bzl0RGtQVDRySTgzZUtGZzdrMjJHTVQ0M1lkVzVZb2IzSHlwckRONjlybkcySU1JcThOckVwdFo3bkpOZGtzY29PcFdfbTFsQkVqb2NndzJkTUFJWmMwU1hRWW1XTW9IWDNqdFlHSGNFUmVUZHZFNVFTM2t0TGJRTXB2Q3BVRzBlZE9iaTlQbHJaamtKRWtMX0xFZHZCbTNrNG9uM19GaTh2NTNYMG1qZnJ5YWRfRW9kbG1ackhYQlpodHVyM19SWHZvejZEbWdDRnVWYTdSX2V0VThncV9iQTl0d2ZOczdpcDhBcW5HbDV2WXFMc3U0VjhoZElGNmR0bk96cjBmODZqRnRETXA5ampVckRDbU5hWHRiTWhDaTYzMldMMnF3VlRlTVpDZVRGQnVIeGtETkJFY0pOY1NnQmNzR1NzbUNtUnY4aGloZ1ZRWHNEVkFaWFFxRHc1QlZmUENYQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygNBVV95cUxORVRSU2w2cGJMcU12aGpwQXdpUC1oNVJGU2xMdW41elMwSVBzLTl5UV9hMFVweGVlRVJmXzVYMTRnRUt4T3BLVHV3eUJrVGY0TUZwa2J5Skd4eHJSRHlCNnQ2TEtPV2Z2c3IxS0F2bzl0RGtQVDRySTgzZUtGZzdrMjJHTVQ0M1lkVzVZb2IzSHlwckRONjlybkcySU1JcThOckVwdFo3bkpOZGtzY29PcFdfbTFsQkVqb2NndzJkTUFJWmMwU1hRWW1XTW9IWDNqdFlHSGNFUmVUZHZFNVFTM2t0TGJRTXB2Q3BVRzBlZE9iaTlQbHJaamtKRWtMX0xFZHZCbTNrNG9uM19GaTh2NTNYMG1qZnJ5YWRfRW9kbG1ackhYQlpodHVyM19SWHZvejZEbWdDRnVWYTdSX2V0VThncV9iQTl0d2ZOczdpcDhBcW5HbDV2WXFMc3U0VjhoZElGNmR0bk96cjBmODZqRnRETXA5ampVckRDbU5hWHRiTWhDaTYzMldMMnF3VlRlTVpDZVRGQnVIeGtETkJFY0pOY1NnQmNzR1NzbUNtUnY4aGloZ1ZRWHNEVkFaWFFxRHc1QlZmUENYQQ?oc=5\" target=\"_blank\">Alphabet’s stock is getting closer to this huge milestone. Why Apple should watch out.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "published": "2025-11-25T15:17:00+00:00",
-      "source": "MarketWatch"
+      "title": "Apple single-handedly drives Singles' Day smartphone sales growth - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZrOC1ONVZ4QVBEeUhPNXZMSktEdGV3Ri1leXQ2M29iQ1FIX2lnZDVSakdXR3NZcTNPbENrTlZYamJvTVBGQ1p6b1BhVmg4U0M3NGJzZUFQQmszeEVBbEp4VmtJSS1BaWhzRUlNc1NmNU9zZ0ZSemlGdzhZT0FUZDl0aElJUUQwQm1oaTJ3WGVWMVoyRExrUzZxVV83Zk9keUkybmZUeG1VanJPaVZqNHRn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZrOC1ONVZ4QVBEeUhPNXZMSktEdGV3Ri1leXQ2M29iQ1FIX2lnZDVSakdXR3NZcTNPbENrTlZYamJvTVBGQ1p6b1BhVmg4U0M3NGJzZUFQQmszeEVBbEp4VmtJSS1BaWhzRUlNc1NmNU9zZ0ZSemlGdzhZT0FUZDl0aElJUUQwQm1oaTJ3WGVWMVoyRExrUzZxVV83Zk9keUkybmZUeG1VanJPaVZqNHRn?oc=5\" target=\"_blank\">Apple single-handedly drives Singles' Day smartphone sales growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-11-27T09:03:25+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Apple contests India's antitrust penalty law with risk of $38 billion fine, filing shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa0d6Z0kwdW5Ia3JsUGFNMkR3YkdGa1luZUFvMWhLa1A2UGdFYkt2YUphRUZoZExQMWh1WDFCTGtDY2o1NGg3a0JwQlpVUHBha1U0RjZnc0N3YlBqVll5LUV3SDYxRzNxUlN2RWhldl82WFE2U2pweG5JcXFMM0RINTh5RU5jQ0RLTm1CdHM0ZG05WGloRTVsaUticldWU2toVmdZZWZ5SndPWlFHNXlxMUpLNzVCYnVZdWRMdkhTWHFIeURITHhrbW9SV2pMRktmTlg2UEEyaVJ0SFZ2Y1JERU52TjdEaEU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa0d6Z0kwdW5Ia3JsUGFNMkR3YkdGa1luZUFvMWhLa1A2UGdFYkt2YUphRUZoZExQMWh1WDFCTGtDY2o1NGg3a0JwQlpVUHBha1U0RjZnc0N3YlBqVll5LUV3SDYxRzNxUlN2RWhldl82WFE2U2pweG5JcXFMM0RINTh5RU5jQ0RLTm1CdHM0ZG05WGloRTVsaUticldWU2toVmdZZWZ5SndPWlFHNXlxMUpLNzVCYnVZdWRMdkhTWHFIeURITHhrbW9SV2pMRktmTlg2UEEyaVJ0SFZ2Y1JERU52TjdEaEU?oc=5\" target=\"_blank\">Apple contests India's antitrust penalty law with risk of $38 billion fine, filing shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-11-27T00:01:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Apple is challenging India's anti-trust body over a potential $38 billion fine - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnY3b1dkaDctUGYza3hPUWlNZDNrWFhlNXhHMkl5U2ZiWV84WXdpekg2RWRNbHE2UUQ3Y0NpUkZNWDRhRm5HLUZzYmIwUmxmSHdUR0V4NTltbW8zbW05Z01BNVFlbDVGdzJjQWhoVEZHTTVnbmFycGxndkg0dGEza2x2WlJ3TUsyVjBMSEJpcTRPS1VqLXpyNlFHNlQxQ1dfTFdHY1dfR2FFOVHSAbABQVVfeXFMTU54Qm9ZbEdJUl9tV3g3SmJMSFpxelZmZUNNTVE2ZE1MbXlrc08wQVY0WHR5dzNrTEVZeUdMS250VnVGM2NYa19ZcEFYQWVSTDVhSHdVWmZjLVhCLWt3R002VUhSeEVvNjJET05iaUxsUDZmOFNORVBpYUU3QXNGYW9Udks5TmZuVHVQZTQtNTVwZVc0ZHdSV0p6SzRBX0ZGRFVMU0hIVTVYcU9PdFFqMXg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnY3b1dkaDctUGYza3hPUWlNZDNrWFhlNXhHMkl5U2ZiWV84WXdpekg2RWRNbHE2UUQ3Y0NpUkZNWDRhRm5HLUZzYmIwUmxmSHdUR0V4NTltbW8zbW05Z01BNVFlbDVGdzJjQWhoVEZHTTVnbmFycGxndkg0dGEza2x2WlJ3TUsyVjBMSEJpcTRPS1VqLXpyNlFHNlQxQ1dfTFdHY1dfR2FFOVHSAbABQVVfeXFMTU54Qm9ZbEdJUl9tV3g3SmJMSFpxelZmZUNNTVE2ZE1MbXlrc08wQVY0WHR5dzNrTEVZeUdMS250VnVGM2NYa19ZcEFYQWVSTDVhSHdVWmZjLVhCLWt3R002VUhSeEVvNjJET05iaUxsUDZmOFNORVBpYUU3QXNGYW9Udks5TmZuVHVQZTQtNTVwZVc0ZHdSV0p6SzRBX0ZGRFVMU0hIVTVYcU9PdFFqMXg?oc=5\" target=\"_blank\">Apple is challenging India's anti-trust body over a potential $38 billion fine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-11-27T11:00:40+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple goes to High Court to avoid $38 billion fine in India; tells court: It is unconstitutional, grossly - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPaGw5MHkyd1JHYjdaUXFrd2FaSXZBNVlrcHhuV0JVc01tT3I5c2ZRWUJPd3BjTnpUNjhzUTRDbFdLWkpkdnFtMlk5eG9fSExTcFQyVkJ5ZnZtMU1kSTVsU1Zib2x0b0NDYl85VW1GelRfN1MtU3VwTHB1UW5wbnQ3c25ua2I0Nll1WEpWa0lobkJjUFJSZkZ3WVJtV1hIWmNDOWxoT3AwVm91cl9vaXRzMnpKdDhEQnBfa190WHNaVWh5N0hhMW4yLXpTUHJtNG94UHFDZjJNdTVxdzdnanBzOV81R2VfWUtxa0JDdFlDZEF5QkFERERIb1Z4dEt0dWhRbk83QVNiNE94ZnJkTGpSYjhuTmRWS3A0YkQ0SW11cm52ZTVzTGVRWWliMEJkRm_SAbQCQVVfeXFMUDhGN3dmS2k4TlhmLTU2MjFRQ2lLblpJd1hxOVNRYnBjaXJvQWpjdzI4X1lyMlB3aUNtMVMyNHdEMTRQNzRuRjRUZFRnRXBSSHhOYUkzNDdRZjFPVy1fejNDTXhpc2Mwa3JhM3hIamQxMXdBQi1HV052Rm9TUVdpbDBZQ2p5UXhhLU9XT0RueFB3UHJJb2cxX3RvQ3VEd2VsZnhyUk5kVHF6M2NqdnlPVnpTdmQyMFk4Y1B0LUNjXzJpTlJidnhDQzlMX01zUy0ydDktUjhWbEg4Q2J1ZUpKemNOMXBXYjk0b29UaHNGUDNHQkxKVzVZYjJ3a3BiVlhYWlg0ejBEX2RyRTJxZlhROFJCS2oydDc5SGFYWjhzQkZjc3pKM3JTc3cyQUhya0o0ZU40TGw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPaGw5MHkyd1JHYjdaUXFrd2FaSXZBNVlrcHhuV0JVc01tT3I5c2ZRWUJPd3BjTnpUNjhzUTRDbFdLWkpkdnFtMlk5eG9fSExTcFQyVkJ5ZnZtMU1kSTVsU1Zib2x0b0NDYl85VW1GelRfN1MtU3VwTHB1UW5wbnQ3c25ua2I0Nll1WEpWa0lobkJjUFJSZkZ3WVJtV1hIWmNDOWxoT3AwVm91cl9vaXRzMnpKdDhEQnBfa190WHNaVWh5N0hhMW4yLXpTUHJtNG94UHFDZjJNdTVxdzdnanBzOV81R2VfWUtxa0JDdFlDZEF5QkFERERIb1Z4dEt0dWhRbk83QVNiNE94ZnJkTGpSYjhuTmRWS3A0YkQ0SW11cm52ZTVzTGVRWWliMEJkRm_SAbQCQVVfeXFMUDhGN3dmS2k4TlhmLTU2MjFRQ2lLblpJd1hxOVNRYnBjaXJvQWpjdzI4X1lyMlB3aUNtMVMyNHdEMTRQNzRuRjRUZFRnRXBSSHhOYUkzNDdRZjFPVy1fejNDTXhpc2Mwa3JhM3hIamQxMXdBQi1HV052Rm9TUVdpbDBZQ2p5UXhhLU9XT0RueFB3UHJJb2cxX3RvQ3VEd2VsZnhyUk5kVHF6M2NqdnlPVnpTdmQyMFk4Y1B0LUNjXzJpTlJidnhDQzlMX01zUy0ydDktUjhWbEg4Q2J1ZUpKemNOMXBXYjk0b29UaHNGUDNHQkxKVzVZYjJ3a3BiVlhYWlg0ejBEX2RyRTJxZlhROFJCS2oydDc5SGFYWjhzQkZjc3pKM3JTc3cyQUhya0o0ZU40TGw?oc=5\" target=\"_blank\">Apple goes to High Court to avoid $38 billion fine in India; tells court: It is unconstitutional, grossly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2025-11-27T09:31:00+00:00",
+      "source": "Times of India"
+    },
+    {
+      "title": "The best Apple Black Friday deals are live: Major discounts on AirPods, iPads, MacBooks, Apple Watches and AirTags - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm5OQVV2T2ZqdWd3cVZ2RHZaZ2NqZDNSaHBHWHNDTXJlUmZZVG5VbjdYWE9pb2lDZG5uRE5faWhpXzRpMTdZOEFGX0VqTVQ1dEZLQlNOQjdJWmJycXVwaTJIeDFNOXRkb3FCbmt2ZllCR0d5Wk5HcnJmMzlnQVdnNTBwSG1BVU14Y2IzRjNTS01OX2EyemlncEpSMnVRTmdNdWc1OVFrZW5aLVpKRFVBVHJVYl9VWlpZa0s4TGhRbVhvaVdvMktaenQyU2s3c25EamRvTENHQWhrTzNyYUNiMXlYMGxQbHg2WlRSMA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVm5OQVV2T2ZqdWd3cVZ2RHZaZ2NqZDNSaHBHWHNDTXJlUmZZVG5VbjdYWE9pb2lDZG5uRE5faWhpXzRpMTdZOEFGX0VqTVQ1dEZLQlNOQjdJWmJycXVwaTJIeDFNOXRkb3FCbmt2ZllCR0d5Wk5HcnJmMzlnQVdnNTBwSG1BVU14Y2IzRjNTS01OX2EyemlncEpSMnVRTmdNdWc1OVFrZW5aLVpKRFVBVHJVYl9VWlpZa0s4TGhRbVhvaVdvMktaenQyU2s3c25EamRvTENHQWhrTzNyYUNiMXlYMGxQbHg2WlRSMA?oc=5\" target=\"_blank\">The best Apple Black Friday deals are live: Major discounts on AirPods, iPads, MacBooks, Apple Watches and AirTags</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1tRTdRUjRicWZ4Z3A0OGxKMHQwdDVyeXlNQzEtU2hINGFRVERVd3NWbGY0ZGp5QW0tcFBsOWw0ZEpLQXNSLXhJN3BzS181akM2SXYzWEtMQk5Ra2poT0U4R0dQckY1bEpZSXFtekRSbmgxbTg3SGc?oc=5\" target=\"_blank\">Apple Watch Black Friday deals: buy today from $199</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkU0clAxeEUxYm9VU3RFcXEtLVhPZFYzanZkeVhCX1hLX3VFQXRJNDkwY0ljQU1wQ0N4VnU3TzdTN1lTNW83TFRzUm1Fczg3bThGWlgxQW9qMlp4ak5UeDFsVkhBSTBiQlcweGl5VHFLUlRYU1hWWl9Gak00VWdqdXBwc9IBiAFBVV95cUxQSnFFQm5xdnpHZlExT0tYYnJXeldtQVB6b2FTYnhuenFKNWdSQkctbGJ6djdTZ1Jjdk5aX0lNTnU1TnJpRGZucDYyOXE5a24tT1JiSmlKSGpuZ25TZjFSdzd5WFlsVFJ6Q1VxTEZFMWJQM2NtNW1mVUlJaWVzSTFrUzRjZVUxMExS?oc=5\" target=\"_blank\">I’ve found the 17 best Apple Black Friday deals you need to check out right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+      "published": "2025-11-27T11:43:34+00:00",
+      "source": "Engadget"
+    },
+    {
+      "title": "David Lerner, a Mr. Fix-it of Apple Computers, Dies at 72 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1RhRWNKQWxBNkFNU1RzeFlIOWttbDg1OTVQUVBSZ2hxMDRoWl9aQmVkeHBjOFB5MHliZklPZ2ZxWWJVZUdQYmNsWFNVbFc0djlPTEVHMl9kR2IyQ2o3cEl6NnFmUHVpdHB3N0hJSTZLSVpaSTZUalRPOXo1Z0hYQzFSb1JZQjFL?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1RhRWNKQWxBNkFNU1RzeFlIOWttbDg1OTVQUVBSZ2hxMDRoWl9aQmVkeHBjOFB5MHliZklPZ2ZxWWJVZUdQYmNsWFNVbFc0djlPTEVHMl9kR2IyQ2o3cEl6NnFmUHVpdHB3N0hJSTZLSVpaSTZUalRPOXo1Z0hYQzFSb1JZQjFL?oc=5\" target=\"_blank\">David Lerner, a Mr. Fix-it of Apple Computers, Dies at 72</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-11-26T21:22:35+00:00",
+      "source": "The New York Times"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple expects record sales for the holidays with potentially new product launches this month - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONmtFdDVYU3dHd2s1UDVGc1NWZXRyZ2syZ2FieFZNNGZpVDlxYnhSMEtqUS10eGFLdmk4bTlNYlVIMHp0UkxteUtraTM0dUN5d2JnaUdraWF1SmdtNmhEWEJwUjBJRnkwWmstVUZHYUU0SUpDZUkyZjh1Yk10QmRBc0hPU1Zjdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONmtFdDVYU3dHd2s1UDVGc1NWZXRyZ2syZ2FieFZNNGZpVDlxYnhSMEtqUS10eGFLdmk4bTlNYlVIMHp0UkxteUtraTM0dUN5d2JnaUdraWF1SmdtNmhEWEJwUjBJRnkwWmstVUZHYUU0SUpDZUkyZjh1Yk10QmRBc0hPU1Zjdw?oc=5\" target=\"_blank\">Apple expects record sales for the holidays with potentially new product launches this month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-11-26T19:21:54+00:00",
+      "source": "Mashable"
+    },
     {
       "title": "Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdIQkdDOWJZWXFzY3dteUR2MWNVbTJ1bktEcTNybkRZMl9oOFluUEEwdGd2ZDhlX0cydjBkS19IQ3gzb291TmRUSzdrNWpGbTYzSjFVNWItaHU5S0hfM0JPMk83WF9xZHpvV2E5TkFTa1JCSUUydXVqclVVcjlqdjJFaHh1blFTcEg3QlUyRGRjTTRSV0lCR2phT2FtekVOQnlVeTR2dzdIdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdIQkdDOWJZWXFzY3dteUR2MWNVbTJ1bktEcTNybkRZMl9oOFluUEEwdGd2ZDhlX0cydjBkS19IQ3gzb291TmRUSzdrNWpGbTYzSjFVNWItaHU5S0hfM0JPMk83WF9xZHpvV2E5TkFTa1JCSUUydXVqclVVcjlqdjJFaHh1blFTcEg3QlUyRGRjTTRSV0lCR2phT2FtekVOQnlVeTR2dzdIdw?oc=5\" target=\"_blank\">Introducing iPhone Pocket: a beautiful way to wear and carry iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
       "published": "2025-11-11T08:00:00+00:00",
       "source": "Apple"
+    },
+    {
+      "title": "2026 is Going to be a Busy Year for Apple Product Launches - Mix93.3",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kUTBYS3NucHpLV0F3TDhYVVNqUi1zWUxLUllsbmhuUk5xU0pCd3FFa3NsRnFMVXU5NHpkdnNidTdUQ3Q1d1lCOXJhRFR1SVpEZnJiSGZnOG5wbVdINFZiOGtWZHROLUtVUjFGUTBrMnVNWGVxeExsczVGaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1kUTBYS3NucHpLV0F3TDhYVVNqUi1zWUxLUllsbmhuUk5xU0pCd3FFa3NsRnFMVXU5NHpkdnNidTdUQ3Q1d1lCOXJhRFR1SVpEZnJiSGZnOG5wbVdINFZiOGtWZHROLUtVUjFGUTBrMnVNWGVxeExsczVGaw?oc=5\" target=\"_blank\">2026 is Going to be a Busy Year for Apple Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mix93.3</font>",
+      "published": "2025-11-26T16:08:43+00:00",
+      "source": "Mix93.3"
     },
     {
       "title": "Report: Apple to Launch These New Products in 2026 - MacRumors",
@@ -82,34 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UjI0NkI4emxzTWFaZS1jZmMxVmNtdE5XelQwNFRnSTgzenVVSXA0OWhvYmhncFhLeWF3c2JKZzdBcFRxNmlEVDlLTjJMM2dQc21hN18yeExqS1cxT0dlNEdKdjRtQXdQ?oc=5\" target=\"_blank\">17 New Apple products coming in 2025: What the rumors say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Flow</font>",
       "published": "2025-11-03T08:00:00+00:00",
       "source": "Gadget Flow"
-    },
-    {
-      "title": "Apple does launch new products in November, here’s when it happened last - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnhjQVptQms3ZVNycjhJS3ZweU8tMUFNbTBJQVFDS01ZVkJ4TkFMcVhVeVFsWlB5akJ1cmREaGVCemZHNHhFMGRmanNvdGZQdkhLU1AxSGg2U1FjTTJIcGpXZFpDRmVjdUpiSVhPazdqRDBGMWFHN09GS2U0ZXNhY0xVbWFhN1ZsandtUEJVM1RaNEc2SG5RV1dTeGpPTnBWZW5sNQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnhjQVptQms3ZVNycjhJS3ZweU8tMUFNbTBJQVFDS01ZVkJ4TkFMcVhVeVFsWlB5akJ1cmREaGVCemZHNHhFMGRmanNvdGZQdkhLU1AxSGg2U1FjTTJIcGpXZFpDRmVjdUpiSVhPazdqRDBGMWFHN09GS2U0ZXNhY0xVbWFhN1ZsandtUEJVM1RaNEc2SG5RV1dTeGpPTnBWZW5sNQ?oc=5\" target=\"_blank\">Apple does launch new products in November, here’s when it happened last</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2025-11-03T08:00:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Surpasses Samsung as World's Largest Smartphone Maker After 14 Years - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFdDOU8wUFdxTW9WOVR1U0twQVM1Q1hfQjlscXRJMTFranRUYWt0T1FBYXl2WnJYeXlSdHVqUnRmbHVsYkJqaFhIMzNfNEtYRm8xc1VBYS0yczk0QjJkWDRMczl4QmZoak1FTDFVczF3VF9Pd1hvc2ZCdHFRbXd6Z1BIOXlzWU01?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFdDOU8wUFdxTW9WOVR1U0twQVM1Q1hfQjlscXRJMTFranRUYWt0T1FBYXl2WnJYeXlSdHVqUnRmbHVsYkJqaFhIMzNfNEtYRm8xc1VBYS0yczk0QjJkWDRMczl4QmZoak1FTDFVczF3VF9Pd1hvc2ZCdHFRbXd6Z1BIOXlzWU01?oc=5\" target=\"_blank\">Apple Surpasses Samsung as World's Largest Smartphone Maker After 14 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-      "published": "2025-11-26T01:28:21+00:00",
-      "source": "조선일보"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2025-11-25",
-      "close": 276.9700012207031
+      "date": "2025-11-26",
+      "close": 277.54998779296875
     },
     "history": [
-      {
-        "date": "2025-11-17",
-        "close": 267.4599914550781
-      },
       {
         "date": "2025-11-18",
         "close": 267.44000244140625
@@ -133,6 +129,10 @@
       {
         "date": "2025-11-25",
         "close": 276.9700012207031
+      },
+      {
+        "date": "2025-11-26",
+        "close": 277.54998779296875
       }
     ],
     "name": "Apple Inc."
