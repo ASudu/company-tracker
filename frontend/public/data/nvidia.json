@@ -2,72 +2,79 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-11-27T12:24:20.286071+00:00",
+  "fetched_at": "2025-11-28T12:23:29.703491+00:00",
   "news": [
+    {
+      "title": "Nvidia reportedly no longer supplying VRAM to its GPU board partners in response to memory crunch — rumor claims vendors will only get the die, forced to source memory on their own - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZElER2V4ZFpKejlCVnRpS1M4a3I3Q3RmYlJweW0wOHRBVVg3cEJEWnUxcTY4N0pRUVVBSWNMRERjLWE3RVlPVGFEaktZdWpWNGQ5YThsUFAycnZ5SzExcDU0dzV2OTAwd01wb0FuQlpBQWhoYXJxam5uTlp2ODI1QTZiS0JCM2xhRC1yNkY5VVJsR3h6MWxMYnVHbWlyaXV3c1dHd2VGUTJPLU93Qm1kVlF0cndBSVRmM2lSTFJSRzUzdkhIbDZrWjN2SUprZ0FzaGxiSzBfUDA1ZFVmWXZIMEdGSVRVU1FPNzk2b0tzVlNlRTNBUE91T0ZONlJ2RUFNUS1UNlBJWEdsNDBwWnl1TFREbGRHY0NIUm84U3NLWFF3YUtydzhjVnZGQl9sZzNFck5lVHJMaUxwQ0VHOVZJQVBMUVQ1d21i?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZElER2V4ZFpKejlCVnRpS1M4a3I3Q3RmYlJweW0wOHRBVVg3cEJEWnUxcTY4N0pRUVVBSWNMRERjLWE3RVlPVGFEaktZdWpWNGQ5YThsUFAycnZ5SzExcDU0dzV2OTAwd01wb0FuQlpBQWhoYXJxam5uTlp2ODI1QTZiS0JCM2xhRC1yNkY5VVJsR3h6MWxMYnVHbWlyaXV3c1dHd2VGUTJPLU93Qm1kVlF0cndBSVRmM2lSTFJSRzUzdkhIbDZrWjN2SUprZ0FzaGxiSzBfUDA1ZFVmWXZIMEdGSVRVU1FPNzk2b0tzVlNlRTNBUE91T0ZONlJ2RUFNUS1UNlBJWEdsNDBwWnl1TFREbGRHY0NIUm84U3NLWFF3YUtydzhjVnZGQl9sZzNFck5lVHJMaUxwQ0VHOVZJQVBMUVQ1d21i?oc=5\" target=\"_blank\">Nvidia reportedly no longer supplying VRAM to its GPU board partners in response to memory crunch — rumor claims vendors will only get the die, forced to source memory on their own</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2025-11-27T15:20:05+00:00",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Oh great, the latest rumours suggest Nvidia might stop bundling VRAM with its GPUs, because who cares about cheap graphics cards - PC Gamer",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNejQ0Wjl1aE1kdnJxcHNXSnlONXpNN3MwRG5pTGlwUGJXMVJ3bmctUlpfOXk3ZlR6bktyVzN0eUI2eC1ldm1HX2tDdjdzekowMXI2OU9aM082SHZIVzVKRjJwbGV4T2syTW1ZaFBKRUM0Qjdra2pwVlFLT1FuVE9wYjkyd1EzVFNHc3Vpa0thbTdmZWExcmFzb0Z3Y09EUDYtUElYc2s5UnVnVzd5bmxUYzdQT29mUy03ZTRrYVRwRlBhbDZfdWc0b1FQMjNRVEVZZ2tuaTNlWWJ1N1FyMjFnVTZuNnllWTdjejZpRi01OVMtWnFu?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNejQ0Wjl1aE1kdnJxcHNXSnlONXpNN3MwRG5pTGlwUGJXMVJ3bmctUlpfOXk3ZlR6bktyVzN0eUI2eC1ldm1HX2tDdjdzekowMXI2OU9aM082SHZIVzVKRjJwbGV4T2syTW1ZaFBKRUM0Qjdra2pwVlFLT1FuVE9wYjkyd1EzVFNHc3Vpa0thbTdmZWExcmFzb0Z3Y09EUDYtUElYc2s5UnVnVzd5bmxUYzdQT29mUy03ZTRrYVRwRlBhbDZfdWc0b1FQMjNRVEVZZ2tuaTNlWWJ1N1FyMjFnVTZuNnllWTdjejZpRi01OVMtWnFu?oc=5\" target=\"_blank\">Oh great, the latest rumours suggest Nvidia might stop bundling VRAM with its GPUs, because who cares about cheap graphics cards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Gamer</font>",
+      "published": "2025-11-27T13:41:26+00:00",
+      "source": "PC Gamer"
+    },
+    {
+      "title": "NVIDIA May Stop Bundling Memory with GPU Kits Amid GDDR Shortage - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZERQX3VsSkZGMzBQUEpJQ1o0bVhXZ2docWhJU0NGS1lzQVZxZjlvZTdncXZFT2hMX3czYURjQWVDTVhkWUpDQXpDSzVLUXNJMUxhN1gyZEZsSFVyWlpIcEg2dGRaZWl3S29aQ3hnTGZ4U1JjLV9SN0dDX25YTzlDU1U4RGowRXp6bHotQ19ySmxnaUJMNTgycTJtb0ZoN1U20gGmAUFVX3lxTE5FbWRwbGhmRnVfOERyOWJFMjg3Z1QtMnpCODRINnB1UjA1ZHBzLTdDWEpuOUoweXRMVmRGSzE0Mm96N2Jua254VGZ6YnV6Vks0S3lia2oyQTdNXzFsQ3N1aW1nLTNRQTkyLVZHUk05SndZeGJhM0VkTHlJbS1rWDhaVExNaS1xczh2UFNXNXptcXk4a1dHM0JpNzFBZDJkUk0wNkdJU2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZERQX3VsSkZGMzBQUEpJQ1o0bVhXZ2docWhJU0NGS1lzQVZxZjlvZTdncXZFT2hMX3czYURjQWVDTVhkWUpDQXpDSzVLUXNJMUxhN1gyZEZsSFVyWlpIcEg2dGRaZWl3S29aQ3hnTGZ4U1JjLV9SN0dDX25YTzlDU1U4RGowRXp6bHotQ19ySmxnaUJMNTgycTJtb0ZoN1U20gGmAUFVX3lxTE5FbWRwbGhmRnVfOERyOWJFMjg3Z1QtMnpCODRINnB1UjA1ZHBzLTdDWEpuOUoweXRMVmRGSzE0Mm96N2Jua254VGZ6YnV6Vks0S3lia2oyQTdNXzFsQ3N1aW1nLTNRQTkyLVZHUk05SndZeGJhM0VkTHlJbS1rWDhaVExNaS1xczh2UFNXNXptcXk4a1dHM0JpNzFBZDJkUk0wNkdJU2c?oc=5\" target=\"_blank\">NVIDIA May Stop Bundling Memory with GPU Kits Amid GDDR Shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2025-11-27T12:16:18+00:00",
+      "source": "TechPowerUp"
+    },
+    {
+      "title": "Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here’s Why. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPV241ZzljUVpOT2FLNVFqTXhJY3R2ekRQemIyRUVtOHF0cDVBUUllX3hCR1NwYTBoamFlVW9ldmpMOWoxVUMyczlkRGtMazdJMTN6MlRlSkdnZDQ0a2JUTTNIb3l2MUFMcE9COUNtQ3ZhOEo3aWFPNU5YVmlDbGJzZ2FqWXJ4MFpaZDdXTGR1UFdVc0wzeUFCZVhUQ19ZdVJtMmlLSWlWWThER2hOOHk3dEl6QU45RlgzMkhHd3YtSWo4S3phbHZtVXVoek8wTU1RRnRLdlA3eGt5Tk1XVHNZMGE4cVdCTmRCekpadEhUckpEa0drX2F0Q0VaYmRMVEEtWXJpUUpjWGJDbkZLS2ZoUFRiMk05VXBMUnRoaThwWlQxakVrMC1UbTNKZ3JYX1FyaWJrMzJpdnZLbDdYQk1JWEVDN1lKWWxsRXFCa2dwM0MtZGhmSG4yVnJFc3Z3ZFhaODVGaks2Tm1xQ2hDMWpmZjFWWk1hT2dnQ1FtT0FHQjlaVWJDQ01ZMA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiANBVV95cUxPV241ZzljUVpOT2FLNVFqTXhJY3R2ekRQemIyRUVtOHF0cDVBUUllX3hCR1NwYTBoamFlVW9ldmpMOWoxVUMyczlkRGtMazdJMTN6MlRlSkdnZDQ0a2JUTTNIb3l2MUFMcE9COUNtQ3ZhOEo3aWFPNU5YVmlDbGJzZ2FqWXJ4MFpaZDdXTGR1UFdVc0wzeUFCZVhUQ19ZdVJtMmlLSWlWWThER2hOOHk3dEl6QU45RlgzMkhHd3YtSWo4S3phbHZtVXVoek8wTU1RRnRLdlA3eGt5Tk1XVHNZMGE4cVdCTmRCekpadEhUckpEa0drX2F0Q0VaYmRMVEEtWXJpUUpjWGJDbkZLS2ZoUFRiMk05VXBMUnRoaThwWlQxakVrMC1UbTNKZ3JYX1FyaWJrMzJpdnZLbDdYQk1JWEVDN1lKWWxsRXFCa2dwM0MtZGhmSG4yVnJFc3Z3ZFhaODVGaks2Tm1xQ2hDMWpmZjFWWk1hT2dnQ1FtT0FHQjlaVWJDQ01ZMA?oc=5\" target=\"_blank\">Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here’s Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2ZFQnBhRW5lOThUUGpMQUdXZERabUhLakxHUnhfbjE4RVdjc3lPZWplT0o2VGpxcWd4c3FDRUJjUV9iY1pwcFBjTGMxRnhfVWwyT0l2Z2dscFdmbFFKTTd6TGFOQ201WmNoRWZONUlSZTR3WUlEUDVDdGxXbFcwX3hPYVM0RlVoWHc?oc=5\" target=\"_blank\">Analyst revisits Nvidia stock after Google-Meta news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hpZFRxdExyRVdGMmdabnB2ZjVhVXBZeGVINGowNkdnUnlJWGpzV0lNdjE5OTdkYXFLZlhmNGNLX28xa0FuYV93MENIMHFDY295a2haSldFdWZmSWZvVF9JdVFQcmM5UUlmRDJTdU9qVWs4SXJkaFBaRFZxRVFXQW1oei1ETXc?oc=5\" target=\"_blank\">Google Expands TPU Strategy With Nvidia-Style Financing to Secure AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2025-11-27T11:54:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Nvidia Pushes Back on Financing Claims - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREpKRWlfMjlkUUY0dUgxNzMtZDgwdERYeDNPd2N2VThoMWQ4WVJwUWVGZVFpWFlGcDJWN2pMR0c5TFB6anhGWFdCeUdWb0RoeXBRUU9jelpBRGY4dlR3VS1SOGFIQk5fQ3o2X1N4TUVFVkdMbEx4dDBNSnViM2k1bHMxWHdNakl5?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREpKRWlfMjlkUUY0dUgxNzMtZDgwdERYeDNPd2N2VThoMWQ4WVJwUWVGZVFpWFlGcDJWN2pMR0c5TFB6anhGWFdCeUdWb0RoeXBRUU9jelpBRGY4dlR3VS1SOGFIQk5fQ3o2X1N4TUVFVkdMbEx4dDBNSnViM2k1bHMxWHdNakl5?oc=5\" target=\"_blank\">Nvidia Pushes Back on Financing Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-11-28T11:36:27+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Palantir's Co-Founder Just Dumped His Entire Nvidia Stake. Should Investors Follow Suit? - Nasdaq",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVQ2MVhwQS02a3RZbjdmbEppME90dGtoQl9jQllwWENiSmZPOWdGSlEyak1helBVcVhUV0lNRzZUM2hudDVNTU9hVVdlR3kydUhGZnBzemJMXzRrbU82ZVhLbUJzb2tsTGdjV1Fxc1BFOFd3UnVXWk1IMTBNN3VGbVVfNVJjaW95RHdndzZEZnRsQWJydFBMbDUwS2Z2RVpsUHd1dGNnbmxnNjlGQ3d3SGZTNFcyZXIz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVQ2MVhwQS02a3RZbjdmbEppME90dGtoQl9jQllwWENiSmZPOWdGSlEyak1helBVcVhUV0lNRzZUM2hudDVNTU9hVVdlR3kydUhGZnBzemJMXzRrbU82ZVhLbUJzb2tsTGdjV1Fxc1BFOFd3UnVXWk1IMTBNN3VGbVVfNVJjaW95RHdndzZEZnRsQWJydFBMbDUwS2Z2RVpsUHd1dGNnbmxnNjlGQ3d3SGZTNFcyZXIz?oc=5\" target=\"_blank\">Palantir's Co-Founder Just Dumped His Entire Nvidia Stake. Should Investors Follow Suit?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "published": "2025-11-28T09:37:00+00:00",
+      "source": "Nasdaq"
+    },
+    {
+      "title": "Baidu is emerging as a major AI chip player in China to fill the Nvidia gap - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0loaG9seUp3cW82YXQyM2xWUDFXTGZ2QXR4MXVUMVVPN1d5VzA5UktYYmtNLU1BaHFvcFM0Y0lSbmN2eEtjX0pjQ3JBeUJObXNFT1FzUHdYWGNDekYyVFRwR2xGYzdXekFOUTBXV3h4REQ5LTBabW56VHp5dnFZcnNzWXZtVzh1UEJHUjdCUUxZcFpvWVVmbk930gGfAUFVX3lxTE5mQ0N0ZW1SdnM1TWsyYzFXN1FvNHNKR1FqWEh1VGhya2NxQ1N0UXIwWXhBb2NjMWhsTlhRMWxsQm1JY0dVU296dHhqX1lLQm9YbXdQTGFtem5jaVJvY3hRRzZyOWxJellRRVZ3SDZZeHNBYXRsZWlJVGh0ZndHbnc5YnBQSEF1MkNqM2JLajh1MGlndzY5VUJrZkw1eU9ETQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0loaG9seUp3cW82YXQyM2xWUDFXTGZ2QXR4MXVUMVVPN1d5VzA5UktYYmtNLU1BaHFvcFM0Y0lSbmN2eEtjX0pjQ3JBeUJObXNFT1FzUHdYWGNDekYyVFRwR2xGYzdXekFOUTBXV3h4REQ5LTBabW56VHp5dnFZcnNzWXZtVzh1UEJHUjdCUUxZcFpvWVVmbk930gGfAUFVX3lxTE5mQ0N0ZW1SdnM1TWsyYzFXN1FvNHNKR1FqWEh1VGhya2NxQ1N0UXIwWXhBb2NjMWhsTlhRMWxsQm1JY0dVU296dHhqX1lLQm9YbXdQTGFtem5jaVJvY3hRRzZyOWxJellRRVZ3SDZZeHNBYXRsZWlJVGh0ZndHbnc5YnBQSEF1MkNqM2JLajh1MGlndzY5VUJrZkw1eU9ETQ?oc=5\" target=\"_blank\">Baidu is emerging as a major AI chip player in China to fill the Nvidia gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-11-28T06:20:53+00:00",
+      "source": "CNBC"
+    },
     {
       "title": "China’s tech giants take AI model training offshore to tap Nvidia chips - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWMzY2bnNzV1Y4QWszYUd4V01JUTVZR1A4YThfUFd4OGdrT3JGV1dYNnBUVzZaalN5SHNFZnBDTTNiRVNpb1h3S3lYdE9qeDBvSENkUXY3b3B5MU1SU01IcUxEaHZaVjIzNTZsdERaWXQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBWMzY2bnNzV1Y4QWszYUd4V01JUTVZR1A4YThfUFd4OGdrT3JGV1dYNnBUVzZaalN5SHNFZnBDTTNiRVNpb1h3S3lYdE9qeDBvSENkUXY3b3B5MU1SU01IcUxEaHZaVjIzNTZsdERaWXQ?oc=5\" target=\"_blank\">China’s tech giants take AI model training offshore to tap Nvidia chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2025-11-27T05:00:15+00:00",
+      "published": "2025-11-27T10:11:39+00:00",
       "source": "Financial Times"
-    },
-    {
-      "title": "Nvidia rebuts critics in memo to analysts amid pushback campaign - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2V3MDVueEtlMUpLM2VMaG1LWVBwQ0FGci1sN3I2OUVxdlpXaWVpajFXb2I3V2NfWWRJb1Zzdk5nc2dYS0F6TEpYdHo4QzBlcUhEbmZ5QXY5dEtlR1ZYcUp5eFZ3ejFMa1pNcTVobk5wVXpaem9jYW9JNXQtWHlseTBMMFJqRFl1amJyVjdOck1NbEdfUWpRX05QcG1Fd09fZGVlUVpDUFJUTkhqWmJxRnlmMUlON0Ew?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2V3MDVueEtlMUpLM2VMaG1LWVBwQ0FGci1sN3I2OUVxdlpXaWVpajFXb2I3V2NfWWRJb1Zzdk5nc2dYS0F6TEpYdHo4QzBlcUhEbmZ5QXY5dEtlR1ZYcUp5eFZ3ejFMa1pNcTVobk5wVXpaem9jYW9JNXQtWHlseTBMMFJqRFl1amJyVjdOck1NbEdfUWpRX05QcG1Fd09fZGVlUVpDUFJUTkhqWmJxRnlmMUlON0Ew?oc=5\" target=\"_blank\">Nvidia rebuts critics in memo to analysts amid pushback campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-11-27T02:06:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nvidia's Bumpy November - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbm1TY1QtdVRIZnhuUjU1SE12aDZ5T2ZOTXVRMnV4Qkt4UmdHM09QNW9fZWxCbnVQLWtYcG5kVzJxLUlYQ3BRX1FiZ2ljdjBlWE9ra3RKMjd2MkkzalNtMU5qZVRnek5KTklwMThCLWdOOVNUb1lpeW9DQmlZaUJ1NEdEakh4eC1zbjNGX2pFcy1jcHJRcFIySTRLQ0pQaGhHVy16dGd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbm1TY1QtdVRIZnhuUjU1SE12aDZ5T2ZOTXVRMnV4Qkt4UmdHM09QNW9fZWxCbnVQLWtYcG5kVzJxLUlYQ3BRX1FiZ2ljdjBlWE9ra3RKMjd2MkkzalNtMU5qZVRnek5KTklwMThCLWdOOVNUb1lpeW9DQmlZaUJ1NEdEakh4eC1zbjNGX2pFcy1jcHJRcFIySTRLQ0pQaGhHVy16dGd3?oc=5\" target=\"_blank\">Nvidia's Bumpy November</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-11-27T09:30:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG8zU3NmR0xkeDlaMmhNQThNZnN6MFZtV2VfbnNMT0ZYcVJFLUJiaENlTlRGNE9KMXZSdDhMZVdyT24wcE9JdWxJTWNVSFJpOEU1Vm03aXZwT2ZONnh5S1ZBeXFOOERIWVBBNlg5WnBPTVBfM2VSX29maU5UN2h2amlRVFIwN3BXdnNrVDItWHZaSDlLX2w2UF9TQzVUYVd5QUHSAacBQVVfeXFMTm9EMGExa2dMN1pKMWQ2MjZUc1hST2ZCNnFsYTFENlItc3plcm9rdjd1Y3RjLXFQZ2t2V0ZKWW1tLUNwRTRUZW1LbkpkR05JcnNteFk2MUNfcWFWZmJnQWp1RnVISzJMS3UwUk1SQTF0cU5welZqVVdvTElyS3dvS0tpVUlYOXNUOXRuREFnNG4xbzNORXRLaEtpSW1qSWtJLUx6bVJzeUE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG8zU3NmR0xkeDlaMmhNQThNZnN6MFZtV2VfbnNMT0ZYcVJFLUJiaENlTlRGNE9KMXZSdDhMZVdyT24wcE9JdWxJTWNVSFJpOEU1Vm03aXZwT2ZONnh5S1ZBeXFOOERIWVBBNlg5WnBPTVBfM2VSX29maU5UN2h2amlRVFIwN3BXdnNrVDItWHZaSDlLX2w2UF9TQzVUYVd5QUHSAacBQVVfeXFMTm9EMGExa2dMN1pKMWQ2MjZUc1hST2ZCNnFsYTFENlItc3plcm9rdjd1Y3RjLXFQZ2t2V0ZKWW1tLUNwRTRUZW1LbkpkR05JcnNteFk2MUNfcWFWZmJnQWp1RnVISzJMS3UwUk1SQTF0cU5welZqVVdvTElyS3dvS0tpVUlYOXNUOXRuREFnNG4xbzNORXRLaEtpSW1qSWtJLUx6bVJzeUE?oc=5\" target=\"_blank\">Nvidia says its GPUs are a 'generation ahead' of Google's AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWNkaE5DQjFRZ0lZS0RIZjU2Nlp1NDEtQkR2N1JQckluRkE0OGRHU3pKN3B1eHFwNXktVzJvQlUyMU54OEpVeVRIc2xWMmhBTVFEMzNFN3FVMFppYldidi1lNVZBV2hXS080VXNZUlVBd1dtc3lXVnA3emladDhBeFFMQ3E2ZXBwRUltNmpUTDQ?oc=5\" target=\"_blank\">Google Further Encroaches on Nvidia’s Turf With New AI Chip Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiANBVV95cUxQRkJnSjhDUExxV2lPZWNweFJ3YVhSczhnNC1DbXFkM1B0cTNHQmZCT0VIQlB4NlFETEtXSGI5YUtPRmNGTGI5OHhhRnF2UlM2WGlFblFHSmdyT0d3WHFnMG0wWGJScG5aTS00YmRrbW1qeWxCVWJDRFU3eXFxY25DVWM1Ymd3S2NPQnRTVWVOal8xdFFHR1k2a0JyMjBERkxYb3gwUE9kME1TbDBsT1ZjY0ZJOUEyRmFTN3F5THFSQThEWHVITl9KNlI2LUVfakNYNkdYYTM5WjVQMS0wVEJBU0FaTkV3SmR1RnZwdGlMTTlKTFVzbUpKNVNLOXhBd25icVJfUjB6S3dJVXFtbnozM1RrZlY1S2JHSVRBZjRFNy0zVmVBRW5RTDUwYkRpMGs1YTJ4WjVBUVN1TjU5N2cxdm81LW9VeUQ5aFZHdmZJNUN2STZXdDhqRkZBTUtYOFdpWWdUOGRZdmxJbGJZTkljb1VLX0F1b3QwQzNTMEl1ZXJ4Q2ZDbGdzVQ?oc=5\" target=\"_blank\">Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here’s Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
-      "published": "2025-11-25T18:29:51+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Prediction: 2 AI Stocks Will Be Worth More Than Nvidia and Palantir Technologies Combined by 2030 (Hint: Not Apple) - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRW13MlNwQzd2aVV2SUpsZ2RBa1JSZDR1V3RwMFRWOHIwMl9JUFl5N3JBR1QwTDZMUUlaZjVrX2NnUE9YVWlmVGI3YXBWU2VOZWpwRTJnX29PdmFNVWlMbmFRZVR6eUNxbkFYWUlYRUpYbDh1NXZKX0tHbFRSRzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRW13MlNwQzd2aVV2SUpsZ2RBa1JSZDR1V3RwMFRWOHIwMl9JUFl5N3JBR1QwTDZMUUlaZjVrX2NnUE9YVWlmVGI3YXBWU2VOZWpwRTJnX29PdmFNVWlMbmFRZVR6eUNxbkFYWUlYRUpYbDh1NXZKX0tHbFRSRzQ?oc=5\" target=\"_blank\">Prediction: 2 AI Stocks Will Be Worth More Than Nvidia and Palantir Technologies Combined by 2030 (Hint: Not Apple)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-27T09:50:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "In leaked recording, Nvidia CEO says it's 'insane' some of his managers aren't going all in on AI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZamcwYU00cEs3UjFqOXQ5NTAxWFFIM3l6WlU1TThlSmQ3X3UyYV9MUi1XYW1JT3lMSU1UczRlZVA3ajE4MnEtaV83Z2x2Y1dnN1RaZkIwQ1EzRlQ4MHlhbEp6VW51djA5djNtSHR2YzdVeHRPSXZDSlZGS2VVUk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZamcwYU00cEs3UjFqOXQ5NTAxWFFIM3l6WlU1TThlSmQ3X3UyYV9MUi1XYW1JT3lMSU1UczRlZVA3ajE4MnEtaV83Z2x2Y1dnN1RaZkIwQ1EzRlQ4MHlhbEp6VW51djA5djNtSHR2YzdVeHRPSXZDSlZGS2VVUk0?oc=5\" target=\"_blank\">In leaked recording, Nvidia CEO says it's 'insane' some of his managers aren't going all in on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-11-25T10:00:03+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang to employees in 'leaked recording': Managers are insane if they saying ... - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTmJmSk1qbUpRdFZHVEo0MDY3YkphMjZqQnpQVmZrYUczak1DeUJrbzlBZEZmcm1abkViSkZFVng4UEVqWEc3SkE3VGduWlpONUR4ZlpsOERtRG5GMHRMTkJkYjMzSnoxTTQxZkhVZ2R6SW9DNUpjVE5FbTlyN1NsUDU5dFc1RFNBUW83NGEzcC1HM3J5RHF1SWxNX1VJdHFkWkRnS1VKZWI1UFhMbi1OMi1zVjVtRzRxYVRUc1E1U2VvS2k1QW5sRkw0OXI5clVlMmIwZFRQeU1sazktZmh6Vmc0RG1hQk1UWmpXOTc0WjlEdGNJRVdsTmRhOGlmMTZhaXlmWXdB0gGLAkFVX3lxTE9ObU0yYmtFR0l5emhhNFVEWnJHUk1tZ3ZvLUVJSm1pU08wRFQtWVZScko2U1lmaU8tanNWU05QYUNtU1pwcnpaTVd0SjJSdDNBbEpzek1zMU9mY0JrMEFPMWVuYlAtV1g4Z0M0Qks0YTVXOVhOWlo3aDZ6dmdFWktabVFsb3AzVGkwdk43VlY2SjZJWXdXSUNaTkFOUTU0SWU0VWp5bVFQVVlKQkRCS003cHVaSmpDay1ZRXh1WHhTMEpBblNxZC1aWFpHc0NkYVp2RzZRYzlRaFpCQmF3cFRyak9xN1VDZnNnbjZMc3pPeEVNM1JZWW1BbW1CWlpxd1lhbWsybm0zRDVKdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPTmJmSk1qbUpRdFZHVEo0MDY3YkphMjZqQnpQVmZrYUczak1DeUJrbzlBZEZmcm1abkViSkZFVng4UEVqWEc3SkE3VGduWlpONUR4ZlpsOERtRG5GMHRMTkJkYjMzSnoxTTQxZkhVZ2R6SW9DNUpjVE5FbTlyN1NsUDU5dFc1RFNBUW83NGEzcC1HM3J5RHF1SWxNX1VJdHFkWkRnS1VKZWI1UFhMbi1OMi1zVjVtRzRxYVRUc1E1U2VvS2k1QW5sRkw0OXI5clVlMmIwZFRQeU1sazktZmh6Vmc0RG1hQk1UWmpXOTc0WjlEdGNJRVdsTmRhOGlmMTZhaXlmWXdB0gGLAkFVX3lxTE9ObU0yYmtFR0l5emhhNFVEWnJHUk1tZ3ZvLUVJSm1pU08wRFQtWVZScko2U1lmaU8tanNWU05QYUNtU1pwcnpaTVd0SjJSdDNBbEpzek1zMU9mY0JrMEFPMWVuYlAtV1g4Z0M0Qks0YTVXOVhOWlo3aDZ6dmdFWktabVFsb3AzVGkwdk43VlY2SjZJWXdXSUNaTkFOUTU0SWU0VWp5bVFQVVlKQkRCS003cHVaSmpDay1ZRXh1WHhTMEpBblNxZC1aWFpHc0NkYVp2RzZRYzlRaFpCQmF3cFRyak9xN1VDZnNnbjZMc3pPeEVNM1JZWW1BbW1CWlpxd1lhbWsybm0zRDVKdw?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang to employees in 'leaked recording': Managers are insane if they saying ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-11-26T11:52:00+00:00",
-      "source": "Times of India"
-    },
-    {
-      "title": "Nvidia’s Rally Means CEO’s Foundation Must Double Giving, Again - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1hvZ0V3RnVzaUgwWklZamI3SkppaTNFcmxLTERzTWR6TU52eUdBYklkM1B6Ym9jQnU4YmZ1V1lEcVpfQmtQd2hHaVRja0trLXJFMkU0VERRU2RHMExxXzBTX1QwQTk0RElpWExNQ2c4dGlINDI4a3ZiWXhrc3BnVjlDaG5SN0ZrdWw3aTlRZmlmZlc2RTExb0V0a3V1cXJyaVY5SlJ2U3JTdWlnc05SRTQ1cw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1hvZ0V3RnVzaUgwWklZamI3SkppaTNFcmxLTERzTWR6TU52eUdBYklkM1B6Ym9jQnU4YmZ1V1lEcVpfQmtQd2hHaVRja0trLXJFMkU0VERRU2RHMExxXzBTX1QwQTk0RElpWExNQ2c4dGlINDI4a3ZiWXhrc3BnVjlDaG5SN0ZrdWw3aTlRZmlmZlc2RTExb0V0a3V1cXJyaVY5SlJ2U3JTdWlnc05SRTQ1cw?oc=5\" target=\"_blank\">Nvidia’s Rally Means CEO’s Foundation Must Double Giving, Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-11-26T16:49:31+00:00",
-      "source": "Bloomberg.com"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5\" target=\"_blank\">NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2025-05-18T07:00:00+00:00",
+      "title": "NVIDIA DGX Spark Arrives for World’s AI Developers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5\" target=\"_blank\">NVIDIA DGX Spark Arrives for World’s AI Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2025-10-13T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
+    },
+    {
+      "title": "NVIDIA DGX Spark Vulnerabilities Let Attackers Execute Malicious Code and Launch DoS Attacks - Cyber Press",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KZXQ5YWdpSi1oRGYtRE1EWE04VW9XcWVqYmhvc3BoTTVGNngxLVljM1RNRDFhQnpDRzUxMHhETHZmc0xQN0tvbV9BYzl3d2hmRmNWYmZDWlFDVjl6d3dESVlkTnVILWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KZXQ5YWdpSi1oRGYtRE1EWE04VW9XcWVqYmhvc3BoTTVGNngxLVljM1RNRDFhQnpDRzUxMHhETHZmc0xQN0tvbV9BYzl3d2hmRmNWYmZDWlFDVjl6d3dESVlkTnVILWs?oc=5\" target=\"_blank\">NVIDIA DGX Spark Vulnerabilities Let Attackers Execute Malicious Code and Launch DoS Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cyber Press</font>",
+      "published": "2025-11-27T15:24:39+00:00",
+      "source": "Cyber Press"
     },
     {
       "title": "Revised NVIDIA RTX 6000D Accelerator Leaks Ahead of Possible Launch in China - TechPowerUp",
@@ -78,24 +85,17 @@
     },
     {
       "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQcmRUNmhnTlJPZWtQMzZpXzVPSDhPS21oUU9lWFhncGxSaElBZ3FpRzhCRjk5bE5yeWhDOGVjSXd4UV9YQVMxZGxoaWdvN2E5aGItZTRHckJXUEVOT2lQeEQtV3ZNOFZncU1WbmpjTG1HN3ZYOTlUVzlnNFN5NTdDaWZiMlZDbDhpZzVDaXgtdkpBaGtidjZTZmtVQVV5VEl6YkN3QUFGNUtuUHhENHZIeklHOTBRUnBZYWJlOHVoUDVDQ3E4eURpTGRHMjduc3dKV3JsVndtcGlZTmtrZklPNm5va2hEc3V4a2hfR0IzazdoN3NHb2xfX3RWbmxaa3RqNktLUlBOeXNJVF9DeUNxcW54WWJCLXJMZm5hMTdrQmVGZG9vdVhrbVk3djdZSDRDMXlxbEtWLVB4dlN0NUNTaEhoU2FyYlhGcjlldVdrcUpjMG5JVUFmUWNFNUQ3R2lRS2kyWVhtN0VZc29VamV5eDZHd2UxUEhJTjVXNkdrRDNnMndEY3MyNXVPX2cyMnFaR3dSclNSbjVPZWNKNFlONw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxQcmRUNmhnTlJPZWtQMzZpXzVPSDhPS21oUU9lWFhncGxSaElBZ3FpRzhCRjk5bE5yeWhDOGVjSXd4UV9YQVMxZGxoaWdvN2E5aGItZTRHckJXUEVOT2lQeEQtV3ZNOFZncU1WbmpjTG1HN3ZYOTlUVzlnNFN5NTdDaWZiMlZDbDhpZzVDaXgtdkpBaGtidjZTZmtVQVV5VEl6YkN3QUFGNUtuUHhENHZIeklHOTBRUnBZYWJlOHVoUDVDQ3E4eURpTGRHMjduc3dKV3JsVndtcGlZTmtrZklPNm5va2hEc3V4a2hfR0IzazdoN3NHb2xfX3RWbmxaa3RqNktLUlBOeXNJVF9DeUNxcW54WWJCLXJMZm5hMTdrQmVGZG9vdVhrbVk3djdZSDRDMXlxbEtWLVB4dlN0NUNTaEhoU2FyYlhGcjlldVdrcUpjMG5JVUFmUWNFNUQ3R2lRS2kyWVhtN0VZc29VamV5eDZHd2UxUEhJTjVXNkdrRDNnMndEY3MyNXVPX2cyMnFaR3dSclNSbjVPZWNKNFlONw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPQVNISjlCRVNDUUVsOWIzclhZTHRNNGh1OHdIVnJFU3liT2l5UGphdGg5NzA4UTM0MGdCdzIySzFsT2IyWUl5TlM3czlGTDhHa0FZZE90Z0dsYkdaX0xlQWl5VGh2ZG9BVlNWc0xzOVdUZEFtUWh6WGZCS2VXdTYzMFlGUzZCRnF4YmhoeUZXS3N2NllXNzBtZ210bFhQUXFuVmpxWXVnXzNSSFNxMDlLc19JaDhBMWNtZGM0Y21uaVhtQXN5OTdLb0xqdEpIUk9NYWhoMWVtUTd3Zy0za0xiRTVJUzBwSG9mUUtua1R5NzhnbVBMck5aUW1BSENPdEF2MUlkUEM3bDEzZTFib0FtUEh2RVhFVkV1VzRNVXEtbnRFbXItTTRRa3FqNlNVWFg1Y0piQXlpWHVxM0F6NjZsWkNaVHNTRi1iQVdBYzFpOFlEdGZ3V3JMTFFCb0NaekZTUU00Vjh4TWVhb2dGYnVaZkw1RUkzWTVCOHVIajlHVmxtUlp2aVR5WFNYdFpTSmFtd1hrb25JMy1BZDYyR3NVXw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPQVNISjlCRVNDUUVsOWIzclhZTHRNNGh1OHdIVnJFU3liT2l5UGphdGg5NzA4UTM0MGdCdzIySzFsT2IyWUl5TlM3czlGTDhHa0FZZE90Z0dsYkdaX0xlQWl5VGh2ZG9BVlNWc0xzOVdUZEFtUWh6WGZCS2VXdTYzMFlGUzZCRnF4YmhoeUZXS3N2NllXNzBtZ210bFhQUXFuVmpxWXVnXzNSSFNxMDlLc19JaDhBMWNtZGM0Y21uaVhtQXN5OTdLb0xqdEpIUk9NYWhoMWVtUTd3Zy0za0xiRTVJUzBwSG9mUUtua1R5NzhnbVBMck5aUW1BSENPdEF2MUlkUEM3bDEzZTFib0FtUEh2RVhFVkV1VzRNVXEtbnRFbXItTTRRa3FqNlNVWFg1Y0piQXlpWHVxM0F6NjZsWkNaVHNTRi1iQVdBYzFpOFlEdGZ3V3JMTFFCb0NaekZTUU00Vjh4TWVhb2dGYnVaZkw1RUkzWTVCOHVIajlHVmxtUlp2aVR5WFNYdFpTSmFtd1hrb25JMy1BZDYyR3NVXw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
       "published": "2025-10-28T07:00:00+00:00",
       "source": "The Wall Street Journal"
     },
     {
-      "title": "Elon Musk Announces xAI, Humain, Nvidia Partnership To Launch 500MW Project In Saudi Arabia - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0xkNjBVMkdiT2RsRGtBajI1Vk8xZ2FkcmFuemlHUVlmTTFtNjhNcmV4Z3hMZHJDM01yZVhmWWxkZGJNX3RJeXZYOS1uQ2pxOXZhajdqVTNmTmNUWTJqVWk5NDNOaEF0d0Y1OTEzVG5BejVPRDJEcVBoYjdXMHZwMXBXY2ZyUFMwRDhQVkY3YXNBVFNTdU54UUtPMnhJUkltaXptRldXU3J5cUN0Ml9SNWJIa0drQkRlSUt6eU1oTTBmRGVG?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0xkNjBVMkdiT2RsRGtBajI1Vk8xZ2FkcmFuemlHUVlmTTFtNjhNcmV4Z3hMZHJDM01yZVhmWWxkZGJNX3RJeXZYOS1uQ2pxOXZhajdqVTNmTmNUWTJqVWk5NDNOaEF0d0Y1OTEzVG5BejVPRDJEcVBoYjdXMHZwMXBXY2ZyUFMwRDhQVkY3YXNBVFNTdU54UUtPMnhJUkltaXptRldXU3J5cUN0Ml9SNWJIa0drQkRlSUt6eU1oTTBmRGVG?oc=5\" target=\"_blank\">Elon Musk Announces xAI, Humain, Nvidia Partnership To Launch 500MW Project In Saudi Arabia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
-      "published": "2025-11-19T17:49:59+00:00",
-      "source": "Stocktwits"
-    },
-    {
-      "title": "Tech Weekly: NVIDIA Earnings Impress, Bezos Launches AI Startup - Investing News Network",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c?oc=5\" target=\"_blank\">Tech Weekly: NVIDIA Earnings Impress, Bezos Launches AI Startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing News Network</font>",
-      "published": "2025-11-21T21:30:00+00:00",
-      "source": "Investing News Network"
+      "title": "NVIDIA DGX Spark Flaws Allow Attackers to Run Malicious Code and Launch DoS Attacks - GBHackers News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIVlpFSkhIRGZ2cGZHQXVIUWltcVJJZzc5YWEtcHBZSEhUYUZnOWJMUHZLcVE3LW5nc0JzUE4zc3NDcEZZUlY2dUpHUXFJbkVqdVJGekc2RWrSAV5BVV95cUxPWGFQV2R5ZVZqSDVJVEJHYlpfejZvbk1RUm1DR3lzZU02N19jUElGM015TjhOVUtyZzYtZjBhSGExeVBLUWhKd0x6NzRzcU5YWDNTaV90MGNaWG1MZmR3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIVlpFSkhIRGZ2cGZHQXVIUWltcVJJZzc5YWEtcHBZSEhUYUZnOWJMUHZLcVE3LW5nc0JzUE4zc3NDcEZZUlY2dUpHUXFJbkVqdVJGekc2RWrSAV5BVV95cUxPWGFQV2R5ZVZqSDVJVEJHYlpfejZvbk1RUm1DR3lzZU02N19jUElGM015TjhOVUtyZzYtZjBhSGExeVBLUWhKd0x6NzRzcU5YWDNTaV90MGNaWG1MZmR3?oc=5\" target=\"_blank\">NVIDIA DGX Spark Flaws Allow Attackers to Run Malicious Code and Launch DoS Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GBHackers News</font>",
+      "published": "2025-11-27T07:55:05+00:00",
+      "source": "GBHackers News"
     }
   ],
   "stock": {

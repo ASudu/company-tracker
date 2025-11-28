@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-11-27T12:24:09.240703+00:00",
+  "fetched_at": "2025-11-28T12:23:20.119669+00:00",
   "news": [
     {
       "title": "Microsoft habit proves hard to kick for Airbus - theregister.com",
@@ -12,18 +12,25 @@
       "source": "theregister.com"
     },
     {
-      "title": "Microsoft to secure Entra ID sign-ins from script injection attacks - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXBRdWk2aXJoQjNqM3NTQ3FrRXhPOEpMT1QySHpsNFphMHYtT2twTlBfVW91NVN6WXBZQ2FwejRsNlM1LUJwYmhhSTRpSHpSOFZ3Y2d4WnFqTnUxMVhYNWRKMTBFQlNOYUgtRjE1WkZHZW5lMmUxcEZDTk94b01CY0ZvUW1RR2d6Nzc0ZXZmQlRaLVBERFJod2xEMFE5cndEUENOTTNsTlp0VTNKZDkweGNQZWRQck5KMExGRlFXcEp4blnSAcgBQVVfeXFMUDFlWkpDX1pDaHVHNkRaZUEwUTZ1VC1TUUVDWjA0Z0dES3N6MXYweDdIZnRYN0xodDNtUnFxalJBWE9BT3NrX1FDOERzUlVRX0otZ0ppQVA2X1BCdlFpLUZQcVVyWHBNc0FqWDd6LXNfcC1mOEdOdTVmVmtmY1NjLVBLWTIzN1JoaEU5d290aV9lRGFxNGpHdWlJVWNpZ0NSSG9qdVhUT09FaFhDajRyTWJlQWdibnhFOWlJV1dNd2dEa0tCRkRtNkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXBRdWk2aXJoQjNqM3NTQ3FrRXhPOEpMT1QySHpsNFphMHYtT2twTlBfVW91NVN6WXBZQ2FwejRsNlM1LUJwYmhhSTRpSHpSOFZ3Y2d4WnFqTnUxMVhYNWRKMTBFQlNOYUgtRjE1WkZHZW5lMmUxcEZDTk94b01CY0ZvUW1RR2d6Nzc0ZXZmQlRaLVBERFJod2xEMFE5cndEUENOTTNsTlp0VTNKZDkweGNQZWRQck5KMExGRlFXcEp4blnSAcgBQVVfeXFMUDFlWkpDX1pDaHVHNkRaZUEwUTZ1VC1TUUVDWjA0Z0dES3N6MXYweDdIZnRYN0xodDNtUnFxalJBWE9BT3NrX1FDOERzUlVRX0otZ0ppQVA2X1BCdlFpLUZQcVVyWHBNc0FqWDd6LXNfcC1mOEdOdTVmVmtmY1NjLVBLWTIzN1JoaEU5d290aV9lRGFxNGpHdWlJVWNpZ0NSSG9qdVhUT09FaFhDajRyTWJlQWdibnhFOWlJV1dNd2dEa0tCRkRtNkE?oc=5\" target=\"_blank\">Microsoft to secure Entra ID sign-ins from script injection attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-11-26T13:26:06+00:00",
+      "title": "Microsoft: Exchange Online outage blocks access to Outlook mailboxes - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORU9MbmdjeE5lenEzV0NXMlVVWUtEU29qeHpFR2R0dVE4aE1OQS1GeXZ1U2VmV1F0MGU0SlByNXBGVThFZXRjOXpmVnJsM3RoaGt5VGNLZ2FYLVowLU1nRE9wTTBrNUNQblAwN3BINVNXY21aTldZZzRUWVpWTW14MGNuY1A1ZmlVQjcxYkJPU0JfVndxal84bldYM1pQNlpPTXQtMEdicHAyMEpWbEdGQUtxNUhXV0XSAbwBQVVfeXFMT3YzMEV4RkY1eS0yZnNqRnptREtpd1ZRNFBOby1Bd05rel9GaGpQUWN4RldWLTV6VTJ4dHhxQVJYalJWTmY5SXR0WVJSakhrZzhWSW5KQ3RTdWhER21fU043QjhJRDRyRm5XbGlnZUlCbmtPbEIzV2NRVGl5N1N0Z21fVExKWkJkS0htNXhMUU1wWlFjUHBBT0VodXBubzNoSzRaczR0ZmhCb1owcG1jMElZYkNEaFRJd2xmSmY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORU9MbmdjeE5lenEzV0NXMlVVWUtEU29qeHpFR2R0dVE4aE1OQS1GeXZ1U2VmV1F0MGU0SlByNXBGVThFZXRjOXpmVnJsM3RoaGt5VGNLZ2FYLVowLU1nRE9wTTBrNUNQblAwN3BINVNXY21aTldZZzRUWVpWTW14MGNuY1A1ZmlVQjcxYkJPU0JfVndxal84bldYM1pQNlpPTXQtMEdicHAyMEpWbEdGQUtxNUhXV0XSAbwBQVVfeXFMT3YzMEV4RkY1eS0yZnNqRnptREtpd1ZRNFBOby1Bd05rel9GaGpQUWN4RldWLTV6VTJ4dHhxQVJYalJWTmY5SXR0WVJSakhrZzhWSW5KQ3RTdWhER21fU043QjhJRDRyRm5XbGlnZUlCbmtPbEIzV2NRVGl5N1N0Z21fVExKWkJkS0htNXhMUU1wWlFjUHBBT0VodXBubzNoSzRaczR0ZmhCb1owcG1jMElZYkNEaFRJd2xmSmY?oc=5\" target=\"_blank\">Microsoft: Exchange Online outage blocks access to Outlook mailboxes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-11-25T16:18:12+00:00",
       "source": "BleepingComputer"
     },
     {
-      "title": "French antitrust watchdog dismisses complaint filed against Microsoft - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXN4elYzVElXcFVvYnZXbVFiQnBCSzhuckFHdEFNcmdoaUxGYkt2RWdSMllMR3ZSX3JqUUxtbk9XMFdTSC1Vb1lQM3BqZmk5Q2hMblNFbDNnczJXWmh6N1hNaFZ0TGlIeV8xMFRWUHVsMFhOSlFGd1Z4YnZJYnAwcXo1UWdRT1ZheEVtazRYWHl3SXZ2RUdpQnlB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXN4elYzVElXcFVvYnZXbVFiQnBCSzhuckFHdEFNcmdoaUxGYkt2RWdSMllMR3ZSX3JqUUxtbk9XMFdTSC1Vb1lQM3BqZmk5Q2hMblNFbDNnczJXWmh6N1hNaFZ0TGlIeV8xMFRWUHVsMFhOSlFGd1Z4YnZJYnAwcXo1UWdRT1ZheEVtazRYWHl3SXZ2RUdpQnlB?oc=5\" target=\"_blank\">French antitrust watchdog dismisses complaint filed against Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2025-11-27T11:19:08+00:00",
-      "source": "Yahoo! Finance Canada"
+      "title": "Google ditches EU antitrust complaint about Microsoft cloud amid EU probe - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDB1aEJpZENhUUFHRTRGbUdwbUQ1ZlRxWlU4RXkxWXdIV3NFNHEzaXlLdjloWnRBWndOZ055VmI2ZjdRT3RuTHdEdGFYN3hCY0FERGZWOFpucEFINFY2SkNEX2hGa2tYSThPNktzZ3lEeWxYQVU2RHRENUF1VVRGLUNPdlEyS3Z4bXRJMFkyc0lJaFk4OU96NXpaeldCZmE0VWI1cXdrQ1RzanpyM2ZMXzlncmlCZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORDB1aEJpZENhUUFHRTRGbUdwbUQ1ZlRxWlU4RXkxWXdIV3NFNHEzaXlLdjloWnRBWndOZ055VmI2ZjdRT3RuTHdEdGFYN3hCY0FERGZWOFpucEFINFY2SkNEX2hGa2tYSThPNktzZ3lEeWxYQVU2RHRENUF1VVRGLUNPdlEyS3Z4bXRJMFkyc0lJaFk4OU96NXpaeldCZmE0VWI1cXdrQ1RzanpyM2ZMXzlncmlCZw?oc=5\" target=\"_blank\">Google ditches EU antitrust complaint about Microsoft cloud amid EU probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-11-28T10:28:01+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEwyZ1prQkhXX1ZNWU8wV2lqblNBNnV0WHdIalFnRXhnZkJqS0owYWk2LU5pVGkwRWNaLUNHQjNOdnpEVWpiWEg5QjR3RUlXMnRPT3lNUWNnakJEVTI2cUFHTWZpUnRDQmp3VXRTNjdBVG9MYWJaZmE1OWJxbzhYXzdGWlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEwyZ1prQkhXX1ZNWU8wV2lqblNBNnV0WHdIalFnRXhnZkJqS0owYWk2LU5pVGkwRWNaLUNHQjNOdnpEVWpiWEg5QjR3RUlXMnRPT3lNUWNnakJEVTI2cUFHTWZpUnRDQmp3VXRTNjdBVG9MYWJaZmE1OWJxbzhYXzdGWlE?oc=5\" target=\"_blank\">Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2025-11-27T15:37:00+00:00",
+      "source": "The Hacker News"
     },
     {
       "title": "New scam sends fake Microsoft 365 login pages - Fox News",
@@ -33,32 +40,25 @@
       "source": "Fox News"
     },
     {
-      "title": "Microsoft tightens cloud login process to prevent common attack - Cybersecurity Dive",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdk1SNVpQZGZpelc0OFItMnZZMDd6Q0J4UVNQRk11R2g1WXd2VXZyUm9RcFd4ZmFTZ1lyNWRwNnR2d3pFNFZ4aU85TnRPMUtOTDIzWWJTRlNLWWE2bmZkTFZZbkY1Snd0aG03SUt0VncxQUFIemJlcHdxTHRUZzRnZjI0ektTTzBxRHdKWmNkMHVMZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdk1SNVpQZGZpelc0OFItMnZZMDd6Q0J4UVNQRk11R2g1WXd2VXZyUm9RcFd4ZmFTZ1lyNWRwNnR2d3pFNFZ4aU85TnRPMUtOTDIzWWJTRlNLWWE2bmZkTFZZbkY1Snd0aG03SUt0VncxQUFIemJlcHdxTHRUZzRnZjI0ektTTzBxRHdKWmNkMHVMZw?oc=5\" target=\"_blank\">Microsoft tightens cloud login process to prevent common attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>",
-      "published": "2025-11-26T16:09:39+00:00",
-      "source": "Cybersecurity Dive"
+      "title": "Microsoft CEO Satya Nadella Admits 'I Don't Have Warm Shells To Plug Into' — While OpenAI CEO Sam Altman Warns Cheap Energy Could Upend AI - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlNSWXRtZHNGU1ZPX0dXUHhwM2NPWXU5NGtXbVpNTExFSF9OdHU4YXVaSUlQNlJIUi1vTUdNZ3o3MnN3U1FnemJUZTAxc3RRREt5ZlBpVjF6OFFMNGpRYUR6UEhObERlZUpoU0FfS0l3RUhBbW8zbUNNVDhGZDNiNlZBT21PRkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlNSWXRtZHNGU1ZPX0dXUHhwM2NPWXU5NGtXbVpNTExFSF9OdHU4YXVaSUlQNlJIUi1vTUdNZ3o3MnN3U1FnemJUZTAxc3RRREt5ZlBpVjF6OFFMNGpRYUR6UEhObERlZUpoU0FfS0l3RUhBbW8zbUNNVDhGZDNiNlZBT21PRkE?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella Admits 'I Don't Have Warm Shells To Plug Into' — While OpenAI CEO Sam Altman Warns Cheap Energy Could Upend AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-11-27T14:30:26+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft announces €4m AI investment in Ireland - RTE.ie",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55a0ZsdmtGaTc1M0RLbW5IZGJLWm85WTVMOTV4SVNnUE0waERVOTZTT0hRVjBITVNibWNUZmc3djZxQjNKOVJ1VTBXSjJKREN4SmdFdEsxYkdLNTNyZGZOVmV3WC1nNGVKaVpYeVdvTmlQc2VDUVBUQkpKU0Q?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE55a0ZsdmtGaTc1M0RLbW5IZGJLWm85WTVMOTV4SVNnUE0waERVOTZTT0hRVjBITVNibWNUZmc3djZxQjNKOVJ1VTBXSjJKREN4SmdFdEsxYkdLNTNyZGZOVmV3WC1nNGVKaVpYeVdvTmlQc2VDUVBUQkpKU0Q?oc=5\" target=\"_blank\">Microsoft announces €4m AI investment in Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTE.ie</font>",
-      "published": "2025-11-27T00:00:33+00:00",
-      "source": "RTE.ie"
-    },
-    {
-      "title": "Microsoft's head of AI infrastructure departs - Data Center Dynamics",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFZhTjJrRHQwQktvZGtkWTRfaTVNX3BQZlRtRS1wTU9za2Z2X1NLVnZEcWdiX1J2Z3E4aEdPbURpSk1tb3hIaHd6Z2hNenNqX1hxRTZNbXZleGxJR29STUYzaUYyN0h6ZTNxWVlpNnZJV2NKZWplRTZlOGEtWjZlNFZ6OWlpNVczb3BXb1RxZWxBUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFZhTjJrRHQwQktvZGtkWTRfaTVNX3BQZlRtRS1wTU9za2Z2X1NLVnZEcWdiX1J2Z3E4aEdPbURpSk1tb3hIaHd6Z2hNenNqX1hxRTZNbXZleGxJR29STUYzaUYyN0h6ZTNxWVlpNnZJV2NKZWplRTZlOGEtWjZlNFZ6OWlpNVczb3BXb1RxZWxBUQ?oc=5\" target=\"_blank\">Microsoft's head of AI infrastructure departs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
-      "published": "2025-11-25T16:32:25+00:00",
-      "source": "Data Center Dynamics"
-    },
-    {
-      "title": "Microsoft teases transformative upgrade for Windows 11 multi-monitor users - PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0JYZS1WZ3Jua244ZE1GT0NvYzBnV2xUOFdSUzI5OFo4MDFXY1hlUHZlblhscW4zOUV2dUViXzA0TloyVzg3TC00TEg5RlNjSHJyNE15S19fbnp3S1E3RHc4WmZRTVFzazBXalJsbHRobjdCYWVBWFhZZUxsYUI2SXE1MXU5LVBaLWpIZ01XUFY2OVFlRVlXRFZ3Z3NUdW1kWWpfdDlJQktQNWRzdEw4X2ZuSHB2M2VfWFFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0JYZS1WZ3Jua244ZE1GT0NvYzBnV2xUOFdSUzI5OFo4MDFXY1hlUHZlblhscW4zOUV2dUViXzA0TloyVzg3TC00TEg5RlNjSHJyNE15S19fbnp3S1E3RHc4WmZRTVFzazBXalJsbHRobjdCYWVBWFhZZUxsYUI2SXE1MXU5LVBaLWpIZ01XUFY2OVFlRVlXRFZ3Z3NUdW1kWWpfdDlJQktQNWRzdEw4X2ZuSHB2M2VfWFFR?oc=5\" target=\"_blank\">Microsoft teases transformative upgrade for Windows 11 multi-monitor users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font>",
-      "published": "2025-11-26T15:22:00+00:00",
+      "title": "Microsoft rolls out emergency fix for Windows Update issue - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRU9QcC0yaWF4UUItd29SNi13WHVEQkFSbTRiXzlFdTlENF8xY19Ddng0aFRVSkhHaGJBejdoZ0d2MS1VRzlxVEk0eElUcEdLZ3NpanRHOF9qX0ZEUFFCSXVQekx0ekExN0NiS0Y3TE5ZZ25hWVBvOWhKTndzdThiMHRwZ1EtaFBUTW5vblcxYUdzaDZiYXFhdW9qRnVjeWVZaWdLYUNTVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRU9QcC0yaWF4UUItd29SNi13WHVEQkFSbTRiXzlFdTlENF8xY19Ddng0aFRVSkhHaGJBejdoZ0d2MS1VRzlxVEk0eElUcEdLZ3NpanRHOF9qX0ZEUFFCSXVQekx0ekExN0NiS0Y3TE5ZZ25hWVBvOWhKTndzdThiMHRwZ1EtaFBUTW5vblcxYUdzaDZiYXFhdW9qRnVjeWVZaWdLYUNTVQ?oc=5\" target=\"_blank\">Microsoft rolls out emergency fix for Windows Update issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font>",
+      "published": "2025-11-25T14:03:00+00:00",
       "source": "PCWorld"
+    },
+    {
+      "title": "Google Withdraws EU Antitrust Complaint Against Microsoft After New Probe Launched - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxObWpZRjQ4WFBGd3M5WVFhdDljSjNhNWNpV2ViQndURGJNZlVsbHRxdDlDOHhqQ1E5TFpFMXlubGVqOGhDb1AtSUNEcVR4T2RVSmZ3d1NSQkZoUWs3UDFyVEhacElsUFhCMVdXMVlvbW5xY3BBemFJX2t0ZlREOHpXdU9nODJwVGpxV3J0ZVh0TGZWSVF4RHFpQTA1RHdSVnduNFZGZ3V0ZDZ2dl80LTdxN29aMnJ6OU1kM2F0cVpmMFNXNlNEdGlpU2xlY1l1VHRYWUJjVnU5MzR5VVFZVDhiMGVWcFQ4dmZLMUh4VnVUVGtQeXpCcFE3TGFsZ1YyU0p6VGNWT0ttbjFvQ3pSVWpPS005MVlLSVFMckZLY2s5SnRJQkttRnJxT3lwWFYzNEpPdUhoQU5Kc190dEs2Q3c0blBVZ3E4VzFyTEQzVS1COEhBTXJqUTR1cFNDWlJWdkJnSFlRc1RoVUl4WDRodnNNOGY3eVVCd0toOUZPeU1FLWU4aUVEQ3BzVERBbG9YZDZwMFhJSE9aS3N4aEdQT185VEQyME84dnlsLUc3YkxiV0FMVUdaOGVIaUdfQm8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxObWpZRjQ4WFBGd3M5WVFhdDljSjNhNWNpV2ViQndURGJNZlVsbHRxdDlDOHhqQ1E5TFpFMXlubGVqOGhDb1AtSUNEcVR4T2RVSmZ3d1NSQkZoUWs3UDFyVEhacElsUFhCMVdXMVlvbW5xY3BBemFJX2t0ZlREOHpXdU9nODJwVGpxV3J0ZVh0TGZWSVF4RHFpQTA1RHdSVnduNFZGZ3V0ZDZ2dl80LTdxN29aMnJ6OU1kM2F0cVpmMFNXNlNEdGlpU2xlY1l1VHRYWUJjVnU5MzR5VVFZVDhiMGVWcFQ4dmZLMUh4VnVUVGtQeXpCcFE3TGFsZ1YyU0p6VGNWT0ttbjFvQ3pSVWpPS005MVlLSVFMckZLY2s5SnRJQkttRnJxT3lwWFYzNEpPdUhoQU5Kc190dEs2Q3c0blBVZ3E4VzFyTEQzVS1COEhBTXJqUTR1cFNDWlJWdkJnSFlRc1RoVUl4WDRodnNNOGY3eVVCd0toOUZPeU1FLWU4aUVEQ3BzVERBbG9YZDZwMFhJSE9aS3N4aEdQT185VEQyME84dnlsLUc3YkxiV0FMVUdaOGVIaUdfQm8?oc=5\" target=\"_blank\">Google Withdraws EU Antitrust Complaint Against Microsoft After New Probe Launched</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-11-28T11:10:00+00:00",
+      "source": "The Wall Street Journal"
     }
   ],
   "product_launches": [
@@ -77,6 +77,13 @@
       "source": "Microsoft"
     },
     {
+      "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5\" target=\"_blank\">Windows 95 launched 30 years ago and made us and maybe me who we are today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+      "published": "2025-08-24T07:00:00+00:00",
+      "source": "TechRadar"
+    },
+    {
       "title": "Microsoft launches Discovery platform at NJ AI Hub - NJBIZ",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5\" target=\"_blank\">Microsoft launches Discovery platform at NJ AI Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJBIZ</font>",
@@ -89,13 +96,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzFiU3NRaTkxWWZ4S0RjWWwzLW9ENHlrYnJPeGwxdkFSOFBWRU5nUHBvVG5BbnBpZzJaWkpVQW82cGptOFZ4Ql8wVWF2MWdnVWx4Uk5IaFdPMWJ4UkpNUjM0VnYzZU0xZjFISjk4U0dJSmFuVVJwNUdISkk5b0l1OUtxc2FESFFZUzJVdU5iMEhjTFJicjJFeFpTbmdxZVpmdzRSQVp6N0pYYlk?oc=5\" target=\"_blank\">Microsoft Ads launches Supplemental Feeds to streamline product updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Land</font>",
       "published": "2025-09-19T07:00:00+00:00",
       "source": "Search Engine Land"
-    },
-    {
-      "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2025-09-29T07:00:00+00:00",
-      "source": "The Verge"
     }
   ],
   "stock": {
