@@ -2,14 +2,35 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-02T12:25:57.848602+00:00",
+  "fetched_at": "2025-12-03T12:25:16.411447+00:00",
   "news": [
     {
-      "title": "Apple replaces head of AI with executive poached from Microsoft - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RbXU3SjAxREpta2tDTEFRZGVuejMxOHFkeGwzcjZkbV9EVmNoU3gyOVBHYkxiUmVuQko1Tk5xY0hOQlJqN1JEUVVBM2RIMXFRRXZoUGNwVWR4YlJKeDlBV3QtX0VrS2YwVnVKek1NSjc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1RbXU3SjAxREpta2tDTEFRZGVuejMxOHFkeGwzcjZkbV9EVmNoU3gyOVBHYkxiUmVuQko1Tk5xY0hOQlJqN1JEUVVBM2RIMXFRRXZoUGNwVWR4YlJKeDlBV3QtX0VrS2YwVnVKek1NSjc?oc=5\" target=\"_blank\">Apple replaces head of AI with executive poached from Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2025-12-02T00:05:50+00:00",
-      "source": "Financial Times"
+      "title": "I found a powerful Microsoft Office alternative that doesn't push AI - and it's free - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2YxOTVVa0FwdDkybWMyVVdsalJNWjA5SXMxWFNQNThNRlUzX0ZtNFh1ZDlSSTI0d3hHVlZUbzdxR3lBU21YZ0hKNmFYMGV1di1FbDJxeVQyeXVLWkJ6emZEWnY0bEtNTnZFTWVfR0IzWnlSSjlMUU44X0xOSnVQOFlQampyV0o1bVIyaFVRbFFlUHVnVHdwazVyV29KRWtTTnp6VWFDdzR2NWExZjJBV2ZXVDViLW1mQjBvTW4tcUxPZnd6eHRsaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2YxOTVVa0FwdDkybWMyVVdsalJNWjA5SXMxWFNQNThNRlUzX0ZtNFh1ZDlSSTI0d3hHVlZUbzdxR3lBU21YZ0hKNmFYMGV1di1FbDJxeVQyeXVLWkJ6emZEWnY0bEtNTnZFTWVfR0IzWnlSSjlMUU44X0xOSnVQOFlQampyV0o1bVIyaFVRbFFlUHVnVHdwazVyV29KRWtTTnp6VWFDdzR2NWExZjJBV2ZXVDViLW1mQjBvTW4tcUxPZnd6eHRsaw?oc=5\" target=\"_blank\">I found a powerful Microsoft Office alternative that doesn't push AI - and it's free</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2025-12-02T16:23:00+00:00",
+      "source": "ZDNET"
+    },
+    {
+      "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVUwcjdEemhITzY1bkdIZ0F1Z3NlY3BSUUU1SVFZT09aSTNCU3gwVUc1bEdGVTNyNWtMQ2ZZOEpaYnNkSEc0RTE4cllORE9hMlBOMjM4a1VyMGMyS0p2RnhUUnd2R0hwXzh4U1BMVjEwXzAxQ0NFM2xUblFCTEFCWU9lQkNzelRURHlkMVd1MGlzaVFuUE55QW56MnRkT185OVhNUnFEejFzNzhuckRqTDQ1Wk9zb1NYLVZheGczQmU1WFHSAcgBQVVfeXFMT2hJNlRSTC1VUmJ3ZHFKSWJvRktLVEJvWFo5WmotQ2E5RW5mMHJYVVFCM2gxajVDUHE1N3pZcUR5M2RSUUpKTWVfQS1DMHFJQkx2N0NYQmdocnRTSGlCMm5tc3piczlON3I5ZEZmcTFBeUNEY1VkeEY4d2dLZ05FWVFrcW5DMURCOWpqeGNuMmU2R2dYeDJRU0M4LXdfNGZZVTVJOG45c3VURnNva2xHZFBBNHV3OVQtcUxndkpLYW9UcFliZjZ5N28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVUwcjdEemhITzY1bkdIZ0F1Z3NlY3BSUUU1SVFZT09aSTNCU3gwVUc1bEdGVTNyNWtMQ2ZZOEpaYnNkSEc0RTE4cllORE9hMlBOMjM4a1VyMGMyS0p2RnhUUnd2R0hwXzh4U1BMVjEwXzAxQ0NFM2xUblFCTEFCWU9lQkNzelRURHlkMVd1MGlzaVFuUE55QW56MnRkT185OVhNUnFEejFzNzhuckRqTDQ1Wk9zb1NYLVZheGczQmU1WFHSAcgBQVVfeXFMT2hJNlRSTC1VUmJ3ZHFKSWJvRktLVEJvWFo5WmotQ2E5RW5mMHJYVVFCM2gxajVDUHE1N3pZcUR5M2RSUUpKTWVfQS1DMHFJQkx2N0NYQmdocnRTSGlCMm5tc3piczlON3I5ZEZmcTFBeUNEY1VkeEY4d2dLZ05FWVFrcW5DMURCOWpqeGNuMmU2R2dYeDJRU0M4LXdfNGZZVTVJOG45c3VURnNva2xHZFBBNHV3OVQtcUxndkpLYW9UcFliZjZ5N28?oc=5\" target=\"_blank\">Microsoft: KB5070311 triggers File Explorer white flash in dark mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-12-02T13:39:51+00:00",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "ESW Introduces Copilot Orbit™, Microsoft AI Automation Services for Small and Mid-Sized Companies - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWZObnNaaVdRVjlKUWtfaHkwTEpXdUNmM3dySDlGbVlkTENPdTcwYWJxUENnOUQtbEVXLXlRdHE1ZTBHaE9Zc1M4ZEpCNVU0ZTZtV19vdmNUck9jZ3hQbkZqNHR1dzlxZGNzN3I1RUFHWVRWVUstNVZHTWUxNkxyM1lZOTBGR3lTNXNjMg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWZObnNaaVdRVjlKUWtfaHkwTEpXdUNmM3dySDlGbVlkTENPdTcwYWJxUENnOUQtbEVXLXlRdHE1ZTBHaE9Zc1M4ZEpCNVU0ZTZtV19vdmNUck9jZ3hQbkZqNHR1dzlxZGNzN3I1RUFHWVRWVUstNVZHTWUxNkxyM1lZOTBGR3lTNXNjMg?oc=5\" target=\"_blank\">ESW Introduces Copilot Orbit™, Microsoft AI Automation Services for Small and Mid-Sized Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-12-03T10:30:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Record-setting pay for Seattle CEO may not last - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWklGc3BnaGxpUmRrS0h4TXpyOXpDNDN4Sy04MW9iZnlFUEJGSlN5Tzl2NlRzb0p6Z1Fwby1pb3poTWMzWVRud2xMS05FcVN1U2ZkZHEtLURmSEI5R3Jqc2haRDRTNWpKM1Z5eHhUQzNJemdDZkJNQ1dxODh5V3otVTI4N3d2d0w4czdWekNsTElDX2JYNWVLdUpWZ2FvS3A1blJtLU5fd3l4czhib2ZmWEk1b09nOGQybmk0ejhwUEpzUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWklGc3BnaGxpUmRrS0h4TXpyOXpDNDN4Sy04MW9iZnlFUEJGSlN5Tzl2NlRzb0p6Z1Fwby1pb3poTWMzWVRud2xMS05FcVN1U2ZkZHEtLURmSEI5R3Jqc2haRDRTNWpKM1Z5eHhUQzNJemdDZkJNQ1dxODh5V3otVTI4N3d2d0w4czdWekNsTElDX2JYNWVLdUpWZ2FvS3A1blJtLU5fd3l4czhib2ZmWEk1b09nOGQybmk0ejhwUEpzUQ?oc=5\" target=\"_blank\">Record-setting pay for Seattle CEO may not last</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+      "published": "2025-12-02T14:00:00+00:00",
+      "source": "The Seattle Times"
     },
     {
       "title": "I struggled to find a job after working at Microsoft, Meta, and Apple — until I embraced AI and looked beyond Big Tech - Business Insider",
@@ -19,45 +40,24 @@
       "source": "Business Insider"
     },
     {
-      "title": "Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQndCTkxyZWxZblNsSUhOdElsODRjX3FlV0ozdnhCMC1Sd1VsUWF3QXBzWE1qcXFDOEpXcGhaN1dSRGhYdUVFXzc1YUhZdmtSTXF6MlZLcmpxMmYtMzlMOXJzS2Jrb1JoVU9QcjgzSHJtdTlBQjhUdFVCeDBjVk5BeUs4VkdWU2dYRVhOWVNfOUswT2huZy1DNTJXblpLampRaEoxcEVDdktFUnZKQTNBZEtwUERMYWRjRHBXUVZ5RkdLWm5jZTl3RGVTeElWZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQndCTkxyZWxZblNsSUhOdElsODRjX3FlV0ozdnhCMC1Sd1VsUWF3QXBzWE1qcXFDOEpXcGhaN1dSRGhYdUVFXzc1YUhZdmtSTXF6MlZLcmpxMmYtMzlMOXJzS2Jrb1JoVU9QcjgzSHJtdTlBQjhUdFVCeDBjVk5BeUs4VkdWU2dYRVhOWVNfOUswT2huZy1DNTJXblpLampRaEoxcEVDdktFUnZKQTNBZEtwUERMYWRjRHBXUVZ5RkdLWm5jZTl3RGVTeElWZw?oc=5\" target=\"_blank\">Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-12-02T01:34:46+00:00",
-      "source": "TechCrunch"
+      "title": "Microsoft mops up Mesh after another metaverse misfire - theregister.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LR1FiTk1LT2txcHBkckJsYngxb09nZEdtX3RkbEs4RUVoQWVsT3VTM3M3Qll0ZXJEdHRXTXBZRERWN2V3a1EwVzVDRnRmWkpfTE1ud2pINW5fcmR0Q0MxZURIQVEzOTMwVzhz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1LR1FiTk1LT2txcHBkckJsYngxb09nZEdtX3RkbEs4RUVoQWVsT3VTM3M3Qll0ZXJEdHRXTXBZRERWN2V3a1EwVzVDRnRmWkpfTE1ud2pINW5fcmR0Q0MxZURIQVEzOTMwVzhz?oc=5\" target=\"_blank\">Microsoft mops up Mesh after another metaverse misfire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+      "published": "2025-12-02T17:35:00+00:00",
+      "source": "theregister.com"
     },
     {
-      "title": "Microsoft CEO: We’re investing in Europe’s tech - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmZGeGFCSjVPSTVXb0w2aUljQXFkeHlubGg1TzJzR1RHdzFxTmRHUDc1OTV4Z1hhOWtRTkw1VDN5OV9QdldnV2VqdF8yQkdHRUZSZUxqQXhLbUVPVjNFVXZEbWlwY3JGRUtlLTdNUWFFR3N0QU44VXRVcVVmTUNjcWN1Q3VuLWVEVEhEQ2RFeXBZT3Z2bDExNk5PWGY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmZGeGFCSjVPSTVXb0w2aUljQXFkeHlubGg1TzJzR1RHdzFxTmRHUDc1OTV4Z1hhOWtRTkw1VDN5OV9QdldnV2VqdF8yQkdHRUZSZUxqQXhLbUVPVjNFVXZEbWlwY3JGRUtlLTdNUWFFR3N0QU44VXRVcVVmTUNjcWN1Q3VuLWVEVEhEQ2RFeXBZT3Z2bDExNk5PWGY?oc=5\" target=\"_blank\">Microsoft CEO: We’re investing in Europe’s tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font>",
-      "published": "2025-12-01T19:22:00+00:00",
-      "source": "politico.eu"
+      "title": "Even Microsoft’s retro holiday sweaters are having Copilot forced upon them - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeWlxa045V3RPTmFhZTZUUldCUGlYdmJUSVdfclhhUVBJaVYwYkpjZ1BNY3VOVDlvc05wQjI5NGp5c1YyckViVXdjTkJYczYwdl8zMmIwWWZZWThLaG5fRGFYMzN0c1JZRmNZQUcwSHgtdlZZeTg5ZU9BTjVmQ3AyMm9KMFB4NEtUeDIza01ZMmc1NHN1OFB4ZnRIWF9VRkhKRmM5TGZVV0I1UkV5b2pEQ2xyWUpLQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeWlxa045V3RPTmFhZTZUUldCUGlYdmJUSVdfclhhUVBJaVYwYkpjZ1BNY3VOVDlvc05wQjI5NGp5c1YyckViVXdjTkJYczYwdl8zMmIwWWZZWThLaG5fRGFYMzN0c1JZRmNZQUcwSHgtdlZZeTg5ZU9BTjVmQ3AyMm9KMFB4NEtUeDIza01ZMmc1NHN1OFB4ZnRIWF9VRkhKRmM5TGZVV0I1UkV5b2pEQ2xyWUpLQQ?oc=5\" target=\"_blank\">Even Microsoft’s retro holiday sweaters are having Copilot forced upon them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2025-12-01T19:43:05+00:00",
+      "source": "Ars Technica"
     },
     {
-      "title": "Microsoft’s Nadella: AI needs ‘social permission’ to consume so much energy - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGJUREdXaTJyOThTXzBvWUpWYjk1Q0NlOFEtRXlkTHg0OEdsa2ptSUJnNTl5ZmNDZF9SZmdCZTFZRlBaa05HNEdwQUhuYnJKT1dVV1VqdERsYjgtSG4yX3VZYlZlMVBnMENoeHJuV3lRaE9qaVRNdkpHZ2lhNFpxNHU0aXJWVHlFNVk2eTNtMWdZRko2RFhocWJJTWtBVVZjd0IxalduZ1pPZlFIeWZLUVU0SnFwd2lkN1lzLUM0MXY1TVI1dnNFS21R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGJUREdXaTJyOThTXzBvWUpWYjk1Q0NlOFEtRXlkTHg0OEdsa2ptSUJnNTl5ZmNDZF9SZmdCZTFZRlBaa05HNEdwQUhuYnJKT1dVV1VqdERsYjgtSG4yX3VZYlZlMVBnMENoeHJuV3lRaE9qaVRNdkpHZ2lhNFpxNHU0aXJWVHlFNVk2eTNtMWdZRko2RFhocWJJTWtBVVZjd0IxalduZ1pPZlFIeWZLUVU0SnFwd2lkN1lzLUM0MXY1TVI1dnNFS21R?oc=5\" target=\"_blank\">Microsoft’s Nadella: AI needs ‘social permission’ to consume so much energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
-      "published": "2025-12-01T22:06:01+00:00",
-      "source": "Politico"
-    },
-    {
-      "title": "Satya Nadella says he spends his weekends studying startups as Microsoft's size has become a 'massive disadvantage' - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem9mMmdmbUNWcU0wcHpQOEgtVW1ZQXU0MU9jNklPc2ZlNWxoUm5RZjZKNlh2RnJCdFFtUzFxZ2xKWnhfUV9RMkFGMXJzMzJDN1lOQjdtQ1dRajFLZHJPN1gzSFVOWFRUTDJBMkt3akxGcVNtbDNlOTRGSTF3dGtleF9BR3hCa25CUnZ3Umt0cjRPaFBWLWpwUVEwZ0w1anJBeFVQSXh1bnhlbUhCZllz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPem9mMmdmbUNWcU0wcHpQOEgtVW1ZQXU0MU9jNklPc2ZlNWxoUm5RZjZKNlh2RnJCdFFtUzFxZ2xKWnhfUV9RMkFGMXJzMzJDN1lOQjdtQ1dRajFLZHJPN1gzSFVOWFRUTDJBMkt3akxGcVNtbDNlOTRGSTF3dGtleF9BR3hCa25CUnZ3Umt0cjRPaFBWLWpwUVEwZ0w1anJBeFVQSXh1bnhlbUhCZllz?oc=5\" target=\"_blank\">Satya Nadella says he spends his weekends studying startups as Microsoft's size has become a 'massive disadvantage'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-12-01T16:47:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "‘Security Disaster’—500 Million Microsoft Users Say No To Windows 11 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHNseDJXZ1hFZmxJdzRUYXVCaGZGQlYtUTZTaEhZaEJqYnFVTFNpOGNUVk56cllHbXBNVDZpdjN6V2hTQjA0RVAwaTdhcFFvSEZUaldQbEdhbS1HYmtMTWMyV056c0xOTjlfOFJ5RHRaaFFreFdkY1ZKOC1WSnQzMHJHNlpkYnpHN0RDZ1R1b3NWUWFkYlZTeVM5N2JGVkxpNlBmQ2dJSnJycHBET2c3bHZKUjBIZVh3YVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHNseDJXZ1hFZmxJdzRUYXVCaGZGQlYtUTZTaEhZaEJqYnFVTFNpOGNUVk56cllHbXBNVDZpdjN6V2hTQjA0RVAwaTdhcFFvSEZUaldQbEdhbS1HYmtMTWMyV056c0xOTjlfOFJ5RHRaaFFreFdkY1ZKOC1WSnQzMHJHNlpkYnpHN0RDZ1R1b3NWUWFkYlZTeVM5N2JGVkxpNlBmQ2dJSnJycHBET2c3bHZKUjBIZVh3YVE?oc=5\" target=\"_blank\">‘Security Disaster’—500 Million Microsoft Users Say No To Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-12-01T06:40:47+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Microsoft can't fix Windows 11 because it won't stop breaking it - XDA",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGswNUNkV05jRkhpTW9lMy01ZnlyRE8xb0l1VGpzLW5sODk2QWVzcEJjdW9BS1Q3SUlhYi1hQmtSX3hjVFNpVUFtMi04U1R0cmlqb2ZTRWtTTUZDOGJGdC05aHAzaUNpbUlLR2xLaG1KTmxKUzhIYnFJYWNudE5UODRlbjdUZk9WVEdF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGswNUNkV05jRkhpTW9lMy01ZnlyRE8xb0l1VGpzLW5sODk2QWVzcEJjdW9BS1Q3SUlhYi1hQmtSX3hjVFNpVUFtMi04U1R0cmlqb2ZTRWtTTUZDOGJGdC05aHAzaUNpbUlLR2xLaG1KTmxKUzhIYnFJYWNudE5UODRlbjdUZk9WVEdF?oc=5\" target=\"_blank\">Microsoft can't fix Windows 11 because it won't stop breaking it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XDA</font>",
-      "published": "2025-12-01T17:00:00+00:00",
+      "title": "Microsoft Teams is finally getting two long-requested productivity features - XDA",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbi1uc1lhTlFyWm96bEV1MzIxNUZKTUc0WXZsaF95Q3VhQmtoT1UwTWNuc2RQMU05dEh1N2s2NGEwWHdsMTZNelBCWm05UlplU0gtVm45U0h0Nm51emp2VU8wZV9ualkwUV9Ia0xuZGd1YmU1ZUZCUzFOcmtJM05JS1h4UTNRYWV4SVhUb01uWGhmYzVZaHdOUHlJX21LS2JhV2xYbFBoQnlYdEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbi1uc1lhTlFyWm96bEV1MzIxNUZKTUc0WXZsaF95Q3VhQmtoT1UwTWNuc2RQMU05dEh1N2s2NGEwWHdsMTZNelBCWm05UlplU0gtVm45U0h0Nm51emp2VU8wZV9ualkwUV9Ia0xuZGd1YmU1ZUZCUzFOcmtJM05JS1h4UTNRYWV4SVhUb01uWGhmYzVZaHdOUHlJX21LS2JhV2xYbFBoQnlYdEk?oc=5\" target=\"_blank\">Microsoft Teams is finally getting two long-requested productivity features</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XDA</font>",
+      "published": "2025-12-03T05:57:00+00:00",
       "source": "XDA"
     }
   ],
@@ -77,18 +77,18 @@
       "source": "TechRadar"
     },
     {
-      "title": "When Will Microsoft Flight Simulator 2024 Launch on PlayStation 5? Timings Confirmed - FSElite",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0VCM2dRMmVxbDZmbmFZZDRiYUNlbklZTG9wOWxfLWgweGR1VnAwRjRNdXJKdjgyM2s3T2FhM1l4eFFnT0lVS1E4dTRZZTNwMGphdHNfcTM2VGV6ZDhxcXBKai13WDdaR0l2VFNLWmJ0bFBhYXFzQUNoM29fLXdQLUhJY21JckZ2NXA3eUNxTzk4WmZvdUdhb3N4Y2RHWTFMYkQ0UDZrSk1YQWF2UGtsU2Zn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0VCM2dRMmVxbDZmbmFZZDRiYUNlbklZTG9wOWxfLWgweGR1VnAwRjRNdXJKdjgyM2s3T2FhM1l4eFFnT0lVS1E4dTRZZTNwMGphdHNfcTM2VGV6ZDhxcXBKai13WDdaR0l2VFNLWmJ0bFBhYXFzQUNoM29fLXdQLUhJY21JckZ2NXA3eUNxTzk4WmZvdUdhb3N4Y2RHWTFMYkQ0UDZrSk1YQWF2UGtsU2Zn?oc=5\" target=\"_blank\">When Will Microsoft Flight Simulator 2024 Launch on PlayStation 5? Timings Confirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FSElite</font>",
-      "published": "2025-11-28T20:14:00+00:00",
-      "source": "FSElite"
-    },
-    {
       "title": "Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5\" target=\"_blank\">Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2025-10-09T07:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "When Will Microsoft Flight Simulator 2024 Launch on PlayStation 5? Timings Confirmed - FSElite",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0VCM2dRMmVxbDZmbmFZZDRiYUNlbklZTG9wOWxfLWgweGR1VnAwRjRNdXJKdjgyM2s3T2FhM1l4eFFnT0lVS1E4dTRZZTNwMGphdHNfcTM2VGV6ZDhxcXBKai13WDdaR0l2VFNLWmJ0bFBhYXFzQUNoM29fLXdQLUhJY21JckZ2NXA3eUNxTzk4WmZvdUdhb3N4Y2RHWTFMYkQ0UDZrSk1YQWF2UGtsU2Zn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0VCM2dRMmVxbDZmbmFZZDRiYUNlbklZTG9wOWxfLWgweGR1VnAwRjRNdXJKdjgyM2s3T2FhM1l4eFFnT0lVS1E4dTRZZTNwMGphdHNfcTM2VGV6ZDhxcXBKai13WDdaR0l2VFNLWmJ0bFBhYXFzQUNoM29fLXdQLUhJY21JckZ2NXA3eUNxTzk4WmZvdUdhb3N4Y2RHWTFMYkQ0UDZrSk1YQWF2UGtsU2Zn?oc=5\" target=\"_blank\">When Will Microsoft Flight Simulator 2024 Launch on PlayStation 5? Timings Confirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FSElite</font>",
+      "published": "2025-11-28T20:14:00+00:00",
+      "source": "FSElite"
     },
     {
       "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-01",
-      "close": 486.739990234375
+      "date": "2025-12-02",
+      "close": 490.0
     },
     "history": [
-      {
-        "date": "2025-11-20",
-        "close": 478.42999267578125
-      },
       {
         "date": "2025-11-21",
         "close": 472.1199951171875
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-01",
         "close": 486.739990234375
+      },
+      {
+        "date": "2025-12-02",
+        "close": 490.0
       }
     ],
     "name": "Microsoft Corporation"
