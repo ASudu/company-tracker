@@ -2,66 +2,87 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2025-12-05T12:24:53.178182+00:00",
+  "fetched_at": "2025-12-06T12:21:54.625525+00:00",
   "news": [
+    {
+      "title": "Meta acquiring AI wearable company Limitless - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMWNFZGFabzVEYV9jNlhqOUpGX19JM2pjejZ3ODM2NjhaM0VTblRSNnZoZHdaR2ktVVF5VTY1S3pyQ3JiSFVFbmlrMUNlUXA2QkdhYUhlSWVOVXZVTmtQZWNhdlZ5bTd2OWV4LTljM1jSAXZBVV95cUxPa2pQb21PbjVEc1FvVHRzZzUxcFpScXlBVlZ6Zm1IZWQ4dkFHaWZaZXFJNWFtQ0hMQTdWZW85R1pMLWw4SU55ZThnaXhKZXRadklVNFVjdlRUanZCeGQ5b21iZm1UbURvUkxIblFQa3pRcTJ6SkZn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMWNFZGFabzVEYV9jNlhqOUpGX19JM2pjejZ3ODM2NjhaM0VTblRSNnZoZHdaR2ktVVF5VTY1S3pyQ3JiSFVFbmlrMUNlUXA2QkdhYUhlSWVOVXZVTmtQZWNhdlZ5bTd2OWV4LTljM1jSAXZBVV95cUxPa2pQb21PbjVEc1FvVHRzZzUxcFpScXlBVlZ6Zm1IZWQ4dkFHaWZaZXFJNWFtQ0hMQTdWZW85R1pMLWw4SU55ZThnaXhKZXRadklVNFVjdlRUanZCeGQ5b21iZm1UbURvUkxIblFQa3pRcTJ6SkZn?oc=5\" target=\"_blank\">Meta acquiring AI wearable company Limitless</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-12-05T19:43:25+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta acquires AI-wearables startup Limitless - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFJPbFdCU3Bmck9fY2daNnBQRVA2UlZhLTdxdU95X3RTeGVFN3NXMmpXSXRBU2MtS2g0WDdGQjJCUm1HRDJGc05YdG1yd0ozYmNKRVFjOTV5czdtQUo2dkp4WFZmTEFsRHFrYWhRdVFuV0t6Wkw5NzlsYnhNbGhlMFRUZy1aZzhkQXctT2xfdXZIVFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObFJPbFdCU3Bmck9fY2daNnBQRVA2UlZhLTdxdU95X3RTeGVFN3NXMmpXSXRBU2MtS2g0WDdGQjJCUm1HRDJGc05YdG1yd0ozYmNKRVFjOTV5czdtQUo2dkp4WFZmTEFsRHFrYWhRdVFuV0t6Wkw5NzlsYnhNbGhlMFRUZy1aZzhkQXctT2xfdXZIVFE?oc=5\" target=\"_blank\">Meta acquires AI-wearables startup Limitless</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-12-05T19:08:19+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta buys AI pendant start-up Limitless to expand hardware push - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScU9uR3dkOGx2UFdPaWo0Z0NDVHhvVEFDcjBzcUM4b3ZVcTJ2dWUyVFo0bTFpeDd6aDE4NmRIUkwxZUFYcjQzSWxhLXA3U3pMaERiN1lQTlJTWHdsdVlVUWthREh5MFgxT0NWaEs4S1U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScU9uR3dkOGx2UFdPaWo0Z0NDVHhvVEFDcjBzcUM4b3ZVcTJ2dWUyVFo0bTFpeDd6aDE4NmRIUkwxZUFYcjQzSWxhLXA3U3pMaERiN1lQTlJTWHdsdVlVUWthREh5MFgxT0NWaEs4S1U?oc=5\" target=\"_blank\">Meta buys AI pendant start-up Limitless to expand hardware push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2025-12-05T22:04:43+00:00",
+      "source": "Financial Times"
+    },
     {
       "title": "Meta’s Zuckerberg Plans Deep Cuts for Metaverse Efforts - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTlKY3dVbC1VVHA1LTM5cWwxOHFTN0t4X0txQzQtTV9pelluY3RsNW03RjBLV1NWdEtDZDkyWV9aRnhoaG9VVV9TOEljcGwwS1dTMnNhXzNQeVYtX2haWWgzTlZ1aUVNYUxOU1ZjbWsxeWNrM0xvWlNOTzJtYTY1UTlpMDVMT2FicFlhTEo3WFNDZzVENDYtenM3Y1o1QnM4eklIY205ZWJiZw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTlKY3dVbC1VVHA1LTM5cWwxOHFTN0t4X0txQzQtTV9pelluY3RsNW03RjBLV1NWdEtDZDkyWV9aRnhoaG9VVV9TOEljcGwwS1dTMnNhXzNQeVYtX2haWWgzTlZ1aUVNYUxOU1ZjbWsxeWNrM0xvWlNOTzJtYTY1UTlpMDVMT2FicFlhTEo3WFNDZzVENDYtenM3Y1o1QnM4eklIY205ZWJiZw?oc=5\" target=\"_blank\">Meta’s Zuckerberg Plans Deep Cuts for Metaverse Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBZRzVaOXY4akdfMVlHVnUxcnlFdU9GRzFvdlVBTHFZRTJ6bGJQQmpHVUM3WHdNXy1hTVZmVzJLMUpvRzVCeW9rSUwxdlBuZkFnQnhjbi00b3pxM0R0Z3BFZi1iVEJ0a1NDMzZWQ3FXQmQ5MkRGNnhIaw?oc=5\" target=\"_blank\">The metaverse is cooked, and Wall Street couldn’t be happier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkdlaDNWLV81QnAzTW9qVzd1V2JfQmFOS2dqRkdXdWpiT2FveThKSjdzank5WWlnbzdCRnQ2MGc2elRIaVJKcktIOEtJbW40UzRHYkNnTnFSZzdmcGxqUzAxbGc1Qm5PcU9NNFJWQkxGTkRlQmF6dlhDUzllTzJGQg?oc=5\" target=\"_blank\">Meta Weighs Cuts to Its Metaverse Unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTlKY3dVbC1VVHA1LTM5cWwxOHFTN0t4X0txQzQtTV9pelluY3RsNW03RjBLV1NWdEtDZDkyWV9aRnhoaG9VVV9TOEljcGwwS1dTMnNhXzNQeVYtX2haWWgzTlZ1aUVNYUxOU1ZjbWsxeWNrM0xvWlNOTzJtYTY1UTlpMDVMT2FicFlhTEo3WFNDZzVENDYtenM3Y1o1QnM4eklIY205ZWJiZw?oc=5\" target=\"_blank\">Meta’s Zuckerberg Plans Deep Cuts for Metaverse Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxObjVLbEIyMXU5WXUteXZoQ1FELU9GV2lqaDl4dHJkZlhfR0pNdkZBUkV0N2VTU0V0YmJfMTc0QmV3anFpeFZQQXNWVEkwcFl3WEJzWmNPVHpVM181MGc5VjBlelFEM0RjOXBfME11bDhLOGxTbGhiZFotbGwtMWt1Ny1Ic1VuV0ZHRXF4WGNSc3Y?oc=5\" target=\"_blank\">Mark Zuckerberg rebranded Facebook for the metaverse. Four years and $70 billion in losses later, he’s moving on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkdlaDNWLV81QnAzTW9qVzd1V2JfQmFOS2dqRkdXdWpiT2FveThKSjdzank5WWlnbzdCRnQ2MGc2elRIaVJKcktIOEtJbW40UzRHYkNnTnFSZzdmcGxqUzAxbGc1Qm5PcU9NNFJWQkxGTkRlQmF6dlhDUzllTzJGQg?oc=5\" target=\"_blank\">Meta Weighs Cuts to Its Metaverse Unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
       "published": "2025-12-04T22:52:43+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Making it Easier to Access Account Support on Facebook and Instagram - Meta Store",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDRCZjItRmJtOW9hc19td1pyekFkMmx6RzVtTVoxU1d2T2ZWYnpSU2hKNzZFNnFRM1BxSHhMMEZqTTN1cFZUcE9TX2NxWWFzU01RNTlvUm00NDYxQXFRS19VOE5kYXczVWZ3c3l0TmRneGZJclBvSDcwVS1UR2pNZEhuU0o1RXJVZDQ0NGxLeUNKSTZQaXFZZUlSLTl5dmhVemJmY1Nn0gGrAUFVX3lxTE5IaGJhVFU2QzRONWd5OG9yWGxzTFZTbnBWWk5ycjNNOU9GaHFCR3NkWXNBNWdMZkI1VnZrRGJpNzJlR2J5eWtFZFJtakRoc2hLVFVsTFptaE1adGYwekJtREpjZ25jRkEtX29FMDRXLTgzY0N0ajBaazZyaFFXQ0xKSXp4MWlSZGQwRUlOMlpZa3ZydzRNdE1YNUVQdl81REt0TDAtNkd3dTFMZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDRCZjItRmJtOW9hc19td1pyekFkMmx6RzVtTVoxU1d2T2ZWYnpSU2hKNzZFNnFRM1BxSHhMMEZqTTN1cFZUcE9TX2NxWWFzU01RNTlvUm00NDYxQXFRS19VOE5kYXczVWZ3c3l0TmRneGZJclBvSDcwVS1UR2pNZEhuU0o1RXJVZDQ0NGxLeUNKSTZQaXFZZUlSLTl5dmhVemJmY1Nn0gGrAUFVX3lxTE5IaGJhVFU2QzRONWd5OG9yWGxzTFZTbnBWWk5ycjNNOU9GaHFCR3NkWXNBNWdMZkI1VnZrRGJpNzJlR2J5eWtFZFJtakRoc2hLVFVsTFptaE1adGYwekJtREpjZ25jRkEtX29FMDRXLTgzY0N0ajBaazZyaFFXQ0xKSXp4MWlSZGQwRUlOMlpZa3ZydzRNdE1YNUVQdl81REt0TDAtNkd3dTFMZw?oc=5\" target=\"_blank\">Making it Easier to Access Account Support on Facebook and Instagram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
-      "published": "2025-12-04T17:00:50+00:00",
+      "title": "Meta Delays Ultralight Headset & Starts Work On Gaming-Focused Quest 4 - UploadVR",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2YyTnU1R0doT1NjUVdFcUF3TXlMb0h4SHp1YXRmenJPNE1ndHFVeWFUUFZiUGJlQ2hwOHpVMmhUNlY2MjN0dTFidnRma05YWERoU2MxX1p2eUE4Uy1ERzhKeGpPZFNEWG9SZjFsYzFBZk5kWFFuS3pVWXlMbkkxaURnX1Rrel9GU1Qw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2YyTnU1R0doT1NjUVdFcUF3TXlMb0h4SHp1YXRmenJPNE1ndHFVeWFUUFZiUGJlQ2hwOHpVMmhUNlY2MjN0dTFidnRma05YWERoU2MxX1p2eUE4Uy1ERzhKeGpPZFNEWG9SZjFsYzFBZk5kWFFuS3pVWXlMbkkxaURnX1Rrel9GU1Qw?oc=5\" target=\"_blank\">Meta Delays Ultralight Headset & Starts Work On Gaming-Focused Quest 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
+      "published": "2025-12-06T11:37:30+00:00",
+      "source": "UploadVR"
+    },
+    {
+      "title": "How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVlPWUVSajdseXV1TkZhYkRpLVNjWEdld0FhcEhSYkZ2LWR6SmE3ZWYxQUYzYThQMzhSVGhJakU0RFBfZXIzMXNIc1lRNmRyUVRSdG45b0c5WFprX1VHRXA2TnRfYXJNYWxmMmUyaUUzcExkSFB3QWkyVGpCb0s3UzNrc0xfV0phaTVHa2NHeFhwWlRJVTdYTDk0MA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVlPWUVSajdseXV1TkZhYkRpLVNjWEdld0FhcEhSYkZ2LWR6SmE3ZWYxQUYzYThQMzhSVGhJakU0RFBfZXIzMXNIc1lRNmRyUVRSdG45b0c5WFprX1VHRXA2TnRfYXJNYWxmMmUyaUUzcExkSFB3QWkyVGpCb0s3UzNrc0xfV0phaTVHa2NHeFhwWlRJVTdYTDk0MA?oc=5\" target=\"_blank\">How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2025-12-06T10:00:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Bringing More Real-Time News and Content to Meta AI - Meta Store",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnAwUVo0QzRfQmFXNFg0Q1NleE1KTlNRd0RnZVFORW5hN2RjQ0JLNV9WdDR1TU5VUlpqOU9XemxOWG5Ia1Zhb0otLU1QYTZmdm1tMVlTWFhCcFF5Y2ZPZjFNeTZ0MFVWR2xUNzU2T2lNcUlOVFZUMGhMdXFMaGdIVmRYcFlGSEFTSEV0SUg5QdIBlAFBVV95cUxQOFZjbVVlWHZIM2UyQ0JaeVBIYXRDTDRQTHozVmV0ZmlQVlc4aVhRajRfelp2M0htRzZwZHVLV3VpNUFNUG9EYjE3Sm5ZY2tMR1pIdWE0U0xrNlplTTExR1VlSExvbkF3aG41THpIRDdtaHp5MllpQjNTcGlUeWZhU0U3NXpua1JNNF9BajZEY2ZMUkdP?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnAwUVo0QzRfQmFXNFg0Q1NleE1KTlNRd0RnZVFORW5hN2RjQ0JLNV9WdDR1TU5VUlpqOU9XemxOWG5Ia1Zhb0otLU1QYTZmdm1tMVlTWFhCcFF5Y2ZPZjFNeTZ0MFVWR2xUNzU2T2lNcUlOVFZUMGhMdXFMaGdIVmRYcFlGSEFTSEV0SUg5QdIBlAFBVV95cUxQOFZjbVVlWHZIM2UyQ0JaeVBIYXRDTDRQTHozVmV0ZmlQVlc4aVhRajRfelp2M0htRzZwZHVLV3VpNUFNUG9EYjE3Sm5ZY2tMR1pIdWE0U0xrNlplTTExR1VlSExvbkF3aG41THpIRDdtaHp5MllpQjNTcGlUeWZhU0U3NXpua1JNNF9BajZEY2ZMUkdP?oc=5\" target=\"_blank\">Bringing More Real-Time News and Content to Meta AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
+      "published": "2025-12-05T13:05:50+00:00",
       "source": "Meta Store"
     },
     {
-      "title": "Meta starts kicking Australian children off Instagram and Facebook - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cd0FmLVpDdHo4Z3czZlAyWW9POV81WC1WVV9FdnJmdlNXblVJSmljeDRwZWp2TERYQ3MyRXhBbEdIVVhYamZPZnFrVVRYWWZsWXRMalRHXzBZUdIBX0FVX3lxTFBsbWZUbF9rclZsM0ZNMlFRb29NbE94YUxDNEZTTlAxNDlSNjlkc3BrRUJBTUhGUldEWWxlb0wzRHYwU3dnZXFvclFnWWstdEFfS0FPUGVhQ1AtS09odWZr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cd0FmLVpDdHo4Z3czZlAyWW9POV81WC1WVV9FdnJmdlNXblVJSmljeDRwZWp2TERYQ3MyRXhBbEdIVVhYamZPZnFrVVRYWWZsWXRMalRHXzBZUdIBX0FVX3lxTFBsbWZUbF9rclZsM0ZNMlFRb29NbE94YUxDNEZTTlAxNDlSNjlkc3BrRUJBTUhGUldEWWxlb0wzRHYwU3dnZXFvclFnWWstdEFfS0FPUGVhQ1AtS09odWZr?oc=5\" target=\"_blank\">Meta starts kicking Australian children off Instagram and Facebook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2025-12-04T06:00:44+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "Meta Launches AI-Powered Account Support Options - Social Media Today",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnNoY1Z0M09TUjM3N0lMby1nbXFFXzhSUVFlY1k1ZTlFd3oxa1laSnU5UjV3RWw4SGxPZHFFM01kVDlFTXlnVUp0bDBlblh5YTZBNmhtSlFtYWI4NmctUDFMYnJrS0M5a1J0b0VUYmNraEdnVklEN2VkTnRDTzQ2TXE2RzZTYlpNbkw0Rl9uX2dqNEM2Q0FpV0dR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnNoY1Z0M09TUjM3N0lMby1nbXFFXzhSUVFlY1k1ZTlFd3oxa1laSnU5UjV3RWw4SGxPZHFFM01kVDlFTXlnVUp0bDBlblh5YTZBNmhtSlFtYWI4NmctUDFMYnJrS0M5a1J0b0VUYmNraEdnVklEN2VkTnRDTzQ2TXE2RzZTYlpNbkw0Rl9uX2dqNEM2Q0FpV0dR?oc=5\" target=\"_blank\">Meta Launches AI-Powered Account Support Options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Social Media Today</font>",
-      "published": "2025-12-04T18:23:48+00:00",
-      "source": "Social Media Today"
-    },
-    {
-      "title": "Apple Design Executive Alan Dye Poached by Meta in Major Coup - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkZvc0lLcWJRWmZqMFh1TlZiZzEyQnNTNW1HdUh5djVGbmxsOWlFSEg4bjRmWE5jbm5FeTVqdmFuWnYyamk5SjJMX3hoUkg1MGt5RGczdlgtRzJNdDBvNThMeGxramtlR3JkQ3VBclh3YWRaeVMzTWVLNVZlZGZmcVJzU3dFelN6MXhoZHpyc2VCMEU5TUFkTlN0R1VYWTBtcVJJYmxXb1J5U2hzUW1oS1pB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkZvc0lLcWJRWmZqMFh1TlZiZzEyQnNTNW1HdUh5djVGbmxsOWlFSEg4bjRmWE5jbm5FeTVqdmFuWnYyamk5SjJMX3hoUkg1MGt5RGczdlgtRzJNdDBvNThMeGxramtlR3JkQ3VBclh3YWRaeVMzTWVLNVZlZGZmcVJzU3dFelN6MXhoZHpyc2VCMEU5TUFkTlN0R1VYWTBtcVJJYmxXb1J5U2hzUW1oS1pB?oc=5\" target=\"_blank\">Apple Design Executive Alan Dye Poached by Meta in Major Coup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-12-03T21:09:44+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Design executive behind 'Liquid Glass' is leaving Apple - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93SGRTMzhGeGJ3Rk1mT05fc2RwaEhjeWlIN2RxV2FjOE03S2dPdWpIY0NDSjl2NnZZalVVcEZUTGlHeTdkS3RTbXplV1loRllsb3g4S3hkR0dUZk1MMlpDMURZb3Z0b041TDhxNFRRU2EtS1FpZ3JUU1B5emvSAYIBQVVfeXFMUE1ER1VHcEtFT2JENFA1aGl1b3kzcHZrTFVvc2M1MnhXejd3Mk9GTE5GQW1maEpNc0tuVkhXWnNqeTU4SDBtSjNtZjBFaS10a05TTFFYeWdiTEpWS0J0cUc4d1JOQkNNbjdrSmpKV0NScWxKSXZPaVhhQ2ZFSjlrc25GQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE93SGRTMzhGeGJ3Rk1mT05fc2RwaEhjeWlIN2RxV2FjOE03S2dPdWpIY0NDSjl2NnZZalVVcEZUTGlHeTdkS3RTbXplV1loRllsb3g4S3hkR0dUZk1MMlpDMURZb3Z0b041TDhxNFRRU2EtS1FpZ3JUU1B5emvSAYIBQVVfeXFMUE1ER1VHcEtFT2JENFA1aGl1b3kzcHZrTFVvc2M1MnhXejd3Mk9GTE5GQW1maEpNc0tuVkhXWnNqeTU4SDBtSjNtZjBFaS10a05TTFFYeWdiTEpWS0J0cUc4d1JOQkNNbjdrSmpKV0NScWxKSXZPaVhhQ2ZFSjlrc25GQQ?oc=5\" target=\"_blank\">Design executive behind 'Liquid Glass' is leaving Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-12-03T21:17:49+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2pjV3VCUGJYeldjRjRhMkVnOVRTTTM0VElLNFhHVWktYV9lNXg2Tl9PR0x0bzZCZEozSlY3RW9oMTN0MzB1MEJCRTI5VGFuVXNCRWMySXRXYTJ2LS1SSDdITl9NelhGaERscldVZjlDZ1BhNmFfSzFnSmNZSVp6dk04REVzNGFPcGFwSTdENVdBOEJFanZaN2lKRXU4VjI0UzhIQXV6M1VteTJ3VkxGeDQ3TE9jTF9xcmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2pjV3VCUGJYeldjRjRhMkVnOVRTTTM0VElLNFhHVWktYV9lNXg2Tl9PR0x0bzZCZEozSlY3RW9oMTN0MzB1MEJCRTI5VGFuVXNCRWMySXRXYTJ2LS1SSDdITl9NelhGaERscldVZjlDZ1BhNmFfSzFnSmNZSVp6dk04REVzNGFPcGFwSTdENVdBOEJFanZaN2lKRXU4VjI0UzhIQXV6M1VteTJ3VkxGeDQ3TE9jTF9xcmc?oc=5\" target=\"_blank\">Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-12-03T23:37:26+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Meta Reality Labs Reportedly Facing Up To 30% Budget Cut - UploadVR",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDZMVFA5cWhuTVFrcngtcC1MYWZRcktqdkNWcGZRbUcwRkt0anU5ZHRLWTBPZkVLQjFlWmFYZEJFNXV3WWJvMDFsUmI3clZyMXU3MjJ6Y1hEUWUtcXJLUkVsc2s4bjJSTWg5S3piZU5HclBqeG9aY1RBcUJfdFlSUDNhUlB6OG1v?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDZMVFA5cWhuTVFrcngtcC1MYWZRcktqdkNWcGZRbUcwRkt0anU5ZHRLWTBPZkVLQjFlWmFYZEJFNXV3WWJvMDFsUmI3clZyMXU3MjJ6Y1hEUWUtcXJLUkVsc2s4bjJSTWg5S3piZU5HclBqeG9aY1RBcUJfdFlSUDNhUlB6OG1v?oc=5\" target=\"_blank\">Meta Reality Labs Reportedly Facing Up To 30% Budget Cut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
-      "published": "2025-12-04T17:48:31+00:00",
-      "source": "UploadVR"
+      "title": "Exclusive: Meta strikes multiple AI deals with news publishers - Axios",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VQklkdEVMNlo5dDVvVzBYaTZkS3A5MkJROF9ReGtrazk3NC1IaTBlV2NQU0hlOWExR082TE9XQnVsempSSU5aYTN5RGY3cU5IOXJmdkw3M1R5LW1kZ09RQVZGVFdNZnlMOFVELTlIdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9VQklkdEVMNlo5dDVvVzBYaTZkS3A5MkJROF9ReGtrazk3NC1IaTBlV2NQU0hlOWExR082TE9XQnVsempSSU5aYTN5RGY3cU5IOXJmdkw3M1R5LW1kZ09RQVZGVFdNZnlMOFVELTlIdw?oc=5\" target=\"_blank\">Exclusive: Meta strikes multiple AI deals with news publishers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2025-12-05T20:38:43+00:00",
+      "source": "Axios"
     }
   ],
   "product_launches": [
+    {
+      "title": "Meta pushes back launch of ‘Phoenix’ mixed reality glasses to refine features - The News International",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVVWU2dmSHlxN210ZkgtOTZuQ3lwQ3RBMlN5SjlBS2xXcTFSbzRsN1RMWGVZM1M5Rmc1YjlVUjNoR0h4bzFXdnlnQ2pCRS1ENlc3U0sxd21zbFRwUWNjMTNhZVZmREZLOV84Z044WGI0Wkpmdi0xbFlDelViVmJTY2hqbjNXZzRoOVZIV3pMMXh5bVNkWlcyaS1oT2dNd1dDZW9UcUE1NzE2S0FmTk1fUkx1TVpSN04x?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVVWU2dmSHlxN210ZkgtOTZuQ3lwQ3RBMlN5SjlBS2xXcTFSbzRsN1RMWGVZM1M5Rmc1YjlVUjNoR0h4bzFXdnlnQ2pCRS1ENlc3U0sxd21zbFRwUWNjMTNhZVZmREZLOV84Z044WGI0Wkpmdi0xbFlDelViVmJTY2hqbjNXZzRoOVZIV3pMMXh5bVNkWlcyaS1oT2dNd1dDZW9UcUE1NzE2S0FmTk1fUkx1TVpSN04x?oc=5\" target=\"_blank\">Meta pushes back launch of ‘Phoenix’ mixed reality glasses to refine features</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News International</font>",
+      "published": "2025-12-06T06:38:23+00:00",
+      "source": "The News International"
+    },
+    {
+      "title": "Meta Launches Unified AI-Powered Support Hub to Improve Account Security and Recovery Across Facebook and Instagram - AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSFR5TjVWYUdhVGdNODNYM1N0eUpMU1VTZjBFSVIxcnd4eFk2SElYcUN2NlRpUlBPbnFyQ2ljM2xTWkxqdmFXTzZjMU9zWExERE8yWWF2d0YxSGNSZXdOMGpjSWp6MVY0OTNWa2hyU1F5SXZBSkhzcHdlZVN4T2VheThjWnFPLV94MHJGT1BsN0JhU0cyamlQQnk2cE5kdTl3eGZZWWpHRllKNHUyR0xJaERCTjRrUGllSGhuanZSdGxHajJ1NTJZckVTQjBReEcyUnYwU05jZm1fWGJ4UkZBQ3BRZm41YjVY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSFR5TjVWYUdhVGdNODNYM1N0eUpMU1VTZjBFSVIxcnd4eFk2SElYcUN2NlRpUlBPbnFyQ2ljM2xTWkxqdmFXTzZjMU9zWExERE8yWWF2d0YxSGNSZXdOMGpjSWp6MVY0OTNWa2hyU1F5SXZBSkhzcHdlZVN4T2VheThjWnFPLV94MHJGT1BsN0JhU0cyamlQQnk2cE5kdTl3eGZZWWpHRllKNHUyR0xJaERCTjRrUGllSGhuanZSdGxHajJ1NTJZckVTQjBReEcyUnYwU05jZm1fWGJ4UkZBQ3BRZm41YjVY?oc=5\" target=\"_blank\">Meta Launches Unified AI-Powered Support Hub to Improve Account Security and Recovery Across Facebook and Instagram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
+      "published": "2025-12-05T16:27:25+00:00",
+      "source": "AI Insider"
+    },
+    {
+      "title": "Meta Postpones Phoenix Mixed-Reality Glasses Launch to 2027 - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE9mTGtwbWZKcEt4eUVzakRaZlFhdWQ3MFBENDhNeFNBbDFlaW44YVZmQkZXN0RweTRWTVp5RE9FOEd2TklmR1Y4NGVJREtQcGVmSkpFZ1BSaFpQdzVHNndFTmlUemxfdGRQSG5DVG1HSXpzdWVBbGlrZUZhOThxbU80bEZ0XzVqQnktMTdpVHQzVzhVLXVyUUFvLWRYZGxVaHc3WUVrWHRheDdpRnZYa29fVkRYQdIBuwFBVV95cUxNRk1GSFJrS0F5TnZoNUZ2Vk96RGJsUjFSbG1NZndCRnUxZGgwY0NxVjhOZEZnYVBTVk1rRVVGbDlSYi1JZTBFSFZLWFBreG1vRW9Bb3FEYnluRW1Bb25WaU5PN1FEOEtBRlJLWUxZWm56cm55TVBDQ3d6U0M1NURQYUN5SnlSdm9wcXlrRHZ3N0dTa09QWnlsY2JvYXR1T0VsNVh3Y0c1Nkd0M2F6XzdiSEhBTjlVWUp3MzN3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE9mTGtwbWZKcEt4eUVzakRaZlFhdWQ3MFBENDhNeFNBbDFlaW44YVZmQkZXN0RweTRWTVp5RE9FOEd2TklmR1Y4NGVJREtQcGVmSkpFZ1BSaFpQdzVHNndFTmlUemxfdGRQSG5DVG1HSXpzdWVBbGlrZUZhOThxbU80bEZ0XzVqQnktMTdpVHQzVzhVLXVyUUFvLWRYZGxVaHc3WUVrWHRheDdpRnZYa29fVkRYQdIBuwFBVV95cUxNRk1GSFJrS0F5TnZoNUZ2Vk96RGJsUjFSbG1NZndCRnUxZGgwY0NxVjhOZEZnYVBTVk1rRVVGbDlSYi1JZTBFSFZLWFBreG1vRW9Bb3FEYnluRW1Bb25WaU5PN1FEOEtBRlJLWUxZWm56cm55TVBDQ3d6U0M1NURQYUN5SnlSdm9wcXlrRHZ3N0dTa09QWnlsY2JvYXR1T0VsNVh3Y0c1Nkd0M2F6XzdiSEhBTjlVWUp3MzN3?oc=5\" target=\"_blank\">Meta Postpones Phoenix Mixed-Reality Glasses Launch to 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+      "published": "2025-12-06T03:51:11+00:00",
+      "source": "Devdiscourse"
+    },
     {
       "title": "Meta to debut costlier smart glasses with display at annual Connect event - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDUzU1IyOHA3ekJwNnVId0pDRVBlaFQ2d3FpRU9Sd0M4bUJ1MnBsTU5PaVNBODloeEw4d2NzdHB2YTBMZ2w5YmZmRHFoRzVHU2VTdmZWU1ZoSVFMMmlReW8yajFoZ1dGUmhxLXZJSS1kWWduWmFtNFFtNlZVbVgwM1lkNmliTjJWM0JpbHdFZDZsQ3ItV0hpM1RwNFJsWjRpbTBUc3J1WGctN0J1X25Od3B3?oc=5",
@@ -75,41 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5\" target=\"_blank\">Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2025-08-22T07:00:00+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "EU launches antitrust probe against Meta’s AI strategy blocking AI rivals on WhatsApp - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejdHNnFCZDZ1WnNvSFZVeUYyaEhvWFpEX3pNbXVkZE11UkY0cng1azYtVzlDbTRLUExsWjg4SnVtRXMtRGdMVl9OVnR4azBVZXE3Y2xwQkVlc3ltMDZSSmlnaklBSzVHMzAwVDJwV05mZlJtWF9tc1Q1WXZUNzZMN1dLQzJ5TE93MkNaeVlLVTRNN3ZNdHlzVVFTSVZVMUphdm1nbEFmQ2pWT1o2eW1MVkNYX21uVjR5NURzYVJVazRMZmIyMkhOY25lTGp0bmJuUTNGQmlsTllia2ZhbTN2TjF0YUcyODg20gHuAUFVX3lxTE5lY0JSam1KeXk5VUtjblExcU9tdnJJSHZ4cExrM2VGMk50MFM1OG0wNE13TjM1MGpNMGFPaVlWbGRpVHlwVTk5ZXQ0b2pSTm9YWUhJcUxFS3gycVBqeVA4S2RtbUlXM3RQQ2hVTTF3UzVZMEc4elBsT2lGVVE2QUVmS0o3UHpTVG81dk1uOHBoZ1YyaTJVb1dpVGVBc0lkT01aaGVmNzgtN3doYWY5MjNWYnZqeURLY3Y5ckpfUkVYd3VtaTBMMFdSbXJrZE85RU5lOTZlNlRrY09TdFZ5Xy1rX1gxSFM5ZDZpdUllVlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPejdHNnFCZDZ1WnNvSFZVeUYyaEhvWFpEX3pNbXVkZE11UkY0cng1azYtVzlDbTRLUExsWjg4SnVtRXMtRGdMVl9OVnR4azBVZXE3Y2xwQkVlc3ltMDZSSmlnaklBSzVHMzAwVDJwV05mZlJtWF9tc1Q1WXZUNzZMN1dLQzJ5TE93MkNaeVlLVTRNN3ZNdHlzVVFTSVZVMUphdm1nbEFmQ2pWT1o2eW1MVkNYX21uVjR5NURzYVJVazRMZmIyMkhOY25lTGp0bmJuUTNGQmlsTllia2ZhbTN2TjF0YUcyODg20gHuAUFVX3lxTE5lY0JSam1KeXk5VUtjblExcU9tdnJJSHZ4cExrM2VGMk50MFM1OG0wNE13TjM1MGpNMGFPaVlWbGRpVHlwVTk5ZXQ0b2pSTm9YWUhJcUxFS3gycVBqeVA4S2RtbUlXM3RQQ2hVTTF3UzVZMEc4elBsT2lGVVE2QUVmS0o3UHpTVG81dk1uOHBoZ1YyaTJVb1dpVGVBc0lkT01aaGVmNzgtN3doYWY5MjNWYnZqeURLY3Y5ckpfUkVYd3VtaTBMMFdSbXJrZE85RU5lOTZlNlRrY09TdFZ5Xy1rX1gxSFM5ZDZpdUllVlE?oc=5\" target=\"_blank\">EU launches antitrust probe against Meta’s AI strategy blocking AI rivals on WhatsApp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
-      "published": "2025-12-05T06:01:19+00:00",
-      "source": "Business Today"
-    },
-    {
-      "title": "Alibaba launches US$537 Quark AI glasses to challenge devices from Meta, Xiaomi - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3VmTDNZdDJwZ2Z3UGdRT3l1NTA1Nks3RWZzRXJ5eUVJRkdUZ2gwYlVGM29tQUhvQklTRC00ZjU0dVRxVmpIU0E2cDJNeVg1THJicV9HVlRPTHB3Ynd5S0RraUgzVlk5NlBPS3VJU25mUDFWVGlPU21tN2RVNlpERl9IdnBzUkt5TUZHdFVMMEk5TnphZGwyVkowMlhBU0xJVGtWTkRvRDlVbjRFYXluNXhXQTltWTNGd1FiWHNDcFI3X2QxQ0Rv0gHHAUFVX3lxTE54LWpmZ2s2cEJoRHR5SXh1TncxY0dvdEtraktJTVRWbXlPVWxieWFYR3dNMHlpakVXbWVSX2Fjb0xTRmQ0WXBNLURNVUtOX0gwU3JYeXkxaEJ3aW9DNlp0cFFySnllaDBQTUJmTHBmNVVMOTJIZDF1bkVJa05zU3h6N011NS1aeFRGV3NQdGNDVHJtaTVOR3M2MExuOXkxSHRBTDlMTnl6Z2VtakRuWExURzV0WlNXTTExYVdBVXRPaUNXNEV2Y28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3VmTDNZdDJwZ2Z3UGdRT3l1NTA1Nks3RWZzRXJ5eUVJRkdUZ2gwYlVGM29tQUhvQklTRC00ZjU0dVRxVmpIU0E2cDJNeVg1THJicV9HVlRPTHB3Ynd5S0RraUgzVlk5NlBPS3VJU25mUDFWVGlPU21tN2RVNlpERl9IdnBzUkt5TUZHdFVMMEk5TnphZGwyVkowMlhBU0xJVGtWTkRvRDlVbjRFYXluNXhXQTltWTNGd1FiWHNDcFI3X2QxQ0Rv0gHHAUFVX3lxTE54LWpmZ2s2cEJoRHR5SXh1TncxY0dvdEtraktJTVRWbXlPVWxieWFYR3dNMHlpakVXbWVSX2Fjb0xTRmQ0WXBNLURNVUtOX0gwU3JYeXkxaEJ3aW9DNlp0cFFySnllaDBQTUJmTHBmNVVMOTJIZDF1bkVJa05zU3h6N011NS1aeFRGV3NQdGNDVHJtaTVOR3M2MExuOXkxSHRBTDlMTnl6Z2VtakRuWExURzV0WlNXTTExYVdBVXRPaUNXNEV2Y28?oc=5\" target=\"_blank\">Alibaba launches US$537 Quark AI glasses to challenge devices from Meta, Xiaomi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-      "published": "2025-11-27T08:00:00+00:00",
-      "source": "South China Morning Post"
-    },
-    {
-      "title": "Anduril's AI wearables launch brings Palmer Luckey and Mark Zuckerberg's relationship full circle - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWp6MzN3ZDItV00tN0EwM05XVmJVWWplQVJlQ0FSbGRsaXZhNFk5ZjNSY0k0RGw5MDAwa2hGYWU4VnpCcEJoTFY1cHctNHkxRFBwTkdCUVA3WkJpQmJuTXNzUjA3VDVVR2VmSDM4OVlCdEs3RldQWFU2cHN3Mm9RYlVUNUV5X1h2ZmQwOGhEZG1vblFSZVA1TEFxVlE4OFR1a1hB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWp6MzN3ZDItV00tN0EwM05XVmJVWWplQVJlQ0FSbGRsaXZhNFk5ZjNSY0k0RGw5MDAwa2hGYWU4VnpCcEJoTFY1cHctNHkxRFBwTkdCUVA3WkJpQmJuTXNzUjA3VDVVR2VmSDM4OVlCdEs3RldQWFU2cHN3Mm9RYlVUNUV5X1h2ZmQwOGhEZG1vblFSZVA1TEFxVlE4OFR1a1hB?oc=5\" target=\"_blank\">Anduril's AI wearables launch brings Palmer Luckey and Mark Zuckerberg's relationship full circle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-10-13T07:00:00+00:00",
-      "source": "Business Insider"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-04",
-      "close": 661.530029296875
+      "date": "2025-12-05",
+      "close": 673.4199829101562
     },
     "history": [
-      {
-        "date": "2025-11-25",
-        "close": 636.219970703125
-      },
       {
         "date": "2025-11-26",
         "close": 633.6099853515625
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-04",
         "close": 661.530029296875
+      },
+      {
+        "date": "2025-12-05",
+        "close": 673.4199829101562
       }
     ],
     "name": "Meta Platforms, Inc."
