@@ -2,73 +2,66 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2025-12-10T12:25:35.151747+00:00",
+  "fetched_at": "2025-12-11T12:26:41.873736+00:00",
   "news": [
     {
-      "title": "Trump’s Nvidia Chip Deal Reverses Decades of Technology Restrictions - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPek9hc2VoX09zSlhkeWtwajg2eUF1WnZUeXFudTF5YVpKcUQ2Z1B1eHBwTHZlYW85SW1EeUZyWmVFNFBrNkZSUEdDTXVKX0M1QmUxUDhMQTljdWMtbENmanB4SHlRb2tSaWlSZUdZQ3ZmSEJtYmQ2TzZnb1JSVTZGNE1qSnFKUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPek9hc2VoX09zSlhkeWtwajg2eUF1WnZUeXFudTF5YVpKcUQ2Z1B1eHBwTHZlYW85SW1EeUZyWmVFNFBrNkZSUEdDTXVKX0M1QmUxUDhMQTljdWMtbENmanB4SHlRb2tSaWlSZUdZQ3ZmSEJtYmQ2TzZnb1JSVTZGNE1qSnFKUQ?oc=5\" target=\"_blank\">Trump’s Nvidia Chip Deal Reverses Decades of Technology Restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2025-12-10T00:14:27+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQm1jc3BwcnROWG0tREQ4SmNVT3JQYXZZOE52Z3liNDdCdTFGMURVd1RTbnhQS0VwanBSNDcxR0Z5aWhmbGFXeHczVGZ4OHl4R3FIQ2VETllGblN4OExFWDh2cF81eTkySGRkZ3RaQWVVUk9hdHVQcFZDUFB5RXRpdExvc0l3MWw2eWNhajR6em9GNzRrbUp6Rm9PVHdOTFpxeHdHYUtyRlMtczBlMlc5VGI2QWtzd2ZUazIyVnVPSE1LQ3pPc3hHMXNEZlbSAdIBQVVfeXFMTlZiZ1A1SVJxYjNRM3VNenIwM3Y3SWlhR0ptN1BIeUtiUHV6eEMtMkRrVnZCX2ZCSmJlaTJyZENlZTR4NVNvc0FuNkJlaXUwcHd4S3YyTC1OQU9wSG5fVWVWcTByT3hQWGhmclBYWC0yajl3OXV0bzBZTjRpUTFkZlhQaUdobVBDODBYVW4wdWxrNENnUjVsdEd4LS1VdVBubGFxSzYxTmdEUXVfbW1YUHpGQUlEWlRTT0RYWWJZQXl1RDdSTTRLUTlaZ2xjUWw3Nndn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQm1jc3BwcnROWG0tREQ4SmNVT3JQYXZZOE52Z3liNDdCdTFGMURVd1RTbnhQS0VwanBSNDcxR0Z5aWhmbGFXeHczVGZ4OHl4R3FIQ2VETllGblN4OExFWDh2cF81eTkySGRkZ3RaQWVVUk9hdHVQcFZDUFB5RXRpdExvc0l3MWw2eWNhajR6em9GNzRrbUp6Rm9PVHdOTFpxeHdHYUtyRlMtczBlMlc5VGI2QWtzd2ZUazIyVnVPSE1LQ3pPc3hHMXNEZlbSAdIBQVVfeXFMTlZiZ1A1SVJxYjNRM3VNenIwM3Y3SWlhR0ptN1BIeUtiUHV6eEMtMkRrVnZCX2ZCSmJlaTJyZENlZTR4NVNvc0FuNkJlaXUwcHd4S3YyTC1OQU9wSG5fVWVWcTByT3hQWGhmclBYWC0yajl3OXV0bzBZTjRpUTFkZlhQaUdobVBDODBYVW4wdWxrNENnUjVsdEd4LS1VdVBubGFxSzYxTmdEUXVfbW1YUHpGQUlEWlRTT0RYWWJZQXl1RDdSTTRLUTlaZ2xjUWw3Nndn?oc=5\" target=\"_blank\">U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-12-09T09:59:49+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "How Chinese entities are already using Nvidia's powerful H200 AI chips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHpaMFoyN1FPWEoxVmRsLWZhMV90WTlMb1JscW5hdl9CTkRzSWVLUUkyMEtfNUhwTzE0RUxvbEc2NlpPRkJiSnJwRUhHMUhrU3pXTTdaRF8zVlVNcUY5Q0pLOTdqdWJLRHpvemNLQ3NCWWM0MmcwTEUyc1RheFNiM1BvMVVIa0FURXBDM2dCX0txaG03RWJlSFF1SC1DZWo1MG13YVR3TVFNLUxZR1RIVXVmMnNSdEVf?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHpaMFoyN1FPWEoxVmRsLWZhMV90WTlMb1JscW5hdl9CTkRzSWVLUUkyMEtfNUhwTzE0RUxvbEc2NlpPRkJiSnJwRUhHMUhrU3pXTTdaRF8zVlVNcUY5Q0pLOTdqdWJLRHpvemNLQ3NCWWM0MmcwTEUyc1RheFNiM1BvMVVIa0FURXBDM2dCX0txaG03RWJlSFF1SC1DZWo1MG13YVR3TVFNLUxZR1RIVXVmMnNSdEVf?oc=5\" target=\"_blank\">How Chinese entities are already using Nvidia's powerful H200 AI chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-12-10T11:29:40+00:00",
+      "title": "Exclusive: ByteDance, Alibaba keen to order Nvidia H200 chips after Trump green light, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMFliaUF2TWVYb0g0cUEzUFpsOUt2Y1JRa0NOQlNaS0tJRnFNVGY2cW1EUXNLQ0xJck0xOGpkR1diYjctN0hnVVlPMi11bW1LM2s3Nm1LaWRfNERBYUtPdnRMWmc3V3NVM1NjcUw3WTloOUpPUjV0LUtWbWxud1JiQ191SUxYMjJLX1dUOTQ1azA4WHRocmtuelpVSEx3WUJ3XzhDUHdQNzF0b1hRVG1LWV93bXA5bWt6MUxiWWNMQ2EtWTl0eXV0SUlyRW11N3U0U2JOWVZrenlDS2lu?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMFliaUF2TWVYb0g0cUEzUFpsOUt2Y1JRa0NOQlNaS0tJRnFNVGY2cW1EUXNLQ0xJck0xOGpkR1diYjctN0hnVVlPMi11bW1LM2s3Nm1LaWRfNERBYUtPdnRMWmc3V3NVM1NjcUw3WTloOUpPUjV0LUtWbWxud1JiQ191SUxYMjJLX1dUOTQ1azA4WHRocmtuelpVSEx3WUJ3XzhDUHdQNzF0b1hRVG1LWV93bXA5bWt6MUxiWWNMQ2EtWTl0eXV0SUlyRW11N3U0U2JOWVZrenlDS2lu?oc=5\" target=\"_blank\">Exclusive: ByteDance, Alibaba keen to order Nvidia H200 chips after Trump green light, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGdZV2JKMmdTY1NQdkNRNVlibEJiN09vQW1OSTUtN3BuMEstazFjUjBid2pYcHlZLWI2T1Z2Z3NYY0hUMnUwX2dsNFBaWDdWS3ZFZE5fb3JPSGh2bnhXTWpTQlNzYVhFb2VnbWFkaDdLRDBYS3ZhcDJfNWd0SXNnQ2pFTExLUEtEQmRnSGdUbWliOFg3bXJFNWljZ2p6Znc5bTBFQ2VtU21LUkU?oc=5\" target=\"_blank\">Donald Trump’s flawed plan to get China hooked on Nvidia chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDdHMTRVdWVwV2JVYVZ5QVo2VXdsY0xPYlNFWF9xdUtka0lQT0VkN21mdEtuQzNibjJTT3BhUUxaUmU4aUtzTDFDdkFxcjJial9nckRvN2cya2x6V0c2QVlzZU85OEpuWXJabFR6SklsTTVfdW9qMnJmNkJKdEM2cEN0WFRkaEFIZUc2dkRyTm0zZ21YX0ZNcndmTFA?oc=5\" target=\"_blank\">DeepSeek is Using Banned Nvidia Chips in Race to Build Next Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font></li></ol>",
+      "published": "2025-12-10T15:42:15+00:00",
       "source": "Reuters"
     },
     {
-      "title": "China Weighs Nvidia Chip Purchase in Emergency Meetings With Tech Companies - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTQ3LV81NEVNSGhES0ZBM3VHeHczVkVQZFgxa0xLTFZ5eGxjZTh4NUw0RE9CTjFaMFpmS1JwZGtGbVBERXZOWUxTdGVMZWw5dFNab3F5UmNNeEJMTnRMRWhhQ0E3ek9XNDBDQTluckhsWFlOY0YtN3ZWcU1oQ2JFSWY4NllMbkxhdFVtM3FFSS1BS29URmk5bGZ3RUtyOXFqYzMxN2ZrUGJCck0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTQ3LV81NEVNSGhES0ZBM3VHeHczVkVQZFgxa0xLTFZ5eGxjZTh4NUw0RE9CTjFaMFpmS1JwZGtGbVBERXZOWUxTdGVMZWw5dFNab3F5UmNNeEJMTnRMRWhhQ0E3ek9XNDBDQTluckhsWFlOY0YtN3ZWcU1oQ2JFSWY4NllMbkxhdFVtM3FFSS1BS29URmk5bGZ3RUtyOXFqYzMxN2ZrUGJCck0?oc=5\" target=\"_blank\">China Weighs Nvidia Chip Purchase in Emergency Meetings With Tech Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "title": "Nvidia’s new software could help trace where its AI chips end up - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTlCOWt1b3JaTzVuY09GWFRfSUtCaWd5SVZobVRYQ1F6YklwWkJNWjI3UkozRkFjSWtsRFI2WUVhZ21YeHlLWS0tLWZZWU5GWXBHdnNURGhQeUVZUlFEOTNWdEplU0I1NGlObUxjN2paS0dkTFo5UWpWWExaOXFELWJWd0JuVUQ4dDJqSmpjN0kxbUJhS0VqSkZyTEtHUUpwUlHSAacBQVVfeXFMT2lfWGM0RmdjQ3c4R0Vxa1o3RkZqSEl3NXp1YlFWc3Q4RFdVd0pQbU9Jdmg5bG5mNEZDcTRPcFdpRFNlNXpqQVdDWThzX0ZocGhsOV9vZ3VBSDNaQjQ0S3l3QzU1N29QUnl3cDFPdkY1dy1GbmRSTTIzSzdDSjh3Tjl3VkFUNDVjUC15VzJiQlNPV2tkaWJaeFEtX2RLRWZoazFucFJpMTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTlCOWt1b3JaTzVuY09GWFRfSUtCaWd5SVZobVRYQ1F6YklwWkJNWjI3UkozRkFjSWtsRFI2WUVhZ21YeHlLWS0tLWZZWU5GWXBHdnNURGhQeUVZUlFEOTNWdEplU0I1NGlObUxjN2paS0dkTFo5UWpWWExaOXFELWJWd0JuVUQ4dDJqSmpjN0kxbUJhS0VqSkZyTEtHUUpwUlHSAacBQVVfeXFMT2lfWGM0RmdjQ3c4R0Vxa1o3RkZqSEl3NXp1YlFWc3Q4RFdVd0pQbU9Jdmg5bG5mNEZDcTRPcFdpRFNlNXpqQVdDWThzX0ZocGhsOV9vZ3VBSDNaQjQ0S3l3QzU1N29QUnl3cDFPdkY1dy1GbmRSTTIzSzdDSjh3Tjl3VkFUNDVjUC15VzJiQlNPV2tkaWJaeFEtX2RLRWZoazFucFJpMTA?oc=5\" target=\"_blank\">Nvidia’s new software could help trace where its AI chips end up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+      "published": "2025-12-11T09:45:48+00:00",
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Nvidia Unveils Opt-In GPU Tracking Tool Amid U.S. China Chip Tensions - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORS1CX2MwWko4WFdxbEdoVXVKa0pJTUloY0NhR09WVTQxcU14bWRiYWtHd3dvV0FTaU4ya3pLek4zS2k5VVp6eEh1Y0I1b1Aza0xMMVpwWDhhR2I3YzR0VWZJVWNrWXpuaERhc0pSYWdRUmI2RHhNdXgwOWZSTjloVFlmZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORS1CX2MwWko4WFdxbEdoVXVKa0pJTUloY0NhR09WVTQxcU14bWRiYWtHd3dvV0FTaU4ya3pLek4zS2k5VVp6eEh1Y0I1b1Aza0xMMVpwWDhhR2I3YzR0VWZJVWNrWXpuaERhc0pSYWdRUmI2RHhNdXgwOWZSTjloVFlmZw?oc=5\" target=\"_blank\">Nvidia Unveils Opt-In GPU Tracking Tool Amid U.S. China Chip Tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-12-11T11:56:08+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Oracle plummets 11% on weak revenue, pushing down AI stocks like Nvidia and CoreWeave - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jdzE0UGl3eS0wMjFxVE9aQ1E5d09qMERMLUtfTVVIZm92OF9sVE9YS0VPa0FRZWtlS2NteFh5cE41ekNCSU9hX3EzNFU0T0lMcmsxRGh4ZmgtWTFVUktERlFLejgwdzVld0VtSzJ4SjlpS3I4MDQ0M0Z1SkjSAYIBQVVfeXFMTXVtTWZoNE9RNlNTYkZGc1lIcmJSWFFzTVJqVE01enZWQ3VqMkRZdE9uZUg3N2R0RFZoZ3pPQVVlRDdkeEUyS0N6MlpZb3FqYWxRMTBnQXEwX2pRR2NtV05JUjlJSXV6cEdEbkRHVUowTGtBeTNyRFJRbWRsX3FteUZrZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5jdzE0UGl3eS0wMjFxVE9aQ1E5d09qMERMLUtfTVVIZm92OF9sVE9YS0VPa0FRZWtlS2NteFh5cE41ekNCSU9hX3EzNFU0T0lMcmsxRGh4ZmgtWTFVUktERlFLejgwdzVld0VtSzJ4SjlpS3I4MDQ0M0Z1SkjSAYIBQVVfeXFMTXVtTWZoNE9RNlNTYkZGc1lIcmJSWFFzTVJqVE01enZWQ3VqMkRZdE9uZUg3N2R0RFZoZ3pPQVVlRDdkeEUyS0N6MlpZb3FqYWxRMTBnQXEwX2pRR2NtV05JUjlJSXV6cEdEbkRHVUowTGtBeTNyRFJRbWRsX3FteUZrZw?oc=5\" target=\"_blank\">Oracle plummets 11% on weak revenue, pushing down AI stocks like Nvidia and CoreWeave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+      "published": "2025-12-10T17:09:09+00:00",
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Oracle shares plummet 11% in premarket, dragging down AI stocks - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQW54VWdtMUdWMllVb25WM0RJVk5IZWNyNG0tUWRuV19hSWdGT0ZCSmtEYndnYWNWNkRJdmh6T0RrNGlNbW1oenRhQlNVejFudVR2ZXNqUmlVMU5FR0FiSXJHRGVPaTNJaHB2ekVwVTEwcTRLNThod2hNNmtnUEFKLUFvQUVPU29BVjZJOS1lWVNWTHpYVXc3UUgwOS1mRXND0gGmAUFVX3lxTE5YdU9DdE1jeXJ0TWlNYkZUNm9wdzVnb3dhRTdueGF1SmRBbDhzQml4M2kxXzB6RVVwQ21xcTNESVJyZ1JmM2ZsV0VZczB3WXNMNXc5bnVmRERPclBUNG1TX0NJaVd2VzkxaGV6SWtoX2RJT0hDaTZWVHJhNU5raV9pRXFWTHIwdFV2c2lNdDlmbHdNRWx2M0F2SDBJMm9IeWhWeEpUMHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQW54VWdtMUdWMllVb25WM0RJVk5IZWNyNG0tUWRuV19hSWdGT0ZCSmtEYndnYWNWNkRJdmh6T0RrNGlNbW1oenRhQlNVejFudVR2ZXNqUmlVMU5FR0FiSXJHRGVPaTNJaHB2ekVwVTEwcTRLNThod2hNNmtnUEFKLUFvQUVPU29BVjZJOS1lWVNWTHpYVXc3UUgwOS1mRXND0gGmAUFVX3lxTE5YdU9DdE1jeXJ0TWlNYkZUNm9wdzVnb3dhRTdueGF1SmRBbDhzQml4M2kxXzB6RVVwQ21xcTNESVJyZ1JmM2ZsV0VZczB3WXNMNXc5bnVmRERPclBUNG1TX0NJaVd2VzkxaGV6SWtoX2RJT0hDaTZWVHJhNU5raV9pRXFWTHIwdFV2c2lNdDlmbHdNRWx2M0F2SDBJMm9IeWhWeEpUMHc?oc=5\" target=\"_blank\">Oracle shares plummet 11% in premarket, dragging down AI stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+      "published": "2025-12-11T09:38:13+00:00",
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Oracle Stock Is Plunging Despite New Commitments From Nvidia and Meta. Here's Why. - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDBXYkRSZGYxS2VnY2ZXLU9Nd2Myd0JQemJFNXdYR0tZUGt4N3B1MkJFcXBaQzlvOVZpbUN2N2JNMnQ3U1BPbGVrNFIwdTNoaUZVaU16V3Jra0o3Zkx3SzVaMnBzd0JMMHFYV1V6OGtrUzZXU1h2M01POENYUU1QUkdqM0dtUHBmMUo2WlJHR3gwRmV3dExGckk4SWNuNEtiS01XbkdyeFFmdDdHczJHc0xrc3k2c1FlVTBFQw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDBXYkRSZGYxS2VnY2ZXLU9Nd2Myd0JQemJFNXdYR0tZUGt4N3B1MkJFcXBaQzlvOVZpbUN2N2JNMnQ3U1BPbGVrNFIwdTNoaUZVaU16V3Jra0o3Zkx3SzVaMnBzd0JMMHFYV1V6OGtrUzZXU1h2M01POENYUU1QUkdqM0dtUHBmMUo2WlJHR3gwRmV3dExGckk4SWNuNEtiS01XbkdyeFFmdDdHczJHc0xrc3k2c1FlVTBFQw?oc=5\" target=\"_blank\">Oracle Stock Is Plunging Despite New Commitments From Nvidia and Meta. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "published": "2025-12-11T00:25:33+00:00",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Nvidia and Palantir Are Sending Shockwaves Through Wall Street With This $12.6 Billion Warning for 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUUwQmlGWGZzMEsyTW5YUmFFZlg1TUJhd21yMDZVN3Zla0FzRnk3bElyOXYtUWpSbmZ6OUYtekdRYlJpdWwzTWJvNUEzTl93d2VYanZRQlNWVFMzUFRRXy1PNWlvajJ4WDdLaHdpVmhtR25fNjdKOWt0Qm1VOHFnbTl5dk96dU5maTJ3TEF0SlVfOW9rSkRGQg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUUwQmlGWGZzMEsyTW5YUmFFZlg1TUJhd21yMDZVN3Zla0FzRnk3bElyOXYtUWpSbmZ6OUYtekdRYlJpdWwzTWJvNUEzTl93d2VYanZRQlNWVFMzUFRRXy1PNWlvajJ4WDdLaHdpVmhtR25fNjdKOWt0Qm1VOHFnbTl5dk96dU5maTJ3TEF0SlVfOW9rSkRGQg?oc=5\" target=\"_blank\">Nvidia and Palantir Are Sending Shockwaves Through Wall Street With This $12.6 Billion Warning for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2025-12-11T08:06:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "If this startup wins, Nvidia's software reign over AI chips could end - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQjBodzR1d3RJVkktdzJibmFuNDY2NTNYR2xkeVdON2ViNmo4TUpSaTllNmV3dlJDbzYxTHd5emhqYmtRUGJWekhhV1p0aVNSMVZWTU03YjlyZzB5VlZNbWRmYjNnOWdNODlib2xmYnJCa0NpdXNyOUYwMDVZbVRpLS1NVE83dWQxZkh1LUh4WFB6ZVdXb1Zz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQjBodzR1d3RJVkktdzJibmFuNDY2NTNYR2xkeVdON2ViNmo4TUpSaTllNmV3dlJDbzYxTHd5emhqYmtRUGJWekhhV1p0aVNSMVZWTU03YjlyZzB5VlZNbWRmYjNnOWdNODlib2xmYnJCa0NpdXNyOUYwMDVZbVRpLS1NVE83dWQxZkh1LUh4WFB6ZVdXb1Zz?oc=5\" target=\"_blank\">If this startup wins, Nvidia's software reign over AI chips could end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2025-12-10T10:00:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Trump’s go-ahead for Nvidia chips to China draws GOP blowback - thehill.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNangzMVBnaXNLVmtsQ0hNUFRSdm1pOFN4VVB2LU9aMkFnY0F4TkRvRnFwMmlGSXBEaGdoYkZ3eHdTQU5uWVdMbnFkclQzaWhHOEdBanJQYVgwQ1Zmd296SVFMVnZ0Y0lrcWN6LXpKaHlrYnkxOWU2S1FqX3cxMHk5bjVBRTRpU2hRaFBHZ0Rsd2pSV28zYXfSAZsBQVVfeXFMT2lxeHpzRkFWaktPYm1oa3VfV0N0d1BReTBCZDAwOHlhYzNWZUZ1V0Nmc3N6R1dwVmtiTzJtNnJJa0VGOThpM21oamxSVGE3WTAzNktIQWNCNEtZWEtNVG0wZlE0MUFKaUZkV3MxNWczMEJseWZkd09yUk5UX2dzWFRQbzhJTVUtVExaUDFjWXlGX1hkLWZwYUVMc0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNangzMVBnaXNLVmtsQ0hNUFRSdm1pOFN4VVB2LU9aMkFnY0F4TkRvRnFwMmlGSXBEaGdoYkZ3eHdTQU5uWVdMbnFkclQzaWhHOEdBanJQYVgwQ1Zmd296SVFMVnZ0Y0lrcWN6LXpKaHlrYnkxOWU2S1FqX3cxMHk5bjVBRTRpU2hRaFBHZ0Rsd2pSV28zYXfSAZsBQVVfeXFMT2lxeHpzRkFWaktPYm1oa3VfV0N0d1BReTBCZDAwOHlhYzNWZUZ1V0Nmc3N6R1dwVmtiTzJtNnJJa0VGOThpM21oamxSVGE3WTAzNktIQWNCNEtZWEtNVG0wZlE0MUFKaUZkV3MxNWczMEJseWZkd09yUk5UX2dzWFRQbzhJTVUtVExaUDFjWXlGX1hkLWZwYUVMc0U?oc=5\" target=\"_blank\">Trump’s go-ahead for Nvidia chips to China draws GOP blowback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thehill.com</font>",
-      "published": "2025-12-10T11:00:00+00:00",
-      "source": "thehill.com"
-    },
-    {
-      "title": "Donald Trump’s flawed plan to get China hooked on Nvidia chips - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGdZV2JKMmdTY1NQdkNRNVlibEJiN09vQW1OSTUtN3BuMEstazFjUjBid2pYcHlZLWI2T1Z2Z3NYY0hUMnUwX2dsNFBaWDdWS3ZFZE5fb3JPSGh2bnhXTWpTQlNzYVhFb2VnbWFkaDdLRDBYS3ZhcDJfNWd0SXNnQ2pFTExLUEtEQmRnSGdUbWliOFg3bXJFNWljZ2p6Znc5bTBFQ2VtU21LUkU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGdZV2JKMmdTY1NQdkNRNVlibEJiN09vQW1OSTUtN3BuMEstazFjUjBid2pYcHlZLWI2T1Z2Z3NYY0hUMnUwX2dsNFBaWDdWS3ZFZE5fb3JPSGh2bnhXTWpTQlNzYVhFb2VnbWFkaDdLRDBYS3ZhcDJfNWd0SXNnQ2pFTExLUEtEQmRnSGdUbWliOFg3bXJFNWljZ2p6Znc5bTBFQ2VtU21LUkU?oc=5\" target=\"_blank\">Donald Trump’s flawed plan to get China hooked on Nvidia chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "published": "2025-12-09T18:19:38+00:00",
-      "source": "The Economist"
-    },
-    {
-      "title": "Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOQjFrYnNiamhobTAxelFqdGRReDR3aUdIeUkyRWsxZjlpeTllRjRaVXo0OExOM3ZQTXl4YzV6WFZKcUl5dHdFVG5OMTdqdUQtaU9TNHFJNjdyaUJRa0NHMGNvMW1xY0dYb3JRNEZySi1iUHlVSE8zYV9oLWNkcFJyNE5FLUNpTnV2b2ZsUVFGZkJLN3RxNi04Z08ydDJYRWFiRFNUUm4wR0NCMUF5VXFKaUw1VnNJTXJGUFBkTGJpdWRsbTQ5VjhMdktTbFVobXJ6VUZzZWNSNjExMDdENUpqVWVGNEZNNy1ETHlIUzRmbXZXQ0dUVThuTHREM0QzS3U5THNGb2VQbWdJRzRTRHI2YWo0QWk4ZkVtTGRHRXdHY3ZtdmY5VDRENl9vLW1RaU1XUHhWTFBCOFpZSUlRd25ULWo2em1jSzFJQU1yX3Y4OTUwdFpoZVBFdVdRdG1KaXlESDdMT21nN0lEa0RmWFRsVkM3c2o4NS1ORVZ0ZkpmWm4xZFZRNzA5UGxwbk1NaXYtdHBaQ3J1dEgtSTV1bVR4bDRQeW5jT1JwMTNvU09zeXdIVHBVcHFSQ2xn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxOQjFrYnNiamhobTAxelFqdGRReDR3aUdIeUkyRWsxZjlpeTllRjRaVXo0OExOM3ZQTXl4YzV6WFZKcUl5dHdFVG5OMTdqdUQtaU9TNHFJNjdyaUJRa0NHMGNvMW1xY0dYb3JRNEZySi1iUHlVSE8zYV9oLWNkcFJyNE5FLUNpTnV2b2ZsUVFGZkJLN3RxNi04Z08ydDJYRWFiRFNUUm4wR0NCMUF5VXFKaUw1VnNJTXJGUFBkTGJpdWRsbTQ5VjhMdktTbFVobXJ6VUZzZWNSNjExMDdENUpqVWVGNEZNNy1ETHlIUzRmbXZXQ0dUVThuTHREM0QzS3U5THNGb2VQbWdJRzRTRHI2YWo0QWk4ZkVtTGRHRXdHY3ZtdmY5VDRENl9vLW1RaU1XUHhWTFBCOFpZSUlRd25ULWo2em1jSzFJQU1yX3Y4OTUwdFpoZVBFdVdRdG1KaXlESDdMT21nN0lEa0RmWFRsVkM3c2o4NS1ORVZ0ZkpmWm4xZFZRNzA5UGxwbk1NaXYtdHBaQ3J1dEgtSTV1bVR4bDRQeW5jT1JwMTNvU09zeXdIVHBVcHFSQ2xn?oc=5\" target=\"_blank\">Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-12-09T19:30:00+00:00",
-      "source": "The Wall Street Journal"
-    },
-    {
-      "title": "Trump’s Nvidia H200 Reprieve Spurred by Huawei’s AI Gains - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREY3Q0xjclUzMjUxTEpGcmlpelBPZVdXQ1RWZ2pLcm5Sc1A3S2xrVnAwMW1GV09HR05RRjhnZlAyMWRrNlgwRjByc1V2aXprUUthb2xxNFh3Y1AxM2owckl3cFF2R0dTZWw0SHpaVG5hTlY2X3plSlk4eXdZcjhJNURWWjU2V19Zd2VJVVhvYjZyN1dSWjJWN1dDc3RuNmtKQ3pVcTVLUDdEOFp1SzUyQU82SWo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNREY3Q0xjclUzMjUxTEpGcmlpelBPZVdXQ1RWZ2pLcm5Sc1A3S2xrVnAwMW1GV09HR05RRjhnZlAyMWRrNlgwRjByc1V2aXprUUthb2xxNFh3Y1AxM2owckl3cFF2R0dTZWw0SHpaVG5hTlY2X3plSlk4eXdZcjhJNURWWjU2V19Zd2VJVVhvYjZyN1dSWjJWN1dDc3RuNmtKQ3pVcTVLUDdEOFp1SzUyQU82SWo?oc=5\" target=\"_blank\">Trump’s Nvidia H200 Reprieve Spurred by Huawei’s AI Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-12-10T03:14:00+00:00",
-      "source": "Bloomberg.com"
+      "source": "Business Insider"
     }
   ],
   "product_launches": [
-    {
-      "title": "Nvidia launches cryptocurrency mining product - citynewsservice.cn",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORU9xOTFtWWFBR0dzb0RkWlNUNjF2N2FtOGlrUXdTYzlIM1N1d0RYd1ZzdFpGSjRJOURwLUVDSTM1dkdnZ2dXajdqWTZiZWxOWEdTU1BaMkFhTTI2OUhZeGpTOUZNSkRuLUNldER5Tjh1TGdLZUQwMElDSFkyaUt4bGZ1Z2JHRGw0V2NYVnlIbUx1QS1pb3VNUHhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORU9xOTFtWWFBR0dzb0RkWlNUNjF2N2FtOGlrUXdTYzlIM1N1d0RYd1ZzdFpGSjRJOURwLUVDSTM1dkdnZ2dXajdqWTZiZWxOWEdTU1BaMkFhTTI2OUhZeGpTOUZNSkRuLUNldER5Tjh1TGdLZUQwMElDSFkyaUt4bGZ1Z2JHRGw0V2NYVnlIbUx1QS1pb3VNUHhR?oc=5\" target=\"_blank\">Nvidia launches cryptocurrency mining product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citynewsservice.cn</font>",
-      "published": "2025-12-07T17:32:57+00:00",
-      "source": "citynewsservice.cn"
-    },
     {
       "title": "NVIDIA DGX Spark Arrives for World’s AI Developers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5",
@@ -77,11 +70,18 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia Corporation (NVDA) Analysts Maintain Bullish Forecasts - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUjlpdnB3bFE4R1I0dXJob0hib3hBZG1TWkotUldrZTJ2OXpnMk5GMkRMSmRzZUxYRURMV2dGQUlaTnJyZWhJQ0NjRWRWSTNnNGNtWVFJMjhYNTZkc1dkZ3A1UTktMEtnZzBna0VzYzFHeG5XUmt4c3R0X21HVk1TS1dhVHhEMEpjQ0NObFg5bXJfNFlQNzkwcjZRRjJxTU9DUHNyMXdTbGpWV0ZsQkFvRFdDdU9RWUFfSGVETG5NVG5Dc20yX0hWQU1EQXZrWU9fX3BzYkxmcUdVLUVBT3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUjlpdnB3bFE4R1I0dXJob0hib3hBZG1TWkotUldrZTJ2OXpnMk5GMkRMSmRzZUxYRURMV2dGQUlaTnJyZWhJQ0NjRWRWSTNnNGNtWVFJMjhYNTZkc1dkZ3A1UTktMEtnZzBna0VzYzFHeG5XUmt4c3R0X21HVk1TS1dhVHhEMEpjQ0NObFg5bXJfNFlQNzkwcjZRRjJxTU9DUHNyMXdTbGpWV0ZsQkFvRFdDdU9RWUFfSGVETG5NVG5Dc20yX0hWQU1EQXZrWU9fX3BzYkxmcUdVLUVBT3c?oc=5\" target=\"_blank\">Nvidia Corporation (NVDA) Analysts Maintain Bullish Forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-      "published": "2025-12-09T15:16:11+00:00",
-      "source": "The Globe and Mail"
+      "title": "Nvidia launches cryptocurrency mining product - citynewsservice.cn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORU9xOTFtWWFBR0dzb0RkWlNUNjF2N2FtOGlrUXdTYzlIM1N1d0RYd1ZzdFpGSjRJOURwLUVDSTM1dkdnZ2dXajdqWTZiZWxOWEdTU1BaMkFhTTI2OUhZeGpTOUZNSkRuLUNldER5Tjh1TGdLZUQwMElDSFkyaUt4bGZ1Z2JHRGw0V2NYVnlIbUx1QS1pb3VNUHhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORU9xOTFtWWFBR0dzb0RkWlNUNjF2N2FtOGlrUXdTYzlIM1N1d0RYd1ZzdFpGSjRJOURwLUVDSTM1dkdnZ2dXajdqWTZiZWxOWEdTU1BaMkFhTTI2OUhZeGpTOUZNSkRuLUNldER5Tjh1TGdLZUQwMElDSFkyaUt4bGZ1Z2JHRGw0V2NYVnlIbUx1QS1pb3VNUHhR?oc=5\" target=\"_blank\">Nvidia launches cryptocurrency mining product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citynewsservice.cn</font>",
+      "published": "2025-12-07T17:32:57+00:00",
+      "source": "citynewsservice.cn"
+    },
+    {
+      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNZ2R5NVVpY1Q1MVVxMmdSZHF1NWZJcXJWNUhKWDVkbFpwVkh2TG92ZUdzaEhjbkl6dzhyWEZLcHdIam56LUQ4NEptV3RZUUtFZm1BbVlyX0FHS215cTVfUy1YWlVPUFlYT2tEenE5b1g0MTFtYlhaYU9jR0pmVkx3WENtMjVmSWNIN0p6bm1rZjV4ZmVqWTJNcjVlcmpJM1ZNQzZSV1c1QjV6QVB0VHFYU0R0S1dycWVVb0NXczRQZXZnNVROWUY0ejdUVWtoUVlFcGpNM2YyS0ZtZ3RoZVFqWVFOcFprRTlXX00zck01SlE1TXctbG4taVFIbHpIYWxsbGtUMFlDVnBSMTN6eUpCNEVEU0l2RVFnYmZITV9Ydm5XVHNoUVhDT3BFcXhFREpxWXhhQXJodHo4cmlvUnJtVmRuU0l2cFduUHh5YWh2YmFmT0Z5ejdFeTg0ckxHS3FvMEVQalZXYmE3cWljR05XRG92YnlsZDZqYnRBNW5MbE1yYnVsa2g1UmFxVmNXeFZkdlo3LXFlWDdaaGNMYjhJcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNZ2R5NVVpY1Q1MVVxMmdSZHF1NWZJcXJWNUhKWDVkbFpwVkh2TG92ZUdzaEhjbkl6dzhyWEZLcHdIam56LUQ4NEptV3RZUUtFZm1BbVlyX0FHS215cTVfUy1YWlVPUFlYT2tEenE5b1g0MTFtYlhaYU9jR0pmVkx3WENtMjVmSWNIN0p6bm1rZjV4ZmVqWTJNcjVlcmpJM1ZNQzZSV1c1QjV6QVB0VHFYU0R0S1dycWVVb0NXczRQZXZnNVROWUY0ejdUVWtoUVlFcGpNM2YyS0ZtZ3RoZVFqWVFOcFprRTlXX00zck01SlE1TXctbG4taVFIbHpIYWxsbGtUMFlDVnBSMTN6eUpCNEVEU0l2RVFnYmZITV9Ydm5XVHNoUVhDT3BFcXhFREpxWXhhQXJodHo4cmlvUnJtVmRuU0l2cFduUHh5YWh2YmFmT0Z5ejdFeTg0ckxHS3FvMEVQalZXYmE3cWljR05XRG92YnlsZDZqYnRBNW5MbE1yYnVsa2g1UmFxVmNXeFZkdlo3LXFlWDdaaGNMYjhJcw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-10-28T07:00:00+00:00",
+      "source": "The Wall Street Journal"
     },
     {
       "title": "Aetina Launches Industrial MXM Powered by NVIDIA Blackwell Platform, Empowering AMR, Manufacturing and Medical AI - EEJournal",
@@ -102,14 +102,10 @@
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-09",
-      "close": 184.97000122070312
+      "date": "2025-12-10",
+      "close": 183.77999877929688
     },
     "history": [
-      {
-        "date": "2025-12-01",
-        "close": 179.9099884033203
-      },
       {
         "date": "2025-12-02",
         "close": 181.4499053955078
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-09",
         "close": 184.97000122070312
+      },
+      {
+        "date": "2025-12-10",
+        "close": 183.77999877929688
       }
     ],
     "name": "NVIDIA Corporation"
