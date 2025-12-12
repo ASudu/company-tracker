@@ -2,42 +2,14 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2025-12-11T12:26:36.420173+00:00",
+  "fetched_at": "2025-12-12T12:25:01.472737+00:00",
   "news": [
-    {
-      "title": "Amazon pledges massive $35 billion worth of investments in India with focus on AI - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3RtNDRvZ2FvYnhheDA5cTMzUUd2YTJ4SkhPZDdMOXU4Y3pJUkFLeW1kNnlXOUxOVHY3YUpIdXRhUl9qMFZULW1nY25ITXBibkdiMXdtODVGYzlTb0FhM0FNaXRuQ1oyMHBqZTJ1QW9ZYUZTa2g5MTJQMFdLYTFIaGpwOHVKR09PR2tEcktGa1ktcFB4cG1CN3VxQnl6S0tqbEIyMkx1ekZvUzNiVDB1NXNjcTdRNzRYQ3lB0gHAAUFVX3lxTE0xSWhmZVFxTHZPTUQzUmFoeWVtOUNPa0xSSVhuLW5xTG1KMThTN0Y4ZFpucURrWFFVRENtUzZmd3FlemsxeVFzYVlIR0gyRUtvNmJTdGtxLU90bW5xMnRYb29RZ3kzRVRpeGtnbG01bjhkVjdjTUZtNHJmX3NWSklOUTJVbUxpaGxhNXJnM250S2c0eXFIYnI4R21aOTdlX3pwVXBIOU1lLTl3VzBzdFdqV1lpNXR2Z0JhNFAtc0k4Vg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3RtNDRvZ2FvYnhheDA5cTMzUUd2YTJ4SkhPZDdMOXU4Y3pJUkFLeW1kNnlXOUxOVHY3YUpIdXRhUl9qMFZULW1nY25ITXBibkdiMXdtODVGYzlTb0FhM0FNaXRuQ1oyMHBqZTJ1QW9ZYUZTa2g5MTJQMFdLYTFIaGpwOHVKR09PR2tEcktGa1ktcFB4cG1CN3VxQnl6S0tqbEIyMkx1ekZvUzNiVDB1NXNjcTdRNzRYQ3lB0gHAAUFVX3lxTE0xSWhmZVFxTHZPTUQzUmFoeWVtOUNPa0xSSVhuLW5xTG1KMThTN0Y4ZFpucURrWFFVRENtUzZmd3FlemsxeVFzYVlIR0gyRUtvNmJTdGtxLU90bW5xMnRYb29RZ3kzRVRpeGtnbG01bjhkVjdjTUZtNHJmX3NWSklOUTJVbUxpaGxhNXJnM250S2c0eXFIYnI4R21aOTdlX3pwVXBIOU1lLTl3VzBzdFdqV1lpNXR2Z0JhNFAtc0k4Vg?oc=5\" target=\"_blank\">Amazon pledges massive $35 billion worth of investments in India with focus on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
-      "published": "2025-12-10T05:42:06+00:00",
-      "source": "cnbc.com"
-    },
-    {
-      "title": "India Draws $52 Billion From Amazon, Microsoft in Tech Expansion - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0QxNHlncjBTZlE2cFN4aHRUSWY3aEEyVF9NVEJ0RnhyTU51Mlg4emtUSUV2enNpQXBjZDBqZ1lXdUM1VmFqWXN5b1FIdlQyN1dWanptVTZNUU5FMlpiY09HbHZoOVZTd0VCR3g2MGo0a3BPbktMTHN6d1FxeXVsd0NSaFpqZGVFelhwTEtoRWs2aVJoZFNhN1Y1d2ZzbFZUeUR5ZUxZWjBndDVlemZySjNFbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0QxNHlncjBTZlE2cFN4aHRUSWY3aEEyVF9NVEJ0RnhyTU51Mlg4emtUSUV2enNpQXBjZDBqZ1lXdUM1VmFqWXN5b1FIdlQyN1dWanptVTZNUU5FMlpiY09HbHZoOVZTd0VCR3g2MGo0a3BPbktMTHN6d1FxeXVsd0NSaFpqZGVFelhwTEtoRWs2aVJoZFNhN1Y1d2ZzbFZUeUR5ZUxZWjBndDVlemZySjNFbw?oc=5\" target=\"_blank\">India Draws $52 Billion From Amazon, Microsoft in Tech Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-12-11T06:15:00+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Amazon, Microsoft pledge mega AI investments in India - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZWwxd3JhaG1PWnZONUpvWGRHd0JBemM4SHNqXzIwSzdHNHVPM0Nva242elVwYk9RT3RwSDZYVzJlOEtLdzl2U2lENG5hdnhJeHlHbDI1RnBqd9IBX0FVX3lxTE9fVDVLUVN2QzM5SDBTQW9mbUUwVXNTN3lvRm0wQjU0NXFRTWRQcHc5eVRzQzV5UEVRelJaZ2V4R0xSdEFwaFRQN2t4UWd2V3pwNm9laXRHbUFHbEhteWlZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZWwxd3JhaG1PWnZONUpvWGRHd0JBemM4SHNqXzIwSzdHNHVPM0Nva242elVwYk9RT3RwSDZYVzJlOEtLdzl2U2lENG5hdnhJeHlHbDI1RnBqd9IBX0FVX3lxTE9fVDVLUVN2QzM5SDBTQW9mbUUwVXNTN3lvRm0wQjU0NXFRTWRQcHc5eVRzQzV5UEVRelJaZ2V4R0xSdEFwaFRQN2t4UWd2V3pwNm9laXRHbUFHbEhteWlZ?oc=5\" target=\"_blank\">Amazon, Microsoft pledge mega AI investments in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2025-12-10T07:50:12+00:00",
-      "source": "BBC"
-    },
     {
       "title": "Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa01tUEpoMXoxamZ6bEJzci1idXpjVGQtMHI0bUsxcnJNSEh0aXFmNjRNM0RUQkRsOEVKNnV5NTJxRG4taTNSdGF2MzlIUDFDM0lGSkNmLTRyQ0JmQTBZNERJcTFWcThFTWxvc2FHcWpGTlpZY0VHaGxKSTVSeFo4cktBcXFTM2VqcWlSSExCdkRraUV0ZnhOYWM2MktEWDZ3WF9ZMkZWWEMwTnBtZ1NtakRxSzNvdW14OXZWUUhoeHhha0tqNkE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPa01tUEpoMXoxamZ6bEJzci1idXpjVGQtMHI0bUsxcnJNSEh0aXFmNjRNM0RUQkRsOEVKNnV5NTJxRG4taTNSdGF2MzlIUDFDM0lGSkNmLTRyQ0JmQTBZNERJcTFWcThFTWxvc2FHcWpGTlpZY0VHaGxKSTVSeFo4cktBcXFTM2VqcWlSSExCdkRraUV0ZnhOYWM2MktEWDZ3WF9ZMkZWWEMwTnBtZ1NtakRxSzNvdW14OXZWUUhoeHhha0tqNkE?oc=5\" target=\"_blank\">Amazon Bets on Color and AI With Its Priciest Kindle to Date</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "published": "2025-12-10T14:00:24+00:00",
       "source": "Bloomberg.com"
-    },
-    {
-      "title": "Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUhOblAydThvZXhjdGtYbTItZUcyTmFneGdHQk8zR1NCS2dPckVKcENXc1ZhVlhOVjlQcExaVnpNX0YxbDBva2FjUVZJalY5UnlvSTZnN0tTOTYtZ0FFelJ6NjNFVnVWNlRiYWxZSmZhVEpldU05ZHJsaTJSQlQ2cHJmekpJS1ctUllETmNsZGh2aHQ3WE1TV280ZzBPc3VLalBiSEhsU2NsV0pGemJfTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUhOblAydThvZXhjdGtYbTItZUcyTmFneGdHQk8zR1NCS2dPckVKcENXc1ZhVlhOVjlQcExaVnpNX0YxbDBva2FjUVZJalY5UnlvSTZnN0tTOTYtZ0FFelJ6NjNFVnVWNlRiYWxZSmZhVEpldU05ZHJsaTJSQlQ2cHJmekpJS1ctUllETmNsZGh2aHQ3WE1TV280ZzBPc3VLalBiSEhsU2NsV0pGemJfTg?oc=5\" target=\"_blank\">Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2025-12-10T18:40:58+00:00",
-      "source": "Ars Technica"
     },
     {
       "title": "Amazon changes how copyright protection is applied to Kindle Direct's self-published e-books - TechCrunch",
@@ -47,28 +19,49 @@
       "source": "TechCrunch"
     },
     {
-      "title": "Amazon's Most Popular Bra Is the 'Most Comfortable' Style a Shopper Has Tried in '60 Years' — and It's $18 Now - People.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tY2hvSHBjSFd2SGM3NkVrbjV6V3Ria3M4YWd3TG5GMDV3Rk1pdEJxc0prMnlEczZNbnBZeTg1S01TamtlRXJSWVZwVTFnS3FOSjRBUjFuUGtJV015NmdlMjRxR3BEREpzWjBDUWc1b0hWTFcyQ2FDZ1JB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4tY2hvSHBjSFd2SGM3NkVrbjV6V3Ria3M4YWd3TG5GMDV3Rk1pdEJxc0prMnlEczZNbnBZeTg1S01TamtlRXJSWVZwVTFnS3FOSjRBUjFuUGtJV015NmdlMjRxR3BEREpzWjBDUWc1b0hWTFcyQ2FDZ1JB?oc=5\" target=\"_blank\">Amazon's Most Popular Bra Is the 'Most Comfortable' Style a Shopper Has Tried in '60 Years' — and It's $18 Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2025-12-11T11:00:00+00:00",
-      "source": "People.com"
+      "title": "Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUhOblAydThvZXhjdGtYbTItZUcyTmFneGdHQk8zR1NCS2dPckVKcENXc1ZhVlhOVjlQcExaVnpNX0YxbDBva2FjUVZJalY5UnlvSTZnN0tTOTYtZ0FFelJ6NjNFVnVWNlRiYWxZSmZhVEpldU05ZHJsaTJSQlQ2cHJmekpJS1ctUllETmNsZGh2aHQ3WE1TV280ZzBPc3VLalBiSEhsU2NsV0pGemJfTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUhOblAydThvZXhjdGtYbTItZUcyTmFneGdHQk8zR1NCS2dPckVKcENXc1ZhVlhOVjlQcExaVnpNX0YxbDBva2FjUVZJalY5UnlvSTZnN0tTOTYtZ0FFelJ6NjNFVnVWNlRiYWxZSmZhVEpldU05ZHJsaTJSQlQ2cHJmekpJS1ctUllETmNsZGh2aHQ3WE1TV280ZzBPc3VLalBiSEhsU2NsV0pGemJfTg?oc=5\" target=\"_blank\">Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2025-12-10T18:40:58+00:00",
+      "source": "Ars Technica"
     },
     {
-      "title": "Best Amazon Gifts for the Hard To Shop For: Owala, Kodak and More - TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xUjNYZTlKa0szRFBMbHlKMVRSMy1BS2lfU0QtNHJJREZfYmlfRFE5U0NQMFowZU93WDFqa1NCbWo2U1dnZ01TUm9hcXNBVTRWOGp6SWpJYjVTR3pUNTFsRkZqcUJ5N3B2ZkJwT24wdk5LTlp3TkHSAVRBVV95cUxON09tYTB6SWtHZG9CQWZGd0x0M1ZHLVBIQ1hzRW1ualMyY1IwMk5SQlNsR0lEdzdSR3dJVDEzNnREZ3BtUkNJWXgzX1F1bzhGMDZDbnk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4xUjNYZTlKa0szRFBMbHlKMVRSMy1BS2lfU0QtNHJJREZfYmlfRFE5U0NQMFowZU93WDFqa1NCbWo2U1dnZ01TUm9hcXNBVTRWOGp6SWpJYjVTR3pUNTFsRkZqcUJ5N3B2ZkJwT24wdk5LTlp3TkHSAVRBVV95cUxON09tYTB6SWtHZG9CQWZGd0x0M1ZHLVBIQ1hzRW1ualMyY1IwMk5SQlNsR0lEdzdSR3dJVDEzNnREZ3BtUkNJWXgzX1F1bzhGMDZDbnk?oc=5\" target=\"_blank\">Best Amazon Gifts for the Hard To Shop For: Owala, Kodak and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TODAY.com</font>",
-      "published": "2025-12-10T22:16:04+00:00",
-      "source": "TODAY.com"
+      "title": "Amazon senior VP Amit Agarwal on layoffs: Job cuts are primarily about … - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTBMWnZVVDFvSjZiSEFEdHpuN2xQVGdMUldWSmprUFpkLTNyODBlTUI4V3lJX2lKTzZtYkcwbVA5bVFFR0YwMkVJdEpDNHNHY3BNemFOZ3FvWDM2WlM3UllidS1oOHA5RmozVkFBTkIxR3V0R3BvUDdtV1BnTHdPdGp5d1ZsWU5LbHY3akdZZFd6dERwRHVETVZPX2VHT3dtOWhJZGdUeUxhSmNSZGVjX3NOajRkTU1iVnRoVkFNZnBxZk1NUzJUNHJudDU3WURLNjE4RXVCWnJIX0R0Wi1sRlR0NTRLa0Ju0gHuAUFVX3lxTE1IXzlhb0ZCT2MtNVdnUUxQRTJxVVhIWFJvZFJKQWxraE83ZzhqYzVaNWV4YTdsbjlvZ3ZYdS03ZW9OVHlqZUw0YmlyTmVaMFFrTVJJR2lQeTFGTk9YM29lWTlselVUa0hneVljYnlaYzZyQW1oaUtQNDRvQk1KSm9TbFQzVGFLZ1E5eTg4a3pZdEpkS0ZTVzhOckJ2UHVkVEUtQ2VFQ1ZNS2pCV2dQWUZRSkI1TXFwQm5UYW1PSTNBUzlRbXVvQThXQnJxRXl2a09SV3BDR0V4eEhuMm5KNm1heExDM0xmYy1VcVJOWlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTBMWnZVVDFvSjZiSEFEdHpuN2xQVGdMUldWSmprUFpkLTNyODBlTUI4V3lJX2lKTzZtYkcwbVA5bVFFR0YwMkVJdEpDNHNHY3BNemFOZ3FvWDM2WlM3UllidS1oOHA5RmozVkFBTkIxR3V0R3BvUDdtV1BnTHdPdGp5d1ZsWU5LbHY3akdZZFd6dERwRHVETVZPX2VHT3dtOWhJZGdUeUxhSmNSZGVjX3NOajRkTU1iVnRoVkFNZnBxZk1NUzJUNHJudDU3WURLNjE4RXVCWnJIX0R0Wi1sRlR0NTRLa0Ju0gHuAUFVX3lxTE1IXzlhb0ZCT2MtNVdnUUxQRTJxVVhIWFJvZFJKQWxraE83ZzhqYzVaNWV4YTdsbjlvZ3ZYdS03ZW9OVHlqZUw0YmlyTmVaMFFrTVJJR2lQeTFGTk9YM29lWTlselVUa0hneVljYnlaYzZyQW1oaUtQNDRvQk1KSm9TbFQzVGFLZ1E5eTg4a3pZdEpkS0ZTVzhOckJ2UHVkVEUtQ2VFQ1ZNS2pCV2dQWUZRSkI1TXFwQm5UYW1PSTNBUzlRbXVvQThXQnJxRXl2a09SV3BDR0V4eEhuMm5KNm1heExDM0xmYy1VcVJOWlE?oc=5\" target=\"_blank\">Amazon senior VP Amit Agarwal on layoffs: Job cuts are primarily about …</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2025-12-11T12:44:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Amazon vs. Walmart: Which Stock Will Outperform in 2026? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaU9TZDcxOWJzVnM5Z1h1QVRwajh6QUJFSV9FWHhUVGhOTWxCajhZYTZvb0htWE16R1FxM2ozb05QbE4xb1kzVk9YZm9xVkYyYjh1YzkxTnY2T2gzQVFvUlNHc05SckhGZ04zWnZSRTNmUVdEOXVCY25aXzNMQ2hfemV6cmhIV3NTaEVBU3FGRjhqbXZabEVseA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaU9TZDcxOWJzVnM5Z1h1QVRwajh6QUJFSV9FWHhUVGhOTWxCajhZYTZvb0htWE16R1FxM2ozb05QbE4xb1kzVk9YZm9xVkYyYjh1YzkxTnY2T2gzQVFvUlNHc05SckhGZ04zWnZSRTNmUVdEOXVCY25aXzNMQ2hfemV6cmhIV3NTaEVBU3FGRjhqbXZabEVseA?oc=5\" target=\"_blank\">Amazon vs. Walmart: Which Stock Will Outperform in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2025-12-12T11:45:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Amazon’s stock is this analyst’s ‘best idea’ for these 3 reasons - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPeUZBQ0xCLUxrN1hPbGJadlZIY1lSZHpBaS02bXFaYXUtaWh1S19Fcmp4cDVkMVJraExvaDJwZlBnUmlHbldnTTZXTEpHWHVWMnM2WUV5TFNJVzA0Q3ZHbTFXb0I3eXU3ZnRIbHk3VlZnYjZEOHFSZHdSX1dIdXljWUF1ZGxTeXk0ZEdxWW9rbEEtb1daZkZXZzN0djJzeXNNUl91ZWpBUnRLLVNUaWk2SmkwQ2Z2WnRSTU1WYjgxcmJKLVIyR2dwSXBIbXVENGc4ai1nUzZJNDhOc3ZCS01vd3VfWDg2NTRfTWN2amJsNWllMjl2WkVzeDFsR0xURl9kNGNCbFJYWTlTS01QMnRLd241c1Q4TjFpU2Rzb3Y4bzlvLWZrMEF4REQ5SkUtaWFJbWRhYWtIal9MTE5wa0RVSVB1RFhUNjg5WVhhb0J4UEpyWXluNUxFTEh2RVZOSEdoT2p6VkZHMG5sYkotSHBMeHFueFUwWG5iNU15NW03TDktRzdqUURUMEdNX0VURjJiODRRMkpWb2R5RXowQ01YZWJzQTNsZjVUcFlzSE81QXNGX0xE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitANBVV95cUxPeUZBQ0xCLUxrN1hPbGJadlZIY1lSZHpBaS02bXFaYXUtaWh1S19Fcmp4cDVkMVJraExvaDJwZlBnUmlHbldnTTZXTEpHWHVWMnM2WUV5TFNJVzA0Q3ZHbTFXb0I3eXU3ZnRIbHk3VlZnYjZEOHFSZHdSX1dIdXljWUF1ZGxTeXk0ZEdxWW9rbEEtb1daZkZXZzN0djJzeXNNUl91ZWpBUnRLLVNUaWk2SmkwQ2Z2WnRSTU1WYjgxcmJKLVIyR2dwSXBIbXVENGc4ai1nUzZJNDhOc3ZCS01vd3VfWDg2NTRfTWN2amJsNWllMjl2WkVzeDFsR0xURl9kNGNCbFJYWTlTS01QMnRLd241c1Q4TjFpU2Rzb3Y4bzlvLWZrMEF4REQ5SkUtaWFJbWRhYWtIal9MTE5wa0RVSVB1RFhUNjg5WVhhb0J4UEpyWXluNUxFTEh2RVZOSEdoT2p6VkZHMG5sYkotSHBMeHFueFUwWG5iNU15NW03TDktRzdqUURUMEdNX0VURjJiODRRMkpWb2R5RXowQ01YZWJzQTNsZjVUcFlzSE81QXNGX0xE?oc=5\" target=\"_blank\">Amazon’s stock is this analyst’s ‘best idea’ for these 3 reasons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2025-12-10T15:31:00+00:00",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Meta vs. Amazon: Which Underperforming \"Magnificent Seven\" Stock Will Rebound More in 2026? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSE9OZ3FDdjUzR0JZMzZ4V0VvdUZLamhwMUtwNnJZSUtUUEg5d2hGbzc3OHFuaExacnRDT2tEUnVXdjZUWkRvTzZGRmg4dXdCYlJxR0FlYThHOGZROGM5YWxPSjNVTmxuVHJmX2JTYkhSNlhVTE92ajY4UkRxY01xOWJqd01DSDFZaFFzRm9wNXBSQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSE9OZ3FDdjUzR0JZMzZ4V0VvdUZLamhwMUtwNnJZSUtUUEg5d2hGbzc3OHFuaExacnRDT2tEUnVXdjZUWkRvTzZGRmg4dXdCYlJxR0FlYThHOGZROGM5YWxPSjNVTmxuVHJmX2JTYkhSNlhVTE92ajY4UkRxY01xOWJqd01DSDFZaFFzRm9wNXBSQQ?oc=5\" target=\"_blank\">Meta vs. Amazon: Which Underperforming \"Magnificent Seven\" Stock Will Rebound More in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-12-11T23:20:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Fitbit Inspire 3 has returned to its lowest-ever price at Amazon — save $30 for a limited time - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jZXhwckZqV3lfSVpGT3E3WTI2Q0pRbEE3dVJJQ2h3MThidlFzaTRXNllIcmplYllGQ0RwS1NwVEZ1clg1STUzbnhEYXZRaEZ5Ml93NkdFNUpESzFTMXhzTWI4SVFQamN3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jZXhwckZqV3lfSVpGT3E3WTI2Q0pRbEE3dVJJQ2h3MThidlFzaTRXNllIcmplYllGQ0RwS1NwVEZ1clg1STUzbnhEYXZRaEZ5Ml93NkdFNUpESzFTMXhzTWI4SVFQamN3?oc=5\" target=\"_blank\">The Fitbit Inspire 3 has returned to its lowest-ever price at Amazon — save $30 for a limited time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-12-12T10:46:54+00:00",
+      "source": "Mashable"
     }
   ],
   "product_launches": [
-    {
-      "title": "Dangbei Launches Christmas Deals on Amazon France — Save Up to €455 on 4K Projectors - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWlM1VloyQ0g2NkNiOHNYczhqOWJ1SWQ0NC0wdXBuZmRUbXpTVFczQUNsbnZXN2EyZm9JZmZac0tLTENFVmgtZTF5c21oZThCN2ducGR1YkNIckx6b2VGaFBVdk5Nc0ZuaWc2YVdNNVB2TnpRTDdnSmdxNE1KdXpIeUMxOTRQRTNGYUctZExMSjRkWElFTS1GWUgyX1ZrNklydk5HYUxOczQ1TnUxUEQ0aS1zaVZNVXZscnpVQXZNZDdBMEIwaEtlM1JIcUhxVm5HS2dKdzRodXExV1ZFQnI3MDBoTjhXcXNv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWlM1VloyQ0g2NkNiOHNYczhqOWJ1SWQ0NC0wdXBuZmRUbXpTVFczQUNsbnZXN2EyZm9JZmZac0tLTENFVmgtZTF5c21oZThCN2ducGR1YkNIckx6b2VGaFBVdk5Nc0ZuaWc2YVdNNVB2TnpRTDdnSmdxNE1KdXpIeUMxOTRQRTNGYUctZExMSjRkWElFTS1GWUgyX1ZrNklydk5HYUxOczQ1TnUxUEQ0aS1zaVZNVXZscnpVQXZNZDdBMEIwaEtlM1JIcUhxVm5HS2dKdzRodXExV1ZFQnI3MDBoTjhXcXNv?oc=5\" target=\"_blank\">Dangbei Launches Christmas Deals on Amazon France — Save Up to €455 on 4K Projectors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
-      "published": "2025-12-11T09:30:00+00:00",
-      "source": "GlobeNewswire"
-    },
     {
       "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5",
@@ -84,11 +77,11 @@
       "source": "Retail Dive"
     },
     {
-      "title": "Amazon Launches Enhancements to Bedrock AgentCore for Smarter AI Agents - Small Business Trends",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkFpRG80WDVXTDZkOUJzOWliTzA3TTFHLW14RnRySGJKNi14NmlZbUJfOWMxR1ZuSXNhSUNmRWZ6Mng3MVdMeDlQWjZYZmFFZmVjZ1ZaZ2dIVkRJTGpWMDR2Q3pxbXJvTGhEdEpVaV9TdWtibWQwbXpfZ2Q0cXJqVy0zYzZWeGtmeUR3UEprYWlUTXQzckU2dTF1UU9TN05P?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkFpRG80WDVXTDZkOUJzOWliTzA3TTFHLW14RnRySGJKNi14NmlZbUJfOWMxR1ZuSXNhSUNmRWZ6Mng3MVdMeDlQWjZYZmFFZmVjZ1ZaZ2dIVkRJTGpWMDR2Q3pxbXJvTGhEdEpVaV9TdWtibWQwbXpfZ2Q0cXJqVy0zYzZWeGtmeUR3UEprYWlUTXQzckU2dTF1UU9TN05P?oc=5\" target=\"_blank\">Amazon Launches Enhancements to Bedrock AgentCore for Smarter AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Small Business Trends</font>",
-      "published": "2025-12-10T13:11:00+00:00",
-      "source": "Small Business Trends"
+      "title": "Dangbei Launches Christmas Deals on Amazon France — Save Up to €455 on 4K Projectors - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWlM1VloyQ0g2NkNiOHNYczhqOWJ1SWQ0NC0wdXBuZmRUbXpTVFczQUNsbnZXN2EyZm9JZmZac0tLTENFVmgtZTF5c21oZThCN2ducGR1YkNIckx6b2VGaFBVdk5Nc0ZuaWc2YVdNNVB2TnpRTDdnSmdxNE1KdXpIeUMxOTRQRTNGYUctZExMSjRkWElFTS1GWUgyX1ZrNklydk5HYUxOczQ1TnUxUEQ0aS1zaVZNVXZscnpVQXZNZDdBMEIwaEtlM1JIcUhxVm5HS2dKdzRodXExV1ZFQnI3MDBoTjhXcXNv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWlM1VloyQ0g2NkNiOHNYczhqOWJ1SWQ0NC0wdXBuZmRUbXpTVFczQUNsbnZXN2EyZm9JZmZac0tLTENFVmgtZTF5c21oZThCN2ducGR1YkNIckx6b2VGaFBVdk5Nc0ZuaWc2YVdNNVB2TnpRTDdnSmdxNE1KdXpIeUMxOTRQRTNGYUctZExMSjRkWElFTS1GWUgyX1ZrNklydk5HYUxOczQ1TnUxUEQ0aS1zaVZNVXZscnpVQXZNZDdBMEIwaEtlM1JIcUhxVm5HS2dKdzRodXExV1ZFQnI3MDBoTjhXcXNv?oc=5\" target=\"_blank\">Dangbei Launches Christmas Deals on Amazon France — Save Up to €455 on 4K Projectors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "published": "2025-12-11T09:30:00+00:00",
+      "source": "GlobeNewswire"
     },
     {
       "title": "Everything Announced at Amazon's Product-Packed September Event - CNET",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRVdKZ08yM0FlVkNlZlplNDJhaTNfMVIxaG9ORm1vT2VTV2dNWnZ3S0VfSHdXR2daS29jcXBOWUUtbWQ1WUhNeTZQdDBLZmNEX3NMMXlTYUZNbElqYTRKY1pOTDJjbFF6Q0RHR3FELUtEZ2hReWRWeHM1VFhTTnhpck1CUW1Ob3lXV0tISjJwM3FXQUk?oc=5\" target=\"_blank\">Everything Announced at Amazon's Product-Packed September Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
       "published": "2025-09-30T07:00:00+00:00",
       "source": "CNET"
+    },
+    {
+      "title": "Amazon Launches Enhancements to Bedrock AgentCore for Smarter AI Agents - Small Business Trends",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkFpRG80WDVXTDZkOUJzOWliTzA3TTFHLW14RnRySGJKNi14NmlZbUJfOWMxR1ZuSXNhSUNmRWZ6Mng3MVdMeDlQWjZYZmFFZmVjZ1ZaZ2dIVkRJTGpWMDR2Q3pxbXJvTGhEdEpVaV9TdWtibWQwbXpfZ2Q0cXJqVy0zYzZWeGtmeUR3UEprYWlUTXQzckU2dTF1UU9TN05P?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkFpRG80WDVXTDZkOUJzOWliTzA3TTFHLW14RnRySGJKNi14NmlZbUJfOWMxR1ZuSXNhSUNmRWZ6Mng3MVdMeDlQWjZYZmFFZmVjZ1ZaZ2dIVkRJTGpWMDR2Q3pxbXJvTGhEdEpVaV9TdWtibWQwbXpfZ2Q0cXJqVy0zYzZWeGtmeUR3UEprYWlUTXQzckU2dTF1UU9TN05P?oc=5\" target=\"_blank\">Amazon Launches Enhancements to Bedrock AgentCore for Smarter AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Small Business Trends</font>",
+      "published": "2025-12-10T13:11:00+00:00",
+      "source": "Small Business Trends"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-10",
-      "close": 231.77999877929688
+      "date": "2025-12-11",
+      "close": 230.27999877929688
     },
     "history": [
-      {
-        "date": "2025-12-02",
-        "close": 234.4199981689453
-      },
       {
         "date": "2025-12-03",
         "close": 232.3800048828125
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-10",
         "close": 231.77999877929688
+      },
+      {
+        "date": "2025-12-11",
+        "close": 230.27999877929688
       }
     ],
     "name": "Amazon.com, Inc."
