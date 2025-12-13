@@ -2,21 +2,49 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-12-12T12:24:53.380070+00:00",
+  "fetched_at": "2025-12-13T12:21:50.274148+00:00",
   "news": [
+    {
+      "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalJDdjNpcnRYa0RoTWNXTWtGTHgzcExjZGUyTzU2blpCM3RNYVBvcjBVcnJJZWJnTjM3RXNWS3psb0pJUjJFeEZXdEpORENVaG16NHNqem1BN1NlQU8wZnl0RVp2WVlSakZlb3IxNjc2Q21meWZIUC1mdERJeDlnSUMtSks?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPalJDdjNpcnRYa0RoTWNXTWtGTHgzcExjZGUyTzU2blpCM3RNYVBvcjBVcnJJZWJnTjM3RXNWS3psb0pJUjJFeEZXdEpORENVaG16NHNqem1BN1NlQU8wZnl0RVp2WVlSakZlb3IxNjc2Q21meWZIUC1mdERJeDlnSUMtSks?oc=5\" target=\"_blank\">Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2025-12-13T05:32:00+00:00",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Google and Apple roll out emergency security updates after zero-day attacks - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeW5rTnhJSE9JRzRweVFaWmhOYmU1X3JON0h6NHIzWDY1ajN4aV82SUc0TnRaN05kWTdmVERwWVdOYzlSMVJGN01FeFZQZmNEYjFBUXgyZm1BWmRrd0xUMzFSdmd2b1ZIc09lLUpxZllTTG5peHlINFgzNXFncVJWNVRBMVJiZy1JNkdMQzh3M1JvRTVRU3VzYVdhcS1QbENaZGRpakdkQlVESkVmYlFz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNeW5rTnhJSE9JRzRweVFaWmhOYmU1X3JON0h6NHIzWDY1ajN4aV82SUc0TnRaN05kWTdmVERwWVdOYzlSMVJGN01FeFZQZmNEYjFBUXgyZm1BWmRrd0xUMzFSdmd2b1ZIc09lLUpxZllTTG5peHlINFgzNXFncVJWNVRBMVJiZy1JNkdMQzh3M1JvRTVRU3VzYVdhcS1QbENaZGRpakdkQlVESkVmYlFz?oc=5\" target=\"_blank\">Google and Apple roll out emergency security updates after zero-day attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2025-12-12T20:31:36+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple Confirms Attacks—All iPhone Users Must Update Now - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1VtUzJHc0U5VU5QTkl4cHhhN2VJMHNOMWRlZElLQUVRSmYwcDZyaDRBYkpVYlhWMGVRUURnVVpWLVZLcmwxNmdGbDBTVFVyVGNKdU9paWxHUllCZ1AtNFlyQ2VYZkRwNy1UNktaUjV3eHBHSFRDaWNtems5MHlCX0ozeFU4V0Q3N0dqTTdDMUJrTUZZMzJZMXpyZzJ2Q3NyM2dkRlBDM1VZWkNyalE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1VtUzJHc0U5VU5QTkl4cHhhN2VJMHNOMWRlZElLQUVRSmYwcDZyaDRBYkpVYlhWMGVRUURnVVpWLVZLcmwxNmdGbDBTVFVyVGNKdU9paWxHUllCZ1AtNFlyQ2VYZkRwNy1UNktaUjV3eHBHSFRDaWNtems5MHlCX0ozeFU4V0Q3N0dqTTdDMUJrTUZZMzJZMXpyZzJ2Q3NyM2dkRlBDM1VZWkNyalE?oc=5\" target=\"_blank\">Apple Confirms Attacks—All iPhone Users Must Update Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2025-12-12T21:06:24+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JcmNlUW5Zb21vUkZMQnVHdUU0cjgxckpDdEVQMXVCcWJlMnpLcmUyLVI4X1g0XzZsVFpfNnZieVhKUm9FbDVGTmNLOTdiQ3FlU2h2NWhjV1Q2MG4xRXlGeHpjSWJ0LS0tcnlYZHVUU21mWGxJTWt2aXFn?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5JcmNlUW5Zb21vUkZMQnVHdUU0cjgxckpDdEVQMXVCcWJlMnpLcmUyLVI4X1g0XzZsVFpfNnZieVhKUm9FbDVGTmNLOTdiQ3FlU2h2NWhjV1Q2MG4xRXlGeHpjSWJ0LS0tcnlYZHVUU21mWGxJTWt2aXFn?oc=5\" target=\"_blank\">iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORmlVTU45U1VhRnpYZzFMVDFoNlZJaWJVdWtyeC1ldDJfRGxjbzk4VkRfaGxabkozdlVESkxWNGNpRm1kYkFQVnA5VU42WVBKS093WGpWbmh3bklFN0x3dDc3ZWE4SU1FQkNfSlVadDlxQXQxaWZ6NkgzaEdURW1Qd2phVjRjRkJHNkFNWTZJd2V1ZVlCR2xSMXE4RjNyUnpZZ3JfVkpoTE9lbTRZVzFqRVZGM1hqa2VfUjhCM3JR?oc=5\" target=\"_blank\">With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWdPMU5RNkNqWHc1UDJaRF9yUHo0X24zbGtnOTlHTUNTMnBUZi1pX2Y5TWZJdWRPMW8yTGZ2bUNGNjR3UFdUZWZTMlE1V0pIQjFMT2NXbHlVelI4aXRiWWRQNGxUbWxwcm1YNFRTOEtsQnFvZlNUX0FJTE1sSjVXaEpZVmUtazZ6YllmSEtmV0VKTEVtSjJkV19TUnFMdnN5ZnhIbEl0YzJWNmxTNGJYbGtKTVdnZm9vQ1E?oc=5\" target=\"_blank\">Leak reveals details of Apple’s secret roadmap: iOS 26.4, iOS 27, and iOS 28</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font></li></ol>",
+      "published": "2025-12-12T19:18:42+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple cofounder Ronald Wayne sold his 10% stake for $800 in 1976—today it’d be worth up to $400 billion - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUhNcGFXX293QzRqaFExSjRwRjlQZ1FQa3NsMjNXR3JqalV6RUR6Ym1VbFZycEJTWU9hZlhiZC1kM0pzWEZKaWwzUURyZjZPazZHVFo4YmFDVlVlWU0yZUJfYlJVbUdJX25HMXE3UHVSSWlBSHJVXzVWaHlUVnRVeVV3WEpraHBZeFpOQXItOThsc3VrbEJrS0t6RU5WUkJGV2dmUnNLa3BlUUJwVUJCbk5KcFpVeVBHWnNJckZUbU4yUFVtVTd0UVZwTUlET05GaV9r?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUhNcGFXX293QzRqaFExSjRwRjlQZ1FQa3NsMjNXR3JqalV6RUR6Ym1VbFZycEJTWU9hZlhiZC1kM0pzWEZKaWwzUURyZjZPazZHVFo4YmFDVlVlWU0yZUJfYlJVbUdJX25HMXE3UHVSSWlBSHJVXzVWaHlUVnRVeVV3WEpraHBZeFpOQXItOThsc3VrbEJrS0t6RU5WUkJGV2dmUnNLa3BlUUJwVUJCbk5KcFpVeVBHWnNJckZUbU4yUFVtVTd0UVZwTUlET05GaV9r?oc=5\" target=\"_blank\">Apple cofounder Ronald Wayne sold his 10% stake for $800 in 1976—today it’d be worth up to $400 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2025-12-12T14:58:00+00:00",
+      "source": "Fortune"
+    },
     {
       "title": "Apple wins partial reversal of sanctions in Epic Games antitrust lawsuit - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb09EM1hWSmdnQldGR0RmY3dCamVmLXFsYlQ0aGdYT2txNWM0bk82c0JrSVZzTHhIQUNTa1hDSUhIRUtWUFZkTVlzTEE0elJZZHZKN0RPaHlYUkt6ZUVpZXBCVDRQQVRraE1kMllaRjl0R2xKUWZpMjBYSkVaQUdtLWxHcWwtNzZZaC03bjRqcHc3QlZCSDJBOVpnVFZia3Zjd2RWTzQyUFc1NXh5WHNQT2Y2Q1UyaDZSMHk3Y0JlbVlaUFk0VktELUxNcXlSSmpfbDNhcFl6d3ZQckV0M0tXRkVVZl9VQXRC?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb09EM1hWSmdnQldGR0RmY3dCamVmLXFsYlQ0aGdYT2txNWM0bk82c0JrSVZzTHhIQUNTa1hDSUhIRUtWUFZkTVlzTEE0elJZZHZKN0RPaHlYUkt6ZUVpZXBCVDRQQVRraE1kMllaRjl0R2xKUWZpMjBYSkVaQUdtLWxHcWwtNzZZaC03bjRqcHc3QlZCSDJBOVpnVFZia3Zjd2RWTzQyUFc1NXh5WHNQT2Y2Q1UyaDZSMHk3Y0JlbVlaUFk0VktELUxNcXlSSmpfbDNhcFl6d3ZQckV0M0tXRkVVZl9VQXRC?oc=5\" target=\"_blank\">Apple wins partial reversal of sanctions in Epic Games antitrust lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-12-12T02:18:00+00:00",
+      "published": "2025-12-12T02:18:23+00:00",
       "source": "Reuters"
-    },
-    {
-      "title": "Apple Loses Appeals Court Ruling in App Store Fight With Epic - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3BoSmdyQzFyaDRUczJ5UjNfT3hWVTgtYXhVV19lZ1hMcHFqZ0dVTk9nWFhiWXVxRUFPSXpheEZ3MUxXR1ZZSFNzbHMwMlBGRV9Ha0FtejBOUkRvYkVDS25jZzc1NWhTSHYyVmpEdTZBdkNaV251bGlxZUVERXNyMmdaTnMtaGJrSUpQbThVbGpUSWZBbmR3b0VReTFpQkV4WkxtR3p3a2s0cF81djg4M0FB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3BoSmdyQzFyaDRUczJ5UjNfT3hWVTgtYXhVV19lZ1hMcHFqZ0dVTk9nWFhiWXVxRUFPSXpheEZ3MUxXR1ZZSFNzbHMwMlBGRV9Ha0FtejBOUkRvYkVDS25jZzc1NWhTSHYyVmpEdTZBdkNaV251bGlxZUVERXNyMmdaTnMtaGJrSUpQbThVbGpUSWZBbmR3b0VReTFpQkV4WkxtR3p3a2s0cF81djg4M0FB?oc=5\" target=\"_blank\">Apple Loses Appeals Court Ruling in App Store Fight With Epic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-12-11T20:57:27+00:00",
-      "source": "Bloomberg.com"
     },
     {
       "title": "Tim Sweeney on the future of Fortnite after another win over Apple - The Verge",
@@ -26,39 +54,11 @@
       "source": "The Verge"
     },
     {
-      "title": "Apple’s next HomePod mini and AirTag upgrades surface in leaked internal code - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2lSMjllTFV2VEIwWjBjRFhMZGxzbU5pNGQyN2Q1UU5GaXVUSWM1U3hmdl9oTXVkOWQ5em53emI1ckw5NlhkbVFXWkNVVTJZOTFwLVVHelB5LWd5Q2h3QkNDVzh5emp6UllQZkpwd2xMV1FrSnZqMmJ3V2ExWG1vWXRYWUhOWHEzTE92b0Nvdk9FQkl0ZFFFZjVhSnY0eWIycjJTU1A4Vy10SDJsQmV5MkhoUkdmTjdPZFhWLVJQaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2lSMjllTFV2VEIwWjBjRFhMZGxzbU5pNGQyN2Q1UU5GaXVUSWM1U3hmdl9oTXVkOWQ5em53emI1ckw5NlhkbVFXWkNVVTJZOTFwLVVHelB5LWd5Q2h3QkNDVzh5emp6UllQZkpwd2xMV1FrSnZqMmJ3V2ExWG1vWXRYWUhOWHEzTE92b0Nvdk9FQkl0ZFFFZjVhSnY0eWIycjJTU1A4Vy10SDJsQmV5MkhoUkdmTjdPZFhWLVJQaw?oc=5\" target=\"_blank\">Apple’s next HomePod mini and AirTag upgrades surface in leaked internal code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2025-12-11T17:22:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "Apple Planning To Roll Out AI Glasses in 2026 — Report - Currently.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2VaeUxNc2J5aFNEUVVwMUstRDVWWjBYZ1lWZFVaVnJkTmlKbG9ZeUJUX3pVZWMxR01oUlNmdmVyZklXVHQ4czNRR2xZMDlHdjlKLXNvLTNuQjNzNGc1SktXdkVEOTlhNHpwelJ1Z3VqMmtCT1VKMlhQd2V6Ylk1bUNxc3JPaC0y?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2VaeUxNc2J5aFNEUVVwMUstRDVWWjBYZ1lWZFVaVnJkTmlKbG9ZeUJUX3pVZWMxR01oUlNmdmVyZklXVHQ4czNRR2xZMDlHdjlKLXNvLTNuQjNzNGc1SktXdkVEOTlhNHpwelJ1Z3VqMmtCT1VKMlhQd2V6Ylk1bUNxc3JPaC0y?oc=5\" target=\"_blank\">Apple Planning To Roll Out AI Glasses in 2026 — Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Currently.com</font>",
-      "published": "2025-12-12T11:35:59+00:00",
-      "source": "Currently.com"
-    },
-    {
-      "title": "This test shows how bad Apple Intelligence is—and how much better it’s going to get - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblBidVVGU2pxS0RTaXpJRnVoekp2LTM4cUh3bmJhbmhKRFVidGpwelF4NmZPcEdKdU9HVEw4YS0zZE9GQlNWb3Rhdnh5a3ZueEJsRVJHejBDMUR4ZGhCRFlIcGhLbkw2UlhmR1RsSDRnQ0VoYkRaclpEZkRfMkZ3dHRBbnVscDU1MnZDY1pjcC16c0d2aTZiajdoeThVWnpNbndSTVhJX1M5NEV6WWowdEpoeS1VZmZmWmpYM2thNlBMeVh1MExV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQblBidVVGU2pxS0RTaXpJRnVoekp2LTM4cUh3bmJhbmhKRFVidGpwelF4NmZPcEdKdU9HVEw4YS0zZE9GQlNWb3Rhdnh5a3ZueEJsRVJHejBDMUR4ZGhCRFlIcGhLbkw2UlhmR1RsSDRnQ0VoYkRaclpEZkRfMkZ3dHRBbnVscDU1MnZDY1pjcC16c0d2aTZiajdoeThVWnpNbndSTVhJX1M5NEV6WWowdEpoeS1VZmZmWmpYM2thNlBMeVh1MExV?oc=5\" target=\"_blank\">This test shows how bad Apple Intelligence is—and how much better it’s going to get</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2025-12-12T12:15:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "How Matter has finally given Apple a path out of the HomeKit mess - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0d5elFzV2s5eVdaazcyUGxGZW1JNFJvSEI2NXFCQ3p1TExrM1llTzNzNkFhUWpmeG1FVE8zNkM4WlF1N2JMektxSU92MXpFTDQwcU9jMkRGNGUzZzhoMGpBaEk4dGhtZjFDWWZxM19sOXc2Y0hBcVZRRXIxMU9XaDZZMnFTejdoeFdvdEhBanVCWkFsM1czNkpGYklmZGp5SC1PUlExSU90cEQ2ZjFHTGVBUEtUYVEzTVdSMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0d5elFzV2s5eVdaazcyUGxGZW1JNFJvSEI2NXFCQ3p1TExrM1llTzNzNkFhUWpmeG1FVE8zNkM4WlF1N2JMektxSU92MXpFTDQwcU9jMkRGNGUzZzhoMGpBaEk4dGhtZjFDWWZxM19sOXc2Y0hBcVZRRXIxMU9XaDZZMnFTejdoeFdvdEhBanVCWkFsM1czNkpGYklmZGp5SC1PUlExSU90cEQ2ZjFHTGVBUEtUYVEzTVdSMA?oc=5\" target=\"_blank\">How Matter has finally given Apple a path out of the HomeKit mess</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2025-12-12T11:30:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "Jim Cramer examines 'stalled' stocks Apple, Meta and Tesla - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTV2owbkctWDZ1LTlNczgwT3RiZTVIbUo3Q0FRNFVVUEE4aWxFQXY0V1hGQ2ROaWdKSzg5YUt4TzlZTmdYSlQ5NzdnTFlQOVM2R1BLd1NBZnhuMERvTEFZSVJNcTNqZG9uandFQWRpMldrVGdSVmRv0gF8QVVfeXFMUGV4Mkp3ZjR2MEJFbkd1TjBCY2dyUHpBbFJsY29kMUp5U2FyMUpRVUktb0ROZWt3NGhNV3MwQVdaT3FIX0FsZi1VM3F3V1poT0Mtb1A3RmN3cnJ5NlNWY1B6NGRIck5nSkU1VUdoT1RoV01lSWVJMlR6OHNNSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBTV2owbkctWDZ1LTlNczgwT3RiZTVIbUo3Q0FRNFVVUEE4aWxFQXY0V1hGQ2ROaWdKSzg5YUt4TzlZTmdYSlQ5NzdnTFlQOVM2R1BLd1NBZnhuMERvTEFZSVJNcTNqZG9uandFQWRpMldrVGdSVmRv0gF8QVVfeXFMUGV4Mkp3ZjR2MEJFbkd1TjBCY2dyUHpBbFJsY29kMUp5U2FyMUpRVUktb0ROZWt3NGhNV3MwQVdaT3FIX0FsZi1VM3F3V1poT0Mtb1A3RmN3cnJ5NlNWY1B6NGRIck5nSkU1VUdoT1RoV01lSWVJMlR6OHNNSQ?oc=5\" target=\"_blank\">Jim Cramer examines 'stalled' stocks Apple, Meta and Tesla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-12-11T23:22:11+00:00",
-      "source": "CNBC"
+      "title": "Epic Games CEO Tim Sweeney thinks he finally broke Apple's stranglehold on its App Store - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnFtOVVPekNMR3p4R3BQby10bUVWT1hLaDlHTzNMNEdiclVFVXJTdEtncHBoYmxHb0NNTjJockxOdkJnaGZzUmxJY041MnphZnBqejRkME91NHVCMDc0cVdxM0h2c1NfZ3R3UHRjUmZkXzhVRGltcmcxV2ZEOVpHa1dibVJ4a3VyZTFJaWZRTWVyMWJBQ3Jha3ZR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnFtOVVPekNMR3p4R3BQby10bUVWT1hLaDlHTzNMNEdiclVFVXJTdEtncHBoYmxHb0NNTjJockxOdkJnaGZzUmxJY041MnphZnBqejRkME91NHVCMDc0cVdxM0h2c1NfZ3R3UHRjUmZkXzhVRGltcmcxV2ZEOVpHa1dibVJ4a3VyZTFJaWZRTWVyMWJBQ3Jha3ZR?oc=5\" target=\"_blank\">Epic Games CEO Tim Sweeney thinks he finally broke Apple's stranglehold on its App Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2025-12-12T19:42:00+00:00",
+      "source": "Business Insider"
     }
   ],
   "product_launches": [
@@ -66,8 +66,29 @@
       "title": "Four Apple product launches to expect in the near future - Mashable",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5\" target=\"_blank\">Four Apple product launches to expect in the near future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-12-10T17:54:13+00:00",
+      "published": "2025-12-08T17:36:49+00:00",
       "source": "Mashable"
+    },
+    {
+      "title": "Here's every new product Apple is launching in 2026 - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Here's every new product Apple is launching in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2025-12-11T20:30:00+00:00",
+      "source": "Macworld"
+    },
+    {
+      "title": "Apple to launch four new products in 2026: what about the standard iPhone 18? - Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmhBZVhIbFFBalB3aWV5X014aUx5a0l0YjBXcG9sbHNHcXhYVVFSa0o4TDNqVzlpdjV5cXJYMjYtbFc0TjJpRkd3M0dJOFV2eWMwVVVvSXprUVdIQWNRcTh4c3hSSlMteFRYd3QyUEo4YlBUUmF0WXV1TkhIYy1vUDdDbTQwV193UlhHb0k4eEFVTVoyT3lteng2SEo3YUw0YXpXSzd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmhBZVhIbFFBalB3aWV5X014aUx5a0l0YjBXcG9sbHNHcXhYVVFSa0o4TDNqVzlpdjV5cXJYMjYtbFc0TjJpRkd3M0dJOFV2eWMwVVVvSXprUVdIQWNRcTh4c3hSSlMteFRYd3QyUEo4YlBUUmF0WXV1TkhIYy1vUDdDbTQwV193UlhHb0k4eEFVTVoyT3lteng2SEo3YUw0YXpXSzd3?oc=5\" target=\"_blank\">Apple to launch four new products in 2026: what about the standard iPhone 18?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
+      "published": "2025-12-13T12:00:40+00:00",
+      "source": "Cybernews"
+    },
+    {
+      "title": "Apple execs celebrate launch of all-new made-in-USA product: 'We plan to continue expanding' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWh4MjRyMWlwYzlYNm5HNmlJdFU2VVduVkhhX2dqdXVENEcwcXIyOGZfeVNFM0JXd1Q5Nngzb2ZHblNlNTVoc2RZR3pvTWdHQ1RKQTJ1R0N4QnZHUm5RSjFTRnBORGZ5VEROTkMwVmZBejJ1eXhaR290cmJvTDYwaWdzOXdldw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWh4MjRyMWlwYzlYNm5HNmlJdFU2VVduVkhhX2dqdXVENEcwcXIyOGZfeVNFM0JXd1Q5Nngzb2ZHblNlNTVoc2RZR3pvTWdHQ1RKQTJ1R0N4QnZHUm5RSjFTRnBORGZ5VEROTkMwVmZBejJ1eXhaR290cmJvTDYwaWdzOXdldw?oc=5\" target=\"_blank\">Apple execs celebrate launch of all-new made-in-USA product: 'We plan to continue expanding'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-12-12T16:00:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple",
@@ -75,41 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdIQkdDOWJZWXFzY3dteUR2MWNVbTJ1bktEcTNybkRZMl9oOFluUEEwdGd2ZDhlX0cydjBkS19IQ3gzb291TmRUSzdrNWpGbTYzSjFVNWItaHU5S0hfM0JPMk83WF9xZHpvV2E5TkFTa1JCSUUydXVqclVVcjlqdjJFaHh1blFTcEg3QlUyRGRjTTRSV0lCR2phT2FtekVOQnlVeTR2dzdIdw?oc=5\" target=\"_blank\">Introducing iPhone Pocket: a beautiful way to wear and carry iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
       "published": "2025-11-11T08:00:00+00:00",
       "source": "Apple"
-    },
-    {
-      "title": "Report: Apple to Launch These New Products in 2026 - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGxIaTZobkJ3clBvYjg3Xzg1ZDJKR3I5Ql9zT0o5UzVoSkJjZjRScjJ3ZENyRGttV05jbHRJYU5pTFNrWVhnQVhJampiNTV4MDEwM2I4bjRpSGx1VjNoOWpoMHFHeHY4Q3BBOFZaZFdKLW5tZFZ4WFExSFFLaWNFSFZxODY5d1U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGxIaTZobkJ3clBvYjg3Xzg1ZDJKR3I5Ql9zT0o5UzVoSkJjZjRScjJ3ZENyRGttV05jbHRJYU5pTFNrWVhnQVhJampiNTV4MDEwM2I4bjRpSGx1VjNoOWpoMHFHeHY4Q3BBOFZaZFdKLW5tZFZ4WFExSFFLaWNFSFZxODY5d1U?oc=5\" target=\"_blank\">Report: Apple to Launch These New Products in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2025-11-02T07:00:00+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Here's every new product Apple is launching in 2026 - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Here's every new product Apple is launching in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2025-12-11T20:22:26+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "iFixit Launches Free App To Help Users Repair Apple Products And More - bgr.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDOWdKWUhKTm9KM2FjSGFQT0x4cS1OeG5URVFscWhTOVlsQjNFOC1veWpYNGI0dGFQTFBvU0dkWUx0dWVIcGJEaklnb2hJeXp5dWM1RjlXaFVwbGRHMnVIOXljWm9jN2ZVeGI0aFpGSnY4azg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBDOWdKWUhKTm9KM2FjSGFQT0x4cS1OeG5URVFscWhTOVlsQjNFOC1veWpYNGI0dGFQTFBvU0dkWUx0dWVIcGJEaklnb2hJeXp5dWM1RjlXaFVwbGRHMnVIOXljWm9jN2ZVeGI0aFpGSnY4azg?oc=5\" target=\"_blank\">iFixit Launches Free App To Help Users Repair Apple Products And More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
-      "published": "2025-12-09T19:30:00+00:00",
-      "source": "bgr.com"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-11",
-      "close": 278.0299987792969
+      "date": "2025-12-12",
+      "close": 278.2799987792969
     },
     "history": [
-      {
-        "date": "2025-12-03",
-        "close": 284.1499938964844
-      },
       {
         "date": "2025-12-04",
         "close": 280.70001220703125
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-11",
         "close": 278.0299987792969
+      },
+      {
+        "date": "2025-12-12",
+        "close": 278.2799987792969
       }
     ],
     "name": "Apple Inc."
