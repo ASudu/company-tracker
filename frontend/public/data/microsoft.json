@@ -2,35 +2,28 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-14T12:22:03.300976+00:00",
+  "fetched_at": "2025-12-15T12:27:21.362109+00:00",
   "news": [
     {
-      "title": "Microsoft's AI boss calls Elon Musk a 'bulldozer' with 'superhuman capabilities' - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGtFcXVPejhsYW5sMHk5Q3JkN3h2TjZyWVRzcS1ON0RpSEhIQWVzTDZzTkx6UzdycmRWaDlTWG03dzU0dlRaeFdZM2tZLWMwQ1Job1pWS2xNajBfSk5yQ0o4aFJHeVZSTEszMG1Ha1llTU5LYjFMOTVLVXJGZVFrTTVJdTRNTE9UeFNjZHRzRmNWQ3YyZi1fNnAyYldhc3NJSTVJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGtFcXVPejhsYW5sMHk5Q3JkN3h2TjZyWVRzcS1ON0RpSEhIQWVzTDZzTkx6UzdycmRWaDlTWG03dzU0dlRaeFdZM2tZLWMwQ1Job1pWS2xNajBfSk5yQ0o4aFJHeVZSTEszMG1Ha1llTU5LYjFMOTVLVXJGZVFrTTVJdTRNTE9UeFNjZHRzRmNWQ3YyZi1fNnAyYldhc3NJSTVJ?oc=5\" target=\"_blank\">Microsoft's AI boss calls Elon Musk a 'bulldozer' with 'superhuman capabilities'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2025-12-13T22:57:00+00:00",
-      "source": "Fortune"
+      "title": "Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot - extremetech.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpMaklvT01MbTNlNmN3Ulhka1VyeEYyc3JZdjlWWGVySW9lMVR1VVprb0otT2NvRVBhMFJHMGM3c1lmUVVTbHh1NlF3aWZqZUx6bnhNV3lZeThJNTBSdDhoTEZmZ3F6LWExWkVUXzN3cmI4Q1o2amxYUUxvZVI3NDhGSDlsMlRvSWJrY0NuYjJsZG5zaUcyQml6YndZTzQ5YjBoZ25QWTdCbzA?oc=5\" target=\"_blank\">Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">extremetech.com</font>",
+      "published": "2025-12-10T14:45:21+00:00",
+      "source": "extremetech.com"
     },
     {
-      "title": "Microsoft might wave the white flag on AI to protect humanity - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcFUzeVpsS3lnQ0NmTHd6Und2WWFnMG5RQnhjT3VxVWZhbG43V2MyanA5b2hiYUxqdllCSTFWNGdMSzY1YUtUOHRhWFNYbW5Fel9JdEM4NldfV0lTOTdiNkJIaEV2UXRYRkxTbzI2UWdJWUxtZUdHX0xNeDRiZHJZelhlSnRHZEE2Q2JxZHAzSm42N0JTbmh4VzVwQXk1OXJYOWoxUDBkVzhCZHJmNUZHQ0pEb2dKWi1sblY3TzVwRXU3MGJKR0RkWU0xYVNrTjEza05aLWJiRzFfdkFmRkxNTXA0bmdtOF81aEcwdjd1aUlDakljdGh0dHA1d0lTR1dKV2d3MFl2N2hDR1IzSTZjMnVDMHYtSU80ZEFSbVpVZ0hSaFFkR3JaRjJYLXlSN1R1X1Q2ZHRsMWhtTVhUU1RKaVZQd2cydVBIclU4Uw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQcFUzeVpsS3lnQ0NmTHd6Und2WWFnMG5RQnhjT3VxVWZhbG43V2MyanA5b2hiYUxqdllCSTFWNGdMSzY1YUtUOHRhWFNYbW5Fel9JdEM4NldfV0lTOTdiNkJIaEV2UXRYRkxTbzI2UWdJWUxtZUdHX0xNeDRiZHJZelhlSnRHZEE2Q2JxZHAzSm42N0JTbmh4VzVwQXk1OXJYOWoxUDBkVzhCZHJmNUZHQ0pEb2dKWi1sblY3TzVwRXU3MGJKR0RkWU0xYVNrTjEza05aLWJiRzFfdkFmRkxNTXA0bmdtOF81aEcwdjd1aUlDakljdGh0dHA1d0lTR1dKV2d3MFl2N2hDR1IzSTZjMnVDMHYtSU80ZEFSbVpVZ0hSaFFkR3JaRjJYLXlSN1R1X1Q2ZHRsMWhtTVhUU1RKaVZQd2cydVBIclU4Uw?oc=5\" target=\"_blank\">Microsoft might wave the white flag on AI to protect humanity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
-      "published": "2025-12-13T15:24:13+00:00",
-      "source": "Windows Central"
+      "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGJrb1A0NXBEMkV5WFNKbXQzSnh1dF8yaGFwTkNQVk4yWGFIdTlMVEhQZUhUblhaZGhMVFc2bzJwUWg2TjBGTC1qblNpTkFHakE0UUdlYzFMVkhPOTZXNUVTYTdVbWJxR2VOcDZXSktzWENxeld2RkxiU05Qc3dxRE1NSGFTRzFxT1dNSnJ3S0NNampMNnfSAZsBQVVfeXFMTmFBWmhscTdjaDhsc2I2QUg1dUlzOUdaZ090NElhbm1Xem1KNkJ0ZXpBbC1lUGNFS05TNTdfeExwMVFLVmItLVFxeUNkZ3JDR2I1UUxYZnZ4emt4Z1RtZE82VHZaWEVreHVRRFJRY3pJTEtSalhwdTdyalZzQ2V4ZnQ0c0tTb1FtVFhCcnZnV1NmeDV4VVBGeGFDQmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGJrb1A0NXBEMkV5WFNKbXQzSnh1dF8yaGFwTkNQVk4yWGFIdTlMVEhQZUhUblhaZGhMVFc2bzJwUWg2TjBGTC1qblNpTkFHakE0UUdlYzFMVkhPOTZXNUVTYTdVbWJxR2VOcDZXSktzWENxeld2RkxiU05Qc3dxRE1NSGFTRzFxT1dNSnJ3S0NNampMNnfSAZsBQVVfeXFMTmFBWmhscTdjaDhsc2I2QUg1dUlzOUdaZ090NElhbm1Xem1KNkJ0ZXpBbC1lUGNFS05TNTdfeExwMVFLVmItLVFxeUNkZ3JDR2I1UUxYZnZ4emt4Z1RtZE82VHZaWEVreHVRRFJRY3pJTEtSalhwdTdyalZzQ2V4ZnQ0c0tTb1FtVFhCcnZnV1NmeDV4VVBGeGFDQmM?oc=5\" target=\"_blank\">Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2025-12-14T17:09:58+00:00",
+      "source": "TechPowerUp"
     },
     {
-      "title": "Microsoft Executive Vows to Halt AI Work If It Imperils Humanity - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTFGc3BHa1RFUWNKaXYxeW5obFFZd2JBMXhSTGEtVC1qdUc3d3VLUmY3dVAtMVhKRTZYWTV4a0swNEdoLXJHaDNSNzNESDJHTkx1VFI3SS1rQnNkLUlBS2hZWUhuTlN6N0d5Vi1VTzlwT3NrRjlmUXBZYkxDeGxwa1Vuemk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTFGc3BHa1RFUWNKaXYxeW5obFFZd2JBMXhSTGEtVC1qdUc3d3VLUmY3dVAtMVhKRTZYWTV4a0swNEdoLXJHaDNSNzNESDJHTkx1VFI3SS1rQnNkLUlBS2hZWUhuTlN6N0d5Vi1VTzlwT3NrRjlmUXBZYkxDeGxwa1Vuemk?oc=5\" target=\"_blank\">Microsoft Executive Vows to Halt AI Work If It Imperils Humanity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-12-11T17:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Microsoft Worm Attack Warning — Act Rapidly And Change Passwords Now - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNU8wb1NILXVKUC1vakwtcENzb0piV2dCX05XRVR1ZUVjNlpLeUM1aS1IZGh5RXlvc1REaWFUOGJEd2FRUWJMM0tJakg0WlF3QWFRWUtKeWthNEJsd2gxS0tCcm00QlVEa0JHNjVNQ0NXWVFzdlhKYTM5Q3ROLThFdG16dmxnalZfa1kyRVNBUVVud0o1TC1KMkFjNGU2VXNHN0pGRlNMY1JJTU5MYzhwMjFpcUM4NDA5aDB3QUxvVzc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNU8wb1NILXVKUC1vakwtcENzb0piV2dCX05XRVR1ZUVjNlpLeUM1aS1IZGh5RXlvc1REaWFUOGJEd2FRUWJMM0tJakg0WlF3QWFRWUtKeWthNEJsd2gxS0tCcm00QlVEa0JHNjVNQ0NXWVFzdlhKYTM5Q3ROLThFdG16dmxnalZfa1kyRVNBUVVud0o1TC1KMkFjNGU2VXNHN0pGRlNMY1JJTU5MYzhwMjFpcUM4NDA5aDB3QUxvVzc?oc=5\" target=\"_blank\">Microsoft Worm Attack Warning — Act Rapidly And Change Passwords Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-12-13T13:45:00+00:00",
-      "source": "Forbes"
+      "title": "5 Free Apps That Can Replace Your Microsoft Office Subscription - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUZVVG1IZy0zX1pxOWVLMFZWcldHTkItSzBLVVh2a3NGb0tPOUlvcW9YSFdhU1I4M0tnNlplcXhydnpDN2EzVHkzVnhLcVo1eHpRSnVmLVNVa3Y3SkI2Nng1R0o0ODZ1YUpORjhuZ3QtUEE0RW1sVmFxLXdGaE1BTnhn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxORUZVVG1IZy0zX1pxOWVLMFZWcldHTkItSzBLVVh2a3NGb0tPOUlvcW9YSFdhU1I4M0tnNlplcXhydnpDN2EzVHkzVnhLcVo1eHpRSnVmLVNVa3Y3SkI2Nng1R0o0ODZ1YUpORjhuZ3QtUEE0RW1sVmFxLXdGaE1BTnhn?oc=5\" target=\"_blank\">5 Free Apps That Can Replace Your Microsoft Office Subscription</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
+      "published": "2025-12-14T15:47:00+00:00",
+      "source": "bgr.com"
     },
     {
       "title": "Wall Street Says Microsoft Can Hit $650. Here’s the Path - Yahoo Finance",
@@ -40,11 +33,25 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft has updated Media Creation Tool for Windows 11 USB installations - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFIYy1YVnZQcGFhSG55TnlfbmNRbmlkX0NOckgtOF9USTVrOWhPTHBDWlhQdmY4dVBJUUJXT1o2V0ZSWmFCWmlTWU4xNGFnNDNBSjdkQldSMWFRejB3VEF6NHR2ck94bkpNeVZvY2l1ZmVxdk1RQ1hWQmF5bktHel9ZbFYyZXVqZnc2ak1JeEVidXZMWU9hbUV3MVZIQmF4TmptMF9R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFIYy1YVnZQcGFhSG55TnlfbmNRbmlkX0NOckgtOF9USTVrOWhPTHBDWlhQdmY4dVBJUUJXT1o2V0ZSWmFCWmlTWU4xNGFnNDNBSjdkQldSMWFRejB3VEF6NHR2ck94bkpNeVZvY2l1ZmVxdk1RQ1hWQmF5bktHel9ZbFYyZXVqZnc2ak1JeEVidXZMWU9hbUV3MVZIQmF4TmptMF9R?oc=5\" target=\"_blank\">Microsoft has updated Media Creation Tool for Windows 11 USB installations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "published": "2025-12-12T14:04:00+00:00",
+      "title": "Microsoft released KB5072537, KB5071416, KB5072543 Windows 11 Setup & Recovery updates - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUY5QVhVY0ZZc1hoaUpoalJpVnlPMnBJVGh5dmgyZ2RFOXlLVVpKMmpkSjFPM09RUkEtbXdGNzk1R2ZwMEE1V0RQa1h1MzBHQmxvSTBhNGI3S0Via1AzSVBnUkN1NkVWSmt6WUNUSG1TNW1vNFpXbjlTSVdlV1NoUHN5eUV2UzBjY2hiaV94bVltbzF4ZUM1UXNoRUVacklOdks1Z3UwNV9rclNyRU5fNTlR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUY5QVhVY0ZZc1hoaUpoalJpVnlPMnBJVGh5dmgyZ2RFOXlLVVpKMmpkSjFPM09RUkEtbXdGNzk1R2ZwMEE1V0RQa1h1MzBHQmxvSTBhNGI3S0Via1AzSVBnUkN1NkVWSmt6WUNUSG1TNW1vNFpXbjlTSVdlV1NoUHN5eUV2UzBjY2hiaV94bVltbzF4ZUM1UXNoRUVacklOdks1Z3UwNV9rclNyRU5fNTlR?oc=5\" target=\"_blank\">Microsoft released KB5072537, KB5071416, KB5072543 Windows 11 Setup & Recovery updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2025-12-13T20:16:00+00:00",
       "source": "Neowin"
+    },
+    {
+      "title": "Microsoft: December security updates cause Message Queuing failures - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1UzM0JWcC03bGp6YXpnamVPT2ZqcUNTeDUzdTA1ZWloNkhiSk14TnJlWGczUmNPSUtOR056WExXR1BtWmw2clp4QzFieVRWWG95S2dGWHlMS2JDODd5NndHWnRjTUhoc3U0eDFZMXJCaHFyMVNyal9NcFJJMWdTWFVSMjJJVzEtRHBydTZwN3VsRmx0R0xqdktiTndlTFFlY1RnX1FvSDlkSHFqdXY5QldqLTFCd9IBuwFBVV95cUxPa2trSER3TVFIN0dKaU82REZaZjE2VWw1WFl2OFd2OG1rNUVIYXg4OW5UUUJmMXJBalRTaWJ4UmdTejZFdXlsRkM2dG12Tm1sVmVBN21yb1gzV0FBZjY4c2F3UEhhX1BycUFyOHV4MDNTU0tVNERrSi05Z2JzM0FlOVhIakFTRDdFQWxSRjNiUGFxcFNybHdUT2xSM05ORHBOdUQ2MFFNTkp2NVBkSkVBQjVRTmd1c3R5NHBJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1UzM0JWcC03bGp6YXpnamVPT2ZqcUNTeDUzdTA1ZWloNkhiSk14TnJlWGczUmNPSUtOR056WExXR1BtWmw2clp4QzFieVRWWG95S2dGWHlMS2JDODd5NndHWnRjTUhoc3U0eDFZMXJCaHFyMVNyal9NcFJJMWdTWFVSMjJJVzEtRHBydTZwN3VsRmx0R0xqdktiTndlTFFlY1RnX1FvSDlkSHFqdXY5QldqLTFCd9IBuwFBVV95cUxPa2trSER3TVFIN0dKaU82REZaZjE2VWw1WFl2OFd2OG1rNUVIYXg4OW5UUUJmMXJBalRTaWJ4UmdTejZFdXlsRkM2dG12Tm1sVmVBN21yb1gzV0FBZjY4c2F3UEhhX1BycUFyOHV4MDNTU0tVNERrSi05Z2JzM0FlOVhIakFTRDdFQWxSRjNiUGFxcFNybHdUT2xSM05ORHBOdUQ2MFFNTkp2NVBkSkVBQjVRTmd1c3R5NHBJ?oc=5\" target=\"_blank\">Microsoft: December security updates cause Message Queuing failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-12-15T09:04:59+00:00",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft AI CEO Mustafa Suleyman's 'one-word' description for two of the biggest tech CEOs, Elon Musk an - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOQnRoNWQxOUlJaUdwWWdmM0oxNEE5aGs0bXFlQ09EUzJMbGptT2ZtZXdHNVFOS1NCSGpId2haSUpCR192dm5yZmlVNjNCRGRLTHZtT01uUlVhYUgzREppSVRkOUxENm1HTk1pZVVjWkRLTDdZR1pqUnpWRVl0Mkk4WFZ4X1FmRXZWMWhrSk9lOWNMYUZoNjN6d2JHOUlRVExTUm1NUU5aR0RhUEhaVXRaZGxBeUFsT2h0LXMxRVlIVWo4Q09MYUd1eWt6YzkyUURWcFJ6eWZteFpqQnQtWWowZXFrdDNfd2hKb1EtWXZmY1F1QmJKcmplYlNPbjFDNkxrRlpqMWpGVHVGY0xLZ21abEwwVVRLOFJxSTQxbEIxNXp1Z9IBpwJBVV95cUxQSnBrMkNaTGxtX2VNTVhMTHExNnVsNFdSLVc2RVE2M1lCYkdzVEt3VG5WcTFkclhPRHJlWmRYRzFvcnl2Vk9PRHEyalhYbm43Sm1MVE9XMzJOVXpyYXZQUHg4dXRaQl9aZ08tN1VrUC1xb2xINFdqUi1YQ0t2Y29yeWROZ3dLLXh0ZGgxSTR3cE5RUUxaMEhrOENKR0ZETmVNQVZRWjM3TTExWGNMeXd6LWROdjlKYWxMbTBrc0lLUjk2N0Q4VlFhaDhkSUtYanNMa0xyb2V4Y3lDUWZMNXM0ZTA2bS1HYl9DWVprWWprdjB2VXhib2pKVFhseXd3T0oxV2tGSzhHZGVHQUo3TGdwZ2hIZHVHQ2xvaDdja1dQd1EzTFFGWXdj?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxOQnRoNWQxOUlJaUdwWWdmM0oxNEE5aGs0bXFlQ09EUzJMbGptT2ZtZXdHNVFOS1NCSGpId2haSUpCR192dm5yZmlVNjNCRGRLTHZtT01uUlVhYUgzREppSVRkOUxENm1HTk1pZVVjWkRLTDdZR1pqUnpWRVl0Mkk4WFZ4X1FmRXZWMWhrSk9lOWNMYUZoNjN6d2JHOUlRVExTUm1NUU5aR0RhUEhaVXRaZGxBeUFsT2h0LXMxRVlIVWo4Q09MYUd1eWt6YzkyUURWcFJ6eWZteFpqQnQtWWowZXFrdDNfd2hKb1EtWXZmY1F1QmJKcmplYlNPbjFDNkxrRlpqMWpGVHVGY0xLZ21abEwwVVRLOFJxSTQxbEIxNXp1Z9IBpwJBVV95cUxQSnBrMkNaTGxtX2VNTVhMTHExNnVsNFdSLVc2RVE2M1lCYkdzVEt3VG5WcTFkclhPRHJlWmRYRzFvcnl2Vk9PRHEyalhYbm43Sm1MVE9XMzJOVXpyYXZQUHg4dXRaQl9aZ08tN1VrUC1xb2xINFdqUi1YQ0t2Y29yeWROZ3dLLXh0ZGgxSTR3cE5RUUxaMEhrOENKR0ZETmVNQVZRWjM3TTExWGNMeXd6LWROdjlKYWxMbTBrc0lLUjk2N0Q4VlFhaDhkSUtYanNMa0xyb2V4Y3lDUWZMNXM0ZTA2bS1HYl9DWVprWWprdjB2VXhib2pKVFhseXd3T0oxV2tGSzhHZGVHQUo3TGdwZ2hIZHVHQ2xvaDdja1dQd1EzTFFGWXdj?oc=5\" target=\"_blank\">Microsoft AI CEO Mustafa Suleyman's 'one-word' description for two of the biggest tech CEOs, Elon Musk an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTFGc3BHa1RFUWNKaXYxeW5obFFZd2JBMXhSTGEtVC1qdUc3d3VLUmY3dVAtMVhKRTZYWTV4a0swNEdoLXJHaDNSNzNESDJHTkx1VFI3SS1rQnNkLUlBS2hZWUhuTlN6N0d5Vi1VTzlwT3NrRjlmUXBZYkxDeGxwa1Vuemk?oc=5\" target=\"_blank\">Microsoft Executive Vows to Halt AI Work If It Imperils Humanity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0oyRjd2NEgtZDBYWUJ0R0FOTHJBMWtMSzRsYnhnb05BdHpNSmZqYmlrOW1vUU45SmJ3bXRzRkdkRVlTQ1NabmwtRzFhbFI0RUYtaWFhOWV4NE1VQk1NcXBiS0MzNk10NWJtcmdrZXpwVFNZczd1enVPbGl3dXJkd1g3aFlmOXgzQXcyY0ZaaU5DNmdmZm91X2pqZkFBMlBqMTFBN0lVZjdwMFo3?oc=5\" target=\"_blank\">Microsoft AI CEO Mustafa Suleyman says he won't match Meta's high-flying pay packages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
+      "published": "2025-12-15T05:45:00+00:00",
+      "source": "Times of India"
     },
     {
       "title": "Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant - TechCrunch",
@@ -52,29 +59,22 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1dwbUhqSFFmczRZWU5pdk9Dd0ZGU0l3aWY2MndlTkkxeFFlLW9faGJDMXdqc205UDlJSG5EQjlXX1ZUNjFBU2lINzducXBidUNQdHYyVmlWNkNTbnJSM0lXMURYYkRlWUsxUjNlcVBxTWNVcXN3djhPdEJjTG5XRDZCazlaaFVYbU1MT25oM091Tk5ua0RjeEVXRHl5WlhMM0RheU9NeWY?oc=5\" target=\"_blank\">Microsoft buys 3.6M metric tons of carbon removal from bioenergy plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
       "published": "2025-12-12T19:16:10+00:00",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft Introduces Postgres-Compatible Azure HorizonDB - infoq.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCWWRFQVNwU0REZ0tERVJQNUhtMkp4QzRfTTVDOG1ZWEhnaEpmeGJoYWtRbWJFSTU1VEozcUowUHFONzNjc2diZEZhZXIzdmZkVzBfRC1kTENoZVh1ZUJ0SWxCdmlZamZwMk5VMU95VQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCWWRFQVNwU0REZ0tERVJQNUhtMkp4QzRfTTVDOG1ZWEhnaEpmeGJoYWtRbWJFSTU1VEozcUowUHFONzNjc2diZEZhZXIzdmZkVzBfRC1kTENoZVh1ZUJ0SWxCdmlZamZwMk5VMU95VQ?oc=5\" target=\"_blank\">Microsoft Introduces Postgres-Compatible Azure HorizonDB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">infoq.com</font>",
-      "published": "2025-12-13T09:25:07+00:00",
-      "source": "infoq.com"
     }
   ],
   "product_launches": [
-    {
-      "title": "Microsoft's unified Office app launches on iOS and yes, it has dark mode - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5\" target=\"_blank\">Microsoft's unified Office app launches on iOS and yes, it has dark mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-12-13T23:00:00+00:00",
-      "source": "Mashable"
-    },
     {
       "title": "Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5\" target=\"_blank\">Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2025-10-09T07:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "Microsoft's unified Office app launches on iOS and yes, it has dark mode - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5\" target=\"_blank\">Microsoft's unified Office app launches on iOS and yes, it has dark mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-12-13T23:00:00+00:00",
+      "source": "Mashable"
     },
     {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
