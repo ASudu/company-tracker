@@ -2,49 +2,49 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2025-12-16T12:26:10.427601+00:00",
+  "fetched_at": "2025-12-17T12:25:41.893979+00:00",
   "news": [
     {
-      "title": "'I had to take 60 meetings': Jeff Bezos says 'the hardest thing I've ever done' was raising the first million dollars of seed capital for Amazon - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGFpS0JHSFFyLVJfYXBaeDF0aGVqakdWcHhPdnBteXU1SnZSaVYxUTFNZHNUUEVqTFFqVkhDVkIxWW54Y2NmZXI5TmhzUktfUWM3M2xqYWc3eWtuWHJuZnl2cVNpQ1FqT0tvZUloQ0xraUdmMWVhX0FHSkQ0U1pydmY0ZG1pLXJBRnlHMUloVU5aZW5QVi1iYk01a0FEN3BKekZtVE96dFgtQkVrRFBJdjZqNHBhSk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGFpS0JHSFFyLVJfYXBaeDF0aGVqakdWcHhPdnBteXU1SnZSaVYxUTFNZHNUUEVqTFFqVkhDVkIxWW54Y2NmZXI5TmhzUktfUWM3M2xqYWc3eWtuWHJuZnl2cVNpQ1FqT0tvZUloQ0xraUdmMWVhX0FHSkQ0U1pydmY0ZG1pLXJBRnlHMUloVU5aZW5QVi1iYk01a0FEN3BKekZtVE96dFgtQkVrRFBJdjZqNHBhSk0?oc=5\" target=\"_blank\">'I had to take 60 meetings': Jeff Bezos says 'the hardest thing I've ever done' was raising the first million dollars of seed capital for Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2025-12-15T17:30:00+00:00",
-      "source": "Fortune"
-    },
-    {
-      "title": "Critical Amazon Kindle Hack Confirmed — What You Need To Know - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFhKN3ltN2VJQldqYlMwaUM0dmFTbHpNSUF0UUgteW8xWHdRUGFnN3d4b0FEWUtzYmtPM1BRWVpUc3ZOeXZ6Z1pYOEdwQ3JlaDNTR2lFTDdEVWliS2pKeUV1VUJYLS1aUGNXYW12OHdaZU0xeGwzcjU2WUM0RXpldzF1VEhXQVdacUpnOTB5VnZfQUdDUE9TTmVYMU1HWDNkMWJqZ2c0R1B3UzBjcC1wMHFDejk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFhKN3ltN2VJQldqYlMwaUM0dmFTbHpNSUF0UUgteW8xWHdRUGFnN3d4b0FEWUtzYmtPM1BRWVpUc3ZOeXZ6Z1pYOEdwQ3JlaDNTR2lFTDdEVWliS2pKeUV1VUJYLS1aUGNXYW12OHdaZU0xeGwzcjU2WUM0RXpldzF1VEhXQVdacUpnOTB5VnZfQUdDUE9TTmVYMU1HWDNkMWJqZ2c0R1B3UzBjcC1wMHFDejk?oc=5\" target=\"_blank\">Critical Amazon Kindle Hack Confirmed — What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-12-16T11:41:00+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "The Amazon Fire TV Stick HD is under $20 — act fast to save $16 - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LS2NuSXRJR2Z2eE9SZWRWYWdyVWdzczNtNld2a0dlLVNRREJqLTVZbW9Ca1hVaDBuZVpSSjg4QU1SdXNFRlRJU3Z4NDk3eWNBVm5GSi1acUEzSEo2aWw1Y1drQk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LS2NuSXRJR2Z2eE9SZWRWYWdyVWdzczNtNld2a0dlLVNRREJqLTVZbW9Ca1hVaDBuZVpSSjg4QU1SdXNFRlRJU3Z4NDk3eWNBVm5GSi1acUEzSEo2aWw1Y1drQk0?oc=5\" target=\"_blank\">The Amazon Fire TV Stick HD is under $20 — act fast to save $16</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-12-16T10:27:01+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FcE9veVk4Q3BFemV2S1hfMmZ0QnJLd1pUSWhXbkVzZnpPRV9ycDZ6NzMwLWlYUXZ5bDA3V1pzODFkSjdkcFk1dUFsQ292bnFjZ2gzUUhpVUZ0dlpvWjBlUUVGclBLcVBvbnN6X3N2cHJlRloyeWtwMdIBfkFVX3lxTE5SdFBZemtjckl3QkJGVnYtMFdyQzhxenQxSDAzRGVsdHh6Z0hUc3dpUktqcTVYeHZHZVBlQUE2eHBqaW9kb1U0OTFKcWlVQ1Bmd3QxOUhUMnF4eWdPRF9DWTVnNC1HRmJzcjNfTzd3Z2RMNmNBRC1tUDh4bTlzQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9FcE9veVk4Q3BFemV2S1hfMmZ0QnJLd1pUSWhXbkVzZnpPRV9ycDZ6NzMwLWlYUXZ5bDA3V1pzODFkSjdkcFk1dUFsQ292bnFjZ2gzUUhpVUZ0dlpvWjBlUUVGclBLcVBvbnN6X3N2cHJlRloyeWtwMdIBfkFVX3lxTE5SdFBZemtjckl3QkJGVnYtMFdyQzhxenQxSDAzRGVsdHh6Z0hUc3dpUktqcTVYeHZHZVBlQUE2eHBqaW9kb1U0OTFKcWlVQ1Bmd3QxOUhUMnF4eWdPRF9DWTVnNC1HRmJzcjNfTzd3Z2RMNmNBRC1tUDh4bTlzQQ?oc=5\" target=\"_blank\">Startup backed by Altman, JPMorgan announces capital lending partnership with Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-12-16T11:00:02+00:00",
+      "title": "OpenAI in talks with Amazon about investment that could exceed $10 billion - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUgya0t2V1J4Q2hmMEllcHNZbDhPYVpTY3lVTkV4alRPMC02UmRaMDk0V09CdEpINl93X3lnM2pMbTg1MEUtNm9IY3N2Y0duUldZRUlFa2FCclFaMDd2cmJ6c3B2MndwRFpzUk1DZURGeHZ1Q18tOXJidDRsaG1jN0doZW82UE81dkswOVlUWUZXYlkwZDkyWldSSmN0R1JpS3dua9IBqgFBVV95cUxOR3dvTEZGNlMyb3dtc1c0MlFtOTdmclIyeFZVcmVsUFA0d0VwQk5oNHJIZVo2MzlQMjZYUmMwbm5ta0h1U2VUR3JEOVZsck5PMmRWOHRqVVNOTFViRXhrcVY0ZDY2MTRZVnJjdF9Nd0xudUtMd19KbXRUTlRGQjhuODd3ZEhXMDN5VzNLVzNpN3VzdXh1aXFucTRlWUhZSnJNaHRLaG1YZUtwQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUgya0t2V1J4Q2hmMEllcHNZbDhPYVpTY3lVTkV4alRPMC02UmRaMDk0V09CdEpINl93X3lnM2pMbTg1MEUtNm9IY3N2Y0duUldZRUlFa2FCclFaMDd2cmJ6c3B2MndwRFpzUk1DZURGeHZ1Q18tOXJidDRsaG1jN0doZW82UE81dkswOVlUWUZXYlkwZDkyWldSSmN0R1JpS3dua9IBqgFBVV95cUxOR3dvTEZGNlMyb3dtc1c0MlFtOTdmclIyeFZVcmVsUFA0d0VwQk5oNHJIZVo2MzlQMjZYUmMwbm5ta0h1U2VUR3JEOVZsck5PMmRWOHRqVVNOTFViRXhrcVY0ZDY2MTRZVnJjdF9Nd0xudUtMd19KbXRUTlRGQjhuODd3ZEhXMDN5VzNLVzNpN3VzdXh1aXFucTRlWUhZSnJNaHRLaG1YZUtwQQ?oc=5\" target=\"_blank\">OpenAI in talks with Amazon about investment that could exceed $10 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE91dV9NSjJ6UVMzNDJXWE45VVZTYTEtcVhkSU1zLV9fZkZvMFZaX2ZRdmp0RC1TZjBmaUhvVVBZeTFVdTF4SHVEN2hUam00SFBpcmp1MmdmejBwR2R5bGJRbmlRTG80cWctZXUtd256N1g?oc=5\" target=\"_blank\">Amazon in talks to invest more than $10bn in OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwNBVV95cUxOWnhSNFJ5QjJMWV9VU0tRR08xRGVsb21VaXo0ZkxOUVZIelNkem53OHNTOEhkVGZfM1NpVGdEZnFjRUdYSWRvX05VQTRaQzh4MkJDR2lNVkpqSTJkN0l0V05hdk1GVGdTdHJsTnRnN2FkZXgtcTZhMVZ6QURRZDZZZUlySzRLUGowRmF3dkhuQk5IczhCdF9QdzBVZU1zbFRwbG81cWVPbTlzcnVZMFl4NHM4R2R2RTBYaXdQd1I1VDk0cklSMW1JVDVtWkk0RGctY1ppaHRIQlNQU1NpazROSVdTWmxmRTVJY2t5LWlQVnZFY0tfYktiWWstTDVWZDQ0T3dpdWp3cEhZNlUxNXRLLVQxcmVOaF9IeERHT0J0TWx5SjR6Tm45SENQd3ZXaU8xdDhKTC1wV3NWdXVSY0s4a3BBWWJLbTZZd1BJVzhRaEVDOWJpb0lwcUh6em5FYVNKTDNCWG51ZVBqb2thcnlIM0dralctSkdjRkRjdHZLZWlLeTMtcHJWaFZwS2prcGc?oc=5\" target=\"_blank\">Amazon in OpenAI Investment Talks: Report. That's Bad for Nvidia, Broadcom.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+      "published": "2025-12-17T04:42:00+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Hanes Socks, Underwear, and More Everyday Basics Are Going for as Little as $1 Apiece at Amazon Today - People.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FQmxSSzhjX2pvRDF3aGFQdWFpelE5ZG44Uy1SNlhwWHVlSkExRTFYNml2aEh6TE5sRmFFNDZ4WUlvdnVmQU9GbU80cjdzUHlydHVJcTg5QUFXRzEzWEtzSXdlVU1FeUIydmdIRnNIRXh3UXlPY0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5FQmxSSzhjX2pvRDF3aGFQdWFpelE5ZG44Uy1SNlhwWHVlSkExRTFYNml2aEh6TE5sRmFFNDZ4WUlvdnVmQU9GbU80cjdzUHlydHVJcTg5QUFXRzEzWEtzSXdlVU1FeUIydmdIRnNIRXh3UXlPY0E?oc=5\" target=\"_blank\">Hanes Socks, Underwear, and More Everyday Basics Are Going for as Little as $1 Apiece at Amazon Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2025-12-16T10:00:00+00:00",
-      "source": "People.com"
+      "title": "Instagram for TV launching first on Fire TV devices - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2TDJ2Z2tZNTkwc1RSeWlMWWJxVElqenZ0bjltbWhtQWkzM3ZTTnhZQlNlMlk2ZGd1cU1IYk84Y3hDUGtCU3dicGx4MjZ5QzBYeHlFRWZOWkV1Vzl2eHY0OU4yaFhESVNRUWZWYVNZNGZiQjhJOVU5dmN1QnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA2TDJ2Z2tZNTkwc1RSeWlMWWJxVElqenZ0bjltbWhtQWkzM3ZTTnhZQlNlMlk2ZGd1cU1IYk84Y3hDUGtCU3dicGx4MjZ5QzBYeHlFRWZOWkV1Vzl2eHY0OU4yaFhESVNRUWZWYVNZNGZiQjhJOVU5dmN1QnM?oc=5\" target=\"_blank\">Instagram for TV launching first on Fire TV devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2025-12-16T16:03:09+00:00",
+      "source": "About Amazon"
     },
     {
-      "title": "Cuts continue at Amazon - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1QxRkt3ZElyazVHOXotQmlyOXdBZHhWX1hnN1hQUHRWZUxXOVNRa3VwbHV4RnpvZHhDTWFBcFV2bTMxX1ZjM2trck5BdUs3N0puWTNsNU9rc1hZUUxNX3ZXM25pZzh3SXpXbDhvRTdvYk0zMUl6azdSc1c4Q1kwbHQzR0E0OHRBcV9vSTloNkpoQmVpNVZpSndlTHpDeXlJNXM4MlA2TFFvVDRiekxDMVlxeEo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1QxRkt3ZElyazVHOXotQmlyOXdBZHhWX1hnN1hQUHRWZUxXOVNRa3VwbHV4RnpvZHhDTWFBcFV2bTMxX1ZjM2trck5BdUs3N0puWTNsNU9rc1hZUUxNX3ZXM25pZzh3SXpXbDhvRTdvYk0zMUl6azdSc1c4Q1kwbHQzR0E0OHRBcV9vSTloNkpoQmVpNVZpSndlTHpDeXlJNXM4MlA2TFFvVDRiekxDMVlxeEo?oc=5\" target=\"_blank\">Cuts continue at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2025-12-15T19:57:33+00:00",
-      "source": "The Seattle Times"
+      "title": "Instagram TV app coming to Amazon Fire streaming device - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHVhajZoWHRZdjJuMmdxMEVGemNVbXJZOHJVZHBQYzdkLWZkRWhiaEJKQ1JDSTJaOU5fMzlpS2lWVkFfMU5DNGhKRnRiRGlwUzZfMTJpVUJwZ3pEX0tUREp5TVl3S1ZqcWZsU2RqaDZWRDFSVjZNVFBEZXB5cV9uNUYtRGFzZUxZRm05NU1oR0RYZXNRLTR30gGcAUFVX3lxTE5LZWlJWGltLTdLYVp5QVB5eWNwNHBTNkZFWEQ5UFBLSVJjZHZ3cXJmeWxCemhDWkJWRlpQZFpuZk9nUnRyb2tPdUIzTmlBQk1lcXJBaXI0NG5DQVVyU2t3MGZIUnFrYjktZW9oOXpubnhPYlZFNmZuZGdnLVg0MFRwUFg2aWRRVWIxZTVmWmFNTGNSQks4TV9iYWFucg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHVhajZoWHRZdjJuMmdxMEVGemNVbXJZOHJVZHBQYzdkLWZkRWhiaEJKQ1JDSTJaOU5fMzlpS2lWVkFfMU5DNGhKRnRiRGlwUzZfMTJpVUJwZ3pEX0tUREp5TVl3S1ZqcWZsU2RqaDZWRDFSVjZNVFBEZXB5cV9uNUYtRGFzZUxZRm05NU1oR0RYZXNRLTR30gGcAUFVX3lxTE5LZWlJWGltLTdLYVp5QVB5eWNwNHBTNkZFWEQ5UFBLSVJjZHZ3cXJmeWxCemhDWkJWRlpQZFpuZk9nUnRyb2tPdUIzTmlBQk1lcXJBaXI0NG5DQVVyU2t3MGZIUnFrYjktZW9oOXpubnhPYlZFNmZuZGdnLVg0MFRwUFg2aWRRVWIxZTVmWmFNTGNSQks4TV9iYWFucg?oc=5\" target=\"_blank\">Instagram TV app coming to Amazon Fire streaming device</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-12-16T16:25:18+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Best Fire Stick deal: Save $16 on Amazon Fire TV Stick HD - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LS2NuSXRJR2Z2eE9SZWRWYWdyVWdzczNtNld2a0dlLVNRREJqLTVZbW9Ca1hVaDBuZVpSSjg4QU1SdXNFRlRJU3Z4NDk3eWNBVm5GSi1acUEzSEo2aWw1Y1drQk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LS2NuSXRJR2Z2eE9SZWRWYWdyVWdzczNtNld2a0dlLVNRREJqLTVZbW9Ca1hVaDBuZVpSSjg4QU1SdXNFRlRJU3Z4NDk3eWNBVm5GSi1acUEzSEo2aWw1Y1drQk0?oc=5\" target=\"_blank\">Best Fire Stick deal: Save $16 on Amazon Fire TV Stick HD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-12-16T12:38:11+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "4 Electronics You Should Only Buy From Amazon - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84VzYyaXF1U0FaVER1M2MtdXY0S1dQd3hOeV84NGpIUTBoaU9vYWx3N3lHVktzNXd6NmdzWUZoSkZBMFlUWGZMd0NURFZnUllJM2VYYVB2dWlOUDlfVUV6M2VPT1BmSXM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84VzYyaXF1U0FaVER1M2MtdXY0S1dQd3hOeV84NGpIUTBoaU9vYWx3N3lHVktzNXd6NmdzWUZoSkZBMFlUWGZMd0NURFZnUllJM2VYYVB2dWlOUDlfVUV6M2VPT1BmSXM?oc=5\" target=\"_blank\">4 Electronics You Should Only Buy From Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
+      "published": "2025-12-16T19:47:00+00:00",
+      "source": "bgr.com"
+    },
+    {
+      "title": "Amazon European Hub in Luxembourg Braces for Record Job Cuts - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWERwMlBPR2RRSVZjN284ZzZyeEdhdFcta0ItWVItX0hzV0RSeWZyMHRSUFpUVWhJenFPTnQ4VmhzSHBneHNMcDJsTVZrcW1naThDaERwVnJHUmJZVnVkck83RnZZb2I3Wm9vUFRxZ3ZlTFVaVzc1N2szNHU1a253MnpUelRHY3dMRFc2S0lYbHVRYmtaeWx6dC1kNFZPM1ZwcjJkTG1DYldtWHJreTNLdQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWERwMlBPR2RRSVZjN284ZzZyeEdhdFcta0ItWVItX0hzV0RSeWZyMHRSUFpUVWhJenFPTnQ4VmhzSHBneHNMcDJsTVZrcW1naThDaERwVnJHUmJZVnVkck83RnZZb2I3Wm9vUFRxZ3ZlTFVaVzc1N2szNHU1a253MnpUelRHY3dMRFc2S0lYbHVRYmtaeWx6dC1kNFZPM1ZwcjJkTG1DYldtWHJreTNLdQ?oc=5\" target=\"_blank\">Amazon European Hub in Luxembourg Braces for Record Job Cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-12-16T10:21:08+00:00",
+      "source": "Bloomberg.com"
     },
     {
       "title": "Amazon to lay off 84 employees in Seattle and Bellevue in latest job cuts - The Business Journals",
@@ -54,11 +54,11 @@
       "source": "The Business Journals"
     },
     {
-      "title": "Amazon European Hub in Luxembourg Braces for Record Job Cuts - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWERwMlBPR2RRSVZjN284ZzZyeEdhdFcta0ItWVItX0hzV0RSeWZyMHRSUFpUVWhJenFPTnQ4VmhzSHBneHNMcDJsTVZrcW1naThDaERwVnJHUmJZVnVkck83RnZZb2I3Wm9vUFRxZ3ZlTFVaVzc1N2szNHU1a253MnpUelRHY3dMRFc2S0lYbHVRYmtaeWx6dC1kNFZPM1ZwcjJkTG1DYldtWHJreTNLdQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWERwMlBPR2RRSVZjN284ZzZyeEdhdFcta0ItWVItX0hzV0RSeWZyMHRSUFpUVWhJenFPTnQ4VmhzSHBneHNMcDJsTVZrcW1naThDaERwVnJHUmJZVnVkck83RnZZb2I3Wm9vUFRxZ3ZlTFVaVzc1N2szNHU1a253MnpUelRHY3dMRFc2S0lYbHVRYmtaeWx6dC1kNFZPM1ZwcjJkTG1DYldtWHJreTNLdQ?oc=5\" target=\"_blank\">Amazon European Hub in Luxembourg Braces for Record Job Cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2025-12-16T10:21:08+00:00",
-      "source": "Bloomberg.com"
+      "title": "Amazon is set to lay off 370 workers at its European HQ - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUDBKbFZDSm5WLWpWQjZsYmt6TnFsN1F4OFBZT2F6bFI3M2FxTVBMb3o1SVdfWnA2OC1vUDV3Y2FKbVFfMS1zbkZJV2FTeXBxNW90RjY2THlHcmJpWm81cm11V0dWWW1pVFhCOTNVS0QxbmxfdG1xLU16RXZLV2tQSXRjQXBadGdZVnBHRzNrNWQ4QmJXdmk3RHZQUE5EeFZtdmR5ekhxaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUDBKbFZDSm5WLWpWQjZsYmt6TnFsN1F4OFBZT2F6bFI3M2FxTVBMb3o1SVdfWnA2OC1vUDV3Y2FKbVFfMS1zbkZJV2FTeXBxNW90RjY2THlHcmJpWm81cm11V0dWWW1pVFhCOTNVS0QxbmxfdG1xLU16RXZLV2tQSXRjQXBadGdZVnBHRzNrNWQ4QmJXdmk3RHZQUE5EeFZtdmR5ekhxaw?oc=5\" target=\"_blank\">Amazon is set to lay off 370 workers at its European HQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2025-12-16T15:40:37+00:00",
+      "source": "Engadget"
     }
   ],
   "product_launches": [
@@ -68,6 +68,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5\" target=\"_blank\">Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
       "published": "2025-09-18T07:00:00+00:00",
       "source": "About Amazon"
+    },
+    {
+      "title": "Sam Altman-Backed Slope Launches Amazon Seller Lending - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNTlvOFI2aTRneVl2dFRZNW1oWkFZNDN6WkJKQXlzampRWktUR2dNd2NDNFdxbXlsSl9ERmNBUXFDSXprR0tBSEpzckVBMDJUQ3BqUmpWS0s1YlBXT1BtdmFNUG1saWd1dWl2OGhDRDR1VkdEVmpsMzNMVno1NnhTN0d6eE15c2FDdUw0cTB2RFA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNTlvOFI2aTRneVl2dFRZNW1oWkFZNDN6WkJKQXlzampRWktUR2dNd2NDNFdxbXlsSl9ERmNBUXFDSXprR0tBSEpzckVBMDJUQ3BqUmpWS0s1YlBXT1BtdmFNUG1saWd1dWl2OGhDRDR1VkdEVmpsMzNMVno1NnhTN0d6eE15c2FDdUw0cTB2RFA?oc=5\" target=\"_blank\">Sam Altman-Backed Slope Launches Amazon Seller Lending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tech Buzz</font>",
+      "published": "2025-12-16T19:55:00+00:00",
+      "source": "The Tech Buzz"
+    },
+    {
+      "title": "Mill and Amazon team up to launch industry-first food waste innovation at Whole Foods Market stores - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWkE3ZzhXb0NBQmdlc3FQdjYxbWdBd1dNeE5Oa1R4Y2ZHNUtqSVZEYlJiREFfd0RXRFV5THJzYWM3dTBYMms0Nk8xVkhLREdLQ1lZbFZ5X2JTYUd1bHJTclN6ZS1qZnRURHA2MnBNYUFZbFJ0Y2JQVS1aemtLVkJPbnBwaDhNMS1DUGxJYTBtRmlGMHJDWG5WOVFBemM1V1B5OF85YWxGMmV5ZnFwOUFBei14YkNJd0prOFhrazFzc1ZmMnBqRVJWa3djQlBnN2MtYnNmSUJnWVpsbWo3emtjZUVYZkVRYW40TWZv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWkE3ZzhXb0NBQmdlc3FQdjYxbWdBd1dNeE5Oa1R4Y2ZHNUtqSVZEYlJiREFfd0RXRFV5THJzYWM3dTBYMms0Nk8xVkhLREdLQ1lZbFZ5X2JTYUd1bHJTclN6ZS1qZnRURHA2MnBNYUFZbFJ0Y2JQVS1aemtLVkJPbnBwaDhNMS1DUGxJYTBtRmlGMHJDWG5WOVFBemM1V1B5OF85YWxGMmV5ZnFwOUFBei14YkNJd0prOFhrazFzc1ZmMnBqRVJWa3djQlBnN2MtYnNmSUJnWVpsbWo3emtjZUVYZkVRYW40TWZv?oc=5\" target=\"_blank\">Mill and Amazon team up to launch industry-first food waste innovation at Whole Foods Market stores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "published": "2025-12-16T11:03:00+00:00",
+      "source": "PR Newswire"
     },
     {
       "title": "Bath & Body Works to launch on Amazon - Retail Dive",
@@ -82,34 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRVdKZ08yM0FlVkNlZlplNDJhaTNfMVIxaG9ORm1vT2VTV2dNWnZ3S0VfSHdXR2daS29jcXBOWUUtbWQ1WUhNeTZQdDBLZmNEX3NMMXlTYUZNbElqYTRKY1pOTDJjbFF6Q0RHR3FELUtEZ2hReWRWeHM1VFhTTnhpck1CUW1Ob3lXV0tISjJwM3FXQUk?oc=5\" target=\"_blank\">Everything Announced at Amazon's Product-Packed September Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
       "published": "2025-09-30T07:00:00+00:00",
       "source": "CNET"
-    },
-    {
-      "title": "What Sets the Best Amazon Product Launches Apart in 2025 - Momentum Commerce",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94bEhSeXlxblpLWUJoak5aQWdIZDhzcngtYVlWQUNNY1ZLUWo0Y3N1Uk05Ykc1S002X1JtRWxMbVhLRUxzZld6aWthM0w2c1YzSGVkZ2VEeFVSQjdod09yNF85Qld1aEsxNXVoSUxn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE94bEhSeXlxblpLWUJoak5aQWdIZDhzcngtYVlWQUNNY1ZLUWo0Y3N1Uk05Ykc1S002X1JtRWxMbVhLRUxzZld6aWthM0w2c1YzSGVkZ2VEeFVSQjdod09yNF85Qld1aEsxNXVoSUxn?oc=5\" target=\"_blank\">What Sets the Best Amazon Product Launches Apart in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Momentum Commerce</font>",
-      "published": "2025-06-27T07:00:00+00:00",
-      "source": "Momentum Commerce"
-    },
-    {
-      "title": "Amazon unveils new device lineup with AI powered experiences - About Amazon Europe",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWo3TWMtcGU5NEstejVJM3ozNFVvMGJaVVdabW5HRXk3OHdvQ2wzSkF3bmRFbi04alFkb3g2M1JrSVU5bVFMQjhZTVdwaGF1LXZCTXROSHJxcG1Ja3JTeHBieVBkT3daaTRrZHhFX0syS01hbHNmSUFSdnAwMzdmbHdCeUtpOEMxcFJ5UGpQY00tUDhFaDFpb3RvUl9nc1FJMHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWo3TWMtcGU5NEstejVJM3ozNFVvMGJaVVdabW5HRXk3OHdvQ2wzSkF3bmRFbi04alFkb3g2M1JrSVU5bVFMQjhZTVdwaGF1LXZCTXROSHJxcG1Ja3JTeHBieVBkT3daaTRrZHhFX0syS01hbHNmSUFSdnAwMzdmbHdCeUtpOEMxcFJ5UGpQY00tUDhFaDFpb3RvUl9nc1FJMHc?oc=5\" target=\"_blank\">Amazon unveils new device lineup with AI powered experiences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon Europe</font>",
-      "published": "2025-10-02T07:00:00+00:00",
-      "source": "About Amazon Europe"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-15",
-      "close": 222.5399932861328
+      "date": "2025-12-16",
+      "close": 222.55999755859375
     },
     "history": [
-      {
-        "date": "2025-12-05",
-        "close": 229.52999877929688
-      },
       {
         "date": "2025-12-08",
         "close": 226.88999938964844
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-15",
         "close": 222.5399932861328
+      },
+      {
+        "date": "2025-12-16",
+        "close": 222.55999755859375
       }
     ],
     "name": "Amazon.com, Inc."
