@@ -2,8 +2,15 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-17T12:25:36.277078+00:00",
+  "fetched_at": "2025-12-18T12:25:10.351016+00:00",
   "news": [
+    {
+      "title": "Nadella's message to Microsoft execs: Get on board with the AI grind or get out - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5\" target=\"_blank\">Nadella's message to Microsoft execs: Get on board with the AI grind or get out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2025-12-17T10:00:00+00:00",
+      "source": "Business Insider"
+    },
     {
       "title": "Microsoft Updates Windows ‘To Stop Users From Downloading Google Chrome’ - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHRRVk92anRyS1RmMm04OG15VFNQSjl2Y1RlekNCWFBiSWhWSzBhSzVEVFRyQ0ZkdnpsNGpGeG8wVmJVdXBYZWFRYXpBTndsTDU3R2w4cWFJb2ZJZzY4SXlpRVlSSFVOM09OLXZSUzUyU2NFcVhTT3B2RUx1VUtFdjRMWWl5bWxwc3VfSjBVVG54WjRGYXF4Nl9lSE53eWVXMS1zNmdrN040NXRoTXg1UzZUVmhjNEdy?oc=5",
@@ -12,53 +19,46 @@
       "source": "Forbes"
     },
     {
-      "title": "Microsoft AI CEO Mustafa Suleyman warns Microsoft will walk away from any AI system that.. - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPXzdveE9LbW1uUXJHN3JCTmFWZFVoeXludVRWRnVzdTdSM3AxZE5JemRCNll3MFFkSThGb3hHQlA2ZkdnbUxrcWpocnB2eDVISk4tWDlocVg0eXdSME01VzN2Y0ZDVzhRc2V4Z1dNQ0VoQkRQYzN2NUw0UzlabUVUbHYtcmZtUVJfa3RKWUw2Y2lKTzJ0RllkTDdxdUhpa2N2TUtvTXF3em1GaEV0OGNNQ0pWdkdWZ3JpV3JqdlhIcEs5NFprQlhWUW1TZ1UtOHJXeXRLR09CLUJFNkdhQTZ5NmZ4UnhpTm5FUDRTZzRya2hUY1hiS050NTRGUDVDSnJMUmfSAYcCQVVfeXFMTmh4bjNabjNJejdEbHJMd29mQ2ZvWWpWUWhqUG1HdXJScEhMOWV1WVdfNkdIRzlFTlhhM0FVVEZiQVN2UnlWRk8zWTNPNEZ6WU5za0JpLXVUei1TYzAwb2hDbkxiRHRxcVFmY2xHdmotV3RzWnlQNEU4UW1FdF90MnRFX2lUZ1l0cmI2Mi00dldUR0xYQkZ0Tk1NdmdqblVRNXgzeDNTazhaYkxqbW1aTlZ2TElYYlV6RlRIbTVBYUdDWHRjblJnZGZiMmZmNnFEalNMcVRWOWFqbV81S1Bkd0d1Q3p0SVhMRGQzRllwN3owb2hFNGRLcHdGc29xQzFFbWNLbXJiSWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPXzdveE9LbW1uUXJHN3JCTmFWZFVoeXludVRWRnVzdTdSM3AxZE5JemRCNll3MFFkSThGb3hHQlA2ZkdnbUxrcWpocnB2eDVISk4tWDlocVg0eXdSME01VzN2Y0ZDVzhRc2V4Z1dNQ0VoQkRQYzN2NUw0UzlabUVUbHYtcmZtUVJfa3RKWUw2Y2lKTzJ0RllkTDdxdUhpa2N2TUtvTXF3em1GaEV0OGNNQ0pWdkdWZ3JpV3JqdlhIcEs5NFprQlhWUW1TZ1UtOHJXeXRLR09CLUJFNkdhQTZ5NmZ4UnhpTm5FUDRTZzRya2hUY1hiS050NTRGUDVDSnJMUmfSAYcCQVVfeXFMTmh4bjNabjNJejdEbHJMd29mQ2ZvWWpWUWhqUG1HdXJScEhMOWV1WVdfNkdIRzlFTlhhM0FVVEZiQVN2UnlWRk8zWTNPNEZ6WU5za0JpLXVUei1TYzAwb2hDbkxiRHRxcVFmY2xHdmotV3RzWnlQNEU4UW1FdF90MnRFX2lUZ1l0cmI2Mi00dldUR0xYQkZ0Tk1NdmdqblVRNXgzeDNTazhaYkxqbW1aTlZ2TElYYlV6RlRIbTVBYUdDWHRjblJnZGZiMmZmNnFEalNMcVRWOWFqbV81S1Bkd0d1Q3p0SVhMRGQzRllwN3owb2hFNGRLcHdGc29xQzFFbWNLbXJiSWc?oc=5\" target=\"_blank\">Microsoft AI CEO Mustafa Suleyman warns Microsoft will walk away from any AI system that..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-12-17T02:06:00+00:00",
+      "title": "Microsoft AI chief Mustafa Suleyman: Gemini 3 can do things that Copilot can’t, we are really trying to … - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVElHOEdDUlpVR2ZpRVZSYXRGckRLX29VdXhfeUtFZWNmMjlpNDl5NG4yMTVzN0IwS2F4dXN2eEE2SUdLaTdkUlB2VjZEbHcwcTI5TjFyMmdOYlFTNWUtY0NqQlZkMm1IZDFWUHpkX3FVem5fb1djcE00RVVRdjBHd3pDTTk3ZGs4Zi1OYzRoNTZQUWVXX2Y0WTFOVzNEUURWQ05TUl9ua3BWTk5HZVZFdjJ1WnZ6V29GblZWdF8yTjk3NkhpQ2VnRmFqejd2MHJ1WFVwNjlBTExkczRqMGk2a2VvT25ubnM2akpfQUc2MDUtMTlFeUUwRFVVNkw2dXNpaldvOU1sQnpjMFIwbnRXYlNB0gGXAkFVX3lxTE1aRTlucGZaX3lzMUR3cnc0aE14YW5YNEhZNGlBTThxTElIWEJkajl3bDlFS2VtZXZLdzRabnNsZHhnbHIwWjVvbUNOSnlSNkVKZzZXQkRhckEyTmZ3cHgzbmN4QVFlZ0RQZkxXSmxYYTJNTFpVNjFBZlFERDNYNm54eDZJbWoyaVBjUll5SWZ0QjZLWjMtenMzZkxPaFBvcHNXOXh2dHRZUWkxZHIycFRLRURmMHBLMGVxRWthbmt2azhZUXU5TXhxbnM3ZnZuWjM2bXp0NVBaQmNTQ1JtT2pyQV90QUZRcG9hcDlOVWVFbVBJLTBadmRTY3BDYTh6bUFFdEk1R1haRFlaU3p4RFJXR3RXcVZUSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNVElHOEdDUlpVR2ZpRVZSYXRGckRLX29VdXhfeUtFZWNmMjlpNDl5NG4yMTVzN0IwS2F4dXN2eEE2SUdLaTdkUlB2VjZEbHcwcTI5TjFyMmdOYlFTNWUtY0NqQlZkMm1IZDFWUHpkX3FVem5fb1djcE00RVVRdjBHd3pDTTk3ZGs4Zi1OYzRoNTZQUWVXX2Y0WTFOVzNEUURWQ05TUl9ua3BWTk5HZVZFdjJ1WnZ6V29GblZWdF8yTjk3NkhpQ2VnRmFqejd2MHJ1WFVwNjlBTExkczRqMGk2a2VvT25ubnM2akpfQUc2MDUtMTlFeUUwRFVVNkw2dXNpaldvOU1sQnpjMFIwbnRXYlNB0gGXAkFVX3lxTE1aRTlucGZaX3lzMUR3cnc0aE14YW5YNEhZNGlBTThxTElIWEJkajl3bDlFS2VtZXZLdzRabnNsZHhnbHIwWjVvbUNOSnlSNkVKZzZXQkRhckEyTmZ3cHgzbmN4QVFlZ0RQZkxXSmxYYTJNTFpVNjFBZlFERDNYNm54eDZJbWoyaVBjUll5SWZ0QjZLWjMtenMzZkxPaFBvcHNXOXh2dHRZUWkxZHIycFRLRURmMHBLMGVxRWthbmt2azhZUXU5TXhxbnM3ZnZuWjM2bXp0NVBaQmNTQ1JtT2pyQV90QUZRcG9hcDlOVWVFbVBJLTBadmRTY3BDYTh6bUFFdEk1R1haRFlaU3p4RFJXR3RXcVZUSQ?oc=5\" target=\"_blank\">Microsoft AI chief Mustafa Suleyman: Gemini 3 can do things that Copilot can’t, we are really trying to …</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2025-12-18T06:53:00+00:00",
       "source": "Times of India"
     },
     {
-      "title": "Inside Microsoft CEO Satya Nadella's AI Revolution - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5\" target=\"_blank\">Inside Microsoft CEO Satya Nadella's AI Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2025-12-17T10:00:00+00:00",
-      "source": "Business Insider"
+      "title": "Microsoft introduces very useful OneNote feature that offers more flexibility in typing - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdllHbFRHVGVHVWJ3TW1KNWtZN0xQTVNmaVdwUVE2aUpDdm1xU08xNzF3c2xzaUdpc2N1cXlhd3lyN2toVlJQSFVNSXF2QnRIOGRoUFFxbDBIVXl6VXhCcU9TT0ZHZWtBcnBTX0xOLVdYSUcwRTNCMkVaaUNtMHhsU3VfMzg1MjN6ajgyNlJjQ2NMNmdhLU1YRWczUXhSSjFSTGdpdHVFZU40ZDJYX3BjUk05SkR0OWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdllHbFRHVGVHVWJ3TW1KNWtZN0xQTVNmaVdwUVE2aUpDdm1xU08xNzF3c2xzaUdpc2N1cXlhd3lyN2toVlJQSFVNSXF2QnRIOGRoUFFxbDBIVXl6VXhCcU9TT0ZHZWtBcnBTX0xOLVdYSUcwRTNCMkVaaUNtMHhsU3VfMzg1MjN6ajgyNlJjQ2NMNmdhLU1YRWczUXhSSjFSTGdpdHVFZU40ZDJYX3BjUk05SkR0OWM?oc=5\" target=\"_blank\">Microsoft introduces very useful OneNote feature that offers more flexibility in typing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2025-12-17T06:04:00+00:00",
+      "source": "Neowin"
     },
     {
-      "title": "Microsoft Edge Pushes an \"All in One Browser\" Message on Chrome’s Download Page - Windows Report",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbG5HbHVST1RpTmhUMTJmYnFwT3E4WE9rb0REd3hwckZreU1QaHBLZXU0UGFxSHBtcFNmUEFMVmEyelhoV1NvcFRlUWZaRXh6YjVvaFEzelg2NzZOelRaUVpPRXRBbEw3b1pIbnhYdGMyS0kxM21oRHNoX3N4M29mUTBhcGJrQ3NVeGZGY1Q3TzFfT1o0bkJV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbG5HbHVST1RpTmhUMTJmYnFwT3E4WE9rb0REd3hwckZreU1QaHBLZXU0UGFxSHBtcFNmUEFMVmEyelhoV1NvcFRlUWZaRXh6YjVvaFEzelg2NzZOelRaUVpPRXRBbEw3b1pIbnhYdGMyS0kxM21oRHNoX3N4M29mUTBhcGJrQ3NVeGZGY1Q3TzFfT1o0bkJV?oc=5\" target=\"_blank\">Microsoft Edge Pushes an \"All in One Browser\" Message on Chrome’s Download Page</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Report</font>",
-      "published": "2025-12-15T06:48:05+00:00",
-      "source": "Windows Report"
+      "title": "Microsoft: Recent Windows updates break RemoteApp connections - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXpCbHVkSy1RQmJWbHVKVGU3Yll1aWhpZ3BEMUNzc00zRnZUWHZHWXpaMDRPRmpoN0Q5Z19YNFJmUVplNXVsQlFuQ3hIWF9MTkN6SGdSQjNSLXV0M1pGY1lJSnhibWRIOEFyQVVDSmpQdUwxSTFVMlRLRUpTYThLVnk0NlNyQW1CN1Y1dTVWcWJDZ3g3RHNqVXhHdGJKczRkYmNpd3pCa25yUmVhR2pYU3lNMzBTbzlpdndqdtIBwgFBVV95cUxOajUtbWRnbXdUblVOeDhSRDVwY1EtLUcxaE8wVkNIZ0dCSHUzSC1EaXlham1aRkJqZ09EZ1BPS3hYT2piVUFsRUFBTE9jdm1rOEpYc0FEb0pSbERxblJHLTluM2NHZFYtVklTT1loX3hPRHBXYndnbmlKYmluU0s5aVlmQ3FWYUFYTnV2NUVLV1Jna1dnaHo4S2lfaEZXcFR2YXNVMXkzVTg3Z0RpRGNkZ3M3a01EUXZtSEtnQ3JWb2NVQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXpCbHVkSy1RQmJWbHVKVGU3Yll1aWhpZ3BEMUNzc00zRnZUWHZHWXpaMDRPRmpoN0Q5Z19YNFJmUVplNXVsQlFuQ3hIWF9MTkN6SGdSQjNSLXV0M1pGY1lJSnhibWRIOEFyQVVDSmpQdUwxSTFVMlRLRUpTYThLVnk0NlNyQW1CN1Y1dTVWcWJDZ3g3RHNqVXhHdGJKczRkYmNpd3pCa25yUmVhR2pYU3lNMzBTbzlpdndqdtIBwgFBVV95cUxOajUtbWRnbXdUblVOeDhSRDVwY1EtLUcxaE8wVkNIZ0dCSHUzSC1EaXlham1aRkJqZ09EZ1BPS3hYT2piVUFsRUFBTE9jdm1rOEpYc0FEb0pSbERxblJHLTluM2NHZFYtVklTT1loX3hPRHBXYndnbmlKYmluU0s5aVlmQ3FWYUFYTnV2NUVLV1Jna1dnaHo4S2lfaEZXcFR2YXNVMXkzVTg3Z0RpRGNkZ3M3a01EUXZtSEtnQ3JWb2NVQQ?oc=5\" target=\"_blank\">Microsoft: Recent Windows updates break RemoteApp connections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-12-18T10:04:25+00:00",
+      "source": "BleepingComputer"
     },
     {
-      "title": "‘Users Must Choose’—Microsoft Confirms New Windows Security Feature - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDQ1VFZKODRHazh2NWpkelBJT2Fsc2dtMnlIdUlOaDVCcHRVakdLS3d6MUwzNFNILThuZ0V5LWQ1RFE3WDFPSUctd0hNTlJmNGh1aWRmeGVjdXRBU3dLNVd2ZUc1U1ZqMWtpempuUC1OOHNaUm9ueldpYU9xdGNEU2hWYm9tTFdJVFQ5dGMxdW1kQW9KZE0wR1hVemstaG54NFRETHpYOUw0eE9kY3d4X0xDdFF3S3V0S2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDQ1VFZKODRHazh2NWpkelBJT2Fsc2dtMnlIdUlOaDVCcHRVakdLS3d6MUwzNFNILThuZ0V5LWQ1RFE3WDFPSUctd0hNTlJmNGh1aWRmeGVjdXRBU3dLNVd2ZUc1U1ZqMWtpempuUC1OOHNaUm9ueldpYU9xdGNEU2hWYm9tTFdJVFQ5dGMxdW1kQW9KZE0wR1hVemstaG54NFRETHpYOUw0eE9kY3d4X0xDdFF3S3V0S2c?oc=5\" target=\"_blank\">‘Users Must Choose’—Microsoft Confirms New Windows Security Feature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-12-15T14:25:27+00:00",
-      "source": "Forbes"
+      "title": "Microsoft Azure AI margins are positive, revenue likely to top estimates: MS (MSFT:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXpkeHdJX0w4a01sNVJPLTlsdllUa18weXp3d0pnczhJYWwtcWJTRDVDUENpYWkyRW9QVEhQYXNjNTZOdmVRN3J1N2t1X05IRXdBV0tqamQ0cDVTdVhUcGNybEhIU0poaXZSaVRPYllCSmh5WGVSTEFFVk80QklhdzR6ejZ2X0x5LVR2R0hHR2VKdEEycTVTRUY2a1pWbndQdU1ZRGdKbDdvdkJEQjVobEFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXpkeHdJX0w4a01sNVJPLTlsdllUa18weXp3d0pnczhJYWwtcWJTRDVDUENpYWkyRW9QVEhQYXNjNTZOdmVRN3J1N2t1X05IRXdBV0tqamQ0cDVTdVhUcGNybEhIU0poaXZSaVRPYllCSmh5WGVSTEFFVk80QklhdzR6ejZ2X0x5LVR2R0hHR2VKdEEycTVTRUY2a1pWbndQdU1ZRGdKbDdvdkJEQjVobEFR?oc=5\" target=\"_blank\">Microsoft Azure AI margins are positive, revenue likely to top estimates: MS (MSFT:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2025-12-17T20:33:47+00:00",
+      "source": "Seeking Alpha"
     },
     {
-      "title": "Microsoft now runs resource-hogging AppX Deployment Service at Windows 11 startup - BetaNews",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjItTUlwQW91SHFDN3hZRVNkXzlNOXJnaVlkX3pTbU9kRENYZ3FjNHp4SldDRGpBbDV3Zy14eUZUdkM4YXRaS0tOemhlTEtkQUNNcVg5bnlTdlFCODNtYTZJNzVYY1JjYm5RaW82RDBaSUl3YzhRMkZXT0w0YWcySnc1LUZmdWtMZUpWd2ZwYV8wbnlEOUdQNXJUd0s4ZTNjRFNud2VtZWplUFRvekdxQUZseGk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjItTUlwQW91SHFDN3hZRVNkXzlNOXJnaVlkX3pTbU9kRENYZ3FjNHp4SldDRGpBbDV3Zy14eUZUdkM4YXRaS0tOemhlTEtkQUNNcVg5bnlTdlFCODNtYTZJNzVYY1JjYm5RaW82RDBaSUl3YzhRMkZXT0w0YWcySnc1LUZmdWtMZUpWd2ZwYV8wbnlEOUdQNXJUd0s4ZTNjRFNud2VtZWplUFRvekdxQUZseGk?oc=5\" target=\"_blank\">Microsoft now runs resource-hogging AppX Deployment Service at Windows 11 startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BetaNews</font>",
-      "published": "2025-12-17T11:01:49+00:00",
-      "source": "BetaNews"
+      "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW12eWVmV0VRVHhNME52eHRyVDZ6aFRFbUhiRXEwTnBjSW5hMFcxZmhCX0hRRENYcE1QMGpMSTNUZy1nUGFya0YyZkd6S0pSWEhQalBpc1g2bVI4UGlybzJlLUZlQ3JZeXBOVldoTldmaThXYzlic2p6UlRtOFZVZUJSMXV5T1RpQXlYcVJZa3J6SlVNenEyN05seURlVjMyWWhIbDlNMXc2T0piYnlxbFUyS3dvUEF5NHVPVXJfSUdVTFdE?oc=5\" target=\"_blank\">Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Visual Studio Magazine</font>",
+      "published": "2025-12-17T19:56:08+00:00",
+      "source": "Visual Studio Magazine"
     },
     {
-      "title": "Microsoft confirms Windows 11 will ask for consent before AI agents can access your personal files, after outrage - Windows Latest",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemhhNEllSXpDYXNnbmhaVVBZV09LOG54VkExcDRERFNSWC1yQmpvOFNNcGkxb0NuQ2FuUE10SUhWa2EtZnppWG9pWE1id0xtb0dJVkZLMnIyWHRMYnBKV3ZPb0JqMGZkd3dVU1lxYXdjbDJ4QXJ3ZWRwN20zUXhjbWVwSmZ6dW5JN0V6QzZfeXhpS3lhVFRQVi1YR2RDR3duS2RUOWZwTjZKLUFKYkRISURqWGlNSU51bE9HbHpaZ2FDcjRiYzlMM3ZHZmEyc2w3SjBPeW5tM01FaU1BQ2FrQlpjTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemhhNEllSXpDYXNnbmhaVVBZV09LOG54VkExcDRERFNSWC1yQmpvOFNNcGkxb0NuQ2FuUE10SUhWa2EtZnppWG9pWE1id0xtb0dJVkZLMnIyWHRMYnBKV3ZPb0JqMGZkd3dVU1lxYXdjbDJ4QXJ3ZWRwN20zUXhjbWVwSmZ6dW5JN0V6QzZfeXhpS3lhVFRQVi1YR2RDR3duS2RUOWZwTjZKLUFKYkRISURqWGlNSU51bE9HbHpaZ2FDcjRiYzlMM3ZHZmEyc2w3SjBPeW5tM01FaU1BQ2FrQlpjTQ?oc=5\" target=\"_blank\">Microsoft confirms Windows 11 will ask for consent before AI agents can access your personal files, after outrage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
-      "published": "2025-12-16T23:51:55+00:00",
-      "source": "Windows Latest"
-    },
-    {
-      "title": "Microsoft AI Chief Succeeds Where Copilot Does Not ⭐ - Thurrott.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU28tSnhVZjk3S3pjQnJpbUdQQWROZzlKa1dhUHlTZnFhRzIxN05hV3hTbGR1bGpaSWNObVJLOVlkOVJZbVpRU3h2dzZ1ajFMRUtXbFZEeS0wMkx0Q1VUVlpva2drWlgxQzNQVnU2V3JVdGZ6Z253dEdIOTFZczdFQ1F2V2JORVZYVHdEOHFFYllwNXVMSk16UzhMS2ZXV3Jh?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPU28tSnhVZjk3S3pjQnJpbUdQQWROZzlKa1dhUHlTZnFhRzIxN05hV3hTbGR1bGpaSWNObVJLOVlkOVJZbVpRU3h2dzZ1ajFMRUtXbFZEeS0wMkx0Q1VUVlpva2drWlgxQzNQVnU2V3JVdGZ6Z253dEdIOTFZczdFQ1F2V2JORVZYVHdEOHFFYllwNXVMSk16UzhMS2ZXV3Jh?oc=5\" target=\"_blank\">Microsoft AI Chief Succeeds Where Copilot Does Not ⭐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thurrott.com</font>",
-      "published": "2025-12-15T15:46:44+00:00",
-      "source": "Thurrott.com"
+      "title": "LG TV users baffled by unremovable Microsoft Copilot installation — surprise forced update shows app pinned to the home screen - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkJvc3BZakZMTTZVMlFMbGpROG5xU2RFOGNyb3hhaEhNMERQZXJmMDJoaGhuMElkRU5LVVpPelpycmM4ckE5VGNkZXQ0WFVKYmhVQ1FYUzFGaFlqMW05NDB1UkRPbzd1MUZiWXlvN1dqQ01vVG4wbjh1UFNJYld4QTJFNE1XV1hWbUk3Q0E5UW9CTm12VHNrY1RNWVBmSW4yOG9CWjhnMDV0clA0aDR0RG1xS0gzUE91dGZMNUVHSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkJvc3BZakZMTTZVMlFMbGpROG5xU2RFOGNyb3hhaEhNMERQZXJmMDJoaGhuMElkRU5LVVpPelpycmM4ckE5VGNkZXQ0WFVKYmhVQ1FYUzFGaFlqMW05NDB1UkRPbzd1MUZiWXlvN1dqQ01vVG4wbjh1UFNJYld4QTJFNE1XV1hWbUk3Q0E5UW9CTm12VHNrY1RNWVBmSW4yOG9CWjhnMDV0clA0aDR0RG1xS0gzUE91dGZMNUVHSQ?oc=5\" target=\"_blank\">LG TV users baffled by unremovable Microsoft Copilot installation — surprise forced update shows app pinned to the home screen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2025-12-15T13:28:07+00:00",
+      "source": "Tom's Hardware"
     }
   ],
   "product_launches": [
@@ -68,6 +68,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5\" target=\"_blank\">Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2025-10-09T07:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "Intelo.ai Launches on Microsoft Marketplace to Revolutionize Retail Operations - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2dMX2dSeTNmRFhFWU81aFA4Zy1tc3NnZlB6Q2dpcnVPeDQzaTA5WWZVWWVtRkNvRXh2eWdNRVVQOHVmWGFlR012VlowSHdQd0VVN1Nqa1ljVUhkZ2hHcG1mZm9QaHZXZWNwMUhIaFhRRng3X1ItZ1MweHZjSjdBMTYzVHB4LUxReWRqSGlSTmFVMXNfY3R1RDRPWHo2VGFvZ3RMTktvajl1MjhPal8ySWNITkVLZ05pTVlQMEVQdzJoMmU2cVFKR2dPZkZMZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2dMX2dSeTNmRFhFWU81aFA4Zy1tc3NnZlB6Q2dpcnVPeDQzaTA5WWZVWWVtRkNvRXh2eWdNRVVQOHVmWGFlR012VlowSHdQd0VVN1Nqa1ljVUhkZ2hHcG1mZm9QaHZXZWNwMUhIaFhRRng3X1ItZ1MweHZjSjdBMTYzVHB4LUxReWRqSGlSTmFVMXNfY3R1RDRPWHo2VGFvZ3RMTktvajl1MjhPal8ySWNITkVLZ05pTVlQMEVQdzJoMmU2cVFKR2dPZkZMZw?oc=5\" target=\"_blank\">Intelo.ai Launches on Microsoft Marketplace to Revolutionize Retail Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "published": "2025-12-17T12:30:00+00:00",
+      "source": "PR Newswire"
     },
     {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lyaGs0Z3JNdUZucXJXM1ZabXh0N0pkUTVMWVF3SXRlRXNmNXdZdG5oN2VVUVM0WkVGWGlYSEd3dDJTaHlJNERiX0lfS0JoWmNhVk5mbnFjVkpKajh3NWtHT0xjNVA4NmxCS2hxUmIwSU11VlJpZGRQazdCczRtSE11OVlUaTZU?oc=5\" target=\"_blank\">Microsoft launches new AI avatar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
       "published": "2025-10-26T07:00:00+00:00",
       "source": "The Arkansas Democrat-Gazette"
-    },
-    {
-      "title": "Microsoft Ads launches Supplemental Feeds to streamline product updates - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzFiU3NRaTkxWWZ4S0RjWWwzLW9ENHlrYnJPeGwxdkFSOFBWRU5nUHBvVG5BbnBpZzJaWkpVQW82cGptOFZ4Ql8wVWF2MWdnVWx4Uk5IaFdPMWJ4UkpNUjM0VnYzZU0xZjFISjk4U0dJSmFuVVJwNUdISkk5b0l1OUtxc2FESFFZUzJVdU5iMEhjTFJicjJFeFpTbmdxZVpmdzRSQVp6N0pYYlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzFiU3NRaTkxWWZ4S0RjWWwzLW9ENHlrYnJPeGwxdkFSOFBWRU5nUHBvVG5BbnBpZzJaWkpVQW82cGptOFZ4Ql8wVWF2MWdnVWx4Uk5IaFdPMWJ4UkpNUjM0VnYzZU0xZjFISjk4U0dJSmFuVVJwNUdISkk5b0l1OUtxc2FESFFZUzJVdU5iMEhjTFJicjJFeFpTbmdxZVpmdzRSQVp6N0pYYlk?oc=5\" target=\"_blank\">Microsoft Ads launches Supplemental Feeds to streamline product updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Land</font>",
-      "published": "2025-09-19T07:00:00+00:00",
-      "source": "Search Engine Land"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-16",
-      "close": 476.3900146484375
+      "date": "2025-12-17",
+      "close": 476.1199951171875
     },
     "history": [
-      {
-        "date": "2025-12-08",
-        "close": 491.0199890136719
-      },
       {
         "date": "2025-12-09",
         "close": 492.0199890136719
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-16",
         "close": 476.3900146484375
+      },
+      {
+        "date": "2025-12-17",
+        "close": 476.1199951171875
       }
     ],
     "name": "Microsoft Corporation"
