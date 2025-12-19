@@ -2,7 +2,7 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2025-12-18T12:25:19.162503+00:00",
+  "fetched_at": "2025-12-19T12:24:04.280213+00:00",
   "news": [
     {
       "title": "Facebook is testing a link-posting limit for professional accounts and pages - TechCrunch",
@@ -12,39 +12,46 @@
       "source": "TechCrunch"
     },
     {
-      "title": "Updates to Meta AI Glasses: Conversation Focus, Spotify Integration, and More - Meta Store",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSV8wdEt5X1RJMGc2LTJWZElublhKc2hRZVVLczlVWi1FRHF1X0hzd2dxcV8xYTV5TTlBSFBJbnpzS1A0UFZsU2Q5bjYzWkNtLURGSWZhZDVUSGhJaXZmQXZDSG91OVNrYmRRN3phRXNXM3FSeHFQenlBRlhPdFpMUEgyUVBfbG9RdjBiUVVQZTMwR0FTcFZ1djhQZFFWRTlaTUHSAacBQVVfeXFMUExDT3l1TUsxQ2ZwbWotVFU1Z2Q5dmpMNHZNejY0TUlKQUt6c3ZsX0c4UWlpR3EyRmlGU1FiQ0JqNUdZT0tobmNBSGpMRmZhVjZTRlZOVFI5ZDlkWHBmOXJ5Yi1kbGVKQjh2TVB3RUs2NmRQYjRfeWpPX0VKVGduaTJvdHowV2pUbnBNQ0UtZ0l2OUdRUHNwQ0lDbGd4VVcxZWotT084OG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSV8wdEt5X1RJMGc2LTJWZElublhKc2hRZVVLczlVWi1FRHF1X0hzd2dxcV8xYTV5TTlBSFBJbnpzS1A0UFZsU2Q5bjYzWkNtLURGSWZhZDVUSGhJaXZmQXZDSG91OVNrYmRRN3phRXNXM3FSeHFQenlBRlhPdFpMUEgyUVBfbG9RdjBiUVVQZTMwR0FTcFZ1djhQZFFWRTlaTUHSAacBQVVfeXFMUExDT3l1TUsxQ2ZwbWotVFU1Z2Q5dmpMNHZNejY0TUlKQUt6c3ZsX0c4UWlpR3EyRmlGU1FiQ0JqNUdZT0tobmNBSGpMRmZhVjZTRlZOVFI5ZDlkWHBmOXJ5Yi1kbGVKQjh2TVB3RUs2NmRQYjRfeWpPX0VKVGduaTJvdHowV2pUbnBNQ0UtZ0l2OUdRUHNwQ0lDbGd4VVcxZWotT084OG8?oc=5\" target=\"_blank\">Updates to Meta AI Glasses: Conversation Focus, Spotify Integration, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
-      "published": "2025-12-16T17:10:00+00:00",
-      "source": "Meta Store"
+      "title": "Exclusive | Meta Is Developing a New AI Image and Video Model Code-Named ‘Mango’ - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQS3B2MGZqcEJMMnlkZTVDYkhKQ0IwdFllQmd4RDB6dXdidi1TLW5hZFItTEc1OGk1NnB3NXhuajdJQ29qeFVxNk1LdTRpTGl2ekpSdnRGaUpLeGgxZ2R1blpwM3BmU3lMRlZXcjBDNXdmU0VIb05zSTE2VHU2OVVHLW9DdFc1a2Y0Q3dUSnczZ2dKV3hwX04wYzJpc1VjLTI4cDBWWDJXVnZOQlVsN1U1Ym8ycV9ZTmVSX25fT09tcmttdVJTb3dXclhyeElSbTVDMkFBYjRoRENNcWNZM19TenlKZjFuazlLWGRaTDNVM2VzeDcxQ2k4WG5qTWtyX0ZpaDFocW1DVUxNYzRJRHYyeEpQUWRFNjRFUFpGbXg2TVRrR3E0UVd1dXhnbGFCMkRNemhEamVmTTcyNmFCWmtSQ0RqYUFjeEpvc3l5a3dUdnJRa1phMHRpT19Kclp6MHROSEI2amE1dGlrNUxBeEZQd3NKb1pxODVoTEhNQmtSM0k0S3pLeVlRdHA4aklOMm15MzdISzZiMVFBWWREaVExNDZZTHU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxQS3B2MGZqcEJMMnlkZTVDYkhKQ0IwdFllQmd4RDB6dXdidi1TLW5hZFItTEc1OGk1NnB3NXhuajdJQ29qeFVxNk1LdTRpTGl2ekpSdnRGaUpLeGgxZ2R1blpwM3BmU3lMRlZXcjBDNXdmU0VIb05zSTE2VHU2OVVHLW9DdFc1a2Y0Q3dUSnczZ2dKV3hwX04wYzJpc1VjLTI4cDBWWDJXVnZOQlVsN1U1Ym8ycV9ZTmVSX25fT09tcmttdVJTb3dXclhyeElSbTVDMkFBYjRoRENNcWNZM19TenlKZjFuazlLWGRaTDNVM2VzeDcxQ2k4WG5qTWtyX0ZpaDFocW1DVUxNYzRJRHYyeEpQUWRFNjRFUFpGbXg2TVRrR3E0UVd1dXhnbGFCMkRNemhEamVmTTcyNmFCWmtSQ0RqYUFjeEpvc3l5a3dUdnJRa1phMHRpT19Kclp6MHROSEI2amE1dGlrNUxBeEZQd3NKb1pxODVoTEhNQmtSM0k0S3pLeVlRdHA4aklOMm15MzdISzZiMVFBWWREaVExNDZZTHU?oc=5\" target=\"_blank\">Exclusive | Meta Is Developing a New AI Image and Video Model Code-Named ‘Mango’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-12-18T21:59:00+00:00",
+      "source": "The Wall Street Journal"
     },
     {
-      "title": "Meta pushes into the future with AI glasses that blend cutting-edge tech with classic style - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45cVZJdXIxdnNKRXd0ZW01M2t6SDRkOFVIYmtUcllUZjRZTlduSlZ2QVhKWm1ONWUyRjhseXBzb1F6LW04NzNpZFRmcUFHeXRmMlVfYnVXekdJZVU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE45cVZJdXIxdnNKRXd0ZW01M2t6SDRkOFVIYmtUcllUZjRZTlduSlZ2QVhKWm1ONWUyRjhseXBzb1F6LW04NzNpZFRmcUFHeXRmMlVfYnVXekdJZVU?oc=5\" target=\"_blank\">Meta pushes into the future with AI glasses that blend cutting-edge tech with classic style</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-      "published": "2025-12-17T13:15:38+00:00",
+      "title": "Meta Plans ‘Mango’ Video and Image AI Model for 2026 - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVJ4aG9ha0xPc05GTUtmNkR4TGd5c0N2NVp5TUx3UEJ6aUNXWS1FVXhqV3RaYWNZVmtfLWVxNFdXSFpjYndtWnluREMxNFlKbU9lZGdTT2JMaXBuY2JFNm8wakY3QkUyanhVTnFWM09IUktJU0YxVHljNS1HSi1rYVNxZ3c2cVp4UGFV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWVJ4aG9ha0xPc05GTUtmNkR4TGd5c0N2NVp5TUx3UEJ6aUNXWS1FVXhqV3RaYWNZVmtfLWVxNFdXSFpjYndtWnluREMxNFlKbU9lZGdTT2JMaXBuY2JFNm8wakY3QkUyanhVTnFWM09IUktJU0YxVHljNS1HSi1rYVNxZ3c2cVp4UGFV?oc=5\" target=\"_blank\">Meta Plans ‘Mango’ Video and Image AI Model for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2025-12-18T22:28:41+00:00",
+      "source": "The Information"
+    },
+    {
+      "title": "Meta bets on ‘Mango’ and ‘Avocado’ in AI race - WSJ - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazdoVTdJbzlQUGs1UUFONnk1VlEtckRSa2JRRTdLQ0dKMzNoTDIteFppT1J5NVZRd1ptMm1SdEYtdndOVkZoNnktQ3l3ZnJPMjhjMHZVMGtmamh5ZVB4V3Fmb0JMRlpzLXpoNGxNam5Namc0ck5ickxXdkhKT1JiMk1ndFF6Nkp0Rmwtem4wSjJ2N1Zjd2JuX0lOUGlBeG9PN0NmaHRB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNazdoVTdJbzlQUGs1UUFONnk1VlEtckRSa2JRRTdLQ0dKMzNoTDIteFppT1J5NVZRd1ptMm1SdEYtdndOVkZoNnktQ3l3ZnJPMjhjMHZVMGtmamh5ZVB4V3Fmb0JMRlpzLXpoNGxNam5Namc0ck5ickxXdkhKT1JiMk1ndFF6Nkp0Rmwtem4wSjJ2N1Zjd2JuX0lOUGlBeG9PN0NmaHRB?oc=5\" target=\"_blank\">Meta bets on ‘Mango’ and ‘Avocado’ in AI race - WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2025-12-18T22:21:20+00:00",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Parents of sextortion victim sue Instagram owner Meta - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11NUphWS03bHpyaDZYcTY5c2FwY1BwcU93WHIzMllVVml1M3RzczBJNURuUnlkNHZKQk0za05fN0JmQXROdkVIbUladGRabl80Z1J3TmdoUXNqQdIBX0FVX3lxTE85QXdqSXhzODNGNGI3RTExeWVyVlFaM0gtSUZKaUhvQ25MNVRjTnZuYVdMQ2hzWDVsc1ZoWkVLbDlEVE56YkZ0Y0x5WldfbmxaNWczUnBSbE93VFdUWFI4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE11NUphWS03bHpyaDZYcTY5c2FwY1BwcU93WHIzMllVVml1M3RzczBJNURuUnlkNHZKQk0za05fN0JmQXROdkVIbUladGRabl80Z1J3TmdoUXNqQdIBX0FVX3lxTE85QXdqSXhzODNGNGI3RTExeWVyVlFaM0gtSUZKaUhvQ25MNVRjTnZuYVdMQ2hzWDVsc1ZoWkVLbDlEVE56YkZ0Y0x5WldfbmxaNWczUnBSbE93VFdUWFI4?oc=5\" target=\"_blank\">Parents of sextortion victim sue Instagram owner Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2025-12-18T10:25:53+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Meta sued after teen boys' suicides, families claim tech giant ignored 'sextortion' schemes - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3NFMmNEcEx5SUVfamtRc3BtYWlXNEJveEMzSjh1WE4xM3NDNGxKRUFCZGJ5Mk80U3U5TTFJSEJJdmp1dnVwSEUxNWVwTHYyaGlWY2MyMVZ0ZHVKTDBVZWM1T1UxVWtERnFHVnlTU1g1VWFIVGxaOG1SWk90WEk0ODNHRlNLTEZBQ3l6VThDamxqMGMxZ25VOVR0c3JZRFpxU05uemZiUVBCWjlKeVo4TTczODFWLVJOQ3BPSDlJdUFtTVh30gHKAUFVX3lxTE5LSzlyVThIVG1lZTJLTVpsVEloYXU1bVZ2TXFOMlN1b0d3cW1ZU19xMHZEWERkeldaYS1ZVm1CUjdUT0xvbjhOUWlnTFk3amQ1YzJZY3RGRXBDSGZmbHJYaTdsWEg2LTdyUE1QcEpxSS1yeUh0cVU1ekU0Q1pBU3p3S2c0SGh3VmRYWEdlVE9zb2lIZS1OYy1jM0M0SW84S2hKSXVGQkJJNDh5czhudkRITXFGT1B0b3FzRWlfNjVUTlRRTUhrVzUzeXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQb3NFMmNEcEx5SUVfamtRc3BtYWlXNEJveEMzSjh1WE4xM3NDNGxKRUFCZGJ5Mk80U3U5TTFJSEJJdmp1dnVwSEUxNWVwTHYyaGlWY2MyMVZ0ZHVKTDBVZWM1T1UxVWtERnFHVnlTU1g1VWFIVGxaOG1SWk90WEk0ODNHRlNLTEZBQ3l6VThDamxqMGMxZ25VOVR0c3JZRFpxU05uemZiUVBCWjlKeVo4TTczODFWLVJOQ3BPSDlJdUFtTVh30gHKAUFVX3lxTE5LSzlyVThIVG1lZTJLTVpsVEloYXU1bVZ2TXFOMlN1b0d3cW1ZU19xMHZEWERkeldaYS1ZVm1CUjdUT0xvbjhOUWlnTFk3amQ1YzJZY3RGRXBDSGZmbHJYaTdsWEg2LTdyUE1QcEpxSS1yeUh0cVU1ekU0Q1pBU3p3S2c0SGh3VmRYWEdlVE9zb2lIZS1OYy1jM0M0SW84S2hKSXVGQkJJNDh5czhudkRITXFGT1B0b3FzRWlfNjVUTlRRTUhrVzUzeXc?oc=5\" target=\"_blank\">Meta sued after teen boys' suicides, families claim tech giant ignored 'sextortion' schemes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2025-12-19T10:30:00+00:00",
       "source": "Fox Business"
     },
     {
-      "title": "The latest Ray-Ban Meta glasses audio update sound so cool I might ditch Apple Music for Spotify to try it - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZW92QmhKTGxHRlk3QWdOZHpNX3huMUFJQXU0MEpGdVR1dkRmRnhWQXRmMXZpbVd3amgtV0tLSmZjU19Sc0VGY0RlWlo0aGtjVFNiTWJHeTc5SjBJOXdBemhjajBzeFlSLW9wLTJNWnNSQjFRQ3FZNktReDhhV3NxbDFRaE9YdDBvRWhJQWZ6b1Uzc0VvakFOcTIxOTRWZGJCM1JmZ2t3cEFCZ3lRSlZCNkc4WmJSelRVSWkxc3Y5VjFRTFBSbWQyZmphZ0R3MkE3UFVZek9vSGtjeDdEdGl1Y2otU1llbGFTelE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZW92QmhKTGxHRlk3QWdOZHpNX3huMUFJQXU0MEpGdVR1dkRmRnhWQXRmMXZpbVd3amgtV0tLSmZjU19Sc0VGY0RlWlo0aGtjVFNiTWJHeTc5SjBJOXdBemhjajBzeFlSLW9wLTJNWnNSQjFRQ3FZNktReDhhV3NxbDFRaE9YdDBvRWhJQWZ6b1Uzc0VvakFOcTIxOTRWZGJCM1JmZ2t3cEFCZ3lRSlZCNkc4WmJSelRVSWkxc3Y5VjFRTFBSbWQyZmphZ0R3MkE3UFVZek9vSGtjeDdEdGl1Y2otU1llbGFTelE?oc=5\" target=\"_blank\">The latest Ray-Ban Meta glasses audio update sound so cool I might ditch Apple Music for Spotify to try it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
-      "published": "2025-12-17T13:54:55+00:00",
-      "source": "TechRadar"
-    },
-    {
-      "title": "Meta's Yann LeCun targets $3.5 billion valuation for new AI startup, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1VUOUNoMlJlc0xwazVMVXZTZEtDU1RUeXc5TU5ILTFPMDhmZTVWS282bzZPd1pZeDZrVHRfNURSQzR6cnIxeEh1NmwxeVF6alBFaTNIOTk2dXhZRDJkSHBDOVVkUC1ncjhWaUhuUmRIdzBBX2FDakJqaVVndE5KTVlCczd1VmZvd3BZazdYeFFTaFNkWG43VzZLUEpDR2FyWnc4QUV3ZmRKVno1bW4waWtVOU9zOFk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1VUOUNoMlJlc0xwazVMVXZTZEtDU1RUeXc5TU5ILTFPMDhmZTVWS282bzZPd1pZeDZrVHRfNURSQzR6cnIxeEh1NmwxeVF6alBFaTNIOTk2dXhZRDJkSHBDOVVkUC1ncjhWaUhuUmRIdzBBX2FDakJqaVVndE5KTVlCczd1VmZvd3BZazdYeFFTaFNkWG43VzZLUEpDR2FyWnc4QUV3ZmRKVno1bW4waWtVOU9zOFk?oc=5\" target=\"_blank\">Meta's Yann LeCun targets $3.5 billion valuation for new AI startup, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-12-18T11:06:41+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Former Meta integrity chief says new report reveals ‘disappointing’ ad fraud epidemic at the social media giant - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTVOVm5mbXBxMWx3N3ROd01Jb2E1UVNVenp1aTVQMTFFejR6M3JKMllwWUthdGpGZlpfejZ0Sl9OVXI4TjFjMlE5NWxjc3lrR3NJbW9lZUhwcjcxSm9QeU9ZNll3d2gzRHYxcTI2RTdMMk5FMDFQcTdzYl9YR1ZIV0pqX2RzUWJrQ3ZiRzl6NzNzdUU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTVOVm5mbXBxMWx3N3ROd01Jb2E1UVNVenp1aTVQMTFFejR6M3JKMllwWUthdGpGZlpfejZ0Sl9OVXI4TjFjMlE5NWxjc3lrR3NJbW9lZUhwcjcxSm9QeU9ZNll3d2gzRHYxcTI2RTdMMk5FMDFQcTdzYl9YR1ZIV0pqX2RzUWJrQ3ZiRzl6NzNzdUU?oc=5\" target=\"_blank\">Former Meta integrity chief says new report reveals ‘disappointing’ ad fraud epidemic at the social media giant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2025-12-15T20:08:00+00:00",
-      "source": "Fortune"
+      "title": "Two families sue Meta over teens' deaths by suicide, citing 'sextortion' scams - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkljYjVPWHRIdkUzVXdwT05MeElZN2VnZ0s0UnE1Q1lzb0hwOXo0aHQ5UFpOSjl4Wmp1R0FnSXpJbVZzXzBPUU03VGkwTVQ0c3B2aTdsMUpvWlZNelMtMEVEZm1wSUIwdHZiSExack9sUWg0b1o1N3l4QW1Ld3Z6YmEySmoxSE1XTjJJRFhUd2dpT2JYSXo2cndhc05IMWkyQlc3LUlmME5MT0x1bzJ1bE5TbDJxenZ1aVE40gFWQVVfeXFMTk11dEVwY1kxdEtnTk1qaGJEQ3VsaTZmYmlBRVRITXEzWlNWdGo4Nk5UR25xUHhidDNSbWRXNkZHN1J5ejY1Y2tTNW9DRklXTzVfMjFEZHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkljYjVPWHRIdkUzVXdwT05MeElZN2VnZ0s0UnE1Q1lzb0hwOXo0aHQ5UFpOSjl4Wmp1R0FnSXpJbVZzXzBPUU03VGkwTVQ0c3B2aTdsMUpvWlZNelMtMEVEZm1wSUIwdHZiSExack9sUWg0b1o1N3l4QW1Ld3Z6YmEySmoxSE1XTjJJRFhUd2dpT2JYSXo2cndhc05IMWkyQlc3LUlmME5MT0x1bzJ1bE5TbDJxenZ1aVE40gFWQVVfeXFMTk11dEVwY1kxdEtnTk1qaGJEQ3VsaTZmYmlBRVRITXEzWlNWdGo4Nk5UR25xUHhidDNSbWRXNkZHN1J5ejY1Y2tTNW9DRklXTzVfMjFEZHc?oc=5\" target=\"_blank\">Two families sue Meta over teens' deaths by suicide, citing 'sextortion' scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+      "published": "2025-12-17T21:03:26+00:00",
+      "source": "NBC News"
     },
     {
       "title": "Meta \"Pauses\" Third-party Headset Program, Effectively Cancelling Horizon OS Headsets from Asus & Lenovo - Road to VR",
@@ -52,13 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWpmQ0xwYkZCSWVWUDBSTElFaGxWWDlaZjdkd21KS0tpVDJqMnJpYzdRLW1YVGU4MWRGc0hiN1daSUVjaHdENm05VHRBUGNtTTZtMHdSN2VPemtGNmliLUVNUUN4ZkI1WUN6T20tdUlkWWtFejNENUFxUEtaRmxuWDFHdFpVT2MzTDRV?oc=5\" target=\"_blank\">Meta \"Pauses\" Third-party Headset Program, Effectively Cancelling Horizon OS Headsets from Asus & Lenovo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Road to VR</font>",
       "published": "2025-12-17T16:59:39+00:00",
       "source": "Road to VR"
-    },
-    {
-      "title": "Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazRTTlJidzRtQlpwTUd4bUF5OFhxMGtDa0tmLXFxd0dQRXRJWTlXdHFNMWxMQTF1NTBranoxX0NzUkk2cl82c3Y0bkx5SVJCbTMzVjA5WHdoN0Z6R1JkMS11YU9ndTZpdFZKREpZQnhtclNLV1BqZnU2RTF0YkEtaXhucHhkdjRTZ01wcFl2bWNwUmx3Q2k0SUdSZXlPNXNvVnFxWjU5dDBKZ3J3c0QyYUs3TUk1b29ZRENUazhn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPazRTTlJidzRtQlpwTUd4bUF5OFhxMGtDa0tmLXFxd0dQRXRJWTlXdHFNMWxMQTF1NTBranoxX0NzUkk2cl82c3Y0bkx5SVJCbTMzVjA5WHdoN0Z6R1JkMS11YU9ndTZpdFZKREpZQnhtclNLV1BqZnU2RTF0YkEtaXhucHhkdjRTZ01wcFl2bWNwUmx3Q2k0SUdSZXlPNXNvVnFxWjU5dDBKZ3J3c0QyYUs3TUk1b29ZRENUazhn?oc=5\" target=\"_blank\">Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-12-17T19:32:52+00:00",
-      "source": "TechCrunch"
     }
   ],
   "product_launches": [
@@ -91,25 +91,21 @@
       "source": "Reuters"
     },
     {
-      "title": "Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5\" target=\"_blank\">Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-08-22T07:00:00+00:00",
-      "source": "CNBC"
+      "title": "Kochava launches certification for major ad platforms Meta, Google, TikTok - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOERpSTZ3dUxNa0pBZzBfOEhhUEItNlVqTlJFRVd1SGlmR2Ffb095YzNibnFBRzhkTENtWGVpRm5jTTRwUXBMcHhsYW9GdWE3RWhIb0luZWtSVHBHajJ4QXlfaThWWDRuOURYalEwVEJBNEtYUHQtWExyQTd2aTlwSlFoanBSdjVoUTFYRVpOa0tqRXlu?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOERpSTZ3dUxNa0pBZzBfOEhhUEItNlVqTlJFRVd1SGlmR2Ffb095YzNibnFBRzhkTENtWGVpRm5jTTRwUXBMcHhsYW9GdWE3RWhIb0luZWtSVHBHajJ4QXlfaThWWDRuOURYalEwVEJBNEtYUHQtWExyQTd2aTlwSlFoanBSdjVoUTFYRVpOa0tqRXlu?oc=5\" target=\"_blank\">Kochava launches certification for major ad platforms Meta, Google, TikTok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PPC Land</font>",
+      "published": "2025-12-16T21:35:55+00:00",
+      "source": "PPC Land"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-17",
-      "close": 649.5
+      "date": "2025-12-18",
+      "close": 664.4500122070312
     },
     "history": [
-      {
-        "date": "2025-12-09",
-        "close": 656.4246826171875
-      },
       {
         "date": "2025-12-10",
         "close": 649.6002197265625
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-17",
         "close": 649.5
+      },
+      {
+        "date": "2025-12-18",
+        "close": 664.4500122070312
       }
     ],
     "name": "Meta Platforms, Inc."

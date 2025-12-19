@@ -2,49 +2,35 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-18T12:25:10.351016+00:00",
+  "fetched_at": "2025-12-19T12:23:57.016424+00:00",
   "news": [
+    {
+      "title": "Microsoft Updates Windows ‘To Stop Users From Downloading Google Chrome’ - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHp0NUk1a3Y0a0M2ZEpVVjViLXBITHFoemQzWm9SMGRGQmktQmZILWxFeDZvSldQd3ZnQklReG8zeFJLdVBWWWdJblBfMU4tY0dFYnktWmxqVnA4c3dYNF91Q3JTZTBudUlLdVdpbHdhX0pSTGxBdGNsMEF4eWtmYXh5VzZQQ3ZkVGoyMm53LUpKaDc4SzBtZjFEY3hISWJOQUVCRmNobGV6ZTZGVDVRZFBNUDE0Y3JY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHp0NUk1a3Y0a0M2ZEpVVjViLXBITHFoemQzWm9SMGRGQmktQmZILWxFeDZvSldQd3ZnQklReG8zeFJLdVBWWWdJblBfMU4tY0dFYnktWmxqVnA4c3dYNF91Q3JTZTBudUlLdVdpbHdhX0pSTGxBdGNsMEF4eWtmYXh5VzZQQ3ZkVGoyMm53LUpKaDc4SzBtZjFEY3hISWJOQUVCRmNobGV6ZTZGVDVRZFBNUDE0Y3JY?oc=5\" target=\"_blank\">Microsoft Updates Windows ‘To Stop Users From Downloading Google Chrome’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2025-12-17T11:26:15+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft, Google Among 24 Firms Joining US AI ‘Genesis Mission’ - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2dwX19BdmdCSnAyZy1kZ2MyM21aYlVRaHgtVl9aRFM0QnlVWkhoZ1cteFNyNkVMb3NwMkdHdVFham1NVmJ3UFh4Q3FMOVVraVQ1YWJiemd2OVVQYUdvNThQd1BLanI4SlZscC04Xy1MY1RMWHhWZTV1RGhManRkaDl1SW1kRi1OWVU1SVhIMnlkcHI3Qld0VEppbk1UTHNuX3FBYWVac3pyQVpuTTNCcWZR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2dwX19BdmdCSnAyZy1kZ2MyM21aYlVRaHgtVl9aRFM0QnlVWkhoZ1cteFNyNkVMb3NwMkdHdVFham1NVmJ3UFh4Q3FMOVVraVQ1YWJiemd2OVVQYUdvNThQd1BLanI4SlZscC04Xy1MY1RMWHhWZTV1RGhManRkaDl1SW1kRi1OWVU1SVhIMnlkcHI3Qld0VEppbk1UTHNuX3FBYWVac3pyQVpuTTNCcWZR?oc=5\" target=\"_blank\">Microsoft, Google Among 24 Firms Joining US AI ‘Genesis Mission’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2025-12-18T18:02:48+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "2025 in review: How we elevated the Microsoft Store experience - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1NTVGNXZWdtdW9DTUhGSVJGVV9XRWZxcDdkeExQQjh3SlNud2R3YjlHOFRpY0ZpV3ZGMV9lQzJ3c1JaaTZEcDJQelhLbndOT2JSMDVwaEZzV2EtY0NDSHBNT2tpSUd4OUo4Tjd1cnpvUXFvSko3MDQxSnJXa1NSa01YTXpyZDhyZ3hHb0ZKTTJka1d1UzBNNHR2VGVGVkdVYlJuMjlPWm5jeEtqbGpNdFRsLTV6eFk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1NTVGNXZWdtdW9DTUhGSVJGVV9XRWZxcDdkeExQQjh3SlNud2R3YjlHOFRpY0ZpV3ZGMV9lQzJ3c1JaaTZEcDJQelhLbndOT2JSMDVwaEZzV2EtY0NDSHBNT2tpSUd4OUo4Tjd1cnpvUXFvSko3MDQxSnJXa1NSa01YTXpyZDhyZ3hHb0ZKTTJka1d1UzBNNHR2VGVGVkdVYlJuMjlPWm5jeEtqbGpNdFRsLTV6eFk?oc=5\" target=\"_blank\">2025 in review: How we elevated the Microsoft Store experience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
+      "published": "2025-12-18T17:21:29+00:00",
+      "source": "Windows Blog"
+    },
     {
       "title": "Nadella's message to Microsoft execs: Get on board with the AI grind or get out - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl8zVmxYZWNjNlE4enlxZlpfdTY3T2JaTGQtQ25PVXpQd18teU9PSTBWUXJqV3RKZDBkYnV5M2tXSG1ZaGRobkpIT2pvOG1zVm9jNnJfWlo2T2NsR0pnWVdjUms2dDVqd2owOGk3bDd0WnBfSFpBXzNRS25MUkdtdHBMazlQOWhq?oc=5\" target=\"_blank\">Nadella's message to Microsoft execs: Get on board with the AI grind or get out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2025-12-17T10:00:00+00:00",
       "source": "Business Insider"
-    },
-    {
-      "title": "Microsoft Updates Windows ‘To Stop Users From Downloading Google Chrome’ - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHRRVk92anRyS1RmMm04OG15VFNQSjl2Y1RlekNCWFBiSWhWSzBhSzVEVFRyQ0ZkdnpsNGpGeG8wVmJVdXBYZWFRYXpBTndsTDU3R2w4cWFJb2ZJZzY4SXlpRVlSSFVOM09OLXZSUzUyU2NFcVhTT3B2RUx1VUtFdjRMWWl5bWxwc3VfSjBVVG54WjRGYXF4Nl9lSE53eWVXMS1zNmdrN040NXRoTXg1UzZUVmhjNEdy?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHRRVk92anRyS1RmMm04OG15VFNQSjl2Y1RlekNCWFBiSWhWSzBhSzVEVFRyQ0ZkdnpsNGpGeG8wVmJVdXBYZWFRYXpBTndsTDU3R2w4cWFJb2ZJZzY4SXlpRVlSSFVOM09OLXZSUzUyU2NFcVhTT3B2RUx1VUtFdjRMWWl5bWxwc3VfSjBVVG54WjRGYXF4Nl9lSE53eWVXMS1zNmdrN040NXRoTXg1UzZUVmhjNEdy?oc=5\" target=\"_blank\">Microsoft Updates Windows ‘To Stop Users From Downloading Google Chrome’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2025-12-16T09:08:59+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Microsoft AI chief Mustafa Suleyman: Gemini 3 can do things that Copilot can’t, we are really trying to … - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVElHOEdDUlpVR2ZpRVZSYXRGckRLX29VdXhfeUtFZWNmMjlpNDl5NG4yMTVzN0IwS2F4dXN2eEE2SUdLaTdkUlB2VjZEbHcwcTI5TjFyMmdOYlFTNWUtY0NqQlZkMm1IZDFWUHpkX3FVem5fb1djcE00RVVRdjBHd3pDTTk3ZGs4Zi1OYzRoNTZQUWVXX2Y0WTFOVzNEUURWQ05TUl9ua3BWTk5HZVZFdjJ1WnZ6V29GblZWdF8yTjk3NkhpQ2VnRmFqejd2MHJ1WFVwNjlBTExkczRqMGk2a2VvT25ubnM2akpfQUc2MDUtMTlFeUUwRFVVNkw2dXNpaldvOU1sQnpjMFIwbnRXYlNB0gGXAkFVX3lxTE1aRTlucGZaX3lzMUR3cnc0aE14YW5YNEhZNGlBTThxTElIWEJkajl3bDlFS2VtZXZLdzRabnNsZHhnbHIwWjVvbUNOSnlSNkVKZzZXQkRhckEyTmZ3cHgzbmN4QVFlZ0RQZkxXSmxYYTJNTFpVNjFBZlFERDNYNm54eDZJbWoyaVBjUll5SWZ0QjZLWjMtenMzZkxPaFBvcHNXOXh2dHRZUWkxZHIycFRLRURmMHBLMGVxRWthbmt2azhZUXU5TXhxbnM3ZnZuWjM2bXp0NVBaQmNTQ1JtT2pyQV90QUZRcG9hcDlOVWVFbVBJLTBadmRTY3BDYTh6bUFFdEk1R1haRFlaU3p4RFJXR3RXcVZUSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNVElHOEdDUlpVR2ZpRVZSYXRGckRLX29VdXhfeUtFZWNmMjlpNDl5NG4yMTVzN0IwS2F4dXN2eEE2SUdLaTdkUlB2VjZEbHcwcTI5TjFyMmdOYlFTNWUtY0NqQlZkMm1IZDFWUHpkX3FVem5fb1djcE00RVVRdjBHd3pDTTk3ZGs4Zi1OYzRoNTZQUWVXX2Y0WTFOVzNEUURWQ05TUl9ua3BWTk5HZVZFdjJ1WnZ6V29GblZWdF8yTjk3NkhpQ2VnRmFqejd2MHJ1WFVwNjlBTExkczRqMGk2a2VvT25ubnM2akpfQUc2MDUtMTlFeUUwRFVVNkw2dXNpaldvOU1sQnpjMFIwbnRXYlNB0gGXAkFVX3lxTE1aRTlucGZaX3lzMUR3cnc0aE14YW5YNEhZNGlBTThxTElIWEJkajl3bDlFS2VtZXZLdzRabnNsZHhnbHIwWjVvbUNOSnlSNkVKZzZXQkRhckEyTmZ3cHgzbmN4QVFlZ0RQZkxXSmxYYTJNTFpVNjFBZlFERDNYNm54eDZJbWoyaVBjUll5SWZ0QjZLWjMtenMzZkxPaFBvcHNXOXh2dHRZUWkxZHIycFRLRURmMHBLMGVxRWthbmt2azhZUXU5TXhxbnM3ZnZuWjM2bXp0NVBaQmNTQ1JtT2pyQV90QUZRcG9hcDlOVWVFbVBJLTBadmRTY3BDYTh6bUFFdEk1R1haRFlaU3p4RFJXR3RXcVZUSQ?oc=5\" target=\"_blank\">Microsoft AI chief Mustafa Suleyman: Gemini 3 can do things that Copilot can’t, we are really trying to …</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-12-18T06:53:00+00:00",
-      "source": "Times of India"
-    },
-    {
-      "title": "Microsoft introduces very useful OneNote feature that offers more flexibility in typing - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdllHbFRHVGVHVWJ3TW1KNWtZN0xQTVNmaVdwUVE2aUpDdm1xU08xNzF3c2xzaUdpc2N1cXlhd3lyN2toVlJQSFVNSXF2QnRIOGRoUFFxbDBIVXl6VXhCcU9TT0ZHZWtBcnBTX0xOLVdYSUcwRTNCMkVaaUNtMHhsU3VfMzg1MjN6ajgyNlJjQ2NMNmdhLU1YRWczUXhSSjFSTGdpdHVFZU40ZDJYX3BjUk05SkR0OWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdllHbFRHVGVHVWJ3TW1KNWtZN0xQTVNmaVdwUVE2aUpDdm1xU08xNzF3c2xzaUdpc2N1cXlhd3lyN2toVlJQSFVNSXF2QnRIOGRoUFFxbDBIVXl6VXhCcU9TT0ZHZWtBcnBTX0xOLVdYSUcwRTNCMkVaaUNtMHhsU3VfMzg1MjN6ajgyNlJjQ2NMNmdhLU1YRWczUXhSSjFSTGdpdHVFZU40ZDJYX3BjUk05SkR0OWM?oc=5\" target=\"_blank\">Microsoft introduces very useful OneNote feature that offers more flexibility in typing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "published": "2025-12-17T06:04:00+00:00",
-      "source": "Neowin"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates break RemoteApp connections - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXpCbHVkSy1RQmJWbHVKVGU3Yll1aWhpZ3BEMUNzc00zRnZUWHZHWXpaMDRPRmpoN0Q5Z19YNFJmUVplNXVsQlFuQ3hIWF9MTkN6SGdSQjNSLXV0M1pGY1lJSnhibWRIOEFyQVVDSmpQdUwxSTFVMlRLRUpTYThLVnk0NlNyQW1CN1Y1dTVWcWJDZ3g3RHNqVXhHdGJKczRkYmNpd3pCa25yUmVhR2pYU3lNMzBTbzlpdndqdtIBwgFBVV95cUxOajUtbWRnbXdUblVOeDhSRDVwY1EtLUcxaE8wVkNIZ0dCSHUzSC1EaXlham1aRkJqZ09EZ1BPS3hYT2piVUFsRUFBTE9jdm1rOEpYc0FEb0pSbERxblJHLTluM2NHZFYtVklTT1loX3hPRHBXYndnbmlKYmluU0s5aVlmQ3FWYUFYTnV2NUVLV1Jna1dnaHo4S2lfaEZXcFR2YXNVMXkzVTg3Z0RpRGNkZ3M3a01EUXZtSEtnQ3JWb2NVQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXpCbHVkSy1RQmJWbHVKVGU3Yll1aWhpZ3BEMUNzc00zRnZUWHZHWXpaMDRPRmpoN0Q5Z19YNFJmUVplNXVsQlFuQ3hIWF9MTkN6SGdSQjNSLXV0M1pGY1lJSnhibWRIOEFyQVVDSmpQdUwxSTFVMlRLRUpTYThLVnk0NlNyQW1CN1Y1dTVWcWJDZ3g3RHNqVXhHdGJKczRkYmNpd3pCa25yUmVhR2pYU3lNMzBTbzlpdndqdtIBwgFBVV95cUxOajUtbWRnbXdUblVOeDhSRDVwY1EtLUcxaE8wVkNIZ0dCSHUzSC1EaXlham1aRkJqZ09EZ1BPS3hYT2piVUFsRUFBTE9jdm1rOEpYc0FEb0pSbERxblJHLTluM2NHZFYtVklTT1loX3hPRHBXYndnbmlKYmluU0s5aVlmQ3FWYUFYTnV2NUVLV1Jna1dnaHo4S2lfaEZXcFR2YXNVMXkzVTg3Z0RpRGNkZ3M3a01EUXZtSEtnQ3JWb2NVQQ?oc=5\" target=\"_blank\">Microsoft: Recent Windows updates break RemoteApp connections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-12-18T10:04:25+00:00",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Azure AI margins are positive, revenue likely to top estimates: MS (MSFT:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXpkeHdJX0w4a01sNVJPLTlsdllUa18weXp3d0pnczhJYWwtcWJTRDVDUENpYWkyRW9QVEhQYXNjNTZOdmVRN3J1N2t1X05IRXdBV0tqamQ0cDVTdVhUcGNybEhIU0poaXZSaVRPYllCSmh5WGVSTEFFVk80QklhdzR6ejZ2X0x5LVR2R0hHR2VKdEEycTVTRUY2a1pWbndQdU1ZRGdKbDdvdkJEQjVobEFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXpkeHdJX0w4a01sNVJPLTlsdllUa18weXp3d0pnczhJYWwtcWJTRDVDUENpYWkyRW9QVEhQYXNjNTZOdmVRN3J1N2t1X05IRXdBV0tqamQ0cDVTdVhUcGNybEhIU0poaXZSaVRPYllCSmh5WGVSTEFFVk80QklhdzR6ejZ2X0x5LVR2R0hHR2VKdEEycTVTRUY2a1pWbndQdU1ZRGdKbDdvdkJEQjVobEFR?oc=5\" target=\"_blank\">Microsoft Azure AI margins are positive, revenue likely to top estimates: MS (MSFT:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2025-12-17T20:33:47+00:00",
-      "source": "Seeking Alpha"
     },
     {
       "title": "Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot - Visual Studio Magazine",
@@ -54,11 +40,25 @@
       "source": "Visual Studio Magazine"
     },
     {
-      "title": "LG TV users baffled by unremovable Microsoft Copilot installation — surprise forced update shows app pinned to the home screen - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkJvc3BZakZMTTZVMlFMbGpROG5xU2RFOGNyb3hhaEhNMERQZXJmMDJoaGhuMElkRU5LVVpPelpycmM4ckE5VGNkZXQ0WFVKYmhVQ1FYUzFGaFlqMW05NDB1UkRPbzd1MUZiWXlvN1dqQ01vVG4wbjh1UFNJYld4QTJFNE1XV1hWbUk3Q0E5UW9CTm12VHNrY1RNWVBmSW4yOG9CWjhnMDV0clA0aDR0RG1xS0gzUE91dGZMNUVHSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkJvc3BZakZMTTZVMlFMbGpROG5xU2RFOGNyb3hhaEhNMERQZXJmMDJoaGhuMElkRU5LVVpPelpycmM4ckE5VGNkZXQ0WFVKYmhVQ1FYUzFGaFlqMW05NDB1UkRPbzd1MUZiWXlvN1dqQ01vVG4wbjh1UFNJYld4QTJFNE1XV1hWbUk3Q0E5UW9CTm12VHNrY1RNWVBmSW4yOG9CWjhnMDV0clA0aDR0RG1xS0gzUE91dGZMNUVHSQ?oc=5\" target=\"_blank\">LG TV users baffled by unremovable Microsoft Copilot installation — surprise forced update shows app pinned to the home screen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2025-12-15T13:28:07+00:00",
-      "source": "Tom's Hardware"
+      "title": "Microsoft made another Copilot ad where nothing actually works - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5\" target=\"_blank\">Microsoft made another Copilot ad where nothing actually works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-12-18T15:30:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Kent County residents halt Microsoft data center plan - MLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkJFN3pZdVgxVll4dDVEcHZYVVRfcURfUFJqWWxGOW9DQnJTRlQ4NlA4aE9EcncyRDJfLUNPY0ZkNWZmWUkzN1FkUGJJcGppQUdYMEc4S0wxLTNXWFYwUF9zUFZ0cTAydVRGTFl2Z3BCU1lxR2pRSERRdTBlajVWVmRiWDNsTVFDOF8yaWtsUlRFWmhVVk5jVER5UGp4X041M01ZekVYQXFHZ9IBvgFBVV95cUxNcTJtS3UzRzFneFpBWlFUTDNPaU5BQlBrQ3FhcmZxOThhNzJsRmVrZ2NadzNwd0xXZkk4b1RXUEVwUWNRYzFoYUJfV2J0VV8zUG42NFg1bXZEY3lkRl9SNVNSb04tckd1VjJmd2hSMmhRQ0JPQkczSWZ4NHVyRkdCVWFJMWRWLXQzU0FDc1FUa29IbFc0RlNycjVmQmJhNWNDdVpYVkRqclRWVFNqUjZneW5JZE1IOTd0VlcyRHRn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkJFN3pZdVgxVll4dDVEcHZYVVRfcURfUFJqWWxGOW9DQnJTRlQ4NlA4aE9EcncyRDJfLUNPY0ZkNWZmWUkzN1FkUGJJcGppQUdYMEc4S0wxLTNXWFYwUF9zUFZ0cTAydVRGTFl2Z3BCU1lxR2pRSERRdTBlajVWVmRiWDNsTVFDOF8yaWtsUlRFWmhVVk5jVER5UGp4X041M01ZekVYQXFHZ9IBvgFBVV95cUxNcTJtS3UzRzFneFpBWlFUTDNPaU5BQlBrQ3FhcmZxOThhNzJsRmVrZ2NadzNwd0xXZkk4b1RXUEVwUWNRYzFoYUJfV2J0VV8zUG42NFg1bXZEY3lkRl9SNVNSb04tckd1VjJmd2hSMmhRQ0JPQkczSWZ4NHVyRkdCVWFJMWRWLXQzU0FDc1FUa29IbFc0RlNycjVmQmJhNWNDdVpYVkRqclRWVFNqUjZneW5JZE1IOTd0VlcyRHRn?oc=5\" target=\"_blank\">Kent County residents halt Microsoft data center plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+      "published": "2025-12-19T01:53:00+00:00",
+      "source": "MLive.com"
+    },
+    {
+      "title": "Microsoft releases KB5074976 and more Windows updates to fix several MSMQ bugs - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFl4TW5uVXhpOUY1TURKV1ZvYnljWXpYcDRYaElvcm5TMjJUdUhSeFhJMVFZRUx5SVlyMENwdTJmWk9hZjBnMDVicC0zRHU5aGdZWGo4S05uMHR5QWxUS1lYV3lkUHVWWTczS1R0anR4OFFMYnRaenF4SHNtSUFHSkVFSlFrZDZ5UTNLdDVVcXFoRHB5Y1pwbXVGQWhKM3pTdC1XVjU0aHI2SmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFl4TW5uVXhpOUY1TURKV1ZvYnljWXpYcDRYaElvcm5TMjJUdUhSeFhJMVFZRUx5SVlyMENwdTJmWk9hZjBnMDVicC0zRHU5aGdZWGo4S05uMHR5QWxUS1lYV3lkUHVWWTczS1R0anR4OFFMYnRaenF4SHNtSUFHSkVFSlFrZDZ5UTNLdDVVcXFoRHB5Y1pwbXVGQWhKM3pTdC1XVjU0aHI2SmM?oc=5\" target=\"_blank\">Microsoft releases KB5074976 and more Windows updates to fix several MSMQ bugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2025-12-18T22:30:00+00:00",
+      "source": "Neowin"
     }
   ],
   "product_launches": [
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-17",
-      "close": 476.1199951171875
+      "date": "2025-12-18",
+      "close": 483.9800109863281
     },
     "history": [
-      {
-        "date": "2025-12-09",
-        "close": 492.0199890136719
-      },
       {
         "date": "2025-12-10",
         "close": 478.55999755859375
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-17",
         "close": 476.1199951171875
+      },
+      {
+        "date": "2025-12-18",
+        "close": 483.9800109863281
       }
     ],
     "name": "Microsoft Corporation"
