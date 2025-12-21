@@ -2,15 +2,8 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-20T12:21:41.205593+00:00",
+  "fetched_at": "2025-12-21T12:21:58.675167+00:00",
   "news": [
-    {
-      "title": "Microsoft confirms Teams is down and messages are delayed - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3FPbzRmbFNhRmc3dVNTeGxXbGQ3bDRSM3h4S3ZhS0Q3ZEM3cnFKRmhhVXZ6MnhSM2taMnJ1Zlg3VFBLMVR5NEZtVHdRVUJlU1c5LW5zRUxtaVZ4U24zQ3J3UFBFUmFaVmMyOHNVY2N2UlNLa2F4UmhKaE5zQWNkdWUxRUxxbTFhRnNoZ0hCWW5nbWpsMlRncmRMUGUyblVNbnBDWVIyQ0FUUdIBrwFBVV95cUxOQ2FpbWVRSmZTMi1wMDFYZzg2STNoMURHTkxPNllNMTh4Z3pOS1loeWRDa3Y1cHRSVi1nbjNPSmNzR0Nmd3Z4YVItYmtaTmFKcWMzekNHdk1xS3ZOUXhkb280RmJRQk1PTV9oR21BYzdCX2ZPbXFmS01USHo5UG01VWtSSWxVQi1seHp6WmtrMWlMN0poZktOZldMaWNPenU2RmpKUG9QbGZHQUJldkJj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3FPbzRmbFNhRmc3dVNTeGxXbGQ3bDRSM3h4S3ZhS0Q3ZEM3cnFKRmhhVXZ6MnhSM2taMnJ1Zlg3VFBLMVR5NEZtVHdRVUJlU1c5LW5zRUxtaVZ4U24zQ3J3UFBFUmFaVmMyOHNVY2N2UlNLa2F4UmhKaE5zQWNkdWUxRUxxbTFhRnNoZ0hCWW5nbWpsMlRncmRMUGUyblVNbnBDWVIyQ0FUUdIBrwFBVV95cUxOQ2FpbWVRSmZTMi1wMDFYZzg2STNoMURHTkxPNllNMTh4Z3pOS1loeWRDa3Y1cHRSVi1nbjNPSmNzR0Nmd3Z4YVItYmtaTmFKcWMzekNHdk1xS3ZOUXhkb280RmJRQk1PTV9oR21BYzdCX2ZPbXFmS01USHo5UG01VWtSSWxVQi1seHp6WmtrMWlMN0poZktOZldMaWNPenU2RmpKUG9QbGZHQUJldkJj?oc=5\" target=\"_blank\">Microsoft confirms Teams is down and messages are delayed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-12-19T20:04:28+00:00",
-      "source": "BleepingComputer"
-    },
     {
       "title": "Microsoft Updates Windows ‘To Stop Users From Downloading Google Chrome’ - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHp0NUk1a3Y0a0M2ZEpVVjViLXBITHFoemQzWm9SMGRGQmktQmZILWxFeDZvSldQd3ZnQklReG8zeFJLdVBWWWdJblBfMU4tY0dFYnktWmxqVnA4c3dYNF91Q3JTZTBudUlLdVdpbHdhX0pSTGxBdGNsMEF4eWtmYXh5VzZQQ3ZkVGoyMm53LUpKaDc4SzBtZjFEY3hISWJOQUVCRmNobGV6ZTZGVDVRZFBNUDE0Y3JY?oc=5",
@@ -19,11 +12,46 @@
       "source": "Forbes"
     },
     {
-      "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmR0alhNRndfQ0FlbzVQQTBLdjNtU2ZDb0p6dWRXcl91dlhYeUZHLUU2QkNDNm9VanhDM3E0MUtkakFKQUJKOUROaWdWRkJDdmlIWEN6eGpIVll3UHdJY2IzNmxQTlhWQzYtRGx6SnNtZjBCcHhMam1zaEdOdXR6M3Q5cmo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmR0alhNRndfQ0FlbzVQQTBLdjNtU2ZDb0p6dWRXcl91dlhYeUZHLUU2QkNDNm9VanhDM3E0MUtkakFKQUJKOUROaWdWRkJDdmlIWEN6eGpIVll3UHdJY2IzNmxQTlhWQzYtRGx6SnNtZjBCcHhMam1zaEdOdXR6M3Q5cmo?oc=5\" target=\"_blank\">Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2025-12-19T17:54:00+00:00",
-      "source": "The Hacker News"
+      "title": "Windows: Microsoft wants to massively improve SSD performance - heise online",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckdjUmZNUTBCOG5CYWlQbk43UHBCa1VNODQ2QXUtX0d2bm9XZ1VKUmFsMm1oZ0JONEt5LXQzMXJ0OTJEcGdqY2hpZHVrZDFxeWFlVk1iQms5aDZUR2xzQWQ4SXhLYU8xLVlIeEtBd1drWXdvVFF1WFE5LWNHYXFMX3FzZjRMdEpKU1liWkJaaExVM0xGRF85YnpHZVp4TGs3R0V3Tm1R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQckdjUmZNUTBCOG5CYWlQbk43UHBCa1VNODQ2QXUtX0d2bm9XZ1VKUmFsMm1oZ0JONEt5LXQzMXJ0OTJEcGdqY2hpZHVrZDFxeWFlVk1iQms5aDZUR2xzQWQ4SXhLYU8xLVlIeEtBd1drWXdvVFF1WFE5LWNHYXFMX3FzZjRMdEpKU1liWkJaaExVM0xGRF85YnpHZVp4TGs3R0V3Tm1R?oc=5\" target=\"_blank\">Windows: Microsoft wants to massively improve SSD performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heise online</font>",
+      "published": "2025-12-18T16:58:00+00:00",
+      "source": "heise online"
+    },
+    {
+      "title": "7 open-source apps so good, Microsoft should build them into Windows - MakeUseOf",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXFkakZFTVh5b3lWMlVRZmR1N3o0aWVTZ0Z1MUktNElzLVBYZEFLNlVxeVU0SEozb0I5MzhOUEpjeDU1aS1QOHNjRWN5eG9ETDBaT2o5eTM4SDIyd0I0YUlOdllGZkx0ODZGbjAya3JpYmFrbmZVUjVIcWFmVEtlc0t3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXFkakZFTVh5b3lWMlVRZmR1N3o0aWVTZ0Z1MUktNElzLVBYZEFLNlVxeVU0SEozb0I5MzhOUEpjeDU1aS1QOHNjRWN5eG9ETDBaT2o5eTM4SDIyd0I0YUlOdllGZkx0ODZGbjAya3JpYmFrbmZVUjVIcWFmVEtlc0t3?oc=5\" target=\"_blank\">7 open-source apps so good, Microsoft should build them into Windows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MakeUseOf</font>",
+      "published": "2025-12-18T11:00:00+00:00",
+      "source": "MakeUseOf"
+    },
+    {
+      "title": "Microsoft confirms Teams is down and messages are delayed - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3FPbzRmbFNhRmc3dVNTeGxXbGQ3bDRSM3h4S3ZhS0Q3ZEM3cnFKRmhhVXZ6MnhSM2taMnJ1Zlg3VFBLMVR5NEZtVHdRVUJlU1c5LW5zRUxtaVZ4U24zQ3J3UFBFUmFaVmMyOHNVY2N2UlNLa2F4UmhKaE5zQWNkdWUxRUxxbTFhRnNoZ0hCWW5nbWpsMlRncmRMUGUyblVNbnBDWVIyQ0FUUdIBrwFBVV95cUxOQ2FpbWVRSmZTMi1wMDFYZzg2STNoMURHTkxPNllNMTh4Z3pOS1loeWRDa3Y1cHRSVi1nbjNPSmNzR0Nmd3Z4YVItYmtaTmFKcWMzekNHdk1xS3ZOUXhkb280RmJRQk1PTV9oR21BYzdCX2ZPbXFmS01USHo5UG01VWtSSWxVQi1seHp6WmtrMWlMN0poZktOZldMaWNPenU2RmpKUG9QbGZHQUJldkJj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3FPbzRmbFNhRmc3dVNTeGxXbGQ3bDRSM3h4S3ZhS0Q3ZEM3cnFKRmhhVXZ6MnhSM2taMnJ1Zlg3VFBLMVR5NEZtVHdRVUJlU1c5LW5zRUxtaVZ4U24zQ3J3UFBFUmFaVmMyOHNVY2N2UlNLa2F4UmhKaE5zQWNkdWUxRUxxbTFhRnNoZ0hCWW5nbWpsMlRncmRMUGUyblVNbnBDWVIyQ0FUUdIBrwFBVV95cUxOQ2FpbWVRSmZTMi1wMDFYZzg2STNoMURHTkxPNllNMTh4Z3pOS1loeWRDa3Y1cHRSVi1nbjNPSmNzR0Nmd3Z4YVItYmtaTmFKcWMzekNHdk1xS3ZOUXhkb280RmJRQk1PTV9oR21BYzdCX2ZPbXFmS01USHo5UG01VWtSSWxVQi1seHp6WmtrMWlMN0poZktOZldMaWNPenU2RmpKUG9QbGZHQUJldkJj?oc=5\" target=\"_blank\">Microsoft confirms Teams is down and messages are delayed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-12-19T20:04:28+00:00",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft AI CEO Mustafa Suleyman says that his mission is to make Microsoft … - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMFhzYkhvSlFXdGdzSHdhVGtPaVNNZS1nU2VPdWFjSHl2cF9JVGY0OVBZcWxyM0lZNjdJSVExRENEWkpqNHU5WHJBbFlTLXBJOVRja1J6UXBiMzlQU2hUWlNCczBTOXI2YWdwcjNzSXF5cEg4MjNMZnAxNlMyeWVwSXl3eUd1bFRWS2QxVDl0RndKZ3NETU5SaUxuMC0wNldjWlBPWGxfQ2tHNUhQcWlIODhtZU5FUFRYUU9QaE82MHFMbmhkdjFpbmRZUE5BUGtUV3VWM285MWlnNExObEZCVzk5dENwSU11MzRZY1U4a3R1UdIB9wFBVV95cUxOUnZuMjVTMllXQXRPWFZ0R2lULTdaUUp0RHBYejJJX1B6STMzODc1MmlfXzVNTTNTam84VGR0aERNOVlEbENueVB2ZURTQTlLN1d1bkRDdlBMU2dEODNxWXNybDRURDZVTGhJTTNFbEF5cHRjTlFfUlRiaTdncFZmUmNIZTdTUlVmSnJrZFVHal92V0QyN2Rjc1R0elE3YWxTS29HVExDME9UX2FlSDdHaWJGVUI2VFlVVkxjOEM0eWhoSDFrejZlZjRqekRnU3BCZ1Y3Z1kwMXlnclpXWWJJLVVEUUZJWlh2TTZmVmZhMDdvX09acFRn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMFhzYkhvSlFXdGdzSHdhVGtPaVNNZS1nU2VPdWFjSHl2cF9JVGY0OVBZcWxyM0lZNjdJSVExRENEWkpqNHU5WHJBbFlTLXBJOVRja1J6UXBiMzlQU2hUWlNCczBTOXI2YWdwcjNzSXF5cEg4MjNMZnAxNlMyeWVwSXl3eUd1bFRWS2QxVDl0RndKZ3NETU5SaUxuMC0wNldjWlBPWGxfQ2tHNUhQcWlIODhtZU5FUFRYUU9QaE82MHFMbmhkdjFpbmRZUE5BUGtUV3VWM285MWlnNExObEZCVzk5dENwSU11MzRZY1U4a3R1UdIB9wFBVV95cUxOUnZuMjVTMllXQXRPWFZ0R2lULTdaUUp0RHBYejJJX1B6STMzODc1MmlfXzVNTTNTam84VGR0aERNOVlEbENueVB2ZURTQTlLN1d1bkRDdlBMU2dEODNxWXNybDRURDZVTGhJTTNFbEF5cHRjTlFfUlRiaTdncFZmUmNIZTdTUlVmSnJrZFVHal92V0QyN2Rjc1R0elE3YWxTS29HVExDME9UX2FlSDdHaWJGVUI2VFlVVkxjOEM0eWhoSDFrejZlZjRqekRnU3BCZ1Y3Z1kwMXlnclpXWWJJLVVEUUZJWlh2TTZmVmZhMDdvX09acFRn?oc=5\" target=\"_blank\">Microsoft AI CEO Mustafa Suleyman says that his mission is to make Microsoft …</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2025-12-21T07:35:00+00:00",
+      "source": "Times of India"
+    },
+    {
+      "title": "Meet Ireland's 'LeBron James' of Microsoft Excel Diarmuid Early - bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ROUZNSUhhNXBQN0FELXhEWElrbm5yeEdtcDBZRGVsb1RUVDlnSGVoM1JDRzhfQUs1Rkxwd3FyakRqR0hZY3U4RE1udHVZREZvUmNOMXlDS0xUUdIBX0FVX3lxTE1mV0dLSFNTYVFfcGZRaEdVNHd2TEhBLUtGRnhMSWQxS1J4QlRQM1REUEhLblo3LTlxUTNFNFc1dkk1RzRqeUduaDE3dU11b1VfYlZJTXpsZGtrbzNET05v?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ROUZNSUhhNXBQN0FELXhEWElrbm5yeEdtcDBZRGVsb1RUVDlnSGVoM1JDRzhfQUs1Rkxwd3FyakRqR0hZY3U4RE1udHVZREZvUmNOMXlDS0xUUdIBX0FVX3lxTE1mV0dLSFNTYVFfcGZRaEdVNHd2TEhBLUtGRnhMSWQxS1J4QlRQM1REUEhLblo3LTlxUTNFNFc1dkk1RzRqeUduaDE3dU11b1VfYlZJTXpsZGtrbzNET05v?oc=5\" target=\"_blank\">Meet Ireland's 'LeBron James' of Microsoft Excel Diarmuid Early</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
+      "published": "2025-12-20T03:11:56+00:00",
+      "source": "bbc.com"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Outlook on Dec. 20, 2025: Azure Growth, AI Capex Shockwaves, and Fresh Regulatory Risks - ts2.tech",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2hEWFhGNW1sVDJyc3lFblpJQVp2dGNLQXNhVEJaX09UOW9Rd0FvVmhNYU5UMnkzY3FGeElpQWozYi11bk40R29yUHZ3NG5MbmlndGF1TEZKV1dhSXdvZlV5Z1VXdUJNZTJGRWFfT1JtV1NJaDBMX09lSmppZUt4SVhtVWFPVlRWZ3VZcmxmaXRRUWpZYjZoY3FTZnk4QzdvY0s4TkJ0cXlEalQ5YVlkTTJOZndhbHJnckZVTFNVNDc2QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2hEWFhGNW1sVDJyc3lFblpJQVp2dGNLQXNhVEJaX09UOW9Rd0FvVmhNYU5UMnkzY3FGeElpQWozYi11bk40R29yUHZ3NG5MbmlndGF1TEZKV1dhSXdvZlV5Z1VXdUJNZTJGRWFfT1JtV1NJaDBMX09lSmppZUt4SVhtVWFPVlRWZ3VZcmxmaXRRUWpZYjZoY3FTZnk4QzdvY0s4TkJ0cXlEalQ5YVlkTTJOZndhbHJnckZVTFNVNDc2QQ?oc=5\" target=\"_blank\">Microsoft Stock (MSFT) Outlook on Dec. 20, 2025: Azure Growth, AI Capex Shockwaves, and Fresh Regulatory Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ts2.tech</font>",
+      "published": "2025-12-20T14:56:21+00:00",
+      "source": "ts2.tech"
     },
     {
       "title": "2025 in review: How we elevated the Microsoft Store experience - Windows Blog",
@@ -31,34 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1NTVGNXZWdtdW9DTUhGSVJGVV9XRWZxcDdkeExQQjh3SlNud2R3YjlHOFRpY0ZpV3ZGMV9lQzJ3c1JaaTZEcDJQelhLbndOT2JSMDVwaEZzV2EtY0NDSHBNT2tpSUd4OUo4Tjd1cnpvUXFvSko3MDQxSnJXa1NSa01YTXpyZDhyZ3hHb0ZKTTJka1d1UzBNNHR2VGVGVkdVYlJuMjlPWm5jeEtqbGpNdFRsLTV6eFk?oc=5\" target=\"_blank\">2025 in review: How we elevated the Microsoft Store experience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
       "published": "2025-12-18T17:21:29+00:00",
       "source": "Windows Blog"
-    },
-    {
-      "title": "How Amazon, Microsoft and others are helping after WA flooding - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWVJa2lKbjN4dHNJRkdtWllxMzQzVFM4VGUyZlJNZDlJMTVkc3Z1bFZ2RTgxdzhWN18zcTk5UGgzbTRDZ2llLVQtR183WUl5bU5sRDRVTzhCTGotbEh0M05ZazZCU0JxSjlaZ0Zhc1dYTHNWWVhkS1RDZ2d3WEh0RFdBMVRtaFJQcTB6czZmZ0FNV3VLSXJqWnh0WVFsalBUNTl5NVljZE85d0xG?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWVJa2lKbjN4dHNJRkdtWllxMzQzVFM4VGUyZlJNZDlJMTVkc3Z1bFZ2RTgxdzhWN18zcTk5UGgzbTRDZ2llLVQtR183WUl5bU5sRDRVTzhCTGotbEh0M05ZazZCU0JxSjlaZ0Zhc1dYTHNWWVhkS1RDZ2d3WEh0RFdBMVRtaFJQcTB6czZmZ0FNV3VLSXJqWnh0WVFsalBUNTl5NVljZE85d0xG?oc=5\" target=\"_blank\">How Amazon, Microsoft and others are helping after WA flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2025-12-19T14:00:00+00:00",
-      "source": "The Seattle Times"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella ‘warns’ company's top leadership: Leave or sign on… - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZTAzZkdqWjhBalJJM05ySkl5bUhyZUZLTlQ3M0RObm5mTnh6TjAybmRRUjlxeFV4emROaGJRTUhDM0F4UU5rSEpPdHBoMmtvQmNpMGxNbGtRSHRwRWxTMFZnaWVIWGh3S2w2Q3BBblVXbV90N1hIMkhtVThRZ2hSREZYWDlkaDhCT2FWQTF4MEllSXdWaDNlTUN6azFCaU5ocmpWbXRNTERzb0xnZndvT0JHZlhvbmExWnF6bk1BYjNYZ2hBWXpSWHVlUC1oSDBmZzIxS1VxeWtucENjYXRWSl9ac2RIWmRrSWFnR0lR0gHzAUFVX3lxTE90SEVUN3Q1eG5sTXA2MkRFdWJha0h6SEgxOXh0cW5ZQW1sNWhvbi16aEVLbTVDemdncloyTnAwSzdXQjlaNDh2TGhyYWlmeUs3S09ZWHhFY3d1eWgxZENENG5VZXBadEM0OUc1UVY4S1ltYXhOYVAzLTI0eXBTbUs0bXc5LWZvN1ZSRHdvTVRVbWUwbDZCczB1RDhmY0ltRGloVEZZXy0tQjRCR25OMzdIUzRCbC14TllJN0RwZGsyS3RBcVhaUno5THF4cDlLamkzSUxKR185TDllUzZuZ3lIU051OVBPak1NSmktcWcxUGZCVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZTAzZkdqWjhBalJJM05ySkl5bUhyZUZLTlQ3M0RObm5mTnh6TjAybmRRUjlxeFV4emROaGJRTUhDM0F4UU5rSEpPdHBoMmtvQmNpMGxNbGtRSHRwRWxTMFZnaWVIWGh3S2w2Q3BBblVXbV90N1hIMkhtVThRZ2hSREZYWDlkaDhCT2FWQTF4MEllSXdWaDNlTUN6azFCaU5ocmpWbXRNTERzb0xnZndvT0JHZlhvbmExWnF6bk1BYjNYZ2hBWXpSWHVlUC1oSDBmZzIxS1VxeWtucENjYXRWSl9ac2RIWmRrSWFnR0lR0gHzAUFVX3lxTE90SEVUN3Q1eG5sTXA2MkRFdWJha0h6SEgxOXh0cW5ZQW1sNWhvbi16aEVLbTVDemdncloyTnAwSzdXQjlaNDh2TGhyYWlmeUs3S09ZWHhFY3d1eWgxZENENG5VZXBadEM0OUc1UVY4S1ltYXhOYVAzLTI0eXBTbUs0bXc5LWZvN1ZSRHdvTVRVbWUwbDZCczB1RDhmY0ltRGloVEZZXy0tQjRCR25OMzdIUzRCbC14TllJN0RwZGsyS3RBcVhaUno5THF4cDlLamkzSUxKR185TDllUzZuZ3lIU051OVBPak1NSmktcWcxUGZCVQ?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella ‘warns’ company's top leadership: Leave or sign on…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-12-19T03:37:00+00:00",
-      "source": "Times of India"
-    },
-    {
-      "title": "Seriously, does anyone actually use Microsoft Copilot? - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkRiSDFuRVhvd0Z2T21DeWlSckFjcFlocjRLaEZjdjlTR0hGenhEMEl6VzBRMFNxMlRlbWV3OHZQaGk0NWgwR0Nnb2s4dmZ3RjJSaWtfb01HZ0owaXlKVXVlSG8zdHV6aEV4ZFFBU2dZMElkRmF1ek1DLVNCVnRSTzNULW1mQUFWQlk3YUc3YnJPTFR1c1BiN0pWQTlxZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMkRiSDFuRVhvd0Z2T21DeWlSckFjcFlocjRLaEZjdjlTR0hGenhEMEl6VzBRMFNxMlRlbWV3OHZQaGk0NWgwR0Nnb2s4dmZ3RjJSaWtfb01HZ0owaXlKVXVlSG8zdHV6aEV4ZFFBU2dZMElkRmF1ek1DLVNCVnRSTzNULW1mQUFWQlk3YUc3YnJPTFR1c1BiN0pWQTlxZw?oc=5\" target=\"_blank\">Seriously, does anyone actually use Microsoft Copilot?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
-      "published": "2025-12-19T19:11:30+00:00",
-      "source": "Windows Central"
-    },
-    {
-      "title": "Microsoft made another Copilot ad where nothing actually works - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObHBHRFZXQ1VaWThrODVZSFpWU1Y5bVBicE9jSExnVTY1YzdNZG8yVV9ScmJwZXotNFViSlJhN0kxdHFxWm1KcV9ZQUo2Ty13RF96OXJ1a1VWd3VWN1Z3bElYeG1uTUQ0dnNUSE5UeEkwamZMNHpHTlJPN2hQZzB4VWFpMkgzXzVDb3pLYjBsNFZ0aldqUjRJcVBFWk9KZFp2ZWc?oc=5\" target=\"_blank\">Microsoft made another Copilot ad where nothing actually works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2025-12-18T15:30:00+00:00",
-      "source": "The Verge"
     }
   ],
   "product_launches": [
@@ -70,20 +70,6 @@
       "source": "Microsoft"
     },
     {
-      "title": "Intelo.ai Launches on Microsoft Marketplace to Revolutionize Retail Operations - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2dMX2dSeTNmRFhFWU81aFA4Zy1tc3NnZlB6Q2dpcnVPeDQzaTA5WWZVWWVtRkNvRXh2eWdNRVVQOHVmWGFlR012VlowSHdQd0VVN1Nqa1ljVUhkZ2hHcG1mZm9QaHZXZWNwMUhIaFhRRng3X1ItZ1MweHZjSjdBMTYzVHB4LUxReWRqSGlSTmFVMXNfY3R1RDRPWHo2VGFvZ3RMTktvajl1MjhPal8ySWNITkVLZ05pTVlQMEVQdzJoMmU2cVFKR2dPZkZMZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2dMX2dSeTNmRFhFWU81aFA4Zy1tc3NnZlB6Q2dpcnVPeDQzaTA5WWZVWWVtRkNvRXh2eWdNRVVQOHVmWGFlR012VlowSHdQd0VVN1Nqa1ljVUhkZ2hHcG1mZm9QaHZXZWNwMUhIaFhRRng3X1ItZ1MweHZjSjdBMTYzVHB4LUxReWRqSGlSTmFVMXNfY3R1RDRPWHo2VGFvZ3RMTktvajl1MjhPal8ySWNITkVLZ05pTVlQMEVQdzJoMmU2cVFKR2dPZkZMZw?oc=5\" target=\"_blank\">Intelo.ai Launches on Microsoft Marketplace to Revolutionize Retail Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "published": "2025-12-17T12:30:00+00:00",
-      "source": "PR Newswire"
-    },
-    {
-      "title": "Shinka Launches Enterprise-Grade Prebid Cache Ahead of Microsoft Deprecation - ExchangeWire",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGVXVWJPcmNUOGpId01qOFU3S19LM2hBVXhNWFIxRjlOM0UzMlRkQlBiUXZFMDVNMVZNa29ZVHUyb0hBcUNyOFl6WmxmYUdzY1pFU2QwN1BpYjVPY0JQcUthdGdYc08wMGQwS3RTYTROMlp6ak0tc2RIS211aDFfNUlqNTJyOU0zZzJuam41b2xYOGw3ZERYWTk4R3B4TU1rM3l5VTZSV0NFdmlLRFRwb1FIY0l5ZDdNeElzdFdDcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGVXVWJPcmNUOGpId01qOFU3S19LM2hBVXhNWFIxRjlOM0UzMlRkQlBiUXZFMDVNMVZNa29ZVHUyb0hBcUNyOFl6WmxmYUdzY1pFU2QwN1BpYjVPY0JQcUthdGdYc08wMGQwS3RTYTROMlp6ak0tc2RIS211aDFfNUlqNTJyOU0zZzJuam41b2xYOGw3ZERYWTk4R3B4TU1rM3l5VTZSV0NFdmlLRFRwb1FIY0l5ZDdNeElzdFdDcw?oc=5\" target=\"_blank\">Shinka Launches Enterprise-Grade Prebid Cache Ahead of Microsoft Deprecation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExchangeWire</font>",
-      "published": "2025-12-16T09:39:48+00:00",
-      "source": "ExchangeWire"
-    },
-    {
       "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
@@ -91,11 +77,25 @@
       "source": "Microsoft"
     },
     {
+      "title": "I Dug Through Every Windows 12 Leak—These Are the New Features I'm Betting On - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFdvMnZTTGtuRC1fbXZnbjBaY1U1Tl83bV9ENV9wb281dnhZdVcwWGljYTg2c3FueHFaTEdfd2lIRDVJbkhJQ2kzVnkwMG91emJTZ1Z2NFFNcFdhTjJpbm01cFNodDcwSHRjNElhS1pJSFFqQU5heUg0eVBmUl9IMTZRaVpKUWVZbGlVVEJqRk5GZGR6NzEydlNWQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFdvMnZTTGtuRC1fbXZnbjBaY1U1Tl83bV9ENV9wb281dnhZdVcwWGljYTg2c3FueHFaTEdfd2lIRDVJbkhJQ2kzVnkwMG91emJTZ1Z2NFFNcFdhTjJpbm01cFNodDcwSHRjNElhS1pJSFFqQU5heUg0eVBmUl9IMTZRaVpKUWVZbGlVVEJqRk5GZGR6NzEydlNWQQ?oc=5\" target=\"_blank\">I Dug Through Every Windows 12 Leak—These Are the New Features I'm Betting On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2025-12-04T08:00:00+00:00",
+      "source": "PCMag"
+    },
+    {
       "title": "Microsoft launches new AI avatar - The Arkansas Democrat-Gazette",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lyaGs0Z3JNdUZucXJXM1ZabXh0N0pkUTVMWVF3SXRlRXNmNXdZdG5oN2VVUVM0WkVGWGlYSEd3dDJTaHlJNERiX0lfS0JoWmNhVk5mbnFjVkpKajh3NWtHT0xjNVA4NmxCS2hxUmIwSU11VlJpZGRQazdCczRtSE11OVlUaTZU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lyaGs0Z3JNdUZucXJXM1ZabXh0N0pkUTVMWVF3SXRlRXNmNXdZdG5oN2VVUVM0WkVGWGlYSEd3dDJTaHlJNERiX0lfS0JoWmNhVk5mbnFjVkpKajh3NWtHT0xjNVA4NmxCS2hxUmIwSU11VlJpZGRQazdCczRtSE11OVlUaTZU?oc=5\" target=\"_blank\">Microsoft launches new AI avatar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
       "published": "2025-10-26T07:00:00+00:00",
       "source": "The Arkansas Democrat-Gazette"
+    },
+    {
+      "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2025-09-29T07:00:00+00:00",
+      "source": "The Verge"
     }
   ],
   "stock": {
