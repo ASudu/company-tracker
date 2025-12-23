@@ -2,66 +2,73 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-22T12:25:46.712953+00:00",
+  "fetched_at": "2025-12-23T12:25:06.658960+00:00",
   "news": [
+    {
+      "title": "Microsoft to Replace All C/C++ Code With Rust by 2030 - Thurrott.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5\" target=\"_blank\">Microsoft to Replace All C/C++ Code With Rust by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thurrott.com</font>",
+      "published": "2025-12-22T19:49:08+00:00",
+      "source": "Thurrott.com"
+    },
+    {
+      "title": "Is Microsoft Undervalued by Investors? These Tech Stock Experts Think So. - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS20wSTR4TlNsWmhTSUlOeTl6RGQyRmF5ZTM5TGtqRTBtRXpXOGZrUW9iM2ZtQVk1OHN2MWZEYlRpaXpmdGNPSXBMVWY4d3NUVzJkTDJkejhfRERIdmR1dFJJQ3RRU3l5NUJnUjlQTExqS05iTDBxQnZQbUN3N0xkZVRZbFR6ZEp3SjVRUU5HLVJRN1FoYjAtV1BSREJ3Nkltd09IMkNhMVEtSkxlcFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPS20wSTR4TlNsWmhTSUlOeTl6RGQyRmF5ZTM5TGtqRTBtRXpXOGZrUW9iM2ZtQVk1OHN2MWZEYlRpaXpmdGNPSXBMVWY4d3NUVzJkTDJkejhfRERIdmR1dFJJQ3RRU3l5NUJnUjlQTExqS05iTDBxQnZQbUN3N0xkZVRZbFR6ZEp3SjVRUU5HLVJRN1FoYjAtV1BSREJ3Nkltd09IMkNhMVEtSkxlcFE?oc=5\" target=\"_blank\">Is Microsoft Undervalued by Investors? These Tech Stock Experts Think So.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "published": "2025-12-22T20:34:53+00:00",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPY0JPTzRqc2dYb0FLZWdqeUt1QWlFSW9PaF9GMHdsNW9YM2QwSGROZTBGd1JCU0lxNnIyODMwdXBGc0s4S3pFOVg1OUtfYUh3Rk1qTFFjeWMwR0dVd1JyTkJ5RUdrY00wMnp6bnlYWDFrUE1leXp6d0kzVW5VWVBWOE1NT2hwU3pJeDBxY3Rsb2ZvbkszX25XSWxSSF9GWmtfWDhCZUFHYXRJZmpaZmVkVjlaV3FnY0Z0UkJqVVZfUVJBNUFnYWR2ZTVELWYyZmhNZnVwcHl4b1BOQkg4eTRTeEdEUFpSN3FoSEdmR3dPUm05UVhyWHphOEtiSnpjejd6Njc3ZzhZTkFmc0JXTHBOck1tejh4c3FqNFVScURCU3k1b3FHQ0xyeGZ2MEdnVUkxMngyaDZJUGdTbVFFUS1wS0hkOGNSLUVCQlRnOTVMNS05cW84bUx1S2h1WXB5VHp3WmpzNHI0aU9sTnJSUG15VmlGc2ZSejNaOUFCNjlqSmJZQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxPY0JPTzRqc2dYb0FLZWdqeUt1QWlFSW9PaF9GMHdsNW9YM2QwSGROZTBGd1JCU0lxNnIyODMwdXBGc0s4S3pFOVg1OUtfYUh3Rk1qTFFjeWMwR0dVd1JyTkJ5RUdrY00wMnp6bnlYWDFrUE1leXp6d0kzVW5VWVBWOE1NT2hwU3pJeDBxY3Rsb2ZvbkszX25XSWxSSF9GWmtfWDhCZUFHYXRJZmpaZmVkVjlaV3FnY0Z0UkJqVVZfUVJBNUFnYWR2ZTVELWYyZmhNZnVwcHl4b1BOQkg4eTRTeEdEUFpSN3FoSEdmR3dPUm05UVhyWHphOEtiSnpjejd6Njc3ZzhZTkFmc0JXTHBOck1tejh4c3FqNFVScURCU3k1b3FHQ0xyeGZ2MEdnVUkxMngyaDZJUGdTbVFFUS1wS0hkOGNSLUVCQlRnOTVMNS05cW84bUx1S2h1WXB5VHp3WmpzNHI0aU9sTnJSUG15VmlGc2ZSejNaOUFCNjlqSmJZQQ?oc=5\" target=\"_blank\">Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2025-12-22T14:33:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Dan Ives Says Microsoft Stock (MSFT) Can Rise Nearly 30% in 2026 - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEc5Zk9MbWpETk5EM2xteV9TY1JQOWFxYjE2RnJDSWVZTzFVUDJxT1A1WGptQnE4YlA4QmJBTUltQi1sYlFqWWdjbE9sUDhIUDdqYXpmRHRTblBRV0VhQlI0YnFBT1NjMXdORUR5Z3dpYk1CeUFRVjVjVmxUQU1XcnBRTEQzS2w0dWM1Q1QxaVpLMzJCdlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONEc5Zk9MbWpETk5EM2xteV9TY1JQOWFxYjE2RnJDSWVZTzFVUDJxT1A1WGptQnE4YlA4QmJBTUltQi1sYlFqWWdjbE9sUDhIUDdqYXpmRHRTblBRV0VhQlI0YnFBT1NjMXdORUR5Z3dpYk1CeUFRVjVjVmxUQU1XcnBRTEQzS2w0dWM1Q1QxaVpLMzJCdlE?oc=5\" target=\"_blank\">Dan Ives Says Microsoft Stock (MSFT) Can Rise Nearly 30% in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2025-12-22T16:13:18+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft’s Nadella Pressures Deputies to Accelerate Copilot Improvements - The Information",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHgzamtDTVZ0QlFzcVZHMFFpVTdwMTd4aVdrbWpRXy01M1ZqRmRCQTZsdk1HdzZrWXB2d0JOX3Y4YlV2aUQ2a2Z4X1pXTTU3ck1CQjMyUEhLaFF1dmNsRnZPYXpfNnkxOUdpSk95N1BYSkJLb0lEVXJVaEdJVVViR0dOQmoxU0hpZE5DU3NRa2R3ZGducjVTY1dVV2RxOElfeWtld3JvQUtOZ0xUenc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHgzamtDTVZ0QlFzcVZHMFFpVTdwMTd4aVdrbWpRXy01M1ZqRmRCQTZsdk1HdzZrWXB2d0JOX3Y4YlV2aUQ2a2Z4X1pXTTU3ck1CQjMyUEhLaFF1dmNsRnZPYXpfNnkxOUdpSk95N1BYSkJLb0lEVXJVaEdJVVViR0dOQmoxU0hpZE5DU3NRa2R3ZGducjVTY1dVV2RxOElfeWtld3JvQUtOZ0xUenc?oc=5\" target=\"_blank\">Microsoft’s Nadella Pressures Deputies to Accelerate Copilot Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2025-12-22T14:00:00+00:00",
+      "source": "The Information"
+    },
+    {
+      "title": "Microsoft’s Nadella Not Happy With Copilot Development - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjFRZFRiSlJtMFZlQ1U4TFY5bWttUDRjMVpId0cwajVBWnBtakhLUEFoQk9JSGYwc25YUUJvb2lnejl2XzZ0Wk43RXlqSk1aMHQtaUppYWNQRTF2eklKY3NDV0w0MW56d2FoYnBJaVVxYlpINlZFVnQ1ZnNJeXhYZXFZVlFxSTF5S0RILWVPWHh3MXU0d2hrWFZXSE9HV1dJNVFMOQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjFRZFRiSlJtMFZlQ1U4TFY5bWttUDRjMVpId0cwajVBWnBtakhLUEFoQk9JSGYwc25YUUJvb2lnejl2XzZ0Wk43RXlqSk1aMHQtaUppYWNQRTF2eklKY3NDV0w0MW56d2FoYnBJaVVxYlpINlZFVnQ1ZnNJeXhYZXFZVlFxSTF5S0RILWVPWHh3MXU0d2hrWFZXSE9HV1dJNVFMOQ?oc=5\" target=\"_blank\">Microsoft’s Nadella Not Happy With Copilot Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+      "published": "2025-12-22T19:26:32+00:00",
+      "source": "PYMNTS.com"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella has started a weekly meeting which he does not want senior managers to attend - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZzA1bV8xSE5PLWprdjh5MWowWXVsWEpRTmJZbGRXaUhwZ052RVNLVGw4cmRudV9xRnFqcVF4dDRSVWlhS1VIR2prY2tyLXVKb1R4OWZZOWRrdnMzeVI4NHA4NktZOXNGelp4emN6VkY5d2FSNXV6dWo0VWVnLUxwb2pkTUp5WlJ2NkdBTlBndkxuWXBUNVVnM0NyeDRjTzk2MlJ5bHc4WlhRWWhvQXV3eGdJc3prdjE4YlI5Z3JLU2pSNUQ1Rk9sRFdyRUs0dVRlVjRwU3V4UFZaaU16b185Qy1qWUk4ajBxYmZsUGlwdU5BMmtDOG1hcU9BV3lJb21CdzMxSW1RSEZ4VWhjb2ZOZWVtT21TY2FfaG9yZUtqN2pWZ9IBpwJBVV95cUxQVVprVG5oRUhRNko4QW5panlJMVYwd3hCcGtpTmQtT19DSXljYm9rcGVXSjB2NUF6THBXMkFKNExZbktFd1FRWjVMWm9EMEhELTczd0dkMlpMSldvbi1hZFVZdU1OLUNuV1Y3UFJQSU41T01VSFZKQ2hzQ29XNVdjT1hvZnB4NXBqVlhsbDhWOUotZVJHSmFZY29JNnVMZzBPRzJpTXBqNVowYzJZZXU5d1JwREZHVWFJSjNLVlBsY1ROdDlBZWZBc2x6S2R0ak84clVualZ1bGpaYllfSkFOS3BiUnRQZVNERnJFZDVxc0lvOWVOajIwdW9SamV5ZU1BRWxMandwck04cnVkRk9sTXZRX3o2dTJwTVlrbjVVMVFoakhpR2tR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQZzA1bV8xSE5PLWprdjh5MWowWXVsWEpRTmJZbGRXaUhwZ052RVNLVGw4cmRudV9xRnFqcVF4dDRSVWlhS1VIR2prY2tyLXVKb1R4OWZZOWRrdnMzeVI4NHA4NktZOXNGelp4emN6VkY5d2FSNXV6dWo0VWVnLUxwb2pkTUp5WlJ2NkdBTlBndkxuWXBUNVVnM0NyeDRjTzk2MlJ5bHc4WlhRWWhvQXV3eGdJc3prdjE4YlI5Z3JLU2pSNUQ1Rk9sRFdyRUs0dVRlVjRwU3V4UFZaaU16b185Qy1qWUk4ajBxYmZsUGlwdU5BMmtDOG1hcU9BV3lJb21CdzMxSW1RSEZ4VWhjb2ZOZWVtT21TY2FfaG9yZUtqN2pWZ9IBpwJBVV95cUxQVVprVG5oRUhRNko4QW5panlJMVYwd3hCcGtpTmQtT19DSXljYm9rcGVXSjB2NUF6THBXMkFKNExZbktFd1FRWjVMWm9EMEhELTczd0dkMlpMSldvbi1hZFVZdU1OLUNuV1Y3UFJQSU41T01VSFZKQ2hzQ29XNVdjT1hvZnB4NXBqVlhsbDhWOUotZVJHSmFZY29JNnVMZzBPRzJpTXBqNVowYzJZZXU5d1JwREZHVWFJSjNLVlBsY1ROdDlBZWZBc2x6S2R0ak84clVualZ1bGpaYllfSkFOS3BiUnRQZVNERnJFZDVxc0lvOWVOajIwdW9SamV5ZU1BRWxMandwck04cnVkRk9sTXZRX3o2dTJwTVlrbjVVMVFoakhpR2tR?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella has started a weekly meeting which he does not want senior managers to attend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2025-12-23T06:37:00+00:00",
+      "source": "Times of India"
+    },
     {
       "title": "\"In 6 Months, Everything Changes\": A Microsoft Executive Describes What Artificial Intelligence Will Really Look Like in 6 Years - 3DVF",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaERvUmI1bEwwejFqODBDbmdtZ01IR1BsSVlXSkxaak5pUkRxS1ZWUUFpcDNTMTNZd0ZZeVNkTWlBSUREeUNLZXYzbmtYZ3c4RDNnRXdwQ1R3ZFUtQXlOWkVlZTJxRDlNbm04WFlHWUtxLW9Id2dkNzVuYWNsa3Z3c3NvcVp0LTFmakMxaUdiNmtaVm1OaU9pNGQybEF1d0pIZ0REQkFFYVRiTTJLamlYbEowemRBdFV3ckpwcE8wSHJ5UmVXTC1FMlcxZm5icjhOcUlqR3lSQXU1YVhNNHc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaERvUmI1bEwwejFqODBDbmdtZ01IR1BsSVlXSkxaak5pUkRxS1ZWUUFpcDNTMTNZd0ZZeVNkTWlBSUREeUNLZXYzbmtYZ3c4RDNnRXdwQ1R3ZFUtQXlOWkVlZTJxRDlNbm04WFlHWUtxLW9Id2dkNzVuYWNsa3Z3c3NvcVp0LTFmakMxaUdiNmtaVm1OaU9pNGQybEF1d0pIZ0REQkFFYVRiTTJLamlYbEowemRBdFV3ckpwcE8wSHJ5UmVXTC1FMlcxZm5icjhOcUlqR3lSQXU1YVhNNHc?oc=5\" target=\"_blank\">\"In 6 Months, Everything Changes\": A Microsoft Executive Describes What Artificial Intelligence Will Really Look Like in 6 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DVF</font>",
       "published": "2025-12-21T17:15:35+00:00",
       "source": "3DVF"
-    },
-    {
-      "title": "Microsoft Rolls Out Baseline Security Mode for Office, SharePoint, Exchange, Teams, and Entra - CybersecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPeHFqejIzbmt1enZNR3J0b09NVnp0YXkxMWwwdWJRN1dEdThzVFp2clBkTmstaGkwOXRPR2ZnRDNsMWprMnE5UzRPLTdmZUh4dVVoSkFBZHdtTzVXbG05LWFscTJLS2dIcy01V0hhZUbSAXZBVV95cUxQSWpjVmZFQmhCQU9xdi1xa0tCSDRJc1RjQ0JGMkw1ZWU1Q3paM25HVkY0enN2ZWRxWnZiQm51X0NBb21zdGFEaXFqZ3dzT0FXZkJlWnZFaHZXQnhNR0trQ2tiVjBkRVpUV1lueE42V1lYUFFmcm93?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPeHFqejIzbmt1enZNR3J0b09NVnp0YXkxMWwwdWJRN1dEdThzVFp2clBkTmstaGkwOXRPR2ZnRDNsMWprMnE5UzRPLTdmZUh4dVVoSkFBZHdtTzVXbG05LWFscTJLS2dIcy01V0hhZUbSAXZBVV95cUxQSWpjVmZFQmhCQU9xdi1xa0tCSDRJc1RjQ0JGMkw1ZWU1Q3paM25HVkY0enN2ZWRxWnZiQm51X0NBb21zdGFEaXFqZ3dzT0FXZkJlWnZFaHZXQnhNR0trQ2tiVjBkRVpUV1lueE42V1lYUFFmcm93?oc=5\" target=\"_blank\">Microsoft Rolls Out Baseline Security Mode for Office, SharePoint, Exchange, Teams, and Entra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CybersecurityNews</font>",
-      "published": "2025-12-20T14:17:01+00:00",
-      "source": "CybersecurityNews"
-    },
-    {
-      "title": "Microsoft Is Transforming Itself Into an AI Company and You Can Too - Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUG43dUpLdl9UTmxGWVEwaWpPaWFGU184Y2c5UVh3bkFiLU9PeDNsNHNVeDZpUmJ4LTVUeE1zbVpiblZPNlFaTElpZW9USFQxM2FiMWJzRlNNLTFQcUZvdkItb1RXRnJrT1cxV0F6RmI2UmdaTWVKUVJkMmR3ckc1Nkk5cFBFOFRUdFhLbFBZdXhnYXhT?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUG43dUpLdl9UTmxGWVEwaWpPaWFGU184Y2c5UVh3bkFiLU9PeDNsNHNVeDZpUmJ4LTVUeE1zbVpiblZPNlFaTElpZW9USFQxM2FiMWJzRlNNLTFQcUZvdkItb1RXRnJrT1cxV0F6RmI2UmdaTWVKUVJkMmR3ckc1Nkk5cFBFOFRUdFhLbFBZdXhnYXhT?oc=5\" target=\"_blank\">Microsoft Is Transforming Itself Into an AI Company and You Can Too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.com</font>",
-      "published": "2025-12-22T11:02:34+00:00",
-      "source": "Inc.com"
-    },
-    {
-      "title": "US lawmakers in letter to Google, Microsoft, Amazon and Meta: Your data centers are increasing electricit - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQYURBRlJJVW5HdGY4OWI4ZzlnU1FZLV9GemxqOHVnNmJtYXQ2dXlpSkhja2NoWXQwRlA3S2ZMWTI2U1NhZWh0NGdPblA0bjV5aG9pUGdCbTdOVUpsZ3N4MUtHQzhFSENkWHVlYjg0b2NkZGxwVENHTy1ER2c4ZEtzRzloWHBPSXgteWltbjN6YnJCeXYyZ0VNaXBnemdvT0ttWnpoejR6S0RXN21zOEtmZHlFdjRoaUJ4WXA1eFd1MGhPWmZZejBXTTVnZ2tUdWMtVEs2eTBLNU5WM0s1R3V4dnBNbUdLUHVQWUhzdUlQQ3JKUHp5ZGVnWEVhRmtOZUVVcXV0RjZ2YnhkRl9UbEQtSVdkQUMzNDV4S2JNWVg2b2dveTlDQmMzb2tYTzlqVFBvVmdpctIBugJBVV95cUxNQ2ZreGpMcVpRRFRKVWJzclNsZjFlaTJOYjNFNG1Md3MxblZ6N2VzU3dDLWR5bjRRSi03bDhWVnlDX3V2SGxqTElvWGFGZUtSUXNlcTlhTWg3VDhLY2x2Nzhad0tZbTkxYkZWelBKNWNsSld6VHRCTGtkT3VpWWxZd2xQSXVlc2tjcm5mcUppNTB6X3hTVEtLUzhybUVHT3VwV2k5LXc5R0ZXc0pyZ0FzWEEybzNKQ3NRdmk1MENXeS0wVEktaFJ0RWZMM29FdDlvVnhBTzlMSWhndlJQUGUwSFY5WVA3a0R2Y3J2b3dOUzJsb2ctcEgyRjJQcDdESXhSaDVzaE9DbXZwVGlUSHEzTkphcGZvc3JScEJYYkRacy05LUIwWl82ZnNKUDVJb3ozVDJpdFU4a0dZdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQYURBRlJJVW5HdGY4OWI4ZzlnU1FZLV9GemxqOHVnNmJtYXQ2dXlpSkhja2NoWXQwRlA3S2ZMWTI2U1NhZWh0NGdPblA0bjV5aG9pUGdCbTdOVUpsZ3N4MUtHQzhFSENkWHVlYjg0b2NkZGxwVENHTy1ER2c4ZEtzRzloWHBPSXgteWltbjN6YnJCeXYyZ0VNaXBnemdvT0ttWnpoejR6S0RXN21zOEtmZHlFdjRoaUJ4WXA1eFd1MGhPWmZZejBXTTVnZ2tUdWMtVEs2eTBLNU5WM0s1R3V4dnBNbUdLUHVQWUhzdUlQQ3JKUHp5ZGVnWEVhRmtOZUVVcXV0RjZ2YnhkRl9UbEQtSVdkQUMzNDV4S2JNWVg2b2dveTlDQmMzb2tYTzlqVFBvVmdpctIBugJBVV95cUxNQ2ZreGpMcVpRRFRKVWJzclNsZjFlaTJOYjNFNG1Md3MxblZ6N2VzU3dDLWR5bjRRSi03bDhWVnlDX3V2SGxqTElvWGFGZUtSUXNlcTlhTWg3VDhLY2x2Nzhad0tZbTkxYkZWelBKNWNsSld6VHRCTGtkT3VpWWxZd2xQSXVlc2tjcm5mcUppNTB6X3hTVEtLUzhybUVHT3VwV2k5LXc5R0ZXc0pyZ0FzWEEybzNKQ3NRdmk1MENXeS0wVEktaFJ0RWZMM29FdDlvVnhBTzlMSWhndlJQUGUwSFY5WVA3a0R2Y3J2b3dOUzJsb2ctcEgyRjJQcDdESXhSaDVzaE9DbXZwVGlUSHEzTkphcGZvc3JScEJYYkRacy05LUIwWl82ZnNKUDVJb3ozVDJpdFU4a0dZdw?oc=5\" target=\"_blank\">US lawmakers in letter to Google, Microsoft, Amazon and Meta: Your data centers are increasing electricit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-12-21T10:38:00+00:00",
-      "source": "Times of India"
-    },
-    {
-      "title": "Microsoft (MSFT) Stock: What to Know Before the U.S. Market Opens on 22/12/2025 - ts2.tech",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0hBYmJmVmZGY3djUTI2Y0tYNXk3elQ4eHFpZlZRcHVoNU9IX3FOaXJ1NmdnbkQxNTNWZWRHTE5wSENiZnc5THZORnpFNDVtNkgyTGdWcFZkeDVFTU1IazFhNnc5aVEwUGVoc2hycFQ2RXRwam5QVkRwTWtDR3QzbWVZY2dheTNDeWZ3SWJ1TzNPOG4yYU0zZkhncUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0hBYmJmVmZGY3djUTI2Y0tYNXk3elQ4eHFpZlZRcHVoNU9IX3FOaXJ1NmdnbkQxNTNWZWRHTE5wSENiZnc5THZORnpFNDVtNkgyTGdWcFZkeDVFTU1IazFhNnc5aVEwUGVoc2hycFQ2RXRwam5QVkRwTWtDR3QzbWVZY2dheTNDeWZ3SWJ1TzNPOG4yYU0zZkhncUQ?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock: What to Know Before the U.S. Market Opens on 22/12/2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ts2.tech</font>",
-      "published": "2025-12-22T01:02:22+00:00",
-      "source": "ts2.tech"
-    },
-    {
-      "title": "Xbox is losing the console race by miles. It's part of Microsoft's big gaming pivot - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSVXp3NDNVWi1HSWYtTm5qalRrbGFRTG1fRmd2aXo4cU12azBJRXZJTjh5N212eHoxamY4NUpMbzVmQlFrS3EwWm1LUmlieW4yTDQ1cVlOazJXMER0MjN4RWN3SlNraTdJNjE4aEgtdEszZEh3SUhpRWYyTULSAYIBQVVfeXFMTkJwUnFkMTlwdzFWZWszMUo4b1JVWkRVcGZlTUpuMGt3UzFTaGlyTkNSbDN1aXp2Zk9WWjhuRWJVVEcwdXZ5RVl2TTRWWlJfbWV2SjhvR3E4TUg3dzBmbl9pUU83T09UYWt0cEM2ekR4ZXN2RmhRbXY4VzRNWnVqRmhndw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBSVXp3NDNVWi1HSWYtTm5qalRrbGFRTG1fRmd2aXo4cU12azBJRXZJTjh5N212eHoxamY4NUpMbzVmQlFrS3EwWm1LUmlieW4yTDQ1cVlOazJXMER0MjN4RWN3SlNraTdJNjE4aEgtdEszZEh3SUhpRWYyTULSAYIBQVVfeXFMTkJwUnFkMTlwdzFWZWszMUo4b1JVWkRVcGZlTUpuMGt3UzFTaGlyTkNSbDN1aXp2Zk9WWjhuRWJVVEcwdXZ5RVl2TTRWWlJfbWV2SjhvR3E4TUg3dzBmbl9pUU83T09UYWt0cEM2ekR4ZXN2RmhRbXY4VzRNWnVqRmhndw?oc=5\" target=\"_blank\">Xbox is losing the console race by miles. It's part of Microsoft's big gaming pivot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-12-21T13:00:01+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft warns H-1B employees to avoid travel amid rescheduling chaos in India | Trending - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWV4QWE3czN5WTJlR01TUXZmX2xPYlVLcGpuLUg4TWVHUDhaMXlTYW1URE56Uk9vc1hZS0NKWTUyT1F6d1I0LVI3YkRwa2RDeDk0VDNhaUFXOEJEdWNTNHV1LXRKazJsRnFJTzRMaHlKS1B6amVXRjA2N3UwMnhaa3RwMGRNeXVidTNQQUFmOXVHVWFXZ0JnbUpoV1dScWFrNEd3ekp3U0xqYjJYaTRZNjFONnU5ZW80QndRdnJRLUtuOC1vczBnbU1QNzg4YS1MQkloLTN6c9IB3AFBVV95cUxQRVpidzlfNzdrWkN2M2NISS1RdlBtQTZfdGRGSmJhU3dWVXBBNXptOWdNY1JTSk9Fb29pQTdJREZlS3ZoOUNaUlhDYU1BSC1qbEV3SjNZRExfVnNpSi0wdmxDbElDTjdPNEtxdjdXVGRDR2E0bG52SGFrbnVZMVphTzFvQ25PajF5M25ONkp4WUdva3ltZzJmazNRQkhrWTBYSVVHX0ZPUHExVElNd2J0bUZ5cEZEV1lDQXRUeE9WY09FRnZyQ1lsNXVoUDFlRzZqNWwtcmR1QXBlOXlV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWV4QWE3czN5WTJlR01TUXZmX2xPYlVLcGpuLUg4TWVHUDhaMXlTYW1URE56Uk9vc1hZS0NKWTUyT1F6d1I0LVI3YkRwa2RDeDk0VDNhaUFXOEJEdWNTNHV1LXRKazJsRnFJTzRMaHlKS1B6amVXRjA2N3UwMnhaa3RwMGRNeXVidTNQQUFmOXVHVWFXZ0JnbUpoV1dScWFrNEd3ekp3U0xqYjJYaTRZNjFONnU5ZW80QndRdnJRLUtuOC1vczBnbU1QNzg4YS1MQkloLTN6c9IB3AFBVV95cUxQRVpidzlfNzdrWkN2M2NISS1RdlBtQTZfdGRGSmJhU3dWVXBBNXptOWdNY1JTSk9Fb29pQTdJREZlS3ZoOUNaUlhDYU1BSC1qbEV3SjNZRExfVnNpSi0wdmxDbElDTjdPNEtxdjdXVGRDR2E0bG52SGFrbnVZMVphTzFvQ25PajF5M25ONkp4WUdva3ltZzJmazNRQkhrWTBYSVVHX0ZPUHExVElNd2J0bUZ5cEZEV1lDQXRUeE9WY09FRnZyQ1lsNXVoUDFlRzZqNWwtcmR1QXBlOXlV?oc=5\" target=\"_blank\">Microsoft warns H-1B employees to avoid travel amid rescheduling chaos in India | Trending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
-      "published": "2025-12-22T03:01:12+00:00",
-      "source": "Hindustan Times"
-    },
-    {
-      "title": "'LeBron James of spreadsheets' wins world Microsoft Excel title - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ROUZNSUhhNXBQN0FELXhEWElrbm5yeEdtcDBZRGVsb1RUVDlnSGVoM1JDRzhfQUs1Rkxwd3FyakRqR0hZY3U4RE1udHVZREZvUmNOMXlDS0xUUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ROUZNSUhhNXBQN0FELXhEWElrbm5yeEdtcDBZRGVsb1RUVDlnSGVoM1JDRzhfQUs1Rkxwd3FyakRqR0hZY3U4RE1udHVZREZvUmNOMXlDS0xUUQ?oc=5\" target=\"_blank\">'LeBron James of spreadsheets' wins world Microsoft Excel title</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2025-12-20T03:11:56+00:00",
-      "source": "BBC"
     }
   ],
   "product_launches": [
+    {
+      "title": "Microsoft's unified Office app launches on iOS and yes, it has dark mode - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5\" target=\"_blank\">Microsoft's unified Office app launches on iOS and yes, it has dark mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-12-21T23:00:00+00:00",
+      "source": "Mashable"
+    },
     {
       "title": "Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5",
@@ -77,13 +84,6 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft launches new AI avatar - The Arkansas Democrat-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lyaGs0Z3JNdUZucXJXM1ZabXh0N0pkUTVMWVF3SXRlRXNmNXdZdG5oN2VVUVM0WkVGWGlYSEd3dDJTaHlJNERiX0lfS0JoWmNhVk5mbnFjVkpKajh3NWtHT0xjNVA4NmxCS2hxUmIwSU11VlJpZGRQazdCczRtSE11OVlUaTZU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2lyaGs0Z3JNdUZucXJXM1ZabXh0N0pkUTVMWVF3SXRlRXNmNXdZdG5oN2VVUVM0WkVGWGlYSEd3dDJTaHlJNERiX0lfS0JoWmNhVk5mbnFjVkpKajh3NWtHT0xjNVA4NmxCS2hxUmIwSU11VlJpZGRQazdCczRtSE11OVlUaTZU?oc=5\" target=\"_blank\">Microsoft launches new AI avatar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
-      "published": "2025-10-26T07:00:00+00:00",
-      "source": "The Arkansas Democrat-Gazette"
-    },
-    {
       "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
@@ -91,25 +91,21 @@
       "source": "The Verge"
     },
     {
-      "title": "Microsoft launches Discovery platform at NJ AI Hub - NJBIZ",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5\" target=\"_blank\">Microsoft launches Discovery platform at NJ AI Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJBIZ</font>",
-      "published": "2025-10-30T07:00:00+00:00",
-      "source": "NJBIZ"
+      "title": "Microsoft Ads launches Supplemental Feeds to streamline product updates - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzFiU3NRaTkxWWZ4S0RjWWwzLW9ENHlrYnJPeGwxdkFSOFBWRU5nUHBvVG5BbnBpZzJaWkpVQW82cGptOFZ4Ql8wVWF2MWdnVWx4Uk5IaFdPMWJ4UkpNUjM0VnYzZU0xZjFISjk4U0dJSmFuVVJwNUdISkk5b0l1OUtxc2FESFFZUzJVdU5iMEhjTFJicjJFeFpTbmdxZVpmdzRSQVp6N0pYYlk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzFiU3NRaTkxWWZ4S0RjWWwzLW9ENHlrYnJPeGwxdkFSOFBWRU5nUHBvVG5BbnBpZzJaWkpVQW82cGptOFZ4Ql8wVWF2MWdnVWx4Uk5IaFdPMWJ4UkpNUjM0VnYzZU0xZjFISjk4U0dJSmFuVVJwNUdISkk5b0l1OUtxc2FESFFZUzJVdU5iMEhjTFJicjJFeFpTbmdxZVpmdzRSQVp6N0pYYlk?oc=5\" target=\"_blank\">Microsoft Ads launches Supplemental Feeds to streamline product updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Land</font>",
+      "published": "2025-09-19T07:00:00+00:00",
+      "source": "Search Engine Land"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-19",
-      "close": 485.9200134277344
+      "date": "2025-12-22",
+      "close": 484.9200134277344
     },
     "history": [
-      {
-        "date": "2025-12-11",
-        "close": 483.4700012207031
-      },
       {
         "date": "2025-12-12",
         "close": 478.5299987792969
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-19",
         "close": 485.9200134277344
+      },
+      {
+        "date": "2025-12-22",
+        "close": 484.9200134277344
       }
     ],
     "name": "Microsoft Corporation"
