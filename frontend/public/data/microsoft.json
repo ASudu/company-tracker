@@ -2,54 +2,19 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-24T12:24:34.331702+00:00",
+  "fetched_at": "2025-12-25T12:24:07.282260+00:00",
   "news": [
     {
-      "title": "Microsoft to Replace All C/C++ Code With Rust by 2030 - Thurrott.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5\" target=\"_blank\">Microsoft to Replace All C/C++ Code With Rust by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thurrott.com</font>",
-      "published": "2025-12-22T19:49:08+00:00",
-      "source": "Thurrott.com"
-    },
-    {
-      "title": "Microsoft building team to eliminate C and C++, translate code to Rust using AI, as Windows 11 adopts Rust - Windows Latest",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazcwSGI3OXlUOEI3aGo4T0pjME5aQ2w3b3hQbGVLdjlZekYyaTVWWlZ3RGVlNHRWLVpZSy1DakpwdXZjeTl1ZG9wcnlFb1p6T09Qa1VFMF9kc1d2cGtwYU9EQkk1SkozaE8zbnJtaGFoZ0ZZUUU0X0JNWkhHUGdKcmpWcDRkSUlKYmRLd0pabnVGWU9LaGowWUppMnVaN0t2bUw4MDJEYmhNQlVFWmxrZlJWUTc2MGRBNHVnem9lN1ZacVpnZjBFbnEwN2dXMTZfbWdwazZMakJpYU1tREp4QnhGbk5SV0JxeVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazcwSGI3OXlUOEI3aGo4T0pjME5aQ2w3b3hQbGVLdjlZekYyaTVWWlZ3RGVlNHRWLVpZSy1DakpwdXZjeTl1ZG9wcnlFb1p6T09Qa1VFMF9kc1d2cGtwYU9EQkk1SkozaE8zbnJtaGFoZ0ZZUUU0X0JNWkhHUGdKcmpWcDRkSUlKYmRLd0pabnVGWU9LaGowWUppMnVaN0t2bUw4MDJEYmhNQlVFWmxrZlJWUTc2MGRBNHVnem9lN1ZacVpnZjBFbnEwN2dXMTZfbWdwazZMakJpYU1tREp4QnhGbk5SV0JxeVE?oc=5\" target=\"_blank\">Microsoft building team to eliminate C and C++, translate code to Rust using AI, as Windows 11 adopts Rust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
-      "published": "2025-12-23T22:05:36+00:00",
-      "source": "Windows Latest"
-    },
-    {
-      "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - theregister.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaWVBLc2VlSWRpWklsNHd1Umx1c3F5WTRhQmJremNac1dFc25XNDdTWUpndXNZaGpWR0RjTkxVS3hKTHl2bXBCVkFneE9WVjRyNnZCYXc3Yk5wQThreHcyVEFQMTRuNG9QQ2lSNVNJOEg1TnR1eEhhaUZfeWdRQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBaWVBLc2VlSWRpWklsNHd1Umx1c3F5WTRhQmJremNac1dFc25XNDdTWUpndXNZaGpWR0RjTkxVS3hKTHl2bXBCVkFneE9WVjRyNnZCYXc3Yk5wQThreHcyVEFQMTRuNG9QQ2lSNVNJOEg1TnR1eEhhaUZfeWdRQQ?oc=5\" target=\"_blank\">Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
-      "published": "2025-12-24T03:39:00+00:00",
-      "source": "theregister.com"
-    },
-    {
-      "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11 - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0dlazZfSzhBVmEzMHE1UHdUMDM4eGQ5SnFMQTlaSEQ3Njg1bm1KLU10RFJTSWMwQlJUSV9wUVlEeW1JQUhlSHRLRWIxYWlhMDlGWWRVZkl0Wm9pY0Y0TXZHOTZRc1I5bEtWa2tOck1RUzVVQzVINTN2YzJCZlRsVjV3MFBHUm9rQTlDaVM0OWdLQXR5N1hmUmY3VGZMbmtFMzR6RWlEREVhR1pSd0I4NjJR0gG3AUFVX3lxTE1nVUZwdGp2dXlwSHM5WFdvN1pnaWRDN2hrSC01cHZFOUxBYzZyWWRDWTdhY1ItRi10RTcxdk9DeWFlQ1pxR3NDRDZ0X2tRQVZPRlFzZl82eWdDZG5QdGhpaWowaU5fdnJNTHl4aEp5U3VkVjF0UUl4SXh6Q1dmZE1tYzBvUFlRNVpjUklVc3Z6elp1ay1pNTBMZEpZZFdrNFltOXpXWmVSY3ZQM1liems0RTdBdG5Haw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0dlazZfSzhBVmEzMHE1UHdUMDM4eGQ5SnFMQTlaSEQ3Njg1bm1KLU10RFJTSWMwQlJUSV9wUVlEeW1JQUhlSHRLRWIxYWlhMDlGWWRVZkl0Wm9pY0Y0TXZHOTZRc1I5bEtWa2tOck1RUzVVQzVINTN2YzJCZlRsVjV3MFBHUm9rQTlDaVM0OWdLQXR5N1hmUmY3VGZMbmtFMzR6RWlEREVhR1pSd0I4NjJR0gG3AUFVX3lxTE1nVUZwdGp2dXlwSHM5WFdvN1pnaWRDN2hrSC01cHZFOUxBYzZyWWRDWTdhY1ItRi10RTcxdk9DeWFlQ1pxR3NDRDZ0X2tRQVZPRlFzZl82eWdDZG5QdGhpaWowaU5fdnJNTHl4aEp5U3VkVjF0UUl4SXh6Q1dmZE1tYzBvUFlRNVpjUklVc3Z6elp1ay1pNTBMZEpZZFdrNFltOXpXWmVSY3ZQM1liems0RTdBdG5Haw?oc=5\" target=\"_blank\">Microsoft rolls out hardware-accelerated BitLocker in Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-12-23T20:03:34+00:00",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft sends more than 600 word advisory on H-1B/H-4 visas to employees; says: Return before your .... - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTJIbXdreVl2VnhYQ09Ndkp1bXNtTWxiSlQtYl8yTTgzd05HbUhWWld6dm9UelRpaFd5STlROU5Ic1g5M1ZFeU9wRmNVbHJLWTJpOTZ4QjUyOTVrQnlkSW1YV1lIY1Q4V09aaGtFNndqSFpsTF85b2YxUmZsQndHd1dMLWhCNmJvZHVraURleHdsenh6ZUhhVkNURHR1UFpzZ0YwUXdiOG9GQjF2U2Z5RkVwY0FsMG9yM29HVUxiUFBCOGZrWmQ5Ml93YzFLVWZZTG93M1BmRnZMR3QxcWNVdUxLQzEzNWx6QmNrODZWOHZ1akkxcjR3Unh0RHFrbFl0ei1Ga2ExRjl5RUhseUJv0gGUAkFVX3lxTE85RjZQc2RFNDhlS1RRRUFjUjdQS1JpRTFDMXNkbWszN1ZnTllYOVV5aXZZSUo2RUxCbkFiZnBKNTAzOXVzcWk0ekVqWXhyVm5QcHlJT3B0QWNtcG1nOHVjTklCcUJzaklqLXJOZTJSM3BXYUlyVWxvcF9zaFpNc1QtVUpRZHluOEl2cXl1QjhSOW9jQlAtbmxFeXFlOXl0UTFZLUVvNlRJV0k4Q1BMWUszS3NaYTQ4VFAyUnFGQ09RSDE3VmxWZkE0NFc3dzJzNVhtYmg4RnJBOHliUjlMRTJhQ2plb3hQekRKMXZnUjBrcVRwTUJ2NG1XZ2FyQ3VRdm1idHpucjg3eENoOTRwSzVtZWUxZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTJIbXdreVl2VnhYQ09Ndkp1bXNtTWxiSlQtYl8yTTgzd05HbUhWWld6dm9UelRpaFd5STlROU5Ic1g5M1ZFeU9wRmNVbHJLWTJpOTZ4QjUyOTVrQnlkSW1YV1lIY1Q4V09aaGtFNndqSFpsTF85b2YxUmZsQndHd1dMLWhCNmJvZHVraURleHdsenh6ZUhhVkNURHR1UFpzZ0YwUXdiOG9GQjF2U2Z5RkVwY0FsMG9yM29HVUxiUFBCOGZrWmQ5Ml93YzFLVWZZTG93M1BmRnZMR3QxcWNVdUxLQzEzNWx6QmNrODZWOHZ1akkxcjR3Unh0RHFrbFl0ei1Ga2ExRjl5RUhseUJv0gGUAkFVX3lxTE85RjZQc2RFNDhlS1RRRUFjUjdQS1JpRTFDMXNkbWszN1ZnTllYOVV5aXZZSUo2RUxCbkFiZnBKNTAzOXVzcWk0ekVqWXhyVm5QcHlJT3B0QWNtcG1nOHVjTklCcUJzaklqLXJOZTJSM3BXYUlyVWxvcF9zaFpNc1QtVUpRZHluOEl2cXl1QjhSOW9jQlAtbmxFeXFlOXl0UTFZLUVvNlRJV0k4Q1BMWUszS3NaYTQ4VFAyUnFGQ09RSDE3VmxWZkE0NFc3dzJzNVhtYmg4RnJBOHliUjlMRTJhQ2plb3hQekRKMXZnUjBrcVRwTUJ2NG1XZ2FyQ3VRdm1idHpucjg3eENoOTRwSzVtZWUxZA?oc=5\" target=\"_blank\">Microsoft sends more than 600 word advisory on H-1B/H-4 visas to employees; says: Return before your ....</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2025-12-23T13:12:00+00:00",
-      "source": "Times of India"
-    },
-    {
-      "title": "Microsoft, Salesforce Lead Evercore's 2026 Picks - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmtaTUkzQUNOaHdjd1hjZ193OWV4b2tkVzJmMFROUHhiNm4xZ19PcEdhQzFpY3pjUjBQajdMd255bVJVNmJFMk1sOVp6ajZCTEMtSTVOT0lIbzFJOHkwUWNpN01KbU15U25aSExuckI1cURqSlB6eUNlaENfclIxeWtIRGhOVWF6dmF4TUVQSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmtaTUkzQUNOaHdjd1hjZ193OWV4b2tkVzJmMFROUHhiNm4xZ19PcEdhQzFpY3pjUjBQajdMd255bVJVNmJFMk1sOVp6ajZCTEMtSTVOT0lIbzFJOHkwUWNpN01KbU15U25aSExuckI1cURqSlB6eUNlaENfclIxeWtIRGhOVWF6dmF4TUVQSQ?oc=5\" target=\"_blank\">Microsoft, Salesforce Lead Evercore's 2026 Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-12-23T17:46:29+00:00",
-      "source": "Yahoo Finance"
+      "title": "Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlBLeXNEZ3N6cE41bU1QbmVnZnFaZDdFNlgxYWJ3YWxNaVhjanBmRTdYcDQ3T01QXzJiVE5HVDVyTTNURG52MHFQYkZnNUJrOTBxQzhIM1J4SHBDbms0MzhnYndRN0t5ek1oVkhXRnhOQTllbkRTTWFmX3dlRnBqWk9IUzNTbVJy?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlBLeXNEZ3N6cE41bU1QbmVnZnFaZDdFNlgxYWJ3YWxNaVhjanBmRTdYcDQ3T01QXzJiVE5HVDVyTTNURG52MHFQYkZnNUJrOTBxQzhIM1J4SHBDbms0MzhnYndRN0t5ek1oVkhXRnhOQTllbkRTTWFmX3dlRnBqWk9IUzNTbVJy?oc=5\" target=\"_blank\">Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "published": "2025-12-24T19:15:00+00:00",
+      "source": "Investor's Business Daily"
     },
     {
       "title": "Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNYkQtQ2lpcHdObjRZMW5TdTZuVmk0blVVLXE0WUxUNUUyclRCLTdxb1ZTR3JOajkzQndFVzJIUUU5TUlWMWE4Nkd6c2tIVlRJbVJiRExRVk04X0paSHp2aVBQcGIzZ1UtRzk5dUpPdlZIWUxNS09GRDYtMVIySGVkRzd6aHVwVV90ZE9rOTVyZTRRSzNGTTZnZXQ5Q0JIVGt0Q2RRTnU1eFdZUDFRaF8xR3g4b1FQUkwzNGJMSkNpXzBSZ3k0M0VEb2dJR0V6ZUlJVExlQlBOVTY5STBzTDJ3dF9YWlNDU2Q4T29BUDd3SncxS0M5Q2NUdWo4VGhuVm52ZHVIZTNxbTktQkotWUFKQUdCZTR5VzFrXzVnUG1GYnNpY1pxS1NDQXc2ZHRJNkNrRGk1a1h3S0xTMlhUbU1SMjQxTVVTeVNkNHNDaERlOXFtc1hLejRXTVFSNlR6SkN0LWVOclByREpEQ3pYbnk4blV4aGlad0dfNlVnYmVURUI5QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxNYkQtQ2lpcHdObjRZMW5TdTZuVmk0blVVLXE0WUxUNUUyclRCLTdxb1ZTR3JOajkzQndFVzJIUUU5TUlWMWE4Nkd6c2tIVlRJbVJiRExRVk04X0paSHp2aVBQcGIzZ1UtRzk5dUpPdlZIWUxNS09GRDYtMVIySGVkRzd6aHVwVV90ZE9rOTVyZTRRSzNGTTZnZXQ5Q0JIVGt0Q2RRTnU1eFdZUDFRaF8xR3g4b1FQUkwzNGJMSkNpXzBSZ3k0M0VEb2dJR0V6ZUlJVExlQlBOVTY5STBzTDJ3dF9YWlNDU2Q4T29BUDd3SncxS0M5Q2NUdWo4VGhuVm52ZHVIZTNxbTktQkotWUFKQUdCZTR5VzFrXzVnUG1GYnNpY1pxS1NDQXc2ZHRJNkNrRGk1a1h3S0xTMlhUbU1SMjQxTVVTeVNkNHNDaERlOXFtc1hLejRXTVFSNlR6SkN0LWVOclByREpEQ3pYbnk4blV4aGlad0dfNlVnYmVURUI5QQ?oc=5\" target=\"_blank\">Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQYlVHWmI2NXFrcDEwYUlpbFllb01CeHZYRG1UUWl3dmpqSFZUN3BNdTB5dXZZU0k1X2V3bmhKRV84R0RDb0tXdUtJZDFWY2VxdnNaU2ZfMVpWTW14dmlzY0VxSHBmQXNIZzROalh1WVE4S0sxamZrcFpWaVBENjVaMUd5Y0xDQUdoazBjYmdlZWF0X0xjenRzYjBOazRDbEd2QklGYnFfT1ZTTng2dUFzbnV1ZllZTmN4S05GanlYZk5sOFpNQmY4c012MVZtak1aemVKdjFVcnk4TWNBZU5kSE1yajc1dVF5ekJNQlNIbzVjdUlKQWs5WnV2SXd0bExueE1ld0x3dVRtVl9XaFNLaGxyMDZIMHM5R3R5LTI2YjZIUDlOQ01pSER1Nkk4WHpxSXRtTmFCNFZDeTdydnpGaktvc3RndWk0SUV3MGluVHJxbU1iX21FRGMwX3hhMTZXcGlzOTZBem1ndURTUEV6a1BZcjhrZGxIT0lvWUQ4ZUFsZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxQYlVHWmI2NXFrcDEwYUlpbFllb01CeHZYRG1UUWl3dmpqSFZUN3BNdTB5dXZZU0k1X2V3bmhKRV84R0RDb0tXdUtJZDFWY2VxdnNaU2ZfMVpWTW14dmlzY0VxSHBmQXNIZzROalh1WVE4S0sxamZrcFpWaVBENjVaMUd5Y0xDQUdoazBjYmdlZWF0X0xjenRzYjBOazRDbEd2QklGYnFfT1ZTTng2dUFzbnV1ZllZTmN4S05GanlYZk5sOFpNQmY4c012MVZtak1aemVKdjFVcnk4TWNBZU5kSE1yajc1dVF5ekJNQlNIbzVjdUlKQWs5WnV2SXd0bExueE1ld0x3dVRtVl9XaFNLaGxyMDZIMHM5R3R5LTI2YjZIUDlOQ01pSER1Nkk4WHpxSXRtTmFCNFZDeTdydnpGaktvc3RndWk0SUV3MGluVHJxbU1iX21FRGMwX3hhMTZXcGlzOTZBem1ndURTUEV6a1BZcjhrZGxIT0lvWUQ4ZUFsZw?oc=5\" target=\"_blank\">Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
       "published": "2025-12-22T14:33:00+00:00",
       "source": "Barron's"
     },
@@ -59,14 +24,56 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVU5N0syYTFrMWpFb1llcG1FbDZDUVhTNy0tS25OcElrUGlpU3g5ZTlsTV9KRXVOSmtBN2xIb3NORHZoUllMR05nd01pSUdNVHRyLUtJT0FQQVZXUGVMRXY3WFhCY3k0RFlwaDVTUkpsT2pCOEstYXJmclN1RTdEdGtWaUFvVEJMOWx5TldrT0ZXWGhi?oc=5\" target=\"_blank\">‘Too Much of a Good Thing,’ Says Investor About Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
       "published": "2025-12-24T10:29:46+00:00",
       "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft is not rewriting Windows in Rust - InfoWorld",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFE4WnFhX0hSbW56TU1FTEZnLWlWdTZYVDF6dmpiQ2lMTHJEUmRicml4QmpCR210LUJKZHFFS09LYks1NVBhQi1XTzQ0Q2MwNHh2Q3F2aGNTTHRRUHczM1BJUjlCS0l4NTFRaDUzOHpLX0l2LUlySUJIVzJRYTduX2JPT2JlZjk5MWxSOFlrTzMweWc?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFE4WnFhX0hSbW56TU1FTEZnLWlWdTZYVDF6dmpiQ2lMTHJEUmRicml4QmpCR210LUJKZHFFS09LYks1NVBhQi1XTzQ0Q2MwNHh2Q3F2aGNTTHRRUHczM1BJUjlCS0l4NTFRaDUzOHpLX0l2LUlySUJIVzJRYTduX2JPT2JlZjk5MWxSOFlrTzMweWc?oc=5\" target=\"_blank\">Microsoft is not rewriting Windows in Rust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoWorld</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5\" target=\"_blank\">Microsoft to Replace All C/C++ Code With Rust by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thurrott.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUk1cHQ5VHRSbk02X0xjS0w0OFB2dm9fOThfVWZsb1pEcldibnFRZzNFeTZES1FaX05LYXpyNHpTTDBCSDUxeGxyRHpNTGlZenNkY3Zlcmo1QUpPd1hOYXpSUDdQWE5xRFVubHRUNm9LUkFBMzVveTBDa05nZTdwMUtyaEhQRjRTcE9fck5wMm54Sjl3bGNtcGxjbnptTDVPRlZyTkZtWUk3LWdGRUNLaWZaX193czF6NloxMDgyMjdYeGlXYXpQOHR2YjNEUFJUUVZHaDlwQjNNMXlubXB2MEdZR3ZZdTlqYWpzZ1d2UE5GT1R1NEgtaExzcmR1UmVOVmlCakV3MlhEZm8?oc=5\" target=\"_blank\">Microsoft denies rewriting Windows 11 using AI after an employee's \"one engineer, one month, one million code\" post on LinkedIn causes outrage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font></li></ol>",
+      "published": "2025-12-24T15:16:35+00:00",
+      "source": "InfoWorld"
+    },
+    {
+      "title": "There’s no need to settle for limited free apps when MS Office is just $20 - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnNfNHVzZ1JkcWFSMnpuQkQxNkRvd1djT0VRc2UxenRnMWdjcFJEcXkyMV83dF9XeFRmSjBFLTUzTXVvNEE3YWFJa05CM1FJcGV1Ykg1a2lydXFzZkJMbGktNExnOEV1dkNZeDh0MjZfYzVhaEREcTcyVncyVXhSWEZLMWkzN2ZjaC1Z?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnNfNHVzZ1JkcWFSMnpuQkQxNkRvd1djT0VRc2UxenRnMWdjcFJEcXkyMV83dF9XeFRmSjBFLTUzTXVvNEE3YWFJa05CM1FJcGV1Ykg1a2lydXFzZkJMbGktNExnOEV1dkNZeDh0MjZfYzVhaEREcTcyVncyVXhSWEZLMWkzN2ZjaC1Z?oc=5\" target=\"_blank\">There’s no need to settle for limited free apps when MS Office is just $20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
+      "published": "2025-12-24T20:36:02+00:00",
+      "source": "SFGATE"
+    },
+    {
+      "title": "Nadella Takes Direct Control of Microsoft AI - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVJXVlZ3Yjk4ekdSR1pTNkJ2aGNxdUJZU19jNTJfWUs2bnlKc2pCM1hyRkkxWUl4Q0RpeDBnNmVWNERtcWdPQW5ZUHhOYjRQQTZEQUNBYjhoa1NnVk9INmRmY0EzOWM5RC1aTlJWTXJEZEp6Q2pGWFRscXhtVnU4dkZDbk4yc2FrbHJ4Wg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVJXVlZ3Yjk4ekdSR1pTNkJ2aGNxdUJZU19jNTJfWUs2bnlKc2pCM1hyRkkxWUl4Q0RpeDBnNmVWNERtcWdPQW5ZUHhOYjRQQTZEQUNBYjhoa1NnVk9INmRmY0EzOWM5RC1aTlJWTXJEZEp6Q2pGWFRscXhtVnU4dkZDbk4yc2FrbHJ4Wg?oc=5\" target=\"_blank\">Nadella Takes Direct Control of Microsoft AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-12-24T13:39:55+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft sends more than 600 word advisory on H-1B/H-4 visas to employees; says: Return before your .... - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTJIbXdreVl2VnhYQ09Ndkp1bXNtTWxiSlQtYl8yTTgzd05HbUhWWld6dm9UelRpaFd5STlROU5Ic1g5M1ZFeU9wRmNVbHJLWTJpOTZ4QjUyOTVrQnlkSW1YV1lIY1Q4V09aaGtFNndqSFpsTF85b2YxUmZsQndHd1dMLWhCNmJvZHVraURleHdsenh6ZUhhVkNURHR1UFpzZ0YwUXdiOG9GQjF2U2Z5RkVwY0FsMG9yM29HVUxiUFBCOGZrWmQ5Ml93YzFLVWZZTG93M1BmRnZMR3QxcWNVdUxLQzEzNWx6QmNrODZWOHZ1akkxcjR3Unh0RHFrbFl0ei1Ga2ExRjl5RUhseUJv0gGUAkFVX3lxTE85RjZQc2RFNDhlS1RRRUFjUjdQS1JpRTFDMXNkbWszN1ZnTllYOVV5aXZZSUo2RUxCbkFiZnBKNTAzOXVzcWk0ekVqWXhyVm5QcHlJT3B0QWNtcG1nOHVjTklCcUJzaklqLXJOZTJSM3BXYUlyVWxvcF9zaFpNc1QtVUpRZHluOEl2cXl1QjhSOW9jQlAtbmxFeXFlOXl0UTFZLUVvNlRJV0k4Q1BMWUszS3NaYTQ4VFAyUnFGQ09RSDE3VmxWZkE0NFc3dzJzNVhtYmg4RnJBOHliUjlMRTJhQ2plb3hQekRKMXZnUjBrcVRwTUJ2NG1XZ2FyQ3VRdm1idHpucjg3eENoOTRwSzVtZWUxZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTJIbXdreVl2VnhYQ09Ndkp1bXNtTWxiSlQtYl8yTTgzd05HbUhWWld6dm9UelRpaFd5STlROU5Ic1g5M1ZFeU9wRmNVbHJLWTJpOTZ4QjUyOTVrQnlkSW1YV1lIY1Q4V09aaGtFNndqSFpsTF85b2YxUmZsQndHd1dMLWhCNmJvZHVraURleHdsenh6ZUhhVkNURHR1UFpzZ0YwUXdiOG9GQjF2U2Z5RkVwY0FsMG9yM29HVUxiUFBCOGZrWmQ5Ml93YzFLVWZZTG93M1BmRnZMR3QxcWNVdUxLQzEzNWx6QmNrODZWOHZ1akkxcjR3Unh0RHFrbFl0ei1Ga2ExRjl5RUhseUJv0gGUAkFVX3lxTE85RjZQc2RFNDhlS1RRRUFjUjdQS1JpRTFDMXNkbWszN1ZnTllYOVV5aXZZSUo2RUxCbkFiZnBKNTAzOXVzcWk0ekVqWXhyVm5QcHlJT3B0QWNtcG1nOHVjTklCcUJzaklqLXJOZTJSM3BXYUlyVWxvcF9zaFpNc1QtVUpRZHluOEl2cXl1QjhSOW9jQlAtbmxFeXFlOXl0UTFZLUVvNlRJV0k4Q1BMWUszS3NaYTQ4VFAyUnFGQ09RSDE3VmxWZkE0NFc3dzJzNVhtYmg4RnJBOHliUjlMRTJhQ2plb3hQekRKMXZnUjBrcVRwTUJ2NG1XZ2FyQ3VRdm1idHpucjg3eENoOTRwSzVtZWUxZA?oc=5\" target=\"_blank\">Microsoft sends more than 600 word advisory on H-1B/H-4 visas to employees; says: Return before your ....</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2025-12-23T13:12:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Microsoft Teams to let admins block external users via Defender portal - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVFfVzdJMlJpUXhvRm5QejYzaTBiVW5YY2xWUEhsX1pXRDNGcmVpc2Etc0R4M1ZEcm1QVnNJOFVzX1Q5dEE5VDRrOUNUVE5SRWF1c2pvM2ZGRFFsNEt0VWZhOXhPRExwMk9pWVpHNVdCWDVabGwwbVRnbzFpM2h1QUJlazc5M1VkcTJlSjVIbGM1NzJMaWJENDVLc2ZIWS1yY1ZhZWR3VF9OcndiVVFQZ2daSGtPWm9NSE9v0gHAAUFVX3lxTE4zZXJJNE5vNFlfd3JaQWY5QUR2cll5eW9fLXdiUFZYWXVneHpJT1ZTRm03bHF1eWVTZDltcHY5WUFxaEc5YjNPMkRrbnFvTlBGLW5waFlsMl9wbF9ZT19YakwxcTkwdTlqUHFFMzA3bVRGY1lNMm5kaTVVeFItTlk2ai1MS2ZVeGJIUHdtOWhqVmJ4MjlpVmhfRkNFN0dSeFVQRGNFWmtzN2ZPZUIzOHFnT2xxdF8wcVl6TlllN3BNSA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVFfVzdJMlJpUXhvRm5QejYzaTBiVW5YY2xWUEhsX1pXRDNGcmVpc2Etc0R4M1ZEcm1QVnNJOFVzX1Q5dEE5VDRrOUNUVE5SRWF1c2pvM2ZGRFFsNEt0VWZhOXhPRExwMk9pWVpHNVdCWDVabGwwbVRnbzFpM2h1QUJlazc5M1VkcTJlSjVIbGM1NzJMaWJENDVLc2ZIWS1yY1ZhZWR3VF9OcndiVVFQZ2daSGtPWm9NSE9v0gHAAUFVX3lxTE4zZXJJNE5vNFlfd3JaQWY5QUR2cll5eW9fLXdiUFZYWXVneHpJT1ZTRm03bHF1eWVTZDltcHY5WUFxaEc5YjNPMkRrbnFvTlBGLW5waFlsMl9wbF9ZT19YakwxcTkwdTlqUHFFMzA3bVRGY1lNMm5kaTVVeFItTlk2ai1MS2ZVeGJIUHdtOWhqVmJ4MjlpVmhfRkNFN0dSeFVQRGNFWmtzN2ZPZUIzOHFnT2xxdF8wcVl6TlllN3BNSA?oc=5\" target=\"_blank\">Microsoft Teams to let admins block external users via Defender portal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2025-12-24T16:22:44+00:00",
+      "source": "BleepingComputer"
     }
   ],
   "product_launches": [
     {
+      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-04-30T07:00:00+00:00",
+      "source": "Microsoft"
+    },
+    {
       "title": "Microsoft's unified Office app launches on iOS and yes, it has dark mode - Mashable",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yN1NGa1h0YkFVLTZlRlAxMThhckJnZjBocnlWZEtxaXAzRFlIc0NsS3N3bldhQV9HTUdfOEVPb3NwMW5qSzhCZm9Ud2p1aFNKU2pUQnpNZS1TX2tSa1JLbXd5Yw?oc=5\" target=\"_blank\">Microsoft's unified Office app launches on iOS and yes, it has dark mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-12-21T23:00:00+00:00",
+      "published": "2025-12-23T20:58:14+00:00",
       "source": "Mashable"
     },
     {
@@ -77,39 +84,28 @@
       "source": "Microsoft"
     },
     {
-      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-04-30T07:00:00+00:00",
-      "source": "Microsoft"
-    },
-    {
-      "title": "Microsoft launches AI and productivity software bundle for consumers - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG9zTnB1TmVZYk9obnZLOUhtS1VkTmRKbS1vR0lpMHh3aU5CUU1ZNUc0S1NScHB6d29ReVpPN1ZVU0FXRUFkZ3VBcDZGbU9YWXBBZWZxbnZHRjZRUHV2TEZjSDZDaGN6NEVIWjNkNzBOdk9wQ2JlSTZMcXQtNzZjdW1R0gGHAUFVX3lxTE1xU2E0YkYzZmZ0cGpJNTQtUnJyamRLSFl4S3NfZkllaHR3T1BSX2c4Q0dONHM1b2hHS2c3WHhDODRzd1BHUXpsOFZQS1JPNnV5TmZaVmo2REplUzVmVUhKY3JZcmlIMktLNDN6WnItYVdJUFpqYkV3Ulk5RVJhd1U3dzRXb29qRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG9zTnB1TmVZYk9obnZLOUhtS1VkTmRKbS1vR0lpMHh3aU5CUU1ZNUc0S1NScHB6d29ReVpPN1ZVU0FXRUFkZ3VBcDZGbU9YWXBBZWZxbnZHRjZRUHV2TEZjSDZDaGN6NEVIWjNkNzBOdk9wQ2JlSTZMcXQtNzZjdW1R0gGHAUFVX3lxTE1xU2E0YkYzZmZ0cGpJNTQtUnJyamRLSFl4S3NfZkllaHR3T1BSX2c4Q0dONHM1b2hHS2c3WHhDODRzd1BHUXpsOFZQS1JPNnV5TmZaVmo2REplUzVmVUhKY3JZcmlIMktLNDN6WnItYVdJUFpqYkV3Ulk5RVJhd1U3dzRXb29qRQ?oc=5\" target=\"_blank\">Microsoft launches AI and productivity software bundle for consumers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-10-01T07:00:00+00:00",
-      "source": "CNBC"
-    },
-    {
       "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2025-09-29T07:00:00+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Microsoft launches Discovery platform at NJ AI Hub - NJBIZ",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5\" target=\"_blank\">Microsoft launches Discovery platform at NJ AI Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJBIZ</font>",
+      "published": "2025-10-30T07:00:00+00:00",
+      "source": "NJBIZ"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2025-12-23",
-      "close": 486.8500061035156
+      "date": "2025-12-24",
+      "close": 488.0199890136719
     },
     "history": [
-      {
-        "date": "2025-12-15",
-        "close": 474.82000732421875
-      },
       {
         "date": "2025-12-16",
         "close": 476.3900146484375
@@ -133,6 +129,10 @@
       {
         "date": "2025-12-23",
         "close": 486.8500061035156
+      },
+      {
+        "date": "2025-12-24",
+        "close": 488.0199890136719
       }
     ],
     "name": "Microsoft Corporation"
