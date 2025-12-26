@@ -2,8 +2,43 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2025-12-25T12:24:07.282260+00:00",
+  "fetched_at": "2025-12-26T12:23:59.020270+00:00",
   "news": [
+    {
+      "title": "Microsoft is not rewriting Windows in Rust - InfoWorld",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFE4WnFhX0hSbW56TU1FTEZnLWlWdTZYVDF6dmpiQ2lMTHJEUmRicml4QmpCR210LUJKZHFFS09LYks1NVBhQi1XTzQ0Q2MwNHh2Q3F2aGNTTHRRUHczM1BJUjlCS0l4NTFRaDUzOHpLX0l2LUlySUJIVzJRYTduX2JPT2JlZjk5MWxSOFlrTzMweWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFE4WnFhX0hSbW56TU1FTEZnLWlWdTZYVDF6dmpiQ2lMTHJEUmRicml4QmpCR210LUJKZHFFS09LYks1NVBhQi1XTzQ0Q2MwNHh2Q3F2aGNTTHRRUHczM1BJUjlCS0l4NTFRaDUzOHpLX0l2LUlySUJIVzJRYTduX2JPT2JlZjk5MWxSOFlrTzMweWc?oc=5\" target=\"_blank\">Microsoft is not rewriting Windows in Rust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoWorld</font>",
+      "published": "2025-12-24T15:16:35+00:00",
+      "source": "InfoWorld"
+    },
+    {
+      "title": "Microsoft to Replace All C/C++ Code With Rust by 2030 - Thurrott.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5\" target=\"_blank\">Microsoft to Replace All C/C++ Code With Rust by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thurrott.com</font>",
+      "published": "2025-12-22T19:49:08+00:00",
+      "source": "Thurrott.com"
+    },
+    {
+      "title": "Microsoft denies rewriting Windows 11 using AI after an employee's \"one engineer, one month, one million code\" post on LinkedIn causes outrage - Windows Latest",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUk1cHQ5VHRSbk02X0xjS0w0OFB2dm9fOThfVWZsb1pEcldibnFRZzNFeTZES1FaX05LYXpyNHpTTDBCSDUxeGxyRHpNTGlZenNkY3Zlcmo1QUpPd1hOYXpSUDdQWE5xRFVubHRUNm9LUkFBMzVveTBDa05nZTdwMUtyaEhQRjRTcE9fck5wMm54Sjl3bGNtcGxjbnptTDVPRlZyTkZtWUk3LWdGRUNLaWZaX193czF6NloxMDgyMjdYeGlXYXpQOHR2YjNEUFJUUVZHaDlwQjNNMXlubXB2MEdZR3ZZdTlqYWpzZ1d2UE5GT1R1NEgtaExzcmR1UmVOVmlCakV3MlhEZm8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUk1cHQ5VHRSbk02X0xjS0w0OFB2dm9fOThfVWZsb1pEcldibnFRZzNFeTZES1FaX05LYXpyNHpTTDBCSDUxeGxyRHpNTGlZenNkY3Zlcmo1QUpPd1hOYXpSUDdQWE5xRFVubHRUNm9LUkFBMzVveTBDa05nZTdwMUtyaEhQRjRTcE9fck5wMm54Sjl3bGNtcGxjbnptTDVPRlZyTkZtWUk3LWdGRUNLaWZaX193czF6NloxMDgyMjdYeGlXYXpQOHR2YjNEUFJUUVZHaDlwQjNNMXlubXB2MEdZR3ZZdTlqYWpzZ1d2UE5GT1R1NEgtaExzcmR1UmVOVmlCakV3MlhEZm8?oc=5\" target=\"_blank\">Microsoft denies rewriting Windows 11 using AI after an employee's \"one engineer, one month, one million code\" post on LinkedIn causes outrage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
+      "published": "2025-12-24T10:26:25+00:00",
+      "source": "Windows Latest"
+    },
+    {
+      "title": "Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSUhqdUlOOFdWZmthQTRmSW9DLWtpUTVNdk10T0hqTy1MZTRXYTF1c0tvXzNxdmJHSmJSMEZ2aTZCdEpnYTRsMVpOWkNfdy1Fa1NpT016ei01M2hUenJwRk1rWUlkeFdoV29GamtuMzhfOE9kMEluUmNLSnpDc1Jqak9LN1JXQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSUhqdUlOOFdWZmthQTRmSW9DLWtpUTVNdk10T0hqTy1MZTRXYTF1c0tvXzNxdmJHSmJSMEZ2aTZCdEpnYTRsMVpOWkNfdy1Fa1NpT016ei01M2hUenJwRk1rWUlkeFdoV29GamtuMzhfOE9kMEluUmNLSnpDc1Jqak9LN1JXQQ?oc=5\" target=\"_blank\">Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-12-24T07:59:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft: The Real AI Winner Hiding In Plain Sight (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGloV2Z5VDZIRnRTNFFDUVV0VXZKeWxFaXNVZmdyWDJxb0x3cjZwQnZPUTFGWWthdXNLSXljSXF5d2Jva2xmcEEtTEcyeVFUX2NPREc2dW5TSWpwMmxOVjNSd09RUWN4OHZ2WmxVNGN2X0RYcmhOVjlvbXlfLXluTUQ3MGlkVDVOLXdUTm9MRDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGloV2Z5VDZIRnRTNFFDUVV0VXZKeWxFaXNVZmdyWDJxb0x3cjZwQnZPUTFGWWthdXNLSXljSXF5d2Jva2xmcEEtTEcyeVFUX2NPREc2dW5TSWpwMmxOVjNSd09RUWN4OHZ2WmxVNGN2X0RYcmhOVjlvbXlfLXluTUQ3MGlkVDVOLXdUTm9MRDQ?oc=5\" target=\"_blank\">Microsoft: The Real AI Winner Hiding In Plain Sight (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2025-12-25T18:30:00+00:00",
+      "source": "Seeking Alpha"
+    },
     {
       "title": "Microsoft Will 'Prove Doubters Wrong' In 2026 With AI-Fueled Growth - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlBLeXNEZ3N6cE41bU1QbmVnZnFaZDdFNlgxYWJ3YWxNaVhjanBmRTdYcDQ3T01QXzJiVE5HVDVyTTNURG52MHFQYkZnNUJrOTBxQzhIM1J4SHBDbms0MzhnYndRN0t5ek1oVkhXRnhOQTllbkRTTWFmX3dlRnBqWk9IUzNTbVJy?oc=5",
@@ -12,61 +47,26 @@
       "source": "Investor's Business Daily"
     },
     {
-      "title": "Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQYlVHWmI2NXFrcDEwYUlpbFllb01CeHZYRG1UUWl3dmpqSFZUN3BNdTB5dXZZU0k1X2V3bmhKRV84R0RDb0tXdUtJZDFWY2VxdnNaU2ZfMVpWTW14dmlzY0VxSHBmQXNIZzROalh1WVE4S0sxamZrcFpWaVBENjVaMUd5Y0xDQUdoazBjYmdlZWF0X0xjenRzYjBOazRDbEd2QklGYnFfT1ZTTng2dUFzbnV1ZllZTmN4S05GanlYZk5sOFpNQmY4c012MVZtak1aemVKdjFVcnk4TWNBZU5kSE1yajc1dVF5ekJNQlNIbzVjdUlKQWs5WnV2SXd0bExueE1ld0x3dVRtVl9XaFNLaGxyMDZIMHM5R3R5LTI2YjZIUDlOQ01pSER1Nkk4WHpxSXRtTmFCNFZDeTdydnpGaktvc3RndWk0SUV3MGluVHJxbU1iX21FRGMwX3hhMTZXcGlzOTZBem1ndURTUEV6a1BZcjhrZGxIT0lvWUQ4ZUFsZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxQYlVHWmI2NXFrcDEwYUlpbFllb01CeHZYRG1UUWl3dmpqSFZUN3BNdTB5dXZZU0k1X2V3bmhKRV84R0RDb0tXdUtJZDFWY2VxdnNaU2ZfMVpWTW14dmlzY0VxSHBmQXNIZzROalh1WVE4S0sxamZrcFpWaVBENjVaMUd5Y0xDQUdoazBjYmdlZWF0X0xjenRzYjBOazRDbEd2QklGYnFfT1ZTTng2dUFzbnV1ZllZTmN4S05GanlYZk5sOFpNQmY4c012MVZtak1aemVKdjFVcnk4TWNBZU5kSE1yajc1dVF5ekJNQlNIbzVjdUlKQWs5WnV2SXd0bExueE1ld0x3dVRtVl9XaFNLaGxyMDZIMHM5R3R5LTI2YjZIUDlOQ01pSER1Nkk4WHpxSXRtTmFCNFZDeTdydnpGaktvc3RndWk0SUV3MGluVHJxbU1iX21FRGMwX3hhMTZXcGlzOTZBem1ndURTUEV6a1BZcjhrZGxIT0lvWUQ4ZUFsZw?oc=5\" target=\"_blank\">Microsoft Stock Has 29% Upside in 2026, Says Dan Ives. Why It’s an AI Front-Runner.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2025-12-22T14:33:00+00:00",
-      "source": "Barron's"
+      "title": "Microsoft is building another data center in the San Antonio area. Here’s where. - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnZ0NUliNUJuLVpCWXZvVE9oMVJDNlctUTBLOGo5U2hid1owMm5HX1FOblN3MFA1WDd6d1pnNUl6S3NUeDFpNHZlRDloQmlaYlc0SDI2czluZXM0cDV3cWk2WjUyZ2hkb2p2YTV6eHpwM19LSmRiWEM1U2dVTXVCYUoxMWtTZXIwWHAxWWhxeWRsUWNRbWVETVAyOGJoR0pmNHdMV05VZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnZ0NUliNUJuLVpCWXZvVE9oMVJDNlctUTBLOGo5U2hid1owMm5HX1FOblN3MFA1WDd6d1pnNUl6S3NUeDFpNHZlRDloQmlaYlc0SDI2czluZXM0cDV3cWk2WjUyZ2hkb2p2YTV6eHpwM19LSmRiWEM1U2dVTXVCYUoxMWtTZXIwWHAxWWhxeWRsUWNRbWVETVAyOGJoR0pmNHdMV05VZw?oc=5\" target=\"_blank\">Microsoft is building another data center in the San Antonio area. Here’s where.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
+      "published": "2025-12-25T13:09:34+00:00",
+      "source": "San Antonio Express-News"
     },
     {
-      "title": "‘Too Much of a Good Thing,’ Says Investor About Microsoft Stock - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVU5N0syYTFrMWpFb1llcG1FbDZDUVhTNy0tS25OcElrUGlpU3g5ZTlsTV9KRXVOSmtBN2xIb3NORHZoUllMR05nd01pSUdNVHRyLUtJT0FQQVZXUGVMRXY3WFhCY3k0RFlwaDVTUkpsT2pCOEstYXJmclN1RTdEdGtWaUFvVEJMOWx5TldrT0ZXWGhi?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVU5N0syYTFrMWpFb1llcG1FbDZDUVhTNy0tS25OcElrUGlpU3g5ZTlsTV9KRXVOSmtBN2xIb3NORHZoUllMR05nd01pSUdNVHRyLUtJT0FQQVZXUGVMRXY3WFhCY3k0RFlwaDVTUkpsT2pCOEstYXJmclN1RTdEdGtWaUFvVEJMOWx5TldrT0ZXWGhi?oc=5\" target=\"_blank\">‘Too Much of a Good Thing,’ Says Investor About Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2025-12-24T10:29:46+00:00",
-      "source": "TipRanks"
-    },
-    {
-      "title": "Microsoft is not rewriting Windows in Rust - InfoWorld",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFE4WnFhX0hSbW56TU1FTEZnLWlWdTZYVDF6dmpiQ2lMTHJEUmRicml4QmpCR210LUJKZHFFS09LYks1NVBhQi1XTzQ0Q2MwNHh2Q3F2aGNTTHRRUHczM1BJUjlCS0l4NTFRaDUzOHpLX0l2LUlySUJIVzJRYTduX2JPT2JlZjk5MWxSOFlrTzMweWc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFE4WnFhX0hSbW56TU1FTEZnLWlWdTZYVDF6dmpiQ2lMTHJEUmRicml4QmpCR210LUJKZHFFS09LYks1NVBhQi1XTzQ0Q2MwNHh2Q3F2aGNTTHRRUHczM1BJUjlCS0l4NTFRaDUzOHpLX0l2LUlySUJIVzJRYTduX2JPT2JlZjk5MWxSOFlrTzMweWc?oc=5\" target=\"_blank\">Microsoft is not rewriting Windows in Rust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InfoWorld</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGVwWHpLM0JSY3p5am1vZENQYU91N3ZBeC1uNUpuZUJfZm02ZnV3VjM1dEkzSGZRajZmM3FzUnFjOF9BNlQydlVSWXpCZ0VLb01YcWVlTEV1aUZRZHotNjZGbFZoZHNVaThabFVKbFVsWXpBSldmcHFNSFdRalVmZ01VN0FvTHJpNXpTYU0wWE4?oc=5\" target=\"_blank\">Microsoft to Replace All C/C++ Code With Rust by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thurrott.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWUk1cHQ5VHRSbk02X0xjS0w0OFB2dm9fOThfVWZsb1pEcldibnFRZzNFeTZES1FaX05LYXpyNHpTTDBCSDUxeGxyRHpNTGlZenNkY3Zlcmo1QUpPd1hOYXpSUDdQWE5xRFVubHRUNm9LUkFBMzVveTBDa05nZTdwMUtyaEhQRjRTcE9fck5wMm54Sjl3bGNtcGxjbnptTDVPRlZyTkZtWUk3LWdGRUNLaWZaX193czF6NloxMDgyMjdYeGlXYXpQOHR2YjNEUFJUUVZHaDlwQjNNMXlubXB2MEdZR3ZZdTlqYWpzZ1d2UE5GT1R1NEgtaExzcmR1UmVOVmlCakV3MlhEZm8?oc=5\" target=\"_blank\">Microsoft denies rewriting Windows 11 using AI after an employee's \"one engineer, one month, one million code\" post on LinkedIn causes outrage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font></li></ol>",
-      "published": "2025-12-24T15:16:35+00:00",
-      "source": "InfoWorld"
-    },
-    {
-      "title": "There’s no need to settle for limited free apps when MS Office is just $20 - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnNfNHVzZ1JkcWFSMnpuQkQxNkRvd1djT0VRc2UxenRnMWdjcFJEcXkyMV83dF9XeFRmSjBFLTUzTXVvNEE3YWFJa05CM1FJcGV1Ykg1a2lydXFzZkJMbGktNExnOEV1dkNZeDh0MjZfYzVhaEREcTcyVncyVXhSWEZLMWkzN2ZjaC1Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnNfNHVzZ1JkcWFSMnpuQkQxNkRvd1djT0VRc2UxenRnMWdjcFJEcXkyMV83dF9XeFRmSjBFLTUzTXVvNEE3YWFJa05CM1FJcGV1Ykg1a2lydXFzZkJMbGktNExnOEV1dkNZeDh0MjZfYzVhaEREcTcyVncyVXhSWEZLMWkzN2ZjaC1Z?oc=5\" target=\"_blank\">There’s no need to settle for limited free apps when MS Office is just $20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
-      "published": "2025-12-24T20:36:02+00:00",
-      "source": "SFGATE"
-    },
-    {
-      "title": "Nadella Takes Direct Control of Microsoft AI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVJXVlZ3Yjk4ekdSR1pTNkJ2aGNxdUJZU19jNTJfWUs2bnlKc2pCM1hyRkkxWUl4Q0RpeDBnNmVWNERtcWdPQW5ZUHhOYjRQQTZEQUNBYjhoa1NnVk9INmRmY0EzOWM5RC1aTlJWTXJEZEp6Q2pGWFRscXhtVnU4dkZDbk4yc2FrbHJ4Wg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVJXVlZ3Yjk4ekdSR1pTNkJ2aGNxdUJZU19jNTJfWUs2bnlKc2pCM1hyRkkxWUl4Q0RpeDBnNmVWNERtcWdPQW5ZUHhOYjRQQTZEQUNBYjhoa1NnVk9INmRmY0EzOWM5RC1aTlJWTXJEZEp6Q2pGWFRscXhtVnU4dkZDbk4yc2FrbHJ4Wg?oc=5\" target=\"_blank\">Nadella Takes Direct Control of Microsoft AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2025-12-24T13:39:55+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Microsoft sends more than 600 word advisory on H-1B/H-4 visas to employees; says: Return before your .... - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTJIbXdreVl2VnhYQ09Ndkp1bXNtTWxiSlQtYl8yTTgzd05HbUhWWld6dm9UelRpaFd5STlROU5Ic1g5M1ZFeU9wRmNVbHJLWTJpOTZ4QjUyOTVrQnlkSW1YV1lIY1Q4V09aaGtFNndqSFpsTF85b2YxUmZsQndHd1dMLWhCNmJvZHVraURleHdsenh6ZUhhVkNURHR1UFpzZ0YwUXdiOG9GQjF2U2Z5RkVwY0FsMG9yM29HVUxiUFBCOGZrWmQ5Ml93YzFLVWZZTG93M1BmRnZMR3QxcWNVdUxLQzEzNWx6QmNrODZWOHZ1akkxcjR3Unh0RHFrbFl0ei1Ga2ExRjl5RUhseUJv0gGUAkFVX3lxTE85RjZQc2RFNDhlS1RRRUFjUjdQS1JpRTFDMXNkbWszN1ZnTllYOVV5aXZZSUo2RUxCbkFiZnBKNTAzOXVzcWk0ekVqWXhyVm5QcHlJT3B0QWNtcG1nOHVjTklCcUJzaklqLXJOZTJSM3BXYUlyVWxvcF9zaFpNc1QtVUpRZHluOEl2cXl1QjhSOW9jQlAtbmxFeXFlOXl0UTFZLUVvNlRJV0k4Q1BMWUszS3NaYTQ4VFAyUnFGQ09RSDE3VmxWZkE0NFc3dzJzNVhtYmg4RnJBOHliUjlMRTJhQ2plb3hQekRKMXZnUjBrcVRwTUJ2NG1XZ2FyQ3VRdm1idHpucjg3eENoOTRwSzVtZWUxZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOTTJIbXdreVl2VnhYQ09Ndkp1bXNtTWxiSlQtYl8yTTgzd05HbUhWWld6dm9UelRpaFd5STlROU5Ic1g5M1ZFeU9wRmNVbHJLWTJpOTZ4QjUyOTVrQnlkSW1YV1lIY1Q4V09aaGtFNndqSFpsTF85b2YxUmZsQndHd1dMLWhCNmJvZHVraURleHdsenh6ZUhhVkNURHR1UFpzZ0YwUXdiOG9GQjF2U2Z5RkVwY0FsMG9yM29HVUxiUFBCOGZrWmQ5Ml93YzFLVWZZTG93M1BmRnZMR3QxcWNVdUxLQzEzNWx6QmNrODZWOHZ1akkxcjR3Unh0RHFrbFl0ei1Ga2ExRjl5RUhseUJv0gGUAkFVX3lxTE85RjZQc2RFNDhlS1RRRUFjUjdQS1JpRTFDMXNkbWszN1ZnTllYOVV5aXZZSUo2RUxCbkFiZnBKNTAzOXVzcWk0ekVqWXhyVm5QcHlJT3B0QWNtcG1nOHVjTklCcUJzaklqLXJOZTJSM3BXYUlyVWxvcF9zaFpNc1QtVUpRZHluOEl2cXl1QjhSOW9jQlAtbmxFeXFlOXl0UTFZLUVvNlRJV0k4Q1BMWUszS3NaYTQ4VFAyUnFGQ09RSDE3VmxWZkE0NFc3dzJzNVhtYmg4RnJBOHliUjlMRTJhQ2plb3hQekRKMXZnUjBrcVRwTUJ2NG1XZ2FyQ3VRdm1idHpucjg3eENoOTRwSzVtZWUxZA?oc=5\" target=\"_blank\">Microsoft sends more than 600 word advisory on H-1B/H-4 visas to employees; says: Return before your ....</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "published": "2025-12-23T13:12:00+00:00",
-      "source": "The Times of India"
-    },
-    {
-      "title": "Microsoft Teams to let admins block external users via Defender portal - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVFfVzdJMlJpUXhvRm5QejYzaTBiVW5YY2xWUEhsX1pXRDNGcmVpc2Etc0R4M1ZEcm1QVnNJOFVzX1Q5dEE5VDRrOUNUVE5SRWF1c2pvM2ZGRFFsNEt0VWZhOXhPRExwMk9pWVpHNVdCWDVabGwwbVRnbzFpM2h1QUJlazc5M1VkcTJlSjVIbGM1NzJMaWJENDVLc2ZIWS1yY1ZhZWR3VF9OcndiVVFQZ2daSGtPWm9NSE9v0gHAAUFVX3lxTE4zZXJJNE5vNFlfd3JaQWY5QUR2cll5eW9fLXdiUFZYWXVneHpJT1ZTRm03bHF1eWVTZDltcHY5WUFxaEc5YjNPMkRrbnFvTlBGLW5waFlsMl9wbF9ZT19YakwxcTkwdTlqUHFFMzA3bVRGY1lNMm5kaTVVeFItTlk2ai1MS2ZVeGJIUHdtOWhqVmJ4MjlpVmhfRkNFN0dSeFVQRGNFWmtzN2ZPZUIzOHFnT2xxdF8wcVl6TlllN3BNSA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVFfVzdJMlJpUXhvRm5QejYzaTBiVW5YY2xWUEhsX1pXRDNGcmVpc2Etc0R4M1ZEcm1QVnNJOFVzX1Q5dEE5VDRrOUNUVE5SRWF1c2pvM2ZGRFFsNEt0VWZhOXhPRExwMk9pWVpHNVdCWDVabGwwbVRnbzFpM2h1QUJlazc5M1VkcTJlSjVIbGM1NzJMaWJENDVLc2ZIWS1yY1ZhZWR3VF9OcndiVVFQZ2daSGtPWm9NSE9v0gHAAUFVX3lxTE4zZXJJNE5vNFlfd3JaQWY5QUR2cll5eW9fLXdiUFZYWXVneHpJT1ZTRm03bHF1eWVTZDltcHY5WUFxaEc5YjNPMkRrbnFvTlBGLW5waFlsMl9wbF9ZT19YakwxcTkwdTlqUHFFMzA3bVRGY1lNMm5kaTVVeFItTlk2ai1MS2ZVeGJIUHdtOWhqVmJ4MjlpVmhfRkNFN0dSeFVQRGNFWmtzN2ZPZUIzOHFnT2xxdF8wcVl6TlllN3BNSA?oc=5\" target=\"_blank\">Microsoft Teams to let admins block external users via Defender portal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2025-12-24T16:22:44+00:00",
-      "source": "BleepingComputer"
+      "title": "Ready to get fired if you ... is Microsoft and Google's 'message' to execs sent to South Korea to meet Sa - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPLVA5MlphNXY2YUw1STF1dlRMeDF0ajJnNEpjMGtITnNsRHoyZFduWFZxMVRwY2FDRDNQYnpQd2p3dEY1ci1KTFhxM3JMcHFBNUZTN0xqLXplNkhGZG5ENFBEeERjV1lEZlVDb1RiYnFwQUphVWJOWnVmNVdNYUs3clZMNU44cFFtczBnNjd6UHNJLUFiamdMV0J3MU85VDhxeHV1NjlZNzNGbUc3OXJEWTJJdnRLUlBxMm1ISENXMGFCQmtibXZtQUk5S0h5Q09HT1FoNjR1ejQxRS1ZVXY5RkM3YVcwTDNsWkF6MjlhR19HNHdacFVIeHJJV2J3bTZhN0NVZVROek02ZHRqN21PWm00UU1DcDUxYTc5dVYxUWFoY2FYMDllbVowZXVZclJWUlNFSVd1NGhPV1ZMc3fSAcMCQVVfeXFMUHZ2UndBbXlHMGtQMHJnNnZzZkhUNWFiT3Foa3MxNXdPTmdjMldBZE5RcHE1RnBzUzNqOUp3SUR6VUJSdm1NbHJSX0Y0LTJLUVV5SUg0bDRUd2RsQXYzOHR4a0NNWTNCcF9uaXQxRWlEQkJlZFZMa3RBS1Nzc1QxR29ZdmtjN3E3akEyZjFtcHNabTJBckl2eExfdEVCdlhWR3lTRWxQUnlNaVlReTVkTERQSy11YmtxdUYwS2hkZkVMS2ItNDVrTndMaXlsZlRvU09oMF9WOFI0ZFp0U3FsaGlHVzJFT2hUZlpnT0FtUmd2cWRhc0tDaTNvbi1tc1NRNDF4RE40bzhZMFhGZVZrOTZQSzVld1AwLW5tU2p0N0xDWFVXdF9uUDVmUmhQSlBwYUFmSUpCMlJiNUFZYzNjV2ZBeXM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxPLVA5MlphNXY2YUw1STF1dlRMeDF0ajJnNEpjMGtITnNsRHoyZFduWFZxMVRwY2FDRDNQYnpQd2p3dEY1ci1KTFhxM3JMcHFBNUZTN0xqLXplNkhGZG5ENFBEeERjV1lEZlVDb1RiYnFwQUphVWJOWnVmNVdNYUs3clZMNU44cFFtczBnNjd6UHNJLUFiamdMV0J3MU85VDhxeHV1NjlZNzNGbUc3OXJEWTJJdnRLUlBxMm1ISENXMGFCQmtibXZtQUk5S0h5Q09HT1FoNjR1ejQxRS1ZVXY5RkM3YVcwTDNsWkF6MjlhR19HNHdacFVIeHJJV2J3bTZhN0NVZVROek02ZHRqN21PWm00UU1DcDUxYTc5dVYxUWFoY2FYMDllbVowZXVZclJWUlNFSVd1NGhPV1ZMc3fSAcMCQVVfeXFMUHZ2UndBbXlHMGtQMHJnNnZzZkhUNWFiT3Foa3MxNXdPTmdjMldBZE5RcHE1RnBzUzNqOUp3SUR6VUJSdm1NbHJSX0Y0LTJLUVV5SUg0bDRUd2RsQXYzOHR4a0NNWTNCcF9uaXQxRWlEQkJlZFZMa3RBS1Nzc1QxR29ZdmtjN3E3akEyZjFtcHNabTJBckl2eExfdEVCdlhWR3lTRWxQUnlNaVlReTVkTERQSy11YmtxdUYwS2hkZkVMS2ItNDVrTndMaXlsZlRvU09oMF9WOFI0ZFp0U3FsaGlHVzJFT2hUZlpnT0FtUmd2cWRhc0tDaTNvbi1tc1NRNDF4RE40bzhZMFhGZVZrOTZQSzVld1AwLW5tU2p0N0xDWFVXdF9uUDVmUmhQSlBwYUFmSUpCMlJiNUFZYzNjV2ZBeXM?oc=5\" target=\"_blank\">Ready to get fired if you ... is Microsoft and Google's 'message' to execs sent to South Korea to meet Sa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2025-12-26T06:20:00+00:00",
+      "source": "Times of India"
     }
   ],
   "product_launches": [
     {
-      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-04-30T07:00:00+00:00",
+      "title": "Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5\" target=\"_blank\">Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-10-09T07:00:00+00:00",
       "source": "Microsoft"
     },
     {
@@ -77,10 +77,10 @@
       "source": "Mashable"
     },
     {
-      "title": "Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMWtld3pzYTZYa2loOF8yUVFfSmxLdnRSMGZOUzdhRXE3Xy1YZ29jR3lTenAyei1RTUlINUVTbW9kXzQwaWtsTXh2OF96WXJZZlJ6bURpZWx5dl9LZU9DYzFGdTlvMGYySFE2QTI1Ymk0UGxKeUI3TV9UYm40OHhWbXVYcXQ5bVoyQkEwY21RZW9fVkl3QlFSdkY1N0pMWE5ZSFlyM1pIQmZOaVRkLTVBX25nZXh4MEhHSEM2YzU5SHpYV2R6MGpLYy1oMnhVME1HMU5SVFpIbkVkUVFHOTBIS2VtWHFCWWo5WmloWnlzVlBXN3dWNHEwcWJHbENHOUlPY3RCQXdTMkhCaWxmRGJ5aVRzRmozNDVMa0RfTQ?oc=5\" target=\"_blank\">Explore new AI innovation for Dynamics 365, Microsoft Power Platform, and Copilot Studio at the Business Applications Launch Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-10-09T07:00:00+00:00",
+      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-04-30T07:00:00+00:00",
       "source": "Microsoft"
     },
     {
