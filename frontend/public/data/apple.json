@@ -2,8 +2,15 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2025-12-27T12:22:38.887130+00:00",
+  "fetched_at": "2025-12-28T12:22:45.867670+00:00",
   "news": [
+    {
+      "title": "Where Do Returned Items To Apple Actually Go? - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxQklNckYtcjR2RGtWS194allTOC1SMU9lU0pvTzdxZURpb1l3ZGtNa25MTHF1VGQ5VldtaHlSSlFTX2pMM0doUTkwWjlNZExpUnVETW9TMVFvYkUxSlJhTXRHMlA4NmFqQjVWc3RROA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAxQklNckYtcjR2RGtWS194allTOC1SMU9lU0pvTzdxZURpb1l3ZGtNa25MTHF1VGQ5VldtaHlSSlFTX2pMM0doUTkwWjlNZExpUnVETW9TMVFvYkUxSlJhTXRHMlA4NmFqQjVWc3RROA?oc=5\" target=\"_blank\">Where Do Returned Items To Apple Actually Go?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
+      "published": "2025-12-27T14:47:00+00:00",
+      "source": "bgr.com"
+    },
     {
       "title": "Leaker Who Apple Is Suing Says ‘Screw It,’ Here’s the Foldable iPhone Early - Gizmodo",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUi02UnNwWkU5MElpUFc3eTliT3VTN2RZYXBkWmhxOGFXY3dEQmhDQTgwX1dQQnRSNFhmbTdSX2tsSDRlZXhQSUNISm5Va2p1R1BSX2hRcS1QQUpud1hiZ0d1VXBCVkkwbl9FOW03TGtua2FyNU5WS0ZxaFVPY2hXQjR5eGY0aUR0YWRzd3BVb29VOEo5azNTa3lvU1hLZGJ5aklpNA?oc=5",
@@ -12,32 +19,39 @@
       "source": "Gizmodo"
     },
     {
-      "title": "Apple foldable iPhone leak shows thin design and crease-free screen - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1hnNXU5Y0l2cFg5N3FSODRwVTROY0dRVFZFN0pfcFBkMHZpTEl4RTIwbWY4cVhrbzV2VVgzWGxPQ3pPdkJ3dFpHalpTbmdrYzJ3REVOTS1zYWZRajFOTlBMcEloWXY5WVVjdWdDTGJLMUc1ZXRTWlNuWjk0bEJnbTVfRmFjbUpY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1hnNXU5Y0l2cFg5N3FSODRwVTROY0dRVFZFN0pfcFBkMHZpTEl4RTIwbWY4cVhrbzV2VVgzWGxPQ3pPdkJ3dFpHalpTbmdrYzJ3REVOTS1zYWZRajFOTlBMcEloWXY5WVVjdWdDTGJLMUc1ZXRTWlNuWjk0bEJnbTVfRmFjbUpY?oc=5\" target=\"_blank\">Apple foldable iPhone leak shows thin design and crease-free screen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
-      "published": "2025-12-26T23:17:00+00:00",
-      "source": "Interesting Engineering"
+      "title": "Why Apple’s Foldable iPhone Could Crush the Competition - Geeky Gadgets",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWJRT1Q5NlhXdVdBTnNwZWVGWHpKR2daNlJyek5RNDUzU2V1OGtjQkt1N2R6RXd0X1ctQ0tyMmVHckRnaEgtV09pamdDdnBmcW5HVzNsSGV0R1I1ejl6elVXZ1pzVkMtc0ZsWGJDYkFZejFLZmlFamt2aHg5SUVoLThGdXhablpkTHRUMW1B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWJRT1Q5NlhXdVdBTnNwZWVGWHpKR2daNlJyek5RNDUzU2V1OGtjQkt1N2R6RXd0X1ctQ0tyMmVHckRnaEgtV09pamdDdnBmcW5HVzNsSGV0R1I1ejl6elVXZ1pzVkMtc0ZsWGJDYkFZejFLZmlFamt2aHg5SUVoLThGdXhablpkTHRUMW1B?oc=5\" target=\"_blank\">Why Apple’s Foldable iPhone Could Crush the Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Geeky Gadgets</font>",
+      "published": "2025-12-27T16:04:00+00:00",
+      "source": "Geeky Gadgets"
     },
     {
-      "title": "Beyond the Folding iPhone: 3 Big Apple Products Expected in 2026 - CNET",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUdFaEdwckxxb3A5OERjWUlFcXJxS2JGaTJ0TWpKb0plaWhzS1ZQR241MUpCQTRrYzZwUGRzTWxycnE4UVJIRXB4NU5kR28xOUxVdlotRmtaX0tfWUxfcDM1c2lEMTQ3ZldNZHRKNWIyLXFlQzZWYk0tNXRFUWVMbk5xRE4yOTNMNE9jdnNucUJHLU1DOWZnTGJwMFJmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUUdFaEdwckxxb3A5OERjWUlFcXJxS2JGaTJ0TWpKb0plaWhzS1ZQR241MUpCQTRrYzZwUGRzTWxycnE4UVJIRXB4NU5kR28xOUxVdlotRmtaX0tfWUxfcDM1c2lEMTQ3ZldNZHRKNWIyLXFlQzZWYk0tNXRFUWVMbk5xRE4yOTNMNE9jdnNucUJHLU1DOWZnTGJwMFJmZw?oc=5\" target=\"_blank\">Beyond the Folding iPhone: 3 Big Apple Products Expected in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-12-26T13:01:00+00:00",
-      "source": "CNET"
+      "title": "Top Stories: iPhone Fold Mockup, Where's the New Apple TV?, and More - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmMmNSU25tTVdBeXpqR05tMV9UaGRaVWxmNmVkejVvbWVkbGlldlNiZzA3UHVVV2R6Y2t1WVZ5UXdBTTRFUVZncmIyVkZHbkpVOVpUdGRWYU9CenFqVjJfaDJqbUlHQnNnaThHdTNKeVljdjFnT1hB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBmMmNSU25tTVdBeXpqR05tMV9UaGRaVWxmNmVkejVvbWVkbGlldlNiZzA3UHVVV2R6Y2t1WVZ5UXdBTTRFUVZncmIyVkZHbkpVOVpUdGRWYU9CenFqVjJfaDJqbUlHQnNnaThHdTNKeVljdjFnT1hB?oc=5\" target=\"_blank\">Top Stories: iPhone Fold Mockup, Where's the New Apple TV?, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2025-12-27T14:00:00+00:00",
+      "source": "MacRumors"
     },
     {
-      "title": "Apple seeks to appeal against £1.5bn ruling it overcharged UK customers - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclp0YkVfV3NKYzZWdUc1em1QQlJRenJ0UXhoRzJUZW0xOE0wU0pnb0R3b2wzSG9FYkt2bEUycWVtR1BjRzNRbjlaUkNrUDYzUDN1d09XOF80TGU3WG92Qk5YcU00Z0N5TzdsRTJNaTZobzR1ZVNUSWdKSFFiYjhsSHFkdHRqVFJKTTZXNU1pRmY1T0haLWh4MHpjRUNOUVd3amxBMm05ckNfR0NHaHpLQUx3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQclp0YkVfV3NKYzZWdUc1em1QQlJRenJ0UXhoRzJUZW0xOE0wU0pnb0R3b2wzSG9FYkt2bEUycWVtR1BjRzNRbjlaUkNrUDYzUDN1d09XOF80TGU3WG92Qk5YcU00Z0N5TzdsRTJNaTZobzR1ZVNUSWdKSFFiYjhsSHFkdHRqVFJKTTZXNU1pRmY1T0haLWh4MHpjRUNOUVd3amxBMm05ckNfR0NHaHpLQUx3?oc=5\" target=\"_blank\">Apple seeks to appeal against £1.5bn ruling it overcharged UK customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2025-12-26T17:00:00+00:00",
-      "source": "The Guardian"
+      "title": "Apple patches two zero-day flaws used in targeted attacks - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWEllRGljV19JY3JKTUhvNk1qaGllY1FCbEZXc2tqU2dZcWpQUHVrSU5FTl9wS24xM1o4cUVvMGYtV2hOc0lfVHpmTnNNVVh0ZmtjWExwMXlKTzlXRlE0YW1SM2o1OWVIQlVnb0JCOGl2Q0FEa2I3T2lsd0dfMm1VOV93VEwweUF5N3Ew0gGQAUFVX3lxTFBRV0ljaC1GMlpUSkZjNnM5dHB5bk1kbXVtRE0tX2ZJNGNHZE1uRXg1Si1HMEswNDUwN0NlendpNk1ETXBKUzJMX0RySnRyaEtROGpGMU56TEIwWlhfSU1iNnlhVEJna2VqV3h1ZlVrQ0tyTDRyWGdyQUtFUmZLTV9CUENrSVRRU243UnU0bWpHZQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWEllRGljV19JY3JKTUhvNk1qaGllY1FCbEZXc2tqU2dZcWpQUHVrSU5FTl9wS24xM1o4cUVvMGYtV2hOc0lfVHpmTnNNVVh0ZmtjWExwMXlKTzlXRlE0YW1SM2o1OWVIQlVnb0JCOGl2Q0FEa2I3T2lsd0dfMm1VOV93VEwweUF5N3Ew0gGQAUFVX3lxTFBRV0ljaC1GMlpUSkZjNnM5dHB5bk1kbXVtRE0tX2ZJNGNHZE1uRXg1Si1HMEswNDUwN0NlendpNk1ETXBKUzJMX0RySnRyaEtROGpGMU56TEIwWlhfSU1iNnlhVEJna2VqV3h1ZlVrQ0tyTDRyWGdyQUtFUmZLTV9CUENrSVRRU243UnU0bWpHZQ?oc=5\" target=\"_blank\">Apple patches two zero-day flaws used in targeted attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "published": "2025-12-27T18:30:53+00:00",
+      "source": "Fox News"
     },
     {
       "title": "How Well Does Apple’s Live Translation Work for Japanese? I Tested It in Tokyo. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzVqdFp6YmVteEpuWHBTWVZpazFvT2JERmhlN3VzS1pITE5iOXlmOG1SNTdJd3BuMHhndG1qN2F4dnRvNnZ5N19qTENkSzhwU3RQQWRQaXRSZ0V1c1R3NUlRSFp1S0t4VmdpY0lwMmtkSFhYZm5pNjR3RXNSeTAtcEo3WQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzVqdFp6YmVteEpuWHBTWVZpazFvT2JERmhlN3VzS1pITE5iOXlmOG1SNTdJd3BuMHhndG1qN2F4dnRvNnZ5N19qTENkSzhwU3RQQWRQaXRSZ0V1c1R3NUlRSFp1S0t4VmdpY0lwMmtkSFhYZm5pNjR3RXNSeTAtcEo3WQ?oc=5\" target=\"_blank\">How Well Does Apple’s Live Translation Work for Japanese? I Tested It in Tokyo.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2025-12-26T10:00:28+00:00",
+      "published": "2025-12-26T10:00:29+00:00",
       "source": "The New York Times"
+    },
+    {
+      "title": "Apple seeks to appeal against £1.5bn ruling it overcharged UK customers | Apps - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclp0YkVfV3NKYzZWdUc1em1QQlJRenJ0UXhoRzJUZW0xOE0wU0pnb0R3b2wzSG9FYkt2bEUycWVtR1BjRzNRbjlaUkNrUDYzUDN1d09XOF80TGU3WG92Qk5YcU00Z0N5TzdsRTJNaTZobzR1ZVNUSWdKSFFiYjhsSHFkdHRqVFJKTTZXNU1pRmY1T0haLWh4MHpjRUNOUVd3amxBMm05ckNfR0NHaHpLQUx3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQclp0YkVfV3NKYzZWdUc1em1QQlJRenJ0UXhoRzJUZW0xOE0wU0pnb0R3b2wzSG9FYkt2bEUycWVtR1BjRzNRbjlaUkNrUDYzUDN1d09XOF80TGU3WG92Qk5YcU00Z0N5TzdsRTJNaTZobzR1ZVNUSWdKSFFiYjhsSHFkdHRqVFJKTTZXNU1pRmY1T0haLWh4MHpjRUNOUVd3amxBMm05ckNfR0NHaHpLQUx3?oc=5\" target=\"_blank\">Apple seeks to appeal against £1.5bn ruling it overcharged UK customers | Apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2025-12-26T17:00:00+00:00",
+      "source": "The Guardian"
     },
     {
       "title": "For years, the Apple co-founder close to Steve Jobs has been paying with bills he prints and cuts himself - 3DVF",
@@ -45,36 +59,22 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWdGWlZSWm1uazRtbTBSeEJuX1NONUx0RVFSYmpINjBGSlZicU1BbWdtQktuTG9kUEVpOUdXM0NvM2c2TGFPcEJ3ZzdwV2diUTdvbGFCMmdoM2plamZhTlRDRjRld2hvWHRVN2VBX3lKcUlKN0h1bUwwMk95QXZjV3dYVDFHY1IwcEhuOEpQTlk2QVI5b2RGWm5ZaFRDSVlNR2o4NnJwWkFRQ0xMYXM0d2pOVXlGVTVJZ3ZVelo5Z0VabG8?oc=5\" target=\"_blank\">For years, the Apple co-founder close to Steve Jobs has been paying with bills he prints and cuts himself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">3DVF</font>",
       "published": "2025-12-26T14:30:00+00:00",
       "source": "3DVF"
-    },
-    {
-      "title": "Just got AirPods Pro 3? These 10 tips will turn you into an instant expert - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW5OdDk0V0JseDhsdzVnT092V2xkQ25YZmozc2tUYzdCQTVqVVpyLW92aWNScHlUNkNJTWlOY2IyWU5yNjRHQ3lMN0FNRVpud0l5Ymg1SDNVdTQzMzhfRWl4LXVZZGhvN3V4NWN6QnFOaDVmSEVMR25CcnhwbWlJSk9xU0JpRmR4VE9LaW90ejl5aFUyallnYV85ajJ4YW9vZ2wyeWlxRHRZRW9vS25fSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW5OdDk0V0JseDhsdzVnT092V2xkQ25YZmozc2tUYzdCQTVqVVpyLW92aWNScHlUNkNJTWlOY2IyWU5yNjRHQ3lMN0FNRVpud0l5Ymg1SDNVdTQzMzhfRWl4LXVZZGhvN3V4NWN6QnFOaDVmSEVMR25CcnhwbWlJSk9xU0JpRmR4VE9LaW90ejl5aFUyallnYV85ajJ4YW9vZ2wyeWlxRHRZRW9vS25fSQ?oc=5\" target=\"_blank\">Just got AirPods Pro 3? These 10 tips will turn you into an instant expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2025-12-26T11:30:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "Our favourite Apple gear of 2025 is back to record-low prices in the year-end sales - Creative Bloq",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWVFdlY2dUNDVWFNdXRVWjBUUTNaYy02ZXJKR1pYUUZGNjhfZ2k4TFFfRzIxdHpEYS1Wa3ZVNUdWVXhSaGVUVlBza2tYWk5OMXN4VFNWSkdwaUJUMWFpWEFYTDdac0Q4VjhxRzRxWDZxWDBubkNsY2RDTk1XOHhtR2dVMDNJbl9QYlZMMDZEd21QZ2RjRENYQTBjLW1RYVY0YzdnaEVyMDRGN3pRNDlYZExwV3Y4NHpPQWNKcC1JUUtLRm8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWVFdlY2dUNDVWFNdXRVWjBUUTNaYy02ZXJKR1pYUUZGNjhfZ2k4TFFfRzIxdHpEYS1Wa3ZVNUdWVXhSaGVUVlBza2tYWk5OMXN4VFNWSkdwaUJUMWFpWEFYTDdac0Q4VjhxRzRxWDZxWDBubkNsY2RDTk1XOHhtR2dVMDNJbl9QYlZMMDZEd21QZ2RjRENYQTBjLW1RYVY0YzdnaEVyMDRGN3pRNDlYZExwV3Y4NHpPQWNKcC1JUUtLRm8?oc=5\" target=\"_blank\">Our favourite Apple gear of 2025 is back to record-low prices in the year-end sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Creative Bloq</font>",
-      "published": "2025-12-26T14:30:09+00:00",
-      "source": "Creative Bloq"
     }
   ],
   "product_launches": [
     {
+      "title": "Here are six exciting Apple product launches to look forward to in 2026 - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWZFYUdCb1g4X2VkY0h3S1RLUmpjMkduS3VJeEpxTDVFYlExTVFPanphTm5zQXlLZFgxYTNQdkxyN2FSYWlRbUc2OGhUREZLOElKMmEwU1ZRT3NnTjFYYnNjWkdfZjFiWldyaHE2d1lISnpZd1NJUTBGUzdLQjJsN09LbGV3U1hmV0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWZFYUdCb1g4X2VkY0h3S1RLUmpjMkduS3VJeEpxTDVFYlExTVFPanphTm5zQXlLZFgxYTNQdkxyN2FSYWlRbUc2OGhUREZLOElKMmEwU1ZRT3NnTjFYYnNjWkdfZjFiWldyaHE2d1lISnpZd1NJUTBGUzdLQjJsN09LbGV3U1hmV0E?oc=5\" target=\"_blank\">Here are six exciting Apple product launches to look forward to in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2025-12-27T22:27:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
       "title": "Four Apple product launches to expect in the near future - Mashable",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5\" target=\"_blank\">Four Apple product launches to expect in the near future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-12-27T03:14:33+00:00",
+      "published": "2025-12-08T17:54:13+00:00",
       "source": "Mashable"
-    },
-    {
-      "title": "Apple will launch 20+ new products next year, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkVFVG02czN5QUR5UjB1XzZrdUFRMWxNdmNPSW95NUFlQ0tiRnJ0VTRIbm5jaTlQNmlua2lxRHBNZXZWWXROSjROTkdjcDhhRFpnVDlPMWZTTG5oUjdUVXJzcC0zc2U3UUNkOG5PYmYxSHVXWGF4anR6bXZVLWVfY1RGb2VJOWdVbzBTVEo0NEwyYW5VWmZ4bTZn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkVFVG02czN5QUR5UjB1XzZrdUFRMWxNdmNPSW95NUFlQ0tiRnJ0VTRIbm5jaTlQNmlua2lxRHBNZXZWWXROSjROTkdjcDhhRFpnVDlPMWZTTG5oUjdUVXJzcC0zc2U3UUNkOG5PYmYxSHVXWGF4anR6bXZVLWVfY1RGb2VJOWdVbzBTVEo0NEwyYW5VWmZ4bTZn?oc=5\" target=\"_blank\">Apple will launch 20+ new products next year, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2025-12-22T17:47:00+00:00",
-      "source": "9to5Mac"
     },
     {
       "title": "Here's every new product Apple is launching in 2026 - Macworld",
@@ -84,18 +84,18 @@
       "source": "Macworld"
     },
     {
-      "title": "Beyond the Folding iPhone: 3 Big Apple Products Expected in 2026 - CNET",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUdFaEdwckxxb3A5OERjWUlFcXJxS2JGaTJ0TWpKb0plaWhzS1ZQR241MUpCQTRrYzZwUGRzTWxycnE4UVJIRXB4NU5kR28xOUxVdlotRmtaX0tfWUxfcDM1c2lEMTQ3ZldNZHRKNWIyLXFlQzZWYk0tNXRFUWVMbk5xRE4yOTNMNE9jdnNucUJHLU1DOWZnTGJwMFJmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUUdFaEdwckxxb3A5OERjWUlFcXJxS2JGaTJ0TWpKb0plaWhzS1ZQR241MUpCQTRrYzZwUGRzTWxycnE4UVJIRXB4NU5kR28xOUxVdlotRmtaX0tfWUxfcDM1c2lEMTQ3ZldNZHRKNWIyLXFlQzZWYk0tNXRFUWVMbk5xRE4yOTNMNE9jdnNucUJHLU1DOWZnTGJwMFJmZw?oc=5\" target=\"_blank\">Beyond the Folding iPhone: 3 Big Apple Products Expected in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2025-12-26T13:01:00+00:00",
-      "source": "CNET"
-    },
-    {
       "title": "Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdIQkdDOWJZWXFzY3dteUR2MWNVbTJ1bktEcTNybkRZMl9oOFluUEEwdGd2ZDhlX0cydjBkS19IQ3gzb291TmRUSzdrNWpGbTYzSjFVNWItaHU5S0hfM0JPMk83WF9xZHpvV2E5TkFTa1JCSUUydXVqclVVcjlqdjJFaHh1blFTcEg3QlUyRGRjTTRSV0lCR2phT2FtekVOQnlVeTR2dzdIdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTdIQkdDOWJZWXFzY3dteUR2MWNVbTJ1bktEcTNybkRZMl9oOFluUEEwdGd2ZDhlX0cydjBkS19IQ3gzb291TmRUSzdrNWpGbTYzSjFVNWItaHU5S0hfM0JPMk83WF9xZHpvV2E5TkFTa1JCSUUydXVqclVVcjlqdjJFaHh1blFTcEg3QlUyRGRjTTRSV0lCR2phT2FtekVOQnlVeTR2dzdIdw?oc=5\" target=\"_blank\">Introducing iPhone Pocket: a beautiful way to wear and carry iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
       "published": "2025-11-11T08:00:00+00:00",
       "source": "Apple"
+    },
+    {
+      "title": "Beyond the Folding iPhone: 3 Big Apple Products Expected in 2026 - CNET",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUdFaEdwckxxb3A5OERjWUlFcXJxS2JGaTJ0TWpKb0plaWhzS1ZQR241MUpCQTRrYzZwUGRzTWxycnE4UVJIRXB4NU5kR28xOUxVdlotRmtaX0tfWUxfcDM1c2lEMTQ3ZldNZHRKNWIyLXFlQzZWYk0tNXRFUWVMbk5xRE4yOTNMNE9jdnNucUJHLU1DOWZnTGJwMFJmZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUUdFaEdwckxxb3A5OERjWUlFcXJxS2JGaTJ0TWpKb0plaWhzS1ZQR241MUpCQTRrYzZwUGRzTWxycnE4UVJIRXB4NU5kR28xOUxVdlotRmtaX0tfWUxfcDM1c2lEMTQ3ZldNZHRKNWIyLXFlQzZWYk0tNXRFUWVMbk5xRE4yOTNMNE9jdnNucUJHLU1DOWZnTGJwMFJmZw?oc=5\" target=\"_blank\">Beyond the Folding iPhone: 3 Big Apple Products Expected in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2025-12-26T13:01:00+00:00",
+      "source": "CNET"
     }
   ],
   "stock": {
