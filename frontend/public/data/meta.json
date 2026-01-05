@@ -2,15 +2,8 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-01-04T12:22:42.620384+00:00",
+  "fetched_at": "2026-01-05T12:27:11.326911+00:00",
   "news": [
-    {
-      "title": "Meta created ‘playbook’ to fend off pressure to crack down on scammers, documents show - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0xQRXJTVjhLOUtIT0Qtbkxha0tGSzdxRXc4Z1pycTZsX2xXbHRtMTZ4MlVCelBKXzREYnlsQVVIVEljRnFYSWVDRHVlbXdjTDg3RV9VanAyYzB0ZUgwSHBsZnFwaklSOGMtTWZKa0ZHVUJfb3BCZjRfa1Z1WTh0NDNsWFFtN21XTTdRZkgtcUltbVBhZE4ydjZxaEZETHFhb2t0X2hYdVZ4YnlDc09UTDBsZVJCYXpKSmdyUk9BTFlkemc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0xQRXJTVjhLOUtIT0Qtbkxha0tGSzdxRXc4Z1pycTZsX2xXbHRtMTZ4MlVCelBKXzREYnlsQVVIVEljRnFYSWVDRHVlbXdjTDg3RV9VanAyYzB0ZUgwSHBsZnFwaklSOGMtTWZKa0ZHVUJfb3BCZjRfa1Z1WTh0NDNsWFFtN21XTTdRZkgtcUltbVBhZE4ydjZxaEZETHFhb2t0X2hYdVZ4YnlDc09UTDBsZVJCYXpKSmdyUk9BTFlkemc?oc=5\" target=\"_blank\">Meta created ‘playbook’ to fend off pressure to crack down on scammers, documents show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-12-31T13:12:44+00:00",
-      "source": "Reuters"
-    },
     {
       "title": "Yann LeCun calls Alexandr Wang 'inexperienced' and predicts more Meta AI employee departures - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelY2NzRCNVdQQzZyR2p5ekJrYW1zbnA2bERDNm1rc29VYVg5SW5vc0VNSlpLNmU4SFdSdjV0NFoyRzdMcnZVeXFtVWU4NUhaMFdJUXRtcXIwc1VxYko0TmZrcVBBTFBoLXp4LS1JN2I5UG9WZnpTWXlDRkQ1NUdQc1I0QkZpNUdOS3F4cVhja0lzcHozenRUNU5MaXdfSTkzcmlNTA?oc=5",
@@ -19,18 +12,18 @@
       "source": "Business Insider"
     },
     {
-      "title": "Meta smart glasses pose a threat to women, campaigners say - The Times",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPQUh4U0Nrejhwano4dkhTS0dJM2NzT0xqaUl2elNIQUlBcmYwdHFPaDVDMVNTSzFqMldVZ1Vjay0wNnRSbFNiTmRTc2t0dUNkOHZ6akNWOWM1VDE0d1lJUFk5cVQtREEzTUV0T3p0cFk0VXdGZXFZT3JJbEY1WVRDbEhudHNKM0V4UjBaV1pLeXFTYmpuTmlMbEtmM25yU1VRbExEdUJ2SEpteEt4WTM5a0VhWkRPM1M0MXQwSWU1Sks4V2E1cm5wR1JUa3AyNkNjczY3MlF1NzdVMkxsT1d1Y2JxVE5CRVRuODcxejlMSVRjVHFRNndZcjVJaktZN0ZPWDVjanExV19yZGhCZWdBWlF6aXo1QjR2M1JDY19VUUV3eHpWV1VFWmtGZ0FPUkZLUm9aTkhPWldxUkRIM0tzMVBMVzc4clljOFVlQVJraGZzRzVtbmZfZUNsWkJZc0tiY2sycWVoX3JsTEEteHBlV005Zzlod2RSdGRUQmsyMmhIb3N4aGJfSEZ5ZHlJd0dvSmxqQTJZVE1lM3RzNEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingNBVV95cUxPQUh4U0Nrejhwano4dkhTS0dJM2NzT0xqaUl2elNIQUlBcmYwdHFPaDVDMVNTSzFqMldVZ1Vjay0wNnRSbFNiTmRTc2t0dUNkOHZ6akNWOWM1VDE0d1lJUFk5cVQtREEzTUV0T3p0cFk0VXdGZXFZT3JJbEY1WVRDbEhudHNKM0V4UjBaV1pLeXFTYmpuTmlMbEtmM25yU1VRbExEdUJ2SEpteEt4WTM5a0VhWkRPM1M0MXQwSWU1Sks4V2E1cm5wR1JUa3AyNkNjczY3MlF1NzdVMkxsT1d1Y2JxVE5CRVRuODcxejlMSVRjVHFRNndZcjVJaktZN0ZPWDVjanExV19yZGhCZWdBWlF6aXo1QjR2M1JDY19VUUV3eHpWV1VFWmtGZ0FPUkZLUm9aTkhPWldxUkRIM0tzMVBMVzc4clljOFVlQVJraGZzRzVtbmZfZUNsWkJZc0tiY2sycWVoX3JsTEEteHBlV005Zzlod2RSdGRUQmsyMmhIb3N4aGJfSEZ5ZHlJd0dvSmxqQTJZVE1lM3RzNEE?oc=5\" target=\"_blank\">Meta smart glasses pose a threat to women, campaigners say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
-      "published": "2026-01-02T18:36:38+00:00",
-      "source": "The Times"
+      "title": "\"You certainly don't tell a researcher like me what to do\" says LeCun as he exits Meta for his own startup - the-decoder.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDdZNEFUX2ZCQnhhbkdvcU1QUDJib214UU52dVRkaEQtNExXcWNLQmQ0Q2Y3ampOcTJUdHc3cTdQaW9FLWRIU3hBZmh2MUVLTzN3S0M2ZzZPNWhMTkdra29wMnBPdDhIcF8ybHVIVFNHdm9rNVBOS0JoX01ZcUl6NlpYQUtuTGhZRmR6RUM3TS1TVlJlcV83NTVDTlNRUENnalB0OEJqMFM2Mm4tT0hxbEMxSXlpbENnYjdQRmptS2JHZVY2bHFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDdZNEFUX2ZCQnhhbkdvcU1QUDJib214UU52dVRkaEQtNExXcWNLQmQ0Q2Y3ampOcTJUdHc3cTdQaW9FLWRIU3hBZmh2MUVLTzN3S0M2ZzZPNWhMTkdra29wMnBPdDhIcF8ybHVIVFNHdm9rNVBOS0JoX01ZcUl6NlpYQUtuTGhZRmR6RUM3TS1TVlJlcV83NTVDTlNRUENnalB0OEJqMFM2Mm4tT0hxbEMxSXlpbENnYjdQRmptS2JHZVY2bHFR?oc=5\" target=\"_blank\">\"You certainly don't tell a researcher like me what to do\" says LeCun as he exits Meta for his own startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-decoder.com</font>",
+      "published": "2026-01-03T11:55:16+00:00",
+      "source": "the-decoder.com"
     },
     {
-      "title": "Headset hype meets harsh reality as Apple and Meta VR shipments fizzle in 2025 - theregister.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNVlBdGRFSXJpY25UNGxjNmxSZmxBWHpFVmtyLU1fYlhHQlFqVWZRSTZPRW1ybWhMNEwxTWFKck1xSjgxQW5HLWdaVzNPRlJXX2NkLWVHbzIyY1dqVV9IY2Z2WW14dzNLakY2WlJTX2xUdlJEMVhhczBUdkpCZDlENnA1WFo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNVlBdGRFSXJpY25UNGxjNmxSZmxBWHpFVmtyLU1fYlhHQlFqVWZRSTZPRW1ybWhMNEwxTWFKck1xSjgxQW5HLWdaVzNPRlJXX2NkLWVHbzIyY1dqVV9IY2Z2WW14dzNLakY2WlJTX2xUdlJEMVhhczBUdkpCZDlENnA1WFo?oc=5\" target=\"_blank\">Headset hype meets harsh reality as Apple and Meta VR shipments fizzle in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
-      "published": "2026-01-02T21:36:00+00:00",
-      "source": "theregister.com"
+      "title": "Mark Zuckerberg’s Former Top AI Scientist Reveals Exactly Why He Quit - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0JlT1U0Zm1KQUIzM1hQMDM0T2NRX19tdFpCS1RzTnZzQXhOa1lVSE9TU1VaMjFmQ2ppSGhaSFF5QlZsYk5TVUktRjJZcndhSUlmS1VDZVNOYlRyZXBHSERLSFpFMllHM3hVNGpVOGYwZndITDZkQmtpd1l4WEVEN21NUEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0JlT1U0Zm1KQUIzM1hQMDM0T2NRX19tdFpCS1RzTnZzQXhOa1lVSE9TU1VaMjFmQ2ppSGhaSFF5QlZsYk5TVUktRjJZcndhSUlmS1VDZVNOYlRyZXBHSERLSFpFMllHM3hVNGpVOGYwZndITDZkQmtpd1l4WEVEN21NUEw?oc=5\" target=\"_blank\">Mark Zuckerberg’s Former Top AI Scientist Reveals Exactly Why He Quit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
+      "published": "2026-01-04T14:00:00+00:00",
+      "source": "Futurism"
     },
     {
       "title": "Meta’s Quest 3S is still $50 off and comes with a $50 gift card - The Verge",
@@ -40,28 +33,42 @@
       "source": "The Verge"
     },
     {
-      "title": "Dual Knit Band Quest 3 Mod Balances Meta With Apple - UploadVR",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zZTNPUGZ0bUlHYlJXUndkQzB3ZTBxbDNmNDJGdllVbHd3OHZCdFBoMU80V25ZaS1LUG9EWG9HTEFvZzBmbGdoZ0tTSHJ0VU13SEJrdWhjaHpEUUhUWVhOQTB3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zZTNPUGZ0bUlHYlJXUndkQzB3ZTBxbDNmNDJGdllVbHd3OHZCdFBoMU80V25ZaS1LUG9EWG9HTEFvZzBmbGdoZ0tTSHJ0VU13SEJrdWhjaHpEUUhUWVhOQTB3?oc=5\" target=\"_blank\">Dual Knit Band Quest 3 Mod Balances Meta With Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
-      "published": "2026-01-01T20:05:43+00:00",
-      "source": "UploadVR"
+      "title": "Apple, Meta ship significantly fewer VR headsets in 2025 - theregister.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNVlBdGRFSXJpY25UNGxjNmxSZmxBWHpFVmtyLU1fYlhHQlFqVWZRSTZPRW1ybWhMNEwxTWFKck1xSjgxQW5HLWdaVzNPRlJXX2NkLWVHbzIyY1dqVV9IY2Z2WW14dzNLakY2WlJTX2xUdlJEMVhhczBUdkpCZDlENnA1WFo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNVlBdGRFSXJpY25UNGxjNmxSZmxBWHpFVmtyLU1fYlhHQlFqVWZRSTZPRW1ybWhMNEwxTWFKck1xSjgxQW5HLWdaVzNPRlJXX2NkLWVHbzIyY1dqVV9IY2Z2WW14dzNLakY2WlJTX2xUdlJEMVhhczBUdkpCZDlENnA1WFo?oc=5\" target=\"_blank\">Apple, Meta ship significantly fewer VR headsets in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+      "published": "2026-01-02T21:36:00+00:00",
+      "source": "theregister.com"
     },
     {
-      "title": "Is Meta Platforms, Inc. (NASDAQ:META) Trading At A 38% Discount? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGtPRTZZUHF4YzFQeWxYckhHY09QLXd0V0tjX2VZZFlEekJuak4ybVZ4UWUtel81UjVxWmpnMTctTjlLX0tLOXZzLXI2bUJzMTczREcxaC03SkxocGd0Q2swWFNCZGYwaER1eFRQdGtpLXB0bkRSajNITTlVSnNKVnF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGtPRTZZUHF4YzFQeWxYckhHY09QLXd0V0tjX2VZZFlEekJuak4ybVZ4UWUtel81UjVxWmpnMTctTjlLX0tLOXZzLXI2bUJzMTczREcxaC03SkxocGd0Q2swWFNCZGYwaER1eFRQdGtpLXB0bkRSajNITTlVSnNKVnF3?oc=5\" target=\"_blank\">Is Meta Platforms, Inc. (NASDAQ:META) Trading At A 38% Discount?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-02T13:00:19+00:00",
-      "source": "Yahoo Finance"
+      "title": "Meta's AI research lab that 'some insiders' said is 'dying a slow death' sees another top level exit as V - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOeWpTa3l1bXZmVVpHOHdOTC00ZmVuUUluSU9WRG1TRnRiMThPM3FLUmY1ZDN5QTNkZmVVbnRSY0RiVmRBdmV0dFZWSUVGdU5BaFFlM3BhbFcyNlYta1UzU0tSdmV0UU1SVE1PU3ZrYnJyQzFoVTU2ZmNyNTZtMTdhaERCZXhWWVZEMlpYbk10dGtBUE91cGluMVdzeGZkWkdONmhua2p1cWd5cmgybE4zOVR0YXlkSVg0QkR0VkhRVlV3ZGdkMTNuQ0JNdTNncmcyRVBTRWZRdHpJS05MQTJZbWpOWVpKT0gzSE8tSVZ5UXJMa3lTZktPMmRMRFBvV0xsdEtIQ0hNOXQ1N1FBQm9TeW53MENQbVAzMHdDQTdyZE1jd0pYSnhPYXF3RUFtZkYyU09JU1hjRXNjd256dG5lMjMtamFWR1FJ0gHOAkFVX3lxTE1hQWE2UzAwZEJtWU9XTElDRkhsejZ4UFBvUEpBeU9TQ3kweURPRVFHMzJxTzRSYS1xVTAtcEdBTVc0SVZQU1ZfbERxSXZQOEN1YWNQbnc3bWdJQm1UQW92SXRVbTFwSW5KM19ReTloVHBQRTZWMnc3OF9qTTRhWUo3STVGLWxPOVFTS3hWSFNLSXFtcTB4UjFlcUpDUU5ZMmxMYnRTQUJzYzNSX01tanluOV9jalN1Um5xckFac08zeWtnVXhCVktEN2FhLTVxMHhfS2F6M1pnY1U5c09NYXB0NmxGcW5WeTl4dF9IOE9TR3ZwM3BlNnZjS2EyVU9OUWNlNVVYXzJpRnhNVHNvakR3SmtYVmpQSjBSUVFwVnNJSUpwQ2tEVDlxN1FYNWoyUlQ4Vkk0UllSTnN2NVN5R0FmaVQweG9UN043eEc3bUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxOeWpTa3l1bXZmVVpHOHdOTC00ZmVuUUluSU9WRG1TRnRiMThPM3FLUmY1ZDN5QTNkZmVVbnRSY0RiVmRBdmV0dFZWSUVGdU5BaFFlM3BhbFcyNlYta1UzU0tSdmV0UU1SVE1PU3ZrYnJyQzFoVTU2ZmNyNTZtMTdhaERCZXhWWVZEMlpYbk10dGtBUE91cGluMVdzeGZkWkdONmhua2p1cWd5cmgybE4zOVR0YXlkSVg0QkR0VkhRVlV3ZGdkMTNuQ0JNdTNncmcyRVBTRWZRdHpJS05MQTJZbWpOWVpKT0gzSE8tSVZ5UXJMa3lTZktPMmRMRFBvV0xsdEtIQ0hNOXQ1N1FBQm9TeW53MENQbVAzMHdDQTdyZE1jd0pYSnhPYXF3RUFtZkYyU09JU1hjRXNjd256dG5lMjMtamFWR1FJ0gHOAkFVX3lxTE1hQWE2UzAwZEJtWU9XTElDRkhsejZ4UFBvUEpBeU9TQ3kweURPRVFHMzJxTzRSYS1xVTAtcEdBTVc0SVZQU1ZfbERxSXZQOEN1YWNQbnc3bWdJQm1UQW92SXRVbTFwSW5KM19ReTloVHBQRTZWMnc3OF9qTTRhWUo3STVGLWxPOVFTS3hWSFNLSXFtcTB4UjFlcUpDUU5ZMmxMYnRTQUJzYzNSX01tanluOV9jalN1Um5xckFac08zeWtnVXhCVktEN2FhLTVxMHhfS2F6M1pnY1U5c09NYXB0NmxGcW5WeTl4dF9IOE9TR3ZwM3BlNnZjS2EyVU9OUWNlNVVYXzJpRnhNVHNvakR3SmtYVmpQSjBSUVFwVnNJSUpwQ2tEVDlxN1FYNWoyUlQ4Vkk0UllSTnN2NVN5R0FmaVQweG9UN043eEc3bUE?oc=5\" target=\"_blank\">Meta's AI research lab that 'some insiders' said is 'dying a slow death' sees another top level exit as V</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-05T08:14:00+00:00",
+      "source": "Times of India"
     },
     {
-      "title": "How Meta’s Reels Became a $50 Billion Business - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQR0htVU9tdUJXUUtUOWFMd1g2ZUluZVVGaWNBaG1TZUNWTVNLNWkwTWgzdTgzTU1kekQ1Nmx6UXpzd09ndTh1RHFtUzdBcDJnVy1FQlhKUUQ4VjZWTE1hTDRnUy1DUndNOGJaSmNuQlk0QVRXXzFJM011UjFIcHdBOTVaYlpreUkwMHVxazZ2eWFLcEFmTXFPX2J4bHFnby1nWS1PMy1FZ2p3RFRsZ0pyc0xfY0JrS3FGSFh5VWdxYnNBNXBJTFVYdm5pbVpEcjZpdWhodmdfcXdIak85WVRPcHZmYktLb2VkSmRYYmNVUUc2ZnRUQzFrZE84Wkw4dkE3VEh4azI2Umt4VjlZdDJURWZ1Q3IyTDczaG5RR05KYXVKYkhiTzdWb1B0X2t4SXE0bzBNMU5fejZ6aktjNWpFbzRtQnBVRV9BeHdQNDJJNjZmRjlEczhlMlhMRTNyOXhmLUpfSmEzRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQR0htVU9tdUJXUUtUOWFMd1g2ZUluZVVGaWNBaG1TZUNWTVNLNWkwTWgzdTgzTU1kekQ1Nmx6UXpzd09ndTh1RHFtUzdBcDJnVy1FQlhKUUQ4VjZWTE1hTDRnUy1DUndNOGJaSmNuQlk0QVRXXzFJM011UjFIcHdBOTVaYlpreUkwMHVxazZ2eWFLcEFmTXFPX2J4bHFnby1nWS1PMy1FZ2p3RFRsZ0pyc0xfY0JrS3FGSFh5VWdxYnNBNXBJTFVYdm5pbVpEcjZpdWhodmdfcXdIak85WVRPcHZmYktLb2VkSmRYYmNVUUc2ZnRUQzFrZE84Wkw4dkE3VEh4azI2Umt4VjlZdDJURWZ1Q3IyTDczaG5RR05KYXVKYkhiTzdWb1B0X2t4SXE0bzBNMU5fejZ6aktjNWpFbzRtQnBVRV9BeHdQNDJJNjZmRjlEczhlMlhMRTNyOXhmLUpfSmEzRQ?oc=5\" target=\"_blank\">How Meta’s Reels Became a $50 Billion Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2026-01-01T10:30:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "Meta Shares Fall as Scam Ad Report Raises New Regulatory Risks - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNREE2OGRaYTdkNENhMlNpMHZubTltbS10WWJSUVJfNVVWaVN4dFh1TjE3U19rV0ZyRVhSTm04cG1ZQkxuTTVVdk5hZF91Rm5JVXZXcHFfOHlVdjlQVXNPaV9iVHdwTS1TTG5xajVaNmJaUnBZTnZpRTNrTU12VnRhOWhwa1EtNlRXMWFmMDMwU2M1aDZ5b24w?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNREE2OGRaYTdkNENhMlNpMHZubTltbS10WWJSUVJfNVVWaVN4dFh1TjE3U19rV0ZyRVhSTm04cG1ZQkxuTTVVdk5hZF91Rm5JVXZXcHFfOHlVdjlQVXNPaV9iVHdwTS1TTG5xajVaNmJaUnBZTnZpRTNrTU12VnRhOWhwa1EtNlRXMWFmMDMwU2M1aDZ5b24w?oc=5\" target=\"_blank\">Meta Shares Fall as Scam Ad Report Raises New Regulatory Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2026-01-04T15:28:40+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Meta: Likely AI Surprises For 2026 (NASDAQ:META) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaFdSZkFrVjZlWUpnbzJhYWlvWkF0eDhPZXVBU3NzNENhcWRyRlVtaHdkbDdpX3hYSTJ6a2hDNG1LLUpGdnNhYlRVVXJaekJsVW1ZYnk3bklRemVNOTlSRzN0WDhmTmVBQTYtc0pTQlRlcUs4ZFJMSjRxYkpaZWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaFdSZkFrVjZlWUpnbzJhYWlvWkF0eDhPZXVBU3NzNENhcWRyRlVtaHdkbDdpX3hYSTJ6a2hDNG1LLUpGdnNhYlRVVXJaekJsVW1ZYnk3bklRemVNOTlSRzN0WDhmTmVBQTYtc0pTQlRlcUs4ZFJMSjRxYkpaZWM?oc=5\" target=\"_blank\">Meta: Likely AI Surprises For 2026 (NASDAQ:META)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-01-02T22:45:05+00:00",
+      "source": "Seeking Alpha"
     }
   ],
   "product_launches": [
+    {
+      "title": "Meta to debut costlier smart glasses with display at annual Connect event - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDUzU1IyOHA3ekJwNnVId0pDRVBlaFQ2d3FpRU9Sd0M4bUJ1MnBsTU5PaVNBODloeEw4d2NzdHB2YTBMZ2w5YmZmRHFoRzVHU2VTdmZWU1ZoSVFMMmlReW8yajFoZ1dGUmhxLXZJSS1kWWduWmFtNFFtNlZVbVgwM1lkNmliTjJWM0JpbHdFZDZsQ3ItV0hpM1RwNFJsWjRpbTBUc3J1WGctN0J1X25Od3B3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDUzU1IyOHA3ekJwNnVId0pDRVBlaFQ2d3FpRU9Sd0M4bUJ1MnBsTU5PaVNBODloeEw4d2NzdHB2YTBMZ2w5YmZmRHFoRzVHU2VTdmZWU1ZoSVFMMmlReW8yajFoZ1dGUmhxLXZJSS1kWWduWmFtNFFtNlZVbVgwM1lkNmliTjJWM0JpbHdFZDZsQ3ItV0hpM1RwNFJsWjRpbTBUc3J1WGctN0J1X25Od3B3?oc=5\" target=\"_blank\">Meta to debut costlier smart glasses with display at annual Connect event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-09-16T07:00:00+00:00",
+      "source": "Reuters"
+    },
     {
       "title": "Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month - CNBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83dVpVLWZDVFFzdjEwRTdRc3dRT1Jkdi00aFpYR0VtSlh2VFlLTkVSVjFMdWpUUFdBMmFJUWtTdmFSRWE2c1VjTW5RbkRybEpSWkRnOUt4SWpIbGxrYld1YnZwRDctU3NoVHZnQzhYTEI0dWVOd25weHFXS1PSAYIBQVVfeXFMTzNKenFqR3B6aVlzWm9xNjdSNnV4Q2V6LXQ3MVBYYXFBTFJzb21FWFBWRnVQemtfWTdqVUw1SlczZ2ZnSnhkSjQ4blNhempfUXhOcThwcnRYYUdpV1lnUXUzemVPajY5SmRqYTdCUUN1RzREV0RUWG91WGo2eWNNX3JqUQ?oc=5",
@@ -89,13 +96,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWZyeTZnVElrNkZwRGVhVDJ0dlpYTU0zbURQVDhaTGJMQTdFTTZwc00tazBZZXh0bnBRR3REbDk4TEFaZ3ZyVGs2elZvTVNOYnd3Zzl6eUFXMUppeElySGZlWkVsNGliMHhxN2M4RHFYYjdtSkdxUjkteWlLNFBSRw?oc=5\" target=\"_blank\">Mark Zuckerberg and Alexandr Wang reveal new Meta product to chorus of disdain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
       "published": "2025-09-26T07:00:00+00:00",
       "source": "SFGATE"
-    },
-    {
-      "title": "Meta launches design studio to \"define the next generation of our products\" - Dezeen",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ETV9jbzFXeC0zWjlFNjlfTnZLS2M0TDVPMXhuMEdVZl9aUlppdktoZlFlUFd3TndabGV1TGF6VG5HUi1lcml1QlBsdFdPZHZNOWZ1clo2eTBqQnZ6T0hjcnlNcVM2RHJLYkNGYTF2c3BrUzRRLUhn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ETV9jbzFXeC0zWjlFNjlfTnZLS2M0TDVPMXhuMEdVZl9aUlppdktoZlFlUFd3TndabGV1TGF6VG5HUi1lcml1QlBsdFdPZHZNOWZ1clo2eTBqQnZ6T0hjcnlNcVM2RHJLYkNGYTF2c3BrUzRRLUhn?oc=5\" target=\"_blank\">Meta launches design studio to \"define the next generation of our products\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dezeen</font>",
-      "published": "2025-12-08T08:00:00+00:00",
-      "source": "Dezeen"
     }
   ],
   "stock": {
