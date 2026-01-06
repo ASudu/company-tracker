@@ -2,50 +2,8 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-01-05T12:27:04.180047+00:00",
+  "fetched_at": "2026-01-06T12:26:41.173589+00:00",
   "news": [
-    {
-      "title": "Windows 11 Is A Broken Mess (And Microsoft Knows) - bgr.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbkVhZm1DcFR5cENjVGFtOXRlbzhqbi1FTlAtNEtRSWEwQjRXOElzX2NRcjRaVjJ1R2tmMHl4QXl3VlRmZzZ3STRIWnNpSlhsbzU5M2luUHB4MEZFazFSQ1RTWlI4TXBzRXNkTmRn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbkVhZm1DcFR5cENjVGFtOXRlbzhqbi1FTlAtNEtRSWEwQjRXOElzX2NRcjRaVjJ1R2tmMHl4QXl3VlRmZzZ3STRIWnNpSlhsbzU5M2luUHB4MEZFazFSQ1RTWlI4TXBzRXNkTmRn?oc=5\" target=\"_blank\">Windows 11 Is A Broken Mess (And Microsoft Knows)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
-      "published": "2026-01-04T16:17:00+00:00",
-      "source": "bgr.com"
-    },
-    {
-      "title": "Microsoft silently kills Windows and Office phone activation and forces online activation with a Microsoft account — Windows users are now herded into an online-only portal for activation - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTmJEWmZDTEF5b1cwTTJaVzlLRkt2WENlSTBIekd2RHRCWnpEYWdoT3Y3MElBb211LS1HcmJvMHcyRVp1TVNNNk9aRTVQNUVRcFJMM1h5WGFIcUdmam11R0NITldWaXVudEpkbUFTSXVmZHFFNEZodmEzMm1ZZ2lLTUFZT1Jkd1NPLWNiRHhUMUZOZXRqNjQwSlhWNmlzSG5KdFdPLThMbXUxNEVLSnRrWklaV3pianlLdG5tN3VYcFNiTGlKVmE5RHV0NkxfcDJPOFJSR09DNGh2RGVoUkNfMmJCNEVmSF9Eek9JYkNfc1B6YnJHVlVPclFCSFduaV9XVkktMkdsLXlfQUhTWVQ3S1NKclZtSC02Q0tWMHk2R0xtMTAwOWZlVXlxUzlKNXpkbTBTYm12bm9tdnl1eVR5LUEtYmtnck9vZGN2ejhCczI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTmJEWmZDTEF5b1cwTTJaVzlLRkt2WENlSTBIekd2RHRCWnpEYWdoT3Y3MElBb211LS1HcmJvMHcyRVp1TVNNNk9aRTVQNUVRcFJMM1h5WGFIcUdmam11R0NITldWaXVudEpkbUFTSXVmZHFFNEZodmEzMm1ZZ2lLTUFZT1Jkd1NPLWNiRHhUMUZOZXRqNjQwSlhWNmlzSG5KdFdPLThMbXUxNEVLSnRrWklaV3pianlLdG5tN3VYcFNiTGlKVmE5RHV0NkxfcDJPOFJSR09DNGh2RGVoUkNfMmJCNEVmSF9Eek9JYkNfc1B6YnJHVlVPclFCSFduaV9XVkktMkdsLXlfQUhTWVQ3S1NKclZtSC02Q0tWMHk2R0xtMTAwOWZlVXlxUzlKNXpkbTBTYm12bm9tdnl1eVR5LUEtYmtnck9vZGN2ejhCczI?oc=5\" target=\"_blank\">Microsoft silently kills Windows and Office phone activation and forces online activation with a Microsoft account — Windows users are now herded into an online-only portal for activation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-01-03T18:22:18+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "Report: Microsoft quietly kills official way to activate Windows 11/10 without internet - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajV1REJzb002VHlOS3ZaQWk4V1U3RVlqQ0NacnpaaHhaamNuWlJDV2ZFQ3ZDNVE2WU01bllka1RqZW44YjFKWi16NlI4TVNTWFRRdFd1bjBYc19wZDVYZFcxQktpaVM1cFE2ZzJOdmhKOUdudFYycWZ3anlseXRIWHZKd01rbTAwVUpMT004YXRnM1ZScG5JOFBPdEdlTlQ5bzZ0R0FHNzRPcFZXRDZnYmVGU20?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNajV1REJzb002VHlOS3ZaQWk4V1U3RVlqQ0NacnpaaHhaamNuWlJDV2ZFQ3ZDNVE2WU01bllka1RqZW44YjFKWi16NlI4TVNTWFRRdFd1bjBYc19wZDVYZFcxQktpaVM1cFE2ZzJOdmhKOUdudFYycWZ3anlseXRIWHZKd01rbTAwVUpMT004YXRnM1ZScG5JOFBPdEdlTlQ5bzZ0R0FHNzRPcFZXRDZnYmVGU20?oc=5\" target=\"_blank\">Report: Microsoft quietly kills official way to activate Windows 11/10 without internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "published": "2026-01-02T13:34:00+00:00",
-      "source": "Neowin"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella is now blogging about AI slop - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRFo0dHBEVFhZRGFNNEpUWHlqdGN2TktOd2lkaGFubGptWWxBV1FPTVZ6TkVKdHN1VkJEc3FmRm1lQzlMNFE0UnVvd0dpeXRyWUtiMkFzeXU2QzF1Sy1oeVM3aUFPVC1RUTZDYTdPNm1wWVpSRS13Uk4wWVRBSjRIS3ZRcXcyTGtkU25OSHNxVTRFVWZUVXhTZWctMlBIdw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNRFo0dHBEVFhZRGFNNEpUWHlqdGN2TktOd2lkaGFubGptWWxBV1FPTVZ6TkVKdHN1VkJEc3FmRm1lQzlMNFE0UnVvd0dpeXRyWUtiMkFzeXU2QzF1Sy1oeVM3aUFPVC1RUTZDYTdPNm1wWVpSRS13Uk4wWVRBSjRIS3ZRcXcyTGtkU25OSHNxVTRFVWZUVXhTZWctMlBIdw?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella is now blogging about AI slop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUWo5bTItWDk0S2lmVExqUlhfM0h1dGRHSWdUSF9iTUctOHZzSTZNWFM5a1BTeW1CNDdnMnZUZjRiRTNGOEVHZHZsWERodnNDd29Ycnp5aHQ0QzV2Y1BhTUk2cnNBZUdhNS1wSHNkOEdDUE9IQmlUTm1JaEtXQ1VtOGh3?oc=5\" target=\"_blank\">Microsoft CEO Begs Users to Stop Calling It \"Slop\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS0twS3dxMlZFc2tQdjBrVlJFUG1BRDFGX29LRWJfbU9uT3JNWWpwMDVJQkdSVVhWU0pVODZoQnUtRzhGSlhjalNKeDdiX3hTYmhPX0J0SmNKRVVHSF9weF8wXzU3MngxTmNGY3haNC1Nb3J1WVUxa2pER215RElxZjJDS3VtclhVTGRoSGxfUWkyRUFveGo1RmRaME4zaGRTMXg0UFZ0MHByaXJyajRrRGY5VWZac3gzZFFFNDg0R09iZXZqMHJ1aDAwQkJPSFdZTG1hSE52NTA5NmR2UC14VW5WNzBzVnl4Ml9kU3hsdFR4Z9IB9wFBVV95cUxNc1kyMmhnMlpGWUtnV3BSaDloN2ZfbHItX2ZTWWJDWkgtR1haQnB6SDQzOWV5cVVRbUFNSnBBWVRZSElWYkVwTlh5TE5kMFF3eFNKSFByVGpxR2VUYnJuTmUxS202LTlBR2hzYi1pelYtcjBOTUFMRmVYRnFjRVFObzJickxQUGZha0J5WkQ3TkFGbnRMbmNST1VjT3IzRy1xWTI3N0hNX2p0Y0N6ZFhSUE5WNHdNQmNtamhGSEgxU3E3bzZtTXItZkhvQnlJVXViTFMyZHJRTldLamlMR1VMV0I3NmpCRkdPSFgzcEs2d0x3d1dCVkQw?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella calls for a big AI reset in 2026, says we need to move beyond...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font></li></ol>",
-      "published": "2026-01-02T15:37:43+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "2026 Predictions: Microsoft Will Buy an AI Coding Startup - The Information",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTFGRHptQW42OTZ3alppSmRrV2VlbmMyZTFUM2kxelMzRllZSWpwTkM0d3JiSm1LVUxYSTBiT1U2dzA3NGVYOHc1aXFnZnNHRm5DR2EyXzdzSEhYTndVREt3TlJ0aTh1QlVzd3g1WjN0SGdsZHV2NXozWnAzSk9UYkdIaF9rcDE3c19xa3I3dHIwc1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTFGRHptQW42OTZ3alppSmRrV2VlbmMyZTFUM2kxelMzRllZSWpwTkM0d3JiSm1LVUxYSTBiT1U2dzA3NGVYOHc1aXFnZnNHRm5DR2EyXzdzSEhYTndVREt3TlJ0aTh1QlVzd3g1WjN0SGdsZHV2NXozWnAzSk9UYkdIaF9rcDE3c19xa3I3dHIwc1E?oc=5\" target=\"_blank\">2026 Predictions: Microsoft Will Buy an AI Coding Startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-01-02T14:00:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Why This Analyst Prefers Microsoft Over Google In The AI Race— 'You Don't Have The Downside Risk Of...' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRU9vbHF5VnZmc0RhMFIyYlNYXzdfUldXU1R3ekJoNFpGZEJVUjZIWDhCVk5ZS1Fla3R5X1BDN2xEZm1LVE9wSmpYZF9ISDZ0a2JQY3pCSE1KX1R4UDNoSDNCWlZibDI4UG9jcXBRQTVlN0xqYk5KUnZxdk50X1Z1S1dBT0IwTDA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRU9vbHF5VnZmc0RhMFIyYlNYXzdfUldXU1R3ekJoNFpGZEJVUjZIWDhCVk5ZS1Fla3R5X1BDN2xEZm1LVE9wSmpYZF9ISDZ0a2JQY3pCSE1KX1R4UDNoSDNCWlZibDI4UG9jcXBRQTVlN0xqYk5KUnZxdk50X1Z1S1dBT0IwTDA?oc=5\" target=\"_blank\">Why This Analyst Prefers Microsoft Over Google In The AI Race— 'You Don't Have The Downside Risk Of...'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-02T22:31:09+00:00",
-      "source": "Yahoo Finance"
-    },
     {
       "title": "I won the Microsoft Excel World Championship. Here's what every office worker should know about Excel. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlRSMGpfbkVYNzY1LXNNWXRfemI1WmZDSlpQM1VEN0RTb1czUWJZZUtyTUJhUXFIcDd0SmktZ2JsSXNibi1OOEtIdmFUR05GU1ptVzh0LVpGVXljdmR4Vm9iaU1QcEhmc2VHaEh4RFZ0N3FZYmkyUnYtTnFqRW5hRFNVVFoxckh3REtnMW1PbGZhYVg2dmVPeVlNRDBsQ0Jta2FQUA?oc=5",
@@ -54,11 +12,53 @@
       "source": "Business Insider"
     },
     {
-      "title": "Building end-to-end workflows with Microsoft 365 Copilot - Computerworld",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1hVeGZ6eEpLMDhSbi1vN3E2RHF4bTRBTHhkZVNxa3gxc2lpdDJXMV90cHRTdnVkZDM5Z3ptT1ZMVklNZnhaaDI2SFdtc3J1RUl4U3VOb2hsZ1JsWGpHUDFaeGVVc0dma0Y5azFzUTdmWVh4a1RXWFJTNHdxN1p6VF93cDIyMmZlTTJWUTM4b01GX3ZhSTZZWlVTR0JVMGFtdzJCb2ZzNnpUdkk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1hVeGZ6eEpLMDhSbi1vN3E2RHF4bTRBTHhkZVNxa3gxc2lpdDJXMV90cHRTdnVkZDM5Z3ptT1ZMVklNZnhaaDI2SFdtc3J1RUl4U3VOb2hsZ1JsWGpHUDFaeGVVc0dma0Y5azFzUTdmWVh4a1RXWFJTNHdxN1p6VF93cDIyMmZlTTJWUTM4b01GX3ZhSTZZWlVTR0JVMGFtdzJCb2ZzNnpUdkk?oc=5\" target=\"_blank\">Building end-to-end workflows with Microsoft 365 Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computerworld</font>",
-      "published": "2026-01-05T11:03:33+00:00",
-      "source": "Computerworld"
+      "title": "Microsoft and McKinsey pay up to $1mn each to back Donald Trump’s Davos hub - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zdTlvV3dvOWhycjhYRWZ5Q25Kck1oRkhtdXdqWEd0a1k5cTZzdE1KSDZhN3dRYjlJbHlOWGlEOUNuTXdGdnQxdTEyV3dNcU5iUmpRQkVxR1E1bUEyMmNXOHJuSUw3N3lDd25pclZGYzE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8zdTlvV3dvOWhycjhYRWZ5Q25Kck1oRkhtdXdqWEd0a1k5cTZzdE1KSDZhN3dRYjlJbHlOWGlEOUNuTXdGdnQxdTEyV3dNcU5iUmpRQkVxR1E1bUEyMmNXOHJuSUw3N3lDd25pclZGYzE?oc=5\" target=\"_blank\">Microsoft and McKinsey pay up to $1mn each to back Donald Trump’s Davos hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-01-05T21:00:03+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "Microsoft Surprises Windows Users After Update To Stop Chrome Downloads - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTJHMFJLd2F0RDhodkFaN2JxQldkRzZDUXdzc0dibUY4dGtqRk1XcUg1N3J2Z3JoNzNENkZ4eVFuWUZ5X0R4T3ptUEV5U1hadndEeXNMNGN3T1QtR2I3Sm9JY3BFdmZKVi0yLU5MRVdCVl9MU2RINW00a2dGc20yR3lONWw2UG9MVEFjOTJZQzRVMTBGSlJVaXh0QmhVNnB5ZlFSbHVpdDhhYTAzdGdZRF9QajhmeTBld1loS25xS18?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTJHMFJLd2F0RDhodkFaN2JxQldkRzZDUXdzc0dibUY4dGtqRk1XcUg1N3J2Z3JoNzNENkZ4eVFuWUZ5X0R4T3ptUEV5U1hadndEeXNMNGN3T1QtR2I3Sm9JY3BFdmZKVi0yLU5MRVdCVl9MU2RINW00a2dGc20yR3lONWw2UG9MVEFjOTJZQzRVMTBGSlJVaXh0QmhVNnB5ZlFSbHVpdDhhYTAzdGdZRF9QajhmeTBld1loS25xS18?oc=5\" target=\"_blank\">Microsoft Surprises Windows Users After Update To Stop Chrome Downloads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-01-06T10:20:37+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft Edge adopts Copilot's design language in major UI overhaul - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa3ZMTDlvVUdJdTh1RGRWMHRlcDE5VXAzZWFkazJmb1BENFoxQkxOaE8xMlVNRWhUdEl4NFc5X215NktLT3RTdVhQYzZFcmRhZU1RZUdXUm90aF9ZYXNjS0l5UXhMUmZfRnZjUlZLTl9ZeWJRNll6QXJVYS00YjI5bTc2bXo4VWtZWkkyS2tGeUFTOFk4bTNzX0VKZzFmQW1oMHBVeTR1OWI3S2hndjRLUGQyWmRrVW5mQ09PSEdqQjJKNnpjMXJ6UTV3eTQ2YUxVSlBmaURqa1FRTVlRNEJKR0JRRF_SAeoBQVVfeXFMTVRhaXhOLW1oUl91V0Z2TWtJSDJvN2ZfYVVsdlVhV01NMXVlQUhmejlOc21mSkZfdDBxRU5nRTJUd1M3ZFJjUm1oaWJObjh1MWxHWmJ1UUgtQk1CNmNEUUxrcm9IcDgwU21iOWJWclA2UkZKbFpsc0lrQzgwQVNCTjRxT1d0RGFsNEtBLTE5MDUxeFhLMC1UOWVpeW12eEV0UGY0NWFmQ2FUZ0RHRmZXbFp0QXYzOF9zbWFkZ1FHU2FNUTRkN0ZacDBMQTNiMy12WWpOdXp0c21qT3VtQk1aMm5aVkQ3TXJHNWNB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa3ZMTDlvVUdJdTh1RGRWMHRlcDE5VXAzZWFkazJmb1BENFoxQkxOaE8xMlVNRWhUdEl4NFc5X215NktLT3RTdVhQYzZFcmRhZU1RZUdXUm90aF9ZYXNjS0l5UXhMUmZfRnZjUlZLTl9ZeWJRNll6QXJVYS00YjI5bTc2bXo4VWtZWkkyS2tGeUFTOFk4bTNzX0VKZzFmQW1oMHBVeTR1OWI3S2hndjRLUGQyWmRrVW5mQ09PSEdqQjJKNnpjMXJ6UTV3eTQ2YUxVSlBmaURqa1FRTVlRNEJKR0JRRF_SAeoBQVVfeXFMTVRhaXhOLW1oUl91V0Z2TWtJSDJvN2ZfYVVsdlVhV01NMXVlQUhmejlOc21mSkZfdDBxRU5nRTJUd1M3ZFJjUm1oaWJObjh1MWxHWmJ1UUgtQk1CNmNEUUxrcm9IcDgwU21iOWJWclA2UkZKbFpsc0lrQzgwQVNCTjRxT1d0RGFsNEtBLTE5MDUxeFhLMC1UOWVpeW12eEV0UGY0NWFmQ2FUZ0RHRmZXbFp0QXYzOF9zbWFkZ1FHU2FNUTRkN0ZacDBMQTNiMy12WWpOdXp0c21qT3VtQk1aMm5aVkQ3TXJHNWNB?oc=5\" target=\"_blank\">Microsoft Edge adopts Copilot's design language in major UI overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-05T18:18:00+00:00",
+      "source": "Times of India"
+    },
+    {
+      "title": "Is Microsoft preparing for mass layoffs in 2026? - The HR Digest",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2QtcFBOY2tRZU93VVdLTnRRYk9PZEk2VkRIa2F3TzVpZUNOanY0OUlOY2VlcUo2ZVp1QjBWT1pGdkVOTkFwd2FLSENXaE9PbF9vcDlaWFR1SENwNWplS21XZ3dBb2xaSHdSbldISWVva1BEVHg2MC1DZWE5SjEwck93?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2QtcFBOY2tRZU93VVdLTnRRYk9PZEk2VkRIa2F3TzVpZUNOanY0OUlOY2VlcUo2ZVp1QjBWT1pGdkVOTkFwd2FLSENXaE9PbF9vcDlaWFR1SENwNWplS21XZ3dBb2xaSHdSbldISWVva1BEVHg2MC1DZWE5SjEwck93?oc=5\" target=\"_blank\">Is Microsoft preparing for mass layoffs in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The HR Digest</font>",
+      "published": "2026-01-05T09:20:19+00:00",
+      "source": "The HR Digest"
+    },
+    {
+      "title": "NVDA, MSFT: Daniel Ives Pounds the Table on Nvidia and Microsoft Stocks - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkdSNkFXbEEwMXB0bENnTkpMcjhCczJsS1d5R1dBMzhKOVctd2FJSFNtMzhpZDAtNnB3YlRvbmtYVnRYOExMWjE1TW4tQmctYnYtZjBFdktBaDFESTRYdThsX0Jyb3RsVG1WU3Z6X2JwVzg3S296M1g5V3RfdDJIRHJ2azlGb3RtU0ZEVENNQW5pVHhoalA5d3dBS1hGdDdJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkdSNkFXbEEwMXB0bENnTkpMcjhCczJsS1d5R1dBMzhKOVctd2FJSFNtMzhpZDAtNnB3YlRvbmtYVnRYOExMWjE1TW4tQmctYnYtZjBFdktBaDFESTRYdThsX0Jyb3RsVG1WU3Z6X2JwVzg3S296M1g5V3RfdDJIRHJ2azlGb3RtU0ZEVENNQW5pVHhoalA5d3dBS1hGdDdJ?oc=5\" target=\"_blank\">NVDA, MSFT: Daniel Ives Pounds the Table on Nvidia and Microsoft Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2026-01-06T11:26:50+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Microsoft's data center will make it Racine County's top taxpayer - Milwaukee Journal Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSEk5S0lYTE5sMmtacnRBXzF5RlVVU3d1c01SWEtzMXRBcVlYNFJmZXBPWmxCWXlLM002bjZSa0VkdGZXNkEwVkdPY2dHeVFSUG1YU3FneGR1WFp2ZTRwSHJDTk9GNzBFN1pEb3RQTkltRjdMbXJsTm9zM3ZhYzBxVFFfYUNGUl9nZTl0Sm5oQzh5V1NMTXBhbkZMT2FIUU9EclZMYWp2elpDSTd2WlNXWkxYVXhjZEQ4ZEkta2NuM3J4VjZYRjlnUm1QM0NYR0hs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSEk5S0lYTE5sMmtacnRBXzF5RlVVU3d1c01SWEtzMXRBcVlYNFJmZXBPWmxCWXlLM002bjZSa0VkdGZXNkEwVkdPY2dHeVFSUG1YU3FneGR1WFp2ZTRwSHJDTk9GNzBFN1pEb3RQTkltRjdMbXJsTm9zM3ZhYzBxVFFfYUNGUl9nZTl0Sm5oQzh5V1NMTXBhbkZMT2FIUU9EclZMYWp2elpDSTd2WlNXWkxYVXhjZEQ4ZEkta2NuM3J4VjZYRjlnUm1QM0NYR0hs?oc=5\" target=\"_blank\">Microsoft's data center will make it Racine County's top taxpayer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
+      "published": "2026-01-05T11:02:00+00:00",
+      "source": "Milwaukee Journal Sentinel"
+    },
+    {
+      "title": "No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wN3RfbWtwT3E2NndCUV9MbTQ0ak5ORzlpV0tOMkItdWdOOG1pZkM4V2I5VHllNFV5c0hoUURsdmlqN0hfXy1adWhiemxuU1kwcWEyQUZyNS1HSXZOcG41OGxmMmxsR0JjYnVaeDh6NGd4bVRCV2JiZXdMVjdTUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1wN3RfbWtwT3E2NndCUV9MbTQ0ak5ORzlpV0tOMkItdWdOOG1pZkM4V2I5VHllNFV5c0hoUURsdmlqN0hfXy1adWhiemxuU1kwcWEyQUZyNS1HSXZOcG41OGxmMmxsR0JjYnVaeDh6NGd4bVRCV2JiZXdMVjdTUQ?oc=5\" target=\"_blank\">No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-01-06T10:48:29+00:00",
+      "source": "The Verge"
     }
   ],
   "product_launches": [
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-02",
-      "close": 472.94000244140625
+      "date": "2026-01-05",
+      "close": 472.8500061035156
     },
     "history": [
-      {
-        "date": "2025-12-23",
-        "close": 486.8500061035156
-      },
       {
         "date": "2025-12-24",
         "close": 488.0199890136719
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-02",
         "close": 472.94000244140625
+      },
+      {
+        "date": "2026-01-05",
+        "close": 472.8500061035156
       }
     ],
     "name": "Microsoft Corporation"
