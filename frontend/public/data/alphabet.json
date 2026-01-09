@@ -2,49 +2,21 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-01-08T12:27:06.434796+00:00",
+  "fetched_at": "2026-01-09T12:25:53.182285+00:00",
   "news": [
     {
-      "title": "Alphabet's market cap surpasses Apple’s for first time since 2019 - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2ZrWi1XZTRoTjB3aXU2YzJYS3BMbm5zdUdpc1lEU2cxQW1BMlF3bzJLdGRkUUNoNHkzY1lfMS1RWXJHblZVNjRYM0hxdEx2YjdvT3B3Mm56RU9yUWRzM0FOYUdfdFlHeVBwaGZGRXJrdFV5ZC1Na2hpRjRLODJqX1QwZnNTY0lQcVZwbFQ2ZzBBcVFWbWZReThxQ1M0aVVYREHSAacBQVVfeXFMT0xycHNOOW1NMUxqdFVnOExSNFVrNU9zNEFLaXRiNGE3Z2NnSGgyMlVsUXktbTdNWVh3Ym8zYThiX0tESXkwQWdLTU94VnI4WEF5VTRfRE52bUlXcUZyeXg2czZOa0ZfQ3FOSlQ0VnpGUTMzVXhuYTJXd2dvWnJLdGhzZWlqRExaRjk1eXBnTUowNUJ4Tmp4S1ZPaG1OazdNaXpqR3hveFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2ZrWi1XZTRoTjB3aXU2YzJYS3BMbm5zdUdpc1lEU2cxQW1BMlF3bzJLdGRkUUNoNHkzY1lfMS1RWXJHblZVNjRYM0hxdEx2YjdvT3B3Mm56RU9yUWRzM0FOYUdfdFlHeVBwaGZGRXJrdFV5ZC1Na2hpRjRLODJqX1QwZnNTY0lQcVZwbFQ2ZzBBcVFWbWZReThxQ1M0aVVYREHSAacBQVVfeXFMT0xycHNOOW1NMUxqdFVnOExSNFVrNU9zNEFLaXRiNGE3Z2NnSGgyMlVsUXktbTdNWVh3Ym8zYThiX0tESXkwQWdLTU94VnI4WEF5VTRfRE52bUlXcUZyeXg2czZOa0ZfQ3FOSlQ0VnpGUTMzVXhuYTJXd2dvWnJLdGhzZWlqRExaRjk1eXBnTUowNUJ4Tmp4S1ZPaG1OazdNaXpqR3hveFE?oc=5\" target=\"_blank\">Alphabet's market cap surpasses Apple’s for first time since 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-07T21:06:10+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Alphabet Surpasses Apple in Market Cap for First Time Since 2019 - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNRkhsTDZOSWNEcHA5eUtTYy1fTGI2TEJmSjZDTWJ6bk5PamNUd2pnNEMwWmlRZDRiSVFMNzdrNlU0OXdLeGI0VGg3LVlPQmp4SGNsNzJTSVktYnp5SnRxeWtyc0xjeThRMl9jbGpmMk4xbFlpclhmYS1abWgxbWM0NVlaVkM2U3lQUldhbDg0R1FfanR5Z0tBOXFCbVRwcGI0eVo0bEhyZ3VoaXUtMHZFT2psSmJZSzY1TjZzTWJNbF9oMTlsLTlicFg0QjRQQnllU1dpWUw3aXBnaGxKQUloWUh1TVczbDZZdHV1Y1NndXdlQ1AyMlh6NzVMMTJIeWFPWC01Zi10b0hZR1A2clU0Tmx5ZDB0SndVZmtJNElBa0E4b2R2Mk85Z1p0R2plcU9MSklzWDU0LWNiai1ZTnlOS2xCMy0zck4wcGVKNkt4clF6TmJMMGJxQzBySFZEelE3elNwdHk4UTEyc2p2ajFjOVJTSm54ZnBhOXkwVG9PYldKMGM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwNBVV95cUxNRkhsTDZOSWNEcHA5eUtTYy1fTGI2TEJmSjZDTWJ6bk5PamNUd2pnNEMwWmlRZDRiSVFMNzdrNlU0OXdLeGI0VGg3LVlPQmp4SGNsNzJTSVktYnp5SnRxeWtyc0xjeThRMl9jbGpmMk4xbFlpclhmYS1abWgxbWM0NVlaVkM2U3lQUldhbDg0R1FfanR5Z0tBOXFCbVRwcGI0eVo0bEhyZ3VoaXUtMHZFT2psSmJZSzY1TjZzTWJNbF9oMTlsLTlicFg0QjRQQnllU1dpWUw3aXBnaGxKQUloWUh1TVczbDZZdHV1Y1NndXdlQ1AyMlh6NzVMMTJIeWFPWC01Zi10b0hZR1A2clU0Tmx5ZDB0SndVZmtJNElBa0E4b2R2Mk85Z1p0R2plcU9MSklzWDU0LWNiai1ZTnlOS2xCMy0zck4wcGVKNkt4clF6TmJMMGJxQzBySFZEelE3elNwdHk4UTEyc2p2ajFjOVJTSm54ZnBhOXkwVG9PYldKMGM?oc=5\" target=\"_blank\">Alphabet Surpasses Apple in Market Cap for First Time Since 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-01-07T21:22:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Apple Just Became Less Valuable Than Alphabet/Google and the Timing Is Unsettling - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjBkQzlhZzZyMHJoc1BuVUV6bnRIdzlYUFF3ekJrdl9DLUNfaWh1TmJzb2JpQkllVC1jWDFfQl85X19SazNEak9WbWVzQWJ1VENtRXJ6NHRiaXhhUlQyTDU2TXptbFFfTE03RENQekhJdFNmX1JxUTNxSVBYSXlZTkFFUHFsM1VadGwtM0FEcm5aMVV3TnhHTlFtQ0RENkFIdDZSSFJLSmdCX25JMkdUbV93?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjBkQzlhZzZyMHJoc1BuVUV6bnRIdzlYUFF3ekJrdl9DLUNfaWh1TmJzb2JpQkllVC1jWDFfQl85X19SazNEak9WbWVzQWJ1VENtRXJ6NHRiaXhhUlQyTDU2TXptbFFfTE03RENQekhJdFNmX1JxUTNxSVBYSXlZTkFFUHFsM1VadGwtM0FEcm5aMVV3TnhHTlFtQ0RENkFIdDZSSFJLSmdCX25JMkdUbV93?oc=5\" target=\"_blank\">Apple Just Became Less Valuable Than Alphabet/Google and the Timing Is Unsettling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-01-08T04:37:22+00:00",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "Alphabet is coming off a strong year. One analyst sees even more upside for the Google parent - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOURTUVRRYk1pdlZ5UVphWXl5cFdTdU1XUFprV2xCZGtMc2xMcnJuLW5QazBqU0NzTHV1U3FJc3g5TGoyemRrZkQwTXFmcTVvek1CVDBzaWNfMDBhc2otVXVzVWlmU1FSWTgycGhCUTNyeTRTRE1QQklxLW0tOW5jNjNwTlNDSlJCaFVhWTRGcENpbHdEY0xFNHhIcTZreTBackNKVHB0Q2VCQXZ3TmNDN0ZNSmRXdzBkWXVxeWlya2ZlNWx4SnluUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOURTUVRRYk1pdlZ5UVphWXl5cFdTdU1XUFprV2xCZGtMc2xMcnJuLW5QazBqU0NzTHV1U3FJc3g5TGoyemRrZkQwTXFmcTVvek1CVDBzaWNfMDBhc2otVXVzVWlmU1FSWTgycGhCUTNyeTRTRE1QQklxLW0tOW5jNjNwTlNDSlJCaFVhWTRGcENpbHdEY0xFNHhIcTZreTBackNKVHB0Q2VCQXZ3TmNDN0ZNSmRXdzBkWXVxeWlya2ZlNWx4SnluUw?oc=5\" target=\"_blank\">Alphabet is coming off a strong year. One analyst sees even more upside for the Google parent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-08T11:56:08+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Northrop, Lockheed, Alphabet, Revolution Medicines, AbbVie, Costco, and More Movers - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOc2N0ajdyUzBJODU5NFlKSXRoVDlnZTdFYUZ4RDhIbEVSbFdUdk1oYmxvRTFFTmhTbkV3Vmg5Zmx2cGdsM291LUZMYkhPWGsyTUZzWThDbjR4MHNvQmw0MGYycTFvZW9IeF9lTERoUXpLa2szd3MxZ1Bxczh4UHhhRG1XTWNJeko2YUxVb2Z2bDVHWTVGc2NuOGNKaGpkZ29kbjROd1owOVJjVkdTV1d2b1ZHNEdOOEpHSHNYekxBUnZpSXB0c0Nmb0tIOWtXVEQ5blhLczItbzRKRFhHZGNUd3pSX2lGbGYzem90cm1RYXM2ZHJhZzZUY1hRMHRZeFZHVElWZjhGZzdQMUpmQ3RteFpWSVZteWJVdWJUYVRRSkR5UURuWFZjX0VLSTNGWmdLUnFoZWFaSUQzdWducmVBTGZNQlYtUHRVdWpQY3FuUFJCRVVLMlpUUHhXTVJZcDgxMDhEWVpIRUpOUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOc2N0ajdyUzBJODU5NFlKSXRoVDlnZTdFYUZ4RDhIbEVSbFdUdk1oYmxvRTFFTmhTbkV3Vmg5Zmx2cGdsM291LUZMYkhPWGsyTUZzWThDbjR4MHNvQmw0MGYycTFvZW9IeF9lTERoUXpLa2szd3MxZ1Bxczh4UHhhRG1XTWNJeko2YUxVb2Z2bDVHWTVGc2NuOGNKaGpkZ29kbjROd1owOVJjVkdTV1d2b1ZHNEdOOEpHSHNYekxBUnZpSXB0c0Nmb0tIOWtXVEQ5blhLczItbzRKRFhHZGNUd3pSX2lGbGYzem90cm1RYXM2ZHJhZzZUY1hRMHRZeFZHVElWZjhGZzdQMUpmQ3RteFpWSVZteWJVdWJUYVRRSkR5UURuWFZjX0VLSTNGWmdLUnFoZWFaSUQzdWducmVBTGZNQlYtUHRVdWpQY3FuUFJCRVVLMlpUUHhXTVJZcDgxMDhEWVpIRUpOUQ?oc=5\" target=\"_blank\">Northrop, Lockheed, Alphabet, Revolution Medicines, AbbVie, Costco, and More Movers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-01-08T11:54:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Right Tail Capital’s Views on Alphabet (GOOG) - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVN6b3pNdjlrSXR6VGdZRG5rNlVzUXIwdW4yNEZ6SjhtX2h6VGhaSE9QWHltTmgyczR2dVdXQVo3OFlMcm93WW1jQVRQeHRKcXo3eld3cjVBRVk5WjBOZWJRYXBaMHdDSzVDZV9TX3NqZ3R4cnB2alQxUlU3ZVRfNDBqR20?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVN6b3pNdjlrSXR6VGdZRG5rNlVzUXIwdW4yNEZ6SjhtX2h6VGhaSE9QWHltTmgyczR2dVdXQVo3OFlMcm93WW1jQVRQeHRKcXo3eld3cjVBRVk5WjBOZWJRYXBaMHdDSzVDZV9TX3NqZ3R4cnB2alQxUlU3ZVRfNDBqR20?oc=5\" target=\"_blank\">Right Tail Capital’s Views on Alphabet (GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-07T13:58:26+00:00",
+      "title": "Alphabet overtakes Apple as world's second-most-valuable company behind Nvidia - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmR5M0V6aVhqT1JxZHdUZlZXRXg0azk4QWl0eGpuMFozekwySXM4RFlTeGx5MmFZOExJQWVtcW84SFRpNVVpcHo4TU4yRlFiMG4zVzBGR0syQWlDYkM3UGpkZHROLXpadm9FbDVtRmZoQ0UtZ211c3ZJUFlLeVFiQl9veEtNZVZ6Mnp0UUtpaDBYbDVXa0dmaFZiclpSVVYtQmI2UjYzN3drd0ZkR3ROQUxDZ0xWbG1HbnV3VXVkZ0o?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmR5M0V6aVhqT1JxZHdUZlZXRXg0azk4QWl0eGpuMFozekwySXM4RFlTeGx5MmFZOExJQWVtcW84SFRpNVVpcHo4TU4yRlFiMG4zVzBGR0syQWlDYkM3UGpkZHROLXpadm9FbDVtRmZoQ0UtZ211c3ZJUFlLeVFiQl9veEtNZVZ6Mnp0UUtpaDBYbDVXa0dmaFZiclpSVVYtQmI2UjYzN3drd0ZkR3ROQUxDZ0xWbG1HbnV3VXVkZ0o?oc=5\" target=\"_blank\">Alphabet overtakes Apple as world's second-most-valuable company behind Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2ZrWi1XZTRoTjB3aXU2YzJYS3BMbm5zdUdpc1lEU2cxQW1BMlF3bzJLdGRkUUNoNHkzY1lfMS1RWXJHblZVNjRYM0hxdEx2YjdvT3B3Mm56RU9yUWRzM0FOYUdfdFlHeVBwaGZGRXJrdFV5ZC1Na2hpRjRLODJqX1QwZnNTY0lQcVZwbFQ2ZzBBcVFWbWZReThxQ1M0aVVYREHSAacBQVVfeXFMT0xycHNOOW1NMUxqdFVnOExSNFVrNU9zNEFLaXRiNGE3Z2NnSGgyMlVsUXktbTdNWVh3Ym8zYThiX0tESXkwQWdLTU94VnI4WEF5VTRfRE52bUlXcUZyeXg2czZOa0ZfQ3FOSlQ0VnpGUTMzVXhuYTJXd2dvWnJLdGhzZWlqRExaRjk1eXBnTUowNUJ4Tmp4S1ZPaG1OazdNaXpqR3hveFE?oc=5\" target=\"_blank\">Alphabet's market cap surpasses Apple’s for first time since 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjB6RE0xMHRSYXE5YlRBWnVFR0p5OTRrZWR2aWlsUVpCMXJwdjhGUVAwVURfV1pxamtYdGRQTG9CYU84UjhyQ25KVnNGUlk3XzJVWER3eWVHSWJ2YWI2OWpxTlczT1ZsckUydUJxSjdQd3ZBeW5XX3pEUHUyUlo0ZjFPTlZPaVZxVGtuS09pTzI3aklYUml3MlBQNmZBaXJFVFY3UGxXZlJ2cHFpS0pxSE9nbWc?oc=5\" target=\"_blank\">Alphabet Nears $4 Trillion Market Value. Is There More Upside for the Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font></li></ol>",
+      "published": "2026-01-08T21:12:18+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026 - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOZE1RaE9wSkdxN1VKUEFhLUZON2JabGRmZFU0aUtkd21JV1V1LUhHbzV1bXlhdkR5SV9YUmk3YzRkVUY4LWxUWTJNSUlGV2VZN1V3N2J3MWxXVlJTZVVEQjBYWWFrZUN1NmJLYTdUZi11WEtxaUNISllNVmtMWFJPTm05WGJfb1dJZ2tsdEFHcVVab1BlUFNTZ2RIS3lCaUpEWjZjOVp5Ynl3WjZLbWV4dkNFQTNWRm96WFd2ZExmQ1l5RU1mbUI1Qk4wbUxid1IwN3RKbG12eUN3b09iZkVFRFZNZXc0NDluanpwN2VYM3E4ZHZKY1kzWVhKbjRVS0pFa0J0cnBDUHphMHo0WXJpaS1vSVdGdEt4NUpjV1loMmo0RnV6NjVEY0o5UkpnU3BMZHZ3RzJ5c2V6VTVNX2hQYzZEaTRYbGZPc3g3Rk9adFhDSUctM0EtWndXVE9ZNU9FZ185WVBERjVacERYOVUyVElid0wtS3A1UTRQaWgzVFpCcmFJZ0xONFZsaXp3d2Rka1oxR3R5Y2NhckE1Rk1RMFVyMGlWaEhhN0NodDJQVUs0dVdQYVpr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxOZE1RaE9wSkdxN1VKUEFhLUZON2JabGRmZFU0aUtkd21JV1V1LUhHbzV1bXlhdkR5SV9YUmk3YzRkVUY4LWxUWTJNSUlGV2VZN1V3N2J3MWxXVlJTZVVEQjBYWWFrZUN1NmJLYTdUZi11WEtxaUNISllNVmtMWFJPTm05WGJfb1dJZ2tsdEFHcVVab1BlUFNTZ2RIS3lCaUpEWjZjOVp5Ynl3WjZLbWV4dkNFQTNWRm96WFd2ZExmQ1l5RU1mbUI1Qk4wbUxid1IwN3RKbG12eUN3b09iZkVFRFZNZXc0NDluanpwN2VYM3E4ZHZKY1kzWVhKbjRVS0pFa0J0cnBDUHphMHo0WXJpaS1vSVdGdEt4NUpjV1loMmo0RnV6NjVEY0o5UkpnU3BMZHZ3RzJ5c2V6VTVNX2hQYzZEaTRYbGZPc3g3Rk9adFhDSUctM0EtWndXVE9ZNU9FZ185WVBERjVacERYOVUyVElid0wtS3A1UTRQaWgzVFpCcmFJZ0xONFZsaXp3d2Rka1oxR3R5Y2NhckE1Rk1RMFVyMGlWaEhhN0NodDJQVUs0dVdQYVpr?oc=5\" target=\"_blank\">Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2026-01-08T20:10:00+00:00",
+      "source": "MarketWatch"
     },
     {
       "title": "Alphabet Stock Eyes Breakout Above All-Time High As AI Chip Strategy Reshapes Sentiment - Seeking Alpha",
@@ -54,11 +26,39 @@
       "source": "Seeking Alpha"
     },
     {
+      "title": "Prediction: This Artificial Intelligence Stock Will Become a Member of the $4 Trillion Club in 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUZFRlJ0ZHpvZnp5d3liaVd1X3BQVFNKVTRSZmszVXBRYm9NdFk2MTNvSW1NZVFxMllUZms0U19DejQxRDhGclpQemVCNWp1WVFzV01YSjhHZERQYUY3VXdJajNJUnQxcEpCeWl4MzdJQS16bExxY0JVY0tuMHR0YjRxVHA0ekMwRGpnM1JGUXpYMHVrdEMxYQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUZFRlJ0ZHpvZnp5d3liaVd1X3BQVFNKVTRSZmszVXBRYm9NdFk2MTNvSW1NZVFxMllUZms0U19DejQxRDhGclpQemVCNWp1WVFzV01YSjhHZERQYUY3VXdJajNJUnQxcEpCeWl4MzdJQS16bExxY0JVY0tuMHR0YjRxVHA0ekMwRGpnM1JGUXpYMHVrdEMxYQ?oc=5\" target=\"_blank\">Prediction: This Artificial Intelligence Stock Will Become a Member of the $4 Trillion Club in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-09T09:35:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Alphabet: The ChatGPT Crossover Trade Could Happen As Soon As This Year (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTk5JNHpfMm5rMllXNWs5aEhtVGxvMXRrbkpjSHJ2YndUSFk2STNKaGxXenRCV2RXeVhlUGREOVRnWGFjdG9DTWh2UkhSRU1IVlV0Ym9ZMTdlRUZ5REg2d0FUdUwxQjNRRjNfVERRU1hRR1A1dzRWWTNHcENCdV9vOTY1dU9wNnVabzRSYXZMdk5WQWtUQTdHbUdMcDFmaG05ZzZlSG9hUldRR3ZLNXZPMg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTk5JNHpfMm5rMllXNWs5aEhtVGxvMXRrbkpjSHJ2YndUSFk2STNKaGxXenRCV2RXeVhlUGREOVRnWGFjdG9DTWh2UkhSRU1IVlV0Ym9ZMTdlRUZ5REg2d0FUdUwxQjNRRjNfVERRU1hRR1A1dzRWWTNHcENCdV9vOTY1dU9wNnVabzRSYXZMdk5WQWtUQTdHbUdMcDFmaG05ZzZlSG9hUldRR3ZLNXZPMg?oc=5\" target=\"_blank\">Alphabet: The ChatGPT Crossover Trade Could Happen As Soon As This Year (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-01-08T20:41:46+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
       "title": "Alphabet acquires clean energy developer Intersect for $4.75B - Utility Dive",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0FUU1psUnhNd1VDQ1ZKZVdvS3N4VFhNSzB0UmhBbWNJNms4SlJ3RlRFN3hkd0l0Z1hLcldHNFJ5eEZsRGFzdXR5ZnNfNkpBeVBtUFJnQXJsaTJTZ0hjUDQzNFRKenI0d2RLdkJnN3JEWHhCT1ZpbjVfQmZmaHN1TG1jS3BEb2twZE1jT1RYeHdRS1JCbk5TNHA4eTlpcWtTenc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0FUU1psUnhNd1VDQ1ZKZVdvS3N4VFhNSzB0UmhBbWNJNms4SlJ3RlRFN3hkd0l0Z1hLcldHNFJ5eEZsRGFzdXR5ZnNfNkpBeVBtUFJnQXJsaTJTZ0hjUDQzNFRKenI0d2RLdkJnN3JEWHhCT1ZpbjVfQmZmaHN1TG1jS3BEb2twZE1jT1RYeHdRS1JCbk5TNHA4eTlpcWtTenc?oc=5\" target=\"_blank\">Alphabet acquires clean energy developer Intersect for $4.75B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>",
       "published": "2026-01-06T14:28:30+00:00",
       "source": "Utility Dive"
+    },
+    {
+      "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Alphabet, Coinbase Global, Digital Realty Trust, Intuit, Reddit, Roku, Tyler Technolgies, and More - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMEdZbXk5Tm1HQTlwZmROdkt2Y3h6cXRhMmRnclljZkhBSUl3RmdnaEgxdUVzSmxxMWJJWGNXd1BsQ0p2R2RuaVZpbjJaZFdhMEZHWlhvSzBFcl83QklpUWYxcmFNcFcycHZzTHZBempqTDctV1IxU2pHeFRrbkJuTmtlbGJ6NWVXclM4QkVTM0NSSnpucE9pUDhlc3hIdnFKYjZ1ZGtTRU1SZEVWSElwQ3BPNG13UnFVVEY5alF3Z1FkbkMyUXE3MXpBNlBLMDdMTEZuUmxneUNNNEl5SzZ6b1ZhbWZ4bFM3RXNMa0oxMmotX2czN2VESUNkMld6VDh3T2Myc2VuSU9BVHdHSDZza1hwTzJTbWFGX25EMER3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxPMEdZbXk5Tm1HQTlwZmROdkt2Y3h6cXRhMmRnclljZkhBSUl3RmdnaEgxdUVzSmxxMWJJWGNXd1BsQ0p2R2RuaVZpbjJaZFdhMEZHWlhvSzBFcl83QklpUWYxcmFNcFcycHZzTHZBempqTDctV1IxU2pHeFRrbkJuTmtlbGJ6NWVXclM4QkVTM0NSSnpucE9pUDhlc3hIdnFKYjZ1ZGtTRU1SZEVWSElwQ3BPNG13UnFVVEY5alF3Z1FkbkMyUXE3MXpBNlBLMDdMTEZuUmxneUNNNEl5SzZ6b1ZhbWZ4bFM3RXNMa0oxMmotX2czN2VESUNkMld6VDh3T2Myc2VuSU9BVHdHSDZza1hwTzJTbWFGX25EMER3?oc=5\" target=\"_blank\">Here Are Thursday’s Top Wall Street Analyst Research Calls: Alphabet, Coinbase Global, Digital Realty Trust, Intuit, Reddit, Roku, Tyler Technolgies, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-01-08T13:10:41+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "EU antitrust decision on $32 billion Google-Wiz deal due by February 10 - CTech",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MR2xvbS1KbjJySjRRd2JhTVc2NXhhQUtudUtXYXMyTUVJZ3U4Rm1CQmVubzhhc25FdkJSM18wMFE1VWlOeTdwbURzRVFKVHpWSTBQcHhmUlNqYTBBMVFaQ2ZwTk5lVHd1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MR2xvbS1KbjJySjRRd2JhTVc2NXhhQUtudUtXYXMyTUVJZ3U4Rm1CQmVubzhhc25FdkJSM18wMFE1VWlOeTdwbURzRVFKVHpWSTBQcHhmUlNqYTBBMVFaQ2ZwTk5lVHd1?oc=5\" target=\"_blank\">EU antitrust decision on $32 billion Google-Wiz deal due by February 10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTech</font>",
+      "published": "2026-01-08T12:56:00+00:00",
+      "source": "CTech"
     }
   ],
   "product_launches": [
@@ -68,13 +68,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmdaOFFaYWk4NWZJdG5WZDdBRF9MVmZmTE5yX25jQkZ0MVF6blEtWm5zZ3l1a3JqVXdvU0xQTFJhYW9MUVc0ZUVpelRqZUw4THB2UDZLeG1vYUsycnpRc2s5WjJxWFdrbG5La0hjc0M0SFNvWW03UjZUcWUyOUhsbmt1ZVRMTk1DOUJuN1NDNXZsY3ZTU0dj?oc=5\" target=\"_blank\">This AI Stock Could Rally More if Its New Product Line Delivers on Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
       "published": "2025-11-29T08:00:00+00:00",
       "source": "The Motley Fool"
-    },
-    {
-      "title": "Google launches Gemini 3, embeds AI model into search immediately - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDM3bGRBbm5FYmlvX1k3THdHUVo1U0RRYkp5Q1hFbmJRZ2hNdTZQQWpwUVZDNFVCSjYxdDVXZXY5WmlLQ2kzd1dwQ0d6dTBmV0VyNkc1SHBHTzQ5WE1Kc2VSZDhkYTBFVS14ckgydkpxckltdGh3TkUxem9raDlPLW93WURYcFR1VkJyZ1dRc3FaVU9FTnpIMm9hRzJsRDNsbjFMZGRVdlVKN1JVal9lTlpGQV9ubmZqQkRfeTdwWUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDM3bGRBbm5FYmlvX1k3THdHUVo1U0RRYkp5Q1hFbmJRZ2hNdTZQQWpwUVZDNFVCSjYxdDVXZXY5WmlLQ2kzd1dwQ0d6dTBmV0VyNkc1SHBHTzQ5WE1Kc2VSZDhkYTBFVS14ckgydkpxckltdGh3TkUxem9raDlPLW93WURYcFR1VkJyZ1dRc3FaVU9FTnpIMm9hRzJsRDNsbjFMZGRVdlVKN1JVal9lTlpGQV9ubmZqQkRfeTdwWUw?oc=5\" target=\"_blank\">Google launches Gemini 3, embeds AI model into search immediately</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-11-18T08:00:00+00:00",
-      "source": "Reuters"
     },
     {
       "title": "Alphabet (GOOGL) Valuation in Focus as AI Expansion and Pixel Launches Highlight Growth Potential - simplywall.st",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjVsLUNieGpYS0pMNUFJLTR3aEl4WXROSnp6VlJub0RpckVRZk5QM01RSHlzLVAxNlRaRXhNSHZNWXBGTHdia2ppV1JkWW5NNUR0dXd5bmVfS2xkcW4ydUVlYkdSZXRFOWtrbjNBQ2NNOGdJMVpJNUMwZGt5ejY2SjN0TVdyOHZMNmMxMzFQMUpPNTgtUWpoN2FsaVJoMDFfWmJ2UkVvU18xZWM0ekd6Z0FuMzlobXEyel9WaDVkU3dabGs?oc=5\" target=\"_blank\">Alphabet set to report Q3 earnings after market close, what to expect?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView — Track All Markets</font>",
       "published": "2025-10-29T07:00:00+00:00",
       "source": "TradingView — Track All Markets"
+    },
+    {
+      "title": "Sundar Pichai responds to Polymarket predicting Gemini 3 update - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96LXZyVFRDbUh1ck5jcEhRN1Z5WjJrZWM5NTdMUHlzZTF3OVBTM1pOSWYyTWtpZTJHY3ZTTGJQWklmMmh4Mi13MTBwQks3RHNmckVhazNWOGNGei1aeGtpY3VDczN3X005WUR5Vi00QWE0QmpaaGhaRHNBdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE96LXZyVFRDbUh1ck5jcEhRN1Z5WjJrZWM5NTdMUHlzZTF3OVBTM1pOSWYyTWtpZTJHY3ZTTGJQWklmMmh4Mi13MTBwQks3RHNmckVhazNWOGNGei1aeGtpY3VDczN3X005WUR5Vi00QWE0QmpaaGhaRHNBdw?oc=5\" target=\"_blank\">Sundar Pichai responds to Polymarket predicting Gemini 3 update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "published": "2025-11-15T08:00:00+00:00",
+      "source": "thestreet.com"
     }
   ],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-07",
-      "close": 321.9800109863281
+      "date": "2026-01-08",
+      "close": 325.44000244140625
     },
     "history": [
-      {
-        "date": "2025-12-29",
-        "close": 313.55999755859375
-      },
       {
         "date": "2025-12-30",
         "close": 313.8500061035156
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-07",
         "close": 321.9800109863281
+      },
+      {
+        "date": "2026-01-08",
+        "close": 325.44000244140625
       }
     ],
     "name": "Alphabet Inc."
