@@ -2,21 +2,14 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-01-10T12:21:51.619358+00:00",
+  "fetched_at": "2026-01-11T12:23:10.662067+00:00",
   "news": [
     {
-      "title": "Apple’s John Ternus Could Be Tim Cook’s Successor as CEO - The New York Times",
+      "title": "The Man Who Could Be Apple’s Next C.E.O. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalNyUnFiQVlZYi05QmNvekIyX2Q0SGRrQmluSlVHZWluczdUV3pwbk5qeFVDZ0lON2JFenpuLUJzX2RRdkV1RDRpbVZJVkZCOVJ5NVlubDg1cnVIX2tsZVViUUVLSzFsaXpHWGpaOGdTT3N5T1g4RGNGcm9Pc0pwSnpkU2lSUHhs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalNyUnFiQVlZYi05QmNvekIyX2Q0SGRrQmluSlVHZWluczdUV3pwbk5qeFVDZ0lON2JFenpuLUJzX2RRdkV1RDRpbVZJVkZCOVJ5NVlubDg1cnVIX2tsZVViUUVLSzFsaXpHWGpaOGdTT3N5T1g4RGNGcm9Pc0pwSnpkU2lSUHhs?oc=5\" target=\"_blank\">Apple’s John Ternus Could Be Tim Cook’s Successor as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalNyUnFiQVlZYi05QmNvekIyX2Q0SGRrQmluSlVHZWluczdUV3pwbk5qeFVDZ0lON2JFenpuLUJzX2RRdkV1RDRpbVZJVkZCOVJ5NVlubDg1cnVIX2tsZVViUUVLSzFsaXpHWGpaOGdTT3N5T1g4RGNGcm9Pc0pwSnpkU2lSUHhs?oc=5\" target=\"_blank\">The Man Who Could Be Apple’s Next C.E.O.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "published": "2026-01-08T16:36:21+00:00",
       "source": "The New York Times"
-    },
-    {
-      "title": "Apple CEO Tim Cook’s 2025 Pay Held Steady At $74.3M - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmgyLUgzRTVMcDlCVUxFOU9faldSYVZlVXlFcEo4eEFOVjVEVmZTeDdhYUxaUmt4TU16aXVOWFpEQ2ZRdzltZkRERWlzbFdaUzRVSC1xZDRiSTBkRkR5bVNlU3MwWXU5dXNIMU52WjlxVGpZVDJDWFhoVEozaW9TakJGUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmgyLUgzRTVMcDlCVUxFOU9faldSYVZlVXlFcEo4eEFOVjVEVmZTeDdhYUxaUmt4TU16aXVOWFpEQ2ZRdzltZkRERWlzbFdaUzRVSC1xZDRiSTBkRkR5bVNlU3MwWXU5dXNIMU52WjlxVGpZVDJDWFhoVEozaW9TakJGUQ?oc=5\" target=\"_blank\">Apple CEO Tim Cook’s 2025 Pay Held Steady At $74.3M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>",
-      "published": "2026-01-09T05:06:00+00:00",
-      "source": "Deadline"
     },
     {
       "title": "Apple CEO Pay Dips as Board Opposes China Audit - Yahoo Finance",
@@ -26,18 +19,32 @@
       "source": "Yahoo Finance"
     },
     {
+      "title": "Apple reportedly started search for next CEO after Tim Cook told senior leaders that he is… - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQnMtYk4wNXdzZmZMTURmYUQyM3pZcVdDbjlCV3ZweXAySVp5T053VHdfSy1vSlNZOUdwRlVCQmJHSERsWlNBNDk1amMzNkpEdFZmRWhVb3o5XzhhTWkxdEk0eXhvU0NNLXIzamhoYzlzRk1YbUlTajNqcXJOeGdFZ2NZMkg3bGhFa3QyN1Y3X09rUzFWbG0xU1cyb3hmR052WjJmdC1SVTNOc1JmZ3hTc3Q5LWpLNzVoMXVRQk8zOVBOLXZZRGhHb1hPNndmSTdaSXhsQlloZzJqRGlkOGtBVnVNM3AxR3laR3RBNUNueXh3R3B0SDNZY19VZE5FX0RUMXdV0gGIAkFVX3lxTE45Yjd6MnZNck1qVUpxTmN6TFFPTFRhUmxleVJ3OWNzaWhLQjhmNXZjM2RwOVJmU2pHZjJ2MzdTOGhJN0U5MDNoa2lZTXlaZlFCQk9zNUxkVTBUcW0wUzZ6VUlmc1FYRE1TenVvY0ZGOVpIbVhKNnNyTmJRSXlYTkpqcXdCbGNwQWJmTnJQMFlFaGRFNGpuQWl4Q0paSWNKclI4Nnd0aU9aUEFKendjWGxESG45TlhKVnJDaS0yOEJGRmVTemw4bFNMWXhQbUdPelJNWVo0TkZpQTg5S1NpRFdGY18yMkU3YzkySDk2WVNUNjlycGdEMmhNdTVpclRVdmR5eXFOM29GaA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPQnMtYk4wNXdzZmZMTURmYUQyM3pZcVdDbjlCV3ZweXAySVp5T053VHdfSy1vSlNZOUdwRlVCQmJHSERsWlNBNDk1amMzNkpEdFZmRWhVb3o5XzhhTWkxdEk0eXhvU0NNLXIzamhoYzlzRk1YbUlTajNqcXJOeGdFZ2NZMkg3bGhFa3QyN1Y3X09rUzFWbG0xU1cyb3hmR052WjJmdC1SVTNOc1JmZ3hTc3Q5LWpLNzVoMXVRQk8zOVBOLXZZRGhHb1hPNndmSTdaSXhsQlloZzJqRGlkOGtBVnVNM3AxR3laR3RBNUNueXh3R3B0SDNZY19VZE5FX0RUMXdV0gGIAkFVX3lxTE45Yjd6MnZNck1qVUpxTmN6TFFPTFRhUmxleVJ3OWNzaWhLQjhmNXZjM2RwOVJmU2pHZjJ2MzdTOGhJN0U5MDNoa2lZTXlaZlFCQk9zNUxkVTBUcW0wUzZ6VUlmc1FYRE1TenVvY0ZGOVpIbVhKNnNyTmJRSXlYTkpqcXdCbGNwQWJmTnJQMFlFaGRFNGpuQWl4Q0paSWNKclI4Nnd0aU9aUEFKendjWGxESG45TlhKVnJDaS0yOEJGRmVTemw4bFNMWXhQbUdPelJNWVo0TkZpQTg5S1NpRFdGY18yMkU3YzkySDk2WVNUNjlycGdEMmhNdTVpclRVdmR5eXFOM29GaA?oc=5\" target=\"_blank\">Apple reportedly started search for next CEO after Tim Cook told senior leaders that he is…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-10T04:03:00+00:00",
+      "source": "Times of India"
+    },
+    {
+      "title": "17 clever Apple Notes tips you might not know - Popular Science",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fUnhNcHN4Mms0d3VIUGxLXzZBMmpfaU9UdWlnMVowZHR3eEp4dDhSVldyYXdPTHRuSnQ2RmNJS05BX3AzeEVsZ0lMeEdUQXFBUFBDb21vMUhlc3lscWExQ2hoWkhrZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fUnhNcHN4Mms0d3VIUGxLXzZBMmpfaU9UdWlnMVowZHR3eEp4dDhSVldyYXdPTHRuSnQ2RmNJS05BX3AzeEVsZ0lMeEdUQXFBUFBDb21vMUhlc3lscWExQ2hoWkhrZw?oc=5\" target=\"_blank\">17 clever Apple Notes tips you might not know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Popular Science</font>",
+      "published": "2026-01-10T18:00:00+00:00",
+      "source": "Popular Science"
+    },
+    {
+      "title": "Apple Confirms iPhone Attacks—No Fix For Most Users - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3hiX19MenpWR2ZoV1NTSVVpWWNJdko5UHU5QXNXVTh6RnAzV2tLVE9IVkpkXzRVeUNfc2FsVS1zQ1BiazI0cFRvWW94cDVHSXZEYnB2emRiaVh4aTgyVTZ3NUh1RHNDbUVTNTVqaExfWVhrTjlINDFBcWVRZEhZNWhIejE3MWpFV3ctU0RFTlBmdWx6UldfTllOb0RGN1lEelEwNFZB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3hiX19MenpWR2ZoV1NTSVVpWWNJdko5UHU5QXNXVTh6RnAzV2tLVE9IVkpkXzRVeUNfc2FsVS1zQ1BiazI0cFRvWW94cDVHSXZEYnB2emRiaVh4aTgyVTZ3NUh1RHNDbUVTNTVqaExfWVhrTjlINDFBcWVRZEhZNWhIejE3MWpFV3ctU0RFTlBmdWx6UldfTllOb0RGN1lEelEwNFZB?oc=5\" target=\"_blank\">Apple Confirms iPhone Attacks—No Fix For Most Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-01-10T16:07:30+00:00",
+      "source": "Forbes"
+    },
+    {
       "title": "Grok and X should be suspended from Apple, Google app stores, Democratic senators say - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTlVZWZBV1hQTEU2UVhHUWx1SGJzc3lLWk45a1VfaVVUdV9ybUcxdDdmWTBJWjM5eGwyNmlyWVFUaEY5alVYdDA1LWVCZ1RVTG9uLWo3eWlfRVBncWtXTVpibFoyZGlUYXY5M3hpRFVUdUlwTEpyRDgzRk8zdFItZlhqYTVwSlpTVTZTRWsxLTNlLS1Jdk54ZmFYS1NRVjZORWthVUx30gGrAUFVX3lxTE9ZYW96WllESG16TUR0bHo5cWtlbzFSM3pFaUg1bE1md2w5UVpfTlh5SU53QVJQMjZWdXFFTU5pdThlaTlEVmlHOFZQdDNzLUlNbUNxdnI5ZXRpX3ltbTliZmdhZmN4T2Nud0llNE1tMnB6MHZSYi1kbnpUUk9yN0s4NVhMZ1Y0Q2pDUGNBN0dtTjRDZjN2aXZlSHhZSU15aGVUY2RsNVk2SXdIaw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTlVZWZBV1hQTEU2UVhHUWx1SGJzc3lLWk45a1VfaVVUdV9ybUcxdDdmWTBJWjM5eGwyNmlyWVFUaEY5alVYdDA1LWVCZ1RVTG9uLWo3eWlfRVBncWtXTVpibFoyZGlUYXY5M3hpRFVUdUlwTEpyRDgzRk8zdFItZlhqYTVwSlpTVTZTRWsxLTNlLS1Jdk54ZmFYS1NRVjZORWthVUx30gGrAUFVX3lxTE9ZYW96WllESG16TUR0bHo5cWtlbzFSM3pFaUg1bE1md2w5UVpfTlh5SU53QVJQMjZWdXFFTU5pdThlaTlEVmlHOFZQdDNzLUlNbUNxdnI5ZXRpX3ltbTliZmdhZmN4T2Nud0llNE1tMnB6MHZSYi1kbnpUUk9yN0s4NVhMZ1Y0Q2pDUGNBN0dtTjRDZjN2aXZlSHhZSU15aGVUY2RsNVk2SXdIaw?oc=5\" target=\"_blank\">Grok and X should be suspended from Apple, Google app stores, Democratic senators say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2026-01-09T20:39:04+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "Senators urged Apple and Google to remove X and Grok from app stores over sexual deepfakes - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjlKaDhMMXhOdXJOM2d3UWhGVzRrUUxna3Z3TERPcF93N0JFcTFnem9VWE1GeXZRZE9HSGxLMjNUOEtfdDF1d2pBLVZ2UDRaVWRjMkNMcWF6WUxmV0VlVklYcXQ1N3NmTzBFeGN1bmd4b2xzalY0bVJmR25TbUE2dWh1TDZxT0dJcjVqb0JnV2YydnFaSzg5c0dEcGVpMlpzODBR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjlKaDhMMXhOdXJOM2d3UWhGVzRrUUxna3Z3TERPcF93N0JFcTFnem9VWE1GeXZRZE9HSGxLMjNUOEtfdDF1d2pBLVZ2UDRaVWRjMkNMcWF6WUxmV0VlVklYcXQ1N3NmTzBFeGN1bmd4b2xzalY0bVJmR25TbUE2dWh1TDZxT0dJcjVqb0JnV2YydnFaSzg5c0dEcGVpMlpzODBR?oc=5\" target=\"_blank\">Senators urged Apple and Google to remove X and Grok from app stores over sexual deepfakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-01-09T16:00:00+00:00",
-      "source": "NBC News"
     },
     {
       "title": "Democratic US senators demand Apple, Google take X and Grok off app stores over sexual images - Reuters",
@@ -47,34 +54,27 @@
       "source": "Reuters"
     },
     {
-      "title": "Apple’s big 2026 plans - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSERsUHQtTkROeVU3TTNqLVp5TldKemhSaFhrS0VhUzlyeWlFcGhWSHRjdUpzZGRqblNXRFVwTmdQNTVHS1NqVFdMMENudm81WDc3aGNUcmszVW8xSlRadHEzV0FoeDJlOC1vQ0dOQWpidy1GS21kcU9GZEM2TnZrd0xuc0Y2ZVNVNmJfNEhpd2F0akNIVkxFTmdzYTBMQUNSTFlsVUowS2JuQU5SZWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSERsUHQtTkROeVU3TTNqLVp5TldKemhSaFhrS0VhUzlyeWlFcGhWSHRjdUpzZGRqblNXRFVwTmdQNTVHS1NqVFdMMENudm81WDc3aGNUcmszVW8xSlRadHEzV0FoeDJlOC1vQ0dOQWpidy1GS21kcU9GZEM2TnZrd0xuc0Y2ZVNVNmJfNEhpd2F0akNIVkxFTmdzYTBMQUNSTFlsVUowS2JuQU5SZWc?oc=5\" target=\"_blank\">Apple’s big 2026 plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
-      "published": "2026-01-10T10:07:34+00:00",
-      "source": "Fast Company"
-    },
-    {
-      "title": "Save $200 on a 15-inch Apple MacBook Air with M4 chip, nearly down to its lowest price ever at Amazon - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTGVKNXBnQmZQd2VkZDQwaWpnaE0xNUNMNmFCVEQzaks5eGdybThpaXBETV9tRi14LVA5UWpwQmZnTnNvRm80UEZGUjBIU0lBaUJ4T3N5Mmk3MG5Xd2pOU2VoNnp1R2NVOEUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTGVKNXBnQmZQd2VkZDQwaWpnaE0xNUNMNmFCVEQzaks5eGdybThpaXBETV9tRi14LVA5UWpwQmZnTnNvRm80UEZGUjBIU0lBaUJ4T3N5Mmk3MG5Xd2pOU2VoNnp1R2NVOEUw?oc=5\" target=\"_blank\">Save $200 on a 15-inch Apple MacBook Air with M4 chip, nearly down to its lowest price ever at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-01-09T15:37:43+00:00",
-      "source": "Mashable"
+      "title": "Senators urged Apple and Google to remove X and Grok from app stores over sexual deepfakes - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjlKaDhMMXhOdXJOM2d3UWhGVzRrUUxna3Z3TERPcF93N0JFcTFnem9VWE1GeXZRZE9HSGxLMjNUOEtfdDF1d2pBLVZ2UDRaVWRjMkNMcWF6WUxmV0VlVklYcXQ1N3NmTzBFeGN1bmd4b2xzalY0bVJmR25TbUE2dWh1TDZxT0dJcjVqb0JnV2YydnFaSzg5c0dEcGVpMlpzODBR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjlKaDhMMXhOdXJOM2d3UWhGVzRrUUxna3Z3TERPcF93N0JFcTFnem9VWE1GeXZRZE9HSGxLMjNUOEtfdDF1d2pBLVZ2UDRaVWRjMkNMcWF6WUxmV0VlVklYcXQ1N3NmTzBFeGN1bmd4b2xzalY0bVJmR25TbUE2dWh1TDZxT0dJcjVqb0JnV2YydnFaSzg5c0dEcGVpMlpzODBR?oc=5\" target=\"_blank\">Senators urged Apple and Google to remove X and Grok from app stores over sexual deepfakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+      "published": "2026-01-09T16:00:00+00:00",
+      "source": "NBC News"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple sparks backlash after unveiling 'nonsense' new product: 'This is ridiculous' - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzhrWTgwU0lENEdLN2Z6d0NqUE9jb0dDb01fUnlBamlibzk3WldVUzhvOW5acDR6TmZ4T2tiMjN5NDBTSlo4QnVTbGZObnFRQTUydHNGYkRxNUhhMEZWTVpvWUdCNG5qVXMxNDBhbzRGRFVxc3ZwQjFwaDJCVDJ2QlJqWHdORXRBNnBYd1VLLVV2WXhmdEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzhrWTgwU0lENEdLN2Z6d0NqUE9jb0dDb01fUnlBamlibzk3WldVUzhvOW5acDR6TmZ4T2tiMjN5NDBTSlo4QnVTbGZObnFRQTUydHNGYkRxNUhhMEZWTVpvWUdCNG5qVXMxNDBhbzRGRFVxc3ZwQjFwaDJCVDJ2QlJqWHdORXRBNnBYd1VLLVV2WXhmdEE?oc=5\" target=\"_blank\">Apple sparks backlash after unveiling 'nonsense' new product: 'This is ridiculous'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-01-11T10:30:00+00:00",
+      "source": "Yahoo"
+    },
     {
       "title": "All the new products Apple is expected to reveal in 2026 - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5\" target=\"_blank\">All the new products Apple is expected to reveal in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-01-04T10:52:00+00:00",
       "source": "Business Insider"
-    },
-    {
-      "title": "Apple’s big 2026 plans - Fast Company",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSERsUHQtTkROeVU3TTNqLVp5TldKemhSaFhrS0VhUzlyeWlFcGhWSHRjdUpzZGRqblNXRFVwTmdQNTVHS1NqVFdMMENudm81WDc3aGNUcmszVW8xSlRadHEzV0FoeDJlOC1vQ0dOQWpidy1GS21kcU9GZEM2TnZrd0xuc0Y2ZVNVNmJfNEhpd2F0akNIVkxFTmdzYTBMQUNSTFlsVUowS2JuQU5SZWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSERsUHQtTkROeVU3TTNqLVp5TldKemhSaFhrS0VhUzlyeWlFcGhWSHRjdUpzZGRqblNXRFVwTmdQNTVHS1NqVFdMMENudm81WDc3aGNUcmszVW8xSlRadHEzV0FoeDJlOC1vQ0dOQWpidy1GS21kcU9GZEM2TnZrd0xuc0Y2ZVNVNmJfNEhpd2F0akNIVkxFTmdzYTBMQUNSTFlsVUowS2JuQU5SZWc?oc=5\" target=\"_blank\">Apple’s big 2026 plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
-      "published": "2026-01-10T10:07:34+00:00",
-      "source": "Fast Company"
     },
     {
       "title": "Six new Apple products will launch early this year, here’s what’s coming - 9to5Mac",
@@ -91,11 +91,11 @@
       "source": "Mashable"
     },
     {
-      "title": "Apple Is Expected to Launch These Four MacBooks in 2026 - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZF9jMmJCQ2pueXMwRHRoeUhITHN5M3lQUDZhSkRSYWMyN0Nic01JQzNrZTFsUFZXT0V1cVN0TmI3OV9LNkczeXdvTlhoYVpRNS1CdGktSjM2cjFJeGxDNldaU0hKOUFqa2djaWd4T001RlVaMGpMaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZF9jMmJCQ2pueXMwRHRoeUhITHN5M3lQUDZhSkRSYWMyN0Nic01JQzNrZTFsUFZXT0V1cVN0TmI3OV9LNkczeXdvTlhoYVpRNS1CdGktSjM2cjFJeGxDNldaU0hKOUFqa2djaWd4T001RlVaMGpMaw?oc=5\" target=\"_blank\">Apple Is Expected to Launch These Four MacBooks in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-01-09T16:17:33+00:00",
-      "source": "MacRumors"
+      "title": "Apple Inc. | History, Products, Headquarters, & Facts | Britannica Money - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5\" target=\"_blank\">Apple Inc. | History, Products, Headquarters, & Facts | Britannica Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
+      "published": "2026-01-08T14:09:00+00:00",
+      "source": "Encyclopedia Britannica"
     }
   ],
   "stock": {
