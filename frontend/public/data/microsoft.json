@@ -2,28 +2,14 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-01-11T12:23:13.209265+00:00",
+  "fetched_at": "2026-01-12T12:28:07.506360+00:00",
   "news": [
     {
-      "title": "Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPd0laeE1ZeEpaTlpKQ2FXLXVFTFJlT25EdktzaVozSDVwWWNTWjVKQXpNZmFNYnpTVV92OWxJc2ZBbm45bDN4a2tXQmZocm1ranBqZldwbWFmaXdiWk9RbkVDcl85ZjZGbktOMXpUSzI5VkhJYVdtUUVEWnVXb2s5V3IwMnZkSXpmVk5FbkdvN2F3bUpHMVFlMzd4dmxOZjJyMFJqekwwNnk3U2ZhRWh3YXl6LVlhcmt2N2lmeGowVzBWLW9HSFdxeHRmUVplQWowLS1DSW9TNTI1ei1pOVNLUUNZVFB4MnFLcGViczVvTUUyaHhiWkJDN0U0VVJJdWhnUlR3cWVaS2VDbUJuWFlhMTc0dWNWRVNnMDdyWjQ1RTNrMjJkU01tNV9kTXA2cVcxV1R5WGR2R1R5YmNuUm5zbW05bUpCVXM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxPd0laeE1ZeEpaTlpKQ2FXLXVFTFJlT25EdktzaVozSDVwWWNTWjVKQXpNZmFNYnpTVV92OWxJc2ZBbm45bDN4a2tXQmZocm1ranBqZldwbWFmaXdiWk9RbkVDcl85ZjZGbktOMXpUSzI5VkhJYVdtUUVEWnVXb2s5V3IwMnZkSXpmVk5FbkdvN2F3bUpHMVFlMzd4dmxOZjJyMFJqekwwNnk3U2ZhRWh3YXl6LVlhcmt2N2lmeGowVzBWLW9HSFdxeHRmUVplQWowLS1DSW9TNTI1ei1pOVNLUUNZVFB4MnFLcGViczVvTUUyaHhiWkJDN0U0VVJJdWhnUlR3cWVaS2VDbUJuWFlhMTc0dWNWRVNnMDdyWjQ1RTNrMjJkU01tNV9kTXA2cVcxV1R5WGR2R1R5YmNuUm5zbW05bUpCVXM?oc=5\" target=\"_blank\">Admins finally get the power to uninstall Microsoft Copilot on Windows 11 Pro, Enterprise, and EDU versions — devices must meet specific conditions to allow the removal of the AI app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-01-10T16:03:55+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "Microsoft brings another AI feature to all Windows 11 devices without special hardware - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3lFd0V2UWlnOXVkQ19Gc25FOHF1eTQzTWNNZGQtcmFJM0Nyc1hvQnc4X2xmTlN1cDZlMlBOV3owS2lPTWttZlcyRDJpSkhjeFBaM1M5alBYcTRITGpsSmVtZzkxUE54c2tSTlJQMXhQZFZsS0JVYl85R2t1VVBIUkZCV0lld2xLUXBmN3hHZWRMYnJKZE01bElEcEZpRWpDUVhDSTR4U0V0cW50cXZzUTdZY0FkUdIBtAFBVV95cUxOcDNyMU50VTlWVDlwRjgyRmdMdUhKZlFlazY0N2trUGhHMHFUME50eEV3ejRwZTBJalQwSHZMUS1WNHFUU25aSGloRUxtd00tWWJJRVZXLUxBS3lCT01VQVBKaC12ZS03U2tQWFpOVi14WWk4RVZta2lsT3dFYzRsR1o4UV9DMVEwMzJ3Mm1yRTYwa0hZbl8zVkE2WjhKUUpaUjlUMWM4ZlF4SkExV2ZuWFpwTkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3lFd0V2UWlnOXVkQ19Gc25FOHF1eTQzTWNNZGQtcmFJM0Nyc1hvQnc4X2xmTlN1cDZlMlBOV3owS2lPTWttZlcyRDJpSkhjeFBaM1M5alBYcTRITGpsSmVtZzkxUE54c2tSTlJQMXhQZFZsS0JVYl85R2t1VVBIUkZCV0lld2xLUXBmN3hHZWRMYnJKZE01bElEcEZpRWpDUVhDSTR4U0V0cW50cXZzUTdZY0FkUdIBtAFBVV95cUxOcDNyMU50VTlWVDlwRjgyRmdMdUhKZlFlazY0N2trUGhHMHFUME50eEV3ejRwZTBJalQwSHZMUS1WNHFUU25aSGloRUxtd00tWWJJRVZXLUxBS3lCT01VQVBKaC12ZS03U2tQWFpOVi14WWk4RVZta2lsT3dFYzRsR1o4UV9DMVEwMzJ3Mm1yRTYwa0hZbl8zVkE2WjhKUUpaUjlUMWM4ZlF4SkExV2ZuWFpwTkE?oc=5\" target=\"_blank\">Microsoft brings another AI feature to all Windows 11 devices without special hardware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "published": "2026-01-10T10:00:00+00:00",
-      "source": "Neowin"
-    },
-    {
-      "title": "Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11 - eTeknix",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGVaSlFvSDNpMDRFbTlqSDZ2WUdZNHZvSkt1MkI0eXpFSHhMRElNb1lUUkNYNi1RUlgtVDFrZXNKZUI1Vjc0Tjd0MjhZMlFybUp3d1hrbE9pQUdCWG9xTHlWQWpqb0RWNi1QWlNONzBLUUVkalJEMGkzczN4MmlsdDlwNzZrRzFKTTR6UU11cUUyNzI5WldOQXhWTFNpMUNX?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGVaSlFvSDNpMDRFbTlqSDZ2WUdZNHZvSkt1MkI0eXpFSHhMRElNb1lUUkNYNi1RUlgtVDFrZXNKZUI1Vjc0Tjd0MjhZMlFybUp3d1hrbE9pQUdCWG9xTHlWQWpqb0RWNi1QWlNONzBLUUVkalJEMGkzczN4MmlsdDlwNzZrRzFKTTR6UU11cUUyNzI5WldOQXhWTFNpMUNX?oc=5\" target=\"_blank\">Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eTeknix</font>",
-      "published": "2026-01-10T09:55:58+00:00",
-      "source": "eTeknix"
+      "title": "‘Office Is Dead’—Microsoft Decision Confuses 400 Million Users - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmNwZ2pWWUVFNEZTUktkcEZCSVY5aHdnX29JbUxzTTg3VTd3Wk5VWXdNTEQwSUI1dUI1S084RndzSjdwcFlPT1BhX0V5MVRYSXgzbVdrbkx0N29PSktsazFIdG5lQ182aW4wTlZFMnFSMUFQNUpZRVpFMDhnV0VsN0ExRzJvN043MmpOcVp5QXY4b1c0UTFNZVVKS0lXblktOFkta2pPS2JmeHFsdFg5NGtB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmNwZ2pWWUVFNEZTUktkcEZCSVY5aHdnX29JbUxzTTg3VTd3Wk5VWXdNTEQwSUI1dUI1S084RndzSjdwcFlPT1BhX0V5MVRYSXgzbVdrbkx0N29PSktsazFIdG5lQ182aW4wTlZFMnFSMUFQNUpZRVpFMDhnV0VsN0ExRzJvN043MmpOcVp5QXY4b1c0UTFNZVVKS0lXblktOFkta2pPS2JmeHFsdFg5NGtB?oc=5\" target=\"_blank\">‘Office Is Dead’—Microsoft Decision Confuses 400 Million Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-01-11T07:59:18+00:00",
+      "source": "Forbes"
     },
     {
       "title": "Microsoft AI CEO to all the companies working on AI: I worry we are... - Times of India",
@@ -33,32 +19,46 @@
       "source": "Times of India"
     },
     {
-      "title": "DeepSeek's AI gains traction in developing nations, Microsoft report says - abcnews.go.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzh4b3hZWWVaUTZhX2NzZ3Y3UWpzNnJSRGRnbkhsLVJjbFJxeElfZDlHMks2Z3E0ZHEwWnBfV0tjTWc5LVlEa2c5QXQ5Zm01dUlLWlhqNDlDZ2swR0htcndsOFpvUVR2SXYzaE9rOXRtR3N0R19zRldOX0RUVERLTGJNX0FZMndnVmFDVzhCc1NKaW1RMW9RRThTWFpsX2kwZUFDMmFaSWdJeEI4N01qd0NoQm5tV2ly0gG-AUFVX3lxTE4xOUZWd1puU0hVRGY0ek5uaWtTYkxBU0pELVNueG5hNktiUENZQnJhelNieW80SkVPellfY3ZVSTZHODN1YmZMYklfQ3BCWS1yUzd5SENkNTNOR1R2SXVYVFFUZ0txaEN5R19wNlZEWnR4TkthNEJXZnYyYm5EUGJyanZ5MWRYaFBqTGhya0Q0dUdhLTUzcHY2NUM4em9HU2JjdHAwZkRHQmxpbUZNSmQyZ2F3T3djQVM1RVo2Wnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzh4b3hZWWVaUTZhX2NzZ3Y3UWpzNnJSRGRnbkhsLVJjbFJxeElfZDlHMks2Z3E0ZHEwWnBfV0tjTWc5LVlEa2c5QXQ5Zm01dUlLWlhqNDlDZ2swR0htcndsOFpvUVR2SXYzaE9rOXRtR3N0R19zRldOX0RUVERLTGJNX0FZMndnVmFDVzhCc1NKaW1RMW9RRThTWFpsX2kwZUFDMmFaSWdJeEI4N01qd0NoQm5tV2ly0gG-AUFVX3lxTE4xOUZWd1puU0hVRGY0ek5uaWtTYkxBU0pELVNueG5hNktiUENZQnJhelNieW80SkVPellfY3ZVSTZHODN1YmZMYklfQ3BCWS1yUzd5SENkNTNOR1R2SXVYVFFUZ0txaEN5R19wNlZEWnR4TkthNEJXZnYyYm5EUGJyanZ5MWRYaFBqTGhya0Q0dUdhLTUzcHY2NUM4em9HU2JjdHAwZkRHQmxpbUZNSmQyZ2F3T3djQVM1RVo2Wnc?oc=5\" target=\"_blank\">DeepSeek's AI gains traction in developing nations, Microsoft report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abcnews.go.com</font>",
-      "published": "2026-01-08T16:06:29+00:00",
-      "source": "abcnews.go.com"
+      "title": "Trump’s fundraisers asked Microsoft for its White House ballroom donation - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVk1VXNnNVctYkVpalRxUEp2cVlCMjNtTFZIZEVFazAtMGU4Mk5Uc1g0YzA5NVg3SHdHNTdzSTExNWxkZFBGVjJFZUhKdjI2QXRUZlNNYm5XejY4UGNxclo3QlZ3MHNmMmdpdUVPdHdtc2FIU1daMkJBRk54MUZsZU5pVUNaWVZISk5pZHFQWVUwLVJx?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVk1VXNnNVctYkVpalRxUEp2cVlCMjNtTFZIZEVFazAtMGU4Mk5Uc1g0YzA5NVg3SHdHNTdzSTExNWxkZFBGVjJFZUhKdjI2QXRUZlNNYm5XejY4UGNxclo3QlZ3MHNmMmdpdUVPdHdtc2FIU1daMkJBRk54MUZsZU5pVUNaWVZISk5pZHFQWVUwLVJx?oc=5\" target=\"_blank\">Trump’s fundraisers asked Microsoft for its White House ballroom donation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-01-12T10:00:00+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "DeepSeek's AI gains traction in developing nations, Microsoft says - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVZWTnpTcUpZVHVXUXlJdW9vRlhxTjdoWXY5S2I5UVVONUl1T01HaUc4b0xqLTdIUmowQVZtamNDSHZVdUh2bV9keHpNS0pkekRDQjU4Rnlwd2Vkb2FXb04tN28yRVFXdThVYW56UTliU1c1Sm9Rc2ZXOGc3aF83V295bVhxcU56WkxRaVgwZ0tIajlZLUN0VVBYVWVuMmxsV1hOVXVhMWNfWDZ2WjRiVVlR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVZWTnpTcUpZVHVXUXlJdW9vRlhxTjdoWXY5S2I5UVVONUl1T01HaUc4b0xqLTdIUmowQVZtamNDSHZVdUh2bV9keHpNS0pkekRDQjU4Rnlwd2Vkb2FXb04tN28yRVFXdThVYW56UTliU1c1Sm9Rc2ZXOGc3aF83V295bVhxcU56WkxRaVgwZ0tIajlZLUN0VVBYVWVuMmxsV1hOVXVhMWNfWDZ2WjRiVVlR?oc=5\" target=\"_blank\">DeepSeek's AI gains traction in developing nations, Microsoft says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "published": "2026-01-09T10:14:08+00:00",
-      "source": "Euronews.com"
-    },
-    {
-      "title": "The Motley Fool: Microsoft for the long term - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1M2cUpIeVYtckJpcmNmOGJBQ1l1SWM2bW8teld5eUd0bTRWYldyckpaNmdGTVhmX1RZNkNacXpVbEJuOWt6UW16ZWo4M0pocHVNNW9Na29IaG1yMjMtVFU2TDhKcUdrb0FOaUFrY1lWb1BjX1VwQlQ5eVpFbVJET3hiV0c4SDVVMkoyTUd0VjhOeEhid0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1M2cUpIeVYtckJpcmNmOGJBQ1l1SWM2bW8teld5eUd0bTRWYldyckpaNmdGTVhmX1RZNkNacXpVbEJuOWt6UW16ZWo4M0pocHVNNW9Na29IaG1yMjMtVFU2TDhKcUdrb0FOaUFrY1lWb1BjX1VwQlQ5eVpFbVJET3hiV0c4SDVVMkoyTUd0VjhOeEhid0E?oc=5\" target=\"_blank\">The Motley Fool: Microsoft for the long term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font>",
-      "published": "2026-01-11T11:04:06+00:00",
-      "source": "Dallas News"
-    },
-    {
-      "title": "Microsoft exec responds to mass layoff rumors - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS25TTU9MTDZWYlRIRXF3M2pvUVExRzlxdEd1U3JTdW5iUjVkcWZtWGY0RGJ2bVhWdnBGenczdFVLTC05bk9kMl9Xb0RWejlJalZzYUtCYWsxcWZYVmxaXzhNd2lIVkhKYWpVVmVRb2M0N3VzN1hZY1JKZG9kU2VvT1otd2ZPMWprMzNKTjAyRWhLRTFvWERiSnpkSUhWZ3VvRURWeg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNS25TTU9MTDZWYlRIRXF3M2pvUVExRzlxdEd1U3JTdW5iUjVkcWZtWGY0RGJ2bVhWdnBGenczdFVLTC05bk9kMl9Xb0RWejlJalZzYUtCYWsxcWZYVmxaXzhNd2lIVkhKYWpVVmVRb2M0N3VzN1hZY1JKZG9kU2VvT1otd2ZPMWprMzNKTjAyRWhLRTFvWERiSnpkSUhWZ3VvRURWeg?oc=5\" target=\"_blank\">Microsoft exec responds to mass layoff rumors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2026-01-08T14:00:00+00:00",
+      "title": "Why Microsoft is reversing its office space exodus - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHpweXBBbkh5QVl2TWNFTHM5ZUFaSDE0Yk4wajVkcHJfeC0xN1JCYmNUMExNNVZya0taTU5mZ1dfTnczeThTVTcwTW9vT3B4anVEUFV2OXVHUlpqb2hWbGh3VTFXdjVRLVJEYzZCa1hyLU9qTWw3S01yeU5nRzAwaU9yeFMxOEJYR2g0LUFtWGZLNlJrRTN1ZTdmOEJ3LW40R1dfRlJaNGNReHdxR0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHpweXBBbkh5QVl2TWNFTHM5ZUFaSDE0Yk4wajVkcHJfeC0xN1JCYmNUMExNNVZya0taTU5mZ1dfTnczeThTVTcwTW9vT3B4anVEUFV2OXVHUlpqb2hWbGh3VTFXdjVRLVJEYzZCa1hyLU9qTWw3S01yeU5nRzAwaU9yeFMxOEJYR2g0LUFtWGZLNlJrRTN1ZTdmOEJ3LW40R1dfRlJaNGNReHdxR0E?oc=5\" target=\"_blank\">Why Microsoft is reversing its office space exodus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+      "published": "2026-01-09T14:00:00+00:00",
       "source": "The Seattle Times"
+    },
+    {
+      "title": "Fiserv (FISV) Announces a Strategic Collaboration with Microsoft - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOU1OS1pic3ZRREhEVkw2UE9heW5KZlQwbmhZNVY0SFZEbFRDd3c4enV2YmF1SVJoZnBxS3oxV1E1eElGRUhRNDBxYllYNkl5TjJLME14UzZWNXZxMDMwZ0Z2RzhqZnRnMXAwYml3MkhUYlE4Sy14TFVUbmljRmRxd00tOHcxZ3RVVUNVX3gyNmtmU0M5ZVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOU1OS1pic3ZRREhEVkw2UE9heW5KZlQwbmhZNVY0SFZEbFRDd3c4enV2YmF1SVJoZnBxS3oxV1E1eElGRUhRNDBxYllYNkl5TjJLME14UzZWNXZxMDMwZ0Z2RzhqZnRnMXAwYml3MkhUYlE4Sy14TFVUbmljRmRxd00tOHcxZ3RVVUNVX3gyNmtmU0M5ZVE?oc=5\" target=\"_blank\">Fiserv (FISV) Announces a Strategic Collaboration with Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-11T18:59:17+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft brings another AI feature to all Windows 11 devices without special hardware - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3lFd0V2UWlnOXVkQ19Gc25FOHF1eTQzTWNNZGQtcmFJM0Nyc1hvQnc4X2xmTlN1cDZlMlBOV3owS2lPTWttZlcyRDJpSkhjeFBaM1M5alBYcTRITGpsSmVtZzkxUE54c2tSTlJQMXhQZFZsS0JVYl85R2t1VVBIUkZCV0lld2xLUXBmN3hHZWRMYnJKZE01bElEcEZpRWpDUVhDSTR4U0V0cW50cXZzUTdZY0FkUdIBtAFBVV95cUxOcDNyMU50VTlWVDlwRjgyRmdMdUhKZlFlazY0N2trUGhHMHFUME50eEV3ejRwZTBJalQwSHZMUS1WNHFUU25aSGloRUxtd00tWWJJRVZXLUxBS3lCT01VQVBKaC12ZS03U2tQWFpOVi14WWk4RVZta2lsT3dFYzRsR1o4UV9DMVEwMzJ3Mm1yRTYwa0hZbl8zVkE2WjhKUUpaUjlUMWM4ZlF4SkExV2ZuWFpwTkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3lFd0V2UWlnOXVkQ19Gc25FOHF1eTQzTWNNZGQtcmFJM0Nyc1hvQnc4X2xmTlN1cDZlMlBOV3owS2lPTWttZlcyRDJpSkhjeFBaM1M5alBYcTRITGpsSmVtZzkxUE54c2tSTlJQMXhQZFZsS0JVYl85R2t1VVBIUkZCV0lld2xLUXBmN3hHZWRMYnJKZE01bElEcEZpRWpDUVhDSTR4U0V0cW50cXZzUTdZY0FkUdIBtAFBVV95cUxOcDNyMU50VTlWVDlwRjgyRmdMdUhKZlFlazY0N2trUGhHMHFUME50eEV3ejRwZTBJalQwSHZMUS1WNHFUU25aSGloRUxtd00tWWJJRVZXLUxBS3lCT01VQVBKaC12ZS03U2tQWFpOVi14WWk4RVZta2lsT3dFYzRsR1o4UV9DMVEwMzJ3Mm1yRTYwa0hZbl8zVkE2WjhKUUpaUjlUMWM4ZlF4SkExV2ZuWFpwTkE?oc=5\" target=\"_blank\">Microsoft brings another AI feature to all Windows 11 devices without special hardware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2026-01-10T10:00:00+00:00",
+      "source": "Neowin"
+    },
+    {
+      "title": "Microsoft says you should upgrade to Windows 11 AI PCs if you want to be prepared for the next generation of computing - Windows Latest",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLUwtTW11QnZMSFluX1FfOC1Ld3BwbFdGaWN4M0tOUFMxWnJ1aDV2anVOM0tRTlBpeFhPd3R4RTVnUThjTlVVTE1CM1FoNVhQR1ByYVU4QXFPdXc2VHdWNGg3WTVhREtZaVBhV2NLNnpadVhGdmtkWTNBZFEtLVcxY0JpSTl5M2xPNF9LQlhWelRTenB6bzBiekxocGJScGRhYmZkeUg1bnkyZnRGMGp0VFVvWDg0aVBOd3M4aE9TZ0ZqOU8tU1pWd1ZtWml2ekdMcDY4dUFsQ2RnYVd6bmNhRkJXUkJZQTFONGtpenBzdHdYZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLUwtTW11QnZMSFluX1FfOC1Ld3BwbFdGaWN4M0tOUFMxWnJ1aDV2anVOM0tRTlBpeFhPd3R4RTVnUThjTlVVTE1CM1FoNVhQR1ByYVU4QXFPdXc2VHdWNGg3WTVhREtZaVBhV2NLNnpadVhGdmtkWTNBZFEtLVcxY0JpSTl5M2xPNF9LQlhWelRTenB6bzBiekxocGJScGRhYmZkeUg1bnkyZnRGMGp0VFVvWDg0aVBOd3M4aE9TZ0ZqOU8tU1pWd1ZtWml2ekdMcDY4dUFsQ2RnYVd6bmNhRkJXUkJZQTFONGtpenBzdHdYZw?oc=5\" target=\"_blank\">Microsoft says you should upgrade to Windows 11 AI PCs if you want to be prepared for the next generation of computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
+      "published": "2026-01-12T00:22:05+00:00",
+      "source": "Windows Latest"
+    },
+    {
+      "title": "Microsoft may integrate Copilot Chat directly into the File Explorer on Windows 11 next - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWI5b0ZLOGc5Nkpqekc1UG83Sm41QXV6WVU4QmVheDd5c2otSnBZZkNFN3VOT3pfMk5ja2hLQnpjZlByY3NTUEVkYm1Nd1pKSHhXQTNXZktXRUd3WUpCbi1nWDFFWExlS3FOZVUtYjBadm1hZGlLcFFhQ1ctcTFqSHZpREQ0YUxENnA5WGROaTZ6LVM5eGtQT1VhT0tERkhBTEVRbklNQXNSdkVEZkFxWlh1WE1qU05XLXBRank3SHdjeE9JTXFrWWZkQk9JSVNXcHV0T3hR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWI5b0ZLOGc5Nkpqekc1UG83Sm41QXV6WVU4QmVheDd5c2otSnBZZkNFN3VOT3pfMk5ja2hLQnpjZlByY3NTUEVkYm1Nd1pKSHhXQTNXZktXRUd3WUpCbi1nWDFFWExlS3FOZVUtYjBadm1hZGlLcFFhQ1ctcTFqSHZpREQ0YUxENnA5WGROaTZ6LVM5eGtQT1VhT0tERkhBTEVRbklNQXNSdkVEZkFxWlh1WE1qU05XLXBRank3SHdjeE9JTXFrWWZkQk9JSVNXcHV0T3hR?oc=5\" target=\"_blank\">Microsoft may integrate Copilot Chat directly into the File Explorer on Windows 11 next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-01-09T15:55:45+00:00",
+      "source": "Windows Central"
     }
   ],
   "product_launches": [
@@ -77,13 +77,6 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft ‘Office 14’ to launch in early March 2010 - Fudzilla.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByOE1FazctdUc4bnphQjhxVHVCV3k2bXBiMFlMeWxhS19kQk56STViOTNxaHVCVXEzSmJJTGV4MGc5MlJDWjMybDJxTmxKYlhJemxHRFc4cFNUeXpYVC1pckdWeUQ5RUJsNl9NdVlxRmRORDc3SWpVVFdjdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFByOE1FazctdUc4bnphQjhxVHVCV3k2bXBiMFlMeWxhS19kQk56STViOTNxaHVCVXEzSmJJTGV4MGc5MlJDWjMybDJxTmxKYlhJemxHRFc4cFNUeXpYVC1pckdWeUQ5RUJsNl9NdVlxRmRORDc3SWpVVFdjdw?oc=5\" target=\"_blank\">Microsoft ‘Office 14’ to launch in early March 2010</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fudzilla.com</font>",
-      "published": "2026-01-06T15:15:00+00:00",
-      "source": "Fudzilla.com"
-    },
-    {
       "title": "Hackers Spoof Office 365 Domains to Launch Stealthy Internal Phishing Attacks - Petri IT Knowledgebase",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wV1JPTzVoLWM2MWxHUGEtNGFBQS1EbjY2QXA2SmVEbTJWSFBKOGRwSTZZaFlpUVVhZHpqVVJGLXhnUWRFYW1DNDIwTE1JanVTeVhNekV4a0N0YzNFMmk0RkpzZ0tocThSeXFOMEFVeU4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1wV1JPTzVoLWM2MWxHUGEtNGFBQS1EbjY2QXA2SmVEbTJWSFBKOGRwSTZZaFlpUVVhZHpqVVJGLXhnUWRFYW1DNDIwTE1JanVTeVhNekV4a0N0YzNFMmk0RkpzZ0tocThSeXFOMEFVeU4?oc=5\" target=\"_blank\">Hackers Spoof Office 365 Domains to Launch Stealthy Internal Phishing Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Petri IT Knowledgebase</font>",
@@ -96,6 +89,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0VCTjVJejdDaUNjVm1kcElKOTlTY05GOUh0cmlkZEx2TUNUbFNQc3U3OWlLYXJ0a2FUakdNRmtidGxZZU9TRzVycFE2UmcyV3hBTTdGa1pvVndPR3V1M09VUXBlYkl2blRaTHlQY2NySjc0UGhWYzd6QjRHZ2tkNDBpYUpTU04tbnhfNHNHTkZ4QQ?oc=5\" target=\"_blank\">Microsoft launches Copilot Checkout and Brand Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Land</font>",
       "published": "2026-01-08T15:00:00+00:00",
       "source": "Search Engine Land"
+    },
+    {
+      "title": "Microsoft ‘Office 14’ to launch in early March 2010 - Fudzilla.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByOE1FazctdUc4bnphQjhxVHVCV3k2bXBiMFlMeWxhS19kQk56STViOTNxaHVCVXEzSmJJTGV4MGc5MlJDWjMybDJxTmxKYlhJemxHRFc4cFNUeXpYVC1pckdWeUQ5RUJsNl9NdVlxRmRORDc3SWpVVFdjdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFByOE1FazctdUc4bnphQjhxVHVCV3k2bXBiMFlMeWxhS19kQk56STViOTNxaHVCVXEzSmJJTGV4MGc5MlJDWjMybDJxTmxKYlhJemxHRFc4cFNUeXpYVC1pckdWeUQ5RUJsNl9NdVlxRmRORDc3SWpVVFdjdw?oc=5\" target=\"_blank\">Microsoft ‘Office 14’ to launch in early March 2010</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fudzilla.com</font>",
+      "published": "2026-01-06T15:15:00+00:00",
+      "source": "Fudzilla.com"
     }
   ],
   "stock": {

@@ -2,42 +2,56 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-01-11T12:23:10.662067+00:00",
+  "fetched_at": "2026-01-12T12:28:04.909381+00:00",
   "news": [
     {
-      "title": "The Man Who Could Be Apple’s Next C.E.O. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalNyUnFiQVlZYi05QmNvekIyX2Q0SGRrQmluSlVHZWluczdUV3pwbk5qeFVDZ0lON2JFenpuLUJzX2RRdkV1RDRpbVZJVkZCOVJ5NVlubDg1cnVIX2tsZVViUUVLSzFsaXpHWGpaOGdTT3N5T1g4RGNGcm9Pc0pwSnpkU2lSUHhs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalNyUnFiQVlZYi05QmNvekIyX2Q0SGRrQmluSlVHZWluczdUV3pwbk5qeFVDZ0lON2JFenpuLUJzX2RRdkV1RDRpbVZJVkZCOVJ5NVlubDg1cnVIX2tsZVViUUVLSzFsaXpHWGpaOGdTT3N5T1g4RGNGcm9Pc0pwSnpkU2lSUHhs?oc=5\" target=\"_blank\">The Man Who Could Be Apple’s Next C.E.O.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-01-08T16:36:21+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Apple CEO Pay Dips as Board Opposes China Audit - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByU0dHd3FUTXpPYUxFU085RDVuY2k4ZG03VjdzSGZQUlpYQmFkUUtVZjdGTEJ3bk5jOTN1Qy1YUXlhRFc5Wlo1UUI2Q1pKMFoxVnpMdlFPN09rVG5aMFZCY25OS1F3cFVTYkJqc3V0UjlhRDgzUHJuelBR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFByU0dHd3FUTXpPYUxFU085RDVuY2k4ZG03VjdzSGZQUlpYQmFkUUtVZjdGTEJ3bk5jOTN1Qy1YUXlhRFc5Wlo1UUI2Q1pKMFoxVnpMdlFPN09rVG5aMFZCY25OS1F3cFVTYkJqc3V0UjlhRDgzUHJuelBR?oc=5\" target=\"_blank\">Apple CEO Pay Dips as Board Opposes China Audit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-09T17:56:09+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Apple reportedly started search for next CEO after Tim Cook told senior leaders that he is… - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQnMtYk4wNXdzZmZMTURmYUQyM3pZcVdDbjlCV3ZweXAySVp5T053VHdfSy1vSlNZOUdwRlVCQmJHSERsWlNBNDk1amMzNkpEdFZmRWhVb3o5XzhhTWkxdEk0eXhvU0NNLXIzamhoYzlzRk1YbUlTajNqcXJOeGdFZ2NZMkg3bGhFa3QyN1Y3X09rUzFWbG0xU1cyb3hmR052WjJmdC1SVTNOc1JmZ3hTc3Q5LWpLNzVoMXVRQk8zOVBOLXZZRGhHb1hPNndmSTdaSXhsQlloZzJqRGlkOGtBVnVNM3AxR3laR3RBNUNueXh3R3B0SDNZY19VZE5FX0RUMXdV0gGIAkFVX3lxTE45Yjd6MnZNck1qVUpxTmN6TFFPTFRhUmxleVJ3OWNzaWhLQjhmNXZjM2RwOVJmU2pHZjJ2MzdTOGhJN0U5MDNoa2lZTXlaZlFCQk9zNUxkVTBUcW0wUzZ6VUlmc1FYRE1TenVvY0ZGOVpIbVhKNnNyTmJRSXlYTkpqcXdCbGNwQWJmTnJQMFlFaGRFNGpuQWl4Q0paSWNKclI4Nnd0aU9aUEFKendjWGxESG45TlhKVnJDaS0yOEJGRmVTemw4bFNMWXhQbUdPelJNWVo0TkZpQTg5S1NpRFdGY18yMkU3YzkySDk2WVNUNjlycGdEMmhNdTVpclRVdmR5eXFOM29GaA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPQnMtYk4wNXdzZmZMTURmYUQyM3pZcVdDbjlCV3ZweXAySVp5T053VHdfSy1vSlNZOUdwRlVCQmJHSERsWlNBNDk1amMzNkpEdFZmRWhVb3o5XzhhTWkxdEk0eXhvU0NNLXIzamhoYzlzRk1YbUlTajNqcXJOeGdFZ2NZMkg3bGhFa3QyN1Y3X09rUzFWbG0xU1cyb3hmR052WjJmdC1SVTNOc1JmZ3hTc3Q5LWpLNzVoMXVRQk8zOVBOLXZZRGhHb1hPNndmSTdaSXhsQlloZzJqRGlkOGtBVnVNM3AxR3laR3RBNUNueXh3R3B0SDNZY19VZE5FX0RUMXdV0gGIAkFVX3lxTE45Yjd6MnZNck1qVUpxTmN6TFFPTFRhUmxleVJ3OWNzaWhLQjhmNXZjM2RwOVJmU2pHZjJ2MzdTOGhJN0U5MDNoa2lZTXlaZlFCQk9zNUxkVTBUcW0wUzZ6VUlmc1FYRE1TenVvY0ZGOVpIbVhKNnNyTmJRSXlYTkpqcXdCbGNwQWJmTnJQMFlFaGRFNGpuQWl4Q0paSWNKclI4Nnd0aU9aUEFKendjWGxESG45TlhKVnJDaS0yOEJGRmVTemw4bFNMWXhQbUdPelJNWVo0TkZpQTg5S1NpRFdGY18yMkU3YzkySDk2WVNUNjlycGdEMmhNdTVpclRVdmR5eXFOM29GaA?oc=5\" target=\"_blank\">Apple reportedly started search for next CEO after Tim Cook told senior leaders that he is…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2026-01-10T04:03:00+00:00",
-      "source": "Times of India"
-    },
-    {
-      "title": "17 clever Apple Notes tips you might not know - Popular Science",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fUnhNcHN4Mms0d3VIUGxLXzZBMmpfaU9UdWlnMVowZHR3eEp4dDhSVldyYXdPTHRuSnQ2RmNJS05BX3AzeEVsZ0lMeEdUQXFBUFBDb21vMUhlc3lscWExQ2hoWkhrZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fUnhNcHN4Mms0d3VIUGxLXzZBMmpfaU9UdWlnMVowZHR3eEp4dDhSVldyYXdPTHRuSnQ2RmNJS05BX3AzeEVsZ0lMeEdUQXFBUFBDb21vMUhlc3lscWExQ2hoWkhrZw?oc=5\" target=\"_blank\">17 clever Apple Notes tips you might not know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Popular Science</font>",
-      "published": "2026-01-10T18:00:00+00:00",
-      "source": "Popular Science"
+      "title": "Apple’s stock can climb 35% this year — if these four scenarios play out - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOY3ZoXzlweUw3Nzl4eXFWMV9tZ0VVWk4zTnBmQ3N1dEVPbnhwZjhtR0N6TFhDY2o4UVZpTlQ2cFU1UjdPd0x3N2liUEV6bXJMODFXcHlWOFA1dzN1SG04SkM4bUkyMWt4YzB1dzRhY2ZWdUZuMjltQmdWY0FnZVdFOC1BMEdiYVRVa2VqMzVZQjhwZHVBVjVveks1bUNwZWlpZVJwWHZGeWpUR0ZDcGhsejhGTzhpcVZHOThxcG5aRlM1d2Qxbk1HVmprWTJtbzZEN2FhT0J2RnNtVkFMOVFtZGY4OXBkYWVxdS1FX1JxQVFrLUZsRlUzTDlIekphUjEteG4tOExiOEc0UnUyV1l0a3VDeVEtcFlia0FtNXo2MERya19Fc0dhX29wNXFvazVVckR4SzhYRnpYYnF1eHh4TWQ2OFRJS2VlODJGSEFiZFhnM2pPZklHbjhQVXdPZ1hnX1VpdDdvVmdIeWdsZmRnNkJSel8yVW54SHhHQUFTQzV1Z0k5WlFEa1RtYy1jMU5aZFNudGwzejdfUS1FMnMyWVVRQlpoMmJYUU9LYVJxaGhEUGNWbFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxOY3ZoXzlweUw3Nzl4eXFWMV9tZ0VVWk4zTnBmQ3N1dEVPbnhwZjhtR0N6TFhDY2o4UVZpTlQ2cFU1UjdPd0x3N2liUEV6bXJMODFXcHlWOFA1dzN1SG04SkM4bUkyMWt4YzB1dzRhY2ZWdUZuMjltQmdWY0FnZVdFOC1BMEdiYVRVa2VqMzVZQjhwZHVBVjVveks1bUNwZWlpZVJwWHZGeWpUR0ZDcGhsejhGTzhpcVZHOThxcG5aRlM1d2Qxbk1HVmprWTJtbzZEN2FhT0J2RnNtVkFMOVFtZGY4OXBkYWVxdS1FX1JxQVFrLUZsRlUzTDlIekphUjEteG4tOExiOEc0UnUyV1l0a3VDeVEtcFlia0FtNXo2MERya19Fc0dhX29wNXFvazVVckR4SzhYRnpYYnF1eHh4TWQ2OFRJS2VlODJGSEFiZFhnM2pPZklHbjhQVXdPZ1hnX1VpdDdvVmdIeWdsZmRnNkJSel8yVW54SHhHQUFTQzV1Z0k5WlFEa1RtYy1jMU5aZFNudGwzejdfUS1FMnMyWVVRQlpoMmJYUU9LYVJxaGhEUGNWbFE?oc=5\" target=\"_blank\">Apple’s stock can climb 35% this year — if these four scenarios play out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2026-01-12T02:42:00+00:00",
+      "source": "MarketWatch"
     },
     {
       "title": "Apple Confirms iPhone Attacks—No Fix For Most Users - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3hiX19MenpWR2ZoV1NTSVVpWWNJdko5UHU5QXNXVTh6RnAzV2tLVE9IVkpkXzRVeUNfc2FsVS1zQ1BiazI0cFRvWW94cDVHSXZEYnB2emRiaVh4aTgyVTZ3NUh1RHNDbUVTNTVqaExfWVhrTjlINDFBcWVRZEhZNWhIejE3MWpFV3ctU0RFTlBmdWx6UldfTllOb0RGN1lEelEwNFZB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3hiX19MenpWR2ZoV1NTSVVpWWNJdko5UHU5QXNXVTh6RnAzV2tLVE9IVkpkXzRVeUNfc2FsVS1zQ1BiazI0cFRvWW94cDVHSXZEYnB2emRiaVh4aTgyVTZ3NUh1RHNDbUVTNTVqaExfWVhrTjlINDFBcWVRZEhZNWhIejE3MWpFV3ctU0RFTlBmdWx6UldfTllOb0RGN1lEelEwNFZB?oc=5\" target=\"_blank\">Apple Confirms iPhone Attacks—No Fix For Most Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-01-10T16:07:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGdFdzd1VVlLR2FKX1ZycUF3OEZ3RXZlYUw3blh4Wk9xbDlKb2paYXZPaGgwMUFoTXZxQWdSZkQ4Ynptb19vSnMycUNrbDhrSnVyYThFWHU1ZVFmaEk1RTVzZ3JTZC1leGVjMHp2M1hycjFteDVqVHQ1cEdzQUpWZm95a3UzSjRzZGFkcFcxZDlscUVsRXlrb0U5VHZwWEZELWk1OVNn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGdFdzd1VVlLR2FKX1ZycUF3OEZ3RXZlYUw3blh4Wk9xbDlKb2paYXZPaGgwMUFoTXZxQWdSZkQ4Ynptb19vSnMycUNrbDhrSnVyYThFWHU1ZVFmaEk1RTVzZ3JTZC1leGVjMHp2M1hycjFteDVqVHQ1cEdzQUpWZm95a3UzSjRzZGFkcFcxZDlscUVsRXlrb0U5VHZwWEZELWk1OVNn?oc=5\" target=\"_blank\">Apple Confirms iPhone Attacks—No Fix For Most Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-01-10T22:48:21+00:00",
       "source": "Forbes"
+    },
+    {
+      "title": "Apple leads global smartphone market with 20% share in 2025, says Counterpoint - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1JoOTFDcml2X1NUVFkxU2JpZ2plc1pyZ21wVkRTZ083TFJVamt0SXY1azRpQ0FSMkNDVzIwOGlyMlRvRVRpbzMyekpCVTk2b1o3eUJmZHhxNjM0Y3dMZXdRN0JUd1ExR3VhVXhyeXhoa2ZZeDJPbmVOWEFQaGpOdkp6Y2NJMk8yYmp2ZGMwTko1V054ckliVkI5a0ZZeFNHYUNGbzZDNHUwSHI2dFBaRldhR0FyRzltYmtrd1MwLXdEZFgyXzU3X3NnTVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1JoOTFDcml2X1NUVFkxU2JpZ2plc1pyZ21wVkRTZ083TFJVamt0SXY1azRpQ0FSMkNDVzIwOGlyMlRvRVRpbzMyekpCVTk2b1o3eUJmZHhxNjM0Y3dMZXdRN0JUd1ExR3VhVXhyeXhoa2ZZeDJPbmVOWEFQaGpOdkp6Y2NJMk8yYmp2ZGMwTko1V054ckliVkI5a0ZZeFNHYUNGbzZDNHUwSHI2dFBaRldhR0FyRzltYmtrd1MwLXdEZFgyXzU3X3NnTVk?oc=5\" target=\"_blank\">Apple leads global smartphone market with 20% share in 2025, says Counterpoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-01-12T06:47:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Apple Led Smartphone Market in 2025. 3 Ways It Can Defy a Market Slump in 2026. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQVy15RDRHam9BYlRYdHNuOUZ0MVZRVGFxZHR4OTJjY0ZNZXVSWGMwT1RmZVJJUlgyUTl0eUc5OEpqRzRWQjcwU2JBczRJZ1lfQkhsU28xc0ZrUnFROTh1MWdEVXBTRnd5WWhuVVZWNHB6aTRxX05hMFlZbXEwLTlvbi1iaGdILURiZkZMdldJTXZwWklvNktieWdoN0hRZEdsdnNmVnAyTWFVYm80bW0wNlZieHhnMjV5UWR3RWVUMjk2RjlJZEY2QUFxalM1eWZETTdzVUFLdFhCcUR6enBZQ2pjY3lTM0dJdGRPSUV5TVJtaWdTcGpReThRNHR3elc5RXVyUy1heERZQ29BakVodHhreWNYZXVjU3U3RHJzZVJlUG9rWkc5bkdGdTJDTW9TYUVUNEVIQzRiUjdjYVItM0w1ZlFuSm4tQVJRSFlhM1VNNHZraV96QnF0MTVEaWpJdVJwb0JnN0ZpT1lZbE52V3NWWlAwSnFHNThKNTVxX1VHMEotd0tNZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiANBVV95cUxQVy15RDRHam9BYlRYdHNuOUZ0MVZRVGFxZHR4OTJjY0ZNZXVSWGMwT1RmZVJJUlgyUTl0eUc5OEpqRzRWQjcwU2JBczRJZ1lfQkhsU28xc0ZrUnFROTh1MWdEVXBTRnd5WWhuVVZWNHB6aTRxX05hMFlZbXEwLTlvbi1iaGdILURiZkZMdldJTXZwWklvNktieWdoN0hRZEdsdnNmVnAyTWFVYm80bW0wNlZieHhnMjV5UWR3RWVUMjk2RjlJZEY2QUFxalM1eWZETTdzVUFLdFhCcUR6enBZQ2pjY3lTM0dJdGRPSUV5TVJtaWdTcGpReThRNHR3elc5RXVyUy1heERZQ29BakVodHhreWNYZXVjU3U3RHJzZVJlUG9rWkc5bkdGdTJDTW9TYUVUNEVIQzRiUjdjYVItM0w1ZlFuSm4tQVJRSFlhM1VNNHZraV96QnF0MTVEaWpJdVJwb0JnN0ZpT1lZbE52V3NWWlAwSnFHNThKNTVxX1VHMEotd0tNZA?oc=5\" target=\"_blank\">Apple Led Smartphone Market in 2025. 3 Ways It Can Defy a Market Slump in 2026.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-01-12T11:57:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Apple (AAPL) Leads Smartphone Market in 2025 Ahead of Q4 Earnings - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXNQMGxNSUtCMnR4SjZjdzR2X00yUUFRZjhvRHNiS2dsd3Q1bjlEdGNrOWNqdFRWRHd4RktsSnBkMEZpU1R6Y1htTy0yNFVjUWRMV1JhTlVUV2lMbDQtdE9UWmEtWWhOdlg1VVlHMktfelVrM3VOZlJtcXpacWNPZHZKMFhjT2ZhNGRyY0k5ZUFkNTRLZldQNg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXNQMGxNSUtCMnR4SjZjdzR2X00yUUFRZjhvRHNiS2dsd3Q1bjlEdGNrOWNqdFRWRHd4RktsSnBkMEZpU1R6Y1htTy0yNFVjUWRMV1JhTlVUV2lMbDQtdE9UWmEtWWhOdlg1VVlHMktfelVrM3VOZlJtcXpacWNPZHZKMFhjT2ZhNGRyY0k5ZUFkNTRLZldQNg?oc=5\" target=\"_blank\">Apple (AAPL) Leads Smartphone Market in 2025 Ahead of Q4 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2026-01-12T08:22:38+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Apple leads global smartphone market in 2025, says Counterpoint - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1F1SFdjdVBBdXg0QmFwV3ZqM3IzVmE4QnhZWlIzMWhYemhPZ1B0ZXVXQjF2Y1d1Ny0zTXpPUDAtU3N6ejVPN1lzVUtaWXBnc3NIRE1udWVPYXdLWVRZdG1kTHhDRmlBYm1BRHpHM2NZNzVGZ2Vod1hHOEpCSC1oRzFRUlhBdnhCN3Vr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1F1SFdjdVBBdXg0QmFwV3ZqM3IzVmE4QnhZWlIzMWhYemhPZ1B0ZXVXQjF2Y1d1Ny0zTXpPUDAtU3N6ejVPN1lzVUtaWXBnc3NIRE1udWVPYXdLWVRZdG1kTHhDRmlBYm1BRHpHM2NZNzVGZ2Vod1hHOEpCSC1oRzFRUlhBdnhCN3Vr?oc=5\" target=\"_blank\">Apple leads global smartphone market in 2025, says Counterpoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-12T10:57:56+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "You Can Store Your Car Keys On Your Apple Watch - Here's How - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdVgybG9IU2gtWTFGZ09JNnBmYXY1clV2RkpOMVNtSmJLeE16TXFEYWp0bHBJRVdXV29raEJleFpibUJQY21wN0VxQ1pfQllrZFUtdmdqN2FUazc1RkJJaEdVMThZeW5LUElfc0s0a0p1Y0ZZWFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdVgybG9IU2gtWTFGZ09JNnBmYXY1clV2RkpOMVNtSmJLeE16TXFEYWp0bHBJRVdXV29raEJleFpibUJQY21wN0VxQ1pfQllrZFUtdmdqN2FUazc1RkJJaEdVMThZeW5LUElfc0s0a0p1Y0ZZWFE?oc=5\" target=\"_blank\">You Can Store Your Car Keys On Your Apple Watch - Here's How</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
+      "published": "2026-01-10T13:17:00+00:00",
+      "source": "bgr.com"
     },
     {
       "title": "Grok and X should be suspended from Apple, Google app stores, Democratic senators say - CNBC",
@@ -45,43 +59,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTlVZWZBV1hQTEU2UVhHUWx1SGJzc3lLWk45a1VfaVVUdV9ybUcxdDdmWTBJWjM5eGwyNmlyWVFUaEY5alVYdDA1LWVCZ1RVTG9uLWo3eWlfRVBncWtXTVpibFoyZGlUYXY5M3hpRFVUdUlwTEpyRDgzRk8zdFItZlhqYTVwSlpTVTZTRWsxLTNlLS1Jdk54ZmFYS1NRVjZORWthVUx30gGrAUFVX3lxTE9ZYW96WllESG16TUR0bHo5cWtlbzFSM3pFaUg1bE1md2w5UVpfTlh5SU53QVJQMjZWdXFFTU5pdThlaTlEVmlHOFZQdDNzLUlNbUNxdnI5ZXRpX3ltbTliZmdhZmN4T2Nud0llNE1tMnB6MHZSYi1kbnpUUk9yN0s4NVhMZ1Y0Q2pDUGNBN0dtTjRDZjN2aXZlSHhZSU15aGVUY2RsNVk2SXdIaw?oc=5\" target=\"_blank\">Grok and X should be suspended from Apple, Google app stores, Democratic senators say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2026-01-09T20:39:04+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "Democratic US senators demand Apple, Google take X and Grok off app stores over sexual images - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclQteWVRa1U1X3p2Ukc1R29Sc051OFIwNXFBSm9HaUF5dy02WGd4cm9KajFCdlZ1VVNGOFpKSjk5WHkyWnNhUk9vM1lPdThpbWZ5TE9sVGoySVFjYlVzUkJKRlhJMTl1T05XOVpzRW5OZjdLTnBXYzZXenlOVF9iNEdudS1OZU1wd2ZxWUM1MGg0RDFKQXhUaG1UeVluQ1czNmlnUVo4bndJVEROczJXVzhkRnNwa0JzZEprT3p5S2Q?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPclQteWVRa1U1X3p2Ukc1R29Sc051OFIwNXFBSm9HaUF5dy02WGd4cm9KajFCdlZ1VVNGOFpKSjk5WHkyWnNhUk9vM1lPdThpbWZ5TE9sVGoySVFjYlVzUkJKRlhJMTl1T05XOVpzRW5OZjdLTnBXYzZXenlOVF9iNEdudS1OZU1wd2ZxWUM1MGg0RDFKQXhUaG1UeVluQ1czNmlnUVo4bndJVEROczJXVzhkRnNwa0JzZEprT3p5S2Q?oc=5\" target=\"_blank\">Democratic US senators demand Apple, Google take X and Grok off app stores over sexual images</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-01-09T19:39:02+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Senators urged Apple and Google to remove X and Grok from app stores over sexual deepfakes - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjlKaDhMMXhOdXJOM2d3UWhGVzRrUUxna3Z3TERPcF93N0JFcTFnem9VWE1GeXZRZE9HSGxLMjNUOEtfdDF1d2pBLVZ2UDRaVWRjMkNMcWF6WUxmV0VlVklYcXQ1N3NmTzBFeGN1bmd4b2xzalY0bVJmR25TbUE2dWh1TDZxT0dJcjVqb0JnV2YydnFaSzg5c0dEcGVpMlpzODBR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjlKaDhMMXhOdXJOM2d3UWhGVzRrUUxna3Z3TERPcF93N0JFcTFnem9VWE1GeXZRZE9HSGxLMjNUOEtfdDF1d2pBLVZ2UDRaVWRjMkNMcWF6WUxmV0VlVklYcXQ1N3NmTzBFeGN1bmd4b2xzalY0bVJmR25TbUE2dWh1TDZxT0dJcjVqb0JnV2YydnFaSzg5c0dEcGVpMlpzODBR?oc=5\" target=\"_blank\">Senators urged Apple and Google to remove X and Grok from app stores over sexual deepfakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-01-09T16:00:00+00:00",
-      "source": "NBC News"
     }
   ],
   "product_launches": [
-    {
-      "title": "Apple sparks backlash after unveiling 'nonsense' new product: 'This is ridiculous' - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzhrWTgwU0lENEdLN2Z6d0NqUE9jb0dDb01fUnlBamlibzk3WldVUzhvOW5acDR6TmZ4T2tiMjN5NDBTSlo4QnVTbGZObnFRQTUydHNGYkRxNUhhMEZWTVpvWUdCNG5qVXMxNDBhbzRGRFVxc3ZwQjFwaDJCVDJ2QlJqWHdORXRBNnBYd1VLLVV2WXhmdEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzhrWTgwU0lENEdLN2Z6d0NqUE9jb0dDb01fUnlBamlibzk3WldVUzhvOW5acDR6TmZ4T2tiMjN5NDBTSlo4QnVTbGZObnFRQTUydHNGYkRxNUhhMEZWTVpvWUdCNG5qVXMxNDBhbzRGRFVxc3ZwQjFwaDJCVDJ2QlJqWHdORXRBNnBYd1VLLVV2WXhmdEE?oc=5\" target=\"_blank\">Apple sparks backlash after unveiling 'nonsense' new product: 'This is ridiculous'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-01-11T10:30:00+00:00",
-      "source": "Yahoo"
-    },
     {
       "title": "All the new products Apple is expected to reveal in 2026 - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5\" target=\"_blank\">All the new products Apple is expected to reveal in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-01-04T10:52:00+00:00",
       "source": "Business Insider"
-    },
-    {
-      "title": "Six new Apple products will launch early this year, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQjlGZEFiNHR0RXV0UlNpV2Q5N1NuVjJYQm1mSDF0ZUZuQkRLU2d2R0xBQ0ZWOHk5UnAxcG1leTVydjVFNmRIbEVCMkM5REtJc1p1M0IxZDVneUtQaVA3WDhVS3RJVVhRVVdIVkZJS3pqTWd6c0otWUY1YXA5emhkdTU0akdFaGR4VVNjUFdPdzJRVHJBTW1od2N0RjdxUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQjlGZEFiNHR0RXV0UlNpV2Q5N1NuVjJYQm1mSDF0ZUZuQkRLU2d2R0xBQ0ZWOHk5UnAxcG1leTVydjVFNmRIbEVCMkM5REtJc1p1M0IxZDVneUtQaVA3WDhVS3RJVVhRVVdIVkZJS3pqTWd6c0otWUY1YXA5emhkdTU0akdFaGR4VVNjUFdPdzJRVHJBTW1od2N0RjdxUQ?oc=5\" target=\"_blank\">Six new Apple products will launch early this year, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-01-05T14:59:00+00:00",
-      "source": "9to5Mac"
     },
     {
       "title": "Four Apple product launches to expect in the near future - Mashable",
@@ -91,11 +77,25 @@
       "source": "Mashable"
     },
     {
-      "title": "Apple Inc. | History, Products, Headquarters, & Facts | Britannica Money - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdFdXMlJ5cDUtenRXVkkwS25ueVhSZWlTd1JOanVMOU40OWE0ekYtaWlGUm1BWF9Zd1BBZ01kZV9GcEtVemZNWV9SMlQ2ZEZhaG9XaQ?oc=5\" target=\"_blank\">Apple Inc. | History, Products, Headquarters, & Facts | Britannica Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
-      "published": "2026-01-08T14:09:00+00:00",
-      "source": "Encyclopedia Britannica"
+      "title": "Apple sparks backlash after unveiling 'nonsense' new product: 'This is ridiculous' - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzhrWTgwU0lENEdLN2Z6d0NqUE9jb0dDb01fUnlBamlibzk3WldVUzhvOW5acDR6TmZ4T2tiMjN5NDBTSlo4QnVTbGZObnFRQTUydHNGYkRxNUhhMEZWTVpvWUdCNG5qVXMxNDBhbzRGRFVxc3ZwQjFwaDJCVDJ2QlJqWHdORXRBNnBYd1VLLVV2WXhmdEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzhrWTgwU0lENEdLN2Z6d0NqUE9jb0dDb01fUnlBamlibzk3WldVUzhvOW5acDR6TmZ4T2tiMjN5NDBTSlo4QnVTbGZObnFRQTUydHNGYkRxNUhhMEZWTVpvWUdCNG5qVXMxNDBhbzRGRFVxc3ZwQjFwaDJCVDJ2QlJqWHdORXRBNnBYd1VLLVV2WXhmdEE?oc=5\" target=\"_blank\">Apple sparks backlash after unveiling 'nonsense' new product: 'This is ridiculous'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-01-11T10:30:00+00:00",
+      "source": "Yahoo"
+    },
+    {
+      "title": "Six new Apple products will launch early this year, here’s what’s coming - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQjlGZEFiNHR0RXV0UlNpV2Q5N1NuVjJYQm1mSDF0ZUZuQkRLU2d2R0xBQ0ZWOHk5UnAxcG1leTVydjVFNmRIbEVCMkM5REtJc1p1M0IxZDVneUtQaVA3WDhVS3RJVVhRVVdIVkZJS3pqTWd6c0otWUY1YXA5emhkdTU0akdFaGR4VVNjUFdPdzJRVHJBTW1od2N0RjdxUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQjlGZEFiNHR0RXV0UlNpV2Q5N1NuVjJYQm1mSDF0ZUZuQkRLU2d2R0xBQ0ZWOHk5UnAxcG1leTVydjVFNmRIbEVCMkM5REtJc1p1M0IxZDVneUtQaVA3WDhVS3RJVVhRVVdIVkZJS3pqTWd6c0otWUY1YXA5emhkdTU0akdFaGR4VVNjUFdPdzJRVHJBTW1od2N0RjdxUQ?oc=5\" target=\"_blank\">Six new Apple products will launch early this year, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-01-05T14:59:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Is Expected to Launch These Four MacBooks in 2026 - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZF9jMmJCQ2pueXMwRHRoeUhITHN5M3lQUDZhSkRSYWMyN0Nic01JQzNrZTFsUFZXT0V1cVN0TmI3OV9LNkczeXdvTlhoYVpRNS1CdGktSjM2cjFJeGxDNldaU0hKOUFqa2djaWd4T001RlVaMGpMaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZF9jMmJCQ2pueXMwRHRoeUhITHN5M3lQUDZhSkRSYWMyN0Nic01JQzNrZTFsUFZXT0V1cVN0TmI3OV9LNkczeXdvTlhoYVpRNS1CdGktSjM2cjFJeGxDNldaU0hKOUFqa2djaWd4T001RlVaMGpMaw?oc=5\" target=\"_blank\">Apple Is Expected to Launch These Four MacBooks in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-01-09T16:17:33+00:00",
+      "source": "MacRumors"
     }
   ],
   "stock": {
