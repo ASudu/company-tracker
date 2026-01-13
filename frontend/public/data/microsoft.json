@@ -2,8 +2,15 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-01-12T12:28:07.506360+00:00",
+  "fetched_at": "2026-01-13T12:27:11.524699+00:00",
   "news": [
+    {
+      "title": "$400M data center headed near San Antonio's Far Westside - MySA",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9rcklvT1pfVlc2YXg3R1FoV3JfYUJBUE1YbGM3MnMzY20zRHFzV3pmUEpkSWFYc2EyUkVEdE1qNmx5TTBZZl8xTW4yZlV2eVd6VEdlalM2dE9EUFZtVW1EcVJiRTYxdUZfUXV3c0JKOVhOZENPUnpmLTNySG1uYmdIeHFWWDl4SHM1N2ZJWnJ5WjcwMGhv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9rcklvT1pfVlc2YXg3R1FoV3JfYUJBUE1YbGM3MnMzY20zRHFzV3pmUEpkSWFYc2EyUkVEdE1qNmx5TTBZZl8xTW4yZlV2eVd6VEdlalM2dE9EUFZtVW1EcVJiRTYxdUZfUXV3c0JKOVhOZENPUnpmLTNySG1uYmdIeHFWWDl4SHM1N2ZJWnJ5WjcwMGhv?oc=5\" target=\"_blank\">$400M data center headed near San Antonio's Far Westside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MySA</font>",
+      "published": "2026-01-11T12:45:21+00:00",
+      "source": "MySA"
+    },
     {
       "title": "‘Office Is Dead’—Microsoft Decision Confuses 400 Million Users - Forbes",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmNwZ2pWWUVFNEZTUktkcEZCSVY5aHdnX29JbUxzTTg3VTd3Wk5VWXdNTEQwSUI1dUI1S084RndzSjdwcFlPT1BhX0V5MVRYSXgzbVdrbkx0N29PSktsazFIdG5lQ182aW4wTlZFMnFSMUFQNUpZRVpFMDhnV0VsN0ExRzJvN043MmpOcVp5QXY4b1c0UTFNZVVKS0lXblktOFkta2pPS2JmeHFsdFg5NGtB?oc=5",
@@ -12,25 +19,25 @@
       "source": "Forbes"
     },
     {
-      "title": "Microsoft AI CEO to all the companies working on AI: I worry we are... - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa1E4cGNGWjgySGw0TlJqZWs0dzNLV1VzMkZBcHB1UlhQMGZ0cmtkd0VrZUNHMHM2ZjV2WGJod0JDNTM5ckdXbzc0bi10ZEx1SUpxcC14OFREYzBad3hnT1Fqc05uNU5NYTlsQ0t3azJfTFczSkU1NkJJdzZJd0dLLVItLVo1cXR5ZVlYS2JSMEU1MXpWa0lraFhiUG05V29Wa1B6NEhvUnplcktrb3dkeGV6ZElhWXV4NWVKdFlaTEdKclB5NlByaWFZcmU1RTRQQzNMZ2F1bzBTalZkME5WbTc1MHDSAeoBQVVfeXFMTUhycnhQWW5zZk1xdDRLamtOTUNjQWp5ZWxKcUp1ZE11WG9NbHBON2tKZFpwcUN5MjlCZnhHN2QtN1VKMnZHV1Y4X1FhTmczU0ZGMkdrUThpQmFyVXNVQTFULUNoS1ZSLVl6RklpX3pfYm9ldzFMTUczNllQc1hWQWxMZEJSVU0wTDZBUHRDcEpjV2dDSHgxS0NRbEk2dmxOMElQZ3hzdXBFS2NlVVdSZkctM082dnRKYXhHbTF5ajdTaENjbmhoUnBrWjJnMVJVWVRqYV8yXzVzZUtZTFdna0Jsbjg1VjhTUEZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa1E4cGNGWjgySGw0TlJqZWs0dzNLV1VzMkZBcHB1UlhQMGZ0cmtkd0VrZUNHMHM2ZjV2WGJod0JDNTM5ckdXbzc0bi10ZEx1SUpxcC14OFREYzBad3hnT1Fqc05uNU5NYTlsQ0t3azJfTFczSkU1NkJJdzZJd0dLLVItLVo1cXR5ZVlYS2JSMEU1MXpWa0lraFhiUG05V29Wa1B6NEhvUnplcktrb3dkeGV6ZElhWXV4NWVKdFlaTEdKclB5NlByaWFZcmU1RTRQQzNMZ2F1bzBTalZkME5WbTc1MHDSAeoBQVVfeXFMTUhycnhQWW5zZk1xdDRLamtOTUNjQWp5ZWxKcUp1ZE11WG9NbHBON2tKZFpwcUN5MjlCZnhHN2QtN1VKMnZHV1Y4X1FhTmczU0ZGMkdrUThpQmFyVXNVQTFULUNoS1ZSLVl6RklpX3pfYm9ldzFMTUczNllQc1hWQWxMZEJSVU0wTDZBUHRDcEpjV2dDSHgxS0NRbEk2dmxOMElQZ3hzdXBFS2NlVVdSZkctM082dnRKYXhHbTF5ajdTaENjbmhoUnBrWjJnMVJVWVRqYV8yXzVzZUtZTFdna0Jsbjg1VjhTUEZ3?oc=5\" target=\"_blank\">Microsoft AI CEO to all the companies working on AI: I worry we are...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2026-01-11T04:52:00+00:00",
-      "source": "Times of India"
+      "title": "𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐊𝐞𝐧𝐲𝐚 𝐜𝐡𝐢𝐞𝐟 𝐏𝐡𝐲𝐥𝐥𝐢𝐬 𝐌𝐢𝐠𝐰𝐢 𝐭𝐨 𝐞𝐱𝐢𝐭 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲. Microsoft Kenya Country General Manager Phyllis Migwi says she will leave her position in February, ending a three-and-a-half-year stint leading the company’s operati - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOSnNteTd6b0dSWDFCX1pUSjBsTWFtODd1cF9PQnJsbjh6QjBVMWtMX0poS2RDUmhpX0JqZ2RETUR5azVsRC1NS08zZUxCSGw1bDROakhqdDlJQkJRLWgzZnJ0bVlUcjRERWRVVU1GN1VqMm1lZmdtT1p1dWl3SnY1MUdhb05McUFZOU5iLWs3amZwakRMd0FkZ0VrdUZoUmh5eDA1NWtFcXpNNGc2RF9SVkRIc3VLRFVMaEhGTkYxVVRfbk9BVVVWUUt2S0VETTZEWFdudDNuemlFUkMzOHgtVi1GVUFQblJ3dHJrZjgtWjVQcnRwcUQwV29KbFhZdXoyeDA2aTVUZXVJdUJhcWJnVlRhb1ZwMkJZdUhWYktIWFB0OU51d2xkWFM4Z1ljcXNrTmMwMkxsbnJkb1lDb1NobVJCaGpSdk1FQ0ZNTUJmbHpjUzRZMTlKdXlfUzVUbWlnb2tyN0FfTGNDWmFFdDBfMllUc01yRlhray1VbTh6ZXhmWFNxRW80WUtlMFdTdnp3MEl4VXhLQTF2M2h3OXFCZEFHc2FWZW5YVHM5OWRQa21qaHRURlBWaEZidFYxV05EQkgxa1I0bTR1VnFN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxOSnNteTd6b0dSWDFCX1pUSjBsTWFtODd1cF9PQnJsbjh6QjBVMWtMX0poS2RDUmhpX0JqZ2RETUR5azVsRC1NS08zZUxCSGw1bDROakhqdDlJQkJRLWgzZnJ0bVlUcjRERWRVVU1GN1VqMm1lZmdtT1p1dWl3SnY1MUdhb05McUFZOU5iLWs3amZwakRMd0FkZ0VrdUZoUmh5eDA1NWtFcXpNNGc2RF9SVkRIc3VLRFVMaEhGTkYxVVRfbk9BVVVWUUt2S0VETTZEWFdudDNuemlFUkMzOHgtVi1GVUFQblJ3dHJrZjgtWjVQcnRwcUQwV29KbFhZdXoyeDA2aTVUZXVJdUJhcWJnVlRhb1ZwMkJZdUhWYktIWFB0OU51d2xkWFM4Z1ljcXNrTmMwMkxsbnJkb1lDb1NobVJCaGpSdk1FQ0ZNTUJmbHpjUzRZMTlKdXlfUzVUbWlnb2tyN0FfTGNDWmFFdDBfMllUc01yRlhray1VbTh6ZXhmWFNxRW80WUtlMFdTdnp3MEl4VXhLQTF2M2h3OXFCZEFHc2FWZW5YVHM5OWRQa21qaHRURlBWaEZidFYxV05EQkgxa1I0bTR1VnFN?oc=5\" target=\"_blank\">𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐊𝐞𝐧𝐲𝐚 𝐜𝐡𝐢𝐞𝐟 𝐏𝐡𝐲𝐥𝐥𝐢𝐬 𝐌𝐢𝐠𝐰𝐢 𝐭𝐨 𝐞𝐱𝐢𝐭 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲. Microsoft Kenya Country General Manager Phyllis Migwi says she will leave her position in February, ending a three-and-a-half-year stint leading the company’s operati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+      "published": "2026-01-13T07:47:13+00:00",
+      "source": "LinkedIn"
     },
     {
-      "title": "Trump’s fundraisers asked Microsoft for its White House ballroom donation - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVk1VXNnNVctYkVpalRxUEp2cVlCMjNtTFZIZEVFazAtMGU4Mk5Uc1g0YzA5NVg3SHdHNTdzSTExNWxkZFBGVjJFZUhKdjI2QXRUZlNNYm5XejY4UGNxclo3QlZ3MHNmMmdpdUVPdHdtc2FIU1daMkJBRk54MUZsZU5pVUNaWVZISk5pZHFQWVUwLVJx?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVk1VXNnNVctYkVpalRxUEp2cVlCMjNtTFZIZEVFazAtMGU4Mk5Uc1g0YzA5NVg3SHdHNTdzSTExNWxkZFBGVjJFZUhKdjI2QXRUZlNNYm5XejY4UGNxclo3QlZ3MHNmMmdpdUVPdHdtc2FIU1daMkJBRk54MUZsZU5pVUNaWVZISk5pZHFQWVUwLVJx?oc=5\" target=\"_blank\">Trump’s fundraisers asked Microsoft for its White House ballroom donation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-01-12T10:00:00+00:00",
+      "title": "Microsoft is retiring its Office Lens app on iOS and Android - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHh6aEdUYXlDU1dEdHQxb1hSQUJLNTNxZmkzX2d4TFRXVHRURm5TOFYyODJJQnFJcXkzeURnaks2eFBOU01pWkk4aEhMQ1hScHFCcm1YdGJRVWVtampOOVVzcjd2ak0wVkpsUnBGa3BvZnJaVTEyUDhpWC1BQi1CRE5maExhZE05elBOOVEwUGJydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHh6aEdUYXlDU1dEdHQxb1hSQUJLNTNxZmkzX2d4TFRXVHRURm5TOFYyODJJQnFJcXkzeURnaks2eFBOU01pWkk4aEhMQ1hScHFCcm1YdGJRVWVtampOOVVzcjd2ak0wVkpsUnBGa3BvZnJaVTEyUDhpWC1BQi1CRE5maExhZE05elBOOVEwUGJydw?oc=5\" target=\"_blank\">Microsoft is retiring its Office Lens app on iOS and Android</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-01-13T10:18:59+00:00",
       "source": "The Verge"
     },
     {
-      "title": "Why Microsoft is reversing its office space exodus - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHpweXBBbkh5QVl2TWNFTHM5ZUFaSDE0Yk4wajVkcHJfeC0xN1JCYmNUMExNNVZya0taTU5mZ1dfTnczeThTVTcwTW9vT3B4anVEUFV2OXVHUlpqb2hWbGh3VTFXdjVRLVJEYzZCa1hyLU9qTWw3S01yeU5nRzAwaU9yeFMxOEJYR2g0LUFtWGZLNlJrRTN1ZTdmOEJ3LW40R1dfRlJaNGNReHdxR0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHpweXBBbkh5QVl2TWNFTHM5ZUFaSDE0Yk4wajVkcHJfeC0xN1JCYmNUMExNNVZya0taTU5mZ1dfTnczeThTVTcwTW9vT3B4anVEUFV2OXVHUlpqb2hWbGh3VTFXdjVRLVJEYzZCa1hyLU9qTWw3S01yeU5nRzAwaU9yeFMxOEJYR2g0LUFtWGZLNlJrRTN1ZTdmOEJ3LW40R1dfRlJaNGNReHdxR0E?oc=5\" target=\"_blank\">Why Microsoft is reversing its office space exodus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2026-01-09T14:00:00+00:00",
-      "source": "The Seattle Times"
+      "title": "Microsoft wants to overhaul GitHub and on CEO Satya Nadella's target are… - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZFI3c0FIUXMwVE9LSW9vR0RkY0tSSlZIY3VmRmY1YkNIQjlOaTlCUFVuUHVON2tYUXNjcHI0YTloSl9tc09CVmwyeDFoR3VGb20zYklQSzBQYUMwTVFoRUtKb3RNNnYxcmJtQXVzRkljQmhaS0VGdmhVNGJRZm94cGhJeWVKempxVmVGY3Nyd0Nkd0xfSVRPaVR6OUJUeWYtQlRVeDJoQk1NWEdtZHFHbk9fSUJBc2dwbGVGMTM3Vnh4N3VMQmpwYUtLZVRJWWJvQ19IbXVxR1MxY2JW0gHiAUFVX3lxTFBENm1KMkNrWTdMX3RRbDFRX1VubGZCTlZsc1dmd0dCNGlqLWJvOFRZTDJkWUdsdS1rOTdhZ3JVMlpOWDRybFNacnEwYzlwbzd5SU85UHpsRGxLZ1FDREIwY24yUEM5YlVtbncyNU9JcWxacE1YeFd6OVhNNXNMTFVjbzExdE5ldTNfSnhYWkFsSXEyRlVBa0RWYUpqUXJyTnU1ak9ZdmpoZWtMUXB5LW9lUWVmWHJseE9CRldUSUF2OWxzQzMxeDlMaGxjUTNPbW54MndKX2VVWldQN3ZaU2hFbHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZFI3c0FIUXMwVE9LSW9vR0RkY0tSSlZIY3VmRmY1YkNIQjlOaTlCUFVuUHVON2tYUXNjcHI0YTloSl9tc09CVmwyeDFoR3VGb20zYklQSzBQYUMwTVFoRUtKb3RNNnYxcmJtQXVzRkljQmhaS0VGdmhVNGJRZm94cGhJeWVKempxVmVGY3Nyd0Nkd0xfSVRPaVR6OUJUeWYtQlRVeDJoQk1NWEdtZHFHbk9fSUJBc2dwbGVGMTM3Vnh4N3VMQmpwYUtLZVRJWWJvQ19IbXVxR1MxY2JW0gHiAUFVX3lxTFBENm1KMkNrWTdMX3RRbDFRX1VubGZCTlZsc1dmd0dCNGlqLWJvOFRZTDJkWUdsdS1rOTdhZ3JVMlpOWDRybFNacnEwYzlwbzd5SU85UHpsRGxLZ1FDREIwY24yUEM5YlVtbncyNU9JcWxacE1YeFd6OVhNNXNMTFVjbzExdE5ldTNfSnhYWkFsSXEyRlVBa0RWYUpqUXJyTnU1ak9ZdmpoZWtMUXB5LW9lUWVmWHJseE9CRldUSUF2OWxzQzMxeDlMaGxjUTNPbW54MndKX2VVWldQN3ZaU2hFbHc?oc=5\" target=\"_blank\">Microsoft wants to overhaul GitHub and on CEO Satya Nadella's target are…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-12T04:36:00+00:00",
+      "source": "Times of India"
     },
     {
       "title": "Fiserv (FISV) Announces a Strategic Collaboration with Microsoft - Yahoo Finance",
@@ -40,25 +47,18 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft brings another AI feature to all Windows 11 devices without special hardware - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3lFd0V2UWlnOXVkQ19Gc25FOHF1eTQzTWNNZGQtcmFJM0Nyc1hvQnc4X2xmTlN1cDZlMlBOV3owS2lPTWttZlcyRDJpSkhjeFBaM1M5alBYcTRITGpsSmVtZzkxUE54c2tSTlJQMXhQZFZsS0JVYl85R2t1VVBIUkZCV0lld2xLUXBmN3hHZWRMYnJKZE01bElEcEZpRWpDUVhDSTR4U0V0cW50cXZzUTdZY0FkUdIBtAFBVV95cUxOcDNyMU50VTlWVDlwRjgyRmdMdUhKZlFlazY0N2trUGhHMHFUME50eEV3ejRwZTBJalQwSHZMUS1WNHFUU25aSGloRUxtd00tWWJJRVZXLUxBS3lCT01VQVBKaC12ZS03U2tQWFpOVi14WWk4RVZta2lsT3dFYzRsR1o4UV9DMVEwMzJ3Mm1yRTYwa0hZbl8zVkE2WjhKUUpaUjlUMWM4ZlF4SkExV2ZuWFpwTkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQb3lFd0V2UWlnOXVkQ19Gc25FOHF1eTQzTWNNZGQtcmFJM0Nyc1hvQnc4X2xmTlN1cDZlMlBOV3owS2lPTWttZlcyRDJpSkhjeFBaM1M5alBYcTRITGpsSmVtZzkxUE54c2tSTlJQMXhQZFZsS0JVYl85R2t1VVBIUkZCV0lld2xLUXBmN3hHZWRMYnJKZE01bElEcEZpRWpDUVhDSTR4U0V0cW50cXZzUTdZY0FkUdIBtAFBVV95cUxOcDNyMU50VTlWVDlwRjgyRmdMdUhKZlFlazY0N2trUGhHMHFUME50eEV3ejRwZTBJalQwSHZMUS1WNHFUU25aSGloRUxtd00tWWJJRVZXLUxBS3lCT01VQVBKaC12ZS03U2tQWFpOVi14WWk4RVZta2lsT3dFYzRsR1o4UV9DMVEwMzJ3Mm1yRTYwa0hZbl8zVkE2WjhKUUpaUjlUMWM4ZlF4SkExV2ZuWFpwTkE?oc=5\" target=\"_blank\">Microsoft brings another AI feature to all Windows 11 devices without special hardware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "published": "2026-01-10T10:00:00+00:00",
-      "source": "Neowin"
+      "title": "Microsoft AI CEO to all the companies working on AI: I worry we are... - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa1E4cGNGWjgySGw0TlJqZWs0dzNLV1VzMkZBcHB1UlhQMGZ0cmtkd0VrZUNHMHM2ZjV2WGJod0JDNTM5ckdXbzc0bi10ZEx1SUpxcC14OFREYzBad3hnT1Fqc05uNU5NYTlsQ0t3azJfTFczSkU1NkJJdzZJd0dLLVItLVo1cXR5ZVlYS2JSMEU1MXpWa0lraFhiUG05V29Wa1B6NEhvUnplcktrb3dkeGV6ZElhWXV4NWVKdFlaTEdKclB5NlByaWFZcmU1RTRQQzNMZ2F1bzBTalZkME5WbTc1MHDSAeoBQVVfeXFMTUhycnhQWW5zZk1xdDRLamtOTUNjQWp5ZWxKcUp1ZE11WG9NbHBON2tKZFpwcUN5MjlCZnhHN2QtN1VKMnZHV1Y4X1FhTmczU0ZGMkdrUThpQmFyVXNVQTFULUNoS1ZSLVl6RklpX3pfYm9ldzFMTUczNllQc1hWQWxMZEJSVU0wTDZBUHRDcEpjV2dDSHgxS0NRbEk2dmxOMElQZ3hzdXBFS2NlVVdSZkctM082dnRKYXhHbTF5ajdTaENjbmhoUnBrWjJnMVJVWVRqYV8yXzVzZUtZTFdna0Jsbjg1VjhTUEZ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa1E4cGNGWjgySGw0TlJqZWs0dzNLV1VzMkZBcHB1UlhQMGZ0cmtkd0VrZUNHMHM2ZjV2WGJod0JDNTM5ckdXbzc0bi10ZEx1SUpxcC14OFREYzBad3hnT1Fqc05uNU5NYTlsQ0t3azJfTFczSkU1NkJJdzZJd0dLLVItLVo1cXR5ZVlYS2JSMEU1MXpWa0lraFhiUG05V29Wa1B6NEhvUnplcktrb3dkeGV6ZElhWXV4NWVKdFlaTEdKclB5NlByaWFZcmU1RTRQQzNMZ2F1bzBTalZkME5WbTc1MHDSAeoBQVVfeXFMTUhycnhQWW5zZk1xdDRLamtOTUNjQWp5ZWxKcUp1ZE11WG9NbHBON2tKZFpwcUN5MjlCZnhHN2QtN1VKMnZHV1Y4X1FhTmczU0ZGMkdrUThpQmFyVXNVQTFULUNoS1ZSLVl6RklpX3pfYm9ldzFMTUczNllQc1hWQWxMZEJSVU0wTDZBUHRDcEpjV2dDSHgxS0NRbEk2dmxOMElQZ3hzdXBFS2NlVVdSZkctM082dnRKYXhHbTF5ajdTaENjbmhoUnBrWjJnMVJVWVRqYV8yXzVzZUtZTFdna0Jsbjg1VjhTUEZ3?oc=5\" target=\"_blank\">Microsoft AI CEO to all the companies working on AI: I worry we are...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-10T17:22:00+00:00",
+      "source": "Times of India"
     },
     {
-      "title": "Microsoft says you should upgrade to Windows 11 AI PCs if you want to be prepared for the next generation of computing - Windows Latest",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLUwtTW11QnZMSFluX1FfOC1Ld3BwbFdGaWN4M0tOUFMxWnJ1aDV2anVOM0tRTlBpeFhPd3R4RTVnUThjTlVVTE1CM1FoNVhQR1ByYVU4QXFPdXc2VHdWNGg3WTVhREtZaVBhV2NLNnpadVhGdmtkWTNBZFEtLVcxY0JpSTl5M2xPNF9LQlhWelRTenB6bzBiekxocGJScGRhYmZkeUg1bnkyZnRGMGp0VFVvWDg0aVBOd3M4aE9TZ0ZqOU8tU1pWd1ZtWml2ekdMcDY4dUFsQ2RnYVd6bmNhRkJXUkJZQTFONGtpenBzdHdYZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLUwtTW11QnZMSFluX1FfOC1Ld3BwbFdGaWN4M0tOUFMxWnJ1aDV2anVOM0tRTlBpeFhPd3R4RTVnUThjTlVVTE1CM1FoNVhQR1ByYVU4QXFPdXc2VHdWNGg3WTVhREtZaVBhV2NLNnpadVhGdmtkWTNBZFEtLVcxY0JpSTl5M2xPNF9LQlhWelRTenB6bzBiekxocGJScGRhYmZkeUg1bnkyZnRGMGp0VFVvWDg0aVBOd3M4aE9TZ0ZqOU8tU1pWd1ZtWml2ekdMcDY4dUFsQ2RnYVd6bmNhRkJXUkJZQTFONGtpenBzdHdYZw?oc=5\" target=\"_blank\">Microsoft says you should upgrade to Windows 11 AI PCs if you want to be prepared for the next generation of computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
-      "published": "2026-01-12T00:22:05+00:00",
-      "source": "Windows Latest"
-    },
-    {
-      "title": "Microsoft may integrate Copilot Chat directly into the File Explorer on Windows 11 next - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWI5b0ZLOGc5Nkpqekc1UG83Sm41QXV6WVU4QmVheDd5c2otSnBZZkNFN3VOT3pfMk5ja2hLQnpjZlByY3NTUEVkYm1Nd1pKSHhXQTNXZktXRUd3WUpCbi1nWDFFWExlS3FOZVUtYjBadm1hZGlLcFFhQ1ctcTFqSHZpREQ0YUxENnA5WGROaTZ6LVM5eGtQT1VhT0tERkhBTEVRbklNQXNSdkVEZkFxWlh1WE1qU05XLXBRank3SHdjeE9JTXFrWWZkQk9JSVNXcHV0T3hR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWI5b0ZLOGc5Nkpqekc1UG83Sm41QXV6WVU4QmVheDd5c2otSnBZZkNFN3VOT3pfMk5ja2hLQnpjZlByY3NTUEVkYm1Nd1pKSHhXQTNXZktXRUd3WUpCbi1nWDFFWExlS3FOZVUtYjBadm1hZGlLcFFhQ1ctcTFqSHZpREQ0YUxENnA5WGROaTZ6LVM5eGtQT1VhT0tERkhBTEVRbklNQXNSdkVEZkFxWlh1WE1qU05XLXBRank3SHdjeE9JTXFrWWZkQk9JSVNXcHV0T3hR?oc=5\" target=\"_blank\">Microsoft may integrate Copilot Chat directly into the File Explorer on Windows 11 next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
-      "published": "2026-01-09T15:55:45+00:00",
-      "source": "Windows Central"
+      "title": "Microsoft warns that China is winning AI race outside the west - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RGJwNG5USTJ0LUsybER0ODZ2RzItakNheTFZa0NWd285RElORnZHbHRvcXdGa3JKMWJXbl9kd1pyRGhXNlFZQi1md0pMNi1XU2VuUWxLOEhMdkFIU2RHTi1ZYzVVendRN0xkTy1mTDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RGJwNG5USTJ0LUsybER0ODZ2RzItakNheTFZa0NWd285RElORnZHbHRvcXdGa3JKMWJXbl9kd1pyRGhXNlFZQi1md0pMNi1XU2VuUWxLOEhMdkFIU2RHTi1ZYzVVendRN0xkTy1mTDQ?oc=5\" target=\"_blank\">Microsoft warns that China is winning AI race outside the west</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-01-13T05:00:19+00:00",
+      "source": "Financial Times"
     }
   ],
   "product_launches": [
@@ -77,18 +77,11 @@
       "source": "Microsoft"
     },
     {
-      "title": "Hackers Spoof Office 365 Domains to Launch Stealthy Internal Phishing Attacks - Petri IT Knowledgebase",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wV1JPTzVoLWM2MWxHUGEtNGFBQS1EbjY2QXA2SmVEbTJWSFBKOGRwSTZZaFlpUVVhZHpqVVJGLXhnUWRFYW1DNDIwTE1JanVTeVhNekV4a0N0YzNFMmk0RkpzZ0tocThSeXFOMEFVeU4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1wV1JPTzVoLWM2MWxHUGEtNGFBQS1EbjY2QXA2SmVEbTJWSFBKOGRwSTZZaFlpUVVhZHpqVVJGLXhnUWRFYW1DNDIwTE1JanVTeVhNekV4a0N0YzNFMmk0RkpzZ0tocThSeXFOMEFVeU4?oc=5\" target=\"_blank\">Hackers Spoof Office 365 Domains to Launch Stealthy Internal Phishing Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Petri IT Knowledgebase</font>",
-      "published": "2026-01-08T14:19:42+00:00",
-      "source": "Petri IT Knowledgebase"
-    },
-    {
-      "title": "Microsoft launches Copilot Checkout and Brand Agents - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0VCTjVJejdDaUNjVm1kcElKOTlTY05GOUh0cmlkZEx2TUNUbFNQc3U3OWlLYXJ0a2FUakdNRmtidGxZZU9TRzVycFE2UmcyV3hBTTdGa1pvVndPR3V1M09VUXBlYkl2blRaTHlQY2NySjc0UGhWYzd6QjRHZ2tkNDBpYUpTU04tbnhfNHNHTkZ4QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0VCTjVJejdDaUNjVm1kcElKOTlTY05GOUh0cmlkZEx2TUNUbFNQc3U3OWlLYXJ0a2FUakdNRmtidGxZZU9TRzVycFE2UmcyV3hBTTdGa1pvVndPR3V1M09VUXBlYkl2blRaTHlQY2NySjc0UGhWYzd6QjRHZ2tkNDBpYUpTU04tbnhfNHNHTkZ4QQ?oc=5\" target=\"_blank\">Microsoft launches Copilot Checkout and Brand Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Land</font>",
-      "published": "2026-01-08T15:00:00+00:00",
-      "source": "Search Engine Land"
+      "title": "Microsoft launches checkout inside Copilot as AI commerce battle intensifies - ppc.land",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUtPTGZlbEdkR0VYb2FfdFdITFlVZGFodGtEX3B5NU54RmdsNXJWN1ExM2syajZ5QXBEY05ta1ZXWEFNbGg3SGtPdWp4MkVvclQzRHZjaTR4WUpWN0JTZFduejVRWUtmSDE1UEgteHBxM1VBS0RMVTc2ZHlnOXJhZ1BFQ2dxa0F6ZnRUYk5NQTZiQlR1MjhWcUdn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORUtPTGZlbEdkR0VYb2FfdFdITFlVZGFodGtEX3B5NU54RmdsNXJWN1ExM2syajZ5QXBEY05ta1ZXWEFNbGg3SGtPdWp4MkVvclQzRHZjaTR4WUpWN0JTZFduejVRWUtmSDE1UEgteHBxM1VBS0RMVTc2ZHlnOXJhZ1BFQ2dxa0F6ZnRUYk5NQTZiQlR1MjhWcUdn?oc=5\" target=\"_blank\">Microsoft launches checkout inside Copilot as AI commerce battle intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ppc.land</font>",
+      "published": "2026-01-10T15:06:22+00:00",
+      "source": "ppc.land"
     },
     {
       "title": "Microsoft ‘Office 14’ to launch in early March 2010 - Fudzilla.com",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFByOE1FazctdUc4bnphQjhxVHVCV3k2bXBiMFlMeWxhS19kQk56STViOTNxaHVCVXEzSmJJTGV4MGc5MlJDWjMybDJxTmxKYlhJemxHRFc4cFNUeXpYVC1pckdWeUQ5RUJsNl9NdVlxRmRORDc3SWpVVFdjdw?oc=5\" target=\"_blank\">Microsoft ‘Office 14’ to launch in early March 2010</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fudzilla.com</font>",
       "published": "2026-01-06T15:15:00+00:00",
       "source": "Fudzilla.com"
+    },
+    {
+      "title": "Microsoft launches Copilot Checkout and Brand Agents - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0VCTjVJejdDaUNjVm1kcElKOTlTY05GOUh0cmlkZEx2TUNUbFNQc3U3OWlLYXJ0a2FUakdNRmtidGxZZU9TRzVycFE2UmcyV3hBTTdGa1pvVndPR3V1M09VUXBlYkl2blRaTHlQY2NySjc0UGhWYzd6QjRHZ2tkNDBpYUpTU04tbnhfNHNHTkZ4QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0VCTjVJejdDaUNjVm1kcElKOTlTY05GOUh0cmlkZEx2TUNUbFNQc3U3OWlLYXJ0a2FUakdNRmtidGxZZU9TRzVycFE2UmcyV3hBTTdGa1pvVndPR3V1M09VUXBlYkl2blRaTHlQY2NySjc0UGhWYzd6QjRHZ2tkNDBpYUpTU04tbnhfNHNHTkZ4QQ?oc=5\" target=\"_blank\">Microsoft launches Copilot Checkout and Brand Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Land</font>",
+      "published": "2026-01-08T15:00:00+00:00",
+      "source": "Search Engine Land"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-09",
-      "close": 479.2799987792969
+      "date": "2026-01-12",
+      "close": 477.17999267578125
     },
     "history": [
-      {
-        "date": "2025-12-31",
-        "close": 483.6199951171875
-      },
       {
         "date": "2026-01-02",
         "close": 472.94000244140625
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-09",
         "close": 479.2799987792969
+      },
+      {
+        "date": "2026-01-12",
+        "close": 477.17999267578125
       }
     ],
     "name": "Microsoft Corporation"
