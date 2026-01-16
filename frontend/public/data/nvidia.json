@@ -2,15 +2,8 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-01-15T12:26:09.602457+00:00",
+  "fetched_at": "2026-01-16T12:25:32.122768+00:00",
   "news": [
-    {
-      "title": "Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12T2pvdXN1TUl0MlZ2RENrYlluY2ZJN252TXR4Ny14dlpVdEtqUThIZ19ZZVluVGJXT3RZVTdPWlJBMHJTOGpXTmI5cW9Pa3lUZFdpeGJoY0JsakRaSy0xMjFka1NrWkVCWTVPUXRVTkpPVlEyQmM2UdIBfkFVX3lxTFAxY0h3WXZjNWd1M0UyaU10LUNHTHZIZFdfOVRSRUFtU2JyN2JJQjljQk5rVXZfa2xIQkRhb3FoSldrRk5ZQml6WXpBcV9ENmZNeElMRWJtNGhpdmFLRmx3ZWRVNXB4bU9FN1BIWFdoNnhGVGhYUTdPTHo5UUlzQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE12T2pvdXN1TUl0MlZ2RENrYlluY2ZJN252TXR4Ny14dlpVdEtqUThIZ19ZZVluVGJXT3RZVTdPWlJBMHJTOGpXTmI5cW9Pa3lUZFdpeGJoY0JsakRaSy0xMjFka1NrWkVCWTVPUXRVTkpPVlEyQmM2UdIBfkFVX3lxTFAxY0h3WXZjNWd1M0UyaU10LUNHTHZIZFdfOVRSRUFtU2JyN2JJQjljQk5rVXZfa2xIQkRhb3FoSldrRk5ZQml6WXpBcV9ENmZNeElMRWJtNGhpdmFLRmx3ZWRVNXB4bU9FN1BIWFdoNnhGVGhYUTdPTHo5UUlzQQ?oc=5\" target=\"_blank\">Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-14T21:38:01+00:00",
-      "source": "CNBC"
-    },
     {
       "title": "Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeTh0cnZaQUdrUW5CVjlmRjgxb3R2aVdma1NpdkRjcktKLWJNRHhqcHNiSnNua0FDMkRQMThVaXVYWExock1XSTB3SHpIU1gtb0ZSVExheTVzdUtXSWpMckRiQjB5OENzVUR5Z214U1M1cjF6SmNVVno0RGlPZkFXU0RUbm43YWgyUlJXSWs1SERWOWZBNkdWcHhqRm9zZy1XbDFITC1wbXdqT0FwLU5kV3kxWHB1LWZNSUpnbGFYQ3M?oc=5",
@@ -19,46 +12,53 @@
       "source": "Reuters"
     },
     {
-      "title": "How AMD Stock Beat the Market (and Nvidia) in 2025 - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDBoSDF1Q2Z0YVhDLV9RZWlpaU00UkgxQkhXSk9XRUh2N3M2YUNRNjBfWWtPdXhKaVRTWjF4YnYzbTg5V0JGU3lxX2pndzJfX0Q3TXZZc1VTc0N4YW5lTzdGTmk5REtnODRBV1ZXVHVEZWpvZ2hnVmE0dWRabllaQkZ2LVRQNWhXLXh0YUlvYjVmcV84Rnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDBoSDF1Q2Z0YVhDLV9RZWlpaU00UkgxQkhXSk9XRUh2N3M2YUNRNjBfWWtPdXhKaVRTWjF4YnYzbTg5V0JGU3lxX2pndzJfX0Q3TXZZc1VTc0N4YW5lTzdGTmk5REtnODRBV1ZXVHVEZWpvZ2hnVmE0dWRabllaQkZ2LVRQNWhXLXh0YUlvYjVmcV84Rnc?oc=5\" target=\"_blank\">How AMD Stock Beat the Market (and Nvidia) in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-01-15T12:03:00+00:00",
+      "title": "Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12T2pvdXN1TUl0MlZ2RENrYlluY2ZJN252TXR4Ny14dlpVdEtqUThIZ19ZZVluVGJXT3RZVTdPWlJBMHJTOGpXTmI5cW9Pa3lUZFdpeGJoY0JsakRaSy0xMjFka1NrWkVCWTVPUXRVTkpPVlEyQmM2UdIBfkFVX3lxTFAxY0h3WXZjNWd1M0UyaU10LUNHTHZIZFdfOVRSRUFtU2JyN2JJQjljQk5rVXZfa2xIQkRhb3FoSldrRk5ZQml6WXpBcV9ENmZNeElMRWJtNGhpdmFLRmx3ZWRVNXB4bU9FN1BIWFdoNnhGVGhYUTdPTHo5UUlzQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE12T2pvdXN1TUl0MlZ2RENrYlluY2ZJN252TXR4Ny14dlpVdEtqUThIZ19ZZVluVGJXT3RZVTdPWlJBMHJTOGpXTmI5cW9Pa3lUZFdpeGJoY0JsakRaSy0xMjFka1NrWkVCWTVPUXRVTkpPVlEyQmM2UdIBfkFVX3lxTFAxY0h3WXZjNWd1M0UyaU10LUNHTHZIZFdfOVRSRUFtU2JyN2JJQjljQk5rVXZfa2xIQkRhb3FoSldrRk5ZQml6WXpBcV9ENmZNeElMRWJtNGhpdmFLRmx3ZWRVNXB4bU9FN1BIWFdoNnhGVGhYUTdPTHo5UUlzQQ?oc=5\" target=\"_blank\">Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-01-14T21:38:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Memory Shortage to Hit Nvidia China Approvals, US Lawmaker Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSG5CajFYalItZnJjNkRNb3k0SUlNSVBqQXRaNXRXdTFpS0hGRUJSR2ZMZ0xoRndmd2R3SHlLd0FOamV6cmVSNGl6Q05CNC1FbThpV2UzazlHZ05qS09BOGFnSDJqc0x5U2UxOENZOE1uaGpvSHJqUkdtNklvVS1hLUp2RFo5eFVQWmtURVN0bVdBTjg0WXZhTUVscjFIYjRxR3lRT2tEYmxRbThQZ1VQcGpROA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSG5CajFYalItZnJjNkRNb3k0SUlNSVBqQXRaNXRXdTFpS0hGRUJSR2ZMZ0xoRndmd2R3SHlLd0FOamV6cmVSNGl6Q05CNC1FbThpV2UzazlHZ05qS09BOGFnSDJqc0x5U2UxOENZOE1uaGpvSHJqUkdtNklvVS1hLUp2RFo5eFVQWmtURVN0bVdBTjg0WXZhTUVscjFIYjRxR3lRT2tEYmxRbThQZ1VQcGpROA?oc=5\" target=\"_blank\">Memory Shortage to Hit Nvidia China Approvals, US Lawmaker Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-01-15T17:00:28+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Nvidia initiated, DraftKings upgraded: Wall Street's top analyst calls - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDlhZFlHbHlBcnpiY2FXSFR4NHF3WEVGSWx4UjZMZ2FQTE04RHczSEU1Vl9YX3gyemJFTXc4WkdyRmtUSTd3dFBQckxDWl8zNnZVOUdpT0g5UzZTd3c0eTV2T0ZHWm9JeU9BNm1wR1RTYUhIOHZId2d5QUoyemRaNVViemlkNDI5dHNBX1djamI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDlhZFlHbHlBcnpiY2FXSFR4NHF3WEVGSWx4UjZMZ2FQTE04RHczSEU1Vl9YX3gyemJFTXc4WkdyRmtUSTd3dFBQckxDWl8zNnZVOUdpT0g5UzZTd3c0eTV2T0ZHWm9JeU9BNm1wR1RTYUhIOHZId2d5QUoyemRaNVViemlkNDI5dHNBX1djamI?oc=5\" target=\"_blank\">Nvidia initiated, DraftKings upgraded: Wall Street's top analyst calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-15T14:53:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "'Real nightmare scenario': How Nvidia's China struggles could hurt its competitive edge - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXh2cFR1QjlIUmdUTFZIVW9zY1dVUFJneUFwaVlsODEyem5ZN3JuQUZBSmhIbU9IaldUWW1IeV96alhSXzU1ZkRGR3FZeDhRT1o3YVY2WUtQeng2MHJjVUE2UVduV28xdnNYRzVhOXd1RzdoNXFReUhxb1A0T0ltSXQzMHpmM3B3RFF4Y19hZ2tibER5Rl9pNzhGOHlBblZXaUhRLVRDSi1nSzl6TGt0U1RMY3pyS3BkcU1tTTMtSUlwWmFWckFxMg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXh2cFR1QjlIUmdUTFZIVW9zY1dVUFJneUFwaVlsODEyem5ZN3JuQUZBSmhIbU9IaldUWW1IeV96alhSXzU1ZkRGR3FZeDhRT1o3YVY2WUtQeng2MHJjVUE2UVduV28xdnNYRzVhOXd1RzdoNXFReUhxb1A0T0ltSXQzMHpmM3B3RFF4Y19hZ2tibER5Rl9pNzhGOHlBblZXaUhRLVRDSi1nSzl6TGt0U1RMY3pyS3BkcU1tTTMtSUlwWmFWckFxMg?oc=5\" target=\"_blank\">'Real nightmare scenario': How Nvidia's China struggles could hurt its competitive edge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-16T11:00:11+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Billionaire Stanley Druckenmiller of Duquesne Dumped His Fund's Stake in Nvidia and Has Latched Onto a New Favorite Trillion-Dollar AI Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHpxd3FaczlhOFJmUGpWREVUOHFDWmRZQ21yNzNsYURaMXNwZUI5UnBpalZvc1hsMXhBQ2IyVVpScnRMdmpEOEppcjJQNGU3V3Naa2VzZl93eEdndnAwZUhwQkxOZkF3ZkN4bFJxdF96dTVyTl90bFBEakVEM29zSThIdkdtZlVvaGZndFlzNE91d3JnZmNkdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHpxd3FaczlhOFJmUGpWREVUOHFDWmRZQ21yNzNsYURaMXNwZUI5UnBpalZvc1hsMXhBQ2IyVVpScnRMdmpEOEppcjJQNGU3V3Naa2VzZl93eEdndnAwZUhwQkxOZkF3ZkN4bFJxdF96dTVyTl90bFBEakVEM29zSThIdkdtZlVvaGZndFlzNE91d3JnZmNkdw?oc=5\" target=\"_blank\">Billionaire Stanley Druckenmiller of Duquesne Dumped His Fund's Stake in Nvidia and Has Latched Onto a New Favorite Trillion-Dollar AI Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-01-16T11:06:00+00:00",
       "source": "The Motley Fool"
     },
     {
-      "title": "Chip Stocks: NVIDIA, AMD, Micron Lifted by TSMC Q4 Beat - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnhXdE5STGJvTUFXblg2OUlydy1Mbl9ZMmcwQktVaGpKVDdWTXVvVmVfRHNMUVpuOHZhWE9nTkM2eUl6ZldSV1NYVnJCVlJTZGJHY2M4WjJrV0N1M1RJOWxpZmRxLUtST0NEbzVpcTVwMUx3VXpTQ3p0Rl92akFsVkR1SVc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnhXdE5STGJvTUFXblg2OUlydy1Mbl9ZMmcwQktVaGpKVDdWTXVvVmVfRHNMUVpuOHZhWE9nTkM2eUl6ZldSV1NYVnJCVlJTZGJHY2M4WjJrV0N1M1RJOWxpZmRxLUtST0NEbzVpcTVwMUx3VXpTQ3p0Rl92akFsVkR1SVc?oc=5\" target=\"_blank\">Chip Stocks: NVIDIA, AMD, Micron Lifted by TSMC Q4 Beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
-      "published": "2026-01-15T11:52:50+00:00",
-      "source": "Yahoo Finance UK"
+      "title": "Nvidia: RTX 5070 Ti Cards Are Not 'End of Life,' All Models Still Shipping - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjBDSVVjVUkwazN5RzNaczdnTkFNcXJfakRIWUVBVVpvaXFFSy1wLWExM3dlekFTTGs5SzZJclFnOEhhdVhUbi1yOG1XT0VMNTg2cU1XRXFmN2NFVHZMOXNzd0hON0Rod3gxWGRMSDRUWV9JUlVaNU5kRU5ueExkTGdtcU4yc3E3MmFqbDJSYVNlU2QyYUFUNVdjUndsQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMjBDSVVjVUkwazN5RzNaczdnTkFNcXJfakRIWUVBVVpvaXFFSy1wLWExM3dlekFTTGs5SzZJclFnOEhhdVhUbi1yOG1XT0VMNTg2cU1XRXFmN2NFVHZMOXNzd0hON0Rod3gxWGRMSDRUWV9JUlVaNU5kRU5ueExkTGdtcU4yc3E3MmFqbDJSYVNlU2QyYUFUNVdjUndsQQ?oc=5\" target=\"_blank\">Nvidia: RTX 5070 Ti Cards Are Not 'End of Life,' All Models Still Shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWthWV9kZ19nMjhkX2R5SDhHUDB0UFVRLUtkcFpZNzNpNjJ2YzQxbVBXMXljZlhRa3RmeVgtcWNtVzZUVFhRTWNEN2N0NWd2c0taZnlxTGdSZUdNTm1rT0JYQldfbWZaRERDY1hhRzZabmZWdkNSd3gyODBLaEdUR0pJLUVER09HdEFoOVNzOHl4NlZFSjEzTUktc2lyYW9UbmZpUUxQeFlHQlpPMjlKLVV2ZUxOQUtzVkxQelBEeFdyOXNDNG5MMGZLNlFHQQ?oc=5\" target=\"_blank\">'Demand for GeForce RTX GPUs is strong': Nvidia reportedly won't discontinue RTX 5070 Ti GPU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzdrVFhiWWRfUUVmTHVnb1VfQl9RcjlRTDRYNmVMYTdmZEd0aldyQ1VURV9VTFdJUGplOG5jT2NEVnJnRDB6UFc5bVR5NVZFSXc4M0RZMmg3Ql93N1J0WGhRaWFwQ0pfckJlTDNGZ01sS2FNcExjaEhjUDVaRWFhU29pRzJiWVBzWGltdzRR?oc=5\" target=\"_blank\">The Morning After: ASUS stops making some NVIDIA GPUs due to memory supply crunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li></ol>",
+      "published": "2026-01-15T21:03:41+00:00",
+      "source": "PCMag"
     },
     {
-      "title": "White House sets tariffs to take 25% cut of Nvidia and AMD sales in China - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fYS1DbVhzSWEtSF9BVGRxcThLM0R2T2YyNm1yX2lqRGMtV2V2dG5EOU9iR1FhWUVHbGVlUWV5SVFNUHhLOER5QkgyNnV2TTRubEp1WWZ5a1JQQW9Ba3JDSFkyTHo0a1ZpbUlwYlh2V2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5fYS1DbVhzSWEtSF9BVGRxcThLM0R2T2YyNm1yX2lqRGMtV2V2dG5EOU9iR1FhWUVHbGVlUWV5SVFNUHhLOER5QkgyNnV2TTRubEp1WWZ5a1JQQW9Ba3JDSFkyTHo0a1ZpbUlwYlh2V2c?oc=5\" target=\"_blank\">White House sets tariffs to take 25% cut of Nvidia and AMD sales in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-01-14T23:54:51+00:00",
-      "source": "Financial Times"
-    },
-    {
-      "title": "Nvidia CEO delivers biblical-scale reality check on AI - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0U2eWRIX2dCOHQtYmk2akZnZG5HYk92cHNESzZONF9yRkRGSFVwZU5LVGlVdEx5R1FhblBHbHBIMlVzN1RBYnZRU0x1clJ4X1FOakMxTjI5UHNReU1IZjBiWGVid2VabzVlRC1LMVNXOEVFYnpqR0NyZnUxVHZCbFRYQ3A3bTllamN4eHEwVEdzY1QteGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0U2eWRIX2dCOHQtYmk2akZnZG5HYk92cHNESzZONF9yRkRGSFVwZU5LVGlVdEx5R1FhblBHbHBIMlVzN1RBYnZRU0x1clJ4X1FOakMxTjI5UHNReU1IZjBiWGVid2VabzVlRC1LMVNXOEVFYnpqR0NyZnUxVHZCbFRYQ3A3bTllamN4eHEwVEdzY1QteGc?oc=5\" target=\"_blank\">Nvidia CEO delivers biblical-scale reality check on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "published": "2026-01-15T00:03:00+00:00",
-      "source": "thestreet.com"
-    },
-    {
-      "title": "Exclusive: Nvidia backs Harmonic, a specialized AI math startup - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xOF9NZ2g5UnNvdVZWNVJ0bWNicnY3dmxVMmhXeFlHc0ZMbDRTa0tjZ1dDT2t4ajdBWEFZclltbkdyOGJ3UkgxbzJ2SWNGWFlmRUlET1JlWngxb2VyTXFHZ1RxQUp2SWpDanlSVks4bHZ5X28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0xOF9NZ2g5UnNvdVZWNVJ0bWNicnY3dmxVMmhXeFlHc0ZMbDRTa0tjZ1dDT2t4ajdBWEFZclltbkdyOGJ3UkgxbzJ2SWNGWFlmRUlET1JlWngxb2VyTXFHZ1RxQUp2SWpDanlSVks4bHZ5X28?oc=5\" target=\"_blank\">Exclusive: Nvidia backs Harmonic, a specialized AI math startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-01-15T10:27:46+00:00",
-      "source": "Axios"
-    },
-    {
-      "title": "Trump Administration Enacts Security Rules for Nvidia’s China Chip Sales - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOeVdINmxLZGlHOG1ULWFyeUJkSXI4RWNoeUJVZWU1SkhlRjBmaUhEaHFwZ3QwMnc1R3lDb3hmRnpfTWwzeld3WE9OcUVRYi1MeElSdG5yb1pvYzZFMkxreGNrQUdfZFExaWlUNk02bEJSVHhJYXlVT0xXSzE4NFc2UFA2Vk1hcHZzWFN6OGZya293WFc2WXhoRVRCOEdqcXktdC1rZUlXTTc1cmJsLW9SX0xxUXBQVkxjWVBhYWtuRDBNQWhhdFgxZnVfZ2dob3Vjc3V6d05iSk1QZEdmNWNnaHJaVy0wY0Z3eFJ3azhiSm4xeTZwVldjZFJOQThITTg1UlQtTXVRNlh5c1ZsYzc5Z0wwc3dfRmYzQWhZLWhRVWdvNUxtWE5nakFpVF9HSEF1ZW5fdEt5TEVIQ0V1bFNnNlpmSmVkeU1tbUlXN2w5WkNYZktmWmZ4R0NMbkJuUksza2tLWEI4Y0FIUUVLcE5NRURWTEhQd0llX1Q2S1VfVlhvZmp3YWNod0R5eXJhOUdWdHllcmk4d1VWYnpsc2ZoeWVQOVg3blNMUjJ5YU43WmYxekItWmhPZll2R0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxOeVdINmxLZGlHOG1ULWFyeUJkSXI4RWNoeUJVZWU1SkhlRjBmaUhEaHFwZ3QwMnc1R3lDb3hmRnpfTWwzeld3WE9OcUVRYi1MeElSdG5yb1pvYzZFMkxreGNrQUdfZFExaWlUNk02bEJSVHhJYXlVT0xXSzE4NFc2UFA2Vk1hcHZzWFN6OGZya293WFc2WXhoRVRCOEdqcXktdC1rZUlXTTc1cmJsLW9SX0xxUXBQVkxjWVBhYWtuRDBNQWhhdFgxZnVfZ2dob3Vjc3V6d05iSk1QZEdmNWNnaHJaVy0wY0Z3eFJ3azhiSm4xeTZwVldjZFJOQThITTg1UlQtTXVRNlh5c1ZsYzc5Z0wwc3dfRmYzQWhZLWhRVWdvNUxtWE5nakFpVF9HSEF1ZW5fdEt5TEVIQ0V1bFNnNlpmSmVkeU1tbUlXN2w5WkNYZktmWmZ4R0NMbkJuUksza2tLWEI4Y0FIUUVLcE5NRURWTEhQd0llX1Q2S1VfVlhvZmp3YWNod0R5eXJhOUdWdHllcmk4d1VWYnpsc2ZoeWVQOVg3blNMUjJ5YU43WmYxekItWmhPZll2R0U?oc=5\" target=\"_blank\">Trump Administration Enacts Security Rules for Nvidia’s China Chip Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2026-01-14T01:46:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVEckFRTkVxVTlPWHpHaFp4ZnJ4d3NNbC1RWm5CUDJLN3otY3FneEVxTjhqNDI4d2NQeU02Z25SXy1uUFRwRlUwdF9PSksxYmNQNWNodURoYko1UVJ4Y0k2VDZWQ3JhbWM5ZUlUTWpHeDlOUk1NUk12aWdrdGxNQ3FVZnBaeWk3N2JzMXp4OER2UGxkNWtULTJYNU5GZVlVbFNFMlFQQjhzOWZvUXVDdGU0MlhOckdoNGc?oc=5\" target=\"_blank\">AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-01-15T19:45:41+00:00",
+      "source": "CNBC"
     }
   ],
   "product_launches": [
@@ -91,25 +91,21 @@
       "source": "Quiver Quantitative"
     },
     {
-      "title": "AMD RDNA 5 GPUs may launch after Nvidia's RTX 60 series in late 2027 - TechSpot",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQck5qbXZISGxJU1JGSDQ4Y0tXbDhzeGVSeGQ5amIwTjNfeW5xc2RrQVg5MHJleTB3S3JlVWIybENES2lxTGJha3B6bVI2UkdNTUt3RG1oZDVPc2lhbVRDYXh2Qlp4SDB4U1JtQUViZXJTejhjWm9ZWlN3N1hFUGs5OFhwRm5yWUND?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQck5qbXZISGxJU1JGSDQ4Y0tXbDhzeGVSeGQ5amIwTjNfeW5xc2RrQVg5MHJleTB3S3JlVWIybENES2lxTGJha3B6bVI2UkdNTUt3RG1oZDVPc2lhbVRDYXh2Qlp4SDB4U1JtQUViZXJTejhjWm9ZWlN3N1hFUGs5OFhwRm5yWUND?oc=5\" target=\"_blank\">AMD RDNA 5 GPUs may launch after Nvidia's RTX 60 series in late 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechSpot</font>",
-      "published": "2026-01-12T10:20:00+00:00",
-      "source": "TechSpot"
+      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPMlA3ODdQNWY2RU1zN1dvQnNHWE1mTFAxaGd0ODNFanpoUHBic3AyUUhfUVJOZEdoOG9IcU5aNXpTU1F3OUdGWU1oVXJpNkR1T3I0VnYxSW0wcDhqWVBFa0VtTUFjTnRhcDg5RWFoSEFnVy1lXzluTGxBV05CU0I3ZlYyR09qNmkxM29iUWpjMWZtaXlXaS1SRFdXV2Z1RkhxR0NQdlF3bU50V2NnOGUzaTNZMm5WbE96RkRRYmFwRzNXdzVNOTlyWDQtMGVaZHZZbndabWxUUzlvZUlTc3llMjUtdWdzOTRFZWdRQlBWUUlCZUJqZ0tJakVfb25kMjNSeVJaZnp1RFFIUFkwNXdFdjNuUTkwV1gyVWk2djRjczJBSHVGa1VNNVZ5TmRLazJpZkR3Y1pOVGJ0V1ZmWVdsOUNhTTRpYkF2dW1LVnRrS21KOU5PZTJWQzN0NnpPQ0JmU0M4RmhmaG9nM3VCMnI3SmdJQm0yTW5Dby1HZnU4Q0REZ2QyV1p3T1BoRDdwbTZYUTNJTFJWQldhZ3pGQ21KVw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPMlA3ODdQNWY2RU1zN1dvQnNHWE1mTFAxaGd0ODNFanpoUHBic3AyUUhfUVJOZEdoOG9IcU5aNXpTU1F3OUdGWU1oVXJpNkR1T3I0VnYxSW0wcDhqWVBFa0VtTUFjTnRhcDg5RWFoSEFnVy1lXzluTGxBV05CU0I3ZlYyR09qNmkxM29iUWpjMWZtaXlXaS1SRFdXV2Z1RkhxR0NQdlF3bU50V2NnOGUzaTNZMm5WbE96RkRRYmFwRzNXdzVNOTlyWDQtMGVaZHZZbndabWxUUzlvZUlTc3llMjUtdWdzOTRFZWdRQlBWUUlCZUJqZ0tJakVfb25kMjNSeVJaZnp1RFFIUFkwNXdFdjNuUTkwV1gyVWk2djRjczJBSHVGa1VNNVZ5TmRLazJpZkR3Y1pOVGJ0V1ZmWVdsOUNhTTRpYkF2dW1LVnRrS21KOU5PZTJWQzN0NnpPQ0JmU0M4RmhmaG9nM3VCMnI3SmdJQm0yTW5Dby1HZnU4Q0REZ2QyV1p3T1BoRDdwbTZYUTNJTFJWQldhZ3pGQ21KVw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-10-28T07:00:00+00:00",
+      "source": "The Wall Street Journal"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-14",
-      "close": 183.13999938964844
+      "date": "2026-01-15",
+      "close": 187.0500030517578
     },
     "history": [
-      {
-        "date": "2026-01-06",
-        "close": 187.24000549316406
-      },
       {
         "date": "2026-01-07",
         "close": 189.11000061035156
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-14",
         "close": 183.13999938964844
+      },
+      {
+        "date": "2026-01-15",
+        "close": 187.0500030517578
       }
     ],
     "name": "NVIDIA Corporation"

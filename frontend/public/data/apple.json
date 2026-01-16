@@ -2,28 +2,21 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-01-15T12:25:56.746917+00:00",
+  "fetched_at": "2026-01-16T12:25:19.512832+00:00",
   "news": [
     {
-      "title": "Apple picks Google's Gemini to run AI-powered Siri coming this year - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMUoyZFNyN1NsQjdsS3J6MkhCR253STY0djkwb2JveGJUalJCemM2YTdzWE9ZUXE4Sk02T0gtVFVOZk9uZktMekJrc29VUHBqQWk2VXNyQkpLZEVqRmh0SjdfYm9XM2U0NG1BME9ub05Vd9IBd0FVX3lxTE9tNkU5M3B4dFIwSzY3cExYdXpzbFc0SXRSNUs2b2dHT2g0ODhGNTFVcmxLWFQ5MmhnelM3X3JoME12SjVXNUQ1Vy1QcW95a2MtbjlnVjlEZmZBdGlPMnVIMmRyWWlnZC01OGpzV0F6Y09iZW15M3BJ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kMUoyZFNyN1NsQjdsS3J6MkhCR253STY0djkwb2JveGJUalJCemM2YTdzWE9ZUXE4Sk02T0gtVFVOZk9uZktMekJrc29VUHBqQWk2VXNyQkpLZEVqRmh0SjdfYm9XM2U0NG1BME9ub05Vd9IBd0FVX3lxTE9tNkU5M3B4dFIwSzY3cExYdXpzbFc0SXRSNUs2b2dHT2g0ODhGNTFVcmxLWFQ5MmhnelM3X3JoME12SjVXNUQ1Vy1QcW95a2MtbjlnVjlEZmZBdGlPMnVIMmRyWWlnZC01OGpzV0F6Y09iZW15M3BJ?oc=5\" target=\"_blank\">Apple picks Google's Gemini to run AI-powered Siri coming this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvNVFxNkRtc2hIemxLUkFubVNmQktUakQ4UHcyS0FZVElHMnBMMHJaNGNfbFFxSnNOc2p1U1UyVlNoTFZSeUdWOVYxUEVQWHhKb2hOMFQtWXVfdw?oc=5\" target=\"_blank\">Apple turns to Google to power AI upgrade for Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNaTN3RzdYTXRHM2FpMmhtbE5oQXNHcXdiRGlJZkRJa0NYTWp5ZTZBQmVGMmVMdVEzaUxld0l0aDhQOXRZTWg4ZWh6RkZBSWZUTmkyeGExRkxNU2F6WVZfNmJpdXJqWmc0WlRpQnU3bmhBSkxkNlBQSXZvYUVKYUFOdzJvU1hCMDloQzVwb1duVklwOThpN0E?oc=5\" target=\"_blank\">Apple Didn’t Have an AI Strategy. So It’s Buying One From Google.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Magazine</font></li></ol>",
-      "published": "2026-01-12T15:19:25+00:00",
-      "source": "CNBC"
+      "title": "Apple sits out AI arms race to play kingmaker between Google and OpenAI - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sa0tGSzI3bVltRlpDamNMbDR2dWxIUElvODlmcC1sbEN0eE56NjFYNmI0aVk0UUJBYlBqeWl0M2FsaFFVUHpVSC1od1NzeE9wTTVCTXVhbXNtUFVOS1JLNHc5cEZTMmpteU83MUNfNTI?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9sa0tGSzI3bVltRlpDamNMbDR2dWxIUElvODlmcC1sbEN0eE56NjFYNmI0aVk0UUJBYlBqeWl0M2FsaFFVUHpVSC1od1NzeE9wTTVCTXVhbXNtUFVOS1JLNHc5cEZTMmpteU83MUNfNTI?oc=5\" target=\"_blank\">Apple sits out AI arms race to play kingmaker between Google and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5mSWhCTEVBNDBuTFpZZGM5VHYwMTF6UFEtdEg0dElNMTZ5NnJyZFZWM05fVkZjLVVWWUpmOFBRU2xOWWFFNVlsYmVFMUZ3cW1yWlNHb2tiaVAtR0pyWkMwV2RqYXFPY2FDbnFrR0p6V0tjZWFqTEdVWkdtQQ?oc=5\" target=\"_blank\">Apple lost the AI race — now the real challenge starts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kMUoyZFNyN1NsQjdsS3J6MkhCR253STY0djkwb2JveGJUalJCemM2YTdzWE9ZUXE4Sk02T0gtVFVOZk9uZktMekJrc29VUHBqQWk2VXNyQkpLZEVqRmh0SjdfYm9XM2U0NG1BME9ub05Vd9IBd0FVX3lxTE9tNkU5M3B4dFIwSzY3cExYdXpzbFc0SXRSNUs2b2dHT2g0ODhGNTFVcmxLWFQ5MmhnelM3X3JoME12SjVXNUQ1Vy1QcW95a2MtbjlnVjlEZmZBdGlPMnVIMmRyWWlnZC01OGpzV0F6Y09iZW15M3BJ?oc=5\" target=\"_blank\">Apple picks Google's Gemini to run AI-powered Siri coming this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+      "published": "2026-01-15T05:00:35+00:00",
+      "source": "Financial Times"
     },
     {
-      "title": "Apple's new, super powerful MacBook Pro might arrive soon - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHT2ZCUWpkUF9vQTZDTUpVdVpPOUNsbzFRcklrT0lHX0x2VGQ2T2w2cURrS0pLZFVLMzRUVXhWVGhWTGRZSERsMVdGSTA5VDM4MHJZdGhLQWxDbDVqOUwxYTZIMG1fUnB0Vkk5eHNuLWc2R3VKYWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBHT2ZCUWpkUF9vQTZDTUpVdVpPOUNsbzFRcklrT0lHX0x2VGQ2T2w2cURrS0pLZFVLMzRUVXhWVGhWTGRZSERsMVdGSTA5VDM4MHJZdGhLQWxDbDVqOUwxYTZIMG1fUnB0Vkk5eHNuLWc2R3VKYWc?oc=5\" target=\"_blank\">Apple's new, super powerful MacBook Pro might arrive soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-01-14T14:47:33+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Apple might have just revealed the launch date for the M5 Pro/Max MacBook Pro - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUhoc09ENUMxb1BrTkExd29ldTRkX2MyV0lwWS1ZczF4R1FSRkZYNFdnQk5xbUdhWENkVXV6UWR6Y3M2RHowVUtUejdHaUR0NTdwTVM2Njl5U0RCWXpUS0dONW9oRmR1NGViY1UtZU9tV096Q0x2WTc0QXJZcmQ4cDdEU0ZPOWt6S3RxQmxjel9hN2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUhoc09ENUMxb1BrTkExd29ldTRkX2MyV0lwWS1ZczF4R1FSRkZYNFdnQk5xbUdhWENkVXV6UWR6Y3M2RHowVUtUejdHaUR0NTdwTVM2Njl5U0RCWXpUS0dONW9oRmR1NGViY1UtZU9tV096Q0x2WTc0QXJZcmQ4cDdEU0ZPOWt6S3RxQmxjel9hN2M?oc=5\" target=\"_blank\">Apple might have just revealed the launch date for the M5 Pro/Max MacBook Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-01-13T16:34:00+00:00",
-      "source": "Macworld"
+      "title": "India warns Apple it will proceed with antitrust case after company plays for time - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYmIzZDJFZ2o1TU9OdG1PbXZOZkFqSVJPeDd4OWVHQ2FzQ3p6dDJMS3V6akNLeURxVkZ4YkYyb3UzYWt4dklxbGRkRk9LNUpJWGcycjNmaWExaHlJemhvU01YZTRoc3VQLWUxN2lNTGFkOFpZTURKUTZwNnZOa2x3NzJ2b1M0MVpJTmVhczFIcXFnWTI5NjViYWIwZ3pFckpEcFJxZ2k3RnFkMnZCOFEyYXMxbmhEbERmVk9tRGlKNzVBUk4wT2daOURTQUZKb2dkUUZZeG5CRTlZOVFTd3RxYVBZQlRoUTV2RVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYmIzZDJFZ2o1TU9OdG1PbXZOZkFqSVJPeDd4OWVHQ2FzQ3p6dDJMS3V6akNLeURxVkZ4YkYyb3UzYWt4dklxbGRkRk9LNUpJWGcycjNmaWExaHlJemhvU01YZTRoc3VQLWUxN2lNTGFkOFpZTURKUTZwNnZOa2x3NzJ2b1M0MVpJTmVhczFIcXFnWTI5NjViYWIwZ3pFckpEcFJxZ2k3RnFkMnZCOFEyYXMxbmhEbERmVk9tRGlKNzVBUk4wT2daOURTQUZKb2dkUUZZeG5CRTlZOVFTd3RxYVBZQlRoUTV2RVE?oc=5\" target=\"_blank\">India warns Apple it will proceed with antitrust case after company plays for time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-01-15T11:54:58+00:00",
+      "source": "Reuters"
     },
     {
       "title": "Why Apple’s M5 Pro and Max chips will be worth the long wait - Macworld",
@@ -33,42 +26,42 @@
       "source": "Macworld"
     },
     {
-      "title": "Apple and Tech Hardware Stocks Face ‘Crisis’ as Memory Prices Soar - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1NvVEliclZaQVNfd3Rwa1FJNzh4dEJlbENGU2V5WFFLdXhkQ3Q5ak55Rm1sUDQwTjZ0Y2lNOW9wdmE0N3RvMHpvYXd3Wm9RXzU0T2hicFltbnQwZGlpaVpOU0FfWWhwZ1p0ZkJDd2VUV0ZOcjFGazVfMmlpdzczQlVueGRoRFdzX3p1Ym82bEhFS2lieDJrSWRqMnlBRmEtaHRxa3VVZk9GRHNKVm1UUA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1NvVEliclZaQVNfd3Rwa1FJNzh4dEJlbENGU2V5WFFLdXhkQ3Q5ak55Rm1sUDQwTjZ0Y2lNOW9wdmE0N3RvMHpvYXd3Wm9RXzU0T2hicFltbnQwZGlpaVpOU0FfWWhwZ1p0ZkJDd2VUV0ZOcjFGazVfMmlpdzczQlVueGRoRFdzX3p1Ym82bEhFS2lieDJrSWRqMnlBRmEtaHRxa3VVZk9GRHNKVm1UUA?oc=5\" target=\"_blank\">Apple and Tech Hardware Stocks Face ‘Crisis’ as Memory Prices Soar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-01-15T10:14:58+00:00",
-      "source": "Bloomberg.com"
+      "title": "Apple might have just revealed the launch date for the M5 Pro/Max MacBook Pro - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUhoc09ENUMxb1BrTkExd29ldTRkX2MyV0lwWS1ZczF4R1FSRkZYNFdnQk5xbUdhWENkVXV6UWR6Y3M2RHowVUtUejdHaUR0NTdwTVM2Njl5U0RCWXpUS0dONW9oRmR1NGViY1UtZU9tV096Q0x2WTc0QXJZcmQ4cDdEU0ZPOWt6S3RxQmxjel9hN2M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUhoc09ENUMxb1BrTkExd29ldTRkX2MyV0lwWS1ZczF4R1FSRkZYNFdnQk5xbUdhWENkVXV6UWR6Y3M2RHowVUtUejdHaUR0NTdwTVM2Njl5U0RCWXpUS0dONW9oRmR1NGViY1UtZU9tV096Q0x2WTc0QXJZcmQ4cDdEU0ZPOWt6S3RxQmxjel9hN2M?oc=5\" target=\"_blank\">Apple might have just revealed the launch date for the M5 Pro/Max MacBook Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-01-13T16:34:00+00:00",
+      "source": "Macworld"
     },
     {
-      "title": "India warns Apple it will proceed with antitrust case after company plays for time - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1JUQzdZeWs2aF82UXZiZTFWSTdxdFl0ZktRTUNzQk5tQkJMLVRMd3RXcjZCczBnWlFZU2YyLWhlbDJfYlUyYk5hZ3VIWjdTLUNVRFRzOGYtQlpsOUdFaUhkQk9RUFp6N3hGNzRHLWhMNDlqYXJ1MjRoSnd1WnRVVmkySFdxMEUtU05ETXFJaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1JUQzdZeWs2aF82UXZiZTFWSTdxdFl0ZktRTUNzQk5tQkJMLVRMd3RXcjZCczBnWlFZU2YyLWhlbDJfYlUyYk5hZ3VIWjdTLUNVRFRzOGYtQlpsOUdFaUhkQk9RUFp6N3hGNzRHLWhMNDlqYXJ1MjRoSnd1WnRVVmkySFdxMEUtU05ETXFJaw?oc=5\" target=\"_blank\">India warns Apple it will proceed with antitrust case after company plays for time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-01-15T11:52:03+00:00",
-      "source": "Yahoo"
+      "title": "Apple Adjusts Trade-In Values for iPhones, Macs, and More - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51Nkd4YThsbmc0bENrNmVUR1BuUkFFakhub3MwUXBhWkthUmVmVGxJc0VOX3JvQklUTU5YcEJDR1pZMXJmcHMyVkZsbnVBRzA0ZnhqeWNlakUzcVBCeUdHeFlwMFFsSVhIT0s0ci1rcGlDVUxRNDI4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE51Nkd4YThsbmc0bENrNmVUR1BuUkFFakhub3MwUXBhWkthUmVmVGxJc0VOX3JvQklUTU5YcEJDR1pZMXJmcHMyVkZsbnVBRzA0ZnhqeWNlakUzcVBCeUdHeFlwMFFsSVhIT0s0ci1rcGlDVUxRNDI4?oc=5\" target=\"_blank\">Apple Adjusts Trade-In Values for iPhones, Macs, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-01-15T19:19:46+00:00",
+      "source": "MacRumors"
     },
     {
-      "title": "Apple, Google face pressure to remove X and Grok from their app stores - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5UGY5V1Z4R1dOOTVLUkw1Ty1URXVvLWxycVFyTG83SzhyTV9OVnBGRDFQSnRyN0Ftdm9KdUlOeUI0b0VPOEdXWkY5OC1pd0tFOGZtRDZOVXVfemNRanB0VDhvVndDeVVpcnpONHBJMk9tb2s4aXZ2YVVtdW7SAYIBQVVfeXFMTnVqM3BkaTZSa050cFFDdkhrWl8yV19jQTNRUWFhazhmY1ZvRTQ2Q1UzWWNfZnFWajE5cGNLWnV0aWNSRWcxWWxTRzJZZlZaRGNmcXZmY3VHcTdBR291SS1jaWJ1TlZOLU1qNDVVenlMb1dVZXJ2bEVRck5VbFUtclRvUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA5UGY5V1Z4R1dOOTVLUkw1Ty1URXVvLWxycVFyTG83SzhyTV9OVnBGRDFQSnRyN0Ftdm9KdUlOeUI0b0VPOEdXWkY5OC1pd0tFOGZtRDZOVXVfemNRanB0VDhvVndDeVVpcnpONHBJMk9tb2s4aXZ2YVVtdW7SAYIBQVVfeXFMTnVqM3BkaTZSa050cFFDdkhrWl8yV19jQTNRUWFhazhmY1ZvRTQ2Q1UzWWNfZnFWajE5cGNLWnV0aWNSRWcxWWxTRzJZZlZaRGNmcXZmY3VHcTdBR291SS1jaWJ1TlZOLU1qNDVVenlMb1dVZXJ2bEVRck5VbFUtclRvUQ?oc=5\" target=\"_blank\">Apple, Google face pressure to remove X and Grok from their app stores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "published": "2026-01-14T20:01:52+00:00",
-      "source": "CBS News"
+      "title": "Apple’s new Creator Studio isn’t just about getting you to subscribe to apps - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZHBLVUwwN3duRkotOGQ1U2dqeVdPbTFyajB5XzJJMmEza2xneHlpeHV6Yll6d2xTV3RWUWZnWEtZdkpndkViemxobHlWU1RJTUlDZHJCMXctUEZsbjhvUWRfV2hHeEVB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZHBLVUwwN3duRkotOGQ1U2dqeVdPbTFyajB5XzJJMmEza2xneHlpeHV6Yll6d2xTV3RWUWZnWEtZdkpndkViemxobHlWU1RJTUlDZHJCMXctUEZsbjhvUWRfV2hHeEVB?oc=5\" target=\"_blank\">Apple’s new Creator Studio isn’t just about getting you to subscribe to apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "published": "2026-01-14T14:10:26+00:00",
+      "source": "Fast Company"
     },
     {
-      "title": "Women's, advocacy groups call on Apple, Google to drop X and Grok from app stores - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9Ld1h5bGlLRzNKR25KTmh3MkF5UFlpT1VnaWdtNks4Y0I5TWhxbU96bncyY2ZtMkgzT2pxY3pvejhXUDJhLUl6YzUwb054UHpUMkpxaWRwNEJ3NXNpczNmV3lGRGJESkpHOHRmV09qc09JZU1PU1FQZ21sMWFRMmhQejNReXNPbngzZ01UQlZaNnh6d3ROQ0V6S0NtMS1NLUlzV2lickVMSmduVUdTRnoyQVZvQkVteEk3YlIxMS1xSUlKVm95Wg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9Ld1h5bGlLRzNKR25KTmh3MkF5UFlpT1VnaWdtNks4Y0I5TWhxbU96bncyY2ZtMkgzT2pxY3pvejhXUDJhLUl6YzUwb054UHpUMkpxaWRwNEJ3NXNpczNmV3lGRGJESkpHOHRmV09qc09JZU1PU1FQZ21sMWFRMmhQejNReXNPbngzZ01UQlZaNnh6d3ROQ0V6S0NtMS1NLUlzV2lickVMSmduVUdTRnoyQVZvQkVteEk3YlIxMS1xSUlKVm95Wg?oc=5\" target=\"_blank\">Women's, advocacy groups call on Apple, Google to drop X and Grok from app stores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-01-14T19:57:45+00:00",
-      "source": "Reuters"
+      "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWZhTTY4N2VKUmZwREoxN0lKODIxNS1KeWpzdXAyQ0xqMFlwbGIzelB6U3RRN1NydGRweUM2VXBkT01NYVYwVVN3bFZQS3pWSXl0ZndhYmZOWEgxOE0zTFlJZGw5allzSFZRNUpPbVdtemxFMzMzb3ltTVpiTVh6WFA5Yk1OVGlRZHNYTFBBNGoxZkpfVks2cVo0YnhuRkxY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWZhTTY4N2VKUmZwREoxN0lKODIxNS1KeWpzdXAyQ0xqMFlwbGIzelB6U3RRN1NydGRweUM2VXBkT01NYVYwVVN3bFZQS3pWSXl0ZndhYmZOWEgxOE0zTFlJZGw5allzSFZRNUpPbVdtemxFMzMzb3ltTVpiTVh6WFA5Yk1OVGlRZHNYTFBBNGoxZkpfVks2cVo0YnhuRkxY?oc=5\" target=\"_blank\">Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-01-13T14:40:19+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple aims to capture creator market with software bundle - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHl4ZGxta0poTUM2NlpiVTRIaC1NUTJ4b2ZKTDhrZnRVbVZHU1c0eGdSOWpiWmdpdzd1YlhKMEJSemQyVEljY2NVc3dKVm8zbDhSMElIckFNLTdSYU9VdV9ORmRBWnRXdnZxZE1vTzdOb1huOHlWUHRfSU04azRIcTZzeHhLZHJQX3NoVmx5QmtqSmNxVUw5YWdzSXhuN3YzVC1NZzFn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHl4ZGxta0poTUM2NlpiVTRIaC1NUTJ4b2ZKTDhrZnRVbVZHU1c0eGdSOWpiWmdpdzd1YlhKMEJSemQyVEljY2NVc3dKVm8zbDhSMElIckFNLTdSYU9VdV9ORmRBWnRXdnZxZE1vTzdOb1huOHlWUHRfSU04azRIcTZzeHhLZHJQX3NoVmx5QmtqSmNxVUw5YWdzSXhuN3YzVC1NZzFn?oc=5\" target=\"_blank\">Apple aims to capture creator market with software bundle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-14T16:55:32+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
-    {
-      "title": "Best Apple product: Preorder the new Apple Vision Pro before it launches on Oct. 22 - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRDdBdFo1TzAtbU1EQVVRQzdLUl85V0l3QU1vRmNubzlFTXZFZUg4cnNMTUgxa3EyNEFmcGtFSXpXX3pKcFRjME5YSnBSaFh1WGx6cUxBVVo3TnZsWXI2ZFhWRnJEQmo4UHI5a2d3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRDdBdFo1TzAtbU1EQVVRQzdLUl85V0l3QU1vRmNubzlFTXZFZUg4cnNMTUgxa3EyNEFmcGtFSXpXX3pKcFRjME5YSnBSaFh1WGx6cUxBVVo3TnZsWXI2ZFhWRnJEQmo4UHI5a2d3?oc=5\" target=\"_blank\">Best Apple product: Preorder the new Apple Vision Pro before it launches on Oct. 22</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-01-14T23:24:45+00:00",
-      "source": "Mashable"
-    },
     {
       "title": "Apple might have just revealed the launch date for the M5 Pro/Max MacBook Pro - Macworld",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUhoc09ENUMxb1BrTkExd29ldTRkX2MyV0lwWS1ZczF4R1FSRkZYNFdnQk5xbUdhWENkVXV6UWR6Y3M2RHowVUtUejdHaUR0NTdwTVM2Njl5U0RCWXpUS0dONW9oRmR1NGViY1UtZU9tV096Q0x2WTc0QXJZcmQ4cDdEU0ZPOWt6S3RxQmxjel9hN2M?oc=5",
@@ -84,6 +77,13 @@
       "source": "Business Insider"
     },
     {
+      "title": "Four Apple product launches to expect in the near future - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5\" target=\"_blank\">Four Apple product launches to expect in the near future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2025-12-08T17:54:13+00:00",
+      "source": "Mashable"
+    },
+    {
       "title": "Six new Apple products will launch early this year, here’s what’s coming - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQjlGZEFiNHR0RXV0UlNpV2Q5N1NuVjJYQm1mSDF0ZUZuQkRLU2d2R0xBQ0ZWOHk5UnAxcG1leTVydjVFNmRIbEVCMkM5REtJc1p1M0IxZDVneUtQaVA3WDhVS3RJVVhRVVdIVkZJS3pqTWd6c0otWUY1YXA5emhkdTU0akdFaGR4VVNjUFdPdzJRVHJBTW1od2N0RjdxUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQjlGZEFiNHR0RXV0UlNpV2Q5N1NuVjJYQm1mSDF0ZUZuQkRLU2d2R0xBQ0ZWOHk5UnAxcG1leTVydjVFNmRIbEVCMkM5REtJc1p1M0IxZDVneUtQaVA3WDhVS3RJVVhRVVdIVkZJS3pqTWd6c0otWUY1YXA5emhkdTU0akdFaGR4VVNjUFdPdzJRVHJBTW1od2N0RjdxUQ?oc=5\" target=\"_blank\">Six new Apple products will launch early this year, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
@@ -91,25 +91,21 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Exclusive Interview with Apple VP: Which Apple Tools Are Ideal for Little Red Book Bloggers? - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJYnlMOU5ZR0pSaU9LVy1zNUlvMFBYRmxocVdldTJ3dG5abjJrUmJjeWVzWlhyQ2ppR0o3Z0RENWJDSkNVS0wwVzBvVzU5U2ctbUI0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJYnlMOU5ZR0pSaU9LVy1zNUlvMFBYRmxocVdldTJ3dG5abjJrUmJjeWVzWlhyQ2ppR0o3Z0RENWJDSkNVS0wwVzBvVzU5U2ctbUI0?oc=5\" target=\"_blank\">Exclusive Interview with Apple VP: Which Apple Tools Are Ideal for Little Red Book Bloggers?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr</font>",
-      "published": "2026-01-15T00:30:31+00:00",
-      "source": "36Kr"
+      "title": "Apple hints at possible launch date for the MacBook Pro M5 - Basic Tutorials",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1lQRV9BZjdBQmlKTzhuTFhPQmZ1UV9YVGU3ZFlyVUltMzE4N3p2UWtPVVFZOVBybTRlYjdKMHJORU5XMTVUYTNLX0NwS1ZZa0hJY1JHRVlrZVFqNlA0dGZwd3BXTkVSX0hrN0FOMVRadVB1eC1YbFdMWW1xM0hVVU9pWU51REZIa2lKM0psNXlXY2ZRZlg4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1lQRV9BZjdBQmlKTzhuTFhPQmZ1UV9YVGU3ZFlyVUltMzE4N3p2UWtPVVFZOVBybTRlYjdKMHJORU5XMTVUYTNLX0NwS1ZZa0hJY1JHRVlrZVFqNlA0dGZwd3BXTkVSX0hrN0FOMVRadVB1eC1YbFdMWW1xM0hVVU9pWU51REZIa2lKM0psNXlXY2ZRZlg4?oc=5\" target=\"_blank\">Apple hints at possible launch date for the MacBook Pro M5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Basic Tutorials</font>",
+      "published": "2026-01-16T03:38:25+00:00",
+      "source": "Basic Tutorials"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-14",
-      "close": 259.9599914550781
+      "date": "2026-01-15",
+      "close": 258.2099914550781
     },
     "history": [
-      {
-        "date": "2026-01-06",
-        "close": 262.3599853515625
-      },
       {
         "date": "2026-01-07",
         "close": 260.3299865722656
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-14",
         "close": 259.9599914550781
+      },
+      {
+        "date": "2026-01-15",
+        "close": 258.2099914550781
       }
     ],
     "name": "Apple Inc."
