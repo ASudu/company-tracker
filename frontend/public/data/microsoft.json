@@ -2,56 +2,42 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-01-18T12:22:41.998453+00:00",
+  "fetched_at": "2026-01-19T12:28:24.464031+00:00",
   "news": [
     {
-      "title": "Musk seeks up to $134 billion from OpenAI and Microsoft in 'wrongful gains' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zTE9VcTAyWlUyek9FdVFHOFhmX25pOEhacTFSMjJ2X0pxeE1ieXB3OU5YWE1MdC1xUjlvSTVmVHdFbktpTWFGRGE3c21hMEVTVWMtZjhVVGdCUmhOTGs1c0V5ZDFQaFp3UUxXNkV1aGV3QlXSAXhBVV95cUxQd2d5ck1DeGo2LXE5eE4zUjBtcnM3LXVRdlZONTRxcVoySVBqR1BHRENFb2RudWJXRlpXRUFNVVYxcFdLQVJJcFY3cHFiYmJLcTJaQ29MTEo2WjhISGFEYTZGVHl4S2NGb3FyQ1MzN09LbHpMNFRjODU?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0zTE9VcTAyWlUyek9FdVFHOFhmX25pOEhacTFSMjJ2X0pxeE1ieXB3OU5YWE1MdC1xUjlvSTVmVHdFbktpTWFGRGE3c21hMEVTVWMtZjhVVGdCUmhOTGs1c0V5ZDFQaFp3UUxXNkV1aGV3QlXSAXhBVV95cUxQd2d5ck1DeGo2LXE5eE4zUjBtcnM3LXVRdlZONTRxcVoySVBqR1BHRENFb2RudWJXRlpXRUFNVVYxcFdLQVJJcFY3cHFiYmJLcTJaQ29MTEo2WjhISGFEYTZGVHl4S2NGb3FyQ1MzN09LbHpMNFRjODU?oc=5\" target=\"_blank\">Musk seeks up to $134 billion from OpenAI and Microsoft in 'wrongful gains'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONFRnbTJjMmp4QnVnTzh0OVA4TW9kYTdKTkFVSmh4YmhsT3dCOTFuMk9EaHZzQTJFMm92UGZfRlRRT0FsTjhGMDhncXFQYXhsOWtWUkdQR1J5bENxVjRta3o0TTZjQlJsOGNBXzAtbHh1QXJJckthX0V0QmtzX3pTdjhtWi1ZMHhXc2hWTFM2ZG9lQ2JPM1ZHNFI2cW80TV8wQXRKRWk1TDVaaUg0elE?oc=5\" target=\"_blank\">Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnZlUXJpZ1hsZlFPS0EzdU1mQkVaVzRxS2ltMUxKRmFLWWN5Z2p6bERxWTZfeUR5bzZkM0U1RDJqQVpOeXc2eWJMY25MYm5OcV9OYmJBQXFnTHQzUXd1N05BZFpuWUZvNzZtS01RZnltOHMtbkFCN0ZrTl94NnRfejRmR3Z5LUdSVnZib2tUYUVHdW9f0gGUAUFVX3lxTE9ZcWZWSW5GRE05OXZMZ0dBWnVpV3dPRGRsSGxJWVdFYkc3dllUOEVhb2M4T0ZSQW9kQWx2S05FQUVqV3dyTTdnYnFhdGdHN19JWVZDY2VQNTQ5TGNER1JZSEI5ZGJlZndZWkluQmRwaEhyOHl3RDFFRU1hUW9OemZTYWpjTGJuczdQNEVXNXprQlNXZ1c?oc=5\" target=\"_blank\">Elon Musk seeking up to $134 billion from OpenAI, Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font></li></ol>",
-      "published": "2026-01-17T18:01:20+00:00",
-      "source": "CNBC"
+      "title": "Elon Musk sues OpenAI and Microsoft for $134bn over ‘wrongful gains’ - The Times",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQR2ZVbm1IT2RPcnFYYWc0djk4VTVJLUpqWXNyQTZPeWZqSktBV1lURERjVWhYaUFBZy1OYW93MERpNXZVRVM2RnVNZUt5bmJKVmtlNWxaUUs3OEdMcFdxM0tFY1R1LUR2eE14LTlQM09EQklyUmNtVVJUXzFLS19fbHNwS0tGc3JZaXlLbmpLdm8yc1VBRmZrWm5zY0p4d3A1bDlEOW15NWFMb0V2QVA3QVJQd01mNU9BMGswOElicmtnUDFITDl5dFNiTDBqZ0dVODh6R1BFUFBMSXNoS0FxakkyT3BYajQ5WGFxSER2Z29uWHNzems3SDJ4bTVWU2lnaktVZDBPbGVrSG9XZllLWGVqcjBtdmFHVFBlRXJyZWxhaFZwQ094SU5kMEVRV1oyR0h0M1Q3eUJDeTJEQjBXSFh3MTRVNzYxWGpXLV9VV2ZPdU5rRDhjbGNCZE5rUXFHd1N2a1owakIzTld1Wm9PTWx3WE5MV21mQXFualJJMzZjNThJU3lzYy1nUDVqX2FUcnVfYkNUeXdXVXdO?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinANBVV95cUxQR2ZVbm1IT2RPcnFYYWc0djk4VTVJLUpqWXNyQTZPeWZqSktBV1lURERjVWhYaUFBZy1OYW93MERpNXZVRVM2RnVNZUt5bmJKVmtlNWxaUUs3OEdMcFdxM0tFY1R1LUR2eE14LTlQM09EQklyUmNtVVJUXzFLS19fbHNwS0tGc3JZaXlLbmpLdm8yc1VBRmZrWm5zY0p4d3A1bDlEOW15NWFMb0V2QVA3QVJQd01mNU9BMGswOElicmtnUDFITDl5dFNiTDBqZ0dVODh6R1BFUFBMSXNoS0FxakkyT3BYajQ5WGFxSER2Z29uWHNzems3SDJ4bTVWU2lnaktVZDBPbGVrSG9XZllLWGVqcjBtdmFHVFBlRXJyZWxhaFZwQ094SU5kMEVRV1oyR0h0M1Q3eUJDeTJEQjBXSFh3MTRVNzYxWGpXLV9VV2ZPdU5rRDhjbGNCZE5rUXFHd1N2a1owakIzTld1Wm9PTWx3WE5MV21mQXFualJJMzZjNThJU3lzYy1nUDVqX2FUcnVfYkNUeXdXVXdO?oc=5\" target=\"_blank\">Elon Musk sues OpenAI and Microsoft for $134bn over ‘wrongful gains’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONFRnbTJjMmp4QnVnTzh0OVA4TW9kYTdKTkFVSmh4YmhsT3dCOTFuMk9EaHZzQTJFMm92UGZfRlRRT0FsTjhGMDhncXFQYXhsOWtWUkdQR1J5bENxVjRta3o0TTZjQlJsOGNBXzAtbHh1QXJJckthX0V0QmtzX3pTdjhtWi1ZMHhXc2hWTFM2ZG9lQ2JPM1ZHNFI2cW80TV8wQXRKRWk1TDVaaUg0elE?oc=5\" target=\"_blank\">Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnZlUXJpZ1hsZlFPS0EzdU1mQkVaVzRxS2ltMUxKRmFLWWN5Z2p6bERxWTZfeUR5bzZkM0U1RDJqQVpOeXc2eWJMY25MYm5OcV9OYmJBQXFnTHQzUXd1N05BZFpuWUZvNzZtS01RZnltOHMtbkFCN0ZrTl94NnRfejRmR3Z5LUdSVnZib2tUYUVHdW9f0gGUAUFVX3lxTE9ZcWZWSW5GRE05OXZMZ0dBWnVpV3dPRGRsSGxJWVdFYkc3dllUOEVhb2M4T0ZSQW9kQWx2S05FQUVqV3dyTTdnYnFhdGdHN19JWVZDY2VQNTQ5TGNER1JZSEI5ZGJlZndZWkluQmRwaEhyOHl3RDFFRU1hUW9OemZTYWpjTGJuczdQNEVXNXprQlNXZ1c?oc=5\" target=\"_blank\">Elon Musk seeking up to $134 billion from OpenAI, Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font></li></ol>",
+      "published": "2026-01-18T18:05:24+00:00",
+      "source": "The Times"
     },
     {
-      "title": "‘Fail To Shut Down’—Microsoft Issues Windows Update Warning - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTlhNzF2ZTBwQVJWNnQ4NEROSC0wZFBWUXJuaHhiV2JOeVp4d2h2ZWRxOE1Gam1KYzFqRm00LWxVTGdodU1ZTGV4STZCSnBOT1NNeExXX0N4WVRlNEYtcnptYlZfTjAtY2VxSDVNaTZrRjZibG9ZNHdtMUg0MXVDUEItYmgzdmlxWjc5U09iOFNIZnpLT3lWSHlaVi1KQzd2bEJkZUZ3QkhCTlNYTXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTlhNzF2ZTBwQVJWNnQ4NEROSC0wZFBWUXJuaHhiV2JOeVp4d2h2ZWRxOE1Gam1KYzFqRm00LWxVTGdodU1ZTGV4STZCSnBOT1NNeExXX0N4WVRlNEYtcnptYlZfTjAtY2VxSDVNaTZrRjZibG9ZNHdtMUg0MXVDUEItYmgzdmlxWjc5U09iOFNIZnpLT3lWSHlaVi1KQzd2bEJkZUZ3QkhCTlNYTXc?oc=5\" target=\"_blank\">‘Fail To Shut Down’—Microsoft Issues Windows Update Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-01-16T09:20:24+00:00",
+      "title": "Microsoft Confirms Emergency Updates For Most Windows PCs - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT24zOFdYak9zcTBJNjdTY0FRLXN2dDRCMWxVLW9KVzRkc3VSTVFSWUZjV2pHOEEyMjJFS1dmM0RPUzk5Q0pmQ3MzQ1lMdmp1TUdRUVNBcld4U3N5MHRaVGp2SFNtNEJjVmdaWWZmV1FpdS1XLVJVZ29KbEkxV18tYVVsdW8wb1BCVFNoamJ3cEk1SmxoQnl1OXZJQXh3YV93dnRDRks1S0ZpcWFZakE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQT24zOFdYak9zcTBJNjdTY0FRLXN2dDRCMWxVLW9KVzRkc3VSTVFSWUZjV2pHOEEyMjJFS1dmM0RPUzk5Q0pmQ3MzQ1lMdmp1TUdRUVNBcld4U3N5MHRaVGp2SFNtNEJjVmdaWWZmV1FpdS1XLVJVZ29KbEkxV18tYVVsdW8wb1BCVFNoamJ3cEk1SmxoQnl1OXZJQXh3YV93dnRDRks1S0ZpcWFZakE?oc=5\" target=\"_blank\">Microsoft Confirms Emergency Updates For Most Windows PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbDlucjJXay1kYjNCUlBaNWFla2tDdFhfbVJqOWpwbFprQmxSdDdrMTBmel9CZzlNWktBcDhXeWRjZXBLbFRnVmdQRzhicTJ0Q3NnVUZkNXliYnJBeGlVenU0T2lUdEtGTndSUzYtZzY4Z3NhdDlvS0xEYV9JSEtDT25yak1DOHVPYmtBYlhVdTZCR2ZJbS1udFdBQVZSYzVZSFJNTk5ucWl1aUlqTGdYZXI4bUIwckI5ZWI2V0F4Mjd3NlllcGV2SWhwelRXOE5KVUwxNElQcmZ2WkxtaU9XSzNHTXpiMjA?oc=5\" target=\"_blank\">Microsoft issues emergency fix after a security update left some Windows 11 devices unable to shut down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHZVNTZBT1JHX1VZSFJDUEo4LXBUZXpZMndKaGpKcVZKNnpoNkN3Ty1TTWJVNVBGZk9EdkJqLXJhOVFHTTFXQlVxSl9LRHMzYlZDN21LRTQzM01vRXJfYjNLNDdpRDlDOHExYm91SlNpdkgyNU5VUjBTcUhEeTJoSTVaLTcwTXZoZndObmdHaXBXUjdIS28wcVFkY3diTExQV21kQy1iRjV1V2RUN0xxaHg3c2hXbE9K0gG-AUFVX3lxTE5GN3h3UTl4T2tQNi1yX0VicUZwVnQtZDE2WTNfMGVfYlgxQ0pzR0p3R3FQbkVEc19kSkthT0tvc20wTUlIUUVxcVpWUkh0a2hFZjVnNGlrMnl4RUZvOFpYMHRZei15eTBCenJaeC1vLTkydS1QUjQ3VHFfZWhxTjJvYzNoTXZ3YXBpZlVNNDVVZXZwR0ZMcDNhaDB0U2hQWC14SElRNVFaWDFhM01zU1kxX3NaNmMwMGd3RFQ1SlE?oc=5\" target=\"_blank\">Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font></li></ol>",
+      "published": "2026-01-18T06:53:09+00:00",
       "source": "Forbes"
     },
     {
-      "title": "Upgrade your PC with powerful Microsoft apps for less than $5 each - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1JMZWRidnRyLTFYTXpVcVpFd3lyWmhwZEIwdHA1cTIzb0pKSjVjTjN4bHVpc05hdTF2NG5FMm9wZ094bDVCcDRDSHp4b0JCaE5DSDloUVViZ0s5QzdXNmI5aDhsbUtpcV81SkJKYW9mTk5IVzVzRW4weXdQVENjTGlVQjZJbFBFM3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1JMZWRidnRyLTFYTXpVcVpFd3lyWmhwZEIwdHA1cTIzb0pKSjVjTjN4bHVpc05hdTF2NG5FMm9wZ094bDVCcDRDSHp4b0JCaE5DSDloUVViZ0s5QzdXNmI5aDhsbUtpcV81SkJKYW9mTk5IVzVzRW4weXdQVENjTGlVQjZJbFBFM3c?oc=5\" target=\"_blank\">Upgrade your PC with powerful Microsoft apps for less than $5 each</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-01-17T23:28:06+00:00",
-      "source": "Mashable"
+      "title": "Microsoft vs. Oracle: Which OpenAI Partner Is a Better Buy for 2026? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1BiV2lqQlVFY2RZencwYkdLdk90Si1uR2NDRTZKMHFMSkRzQk9qQld6QTdwci1ER1ZjQnNSUlBnVk5zM3VBTXpmTlZZMF9BaU1WZU4wTXNvcUdzYXl0UnFwaGswcXlhWFoySE5lcVVkb2NvSTFmQ0sya2hNckx5cEVRV0RiYmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1BiV2lqQlVFY2RZencwYkdLdk90Si1uR2NDRTZKMHFMSkRzQk9qQld6QTdwci1ER1ZjQnNSUlBnVk5zM3VBTXpmTlZZMF9BaU1WZU4wTXNvcUdzYXl0UnFwaGswcXlhWFoySE5lcVVkb2NvSTFmQ0sya2hNckx5cEVRV0RiYmc?oc=5\" target=\"_blank\">Microsoft vs. Oracle: Which OpenAI Partner Is a Better Buy for 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-18T15:05:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft: Some Windows PCs fail to shut down after January update - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDZjT3F0QlhjNlBoR015VndPbWVjU0hMUHVfS1RGOXhOTUlUTDMtUHdqT2YtYWs3NW1SUUF5WWFmeFhYVnp3aDZfZEFQQm9IaUFCTGRYb2oyMDA2OFlkZVFJdnY3OHdDOE50TWhTUWZRRDZ1OC1oYXBybDhtbGltWVFrZkxOMU1rTHZBc0VuVWhuaHRlSzZiVXY0STE0R29sSDVDaVBjYU5jaW5VNjhUdW9QY9IBuAFBVV95cUxNY1p6R0pzMHdLcF9iaDYxQnhmbjExUW8yekRmbmhwM1BhY09XVDdTbVVnM0FGOHdmeXpUWGhzT2szVUkwdTZTUHU0MzFzWnYxMU8xQ24zTmY4RXdnOHpzYjdLQlliYmRFSkg1c24yMU80LUFZWWJzMTV3TFZxWGxkSnB0QmFCdXlnNVVHODlaMkNRMHVTQU9zMldnS1hudVZtMlM4Y0YySDRiZ2FxeVAtOG9jbWpBQlF1?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDZjT3F0QlhjNlBoR015VndPbWVjU0hMUHVfS1RGOXhOTUlUTDMtUHdqT2YtYWs3NW1SUUF5WWFmeFhYVnp3aDZfZEFQQm9IaUFCTGRYb2oyMDA2OFlkZVFJdnY3OHdDOE50TWhTUWZRRDZ1OC1oYXBybDhtbGltWVFrZkxOMU1rTHZBc0VuVWhuaHRlSzZiVXY0STE0R29sSDVDaVBjYU5jaW5VNjhUdW9QY9IBuAFBVV95cUxNY1p6R0pzMHdLcF9iaDYxQnhmbjExUW8yekRmbmhwM1BhY09XVDdTbVVnM0FGOHdmeXpUWGhzT2szVUkwdTZTUHU0MzFzWnYxMU8xQ24zTmY4RXdnOHpzYjdLQlliYmRFSkg1c24yMU80LUFZWWJzMTV3TFZxWGxkSnB0QmFCdXlnNVVHODlaMkNRMHVTQU9zMldnS1hudVZtMlM4Y0YySDRiZ2FxeVAtOG9jbWpBQlF1?oc=5\" target=\"_blank\">Microsoft: Some Windows PCs fail to shut down after January update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-01-16T08:35:38+00:00",
-      "source": "BleepingComputer"
+      "title": "Here is how many Copilots Microsoft actually has - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1hOYkQtNTRjMnlfX0lUWldEbFVhdHlab1htMUlXMnd4WHJZWnQ3THZZSjhZRWd4QjBTSGV1MHVrNm8tb2t2amYzVjVTTHFNZ2dZMnZaamEzOEs4dXRNdnc1TlhwQS05djRCdGJPR1JNVkZGU0hLR0o5VGdoejVhZHpTVdIBggFBVV95cUxNVnVxN09yc2NIMUdIenVhY3hxcTlJUXdxYThtUWlTQWYwRHNUUTJuMGxxWTNScHBEVGc1WG15ZmxiaGk1RnRmYUJOZks4TDBCZ3dveXlzMnQ5M3U1RWxhbTlUMDhNS1RDZW5PS3J1MHVaeGF4RGZYZTRDbXd1N1NrZ05R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1hOYkQtNTRjMnlfX0lUWldEbFVhdHlab1htMUlXMnd4WHJZWnQ3THZZSjhZRWd4QjBTSGV1MHVrNm8tb2t2amYzVjVTTHFNZ2dZMnZaamEzOEs4dXRNdnc1TlhwQS05djRCdGJPR1JNVkZGU0hLR0o5VGdoejVhZHpTVdIBggFBVV95cUxNVnVxN09yc2NIMUdIenVhY3hxcTlJUXdxYThtUWlTQWYwRHNUUTJuMGxxWTNScHBEVGc1WG15ZmxiaGk1RnRmYUJOZks4TDBCZ3dveXlzMnQ5M3U1RWxhbTlUMDhNS1RDZW5PS3J1MHVaeGF4RGZYZTRDbXd1N1NrZ05R?oc=5\" target=\"_blank\">Here is how many Copilots Microsoft actually has</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2026-01-18T16:00:00+00:00",
+      "source": "Neowin"
     },
     {
-      "title": "Strong Analyst Sentiment on Microsoft (MSFT) Despite Price Target Cuts and Heavy AI Spend - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWlEV1VCbFBFZkh4WC1YMlB4TkgwUkRPTkszNTVnQ2d5OTZXWmplbGRScHRYdC1PaWRycDFiZFFwYjh0UmJBVDBvV3BETFhRUmVpOHdtbHNhZWNXZHV4Mkd6ZW1sODRxOFRzeFhDdzN3OE9KQ1JheFhoc09mMDhOLUpSdHBIbG00ZVRHbU9zajdnQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWlEV1VCbFBFZkh4WC1YMlB4TkgwUkRPTkszNTVnQ2d5OTZXWmplbGRScHRYdC1PaWRycDFiZFFwYjh0UmJBVDBvV3BETFhRUmVpOHdtbHNhZWNXZHV4Mkd6ZW1sODRxOFRzeFhDdzN3OE9KQ1JheFhoc09mMDhOLUpSdHBIbG00ZVRHbU9zajdnQQ?oc=5\" target=\"_blank\">Strong Analyst Sentiment on Microsoft (MSFT) Despite Price Target Cuts and Heavy AI Spend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-01-18T11:16:25+00:00",
-      "source": "Yahoo! Finance Canada"
-    },
-    {
-      "title": "Tech Moves: Microsoft CVP jumps to Google; Seattle engineers launch new startup; GitHub names VP - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDRrUWVrVkw3MnpTcEpSVExWWHBhaHcwOFBja0Vkc0FjSi1MdGU0X0Z1Q3prQU0zWUFURy1HQWNxSXV0d2hCUDFnRVZxcWlkYllzTXJ5SENvLWpaYnZUWG1fZDNoMmZySFRGUlJ6eWxoRWh0TTJzc1VCSXdYbE9NVWNSc1hzVmVBcVJJa0RPcmM1OW5XekdmMnJCVEtLT1ZGa25jYnVEdDBXT3dhWjVDak9jMmh4bG9BVVdVT3hzZTNMdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDRrUWVrVkw3MnpTcEpSVExWWHBhaHcwOFBja0Vkc0FjSi1MdGU0X0Z1Q3prQU0zWUFURy1HQWNxSXV0d2hCUDFnRVZxcWlkYllzTXJ5SENvLWpaYnZUWG1fZDNoMmZySFRGUlJ6eWxoRWh0TTJzc1VCSXdYbE9NVWNSc1hzVmVBcVJJa0RPcmM1OW5XekdmMnJCVEtLT1ZGa25jYnVEdDBXT3dhWjVDak9jMmh4bG9BVVdVT3hzZTNMdw?oc=5\" target=\"_blank\">Tech Moves: Microsoft CVP jumps to Google; Seattle engineers launch new startup; GitHub names VP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-01-16T18:32:37+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "Microsoft planning even more data center development in Mount Pleasant - BizTimes - Milwaukee Business News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0o1UlF4cURjSURzMXlLb3NlcDFoSEJxYy1PRGJtd0Q5TXg5bHVaaE9Gc3phQ1d1djUtRjdZVWN2RWhmSmxtdHllVmFwaHFDdmRyaGRhZm1DR0V0WkVKMGU3c2pIYTZoUmN1N2g1MDNzZHFOQmRjUDVrd3ZmNFdPSTEwQXBDTEMwRGIyQS1CMlY2MmxCYXFV0gHgAkFVX3lxTFBjOWxuMVc5U0o0OWUzNHQ5V0NnQWJZRFNUOUMtZTZCN1lGeldfS3FVeUpHdldYYUNhWEtqWFVJemlTa25GVTREc2RHTnVSR3ZrQVdMR3prXzBPRXN6ZURzckM3ZGc1NGVjYzNiN1RBWGg3WFpoSjdRNHdyZEZkZndMZDdDcXRtSTkyZ0dSVUx1aVI0dG5ieEZjSjd0eUFqZjI4Ui1pNkVqeThxekNpY0xnV1JoRkswSnNoRFdzZXhQOVBZWUtrNFJ6OEpGRVY4b01KMXBNNXJYUGhxWTcwUzlVM1Q0dVR6Xy0za0o4Z3lUMmVVUzhkb3lZa0Y3RlFuVlNsc1UyelI0ZGRrTmh1SExnZkJzdEdrd1NKZGNDLUxydDlycFFLTVV3VmZzcWFUcVJhY1NLRF9CQlljWEtXem4xX2JyTGhCdDNna1YyTUJrYURFYzZrUUU5XzB0aFFTSVc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0o1UlF4cURjSURzMXlLb3NlcDFoSEJxYy1PRGJtd0Q5TXg5bHVaaE9Gc3phQ1d1djUtRjdZVWN2RWhmSmxtdHllVmFwaHFDdmRyaGRhZm1DR0V0WkVKMGU3c2pIYTZoUmN1N2g1MDNzZHFOQmRjUDVrd3ZmNFdPSTEwQXBDTEMwRGIyQS1CMlY2MmxCYXFV0gHgAkFVX3lxTFBjOWxuMVc5U0o0OWUzNHQ5V0NnQWJZRFNUOUMtZTZCN1lGeldfS3FVeUpHdldYYUNhWEtqWFVJemlTa25GVTREc2RHTnVSR3ZrQVdMR3prXzBPRXN6ZURzckM3ZGc1NGVjYzNiN1RBWGg3WFpoSjdRNHdyZEZkZndMZDdDcXRtSTkyZ0dSVUx1aVI0dG5ieEZjSjd0eUFqZjI4Ui1pNkVqeThxekNpY0xnV1JoRkswSnNoRFdzZXhQOVBZWUtrNFJ6OEpGRVY4b01KMXBNNXJYUGhxWTcwUzlVM1Q0dVR6Xy0za0o4Z3lUMmVVUzhkb3lZa0Y3RlFuVlNsc1UyelI0ZGRrTmh1SExnZkJzdEdrd1NKZGNDLUxydDlycFFLTVV3VmZzcWFUcVJhY1NLRF9CQlljWEtXem4xX2JyTGhCdDNna1YyTUJrYURFYzZrUUU5XzB0aFFTSVc?oc=5\" target=\"_blank\">Microsoft planning even more data center development in Mount Pleasant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BizTimes - Milwaukee Business News</font>",
-      "published": "2026-01-17T03:00:30+00:00",
-      "source": "BizTimes - Milwaukee Business News"
+      "title": "Microsoft: AI Demand Is Real, And The Numbers Back It Up (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFqbmgzb3phazJoR1dZMTVrbkY3dHhRTTZMUlNrLWpadFhlVUZCME1JeUtobU9IUVlzRmxjVlB1NEhfZGo4WGlNU0x3VGFkVE9OMDlueVp0LWMxSGluSjc0RjBkNmFILWljWHlpX2lYSE5ZNkd4TGYxMmh2YUxGcF8wTHAtVUtQdHdBeHA5cklwRUgzT2NfTmJiUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFqbmgzb3phazJoR1dZMTVrbkY3dHhRTTZMUlNrLWpadFhlVUZCME1JeUtobU9IUVlzRmxjVlB1NEhfZGo4WGlNU0x3VGFkVE9OMDlueVp0LWMxSGluSjc0RjBkNmFILWljWHlpX2lYSE5ZNkd4TGYxMmh2YUxGcF8wTHAtVUtQdHdBeHA5cklwRUgzT2NfTmJiUQ?oc=5\" target=\"_blank\">Microsoft: AI Demand Is Real, And The Numbers Back It Up (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-01-18T11:31:21+00:00",
+      "source": "Seeking Alpha"
     },
     {
       "title": "203 Billion Reasons Why Microsoft Is a Buy in 2026 - The Motley Fool",
@@ -59,6 +45,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXpWNjFDWGpSR1ZBQkxVTUZQVDZjeUduVVFMUzlPTW9wRU9KUzA2bndkZ0dEVGQ3c3Y5NllScFVXbGt6bGdBLW16OWFYVUpuUVpfQl9aT2N6YWYtSnVFa09Oa1VtNXM0Z3EzS3FfMHRBdkxpV1lvNjlFb0FBbzkwSEpjclNxRkNDQTNJOU1McWpXeEhXU1FNQg?oc=5\" target=\"_blank\">203 Billion Reasons Why Microsoft Is a Buy in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
       "published": "2026-01-17T19:32:00+00:00",
       "source": "The Motley Fool"
+    },
+    {
+      "title": "Is Microsoft (MSFT) At An Attractive Price After Recent Pullback And AI Cloud Momentum - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRk5NSU14aEQyOGxhcWhNaTl1Y0pNNFB4YWxnOGU2RGJXeGgtSlBYOXZaVXBkc01lMWhaTWs3eFEtTldMTlZaN3VUYVN5aU43aXZhcmNqQnUtUnZOLTQ2eG55Z2NSUjlYc0hVRXh2b2ZhOU5NWjVjaHJXTE9ya3ktcU5ZY0lIQnc2dFZ1OQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRk5NSU14aEQyOGxhcWhNaTl1Y0pNNFB4YWxnOGU2RGJXeGgtSlBYOXZaVXBkc01lMWhaTWs3eFEtTldMTlZaN3VUYVN5aU43aXZhcmNqQnUtUnZOLTQ2eG55Z2NSUjlYc0hVRXh2b2ZhOU5NWjVjaHJXTE9ya3ktcU5ZY0lIQnc2dFZ1OQ?oc=5\" target=\"_blank\">Is Microsoft (MSFT) At An Attractive Price After Recent Pullback And AI Cloud Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-19T06:09:25+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft is shutting down whose weight is said to have once caused a campus building to sink - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSEotLVNqOUhab21seUVhMU5IM20tSlhYcTNJbERSa1gxeHdLUXktOHZKZWFPenNydDhjWmctUGNJWXBDQVdDYXJ4TXZfUHhMM0MyV0p1czBmQ0pRMzJwYXh5dkpNNGZZRzVfWDYtalJzdlhYdE83d0Zsc20zRllDcnZpaGJmWWtHTlpZTnp2V05UYVVuRFZzNXR1YmlYZ2RjbG9wbngyenhBQTJodGhsclE0M2VVd1FoU2hyNGRreXRFaDhyRjNNQ0dKMFByc1kwa1JvQ3lQU3pjYUlmd2pGU1FLTzU2ZlpDZVpMMWFYN2licElncU9LUkdab0c3UFNOX04tTUVPONIBjAJBVV95cUxORGllQlRJQ0pnS3FXSnlOM3ZOS0I5ZVNzUFRnUXMwWjlvR014N2dtUHh4dktUNEVZWWJ1aFpoS1h5ejV4SGRpZ05GTFhyNWtSSUZNX3g3clNKZUxBVkU2Ylk2ajdHb1lWakZsS0NaOFNYdG5rOWMwVWFsQThkekpoT3E2LS1Ma2dUT2N3TE1aaWZwSzk0aWFrcE5VNjlQRWtSa0ZLRXdoenI3dGdyWE9mQ0k2blNUdFo0VFV5WWYwYXFwZWk3LXd3N25aTDk4SUNJOU1faXdfUUVnbUhTZTh2bi1JbmZCcDdsTFN1VTRPaGpWX2IxbFMzODlHZklFMmZxQTNOeDhCdndsTVVq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNSEotLVNqOUhab21seUVhMU5IM20tSlhYcTNJbERSa1gxeHdLUXktOHZKZWFPenNydDhjWmctUGNJWXBDQVdDYXJ4TXZfUHhMM0MyV0p1czBmQ0pRMzJwYXh5dkpNNGZZRzVfWDYtalJzdlhYdE83d0Zsc20zRllDcnZpaGJmWWtHTlpZTnp2V05UYVVuRFZzNXR1YmlYZ2RjbG9wbngyenhBQTJodGhsclE0M2VVd1FoU2hyNGRreXRFaDhyRjNNQ0dKMFByc1kwa1JvQ3lQU3pjYUlmd2pGU1FLTzU2ZlpDZVpMMWFYN2licElncU9LUkdab0c3UFNOX04tTUVPONIBjAJBVV95cUxORGllQlRJQ0pnS3FXSnlOM3ZOS0I5ZVNzUFRnUXMwWjlvR014N2dtUHh4dktUNEVZWWJ1aFpoS1h5ejV4SGRpZ05GTFhyNWtSSUZNX3g3clNKZUxBVkU2Ylk2ajdHb1lWakZsS0NaOFNYdG5rOWMwVWFsQThkekpoT3E2LS1Ma2dUT2N3TE1aaWZwSzk0aWFrcE5VNjlQRWtSa0ZLRXdoenI3dGdyWE9mQ0k2blNUdFo0VFV5WWYwYXFwZWk3LXd3N25aTDk4SUNJOU1faXdfUUVnbUhTZTh2bi1JbmZCcDdsTFN1VTRPaGpWX2IxbFMzODlHZklFMmZxQTNOeDhCdndsTVVq?oc=5\" target=\"_blank\">Microsoft is shutting down whose weight is said to have once caused a campus building to sink</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-17T04:34:00+00:00",
+      "source": "Times of India"
     }
   ],
   "product_launches": [
@@ -84,18 +84,18 @@
       "source": "BetaNews"
     },
     {
+      "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5\" target=\"_blank\">Windows 95 launched 30 years ago and made us and maybe me who we are today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+      "published": "2025-08-24T07:00:00+00:00",
+      "source": "TechRadar"
+    },
+    {
       "title": "Swiss competition authority launches investigation into Microsoft licensing fees - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnNfNTNGQnEyWU5MS0hndjEzeFc4WmlzcHJYVUdXZ3VHY09HaVZRWmRGVWs3REJ1OE5ObXNVZkZ4Z0hRdHFBVzdDbHZrMFRSdENRcXJBQ0t2V0RLekF1WFZrazg4Um5fU2lmUVIxR0FxZFJrWFF4ZDhCUWdMQTJOUDhtYnlCeTFhSVYwc2twdVRhZTRnZHpPQjU1TjZLaXRjUjctenhBczZnRnMwT2VNcnM3U1ZXSC1wdmJoYg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnNfNTNGQnEyWU5MS0hndjEzeFc4WmlzcHJYVUdXZ3VHY09HaVZRWmRGVWs3REJ1OE5ObXNVZkZ4Z0hRdHFBVzdDbHZrMFRSdENRcXJBQ0t2V0RLekF1WFZrazg4Um5fU2lmUVIxR0FxZFJrWFF4ZDhCUWdMQTJOUDhtYnlCeTFhSVYwc2twdVRhZTRnZHpPQjU1TjZLaXRjUjctenhBczZnRnMwT2VNcnM3U1ZXSC1wdmJoYg?oc=5\" target=\"_blank\">Swiss competition authority launches investigation into Microsoft licensing fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
       "published": "2026-01-15T10:29:30+00:00",
       "source": "Anadolu Ajansı"
-    },
-    {
-      "title": "Switzerland launches antitrust probe into Microsoft’s software licensing fees - TradingView — Track All Markets",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnJmb2hMeFhvZHQzMC0wN2paZXFkak9lLTFhYWJsVi1xc3ZmaWRWWHBQeTRTZzc5c1FfcWQwcWExclZYU3M5ZGZmWU1yR1lrU1JydXpDeVRIS3FvSE14UlE4eFB6MWF1VXE1V29ycmFBa3dxQkUwVW84MHFxQU5SUGpUR1RMU2lUVkhHTlVYSGg4dlNESzZ1emRPR2swQ21jd1ZiTml5OXh4emJmdVlSYkxNZXZQUHJvdU9JOHA5dm1mR2NwY2p1LXZYampRRFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnJmb2hMeFhvZHQzMC0wN2paZXFkak9lLTFhYWJsVi1xc3ZmaWRWWHBQeTRTZzc5c1FfcWQwcWExclZYU3M5ZGZmWU1yR1lrU1JydXpDeVRIS3FvSE14UlE4eFB6MWF1VXE1V29ycmFBa3dxQkUwVW84MHFxQU5SUGpUR1RMU2lUVkhHTlVYSGg4dlNESzZ1emRPR2swQ21jd1ZiTml5OXh4emJmdVlSYkxNZXZQUHJvdU9JOHA5dm1mR2NwY2p1LXZYampRRFE?oc=5\" target=\"_blank\">Switzerland launches antitrust probe into Microsoft’s software licensing fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView — Track All Markets</font>",
-      "published": "2026-01-15T09:23:44+00:00",
-      "source": "TradingView — Track All Markets"
     }
   ],
   "stock": {
