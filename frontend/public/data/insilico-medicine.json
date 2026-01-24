@@ -2,15 +2,8 @@
   "name": "Insilico Medicine",
   "slug": "insilico-medicine",
   "ticker": null,
-  "fetched_at": "2026-01-23T12:27:57.447386+00:00",
+  "fetched_at": "2026-01-24T12:22:58.540745+00:00",
   "news": [
-    {
-      "title": "Insilico Medicine Launches Science MMAI Gym to Transform Frontier LLMs into Pharmaceutical-Grade Scientific Engines - BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOF9FWEVNdzh5RVRfOWZuZXQ0dUNHTTRRZEt3eHdQaC1XWFZOQnhJS0R0ZEM4MmhGOC1odzR1UW5DQ0dzLXppZ2JWTzlucEloZjRKbkJpM0trTVpsdDZCVlNuYkhwME42aUJweDQxcWlDNFd5MFVBRnIxZlJhUXFIcGZBS0VuT3VXaTM3YVVWdlM1V3Z4OTlzNzJnWDdidWhPVDVtQkJoMWJxTEhtdUdaQkZRTzdLeGZDTUFXYnVqNzlCb1owZW43MGhZNmZrWV85TWI2QkkyZVdhbGg2Z0ZkWVgzVjFuaWdrODJR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOF9FWEVNdzh5RVRfOWZuZXQ0dUNHTTRRZEt3eHdQaC1XWFZOQnhJS0R0ZEM4MmhGOC1odzR1UW5DQ0dzLXppZ2JWTzlucEloZjRKbkJpM0trTVpsdDZCVlNuYkhwME42aUJweDQxcWlDNFd5MFVBRnIxZlJhUXFIcGZBS0VuT3VXaTM3YVVWdlM1V3Z4OTlzNzJnWDdidWhPVDVtQkJoMWJxTEhtdUdaQkZRTzdLeGZDTUFXYnVqNzlCb1owZW43MGhZNmZrWV85TWI2QkkyZVdhbGg2Z0ZkWVgzVjFuaWdrODJR?oc=5\" target=\"_blank\">Insilico Medicine Launches Science MMAI Gym to Transform Frontier LLMs into Pharmaceutical-Grade Scientific Engines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpace</font>",
-      "published": "2026-01-22T19:37:07+00:00",
-      "source": "BioSpace"
-    },
     {
       "title": "Insilico agrees $66M deal to split rights for NLRP3 inhibitor - Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGRpZVdLSnBhOFNwZjFBajdudmowRUl4ME1hN0RQd0YxemJDamh0NHIzUmF6bC1BUWZadEN0QndqdVVTOGxfVnl4Yi1pby1rcy1Pb3NuSnlFZURHX1ZOM1F6c0VsZDR3alJHWUxlTUdYaFVYX1ZWck1nNHBhSUlBYXRIX1NaX1dxQWxwODBVZTdONjJxejI1U18wZUpFUXB4SnlwYVoxQ3NqVENzUjdmZTBScFZMQnZYTTRMNGN0RlM?oc=5",
@@ -24,6 +17,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE41VkJZVC1LSXVWdlFFT0NLck00Z3hhdUFxbDJGenpvV0NYMGdUZ0tNdkVGbEw3SElwcUJPOUs2dFRWd1RRSkZVaFhsSmVTQWY1Nm1HZVp5dlB6UjE1ZERuRDRFYllheVp6ZEFTanktTkZFWG5HcXYw?oc=5\" target=\"_blank\">AI drug startup Insilico Medicine launches an AI ‘gym’ to help models like GPT and Qwen be good at science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
       "published": "2026-01-22T14:00:00+00:00",
       "source": "Fortune"
+    },
+    {
+      "title": "Insilico Medicine Launches Science MMAI Gym to Transform Frontier LLMs into Pharmaceutical-Grade Scientific Engines - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOF9FWEVNdzh5RVRfOWZuZXQ0dUNHTTRRZEt3eHdQaC1XWFZOQnhJS0R0ZEM4MmhGOC1odzR1UW5DQ0dzLXppZ2JWTzlucEloZjRKbkJpM0trTVpsdDZCVlNuYkhwME42aUJweDQxcWlDNFd5MFVBRnIxZlJhUXFIcGZBS0VuT3VXaTM3YVVWdlM1V3Z4OTlzNzJnWDdidWhPVDVtQkJoMWJxTEhtdUdaQkZRTzdLeGZDTUFXYnVqNzlCb1owZW43MGhZNmZrWV85TWI2QkkyZVdhbGg2Z0ZkWVgzVjFuaWdrODJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOF9FWEVNdzh5RVRfOWZuZXQ0dUNHTTRRZEt3eHdQaC1XWFZOQnhJS0R0ZEM4MmhGOC1odzR1UW5DQ0dzLXppZ2JWTzlucEloZjRKbkJpM0trTVpsdDZCVlNuYkhwME42aUJweDQxcWlDNFd5MFVBRnIxZlJhUXFIcGZBS0VuT3VXaTM3YVVWdlM1V3Z4OTlzNzJnWDdidWhPVDVtQkJoMWJxTEhtdUdaQkZRTzdLeGZDTUFXYnVqNzlCb1owZW43MGhZNmZrWV85TWI2QkkyZVdhbGg2Z0ZkWVgzVjFuaWdrODJR?oc=5\" target=\"_blank\">Insilico Medicine Launches Science MMAI Gym to Transform Frontier LLMs into Pharmaceutical-Grade Scientific Engines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioSpace</font>",
+      "published": "2026-01-22T19:37:07+00:00",
+      "source": "BioSpace"
     },
     {
       "title": "Insilico Medicine launches science MMAI gym to train frontier LLMs into pharmaceutical-grade scientific engines - EurekAlert!",
@@ -40,13 +40,6 @@
       "source": "PR Newswire"
     },
     {
-      "title": "InSilico Medicine Wins FDA IND Clearance for AI-Designed NLRP3 Inhibitor ISM8969 - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3JrOTl5cVctbGxtdmhhQmQzb1VjOFVwN0xiczk0Q29YTFhiRWFoVDNKbE5VbHJZTlA3RlNOZXVXZkJIZHRfekM3YlJqd2NnNmN2UHAtZldLZzFtZTJvWTFCalJ4ZVRVOFliYTdxUFJXN2xJekd2YWNMLTFGcmVyU2E5Z2hvQnFFRU9YYnBnX003MVd1MTVfSUNyQWVWV1BzVlpzajY4U3JiTWlYcU1OT2NiRk9LNlAySWZnWWFrT1EwNTY2dE5IcTZyRU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3JrOTl5cVctbGxtdmhhQmQzb1VjOFVwN0xiczk0Q29YTFhiRWFoVDNKbE5VbHJZTlA3RlNOZXVXZkJIZHRfekM3YlJqd2NnNmN2UHAtZldLZzFtZTJvWTFCalJ4ZVRVOFliYTdxUFJXN2xJekd2YWNMLTFGcmVyU2E5Z2hvQnFFRU9YYnBnX003MVd1MTVfSUNyQWVWV1BzVlpzajY4U3JiTWlYcU1OT2NiRk9LNlAySWZnWWFrT1EwNTY2dE5IcTZyRU0?oc=5\" target=\"_blank\">InSilico Medicine Wins FDA IND Clearance for AI-Designed NLRP3 Inhibitor ISM8969</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-01-23T00:13:34+00:00",
-      "source": "TipRanks"
-    },
-    {
       "title": "AI Drug Discovery Unicorn Insilico Medicine Jumps In Hong Kong Trading Debut - Forbes",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVFYZXBuWWlXc1g5ZlpOQkIyaV9iOGlLQWx2aDJ4c3NTY04taDl5bUUzRUVvb0I3eTQ0NFpQbHo1ejgzX1Zyb0x1MFNpTG1EcVJOSGwxZ3JhQmhka3JjYWlGTUxOLW11N0xDZlRjOEFseFZFa2lodllldTctTmVWVnVYMGpaQVRsdVJnNlRSRlZxOW5qdmtyczFxRDdVci1vdV9jYTBJQVNHWmdPeXpWX29Lajg3WVFHWW1pME5VdTZKQnp3TUE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdVFYZXBuWWlXc1g5ZlpOQkIyaV9iOGlLQWx2aDJ4c3NTY04taDl5bUUzRUVvb0I3eTQ0NFpQbHo1ejgzX1Zyb0x1MFNpTG1EcVJOSGwxZ3JhQmhka3JjYWlGTUxOLW11N0xDZlRjOEFseFZFa2lodllldTctTmVWVnVYMGpaQVRsdVJnNlRSRlZxOW5qdmtyczFxRDdVci1vdV9jYTBJQVNHWmdPeXpWX29Lajg3WVFHWW1pME5VdTZKQnp3TUE?oc=5\" target=\"_blank\">AI Drug Discovery Unicorn Insilico Medicine Jumps In Hong Kong Trading Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
@@ -59,6 +52,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXQ5UmZwTV9GQjhTM2RwakdWYmNUZ1ZzaWxDaWZqUzNpRkVTdW4xQU9EZkI5V19SaFJNSG9UakszWjZSbElfVGNXOThNRWdpZ2tiMlhfMmkxem1OTWFRSGpvS2NIWGNjV0RqX05QNUh4VTBoS2NMZlVxdkxuZXhOZGlpWk9GM1hGSTJ1YWFDU2VTLWc?oc=5\" target=\"_blank\">Insilico Medicine and Hygtia partner on ISM-8969</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioWorld MedTech</font>",
       "published": "2026-01-21T13:00:00+00:00",
       "source": "BioWorld MedTech"
+    },
+    {
+      "title": "Biopharma Bites: Insilico snags an NLRP3, FDA's manufacturing pilot, plus more from Lisata and Cylembio - FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaeGkyenN3UjVHVXpHZXB3dXV0OWp4Z250ZElNX1dKWGdhRW5VZFJLLXhLZENYUGZGS1dReUVYMlViWXkxWFpNSy1pM0dlelJkQzIw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaeGkyenN3UjVHVXpHZXB3dXV0OWp4Z250ZElNX1dKWGdhRW5VZFJLLXhLZENYUGZGS1dReUVYMlViWXkxWFpNSy1pM0dlelJkQzIw?oc=5\" target=\"_blank\">Biopharma Bites: Insilico snags an NLRP3, FDA's manufacturing pilot, plus more from Lisata and Cylembio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FirstWord Pharma</font>",
+      "published": "2026-01-21T21:35:14+00:00",
+      "source": "FirstWord Pharma"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "BioSpace"
     },
     {
-      "title": "Insilico Medicine launches science MMAI gym to train frontier LLMs into pharmaceutical-grade scientific engines - EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTzh2UndCaUJYbjJwa0oyTG9Jc3hxN0VMbXRBN1BMcTlpaVRoRGNyTXlTUDdSVUE5T3dMUXdkMkFPbEtHdlFMMm9SM1dfRTBIVFNCeThFc21JcmRu?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTzh2UndCaUJYbjJwa0oyTG9Jc3hxN0VMbXRBN1BMcTlpaVRoRGNyTXlTUDdSVUE5T3dMUXdkMkFPbEtHdlFMMm9SM1dfRTBIVFNCeThFc21JcmRu?oc=5\" target=\"_blank\">Insilico Medicine launches science MMAI gym to train frontier LLMs into pharmaceutical-grade scientific engines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EurekAlert!</font>",
-      "published": "2026-01-22T14:17:17+00:00",
-      "source": "EurekAlert!"
-    },
-    {
       "title": "AI drug startup Insilico Medicine launches an AI ‘gym’ to help models like GPT and Qwen be good at science - Fortune",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41VkJZVC1LSXVWdlFFT0NLck00Z3hhdUFxbDJGenpvV0NYMGdUZ0tNdkVGbEw3SElwcUJPOUs2dFRWd1RRSkZVaFhsSmVTQWY1Nm1HZVp5dlB6UjE1ZERuRDRFYllheVp6ZEFTanktTkZFWG5HcXYw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE41VkJZVC1LSXVWdlFFT0NLck00Z3hhdUFxbDJGenpvV0NYMGdUZ0tNdkVGbEw3SElwcUJPOUs2dFRWd1RRSkZVaFhsSmVTQWY1Nm1HZVp5dlB6UjE1ZERuRDRFYllheVp6ZEFTanktTkZFWG5HcXYw?oc=5\" target=\"_blank\">AI drug startup Insilico Medicine launches an AI ‘gym’ to help models like GPT and Qwen be good at science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
       "published": "2026-01-22T14:00:00+00:00",
       "source": "Fortune"
+    },
+    {
+      "title": "Insilico Medicine launches science MMAI gym to train frontier LLMs into pharmaceutical-grade scientific engines - EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTzh2UndCaUJYbjJwa0oyTG9Jc3hxN0VMbXRBN1BMcTlpaVRoRGNyTXlTUDdSVUE5T3dMUXdkMkFPbEtHdlFMMm9SM1dfRTBIVFNCeThFc21JcmRu?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iTzh2UndCaUJYbjJwa0oyTG9Jc3hxN0VMbXRBN1BMcTlpaVRoRGNyTXlTUDdSVUE5T3dMUXdkMkFPbEtHdlFMMm9SM1dfRTBIVFNCeThFc21JcmRu?oc=5\" target=\"_blank\">Insilico Medicine launches science MMAI gym to train frontier LLMs into pharmaceutical-grade scientific engines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EurekAlert!</font>",
+      "published": "2026-01-22T14:17:17+00:00",
+      "source": "EurekAlert!"
     },
     {
       "title": "Insilico Medicine’s Pharma.AI Q4 Winter Launch Recap: Revolutionizing drug discovery with cutting-edge AI innovations, accelerating the path to pharmaceutical superintelligence - EurekAlert!",
