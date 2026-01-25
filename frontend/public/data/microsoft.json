@@ -2,21 +2,21 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-01-24T12:22:41.670280+00:00",
+  "fetched_at": "2026-01-25T12:24:13.287380+00:00",
   "news": [
-    {
-      "title": "Microsoft Outlook and Teams outage resolved - wcnc.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUlNcWp3aE1YMlYwVU5MY3U4TUw2Y0tGUmN3dVFuOXBIZ0MwZml1VjlRZ2htMTZuY2tVcGVDZ1NEc0RtMWgzSHRyMG52aGNPVHczbHdFUUNMQ0VHSWw1X1RCdUNRcUV1STI0bWVRQ2tTZ1FvaTdlc0g2ajlEOWpjTTdJckxycVpiOWxmQl9CVzhfemVCZG1VQVNLaFdBOEtBZzhibDF1SVVfLUlDMEJ5ekJvRlhUYXBrRGdtMm4yYUZBekc5?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUlNcWp3aE1YMlYwVU5MY3U4TUw2Y0tGUmN3dVFuOXBIZ0MwZml1VjlRZ2htMTZuY2tVcGVDZ1NEc0RtMWgzSHRyMG52aGNPVHczbHdFUUNMQ0VHSWw1X1RCdUNRcUV1STI0bWVRQ2tTZ1FvaTdlc0g2ajlEOWpjTTdJckxycVpiOWxmQl9CVzhfemVCZG1VQVNLaFdBOEtBZzhibDF1SVVfLUlDMEJ5ekJvRlhUYXBrRGdtMm4yYUZBekc5?oc=5\" target=\"_blank\">Microsoft Outlook and Teams outage resolved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wcnc.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTNwT2JKYk9VMWJxTXUwbTFDX0w5S2hpWkxMcjZpU2xORnNhbi13YlpQSl9EcXRyTUVxWHJLSVVURzFrYTlGcXFOekFSTUk2MHpObnR5WGJIWF91dXNSek5tdG41V2VPMm5CaDYyV2dDMXp3YnpaaHNUYmtDNl9NaXM5YmtkMWRnUmx2QThsOHU3ZkhIck1VNVk2UUduaDFGZUJnY003UWFDdlZudVVQWUE5emZaeGgyQUVjTkV3?oc=5\" target=\"_blank\">Microsoft Outlook, Office and 365 outages reported by thousands of users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDg5Q2pwNUZ2WDhPN1hLbWRWZ2FWcWJ5d1BFejVCTzBQb1AwZTEtOXMtbTA4dGV1S1poRWw3WnZITVE2MVJaZkFHSjN4TnNvQjhtTDZuUFRaNkZHT1RGcWdHN3ZKM1Vpd2kweF94UTAxa3NJclBxM3ZKTjlIeUNNbmpnZGVwdHdPNlp0TTc3Z09EZWc?oc=5\" target=\"_blank\">Microsoft says outage impacting thousands of 365 users is 'resolved'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li></ol>",
-      "published": "2026-01-22T20:28:00+00:00",
-      "source": "wcnc.com"
-    },
     {
       "title": "Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw - Forbes",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekJFdlptWk5vbGhhWkZ6UUtNWW16OHJuSDJtVG10UlhIaGh4OWJBZEQwTjA2Wk1iX3QxU0tFMDBqRm9odzh4SGRIM2FDQTl5MDVWTmt3Y3hPUUpuQXNBSXpEckZab1FlbmpXc0xmcUtnVExBdEE5X01rakhYempOX3ktZ3RZdlNkcG9jd19FUE53QUNRMnBVaTROVWNFNDVydFc3Q1JGYlNxMmN3VTNqNlMwWS0?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPekJFdlptWk5vbGhhWkZ6UUtNWW16OHJuSDJtVG10UlhIaGh4OWJBZEQwTjA2Wk1iX3QxU0tFMDBqRm9odzh4SGRIM2FDQTl5MDVWTmt3Y3hPUUpuQXNBSXpEckZab1FlbmpXc0xmcUtnVExBdEE5X01rakhYempOX3ktZ3RZdlNkcG9jd19FUE53QUNRMnBVaTROVWNFNDVydFc3Q1JGYlNxMmN3VTNqNlMwWS0?oc=5\" target=\"_blank\">Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
       "published": "2026-01-23T11:30:00+00:00",
       "source": "Forbes"
+    },
+    {
+      "title": "Microsoft handed the government encryption keys for customer data - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqc3hvMjUtR1VvbGVsemFEV3Q4QWtpREJJN05MZE42SzREZE52WjU3RlRvRHQ5TWJ5S25EQUdmZk1vck9CdEt5eDJFS0RxOE4yRnZfbm9BTTFaLUZTUndYSDZxTHRmR0x5RmM0dG90cmJ2aWZZT2Fv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBqc3hvMjUtR1VvbGVsemFEV3Q4QWtpREJJN05MZE42SzREZE52WjU3RlRvRHQ5TWJ5S25EQUdmZk1vck9CdEt5eDJFS0RxOE4yRnZfbm9BTTFaLUZTUndYSDZxTHRmR0x5RmM0dG90cmJ2aWZZT2Fv?oc=5\" target=\"_blank\">Microsoft handed the government encryption keys for customer data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-01-24T22:39:57+00:00",
+      "source": "The Verge"
     },
     {
       "title": "Microsoft Reportedly Turned Over BitLocker Encryption Keys to the FBI - Gizmodo",
@@ -26,39 +26,39 @@
       "source": "Gizmodo"
     },
     {
-      "title": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzVjY3hxa0NwVmdkb2ZUN2dTWFJ2VnY1MWRqV0NabzV6cWwtYmlhRFRPamVnTVB2cGw5cHdBNVUzd1FCWmE5QWxqM2RmTUxZalk0VHRwaFd4cnZOd0VhdEFNY1ZvS0ZpT3pDNWt6cmxqbWF6X29UeURkRXBIM3VZRXE2TGtQVVN5QTFLX3ZCUmV6cWR1Y0tpR1lwV1BGQVhPSk9LQjhXTjM3WlFTTEJVdEU2dTZDd3VLS3lRMTBUd0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzVjY3hxa0NwVmdkb2ZUN2dTWFJ2VnY1MWRqV0NabzV6cWwtYmlhRFRPamVnTVB2cGw5cHdBNVUzd1FCWmE5QWxqM2RmTUxZalk0VHRwaFd4cnZOd0VhdEFNY1ZvS0ZpT3pDNWt6cmxqbWF6X29UeURkRXBIM3VZRXE2TGtQVVN5QTFLX3ZCUmV6cWR1Y0tpR1lwV1BGQVhPSk9LQjhXTjM3WlFTTEJVdEU2dTZDd3VLS3lRMTBUd0E?oc=5\" target=\"_blank\">Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-01-23T15:54:09+00:00",
-      "source": "TechCrunch"
+      "title": "Microsoft Starts Sharing Your Location With Your Employer - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0ZvbEM4bnl4Yms4LXZndGZuc3pKRWlmRkU5R0NQbWYxckRES3BiLU5LV2FjOWFDcUpOaWFKUUVwYWVRZnlaSF9fZ2YxUjMtUUk4OEx1dmZ6eUhudkc5a1VPbVhqZ3NDWm9BN3ZqX3paSm13bVd4OURoNkJpajV5VlFlRzMzYlljOFhlM1RPbTM4MElENVNxbDRxY1NwN2tDb25BTHZiMlpfX1dQdkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0ZvbEM4bnl4Yms4LXZndGZuc3pKRWlmRkU5R0NQbWYxckRES3BiLU5LV2FjOWFDcUpOaWFKUUVwYWVRZnlaSF9fZ2YxUjMtUUk4OEx1dmZ6eUhudkc5a1VPbVhqZ3NDWm9BN3ZqX3paSm13bVd4OURoNkJpajV5VlFlRzMzYlljOFhlM1RPbTM4MElENVNxbDRxY1NwN2tDb25BTHZiMlpfX1dQdkE?oc=5\" target=\"_blank\">Microsoft Starts Sharing Your Location With Your Employer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-01-24T23:48:00+00:00",
+      "source": "Forbes"
     },
     {
-      "title": "Microsoft (MSFT) Stock Is Up, What You Need To Know - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hM2d5QUVNa0xPNlp2QmZucVJldkJjOF9PVGF1N0RsNzFzQW5FYTA3WDVNZjFyNXNwY3dOVmd2OWhJOTAtbFZnczF5ZlVRWG5oVEU3OWpvaXpyX2ZRU184eURvUVhibDNHLTNXYTE1eUFUTFI4bE9LTUdOdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5hM2d5QUVNa0xPNlp2QmZucVJldkJjOF9PVGF1N0RsNzFzQW5FYTA3WDVNZjFyNXNwY3dOVmd2OWhJOTAtbFZnczF5ZlVRWG5oVEU3OWpvaXpyX2ZRU184eURvUVhibDNHLTNXYTE1eUFUTFI4bE9LTUdOdw?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock Is Up, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-23T19:55:50+00:00",
-      "source": "Yahoo Finance"
+      "title": "Earnings Heat Up: Apple, Microsoft, Meta And Tesla Headline - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGgtLVNxOXNZdEVlT0NaY1FYRGJ0OFRoQVlhUmoyWG94UURDRi1VUnU0TVV0UGMzS1JFcUxWVDJCbGkxTU5IcjNQV0hDREJ4Zy1vaUpOYVRWMEQ3LUdteVhFSWhrb3QzemRoRk00Qk1QaURnbkFoamNhaWtla1RLemFILXF5Z2JVM3ZKaEt0UFhSUG9HWnhtdmpGV2F0ZTdTMWRYRjZCRS1xZHZu?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGgtLVNxOXNZdEVlT0NaY1FYRGJ0OFRoQVlhUmoyWG94UURDRi1VUnU0TVV0UGMzS1JFcUxWVDJCbGkxTU5IcjNQV0hDREJ4Zy1vaUpOYVRWMEQ3LUdteVhFSWhrb3QzemRoRk00Qk1QaURnbkFoamNhaWtla1RLemFILXF5Z2JVM3ZKaEt0UFhSUG9HWnhtdmpGV2F0ZTdTMWRYRjZCRS1xZHZu?oc=5\" target=\"_blank\">Earnings Heat Up: Apple, Microsoft, Meta And Tesla Headline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-01-25T12:00:00+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft 365 outage cause revealed - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXdhM3hHSmxoLUJqUzlhR1dtQi0wMmVoVTBrT1J1c0VyVXg4S01hOFpRWFlRU3pKRlFCX25xNDFQaWxIb2xCNjJNMVZIUXhZcUpWYmp1ZGtma0VuV20wdTliOG9GTngxdFRpZmx4UUNId2YxUHIxZ0dTSTFiTG1lQ240RQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXdhM3hHSmxoLUJqUzlhR1dtQi0wMmVoVTBrT1J1c0VyVXg4S01hOFpRWFlRU3pKRlFCX25xNDFQaWxIb2xCNjJNMVZIUXhZcUpWYmp1ZGtma0VuV20wdTliOG9GTngxdFRpZmx4UUNId2YxUHIxZ0dTSTFiTG1lQ240RQ?oc=5\" target=\"_blank\">Microsoft 365 outage cause revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2RZR1VnSUZWZ1BfMU5DM2V1ZXE2QmJQUXcwVm9QOVFUdHlzS1VxMlhlS1dHNUNjUzZOX01ScWplaGJRdWlhUmwzYmpET0h1YUhoejhtXzl5TDVwak0tUU5rSV9jMXRhaWlOR2paMkFoam5iVUVFMXhBWDRUVnNyaXQ1eTRPMnc?oc=5\" target=\"_blank\">Microsoft outage now 'resolved' — latest updates as 365, Outlook and Teams return</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBxOGRBTWFxSXJ6d1NCNlVueUVuRmJsczd5SUFzNk5xN3lLdngtc0xUajVHLTljN2lGV19tVHZwb2t1TG12N1U3aHY3TGFKcDJLQ3FNVEtOXzMxd0duQ05tMDJXVUw1ZFdaTTExb1ZpQTdCZzFJb3N1MHQ0ZVJmT1XSAYQBQVVfeXFMTVl0V09oY1ZUSkRQdlh3WE15VUVfMXozeWx4a0hlbFZ1YWVnM1BKRXdmWWNOTjhsbVNtNFJvZXp1VmlwZndjZ1l5c3ZZOUJTbFRwM3RIekpvSzlzQ1Y5dHowUlN0c2x6bnZlX1M1Qzd6OTRFWVVUMVFQZExIejFkb0ctd0ts?oc=5\" target=\"_blank\">Microsoft fixes Outlook email issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+      "published": "2026-01-23T16:18:45+00:00",
+      "source": "Mashable"
     },
     {
       "title": "Microsoft Will Beat Earnings, Analysts Say. But They’re Cutting Their Price Targets. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPRUNCY0VtR185eW1VOEh2YmVoc0pRYWZQWjdqY04zak1ma2Z6ZWYwSmlaN0U4czZNTVdRMmxhZU8weEZacEx1eDc3d1RJU2t0WkRJVzlhbWhUV1FUUnFpMmVfMDlDM1M1LWRsYjZhZFFWN1JLTWYxVUFlbFk5dlVMT2hGM3h4U09nUTV3VVZPWXNmOFBYVkZBNnlJUUtNUlhJejhrSndiV0R2ZUJYUmVsY3ZtR01HSG5HM1J1NFBBUE5tUjV6SERRWnFyTG16OFJncXJKRnZrbVUzRTZ5LTdsR3lSYmk3SEZsNTdJOUtsSDJYWmpXTkZIRnFuaVA0bFJoQTZZZ3RsdVhLbWxVeTdFa3psdmNJbFVHcXE0dEhkcEFzOTdRajNleHJqYnpLSEUxS2RvS0wwUjBrLTNlOTZaSnBvWjh5cHd5cGQ0bTVFMG1iYUM4OTg1U09TdUdWdDQ2cl9saHBoQ25KMGZZQ00zLVRyekVvd3FsWlJkMW1EbGZBdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxPRUNCY0VtR185eW1VOEh2YmVoc0pRYWZQWjdqY04zak1ma2Z6ZWYwSmlaN0U4czZNTVdRMmxhZU8weEZacEx1eDc3d1RJU2t0WkRJVzlhbWhUV1FUUnFpMmVfMDlDM1M1LWRsYjZhZFFWN1JLTWYxVUFlbFk5dlVMT2hGM3h4U09nUTV3VVZPWXNmOFBYVkZBNnlJUUtNUlhJejhrSndiV0R2ZUJYUmVsY3ZtR01HSG5HM1J1NFBBUE5tUjV6SERRWnFyTG16OFJncXJKRnZrbVUzRTZ5LTdsR3lSYmk3SEZsNTdJOUtsSDJYWmpXTkZIRnFuaVA0bFJoQTZZZ3RsdVhLbWxVeTdFa3psdmNJbFVHcXE0dEhkcEFzOTdRajNleHJqYnpLSEUxS2RvS0wwUjBrLTNlOTZaSnBvWjh5cHd5cGQ0bTVFMG1iYUM4OTg1U09TdUdWdDQ2cl9saHBoQ25KMGZZQ00zLVRyekVvd3FsWlJkMW1EbGZBdw?oc=5\" target=\"_blank\">Microsoft Will Beat Earnings, Analysts Say. But They’re Cutting Their Price Targets.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNd2d6M2oxa0VTcE5maWxvWXMxcXFoOUlzOVJDTXc5a3ZfNWRtZzFhb3Vtd240TFg1LVJpNHJValVTc3NwOFNZcXl0LXpUVTdWNWZXajU4THJYdDlvM00wWV9PQm4xZGV2S3ljblI1Z2E1dGpmOVNaYm9abVVsUTlkUUFEZFZPSlNJZVpZLTVrU2hPWUU3UTZxZ0VLc3RuUjhTVkd5MzlDaDZvV2dFaVRoM0lXOGRsVGM4OGFQcTF4bEhza3VZb08tRGtoMG8wVlZyNnNrRWJ2U0d1VW41TG41cm5vZy1MNTFKbUxHV0VjTU5pWnY2bHBZRDN3QWNIeDJRdm96QTB0cUNRR09JbjJuSFZkTjE4bVphblk0d09obEVzbEJOZGRfLU9vX0VHT3ZEdktxZzdyV25mOWJPZVhtUjdueVBySUJnZUVlVUZaQ2pDY1RQREVtZTJlWnpjRXRFQkFWOVd5WEszRVJqdUZ1bVItR3YxN3RDRS02TllHNXh4Zw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxNd2d6M2oxa0VTcE5maWxvWXMxcXFoOUlzOVJDTXc5a3ZfNWRtZzFhb3Vtd240TFg1LVJpNHJValVTc3NwOFNZcXl0LXpUVTdWNWZXajU4THJYdDlvM00wWV9PQm4xZGV2S3ljblI1Z2E1dGpmOVNaYm9abVVsUTlkUUFEZFZPSlNJZVpZLTVrU2hPWUU3UTZxZ0VLc3RuUjhTVkd5MzlDaDZvV2dFaVRoM0lXOGRsVGM4OGFQcTF4bEhza3VZb08tRGtoMG8wVlZyNnNrRWJ2U0d1VW41TG41cm5vZy1MNTFKbUxHV0VjTU5pWnY2bHBZRDN3QWNIeDJRdm96QTB0cUNRR09JbjJuSFZkTjE4bVphblk0d09obEVzbEJOZGRfLU9vX0VHT3ZEdktxZzdyV25mOWJPZVhtUjdueVBySUJnZUVlVUZaQ2pDY1RQREVtZTJlWnpjRXRFQkFWOVd5WEszRVJqdUZ1bVItR3YxN3RDRS02TllHNXh4Zw?oc=5\" target=\"_blank\">Microsoft Will Beat Earnings, Analysts Say. But They’re Cutting Their Price Targets.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUdvNXJPWG5ibkNybm1jN3lzemlsOFhiMDdMNDc0RzdzQTdibjVqbU5NRG4yMjlaemdoUTNUNjBoajdkejZMek0zZTB0WExxM0lqZEV1TEtjeU9Za0ZOSVMtZ2k0cmJEWDlpZi1fTnVEOTduNkFxbndreV9sLXVMcDRXdy1WOUhnWUVySVFKaUxVdVFoOUNZdnUyT3pKaW1URmZ1ZVJUZlgwQXV4WDBlaXFHMA?oc=5\" target=\"_blank\">Microsoft Stock Hands Over $350 Billion To Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUlI1aGszOHJ4bXJHQWRuakZkT29fN21YcjNxdFYzV3lxZ3VRc0YybGI4ZV9JSUpZRllkdVRqRTR0VTFSbTVINE1sMmFYRnFnQThFcXhzQVFhTjdSaWJtcEwwOHdMOGwyMy1IbkppeTAyWjRSVDl3eEY4djVNUFVTNkxHQXhlVU0yWVE?oc=5\" target=\"_blank\">Microsoft Stock Is Rising. Why Fairwater Matters for Azure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
       "published": "2026-01-23T15:47:00+00:00",
       "source": "Barron's"
     },
     {
-      "title": "Why Microsoft Stock Popped Friday - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEJIX0ZqTk5lZmxYMDZzRDZKbTNKX0VweG1UOEFXTjk2Vmd4RHNsa01ySDY0eUM0cTZYdmhaZUhCXzNTa0VCd1l1djFuUlBBbV8yWi1GZTY5b210czZCc3NLZmRTUGtkeVBCUzNZdzVORnVnVUh1anA2bnJOT2EzNW1R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEJIX0ZqTk5lZmxYMDZzRDZKbTNKX0VweG1UOEFXTjk2Vmd4RHNsa01ySDY0eUM0cTZYdmhaZUhCXzNTa0VCd1l1djFuUlBBbV8yWi1GZTY5b210czZCc3NLZmRTUGtkeVBCUzNZdzVORnVnVUh1anA2bnJOT2EzNW1R?oc=5\" target=\"_blank\">Why Microsoft Stock Popped Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-01-23T18:05:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give... - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV05UOHlseWZLelNUaTRveFhYc0VaV01WcUpQY0FndG8tRzVKWGJodktLRmd6RTgyVnlhSW1PZUVvcmZOdi05WmNENHltZm1DajV3VjVtY0dqSUY0NUQ0U3VUNkdYWW11cWhYcFBBa2tWMldHNFdnaDY0NVJ4RFZQRHlHQndHR2V1Z1BaUlk0bDFXRGFDSlNWcjdvUjVEbkNzb1d5SVJhc2VnNzgxbFNNT3EtVlZXUGlsbmJwbUtWbU5ydHpYWUhJZlVKYWlPblVXRXVIZjFtRW1YM2xjN25yVXIybGFhV1dMVVZPU3pCMNIB9AFBVV95cUxOWmFDYl9aR2xHX3ZNYVMzTVprb2h6SUJkN0d4cm1HbWQyaldSa184T0lvWEYzbmh6ZVc5Rmduc1N1UEhSY3ZmeFUyZzlublRtQXkzR2Z5cC0zRHREUUtRTFFudDNWWWR4RjVCOS13ajR1RUxwQXVldWdCWHBMM2RpSTRKNVlyd3ZrUGljU2lzVnNFd2VKclNQeHNqR21UTmxqWVRlZG1XaWVISzJld3NwMFA1VGN0bkFQZEc4Q0RGSnpBU2FsckRlZ3pIa0hDQjFqLWo5cmxZQWJ4R3dKaURkbzRWUEV1dG1ZSDZVdDgxc0lxNmJl?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV05UOHlseWZLelNUaTRveFhYc0VaV01WcUpQY0FndG8tRzVKWGJodktLRmd6RTgyVnlhSW1PZUVvcmZOdi05WmNENHltZm1DajV3VjVtY0dqSUY0NUQ0U3VUNkdYWW11cWhYcFBBa2tWMldHNFdnaDY0NVJ4RFZQRHlHQndHR2V1Z1BaUlk0bDFXRGFDSlNWcjdvUjVEbkNzb1d5SVJhc2VnNzgxbFNNT3EtVlZXUGlsbmJwbUtWbU5ydHpYWUhJZlVKYWlPblVXRXVIZjFtRW1YM2xjN25yVXIybGFhV1dMVVZPU3pCMNIB9AFBVV95cUxOWmFDYl9aR2xHX3ZNYVMzTVprb2h6SUJkN0d4cm1HbWQyaldSa184T0lvWEYzbmh6ZVc5Rmduc1N1UEhSY3ZmeFUyZzlublRtQXkzR2Z5cC0zRHREUUtRTFFudDNWWWR4RjVCOS13ajR1RUxwQXVldWdCWHBMM2RpSTRKNVlyd3ZrUGljU2lzVnNFd2VKclNQeHNqR21UTmxqWVRlZG1XaWVISzJld3NwMFA1VGN0bkFQZEc4Q0RGSnpBU2FsckRlZ3pIa0hDQjFqLWo5cmxZQWJ4R3dKaURkbzRWUEV1dG1ZSDZVdDgxc0lxNmJl?oc=5\" target=\"_blank\">Microsoft to its software engineers: Use both Claude Code and GitHub Copilot, give...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2026-01-23T14:50:00+00:00",
-      "source": "Times of India"
+      "title": "Microsoft releases emergency OOB update to fix Outlook freezes - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWlhZHNpTGYta3EyOXRkWTAyOEUzbjJ1Z1A4SzN6eE5rNHZtR3FPU2VGYzJGeHFCekl2X0NNZDlxSWt6d2VKRUxwSVJ2VUk4dU1idnZ6dGFPd1pmQUxmZ0F0dlpqUlBBX2tPY0s2Y3d6ZUFfTGQxaTJBQ0dxSndUWmZERm5pdlkyUG10X1MzXzRJVmFTUnctb3JKR0w0S1o1bmVIcXpUcW9rWDlCbXdaV9IBtgFBVV95cUxQbVB2dEZfdURFTjl5ZFNYRFVaUEUtYXEzRVN4UmwzT0ZtTFVRX2pxT0p3NlVUQUp2TDl6R09GQzlIeDIxNWlhOERXS2J0ZFNGT3Rvd1p6U01ESlVVa05XTU93UGN0WThmYWxHY1JDbTRPdUxlRG9wNkxUM2wwc0R5VGpHZnl1NVptbFNqQVVrcTFZWnFtbGRjXzBNbTRYZ3lMZDFncnYwb1lBX2EwMWxsODJWZjJoUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWlhZHNpTGYta3EyOXRkWTAyOEUzbjJ1Z1A4SzN6eE5rNHZtR3FPU2VGYzJGeHFCekl2X0NNZDlxSWt6d2VKRUxwSVJ2VUk4dU1idnZ6dGFPd1pmQUxmZ0F0dlpqUlBBX2tPY0s2Y3d6ZUFfTGQxaTJBQ0dxSndUWmZERm5pdlkyUG10X1MzXzRJVmFTUnctb3JKR0w0S1o1bmVIcXpUcW9rWDlCbXdaV9IBtgFBVV95cUxQbVB2dEZfdURFTjl5ZFNYRFVaUEUtYXEzRVN4UmwzT0ZtTFVRX2pxT0p3NlVUQUp2TDl6R09GQzlIeDIxNWlhOERXS2J0ZFNGT3Rvd1p6U01ESlVVa05XTU93UGN0WThmYWxHY1JDbTRPdUxlRG9wNkxUM2wwc0R5VGpHZnl1NVptbFNqQVVrcTFZWnFtbGRjXzBNbTRYZ3lMZDFncnYwb1lBX2EwMWxsODJWZjJoUQ?oc=5\" target=\"_blank\">Microsoft releases emergency OOB update to fix Outlook freezes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2026-01-25T01:59:15+00:00",
+      "source": "BleepingComputer"
     }
   ],
   "product_launches": [
@@ -77,10 +77,10 @@
       "source": "TechRadar"
     },
     {
-      "title": "Microsoft Office 2024 will be available without subscription - BetaNews",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG10Y09IR01MUDhwaHFtNm1wQmxCOUVVVUMyWDQySkZJUTlPMnRqeXpNcUdsSWNlYUpudzF4MFFIZS13V2l0WHl5Yzd1NGw5WWYyeW85TDVhTGdITlpHRFVPN1lCQk9Vb2RKVlp6N0JPdnliVkVxSTlZQlV1bGFsb20xU01DcXpTMHVKdWVmVDc0eU1YWjFZTw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG10Y09IR01MUDhwaHFtNm1wQmxCOUVVVUMyWDQySkZJUTlPMnRqeXpNcUdsSWNlYUpudzF4MFFIZS13V2l0WHl5Yzd1NGw5WWYyeW85TDVhTGdITlpHRFVPN1lCQk9Vb2RKVlp6N0JPdnliVkVxSTlZQlV1bGFsb20xU01DcXpTMHVKdWVmVDc0eU1YWjFZTw?oc=5\" target=\"_blank\">Microsoft Office 2024 will be available without subscription</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BetaNews</font>",
-      "published": "2026-01-13T21:13:39+00:00",
+      "title": "Microsoft launches winapp CLI to ease app development - BetaNews",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ001ZkJNTURteXlfY2NVekNMZjVyNDFzR2lEOHQtazBxYkwwVFRLci1uZVRhWEhGaEJva2tPOV9jUjhkeXJZMnRDWUFZTW56d3pfYlNoM3dhSFVvcmFLcXlBcS05SGhDa0ZBaEd0R01vdTFtMmtOTWVVdnZlWlhqeGhGWEdoTFg2UzhF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ001ZkJNTURteXlfY2NVekNMZjVyNDFzR2lEOHQtazBxYkwwVFRLci1uZVRhWEhGaEJva2tPOV9jUjhkeXJZMnRDWUFZTW56d3pfYlNoM3dhSFVvcmFLcXlBcS05SGhDa0ZBaEd0R01vdTFtMmtOTWVVdnZlWlhqeGhGWEdoTFg2UzhF?oc=5\" target=\"_blank\">Microsoft launches winapp CLI to ease app development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BetaNews</font>",
+      "published": "2026-01-22T16:19:20+00:00",
       "source": "BetaNews"
     },
     {
