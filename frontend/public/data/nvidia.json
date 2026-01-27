@@ -2,72 +2,72 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-01-26T12:28:28.681540+00:00",
+  "fetched_at": "2026-01-27T12:28:35.455997+00:00",
   "news": [
     {
-      "title": "Samsung to start production of HBM4 chips next month for Nvidia supply, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSldUUXpXV0NOSnZIOVlMYXh1SnpWSEJyeElNMjBWUXdkczM0b0Vkdmx4N0YzODUyZUF4YUwzWHhkMFNYOHlsNjdwb2ZHb1ZHTDc2UERQbVNmU0tIYUZVbHREbWRwSjRmYkY2OHB3LUZxaVVlNUk3WlZ0TmtrcWdXR1B4Q3RLVi1XT1pLTFJVQjVta0NxclowMXBUMmxjUm1GalJQRDcwX0htYkhKbEJoZ0pnZU5mU0xCb2dMY1pvcXJ0V05aOWc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSldUUXpXV0NOSnZIOVlMYXh1SnpWSEJyeElNMjBWUXdkczM0b0Vkdmx4N0YzODUyZUF4YUwzWHhkMFNYOHlsNjdwb2ZHb1ZHTDc2UERQbVNmU0tIYUZVbHREbWRwSjRmYkY2OHB3LUZxaVVlNUk3WlZ0TmtrcWdXR1B4Q3RLVi1XT1pLTFJVQjVta0NxclowMXBUMmxjUm1GalJQRDcwX0htYkhKbEJoZ0pnZU5mU0xCb2dMY1pvcXJ0V05aOWc?oc=5\" target=\"_blank\">Samsung to start production of HBM4 chips next month for Nvidia supply, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2VNMVZwQkhKemhFQTNJSU85LXV0MzlzckQ2SkJqMVBqRGU0V3pDeXVmd2FfSWNNd2lTUXFZQl92QXUzUHU4eThaUWV2NlZ0VDJfTGVDM0xpckVnbDlmYXJyV2ZIRVowaC1uanljOXNGRkd0bXkybXZRX2hIdVRoWTkyZ3RDNkltRU9FMGNwY2pkclhqaGwzQk9LbWFRaUdOSy1pc2c4SXBlNUFVeTlHOA?oc=5\" target=\"_blank\">Samsung Nears Nvidia’s Approval for Key HBM4 AI Memory Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWsxZ0tFYU8zYlBuYncwUFZ6WURZeUpaZmptdGFZWUowR1Fyd0k0cmRpSXdYSkZzVDhYMnBSdWxNS3pPeTdEaWpyczM2NVBwZzNoTmtQSjlKMDR2NkUxaUh4bmI5SlNlRHhTWk1WOURPQmtPSElFN2pZMG9WTXljcF9CelVIaE0?oc=5\" target=\"_blank\">Samsung Stock Gains as Nvidia AI Chip Supply Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font></li></ol>",
-      "published": "2026-01-26T02:06:11+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREZPaXJnWl80dC0xb21CbGNmdWpmOWhnSFpReTh0LXR3VU1lczBZVk9DTThQMTJURTR2Y2RjcmNuOG54LUtKTTlDVkdST3gwZTFybno5TnUzRWpqb2c3UXpIaU5NTlRLZVJrR3NhSGNtZi1MekJHM0pnSHdERGpYRVdRekx0MmdnT2dwS0NCRHBDV3BESHfSAZsBQVVfeXFMUGxOajdtVEdxN0pObFZnWkFvczFxUjBKZ1QyeGpuMGoyLTN2dTFGdmc2UUhhY2ZGbERtcEcxYWdRRVNudDZwOHBIZ1hMdzR1cG9VSlVCTl9Pd1Z1bTNlVjAtaXRxczNCYXZNdlh1VzdzNjZvbndJa2FhUUpwdGpVT19fbllxemRKVzM3anRxWTdlVXNlT0E3SzFEZFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPREZPaXJnWl80dC0xb21CbGNmdWpmOWhnSFpReTh0LXR3VU1lczBZVk9DTThQMTJURTR2Y2RjcmNuOG54LUtKTTlDVkdST3gwZTFybno5TnUzRWpqb2c3UXpIaU5NTlRLZVJrR3NhSGNtZi1MekJHM0pnSHdERGpYRVdRekx0MmdnT2dwS0NCRHBDV3BESHfSAZsBQVVfeXFMUGxOajdtVEdxN0pObFZnWkFvczFxUjBKZ1QyeGpuMGoyLTN2dTFGdmc2UUhhY2ZGbERtcEcxYWdRRVNudDZwOHBIZ1hMdzR1cG9VSlVCTl9Pd1Z1bTNlVjAtaXRxczNCYXZNdlh1VzdzNjZvbndJa2FhUUpwdGpVT19fbllxemRKVzM3anRxWTdlVXNlT0E3SzFEZFU?oc=5\" target=\"_blank\">Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-26T12:00:01+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "NVIDIA (NVDA)’s Stock “Can’t Get Out of its Way,” Says Jim Cramer - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKMTdUclJaRjVrSlRyTXEyX1RfWW43M2RfT1U4bnAxRDdmRnpucE9hWmNsUDYzRGE3VmlZZ1FHa0VSdkhtWlptMVR1bl96R1hOWDRrYl9iZl91eHlyX3phQldheFZ2elRiMEpQandXWlVpOExFUTU3VA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBKMTdUclJaRjVrSlRyTXEyX1RfWW43M2RfT1U4bnAxRDdmRnpucE9hWmNsUDYzRGE3VmlZZ1FHa0VSdkhtWlptMVR1bl96R1hOWDRrYl9iZl91eHlyX3phQldheFZ2elRiMEpQandXWlVpOExFUTU3VA?oc=5\" target=\"_blank\">NVIDIA (NVDA)’s Stock “Can’t Get Out of its Way,” Says Jim Cramer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-26T10:33:51+00:00",
+      "title": "ASML rides Nvidia's coattails with lasers and huge chip 'printers' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGNBRlNOamhpUVBKeWp3ZWFDaVRZdTFIX2V5X2VFZWlMeE9UUnJfTVVwWXVDTS1sNkJTTDVSSkx5OHp0cUhTSGZKSzhqaHVJTElmNkJ2WXhUQUlSOHU4S3Q2WkMxcUlfLUpQVk40X2o5ODRZZTdKckZLYkU2aVBXMU54YV90cEpq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGNBRlNOamhpUVBKeWp3ZWFDaVRZdTFIX2V5X2VFZWlMeE9UUnJfTVVwWXVDTS1sNkJTTDVSSkx5OHp0cUhTSGZKSzhqaHVJTElmNkJ2WXhUQUlSOHU4S3Q2WkMxcUlfLUpQVk40X2o5ODRZZTdKckZLYkU2aVBXMU54YV90cEpq?oc=5\" target=\"_blank\">ASML rides Nvidia's coattails with lasers and huge chip 'printers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-27T06:01:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Samsung Enters Final Nvidia Certification Phase for HBM4 AI Memory - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVlLYXh5ZlpnT1l0YVNSTXVjb3RodjlTYmRJWk14VzhQbWhESXFGVWpETnZpdV8yMlZaVGRYT0drNFdHUnJhRkdqd1NMQUJMeFFGWXhwU2p6ZVRzWHNDdXN1akFTRm80U2RGX1hmRGZqVlZIeWQxcmdQWDJBU1k1dnFtbnpBTVZiLV90ZHVzN1RBcG1Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVlLYXh5ZlpnT1l0YVNSTXVjb3RodjlTYmRJWk14VzhQbWhESXFGVWpETnZpdV8yMlZaVGRYT0drNFdHUnJhRkdqd1NMQUJMeFFGWXhwU2p6ZVRzWHNDdXN1akFTRm80U2RGX1hmRGZqVlZIeWQxcmdQWDJBU1k1dnFtbnpBTVZiLV90ZHVzN1RBcG1Z?oc=5\" target=\"_blank\">Samsung Enters Final Nvidia Certification Phase for HBM4 AI Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-01-26T11:57:16+00:00",
-      "source": "Yahoo! Finance Canada"
+      "title": "Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3BvUWFJWnhrOTlGT3d4bVdwaVhVdUlRdVp5Zl9iMzhjN0phZFpsTU1vT2hyQkxDZ1lla0J1Mkc4TGVuMDBEWi1reDduY2tObHRoM2xtU0FCWWlYNnpTYzMydUJFSEE3d294MzlHRkE2OG1mbVRsMlpVSDBuR0MxeWtLNnNrQ1U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3BvUWFJWnhrOTlGT3d4bVdwaVhVdUlRdVp5Zl9iMzhjN0phZFpsTU1vT2hyQkxDZ1lla0J1Mkc4TGVuMDBEWi1reDduY2tObHRoM2xtU0FCWWlYNnpTYzMydUJFSEE3d294MzlHRkE2OG1mbVRsMlpVSDBuR0MxeWtLNnNrQ1U?oc=5\" target=\"_blank\">Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-01-27T10:00:00+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "Nvidia-Backed AI Startup Synthesia Raises Funding at $4 Billion Valuation - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPT3E3aDIwOFRsUHJ1cFZfaWVXUmowWHJLZDhHbkxwV0tQVXZXNlZLeXAtUUZoUExSM3VaYXlYQ2Q3dGNBYkIyWVVpTWdERHVSMGtqWUg2WTE2V2hZaE9hdVg0S2NfTzdHNE5QUTItMW9tSkdodGtwZDBYSHI2cGE3cURoRkFTM1N1TTNVaXdaTXhabWtfeFZGWTRWN2xXc0t2bFhsbUwtZ0huTmZEbUpoNjloaXJGdldFRW5mUmw1NlpRLVV4WWNma0RiOElDY3QyNzJsNkNPYWczZko2MlRjNExXWUExQ0t4ejZVZE81LU5obHQxaDFtdWcyYmZ6Z09lVVB0RUhiQmtyeWI1akNCRVhsTi1QdlJ6dEZvcFpTNHRJQk5ZUVlyVHpYTGZ6YlNpeGhBNllRdXRjSklCTHFMeWlucmV0VmF0RFh1MENYLXluV1RDUkpXdUFVVU9sU3pQbi1JT3NmaHBlcTU2Y2pPaWtQNW8tSFA0eWlkLXI0RmNwRXBKNWxNcnozUnVQU1haYVoyamxVYmtlTW81S004S1NuTEEtUlFBMVVLU1Y5a3ZMUDN4MXRsV3FoYmF1WDN3THJRdTZoc0doQlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxPT3E3aDIwOFRsUHJ1cFZfaWVXUmowWHJLZDhHbkxwV0tQVXZXNlZLeXAtUUZoUExSM3VaYXlYQ2Q3dGNBYkIyWVVpTWdERHVSMGtqWUg2WTE2V2hZaE9hdVg0S2NfTzdHNE5QUTItMW9tSkdodGtwZDBYSHI2cGE3cURoRkFTM1N1TTNVaXdaTXhabWtfeFZGWTRWN2xXc0t2bFhsbUwtZ0huTmZEbUpoNjloaXJGdldFRW5mUmw1NlpRLVV4WWNma0RiOElDY3QyNzJsNkNPYWczZko2MlRjNExXWUExQ0t4ejZVZE81LU5obHQxaDFtdWcyYmZ6Z09lVVB0RUhiQmtyeWI1akNCRVhsTi1QdlJ6dEZvcFpTNHRJQk5ZUVlyVHpYTGZ6YlNpeGhBNllRdXRjSklCTHFMeWlucmV0VmF0RFh1MENYLXluV1RDUkpXdUFVVU9sU3pQbi1JT3NmaHBlcTU2Y2pPaWtQNW8tSFA0eWlkLXI0RmNwRXBKNWxNcnozUnVQU1haYVoyamxVYmtlTW81S004S1NuTEEtUlFBMVVLU1Y5a3ZMUDN4MXRsV3FoYmF1WDN3THJRdTZoc0doQlE?oc=5\" target=\"_blank\">Nvidia-Backed AI Startup Synthesia Raises Funding at $4 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2026-01-26T09:09:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "Nvidia Lacks Clear Successor for Superstar CEO Who Built Company - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVRtZmZlNXNVVjVZLWZpZkZ4SjVVOEpna0FaYm5PV0MzWVNjMEdlT2tmQ3dUU1AwQjlLMW5SMVJWaGp2WjRkVlBIckdiSERyMmxvWl9ndTVmaEJ2enR4aXo0NlNYZVJmS2l1T2RjSnFKaFF5T25qc0lCLVdsRnV2ZVZaWEJqME4tYklkMHY5dHZjTndVbDV2UkJaVjBYWXphOXhDN2NqV2Z2TlNGbE1CQXlxbWZDUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVRtZmZlNXNVVjVZLWZpZkZ4SjVVOEpna0FaYm5PV0MzWVNjMEdlT2tmQ3dUU1AwQjlLMW5SMVJWaGp2WjRkVlBIckdiSERyMmxvWl9ndTVmaEJ2enR4aXo0NlNYZVJmS2l1T2RjSnFKaFF5T25qc0lCLVdsRnV2ZVZaWEJqME4tYklkMHY5dHZjTndVbDV2UkJaVjBYWXphOXhDN2NqV2Z2TlNGbE1CQXlxbWZDUQ?oc=5\" target=\"_blank\">Nvidia Lacks Clear Successor for Superstar CEO Who Built Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-01-27T12:00:00+00:00",
+      "source": "Bloomberg"
     },
     {
-      "title": "Prediction: This AI Chip Stock Will Outperform Nvidia Again in 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0NpSU1YNVI1czJNVm5NRGgwMTBzek9HRHJya0NVWGJiaEttSXBmRlN4TUVwWDctMFBlSXFEMzhkdVlVQTE3RVlKb2lsRE9PYWV0R2ZteUpKQzB2cWVFWHdLVkJOMTRBSmladGpUQkVxby1fWGxHRmkxV2hKTEY1UVpCcW1sc2w5?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0NpSU1YNVI1czJNVm5NRGgwMTBzek9HRHJya0NVWGJiaEttSXBmRlN4TUVwWDctMFBlSXFEMzhkdVlVQTE3RVlKb2lsRE9PYWV0R2ZteUpKQzB2cWVFWHdLVkJOMTRBSmladGpUQkVxby1fWGxHRmkxV2hKTEY1UVpCcW1sc2w5?oc=5\" target=\"_blank\">Prediction: This AI Chip Stock Will Outperform Nvidia Again in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-25T08:22:00+00:00",
+      "title": "Nvidia CEO Jensen Huang Calls Anthropic's Claude 'Incredible,' Says Every Software Company Needs To Use It - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLW81bF9yTkVhZzBlS2ZyeDRYR0hpSnNDODgweVFRdmd6c002RzBaUTdCOWo0Z3hzc0ZCbklHM2FtZF9HU1otR2o4Tk1rT1VreWcyR3V4bGJzOGxhVUUtdF92ZzlLY0NQMHRVVUtUOW81aDF6QUhkdnFhOGVCcnJOMg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOLW81bF9yTkVhZzBlS2ZyeDRYR0hpSnNDODgweVFRdmd6c002RzBaUTdCOWo0Z3hzc0ZCbklHM2FtZF9HU1otR2o4Tk1rT1VreWcyR3V4bGJzOGxhVUUtdF92ZzlLY0NQMHRVVUtUOW81aDF6QUhkdnFhOGVCcnJOMg?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Calls Anthropic's Claude 'Incredible,' Says Every Software Company Needs To Use It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-26T11:46:16+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia's 85% GPU Market Share Faces Growing Competition: Is This AI Stock Still a Buy for 2026? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUxWcVVvUGpZc0RzUHR5b0ZqanRpVjJZNC1uczZ2d0F3WVgxMnc4TldBUVFtTWpDaExfbXFMUlZtQVZfa3FMeXpTcXFVRFJXcnp5S3FaVGxDTkZvWGNVa3YzSlBhRnJURDF3QVdTOGRkNVNLRndZWmNtS0R4Z0Q3ZkxuaTcwRmI1TGhoMVZaQ0Z5eEhickV2Ng?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUxWcVVvUGpZc0RzUHR5b0ZqanRpVjJZNC1uczZ2d0F3WVgxMnc4TldBUVFtTWpDaExfbXFMUlZtQVZfa3FMeXpTcXFVRFJXcnp5S3FaVGxDTkZvWGNVa3YzSlBhRnJURDF3QVdTOGRkNVNLRndZWmNtS0R4Z0Q3ZkxuaTcwRmI1TGhoMVZaQ0Z5eEhickV2Ng?oc=5\" target=\"_blank\">Nvidia's 85% GPU Market Share Faces Growing Competition: Is This AI Stock Still a Buy for 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-01-25T20:45:00+00:00",
+      "title": "Angry Nvidia CEO Jensen Huang says: Stop calling all my investments and acquisitions ... - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdkRRTnU1R2NiWnpkTl96dWc2bU9MenhtZ0ZUSXByNU51aVJaQmdya2R0VUVsYXBWbHktX1BVNF9TTDU4NHl2TV9YdmZUQWx3LUZEdDFqaVhLNlVNbEZkekhLanFsYkJlMmhfNFczVDNnQzhIeHZOYzNqZE1uLVVRQ21MUzFEYlFWTElEVkRmd29Gck5heGk4SVBMbmk4UUs1Q2VVRV8zb0FRYnpoMWl3OGVEVmpjYW9SQ3JCLUJBaHV0N3N3QWpDaWJBMHZVYTVxbGJIZnVuWmMxVG9VWkNVWDhwZTh6eGFaaGlZWjhSWVg0YmVsaWFsYjk0d9IBgAJBVV95cUxQQlE0ZVJWWGtfcGlqOGZYYWxwend6RmVZZUVhRmRESWttdkZ3RmpMQmN0c2xkRVktUDVaTXk0VFNMZjZGQ1FibThYT3dGTkthYW55ZDFxZWw3LTl4VDBQUURTUjdFbVRvNk12NzJ3V1NwdUQ3ZThiRm1yWnk2WllRWm9meXMtQVpqNEVyaGExNE5tQ0VENXNwZGVnTlRtcjRiUU9tcW5leVluZ0I3UkNoTjJYalVBLURFazQyTnhOYmhnNW9YaXk5M3JSanQ1LXhQeTQzeEhSTmhzN0JoRVdpOFRpUHd2bXBCaXZNVWVQeXMzX29TYllnZ3BzVkNjZV9x?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdkRRTnU1R2NiWnpkTl96dWc2bU9MenhtZ0ZUSXByNU51aVJaQmdya2R0VUVsYXBWbHktX1BVNF9TTDU4NHl2TV9YdmZUQWx3LUZEdDFqaVhLNlVNbEZkekhLanFsYkJlMmhfNFczVDNnQzhIeHZOYzNqZE1uLVVRQ21MUzFEYlFWTElEVkRmd29Gck5heGk4SVBMbmk4UUs1Q2VVRV8zb0FRYnpoMWl3OGVEVmpjYW9SQ3JCLUJBaHV0N3N3QWpDaWJBMHZVYTVxbGJIZnVuWmMxVG9VWkNVWDhwZTh6eGFaaGlZWjhSWVg0YmVsaWFsYjk0d9IBgAJBVV95cUxQQlE0ZVJWWGtfcGlqOGZYYWxwend6RmVZZUVhRmRESWttdkZ3RmpMQmN0c2xkRVktUDVaTXk0VFNMZjZGQ1FibThYT3dGTkthYW55ZDFxZWw3LTl4VDBQUURTUjdFbVRvNk12NzJ3V1NwdUQ3ZThiRm1yWnk2WllRWm9meXMtQVpqNEVyaGExNE5tQ0VENXNwZGVnTlRtcjRiUU9tcW5leVluZ0I3UkNoTjJYalVBLURFazQyTnhOYmhnNW9YaXk5M3JSanQ1LXhQeTQzeEhSTmhzN0JoRVdpOFRpUHd2bXBCaXZNVWVQeXMzX29TYllnZ3BzVkNjZV9x?oc=5\" target=\"_blank\">Angry Nvidia CEO Jensen Huang says: Stop calling all my investments and acquisitions ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-27T06:09:00+00:00",
+      "source": "Times of India"
+    },
+    {
+      "title": "Down 11%, Should You Buy the Dip on Nvidia? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkdndHItY0lDYzVzRWFHMFpTVGV3aXBWUW9BQ05laE5QcGlMZ0FkVExfWHg1SWtqZGVFcFg1SVh1cW9vZEE0MUxZb0xUcTQtTkcxWGEwNnBhZzJKdHpDRWF3TkJBU2xlaUFPOUVHTFpNaVNRcDlrS1l4aHIxNFR4cjg0WmZxUWZUX1Qw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkdndHItY0lDYzVzRWFHMFpTVGV3aXBWUW9BQ05laE5QcGlMZ0FkVExfWHg1SWtqZGVFcFg1SVh1cW9vZEE0MUxZb0xUcTQtTkcxWGEwNnBhZzJKdHpDRWF3TkJBU2xlaUFPOUVHTFpNaVNRcDlrS1l4aHIxNFR4cjg0WmZxUWZUX1Qw?oc=5\" target=\"_blank\">Down 11%, Should You Buy the Dip on Nvidia?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-01-27T09:49:00+00:00",
       "source": "The Motley Fool"
     },
     {
-      "title": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnB1WUFINkJweDQ2RzJfQnJPcS1rakE2bGZUanFPWHp2Q3FUcXZ4Q0J4aVBER0xLVjBJSlNLazFUMnNIWU13MTdQanItUzRSTl8zb1dzS0VFbVY5Z29fTEh0VWxMREt5T3VUWGhlaGdhQ0gyN0o2UEdyblJCOVZmbWp3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnB1WUFINkJweDQ2RzJfQnJPcS1rakE2bGZUanFPWHp2Q3FUcXZ4Q0J4aVBER0xLVjBJSlNLazFUMnNIWU13MTdQanItUzRSTl8zb1dzS0VFbVY5Z29fTEh0VWxMREt5T3VUWGhlaGdhQ0gyN0o2UEdyblJCOVZmbWp3?oc=5\" target=\"_blank\">Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-01-24T01:09:00+00:00",
-      "source": "The Verge"
+      "title": "CoreWeave stock jumps 6% as Nvidia invests $2 billion to expand AI data center capacity - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNTkxYmRWX3h4OXAwLTJLWV9RQm5NVnlyZmJiR2JZQmMxWnFjNXhDdnNaWVI2TFRFc1VVSGY0ck9GUXlub29ndzkxM3dTOXBoeGlfWUVYaHBlUlhyR21TcmVrWWlhSUdFMzBIMnl4Q3RwVVdvWW1kdTk3R0JrWDlDbFpR0gGHAUFVX3lxTFBZYm4wWXczN2pkRHBobHhGTkd2SmN1WURaTlpCd3dYZHFKRmF0WjhQTUZDY1Yyam5mOUtvLW93YzVWV1JrcFg0WFdfYWFSQmZMVHRXS09xakhjeHFUclVFZlI4ZG5mLWt6bDRfd1h5MlZ3ZUpIV2tyclFBSFo2QVk4X2RvbUdhRQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNTkxYmRWX3h4OXAwLTJLWV9RQm5NVnlyZmJiR2JZQmMxWnFjNXhDdnNaWVI2TFRFc1VVSGY0ck9GUXlub29ndzkxM3dTOXBoeGlfWUVYaHBlUlhyR21TcmVrWWlhSUdFMzBIMnl4Q3RwVVdvWW1kdTk3R0JrWDlDbFpR0gGHAUFVX3lxTFBZYm4wWXczN2pkRHBobHhGTkd2SmN1WURaTlpCd3dYZHFKRmF0WjhQTUZDY1Yyam5mOUtvLW93YzVWV1JrcFg0WFdfYWFSQmZMVHRXS09xakhjeHFUclVFZlI4ZG5mLWt6bDRfd1h5MlZ3ZUpIV2tyclFBSFo2QVk4X2RvbUdhRQ?oc=5\" target=\"_blank\">CoreWeave stock jumps 6% as Nvidia invests $2 billion to expand AI data center capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjhWczdzbnpwVGRLQXVQeGhhM193V0toS3ltdU51VElyUHFjZ1NybUJVckpXdVdEZGxkdHQ5enExWEpIeUdoYXdLa0czZ3VBdFlEb2FhVms5RU5pV2c4b3ctYWVaOS1kcEgwTWFUMEtEUGtuNzZjVmFuTnJQOG1KbVlKUjNTSnlIVUE1ZFgzUzllYkNXbDJiS2ZZTXFGYlJGb2xUNTRHWllkWmQyQXZHNzlR?oc=5\" target=\"_blank\">CoreWeave stock surges amid fresh $2 billion investment from Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNQ3RHcVdnSTJlZzFFYUVpVXc3YTRnbGhWa19OTl9WTk11dHVmdXVGdTVROEVNYXBPNGNLczVOSUhGYnZmcFBMd3RweXVTOU91TVczSXpybUp3WnVFdmNMVUJvMnNQNDJoWkRFVE5uNUdoN2hqQlVDb1l4YkVuM2d5TUxJYUxKX1pWLU9OQ2Z1dkRUNVd6S0o2ZjdFY29CUzJDZU5iNVBvNnFnOFE5am5fMklNbURQN09PZGZxMlhVUFRsYkNTbzh2ZVJwOUI5MXJ2YVVvS0ttS0FHRE1Na3VGTmRBUXRXeGtpNjZKSGd4LVhwQlpBWHhIZXhXRTRUaFpCRWc0dDRGZDdUeDhpUHAwYk93VExfVEVRX3NvTXl2THdiZDhsOXlraGFoT1ZtSjZ4SmdGUC10czNlc2xJWXJpcWFSQnJBS0xHV2tOMElEdUpNSzZuZ1Z1OGpuTnhHVFBFYWtSR0hVUm1sZFE0eGhsYmJXc2pDSkZSMjU3eHZlSXVJZTh3MFFKNmprRmVqUQ?oc=5\" target=\"_blank\">CoreWeave Stock Rises Again. Wall Street Loves Nvidia Investment.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+      "published": "2026-01-26T13:25:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia unveils AI models for faster, cheaper weather forecasts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUVnOHNUTlFwN3U2RkwzYVlvNUxKT3RVN2RWYlJ2TWxObnpYUmJCa0lEeUoxLVZIRVF4RDltVEdTSzZQVkVfZnZweGFqNmVfYmZZeGJDdFdiMVNUQlBHUkpFQ00zeENCQzdGYkxrN05ZQVRaTlVJcEdEQVIwTDA5R2JzeDNVNzNkRWFMOTRTM1lmNHhRYWJ4NC1mU0g5NTJoMW5XS2VpdUJzSllwak5tZmVnMnU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUVnOHNUTlFwN3U2RkwzYVlvNUxKT3RVN2RWYlJ2TWxObnpYUmJCa0lEeUoxLVZIRVF4RDltVEdTSzZQVkVfZnZweGFqNmVfYmZZeGJDdFdiMVNUQlBHUkpFQ00zeENCQzdGYkxrN05ZQVRaTlVJcEdEQVIwTDA5R2JzeDNVNzNkRWFMOTRTM1lmNHhRYWJ4NC1mU0g5NTJoMW5XS2VpdUJzSllwak5tZmVnMnU?oc=5\" target=\"_blank\">Nvidia unveils AI models for faster, cheaper weather forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-01-26T19:45:49+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5\" target=\"_blank\">NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-01-05T08:00:00+00:00",
-      "source": "NVIDIA Newsroom"
+      "title": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open Set of Models and Tools for AI Weather - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQ4U0lTUkdrcTRVRUlIbGZLQVVoMDBzTGtpTko3R0QwekpaQ1hZTzdoZVNPRTRqSW9Gd0cwWkRCN0pXckJUNGhZeEZyOVdyV09HYW5hR1V2WjVlVWpvVGNBWlR6Y1E1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVQ4U0lTUkdrcTRVRUlIbGZLQVVoMDBzTGtpTko3R0QwekpaQ1hZTzdoZVNPRTRqSW9Gd0cwWkRCN0pXckJUNGhZeEZyOVdyV09HYW5hR1V2WjVlVWpvVGNBWlR6Y1E1?oc=5\" target=\"_blank\">NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open Set of Models and Tools for AI Weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+      "published": "2026-01-26T14:03:04+00:00",
+      "source": "NVIDIA Blog"
     },
     {
       "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
@@ -77,18 +77,18 @@
       "source": "Business Insider"
     },
     {
-      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPMjJtRlFtY1dNUFdUbFRsTTJSRW5jVUIyQ2lac0l1QURCT0lrYXc2WmVxeElRWmlKUXd2MWxaN3hGUlFvZ05iZ3hTRXRDU0FuMTloOUxaWktiaC1PSk9wZ2FNV1BtZ0pOMXdMbnZleEx5TW9GbklhVnpYMlMwSm9hM3piOFZPSFc3VUNoZ2lZMUtOV1U4R1ZieWhPWVo5VlY5ZmdnR09WWWlYU2s5OXlHOTlPV2dLWjBoV2xFMm9TQmFzUi1YVmQtUm4zYzlITlluSmdMcm5sNy1UYlNjVHZxSHVtX0RPV3VWZVJKRmpud293Nm12UEt1SmdzMzBDZXphLXJDWGFIUzB6bkJnSndDS3JFOVNKUmRQalBKSHBnLVA2dVhoWlV5UFhQbEsyMWw0d0FESFlkMDR2cmJUREQyYjZQQWh2RXpnYWs5emxBOU1oX1J2MmNpeUlHanhIclpVWkNhZW1YQmE5S1JQUGZmMHh0UUVIZVl5X1pRMTh0ZmFNYnB5UUtEWW50NnZzWWJpbENtZkVNbS00bUVHamt5Zg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPMjJtRlFtY1dNUFdUbFRsTTJSRW5jVUIyQ2lac0l1QURCT0lrYXc2WmVxeElRWmlKUXd2MWxaN3hGUlFvZ05iZ3hTRXRDU0FuMTloOUxaWktiaC1PSk9wZ2FNV1BtZ0pOMXdMbnZleEx5TW9GbklhVnpYMlMwSm9hM3piOFZPSFc3VUNoZ2lZMUtOV1U4R1ZieWhPWVo5VlY5ZmdnR09WWWlYU2s5OXlHOTlPV2dLWjBoV2xFMm9TQmFzUi1YVmQtUm4zYzlITlluSmdMcm5sNy1UYlNjVHZxSHVtX0RPV3VWZVJKRmpud293Nm12UEt1SmdzMzBDZXphLXJDWGFIUzB6bkJnSndDS3JFOVNKUmRQalBKSHBnLVA2dVhoWlV5UFhQbEsyMWw0d0FESFlkMDR2cmJUREQyYjZQQWh2RXpnYWs5emxBOU1oX1J2MmNpeUlHanhIclpVWkNhZW1YQmE5S1JQUGZmMHh0UUVIZVl5X1pRMTh0ZmFNYnB5UUtEWW50NnZzWWJpbENtZkVNbS00bUVHamt5Zg?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
-      "published": "2025-10-28T07:00:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5\" target=\"_blank\">NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-01-05T08:00:00+00:00",
+      "source": "NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA DGX Spark Arrives for World’s AI Developers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5\" target=\"_blank\">NVIDIA DGX Spark Arrives for World’s AI Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2025-10-13T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
+      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOaWhRMkU0NFg1MDZjY2FPZU5RTXMwMFlIZFNPRS1iZFFQR0FiNVNiWU15eFROLVlseFREU2ItZlBKaGhkV09IdVdhT1FuQUVqM2ljdmhEZlFNM21mYkZBTHllc2NtV20wQzlZTXlCQmdnQmtzT1FSV3UxaGxyMmZhRS1rR3liNUpOczhLSVRnRE9qLUcxUmIyMGdJLUFKSFp5bUhmU0VkOUkwM1BwYUZ0WE14QkluQXRZa2tLa0pnbXRybEdDS2VSVVJRQzZxODlFR2gwelRhRjBoNVdBRG5pU2lVYmh6dlgyb1AxQldPS2lhaWxWMzRNY0pmQXc4YnpCcEdvb0FkeVJBNWlXbGhZYXE2c1plSDdMTHcyWEJXSUFPUmFOcEl6Mk5JZ2hmai1JSjFMS3pwRFc2dzdsTWNxZWZvc0pYa3VHVGJHVUdwOGhhQWdMbHI5eWFiSGlKVTZtVjhfNS0tcTdINWZKQ2hOX1VURzVlTU5XcHV3RUYxRGVwOE5DR0lVNVoxV0s5SnVDd19xQ2xFRVpHQnRfM0UwZQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxOaWhRMkU0NFg1MDZjY2FPZU5RTXMwMFlIZFNPRS1iZFFQR0FiNVNiWU15eFROLVlseFREU2ItZlBKaGhkV09IdVdhT1FuQUVqM2ljdmhEZlFNM21mYkZBTHllc2NtV20wQzlZTXlCQmdnQmtzT1FSV3UxaGxyMmZhRS1rR3liNUpOczhLSVRnRE9qLUcxUmIyMGdJLUFKSFp5bUhmU0VkOUkwM1BwYUZ0WE14QkluQXRZa2tLa0pnbXRybEdDS2VSVVJRQzZxODlFR2gwelRhRjBoNVdBRG5pU2lVYmh6dlgyb1AxQldPS2lhaWxWMzRNY0pmQXc4YnpCcEdvb0FkeVJBNWlXbGhZYXE2c1plSDdMTHcyWEJXSUFPUmFOcEl6Mk5JZ2hmai1JSjFMS3pwRFc2dzdsTWNxZWZvc0pYa3VHVGJHVUdwOGhhQWdMbHI5eWFiSGlKVTZtVjhfNS0tcTdINWZKQ2hOX1VURzVlTU5XcHV3RUYxRGVwOE5DR0lVNVoxV0s5SnVDd19xQ2xFRVpHQnRfM0UwZQ?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "published": "2025-10-28T07:00:00+00:00",
+      "source": "The Wall Street Journal"
     },
     {
       "title": "NVIDIA Stock Rebounds as AI Product Launch and Data Center Demand Restore Confidence - CarbonCredits.com",
@@ -102,14 +102,10 @@
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-23",
-      "close": 187.6699981689453
+      "date": "2026-01-26",
+      "close": 186.47000122070312
     },
     "history": [
-      {
-        "date": "2026-01-14",
-        "close": 183.13999938964844
-      },
       {
         "date": "2026-01-15",
         "close": 187.0500030517578
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-23",
         "close": 187.6699981689453
+      },
+      {
+        "date": "2026-01-26",
+        "close": 186.47000122070312
       }
     ],
     "name": "NVIDIA Corporation"

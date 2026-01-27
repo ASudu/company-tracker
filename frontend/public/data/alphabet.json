@@ -2,41 +2,34 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-01-26T12:28:20.969319+00:00",
+  "fetched_at": "2026-01-27T12:28:28.044475+00:00",
   "news": [
-    {
-      "title": "Alphabet vs. Meta: Which Is the Better AI Growth Stock to Buy Right Now? - Nasdaq",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzNnSFItYmNwNWpJMDN3RTRCRWJRM3haR3hTZWJicDk0UzBISlJTNy1adjJZeklBdE95d3NOMGVGVlFUNTh1WWZ2SVF3al81XzMzMk42cnFLUGx6S1BwR3FhUExrWjVrLVNjTU1JV1JCcTdwSGRRWVRYSDVLenFzR25MX243ZS13b010d1dWVEZGNkx3Q2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzNnSFItYmNwNWpJMDN3RTRCRWJRM3haR3hTZWJicDk0UzBISlJTNy1adjJZeklBdE95d3NOMGVGVlFUNTh1WWZ2SVF3al81XzMzMk42cnFLUGx6S1BwR3FhUExrWjVrLVNjTU1JV1JCcTdwSGRRWVRYSDVLenFzR25MX243ZS13b010d1dWVEZGNkx3Q2c?oc=5\" target=\"_blank\">Alphabet vs. Meta: Which Is the Better AI Growth Stock to Buy Right Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
-      "published": "2026-01-23T05:36:00+00:00",
-      "source": "Nasdaq"
-    },
-    {
-      "title": "Alphabet Stock Has Soared More Than 70% In 6 Months. Is It Too Late to Buy Shares? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXAtYWxHQVZObDJDc2Q0WTJFWXk1ZXZWaW9RU2IxVTlYaHVfQmtLN0ZCSXhiT1N6WW92VHo5andSMDdFRHN4VmtsRHJjWWxxVkxfa1dBR0lnaHREbDhZMUc4Y0pPckxEUTNGWHJLZG9rSmlja09RUUlfdlJGbzJyRUV4dUZ1Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXAtYWxHQVZObDJDc2Q0WTJFWXk1ZXZWaW9RU2IxVTlYaHVfQmtLN0ZCSXhiT1N6WW92VHo5andSMDdFRHN4VmtsRHJjWWxxVkxfa1dBR0lnaHREbDhZMUc4Y0pPckxEUTNGWHJLZG9rSmlja09RUUlfdlJGbzJyRUV4dUZ1Zw?oc=5\" target=\"_blank\">Alphabet Stock Has Soared More Than 70% In 6 Months. Is It Too Late to Buy Shares?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-01-25T02:16:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Top Stifel Analyst Raises Alphabet Stock (GOOGL) Price Target Ahead of Q4 Earnings - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOell6bUg5RVR3Zk4ycExvTjA1NjVOWWQ5M254QUUtaTZ5aWw0bjg0eUZ3ZUZEN1dJVk9PXzlFYnJzSXVkU2wteldYei1BV3NTQXZ4ZVg4eGFqRWUwUXl6MGpNd0hwSWxCX2o0WDZ0ektjeGxoQmE5cjdQWWtXXzlBaEUzRzBkcU0xQnNoeWIwZlZNeDRlcEw5WWVCdi00dks5ZlBPMWNZTmYzRnpTTnVJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOell6bUg5RVR3Zk4ycExvTjA1NjVOWWQ5M254QUUtaTZ5aWw0bjg0eUZ3ZUZEN1dJVk9PXzlFYnJzSXVkU2wteldYei1BV3NTQXZ4ZVg4eGFqRWUwUXl6MGpNd0hwSWxCX2o0WDZ0ektjeGxoQmE5cjdQWWtXXzlBaEUzRzBkcU0xQnNoeWIwZlZNeDRlcEw5WWVCdi00dks5ZlBPMWNZTmYzRnpTTnVJ?oc=5\" target=\"_blank\">Top Stifel Analyst Raises Alphabet Stock (GOOGL) Price Target Ahead of Q4 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-01-23T23:01:18+00:00",
-      "source": "TipRanks"
-    },
-    {
-      "title": "Alphabet Q4 2025 Earnings Preview: Relating Expectations With OLS Model (NASDAQ:GOOG) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnJuUWxHZ2R2RDFrZW9NWFFaRXVvZkF1eUdsX0t6MW1PdmRfOERxYlVXRzlnZW15UlQtTzNjdWsxaWg2SXYzUkZKWTBGdHJPZnVVZ2dQZEdRQ2djWGduVTM1X2g1cWVBWE14WUtlSUhNQ1VKZk80aWZiblBGTkFnUTA4RlNFMTFmYUtnVU5BanFWUEIzSWR0S2prN0tBTFZWMVhLS0NHY05VZEdXNThaZQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnJuUWxHZ2R2RDFrZW9NWFFaRXVvZkF1eUdsX0t6MW1PdmRfOERxYlVXRzlnZW15UlQtTzNjdWsxaWg2SXYzUkZKWTBGdHJPZnVVZ2dQZEdRQ2djWGduVTM1X2g1cWVBWE14WUtlSUhNQ1VKZk80aWZiblBGTkFnUTA4RlNFMTFmYUtnVU5BanFWUEIzSWR0S2prN0tBTFZWMVhLS0NHY05VZEdXNThaZQ?oc=5\" target=\"_blank\">Alphabet Q4 2025 Earnings Preview: Relating Expectations With OLS Model (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-01-23T18:14:25+00:00",
-      "source": "Seeking Alpha"
-    },
     {
       "title": "Alphabet Inc. (GOOGL) Strengthens Its Position in AI and Cloud Innovation - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjJUdlZSbDZId2IzSWxqQ3doQlh3ZzlIT0pJM0VlemtaVlFSRmpDcWluR01WWGFxYVhsMjNRQ2xYek4zUExZYlg2MEYyMk5Wa2d3T3FEclViaW9DSDZaMTVKR0ZKblBLTlY1TzJQRFd1NXFTZFFWSUpCREFHTUJsRGRiajBva0tLbGZDTGxR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORjJUdlZSbDZId2IzSWxqQ3doQlh3ZzlIT0pJM0VlemtaVlFSRmpDcWluR01WWGFxYVhsMjNRQ2xYek4zUExZYlg2MEYyMk5Wa2d3T3FEclViaW9DSDZaMTVKR0ZKblBLTlY1TzJQRFd1NXFTZFFWSUpCREFHTUJsRGRiajBva0tLbGZDTGxR?oc=5\" target=\"_blank\">Alphabet Inc. (GOOGL) Strengthens Its Position in AI and Cloud Innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2026-01-25T04:42:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia and Alphabet VC arms back AI startup Synthesia at $4 billion valuation - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9TNTZtN19zU0dKblNncUpMSWxrb1NhUC1iSF9OOFljeWpNWkxxeGlGUnppaU5Wa2U3NmxGSk1ORkxWQmVRTlJVSkdzSVo1QXJ5NjZSaU1GSUNRc3ZKeVNpX0FRQV9INXdYMEJ2elQ1SURxZEhDLVctU0NHSDU3MdIBhgFBVV95cUxPVmxCTktyZGU0YjEwblpMeHU4bkU2MHIwOF9WcmpSTDdTT3dPNkdDNW1kU0xFbUkzakd6RGRPeGZNbXUtc1ZDYnpRZW1jZl91TmtZbmt1bFRfaTZPV3hKQmpDd29Obm5KOGVrZGFScXZ2LTU5NzJZYjJVYU5YdndjTFVVVThoUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9TNTZtN19zU0dKblNncUpMSWxrb1NhUC1iSF9OOFljeWpNWkxxeGlGUnppaU5Wa2U3NmxGSk1ORkxWQmVRTlJVSkdzSVo1QXJ5NjZSaU1GSUNRc3ZKeVNpX0FRQV9INXdYMEJ2elQ1SURxZEhDLVctU0NHSDU3MdIBhgFBVV95cUxPVmxCTktyZGU0YjEwblpMeHU4bkU2MHIwOF9WcmpSTDdTT3dPNkdDNW1kU0xFbUkzakd6RGRPeGZNbXUtc1ZDYnpRZW1jZl91TmtZbmt1bFRfaTZPV3hKQmpDd29Obm5KOGVrZGFScXZ2LTU5NzJZYjJVYU5YdndjTFVVVThoUQ?oc=5\" target=\"_blank\">Nvidia and Alphabet VC arms back AI startup Synthesia at $4 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-01-26T09:05:14+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Alphabet: Valuation Concerns + Weakening Free Cash Flow = Rating Downgrade (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzhZZmtTUkpoNzdELS1pYjVJbERXYjhMZUtXdXkyNGdrZXA1RllLUDVyd2dhV0Q2Q2NQZ3pPT0YzSEs5bkZhTmJ3WTVkbnFkdTBZSWlRTlF5YmVpaHdhbG1lQUFNLXZxZUpDdno3SFY2TkxlRXBIU2hRSUZjZk5nblFYUWc0eFh6MVZCWjVxYV9hckdTVTJuU2FFdGhpb2xqN29aN3BOY0s0Zi1ZMHRXTkhNcDYxZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzhZZmtTUkpoNzdELS1pYjVJbERXYjhMZUtXdXkyNGdrZXA1RllLUDVyd2dhV0Q2Q2NQZ3pPT0YzSEs5bkZhTmJ3WTVkbnFkdTBZSWlRTlF5YmVpaHdhbG1lQUFNLXZxZUpDdno3SFY2TkxlRXBIU2hRSUZjZk5nblFYUWc0eFh6MVZCWjVxYV9hckdTVTJuU2FFdGhpb2xqN29aN3BOY0s0Zi1ZMHRXTkhNcDYxZw?oc=5\" target=\"_blank\">Alphabet: Valuation Concerns + Weakening Free Cash Flow = Rating Downgrade (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-01-27T10:39:17+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Big Tech earnings to test AI rally as resurgent Alphabet takes lead - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05c1Z3ZldJcVZHd19oTHF0Ym9KcnYxaU5HbjZGakdYYUlzYnN2QUtTSlZhNGhtTEh6N1N1VTZ6STFjUlZUWU54Q0Q2bmNKVm5zWjdKSnluazdIakNNUXhlN0cwVVpYTlAzemhiRHNSTjlCTmtnNW9Lb3VLRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE05c1Z3ZldJcVZHd19oTHF0Ym9KcnYxaU5HbjZGakdYYUlzYnN2QUtTSlZhNGhtTEh6N1N1VTZ6STFjUlZUWU54Q0Q2bmNKVm5zWjdKSnluazdIakNNUXhlN0cwVVpYTlAzemhiRHNSTjlCTmtnNW9Lb3VLRQ?oc=5\" target=\"_blank\">Big Tech earnings to test AI rally as resurgent Alphabet takes lead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-01-27T11:28:35+00:00",
       "source": "Yahoo Finance"
     },
     {
@@ -47,18 +40,25 @@
       "source": "National Geographic"
     },
     {
-      "title": "Nvidia and Alphabet VC arms back AI startup Synthesia at $4 billion valuation - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9TNTZtN19zU0dKblNncUpMSWxrb1NhUC1iSF9OOFljeWpNWkxxeGlGUnppaU5Wa2U3NmxGSk1ORkxWQmVRTlJVSkdzSVo1QXJ5NjZSaU1GSUNRc3ZKeVNpX0FRQV9INXdYMEJ2elQ1SURxZEhDLVctU0NHSDU3MdIBhgFBVV95cUxPVmxCTktyZGU0YjEwblpMeHU4bkU2MHIwOF9WcmpSTDdTT3dPNkdDNW1kU0xFbUkzakd6RGRPeGZNbXUtc1ZDYnpRZW1jZl91TmtZbmt1bFRfaTZPV3hKQmpDd29Obm5KOGVrZGFScXZ2LTU5NzJZYjJVYU5YdndjTFVVVThoUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9TNTZtN19zU0dKblNncUpMSWxrb1NhUC1iSF9OOFljeWpNWkxxeGlGUnppaU5Wa2U3NmxGSk1ORkxWQmVRTlJVSkdzSVo1QXJ5NjZSaU1GSUNRc3ZKeVNpX0FRQV9INXdYMEJ2elQ1SURxZEhDLVctU0NHSDU3MdIBhgFBVV95cUxPVmxCTktyZGU0YjEwblpMeHU4bkU2MHIwOF9WcmpSTDdTT3dPNkdDNW1kU0xFbUkzakd6RGRPeGZNbXUtc1ZDYnpRZW1jZl91TmtZbmt1bFRfaTZPV3hKQmpDd29Obm5KOGVrZGFScXZ2LTU5NzJZYjJVYU5YdndjTFVVVThoUQ?oc=5\" target=\"_blank\">Nvidia and Alphabet VC arms back AI startup Synthesia at $4 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-26T09:05:14+00:00",
-      "source": "CNBC"
+      "title": "Alphabet Stock Has Soared More Than 70% In 6 Months. Is It Too Late to Buy Shares? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXAtYWxHQVZObDJDc2Q0WTJFWXk1ZXZWaW9RU2IxVTlYaHVfQmtLN0ZCSXhiT1N6WW92VHo5andSMDdFRHN4VmtsRHJjWWxxVkxfa1dBR0lnaHREbDhZMUc4Y0pPckxEUTNGWHJLZG9rSmlja09RUUlfdlJGbzJyRUV4dUZ1Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXAtYWxHQVZObDJDc2Q0WTJFWXk1ZXZWaW9RU2IxVTlYaHVfQmtLN0ZCSXhiT1N6WW92VHo5andSMDdFRHN4VmtsRHJjWWxxVkxfa1dBR0lnaHREbDhZMUc4Y0pPckxEUTNGWHJLZG9rSmlja09RUUlfdlJGbzJyRUV4dUZ1Zw?oc=5\" target=\"_blank\">Alphabet Stock Has Soared More Than 70% In 6 Months. Is It Too Late to Buy Shares?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-01-25T02:16:00+00:00",
+      "source": "The Motley Fool"
     },
     {
-      "title": "Insider Selling: Alphabet (NASDAQ:GOOGL) CEO Sells 32,500 Shares of Stock - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzY0SklzMXpldUZEYS1iZHNqQVQ2REZpTEh6cUdzZzJHRGFocWU3Rl9Jb0xiS2VENGVLX0JzZEZBOGdUQnAtSlVpWVVQbXVpMkdXYWl1RmpjdDJJUFcxRzZVUmpDMVhwSk9oVVk3UEUwTlZtOGNITVB4MGRoNDc1NjJUTXRydFAtS3ByUU92UkxPZ25CMk9oLXI0OW5Vb3J4WDZBV1lZSjJjcnUxX1VGVHJyNmJoak5pSE9jWWQzWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzY0SklzMXpldUZEYS1iZHNqQVQ2REZpTEh6cUdzZzJHRGFocWU3Rl9Jb0xiS2VENGVLX0JzZEZBOGdUQnAtSlVpWVVQbXVpMkdXYWl1RmpjdDJJUFcxRzZVUmpDMVhwSk9oVVk3UEUwTlZtOGNITVB4MGRoNDc1NjJUTXRydFAtS3ByUU92UkxPZ25CMk9oLXI0OW5Vb3J4WDZBV1lZSjJjcnUxX1VGVHJyNmJoak5pSE9jWWQzWQ?oc=5\" target=\"_blank\">Insider Selling: Alphabet (NASDAQ:GOOGL) CEO Sells 32,500 Shares of Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-      "published": "2026-01-24T01:52:18+00:00",
-      "source": "MarketBeat"
+      "title": "Alphabet CEO Sundar Pichai sold over 30,000 shares in tech giant — Here's how much stake he still holds in Google - Mint",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNXzVmSUU1eDBqRGpBcF9TSnZsMHlaQU1OYWxDYXZGbnY5dVNUclR6VVRuYlZlSDR0WVQ1eEhnUFc3V0xDWUliWGUwSEFOUlNNaG1jZXJjUU9fektwc1N2N091X3hEbGQySUxXckIwTEZQR25RMHZXanZlM0VvaHlTWmV0c1RpWElIZWozWk03NXV0U2NydDVsaGk2TDhKS1doVVJrSjN3dno1LUxiSVl6MWQwUUE3ZHZmcEI0eG15MWdBRWhWVl84WFJuZXU4TXJDMGgwdVJjMWVxZHloY2xUb01zOWN5OWVZWjBfOHVwb1QyRkxsRXdmQjljRE5qZkFqdVA1T3pwNmJSM0lzZ0k1RGRmeTJ3VHFv0gGeAkFVX3lxTFBoZnJzVjI1dTF3OEpERk9TbUVYcUc5V2paNDluSHBYYllzUFN6QXc4Z21Sa0tiR0NzLUhNM1lGWDdpRFB5T3dmNEVqdVUwYkRTVlp4RXNHYWVscWo3TzJxUTBqVDVmd0FjakczLS1pdnIzLWVTa20zaDI0cmMtbTdBVHg4RVVLT2tEVktNMk9OZGd2NE50M24zcFotLXVxXzZfdWRSSEhNdm5vaEswMzQ2bUp2XzRZTDM4d3VsMWlZaExPWFZaVEJWOVZDZWF1amNTMTRnRERfQ0FsdXF1YlE1emVJclFQcnRNNk12MGhKS0R6SXhWMWM4RFRhU21IeUVLNEp2N0pqTmV1VjJZSzFjZkRfV253UmtYMm0zc2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNXzVmSUU1eDBqRGpBcF9TSnZsMHlaQU1OYWxDYXZGbnY5dVNUclR6VVRuYlZlSDR0WVQ1eEhnUFc3V0xDWUliWGUwSEFOUlNNaG1jZXJjUU9fektwc1N2N091X3hEbGQySUxXckIwTEZQR25RMHZXanZlM0VvaHlTWmV0c1RpWElIZWozWk03NXV0U2NydDVsaGk2TDhKS1doVVJrSjN3dno1LUxiSVl6MWQwUUE3ZHZmcEI0eG15MWdBRWhWVl84WFJuZXU4TXJDMGgwdVJjMWVxZHloY2xUb01zOWN5OWVZWjBfOHVwb1QyRkxsRXdmQjljRE5qZkFqdVA1T3pwNmJSM0lzZ0k1RGRmeTJ3VHFv0gGeAkFVX3lxTFBoZnJzVjI1dTF3OEpERk9TbUVYcUc5V2paNDluSHBYYllzUFN6QXc4Z21Sa0tiR0NzLUhNM1lGWDdpRFB5T3dmNEVqdVUwYkRTVlp4RXNHYWVscWo3TzJxUTBqVDVmd0FjakczLS1pdnIzLWVTa20zaDI0cmMtbTdBVHg4RVVLT2tEVktNMk9OZGd2NE50M24zcFotLXVxXzZfdWRSSEhNdm5vaEswMzQ2bUp2XzRZTDM4d3VsMWlZaExPWFZaVEJWOVZDZWF1amNTMTRnRERfQ0FsdXF1YlE1emVJclFQcnRNNk12MGhKS0R6SXhWMWM4RFRhU21IeUVLNEp2N0pqTmV1VjJZSzFjZkRfV253UmtYMm0zc2c?oc=5\" target=\"_blank\">Alphabet CEO Sundar Pichai sold over 30,000 shares in tech giant — Here's how much stake he still holds in Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+      "published": "2026-01-25T06:34:52+00:00",
+      "source": "Mint"
+    },
+    {
+      "title": "42 Analysts Assess Alphabet: What You Need To Know - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1pHUkFiMy10Ujd1Z1kwSV9JcnhMSW50SlpCcHRyVmxJVk9Wc2NXSVpIVWtkdkxRYUVkSmNmeDlRNDBRX0ZNUVFhNzhpY1kxZDhaM0ZpZjUxRFdwd1YxbEttOEUzNGcwRkRhTHotRC1iLURIbnhic1JibzR1RS1wdm10NEw0dFRKamRQOTlib2huT2JEcEtOTUlQT05xczN3T2hJVnkzRmF6NzhHSUN4dUlmT2I?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1pHUkFiMy10Ujd1Z1kwSV9JcnhMSW50SlpCcHRyVmxJVk9Wc2NXSVpIVWtkdkxRYUVkSmNmeDlRNDBRX0ZNUVFhNzhpY1kxZDhaM0ZpZjUxRFdwd1YxbEttOEUzNGcwRkRhTHotRC1iLURIbnhic1JibzR1RS1wdm10NEw0dFRKamRQOTlib2huT2JEcEtOTUlQT05xczN3T2hJVnkzRmF6NzhHSUN4dUlmT2I?oc=5\" target=\"_blank\">42 Analysts Assess Alphabet: What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "published": "2026-01-26T14:00:40+00:00",
+      "source": "Benzinga"
     }
   ],
   "product_launches": [
@@ -77,13 +77,6 @@
       "source": "TradingView"
     },
     {
-      "title": "Google launches Gemini 3, embeds AI model into search immediately - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDM3bGRBbm5FYmlvX1k3THdHUVo1U0RRYkp5Q1hFbmJRZ2hNdTZQQWpwUVZDNFVCSjYxdDVXZXY5WmlLQ2kzd1dwQ0d6dTBmV0VyNkc1SHBHTzQ5WE1Kc2VSZDhkYTBFVS14ckgydkpxckltdGh3TkUxem9raDlPLW93WURYcFR1VkJyZ1dRc3FaVU9FTnpIMm9hRzJsRDNsbjFMZGRVdlVKN1JVal9lTlpGQV9ubmZqQkRfeTdwWUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDM3bGRBbm5FYmlvX1k3THdHUVo1U0RRYkp5Q1hFbmJRZ2hNdTZQQWpwUVZDNFVCSjYxdDVXZXY5WmlLQ2kzd1dwQ0d6dTBmV0VyNkc1SHBHTzQ5WE1Kc2VSZDhkYTBFVS14ckgydkpxckltdGh3TkUxem9raDlPLW93WURYcFR1VkJyZ1dRc3FaVU9FTnpIMm9hRzJsRDNsbjFMZGRVdlVKN1JVal9lTlpGQV9ubmZqQkRfeTdwWUw?oc=5\" target=\"_blank\">Google launches Gemini 3, embeds AI model into search immediately</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2025-11-18T08:00:00+00:00",
-      "source": "Reuters"
-    },
-    {
       "title": "Alphabet (GOOGL) Valuation in Focus as AI Expansion and Pixel Launches Highlight Growth Potential - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDd3RENTbXdhRGRXNUM5MXFrbTBDUVNkWmJ5a3E1bVNmXzRRcURGQnZpU2Q4bHdTUTVucjdkaTFuSS1oQVNpRmhrVG5uWWxZS2h4dEFVbWwydEpKSUtxX190N3RILWs4NHJveWlUUGtMay1tR054Zkt6bjlPUU90OWFDQVVEckxOTEQwb2JncFM5dzYtdWtRaEFlMS1TV0xNR0pmM214SE9abWw4NmV3aVFIeFRJSGM4MkRsUWFiSDFWZ9IBxwFBVV95cUxOUjV0eENxR0VERDJEV2tZQU1zWk5IYlJmazdySlgyR0ljZF9yTHNjVnVUTkI0T3BOQnctMWFjVnBkWGRvMEMwX0Z6QXROM05zUGE0bUtNNXFESDJFSmlzOExodXFvY1ltNXB2ejNMdm9ObXlmVlZ5cmpacmQxckREWHFVbDhQaThiWlJ1X1lNcWdtckp3N2lqNnU0MTRWUlFaaVJrU1VOalRmNTZDSzlmOU1zRGlScDhKRzJpb3RCM2pLbkxIeGRj?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDd3RENTbXdhRGRXNUM5MXFrbTBDUVNkWmJ5a3E1bVNmXzRRcURGQnZpU2Q4bHdTUTVucjdkaTFuSS1oQVNpRmhrVG5uWWxZS2h4dEFVbWwydEpKSUtxX190N3RILWs4NHJveWlUUGtMay1tR054Zkt6bjlPUU90OWFDQVVEckxOTEQwb2JncFM5dzYtdWtRaEFlMS1TV0xNR0pmM214SE9abWw4NmV3aVFIeFRJSGM4MkRsUWFiSDFWZ9IBxwFBVV95cUxOUjV0eENxR0VERDJEV2tZQU1zWk5IYlJmazdySlgyR0ljZF9yTHNjVnVUTkI0T3BOQnctMWFjVnBkWGRvMEMwX0Z6QXROM05zUGE0bUtNNXFESDJFSmlzOExodXFvY1ltNXB2ejNMdm9ObXlmVlZ5cmpacmQxckREWHFVbDhQaThiWlJ1X1lNcWdtckp3N2lqNnU0MTRWUlFaaVJrU1VOalRmNTZDSzlmOU1zRGlScDhKRzJpb3RCM2pLbkxIeGRj?oc=5\" target=\"_blank\">Alphabet (GOOGL) Valuation in Focus as AI Expansion and Pixel Launches Highlight Growth Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
@@ -91,25 +84,28 @@
       "source": "simplywall.st"
     },
     {
-      "title": "This AI Stock Could Rally More if Its New Product Line Delivers on Expectations - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92a2xSWU5VTVNvY3dfU2NHODRiZVRTNkIxNnpPRTNxS2k1NWFva1JqVzlpeGlvdGU3clhTLWlmbkpQdUxwWS1Sb3VRR3VSN2ludEJhWGFVdHpjdXNpWF9paThhZzJXbzFQWWxQNmxwTWh1NENpeWdLWg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE92a2xSWU5VTVNvY3dfU2NHODRiZVRTNkIxNnpPRTNxS2k1NWFva1JqVzlpeGlvdGU3clhTLWlmbkpQdUxwWS1Sb3VRR3VSN2ludEJhWGFVdHpjdXNpWF9paThhZzJXbzFQWWxQNmxwTWh1NENpeWdLWg?oc=5\" target=\"_blank\">This AI Stock Could Rally More if Its New Product Line Delivers on Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "published": "2025-11-29T19:49:24+00:00",
-      "source": "AOL.com"
+      "title": "Turkish competition authority launches probe into Google's PMAX - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLThQclYyRVRNbnBpc2hkOHpiM2ZsOGRzeEs0UkVMWkJNNU8yOUZ1dGg1MjI2bG1jbzhyYmxYNXFubTVIajl3TVhQa3lvYkdsVTR1TmJoS0RWSEFvbC1oU1dZTDFNV0hWSXNQZUJjQkh0NDVQUVc4RVpCZFI0N3JjMUZuekNxNE1idThLQkM5S0x2Y2N3NTBqejhiR1ctdzR3SmJXb0ozQ0ZPdU9aUHpEbVhjeFhlZmpQd1lSYVdR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOLThQclYyRVRNbnBpc2hkOHpiM2ZsOGRzeEs0UkVMWkJNNU8yOUZ1dGg1MjI2bG1jbzhyYmxYNXFubTVIajl3TVhQa3lvYkdsVTR1TmJoS0RWSEFvbC1oU1dZTDFNV0hWSXNQZUJjQkh0NDVQUVc4RVpCZFI0N3JjMUZuekNxNE1idThLQkM5S0x2Y2N3NTBqejhiR1ctdzR3SmJXb0ozQ0ZPdU9aUHpEbVhjeFhlZmpQd1lSYVdR?oc=5\" target=\"_blank\">Turkish competition authority launches probe into Google's PMAX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2025-06-20T07:00:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Google Stock (GOOGL) Drops as OpenAI Teases Browser Launch - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjcxa0RVdm5SYVZVcHpQWlZ0UnhLNEtHRFg1Tm81R1lQY2xLeE1LbEY4cDR6QXVGdzQ2azB3NHVlN3QtZ0xPai1Ec0JtV181MF9lNTdVODV2Y2hicl9SaGRtZXNkd2FlWGdpWV9ySlNxWDd2ejZIRTdNNkpnN3ZaOWpkQmhBTTdoZzFMd29iaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQjcxa0RVdm5SYVZVcHpQWlZ0UnhLNEtHRFg1Tm81R1lQY2xLeE1LbEY4cDR6QXVGdzQ2azB3NHVlN3QtZ0xPai1Ec0JtV181MF9lNTdVODV2Y2hicl9SaGRtZXNkd2FlWGdpWV9ySlNxWDd2ejZIRTdNNkpnN3ZaOWpkQmhBTTdoZzFMd29iaw?oc=5\" target=\"_blank\">Google Stock (GOOGL) Drops as OpenAI Teases Browser Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2025-10-21T16:09:27+00:00",
+      "source": "TipRanks"
     }
   ],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-23",
-      "close": 327.92999267578125
+      "date": "2026-01-26",
+      "close": 333.260009765625
     },
     "history": [
-      {
-        "date": "2026-01-14",
-        "close": 335.8399963378906
-      },
       {
         "date": "2026-01-15",
         "close": 332.7799987792969
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-23",
         "close": 327.92999267578125
+      },
+      {
+        "date": "2026-01-26",
+        "close": 333.260009765625
       }
     ],
     "name": "Alphabet Inc."

@@ -2,42 +2,21 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-01-26T12:28:15.956557+00:00",
+  "fetched_at": "2026-01-27T12:28:23.087679+00:00",
   "news": [
     {
-      "title": "Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRm96a3FWNnBsanE3R3ZIS1QzNl96S3ZZb3VBaEg1Smp5YVBsbUJWRF9FR3g3NkVrdHRHTkRyS1Jib3lTN3RyUDRjTTRpVk5HUTJ1ajhHN0dZWTJHbXZKb3JmekNJRFRsYklWck5ieWoyVzBLbGZJYnZXc3Y5WlhiUXdNWVlwaGtJak9zX2VtVmZTeGpxTzNKR0Zlc0d2VFYzTFNtNVhocDdyN2M3dmZBMnFyaFpma04zd2VGYkpMRXhLT1VLNVJLejdxUmoxTV95eFdieDhGUWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRm96a3FWNnBsanE3R3ZIS1QzNl96S3ZZb3VBaEg1Smp5YVBsbUJWRF9FR3g3NkVrdHRHTkRyS1Jib3lTN3RyUDRjTTRpVk5HUTJ1ajhHN0dZWTJHbXZKb3JmekNJRFRsYklWck5ieWoyVzBLbGZJYnZXc3Y5WlhiUXdNWVlwaGtJak9zX2VtVmZTeGpxTzNKR0Zlc0d2VFYzTFNtNVhocDdyN2M3dmZBMnFyaFpma04zd2VGYkpMRXhLT1VLNVJLejdxUmoxTV95eFdieDhGUWc?oc=5\" target=\"_blank\">Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "published": "2026-01-25T12:56:15+00:00",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGZTMFBuYmg3Z2laT0RJUXRoMDZfYk1wSXl3dDlxa1REVk14RklkWnQ4ME1NbWNDUl9WUDY4Y05JejNMaTExdmpaN3NOLXdudWZGRlI0c3g2aDVsWGVQZ0VGdEFtNDNTYWROZkhmN2lGOV9xWGYwS3BReXgySGloOFJfa2ZRU1FhQlVWWWE1bHVaV1NCcGl3bk5pMjRwcWNyd3g3Y2VGcXhQU0Qxbnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGZTMFBuYmg3Z2laT0RJUXRoMDZfYk1wSXl3dDlxa1REVk14RklkWnQ4ME1NbWNDUl9WUDY4Y05JejNMaTExdmpaN3NOLXdudWZGRlI0c3g2aDVsWGVQZ0VGdEFtNDNTYWROZkhmN2lGOV9xWGYwS3BReXgySGloOFJfa2ZRU1FhQlVWWWE1bHVaV1NCcGl3bk5pMjRwcWNyd3g3Y2VGcXhQU0Qxbnc?oc=5\" target=\"_blank\">Apple will reportedly unveil its Gemini-powered Siri assistant in February</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-01-25T16:56:31+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Top Stories: iPhone 18 Pro Leaks, Siri Chatbot, Apple AI Pin, and More - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0MjJtLTB2Mng5X1ZJb2VBcnlqSGRJRTlUWk8zZVV2d3ZMeERxc1RJLWE5dmx5enFYRGMyamxiY2VicUtDSmd3VVhvZWVfWEFOaWVqX0wyNnFRUnBQVm02MTI3NV96dGV4WVR3ZmVJaWxHa051TmVOVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB0MjJtLTB2Mng5X1ZJb2VBcnlqSGRJRTlUWk8zZVV2d3ZMeERxc1RJLWE5dmx5enFYRGMyamxiY2VicUtDSmd3VVhvZWVfWEFOaWVqX0wyNnFRUnBQVm02MTI3NV96dGV4WVR3ZmVJaWxHa051TmVOVg?oc=5\" target=\"_blank\">Top Stories: iPhone 18 Pro Leaks, Siri Chatbot, Apple AI Pin, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-01-24T14:00:00+00:00",
+      "title": "Apple to Launch These 20+ Products This Year - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nT21SZjRkeUFvWF8wQnYwekFOeDBBNDhtZ1p3ZHFuc0tIQl8ybGJheC1VaVVabWFoMjk0UjRkdGlaSFpzdVVZOTRvQ3BFUmdoVWRpZEFxZ2xpU2I1R3NzaWpNNUZXT29NM1N4OA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1nT21SZjRkeUFvWF8wQnYwekFOeDBBNDhtZ1p3ZHFuc0tIQl8ybGJheC1VaVVabWFoMjk0UjRkdGlaSFpzdVVZOTRvQ3BFUmdoVWRpZEFxZ2xpU2I1R3NzaWpNNUZXT29NM1N4OA?oc=5\" target=\"_blank\">Apple to Launch These 20+ Products This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-01-26T02:02:08+00:00",
       "source": "MacRumors"
     },
     {
-      "title": "Apple Reportedly Aiming to Upgrade the MacBook Pro Twice This Year - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU42OFZmS0tIRkZtNHFpdjE3T3ZnSGkwRXdUaUhLRG5jVDY5am9hVmljWjNfSFhTRHpjdWhJQko2SE5IUVJsclpZWEl5VU51czIxRFZid3l3T3REdGhvTkJQZHhUZnRubU5SbFRyY3NFcFFvZGVMd0FLYlFUUUVCd2hn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU42OFZmS0tIRkZtNHFpdjE3T3ZnSGkwRXdUaUhLRG5jVDY5am9hVmljWjNfSFhTRHpjdWhJQko2SE5IUVJsclpZWEl5VU51czIxRFZid3l3T3REdGhvTkJQZHhUZnRubU5SbFRyY3NFcFFvZGVMd0FLYlFUUUVCd2hn?oc=5\" target=\"_blank\">Apple Reportedly Aiming to Upgrade the MacBook Pro Twice This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-01-25T19:46:28+00:00",
+      "title": "Apple Unveils First New Products of 2026 - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNpZnEwVGM4Z3U2RkN6V0I4VXpLRG13RHhxYS1fNlIzMFpCemY2djd1TkdzdjZYS0E0NTU1S2M4Nk1pbXFLdkxiRmJ4WDMzYjFWeVpkWXctU2VlNWptRldMMHNZREVWTjZuc3B4SUR6UmFIR3o2b1BxV3RWdzExeHNTNTY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVNpZnEwVGM4Z3U2RkN6V0I4VXpLRG13RHhxYS1fNlIzMFpCemY2djd1TkdzdjZYS0E0NTU1S2M4Nk1pbXFLdkxiRmJ4WDMzYjFWeVpkWXctU2VlNWptRldMMHNZREVWTjZuc3B4SUR6UmFIR3o2b1BxV3RWdzExeHNTNTY?oc=5\" target=\"_blank\">Apple Unveils First New Products of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-01-26T21:55:00+00:00",
       "source": "MacRumors"
-    },
-    {
-      "title": "New MacBook Pros are expected soon, but maybe not just days away - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEd6NHZQT1NrUkJweHRSNFlGOGNYN3pKUE1mZUx1M1NHNnV4OG8xb2otQzR5STh0OVZlSl9UdHBEOVNPc3hYZzAxak5yR0hjN0N4VWNLSDJLejBfSlBrREVOZXZCSXNYZ1VYc0N0bl9XcjhEU0l4TDhFRW1KNjJ3MDJldlpDVWg1S0JmOVAzVU95R2R1ZnpqbXVpZWVwV3BWZzhBS3pGSV91QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEd6NHZQT1NrUkJweHRSNFlGOGNYN3pKUE1mZUx1M1NHNnV4OG8xb2otQzR5STh0OVZlSl9UdHBEOVNPc3hYZzAxak5yR0hjN0N4VWNLSDJLejBfSlBrREVOZXZCSXNYZ1VYc0N0bl9XcjhEU0l4TDhFRW1KNjJ3MDJldlpDVWg1S0JmOVAzVU95R2R1ZnpqbXVpZWVwV3BWZzhBS3pGSV91QQ?oc=5\" target=\"_blank\">New MacBook Pros are expected soon, but maybe not just days away</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
-      "published": "2026-01-25T13:37:00+00:00",
-      "source": "AppleInsider"
     },
     {
       "title": "Apple has a lot in store for the Mac lineup this year, here’s what’s coming - 9to5Mac",
@@ -47,21 +26,49 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREZPaXJnWl80dC0xb21CbGNmdWpmOWhnSFpReTh0LXR3VU1lczBZVk9DTThQMTJURTR2Y2RjcmNuOG54LUtKTTlDVkdST3gwZTFybno5TnUzRWpqb2c3UXpIaU5NTlRLZVJrR3NhSGNtZi1MekJHM0pnSHdERGpYRVdRekx0MmdnT2dwS0NCRHBDV3BESHfSAZsBQVVfeXFMUGxOajdtVEdxN0pObFZnWkFvczFxUjBKZ1QyeGpuMGoyLTN2dTFGdmc2UUhhY2ZGbERtcEcxYWdRRVNudDZwOHBIZ1hMdzR1cG9VSlVCTl9Pd1Z1bTNlVjAtaXRxczNCYXZNdlh1VzdzNjZvbndJa2FhUUpwdGpVT19fbllxemRKVzM3anRxWTdlVXNlT0E3SzFEZFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPREZPaXJnWl80dC0xb21CbGNmdWpmOWhnSFpReTh0LXR3VU1lczBZVk9DTThQMTJURTR2Y2RjcmNuOG54LUtKTTlDVkdST3gwZTFybno5TnUzRWpqb2c3UXpIaU5NTlRLZVJrR3NhSGNtZi1MekJHM0pnSHdERGpYRVdRekx0MmdnT2dwS0NCRHBDV3BESHfSAZsBQVVfeXFMUGxOajdtVEdxN0pObFZnWkFvczFxUjBKZ1QyeGpuMGoyLTN2dTFGdmc2UUhhY2ZGbERtcEcxYWdRRVNudDZwOHBIZ1hMdzR1cG9VSlVCTl9Pd1Z1bTNlVjAtaXRxczNCYXZNdlh1VzdzNjZvbndJa2FhUUpwdGpVT19fbllxemRKVzM3anRxWTdlVXNlT0E3SzFEZFU?oc=5\" target=\"_blank\">Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-26T12:00:01+00:00",
+      "title": "Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRm96a3FWNnBsanE3R3ZIS1QzNl96S3ZZb3VBaEg1Smp5YVBsbUJWRF9FR3g3NkVrdHRHTkRyS1Jib3lTN3RyUDRjTTRpVk5HUTJ1ajhHN0dZWTJHbXZKb3JmekNJRFRsYklWck5ieWoyVzBLbGZJYnZXc3Y5WlhiUXdNWVlwaGtJak9zX2VtVmZTeGpxTzNKR0Zlc0d2VFYzTFNtNVhocDdyN2M3dmZBMnFyaFpma04zd2VGYkpMRXhLT1VLNVJLejdxUmoxTV95eFdieDhGUWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRm96a3FWNnBsanE3R3ZIS1QzNl96S3ZZb3VBaEg1Smp5YVBsbUJWRF9FR3g3NkVrdHRHTkRyS1Jib3lTN3RyUDRjTTRpVk5HUTJ1ajhHN0dZWTJHbXZKb3JmekNJRFRsYklWck5ieWoyVzBLbGZJYnZXc3Y5WlhiUXdNWVlwaGtJak9zX2VtVmZTeGpxTzNKR0Zlc0d2VFYzTFNtNVhocDdyN2M3dmZBMnFyaFpma04zd2VGYkpMRXhLT1VLNVJLejdxUmoxTV95eFdieDhGUWc?oc=5\" target=\"_blank\">Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-01-25T13:00:39+00:00",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Apple drops new AirTag. See what’s different. - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaThYTzVQdmxBdmpyaTVpcG1fZVVkRUh4MWk2NzdtWE9VLXpVVG1oWmt1eGhNZ3FhcEdkSEdNUERDRFpxRjdCeWpoSXk3TllUeHM3anhMV1pjMUdwZlphTEoxNWhxWVR3STdTdlU4QlM4OEJhaG9VYmlUc2ViQ2R0em9qalM0dVpz?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaThYTzVQdmxBdmpyaTVpcG1fZVVkRUh4MWk2NzdtWE9VLXpVVG1oWmt1eGhNZ3FhcEdkSEdNUERDRFpxRjdCeWpoSXk3TllUeHM3anhMV1pjMUdwZlphTEoxNWhxWVR3STdTdlU4QlM4OEJhaG9VYmlUc2ViQ2R0em9qalM0dVpz?oc=5\" target=\"_blank\">Apple drops new AirTag. See what’s different.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQblNOa3hUVG1ZMEhUMEZJWFVpY3lTMWlIbjRGMlhwcFJiZmxhSEVPZHRib3JXcVkxSlFfdTRKdUxFSmhnUThXSENHTVF6MmdJbnd1Q3VDN3gycGxWcUlOQUhTb2VWdEhZM3dJT1dVX1g1bXlwOFVESVczanRtWFpoVmhuYWszTElXTEtwdENjSG1uNWZpblRTZVJRZnVvOVV6V1E?oc=5\" target=\"_blank\">Apple's new AirTag still doesn't have a keyring hole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXpRMDI0LVRwUllhYlk1NTVjZy1keFpXbWRONTNWMzZvUUt0RFlhS3B0bkF6OVpaeEw0WEdOLUxNZ0NQTDJXaXZhZ1duekRvT0hIWEpVa0liaU12SWZIbkptYW5MVzE1dEFfY3ZvbDM4aWxrUHBjUld3MGx4M0lTM0VNWThPdmpsSDNwVkZabTZ3ODhSaHdyVENOQzlmM1NjS1E?oc=5\" target=\"_blank\">Apple has a new and improved AirTag. Here's why I'm buying the old ones.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
+      "published": "2026-01-26T22:23:00+00:00",
+      "source": "USA Today"
+    },
+    {
+      "title": "Apple, Google host dozens of AI ‘nudify’ apps like Grok, report finds - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG1hc1hqanJqMTZsUVNzcWVpSVFaNDNzQkgyREtJenRocUp0d29RblNRQXhmME1rVDZnLTV0QmFoNEVOUjdzanUzbmpyTUpROTdmSXFsaFFGSm9PSWlPWE5SV1pKSnJocEFTOUphblk1THM3amhlTnZ4QjFuRElNY2t4UGxaMXRfYms3NXpSV0lpTVJFZVV6LVA1TEhIeTlfZTJlS9IBqgFBVV95cUxPZjFtal9tVFBTWFhHYWZCNmRXZFphTnlLSVFJdGFrMHYzekI1WmxSZkQ2QkhEdElhSjllTV9xR3dvZTJEUWRDSHpETDRDRDFuZm8ySEFWQXp1UEwtWFBMLXYxazNrYWtPT29VVWxBTllCTTVBbHhNbVBiS0hScnRBMHdVUUZ4eHF6cDJoVHdfT2xHZmJyRTQ0V1BGX2RIS0hJSnNVNGJLdHEydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG1hc1hqanJqMTZsUVNzcWVpSVFaNDNzQkgyREtJenRocUp0d29RblNRQXhmME1rVDZnLTV0QmFoNEVOUjdzanUzbmpyTUpROTdmSXFsaFFGSm9PSWlPWE5SV1pKSnJocEFTOUphblk1THM3amhlTnZ4QjFuRElNY2t4UGxaMXRfYms3NXpSV0lpTVJFZVV6LVA1TEhIeTlfZTJlS9IBqgFBVV95cUxPZjFtal9tVFBTWFhHYWZCNmRXZFphTnlLSVFJdGFrMHYzekI1WmxSZkQ2QkhEdElhSjllTV9xR3dvZTJEUWRDSHpETDRDRDFuZm8ySEFWQXp1UEwtWFBMLXYxazNrYWtPT29VVWxBTllCTTVBbHhNbVBiS0hScnRBMHdVUUZ4eHF6cDJoVHdfT2xHZmJyRTQ0V1BGX2RIS0hJSnNVNGJLdHEydw?oc=5\" target=\"_blank\">Apple, Google host dozens of AI ‘nudify’ apps like Grok, report finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-01-27T12:00:01+00:00",
       "source": "CNBC"
     },
     {
-      "title": "What I want from Apple, Meta and Microsoft in their key earnings reports - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTU1QeHYxR2gyc3dmeXRJdWpzZlhyX2czWXJXUXFGYS05VjYxZ3ZxMUhWcW1KRUMzVnNZUEtHUW5PLXA4N0Z4aWRiSHJ1UmFjX0dreEVnR2lpUzluSG4zbzZuUW1FZ2h4WmVhVUhfZFBvME1RYnh5SlQ0QUdMZC1zeEkyanpGc2o0VWxQVGlHTlBCSHc3bDBrT1ZRZGRMT016SE5BOFZxRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTU1QeHYxR2gyc3dmeXRJdWpzZlhyX2czWXJXUXFGYS05VjYxZ3ZxMUhWcW1KRUMzVnNZUEtHUW5PLXA4N0Z4aWRiSHJ1UmFjX0dreEVnR2lpUzluSG4zbzZuUW1FZ2h4WmVhVUhfZFBvME1RYnh5SlQ0QUdMZC1zeEkyanpGc2o0VWxQVGlHTlBCSHc3bDBrT1ZRZGRMT016SE5BOFZxRQ?oc=5\" target=\"_blank\">What I want from Apple, Meta and Microsoft in their key earnings reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-25T22:45:43+00:00",
-      "source": "CNBC"
+      "title": "Strava and Komoot finally bring offline maps to Apple Watch - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDhyekRkNmlnYVZnR3NEeHFidzZfM0xyTzFsSTh5dU5SZG13cjl1NzVUZFg1Smc2WTZVd2hyUGRJN2w4MG5vck5QN2dETWZhMVRmVGd2b3dqeWZ1S0F2NmYzclhmUDFiVUdRUmpiNDNEZHRsVEJUS0RZVUlTS0FOa1N2aVhKT0FxaUZibnp5VFAtU25WWUZDa2ptbEQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDhyekRkNmlnYVZnR3NEeHFidzZfM0xyTzFsSTh5dU5SZG13cjl1NzVUZFg1Smc2WTZVd2hyUGRJN2w4MG5vck5QN2dETWZhMVRmVGd2b3dqeWZ1S0F2NmYzclhmUDFiVUdRUmpiNDNEZHRsVEJUS0RZVUlTS0FOa1N2aVhKT0FxaUZibnp5VFAtU25WWUZDa2ptbEQ?oc=5\" target=\"_blank\">Strava and Komoot finally bring offline maps to Apple Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-01-27T10:25:57+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Column | I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zV3ZyVTRjelRRellFbGF3akQzbmlmVVo4bnRURDlXa25PbG5SQjhlVDl3R3dxZmk5OTBZNkdxRkhCdzlaWVNibmkyRnJYaGI4dThrTmhJemtnYmtHR3JUSWwwYk9rMjYtaVZFUERBS21PRHNTLUJxc0FwazdyUnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1zV3ZyVTRjelRRellFbGF3akQzbmlmVVo4bnRURDlXa25PbG5SQjhlVDl3R3dxZmk5OTBZNkdxRkhCdzlaWVNibmkyRnJYaGI4dThrTmhJemtnYmtHR3JUSWwwYk9rMjYtaVZFUERBS21PRHNTLUJxc0FwazdyUnM?oc=5\" target=\"_blank\">Column | I let ChatGPT analyze a decade of my Apple Watch data. Then I called my doctor.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "published": "2026-01-26T18:00:00+00:00",
+      "source": "The Washington Post"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple introduces new AirTag with expanded connectivity range and improved findability - Apple",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjl2RlF1R1pucFNGM2FKeXdZVTNuQ1FfSDhUMXhFTFNOalVNS09heWdpWGlUU1dGdTFXaG5zTzc2YVJGWjM4T0ktMXA3cklEVUtiS01NZWdOa1lLd2VybE5CUW5WSDJfRmFnQXpqWm05dkJudnNFRVQxa1NwLVBHSTNrdEpDNERvdTdkUnBzUUUwWmJ6S0x1WnIyd09BYlloS3BtMjc4akNsUG9TWUp0aHJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONjl2RlF1R1pucFNGM2FKeXdZVTNuQ1FfSDhUMXhFTFNOalVNS09heWdpWGlUU1dGdTFXaG5zTzc2YVJGWjM4T0ktMXA3cklEVUtiS01NZWdOa1lLd2VybE5CUW5WSDJfRmFnQXpqWm05dkJudnNFRVQxa1NwLVBHSTNrdEpDNERvdTdkUnBzUUUwWmJ6S0x1WnIyd09BYlloS3BtMjc4akNsUG9TWUp0aHJB?oc=5\" target=\"_blank\">Apple introduces new AirTag with expanded connectivity range and improved findability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
+      "published": "2026-01-26T14:11:31+00:00",
+      "source": "Apple"
+    },
     {
       "title": "Apple to Launch These 20+ Products This Year - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nT21SZjRkeUFvWF8wQnYwekFOeDBBNDhtZ1p3ZHFuc0tIQl8ybGJheC1VaVVabWFoMjk0UjRkdGlaSFpzdVVZOTRvQ3BFUmdoVWRpZEFxZ2xpU2I1R3NzaWpNNUZXT29NM1N4OA?oc=5",
@@ -77,39 +84,28 @@
       "source": "9to5Mac"
     },
     {
-      "title": "25+ new Apple devices set for 2026: Every new product coming, from Foldables to M5 Macs - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">25+ new Apple devices set for 2026: Every new product coming, from Foldables to M5 Macs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-01-20T12:53:00+00:00",
-      "source": "Macworld"
+      "title": "Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRm96a3FWNnBsanE3R3ZIS1QzNl96S3ZZb3VBaEg1Smp5YVBsbUJWRF9FR3g3NkVrdHRHTkRyS1Jib3lTN3RyUDRjTTRpVk5HUTJ1ajhHN0dZWTJHbXZKb3JmekNJRFRsYklWck5ieWoyVzBLbGZJYnZXc3Y5WlhiUXdNWVlwaGtJak9zX2VtVmZTeGpxTzNKR0Zlc0d2VFYzTFNtNVhocDdyN2M3dmZBMnFyaFpma04zd2VGYkpMRXhLT1VLNVJLejdxUmoxTV95eFdieDhGUWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRm96a3FWNnBsanE3R3ZIS1QzNl96S3ZZb3VBaEg1Smp5YVBsbUJWRF9FR3g3NkVrdHRHTkRyS1Jib3lTN3RyUDRjTTRpVk5HUTJ1ajhHN0dZWTJHbXZKb3JmekNJRFRsYklWck5ieWoyVzBLbGZJYnZXc3Y5WlhiUXdNWVlwaGtJak9zX2VtVmZTeGpxTzNKR0Zlc0d2VFYzTFNtNVhocDdyN2M3dmZBMnFyaFpma04zd2VGYkpMRXhLT1VLNVJLejdxUmoxTV95eFdieDhGUWc?oc=5\" target=\"_blank\">Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-01-25T13:00:39+00:00",
+      "source": "Bloomberg"
     },
     {
-      "title": "All the new products Apple is expected to reveal in 2026 - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5\" target=\"_blank\">All the new products Apple is expected to reveal in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-01-04T08:00:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Four Apple product launches to expect in the near future - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBqZk82QlN5cndmT0N2aWVUYW5LZWJqOTZxVE9VU1JQWjhwZXFRcG5KNC0zcmpRbVF4NnZMNURjS1dHV1VLVkFMOWxEQXYzRk5pd0kxWXFMWndiTkc2cWRnR2UwdDh3eWFqQm56WFNsOUZrQThCejhULXdMZGU?oc=5\" target=\"_blank\">Four Apple product launches to expect in the near future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2025-12-08T08:00:00+00:00",
-      "source": "Mashable"
+      "title": "Apple launched its first new product of the year, and you’ll love the upgrades - PhoneArena",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMG02aHRnQnhWXy1CQVNQVlJvajZ5R3lEb2EzUXdZNzRJMERUM3FUV00taE9vVE1hZ000RmhGd05hTnd5djgzY2ZMdy1fd003YzktbGtNSzA5YUJBZWZNT0pHeGp5RlpMQm1xcHZBVFVXOEV6U0VkdmtkOFppaXU5bFJKci1IYXJCNEpDdGlDX1JvQU12RmtCcWNTa0hjdU11SDA1V1lHTmVGeUtiMmdfT3JaWUJlSG5f?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMG02aHRnQnhWXy1CQVNQVlJvajZ5R3lEb2EzUXdZNzRJMERUM3FUV00taE9vVE1hZ000RmhGd05hTnd5djgzY2ZMdy1fd003YzktbGtNSzA5YUJBZWZNT0pHeGp5RlpMQm1xcHZBVFVXOEV6U0VkdmtkOFppaXU5bFJKci1IYXJCNEpDdGlDX1JvQU12RmtCcWNTa0hjdU11SDA1V1lHTmVGeUtiMmdfT3JaWUJlSG5f?oc=5\" target=\"_blank\">Apple launched its first new product of the year, and you’ll love the upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font>",
+      "published": "2026-01-26T22:36:31+00:00",
+      "source": "PhoneArena"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-23",
-      "close": 248.0399932861328
+      "date": "2026-01-26",
+      "close": 255.41000366210938
     },
     "history": [
-      {
-        "date": "2026-01-14",
-        "close": 259.9599914550781
-      },
       {
         "date": "2026-01-15",
         "close": 258.2099914550781
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-23",
         "close": 248.0399932861328
+      },
+      {
+        "date": "2026-01-26",
+        "close": 255.41000366210938
       }
     ],
     "name": "Apple Inc."
