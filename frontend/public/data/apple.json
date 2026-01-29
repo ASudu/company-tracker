@@ -2,80 +2,66 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-01-28T12:29:24.688883+00:00",
+  "fetched_at": "2026-01-29T12:33:59.106148+00:00",
   "news": [
     {
-      "title": "Intel’s latest chip proves again that Apple made the right decision - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHRROTFkVkRPYURISU9aNHdlaTdvQ3dCYURhQnJBU09JNjBhbUVvNUh1U3ljMm5lT25UX19uLVRlanh2MFUyUWt5dHkwMHhWVm51YklVXzlfSy1rbnBjcFNGNXRxZjRRaTg0eGFqd0hzZlNldEItRE01aFFuWTB2M1AxWVhfd2VwY0dnNTFaenFXaERoclJhS1dSVUNlZmFRQlNkLW9OeFNzODh3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHRROTFkVkRPYURISU9aNHdlaTdvQ3dCYURhQnJBU09JNjBhbUVvNUh1U3ljMm5lT25UX19uLVRlanh2MFUyUWt5dHkwMHhWVm51YklVXzlfSy1rbnBjcFNGNXRxZjRRaTg0eGFqd0hzZlNldEItRE01aFFuWTB2M1AxWVhfd2VwY0dnNTFaenFXaERoclJhS1dSVUNlZmFRQlNkLW9OeFNzODh3?oc=5\" target=\"_blank\">Intel’s latest chip proves again that Apple made the right decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-01-27T12:15:00+00:00",
-      "source": "Macworld"
+      "title": "Patreon creators have to switch to subscription billing by November, thanks to Apple - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXpxZnhnamlZZWphZ0ItUXRSZW9sUUIwOHQyMFR3Z25HbXdxYmJHb2dDaXVuNllmWTE4S3FYNnJxMzBEMW9jQ1dxczFNVTFsZS1FNU9ibHBpUXpPR0FTcUEycU9aYkdmV2YxWXFfS2hoWkFCUGJBYzBEN2QzMzJNbndnTmQ4T0Z5dzBibi1mcmkyLXVEdkNhV2YxVUdrUFhTOUx5TXNSTHE1WlVQVVZTTjFPVElNaEsyODQyWW5MYXpyeWRSZmt2STQtc28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXpxZnhnamlZZWphZ0ItUXRSZW9sUUIwOHQyMFR3Z25HbXdxYmJHb2dDaXVuNllmWTE4S3FYNnJxMzBEMW9jQ1dxczFNVTFsZS1FNU9ibHBpUXpPR0FTcUEycU9aYkdmV2YxWXFfS2hoWkFCUGJBYzBEN2QzMzJNbndnTmQ4T0Z5dzBibi1mcmkyLXVEdkNhV2YxVUdrUFhTOUx5TXNSTHE1WlVQVVZTTjFPVElNaEsyODQyWW5MYXpyeWRSZmt2STQtc28?oc=5\" target=\"_blank\">Patreon creators have to switch to subscription billing by November, thanks to Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-01-28T22:23:52+00:00",
+      "source": "Engadget"
     },
     {
-      "title": "Apple, Google host dozens of AI ‘nudify’ apps like Grok, report finds - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG1hc1hqanJqMTZsUVNzcWVpSVFaNDNzQkgyREtJenRocUp0d29RblNRQXhmME1rVDZnLTV0QmFoNEVOUjdzanUzbmpyTUpROTdmSXFsaFFGSm9PSWlPWE5SV1pKSnJocEFTOUphblk1THM3amhlTnZ4QjFuRElNY2t4UGxaMXRfYms3NXpSV0lpTVJFZVV6LVA1TEhIeTlfZTJlS9IBqgFBVV95cUxPZjFtal9tVFBTWFhHYWZCNmRXZFphTnlLSVFJdGFrMHYzekI1WmxSZkQ2QkhEdElhSjllTV9xR3dvZTJEUWRDSHpETDRDRDFuZm8ySEFWQXp1UEwtWFBMLXYxazNrYWtPT29VVWxBTllCTTVBbHhNbVBiS0hScnRBMHdVUUZ4eHF6cDJoVHdfT2xHZmJyRTQ0V1BGX2RIS0hJSnNVNGJLdHEydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNG1hc1hqanJqMTZsUVNzcWVpSVFaNDNzQkgyREtJenRocUp0d29RblNRQXhmME1rVDZnLTV0QmFoNEVOUjdzanUzbmpyTUpROTdmSXFsaFFGSm9PSWlPWE5SV1pKSnJocEFTOUphblk1THM3amhlTnZ4QjFuRElNY2t4UGxaMXRfYms3NXpSV0lpTVJFZVV6LVA1TEhIeTlfZTJlS9IBqgFBVV95cUxPZjFtal9tVFBTWFhHYWZCNmRXZFphTnlLSVFJdGFrMHYzekI1WmxSZkQ2QkhEdElhSjllTV9xR3dvZTJEUWRDSHpETDRDRDFuZm8ySEFWQXp1UEwtWFBMLXYxazNrYWtPT29VVWxBTllCTTVBbHhNbVBiS0hScnRBMHdVUUZ4eHF6cDJoVHdfT2xHZmJyRTQ0V1BGX2RIS0hJSnNVNGJLdHEydw?oc=5\" target=\"_blank\">Apple, Google host dozens of AI ‘nudify’ apps like Grok, report finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-27T12:00:01+00:00",
-      "source": "CNBC"
+      "title": "Apple to Soon Take Up to 30% Cut From All Patreon Creators in iOS App - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CaW8tVGMwb0d2S2pFREYtQUVSdUdad3dMNDRqZmpzUXY5V3cyUjFOUnVCMkdfdnpzM1VxY1JnWmpTNldzaHVUUjVYV0t3UTJYcVpTVHdZNk1JN3ZWeDJSVjdHMFVzUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CaW8tVGMwb0d2S2pFREYtQUVSdUdad3dMNDRqZmpzUXY5V3cyUjFOUnVCMkdfdnpzM1VxY1JnWmpTNldzaHVUUjVYV0t3UTJYcVpTVHdZNk1JN3ZWeDJSVjdHMFVzUQ?oc=5\" target=\"_blank\">Apple to Soon Take Up to 30% Cut From All Patreon Creators in iOS App</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-01-28T19:15:17+00:00",
+      "source": "MacRumors"
     },
     {
-      "title": "TTP - Nudify Apps Widely Available in Apple and Google App Stores - techtransparencyproject.org",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0lNeWtaVXFxVkVKclhlakplRUxfZ1dvYThYaWxWejY3cVd5NDRIb3RVX2RLVm5WeHp2Y1liaHVINU9PSFJmSkJ1MmQ3VW0xTEhPbnRwakN4REszVHBfMDNXTXlWaXFIcGZuX0h6MWFSWGFRdnU0OF9FN1oxODFha2UwYnhqa01vV2xCcnJJRDk3N1FaQ2IzYnFzX2hXUC1zWFNUOTRIekJIZ0RY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0lNeWtaVXFxVkVKclhlakplRUxfZ1dvYThYaWxWejY3cVd5NDRIb3RVX2RLVm5WeHp2Y1liaHVINU9PSFJmSkJ1MmQ3VW0xTEhPbnRwakN4REszVHBfMDNXTXlWaXFIcGZuX0h6MWFSWGFRdnU0OF9FN1oxODFha2UwYnhqa01vV2xCcnJJRDk3N1FaQ2IzYnFzX2hXUC1zWFNUOTRIekJIZ0RY?oc=5\" target=\"_blank\">TTP - Nudify Apps Widely Available in Apple and Google App Stores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techtransparencyproject.org</font>",
-      "published": "2026-01-27T11:53:19+00:00",
-      "source": "techtransparencyproject.org"
+      "title": "Apple tells Patreon to move creators to in-app purchase for subscriptions by November - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtxU3FHRGtESXdTVE9NNkN4eWtlNjgyNmdUX3dmX1BQU2lSd2QtUWs4Sk43WWtVSzJsS1hyTFJqV0wxLTVDNlJnMUlyQmFzM0JjS1JmS3VRTEZCMWpPcFkyN2ZDbTRtTlZxdWtTSnpfVVFienEzZXhueVNFX3Z3ZzE1S0RiSVFqQ3gzRWdta25UQlU0cTc1SlJxYUVhWnI3SlVUXzM2X09YVFFsNk9vRlYyT3lCZ2U2NjJMTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtxU3FHRGtESXdTVE9NNkN4eWtlNjgyNmdUX3dmX1BQU2lSd2QtUWs4Sk43WWtVSzJsS1hyTFJqV0wxLTVDNlJnMUlyQmFzM0JjS1JmS3VRTEZCMWpPcFkyN2ZDbTRtTlZxdWtTSnpfVVFienEzZXhueVNFX3Z3ZzE1S0RiSVFqQ3gzRWdta25UQlU0cTc1SlJxYUVhWnI3SlVUXzM2X09YVFFsNk9vRlYyT3lCZ2U2NjJMTg?oc=5\" target=\"_blank\">Apple tells Patreon to move creators to in-app purchase for subscriptions by November</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-01-28T17:45:00+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Nudify apps get past Google, Apple app moderation - theregister.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRk1BUEhRMmVBMEEyTDBqTkxfZ1ludjdQYkVvWW92WnlGQUl1WlBybmFPUEUycE9tRUZrSDh3RXQtTGtEMDdZODF3ZnlmTDZWWF8wc0JKcl83bFBfcF9tWElGclV6NVpUbElUcDNwODhFVUNOM3RNNm5oenJ0SVpvOHJB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQRk1BUEhRMmVBMEEyTDBqTkxfZ1ludjdQYkVvWW92WnlGQUl1WlBybmFPUEUycE9tRUZrSDh3RXQtTGtEMDdZODF3ZnlmTDZWWF8wc0JKcl83bFBfcF9tWElGclV6NVpUbElUcDNwODhFVUNOM3RNNm5oenJ0SVpvOHJB?oc=5\" target=\"_blank\">Nudify apps get past Google, Apple app moderation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
-      "published": "2026-01-27T21:19:00+00:00",
-      "source": "theregister.com"
+      "title": "Apple Creator Studio is now available for $13 per month: What's included and what it means for creators - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVRWZEhOTVRuY3JXclRRTFJaa2REV3hYWndfWDJBVGVFSE94aF9BQk1CMEh0MWZLZjhLa2E2cGdrSWVHNXI1dXFCOEFRdHFoOXMxbVEtTkRnbW9DZkNyVUdfVFdweDFqVWx0VEdUNEhEYkxFZF9xVExvS3Q5dXJ2WlBXNG9nTUo1aFBuZ2pucWVwUGdJbXN2eHFCZW9UT0dZb3c5Yll5QnhxUGk0d2RiUjN6RVZseVhxUGhvbUs4Q1VIb3Flc1dqWkQ1eno0S216TmZyM2RfaVBDZDFwemc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVRWZEhOTVRuY3JXclRRTFJaa2REV3hYWndfWDJBVGVFSE94aF9BQk1CMEh0MWZLZjhLa2E2cGdrSWVHNXI1dXFCOEFRdHFoOXMxbVEtTkRnbW9DZkNyVUdfVFdweDFqVWx0VEdUNEhEYkxFZF9xVExvS3Q5dXJ2WlBXNG9nTUo1aFBuZ2pucWVwUGdJbXN2eHFCZW9UT0dZb3c5Yll5QnhxUGk0d2RiUjN6RVZseVhxUGhvbUs4Q1VIb3Flc1dqWkQ1eno0S216TmZyM2RfaVBDZDFwemc?oc=5\" target=\"_blank\">Apple Creator Studio is now available for $13 per month: What's included and what it means for creators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-01-28T15:31:23+00:00",
+      "source": "Engadget"
     },
     {
-      "title": "Apple’s Cook Calls for ‘Deescalation’ After Latest ICE Shooting - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcklnbDd0SHhBbFRUSUJBNVh0MXpCSUo3ZUFHSmZ1M2lvSllGRmJRVkE0TDllVU10bGZ5dF9MMklKSzQyQlZqUExCNTR3SnFGb1pwN21CQkVxVFNzSVZXRUlEQmxtMWZBNS1YLW9jUnBuZnpfWFdFdFQ4ejlMdFZNQjhoMDF5NENjZk1UTXdya0tLcEZnRW9KTnhVWTdVT1FzYnFRR0tYbjZmbUw0d0lvemRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcklnbDd0SHhBbFRUSUJBNVh0MXpCSUo3ZUFHSmZ1M2lvSllGRmJRVkE0TDllVU10bGZ5dF9MMklKSzQyQlZqUExCNTR3SnFGb1pwN21CQkVxVFNzSVZXRUlEQmxtMWZBNS1YLW9jUnBuZnpfWFdFdFQ4ejlMdFZNQjhoMDF5NENjZk1UTXdya0tLcEZnRW9KTnhVWTdVT1FzYnFRR0tYbjZmbUw0d0lvemRR?oc=5\" target=\"_blank\">Apple’s Cook Calls for ‘Deescalation’ After Latest ICE Shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-01-28T03:41:00+00:00",
-      "source": "Bloomberg.com"
+      "title": "Seven things to know about how Apple’s Creator Studio subscriptions work - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0lQQXllVzF6TmFmdGhDU05XamFzS0tpNTk1SGlpenRQeEh1RXo5UUlHZENFdGF3TlFoMmNOTFRRaUdzSEdDZ2JSOTZiczZHU0EtVi1XQzRwWkt6UlV3ZDY4R09CY1VQVVlDZ0JNRmwzQ1ZBeDVfY29lSEJsa1VHUHpJS1RqUDBrQUJjMU5DNWYyMmRsS3k2RWY4ZHV1Uzg1aFlETlZjQmF1azhZZDlweEtB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0lQQXllVzF6TmFmdGhDU05XamFzS0tpNTk1SGlpenRQeEh1RXo5UUlHZENFdGF3TlFoMmNOTFRRaUdzSEdDZ2JSOTZiczZHU0EtVi1XQzRwWkt6UlV3ZDY4R09CY1VQVVlDZ0JNRmwzQ1ZBeDVfY29lSEJsa1VHUHpJS1RqUDBrQUJjMU5DNWYyMmRsS3k2RWY4ZHV1Uzg1aFlETlZjQmF1azhZZDlweEtB?oc=5\" target=\"_blank\">Seven things to know about how Apple’s Creator Studio subscriptions work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-01-28T21:53:57+00:00",
+      "source": "Ars Technica"
     },
     {
-      "title": "Apple Workers Are Livid That Tim Cook Saw “Melania” Movie Hours After CBP Killed Pretti - The Intercept",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OaU13Q2YtR0RoaWd4RnZYdm5PcmJfdnBnVmctS2cta2pnRzFQYWhtcVVOb0J3U1BXMEw2WVYtbTVidi1FRXVVWlBZV1lXVi1ZTnJFNHNQZmNramx1eDhsalRaOElTQWJ1TDBCTHd0WGdSdjV6dU4tNg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9OaU13Q2YtR0RoaWd4RnZYdm5PcmJfdnBnVmctS2cta2pnRzFQYWhtcVVOb0J3U1BXMEw2WVYtbTVidi1FRXVVWlBZV1lXVi1ZTnJFNHNQZmNramx1eDhsalRaOElTQWJ1TDBCTHd0WGdSdjV6dU4tNg?oc=5\" target=\"_blank\">Apple Workers Are Livid That Tim Cook Saw “Melania” Movie Hours After CBP Killed Pretti</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Intercept</font>",
-      "published": "2026-01-28T01:57:21+00:00",
-      "source": "The Intercept"
+      "title": "I tried Apple Creator Studio to see if it's worth the subscription - Creative Bloq",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnp4ZkxUbGp4ajhKekk0WVlqMGZiN0hQWl94cVV2R2pDd3J6ZzRYc1ZicXJlc2hCTXk2a1NtaFFxQWVNSVBVNEJXMGIzUVk5OTVGMFlvb19FSldscnp4clpmZHFRX2s4MXlnZXdEY2JUMUROQnd5WlJHeVBhOGU2Z0xJc3pyV2NKLWZzaGpHcUdUWWVMbzk2enJfTlVPQ1puVUdmU1I1TlhLYXgxYXIyRkIyaUd6SkZM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnp4ZkxUbGp4ajhKekk0WVlqMGZiN0hQWl94cVV2R2pDd3J6ZzRYc1ZicXJlc2hCTXk2a1NtaFFxQWVNSVBVNEJXMGIzUVk5OTVGMFlvb19FSldscnp4clpmZHFRX2s4MXlnZXdEY2JUMUROQnd5WlJHeVBhOGU2Z0xJc3pyV2NKLWZzaGpHcUdUWWVMbzk2enJfTlVPQ1puVUdmU1I1TlhLYXgxYXIyRkIyaUd6SkZM?oc=5\" target=\"_blank\">I tried Apple Creator Studio to see if it's worth the subscription</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Creative Bloq</font>",
+      "published": "2026-01-28T14:00:00+00:00",
+      "source": "Creative Bloq"
     },
     {
-      "title": "Tim Cook had ‘a good conversation’ with Trump about deescalation - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0QzT0tFWi03aTdDQ3JCb0JxN211MFhvMWF1a3YyLVBQNFJjZUV5Um5VRDNPWW1MU0lyMnpFR2dkcjBWNEt2ZTJycTJ3UUdpRVdyUHgwZnRUaGZHMFlLWnNaMndJX21adnRjN3BPNkdjcW9WdWRNWURYSWo2Z1BxcF85bkl6MzM1c0g0ZGExamJvRzJf?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0QzT0tFWi03aTdDQ3JCb0JxN211MFhvMWF1a3YyLVBQNFJjZUV5Um5VRDNPWW1MU0lyMnpFR2dkcjBWNEt2ZTJycTJ3UUdpRVdyUHgwZnRUaGZHMFlLWnNaMndJX21adnRjN3BPNkdjcW9WdWRNWURYSWo2Z1BxcF85bkl6MzM1c0g0ZGExamJvRzJf?oc=5\" target=\"_blank\">Tim Cook had ‘a good conversation’ with Trump about deescalation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-01-28T10:52:14+00:00",
-      "source": "The Verge"
+      "title": "Brandon Sanderson's Cosmere universe coming to Apple TV - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRDhhV3EtYm1kaWhFQXpheG5OdHQ2Tnk5QTJzT1lweDZMb2E5N2gtWXpxVENVSGdfbG9WQjR3NFBVdTFaMUc4RXRrSkVhS3kzOTNudFAzTFh3MzdGTG96eE1PMVVHdmZTeHVsMVp2bU9EUkhodzBTS0VPU0JLOTBNS3V1VGU1MXpFZDFTbHE0WEpRQU0yQW52MlFhMVBNUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNRDhhV3EtYm1kaWhFQXpheG5OdHQ2Tnk5QTJzT1lweDZMb2E5N2gtWXpxVENVSGdfbG9WQjR3NFBVdTFaMUc4RXRrSkVhS3kzOTNudFAzTFh3MzdGTG96eE1PMVVHdmZTeHVsMVp2bU9EUkhodzBTS0VPU0JLOTBNS3V1VGU1MXpFZDFTbHE0WEpRQU0yQW52MlFhMVBNUQ?oc=5\" target=\"_blank\">Brandon Sanderson's Cosmere universe coming to Apple TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-01-28T23:30:00+00:00",
+      "source": "AppleInsider"
     },
     {
-      "title": "Apple iPhone 18 Pro’s Biggest Visual Redesign In Years Revealed In New Leak - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVThObmtjVEZDeDFaVGtldGZPNnRFNEREYkRFQTNuVXFZV09uTlVvcmpDVWFqcDZzZmx4UUt0ZEI4SFY5OGFGLWkzTmkxVDc2RkFmRmFUY0Z1QTJrSDFuWnc0c3NGZ3daZEdNZVJvWGJfSFdfdFh6TVpGLVJOSGlYaUwwM2dvS1JXUF9idVNRdGpQLWtKM3lVdmNYUzBvQ1VRLXpENEVXdkhxN2E1cE9tRkUwYWlyS1FLRzhXa3RncEJfN2R5OTNSTmJSdEtvTzRj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVThObmtjVEZDeDFaVGtldGZPNnRFNEREYkRFQTNuVXFZV09uTlVvcmpDVWFqcDZzZmx4UUt0ZEI4SFY5OGFGLWkzTmkxVDc2RkFmRmFUY0Z1QTJrSDFuWnc0c3NGZ3daZEdNZVJvWGJfSFdfdFh6TVpGLVJOSGlYaUwwM2dvS1JXUF9idVNRdGpQLWtKM3lVdmNYUzBvQ1VRLXpENEVXdkhxN2E1cE9tRkUwYWlyS1FLRzhXa3RncEJfN2R5OTNSTmJSdEtvTzRj?oc=5\" target=\"_blank\">Apple iPhone 18 Pro’s Biggest Visual Redesign In Years Revealed In New Leak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-01-27T15:50:00+00:00",
-      "source": "Forbes"
+      "title": "Apple TV Acquires Brandon Sanderson’s Cosmere Universe for Ambitious Film and TV Adaptations - reactormag.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNW5UUXdqYjFpMUxLSmY5aEJrZXNUbnZzaENDS1lyM0Rsd1llODYtbWdGUWRDS1d3NlJQaGR2ZXlZR2dHb09aM1FJNWQya0JDMWZKNkR6XzUzRVBuVFVkZ0tTT3p0NW5XSi1lRkJHel9XT2tqWGMwVElFajZaeDJwdElLYU9NOFU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNW5UUXdqYjFpMUxLSmY5aEJrZXNUbnZzaENDS1lyM0Rsd1llODYtbWdGUWRDS1d3NlJQaGR2ZXlZR2dHb09aM1FJNWQya0JDMWZKNkR6XzUzRVBuVFVkZ0tTT3p0NW5XSi1lRkJHel9XT2tqWGMwVElFajZaeDJwdElLYU9NOFU?oc=5\" target=\"_blank\">Apple TV Acquires Brandon Sanderson’s Cosmere Universe for Ambitious Film and TV Adaptations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reactormag.com</font>",
+      "published": "2026-01-28T22:28:06+00:00",
+      "source": "reactormag.com"
     }
   ],
   "product_launches": [
-    {
-      "title": "Apple introduces new AirTag with expanded connectivity range and improved findability - Apple",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjl2RlF1R1pucFNGM2FKeXdZVTNuQ1FfSDhUMXhFTFNOalVNS09heWdpWGlUU1dGdTFXaG5zTzc2YVJGWjM4T0ktMXA3cklEVUtiS01NZWdOa1lLd2VybE5CUW5WSDJfRmFnQXpqWm05dkJudnNFRVQxa1NwLVBHSTNrdEpDNERvdTdkUnBzUUUwWmJ6S0x1WnIyd09BYlloS3BtMjc4akNsUG9TWUp0aHJB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONjl2RlF1R1pucFNGM2FKeXdZVTNuQ1FfSDhUMXhFTFNOalVNS09heWdpWGlUU1dGdTFXaG5zTzc2YVJGWjM4T0ktMXA3cklEVUtiS01NZWdOa1lLd2VybE5CUW5WSDJfRmFnQXpqWm05dkJudnNFRVQxa1NwLVBHSTNrdEpDNERvdTdkUnBzUUUwWmJ6S0x1WnIyd09BYlloS3BtMjc4akNsUG9TWUp0aHJB?oc=5\" target=\"_blank\">Apple introduces new AirTag with expanded connectivity range and improved findability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
-      "published": "2026-01-26T14:11:31+00:00",
-      "source": "Apple"
-    },
-    {
-      "title": "Apple to Launch These 20+ Products This Year - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nT21SZjRkeUFvWF8wQnYwekFOeDBBNDhtZ1p3ZHFuc0tIQl8ybGJheC1VaVVabWFoMjk0UjRkdGlaSFpzdVVZOTRvQ3BFUmdoVWRpZEFxZ2xpU2I1R3NzaWpNNUZXT29NM1N4OA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1nT21SZjRkeUFvWF8wQnYwekFOeDBBNDhtZ1p3ZHFuc0tIQl8ybGJheC1VaVVabWFoMjk0UjRkdGlaSFpzdVVZOTRvQ3BFUmdoVWRpZEFxZ2xpU2I1R3NzaWpNNUZXT29NM1N4OA?oc=5\" target=\"_blank\">Apple to Launch These 20+ Products This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-01-26T02:02:08+00:00",
-      "source": "MacRumors"
-    },
     {
       "title": "Apple will launch 20+ new products this year, here’s what’s coming - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY1lBNXBnODdXUmVTV1RPSERjLWFSYXB6WTFpNnMzNEUzWHRSVXY3WDYwT1Q4QjZoLWc0MWtyb1JfbWFZWEp5N0k1M214ajVrTWJJWE5nZVFpZXhfR0hBamYzNXdrQl9HQWttczZMOTNJcWZyY0dpbS1KcWNzbzc2VkFqY2FkWjNCTFJfQ29RVldRcTlNdlprZzVn?oc=5",
@@ -91,25 +77,35 @@
       "source": "Business Insider"
     },
     {
-      "title": "Apple launches new AirTag 2 — here’s how it compares to the original - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5icERmalNOMDNMYmxYa1BGZ2RlUWVkUWlLQXd5STdRS2paVldpTmp0M1N1dFFNNURyYk5ldWk1eU5PUHFBSVU2U252OEJjYmNaUDBqcTBtTXQ3c0R2THZmMmtWVU1acFRCWUtNcEpkMXVjLVFYQ0pOaEpkb2NkUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5icERmalNOMDNMYmxYa1BGZ2RlUWVkUWlLQXd5STdRS2paVldpTmp0M1N1dFFNNURyYk5ldWk1eU5PUHFBSVU2U252OEJjYmNaUDBqcTBtTXQ3c0R2THZmMmtWVU1acFRCWUtNcEpkMXVjLVFYQ0pOaEpkb2NkUQ?oc=5\" target=\"_blank\">Apple launches new AirTag 2 — here’s how it compares to the original</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-01-27T22:18:51+00:00",
-      "source": "NBC News"
+      "title": "Apple introduces new AirTag with expanded connectivity range and improved findability - Apple",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjl2RlF1R1pucFNGM2FKeXdZVTNuQ1FfSDhUMXhFTFNOalVNS09heWdpWGlUU1dGdTFXaG5zTzc2YVJGWjM4T0ktMXA3cklEVUtiS01NZWdOa1lLd2VybE5CUW5WSDJfRmFnQXpqWm05dkJudnNFRVQxa1NwLVBHSTNrdEpDNERvdTdkUnBzUUUwWmJ6S0x1WnIyd09BYlloS3BtMjc4akNsUG9TWUp0aHJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONjl2RlF1R1pucFNGM2FKeXdZVTNuQ1FfSDhUMXhFTFNOalVNS09heWdpWGlUU1dGdTFXaG5zTzc2YVJGWjM4T0ktMXA3cklEVUtiS01NZWdOa1lLd2VybE5CUW5WSDJfRmFnQXpqWm05dkJudnNFRVQxa1NwLVBHSTNrdEpDNERvdTdkUnBzUUUwWmJ6S0x1WnIyd09BYlloS3BtMjc4akNsUG9TWUp0aHJB?oc=5\" target=\"_blank\">Apple introduces new AirTag with expanded connectivity range and improved findability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
+      "published": "2026-01-26T14:01:50+00:00",
+      "source": "Apple"
+    },
+    {
+      "title": "Apple products to launch in 2026: Foldable iPhone, AR Glasses, MacBook Upgrades, Smart Home Hub and over - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcDl0MUVtVFdxSHZEak5nMW1KVGx1VlNjTmpFTXZ1dHBYbE1XNDlNV2pJazh1bWx5UlBKNTJVekRsWVpoUUVzeEF6bjBkM1ZfcVc3ckYwREt4NzhVUHZWUzU2N1BFc3J0QjBqa0doRDdBM3JpS0JNTDhnUkg1OU9acGRoOElYVmZ2bms0RXdZQWJ5UVZPb2F0X3FNSnF1c2dOR0ZhdE5hcFpfc21MSkNqcGNic1o5dzVpQTN5UmlqbTFtUkIyTnJUZEY3MGJoR2dXckpyYVdPMWpHYU5JT1JWRC1BcXJyVUl5Q21YX0x3T3lsMVZocGJyd2xMcGhoUF9jbWdnWFBOcHN1aDlqNm5SWExZczgtSGdMdjZzZ0FyVVJadnR1OEs5dDVza0dodFZYSTQyQkZFUFpoZ1B5SmNR0gHEAkFVX3lxTFBTRUQxS2U5TERoblF1RjQ3MmdRMDgyVHhpRnhxMnNicnFUbG4zS2JWVG1KRFpmaXZ3WEJmQXgydVB0d21KbnozNzVaRmxvelhzaHM3TFVZWWd5YVZ2N1lmM1J5Y1lWbDBJWEoyRHFqNUZKRDdsUGtiYVdwQXRzeVdSU3JzMHRXVGU3aVR0YlBFUDVndmRvWFQ3VGZrdV96OTRtWk5FWmNpWlZZak5OUXprbkVfMnluWTQxQzJlV2YzSHZodnFYRjJyaERIYTA2VnlUV2tqMm9yM05nRWVPZ1phM2Q4LWRRdVB3dW9BQy1Va3VOM195UVhOc096U3QtQ2ZROTdtU0xnWE1IUmNzSnNybS1meXY3QThWMlpfdXdoWUFnamNvRjUxbkJCQUg5OGFNU21wSC1RYmItMC1iVWN1bTZmcg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxNcDl0MUVtVFdxSHZEak5nMW1KVGx1VlNjTmpFTXZ1dHBYbE1XNDlNV2pJazh1bWx5UlBKNTJVekRsWVpoUUVzeEF6bjBkM1ZfcVc3ckYwREt4NzhVUHZWUzU2N1BFc3J0QjBqa0doRDdBM3JpS0JNTDhnUkg1OU9acGRoOElYVmZ2bms0RXdZQWJ5UVZPb2F0X3FNSnF1c2dOR0ZhdE5hcFpfc21MSkNqcGNic1o5dzVpQTN5UmlqbTFtUkIyTnJUZEY3MGJoR2dXckpyYVdPMWpHYU5JT1JWRC1BcXJyVUl5Q21YX0x3T3lsMVZocGJyd2xMcGhoUF9jbWdnWFBOcHN1aDlqNm5SWExZczgtSGdMdjZzZ0FyVVJadnR1OEs5dDVza0dodFZYSTQyQkZFUFpoZ1B5SmNR0gHEAkFVX3lxTFBTRUQxS2U5TERoblF1RjQ3MmdRMDgyVHhpRnhxMnNicnFUbG4zS2JWVG1KRFpmaXZ3WEJmQXgydVB0d21KbnozNzVaRmxvelhzaHM3TFVZWWd5YVZ2N1lmM1J5Y1lWbDBJWEoyRHFqNUZKRDdsUGtiYVdwQXRzeVdSU3JzMHRXVGU3aVR0YlBFUDVndmRvWFQ3VGZrdV96OTRtWk5FWmNpWlZZak5OUXprbkVfMnluWTQxQzJlV2YzSHZodnFYRjJyaERIYTA2VnlUV2tqMm9yM05nRWVPZ1phM2Q4LWRRdVB3dW9BQy1Va3VOM195UVhOc096U3QtQ2ZROTdtU0xnWE1IUmNzSnNybS1meXY3QThWMlpfdXdoWUFnamNvRjUxbkJCQUg5OGFNU21wSC1RYmItMC1iVWN1bTZmcg?oc=5\" target=\"_blank\">Apple products to launch in 2026: Foldable iPhone, AR Glasses, MacBook Upgrades, Smart Home Hub and over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-29T06:55:00+00:00",
+      "source": "Times of India"
+    },
+    {
+      "title": "25+ new Apple devices set for 2026: Every new product coming, from Foldables to M5 Macs - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">25+ new Apple devices set for 2026: Every new product coming, from Foldables to M5 Macs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-01-20T08:00:00+00:00",
+      "source": "Macworld"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-01-27",
-      "close": 258.2699890136719
+      "date": "2026-01-28",
+      "close": 256.44000244140625
     },
     "history": [
-      {
-        "date": "2026-01-16",
-        "close": 255.52999877929688
-      },
       {
         "date": "2026-01-20",
         "close": 246.6999969482422
@@ -133,6 +129,10 @@
       {
         "date": "2026-01-27",
         "close": 258.2699890136719
+      },
+      {
+        "date": "2026-01-28",
+        "close": 256.44000244140625
       }
     ],
     "name": "Apple Inc."
