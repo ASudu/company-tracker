@@ -2,49 +2,35 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-01-31T12:26:53.163993+00:00",
+  "fetched_at": "2026-02-01T12:28:10.162625+00:00",
   "news": [
     {
-      "title": "Nvidia's plan to invest up to $100 billion in OpenAI has stalled, WSJ reports - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1B2UmFjbklqUzBsLWg0WFUycUtJalBkZkNKZ2Ric1Bnc2ZTalJxYXdIVzZRVGJwYnJoRXBwdkdYZ1RLNWVwWHZTYVdoeHVwTnBkdGR2UmFIaW1BcEo5ZU5NSV8tY0VqeHRlWHBfZ2lkM0pkQ09KSE1Fa0xWX2ticmdRWQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1B2UmFjbklqUzBsLWg0WFUycUtJalBkZkNKZ2Ric1Bnc2ZTalJxYXdIVzZRVGJwYnJoRXBwdkdYZ1RLNWVwWHZTYVdoeHVwTnBkdGR2UmFIaW1BcEo5ZU5NSV8tY0VqeHRlWHBfZ2lkM0pkQ09KSE1Fa0xWX2ticmdRWQ?oc=5\" target=\"_blank\">Nvidia's plan to invest up to $100 billion in OpenAI has stalled, WSJ reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEJGdVFUTHNzN2pYbTRUSFYzNWVVNFgwSlp4ejNlZm5QSHczUGFYUWwyWV9US2Z4QjQ4MFpNT3RUbEZodWR3VE1lN2dmaHhpZ1doYjNLZ1lPWHhid21rbXhqOGZUT1B2TUdpVDdTUlliVFF6WDd1eldvWEdfX0NSMGk3RkNxWGkwQ1lkaGRPSDhWcUktUmJ6RmxsNHVGQkllc2tuejJ0UjBORXhxZXNR?oc=5\" target=\"_blank\">Nvidia Halts Plan to Invest $100 Billion in OpenAI, WSJ Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowNBVV95cUxQYnZvQjVLZkJLS0RnZlNxa3Z0N1d2d0VmZ29vUXVIbnVldkdIbGk4V1YtcmEyZy1PbTJYcHcxLV9ZLXR1SUI1WDd4ZDNtekh2U3ZLRHl6RnFNM3hPdjZZLWRCdUk0NWhwTXpwOUZmVjZmamtQMkJORmRXVDNad1N5ZnhNRVhsN2NIbmo2SkxxQUxsaFNrSGxkd25RckJOdEpIME9uVEJiSnFQZFduSWVfdnJseW9hRm9WRUMtS3JFRmZXSXFsNVJybXBnZVZPRXlYQ0VkVndzUjlXRkVQcUZvaGMyZWFnTXlOek9vS2M1a1lHRkcwcU9WOFBxRFBVRzdpWnZXU0w0NFRWMUZJUVR1Nml5M2VDQ0FDRTFDZTc0Y3RXNTlNbzlxYi1pU3FtSFpzN1ZEdzZYVjRyMHZweFl1TUpZTy01aTNlWlA5V0wwRzRBbjh5VHcyN3kwZ2xsSjRjc2dmZmZBRmFrLXU4SkZUSjlUQWpqQWNhclZWNzNiOVN3S2dkczktdjh2VlVZQ043TzNhRG5UZWtvVWh5WHE4Mk5NRQ?oc=5\" target=\"_blank\">Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li></ol>",
-      "published": "2026-01-30T23:59:51+00:00",
-      "source": "Yahoo Finance"
+      "title": "OpenAI Investment Was ‘Never A Commitment,’ Nvidia’s Huang Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGlCWGR5Y1ZqRkZwRVcxQXY0dXllMnNEOVlvdFljN1VhUFNwU3gzdVpqTXpFU19iUTJXaXJIZzI0dERMQV80b2k2cE0yRjNfdWtrYWV2b1BKMFkxUXNjWk1Id29hTmZyWW9xeW1DOUNlemMwM1p5NGhMWjlBRnlFeDBCeVRzU0h5THlYcGMzUDNNM1pjVHVhdk1XdDduamE1ZGItVTRVd2twNHBDWnhVVA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGlCWGR5Y1ZqRkZwRVcxQXY0dXllMnNEOVlvdFljN1VhUFNwU3gzdVpqTXpFU19iUTJXaXJIZzI0dERMQV80b2k2cE0yRjNfdWtrYWV2b1BKMFkxUXNjWk1Id29hTmZyWW9xeW1DOUNlemMwM1p5NGhMWjlBRnlFeDBCeVRzU0h5THlYcGMzUDNNM1pjVHVhdk1XdDduamE1ZGItVTRVd2twNHBDWnhVVA?oc=5\" target=\"_blank\">OpenAI Investment Was ‘Never A Commitment,’ Nvidia’s Huang Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGlNaVJQcTIzR1dsaW5iclM5Tnl2SmpScU5oSElaa1dUcTEya0c1d19hUmFuMllIUlpNdm5sMkwtRHEtbE15c0ZiNFIwcU9HeUZHNi1QWkpGZ0xXTVFIbEpfc1lTemYta0hqWEVTNU1sSFU3TFAxUmlSV3hvYkJUT3NKZ2ZjajJsY0pmTmdITktqQVBsXzlfRi1JZTBvQ1ZqQ0UycDdlZnZFd1p3T2N1TEJPZjZUelpDRDlTa0ExQjA4NWp0aTRtOHpMLXhFUQ?oc=5\" target=\"_blank\">Nvidia CEO Huang denies he is unhappy with OpenAI, says 'huge' investment planned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowNBVV95cUxPMEdVMmZhX2lzRTQxYzRWcFptbms4eXFoUk1mdWRJdXBBUVVFekdfdy1QMHJPWGlSSGpXS0tONlVoSUZoRUtJVjl4bmZQdkp4UTF6UnZna0hJM0JtZzQzLWtRYnJGSTlET0JYdjA1Tnp4LVV1MVA1dTh6VVRMbF9OSDNXcl9yRVp5bEN4anIwZFpGZFE2cktoZ1Vkb0hua291M0JZR1lHd1pOOEFkZ00yX2xFOFBMUXpiSENac1FHOXVTbG1MbUt1UGN6ZlJBSTlsWjhpQW1EeWxnel9jWkZYdnVOVmRPUzJkcWhqd3dpS2k3X3p3NHBsY2E5aGVueVpaeHJncXJDNFBiX2p4REdVTmNkUVpsYTZmM1lGcEV2a0dfNGQ5VUh2U2NIME5JdjdHTEQzVXBabW9GaGRDanA3N0pJcGhnUlRpOG5BT3lsOTVMVmxoYU1sNFJMMnlORzdzNWNVN2R2ZmtNV0poR013bjhmS0JKalVTcVNUamdqN0o4NFEwM0x5N1MwdmE5Z1pFbmp6VlVaNlFib3QwQ1U0QU5aOA?oc=5\" target=\"_blank\">Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li></ol>",
+      "published": "2026-02-01T10:06:50+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Buzz about Broadcom’s custom chips is testing, but not breaking Nvidia's dominance - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSC1KNFpMN1pycnZTTmVrSmtmdFAxU2FUeWM0ZUxFU01xdlNIS0oxdWZBNG8yclJqcXN1cFpLaU5iaHJ5RW5IU2luSzJXSTFwVkk2Z01pbEtIVzR2aWpiNDU5dkZsQjRZeHFKUUNfZGd5WHIxR3NaTE9KQXJ6UVhRclNIWUZ2NklGRlBkR1FKMXVrVFRaT0tLUERxYjFBSjl4ZjVvM2ZzTHhXTUN0YVVtT0ZVOFdfTVdnaGZFRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOSC1KNFpMN1pycnZTTmVrSmtmdFAxU2FUeWM0ZUxFU01xdlNIS0oxdWZBNG8yclJqcXN1cFpLaU5iaHJ5RW5IU2luSzJXSTFwVkk2Z01pbEtIVzR2aWpiNDU5dkZsQjRZeHFKUUNfZGd5WHIxR3NaTE9KQXJ6UVhRclNIWUZ2NklGRlBkR1FKMXVrVFRaT0tLUERxYjFBSjl4ZjVvM2ZzTHhXTUN0YVVtT0ZVOFdfTVdnaGZFRQ?oc=5\" target=\"_blank\">Buzz about Broadcom’s custom chips is testing, but not breaking Nvidia's dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-01-30T20:29:51+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWRNWTVXcVEwQWlQMi0wWThOd3M2XzBsSGs0c2tCcVdBNVg3NUg5WDVOcEE2WEpVenNqaEVXa2ktZXdpVGpWdDN1WTUyelVnNWhpbDNFS2hLNWJsdGtfWG8tcVRjN2VDQjU2TkVCb0JEUVY1YW03aFMzVHhkbGhZUjJQVVJ6eFdYNEt5RURfMzdKN1otUjlSR1NIMGVDQ2Q0Q0dNMHpmc3RkSVRFQUx1M0JGOWRNMU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWRNWTVXcVEwQWlQMi0wWThOd3M2XzBsSGs0c2tCcVdBNVg3NUg5WDVOcEE2WEpVenNqaEVXa2ktZXdpVGpWdDN1WTUyelVnNWhpbDNFS2hLNWJsdGtfWG8tcVRjN2VDQjU2TkVCb0JEUVY1YW03aFMzVHhkbGhZUjJQVVJ6eFdYNEt5RURfMzdKN1otUjlSR1NIMGVDQ2Q0Q0dNMHpmc3RkSVRFQUx1M0JGOWRNMU0?oc=5\" target=\"_blank\">Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-01-30T06:51:00+00:00",
+      "title": "'People's dad' Jensen Huang praises, pushes Nvidia suppliers on mobbed Taiwan visit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXI1Y0FhdnZwUEZ5dGN4NEpUSzBwMUU2MmdmTVFadzFsWGxSU2FBWU5DTzByQ01NSEE4ZFhWVy1UQjl3aGlucnpybVY5Mm9BbzZhWjdlVDNRYnB5UVR4VmpGUldJLThWT0xBYWRNUFRVLVZEdEZxU3BkanVDN2dvQkd4T28xd0RYVnNBSnJST3NwSU9vUkRUbTJhTllPMHk0M2lTbm1CdGJlS2dzLWRZMWNyaFJKLTJPbkgyQldiOGJsdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXI1Y0FhdnZwUEZ5dGN4NEpUSzBwMUU2MmdmTVFadzFsWGxSU2FBWU5DTzByQ01NSEE4ZFhWVy1UQjl3aGlucnpybVY5Mm9BbzZhWjdlVDNRYnB5UVR4VmpGUldJLThWT0xBYWRNUFRVLVZEdEZxU3BkanVDN2dvQkd4T28xd0RYVnNBSnJST3NwSU9vUkRUbTJhTllPMHk0M2lTbm1CdGJlS2dzLWRZMWNyaFJKLTJPbkgyQldiOGJsdw?oc=5\" target=\"_blank\">'People's dad' Jensen Huang praises, pushes Nvidia suppliers on mobbed Taiwan visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-02-01T01:39:43+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Nvidia Worked to ‘Co-Design’ DeepSeek Model, US Lawmaker Says - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3JobVR0Mmt6cFNmX0F3TVlXc1h1U3ZXUkxiNWNXeGVMR0J3RkxBdFdaenFua0JlZm4tYlE3OFl6dEJDbXhHU05jRkZSeGsyM3ZWdnJFX0w0VFc0LW5Ha2NKSFdXRldqWm16QmFvaFpLYmtzVElVNDJyaTUwQUN0V2lQYlg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3JobVR0Mmt6cFNmX0F3TVlXc1h1U3ZXUkxiNWNXeGVMR0J3RkxBdFdaenFua0JlZm4tYlE3OFl6dEJDbXhHU05jRkZSeGsyM3ZWdnJFX0w0VFc0LW5Ha2NKSFdXRldqWm16QmFvaFpLYmtzVElVNDJyaTUwQUN0V2lQYlg?oc=5\" target=\"_blank\">Nvidia Worked to ‘Co-Design’ DeepSeek Model, US Lawmaker Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-01-29T18:35:01+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the interests of foreign competitors' - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNN19hS255bzBBNHplQndWQXoyUVNqMEkyU2stMl9DMFZnVFJ4eWRqblNUT0Q5MTdZbnhsSGVxRXdyZXNTRU9rQ0lwZDdNdVlMZUFaUkVoTG1LQjdrUXZWTGFBaVNCWk9HMjZrV3Bjck9HXzQxeWp0YXJ1WmhnTjlBVTFVMHJYbnFzQkczY21qdXkxTmVkTVlyQVdnbV9rWVZ4ZTlsSmZ0TlhNLTFqQ1F1dkMyaFZBblZkSEVwOVk5cUMwaWpxU3JfMF9sbzdKTi1TdnUwaWZRXzdfV1pCSWZxaHNFOS1CMEhtMGlsUEN3TUtSNTlPQ1FHZ2tlczdKWFcwOFgzcmJQVjU0djh3ejQ1Ulp3TjFWMi1tSVBOUl9BLWdkTVJBVW1WUTM3X0JWU2lXbndzbmRLbkF2MlNWcWJvcGNDNnVTLVp2dmdTRjhlRGhrZ0k2bnVxRnFWR0pqdlRoSlZ0a1o2c2ZJRlhTekJFSi1ZRks0UHc4bEF5bE5HcERySlBNZmZfTmFRZVVEd0tmOEI1bzNoWFVKaWJKSFREV3YycXhKdU1EQWxlQjM0a1cwN3pXdWJxVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuANBVV95cUxNN19hS255bzBBNHplQndWQXoyUVNqMEkyU2stMl9DMFZnVFJ4eWRqblNUT0Q5MTdZbnhsSGVxRXdyZXNTRU9rQ0lwZDdNdVlMZUFaUkVoTG1LQjdrUXZWTGFBaVNCWk9HMjZrV3Bjck9HXzQxeWp0YXJ1WmhnTjlBVTFVMHJYbnFzQkczY21qdXkxTmVkTVlyQVdnbV9rWVZ4ZTlsSmZ0TlhNLTFqQ1F1dkMyaFZBblZkSEVwOVk5cUMwaWpxU3JfMF9sbzdKTi1TdnUwaWZRXzdfV1pCSWZxaHNFOS1CMEhtMGlsUEN3TUtSNTlPQ1FHZ2tlczdKWFcwOFgzcmJQVjU0djh3ejQ1Ulp3TjFWMi1tSVBOUl9BLWdkTVJBVW1WUTM3X0JWU2lXbndzbmRLbkF2MlNWcWJvcGNDNnVTLVp2dmdTRjhlRGhrZ0k2bnVxRnFWR0pqdlRoSlZ0a1o2c2ZJRlhTekJFSi1ZRks0UHc4bEF5bE5HcERySlBNZmZfTmFRZVVEd0tmOEI1bzNoWFVKaWJKSFREV3YycXhKdU1EQWxlQjM0a1cwN3pXdWJxVg?oc=5\" target=\"_blank\">Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the interests of foreign competitors'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-01-30T12:08:05+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "Should You Forget Nvidia and Buy These 2 Millionaire-Maker AI Stocks Instead? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnduRFlERUNKTjladmpDNWdtYUgxY3pTQWdVMlp5Mk9oOENIVEtLckdGS0hSenpEUWpaMkk5c3NadndDS25OMmhMaUltYklneVRpS0lGMWxOQ0RTOWdTcjhEajM3SXhObVBUODA3Um9vemExTkpPUlhFZ204X0Z4SGhReXV3RFdSU3I1NFNzeGY3OHhNQlFxdg?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnduRFlERUNKTjladmpDNWdtYUgxY3pTQWdVMlp5Mk9oOENIVEtLckdGS0hSenpEUWpaMkk5c3NadndDS25OMmhMaUltYklneVRpS0lGMWxOQ0RTOWdTcjhEajM3SXhObVBUODA3Um9vemExTkpPUlhFZ204X0Z4SGhReXV3RFdSU3I1NFNzeGY3OHhNQlFxdg?oc=5\" target=\"_blank\">Should You Forget Nvidia and Buy These 2 Millionaire-Maker AI Stocks Instead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3FZMmdjYjlrLUpuREVrdzI5V1FlSU1JT29IRlg1OW4tZUs1YjloNGd6aG51S3d1YUFXeVZreW1DZVlKaDJOVzI4NHVrblF2TGtFRVUwME5ZMERYd2JCOG93NUdDTjdGZUJyUmJJSVdEOThXZWxmV1lSb2ZUWUpSeHRB?oc=5\" target=\"_blank\">Morgan Stanley sets bold new price target on Nvidia stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3cwcVFtTDdqdFFtQy03Y256ZXl2bmZ0T1RJUldUV0NMaXFablludzZRUlNxd0d3VkdkTVNaTDFKc3phTEhiNV9MZ1pwSHJkZzFkcTZQSEtGWGI1MEgxcGZTNXJTVlZOUks2cVpVZEUtN3FtckVDbmFVOTU3bjU4eVl5b2Q?oc=5\" target=\"_blank\">Nvidia: Too Cheap To Stop Buying (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li></ol>",
-      "published": "2026-01-30T13:05:00+00:00",
+      "title": "Nvidia Stock Price Target: Where Will It Be in 5 Years? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMktxcWNqM0tldHdObDVhMWFIbTh5UzRhN3gtYnRrQmFScEJmY1VDaC1CRFdfeU43NWZJLVFZSV9ieW4xdjluYWFJb0RLWE5nV2EzdGl0Sl96RGs1bUhqUy1UUFBNWXdJMVMyQU9sS2V6alVFUjBWNERMenVpWEI3Y2ExUDlnYWlTbkJtOUNKUUIxZ0FjdHowQg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMktxcWNqM0tldHdObDVhMWFIbTh5UzRhN3gtYnRrQmFScEJmY1VDaC1CRFdfeU43NWZJLVFZSV9ieW4xdjluYWFJb0RLWE5nV2EzdGl0Sl96RGs1bUhqUy1UUFBNWXdJMVMyQU9sS2V6alVFUjBWNERMenVpWEI3Y2ExUDlnYWlTbkJtOUNKUUIxZ0FjdHowQg?oc=5\" target=\"_blank\">Nvidia Stock Price Target: Where Will It Be in 5 Years?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-01-30T20:45:00+00:00",
       "source": "The Motley Fool"
+    },
+    {
+      "title": "H-1B visa data reveals how much Nvidia pays employees in the US; as CEO Jensen Huang said: I review every - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQN24ybHJxM3VDTDJydFZOZUdiYmp5aGdUQ1ZtaDEyT2hERkk5R1V3SG90a0hNaFNDNnZ6aDlObmplaTFCMTZwakZpdUJZRWVROFRRdDhVejFHRWxuQXpUSzRrQ3JrdGpJc2U2OTZzUUJDVFNxbjg0Vm0xdkxlcDgzaGQ1bHdPbHhBZmd3V1M4NVNjWm1uS2ZoRWNXY2pWRTF5Q0U1SEd4Rzc3dWNlQlFxUVVrS3VodWVaeU1Mejc2WlIzQkgwdERDRE9POGItckQ3UDFxSGtYUWVnU0VRV1JwdU95TTJZbFBkWkNVQnFMM1YteF9icnNEN0hueEJ0ek01MjhqdFktZ2dwd1FDblFGUkhYUEVwSEtxSXRIWtIBogJBVV95cUxQVEIyV3M0S2RNeUFoc050UWRReVFaWGRxNkszNEVBR3I5Z2FaX3VtUDBGVk5Rb3dNcDB0N3FjZE10YWNwNWp4dEdjS1VNdm1GX1ZteHNPeDRSSWJRRFN0dEtmU01ndDQ1bUhGWHB2RnN5RVJfbkVtT3ExMUdXZzFTOUdBN3IyRlB6QjB6c3p1Y2JqN0dlYTBzRVp0Y1hGTllHNzdxc3drSDd2WlRHbnJ3c1IxV0VoSWRLdm95ZFo2ZlN3NUJYTkVpV0dJRC1jZ2ZMT1BXdTdiQ0hhNzZhWW0xd2JoWjR0dDg0ZGRmR2pOUjlPYWRRX1Y1RDAzRGJxRXFoQjEtZlA5Q2hObnlNVWo2VVpZSVRjRElHQ3F6bVBYTlZzUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQN24ybHJxM3VDTDJydFZOZUdiYmp5aGdUQ1ZtaDEyT2hERkk5R1V3SG90a0hNaFNDNnZ6aDlObmplaTFCMTZwakZpdUJZRWVROFRRdDhVejFHRWxuQXpUSzRrQ3JrdGpJc2U2OTZzUUJDVFNxbjg0Vm0xdkxlcDgzaGQ1bHdPbHhBZmd3V1M4NVNjWm1uS2ZoRWNXY2pWRTF5Q0U1SEd4Rzc3dWNlQlFxUVVrS3VodWVaeU1Mejc2WlIzQkgwdERDRE9POGItckQ3UDFxSGtYUWVnU0VRV1JwdU95TTJZbFBkWkNVQnFMM1YteF9icnNEN0hueEJ0ek01MjhqdFktZ2dwd1FDblFGUkhYUEVwSEtxSXRIWtIBogJBVV95cUxQVEIyV3M0S2RNeUFoc050UWRReVFaWGRxNkszNEVBR3I5Z2FaX3VtUDBGVk5Rb3dNcDB0N3FjZE10YWNwNWp4dEdjS1VNdm1GX1ZteHNPeDRSSWJRRFN0dEtmU01ndDQ1bUhGWHB2RnN5RVJfbkVtT3ExMUdXZzFTOUdBN3IyRlB6QjB6c3p1Y2JqN0dlYTBzRVp0Y1hGTllHNzdxc3drSDd2WlRHbnJ3c1IxV0VoSWRLdm95ZFo2ZlN3NUJYTkVpV0dJRC1jZ2ZMT1BXdTdiQ0hhNzZhWW0xd2JoWjR0dDg0ZGRmR2pOUjlPYWRRX1Y1RDAzRGJxRXFoQjEtZlA5Q2hObnlNVWo2VVpZSVRjRElHQ3F6bVBYTlZzUQ?oc=5\" target=\"_blank\">H-1B visa data reveals how much Nvidia pays employees in the US; as CEO Jensen Huang said: I review every</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+      "published": "2026-01-31T08:48:00+00:00",
+      "source": "Times of India"
     },
     {
       "title": "Inside Nvidia’s 10-year effort to make the Shield TV the most updated Android device ever - Ars Technica",
@@ -54,11 +40,25 @@
       "source": "Ars Technica"
     },
     {
-      "title": "Nvidia won’t give up on Shield TV updates ‘any time soon,’ new hardware could happen - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGhCWG44V3I4NWJ0Nno0eEFzT19fVkNwQ0prb2NNaVFmZVVXWS1DRllzdEU5aDFEV3pEUGJxR2R2LWExUlpxN085Nk9kNm9qYllnQzRUOGg0X2EtSnRSeVVpZy1OTllrSVYwRnpEa0RWNWNEM2dFd2p1QmxReHFEclF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGhCWG44V3I4NWJ0Nno0eEFzT19fVkNwQ0prb2NNaVFmZVVXWS1DRllzdEU5aDFEV3pEUGJxR2R2LWExUlpxN085Nk9kNm9qYllnQzRUOGg0X2EtSnRSeVVpZy1OTllrSVYwRnpEa0RWNWNEM2dFd2p1QmxReHFEclF3?oc=5\" target=\"_blank\">Nvidia won’t give up on Shield TV updates ‘any time soon,’ new hardware could happen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Google</font>",
-      "published": "2026-01-30T16:30:00+00:00",
-      "source": "9to5Google"
+      "title": "Morgan Stanley sets bold new price target on Nvidia stock - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTkwVFhDU3NPcTBCMWpxazZwVDVzNWswczloSVhvaktabGdvQWFyRTB5TDBObkd0ZndaOXk2MDNSLXJDU1h6c0R4ZGVDMXA0VVFaUjROS2hVeHF1czBtTi1oR3RFLU53VDh1bVUzaWt1bXo0T3VBcVJkaVcxbTZRTzBXa3dmTU1LVGZfWWV4N2R5bjI0X1VHMUlZNms2bWhPdFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTkwVFhDU3NPcTBCMWpxazZwVDVzNWswczloSVhvaktabGdvQWFyRTB5TDBObkd0ZndaOXk2MDNSLXJDU1h6c0R4ZGVDMXA0VVFaUjROS2hVeHF1czBtTi1oR3RFLU53VDh1bVUzaWt1bXo0T3VBcVJkaVcxbTZRTzBXa3dmTU1LVGZfWWV4N2R5bjI0X1VHMUlZNms2bWhPdFE?oc=5\" target=\"_blank\">Morgan Stanley sets bold new price target on Nvidia stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "published": "2026-01-30T15:33:00+00:00",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Intel Stock (NASDAQ:INTC) Takes a Hit as Nvidia Doubts Emerge - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTF9Tclo2MkdaZGFyUWhJb0pMV2kyajEwS2tpZmpSbzdPTXRya1R5Y1ZSOUdNaWZVLWZjd1UzQUxKTGdLdWFDdE45amRfNUEwX2IzdnczSU1OZVU0aXJMM011ckpaNDRGMEd1QUdyT1M3ZUJwME5fX1hjZFZMNGxiVXdRMkFpd3V2NWl1SF9wSW1UUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTF9Tclo2MkdaZGFyUWhJb0pMV2kyajEwS2tpZmpSbzdPTXRya1R5Y1ZSOUdNaWZVLWZjd1UzQUxKTGdLdWFDdE45amRfNUEwX2IzdnczSU1OZVU0aXJMM011ckpaNDRGMEd1QUdyT1M3ZUJwME5fX1hjZFZMNGxiVXdRMkFpd3V2NWl1SF9wSW1UUQ?oc=5\" target=\"_blank\">Intel Stock (NASDAQ:INTC) Takes a Hit as Nvidia Doubts Emerge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2026-01-30T20:06:43+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "NVIDIA announces investment in Israel's 'Space City' at Mitzpe Ramon along private, public funds - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHVHVW9ud1ZvX051RHVpTkYycDZLMWJyUk1MZHJsbE9OVG9tMUFydVd2dnN1SzVFRURIc1hQWFE2RmFQU3hEQkhMOFFxOEpMYXprWGoyQ2N2YjVrb3RoY3pYRmNDWnRaQUtlTkpjczI5OGlOWlI5U05fQUs4THU4Wm5LdF9CQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHVHVW9ud1ZvX051RHVpTkYycDZLMWJyUk1MZHJsbE9OVG9tMUFydVd2dnN1SzVFRURIc1hQWFE2RmFQU3hEQkhMOFFxOEpMYXprWGoyQ2N2YjVrb3RoY3pYRmNDWnRaQUtlTkpjczI5OGlOWlI5U05fQUs4THU4Wm5LdF9CQQ?oc=5\" target=\"_blank\">NVIDIA announces investment in Israel's 'Space City' at Mitzpe Ramon along private, public funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
+      "published": "2026-02-01T11:08:08+00:00",
+      "source": "The Jerusalem Post"
     }
   ],
   "product_launches": [
@@ -77,25 +77,25 @@
       "source": "Business Insider"
     },
     {
-      "title": "Sale nvidia geforce rtx 1650 Sale INNO3D Launches GeForce GTX 1650 GDDR6 TWIN X2 OC COMPACT - Through The Fence Baseball",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jQXhpekttS3pUOThjZzBlY2NJVWl5aGhtbkpDNlJQcU1qalVzMHl0ZTJuRGZhd1VadXdhcUN5R0Jyel9TVHFrYUpXUGpnSVkzaFRlN2l4c3dLRU1aWk9mQXJfSkVQb0tEUnV2UHFn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1jQXhpekttS3pUOThjZzBlY2NJVWl5aGhtbkpDNlJQcU1qalVzMHl0ZTJuRGZhd1VadXdhcUN5R0Jyel9TVHFrYUpXUGpnSVkzaFRlN2l4c3dLRU1aWk9mQXJfSkVQb0tEUnV2UHFn?oc=5\" target=\"_blank\">Sale nvidia geforce rtx 1650 Sale INNO3D Launches GeForce GTX 1650 GDDR6 TWIN X2 OC COMPACT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Through The Fence Baseball</font>",
-      "published": "2026-01-27T22:41:14+00:00",
-      "source": "Through The Fence Baseball"
-    },
-    {
-      "title": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VTTk2Q28xc1Nlcmh3UUJvTTdLXzd0R3JPRE5wR0I3LU5pb0w4WkFlT2NCMWtqOW9qOTFiRUJabFpzTjFRTUFtTEFCRHpzaXZSeEp6TEY2b0RPb0hLeWI5eldHcmpxcmtaTWpaWEVxU04taTc5b2ZaQlhXUnhMdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1VTTk2Q28xc1Nlcmh3UUJvTTdLXzd0R3JPRE5wR0I3LU5pb0w4WkFlT2NCMWtqOW9qOTFiRUJabFpzTjFRTUFtTEFCRHpzaXZSeEp6TEY2b0RPb0hLeWI5eldHcmpxcmtaTWpaWEVxU04taTc5b2ZaQlhXUnhMdw?oc=5\" target=\"_blank\">Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
-      "published": "2026-01-29T21:04:03+00:00",
-      "source": "NVIDIA Blog"
+      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5\" target=\"_blank\">NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-01-05T08:00:00+00:00",
+      "source": "NVIDIA Newsroom"
     },
     {
       "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPeVp4cUt4bTJnVWhzRWhTeGRVYTZwNDBlT3l6cWh2dW1yOEN5ekJndHQycjI0Wnc3eGhVNEpkcmhkbUhxN1M2Yzh0OXdJNzdsUTFwWVd0MGJzazBrTjZ1a3BmcmtmSzBtZjlmVjBnWWpLeG5mTjYxWTYzTDRzMndhbURKVEhSOXdGcXRyaEZ4Y3d4MHZqV3pzNlJ4b2g2a0JPZGw0OFRTejNJMzlFX2h3TGlneG9ESWNFcUFMbU9FaEV2WXJ2TmxGWHFKblEtNEs0cGpCR1ZBWjFISXdmbEdZdTdXa3d2NzZSZ2xvb3dQa19oaFIyUUo4ZHhEMDhGQzI5aTloa19fRmY1U0l4eFNYQmZkaWxBN2hIbnBTejRXaXduMFlsR2NMMnJTbk1fWFJGaU5VdjVpUXFPQl9YaGU1WHc1TnBsXzFmTVN3Zlk2X2pzX3k3b2RDZGV6ZkRNNXVZZTRoeWxMc3FrTlJ2Uk14XzEyZjhyV3FHYlNSUGVBRm5xNVV4Y2diWDBIVURLRXdBVk5uV3ZLQ2RZcm5KQ000RQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPeVp4cUt4bTJnVWhzRWhTeGRVYTZwNDBlT3l6cWh2dW1yOEN5ekJndHQycjI0Wnc3eGhVNEpkcmhkbUhxN1M2Yzh0OXdJNzdsUTFwWVd0MGJzazBrTjZ1a3BmcmtmSzBtZjlmVjBnWWpLeG5mTjYxWTYzTDRzMndhbURKVEhSOXdGcXRyaEZ4Y3d4MHZqV3pzNlJ4b2g2a0JPZGw0OFRTejNJMzlFX2h3TGlneG9ESWNFcUFMbU9FaEV2WXJ2TmxGWHFKblEtNEs0cGpCR1ZBWjFISXdmbEdZdTdXa3d2NzZSZ2xvb3dQa19oaFIyUUo4ZHhEMDhGQzI5aTloa19fRmY1U0l4eFNYQmZkaWxBN2hIbnBTejRXaXduMFlsR2NMMnJTbk1fWFJGaU5VdjVpUXFPQl9YaGU1WHc1TnBsXzFmTVN3Zlk2X2pzX3k3b2RDZGV6ZkRNNXVZZTRoeWxMc3FrTlJ2Uk14XzEyZjhyV3FHYlNSUGVBRm5xNVV4Y2diWDBIVURLRXdBVk5uV3ZLQ2RZcm5KQ000RQ?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNQTR5TEhsWGNWc2R5dDlrcDFXc2djMVppZHBiRkFCV0NYclRCcUozS01wc3djcjdncGVGQUI2N1JMZC1Gb0JRcGhnRFBDRzRYT0x4UzlickNPN2ZQUGNTSHdRbHB3V0R4cTN5TnZCTmNUWVNVbnRwVEZDTi12WUxDSW82a21STDFiTXJ1WDFsWkd1V2tQUGJMX2ZlZ2h3VG9ZQndKTmNrV1o4NzFzWVo0dUdobTRoVkg0ck9xWjhZRGxuWU5jZGR6cmY3cVY2LVBVOUY3YWlxc0hETUtYTTNNbFF2djYtZ0VNb3lCQ0FUbVFXSjU4dUpYMEQtMUd6NjFXZ2ZXc0VfMGJiMHk4QWZDUWx2Q3lpckc3S2ZVZDdhOG5PVTJlbFZxc3hHMEFZYmc1RWNWOTlvZUE3ZVBPdGdCc0ZtOHRRcFc3SVA3LUF3Z1JrY2pjTXFreXVjQWltNVFGbHlxOEFmajQzQkVXRzhwU3dGdHFOR0diRHQ2ZmplaFNLVjhJY3ZyWkZrcjdIMkkxWG5pRHQ1bktFcDQyS0N6TQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNQTR5TEhsWGNWc2R5dDlrcDFXc2djMVppZHBiRkFCV0NYclRCcUozS01wc3djcjdncGVGQUI2N1JMZC1Gb0JRcGhnRFBDRzRYT0x4UzlickNPN2ZQUGNTSHdRbHB3V0R4cTN5TnZCTmNUWVNVbnRwVEZDTi12WUxDSW82a21STDFiTXJ1WDFsWkd1V2tQUGJMX2ZlZ2h3VG9ZQndKTmNrV1o4NzFzWVo0dUdobTRoVkg0ck9xWjhZRGxuWU5jZGR6cmY3cVY2LVBVOUY3YWlxc0hETUtYTTNNbFF2djYtZ0VNb3lCQ0FUbVFXSjU4dUpYMEQtMUd6NjFXZ2ZXc0VfMGJiMHk4QWZDUWx2Q3lpckc3S2ZVZDdhOG5PVTJlbFZxc3hHMEFZYmc1RWNWOTlvZUE3ZVBPdGdCc0ZtOHRRcFc3SVA3LUF3Z1JrY2pjTXFreXVjQWltNVFGbHlxOEFmajQzQkVXRzhwU3dGdHFOR0diRHQ2ZmplaFNLVjhJY3ZyWkZrcjdIMkkxWG5pRHQ1bktFcDQyS0N6TQ?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
       "published": "2025-10-28T07:00:00+00:00",
       "source": "The Wall Street Journal"
+    },
+    {
+      "title": "NVIDIA Stock Rebounds as AI Product Launch and Data Center Demand Restore Confidence - CarbonCredits.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME9jcGVVSjdwTGgyWFhTZ19hYVhxY2VITC1tLW5rdXBWSmZ2OVRZZVpXX1dvakMxd0dzV0x0RjE3S0hkSEZjVEdSaXpmbGs0Mkw3WTdia0RISjVMeVM1RURONE5XNkFJR2VZLVNUTllCSU1RelRsNjZsaGhvSTJoTDF2Y3AxQWJaU09LMDZwZkstMWFyb00wMGpBSWlMOHY1UUFzb1lkRThmeExIc1UzYQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOME9jcGVVSjdwTGgyWFhTZ19hYVhxY2VITC1tLW5rdXBWSmZ2OVRZZVpXX1dvakMxd0dzV0x0RjE3S0hkSEZjVEdSaXpmbGs0Mkw3WTdia0RISjVMeVM1RURONE5XNkFJR2VZLVNUTllCSU1RelRsNjZsaGhvSTJoTDF2Y3AxQWJaU09LMDZwZkstMWFyb00wMGpBSWlMOHY1UUFzb1lkRThmeExIc1UzYQ?oc=5\" target=\"_blank\">NVIDIA Stock Rebounds as AI Product Launch and Data Center Demand Restore Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CarbonCredits.com</font>",
+      "published": "2025-12-16T08:00:00+00:00",
+      "source": "CarbonCredits.com"
     }
   ],
   "stock": {
