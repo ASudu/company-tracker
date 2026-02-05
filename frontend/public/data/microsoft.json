@@ -2,14 +2,49 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-02-04T12:36:58.792858+00:00",
+  "fetched_at": "2026-02-05T12:38:30.608511+00:00",
   "news": [
     {
       "title": "Microsoft’s Pivotal AI Product Is Running Into Big Problems - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQbFN6bmsxT2pMS25tZTVneW0yR3kwVlNGZENqRHJPZnZWV1B3UFczZV82SnFlZ0paM21UOVJwdXVLbTlGcWUxb3BsdHU3UHluSWljVEllMnFwQl84RkFkNUF4c1MyZjQ3STdKeldUY2tWWHYwdTJxZl93TDcwel91bE5DXzJ1Nmt2LS16SU1lS2I2UXd3dmwyRUp0UFQ2TzZJUnRwZE91T0hoZHZzNHlFUUJiRDJrblRzUXl3UGpoZ2xFTDEyQ2tfRFZVMWhtN1BqdTgxMlNEenJMVDg0cG5KUFMwZjhqV0ZRVHltTDR0T3pWcDZDYzhvbFVmLWloNVlsQWUwVThETFhiNThHRTQ4MXlrVWpxZ2lPUy1UOHpUOTF1STlBRGdwVm1JdW1jNEtQak5BUXNxcUtZQWlmOXBIV3FPLVEwYXE3bFdrdjhtMVkxUnNsMkNpbHdpY3E1SW4xeGx5bmJBUWR6YmEwR3UtNWw3Y3BFRE1DN3RVV0hIOFFqVjNPRkM5b3piRE1qN0s5Zk9CUFNHaFJiQmRJY0NDRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxQbFN6bmsxT2pMS25tZTVneW0yR3kwVlNGZENqRHJPZnZWV1B3UFczZV82SnFlZ0paM21UOVJwdXVLbTlGcWUxb3BsdHU3UHluSWljVEllMnFwQl84RkFkNUF4c1MyZjQ3STdKeldUY2tWWHYwdTJxZl93TDcwel91bE5DXzJ1Nmt2LS16SU1lS2I2UXd3dmwyRUp0UFQ2TzZJUnRwZE91T0hoZHZzNHlFUUJiRDJrblRzUXl3UGpoZ2xFTDEyQ2tfRFZVMWhtN1BqdTgxMlNEenJMVDg0cG5KUFMwZjhqV0ZRVHltTDR0T3pWcDZDYzhvbFVmLWloNVlsQWUwVThETFhiNThHRTQ4MXlrVWpxZ2lPUy1UOHpUOTF1STlBRGdwVm1JdW1jNEtQak5BUXNxcUtZQWlmOXBIV3FPLVEwYXE3bFdrdjhtMVkxUnNsMkNpbHdpY3E1SW4xeGx5bmJBUWR6YmEwR3UtNWw3Y3BFRE1DN3RVV0hIOFFqVjNPRkM5b3piRE1qN0s5Zk9CUFNHaFJiQmRJY0NDRw?oc=5\" target=\"_blank\">Microsoft’s Pivotal AI Product Is Running Into Big Problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNbWVXOF82X25OMVVNSjF4MExKSjdoekFlUkVVR3ZkU2pZaHJBN2NsUkRkdVhjcVVXcjg5NUx1bm5pZjlwNlAweVVJbGNTMEFSMkx2Zll1dUpJVHNEeFRXbUZFZi11QlAweS02QjdDbGZ3cWJ3V09HN0hNWmhxVlZnMzd1RHFZUG92eXN6a3dKalNLa2l2am1ja3k3eVMyMTJXMjNJR0tqZEgtS3N3VFJQalE4ZHJfZVNORkdzeEJrakJOVVQwWms3MmJJUV9ZeTZsOF9rV1gtUy03bkE1UDgzN1NZUk04WWpxR2ZZNEdXMWo0SzhVZUNqTGc1NUN2cUFNMl9qTHhnSGk5U1BOTWFqYWlmVzlPZlpJQzB3eE5UekZRcTJjYzdxN3pHVmFUUmxtdDQ0eVJLLW9JLTVza2hhdVN5RzhtaXNCdUN6Yy1LUzh1VE53ZXREN2VZREhSYVFreHh6WmNkOGo4MzY2djBacUhsVXlDbElwY2VuYk43UFR6NXpDMWVOekZVRndqX2Y2Und5WlN3bnBaZWJtRUxyUA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNbWVXOF82X25OMVVNSjF4MExKSjdoekFlUkVVR3ZkU2pZaHJBN2NsUkRkdVhjcVVXcjg5NUx1bm5pZjlwNlAweVVJbGNTMEFSMkx2Zll1dUpJVHNEeFRXbUZFZi11QlAweS02QjdDbGZ3cWJ3V09HN0hNWmhxVlZnMzd1RHFZUG92eXN6a3dKalNLa2l2am1ja3k3eVMyMTJXMjNJR0tqZEgtS3N3VFJQalE4ZHJfZVNORkdzeEJrakJOVVQwWms3MmJJUV9ZeTZsOF9rV1gtUy03bkE1UDgzN1NZUk04WWpxR2ZZNEdXMWo0SzhVZUNqTGc1NUN2cUFNMl9qTHhnSGk5U1BOTWFqYWlmVzlPZlpJQzB3eE5UekZRcTJjYzdxN3pHVmFUUmxtdDQ0eVJLLW9JLTVza2hhdVN5RzhtaXNCdUN6Yy1LUzh1VE53ZXREN2VZREhSYVFreHh6WmNkOGo4MzY2djBacUhsVXlDbElwY2VuYk43UFR6NXpDMWVOekZVRndqX2Y2Und5WlN3bnBaZWJtRUxyUA?oc=5\" target=\"_blank\">Microsoft’s Pivotal AI Product Is Running Into Big Problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
       "published": "2026-02-04T02:00:00+00:00",
       "source": "The Wall Street Journal"
+    },
+    {
+      "title": "Microsoft brings back executive Hayete Gallot to run cybersecurity, as Charlie Bell takes new role - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbThLa1VfS2FMZWlDdVFNRHVVQnVPWEpoNXRUekk4X1Q0SnZxQWFWOVJ5ODRhT0pzMDZNZXdBMWpKQmV2MmhoZTRVUXBjT3pES29MSGd1VkhBUEdIQTlDZWowMWhxWFI2Z2xQcTN0SkxOTUt3ZmUzSWlvYXRmRmd5bHNWMkhKUjQxVm1oLW5SWUhxVzU4RklocnlfYU1Fd2xsTW5Gck50SUdWQdIBrwFBVV95cUxPUXdJNlRkakkxelF3Z1ZsV3lDTEVqTUdpQ1BsVTZORkkzNnFqU1RBVDg1YUJvejZDQjl2OUNlN2o5OUVaY01Cd2VVN0U2c1ZZa19FX1ZkanVuaTlKWThBMld4cG1UdXl3N0RoUjdHMEtPYUcwQ0Ywam51MkFRVFVxcWluVkpYaktzR1cxdkRkbXdpdHRkczlGSElqWmJLNDlla3dXUWNGVjZ2MHMxLU9V?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbThLa1VfS2FMZWlDdVFNRHVVQnVPWEpoNXRUekk4X1Q0SnZxQWFWOVJ5ODRhT0pzMDZNZXdBMWpKQmV2MmhoZTRVUXBjT3pES29MSGd1VkhBUEdIQTlDZWowMWhxWFI2Z2xQcTN0SkxOTUt3ZmUzSWlvYXRmRmd5bHNWMkhKUjQxVm1oLW5SWUhxVzU4RklocnlfYU1Fd2xsTW5Gck50SUdWQdIBrwFBVV95cUxPUXdJNlRkakkxelF3Z1ZsV3lDTEVqTUdpQ1BsVTZORkkzNnFqU1RBVDg1YUJvejZDQjl2OUNlN2o5OUVaY01Cd2VVN0U2c1ZZa19FX1ZkanVuaTlKWThBMld4cG1UdXl3N0RoUjdHMEtPYUcwQ0Ywam51MkFRVFVxcWluVkpYaktzR1cxdkRkbXdpdHRkczlGSElqWmJLNDlla3dXUWNGVjZ2MHMxLU9V?oc=5\" target=\"_blank\">Microsoft brings back executive Hayete Gallot to run cybersecurity, as Charlie Bell takes new role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-02-04T17:14:45+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Satya Nadella decides Microsoft needs an engineering quality czar - theregister.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUmx6Z3JqZWZSX0tVZHl4cU5pYi00RGpqMW1JUFRxN24xT3R0bkNnRi1hb1U0cm1FcU9ueWNMVnk0XzU3YWdUSllpQnp2LU1qSDI1MVhkdFI3MGJCQWxfWE9PMjJIUFJQOG1zdnpucEtKUUgzMVlLaXU0WUM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUmx6Z3JqZWZSX0tVZHl4cU5pYi00RGpqMW1JUFRxN24xT3R0bkNnRi1hb1U0cm1FcU9ueWNMVnk0XzU3YWdUSllpQnp2LU1qSDI1MVhkdFI3MGJCQWxfWE9PMjJIUFJQOG1zdnpucEtKUUgzMVlLaXU0WUM?oc=5\" target=\"_blank\">Satya Nadella decides Microsoft needs an engineering quality czar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+      "published": "2026-02-05T05:46:00+00:00",
+      "source": "theregister.com"
+    },
+    {
+      "title": "Microsoft Hired a Google Exec to Replace Security Boss Charlie Bell - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFRySllFYXR1ZFg0YzhuTXNtWkQzWTAzbFVFcjc0WlJlWmNqQWpMSWp3LWxnMjNRZ2JDai1rbmJzZDJJcEFfNUZVVmMyLTc2c3ZtcGFuS1V4dDAzZy1zTElMM3VWdUdjdldESWJIdkEtYnloYzNMaFh2TmlVcFhUTGpkMy1zQzRFV1hhTElQNWJLZjFlN3l0MWRDblVDMDVxbVZOWTl3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFRySllFYXR1ZFg0YzhuTXNtWkQzWTAzbFVFcjc0WlJlWmNqQWpMSWp3LWxnMjNRZ2JDai1rbmJzZDJJcEFfNUZVVmMyLTc2c3ZtcGFuS1V4dDAzZy1zTElMM3VWdUdjdldESWJIdkEtYnloYzNMaFh2TmlVcFhUTGpkMy1zQzRFV1hhTElQNWJLZjFlN3l0MWRDblVDMDVxbVZOWTl3?oc=5\" target=\"_blank\">Microsoft Hired a Google Exec to Replace Security Boss Charlie Bell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-02-04T17:23:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Amazon Cloud Sales in Focus After Microsoft’s $500 Billion Rout - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHNScmNPaFBaVHhwZWpIUE16a0d3ekpxbzI2THJMTHlUNUtHdWJnRWUxQ2VTVm5icWsyOXJaZWtlU01qU0dURjNLcVRZX3hXZkdYdzBZLWJ6MHdFeDZGWE5Iczd4QWJtSk5vbkRlRjdBX201NjRSMS1udjNfSHpVRDFjeTc2V1p1ejVaUkRMSGExSm1ibGxCQ2IybU9pTTJBdmo1RUllOHdQbUExb3FSNkxVdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHNScmNPaFBaVHhwZWpIUE16a0d3ekpxbzI2THJMTHlUNUtHdWJnRWUxQ2VTVm5icWsyOXJaZWtlU01qU0dURjNLcVRZX3hXZkdYdzBZLWJ6MHdFeDZGWE5Iczd4QWJtSk5vbkRlRjdBX201NjRSMS1udjNfSHpVRDFjeTc2V1p1ejVaUkRMSGExSm1ibGxCQ2IybU9pTTJBdmo1RUllOHdQbUExb3FSNkxVdw?oc=5\" target=\"_blank\">Amazon Cloud Sales in Focus After Microsoft’s $500 Billion Rout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-02-05T11:20:01+00:00",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "History Says Now Is the Time to Load Up on Microsoft Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3RSNF9iaHloR0Rma3BBRldZU0JKWlJQRXVzdWs2bUh5ZmlFTnBzMjhqQWU1WEYzT3hmamJMMUdwQ1JvemM0Tk1BQ2c0UU82ejZrZm1UMTdiUWFERDB4OHU1T0lKQ3Vyd3hGWl9RX3BRTEtPQWpVczMxYkIzMFpzRV9haEtCb2VFVHdPQ2M2QndRVE13NHc?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3RSNF9iaHloR0Rma3BBRldZU0JKWlJQRXVzdWs2bUh5ZmlFTnBzMjhqQWU1WEYzT3hmamJMMUdwQ1JvemM0Tk1BQ2c0UU82ejZrZm1UMTdiUWFERDB4OHU1T0lKQ3Vyd3hGWl9RX3BRTEtPQWpVczMxYkIzMFpzRV9haEtCb2VFVHdPQ2M2QndRVE13NHc?oc=5\" target=\"_blank\">History Says Now Is the Time to Load Up on Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOS1KdkNIdFBUekdLbU83TWVTdjV2WW5HTkFKMklMZEVXbHZVQUV2eWo3RVFEelMtcHVaS0xlbDZJQ3VucnNTclFrM3c5NUxKcHVSYXFrbXBoalI0SE05c0FqMGxvYXc1T18wa24yZlhDSTN4WnZtbE1ET2tMM25CQXJVUmNRZjJW?oc=5\" target=\"_blank\">Microsoft: It Is Just A Dip, Not A Bargain (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFRGeWJqNUNIZjNOVThDVFl0NnZDemZFbnYtTEU3LWhBeV94TVo3d2RGQVNtbE5tbjZaUF9vcWVSNUxJR25mVVp0cFlfNTVMN3hyV2twb0NlZmJtamVmU3RRWi1aUlFER25Pb09LVFYwUnhjMFFiU0FUbExYRW9HZjR5N0JBdnFWQWRuY2dhWnFDSGFvRVQwZ3VWSHNjRTRfZDFpbmhUbU1yc0tsYXRlbXJ1VzM1c3RQZzQyTQ?oc=5\" target=\"_blank\">Billionaire Stanley Druckenmiller Sells Microsoft Stock and Buys an AI Stock Up 243,600% Since Its IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font></li></ol>",
+      "published": "2026-02-04T18:23:00+00:00",
+      "source": "The Motley Fool"
     },
     {
       "title": "Microsoft and Software Survival - Stratechery by Ben Thompson",
@@ -19,46 +54,11 @@
       "source": "Stratechery by Ben Thompson"
     },
     {
-      "title": "Microsoft promotes sales leaders as company pursues AI growth - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTVDeGtpVkZfX0NxRFB1TnQzTHJtTHJQMFNoblo1MEJoWlRBSEU1clNhZ09OcWEweXR5dzIwSXhWR1FkNnBVa3Z5UEtpb3VfRlR3RzIyZ3JoWE5TVFk2T251MTZBOG9WUWVLcGNsSWtXX19uMFQ5c0FHbG1Bdm8xWnJ3TUMwZHZObkljbHNaU0IyODhQZzdTdWJ2VXBPOFnSAaQBQVVfeXFMUHRYcVZLTmVYNTdGMldhMmVTZ3BEbDM0QnlMZEFCaW9Hb3BFWjl5clhQUnBZS3BUa0J3Zms3R0ptSnNsaTNUZ0NBYmxIbGkxSWtxaUhYN2p4REZaVV9BU2xQNTBZd1pJY043bUVzUkUwTEFhX0daOUkzU005emxBTDdxYk1CRDVOVjQ2d2pzS05lVWhBeGJfNXljeGRiUER6VXVLSXk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTVDeGtpVkZfX0NxRFB1TnQzTHJtTHJQMFNoblo1MEJoWlRBSEU1clNhZ09OcWEweXR5dzIwSXhWR1FkNnBVa3Z5UEtpb3VfRlR3RzIyZ3JoWE5TVFk2T251MTZBOG9WUWVLcGNsSWtXX19uMFQ5c0FHbG1Bdm8xWnJ3TUMwZHZObkljbHNaU0IyODhQZzdTdWJ2VXBPOFnSAaQBQVVfeXFMUHRYcVZLTmVYNTdGMldhMmVTZ3BEbDM0QnlMZEFCaW9Hb3BFWjl5clhQUnBZS3BUa0J3Zms3R0ptSnNsaTNUZ0NBYmxIbGkxSWtxaUhYN2p4REZaVV9BU2xQNTBZd1pJY043bUVzUkUwTEFhX0daOUkzU005emxBTDdxYk1CRDVOVjQ2d2pzS05lVWhBeGJfNXljeGRiUER6VXVLSXk?oc=5\" target=\"_blank\">Microsoft promotes sales leaders as company pursues AI growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-02-04T00:00:00+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWFtU00zWFo0MzNJTkNuZ29BLWlEQmY4cTlzVmlSRHJGcHlXaFg3WHZNeFp2SkpwcXo4UXcxbGxUaEhKTTY4b0RBWjRUSERpQmlhemNMdHhPd2VLemlQT24tVjVjVWliOGs0Mm9tWFhFSWdRVmJUeHZGMzNEemFWcQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWFtU00zWFo0MzNJTkNuZ29BLWlEQmY4cTlzVmlSRHJGcHlXaFg3WHZNeFp2SkpwcXo4UXcxbGxUaEhKTTY4b0RBWjRUSERpQmlhemNMdHhPd2VLemlQT24tVjVjVWliOGs0Mm9tWFhFSWdRVmJUeHZGMzNEemFWcQ?oc=5\" target=\"_blank\">APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFOeWowNENtZ0lHTDQyRVhsTXNlWWgtTTJ1NDh4LVI3Qy1KN2NVbFBTNWNWTlRudFhFY2tkQ2lGUG44bloteXNlekd4Yi1wNVFmdVJVZ2FsWDJBNmRXNmtONHVRc0xGbm1sb3FRNk41VkphOXlGRE5YaGFVMkhESmQtSGYwWnVrdG9LRGt1Nmp0VzAxeXZzLVNOTDZBLVE0Rlc1el9B?oc=5\" target=\"_blank\">APT28 exploits Microsoft Office flaw in Operation Neusploit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Affairs</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEo5R3hDQTRDMEl1UVFiTFRrNTd6bWpnR2E2eUc4ZE90aWZ6clRjQ2o5UEVIQ3hLZ2VwaGtnN2lMUFppczJUc3NzMXZLMjFBTXNSWjNoMEJyMmxOSXczdFZCQTRkXy15Q1dlM19HaHlOQU9ONzBMRlEyRUg4RnZZb3RINmk0aFlsRHVfa1BIXzg0LVJNOHoxcjBfeHltU0kwenZibDFB?oc=5\" target=\"_blank\">Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dark Reading | Security</font></li></ol>",
-      "published": "2026-02-03T09:12:00+00:00",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "ChatGPT Thinks Microsoft Stock Will Close At This Price In The Next 60 Days - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnRLQmZ6cUlnRW1GcDZLc2E5SXFoS1Jlb2RlMFUtR1ExelpmVEtiM000bjZjZVlPb2FYTUU3eTYzVkpTSzVEZUVQUDYtY0d1N0lCQ1NoZDdRWDRyYjVmTXd0WS1Db2lrTmZTUVhVYlRnT2ZYMVhacGN3bUVOcWlYU3RXZHl3aE9MNWc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnRLQmZ6cUlnRW1GcDZLc2E5SXFoS1Jlb2RlMFUtR1ExelpmVEtiM000bjZjZVlPb2FYTUU3eTYzVkpTSzVEZUVQUDYtY0d1N0lCQ1NoZDdRWDRyYjVmTXd0WS1Db2lrTmZTUVhVYlRnT2ZYMVhacGN3bUVOcWlYU3RXZHl3aE9MNWc?oc=5\" target=\"_blank\">ChatGPT Thinks Microsoft Stock Will Close At This Price In The Next 60 Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTV4aHpYWEQ5Q2RMcmhxZFl6TXRxY0JZeF9rNF9sNEZkQkFnYngzczNZS2VGODVsVHJlamFYNGVWd3FHNGZVSlFwN1BLWU82V3hIOUZ5ZXREYnZ4WG1qcmJzOHdQSEJjLXpxNzBYdllCVXh2ZU50ZzNoOWk5U1psNGVSZk5aanVLR2Zxc3JZRQ?oc=5\" target=\"_blank\">3 Reasons to Buy the Dip on Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXNFMjZKdVB0VWh1YlUwUmVKRnNQV2F3aDA1NEs2WHhNS290TnlkQ1pWUVg0M01oWW5XRWVveVpvX19Td3JhcWY5Z1pwNGw0Y0VSSlBvekh2ZDhjazc4RXhhQ3dnSjBwLUN3aU5QZTBJU0x6djBRdGtWLWhZcGxpWEV2LUQtWk1xUHdjMFU3c3lSLVIzMWItbEJoSnByQmo1RGc?oc=5\" target=\"_blank\">Here's Why Microsoft Fell After Earnings, Despite Beating Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font></li></ol>",
-      "published": "2026-02-03T18:01:07+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Microsoft will disable NTLM as standard in Windows - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkxqZzFCQ3lyZkdWWE5ka0xBS3g3NkltaUVZUG0zU0dpQmJyME5wTXpfTk1HNUJxUWdxTExtSWVGNVR6dC1iRjl2MzZTWHJJTWc5aXNSQXdTRmRmOTNrYmhGWDJBQ3N0TFAtb3ZDTlE4bkhKbF9kSnpvbm1KRFY4R2x1VFVKaTJHXzJ4dXZPX181Smx3YS1yeW96TFlBQ2thbVVOZUhtMFpJVS1yOGFPag?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkxqZzFCQ3lyZkdWWE5ka0xBS3g3NkltaUVZUG0zU0dpQmJyME5wTXpfTk1HNUJxUWdxTExtSWVGNVR6dC1iRjl2MzZTWHJJTWc5aXNSQXdTRmRmOTNrYmhGWDJBQ3N0TFAtb3ZDTlE4bkhKbF9kSnpvbm1KRFY4R2x1VFVKaTJHXzJ4dXZPX181Smx3YS1yeW96TFlBQ2thbVVOZUhtMFpJVS1yOGFPag?oc=5\" target=\"_blank\">Microsoft will disable NTLM as standard in Windows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
-      "published": "2026-02-02T12:00:00+00:00",
-      "source": "Windows Central"
-    },
-    {
-      "title": "Microsoft says it’s building an app store for AI content licensing - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNF9VSXB6bmJlMEFERG92LVRBTDBvaC1mVk1rQmlZbVZPRHA4SWJFRmUzaGZwRzhLTzU3SmhRVVpDQWF6bDRKaGVsWVBmcnRDeFhVOEEwNGNfdHJrVTI3bzkwdTdIZ0xGNXRkMFpPX3VTZ08tNjZBSzNGN0xwNjBDRTFtdDc0SXpNVV9jWVFma2xORVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNF9VSXB6bmJlMEFERG92LVRBTDBvaC1mVk1rQmlZbVZPRHA4SWJFRmUzaGZwRzhLTzU3SmhRVVpDQWF6bDRKaGVsWVBmcnRDeFhVOEEwNGNfdHJrVTI3bzkwdTdIZ0xGNXRkMFpPX3VTZ08tNjZBSzNGN0xwNjBDRTFtdDc0SXpNVV9jWVFma2xORVE?oc=5\" target=\"_blank\">Microsoft says it’s building an app store for AI content licensing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-02-03T20:00:00+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Microsoft launches Publisher Content Marketplace for AI licensing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzBMUzZReWtuQ1hBMXUyYzlxUl94R0lBZldocjhTT2J0Wjk2b3IxYnNERi00b21qTVVaTmlnY1ZsSmQyT2h2RDFWUkxDODk2TkxHdlpENVN3OHlNSjRTdVgyQW5MZ0poX1dUSjdaOHg5YkE2cXFZN1NYcFFDUFFfLXVqZG42RlNEUkh2a1lTaU1PTEJrUVBuRklYNVhyMC1ib1JJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzBMUzZReWtuQ1hBMXUyYzlxUl94R0lBZldocjhTT2J0Wjk2b3IxYnNERi00b21qTVVaTmlnY1ZsSmQyT2h2RDFWUkxDODk2TkxHdlpENVN3OHlNSjRTdVgyQW5MZ0poX1dUSjdaOHg5YkE2cXFZN1NYcFFDUFFfLXVqZG42RlNEUkh2a1lTaU1PTEJrUVBuRklYNVhyMC1ib1JJ?oc=5\" target=\"_blank\">Microsoft launches Publisher Content Marketplace for AI licensing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Land</font>",
-      "published": "2026-02-03T20:00:00+00:00",
-      "source": "Search Engine Land"
+      "title": "Britain to work with Microsoft to build deepfake detection system - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2lvMmNaUWw2c08yTEo0TmxZRVVNTkVzVkZhYVl3MGxpM2Q4YnptZ2NnMTVMeDVFZ0xvRndmTzU1aW44bmtWbUNidW5SWnZ2YTBaeUdxZXdrLUMtTFVFQ2RzaWVJZ0dJbGM5bkMyQ0tIUHp6ek12aEhaX2JaN0U4TE9BTC1ySTFZb2hGSVhFc1hKSU8xWUdkdV9qT2JwQ2FJcVp2a2toWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2lvMmNaUWw2c08yTEo0TmxZRVVNTkVzVkZhYVl3MGxpM2Q4YnptZ2NnMTVMeDVFZ0xvRndmTzU1aW44bmtWbUNidW5SWnZ2YTBaeUdxZXdrLUMtTFVFQ2RzaWVJZ0dJbGM5bkMyQ0tIUHp6ek12aEhaX2JaN0U4TE9BTC1ySTFZb2hGSVhFc1hKSU8xWUdkdV9qT2JwQ2FJcVp2a2toWQ?oc=5\" target=\"_blank\">Britain to work with Microsoft to build deepfake detection system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-02-05T08:49:41+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
@@ -70,6 +70,13 @@
       "source": "Microsoft"
     },
     {
+      "title": "Next-Generation Xbox Could Launch in 2027, Hints AMD - IGN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2hvSWdlQ1E2bnVRd1dlNnlvRlk0NDZRVlJwN0pFUThfZE9JVWg0Q25rOWRaeFFGdG14OWlMRFRrSmUxWmdFU2dlOHQ5RlR2aWRhV0NiQXBINmJ1RjJ4dWRrNmtjLUxqNUwtUGVWQkFWR0FFQm81SFY5TmdKeXE4SFdqT2hRTjg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2hvSWdlQ1E2bnVRd1dlNnlvRlk0NDZRVlJwN0pFUThfZE9JVWg0Q25rOWRaeFFGdG14OWlMRFRrSmUxWmdFU2dlOHQ5RlR2aWRhV0NiQXBINmJ1RjJ4dWRrNmtjLUxqNUwtUGVWQkFWR0FFQm81SFY5TmdKeXE4SFdqT2hRTjg?oc=5\" target=\"_blank\">Next-Generation Xbox Could Launch in 2027, Hints AMD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
+      "published": "2026-02-04T02:58:00+00:00",
+      "source": "IGN"
+    },
+    {
       "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5\" target=\"_blank\">Windows 95 launched 30 years ago and made us and maybe me who we are today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
@@ -77,39 +84,28 @@
       "source": "TechRadar"
     },
     {
-      "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2025-09-29T07:00:00+00:00",
-      "source": "The Verge"
+      "title": "Anthropic launches AI tool Cowork, Microsoft speeds up AI agent development - DIGITIMES Asia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3prSUlhZkIxd0JiMkpzMWJhazRtTVdqQmxfMXYxa2Q1Z1hFRm8tUms4WkhGRXA0MTJ0akJQTEcxSl9BWVljb0hNZFVvN2ViWnhwRzA0NG9kYkFhT29uSXJOVGJjWGgyVlE3TW0yX20zdFlBbW9xNmx0MkI0MkQ5cFZJWi02LXpCRjlranowVTJjOUlKblE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3prSUlhZkIxd0JiMkpzMWJhazRtTVdqQmxfMXYxa2Q1Z1hFRm8tUms4WkhGRXA0MTJ0akJQTEcxSl9BWVljb0hNZFVvN2ViWnhwRzA0NG9kYkFhT29uSXJOVGJjWGgyVlE3TW0yX20zdFlBbW9xNmx0MkI0MkQ5cFZJWi02LXpCRjlranowVTJjOUlKblE?oc=5\" target=\"_blank\">Anthropic launches AI tool Cowork, Microsoft speeds up AI agent development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIGITIMES Asia</font>",
+      "published": "2026-02-02T05:32:27+00:00",
+      "source": "DIGITIMES Asia"
     },
     {
-      "title": "How AI innovation powers Microsoft’s finance journey | EY - Global - EY",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGMyaTVOdG9HTHZZN2taU3B3RTRQSVRmZGlMRnNlWlBuRUhmMndrajhHQnRhZWdIVjdobk9sZ0xDWnBwNG1WTExDWnI3aHl4TzhyVnRqRjVCTVdBN01MQ2ZQVE1oSkFSU2JJbFNTRWZFUU9iMkVrZG9sLVZvVHVjalZWdC1SSlF5eG5tVm1oSzlydUFmMkVyNktmTlVmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcGMyaTVOdG9HTHZZN2taU3B3RTRQSVRmZGlMRnNlWlBuRUhmMndrajhHQnRhZWdIVjdobk9sZ0xDWnBwNG1WTExDWnI3aHl4TzhyVnRqRjVCTVdBN01MQ2ZQVE1oSkFSU2JJbFNTRWZFUU9iMkVrZG9sLVZvVHVjalZWdC1SSlF5eG5tVm1oSzlydUFmMkVyNktmTlVmZw?oc=5\" target=\"_blank\">How AI innovation powers Microsoft’s finance journey | EY - Global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EY</font>",
-      "published": "2025-11-26T12:10:27+00:00",
-      "source": "EY"
-    },
-    {
-      "title": "Microsoft launches Discovery platform at NJ AI Hub - NJBIZ",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTjE4WEdFYzN0MXVaZWFXa29SN2VZSEp2V3dqYTA1UlExaVlQZ0pCa1JTalRQcko3WkR0d3BUMDlPV2xXV0g5cXdWLTlXT3FtSFpZaEk2TE9DX1RkcXhkb0lJQWcxLUpBc3cxY2VlUVFWVmI2WDBz?oc=5\" target=\"_blank\">Microsoft launches Discovery platform at NJ AI Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJBIZ</font>",
-      "published": "2025-10-30T07:00:00+00:00",
-      "source": "NJBIZ"
+      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
+      "published": "2026-01-08T08:00:00+00:00",
+      "source": "PayPal Newsroom"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-03",
-      "close": 411.2099914550781
+      "date": "2026-02-04",
+      "close": 414.19000244140625
     },
     "history": [
-      {
-        "date": "2026-01-26",
-        "close": 470.2799987792969
-      },
       {
         "date": "2026-01-27",
         "close": 480.5799865722656
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-03",
         "close": 411.2099914550781
+      },
+      {
+        "date": "2026-02-04",
+        "close": 414.19000244140625
       }
     ],
     "name": "Microsoft Corporation"
