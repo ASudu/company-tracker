@@ -2,7 +2,7 @@
   "name": "TCS",
   "slug": "tcs",
   "ticker": "TCS.NS",
-  "fetched_at": "2026-02-05T12:38:56.497550+00:00",
+  "fetched_at": "2026-02-06T12:37:28.502366+00:00",
   "news": [
     {
       "title": "Indian IT stocks crash: Infosys, TCS, Wipro down up to 7% - why launch of new AI tool by US startup Anthr - Times of India",
@@ -10,6 +10,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNSlhYU1NSZml6UmtqS3VUZk8yRGFsa08tRkFkVzRjUjEzM2hYOUFzcllwX0llbW9xU2VzSy1kczMyVWhBVEVCU0ttZFczZTdWMXJaYXF1ODluNEtYZ2JGNHVEaVkzd3c0M2JEU3ItYXI4RG5KTEU1NlJqXzJfN053Uk9oRkplMzF3cXdJSnR1RDdPZkZHTHc3NWtLTDhRVFkzR0pwamFJdHVFR1BfVGFJRENkaHFoOXdBaXpkN0twWDVjWGtIcWowOEZKR1k1OVg1ODh3TlhBRTRlNW1hVWQxbWxjUXZiUHRQbHI1M3hCTmd3SGNUWWc0SEdkbE1rWURHYl9PQWNQNU1YQlZsOXFkUTRTWTlJeU5RN2syVlo4ZEtWRFVZVHpkRTlIeVRJWHBnb05n0gG4AkFVX3lxTE9aVnRIdnVsZ1VZYi1tS19Mc2lsdkFqU05kbDhjeEZpeDhNcDRLS05RakF2b1FCMTZtUmV6ekdwTEVnYV9Wd3hjakZONklfcndOS0RVNmd0dXlrelhfWWFwSnNlWm96aTVDVFJZd0xpYUkwMmxrQ0VDZjd4ZGpKXzRPV3YyOFk1LVlZRXZMOGZQa0l3cUw2MzBWay1HbnZwaVdwcnptdzBncEx0ZEhDWGZjU0o5X1FuOG40cEx6Y0VBZHd3QzhhdE9Hc0VfRmtvcDhXYXJRQ1p4MkM1b2VIMTA4blQtaHc3RFlSeXB4MnMtQ2Q5T20xYS00bF9Mdi1iR2tJdGFrcElqX21MSUx5WGZGd2V3TWxEcXhBcm52ZEhyTTJCa09WLUc0WE9ZSnlJRlpNdk5yWjI4Yg?oc=5\" target=\"_blank\">Indian IT stocks crash: Infosys, TCS, Wipro down up to 7% - why launch of new AI tool by US startup Anthr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
       "published": "2026-02-04T04:06:00+00:00",
       "source": "Times of India"
+    },
+    {
+      "title": "What is Anthropic Claude Cowork, tool that has hit stocks of Infosys, TCS and other SaaS companies? - indiatoday.in",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNemVmTlBuc3F3T00ydGNUMGYzSXN2S01iUE1CNWpod0hXN3pEUVNnRV9tQm5aMmYyUVpxTllWM3FyWUZTWTI5VU5UNW1RUDV2bndtMC1lZjRtMzFQXzJEMnpWWHNpZGluX3RHVE0tUklZNWh2aTdkOTNsSVpqeVJBMjc0Y3NfMUFiVlI3UEJHcVFiRGM2ZldudF9rVmhUa0g5MzJZXzhTZmRNSEpQSHN4d0pKX2owb3JHaGFaOW9la1VEb2tRWmVrcTZpazRwaGZBRXFjTkJSOTdyRi1oWWtKcUQ0ZmNSU0NZSzloUjBSYllLbGtCYTdtMEV6Z9IBgAJBVV95cUxQX2IyMjlZcG5tZzhManZ2cUtBeXFuYjdyMjJBZmFmam1LaGRXNHZaUlBhdE5PWGlBVTYzek1OU3RWZ0FzN3lZYnpDakR6Tzhkazk5azhqbFNleldNbjBQUWQ0VWRCaVdPdS05eUxWUmFrN3ZldHBtOGNxZkpRTXZab1lmUzZkYS1scWFMeUlTZU9UcXdOMlhFanJMeGdOS0tQVjNZOVE3YWFsanFGcWpJN3BsZGk4RVZ5VTZZQnl2a1Y0YVp6cE1pUzl0WHBlcHkyRWFEWEc3SnhHeENlbVVHbVpZUzBPMFc1UDFfYXRlM1d4NzlhVlNuNTBKQTdMRmdp?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNemVmTlBuc3F3T00ydGNUMGYzSXN2S01iUE1CNWpod0hXN3pEUVNnRV9tQm5aMmYyUVpxTllWM3FyWUZTWTI5VU5UNW1RUDV2bndtMC1lZjRtMzFQXzJEMnpWWHNpZGluX3RHVE0tUklZNWh2aTdkOTNsSVpqeVJBMjc0Y3NfMUFiVlI3UEJHcVFiRGM2ZldudF9rVmhUa0g5MzJZXzhTZmRNSEpQSHN4d0pKX2owb3JHaGFaOW9la1VEb2tRWmVrcTZpazRwaGZBRXFjTkJSOTdyRi1oWWtKcUQ0ZmNSU0NZSzloUjBSYllLbGtCYTdtMEV6Z9IBgAJBVV95cUxQX2IyMjlZcG5tZzhManZ2cUtBeXFuYjdyMjJBZmFmam1LaGRXNHZaUlBhdE5PWGlBVTYzek1OU3RWZ0FzN3lZYnpDakR6Tzhkazk5azhqbFNleldNbjBQUWQ0VWRCaVdPdS05eUxWUmFrN3ZldHBtOGNxZkpRTXZab1lmUzZkYS1scWFMeUlTZU9UcXdOMlhFanJMeGdOS0tQVjNZOVE3YWFsanFGcWpJN3BsZGk4RVZ5VTZZQnl2a1Y0YVp6cE1pUzl0WHBlcHkyRWFEWEc3SnhHeENlbVVHbVpZUzBPMFc1UDFfYXRlM1d4NzlhVlNuNTBKQTdMRmdp?oc=5\" target=\"_blank\">What is Anthropic Claude Cowork, tool that has hit stocks of Infosys, TCS and other SaaS companies?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">indiatoday.in</font>",
+      "published": "2026-02-05T02:31:09+00:00",
+      "source": "indiatoday.in"
     },
     {
       "title": "Anthropic’s new AI tool sends shivers through the tech world, Infosys, TCS shares fall sharply - The Indian Express",
@@ -33,13 +40,6 @@
       "source": "Moneycontrol"
     },
     {
-      "title": "What is Anthropic Claude Cowork, tool that has hit stocks of Infosys, TCS and other SaaS companies? - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNemVmTlBuc3F3T00ydGNUMGYzSXN2S01iUE1CNWpod0hXN3pEUVNnRV9tQm5aMmYyUVpxTllWM3FyWUZTWTI5VU5UNW1RUDV2bndtMC1lZjRtMzFQXzJEMnpWWHNpZGluX3RHVE0tUklZNWh2aTdkOTNsSVpqeVJBMjc0Y3NfMUFiVlI3UEJHcVFiRGM2ZldudF9rVmhUa0g5MzJZXzhTZmRNSEpQSHN4d0pKX2owb3JHaGFaOW9la1VEb2tRWmVrcTZpazRwaGZBRXFjTkJSOTdyRi1oWWtKcUQ0ZmNSU0NZSzloUjBSYllLbGtCYTdtMEV6Z9IBgAJBVV95cUxQX2IyMjlZcG5tZzhManZ2cUtBeXFuYjdyMjJBZmFmam1LaGRXNHZaUlBhdE5PWGlBVTYzek1OU3RWZ0FzN3lZYnpDakR6Tzhkazk5azhqbFNleldNbjBQUWQ0VWRCaVdPdS05eUxWUmFrN3ZldHBtOGNxZkpRTXZab1lmUzZkYS1scWFMeUlTZU9UcXdOMlhFanJMeGdOS0tQVjNZOVE3YWFsanFGcWpJN3BsZGk4RVZ5VTZZQnl2a1Y0YVp6cE1pUzl0WHBlcHkyRWFEWEc3SnhHeENlbVVHbVpZUzBPMFc1UDFfYXRlM1d4NzlhVlNuNTBKQTdMRmdp?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNemVmTlBuc3F3T00ydGNUMGYzSXN2S01iUE1CNWpod0hXN3pEUVNnRV9tQm5aMmYyUVpxTllWM3FyWUZTWTI5VU5UNW1RUDV2bndtMC1lZjRtMzFQXzJEMnpWWHNpZGluX3RHVE0tUklZNWh2aTdkOTNsSVpqeVJBMjc0Y3NfMUFiVlI3UEJHcVFiRGM2ZldudF9rVmhUa0g5MzJZXzhTZmRNSEpQSHN4d0pKX2owb3JHaGFaOW9la1VEb2tRWmVrcTZpazRwaGZBRXFjTkJSOTdyRi1oWWtKcUQ0ZmNSU0NZSzloUjBSYllLbGtCYTdtMEV6Z9IBgAJBVV95cUxQX2IyMjlZcG5tZzhManZ2cUtBeXFuYjdyMjJBZmFmam1LaGRXNHZaUlBhdE5PWGlBVTYzek1OU3RWZ0FzN3lZYnpDakR6Tzhkazk5azhqbFNleldNbjBQUWQ0VWRCaVdPdS05eUxWUmFrN3ZldHBtOGNxZkpRTXZab1lmUzZkYS1scWFMeUlTZU9UcXdOMlhFanJMeGdOS0tQVjNZOVE3YWFsanFGcWpJN3BsZGk4RVZ5VTZZQnl2a1Y0YVp6cE1pUzl0WHBlcHkyRWFEWEc3SnhHeENlbVVHbVpZUzBPMFc1UDFfYXRlM1d4NzlhVlNuNTBKQTdMRmdp?oc=5\" target=\"_blank\">What is Anthropic Claude Cowork, tool that has hit stocks of Infosys, TCS and other SaaS companies?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
-      "published": "2026-02-05T02:31:09+00:00",
-      "source": "India Today"
-    },
-    {
       "title": "Notice regarding Acquisition of Shares in TCS Logistics (Private) Limited - nipponexpress-holdings.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5waWJyQUdNVzk1bmtiSGlldlQzZEY5OHlvcHA2Zm5COTI1V2R0NG9iTzdNUkRQbzF3eF9GOENhZlFpc1otSEtVbFQ3ZUZGTWRZbGR6aGJ0ejQwWkU4N2x1Qjl1TGFybi1FUkRUSHJsUzVnRzRPcnUw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5waWJyQUdNVzk1bmtiSGlldlQzZEY5OHlvcHA2Zm5COTI1V2R0NG9iTzdNUkRQbzF3eF9GOENhZlFpc1otSEtVbFQ3ZUZGTWRZbGR6aGJ0ejQwWkU4N2x1Qjl1TGFybi1FUkRUSHJsUzVnRzRPcnUw?oc=5\" target=\"_blank\">Notice regarding Acquisition of Shares in TCS Logistics (Private) Limited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nipponexpress-holdings.com</font>",
@@ -47,18 +47,18 @@
       "source": "nipponexpress-holdings.com"
     },
     {
-      "title": "Big relief in Budget 2026: TCS rates on these 6 things revised to 2%; full list inside - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVgxUDl2cWJXZzRjaTlzWmNDQ1FJYzd5QWNvb1c4VENqMzVVaFo5RGFVeVM0TklVOUhvVnFBUkc1YTh6WU1WTmU2VmdmYzZaWEMtSVZUTXlRMnV2dnc3dlZ3T3V2eEVESFlFTWgzOERNaFVXeldqZW8tZnFRSXVvakl0WU5nWTc4TFdBY2hmUlpRZ251ZmRDOGlQRGx4TmszaUpXTE5fSko1bnp2cXBydk8wVGtBTmJxOF9MZl92RjNWT25NQVNjc3J5Mk9zYWRxTEZqR29NWkZIeTRfVi1vdWln0gHnAUFVX3lxTE5WNE1rQ2l3aC1sRWFkYkRRaWVKUVdITGJBX0s3elpteTllTEdLc1F1VjZIczdKMExLNGtFbmVsYmZ6NDk3SmxjVV8tSlBFOFd5MU5TNFc0YlJ6SDBGWlUzektNMG5rNGJjWlp6NGxibGpiSVFVdi1mV0NnTHdobmdwOUJKTW5URDYtWER1TnhNbkcyMk00OS1Ka1BwTm1TZkk4Y2x1aXZmZTRDZFo5VVJwQ1dQdHJzUHJZb2cyWGhNWG9HYTZQYUtrXzhsZnNCaXJZT21saHhLanVaanFoTC1GYmk1Rkk5dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVgxUDl2cWJXZzRjaTlzWmNDQ1FJYzd5QWNvb1c4VENqMzVVaFo5RGFVeVM0TklVOUhvVnFBUkc1YTh6WU1WTmU2VmdmYzZaWEMtSVZUTXlRMnV2dnc3dlZ3T3V2eEVESFlFTWgzOERNaFVXeldqZW8tZnFRSXVvakl0WU5nWTc4TFdBY2hmUlpRZ251ZmRDOGlQRGx4TmszaUpXTE5fSko1bnp2cXBydk8wVGtBTmJxOF9MZl92RjNWT25NQVNjc3J5Mk9zYWRxTEZqR29NWkZIeTRfVi1vdWln0gHnAUFVX3lxTE5WNE1rQ2l3aC1sRWFkYkRRaWVKUVdITGJBX0s3elpteTllTEdLc1F1VjZIczdKMExLNGtFbmVsYmZ6NDk3SmxjVV8tSlBFOFd5MU5TNFc0YlJ6SDBGWlUzektNMG5rNGJjWlp6NGxibGpiSVFVdi1mV0NnTHdobmdwOUJKTW5URDYtWER1TnhNbkcyMk00OS1Ka1BwTm1TZkk4Y2x1aXZmZTRDZFo5VVJwQ1dQdHJzUHJZb2cyWGhNWG9HYTZQYUtrXzhsZnNCaXJZT21saHhLanVaanFoTC1GYmk1Rkk5dw?oc=5\" target=\"_blank\">Big relief in Budget 2026: TCS rates on these 6 things revised to 2%; full list inside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-      "published": "2026-02-02T12:21:52+00:00",
-      "source": "The Economic Times"
+      "title": "Why IT Stocks Are Falling Today: Infosys, Wipro, TCS, HCLTech & More Shares Slide After Anthropic AI Tool Buzz - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ0hoNldxcUVjS0Vpa0hiLTk0aDNJcV8tX05kOE5nNlhuU2E3bXhMLThxZzlRS1pLWXVBTnZJaDdqbkxfbk9PQjdtYTRFRVZaYTV1UkxHNS16Rlp3aEhVQjNZX3BaNXQ0OFdxMFpxUzhHcTI3VzlMcDJjWThtcTU4RDBvTm9GelhPQWM0eWdmNXhFMlVKTl9mYi1WSkxLQ3g0R0RJXzNTTkNCSWdsdEhIQjhiWnZhRnJiQUZSUHprbVJiZktBcWN6TmFQM0p3U0NUblNIYnAwX2xPREhz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ0hoNldxcUVjS0Vpa0hiLTk0aDNJcV8tX05kOE5nNlhuU2E3bXhMLThxZzlRS1pLWXVBTnZJaDdqbkxfbk9PQjdtYTRFRVZaYTV1UkxHNS16Rlp3aEhVQjNZX3BaNXQ0OFdxMFpxUzhHcTI3VzlMcDJjWThtcTU4RDBvTm9GelhPQWM0eWdmNXhFMlVKTl9mYi1WSkxLQ3g0R0RJXzNTTkNCSWdsdEhIQjhiWnZhRnJiQUZSUHprbVJiZktBcWN6TmFQM0p3U0NUblNIYnAwX2xPREhz?oc=5\" target=\"_blank\">Why IT Stocks Are Falling Today: Infosys, Wipro, TCS, HCLTech & More Shares Slide After Anthropic AI Tool Buzz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goodreturns</font>",
+      "published": "2026-02-04T05:59:02+00:00",
+      "source": "Goodreturns"
     },
     {
-      "title": "Parents of students chasing degrees abroad get breather as budget cuts TCS on education remittances - Times of India",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmh2Z2x3MG1Ob0VaclNDMF9PVm1nYkE4NkgzQUxLLVhYVTNKeC01cDhDenR5S0phajhtbVBWdl9uVUxTUE1yNDk5ajNiSE81dXBJeGQwZnM2dEpxN0czYzZhZFlDVER4M2Z2alRZYkJ2bFU0dmFLcWJOYXd4QkRTU1Y5NG1JbndmeGUxYWJ2SnlkRGdWZlQyVVdlUUhCXzdGa1YyUlhtQ2Y4bkVlektCN3BSdUtmMmxLMVp2T0tDN2hLejB6Q1hz0gHMAUFVX3lxTE5mQ3V5WlVnbmJMNlVVN2RSOGJSTk51eDk4TzNqVG56dkl5MS1oSlpzMEJ0YmgtUndIU2RDamtLT1lTSm1SRWN0X1BQb1RXWHRraEs1b1ZPRmlHVFc4UU43amVnb21FTHIwRExpNi1rcmk3OU9HWTVkVnhlRXJSd01zZm5vQWhtWW9tSFY3UkxDb0xQR0lwRFVYSTNvSm55X1BqaTB5UFptOHhpZF85MlRQOEtsX0ZucVBFMFBpOVBsbk53c2MxTEE0Ry16OQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmh2Z2x3MG1Ob0VaclNDMF9PVm1nYkE4NkgzQUxLLVhYVTNKeC01cDhDenR5S0phajhtbVBWdl9uVUxTUE1yNDk5ajNiSE81dXBJeGQwZnM2dEpxN0czYzZhZFlDVER4M2Z2alRZYkJ2bFU0dmFLcWJOYXd4QkRTU1Y5NG1JbndmeGUxYWJ2SnlkRGdWZlQyVVdlUUhCXzdGa1YyUlhtQ2Y4bkVlektCN3BSdUtmMmxLMVp2T0tDN2hLejB6Q1hz0gHMAUFVX3lxTE5mQ3V5WlVnbmJMNlVVN2RSOGJSTk51eDk4TzNqVG56dkl5MS1oSlpzMEJ0YmgtUndIU2RDamtLT1lTSm1SRWN0X1BQb1RXWHRraEs1b1ZPRmlHVFc4UU43amVnb21FTHIwRExpNi1rcmk3OU9HWTVkVnhlRXJSd01zZm5vQWhtWW9tSFY3UkxDb0xQR0lwRFVYSTNvSm55X1BqaTB5UFptOHhpZF85MlRQOEtsX0ZucVBFMFBpOVBsbk53c2MxTEE0Ry16OQ?oc=5\" target=\"_blank\">Parents of students chasing degrees abroad get breather as budget cuts TCS on education remittances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
-      "published": "2026-02-02T17:21:00+00:00",
-      "source": "Times of India"
+      "title": "Indian coop JSBL picks TCS Bancs core - FinTech Futures",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnhEODBEdTF4NVpIYll4Sm03NTNvQjQ4Tm1NSzNtQV9KNWVTMEhpQmEtbXpLM1RlTVlEWHBsRTBNd0F6M0RiN3h6b1pBdkNSZWg4cUJrQlI0UHVScXpiNTd1QXFBS1hYWVJlZzRoY25LVUlraWxfUXl6d1EweWZlbjFjNG1Rbm8taENEYU5SUjVrNHF2bG5kRVI0XzU4eHJsYlpKTlAzWnFoUU04cjY0bnpFNkRweTd5Wnp3dA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnhEODBEdTF4NVpIYll4Sm03NTNvQjQ4Tm1NSzNtQV9KNWVTMEhpQmEtbXpLM1RlTVlEWHBsRTBNd0F6M0RiN3h6b1pBdkNSZWg4cUJrQlI0UHVScXpiNTd1QXFBS1hYWVJlZzRoY25LVUlraWxfUXl6d1EweWZlbjFjNG1Rbm8taENEYU5SUjVrNHF2bG5kRVI0XzU4eHJsYlpKTlAzWnFoUU04cjY0bnpFNkRweTd5Wnp3dA?oc=5\" target=\"_blank\">Indian coop JSBL picks TCS Bancs core</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Futures</font>",
+      "published": "2026-02-06T09:04:08+00:00",
+      "source": "FinTech Futures"
     }
   ],
   "product_launches": [
@@ -102,14 +102,10 @@
     "ticker": "TCS.NS",
     "currency": "INR",
     "latest": {
-      "date": "2026-02-05",
-      "close": 2991.5
+      "date": "2026-02-06",
+      "close": 2941.60009765625
     },
     "history": [
-      {
-        "date": "2026-01-28",
-        "close": 3200.10009765625
-      },
       {
         "date": "2026-01-29",
         "close": 3144.39990234375
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-05",
         "close": 2991.5
+      },
+      {
+        "date": "2026-02-06",
+        "close": 2941.60009765625
       }
     ],
     "name": "TATA CONSULTANCY SERV LT"
