@@ -2,73 +2,66 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-02-11T12:44:34.795545+00:00",
+  "fetched_at": "2026-02-12T12:41:17.893323+00:00",
   "news": [
     {
-      "title": "Alphabet Is Selling 100-Year Debt as Part of a Big Bond Sale - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPZjlmV09CZ0YxVWV4MnhIV1l4Z3pHRFZSLXZuN2Z2S0dLOGMzbEktMktaZjBTNmZlb2lWVXFWZjRicWdSc1lfcHVvTTNBUEx6R1FFdlZ5emlEQ1RSUFBTN0N5dTEyLTh5TEFmakJmQ044Q2pXSVlVUnFDM3RrQkV6cEJCZUhMTkJmaUI3QmVIUG5ENHhlT2h4LUE5RzdIMXRLOE1reGFES3k3ZERDckF1WWpCNi1hNEM2ZGJQMjZmaUNQU2Y5b1VJa051Ny1fU0tvY0J5azV4UjhFTjljd0dxRDNnSVFmWGZ3TzFZeWFXN2NGWTNaU1R1aHJtZEN1NGFORDBWcl9hNWdlelZjOVhScUp0NWxHdmhsbHV0WnFTQ3R0TTRSMzZfVGN5SC1LLWY4V0dCOTFKNFE5cU1vWFBaVjBNcUZMX1N5cWsxT0NJbUp0LU83WWJZZ1pIdjgzUzRpbDc2SzZGaWNPS25aSHV1UW1SN3pGUS1kN2JUeExHa3dqbzdaZWM4WWJhU3Q3TF9udnNJQkdka3M3TV9jRm1MaVhoQ3g0Y2JldFhJMzhFUXZPZEpVeDhQanE3VTIwMS1xOTZTRm1NeEFLSUxfLUEzcjFkM2lyZw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gNBVV95cUxPZjlmV09CZ0YxVWV4MnhIV1l4Z3pHRFZSLXZuN2Z2S0dLOGMzbEktMktaZjBTNmZlb2lWVXFWZjRicWdSc1lfcHVvTTNBUEx6R1FFdlZ5emlEQ1RSUFBTN0N5dTEyLTh5TEFmakJmQ044Q2pXSVlVUnFDM3RrQkV6cEJCZUhMTkJmaUI3QmVIUG5ENHhlT2h4LUE5RzdIMXRLOE1reGFES3k3ZERDckF1WWpCNi1hNEM2ZGJQMjZmaUNQU2Y5b1VJa051Ny1fU0tvY0J5azV4UjhFTjljd0dxRDNnSVFmWGZ3TzFZeWFXN2NGWTNaU1R1aHJtZEN1NGFORDBWcl9hNWdlelZjOVhScUp0NWxHdmhsbHV0WnFTQ3R0TTRSMzZfVGN5SC1LLWY4V0dCOTFKNFE5cU1vWFBaVjBNcUZMX1N5cWsxT0NJbUp0LU83WWJZZ1pIdjgzUzRpbDc2SzZGaWNPS25aSHV1UW1SN3pGUS1kN2JUeExHa3dqbzdaZWM4WWJhU3Q3TF9udnNJQkdka3M3TV9jRm1MaVhoQ3g0Y2JldFhJMzhFUXZPZEpVeDhQanE3VTIwMS1xOTZTRm1NeEFLSUxfLUEzcjFkM2lyZw?oc=5\" target=\"_blank\">Alphabet Is Selling 100-Year Debt as Part of a Big Bond Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0N5dVZFeFpKYVJKVDRiZXMxT2xiamNBX2hidUN0WnFhd0xrVFRRclFTUkx1STdaQTlFRnJkcGgzUDFuOHgtdThLR29BSlZ2dWs4ZmpyUlFYZEFjR3BuM0U3ZGtHSXR1c2hWZXlqSEY4RUdpZnhRN2QxejdpYm1Ic3JGVzZVQmR5XzJhSWpKUVVKQ0lkN0JhMjRvY1dwR2dP?oc=5\" target=\"_blank\">Alphabet sells rare 100-year bond to fund AI expansion as spending surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjBKTmxhUERzd3A5WUpkM3ljV3FyU0Jtc2p2RTZaTHRlaDhOeTJTakY0QzRLVTlOa1dNdkJ1M3FwOU9hOHd4N3N2RnZxQUNLMlBjS2tuVHZPZmpsNGZrV3VMTDJtUElLcl9fY01iTzBKUzB3bWZBWndoNS0yamlJQi1KMWcxYVQ0WUc2eXVhZUhuNV9SWVhZeE95Y3dMUW9qaVdXQ9IBqgFBVV95cUxQQ2pfVGdVY3owLUlFeERsTXZLUFJDUzNieklFY3ZadS12TmpodlRzMkg4eDdFWlBrOGZadGdQZEJmOGFYbDU5aXV4T056V0FYSVV0OWVya2VGRExLU21JQTJMb29BU3F3NmJYcHJtcVdNeWZNVVBidkVzMlBEYUJnQk9UVzRPOEgzSGRCb1M1d00tMTdNdE83bWhpdkJCbHJIRUc3RFZUa0tzQQ?oc=5\" target=\"_blank\">Alphabet boosts debt sale again as total raise exceeds $30 billion, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUJ5S0plXzlObzJLRWJoNWJJaV9XVGNodWdrbGNydE44UHdEQVljVnVaQ2ZhQlc0WjVHUzZjR0hrVmxYX2ZObTVsWW9WM3Fjc3ZwZ3RWM2JibjZval9Qc2Exd0F6WGIxVjRNUi1la0FQVXBUWHhyRFBfN0U4M2pMeTdacndvcC1ocFU1NjRhaUlVMF9jTXNoU08yV0tkTWJSaUdZSnloOUpWdmNqcHJFTW5OdF8ybk1NenY0V0dn?oc=5\" target=\"_blank\">Alphabet Has Perfected the A-to-Z of Bond-Market Dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXY2UThvclBBVFpMaGFqUlpDQXhYWllSQnR1alNZdTI2UnFfY0VqZGhCclVpcGhvMWE4WEZDWXVBeHQyREVfRkhod1ZFakRsdGJZcUdBSHdlUVZlQVU4ZWJXRGtZc05NRnl0ek1MckppQkdaWEduU1ZNazBiRi1uRA?oc=5\" target=\"_blank\">Alphabet Plans Tech’s First 100-Year Bond Since Dot-Com Era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswNBVV95cUxPbFY1YURoaHJfY2hPVFBsV1dWT3M1dnJMaXVCTkd4QjRNYmk2Yy1fTFo0VUlHYjRoSkdVRmNUdElfcUE5OW16RWtocnRXd1lGb1N0VkNTZWNldmJBdURUVVBwd3Y5WXBnOWtUTldDY2JBRVFFV0pYMTNxYmc2WVpnbVJCQTdmdURzaTFPTTRpQy1uNEZDNkZFU3NodlFZX1NoMzZsbUs5UnQyRGdpaVlnYmRLbXlKZWFqNy1vMmZ3VUFnUnVxZVlIcS10enNWMXNLY0xFR2lfYl82eFVVSXZ5M3Ric0JxS1dobHpwQkdYXzVIU3VtU21yXzR3UFg4MnVBUUVxbUNkcnJsa3FMb3NnVDFUWVQ5NnZsZmRES1k5WWxLaUVkMDMxNFFJWHAzZnN4emFUZk9vLUxTVFFoWGs0WnB5R3BIVk1oV2xSaVBuaVk0YlBRcEw3V25paUVkNndBSWJLamUtLVV2VVJ4RVFLeVc4LVNMN1hlNUtJWTNKN1locC14N1BQNGM3by1mM0RyNmJnaDhLSHAxODJrLW1LQ216b3JPcElyOGxYdnNTYjRoajQ?oc=5\" target=\"_blank\">Alphabet’s $20 billion bond deal may be followed by something highly unusual</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5OcUN3WWZjN29DcEZ6OVV1ZXIxWmFQWGIzRFpjV3c1OFBuZG93MG9HX2lPc2R4X19lMDI4VEFYRFc2cmV2Z0tYS01xTTY5VE5oOFJNbkhCN1R3XzBnYm9mTTQ3aDdQS3FVdGpDbkt4SUY?oc=5\" target=\"_blank\">Alphabet lines up 100-year sterling bond sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQc19Ia3dyaUpBcHpaUUdfU3VsVkJjcE5qQldoN203Zktrcjl5ZEVfVGZqTVFhdktpNmJSX3ZRRW96UlFkaG9JZDdIU3ZTS2pMUlhZTHZKLWFNOF9FeTVlUjFrajEwdE5RQWtKeER3ZVFKZmQ5aEN3cmRLN0Vaal8wV0ZBOWJWeWgwT3lRVVdhT1lyQmhBS0wyQV9tMFl1SE1BcVJHM0pIWmd4cTVWSW03Z3ZLbFd0V2xwbGVyTQ?oc=5\" target=\"_blank\">Google parent company Alphabet plans to sell rare 100-year bond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQb0JtSVNBdE5HVmNhSk1pRDd3NWE2WDRxOWFEZXo4RUFxTGt3UkFlckl3UjNPU3RUaGxYeDVsbGJvbEtTUUVhNUc1Z3ZzVWJpRDJmYkhBeWlFSzB0eUVZSUtONXNXRTJGWmRua1JWRl80YjdEd0NVZS1iQnd6RXgxdXlqU21kY0UxRE0wREJRVWpETGJjMUZLdE1Kc3I?oc=5\" target=\"_blank\">Alphabet’s (GOOGL) Bond Sale Raises More than $30 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font></li></ol>",
-      "published": "2026-02-10T02:15:00+00:00",
-      "source": "The Wall Street Journal"
+      "title": "Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3BnanlJRVVySFA2RE9kaHlMSlhBbHdCa2tzZ2RTU0Z5cG9JTHlUWFlUY0UzWmFtZUdlb0pkRXlZVzgyOXJDQ1hRZFJLM0R4YUFOaXdaOXBIMjV4OWhGd1lFNkFCOHdYM2w0ODRoeGdjTkNaTGltNEpXNDNmMlRBWUV2WHlEQUx5SkF5aWV30gGTAUFVX3lxTE1tbVJMYWtYbGVFdDJPWWltbDdLUEIzakVqUUZUQkdNem4zMlVrWFdLY3dGTHU1R0JFbllTQ01qNWlmQWxTNE1qYjg5RVNOb0lPQ1YzVUhscEZNTVg4MU9nS0x2MEVmckhQZkV2LUJuTjhoaTNwXzlOMFh3TmVsOXBheHFUSU5vQjBRVEwxSGl5Qm9fNA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOX3BnanlJRVVySFA2RE9kaHlMSlhBbHdCa2tzZ2RTU0Z5cG9JTHlUWFlUY0UzWmFtZUdlb0pkRXlZVzgyOXJDQ1hRZFJLM0R4YUFOaXdaOXBIMjV4OWhGd1lFNkFCOHdYM2w0ODRoeGdjTkNaTGltNEpXNDNmMlRBWUV2WHlEQUx5SkF5aWV30gGTAUFVX3lxTE1tbVJMYWtYbGVFdDJPWWltbDdLUEIzakVqUUZUQkdNem4zMlVrWFdLY3dGTHU1R0JFbllTQ01qNWlmQWxTNE1qYjg5RVNOb0lPQ1YzVUhscEZNTVg4MU9nS0x2MEVmckhQZkV2LUJuTjhoaTNwXzlOMFh3TmVsOXBheHFUSU5vQjBRVEwxSGl5Qm9fNA?oc=5\" target=\"_blank\">Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gNBVV95cUxPbmprM1pIZ0lfb3A2Uk5pQzAyaU9nV3c1QUZwbnB6NEVQUDYwaXU1alNtTExta2Q1a3hYcHExMGhWay15OFBEcUtRdkhSQkV1MkNyODNqbW43M01MZGVFWDRMeC15Y2FRbTVuLVJDdzNrcGNHcTNDSkpHT1FCSnFFZkdzQjZ6Mkpia1lwR2loek9PYTFaZlZaSlFUSjVPNUdJTUJ6RllxVjROdDRHcGdWdWNtYlRLakE5X2pZUUdOQ3ZhRURUb2t6X2s3d0xDVU5ieDNBMDhSd1Q0eGJUUDFxZkxxQVBpUkEwRDdjV0RqSHN1RFgwZkg0dTBDakhZVEVxMUZzVkRnWUNKOWRXb2luTzF5QlVUTkVXUUJhaGN0emZ5UUxXbXlTVFVuWDdmRnVFdUtjQlQyWDVRQTNhdFJFRHROSEsybEF0SG5RbDJrUkQxSDNESGgtWUhlMUg5dU5iQ0ZBZnZZbkFZRm95VlBjUlg1Wkg1TzZvcDA0VUR3WlZubnVJeGkwQmpjRUhMSVNScGItRXpZdkRyVHUzRzZ0b0pkZmpILTdlNnB3U19nRG5mZ05DUF9Wazk4SktxaURDT05DZ01OMlpNOE1YUVFLdmhJeEZMQQ?oc=5\" target=\"_blank\">Alphabet Is Selling 100-Year Debt as Part of a Big Bond Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYk1RQnlOSmxJWi1yZE5JSWNqcVlnN3FuRzZvOEt5Q1E0Q3ptX0p3dDZxX2x1amRYN0xpRWZBMU5Ba25wVmNQY1N1c1IyN0U3eFR3NDM0S01JWjhhVEN2enhWYkU4d3ZVVlY4VktkS0dDSk1uQTc3UW9JdlozQWdQNnktRENPdUFYaUxjcGIwd1V3ZEoxR1lNMnF3bV96Y0pSb1pSTFJxaFdJRzBMMDdobTd6TmV0NGdHZEd3WXJFbHk?oc=5\" target=\"_blank\">What Google’s 100-Year Bond Means For Alphabet Stock Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li></ol>",
+      "published": "2026-02-12T10:09:46+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Alphabet Stock Is Down... But Not For Long (NASDAQ:GOOGL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1dubGNSbWFFVTYwLU9BWmJvWXdFaWRZdktVbXUtR0NWR2pTWE9kV2JRcy1SaE0zMVpoRDdnWlB6S1VNdXVLX1FkRG96eUdISnMtelZDUzZyN25PclNaSllXcl9hVGQwNUlWNzBpUmM4ZVljbkZINHhuTlVFNk91Wk1tN0gtSG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1dubGNSbWFFVTYwLU9BWmJvWXdFaWRZdktVbXUtR0NWR2pTWE9kV2JRcy1SaE0zMVpoRDdnWlB6S1VNdXVLX1FkRG96eUdISnMtelZDUzZyN25PclNaSllXcl9hVGQwNUlWNzBpUmM4ZVljbkZINHhuTlVFNk91Wk1tN0gtSG8?oc=5\" target=\"_blank\">Alphabet Stock Is Down... But Not For Long (NASDAQ:GOOGL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-02-10T13:55:43+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Alphabet plans to sell rare 100-year bond in huge multi-currency debt raise - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaUZpNW1DLTdkNFVGU3ZidlIxT05JdkdlVGFaRncwUWw1S2g0MzBjOTVMUEE2V0FfS1lkQ0lUcTdYa0p5U1l4TkZWaEdTT2w1Z0hCSG1WaTdlOE9kMkhxdGNqNWNhYy12Q253QVd0WmUyX2IwTTRoaG9jMUdWeWJJWVBaNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPaUZpNW1DLTdkNFVGU3ZidlIxT05JdkdlVGFaRncwUWw1S2g0MzBjOTVMUEE2V0FfS1lkQ0lUcTdYa0p5U1l4TkZWaEdTT2w1Z0hCSG1WaTdlOE9kMkhxdGNqNWNhYy12Q253QVd0WmUyX2IwTTRoaG9jMUdWeWJJWVBaNA?oc=5\" target=\"_blank\">Alphabet plans to sell rare 100-year bond in huge multi-currency debt raise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
-      "published": "2026-02-10T21:16:06+00:00",
-      "source": "Yahoo Finance UK"
-    },
-    {
-      "title": "Alphabet Sells Almost $32 Billion Bonds as Tech Races to Fund AI - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkhXSlkyZnBSdzRwV09XbEZOZVM4UjhienlxbHZoTUZaNEM5SFlJZzNpdlRGS2J4WlN0dTFHbG1OZzB1OW9TdmQxN29mNkRfeXVsR0h2LTNMaG4xWmh2ajdXdDVQV040LXA3dEdaRy01MHk2aU5LdVZ5XzZlekNTUEhNcEdMQ0RkNkJzRktTeEUyVlpHOVo0UzJpVUItMk1TOVhiLXkxR19XR2dFVk52SzRnLVJ4RVNDRi1LMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkhXSlkyZnBSdzRwV09XbEZOZVM4UjhienlxbHZoTUZaNEM5SFlJZzNpdlRGS2J4WlN0dTFHbG1OZzB1OW9TdmQxN29mNkRfeXVsR0h2LTNMaG4xWmh2ajdXdDVQV040LXA3dEdaRy01MHk2aU5LdVZ5XzZlekNTUEhNcEdMQ0RkNkJzRktTeEUyVlpHOVo0UzJpVUItMk1TOVhiLXkxR19XR2dFVk52SzRnLVJ4RVNDRi1LMA?oc=5\" target=\"_blank\">Alphabet Sells Almost $32 Billion Bonds as Tech Races to Fund AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "published": "2026-02-10T17:07:55+00:00",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbE01cG1nYlJfb05mSjE5NTBfeGs3d1RPWlZid3B2N2cwVzFqS21ydUVmYWpNbTdhR3BFeXpjSHNhT0hrbmQzaWRJeTNFOElXdUdta1lNSjFTQXlXQjhrUURuZmstdFlkLU1tdXFTWFVwNUtmZUtaaC1IUnRzYmpscF8wZEllX1pwdnBDU004OTl0dkNMcGxVaVR4Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbE01cG1nYlJfb05mSjE5NTBfeGs3d1RPWlZid3B2N2cwVzFqS21ydUVmYWpNbTdhR3BFeXpjSHNhT0hrbmQzaWRJeTNFOElXdUdta1lNSjFTQXlXQjhrUURuZmstdFlkLU1tdXFTWFVwNUtmZUtaaC1IUnRzYmpscF8wZEllX1pwdnBDU004OTl0dkNMcGxVaVR4Yw?oc=5\" target=\"_blank\">After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-02-11T11:03:30+00:00",
-      "source": "Morningstar"
-    },
-    {
-      "title": "Alphabet making long-term bet on AI by issuing century bonds - marketplace.org",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3BidHozVDNsS2Q5bjMwQkhobnpOZHJVU1hOTHFmeWJWNno3aENpTVlZT0VvdWp2emJPZHpnQ3ZDQkdnNjFEamtpaVVnanVrOFc2VFVEZTNoYWhqT21sTXlnZDZjWmZDZC1VX0RtWDRWVHhYa2VvRm1zOXJoZzVjT2dMa2FySm5CbVpmWWdjWVNkcEhLTG9mQUQyRUR5REpWVXk2b2JvSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3BidHozVDNsS2Q5bjMwQkhobnpOZHJVU1hOTHFmeWJWNno3aENpTVlZT0VvdWp2emJPZHpnQ3ZDQkdnNjFEamtpaVVnanVrOFc2VFVEZTNoYWhqT21sTXlnZDZjWmZDZC1VX0RtWDRWVHhYa2VvRm1zOXJoZzVjT2dMa2FySm5CbVpmWWdjWVNkcEhLTG9mQUQyRUR5REpWVXk2b2JvSQ?oc=5\" target=\"_blank\">Alphabet making long-term bet on AI by issuing century bonds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketplace.org</font>",
-      "published": "2026-02-10T21:20:00+00:00",
-      "source": "marketplace.org"
-    },
-    {
-      "title": "Prediction: This Stock Could Be the Biggest Winner From Alphabet's Spending Spree - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ2daYldHYmpNcllZSDgyNEJwc1YxYkI5M00xN0ZFQV90V1RxRFVMTzgwUTdNVjVXTnk3TGJoZ04tWS1PWWpsMF9JZ2tLY1JVX3hWVzBzOXB3SG5vd2lIWDllanhUeTBZbUlGeHd3TmhYem9wYTBJRTNDQjlTWVY5cHdobXh0emlnSjJWM1ROLUVwTlJy?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ2daYldHYmpNcllZSDgyNEJwc1YxYkI5M00xN0ZFQV90V1RxRFVMTzgwUTdNVjVXTnk3TGJoZ04tWS1PWWpsMF9JZ2tLY1JVX3hWVzBzOXB3SG5vd2lIWDllanhUeTBZbUlGeHd3TmhYem9wYTBJRTNDQjlTWVY5cHdobXh0emlnSjJWM1ROLUVwTlJy?oc=5\" target=\"_blank\">Prediction: This Stock Could Be the Biggest Winner From Alphabet's Spending Spree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-02-11T00:16:00+00:00",
+      "title": "Alphabet Stock: Is It Time to Buy the Dip? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDV0dHp1MFYxaGY4SGxSTFBDY0ZUM01pbU1RUS1JNUprd1JyT0d3Mmx2bk1Fd1FHLXJwWml4SEFvS184UXVJT3lCTl8tdER2X2JMczJBSDYwLWtFVXUzZDNhOWpXZElUZHNId1pnYjNTOTFhRm9xZnZiTjVVRnl5ZVZ1YUxxckpfNTdr?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDV0dHp1MFYxaGY4SGxSTFBDY0ZUM01pbU1RUS1JNUprd1JyT0d3Mmx2bk1Fd1FHLXJwWml4SEFvS184UXVJT3lCTl8tdER2X2JMczJBSDYwLWtFVXUzZDNhOWpXZElUZHNId1pnYjNTOTFhRm9xZnZiTjVVRnl5ZVZ1YUxxckpfNTdr?oc=5\" target=\"_blank\">Alphabet Stock: Is It Time to Buy the Dip?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbE01cG1nYlJfb05mSjE5NTBfeGs3d1RPWlZid3B2N2cwVzFqS21ydUVmYWpNbTdhR3BFeXpjSHNhT0hrbmQzaWRJeTNFOElXdUdta1lNSjFTQXlXQjhrUURuZmstdFlkLU1tdXFTWFVwNUtmZUtaaC1IUnRzYmpscF8wZEllX1pwdnBDU004OTl0dkNMcGxVaVR4Yw?oc=5\" target=\"_blank\">After Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEp1S09OZW1YdVFiOHVRdDZvVE90dkYxQXJvQS1ZbGZhdEo5TE91aThTUjRWVW90eTc3Y0VJSVRPZ2JWcjlhbXozdjlJQk9uQzVhWXlZWlpWVy1KWHBxV3pqR1VPNHZQazlMaWYyYUZpSnhMd2Zid1c5TEREbFRKdkNYTlBhMmViOVFuQ2FnTDRkbFRST3dRNDNrWURqUjh1WmNQRmhnYXdJR2dsS2E0WkdXaXg?oc=5\" target=\"_blank\">Stocks in OpenAI’s Orbit Get Second Look as Traders Eye Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+      "published": "2026-02-12T03:41:00+00:00",
       "source": "The Motley Fool"
     },
     {
-      "title": "5 Insightful Analyst Questions From Alphabet's Q4 Earnings Call - Finviz",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXBmWVhnSTk5ckVCR2lwalVpT0szYmJGNEhZelQ5LTc2VWlJY2dST0Y1TzRvSGRPdTF0b01RdzRxZmplN28wTVplSC1CNU9uTW42YmM5MTI4dTUxWm1KTHNyRTBMVHMycHl0LUdvMWtlUjFxLWt0S2lUVTUyVElLLXB4MUFURld6bDBkUjZGMGE0dHhPcDFnMw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXBmWVhnSTk5ckVCR2lwalVpT0szYmJGNEhZelQ5LTc2VWlJY2dST0Y1TzRvSGRPdTF0b01RdzRxZmplN28wTVplSC1CNU9uTW42YmM5MTI4dTUxWm1KTHNyRTBMVHMycHl0LUdvMWtlUjFxLWt0S2lUVTUyVElLLXB4MUFURld6bDBkUjZGMGE0dHhPcDFnMw?oc=5\" target=\"_blank\">5 Insightful Analyst Questions From Alphabet's Q4 Earnings Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
-      "published": "2026-02-11T09:28:55+00:00",
-      "source": "Finviz"
+      "title": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1RxdkdEVVhRMzVYQkpUUkhIemNQNDFpQ2QyRU5uQ3dMTEd2MmItWmRnTHltVWhka3JWcE81emdBZEh2ZkxvQmNkeDdLY1FndUxLNlhxYXk5MS1fSzFNXy1qWHlQWXVBQmRFS1cyUzNobUFsSnZuX1gyWDJnYzU5b0wwdEEtME91ZU9mN3A4anEwQW4waTlFMWdxS29rdE14VmFYWGVlX0t1S09QZHZ1Vjk2X05wb3Z2?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1RxdkdEVVhRMzVYQkpUUkhIemNQNDFpQ2QyRU5uQ3dMTEd2MmItWmRnTHltVWhka3JWcE81emdBZEh2ZkxvQmNkeDdLY1FndUxLNlhxYXk5MS1fSzFNXy1qWHlQWXVBQmRFS1cyUzNobUFsSnZuX1gyWDJnYzU5b0wwdEEtME91ZU9mN3A4anEwQW4waTlFMWdxS29rdE14VmFYWGVlX0t1S09QZHZ1Vjk2X05wb3Z2?oc=5\" target=\"_blank\">Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-02-11T16:29:43+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon, Alphabet and Nvidia are part of Zacks Earnings Preview - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2kxSnh1cnp6YmNPc3VUbmZ2ZHE4Q3JER0diU2pIU21WY3IyTGp4VTVCQmJibjRrbWtvbFVoM0RwSmMzUHYyZF9rMVlkOFdsYkdZMDc5TGJ1b1FhQjZGeWVzV2Q5VUYwWGJ2NkRsUnFnVzd2R3N3Um82aU50elJoZDlUNHNUbUl5amh2WG5ndUhORTlnekprNTZpVThlWFVqTThrTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2kxSnh1cnp6YmNPc3VUbmZ2ZHE4Q3JER0diU2pIU21WY3IyTGp4VTVCQmJibjRrbWtvbFVoM0RwSmMzUHYyZF9rMVlkOFdsYkdZMDc5TGJ1b1FhQjZGeWVzV2Q5VUYwWGJ2NkRsUnFnVzd2R3N3Um82aU50elJoZDlUNHNUbUl5amh2WG5ndUhORTlnekprNTZpVThlWFVqTThrTg?oc=5\" target=\"_blank\">Amazon, Alphabet and Nvidia are part of Zacks Earnings Preview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+      "published": "2026-02-09T09:30:30+00:00",
+      "source": "Zacks Investment Research"
+    },
+    {
+      "title": "Alphabet is doubling its capital expenditure to a staggering $180 billion in 2026 — earnings suggest that the company's AI investments may be paying off - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWVoyRkxuNjYyU3gwMXJlRFE4NHJETmtSWDREM05DRlhkckZMTTM0WUtobVlodDR4RVRxd1VNZ1JmUDdjaFBseTgtNF9rRTc2WGh4SE5KdklXclQ1eTlrcTNleFFjUV9vU0ZMTldRX2EyWENpX091ZW1FVmxRVWRDeVJTSW53djlUMGQ1UDRicVJzeFFtMUZxV09IVzJGM05FUUNMR25yMjFvdVk4NnVhbDdxQkh5aWFQYmRsSUlXRjhPQUxkS240U3djakZCTXYtQTktYkQ1N2Z6S09INXJNRE1Ncm9CWFlGTFB5cmdJc0gxSVhERnFfbHozeEVkTkZaTy1FTW5jd0h0VkY3UmVZaEM0N1dNQXR3aVZ2OVlxdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPWVoyRkxuNjYyU3gwMXJlRFE4NHJETmtSWDREM05DRlhkckZMTTM0WUtobVlodDR4RVRxd1VNZ1JmUDdjaFBseTgtNF9rRTc2WGh4SE5KdklXclQ1eTlrcTNleFFjUV9vU0ZMTldRX2EyWENpX091ZW1FVmxRVWRDeVJTSW53djlUMGQ1UDRicVJzeFFtMUZxV09IVzJGM05FUUNMR25yMjFvdVk4NnVhbDdxQkh5aWFQYmRsSUlXRjhPQUxkS240U3djakZCTXYtQTktYkQ1N2Z6S09INXJNRE1Ncm9CWFlGTFB5cmdJc0gxSVhERnFfbHozeEVkTkZaTy1FTW5jd0h0VkY3UmVZaEM0N1dNQXR3aVZ2OVlxdw?oc=5\" target=\"_blank\">Alphabet is doubling its capital expenditure to a staggering $180 billion in 2026 — earnings suggest that the company's AI investments may be paying off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2026-02-10T15:55:40+00:00",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Amazon, Microsoft, and Alphabet All Reported Robust Cloud Growth. 1 Was a Clear Winner - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHFST2NKVVdGdUx2aC00a00ycmdXcXpySkEzdHdzU0hBSFo2YWNZYXptVDd1cWZYRW9KcndmNjNscW9Na0Jmdi1DV3RZdjZyTE0xQ28zT1ZBRTVObkhkWElmMUNJdFZVeEZBd0E5Rkw5MHNiaHFYZHhKVHBvT2pSbFFzRXFmdXowREYzdUI4RWkwcU9ZM1JR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSHFST2NKVVdGdUx2aC00a00ycmdXcXpySkEzdHdzU0hBSFo2YWNZYXptVDd1cWZYRW9KcndmNjNscW9Na0Jmdi1DV3RZdjZyTE0xQ28zT1ZBRTVObkhkWElmMUNJdFZVeEZBd0E5Rkw5MHNiaHFYZHhKVHBvT2pSbFFzRXFmdXowREYzdUI4RWkwcU9ZM1JR?oc=5\" target=\"_blank\">Amazon, Microsoft, and Alphabet All Reported Robust Cloud Growth. 1 Was a Clear Winner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-02-12T08:02:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Amazon, Meta, and Alphabet report plunging tax bills thanks to AI investment and new rules in Washington - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdmhaR3NUcG9LLVRQZHhXTl9QbWVjUUFVcHE1MnlxZFJTU3NhQjZoZS1lLTRxM0FoUkJmT2pqclMtMnlGNlQwTDN1WnllaTAxZF8yalEwZlNJU01xR3paQzduVUUyVFJhQXBwTG9qTERKWHpvd1BYb3J3TGMwdjY2NjNwMEktaDhXQlRONzhvdUpVNlJlLWwxYUo3SjdmT3NLZnBXc0gyZFdGMDBiNGczeWwzbnl1T0lJcEViYktXX2hyZnhYV2poZldITkVmTVI0QzhkV1lQbXJzR0VxVW9yWi13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdmhaR3NUcG9LLVRQZHhXTl9QbWVjUUFVcHE1MnlxZFJTU3NhQjZoZS1lLTRxM0FoUkJmT2pqclMtMnlGNlQwTDN1WnllaTAxZF8yalEwZlNJU01xR3paQzduVUUyVFJhQXBwTG9qTERKWHpvd1BYb3J3TGMwdjY2NjNwMEktaDhXQlRONzhvdUpVNlJlLWwxYUo3SjdmT3NLZnBXc0gyZFdGMDBiNGczeWwzbnl1T0lJcEViYktXX2hyZnhYV2poZldITkVmTVI0QzhkV1lQbXJzR0VxVW9yWi13?oc=5\" target=\"_blank\">Amazon, Meta, and Alphabet report plunging tax bills thanks to AI investment and new rules in Washington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-02-10T16:12:29+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Google is going for the jugular — by doubling capex and outspending the rest of Big Tech - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa24yd2g5MVdVSUhqR0hlOVByLWtVRnREMy1LYXRlNktQc01jT1M0d2t2bkJvc3dvV21jdmpxN1lGcnRhbGRaUE5DTEZ2RVhWWTZsRXF6RWhEalNZa1BqUXRMMU92aFJfRE9NMERHa2QwaWEzamdhdzdGdlh5Qmxycy1ONFJSRFFNRGRwSmcyMTJqb2VoWG9NUEVKX0lBdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOa24yd2g5MVdVSUhqR0hlOVByLWtVRnREMy1LYXRlNktQc01jT1M0d2t2bkJvc3dvV21jdmpxN1lGcnRhbGRaUE5DTEZ2RVhWWTZsRXF6RWhEalNZa1BqUXRMMU92aFJfRE9NMERHa2QwaWEzamdhdzdGdlh5Qmxycy1ONFJSRFFNRGRwSmcyMTJqb2VoWG9NUEVKX0lBdw?oc=5\" target=\"_blank\">Google is going for the jugular — by doubling capex and outspending the rest of Big Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-02-04T22:25:00+00:00",
+      "source": "Business Insider"
     }
   ],
   "product_launches": [
-    {
-      "title": "Q4 earnings call: Remarks from our CEO - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5\" target=\"_blank\">Q4 earnings call: Remarks from our CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
-      "published": "2026-02-04T22:31:31+00:00",
-      "source": "blog.google"
-    },
     {
       "title": "OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5",
@@ -91,25 +84,28 @@
       "source": "simplywall.st"
     },
     {
-      "title": "Alphabet stock joins $4 trillion club as AI momentum, Apple deal lift sentiment - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXg4ZVI1NHR0QzBwX2JZMTgxY0JJTEFQdmxzQ1BZX3ZPVXJ2clA1d19fME5HTElpemdHZ0ZmOG5ILXM1dktOeEMyRTJERVZ6TVN3eWJ2QU1xRXc3VFVqTkxrazZPZHhnM0EzczhkSTd0QThyMS1VZ2czeDR3aTdHUTJENThTbnBEQl9jZVlwdWFnM2hnOUxmMTJadS05dThWaHlFU005SnVfWC0yR09iQURoaTltLU1yU3hZUTNBVWRCOEhGR1NDVmd3QV9lOE0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXg4ZVI1NHR0QzBwX2JZMTgxY0JJTEFQdmxzQ1BZX3ZPVXJ2clA1d19fME5HTElpemdHZ0ZmOG5ILXM1dktOeEMyRTJERVZ6TVN3eWJ2QU1xRXc3VFVqTkxrazZPZHhnM0EzczhkSTd0QThyMS1VZ2czeDR3aTdHUTJENThTbnBEQl9jZVlwdWFnM2hnOUxmMTJadS05dThWaHlFU005SnVfWC0yR09iQURoaTltLU1yU3hZUTNBVWRCOEhGR1NDVmd3QV9lOE0?oc=5\" target=\"_blank\">Alphabet stock joins $4 trillion club as AI momentum, Apple deal lift sentiment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "published": "2026-01-12T08:00:00+00:00",
+      "title": "Alphabet set to report Q3 earnings after market close, what to expect? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjVsLUNieGpYS0pMNUFJLTR3aEl4WXROSnp6VlJub0RpckVRZk5QM01RSHlzLVAxNlRaRXhNSHZNWXBGTHdia2ppV1JkWW5NNUR0dXd5bmVfS2xkcW4ydUVlYkdSZXRFOWtrbjNBQ2NNOGdJMVpJNUMwZGt5ejY2SjN0TVdyOHZMNmMxMzFQMUpPNTgtUWpoN2FsaVJoMDFfWmJ2UkVvU18xZWM0ekd6Z0FuMzlobXEyel9WaDVkU3dabGs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjVsLUNieGpYS0pMNUFJLTR3aEl4WXROSnp6VlJub0RpckVRZk5QM01RSHlzLVAxNlRaRXhNSHZNWXBGTHdia2ppV1JkWW5NNUR0dXd5bmVfS2xkcW4ydUVlYkdSZXRFOWtrbjNBQ2NNOGdJMVpJNUMwZGt5ejY2SjN0TVdyOHZMNmMxMzFQMUpPNTgtUWpoN2FsaVJoMDFfWmJ2UkVvU18xZWM0ekd6Z0FuMzlobXEyel9WaDVkU3dabGs?oc=5\" target=\"_blank\">Alphabet set to report Q3 earnings after market close, what to expect?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2025-10-29T07:00:00+00:00",
       "source": "TradingView"
+    },
+    {
+      "title": "Smart Virtual Assistant Market Forecasts Report 2025-2030: Alphabet, Apple, Amazon, Microsoft and Samsung Drive Growth Through R&D, Product Launches and Partnerships - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGVXQnphR1ZJYXlpeG1FS2lKUVBONmQ0NGhMVjBOTXJGa3FvNHJGUE5pcHpRTnlXRFo4Wm1RZTRibmRpMTdRM3BiMGhlczRxWThuQjI3OUpKbHFGQ1V6TmRLR1U2SnZSUXNDSmNGOFNfNGhRcDlXNDR4aWMtOVl5d0dvZ1RHUmc1elRwUnRMZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGVXQnphR1ZJYXlpeG1FS2lKUVBONmQ0NGhMVjBOTXJGa3FvNHJGUE5pcHpRTnlXRFo4Wm1RZTRibmRpMTdRM3BiMGhlczRxWThuQjI3OUpKbHFGQ1V6TmRLR1U2SnZSUXNDSmNGOFNfNGhRcDlXNDR4aWMtOVl5d0dvZ1RHUmc1elRwUnRMZw?oc=5\" target=\"_blank\">Smart Virtual Assistant Market Forecasts Report 2025-2030: Alphabet, Apple, Amazon, Microsoft and Samsung Drive Growth Through R&amp;D, Product Launches and Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2025-09-30T07:00:00+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-10",
-      "close": 318.5799865722656
+      "date": "2026-02-11",
+      "close": 310.9599914550781
     },
     "history": [
-      {
-        "date": "2026-02-02",
-        "close": 343.69000244140625
-      },
       {
         "date": "2026-02-03",
         "close": 339.7099914550781
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-10",
         "close": 318.5799865722656
+      },
+      {
+        "date": "2026-02-11",
+        "close": 310.9599914550781
       }
     ],
     "name": "Alphabet Inc."
