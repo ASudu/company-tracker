@@ -2,72 +2,86 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-02-12T12:41:11.730973+00:00",
+  "fetched_at": "2026-02-13T12:36:07.707196+00:00",
   "news": [
     {
-      "title": "Apple’s Latest Attempt to Launch the New Siri Runs Into Snags - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnlOb2F2dXE4MTdvZ0dUSTVnSmFPeDNQODN6NF9EZkp4WU5QOUxVcmRBNEFPV0E4RWJVLVUtRlZjVndUTnRPS0xQVEVQV09ObXliNjJMQ0sxMUtEdGdKRmhDN0RHRjFtb0ppVXNfUVNtOHVfM290SW9oQVdiQU1HbEVQZmlHWXhMeWYycUpsaVhELUp5X0Y0WEkxdzVON3ZMN0ZjcUNLcTNVTlM2QWQtWWU0emc5TTV1bFdxaEFkVjdDMm42NXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnlOb2F2dXE4MTdvZ0dUSTVnSmFPeDNQODN6NF9EZkp4WU5QOUxVcmRBNEFPV0E4RWJVLVUtRlZjVndUTnRPS0xQVEVQV09ObXliNjJMQ0sxMUtEdGdKRmhDN0RHRjFtb0ppVXNfUVNtOHVfM290SW9oQVdiQU1HbEVQZmlHWXhMeWYycUpsaVhELUp5X0Y0WEkxdzVON3ZMN0ZjcUNLcTNVTlM2QWQtWWU0emc5TTV1bFdxaEFkVjdDMm42NXc?oc=5\" target=\"_blank\">Apple’s Latest Attempt to Launch the New Siri Runs Into Snags</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-02-11T19:53:28+00:00",
-      "source": "Bloomberg.com"
+      "title": "Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KOC14WVk4REFPRll5WE9DbmRsN1o5bUZKSUZyaDdCdnRBOU45bmVudEp3ekJLMUpYeDI1ZUhjQ0VBaFJyLW4tcEFmM1hLZTJHWXRSYXQwNEE3RzBRbThybHpqWGVfc0xFNGQxYkZkNTF2VWtRV2fSAXtBVV95cUxPSzNoMldrMjluS3RJeEhHZlRqZXRsR0ZhMXh4aVlwaC14Z0RTTmJPTjYzMGhvM3BsNFg4cE9Bb0NpYUN0RjZuVndXWXhtSVJSeHY0ZGR4RkMwRG5QcHpFTzJRQXRNM0JrYWVYZm1rRW5EcTFXQ1BydmlucGM?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1KOC14WVk4REFPRll5WE9DbmRsN1o5bUZKSUZyaDdCdnRBOU45bmVudEp3ekJLMUpYeDI1ZUhjQ0VBaFJyLW4tcEFmM1hLZTJHWXRSYXQwNEE3RzBRbThybHpqWGVfc0xFNGQxYkZkNTF2VWtRV2fSAXtBVV95cUxPSzNoMldrMjluS3RJeEhHZlRqZXRsR0ZhMXh4aVlwaC14Z0RTTmJPTjYzMGhvM3BsNFg4cE9Bb0NpYUN0RjZuVndXWXhtSVJSeHY0ZGR4RkMwRG5QcHpFTzJRQXRNM0JrYWVYZm1rRW5EcTFXQ1BydmlucGM?oc=5\" target=\"_blank\">Apple's stock has worst day since April as iPhone maker faces FTC scrutiny, reports of Siri delay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxPSTFjeFB4SVdiUF9SSUtTWk1pVVptX1NJYXQtWEJhekVvYTBUcGpFaWxLUnJGMEN5YkNtX19FeUhtRWpCXzM0MzhMVE5sVGFyc09RWXdSNmtTUDE1c2s5MnRCcmR5OG96cEVOLWJ5VEhvSWNqZ29JY0NUWDVSNVl3eHN5cDFWY1p0djVNQjRyMXBBWE5JYmNldEhYOTR0QmlEN050X2djQVBjSE9lU2x5YlJxOGRKYnBVT01xOXJlV1BUVnhfWTZBbDcyWVBId2Qxc3JXV3V0cC1oTEVEUTg3SUNra2Z1ZkpoOTc1bGs5Yll0VVoyV29td0JlNEkxalZxNEFmNXNSOVdKUjdJX0xTVXVEZW9CanE1Z00yZUdNWnJlSU41aDNSeGJPbFp4X0lRZkFvQXpfV1IwNFRCV0djSmV4YlRJaUZrd0lUMmdiWF9HVVpGZ3g0WUt3eEctdHc0QnpFcnBGSTlNSmlMdnY4OW43R3p0R3ZoRlRRMmplanBhN0RuSmIxLXU0ZGhRYmx4T2VRQVlIbWJBVWtMbU5UNmlNVURVN053czdJN0ZodVJDVTdLZmx3?oc=5\" target=\"_blank\">Apple sees $200 billion market-cap wipeout as stock slides on AI fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnlOb2F2dXE4MTdvZ0dUSTVnSmFPeDNQODN6NF9EZkp4WU5QOUxVcmRBNEFPV0E4RWJVLVUtRlZjVndUTnRPS0xQVEVQV09ObXliNjJMQ0sxMUtEdGdKRmhDN0RHRjFtb0ppVXNfUVNtOHVfM290SW9oQVdiQU1HbEVQZmlHWXhMeWYycUpsaVhELUp5X0Y0WEkxdzVON3ZMN0ZjcUNLcTNVTlM2QWQtWWU0emc5TTV1bFdxaEFkVjdDMm42NXc?oc=5\" target=\"_blank\">Apple’s Latest Attempt to Launch New Siri Runs Into Snags</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li></ol>",
+      "published": "2026-02-12T21:48:02+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Apple Taps Brakes on Siri AI Overhaul - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pek5RQzh4SlU1TldVcVMxeEdjZ2Q5TWxva3lqY184dFhvV0hndURqaUNWWDdOcjNRRHV4M1NraWJPUHFlV1l5MlA5QVZsSFNObGZFM3A4T3k0Q09zOWxBQndROFlrVWFVZHF2ZXFza3h6WG52X2RlcGJTaEI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5pek5RQzh4SlU1TldVcVMxeEdjZ2Q5TWxva3lqY184dFhvV0hndURqaUNWWDdOcjNRRHV4M1NraWJPUHFlV1l5MlA5QVZsSFNObGZFM3A4T3k0Q09zOWxBQndROFlrVWFVZHF2ZXFza3h6WG52X2RlcGJTaEI?oc=5\" target=\"_blank\">Apple Taps Brakes on Siri AI Overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "published": "2026-02-12T02:00:45+00:00",
-      "source": "PYMNTS.com"
+      "title": "Trump’s campaign against ‘left-wing’ media finds a new target: Apple News - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEJrQU9zNDlVWW1wY25FTVhhY2x0UTl3M1E1MHpBWGdaYWZOSGhmM0M0b042Q2hFbE9SU0dqdk9NbldvSTB3VFVpLS1mYnNKekNfY0tPblJxZ3FJcUFERHdBZFBDNlJabnMwRTVCV18yZTAtSDFXOXpEYmtHVF95QkItT2I4cjNTWDZUcTdaWmRvczA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEJrQU9zNDlVWW1wY25FTVhhY2x0UTl3M1E1MHpBWGdaYWZOSGhmM0M0b042Q2hFbE9SU0dqdk9NbldvSTB3VFVpLS1mYnNKekNfY0tPblJxZ3FJcUFERHdBZFBDNlJabnMwRTVCV18yZTAtSDFXOXpEYmtHVF95QkItT2I4cjNTWDZUcTdaWmRvczA?oc=5\" target=\"_blank\">Trump’s campaign against ‘left-wing’ media finds a new target: Apple News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "published": "2026-02-13T07:41:13+00:00",
+      "source": "The Washington Post"
     },
     {
-      "title": "Apple’s Siri revamp reportedly delayed… again - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaV9rU2lvMVdYaWxVazRmb3dEc1hRNHRfY0dzdHpUT3dmN1dsdUZ2b2ExaVV5VlNxdkxkeC10cjUxbWUyek5xMS1XLW55emNRQVFPM0dGNThSTW1ldFhyWEx3T1BhOUFaRlhWUW8yQXBfb3Y4VDN6UUM4WVJpaGJRLWhucEo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaV9rU2lvMVdYaWxVazRmb3dEc1hRNHRfY0dzdHpUT3dmN1dsdUZ2b2ExaVV5VlNxdkxkeC10cjUxbWUyek5xMS1XLW55emNRQVFPM0dGNThSTW1ldFhyWEx3T1BhOUFaRlhWUW8yQXBfb3Y4VDN6UUM4WVJpaGJRLWhucEo?oc=5\" target=\"_blank\">Apple’s Siri revamp reportedly delayed… again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-02-11T21:19:46+00:00",
-      "source": "TechCrunch"
+      "title": "FTC warns Apple's Tim Cook over alleged political bias in its Apple News app - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoSVpKeVpFVzBaSUZaOWVTX2c3SWE1dFpIN1pSa1FnV1FJaml3YS1mX3V3elJfdHkyM1FmM1UzUVV3aEg2U2xScURjdVdrbVl0UFhoeE5IUGdncWd6c09vdm1JaFdtdHNYdlJLZmw3Y3hYNjTSAXhBVV95cUxPOTRrSFVVVm9HQ21xaWN6WmRIdFpGeEtqS0tNcmQtZWt6NWhOMFItUlFlM05DUTJNSmgzRm5LR0cyZ3ZJZFdXUUh0ckxkX3lhQTlORWhJaXlUWHkxZFNiZkFJeVZtYUdsLXRBVHFHQmE1ODBMV1ZvVXQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBoSVpKeVpFVzBaSUZaOWVTX2c3SWE1dFpIN1pSa1FnV1FJaml3YS1mX3V3elJfdHkyM1FmM1UzUVV3aEg2U2xScURjdVdrbVl0UFhoeE5IUGdncWd6c09vdm1JaFdtdHNYdlJLZmw3Y3hYNjTSAXhBVV95cUxPOTRrSFVVVm9HQ21xaWN6WmRIdFpGeEtqS0tNcmQtZWt6NWhOMFItUlFlM05DUTJNSmgzRm5LR0cyZ3ZJZFdXUUh0ckxkX3lhQTlORWhJaXlUWHkxZFNiZkFJeVZtYUdsLXRBVHFHQmE1ODBMV1ZvVXQ?oc=5\" target=\"_blank\">FTC warns Apple's Tim Cook over alleged political bias in its Apple News app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "published": "2026-02-12T18:48:31+00:00",
+      "source": "CBS News"
     },
     {
-      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNGtpb1VxVWtNWndISzhGV3g5bFVOMzN4ZWRYRWtqNnhhNzR5SUtZOURPSDh3YWxUV210MkhXVmV3SFI3WXVOWUNvY25jT1lOeHRlVmlnNUlmS0ROZ1N6b0NWV2Y5VndaWWNWazd0WV9ZVHZ0LTFkQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNGtpb1VxVWtNWndISzhGV3g5bFVOMzN4ZWRYRWtqNnhhNzR5SUtZOURPSDh3YWxUV210MkhXVmV3SFI3WXVOWUNvY25jT1lOeHRlVmlnNUlmS0ROZ1N6b0NWV2Y5VndaWWNWazd0WV9ZVHZ0LTFkQQ?oc=5\" target=\"_blank\">Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-02-12T05:39:00+00:00",
-      "source": "The Hacker News"
+      "title": "FTC warns Apple over alleged lack of conservative news - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWTmwyMlpwU1E0bHg3VmdEUlNaSmg5UTZTQUlUTUN0akN6bm8zclpPVjlyX3RWS0pKUVBqM2YtbWtoNk5vLWp4TTRHa2gwaWMyazNTQTZuanBldw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWTmwyMlpwU1E0bHg3VmdEUlNaSmg5UTZTQUlUTUN0akN6bm8zclpPVjlyX3RWS0pKUVBqM2YtbWtoNk5vLWp4TTRHa2gwaWMyazNTQTZuanBldw?oc=5\" target=\"_blank\">FTC warns Apple over alleged lack of conservative news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-02-12T21:57:14+00:00",
+      "source": "BBC"
     },
     {
-      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFd5YUI3Q2V4Tk8yMHNKQmVKd3U1NmI3X2M2dERrVnF6dEVvQWExWWFJSmZDMzZZVXp0X0QwYmowU0k2SWQxdFlXTzBhUm1GaDZSVzVPZTU5akJLMk05bzFCVmZBV09HTTF5cTc3QXNYSHJKTnVJUlgyeVNsbFhiT2Zqd2h6OFE0cVhnWG1sSjUzLUpOZ3hFckxvQ0p2VWRnbm50MUZZYnNjWUw1XzNBaUlGRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFd5YUI3Q2V4Tk8yMHNKQmVKd3U1NmI3X2M2dERrVnF6dEVvQWExWWFJSmZDMzZZVXp0X0QwYmowU0k2SWQxdFlXTzBhUm1GaDZSVzVPZTU5akJLMk05bzFCVmZBV09HTTF5cTc3QXNYSHJKTnVJUlgyeVNsbFhiT2Zqd2h6OFE0cVhnWG1sSjUzLUpOZ3hFckxvQ0p2VWRnbm50MUZZYnNjWUw1XzNBaUlGRQ?oc=5\" target=\"_blank\">Apple fixes zero-day flaw used in 'extremely sophisticated' attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-02-12T01:06:05+00:00",
-      "source": "BleepingComputer"
+      "title": "Presidents' Day sales 2026: The best tech deals to shop this week from Apple, Sony, Samsung and others - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXZGS1VsanUzV3VBenVZMF9ZeHh5WkU0VmlleFRtOUZBOXJmdVRLVFBqZ0lBMUZlVjBRSlBMYlYwb0VtdWViUjI0ZVpWNGFUNlFRNmFHbmJBMG5zc1lzeDdSY2htRlFCMWNwQXRSZXFIZ0VuZ0V5aDZjMC1iRGpfX0JPWUtjR0JQaG8yNEZiMVA1MlhNSzVDWXk4c2RJLUxyVTdvb19yUEx0VkQxcnhFUEEzM2hkYm1XSzRDOHpINVVINDZVcFlIelp3Rml5NHBaVnVhQ3BmT3ZGUzFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXZGS1VsanUzV3VBenVZMF9ZeHh5WkU0VmlleFRtOUZBOXJmdVRLVFBqZ0lBMUZlVjBRSlBMYlYwb0VtdWViUjI0ZVpWNGFUNlFRNmFHbmJBMG5zc1lzeDdSY2htRlFCMWNwQXRSZXFIZ0VuZ0V5aDZjMC1iRGpfX0JPWUtjR0JQaG8yNEZiMVA1MlhNSzVDWXk4c2RJLUxyVTdvb19yUEx0VkQxcnhFUEEzM2hkYm1XSzRDOHpINVVINDZVcFlIelp3Rml5NHBaVnVhQ3BmT3ZGUzFR?oc=5\" target=\"_blank\">Presidents' Day sales 2026: The best tech deals to shop this week from Apple, Sony, Samsung and others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-02-12T15:50:32+00:00",
+      "source": "Engadget"
     },
     {
-      "title": "Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’ - SecurityWeek",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTd1eGpCSGh4QmFXNzIwZm9nQktQdktscVhjLWRKNjR0NjBlWWdHSHE1enlXLUFoeDBxR083LThFbFhKWVI0YzNHX3l5WHNrWUJRWTBDWjhtWVhOaGVwQnBCVUs1TTFQOHlRTjJNN094Yk1LRGRRbUlValdFd04zZl9KWHItc3pGa1VZS0twWmZSUGFtU3hwUGF2NDJXYl9LS2fSAacBQVVfeXFMUGhEemZoTU1UNThKNkNocFd2Q3dtbTNfenFQRmVIcVdzZU9BZk9WblFfcDFLU3pNYkd0X2dkWEttQ3NFRXRiNXc3eHBTZE51NFRfamF5akZFVmlXV19TOUI2UXdsZzlXTVVTLXNyVExnQ0tpRXRFbHhJZHRDVTEtd3dBcnpTWmVJbmZRanVheFhYWm5XaWRrMTVVSl9oUWpJY19BVVdydjQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTd1eGpCSGh4QmFXNzIwZm9nQktQdktscVhjLWRKNjR0NjBlWWdHSHE1enlXLUFoeDBxR083LThFbFhKWVI0YzNHX3l5WHNrWUJRWTBDWjhtWVhOaGVwQnBCVUs1TTFQOHlRTjJNN094Yk1LRGRRbUlValdFd04zZl9KWHItc3pGa1VZS0twWmZSUGFtU3hwUGF2NDJXYl9LS2fSAacBQVVfeXFMUGhEemZoTU1UNThKNkNocFd2Q3dtbTNfenFQRmVIcVdzZU9BZk9WblFfcDFLU3pNYkd0X2dkWEttQ3NFRXRiNXc3eHBTZE51NFRfamF5akZFVmlXV19TOUI2UXdsZzlXTVVTLXNyVExnQ0tpRXRFbHhJZHRDVTEtd3dBcnpTWmVJbmZRanVheFhYWm5XaWRrMTVVSl9oUWpJY19BVVdydjQ?oc=5\" target=\"_blank\">Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityWeek</font>",
-      "published": "2026-02-12T07:48:35+00:00",
-      "source": "SecurityWeek"
+      "title": "Apple Goes Big on iPads for Presidents Day as iPad Air (M3, 11\") Drops Back Near Its Black Friday Low - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHZqTDBBNWhWd0hiT29NdGxZeHB0emdKdnZDRWZXT0FZUGNXSlFmQW1YV0NLZUVEWVVVZ3Y3dGZlX0kxLVVJc21EVkI1cWVQNHBkYW9wclBaSnBLSkRXX0JxdHdVaUNha3RlVk94d0tyLXl4ZDJVUGJrbUI3OGRpSUVRMHNkS3pWSjdVZHBIYkYyY2llSldrWWx5R3I2RkFERmJIRXJYakR1VTJpMWUyV00ta3AzQk82QmlSYTRnTGJnQmRvLVNN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHZqTDBBNWhWd0hiT29NdGxZeHB0emdKdnZDRWZXT0FZUGNXSlFmQW1YV0NLZUVEWVVVZ3Y3dGZlX0kxLVVJc21EVkI1cWVQNHBkYW9wclBaSnBLSkRXX0JxdHdVaUNha3RlVk94d0tyLXl4ZDJVUGJrbUI3OGRpSUVRMHNkS3pWSjdVZHBIYkYyY2llSldrWWx5R3I2RkFERmJIRXJYakR1VTJpMWUyV00ta3AzQk82QmlSYTRnTGJnQmRvLVNN?oc=5\" target=\"_blank\">Apple Goes Big on iPads for Presidents Day as iPad Air (M3, 11\") Drops Back Near Its Black Friday Low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-02-13T12:05:35+00:00",
+      "source": "Gizmodo"
     },
     {
-      "title": "Apple releases iOS 26.3 for iPhone, here’s what’s new - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkJCRFBVUzJFWFdMUnE0SkE3a1Q4QUhUcEo5dFJtNlA0SWJGQmRSVUVfVmNrd2tVMkQ5UjlXV1lBMEs3cVdfR3ZTdzNub3QxcmJoWTZDZGgtTGJXSHhfaUhpdkRJOXZpeFpJMmJ0U3QzZjVJNV9CWl9vTVI2a3RHRDhET2ozSVBnbFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNdkJCRFBVUzJFWFdMUnE0SkE3a1Q4QUhUcEo5dFJtNlA0SWJGQmRSVUVfVmNrd2tVMkQ5UjlXV1lBMEs3cVdfR3ZTdzNub3QxcmJoWTZDZGgtTGJXSHhfaUhpdkRJOXZpeFpJMmJ0U3QzZjVJNV9CWl9vTVI2a3RHRDhET2ozSVBnbFE?oc=5\" target=\"_blank\">Apple releases iOS 26.3 for iPhone, here’s what’s new</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-02-11T18:07:00+00:00",
-      "source": "9to5Mac"
+      "title": "The best Presidents' Day Apple deals — huge discounts on AirPods, iPads, Apple Watches, and more - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTTZONHZiX1RHRTktRTBSb2JWUkdzOTZlaFRoVGJyd1NQZVF2TXMwNE9vMDhkR0VDVEU0RUxid3RKd012ZmQxN3RVUFpZdjN2V2wtbWxHT0NTeF8xNWNvVHI5QS14UzIwYVBSWHYzZEZkWEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTTZONHZiX1RHRTktRTBSb2JWUkdzOTZlaFRoVGJyd1NQZVF2TXMwNE9vMDhkR0VDVEU0RUxid3RKd012ZmQxN3RVUFpZdjN2V2wtbWxHT0NTeF8xNWNvVHI5QS14UzIwYVBSWHYzZEZkWEE?oc=5\" target=\"_blank\">The best Presidents' Day Apple deals — huge discounts on AirPods, iPads, Apple Watches, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-02-12T23:22:59+00:00",
+      "source": "Mashable"
     },
     {
-      "title": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1M5SVZTcEw2dUY1RWFJbXV3alY5c3FHZVNHaW5LRGJlVFdvNEtuSm80anpxOXoyTV9UVmRiUzlsX3otZHFjQlphWDhZTjJSV1JHUmJxOV9ha203cC04YTRCWXR5ak1pOWVDMGI3Q1VRT25lemxKMVlhZlREa0Jqc2g1cVZMM0RvVmpLaDh5NWJTVWNTWkVNblFNM1l4R2xkZE5MaGNWSnkxSm5EOEQ3Mi1nSkVSUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1M5SVZTcEw2dUY1RWFJbXV3alY5c3FHZVNHaW5LRGJlVFdvNEtuSm80anpxOXoyTV9UVmRiUzlsX3otZHFjQlphWDhZTjJSV1JHUmJxOV9ha203cC04YTRCWXR5ak1pOWVDMGI3Q1VRT25lemxKMVlhZlREa0Jqc2g1cVZMM0RvVmpLaDh5NWJTVWNTWkVNblFNM1l4R2xkZE5MaGNWSnkxSm5EOEQ3Mi1nSkVSUQ?oc=5\" target=\"_blank\">Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-02-11T19:49:13+00:00",
-      "source": "Ars Technica"
+      "title": "These Are the Best Apple 3-in-1 Chargers for Travel—I Tested Them All - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlNUYtWUQ0WGFMY1RPSDZLbHIwNFZ3dkdVUW9lMTUwcVlPN0VPYVMyV3o4SkhvTFZPWUcyU2Focm1DSDktd1NCNjFZdWpWOGJfRGNHaTVxNHhBdFVsMWpPaE9SZllCNVhDak1JaHJpVXc5UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBlNUYtWUQ0WGFMY1RPSDZLbHIwNFZ3dkdVUW9lMTUwcVlPN0VPYVMyV3o4SkhvTFZPWUcyU2Focm1DSDktd1NCNjFZdWpWOGJfRGNHaTVxNHhBdFVsMWpPaE9SZllCNVhDak1JaHJpVXc5UQ?oc=5\" target=\"_blank\">These Are the Best Apple 3-in-1 Chargers for Travel—I Tested Them All</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-02-13T12:30:00+00:00",
+      "source": "WIRED"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs - Bloomberg.com",
+      "title": "All the new products Apple could release in March: iPhone 17e, iPad Air, MacBooks - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSDhsYjRsM0dHak1ZYm9IVUxxWlAyV3pUMlZUdV9jN0lQZm9GTEowZ0JITjVaWXRET1pMYWliSjFiTktjblJ4ZkhhQlp1bmMzOGRCNnB5eHMxbTUxNFEyYjhPbGJ6RVI3dEUyazJFdnhKNF9neGRQRVpuWlFQdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSDhsYjRsM0dHak1ZYm9IVUxxWlAyV3pUMlZUdV9jN0lQZm9GTEowZ0JITjVaWXRET1pMYWliSjFiTktjblJ4ZkhhQlp1bmMzOGRCNnB5eHMxbTUxNFEyYjhPbGJ6RVI3dEUyazJFdnhKNF9neGRQRVpuWlFQdw?oc=5\" target=\"_blank\">All the new products Apple could release in March: iPhone 17e, iPad Air, MacBooks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-02-13T02:30:52+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0VaSUViVTlCVzBLbTAyMHZCaVVqbjYwOXRSYXhDSElBRUprMnFac0dvUWpDUXFZZ29LQVZFaE1ZeS1lR2xwYXljdS1oUEFDNkp4QjBSTVdRcWU0ZXlocjJCSVJCcHlrc2FLdEVDZnRhTVhBTHpzdm1sYlZ6NTFNLWViVjg4eGYwazhDWmZ5V05jcUV0akJGQWFuSUI3MkxPQnpPMDBSSU1RZ1FzQ1ZXRGZWcEU4UXZMZUhHUEY3ZG50WWhmMGhTWC1YRTJNWGdRWE1fcg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0VaSUViVTlCVzBLbTAyMHZCaVVqbjYwOXRSYXhDSElBRUprMnFac0dvUWpDUXFZZ29LQVZFaE1ZeS1lR2xwYXljdS1oUEFDNkp4QjBSTVdRcWU0ZXlocjJCSVJCcHlrc2FLdEVDZnRhTVhBTHpzdm1sYlZ6NTFNLWViVjg4eGYwazhDWmZ5V05jcUV0akJGQWFuSUI3MkxPQnpPMDBSSU1RZ1FzQ1ZXRGZWcEU4UXZMZUhHUEY3ZG50WWhmMGhTWC1YRTJNWGdRWE1fcg?oc=5\" target=\"_blank\">Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0VaSUViVTlCVzBLbTAyMHZCaVVqbjYwOXRSYXhDSElBRUprMnFac0dvUWpDUXFZZ29LQVZFaE1ZeS1lR2xwYXljdS1oUEFDNkp4QjBSTVdRcWU0ZXlocjJCSVJCcHlrc2FLdEVDZnRhTVhBTHpzdm1sYlZ6NTFNLWViVjg4eGYwazhDWmZ5V05jcUV0akJGQWFuSUI3MkxPQnpPMDBSSU1RZ1FzQ1ZXRGZWcEU4UXZMZUhHUEY3ZG50WWhmMGhTWC1YRTJNWGdRWE1fcg?oc=5\" target=\"_blank\">Apple Prepares to Kick Off 2026 With the iPhone 17e, New iPads and Macs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "published": "2026-02-08T13:00:10+00:00",
-      "source": "Bloomberg.com"
+      "source": "Bloomberg"
+    },
+    {
+      "title": "All the new products Apple is expected to reveal in 2026 - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5\" target=\"_blank\">All the new products Apple is expected to reveal in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-02-10T10:23:00+00:00",
+      "source": "Business Insider"
     },
     {
       "title": "Apple Expected to Launch These 10+ Products Over the Coming Months - MacRumors",
@@ -77,24 +91,10 @@
       "source": "MacRumors"
     },
     {
-      "title": "All the new products Apple could release in March: iPhone 17e, iPad Air, MacBooks - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSDhsYjRsM0dHak1ZYm9IVUxxWlAyV3pUMlZUdV9jN0lQZm9GTEowZ0JITjVaWXRET1pMYWliSjFiTktjblJ4ZkhhQlp1bmMzOGRCNnB5eHMxbTUxNFEyYjhPbGJ6RVI3dEUyazJFdnhKNF9neGRQRVpuWlFQdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSDhsYjRsM0dHak1ZYm9IVUxxWlAyV3pUMlZUdV9jN0lQZm9GTEowZ0JITjVaWXRET1pMYWliSjFiTktjblJ4ZkhhQlp1bmMzOGRCNnB5eHMxbTUxNFEyYjhPbGJ6RVI3dEUyazJFdnhKNF9neGRQRVpuWlFQdw?oc=5\" target=\"_blank\">All the new products Apple could release in March: iPhone 17e, iPad Air, MacBooks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-02-09T16:52:57+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "We may see Apple's new iPads and MacBooks in only a matter of weeks - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1UYV9XY09pOXFPU1p3bm5ER3pMMXBVM0NvcTgzeEFsQkhoNHg5V2w0b3ZXWUtFMXNXS2Z0TFZjVVNSOEEwLU1vV1RGWEFQX0xHRDVOa1g2eTYySzJrU2ppOVh1WDdyOFpWZGtuUWJHZE9yT2cxb0R6UzFxWDZia0ZvcVZMRENUMldRdEdDeGJRNk55TDd3dEdlOTZnTC1zUENqcWRwZWg4N3pzaUdkSEhPQjVWWmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1UYV9XY09pOXFPU1p3bm5ER3pMMXBVM0NvcTgzeEFsQkhoNHg5V2w0b3ZXWUtFMXNXS2Z0TFZjVVNSOEEwLU1vV1RGWEFQX0xHRDVOa1g2eTYySzJrU2ppOVh1WDdyOFpWZGtuUWJHZE9yT2cxb0R6UzFxWDZia0ZvcVZMRENUMldRdEdDeGJRNk55TDd3dEdlOTZnTC1zUENqcWRwZWg4N3pzaUdkSEhPQjVWWmc?oc=5\" target=\"_blank\">We may see Apple's new iPads and MacBooks in only a matter of weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2026-02-08T19:29:53+00:00",
-      "source": "Engadget"
-    },
-    {
-      "title": "Apple will launch 20+ new products this year, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY1lBNXBnODdXUmVTV1RPSERjLWFSYXB6WTFpNnMzNEUzWHRSVXY3WDYwT1Q4QjZoLWc0MWtyb1JfbWFZWEp5N0k1M214ajVrTWJJWE5nZVFpZXhfR0hBamYzNXdrQl9HQWttczZMOTNJcWZyY0dpbS1KcWNzbzc2VkFqY2FkWjNCTFJfQ29RVldRcTlNdlprZzVn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOY1lBNXBnODdXUmVTV1RPSERjLWFSYXB6WTFpNnMzNEUzWHRSVXY3WDYwT1Q4QjZoLWc0MWtyb1JfbWFZWEp5N0k1M214ajVrTWJJWE5nZVFpZXhfR0hBamYzNXdrQl9HQWttczZMOTNJcWZyY0dpbS1KcWNzbzc2VkFqY2FkWjNCTFJfQ29RVldRcTlNdlprZzVn?oc=5\" target=\"_blank\">Apple will launch 20+ new products this year, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-01-23T08:00:00+00:00",
+      "title": "Four Apple products could be discontinued imminently - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTRvUFBLUk10RU9FXzBMaS1QRFA0V2Rwd09aazdQSTctRnROdFEtQ1ZPcEdFQkd4RU5SU1dQN3ZkTV9WbXVtaS1tZzFaYkExSS1QMXg3T3g1S3IzTF9nZGthelRYV09iNVRHdl9oaUVSeUdTN0NNR1ZzMDJ0dVAxVVRVVndGQkVwcGFHXw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTRvUFBLUk10RU9FXzBMaS1QRFA0V2Rwd09aazdQSTctRnROdFEtQ1ZPcEdFQkd4RU5SU1dQN3ZkTV9WbXVtaS1tZzFaYkExSS1QMXg3T3g1S3IzTF9nZGthelRYV09iNVRHdl9oaUVSeUdTN0NNR1ZzMDJ0dVAxVVRVVndGQkVwcGFHXw?oc=5\" target=\"_blank\">Four Apple products could be discontinued imminently</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-02-12T15:33:00+00:00",
       "source": "9to5Mac"
     }
   ],
@@ -102,14 +102,10 @@
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-11",
-      "close": 275.5
+      "date": "2026-02-12",
+      "close": 261.7300109863281
     },
     "history": [
-      {
-        "date": "2026-02-03",
-        "close": 269.22808837890625
-      },
       {
         "date": "2026-02-04",
         "close": 276.23150634765625
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-11",
         "close": 275.5
+      },
+      {
+        "date": "2026-02-12",
+        "close": 261.7300109863281
       }
     ],
     "name": "Apple Inc."

@@ -2,49 +2,14 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-02-12T12:41:14.931264+00:00",
+  "fetched_at": "2026-02-13T12:36:10.843198+00:00",
   "news": [
     {
-      "title": "How AI changes the math for startups, according to a Microsoft VP - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0xaN3VyLXAyVVZESUd6MWd3LTdtUHU0N0wwdWxzZEtLbEt1am11bmVRbXdBTG5wc0t5LXZGREpEZGpKU2FyNlA0OWdQZ1BBSUpKck5EVW1EdUc3R0k2VlVmaXd2dzRpMlNyX19PVVNvUWo3MGhlWnpRemlyVERaV2tUVE56SUhhdHRiLXNjLW1qX0hmYTdqYlh1UkFYVzhh?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0xaN3VyLXAyVVZESUd6MWd3LTdtUHU0N0wwdWxzZEtLbEt1am11bmVRbXdBTG5wc0t5LXZGREpEZGpKU2FyNlA0OWdQZ1BBSUpKck5EVW1EdUc3R0k2VlVmaXd2dzRpMlNyX19PVVNvUWo3MGhlWnpRemlyVERaV2tUVE56SUhhdHRiLXNjLW1qX0hmYTdqYlh1UkFYVzhh?oc=5\" target=\"_blank\">How AI changes the math for startups, according to a Microsoft VP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-02-11T17:51:37+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft Confirms Windows Is Under Attack — Update Now - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdURYYWtOTFoyQm5UOWoxcTRtOUwtM1E1T1dlTzFqZTRIbng3dnBFam9LdTJ3N2gzQ0F2RGFvWFBreUVMMkl6ZGI2MDBDRURJRU1yZDRaSWFiYWM5alBPZlNIZi1Yd1ZzREVOQnlmMGZYSTZUUkVra3ROTENHNC1fWEFHZy1xN24teHRPdVFoQndkY0Q4YlNXUlFoSDNhTHVteGN4QTU2TnFPeGhs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdURYYWtOTFoyQm5UOWoxcTRtOUwtM1E1T1dlTzFqZTRIbng3dnBFam9LdTJ3N2gzQ0F2RGFvWFBreUVMMkl6ZGI2MDBDRURJRU1yZDRaSWFiYWM5alBPZlNIZi1Yd1ZzREVOQnlmMGZYSTZUUkVra3ROTENHNC1fWEFHZy1xN24teHRPdVFoQndkY0Q4YlNXUlFoSDNhTHVteGN4QTU2TnFPeGhs?oc=5\" target=\"_blank\">Microsoft Confirms Windows Is Under Attack — Update Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-02-11T15:32:49+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUNIT0JrZ0RWQXNpQnRwSXFJTDBCa1NEMUV4WXJZSTE4UGM1MUNQTGRYMnppbUUtMWdQVDlqR0RrMGhVVmd6b1VabmFUbHc5bWphaTdMb1VwaEJCMVprUC1BSzVKZlVRREhwRGQza215Q2h6dXhoZEJ0eXFScTBBLWhONjJqekZ5Z29TaWhHMTlLX1RjXzNOay1lclVxTVpCRVJ2d2MwTGFZMW1i?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUNIT0JrZ0RWQXNpQnRwSXFJTDBCa1NEMUV4WXJZSTE4UGM1MUNQTGRYMnppbUUtMWdQVDlqR0RrMGhVVmd6b1VabmFUbHc5bWphaTdMb1VwaEJCMVprUC1BSzVKZlVRREhwRGQza215Q2h6dXhoZEJ0eXFScTBBLWhONjJqekZ5Z29TaWhHMTlLX1RjXzNOay1lclVxTVpCRVJ2d2MwTGFZMW1i?oc=5\" target=\"_blank\">Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-02-11T18:06:36+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVFwQWxDeHRpN0UxOEhkbTRhYzYweHloeDYtVTVjVFFkRWdxQVZkMi1BYTJmTHFjczBGd0tybkZmVjc4bU5kTjNBcElPQUxReGFYZmEtSkVtdXVvMVI1ZzIwaGNZOGphZzFRbEFfUmxpb3ItV05veTZaVGVKZERrUmFlakNEQ1RUS3ZhSmUxdENabEk0dWV6ODhCMmpLYW54d1M5MWZUX3hpQ2V6dDRfNFFiRdIBuAFBVV95cUxPd0ZSclpHSXoyVGtNcWJ6VGNNaG5GT3VJX0ZqUnhZdWo5UjNmY3ZES2hucUlrai03aUdvWHBKbW5BemVJdkVTbFVEVTlIclpZT2V6VnhLend6YkRaWUVaU0VvcjA0ZjZtbno2eEJvRzNiS1JNUDRZSXV5M1NGMlhZc1JUZGdpUjEzc0Rsa3ZtYWEwSmdGdVQwdVRvSEd4VUxqWFhQbWhWVzV1UWhzZU5TdFhnNmE2MmEx?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVFwQWxDeHRpN0UxOEhkbTRhYzYweHloeDYtVTVjVFFkRWdxQVZkMi1BYTJmTHFjczBGd0tybkZmVjc4bU5kTjNBcElPQUxReGFYZmEtSkVtdXVvMVI1ZzIwaGNZOGphZzFRbEFfUmxpb3ItV05veTZaVGVKZERrUmFlakNEQ1RUS3ZhSmUxdENabEk0dWV6ODhCMmpLYW54d1M5MWZUX3hpQ2V6dDRfNFFiRdIBuAFBVV95cUxPd0ZSclpHSXoyVGtNcWJ6VGNNaG5GT3VJX0ZqUnhZdWo5UjNmY3ZES2hucUlrai03aUdvWHBKbW5BemVJdkVTbFVEVTlIclpZT2V6VnhLend6YkRaWUVaU0VvcjA0ZjZtbno2eEJvRzNiS1JNUDRZSXV5M1NGMlhZc1JUZGdpUjEzc0Rsa3ZtYWEwSmdGdVQwdVRvSEd4VUxqWFhQbWhWVzV1UWhzZU5TdFhnNmE2MmEx?oc=5\" target=\"_blank\">Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-02-10T18:51:46+00:00",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft: When Fundamentals And Technicals Align, It's Time To Buy (MSFT) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlYxbU5aRHRYbXJJQUFhV0kyZzNoRDdybllYcFFpWFBXV0RpbXA1YzcwdEJ4U3NLTzl3a0d2dTUyS1VVeElDQkppWUxaNUY0Y2FPV2dKYTJYNmVzVnJUV1dtVHRETjdtQkl6NmFscGI5MWUxSHNhaXNFY0dESEpWX2d4QTRNUlBEcU5GX2xBTWNPbEFkak85d1NpdEM5TXJQWG94YkxpLWk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlYxbU5aRHRYbXJJQUFhV0kyZzNoRDdybllYcFFpWFBXV0RpbXA1YzcwdEJ4U3NLTzl3a0d2dTUyS1VVeElDQkppWUxaNUY0Y2FPV2dKYTJYNmVzVnJUV1dtVHRETjdtQkl6NmFscGI5MWUxSHNhaXNFY0dESEpWX2d4QTRNUlBEcU5GX2xBTWNPbEFkak85d1NpdEM5TXJQWG94YkxpLWk?oc=5\" target=\"_blank\">Microsoft: When Fundamentals And Technicals Align, It's Time To Buy (MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-02-11T11:20:46+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "If Software Is Dead, Microsoft Wins - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5\" target=\"_blank\">If Software Is Dead, Microsoft Wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-02-12T06:33:14+00:00",
-      "source": "Seeking Alpha"
+      "title": "Microsoft closes its Visitor Center in Redmond in latest HQ change - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0owQmp6RVJUSWV5MHlJVTZnTC1UZVd3TzVob0V0MW5WekFNMXZpOTMzVmtCTEV4MUxjYW9vMENnMkY2eWNHd2pIVlFkWm5JdjNPZGpfdmlzeXM5ZGQ3aURVS0ZoQ3IzYm1TelMxWUFLU2pFNVlCRmYxblRjR2VNWXl4ZUVwOGFvZEl3TjFVXzdkRDdUSFVETHkwZVVoN1FzTmJLcA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0owQmp6RVJUSWV5MHlJVTZnTC1UZVd3TzVob0V0MW5WekFNMXZpOTMzVmtCTEV4MUxjYW9vMENnMkY2eWNHd2pIVlFkWm5JdjNPZGpfdmlzeXM5ZGQ3aURVS0ZoQ3IzYm1TelMxWUFLU2pFNVlCRmYxblRjR2VNWXl4ZUVwOGFvZEl3TjFVXzdkRDdUSFVETHkwZVVoN1FzTmJLcA?oc=5\" target=\"_blank\">Microsoft closes its Visitor Center in Redmond in latest HQ change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "published": "2026-02-12T15:25:06+00:00",
+      "source": "GeekWire"
     },
     {
       "title": "Microsoft eyes AI 'self-sufficiency' after OpenAI deal rejig: report - Seeking Alpha",
@@ -54,11 +19,46 @@
       "source": "Seeking Alpha"
     },
     {
-      "title": "ESW Launches MissionReady365™ to Accelerate Microsoft 365 Staffing for Government Projects - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHNnNHBtUjhVTWxCSDJzRVItT3EtTjVqaGpXeFR0YVJnQVVhSEZ4Q21rcmVwY3dBTVJBSUxZNUpOV1NSUmh3RmhQNG9rb214dkhCSlZmX0w4b013aUxPVDVfUWF2RHMtd25mSXhVY0dFbFhzaDlDYmdNTy1iaTkzUXEwUUUwbWRNVk9NXzlJWlRfNDZjWG1wYTBaRFlUbkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONHNnNHBtUjhVTWxCSDJzRVItT3EtTjVqaGpXeFR0YVJnQVVhSEZ4Q21rcmVwY3dBTVJBSUxZNUpOV1NSUmh3RmhQNG9rb214dkhCSlZmX0w4b013aUxPVDVfUWF2RHMtd25mSXhVY0dFbFhzaDlDYmdNTy1iaTkzUXEwUUUwbWRNVk9NXzlJWlRfNDZjWG1wYTBaRFlUbkE?oc=5\" target=\"_blank\">ESW Launches MissionReady365™ to Accelerate Microsoft 365 Staffing for Government Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "published": "2026-02-12T10:30:00+00:00",
-      "source": "Yahoo Finance Singapore"
+      "title": "Microsoft AI CEO says most white-collar jobs to be replaced with AI in 12 months; ‘models coding better than humans’ | World News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcEN4R3MyX2xnRW9xYjM1Rl9wR3REOG5DVFlIXzVkLXE5Um9vY2pjSkJnQ0tTU0VsWTVhY2tEVm91bEUwNTJvZ3VFX29laHJXaWtfZl9xOTd1LUJwZVJzdnBWVFVSUjVPYzU1eVg5bEtOMEZkR3hNRVpFNXhkSDFCRGo2SjdjcnBWbk1JeHlRaDFIbmNnOTB6d0RiajVWdnIzMnB6QWs3R0otaGdTWkg5czNqd2pDeS1lek5KcHVRbnVnYkpCR05ITlpfNUpmc0xDc2h3NTVvcktvV0tLMVc5c3QzVWQ0YTh3emJuV1hXV0RQUFpmanhlWWdFOXV4SF9jV0NpbExmTdIBjAJBVV95cUxONnA5d0dnQ3VLOURjYzZIeHNqVXlyRWVBbXZyZnlvb19qQlJob0F4SGFfUGhCLWRELTBISElLTGNQVjdxVk9zbjN5WTd6UWdCMHE2MWlxUndqWHdrcmtBNi1SQWJWRzFOSUpKUjAxMzBqTjl2M2FveGQtVFk1QlhkY2tzSDhrTFhVTy04UUtIVGJqRVk1YVVpT2ZVSm14bFRFSWlrR3d6ck9MT0ZYbW13SFloR1U2dzNEdnpTVWRCV0pXalhvUkgzbHFyNFRlakZ4OUdIR2VMR1I2Q215STRnTWtnY3c0VW4zTkxIYVNybGZMMWF1cU55ZTR4blRuR2NicUlFekVERzhhdVFu?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQcEN4R3MyX2xnRW9xYjM1Rl9wR3REOG5DVFlIXzVkLXE5Um9vY2pjSkJnQ0tTU0VsWTVhY2tEVm91bEUwNTJvZ3VFX29laHJXaWtfZl9xOTd1LUJwZVJzdnBWVFVSUjVPYzU1eVg5bEtOMEZkR3hNRVpFNXhkSDFCRGo2SjdjcnBWbk1JeHlRaDFIbmNnOTB6d0RiajVWdnIzMnB6QWs3R0otaGdTWkg5czNqd2pDeS1lek5KcHVRbnVnYkpCR05ITlpfNUpmc0xDc2h3NTVvcktvV0tLMVc5c3QzVWQ0YTh3emJuV1hXV0RQUFpmanhlWWdFOXV4SF9jV0NpbExmTdIBjAJBVV95cUxONnA5d0dnQ3VLOURjYzZIeHNqVXlyRWVBbXZyZnlvb19qQlJob0F4SGFfUGhCLWRELTBISElLTGNQVjdxVk9zbjN5WTd6UWdCMHE2MWlxUndqWHdrcmtBNi1SQWJWRzFOSUpKUjAxMzBqTjl2M2FveGQtVFk1QlhkY2tzSDhrTFhVTy04UUtIVGJqRVk1YVVpT2ZVSm14bFRFSWlrR3d6ck9MT0ZYbW13SFloR1U2dzNEdnpTVWRCV0pXalhvUkgzbHFyNFRlakZ4OUdIR2VMR1I2Q215STRnTWtnY3c0VW4zTkxIYVNybGZMMWF1cU55ZTR4blRuR2NicUlFekVERzhhdVFu?oc=5\" target=\"_blank\">Microsoft AI CEO says most white-collar jobs to be replaced with AI in 12 months; ‘models coding better than humans’ | World News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+      "published": "2026-02-12T15:51:26+00:00",
+      "source": "Hindustan Times"
+    },
+    {
+      "title": "Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd250TnM4UnRaUzZDQlloY0RmeGJkNlFtRzdEM2Z1MUZRTzUyWGM4dndSaHVvbXJKb2J3WnM0VnBLU0tyeGJjSUh0c29ybDVZZkJmejFYVW1MZl9aR1RpaFJNMFRJS01EY2VkNUJ5MFhab2N0dlJ0dE1mUlE5Vlo3TG5vTzFxUm9qdHhjZWQxbTR3UVJjcUJUMHlrZEtNMm93NHFFOGFtRkdwVlhOc3pMM0lYSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQd250TnM4UnRaUzZDQlloY0RmeGJkNlFtRzdEM2Z1MUZRTzUyWGM4dndSaHVvbXJKb2J3WnM0VnBLU0tyeGJjSUh0c29ybDVZZkJmejFYVW1MZl9aR1RpaFJNMFRJS01EY2VkNUJ5MFhab2N0dlJ0dE1mUlE5Vlo3TG5vTzFxUm9qdHhjZWQxbTR3UVJjcUJUMHlrZEtNMm93NHFFOGFtRkdwVlhOc3pMM0lYSQ?oc=5\" target=\"_blank\">Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-02-12T22:16:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Why Microsoft Stock Is A Bargain At $400 - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTk1kaER0dm4yQUFTRmRDZ2U3dEVLZDZFLTdURFNhQ1FNYnJrakM2cHVfc3d4Nk02Z1VUaS1YRXV0VDJzRTNqcUhGZV91Qm41bzI4NjRxTTF0ZTF2dllyX3J6R3NHcmlHRGsxcWctV0lONDNEVlhZOFd1Y3J4XzAwbkJOay1yVUZtTlJ1aF96R1hRaU5GUjRmY3lVQk52Y2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTk1kaER0dm4yQUFTRmRDZ2U3dEVLZDZFLTdURFNhQ1FNYnJrakM2cHVfc3d4Nk02Z1VUaS1YRXV0VDJzRTNqcUhGZV91Qm41bzI4NjRxTTF0ZTF2dllyX3J6R3NHcmlHRGsxcWctV0lONDNEVlhZOFd1Y3J4XzAwbkJOay1yVUZtTlJ1aF96R1hRaU5GUjRmY3lVQk52Y2c?oc=5\" target=\"_blank\">Why Microsoft Stock Is A Bargain At $400</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-02-13T12:00:58+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "If Software Is Dead, Microsoft Wins - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnpHNF9HVXFZcGpuWjROMTlNZGRNSDlheDExYjdVTDYxOVZtcDRsSGZ2cmRhdGg0clBRYkxPVy1ULW5ja2FyQTh1VkFyY1VpS3FnY09jVWFsamVoUUxGY09iUm13ckRXcXg1ZVBUS2tuQWZia3IxVW9YanY4WmZKcg?oc=5\" target=\"_blank\">If Software Is Dead, Microsoft Wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-02-12T06:33:14+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft, Alphabet, Amazon, and Meta Platforms Just Announced Fantastic News for Nvidia. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQzVQU2NxZ0x0dm1oQ2xRWFZ6WHRJVmw1VDdXZExlUEZoeTdKa2hzMlI0MFA3Wmt3UlJUUVBfZm1MMC16Q0hSY2pEejl2a21oQXlkdnpac01zM3dpdVEyNnhneWp3dGZ3UkNpdmRnZHNyMERYV05uUlk1aGFzbFBYU19PTnV2dVM1SHZINGdYUWh6czVPbUhv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQzVQU2NxZ0x0dm1oQ2xRWFZ6WHRJVmw1VDdXZExlUEZoeTdKa2hzMlI0MFA3Wmt3UlJUUVBfZm1MMC16Q0hSY2pEejl2a21oQXlkdnpac01zM3dpdVEyNnhneWp3dGZ3UkNpdmRnZHNyMERYV05uUlk1aGFzbFBYU19PTnV2dVM1SHZINGdYUWh6czVPbUhv?oc=5\" target=\"_blank\">Microsoft, Alphabet, Amazon, and Meta Platforms Just Announced Fantastic News for Nvidia.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-02-13T11:15:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Microsoft Issues 2026 Secure Boot Warning — What This Means For Windows Security - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWl9YUWVDNUxVZ1N0MVRtRUEwbWU3a0VTYUh4T3UwdS1YVnprLWFaTDc3MnNiSEZFZVBLeWdzRGt6bXhmcFBCYUxfYTJhTVIwYVJ4ckhWaHQ4YUUxV0ZNYTRPNjRDTl9lcUZwOEVCTURUZ3RGYmdhX1NzZ1gtX0ZWUzFZV0ZRYlg3c1VtSVI0TQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWl9YUWVDNUxVZ1N0MVRtRUEwbWU3a0VTYUh4T3UwdS1YVnprLWFaTDc3MnNiSEZFZVBLeWdzRGt6bXhmcFBCYUxfYTJhTVIwYVJ4ckhWaHQ4YUUxV0ZNYTRPNjRDTl9lcUZwOEVCTURUZ3RGYmdhX1NzZ1gtX0ZWUzFZV0ZRYlg3c1VtSVI0TQ?oc=5\" target=\"_blank\">Microsoft Issues 2026 Secure Boot Warning — What This Means For Windows Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+      "published": "2026-02-12T22:04:02+00:00",
+      "source": "LinkedIn"
     }
   ],
   "product_launches": [
@@ -77,18 +77,18 @@
       "source": "Microsoft"
     },
     {
-      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
-      "published": "2026-01-08T08:00:00+00:00",
-      "source": "PayPal Newsroom"
-    },
-    {
       "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5\" target=\"_blank\">Windows 95 launched 30 years ago and made us and maybe me who we are today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
       "published": "2025-08-24T07:00:00+00:00",
       "source": "TechRadar"
+    },
+    {
+      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
+      "published": "2026-01-08T08:00:00+00:00",
+      "source": "PayPal Newsroom"
     },
     {
       "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-11",
-      "close": 404.3699951171875
+      "date": "2026-02-12",
+      "close": 401.8399963378906
     },
     "history": [
-      {
-        "date": "2026-02-03",
-        "close": 411.2099914550781
-      },
       {
         "date": "2026-02-04",
         "close": 414.19000244140625
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-11",
         "close": 404.3699951171875
+      },
+      {
+        "date": "2026-02-12",
+        "close": 401.8399963378906
       }
     ],
     "name": "Microsoft Corporation"
