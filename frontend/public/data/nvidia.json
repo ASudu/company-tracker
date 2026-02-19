@@ -2,71 +2,78 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-02-18T12:38:43.811001+00:00",
+  "fetched_at": "2026-02-19T12:40:08.676578+00:00",
   "news": [
-    {
-      "title": "Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiLXZYX1ZjaTRaenZCcmpJT0FZTksxVFpNOWhYOXBHenZDUjlKLXBoTDJuOHluYzRiSWx0YVV6Slljb3NBem9CLVlJUHlTR1FIQk15ODZGRm4yaXduckZ6YW9DNTJoYkZveDFwS3Y1amFOTkRiSi1lNDYxZlQwMFXSAYQBQVVfeXFMTVBJeVBlbFhKZDhpWE56QTZ4VDFJYjlrSk50eFgtQzViYUduMHRZRmJ2amNRdjZDeVFmUnpfNE54LUhqR2ZTSWR0eXBDcE13Q2wxekszejRCTFlKSHRZWDlWZDgzb0pqZjE4QTdrd0FhZDhQSTNHWDZDMlQtNUYya1RTVkJO?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBiLXZYX1ZjaTRaenZCcmpJT0FZTksxVFpNOWhYOXBHenZDUjlKLXBoTDJuOHluYzRiSWx0YVV6Slljb3NBem9CLVlJUHlTR1FIQk15ODZGRm4yaXduckZ6YW9DNTJoYkZveDFwS3Y1amFOTkRiSi1lNDYxZlQwMFXSAYQBQVVfeXFMTVBJeVBlbFhKZDhpWE56QTZ4VDFJYjlrSk50eFgtQzViYUduMHRZRmJ2amNRdjZDeVFmUnpfNE54LUhqR2ZTSWR0eXBDcE13Q2wxekszejRCTFlKSHRZWDlWZDgzb0pqZjE4QTdrd0FhZDhQSTNHWDZDMlQtNUYya1RTVkJO?oc=5\" target=\"_blank\">Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPemNkb3BzZGdsR3hQY01YUXBjN0NtQjFFZUZodXFxaGxxNnhubmxlM2FmbHJPU1AyQU55SzdSVWF0NmdoNFd3VTNHdzlfemZDQUtOQldvWXZSakFWQUplajc3TW1VUlFZMFpXN3plU1ZELXFWNDRabjNIc1p6WkdwZ1gySlBjVEE5RU5GLXZFSGdKWS01alpN0gGcAUFVX3lxTE5nUHU2QVFmRnBsWUVYMEdzUTllU0IwbktyaTFxTUNqakkzbTFjRllZcVg3RmotT29DWTJqQ3dtMlFva1FZUWxGOGtwdlFTV3F1OFJtekUzZTN6OHlCbEhDZHVjTWR6cWRIeXlEcWo4dXJ5YjdYeTU1aUFSemdnNk00VTZoX2tUN0d5VjhiNHdxSllPSzVxM280RWhzNQ?oc=5\" target=\"_blank\">Meta and NVIDIA Announce Long-Term Infrastructure Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlFReGtyNjlLYmJPYjlHY3JRZjVFaGtGSzIxMUw2RVh0S1ZWckxNeTA4UV9XMTNJTFZ0Vm1STEVISm9YV3ZRTURKcE1NZUFmaktxSk5lTjVNNWcySGtDVFk2cWtOU21USU1DdWdDYlFiMW1faVFTbGtXNElJUEF3OXkzQXYydUpCRC16ZlBqc0VEQQ?oc=5\" target=\"_blank\">Meta expands AI infrastructure through partnership with NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-02-17T21:15:01+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Nvidia Sells Off Stake in Arm, a Company It Once Tried to Buy - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVNmZHk3RW5NNGlYbmtKNXIxRk9iSC1USUpoSWV0N2cydXdOVm1VcFhXOW1JYllmdGRtSlMxVl9FNmFFZjQtN0NmX3AzcHdhMGJwMGVobEdrX01vMDMtQjdhWXBjZ1l1QW1NSGdmYUhDSTZaVVdHRUp4M1c3azlRaXdLRzgwc1RHQTZPV3E4b3J3ZGNfd0xwbVRzUlBSRGtDNEFHaWh0aWpJaDFYbVdCZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVNmZHk3RW5NNGlYbmtKNXIxRk9iSC1USUpoSWV0N2cydXdOVm1VcFhXOW1JYllmdGRtSlMxVl9FNmFFZjQtN0NmX3AzcHdhMGJwMGVobEdrX01vMDMtQjdhWXBjZ1l1QW1NSGdmYUhDSTZaVVdHRUp4M1c3azlRaXdLRzgwc1RHQTZPV3E4b3J3ZGNfd0xwbVRzUlBSRGtDNEFHaWh0aWpJaDFYbVdCZw?oc=5\" target=\"_blank\">Nvidia Sells Off Stake in Arm, a Company It Once Tried to Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-02-17T23:39:05+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Arm shares edge higher in premarket as Nvidia shakes up its AI bets - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXbDF5aW4tZ2xiYUJ0UXZjdmJZZjh6OVFubDN3M2tXM2Y3d0dxNUF6ZG9vUGxnYkc4Y1gwZVFYVmxOT3kxTGJET193b1F5ZWxIMU5zM19NYXBMOUM5Y3FMazUyM0R6UjNndFJQWEJ4bDd6Um5KSUpCTNIBfkFVX3lxTE94ZDJTLTJobGdOa0VjZVFlT1FyUUdPaWRaMkNnQnh3a3pNcWNTQkZzNTNTMUdnXzZBWUoxNjdidk1jTmNPVFJIX1RsRXExWXNYSFp1dEJ6UnNKV3RnY0Q3UkdLRlFKSmVRMzRETXhpR3gyR2wwZGhrMWVFY1VlUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBXbDF5aW4tZ2xiYUJ0UXZjdmJZZjh6OVFubDN3M2tXM2Y3d0dxNUF6ZG9vUGxnYkc4Y1gwZVFYVmxOT3kxTGJET193b1F5ZWxIMU5zM19NYXBMOUM5Y3FMazUyM0R6UjNndFJQWEJ4bDd6Um5KSUpCTNIBfkFVX3lxTE94ZDJTLTJobGdOa0VjZVFlT1FyUUdPaWRaMkNnQnh3a3pNcWNTQkZzNTNTMUdnXzZBWUoxNjdidk1jTmNPVFJIX1RsRXExWXNYSFp1dEJ6UnNKV3RnY0Q3UkdLRlFKSmVRMzRETXhpR3gyR2wwZGhrMWVFY1VlUQ?oc=5\" target=\"_blank\">Arm shares edge higher in premarket as Nvidia shakes up its AI bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-02-18T11:31:19+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "NVIDIA Sells Remaining $140 Million Stake in Arm, Keeps Licensing Ties - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNandnMjNuZDlCclpqZGRsMFpoUmtZZ2FhQkFCQW9OZUZha3pmSkE3WkIxbHJDTExILUdHcGRXQXR5aDMwelJBVGl3cWp1S3VtZGNVMW1iQ2Nhc21zdHhCcG9hYkV1MDBLdHZzNGpBRGVEQk01T0dZM2gwRjl1ZHhuTnlFSUkydklJdTFzTXlsRm1fSzAtcHl1TkJSZE5GckxlWmwwWkFaZk1lU3PSAbABQVVfeXFMTkxIMlFnQzZiZUItMWF0RVJWWmNFREJtcjRZX0xOSXVlMW93SWYzZGhwX1Z0U0pmVENrcE1SUTE5MkltRDRBam9VMFJ1cXpCZVVPbUN2ZWl4UmUyRkRGNFlFLXlVd0pPQjJyS0FiWW9vVFQ1dDJDNW5zcEJ0YlJvZnFfWlBnQVljai1GRVlBQUpYc0oyQ1NiSG9UaDQxUFZTZXJBUW9aWnR5TTZ2Zy1fZnU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNandnMjNuZDlCclpqZGRsMFpoUmtZZ2FhQkFCQW9OZUZha3pmSkE3WkIxbHJDTExILUdHcGRXQXR5aDMwelJBVGl3cWp1S3VtZGNVMW1iQ2Nhc21zdHhCcG9hYkV1MDBLdHZzNGpBRGVEQk01T0dZM2gwRjl1ZHhuTnlFSUkydklJdTFzTXlsRm1fSzAtcHl1TkJSZE5GckxlWmwwWkFaZk1lU3PSAbABQVVfeXFMTkxIMlFnQzZiZUItMWF0RVJWWmNFREJtcjRZX0xOSXVlMW93SWYzZGhwX1Z0U0pmVENrcE1SUTE5MkltRDRBam9VMFJ1cXpCZVVPbUN2ZWl4UmUyRkRGNFlFLXlVd0pPQjJyS0FiWW9vVFQ1dDJDNW5zcEJ0YlJvZnFfWlBnQVljai1GRVlBQUpYc0oyQ1NiSG9UaDQxUFZTZXJBUW9aWnR5TTZ2Zy1fZnU?oc=5\" target=\"_blank\">NVIDIA Sells Remaining $140 Million Stake in Arm, Keeps Licensing Ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2026-02-18T09:44:20+00:00",
-      "source": "TechPowerUp"
-    },
-    {
-      "title": "Nvidia, Meta, Palo Alto, Apple, Sandisk, Cadence Design, and More Stock Movers - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWFpNZTZ6a3doVlJEaElkVFhrckxrdTdua21MdWJQVi10dEVBYmRidG9aMU9XWS15OF9Ea2ZrRXFDQnR0UFNBbURGMTFpSmtfWHZZVXBHQnF5enRhSGZvV0xJSDhYQ1ZwcGtNcTgxT29mRmprSGpLUGV5MEJuZnhoVWNOOExjT3JZX2E3THNLdVBNcFVveFBjNWhZbkVqeTBZN3hfYi1NVlZObDhzN01jZmFsVU9nNVRkSGxFejY1Slo5QTBHZEJmY2ZXWDNGTU1EV1lVWmZESFNhV0x1dWt0SzVzczYzRVJIZzI3LVg5amN1bGRjQklUajBLOE5XUEZrRldYd2xudS1lZkw1X29SWjVOeE9SX2czSk9MdElGaXJrMDhRWnFGcV9CY0kwbG9nVWs3N3UyNWtIeDFWdFdGSGViQmhOYUZQZTBVMS1VTktfeVROUW5OWml6bldEUXp3OUR3RHlic2hUdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWFpNZTZ6a3doVlJEaElkVFhrckxrdTdua21MdWJQVi10dEVBYmRidG9aMU9XWS15OF9Ea2ZrRXFDQnR0UFNBbURGMTFpSmtfWHZZVXBHQnF5enRhSGZvV0xJSDhYQ1ZwcGtNcTgxT29mRmprSGpLUGV5MEJuZnhoVWNOOExjT3JZX2E3THNLdVBNcFVveFBjNWhZbkVqeTBZN3hfYi1NVlZObDhzN01jZmFsVU9nNVRkSGxFejY1Slo5QTBHZEJmY2ZXWDNGTU1EV1lVWmZESFNhV0x1dWt0SzVzczYzRVJIZzI3LVg5amN1bGRjQklUajBLOE5XUEZrRldYd2xudS1lZkw1X29SWjVOeE9SX2czSk9MdElGaXJrMDhRWnFGcV9CY0kwbG9nVWs3N3UyNWtIeDFWdFdGSGViQmhOYUZQZTBVMS1VTktfeVROUW5OWml6bldEUXp3OUR3RHlic2hUdw?oc=5\" target=\"_blank\">Nvidia, Meta, Palo Alto, Apple, Sandisk, Cadence Design, and More Stock Movers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-02-18T11:09:00+00:00",
-      "source": "Barron's"
-    },
     {
       "title": "Bank of America resets Nvidia stock forecast - thestreet.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmQ1ekhYQjBDV0V0UjhidnczZzdET1JYSG85MGFpeGZrSXNFR3Fob3YyZzJKWmxuNVFkdG85bDlubGZnUHJYaXZJQTNodEF0LVU2alRZUHExd0t3bG4zNGN2WG1uYjAtbEMyX3hlOWlRRFg0OThBdm1DYlBpa3ZBVWVLNnV3bEtJRHBhTHV2b2s?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmQ1ekhYQjBDV0V0UjhidnczZzdET1JYSG85MGFpeGZrSXNFR3Fob3YyZzJKWmxuNVFkdG85bDlubGZnUHJYaXZJQTNodEF0LVU2alRZUHExd0t3bG4zNGN2WG1uYjAtbEMyX3hlOWlRRFg0OThBdm1DYlBpa3ZBVWVLNnV3bEtJRHBhTHV2b2s?oc=5\" target=\"_blank\">Bank of America resets Nvidia stock forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygNBVV95cUxPdXZqQ3pKV3Q2YWxYS2xMYWQ2RW9ka2FVMW5SeUYxVjc5aERhMVNtTnEtcmY1a0pESE8xZUVicFpRdzlTbEcxMUVvVlp4ei0zdXZrZTcxYjI0N2s2X3F0dDhTMWlYQWhFTjVIQ0REOGxmMTEtLXgxVHFUaU5PanMtaEs1RHEwbGZGTTRUSU1MS1c1VWVFc3pZR3J4Nnp1eWtyWFU3TVhiWlg5d2FGTVQ5MS10X2lDZHd5S1FEMTZIV0lDUkQ2cEV4ZlFPaVJTZ3UtSkNDZ0xTRXFodlA1YlBEZ0pvOUZQV09hUUR1bThOU2c4LUZkTE1VUmNHZncyOWM4QzNaZlBuTGhxQmUwME5XTWtRWTMycWFvcTNkNUE0R1FTcmtjOTJtVDdaRmtFQThuamJ0eWVUUWhkUUVON3d0NWpMVW41SFdQa2FjamU4YmVZU2NiSjlpcHdRZFNqeDVGVXRuNENUR08tVE9IZGxqMUxNeV9ma0lKWkx6ZFk4My1xS3VGdTdDZDRoaWJ3bWNEenlndk5qUmNqa0RxTjJfcTU3ckk1ekp2SWdRVkM4NHAtQ1VzcDE3WXdSdVY4OE9BbHpQOU1DTFVoQQ?oc=5\" target=\"_blank\">Can Nvidia’s stock approach $400? Here’s why earnings may mark the start of a big rally.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxON2VHeEJGcmFrMV9hQm12RGlGY1hNTkxfMXZhU01iVnRzb1Y0eFdrY283eW52YUd0YjZNaGd2cEJic2NRcmpmblhGb0hKMXVRVFBJZ044dldEQnN3OTJ3c0Q5R0QtbXdSVmM0SUxmVmxGeFRreVFTUXFXbGJ2R0dIT0l2Tko1WThrUXgwVEtYNllJSndncUI4SWZCa0JIRjhHMXV4bkQ4V1dqcGhucGNqbUhlQkJ4TUlkVGVGRHVHMmhPTXhvYlE?oc=5\" target=\"_blank\">Nvidia, Tesla Collaborator Looks To Trigger A Breakout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li></ol>",
-      "published": "2026-02-17T19:47:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmQ1ekhYQjBDV0V0UjhidnczZzdET1JYSG85MGFpeGZrSXNFR3Fob3YyZzJKWmxuNVFkdG85bDlubGZnUHJYaXZJQTNodEF0LVU2alRZUHExd0t3bG4zNGN2WG1uYjAtbEMyX3hlOWlRRFg0OThBdm1DYlBpa3ZBVWVLNnV3bEtJRHBhTHV2b2s?oc=5\" target=\"_blank\">Bank of America resets Nvidia stock forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "published": "2026-02-19T04:31:00+00:00",
       "source": "thestreet.com"
     },
     {
-      "title": "India's AI push gets $2 billion boost from Yotta's Nvidia investment - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXRRa3VQX3ZjWDBiVGVsRVI1NnI2eFZoYTdPZ1h2S3ltdTZxVU1LazEyR3NabXp0RGJhVU1pUk5kX0FlWnVDV0JjSTZiWjZkTUlOUGxsWTJod280cDJSSThYS3M3SGp0OEtTRDdKWDlnWjA3eVpUMTdYM29pWVpKY1dTNWlqRl9jOHVlb1RhLWM2T1ZWSDY0RlZMV3FhYXhRYU9OZTJHLVhucnV6Q193Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXRRa3VQX3ZjWDBiVGVsRVI1NnI2eFZoYTdPZ1h2S3ltdTZxVU1LazEyR3NabXp0RGJhVU1pUk5kX0FlWnVDV0JjSTZiWjZkTUlOUGxsWTJod280cDJSSThYS3M3SGp0OEtTRDdKWDlnWjA3eVpUMTdYM29pWVpKY1dTNWlqRl9jOHVlb1RhLWM2T1ZWSDY0RlZMV3FhYXhRYU9OZTJHLVhucnV6Q193Yw?oc=5\" target=\"_blank\">India's AI push gets $2 billion boost from Yotta's Nvidia investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-02-18T04:34:19+00:00",
+      "title": "Nvidia Dumped It, Cathie Wood Bought It. A Pharma Stock Is Splitting the Market. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQRldWMWI5M3c4QjBCaWlWWkFUaTl1R2VLMWFiT3lPeWQzRTg2dEFTc1RkQkU0Z3FBeTJmbndnVzBDVU9KSmI3OGJGMGt0bk9tWjJTWExBX1JsT2R2b0FnZ3RXYm1sTUpCRlJOU3JadVhNQXUxZmNXLUZXT0xuSVo4dzdDVThsVTVBWEF0dGY2UHBocW96M0JrNzVLVXlNUUlramNzMWFTbFVjLWY4ZXV5eVB0SDZUQjItYjNMbkxIajFFV05sOEVVUVpGc3htcVlsMXhrcnJ2UlhTVjhhVjYtN2o2OExnTThRQUZ6X0JVTVdoRzVUVUdDVlZaQTFQZExOa1ZVcHhIcjRibGkzV0llZ3hFZUI4NDhYbVF3bkZ3MURmcU9QZU1MY0ZlS1p0ZE4za0hLYVlpWmVxdS14NXpwLS0zZk9xNDV2bHctZHk2bDB2eHJZVDJUZjI1ZXNuYU1Dc3ZpUk1rVVlJX2JWclFzNFdEd3JnMzU5bmRld2t0dkZHZmRkZnpzbUYySkE4WUdQMHVnNWNqSFdkV3ZaVmhNYQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxQRldWMWI5M3c4QjBCaWlWWkFUaTl1R2VLMWFiT3lPeWQzRTg2dEFTc1RkQkU0Z3FBeTJmbndnVzBDVU9KSmI3OGJGMGt0bk9tWjJTWExBX1JsT2R2b0FnZ3RXYm1sTUpCRlJOU3JadVhNQXUxZmNXLUZXT0xuSVo4dzdDVThsVTVBWEF0dGY2UHBocW96M0JrNzVLVXlNUUlramNzMWFTbFVjLWY4ZXV5eVB0SDZUQjItYjNMbkxIajFFV05sOEVVUVpGc3htcVlsMXhrcnJ2UlhTVjhhVjYtN2o2OExnTThRQUZ6X0JVTVdoRzVUVUdDVlZaQTFQZExOa1ZVcHhIcjRibGkzV0llZ3hFZUI4NDhYbVF3bkZ3MURmcU9QZU1MY0ZlS1p0ZE4za0hLYVlpWmVxdS14NXpwLS0zZk9xNDV2bHctZHk2bDB2eHJZVDJUZjI1ZXNuYU1Dc3ZpUk1rVVlJX2JWclFzNFdEd3JnMzU5bmRld2t0dkZHZmRkZnpzbUYySkE4WUdQMHVnNWNqSFdkV3ZaVmhNYQ?oc=5\" target=\"_blank\">Nvidia Dumped It, Cathie Wood Bought It. A Pharma Stock Is Splitting the Market.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-02-19T10:27:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Nvidia is partnering with major Indian VC firms in search for the country's next AI start-ups - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXFlZlZkenNIXzVoMXNJQ3d2RlA0Rmd2MHM0YnNCRTRRdERrOFhtX3UwMEJuY0o1d1V3bU5tNUctWHE3SGdwVTJCZHk2NXFrbnFJVGR2Q0lsSEhhR253ZFUtYml4ZDVpUmdWYUEzOFB0dW9EWmdPaEZSYl9aa1JlYlR30gGHAUFVX3lxTE1ONjVLLWRUT0YyMk5YMV9ETVdjODBiQXQ1UVZHbW0tMkZMQmcyVm5kX2xseFp2OTVTNURsSGM3MnR5U1FxUVhYYnVlbUdjX1NXaFp4UlJUVjRIRGtzT3I1WHZQTGtNV3pyc0x1VWc5V01NbmJES1A4d2ZVSjVlcFVFdURKTy1Ubw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXFlZlZkenNIXzVoMXNJQ3d2RlA0Rmd2MHM0YnNCRTRRdERrOFhtX3UwMEJuY0o1d1V3bU5tNUctWHE3SGdwVTJCZHk2NXFrbnFJVGR2Q0lsSEhhR253ZFUtYml4ZDVpUmdWYUEzOFB0dW9EWmdPaEZSYl9aa1JlYlR30gGHAUFVX3lxTE1ONjVLLWRUT0YyMk5YMV9ETVdjODBiQXQ1UVZHbW0tMkZMQmcyVm5kX2xseFp2OTVTNURsSGM3MnR5U1FxUVhYYnVlbUdjX1NXaFp4UlJUVjRIRGtzT3I1WHZQTGtNV3pyc0x1VWc5V01NbmJES1A4d2ZVSjVlcFVFdURKTy1Ubw?oc=5\" target=\"_blank\">Nvidia is partnering with major Indian VC firms in search for the country's next AI start-ups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-02-18T03:51:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Wall Street ends higher, lifted by Nvidia and other AI stocks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGFkM0hmVWpDcEdLckwzYV9PRG5ROXd2OU9TdUdIbXhyRHpMSF8xdjIwd1VtTXdWMV9YekxZVGZCNkJhaWZwR2hQMkRJcWdOdVA4bFA3dmN1MjBTUUdIdnZOVnlKRWh5WWlhcHZNMEM2Ul9iblNPWlJyWnFLeXVhZ2pscWxVUUxDUFZOa1EyMVVVdnZxN2pIZnY0WHJDd1k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGFkM0hmVWpDcEdLckwzYV9PRG5ROXd2OU9TdUdIbXhyRHpMSF8xdjIwd1VtTXdWMV9YekxZVGZCNkJhaWZwR2hQMkRJcWdOdVA4bFA3dmN1MjBTUUdIdnZOVnlKRWh5WWlhcHZNMEM2Ul9iblNPWlJyWnFLeXVhZ2pscWxVUUxDUFZOa1EyMVVVdnZxN2pIZnY0WHJDd1k?oc=5\" target=\"_blank\">Wall Street ends higher, lifted by Nvidia and other AI stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-02-18T10:55:57+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Why Did Nvidia Sell Applied Digital (APLD) and Buy Intel? New 13F Filing Reveals Changes - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFRJRE1ZT2p3aGhQSmIxZ0ZtWFVTd0VwczdlZlFmV0oxZHY2UVNGU2VlMTQ3RXFUWHVPVHYxREdCaWtNZnZLa2o5VHltc2ZuMGRqRFhsWmh3UENTMFBvLUwxdDRNZmZ2d3dvTWRBN1pqdERpY0hsbndRdlVXMW5zRHpmVDNvX3E0cEJ6WVA0Sk15cWh2WlEzUkFwclRWWnpIRHhyUVJVZi1TMlJ2T3prSE9RWXFGZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFRJRE1ZT2p3aGhQSmIxZ0ZtWFVTd0VwczdlZlFmV0oxZHY2UVNGU2VlMTQ3RXFUWHVPVHYxREdCaWtNZnZLa2o5VHltc2ZuMGRqRFhsWmh3UENTMFBvLUwxdDRNZmZ2d3dvTWRBN1pqdERpY0hsbndRdlVXMW5zRHpmVDNvX3E0cEJ6WVA0Sk15cWh2WlEzUkFwclRWWnpIRHhyUVJVZi1TMlJ2T3prSE9RWXFGZw?oc=5\" target=\"_blank\">Why Did Nvidia Sell Applied Digital (APLD) and Buy Intel? New 13F Filing Reveals Changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-02-18T02:53:16+00:00",
-      "source": "TipRanks"
+      "title": "3 Trillion Reasons Why Nvidia Is a Phenomenal Stock to Buy Right Now - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDlRS3JWVHJ5S2NPTkw0eWlaRzFwNDJjYjBFc1pPbS0tMnpURzhmankwNnpDOWRHa2JYV19JeGl3bDMwSHkzaUhITFJmME51OWJ5STVSNW5YMVBCcmtOV2l4M3FUU25abHlwY1Z1SkE2S0R2SFEyMk4zSDRlSjdZSlR4OXpDTVJlUF9Tb2JYMzI5NkNJajBkdg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDlRS3JWVHJ5S2NPTkw0eWlaRzFwNDJjYjBFc1pPbS0tMnpURzhmankwNnpDOWRHa2JYV19JeGl3bDMwSHkzaUhITFJmME51OWJ5STVSNW5YMVBCcmtOV2l4M3FUU25abHlwY1Z1SkE2S0R2SFEyMk4zSDRlSjdZSlR4OXpDTVJlUF9Tb2JYMzI5NkNJajBkdg?oc=5\" target=\"_blank\">3 Trillion Reasons Why Nvidia Is a Phenomenal Stock to Buy Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-02-19T10:45:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "L&T partners with NVIDIA for gigawatt-scale AI data centre in India - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZcVBCeHhQdDlJSTRtVTVEXzM1b0hyN2RQTHNLZmx1VGV1MHhDMlV6OUNIVFc2Y08tMC0wSGN4dVJTR0xwSjBlRldJdE5WQVJUUW5JVzdjOG0ycjM1YUpxeU44X296T0IxSkF2U0NodUM2RU5HVnJ5NHVvYXNlUzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBZcVBCeHhQdDlJSTRtVTVEXzM1b0hyN2RQTHNLZmx1VGV1MHhDMlV6OUNIVFc2Y08tMC0wSGN4dVJTR0xwSjBlRldJdE5WQVJUUW5JVzdjOG0ycjM1YUpxeU44X296T0IxSkF2U0NodUM2RU5HVnJ5NHVvYXNlUzA?oc=5\" target=\"_blank\">L&amp;T partners with NVIDIA for gigawatt-scale AI data centre in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-02-19T11:23:27+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Dow Jones Futures: S&P 500 Rises To Resistance As Nvidia, ASML Lead; Carvana Dives Late, Walmart Due - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNU43TUZHM1ZhRURsR1RiX3p2WGExdnU4aUNTdGRaRHA4OXFnTHkyT3h3Qk1lY3VqaTZmbFp2RkpIYWg3VVMzdVBhUWNmeVF0MnFqeGlseWZjeXZ0eHFhWVBwRlJNdGhXZ3FCY2ZGTkp1NEpmQ2w2VkQ1a3EzcnVxa1l4MkRVSXFucHVnUXRlQXZ0NV91cmNVdGJqZHFrZ1hMZFJ1ekd0MkJ5eUltRHJSNDU5N2hmY0hiZ0VzdXdGOF9oMkpP?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQNU43TUZHM1ZhRURsR1RiX3p2WGExdnU4aUNTdGRaRHA4OXFnTHkyT3h3Qk1lY3VqaTZmbFp2RkpIYWg3VVMzdVBhUWNmeVF0MnFqeGlseWZjeXZ0eHFhWVBwRlJNdGhXZ3FCY2ZGTkp1NEpmQ2w2VkQ1a3EzcnVxa1l4MkRVSXFucHVnUXRlQXZ0NV91cmNVdGJqZHFrZ1hMZFJ1ekd0MkJ5eUltRHJSNDU5N2hmY0hiZ0VzdXdGOF9oMkpP?oc=5\" target=\"_blank\">Dow Jones Futures: S&amp;P 500 Rises To Resistance As Nvidia, ASML Lead; Carvana Dives Late, Walmart Due</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "published": "2026-02-19T04:11:00+00:00",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "3 Trillion Reasons Why Nvidia Is a Phenomenal Stock to Buy Right Now - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZWFwUGN4cGl2bWpBTzdsbXVJd2pNYmREZmJ3ZHNrZkZlUW5UR21NTURVUFY3VkVmdWFZUExkSG9xQnlIa05fenVGWWFEeUFsdVgzR2Z6UkppYWtUVnRoc1M4UWUwQW1DOTNhc0ZyTVV4Mm5NMHlZOHpncTM2d0g3Uw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZWFwUGN4cGl2bWpBTzdsbXVJd2pNYmREZmJ3ZHNrZkZlUW5UR21NTURVUFY3VkVmdWFZUExkSG9xQnlIa05fenVGWWFEeUFsdVgzR2Z6UkppYWtUVnRoc1M4UWUwQW1DOTNhc0ZyTVV4Mm5NMHlZOHpncTM2d0g3Uw?oc=5\" target=\"_blank\">3 Trillion Reasons Why Nvidia Is a Phenomenal Stock to Buy Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-02-19T11:05:00+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnRMbUFkelljLWw0V1lfUi05MmM4b0hCWndodWJ0SkhKa1lrdGtNeTVIQzEyNzJNY2lscG1rcDAzTzZlRVpURlVESzlLRVBXSHN0VlhaTWk3ZUxiT3ByWGZnejQyQkpnWUFqc2FvWjBFaG9JaTBHQlJXY0tuanNKWlBjZTNOTWZQUE1MWUpYSUFpeDFXQVd5YUE1RTRYMlc3c0xuOVVfdi1pdWVCUVhkV0FUOWNtcUVFTEE?oc=5\" target=\"_blank\">NVIDIA Launches AI-First DGX Personal Computing Systems With Global Computer Makers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2025-05-18T07:00:00+00:00",
+      "title": "NETWEB.NS Stock Today: February 19 – Up 21% in 3 days on NVIDIA AI launch - Meyka",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcHpNOWFiY3BlX0RZbGxNMTNKSGwwUkZFVm5LeThiemZ2cWllUndqOXpMQ2RyYlBSQ1JKcEltU1VkTXlKdmo3NTE4UURlSDNzSHZMMVhoMHlnek04aHdVQmxDWUFpMGZ6UXplRkFvN1ZpLWpRaGZwaDhtTWtaY0pXcGlJV3BBd3drMDRQWkFTd2hHMV9EZk9iNTE4M2NYQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNcHpNOWFiY3BlX0RZbGxNMTNKSGwwUkZFVm5LeThiemZ2cWllUndqOXpMQ2RyYlBSQ1JKcEltU1VkTXlKdmo3NTE4UURlSDNzSHZMMVhoMHlnek04aHdVQmxDWUFpMGZ6UXplRkFvN1ZpLWpRaGZwaDhtTWtaY0pXcGlJV3BBd3drMDRQWkFTd2hHMV9EZk9iNTE4M2NYQQ?oc=5\" target=\"_blank\">NETWEB.NS Stock Today: February 19 – Up 21% in 3 days on NVIDIA AI launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+      "published": "2026-02-19T12:22:30+00:00",
+      "source": "Meyka"
+    },
+    {
+      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5\" target=\"_blank\">NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-01-05T08:00:00+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
@@ -77,16 +84,9 @@
       "source": "Business Insider"
     },
     {
-      "title": "Netweb scales Make in India computing with launch of its Tyrone AI products powered by NVIDIA - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaTlPVDFkdE0wYzZDZHRya1QxTktiLWVYZFFmU29sRS0xMnJzQk5kSkVCNnM5RG43ZGdfWG5qSEZXLTRDcGVpSDZLckszaWJha0s4NW9IeklkY3NIbkpRQmJ5TlA1R2loYTA5TEVpaGZSSG1oU1NnQ0ZBRnRaZURGVmx1SGhYTUp0UEdtbmx5enBvcXU3eGhwd0lHV0NNRUlodnhkS0FrRHpQOHprb1hOSno0Y1dRV2xZa0tmQXBiME1Cc19mbjd4R3J0emF6dklYY1FnZWNEckNHQllrVWZhRmJ1UkNWN3VhRWQwa1dsTHY2MjRPQ1M3LURQeVNpRHJzRWcyRTZB0gGLAkFVX3lxTE9qWHhjWUV1Zld1Tkt0MEZhN245T3ZudERpQ3VDY0dlS0JxbmI1UGUzVGtINl9ldHBadHlnUmwzcjBPNEt4bFU1STRhUGREckNxSXpoYU1hMC1iQTZMcnI4N3lnUTlSRzRBdU9ILUZobW1LNGVCT2g5R19aWUtJWmdJS1dSWU9wam9zRWJ4YjF5QjItZ3hnRVp2WndYSktMY2hSb21NNk1CRGZhX0Y0MklDeU02VFRuYndWMEpzanUzeHVPVEtmZEljZUZ5ZnpfWXg3MXBLUWwyNHpUYldxNHlhd3A4WmVjVjg0N3VfOFNTVzZfTjVSUzIyMURzSXRFbDJwbXBYbmVsTi1lbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNaTlPVDFkdE0wYzZDZHRya1QxTktiLWVYZFFmU29sRS0xMnJzQk5kSkVCNnM5RG43ZGdfWG5qSEZXLTRDcGVpSDZLckszaWJha0s4NW9IeklkY3NIbkpRQmJ5TlA1R2loYTA5TEVpaGZSSG1oU1NnQ0ZBRnRaZURGVmx1SGhYTUp0UEdtbmx5enBvcXU3eGhwd0lHV0NNRUlodnhkS0FrRHpQOHprb1hOSno0Y1dRV2xZa0tmQXBiME1Cc19mbjd4R3J0emF6dklYY1FnZWNEckNHQllrVWZhRmJ1UkNWN3VhRWQwa1dsTHY2MjRPQ1M3LURQeVNpRHJzRWcyRTZB0gGLAkFVX3lxTE9qWHhjWUV1Zld1Tkt0MEZhN245T3ZudERpQ3VDY0dlS0JxbmI1UGUzVGtINl9ldHBadHlnUmwzcjBPNEt4bFU1STRhUGREckNxSXpoYU1hMC1iQTZMcnI4N3lnUTlSRzRBdU9ILUZobW1LNGVCT2g5R19aWUtJWmdJS1dSWU9wam9zRWJ4YjF5QjItZ3hnRVp2WndYSktMY2hSb21NNk1CRGZhX0Y0MklDeU02VFRuYndWMEpzanUzeHVPVEtmZEljZUZ5ZnpfWXg3MXBLUWwyNHpUYldxNHlhd3A4WmVjVjg0N3VfOFNTVzZfTjVSUzIyMURzSXRFbDJwbXBYbmVsTi1lbw?oc=5\" target=\"_blank\">Netweb scales Make in India computing with launch of its Tyrone AI products powered by NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
-      "published": "2026-02-18T05:21:07+00:00",
-      "source": "Business Standard"
-    },
-    {
       "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - The Wall Street Journal",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNaXZrSGpUNjFJOEFmOGdpaG9FSHlyU0tBUUoxQnhzaER2WW9NaFF2a1BfNlR3cmJGQmhxYU1DaGpOR01fRm80QjVOVkMzSHFRR3NDU1NuOG9hcnFiaG1oTnFXeGpoTV9fcUdOOXpFZmhMQ2tPbHVZcHZORWJLOVlWYjctWFh1Z2pmYWJ2NnIxbExCYU1YOTlfVTdudmxFcnk1YXEzVjZrdUQ0VkFZZ1UxV0dzUXJvNVRKeTdDeWs5MTdmOWo3aG1mMTFKUWtZWV9NZVJQbkZCZ3JBRjYxQzNDTmlGbnpRZUFzc2FaT1gyaHY1VXZHem5VUV9NNnpySlRaRTZZZXp2cDBLeGV2SndGSE9hdGhJSFUzUVgwczYwNE5JR1VvN2NxU3RtanRpOHZxZzNaa24zaGdkc1llWWE0ZW5pWk5MWi1JeGg2NHhIYjdnY085eFQ2amhIcE5KWWZSazZrTGZncl9MMU1fMEJVcGFzdW9Oam42NnVScDQtWUNZeGNKNE9PV21Wa3lmdEduR1RYZG9MSjNnVm5lQUJuYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNaXZrSGpUNjFJOEFmOGdpaG9FSHlyU0tBUUoxQnhzaER2WW9NaFF2a1BfNlR3cmJGQmhxYU1DaGpOR01fRm80QjVOVkMzSHFRR3NDU1NuOG9hcnFiaG1oTnFXeGpoTV9fcUdOOXpFZmhMQ2tPbHVZcHZORWJLOVlWYjctWFh1Z2pmYWJ2NnIxbExCYU1YOTlfVTdudmxFcnk1YXEzVjZrdUQ0VkFZZ1UxV0dzUXJvNVRKeTdDeWs5MTdmOWo3aG1mMTFKUWtZWV9NZVJQbkZCZ3JBRjYxQzNDTmlGbnpRZUFzc2FaT1gyaHY1VXZHem5VUV9NNnpySlRaRTZZZXp2cDBLeGV2SndGSE9hdGhJSFUzUVgwczYwNE5JR1VvN2NxU3RtanRpOHZxZzNaa24zaGdkc1llWWE0ZW5pWk5MWi1JeGg2NHhIYjdnY085eFQ2amhIcE5KWWZSazZrTGZncl9MMU1fMEJVcGFzdW9Oam42NnVScDQtWUNZeGNKNE9PV21Wa3lmdEduR1RYZG9MSjNnVm5lQUJuYw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOSkMyTGxtRThCZ0NKbDZQSlRIWmNzS0dHcTFuNWpwYWx3amVXYWowNTNIS0E2akdzQUg1bzhfOHRvejBaUkZ0Y0RldW10TnZUR1JDU3ZXOE9qZ3ZrMmtncWx0bC0zU2JvcDVXclpZTWVkWDd3S21HOFFUV1hpWktfSmMzc1dxYS1fYnV0NG9nSXFmUTJLSVZPeEc1cEctaU5rMmtuTnhpQkZUNGUyNS15aEVGVktxajlaSEdVMmU0REZWSk05aURIb2lIMm1LUU05RmhxUVhJc25wSGltUDNzc0xhbGVtSTZKX3Y0aHdDVzVPWlZuOS1kOWNUY0dVc3B5TFg4LUt0MktZZENhT0QzTzY2aFViZm00ZmN1VjdOLWpFOXBIRzRWUC1VdmRHOE5JSzd2dWhhNmJIckNPT3QzbzhZcDBwaGtvd3J4cE5qOFQzWkM0N2Y2b29BelllZ2MyTE5JX1pkcUdULVQ2Vnh0bklwUjladUNFN2FXQ2tsc2hVczlfNVAyV0ZHOUJvVVpBYWs2LTdqR0tNcG5rcTg4aw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxOSkMyTGxtRThCZ0NKbDZQSlRIWmNzS0dHcTFuNWpwYWx3amVXYWowNTNIS0E2akdzQUg1bzhfOHRvejBaUkZ0Y0RldW10TnZUR1JDU3ZXOE9qZ3ZrMmtncWx0bC0zU2JvcDVXclpZTWVkWDd3S21HOFFUV1hpWktfSmMzc1dxYS1fYnV0NG9nSXFmUTJLSVZPeEc1cEctaU5rMmtuTnhpQkZUNGUyNS15aEVGVktxajlaSEdVMmU0REZWSk05aURIb2lIMm1LUU05RmhxUVhJc25wSGltUDNzc0xhbGVtSTZKX3Y0aHdDVzVPWlZuOS1kOWNUY0dVc3B5TFg4LUt0MktZZENhT0QzTzY2aFViZm00ZmN1VjdOLWpFOXBIRzRWUC1VdmRHOE5JSzd2dWhhNmJIckNPT3QzbzhZcDBwaGtvd3J4cE5qOFQzWkM0N2Y2b29BelllZ2MyTE5JX1pkcUdULVQ2Vnh0bklwUjladUNFN2FXQ2tsc2hVczlfNVAyV0ZHOUJvVVpBYWs2LTdqR0tNcG5rcTg4aw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
       "published": "2025-10-28T07:00:00+00:00",
       "source": "The Wall Street Journal"
     },
@@ -102,14 +102,10 @@
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-17",
-      "close": 184.97000122070312
+      "date": "2026-02-18",
+      "close": 187.97999572753906
     },
     "history": [
-      {
-        "date": "2026-02-06",
-        "close": 185.41000366210938
-      },
       {
         "date": "2026-02-09",
         "close": 190.0399932861328
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-17",
         "close": 184.97000122070312
+      },
+      {
+        "date": "2026-02-18",
+        "close": 187.97999572753906
       }
     ],
     "name": "NVIDIA Corporation"

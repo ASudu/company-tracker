@@ -2,14 +2,56 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-02-18T12:38:34.172478+00:00",
+  "fetched_at": "2026-02-19T12:39:57.639458+00:00",
   "news": [
     {
-      "title": "Microsoft says it is on pace to invest $50 billion in 'Global South' AI push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0FhbGhwdm44R2REZnVjWE5pQ0lEZnMtd2R5MHhnTE1WSkE4cFhTd3ZIWnRkaFphVTNtWktQbzNucW9TZXphWU5oMUIyUExLWmJrNTRCOVg1N0l0NGJ6SGt2Q0IwYjdPTWF4UjFmWjRLQW5hdi1oUEphOHA1a0xDa3hDVGxyUXl5VWR6eG13VmdPVE5XTW50SWdFcmJ4ZjFNZm5aTWVqU09TT1ozYV9zU1pn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0FhbGhwdm44R2REZnVjWE5pQ0lEZnMtd2R5MHhnTE1WSkE4cFhTd3ZIWnRkaFphVTNtWktQbzNucW9TZXphWU5oMUIyUExLWmJrNTRCOVg1N0l0NGJ6SGt2Q0IwYjdPTWF4UjFmWjRLQW5hdi1oUEphOHA1a0xDa3hDVGxyUXl5VWR6eG13VmdPVE5XTW50SWdFcmJ4ZjFNZm5aTWVqU09TT1ozYV9zU1pn?oc=5\" target=\"_blank\">Microsoft says it is on pace to invest $50 billion in 'Global South' AI push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-02-18T05:48:24+00:00",
-      "source": "Reuters"
+      "title": "Microsoft says Copilot was summarizing confidential emails without permission - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjdpZkQ2Y2Z5SlNQNnJ1UmJrd1ZsLXRWd1U4bkxHNGVWSzRPaGNRbkJtd1FPZ3Y3NFJRV2NkTjVYazJ5ZS1mMzZzYl9mZ2lHVUI5SlpXRmhVYkxucEVBZGVzOHkxbHZOS3YyYnhHdnFpQnZLUm1fVmNnV2gzX3VkYklhQm5ZQkZZTHFYcHQtRHZEMmZxZVZvcVh6alFFUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcjdpZkQ2Y2Z5SlNQNnJ1UmJrd1ZsLXRWd1U4bkxHNGVWSzRPaGNRbkJtd1FPZ3Y3NFJRV2NkTjVYazJ5ZS1mMzZzYl9mZ2lHVUI5SlpXRmhVYkxucEVBZGVzOHkxbHZOS3YyYnhHdnFpQnZLUm1fVmNnV2gzX3VkYklhQm5ZQkZZTHFYcHQtRHZEMmZxZVZvcVh6alFFUQ?oc=5\" target=\"_blank\">Microsoft says Copilot was summarizing confidential emails without permission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-02-18T23:40:58+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3lWVlU0VnNsejBKNFhCU1ZGcXlCekFRNnNZSm53RDlTbmlHbE1mMm9uSnlvOFhjMFBUNDIwc2JScjVlYk51VFJva0c1cjV1clRYXzVVSzViWThiTHJBTTFYQjZCeThudmVQdWE4ZHNJSTBaNjBXZGt2RkJlRUlmQTZ3UnZ5SnlrY3ZaZHJpLWVwbU1CbFIxZ1lud3dYNW1xUWVEWDRSTzlUWVNTZS1OX05n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3lWVlU0VnNsejBKNFhCU1ZGcXlCekFRNnNZSm53RDlTbmlHbE1mMm9uSnlvOFhjMFBUNDIwc2JScjVlYk51VFJva0c1cjV1clRYXzVVSzViWThiTHJBTTFYQjZCeThudmVQdWE4ZHNJSTBaNjBXZGt2RkJlRUlmQTZ3UnZ5SnlrY3ZaZHJpLWVwbU1CbFIxZ1lud3dYNW1xUWVEWDRSTzlUWVNTZS1OX05n?oc=5\" target=\"_blank\">Microsoft says Office bug exposed customers’ confidential emails to Copilot AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-02-18T14:44:28+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft says bug causes Copilot to summarize confidential emails - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29TcFBpcnVqTnRlczRHV3h2b0hwaG16Q2lVenl3ZmNPRnJXalpybUNnX2J3OHYyc0ROcUJocklKcmZIMUhKUmQzaDNJTHZJaFRNUHZoREJmUDdjMXh5TFdqeW9jczFGQVloRjRMcXJtbU1lcmpWS1JORXRKRzhVYUR6UGJRUzlKSEhfZXUxaUVjU0VuUkczYnVjZ1VQQVF4c1h5YlluaVRxUUJObkUyMWJaTjcyZ9IBuwFBVV95cUxOZTRnSzlXc2E5RC00ejlVU0VjV2VVMlZMZHJ2cnF4Qnh6cWpIVHR2dnZfMG5aTHhaaEFXcm9iVUxPaDFFUVg3V0tiSEE1UDYwLTZNMDMwUnY5WHNuOURVUng0MU00X2pJVjZ4eVVsX3Rlb1E2T08wWkVndWY3Yk1WUnVyZ3RZWUxtUndKT2dEdjN5Rl9nLWVMNENVRklkTXZQMHZMd2RxRnliQWhMOGRZa0FDaHNOT2p0cmpJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOU29TcFBpcnVqTnRlczRHV3h2b0hwaG16Q2lVenl3ZmNPRnJXalpybUNnX2J3OHYyc0ROcUJocklKcmZIMUhKUmQzaDNJTHZJaFRNUHZoREJmUDdjMXh5TFdqeW9jczFGQVloRjRMcXJtbU1lcmpWS1JORXRKRzhVYUR6UGJRUzlKSEhfZXUxaUVjU0VuUkczYnVjZ1VQQVF4c1h5YlluaVRxUUJObkUyMWJaTjcyZ9IBuwFBVV95cUxOZTRnSzlXc2E5RC00ejlVU0VjV2VVMlZMZHJ2cnF4Qnh6cWpIVHR2dnZfMG5aTHhaaEFXcm9iVUxPaDFFUVg3V0tiSEE1UDYwLTZNMDMwUnY5WHNuOURVUng0MU00X2pJVjZ4eVVsX3Rlb1E2T08wWkVndWY3Yk1WUnVyZ3RZWUxtUndKT2dEdjN5Rl9nLWVMNENVRklkTXZQMHZMd2RxRnliQWhMOGRZa0FDaHNOT2p0cmpJ?oc=5\" target=\"_blank\">Microsoft says bug causes Copilot to summarize confidential emails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2026-02-18T12:03:05+00:00",
+      "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft can now store data for 10,000 years on everyday glass thanks to laser breakthrough - Live Science",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDNta2k2eVd5dElsOGhwT2xrakkwNUZLSnQwbDQwZ2M3aG8xTlYtRXZaTGdrUmZGRWpvTFhKWTJvbHJBaFpZRERIeXZielR3WVZlWjBQSTY1cUI1dWhYamU1NFppcVRDVllERDlXaDZMcDA0ck9qbWtPQXZFdU1leDZCQjZua1NmNWZlUEVSWnpSVmFJRU02SVFrRDF6NUlPOFVSY25VSF90SmJRR2kzWjAya3NHajk1X1VOMktQbTVIYUhKT2x5bzVseVRUZDl1b2t1Y3ZHODY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDNta2k2eVd5dElsOGhwT2xrakkwNUZLSnQwbDQwZ2M3aG8xTlYtRXZaTGdrUmZGRWpvTFhKWTJvbHJBaFpZRERIeXZielR3WVZlWjBQSTY1cUI1dWhYamU1NFppcVRDVllERDlXaDZMcDA0ck9qbWtPQXZFdU1leDZCQjZua1NmNWZlUEVSWnpSVmFJRU02SVFrRDF6NUlPOFVSY25VSF90SmJRR2kzWjAya3NHajk1X1VOMktQbTVIYUhKT2x5bzVseVRUZDl1b2t1Y3ZHODY?oc=5\" target=\"_blank\">Microsoft can now store data for 10,000 years on everyday glass thanks to laser breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Science</font>",
+      "published": "2026-02-18T17:45:00+00:00",
+      "source": "Live Science"
+    },
+    {
+      "title": "Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzREaUJ3YXBmV29iUHJhek9VQ09MVDhnVmJrYlVLWjZtR2JZNnYyWmRqN0N6UUlXVXpMSmVSX0VtYWRnbUpIQ21LeFN3QndvdHJNRk11SU9mYjBDWkhmZHpseFZMekJEUlJFa01jNFFteFU1eFlGel9VaVhSb3l6cUJKRjNWeUtuWUJRQ1h1ZExZSWdwRnU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzREaUJ3YXBmV29iUHJhek9VQ09MVDhnVmJrYlVLWjZtR2JZNnYyWmRqN0N6UUlXVXpMSmVSX0VtYWRnbUpIQ21LeFN3QndvdHJNRk11SU9mYjBDWkhmZHpseFZMekJEUlJFa01jNFFteFU1eFlGel9VaVhSb3l6cUJKRjNWeUtuWUJRQ1h1ZExZSWdwRnU0?oc=5\" target=\"_blank\">Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-02-18T19:55:02+00:00",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Microsoft’s new 10,000-year data storage medium: glass - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDhvTkdIeEhpNnJZZGhQZFBnbWxtVHluNlY1NXN6cFdsWGJBRk81UUdBVU9iVEpQU1dTZ2Q3ek1mbjNONE5ETHQxSUF1a2NzRWZ5WXBLUVZxV1hqem9JbHBaTzRfdGQzdV9wWFcyUDdFNVRRMzJaeE9BcnlRcjQ3VjBHUlAtR2w3aF91aWZsOUlYaFdNenBF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDhvTkdIeEhpNnJZZGhQZFBnbWxtVHluNlY1NXN6cFdsWGJBRk81UUdBVU9iVEpQU1dTZ2Q3ek1mbjNONE5ETHQxSUF1a2NzRWZ5WXBLUVZxV1hqem9JbHBaTzRfdGQzdV9wWFcyUDdFNVRRMzJaeE9BcnlRcjQ3VjBHUlAtR2w3aF91aWZsOUlYaFdNenBF?oc=5\" target=\"_blank\">Microsoft’s new 10,000-year data storage medium: glass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-02-18T19:01:55+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Tesla Stock Falls. Why Retail Investors Keep Buying Alongside Micron, Microsoft, Others. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQVHd4dDAtS0xEcXVWN0VTTm1aV09CaXJqMF9HWFlUdXhxZ3NYWTBZSmlmdUstX0NyQXA4TW9hbWJyckFsaWJrZm9VWndQS2M2b0d1aTFFSzBSVS1Ubk01aGthTEN1c0hDTkEwUTViYWlJRG0wQnlqV1ZjYTAtU09qNmUtRXpkczlPU2RRc21yZDBUd19saEhYdHZRallQVjdTVFp2ZElUNm43LXZYSUtQVU50ZmU3U2Z0V3lDTHdvbUlRQ2xGTEVNdENsWUlSWF9MRDc0WW5vdDFYNGlwS2FDR054eFhjd05nak1sUlVLdDRNS2pIeGt5OURrcDEyeWU0bG9XU05lRzJ1N3VFVk1WYk9LTXhTVmF2S0tWSnpHRjNnZm94WGlKWVB5N0RDN2UzSE15d1NmUDRzSnkzR2NGZlZoLURnQl9nNXk4WDg5S05yVVl2OXMtM1JEY3RTOGlKOGhCVnM3TnFwUF94VkwyQ3NwQTB1elhfWVplczA1eU1vSTlqTDNnVUp6MGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxQVHd4dDAtS0xEcXVWN0VTTm1aV09CaXJqMF9HWFlUdXhxZ3NYWTBZSmlmdUstX0NyQXA4TW9hbWJyckFsaWJrZm9VWndQS2M2b0d1aTFFSzBSVS1Ubk01aGthTEN1c0hDTkEwUTViYWlJRG0wQnlqV1ZjYTAtU09qNmUtRXpkczlPU2RRc21yZDBUd19saEhYdHZRallQVjdTVFp2ZElUNm43LXZYSUtQVU50ZmU3U2Z0V3lDTHdvbUlRQ2xGTEVNdENsWUlSWF9MRDc0WW5vdDFYNGlwS2FDR054eFhjd05nak1sUlVLdDRNS2pIeGt5OURrcDEyeWU0bG9XU05lRzJ1N3VFVk1WYk9LTXhTVmF2S0tWSnpHRjNnZm94WGlKWVB5N0RDN2UzSE15d1NmUDRzSnkzR2NGZlZoLURnQl9nNXk4WDg5S05yVVl2OXMtM1JEY3RTOGlKOGhCVnM3TnFwUF94VkwyQ3NwQTB1elhfWVplczA1eU1vSTlqTDNnVUp6MGc?oc=5\" target=\"_blank\">Tesla Stock Falls. Why Retail Investors Keep Buying Alongside Micron, Microsoft, Others.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-02-19T12:07:00+00:00",
+      "source": "Barron's"
     },
     {
       "title": "Microsoft pledges $50 billion to tackle AI inequality as it warns of a ‘growing divide’ - CNN",
@@ -17,48 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1g2NTI0RHp4MlB4cGkxcDF2clFhSjloTENqRjRoYUtQZVBTVW1XcjJkWmwyX3A4NUI2WkZLNVhWYXA0REY0dGZpcldGZzBzck9mUTNSTlZ1dDVDM0lLc0VzQ3ZJSWtueHVNbDZwclZXSjdHZlhROGtFNVVIdmVFcXRiOGF1UV9nUmEzTzMySlh0UQ?oc=5\" target=\"_blank\">Microsoft pledges $50 billion to tackle AI inequality as it warns of a ‘growing divide’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
       "published": "2026-02-18T12:02:05+00:00",
       "source": "CNN"
-    },
-    {
-      "title": "Microsoft to invest $50B to expand AI access across the global south (MSFT:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDhaWDBZOVhad0lJaEphMVZkbW0tbVFHa2RaWW0wT0lpUXhucGJXYjdtVFprN2JXeVNMTzYxTFFYLXlNeURwQjZ4V0NzZnVMZlgzR19MVlVGaWxvOHZuRjg4RElZTTJYZjJHZlM0cFNEalVFTXB5b2lBRW5KSXVaTTlXSmZiTG1GSE1DQVhzM1R6bGlDdUh2VnlVcTE5VG5hZ2dNcFVwQlQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDhaWDBZOVhad0lJaEphMVZkbW0tbVFHa2RaWW0wT0lpUXhucGJXYjdtVFprN2JXeVNMTzYxTFFYLXlNeURwQjZ4V0NzZnVMZlgzR19MVlVGaWxvOHZuRjg4RElZTTJYZjJHZlM0cFNEalVFTXB5b2lBRW5KSXVaTTlXSmZiTG1GSE1DQVhzM1R6bGlDdUh2VnlVcTE5VG5hZ2dNcFVwQlQ?oc=5\" target=\"_blank\">Microsoft to invest $50B to expand AI access across the global south (MSFT:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-02-18T04:58:23+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Anthropic Could Share Up to $6.4 Billion With Amazon, Google and Microsoft in 2027 - The Information",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXdBaDRDZklaY29Pak9UNXZBQjZSZGdwSm1lMzF1RmZ3UEYyc1ZUTXUzNUFDZjZPakV5dERqWHNGdFpURjd2aFBZVGdoYm9MMVFZQl8tVnN2MzRDajlmOXdQbk5CaXpjUFFweHltVjJ5OUlmMkE5ZG8tRUwzdll1OV9nNTlCQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXdBaDRDZklaY29Pak9UNXZBQjZSZGdwSm1lMzF1RmZ3UEYyc1ZUTXUzNUFDZjZPakV5dERqWHNGdFpURjd2aFBZVGdoYm9MMVFZQl8tVnN2MzRDajlmOXdQbk5CaXpjUFFweHltVjJ5OUlmMkE5ZG8tRUwzdll1OV9nNTlCQQ?oc=5\" target=\"_blank\">Anthropic Could Share Up to $6.4 Billion With Amazon, Google and Microsoft in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-02-18T00:46:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "ICE tripled its reliance on Microsoft in last six months, leaked files reveal - +972 Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nYmxZbDctRGJDaURmSVIzbHZIYzJsTU42NHJHTm5iVjcxMkhxZlYtSnczRU1lcUV0M3BrYWp3ODJRdTJPR25jcVdma3dfd2pfN0FBd2hpY0RYR2VRcGd5dy1zVmJUMTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nYmxZbDctRGJDaURmSVIzbHZIYzJsTU42NHJHTm5iVjcxMkhxZlYtSnczRU1lcUV0M3BrYWp3ODJRdTJPR25jcVdma3dfd2pfN0FBd2hpY0RYR2VRcGd5dy1zVmJUMTg?oc=5\" target=\"_blank\">ICE tripled its reliance on Microsoft in last six months, leaked files reveal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">+972 Magazine</font>",
-      "published": "2026-02-18T06:02:51+00:00",
-      "source": "+972 Magazine"
-    },
-    {
-      "title": "Why Microsoft Stock Is Bracing For A Bull Run - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHV2T3ZBeFlDTHc2Mm5OeDkzUWJ6cEdWckpQYVdpWW82ZjFNXzFjMFgyQnlOMllZQXdHOHhCaUZSRlFtUlppal9JVGxMSFUycXpQcU9GSTcySU1OWVBVSVJFWTI5TERPdzNSeWhlbTZxSnBMSE83QjYwdnBLNVNiVzdsRF9OMXhQVUFNbmRiWWRMVWd2ZE8wUXl3QWY4Z05DUmo4UENVWQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHV2T3ZBeFlDTHc2Mm5OeDkzUWJ6cEdWckpQYVdpWW82ZjFNXzFjMFgyQnlOMllZQXdHOHhCaUZSRlFtUlppal9JVGxMSFUycXpQcU9GSTcySU1OWVBVSVJFWTI5TERPdzNSeWhlbTZxSnBMSE83QjYwdnBLNVNiVzdsRF9OMXhQVUFNbmRiWWRMVWd2ZE8wUXl3QWY4Z05DUmo4UENVWQ?oc=5\" target=\"_blank\">Why Microsoft Stock Is Bracing For A Bull Run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGhmS2xibjUzcVR0dVpYTkVINW5QUE5IWmNVOXFNNEFGS0lOVUhnTDhNT0JUajh2QzU1VkFIQlpVMnRFZkIzXzlDSkFmWDFaaXozckxhNXJSVWJFdEp5R1NIYU93blVaS3k0MVVVaDNqa01tZmNuS29ZOWhTa050ZDdUTldsa0NtLVVNUktR?oc=5\" target=\"_blank\">Investors Dump Microsoft Shares Despite Largest Earnings Beat in Company History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFlJa2NkSDVOSVRRNkRIQkRjSURHX3Y4Y2lMZXZOMHBTVWhOaTNXNjJ2TTFRaHZja3hOVGVPVkhFMHZ2YmJ0VExBYmg0V3JYT29OM3gwazR0aFM3Qlhmanp4Z0FUeHB2aHJRb0E2SVF4TmZYNDVrMXJDN2xldEd3LVlWMllKSThSeDNiUGg0RTI5MTlicGFuVUtUVmpTcHlUcXBVbkZBaw?oc=5\" target=\"_blank\">‘A Lose-Lose Situation,’ Says Analyst as Microsoft Stock (MSFT) Faces Downgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font></li></ol>",
-      "published": "2026-02-17T14:33:09+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Four Ways to Recover Your 'Lost' Work in Microsoft Word - Lifehacker",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42MWNGUWE0NUozR1BGN3p2bHpxckVoNlc3X1V6TmlYTUd0bkU0dWRqdkpYSU9aU0c5U1dDYkdnSHJLU2ZOUm0yRkkwMUswbE4zYUJOd3lVU09ObGVQVV95czdId2I4SkpJNGlPWXo0WlY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE42MWNGUWE0NUozR1BGN3p2bHpxckVoNlc3X1V6TmlYTUd0bkU0dWRqdkpYSU9aU0c5U1dDYkdnSHJLU2ZOUm0yRkkwMUswbE4zYUJOd3lVU09ObGVQVV95czdId2I4SkpJNGlPWXo0WlY?oc=5\" target=\"_blank\">Four Ways to Recover Your 'Lost' Work in Microsoft Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lifehacker</font>",
-      "published": "2026-02-17T15:00:00+00:00",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "Microsoft Teams outage affects users in United States, Europe - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXlLZWhCQ3AtZE8taUE1aW0xZlktUDByOHlrUEFJQklVekVqZHBNMElHUkZYMXFkWkF1MHhaRDJ6TDRUOHhiN0Vxb3J6ZkJUVXBCR3IxOWpMSVYybFFCT2RDaWhvX1Y5MjFFQ3FWbEV2ME55dXdadHhwcldXX2tUbFhpaExyeDk4Umh4aVI3aEJGU0dLLUhjRXFKX21hUWFvUUlJM0QyTVVkX3lEd1HSAbMBQVVfeXFMTlUtZzhuSExGM2ZKNFlxdHphaGUzOWRvUHptaDh4cUJxREQ5am9SZ3FpNGx1NkI3UW95d2QtcjZST0VhUU92VUM4SWlEcVIxVFlMdUZPVDJLa2V5dERDTjdaNXYxeDVweEJLODRFbVR1WTBNbW5UMnlWb1hpUHpETzhKejZhaFVMYmZyS1BrNkxZQnZDblZJN1ZxbkYxMTJ5QTY4Y0VWMVQ2UFFSQUhydzlyVXM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXlLZWhCQ3AtZE8taUE1aW0xZlktUDByOHlrUEFJQklVekVqZHBNMElHUkZYMXFkWkF1MHhaRDJ6TDRUOHhiN0Vxb3J6ZkJUVXBCR3IxOWpMSVYybFFCT2RDaWhvX1Y5MjFFQ3FWbEV2ME55dXdadHhwcldXX2tUbFhpaExyeDk4Umh4aVI3aEJGU0dLLUhjRXFKX21hUWFvUUlJM0QyTVVkX3lEd1HSAbMBQVVfeXFMTlUtZzhuSExGM2ZKNFlxdHphaGUzOWRvUHptaDh4cUJxREQ5am9SZ3FpNGx1NkI3UW95d2QtcjZST0VhUU92VUM4SWlEcVIxVFlMdUZPVDJLa2V5dERDTjdaNXYxeDVweEJLODRFbVR1WTBNbW5UMnlWb1hpUHpETzhKejZhaFVMYmZyS1BrNkxZQnZDblZJN1ZxbkYxMTJ5QTY4Y0VWMVQ2UFFSQUhydzlyVXM?oc=5\" target=\"_blank\">Microsoft Teams outage affects users in United States, Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-02-17T15:37:45+00:00",
-      "source": "BleepingComputer"
     }
   ],
   "product_launches": [
@@ -77,39 +77,35 @@
       "source": "PayPal Newsroom"
     },
     {
+      "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5\" target=\"_blank\">Windows 95 launched 30 years ago and made us and maybe me who we are today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+      "published": "2025-08-24T07:00:00+00:00",
+      "source": "TechRadar"
+    },
+    {
+      "title": "Microsoft launches AI and productivity software bundle for consumers - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG9zTnB1TmVZYk9obnZLOUhtS1VkTmRKbS1vR0lpMHh3aU5CUU1ZNUc0S1NScHB6d29ReVpPN1ZVU0FXRUFkZ3VBcDZGbU9YWXBBZWZxbnZHRjZRUHV2TEZjSDZDaGN6NEVIWjNkNzBOdk9wQ2JlSTZMcXQtNzZjdW1R0gGHAUFVX3lxTE1xU2E0YkYzZmZ0cGpJNTQtUnJyamRLSFl4S3NfZkllaHR3T1BSX2c4Q0dONHM1b2hHS2c3WHhDODRzd1BHUXpsOFZQS1JPNnV5TmZaVmo2REplUzVmVUhKY3JZcmlIMktLNDN6WnItYVdJUFpqYkV3Ulk5RVJhd1U3dzRXb29qRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWG9zTnB1TmVZYk9obnZLOUhtS1VkTmRKbS1vR0lpMHh3aU5CUU1ZNUc0S1NScHB6d29ReVpPN1ZVU0FXRUFkZ3VBcDZGbU9YWXBBZWZxbnZHRjZRUHV2TEZjSDZDaGN6NEVIWjNkNzBOdk9wQ2JlSTZMcXQtNzZjdW1R0gGHAUFVX3lxTE1xU2E0YkYzZmZ0cGpJNTQtUnJyamRLSFl4S3NfZkllaHR3T1BSX2c4Q0dONHM1b2hHS2c3WHhDODRzd1BHUXpsOFZQS1JPNnV5TmZaVmo2REplUzVmVUhKY3JZcmlIMktLNDN6WnItYVdJUFpqYkV3Ulk5RVJhd1U3dzRXb29qRQ?oc=5\" target=\"_blank\">Microsoft launches AI and productivity software bundle for consumers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-10-01T07:00:00+00:00",
+      "source": "CNBC"
+    },
+    {
       "title": "Microsoft launches ‘vibe working’ in Excel and Word - The Verge",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2025-09-29T07:00:00+00:00",
       "source": "The Verge"
-    },
-    {
-      "title": "Microsoft Ignite 2025: Copilot and agents built to power the Frontier Firm - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1BvOERnNktIWWRmTU10aTVyN0MyR1JrSkg4VG9vVkZ4aTVjTWprWHB1c0pYZ1NfN3VqdEk1MUdwUDc3R2c0ZDZZbC1UeTVTMFgwUmVFYWFzdFJocjhUcWo3cEJseHpCLUpaUzVZcHp6TW1LUFlEeURTVVlERENiUzdmdGhiYkxoaTNXNG5wUW1nUUU0ZnpRRGJ0SW11WlpSbHZ2bjZaXzBBNGFmTGpVZkpNY0YwTzhrS3U2Q2x1cjVtUmRYamRPM3ZhYkJnd1ZjS1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1BvOERnNktIWWRmTU10aTVyN0MyR1JrSkg4VG9vVkZ4aTVjTWprWHB1c0pYZ1NfN3VqdEk1MUdwUDc3R2c0ZDZZbC1UeTVTMFgwUmVFYWFzdFJocjhUcWo3cEJseHpCLUpaUzVZcHp6TW1LUFlEeURTVVlERENiUzdmdGhiYkxoaTNXNG5wUW1nUUU0ZnpRRGJ0SW11WlpSbHZ2bjZaXzBBNGFmTGpVZkpNY0YwTzhrS3U2Q2x1cjVtUmRYamRPM3ZhYkJnd1ZjS1E?oc=5\" target=\"_blank\">Microsoft Ignite 2025: Copilot and agents built to power the Frontier Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-11-18T08:00:00+00:00",
-      "source": "Microsoft"
-    },
-    {
-      "title": "Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2lDQXNxWGhuZkc4YWlPZjFLVzhlX0pnZWkzWTRaUXRJMmpKVUdXeXZUMGRNV29YcmNZdFVMU1ZJY19qalJ2VzAzdlZWYW0xcDI5T1JTcW9lUEZMRXZTa09zYk1PbVk5QnZQTGNGOEIydlFORG9pVUc3b2owM0RjSWRobUEtaWxyRm5sX1lLTGU3WmpVNldobkhuMllDeEhHaEJrRWFkUmxvLTYxbVNkN1hn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2lDQXNxWGhuZkc4YWlPZjFLVzhlX0pnZWkzWTRaUXRJMmpKVUdXeXZUMGRNV29YcmNZdFVMU1ZJY19qalJ2VzAzdlZWYW0xcDI5T1JTcW9lUEZMRXZTa09zYk1PbVk5QnZQTGNGOEIydlFORG9pVUc3b2owM0RjSWRobUEtaWxyRm5sX1lLTGU3WmpVNldobkhuMllDeEhHaEJrRWFkUmxvLTYxbVNkN1hn?oc=5\" target=\"_blank\">Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2025-10-23T07:00:00+00:00",
-      "source": "TechCrunch"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-17",
-      "close": 396.8599853515625
+      "date": "2026-02-18",
+      "close": 399.6000061035156
     },
     "history": [
-      {
-        "date": "2026-02-06",
-        "close": 401.1400146484375
-      },
       {
         "date": "2026-02-09",
         "close": 413.6000061035156
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-17",
         "close": 396.8599853515625
+      },
+      {
+        "date": "2026-02-18",
+        "close": 399.6000061035156
       }
     ],
     "name": "Microsoft Corporation"
