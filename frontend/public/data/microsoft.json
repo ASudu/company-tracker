@@ -2,14 +2,21 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-02-19T12:39:57.639458+00:00",
+  "fetched_at": "2026-02-20T12:35:40.370499+00:00",
   "news": [
     {
-      "title": "Microsoft says Copilot was summarizing confidential emails without permission - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjdpZkQ2Y2Z5SlNQNnJ1UmJrd1ZsLXRWd1U4bkxHNGVWSzRPaGNRbkJtd1FPZ3Y3NFJRV2NkTjVYazJ5ZS1mMzZzYl9mZ2lHVUI5SlpXRmhVYkxucEVBZGVzOHkxbHZOS3YyYnhHdnFpQnZLUm1fVmNnV2gzX3VkYklhQm5ZQkZZTHFYcHQtRHZEMmZxZVZvcVh6alFFUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcjdpZkQ2Y2Z5SlNQNnJ1UmJrd1ZsLXRWd1U4bkxHNGVWSzRPaGNRbkJtd1FPZ3Y3NFJRV2NkTjVYazJ5ZS1mMzZzYl9mZ2lHVUI5SlpXRmhVYkxucEVBZGVzOHkxbHZOS3YyYnhHdnFpQnZLUm1fVmNnV2gzX3VkYklhQm5ZQkZZTHFYcHQtRHZEMmZxZVZvcVh6alFFUQ?oc=5\" target=\"_blank\">Microsoft says Copilot was summarizing confidential emails without permission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-02-18T23:40:58+00:00",
-      "source": "Mashable"
+      "title": "I quit my $192K Microsoft job to build a startup. Weeks later, almost everything I owned was stolen. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlY2Qm5TZWFhTkdhRmNzeFZPWEZFdGlQejlXcXZNek1jTzExZmdWUlp6al9GUWZJbVVvMlBlbHpwZHJkUFhfQ1JLMTA3NXhGUUgzdW1wazBJOS0xUi0yT1h6Ny1uUFF3SkVBRkZYaHl1VEVvS05YbUVHQ0dsWHJaTUExWGVPUW84YkpMWDBjTno5VjBNeVF0dnpVeS1rcXAzbDg2WkI3Sks0TEV2X0JtQXFtTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlY2Qm5TZWFhTkdhRmNzeFZPWEZFdGlQejlXcXZNek1jTzExZmdWUlp6al9GUWZJbVVvMlBlbHpwZHJkUFhfQ1JLMTA3NXhGUUgzdW1wazBJOS0xUi0yT1h6Ny1uUFF3SkVBRkZYaHl1VEVvS05YbUVHQ0dsWHJaTUExWGVPUW84YkpMWDBjTno5VjBNeVF0dnpVeS1rcXAzbDg2WkI3Sks0TEV2X0JtQXFtTQ?oc=5\" target=\"_blank\">I quit my $192K Microsoft job to build a startup. Weeks later, almost everything I owned was stolen.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-02-19T10:08:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Microsoft error sees confidential emails exposed to AI tool Copilot - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5paWdoSzFTSmRkYURUU2J2VDFROF9zd1ZVVjd2WHczYjFBdnMxandIemYwN3B4QjFvamRlYlN3TURuSDlUMWVMSGppb0IxRXZBOVowelhMMjgzQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5paWdoSzFTSmRkYURUU2J2VDFROF9zd1ZVVjd2WHczYjFBdnMxandIemYwN3B4QjFvamRlYlN3TURuSDlUMWVMSGppb0IxRXZBOVowelhMMjgzQQ?oc=5\" target=\"_blank\">Microsoft error sees confidential emails exposed to AI tool Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-02-19T18:16:43+00:00",
+      "source": "BBC"
     },
     {
       "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI - TechCrunch",
@@ -26,6 +33,13 @@
       "source": "BleepingComputer"
     },
     {
+      "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94NUhHTDU3RW0ydmR0MS1waHNDSm5WaElWNG5iakt0TS1mVnhSQXpuUEhnTUF2bS1jbjh0QUtVX0NlMnA0cHlKNGRNSncxekY2cWtfWmotTFBLaUl4dV9RZlpIaGdpel8tQXg0VjVwcWpORFd4c2JWeElJMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE94NUhHTDU3RW0ydmR0MS1waHNDSm5WaElWNG5iakt0TS1mVnhSQXpuUEhnTUF2bS1jbjh0QUtVX0NlMnA0cHlKNGRNSncxekY2cWtfWmotTFBLaUl4dV9RZlpIaGdpel8tQXg0VjVwcWpORFd4c2JWeElJMA?oc=5\" target=\"_blank\">Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-02-19T17:40:00+00:00",
+      "source": "The Hacker News"
+    },
+    {
       "title": "Microsoft can now store data for 10,000 years on everyday glass thanks to laser breakthrough - Live Science",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDNta2k2eVd5dElsOGhwT2xrakkwNUZLSnQwbDQwZ2M3aG8xTlYtRXZaTGdrUmZGRWpvTFhKWTJvbHJBaFpZRERIeXZielR3WVZlWjBQSTY1cUI1dWhYamU1NFppcVRDVllERDlXaDZMcDA0ck9qbWtPQXZFdU1leDZCQjZua1NmNWZlUEVSWnpSVmFJRU02SVFrRDF6NUlPOFVSY25VSF90SmJRR2kzWjAya3NHajk1X1VOMktQbTVIYUhKT2x5bzVseVRUZDl1b2t1Y3ZHODY?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbDNta2k2eVd5dElsOGhwT2xrakkwNUZLSnQwbDQwZ2M3aG8xTlYtRXZaTGdrUmZGRWpvTFhKWTJvbHJBaFpZRERIeXZielR3WVZlWjBQSTY1cUI1dWhYamU1NFppcVRDVllERDlXaDZMcDA0ck9qbWtPQXZFdU1leDZCQjZua1NmNWZlUEVSWnpSVmFJRU02SVFrRDF6NUlPOFVSY25VSF90SmJRR2kzWjAya3NHajk1X1VOMktQbTVIYUhKT2x5bzVseVRUZDl1b2t1Y3ZHODY?oc=5\" target=\"_blank\">Microsoft can now store data for 10,000 years on everyday glass thanks to laser breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Science</font>",
@@ -33,11 +47,11 @@
       "source": "Live Science"
     },
     {
-      "title": "Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzREaUJ3YXBmV29iUHJhek9VQ09MVDhnVmJrYlVLWjZtR2JZNnYyWmRqN0N6UUlXVXpMSmVSX0VtYWRnbUpIQ21LeFN3QndvdHJNRk11SU9mYjBDWkhmZHpseFZMekJEUlJFa01jNFFteFU1eFlGel9VaVhSb3l6cUJKRjNWeUtuWUJRQ1h1ZExZSWdwRnU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzREaUJ3YXBmV29iUHJhek9VQ09MVDhnVmJrYlVLWjZtR2JZNnYyWmRqN0N6UUlXVXpMSmVSX0VtYWRnbUpIQ21LeFN3QndvdHJNRk11SU9mYjBDWkhmZHpseFZMekJEUlJFa01jNFFteFU1eFlGel9VaVhSb3l6cUJKRjNWeUtuWUJRQ1h1ZExZSWdwRnU0?oc=5\" target=\"_blank\">Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-02-18T19:55:02+00:00",
-      "source": "Gizmodo"
+      "title": "Robot libraries filled with tiny glass ‘books’ could store data for millennia - Scientific American",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUJWWGE1TDlNcHkwQmJPTm9Xa3gzTklwLW5uRUZUQzk3cXRNaGphQWZWOGpSdUpZOGdVUU5rcjJueUdlVzVxN0tRaElwUmEwc0t5R3BTRTFZbndKSnBTeDNRWEtwQW1ndEg1ZlZRYlNuWXZQNHdhM2pzUzdHczlreXlQVXB4T1N2THpXdmVtYjVSRWloczcyOHBHZEdXVGk1NFJodE1xYnJUcmlWMHNDVldkTEg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUJWWGE1TDlNcHkwQmJPTm9Xa3gzTklwLW5uRUZUQzk3cXRNaGphQWZWOGpSdUpZOGdVUU5rcjJueUdlVzVxN0tRaElwUmEwc0t5R3BTRTFZbndKSnBTeDNRWEtwQW1ndEg1ZlZRYlNuWXZQNHdhM2pzUzdHczlreXlQVXB4T1N2THpXdmVtYjVSRWloczcyOHBHZEdXVGk1NFJodE1xYnJUcmlWMHNDVldkTEg?oc=5\" target=\"_blank\">Robot libraries filled with tiny glass ‘books’ could store data for millennia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific American</font>",
+      "published": "2026-02-19T20:45:00+00:00",
+      "source": "Scientific American"
     },
     {
       "title": "Microsoft’s new 10,000-year data storage medium: glass - Ars Technica",
@@ -45,28 +59,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDhvTkdIeEhpNnJZZGhQZFBnbWxtVHluNlY1NXN6cFdsWGJBRk81UUdBVU9iVEpQU1dTZ2Q3ek1mbjNONE5ETHQxSUF1a2NzRWZ5WXBLUVZxV1hqem9JbHBaTzRfdGQzdV9wWFcyUDdFNVRRMzJaeE9BcnlRcjQ3VjBHUlAtR2w3aF91aWZsOUlYaFdNenBF?oc=5\" target=\"_blank\">Microsoft’s new 10,000-year data storage medium: glass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
       "published": "2026-02-18T19:01:55+00:00",
       "source": "Ars Technica"
-    },
-    {
-      "title": "Tesla Stock Falls. Why Retail Investors Keep Buying Alongside Micron, Microsoft, Others. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxQVHd4dDAtS0xEcXVWN0VTTm1aV09CaXJqMF9HWFlUdXhxZ3NYWTBZSmlmdUstX0NyQXA4TW9hbWJyckFsaWJrZm9VWndQS2M2b0d1aTFFSzBSVS1Ubk01aGthTEN1c0hDTkEwUTViYWlJRG0wQnlqV1ZjYTAtU09qNmUtRXpkczlPU2RRc21yZDBUd19saEhYdHZRallQVjdTVFp2ZElUNm43LXZYSUtQVU50ZmU3U2Z0V3lDTHdvbUlRQ2xGTEVNdENsWUlSWF9MRDc0WW5vdDFYNGlwS2FDR054eFhjd05nak1sUlVLdDRNS2pIeGt5OURrcDEyeWU0bG9XU05lRzJ1N3VFVk1WYk9LTXhTVmF2S0tWSnpHRjNnZm94WGlKWVB5N0RDN2UzSE15d1NmUDRzSnkzR2NGZlZoLURnQl9nNXk4WDg5S05yVVl2OXMtM1JEY3RTOGlKOGhCVnM3TnFwUF94VkwyQ3NwQTB1elhfWVplczA1eU1vSTlqTDNnVUp6MGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxQVHd4dDAtS0xEcXVWN0VTTm1aV09CaXJqMF9HWFlUdXhxZ3NYWTBZSmlmdUstX0NyQXA4TW9hbWJyckFsaWJrZm9VWndQS2M2b0d1aTFFSzBSVS1Ubk01aGthTEN1c0hDTkEwUTViYWlJRG0wQnlqV1ZjYTAtU09qNmUtRXpkczlPU2RRc21yZDBUd19saEhYdHZRallQVjdTVFp2ZElUNm43LXZYSUtQVU50ZmU3U2Z0V3lDTHdvbUlRQ2xGTEVNdENsWUlSWF9MRDc0WW5vdDFYNGlwS2FDR054eFhjd05nak1sUlVLdDRNS2pIeGt5OURrcDEyeWU0bG9XU05lRzJ1N3VFVk1WYk9LTXhTVmF2S0tWSnpHRjNnZm94WGlKWVB5N0RDN2UzSE15d1NmUDRzSnkzR2NGZlZoLURnQl9nNXk4WDg5S05yVVl2OXMtM1JEY3RTOGlKOGhCVnM3TnFwUF94VkwyQ3NwQTB1elhfWVplczA1eU1vSTlqTDNnVUp6MGc?oc=5\" target=\"_blank\">Tesla Stock Falls. Why Retail Investors Keep Buying Alongside Micron, Microsoft, Others.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-02-19T12:07:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Microsoft pledges $50 billion to tackle AI inequality as it warns of a ‘growing divide’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1g2NTI0RHp4MlB4cGkxcDF2clFhSjloTENqRjRoYUtQZVBTVW1XcjJkWmwyX3A4NUI2WkZLNVhWYXA0REY0dGZpcldGZzBzck9mUTNSTlZ1dDVDM0lLc0VzQ3ZJSWtueHVNbDZwclZXSjdHZlhROGtFNVVIdmVFcXRiOGF1UV9nUmEzTzMySlh0UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1g2NTI0RHp4MlB4cGkxcDF2clFhSjloTENqRjRoYUtQZVBTVW1XcjJkWmwyX3A4NUI2WkZLNVhWYXA0REY0dGZpcldGZzBzck9mUTNSTlZ1dDVDM0lLc0VzQ3ZJSWtueHVNbDZwclZXSjdHZlhROGtFNVVIdmVFcXRiOGF1UV9nUmEzTzMySlh0UQ?oc=5\" target=\"_blank\">Microsoft pledges $50 billion to tackle AI inequality as it warns of a ‘growing divide’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-02-18T12:02:05+00:00",
-      "source": "CNN"
     }
   ],
   "product_launches": [
     {
-      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-04-30T07:00:00+00:00",
+      "title": "Microsoft 365 Copilot now enables you to build apps and workflows - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUxEYVhvQlhaNUFrOG5oc3FQV01sYnhqVE9jLTVlQkh3VmMyWnhiNkZjQ0tGR0Z3U3NFOWc1cE5scmpFS2h3RllZQjItc01wZ0lfSUZpcTZSU2hOdjd3TVpIczFNODVqUnFRQmNLZU1zeHN6TTZDZVljUXU5d01RTEN5bUFXNlczR2VZN3Rkb202V3hrdW1XUnhSTG1peERGMGFUUG9CdDFiMF9yUm5JSll0cHJtdFZMOTVmUnhBc2NkUE9mQ3Aw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUxEYVhvQlhaNUFrOG5oc3FQV01sYnhqVE9jLTVlQkh3VmMyWnhiNkZjQ0tGR0Z3U3NFOWc1cE5scmpFS2h3RllZQjItc01wZ0lfSUZpcTZSU2hOdjd3TVpIczFNODVqUnFRQmNLZU1zeHN6TTZDZVljUXU5d01RTEN5bUFXNlczR2VZN3Rkb202V3hrdW1XUnhSTG1peERGMGFUUG9CdDFiMF9yUm5JSll0cHJtdFZMOTVmUnhBc2NkUE9mQ3Aw?oc=5\" target=\"_blank\">Microsoft 365 Copilot now enables you to build apps and workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-10-28T07:00:00+00:00",
       "source": "Microsoft"
     },
     {
@@ -75,13 +75,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
       "published": "2026-01-08T08:00:00+00:00",
       "source": "PayPal Newsroom"
-    },
-    {
-      "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnR5aUUwN2xKbDZib1paUDhlNG95ZkdkWjVhaXhPbDd1UjZ0Q21OWnJpdHNyX0Utd1dBemFEUDJONmMtWjZ5ejlyN2QwN2RYTW1pQWRkSXFWT0VlcTR6NlVvT29sd05nQVMwUV9GWkJtOF84cE84WjRqcUZRNkEtaGVLUUp0aUFEekxvUmZBblcxclhodHh2TUFHVjVSM1pKcHNCSm1qTTBSbXdhQ3BIMUNwVkhmUG4yWHRFbWNNOVA?oc=5\" target=\"_blank\">Windows 95 launched 30 years ago and made us and maybe me who we are today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
-      "published": "2025-08-24T07:00:00+00:00",
-      "source": "TechRadar"
     },
     {
       "title": "Microsoft launches AI and productivity software bundle for consumers - CNBC",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2025-09-29T07:00:00+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-04-30T07:00:00+00:00",
+      "source": "Microsoft"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-18",
-      "close": 399.6000061035156
+      "date": "2026-02-19",
+      "close": 398.4599914550781
     },
     "history": [
-      {
-        "date": "2026-02-09",
-        "close": 413.6000061035156
-      },
       {
         "date": "2026-02-10",
         "close": 413.2699890136719
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-18",
         "close": 399.6000061035156
+      },
+      {
+        "date": "2026-02-19",
+        "close": 398.4599914550781
       }
     ],
     "name": "Microsoft Corporation"
