@@ -2,66 +2,87 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-02-22T12:27:44.538797+00:00",
+  "fetched_at": "2026-02-23T12:40:08.612378+00:00",
   "news": [
     {
-      "title": "This Apple MacBook Air is down to under $200 in a limited-time deal - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04b1NsVlBRVVVzX0tsN2E3Q1FkRFc5VkpCS213UlJER2dESzZId0s2U0V4eDBLWkJmbVFhRUNUQ1ktV2dWWFFWTUxCYVlTNkFtbWVIZzByUmNPXzYwZHB6aWJrTTgxbFN5cmJTQjhaeVdObnJ6TEVpLUpB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE04b1NsVlBRVVVzX0tsN2E3Q1FkRFc5VkpCS213UlJER2dESzZId0s2U0V4eDBLWkJmbVFhRUNUQ1ktV2dWWFFWTUxCYVlTNkFtbWVIZzByUmNPXzYwZHB6aWJrTTgxbFN5cmJTQjhaeVdObnJ6TEVpLUpB?oc=5\" target=\"_blank\">This Apple MacBook Air is down to under $200 in a limited-time deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-02-21T10:12:16+00:00",
+      "title": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5\" target=\"_blank\">Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-02-22T13:00:10+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Visual Intelligence & Apple wearables are Tim Cook's next big thing - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHZESVBrWnNFeHZjelJ3SWdjMkFEZjNxZ3BSRHU5YmNrVjRCU0ZoWHBtR3JFV1N0dmZEdHFrTlRCa2FsSjBjcm9ORDJGQTUzdlU4NW9VaGJqeS1Jbk5XdUQ5RldnQ0tvcGtHMDhjeDhLTU5aM3FKTnJfNGRKQjQ4NUFvSmJhYjNLUmFnb0h6UHF6Y3U2Mkl6eEVKa1F0U2JEU3pEV09hSTZYemM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHZESVBrWnNFeHZjelJ3SWdjMkFEZjNxZ3BSRHU5YmNrVjRCU0ZoWHBtR3JFV1N0dmZEdHFrTlRCa2FsSjBjcm9ORDJGQTUzdlU4NW9VaGJqeS1Jbk5XdUQ5RldnQ0tvcGtHMDhjeDhLTU5aM3FKTnJfNGRKQjQ4NUFvSmJhYjNLUmFnb0h6UHF6Y3U2Mkl6eEVKa1F0U2JEU3pEV09hSTZYemM?oc=5\" target=\"_blank\">Visual Intelligence & Apple wearables are Tim Cook's next big thing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-02-22T16:16:00+00:00",
+      "source": "AppleInsider"
+    },
+    {
+      "title": "Apple should take Visual Intelligence one step further – with Reminders - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWh4eHNKTHRITjJ1RHhLV29DNTVDWms5aGpEVUYwTWNlWE9tblhBSmxseGhlSTJIRkFhYmNEY2tfQnRnVnA0Q0NwczVDU3cybmNrajAwcUNwYnVET0pYNXV6anlfblZLcjllZUxzdzVXTEpsRmlpWWVBMnhfdUhaUUNMTFg1anlPWWFoZUEtVHd0eGJ1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWh4eHNKTHRITjJ1RHhLV29DNTVDWms5aGpEVUYwTWNlWE9tblhBSmxseGhlSTJIRkFhYmNEY2tfQnRnVnA0Q0NwczVDU3cybmNrajAwcUNwYnVET0pYNXV6anlfblZLcjllZUxzdzVXTEpsRmlpWWVBMnhfdUhaUUNMTFg1anlPWWFoZUEtVHd0eGJ1?oc=5\" target=\"_blank\">Apple should take Visual Intelligence one step further – with Reminders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-02-22T20:11:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Report: Apple to launch ‘at least five products’ leading into March 4 event - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZRN0VpU080WE9Zby1rcG5vVGpXc2ZOY2FWaFNNZVJOX2xuaS1IQVExZGxHcUdkdFMtbDRGdzBkeVFGRnlkOWx1Mm9jZ2tvMXFiMEFIdFBGSHo2ZlY1Nm9FdEY3M0lWYWZkWTVmMmVRWmQ5ZDlrTW5fVTc2NWFOY1JlMXljZTNweE5HaGNXOFFuZW10N1RjcXFvU2VzX3lZZFVIR2tEd2gwUQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZRN0VpU080WE9Zby1rcG5vVGpXc2ZOY2FWaFNNZVJOX2xuaS1IQVExZGxHcUdkdFMtbDRGdzBkeVFGRnlkOWx1Mm9jZ2tvMXFiMEFIdFBGSHo2ZlY1Nm9FdEY3M0lWYWZkWTVmMmVRWmQ5ZDlrTW5fVTc2NWFOY1JlMXljZTNweE5HaGNXOFFuZW10N1RjcXFvU2VzX3lZZFVIR2tEd2gwUQ?oc=5\" target=\"_blank\">Report: Apple to launch ‘at least five products’ leading into March 4 event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjFnQWhwOXBmUmw3VmRLZlFaa3FsTmRGZDQ4dy04S0oyaDd3b1ZnbWY5aE00WkYxZFNuX1BoeG5XYk5ZVDd5M1JZSXJPTnJQQmZqMkhkRUpScl9rNmVOalVFcW9mbWhrd1ZpaXFXUTJpUGV1eFIzcGZiVF96UTlQNXBhRkY4SDhuWDhmcWtoeFF0bThSUlE?oc=5\" target=\"_blank\">Apple’s next Macs will finally check every box</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFowRlVfcFR3OUtQRllZMUZaT2ZoQzV1VFFDOFlEcW84bGF0MUMyQTBFcWg2UWlpS05rc2hrVDJoTFdrUHI3S3JHSVhhQmV2bWlrYlo0bFgxT0J4SnpoMDZXREx5ZU9oVDlfU09pSkpENmdXMEFmaXI3RU8tdk13b2Z6U0k1V0ctUlY1cW1VV1Z4VC1wZTFtTlp5enZsMUE?oc=5\" target=\"_blank\">Apple might take a new approach to announcing its next products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li></ol>",
+      "published": "2026-02-22T13:29:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "The AI boom is helping Samsung and coming for Apple - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEZYbjY2SjMtMGlEcGpZYVRqM2NkUndPN2Nfb3FuakRURnpYRW42R3gtczg0cHNsYTJlS1dzRXRJN0lNOUtVOHRMN2R4VklkSExlcUtGa2tMNkpFelRRWmMtX1BBREpvcHV1WEcyQjBuSTdTMXJVSFQ3SjhzeG1vY3ZtUGhvRGlCeUxFVGhzYmFIR012YWpzRVdyZmk1QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOEZYbjY2SjMtMGlEcGpZYVRqM2NkUndPN2Nfb3FuakRURnpYRW42R3gtczg0cHNsYTJlS1dzRXRJN0lNOUtVOHRMN2R4VklkSExlcUtGa2tMNkpFelRRWmMtX1BBREpvcHV1WEcyQjBuSTdTMXJVSFQ3SjhzeG1vY3ZtUGhvRGlCeUxFVGhzYmFIR012YWpzRVdyZmk1QQ?oc=5\" target=\"_blank\">The AI boom is helping Samsung and coming for Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-02-23T11:00:57+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Score the Apple Watch SE 3 for under $220 right now at Amazon — save $30 - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9od2h4MmFBMFgxWlM5el9YcVBGMjBCZjVqbGhKZ0l0NWhGUm5XNmhDV054V2tId0FiV1hidkdRcnMyNi0wVTVFQmRCbUdWSzlxM2Q2YXRkTzFoczktSXpEcVQtbUtBbTZy?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9od2h4MmFBMFgxWlM5el9YcVBGMjBCZjVqbGhKZ0l0NWhGUm5XNmhDV054V2tId0FiV1hidkdRcnMyNi0wVTVFQmRCbUdWSzlxM2Q2YXRkTzFoczktSXpEcVQtbUtBbTZy?oc=5\" target=\"_blank\">Score the Apple Watch SE 3 for under $220 right now at Amazon — save $30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-02-23T11:51:52+00:00",
       "source": "Mashable"
     },
     {
-      "title": "How the Supreme Court's decision affects Apple and its $3.3 billion tariff bill - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0s0d2NjdmlNbEx6RERIN3A5NG5WMC1Wem5NeEFJRGNfWWVwSnV1MVV2WnpFN29qX0NicnRkOFFCWV9FRmhRdV9OTWxXM19YWUQ1MnJ1Z0tTOVhDLXpBaWRDa3E0WWtjaEZSdEdIOUpxaDVUaGxsQm93Q0V0bGVqWmlnYmIzY0w1VGNFOXJtWUVDdEYy0gGaAUFVX3lxTE9hbkd3Yy1MZ2ZjbWhsVzZ2bnhoaTl1SlpOUWZXc241a3draHc1N1NpVUJfM2pjV3d4RUNxTG9kQTRDM05kM3NSOF9aQWVWUlZoU25ZWUtHd1F4TVFkTUV6TU9uR1FNTlV0cEotaHotS1VueGxQdl85Ym9rbkFEbjc1c0VvOUp1UkQyTHo5RUVUOUlUWmphX1RZYlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0s0d2NjdmlNbEx6RERIN3A5NG5WMC1Wem5NeEFJRGNfWWVwSnV1MVV2WnpFN29qX0NicnRkOFFCWV9FRmhRdV9OTWxXM19YWUQ1MnJ1Z0tTOVhDLXpBaWRDa3E0WWtjaEZSdEdIOUpxaDVUaGxsQm93Q0V0bGVqWmlnYmIzY0w1VGNFOXJtWUVDdEYy0gGaAUFVX3lxTE9hbkd3Yy1MZ2ZjbWhsVzZ2bnhoaTl1SlpOUWZXc241a3draHc1N1NpVUJfM2pjV3d4RUNxTG9kQTRDM05kM3NSOF9aQWVWUlZoU25ZWUtHd1F4TVFkTUV6TU9uR1FNTlV0cEotaHotS1VueGxQdl85Ym9rbkFEbjc1c0VvOUp1UkQyTHo5RUVUOUlUWmphX1RZYlE?oc=5\" target=\"_blank\">How the Supreme Court's decision affects Apple and its $3.3 billion tariff bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-02-20T20:23:28+00:00",
-      "source": "CNBC"
+      "title": "Omdia: Apple and HONOR Claim Record Market Shares as Europe’s Smartphone Shipment Dips 1% in 2025 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUEhkanlHTkRSR2Z2Z3BZcmtpY2ZPT1g5cWREVk02bTlBN0hUSTF1TXdXMU1ZQXZGRVVLNzhWX25DV1p0NjJybEJiQ2R6VW55TjZ3WS1xR1NfVGo5d1d4V2ZHTi1YUEVmelFMMkpEaGtfUkpDbERUWEhEcDNpdWJsNTVR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUEhkanlHTkRSR2Z2Z3BZcmtpY2ZPT1g5cWREVk02bTlBN0hUSTF1TXdXMU1ZQXZGRVVLNzhWX25DV1p0NjJybEJiQ2R6VW55TjZ3WS1xR1NfVGo5d1d4V2ZHTi1YUEVmelFMMkpEaGtfUkpDbERUWEhEcDNpdWJsNTVR?oc=5\" target=\"_blank\">Omdia: Apple and HONOR Claim Record Market Shares as Europe’s Smartphone Shipment Dips 1% in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-02-23T11:48:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Apple’s upcoming AI smart glasses are starting to sound a lot more exciting - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV19hNHR2a01ZcWdvSXpzRnUtVGFIZmRqQWR0VGhRcnhpaUg3c0tmMmNKbU1NMzNKaEtpYWtJT0g3NzRKUVR3NVRheHpSRTRWVlk2U1ZJOGJhZWJidlhHdEVKU3dkeFZ0UVRySlJCVDZSazRzTVhKQUQ4bkltRGlhOWpNTUxydlA1UFpUTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPV19hNHR2a01ZcWdvSXpzRnUtVGFIZmRqQWR0VGhRcnhpaUg3c0tmMmNKbU1NMzNKaEtpYWtJT0g3NzRKUVR3NVRheHpSRTRWVlk2U1ZJOGJhZWJidlhHdEVKU3dkeFZ0UVRySlJCVDZSazRzTVhKQUQ4bkltRGlhOWpNTUxydlA1UFpUTA?oc=5\" target=\"_blank\">Apple’s upcoming AI smart glasses are starting to sound a lot more exciting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-02-21T17:18:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "No, Apple won’t drop USB-C from the iPhone 18 - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEtBaDYxYnRNSEdWa0Z2dHM2MHg1OE1xM1lUTGlTRnNDTXFrMV82Z2hRZnpPM2tTWEU3ZzJmVGgzV2xRbWw4b3VPbFA1c2phajFNWTc1VXByc2U1RXhuRFhSeWVNSjJuM2NuMndEUkpPekJaQzRjU1g1MF8tOWdEazRQc213SThEczFSV3hDRFpkeG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEtBaDYxYnRNSEdWa0Z2dHM2MHg1OE1xM1lUTGlTRnNDTXFrMV82Z2hRZnpPM2tTWEU3ZzJmVGgzV2xRbWw4b3VPbFA1c2phajFNWTc1VXByc2U1RXhuRFhSeWVNSjJuM2NuMndEUkpPekJaQzRjU1g1MF8tOWdEazRQc213SThEczFSV3hDRFpkeG8?oc=5\" target=\"_blank\">No, Apple won’t drop USB-C from the iPhone 18</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-02-19T18:18:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "macOS 26.3 might have just spilled Apple’s biggest March 4 secrets - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenVHYWV0NlBmSUdvb3RQckFwZ2Z5SEo1VXBpZkdWOU04aS1KSnZJek1qLXcwZzJCOHppRjllM25zSTRRVHVKQ1lzN18tU3ZOXzUwaWEwb2kxa29UWUNCOEk2NmRUWWVPckRBZExTejA3ZEFVLXVaQnRzaTRHTDEybHpmaDNjSndiUnVkTjRpazhFeE50NlJfcWlJcENZLU1fLUtMUHRTNzlONzY1NlpieW9qZVpOQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNenVHYWV0NlBmSUdvb3RQckFwZ2Z5SEo1VXBpZkdWOU04aS1KSnZJek1qLXcwZzJCOHppRjllM25zSTRRVHVKQ1lzN18tU3ZOXzUwaWEwb2kxa29UWUNCOEk2NmRUWWVPckRBZExTejA3ZEFVLXVaQnRzaTRHTDEybHpmaDNjSndiUnVkTjRpazhFeE50NlJfcWlJcENZLU1fLUtMUHRTNzlONzY1NlpieW9qZVpOQQ?oc=5\" target=\"_blank\">macOS 26.3 might have just spilled Apple’s biggest March 4 secrets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-02-20T13:27:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "Top Stories: Apple Event on March 4, iOS 26.4 Beta, and More - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16SDhEdWpkdURab0ZvM0ZKdTNXakpEODBtREI1QTlrWGV6UkgwM3Q2dGdVUXd1b0hlbXM5OEFvTDBUZVlTOTlDNlA5U1U3a0p4cnNWbmhQeXJoTmQ2S3UwdVg4SXlkdnZUdS03dWU4elN5M1RkRmdZcA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE16SDhEdWpkdURab0ZvM0ZKdTNXakpEODBtREI1QTlrWGV6UkgwM3Q2dGdVUXd1b0hlbXM5OEFvTDBUZVlTOTlDNlA5U1U3a0p4cnNWbmhQeXJoTmQ2S3UwdVg4SXlkdnZUdS03dWU4elN5M1RkRmdZcA?oc=5\" target=\"_blank\">Top Stories: Apple Event on March 4, iOS 26.4 Beta, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-02-21T14:00:00+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple’s March 4 launch event: New products and what to expect - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXcxeGpTOUZ0UVFaRkZ5MDVJWkpUOVNhRmhfS3VGOGY5ai11NlhpMzgzMnBpUzZNT2hCT0dRem81di1EdTZGV2JEaklxdWExa004d1g5REZ6cnJBYUtxMjBJMDNTRGdOT1NEdTE1OTk1TnR5ZG9iaHpNTlFDTVVUYWF0U3dJdXVvM0xSa1NMd2FhTVpFT0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXcxeGpTOUZ0UVFaRkZ5MDVJWkpUOVNhRmhfS3VGOGY5ai11NlhpMzgzMnBpUzZNT2hCT0dRem81di1EdTZGV2JEaklxdWExa004d1g5REZ6cnJBYUtxMjBJMDNTRGdOT1NEdTE1OTk1TnR5ZG9iaHpNTlFDTVVUYWF0U3dJdXVvM0xSa1NMd2FhTVpFT0E?oc=5\" target=\"_blank\">Apple’s March 4 launch event: New products and what to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-02-18T21:52:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnWFpoZkc2M29KNV9xREtFc1o5SnRWMjVWWWxCbzN5YjRrZlViMWVaUktHT1JYMmtrdzlacVZNdGRYVXVkd2NMbU5UOVQwbndUU0VZMFo5Q2lpcWUtUzktb2pxT2VMdUVjMVByR3ZyTDQ4UkRtNDQ4eGhFeDVlNVRRMzJnb2ozVWxXM18yRy1rMnZUd2E1X1diLWxfU2J5dmlxcVRqZWFIYWdSbXgxUU9DM08xZ28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVJnWFpoZkc2M29KNV9xREtFc1o5SnRWMjVWWWxCbzN5YjRrZlViMWVaUktHT1JYMmtrdzlacVZNdGRYVXVkd2NMbU5UOVQwbndUU0VZMFo5Q2lpcWUtUzktb2pxT2VMdUVjMVByR3ZyTDQ4UkRtNDQ4eGhFeDVlNVRRMzJnb2ozVWxXM18yRy1rMnZUd2E1X1diLWxfU2J5dmlxcVRqZWFIYWdSbXgxUU9DM08xZ28?oc=5\" target=\"_blank\">Move over, Apple: Meet the alternative app stores available in the EU and elsewhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-02-22T09:00:21+00:00",
-      "source": "TechCrunch"
+      "title": "One person dies in stabbing at Apple Tree Inn Sunday afternoon - KXLY.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOVRLWjhtek5Nc3gyWVZhVE9CUS10MlNUaF9DaE54b2hMeF9TVy0zUm1VVmUwd0pFVndvZWt5cG9qTXlCS21LZ0xlOWxvNWZBYklBM19JS25vazJUcEVaX3NqeXhyTFAyUFZfS3lid3pYcUNIQVRtMU1YMm9CdndwWjYwRGJMdUJfZ3pRMXRCVjZ0dUZ1MXgyM2k0TGFvQm9McHluOHhXcDJYc3cyOWdRa0gwVjlPb1llcXNLRkVLa2tWWTQ3S3VHcHJ6ZUxJZEdNRV93ag?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOVRLWjhtek5Nc3gyWVZhVE9CUS10MlNUaF9DaE54b2hMeF9TVy0zUm1VVmUwd0pFVndvZWt5cG9qTXlCS21LZ0xlOWxvNWZBYklBM19JS25vazJUcEVaX3NqeXhyTFAyUFZfS3lid3pYcUNIQVRtMU1YMm9CdndwWjYwRGJMdUJfZ3pRMXRCVjZ0dUZ1MXgyM2k0TGFvQm9McHluOHhXcDJYc3cyOWdRa0gwVjlPb1llcXNLRkVLa2tWWTQ3S3VHcHJ6ZUxJZEdNRV93ag?oc=5\" target=\"_blank\">One person dies in stabbing at Apple Tree Inn Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXLY.com</font>",
+      "published": "2026-02-23T00:03:35+00:00",
+      "source": "KXLY.com"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5\" target=\"_blank\">Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-02-22T13:00:10+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Upcoming Apple Products Guide: What's Coming in 2026 - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5\" target=\"_blank\">Upcoming Apple Products Guide: What's Coming in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-02-21T19:37:56+00:00",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Report: Apple to launch ‘at least five products’ leading into March 4 event - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZRN0VpU080WE9Zby1rcG5vVGpXc2ZOY2FWaFNNZVJOX2xuaS1IQVExZGxHcUdkdFMtbDRGdzBkeVFGRnlkOWx1Mm9jZ2tvMXFiMEFIdFBGSHo2ZlY1Nm9FdEY3M0lWYWZkWTVmMmVRWmQ5ZDlrTW5fVTc2NWFOY1JlMXljZTNweE5HaGNXOFFuZW10N1RjcXFvU2VzX3lZZFVIR2tEd2gwUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZRN0VpU080WE9Zby1rcG5vVGpXc2ZOY2FWaFNNZVJOX2xuaS1IQVExZGxHcUdkdFMtbDRGdzBkeVFGRnlkOWx1Mm9jZ2tvMXFiMEFIdFBGSHo2ZlY1Nm9FdEY3M0lWYWZkWTVmMmVRWmQ5ZDlrTW5fVTc2NWFOY1JlMXljZTNweE5HaGNXOFFuZW10N1RjcXFvU2VzX3lZZFVIR2tEd2gwUQ?oc=5\" target=\"_blank\">Report: Apple to launch ‘at least five products’ leading into March 4 event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-02-22T13:29:00+00:00",
+      "source": "9to5Mac"
+    },
     {
       "title": "Here's what to expect at Apple's product launch event on March 4 - Engadget",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRDBCSWZBRGhYd1dqVWtveS1Bb3Bqbncza1lKc1dxbXVaUWVOVE5BS1Vyb1Fkc1VBWEFUZnFaLWlQTXlpOFlTYzBqemxNUWFRWUNHbm51ZG91UUE3OUFkMUhxSk1rX29Qb2pGYU9Zc24yTUdfUXoyS2x6ajBFaGlQMG5qWG82bHRSVldDdVVGdWpBd29RSEIxOENEMXYxWUpaTnZjby1EMmU4cHFZMjRic1JB?oc=5",
@@ -70,32 +91,11 @@
       "source": "Engadget"
     },
     {
-      "title": "Apple’s March 4 launch event: New products and what to expect - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXcxeGpTOUZ0UVFaRkZ5MDVJWkpUOVNhRmhfS3VGOGY5ai11NlhpMzgzMnBpUzZNT2hCT0dRem81di1EdTZGV2JEaklxdWExa004d1g5REZ6cnJBYUtxMjBJMDNTRGdOT1NEdTE1OTk1TnR5ZG9iaHpNTlFDTVVUYWF0U3dJdXVvM0xSa1NMd2FhTVpFT0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOXcxeGpTOUZ0UVFaRkZ5MDVJWkpUOVNhRmhfS3VGOGY5ai11NlhpMzgzMnBpUzZNT2hCT0dRem81di1EdTZGV2JEaklxdWExa004d1g5REZ6cnJBYUtxMjBJMDNTRGdOT1NEdTE1OTk1TnR5ZG9iaHpNTlFDTVVUYWF0U3dJdXVvM0xSa1NMd2FhTVpFT0E?oc=5\" target=\"_blank\">Apple’s March 4 launch event: New products and what to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-02-18T21:52:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "5 Apple products that could be unveiled on March 4 - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82NF9HdUZNem9pVWhkV1BCZVNqbVhMR081UTlFdzA3SXM1TXc5Uk9Hb3oxbUluNGNaWnNTSktRTVk1Z3NTVk1MV2llbXlRRjNmZ01mVkZKMUllTDhBTndMcA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE82NF9HdUZNem9pVWhkV1BCZVNqbVhMR081UTlFdzA3SXM1TXc5Uk9Hb3oxbUluNGNaWnNTSktRTVk1Z3NTVk1MV2llbXlRRjNmZ01mVkZKMUllTDhBTndMcA?oc=5\" target=\"_blank\">5 Apple products that could be unveiled on March 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-02-17T20:18:18+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Apple’s next event may be closer than you think – when it could happen and what to expect - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQmVCTEk2RG15YllmbEQ3RktxLWp1QUxGUEloNE1Gb3pwMldjU2V3eGhGOFBKWnBhUFVma2YtNm95c0h0cDdZaFFkblVrX2J5WmlOanU0b2pUQVJ3VEYzNG81RVJKUktydGM3ajRaVGotWjFxUDNGLW9n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQmVCTEk2RG15YllmbEQ3RktxLWp1QUxGUEloNE1Gb3pwMldjU2V3eGhGOFBKWnBhUFVma2YtNm95c0h0cDdZaFFkblVrX2J5WmlOanU0b2pUQVJ3VEYzNG81RVJKUktydGM3ajRaVGotWjFxUDNGLW9n?oc=5\" target=\"_blank\">Apple’s next event may be closer than you think – when it could happen and what to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-02-17T12:10:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "All the new products Apple is expected to reveal in 2026 - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xYRXlMc21BWVZxWkJ5NGRCQnFhT1RlY2h1VEVFTjVhVkxKOFF4cTcxc0pyN0NHdFp6TjAybTR1TUZCU1dkaHN0d2p3TXhVamZ1WHZoLVVQaXgwUHZLQzU5TGg1VnA2dk1QdVZ6ZnBFV2xYS0ZYM2JoNXNXRnNXQg?oc=5\" target=\"_blank\">All the new products Apple is expected to reveal in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-02-10T08:00:00+00:00",
-      "source": "Business Insider"
+      "title": "Expect at least five announcements during Apple's March launch week - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXB3NDNVMk1KSFNucW53SUI1QVUzbm94WTVHSDlkWS1lQ1lBaVdzLTVwYlA1Y3Y1dFRSLXFLLVBLbkFpVEpHOWgzbE9JSXBvQU80YUNpREtRTWdpdFZ0ejFkc01BYnRwVk1hcTZPWGVySUprQTdZR3oybGhIUGR3aTRTNVNBOGxySG0zMFpYV3VWWEhOSFh0ZDVJWGdHYXdHeTU4RThESC1ZQnY3cGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXB3NDNVMk1KSFNucW53SUI1QVUzbm94WTVHSDlkWS1lQ1lBaVdzLTVwYlA1Y3Y1dFRSLXFLLVBLbkFpVEpHOWgzbE9JSXBvQU80YUNpREtRTWdpdFZ0ejFkc01BYnRwVk1hcTZPWGVySUprQTdZR3oybGhIUGR3aTRTNVNBOGxySG0zMFpYV3VWWEhOSFh0ZDVJWGdHYXdHeTU4RThESC1ZQnY3cGc?oc=5\" target=\"_blank\">Expect at least five announcements during Apple's March launch week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-02-22T14:13:08+00:00",
+      "source": "AppleInsider"
     }
   ],
   "stock": {
