@@ -2,86 +2,72 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-02-24T12:40:37.125104+00:00",
+  "fetched_at": "2026-02-25T12:40:30.058774+00:00",
   "news": [
     {
-      "title": "Exclusive | Apple Plans to Manufacture Mac Mini in Houston - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPM1hacmNONE5NcV9uTnQ0ZEFTUVdGVElweEpQWEZKWnFqclo5Skx6ZlFkdmI1Q2x5LWxXb1VIV0tRT043emJSYWhoQVZZOFhXWlYyTnhpN0daT3I2aHZTOWZmek53ME80eVZuV1RFNWRmVEJIMkV0WldQQnZoQXlIM2RwUW5DcWRjQkNKR2J4dXlkUzJtSVg4WjNJazlGV0UwNXNTeVdzX2dZaEhOMXZicGhQVXNhb0Y5dVlXTkVWMVBaUElmU1RTV0d3VWlyS2NWZzFFNHpzbWdmN2M0dWQzcGJURHhsTXl3bTVkdlFrT1Y5OTBUbl9oQ2FFeFZUTHVITi0yT2Fkc1NyeDExMnVUOG1XN0NjcFFjS0NZamhRQW9oX3VjRVR4ck45MGZTZGRNdXpEY19FY3Nwa0JLZ3JIWVZjUGRGa2hKd1dqemVzRlZDZWtBSzVqZmhzemJvRnZseVBFd3lhSm9jcElwUzlFOEFmdnFSMFRMaVVJUEpHOEtmQVBveDB3emctVEU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxPM1hacmNONE5NcV9uTnQ0ZEFTUVdGVElweEpQWEZKWnFqclo5Skx6ZlFkdmI1Q2x5LWxXb1VIV0tRT043emJSYWhoQVZZOFhXWlYyTnhpN0daT3I2aHZTOWZmek53ME80eVZuV1RFNWRmVEJIMkV0WldQQnZoQXlIM2RwUW5DcWRjQkNKR2J4dXlkUzJtSVg4WjNJazlGV0UwNXNTeVdzX2dZaEhOMXZicGhQVXNhb0Y5dVlXTkVWMVBaUElmU1RTV0d3VWlyS2NWZzFFNHpzbWdmN2M0dWQzcGJURHhsTXl3bTVkdlFrT1Y5OTBUbl9oQ2FFeFZUTHVITi0yT2Fkc1NyeDExMnVUOG1XN0NjcFFjS0NZamhRQW9oX3VjRVR4ck45MGZTZGRNdXpEY19FY3Nwa0JLZ3JIWVZjUGRGa2hKd1dqemVzRlZDZWtBSzVqZmhzemJvRnZseVBFd3lhSm9jcElwUzlFOEFmdnFSMFRMaVVJUEpHOEtmQVBveDB3emctVEU?oc=5\" target=\"_blank\">Exclusive | Apple Plans to Manufacture Mac Mini in Houston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-02-24T02:00:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Apple to shift some Mac Mini production to Houston from Asia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzRwblJwZFJ0ZkJwbzI3YlRTdW9xaTJFaGZjdGZwR0plYlppb0tzS0NKNGd5X09OV0MxNDFwaERPVGxyVzBaVnF5eHRrTW9KbWJSLXlKaGpKWjN6eGlyTlpvaU5jd3QxSU9VMDRaRklZajk2Y2RqTGI0Vmdyd2tUZGt5YWpPUW83cGRocVJfTXphb3E0cUdyS2FsSFprckhPQ0pCR21QNHBkV2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzRwblJwZFJ0ZkJwbzI3YlRTdW9xaTJFaGZjdGZwR0plYlppb0tzS0NKNGd5X09OV0MxNDFwaERPVGxyVzBaVnF5eHRrTW9KbWJSLXlKaGpKWjN6eGlyTlpvaU5jd3QxSU9VMDRaRklZajk2Y2RqTGI0Vmdyd2tUZGt5YWpPUW83cGRocVJfTXphb3E0cUdyS2FsSFprckhPQ0pCR21QNHBkV2c?oc=5\" target=\"_blank\">Apple to shift some Mac Mini production to Houston from Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-02-24T02:14:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple to Roll Out Made in America Mac mini as Part of Trump Spend Push - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDdNQ0tWbFNyRDIzMWpSX1JKT1M3ZDh5emRBSk1jTHZWZ2lydUZxdkVkZjhMb2VqUThNQ29zM055T013WHBSeXlFeDVCUnI4UWo2SVRhYy1hWUNTeVpidkgyUzZQeFhHanNDUlQ5bjc5QlpfUDBSdy1TaDVQSHlsc0Ytd0dTYjBWQ1A4dTVRZmdoODJNNXdlaERUN0xKVTJjSE5MMS1QSHNFQmRBak1sYkprb2NJX29QN0Jjd0tB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDdNQ0tWbFNyRDIzMWpSX1JKT1M3ZDh5emRBSk1jTHZWZ2lydUZxdkVkZjhMb2VqUThNQ29zM055T013WHBSeXlFeDVCUnI4UWo2SVRhYy1hWUNTeVpidkgyUzZQeFhHanNDUlQ5bjc5QlpfUDBSdy1TaDVQSHlsc0Ytd0dTYjBWQ1A4dTVRZmdoODJNNXdlaERUN0xKVTJjSE5MMS1QSHNFQmRBak1sYkprb2NJX29QN0Jjd0tB?oc=5\" target=\"_blank\">Apple to Roll Out Made in America Mac mini as Part of Trump Spend Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-02-24T11:00:00+00:00",
+      "title": "Apple’s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkU5SWhaMDh0UUtnS09EaHFQbDNLNGxFU3RGNzVoTVgwMzl2d3JEcFRCemF2S1ppT2J2dUtpWG5PTG1uLUhUT1hxZk5PQkM5UVRMZkU0bmFiOEhPa3JKY1JxM3dvay0ydXVoRGp6Wkp4cjZFY0hRekJhVl91cW1yYXF1ekFXNXVGQTgydXhMNG9QVXFsTnFELS1KT1RQQWRJS29yWlRHZllDczBUemNtcXhpVlQyaWY5bFByVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkU5SWhaMDh0UUtnS09EaHFQbDNLNGxFU3RGNzVoTVgwMzl2d3JEcFRCemF2S1ppT2J2dUtpWG5PTG1uLUhUT1hxZk5PQkM5UVRMZkU0bmFiOEhPa3JKY1JxM3dvay0ydXVoRGp6Wkp4cjZFY0hRekJhVl91cW1yYXF1ekFXNXVGQTgydXhMNG9QVXFsTnFELS1KT1RQQWRJS29yWlRHZllDczBUemNtcXhpVlQyaWY5bFByVQ?oc=5\" target=\"_blank\">Apple’s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-02-24T20:54:06+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTV1cFJlOHE3XzVLMUZlUzJaM2NhWW5LcUNlT0N4MExWUjdnejBvdzlndE83REhBbkN6anRobmlJQmhndGkwTWhiZ3k4S3NtNnd2VlBJYmNxeVpwRmMtenN0dW1qcHBSMlpndkVvWXNWVGdwVVZ6MFpNTU5ONXhLb2dRQTVseXJFSjlaMjFWcVl0MmcwM1I3UXRlZk9lTjFZV1hvWkJzaWU2Qi1mNXlYcy1aVFYwMzdmY216WDA5dTBTZk1ocEJvaHhR?oc=5\" target=\"_blank\">Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHNkZUNjV2dMSFpwMkNrM2ZYdjVqdTdZcm45bEVVenRhaDBFQ1RqR3ZIazZsSUFsZnJjQ1lKRVpxSXFBSE1JS1V6ZjZ5SGtyLU9Ia2E0ZnFyMnJ2NDhSVVdDNjF3eWc2MEVpay1RZ1hobmRTTHg0UVY5emNWVko3ZVVhRW9LS1dtY05BNmx3NFl4NGhLWnp2WlhnWQ?oc=5\" target=\"_blank\">AirPods as Apple’s first AI wearable product makes so much sense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1tdC1kTXhLWk0zeWxsdWgtSDFyaGdxUVJWNE9RVXlwZlpoRFR5azFha0dLeTlVT1VXZnVobklYV0dQV05FUUtQaVhWZTRNUU1DbnhZVVl6d05WNEpLM2VvT1BRN0xwYWRleE9nTA?oc=5\" target=\"_blank\">Apple’s AI products are all doomed. Wanna guess why?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font></li></ol>",
-      "published": "2026-02-22T13:00:10+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Stefano Domenicali explains what Apple can do for Formula 1 that ESPN couldn't - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeS11bndYNE5fR2dqdk5zc2g4RnVhUFlKRWdYNUJ1WWJWenBhcXV4cmtsQUZNdDVoUHpJbkN5ckFiQ2F6eFBqRjZ1LTdIaEN0SzlGclNsZjNfV1RQVGZNZFZWSUJlWkxlenVrckp6OUFVMGJFSzgzOHdKa1RPMEdPb0dmRGxiRmdiTHR3amlxc1lGX29Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQeS11bndYNE5fR2dqdk5zc2g4RnVhUFlKRWdYNUJ1WWJWenBhcXV4cmtsQUZNdDVoUHpJbkN5ckFiQ2F6eFBqRjZ1LTdIaEN0SzlGclNsZjNfV1RQVGZNZFZWSUJlWkxlenVrckp6OUFVMGJFSzgzOHdKa1RPMEdPb0dmRGxiRmdiTHR3amlxc1lGX29Z?oc=5\" target=\"_blank\">Stefano Domenicali explains what Apple can do for Formula 1 that ESPN couldn't</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-      "published": "2026-02-24T10:40:43+00:00",
-      "source": "Yahoo Sports"
-    },
-    {
-      "title": "Google, Apple start testing encrypted RCS on Android and iOS 26.4 - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRjVpU241dGU2WVhNSFkwT1B4QkJ0Uzlud0tfQ2tCeXQtd0xBRnBoZ1FpZDEwazFNQjA1dUdaclotZGRMUFZpSlYxZEZFRFhYVndFcjc5VGFLYUtyckdIZVNrZkk2WnFuUXhabG5KVGpKUDFyQjNNcnNIMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRjVpU241dGU2WVhNSFkwT1B4QkJ0Uzlud0tfQ2tCeXQtd0xBRnBoZ1FpZDEwazFNQjA1dUdaclotZGRMUFZpSlYxZEZFRFhYVndFcjc5VGFLYUtyckdIZVNrZkk2WnFuUXhabG5KVGpKUDFyQjNNcnNIMA?oc=5\" target=\"_blank\">Google, Apple start testing encrypted RCS on Android and iOS 26.4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Google</font>",
-      "published": "2026-02-23T18:20:00+00:00",
-      "source": "9to5Google"
-    },
-    {
-      "title": "Apple releases iOS 26.4 beta 2 for iPhone with upcoming features - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzJHSENNOWpaVkd3MjZ0NHBFejFxcW02SHlvQTZPVVE4eld4SUxzdkdLa1Atc3ZsMW5ESkxjNFFrR1FHVEt4c2FvUjJGNV9nR0lFdE45ak51WmhUaXcwanpnaXlvVVpEcDZIME1KWmg5NnYzWUNwcndaQkJ1b2Y2RmpuN3hfanJmUDB5YkZIMkpLWU1pMHg0ZzR0eXY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzJHSENNOWpaVkd3MjZ0NHBFejFxcW02SHlvQTZPVVE4eld4SUxzdkdLa1Atc3ZsMW5ESkxjNFFrR1FHVEt4c2FvUjJGNV9nR0lFdE45ak51WmhUaXcwanpnaXlvVVpEcDZIME1KWmg5NnYzWUNwcndaQkJ1b2Y2RmpuN3hfanJmUDB5YkZIMkpLWU1pMHg0ZzR0eXY?oc=5\" target=\"_blank\">Apple releases iOS 26.4 beta 2 for iPhone with upcoming features</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-02-23T18:07:00+00:00",
+      "title": "New M6 MacBook Pro details revealed, including Dynamic Island, touch, more - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3dFNE5URkhYMGZzcnJSdUJHV0pMYUpkWlYzXzF6VkZGYTQ0cGR2VFM1dTZJQk9kdm5FNmdEYmhrV3ZvdGhvdGJja3EwR1JLMFZwdTdKS09URGVyWXk5ejNrb2pFZTdKRnQxRU0wUFl4elk3bGF1dHBlam5ULUw4RGRhZDkxaHZ6ZU9DbUpYWTRTOWxOVVowOUstMEFkUXQzRlp0UW9R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3dFNE5URkhYMGZzcnJSdUJHV0pMYUpkWlYzXzF6VkZGYTQ0cGR2VFM1dTZJQk9kdm5FNmdEYmhrV3ZvdGhvdGJja3EwR1JLMFZwdTdKS09URGVyWXk5ejNrb2pFZTdKRnQxRU0wUFl4elk3bGF1dHBlam5ULUw4RGRhZDkxaHZ6ZU9DbUpYWTRTOWxOVVowOUstMEFkUXQzRlp0UW9R?oc=5\" target=\"_blank\">New M6 MacBook Pro details revealed, including Dynamic Island, touch, more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-02-24T21:38:00+00:00",
       "source": "9to5Mac"
     },
     {
-      "title": "iOS 26.3.1 update in testing as new Apple releases loom - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zazlucXdJQ3A1MGtJa0ViQTZXQ2doR3FmQi1hY3FPbVQ3Y1lOTC1ybVh2OUxfTnpuUTI2Y1FDN2FqUGdaYlAxOGdzbkRscjdqMzNXUk1wa1RtaVdpenhTaG1vUDg2anVLZzhYY3c1anNhNmdWQjk5Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0zazlucXdJQ3A1MGtJa0ViQTZXQ2doR3FmQi1hY3FPbVQ3Y1lOTC1ybVh2OUxfTnpuUTI2Y1FDN2FqUGdaYlAxOGdzbkRscjdqMzNXUk1wa1RtaVdpenhTaG1vUDg2anVLZzhYY3c1anNhNmdWQjk5Yw?oc=5\" target=\"_blank\">iOS 26.3.1 update in testing as new Apple releases loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-02-23T16:54:00+00:00",
+      "title": "Apple’s touchscreen MacBook Pro might get its own Dynamic Island - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVZkbHpESlhxZ3ZhV0tDcFJaek91QWdqeEIxX1FTNE1oNWlWYjVzTi04YkI1WlFOdS0tNHk2ZWdWNHM0cUZ0NUZ4MjR4Zk1QYWFZYTU1R3ZqMDhyc0ZuY3B3ZlFOSWl0TERHVFBiTjVGbjFFRmlOYkwwNVBxSnFnOEsycXp6RnF4Y1RMaFhYQWZmbHVlaHVYZTlXRVZCS2dDaUpuTVdqa2RzYWdIT3FkUFRDTUU3QmRz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVZkbHpESlhxZ3ZhV0tDcFJaek91QWdqeEIxX1FTNE1oNWlWYjVzTi04YkI1WlFOdS0tNHk2ZWdWNHM0cUZ0NUZ4MjR4Zk1QYWFZYTU1R3ZqMDhyc0ZuY3B3ZlFOSWl0TERHVFBiTjVGbjFFRmlOYkwwNVBxSnFnOEsycXp6RnF4Y1RMaFhYQWZmbHVlaHVYZTlXRVZCS2dDaUpuTVdqa2RzYWdIT3FkUFRDTUU3QmRz?oc=5\" target=\"_blank\">Apple’s touchscreen MacBook Pro might get its own Dynamic Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-02-24T22:01:00+00:00",
+      "source": "Macworld"
+    },
+    {
+      "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1RpM05qOU4xdUVTRm14ZmRXbEd5NXBkRnJBOE9Zd1Z0OWNNMHhSYjVYQUl5ZnZQeGxtVFhSbG5zUzlhUUhsZzJEX3piZTN0ZDZySnZNS3lvVUhLWVNwWlF6ZFluTDU0OVFacUZFVExDLVg2NWFlazlCdXFraHZVYkh1bWNLdmlhWjlET0VHZ2hMNTNFNEc2QnBYSDREUm5mWTNzZ2Zib1UxNmIwb05XU05zSTg0aHFxQlI1Tm1Dd1UxYkdIWmcxbHVLaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1RpM05qOU4xdUVTRm14ZmRXbEd5NXBkRnJBOE9Zd1Z0OWNNMHhSYjVYQUl5ZnZQeGxtVFhSbG5zUzlhUUhsZzJEX3piZTN0ZDZySnZNS3lvVUhLWVNwWlF6ZFluTDU0OVFacUZFVExDLVg2NWFlazlCdXFraHZVYkh1bWNLdmlhWjlET0VHZ2hMNTNFNEc2QnBYSDREUm5mWTNzZ2Zib1UxNmIwb05XU05zSTg0aHFxQlI1Tm1Dd1UxYkdIWmcxbHVLaw?oc=5\" target=\"_blank\">Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-02-24T23:21:54+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple’s new age verification tools block underage app downloads where required by law - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFNLb1V5SlI1VmE5U3VzUTdFQ2pKQVNycVlvTUxwbmVPYmJDaUpLdFA5V2ZGc3YycnF2S3dHRUZPR091cm1PbV9NeTFnSXhOT0xIU2NfYmZzNVgwQTVSQzdVcXJOOFdTaFZuc3BnUXpFa2QxbFU5a2VoOWlHM25VNVVQT3BEWEhpZDRhM3Z2c1MxdFVsM3Vv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFNLb1V5SlI1VmE5U3VzUTdFQ2pKQVNycVlvTUxwbmVPYmJDaUpLdFA5V2ZGc3YycnF2S3dHRUZPR091cm1PbV9NeTFnSXhOT0xIU2NfYmZzNVgwQTVSQzdVcXJOOFdTaFZuc3BnUXpFa2QxbFU5a2VoOWlHM25VNVVQT3BEWEhpZDRhM3Z2c1MxdFVsM3Vv?oc=5\" target=\"_blank\">Apple’s new age verification tools block underage app downloads where required by law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-02-25T00:45:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple expands age assurance tools as new App Store requirements roll out in several regions - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFp1aUpiY29uSjBaT01Sb2FiQjJSdGRtUi1wd0JJN1Bid2taaU5xS2x4Z1VKTk5oanB4NWRVVmlBRlRRWWRmbDNsV2pfTWhHTGNLdjQwTjJGUjNfQUhZMkRmTVVaVVprckVBQ0hKb3NMcmZmZDNpR2RWckREcHpQdUViMzluQXJhMmwySmJnSVcxbGRQcUQ2NjZqNlJ3Ukh2eEs1Z245NmFzSFRCc1ZpQzRwLWJCTVg3RFM2Yy1oX3U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFp1aUpiY29uSjBaT01Sb2FiQjJSdGRtUi1wd0JJN1Bid2taaU5xS2x4Z1VKTk5oanB4NWRVVmlBRlRRWWRmbDNsV2pfTWhHTGNLdjQwTjJGUjNfQUhZMkRmTVVaVVprckVBQ0hKb3NMcmZmZDNpR2RWckREcHpQdUViMzluQXJhMmwySmJnSVcxbGRQcUQ2NjZqNlJ3Ukh2eEs1Z245NmFzSFRCc1ZpQzRwLWJCTVg3RFM2Yy1oX3U?oc=5\" target=\"_blank\">Apple expands age assurance tools as new App Store requirements roll out in several regions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-02-24T19:55:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Michael Saylor defends bitcoin's plunge by comparing it to Apple's 'valley of despair,' which preceded a huge rebound - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHNpNHRvOUFiRTg4V1hoX2xkcjBQbTR5RWZCVVQ3VEFobU03OWlVWW5mZm5LcElxZVNmTjRpeHF0c252b2JNN0ppcElqMmNrTmZON3FzaTZaaE9Sdlo1ZUpPYlVDcnJxcS1NQ3g0cTB4Qmtrd1dhUGdrSFlfYlItZHRKMkFlWjBoTGZHbQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHNpNHRvOUFiRTg4V1hoX2xkcjBQbTR5RWZCVVQ3VEFobU03OWlVWW5mZm5LcElxZVNmTjRpeHF0c252b2JNN0ppcElqMmNrTmZON3FzaTZaaE9Sdlo1ZUpPYlVDcnJxcS1NQ3g0cTB4Qmtrd1dhUGdrSFlfYlItZHRKMkFlWjBoTGZHbQ?oc=5\" target=\"_blank\">Michael Saylor defends bitcoin's plunge by comparing it to Apple's 'valley of despair,' which preceded a huge rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-02-25T10:15:01+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Notes is loaded with hidden tricks - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVVfdkp3ZE5TNTRhcmd5dHFEMzNfc3JqLVZEQTRzNk5kZmMwT2lIOGZON1FrTThDRjA0VGtWeTF2RVpLTjBVNTBNSkZ5d3hlNFdobGdMYWJaclVsYUotYWRxd3Z4Z3B6eE9WREdCMnJsc2dzMDVZQUJtMF96TWpVYzIyOU5KSWNpSzQ1OGFQQ1dnVGlJNnQ1YmJQYjZ6WWUz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVVfdkp3ZE5TNTRhcmd5dHFEMzNfc3JqLVZEQTRzNk5kZmMwT2lIOGZON1FrTThDRjA0VGtWeTF2RVpLTjBVNTBNSkZ5d3hlNFdobGdMYWJaclVsYUotYWRxd3Z4Z3B6eE9WREdCMnJsc2dzMDVZQUJtMF96TWpVYzIyOU5KSWNpSzQ1OGFQQ1dnVGlJNnQ1YmJQYjZ6WWUz?oc=5\" target=\"_blank\">Apple Notes is loaded with hidden tricks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-02-25T11:30:00+00:00",
       "source": "Macworld"
     }
   ],
   "product_launches": [
     {
-      "title": "Should You Buy Apple Stock Before Its New Product Launch on March 4? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2cxM0piRVRWVWhIUE50QWZiS0JneXdmY1preFk5MGVXUjV1VWJ4UEVWOG9XbHlpOWwwbnY2Q1JKTHhGQzY5NHdRUnZKdWdTTkptUXQzbGdkdGZuVnVxR2k5UFNmTm8yZjFJUnNVRXFNRGNoOHpQa2ZPU2xwWnV5UnVXSEYzQk5CSk9FQUY3WjlQUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2cxM0piRVRWVWhIUE50QWZiS0JneXdmY1preFk5MGVXUjV1VWJ4UEVWOG9XbHlpOWwwbnY2Q1JKTHhGQzY5NHdRUnZKdWdTTkptUXQzbGdkdGZuVnVxR2k5UFNmTm8yZjFJUnNVRXFNRGNoOHpQa2ZPU2xwWnV5UnVXSEYzQk5CSk9FQUY3WjlQUQ?oc=5\" target=\"_blank\">Should You Buy Apple Stock Before Its New Product Launch on March 4?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-02-24T06:15:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Apple Will Reportedly Unveil New Products Over 3 Days Next Week - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3pDNmF6bWdYdEJhbktvc0R6VTZCLUN1SlhkX2tnX0NuRElfMXotenNyeTRaTHhQaXM4NG1WSWpVNG03Mk8wUG8yMDlPNkMyWlNKUVZsaXo3ZlhZOVBqRzZyX2xRNTZCYzBfcl9ibXN5NzNndW1zMDc4a0cwMElMd1gxSDY5TEFtM3dTUGhxYS1wWjdSMkF2MmR2SjNVQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQa3pDNmF6bWdYdEJhbktvc0R6VTZCLUN1SlhkX2tnX0NuRElfMXotenNyeTRaTHhQaXM4NG1WSWpVNG03Mk8wUG8yMDlPNkMyWlNKUVZsaXo3ZlhZOVBqRzZyX2xRNTZCYzBfcl9ibXN5NzNndW1zMDc4a0cwMElMd1gxSDY5TEFtM3dTUGhxYS1wWjdSMkF2MmR2SjNVQQ?oc=5\" target=\"_blank\">Apple Will Reportedly Unveil New Products Over 3 Days Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-02-23T14:59:03+00:00",
-      "source": "PCMag"
-    },
-    {
-      "title": "Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week - CNET",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnRpTy1xWkZnODF5RmRYOXJ1TmpRZ3pkX2xSVHRkQ3dBcHA4a0RsamxtdFhmaW9FYWt4Y0VCTHRwNTNkTHFEMXo1QU5QbUxoekpaWnowNzRVNlJ4SFlZSmZVLThKRkFMM1ZZS3RscHFudFNZWUlHV3F3aFlyZmw0RWxNVXdmU3BpbHVYdk14QmtTcW41ZHZHQ3BWN1JBSV9FalRZVVhtR2xjNHRna3FmN2V3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnRpTy1xWkZnODF5RmRYOXJ1TmpRZ3pkX2xSVHRkQ3dBcHA4a0RsamxtdFhmaW9FYWt4Y0VCTHRwNTNkTHFEMXo1QU5QbUxoekpaWnowNzRVNlJ4SFlZSmZVLThKRkFMM1ZZS3RscHFudFNZWUlHV3F3aFlyZmw0RWxNVXdmU3BpbHVYdk14QmtTcW41ZHZHQ3BWN1JBSV9FalRZVVhtR2xjNHRna3FmN2V3?oc=5\" target=\"_blank\">Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2026-02-23T16:58:00+00:00",
-      "source": "CNET"
+      "title": "Apple’s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkU5SWhaMDh0UUtnS09EaHFQbDNLNGxFU3RGNzVoTVgwMzl2d3JEcFRCemF2S1ppT2J2dUtpWG5PTG1uLUhUT1hxZk5PQkM5UVRMZkU0bmFiOEhPa3JKY1JxM3dvay0ydXVoRGp6Wkp4cjZFY0hRekJhVl91cW1yYXF1ekFXNXVGQTgydXhMNG9QVXFsTnFELS1KT1RQQWRJS29yWlRHZllDczBUemNtcXhpVlQyaWY5bFByVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkU5SWhaMDh0UUtnS09EaHFQbDNLNGxFU3RGNzVoTVgwMzl2d3JEcFRCemF2S1ppT2J2dUtpWG5PTG1uLUhUT1hxZk5PQkM5UVRMZkU0bmFiOEhPa3JKY1JxM3dvay0ydXVoRGp6Wkp4cjZFY0hRekJhVl91cW1yYXF1ekFXNXVGQTgydXhMNG9QVXFsTnFELS1KT1RQQWRJS29yWlRHZllDczBUemNtcXhpVlQyaWY5bFByVQ?oc=5\" target=\"_blank\">Apple’s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-02-24T20:54:06+00:00",
+      "source": "Bloomberg.com"
     },
     {
       "title": "Apple set to launch ‘at least five new products’ by March 4 - Macworld",
@@ -91,25 +77,35 @@
       "source": "Macworld"
     },
     {
+      "title": "Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week - CNET",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnRpTy1xWkZnODF5RmRYOXJ1TmpRZ3pkX2xSVHRkQ3dBcHA4a0RsamxtdFhmaW9FYWt4Y0VCTHRwNTNkTHFEMXo1QU5QbUxoekpaWnowNzRVNlJ4SFlZSmZVLThKRkFMM1ZZS3RscHFudFNZWUlHV3F3aFlyZmw0RWxNVXdmU3BpbHVYdk14QmtTcW41ZHZHQ3BWN1JBSV9FalRZVVhtR2xjNHRna3FmN2V3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnRpTy1xWkZnODF5RmRYOXJ1TmpRZ3pkX2xSVHRkQ3dBcHA4a0RsamxtdFhmaW9FYWt4Y0VCTHRwNTNkTHFEMXo1QU5QbUxoekpaWnowNzRVNlJ4SFlZSmZVLThKRkFMM1ZZS3RscHFudFNZWUlHV3F3aFlyZmw0RWxNVXdmU3BpbHVYdk14QmtTcW41ZHZHQ3BWN1JBSV9FalRZVVhtR2xjNHRna3FmN2V3?oc=5\" target=\"_blank\">Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-02-23T16:58:00+00:00",
+      "source": "CNET"
+    },
+    {
       "title": "Upcoming Apple Products Guide: What's Coming in 2026 - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5\" target=\"_blank\">Upcoming Apple Products Guide: What's Coming in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
       "published": "2026-02-21T19:37:56+00:00",
       "source": "MacRumors"
+    },
+    {
+      "title": "Expect at least five announcements during Apple's March launch week - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXB3NDNVMk1KSFNucW53SUI1QVUzbm94WTVHSDlkWS1lQ1lBaVdzLTVwYlA1Y3Y1dFRSLXFLLVBLbkFpVEpHOWgzbE9JSXBvQU80YUNpREtRTWdpdFZ0ejFkc01BYnRwVk1hcTZPWGVySUprQTdZR3oybGhIUGR3aTRTNVNBOGxySG0zMFpYV3VWWEhOSFh0ZDVJWGdHYXdHeTU4RThESC1ZQnY3cGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVXB3NDNVMk1KSFNucW53SUI1QVUzbm94WTVHSDlkWS1lQ1lBaVdzLTVwYlA1Y3Y1dFRSLXFLLVBLbkFpVEpHOWgzbE9JSXBvQU80YUNpREtRTWdpdFZ0ejFkc01BYnRwVk1hcTZPWGVySUprQTdZR3oybGhIUGR3aTRTNVNBOGxySG0zMFpYV3VWWEhOSFh0ZDVJWGdHYXdHeTU4RThESC1ZQnY3cGc?oc=5\" target=\"_blank\">Expect at least five announcements during Apple's March launch week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-02-22T14:13:08+00:00",
+      "source": "AppleInsider"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-02-23",
-      "close": 266.17999267578125
+      "date": "2026-02-24",
+      "close": 272.1400146484375
     },
     "history": [
-      {
-        "date": "2026-02-12",
-        "close": 261.7300109863281
-      },
       {
         "date": "2026-02-13",
         "close": 255.77999877929688
@@ -133,6 +129,10 @@
       {
         "date": "2026-02-23",
         "close": 266.17999267578125
+      },
+      {
+        "date": "2026-02-24",
+        "close": 272.1400146484375
       }
     ],
     "name": "Apple Inc."
