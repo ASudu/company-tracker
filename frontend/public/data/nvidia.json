@@ -2,63 +2,63 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-05T12:38:04.760602+00:00",
+  "fetched_at": "2026-03-06T12:33:14.165526+00:00",
   "news": [
-    {
-      "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UUXBIbFZPTHMzOE5yQkRoNWJjdWVfX0xWNUxNVnFzaGdGdjVJVXZsa0d6dmpkdTU2X2Z6bEhndTVMLUh6NklJMVJId0pfMzdaSVhOZWlFa1BkWWR6cUtnX3VzZXZxWG8ydXlxdUYwSlBZZkozakHSAXtBVV95cUxObXZmZ2I5Y1ZlTXFGTWVZVUIwRmNobm40enRhdHR2Mm5kQmVVZVZnRHBKSTdBY0lWRU1tOVBlcjB6Y3FPZl9nZUYwb3RMakpCVjJDU0lVOXNDZFpfYkxlSWt4blNTS0ZVWVROOU9UZzFwU1VNal9NazhyaTg?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9UUXBIbFZPTHMzOE5yQkRoNWJjdWVfX0xWNUxNVnFzaGdGdjVJVXZsa0d6dmpkdTU2X2Z6bEhndTVMLUh6NklJMVJId0pfMzdaSVhOZWlFa1BkWWR6cUtnX3VzZXZxWG8ydXlxdUYwSlBZZkozakHSAXtBVV95cUxObXZmZ2I5Y1ZlTXFGTWVZVUIwRmNobm40enRhdHR2Mm5kQmVVZVZnRHBKSTdBY0lWRU1tOVBlcjB6Y3FPZl9nZUYwb3RMakpCVjJDU0lVOXNDZFpfYkxlSWt4blNTS0ZVWVROOU9UZzFwU1VNal9NazhyaTg?oc=5\" target=\"_blank\">Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWWxtWUotLTllRmJ1QktjTHVGUG55RmVmTERYVEtlUUhqS1VUc2t1a0lRT3BQemh4XzhTMHRPbm05bUVUSWpaXzNFajZNVDhjTjg1RnJweVAtVERrVWY1UEFlVFQ5N0VJWW1NYjZ4QUNuUUJTUVpWMnRQOER0UmdGOFIwTl9CeXdQYS1jeUJRRW1UMWMzYVdpeHhlZ3RuMkZvWFVITjE5c1d4NTdVbk44bXVaZkt5OGxXd0d4cUMtVE9tWjFlanZWTng2ejJ5TkpqVDZpS1F6QUg0MFBUY1BxSGRsbmhuOERVN285azFNZGM?oc=5\" target=\"_blank\">Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRmREUkM1Z3RWWGszQ2hVbTJPakk4NkM0NnoycS1WSUhGX1ZMakVCSWlrT0Z4eWhvLTVBdThKTE9kMDF4eTd4bktaNXZUU1NrVjRmNHhOdXZpOXA1SjdKeUpwZ0hwcHhhdWV1QkN5NjJLRWlRdENsM1FuZ0wxOWJxNF9PYmRGWS16WnRSdW5ONEFfZDZhV29pLVJqUlJOcVhwMTRmb2syWGFHS3pzMFdsRmZla3p2Wmxfcl9JcGQ0RFZISVd3Z2xPN1lPRWEtWl93dFBGSU1DbGVFcEgtODlYUjV6aGY5Z2tv?oc=5\" target=\"_blank\">Tech stocks today: Nvidia CEO Jensen Huang suggests end of OpenAI investments, Apple unveils MacBook Neo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-03-04T18:42:35+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVYwLWZTVjdJRUhMOWFnaFBHaE5nQzVsbi1POVlMUUJ6c2VOSk42Mm1sT0JIRVdkZENvS3Vmbzh2ME53TXp6YU9BaFh0NFFhc091ei1aRFZJWDNXdWNVSFVzenVCT0FDZDUwMmF1R25YTFp2WkE2ekc2cVJsc3I1U2NxWG9Zd1doYi04?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVYwLWZTVjdJRUhMOWFnaFBHaE5nQzVsbi1POVlMUUJ6c2VOSk42Mm1sT0JIRVdkZENvS3Vmbzh2ME53TXp6YU9BaFh0NFFhc091ei1aRFZJWDNXdWNVSFVzenVCT0FDZDUwMmF1R25YTFp2WkE2ekc2cVJsc3I1U2NxWG9Zd1doYi04?oc=5\" target=\"_blank\">Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-05T05:12:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia pulls the plug on China H200 production as Vera Rubin takes priority - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwTTdUSFk0MzZvTFJNYjczS0Y3eEVzRFQ3Nkxwa0RCc19JWlJZRWFSaWpHUFQ2ZGZNck0wbkFkVy0wYzRlR0xHdlhtb2hNNU9xUUludDVZdGM3MzVZN0NxajJWVG5tU2RyM25tVVc4bUVFY09DYVMzWE15MEk5UGs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwTTdUSFk0MzZvTFJNYjczS0Y3eEVzRFQ3Nkxwa0RCc19JWlJZRWFSaWpHUFQ2ZGZNck0wbkFkVy0wYzRlR0xHdlhtb2hNNU9xUUludDVZdGM3MzVZN0NxajJWVG5tU2RyM25tVVc4bUVFY09DYVMzWE15MEk5UGs?oc=5\" target=\"_blank\">Nvidia pulls the plug on China H200 production as Vera Rubin takes priority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-05T11:15:05+00:00",
-      "source": "Yahoo Finance"
-    },
     {
       "title": "Nvidia stops production of chips intended for Chinese market - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUnFieWdiaGhtMzZPSE44OWVwbHhIbHV6OFBMc1Q3eFJmMkNId3V0T3YwcnRUWTVQYVI4VGxrWkVJbXBvYmwtVGRPYVp6VjFpTFp5dVhQbEl4MW9HeFNiUVJMeUUtQ2ZITTVlNFJ6Rlk?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBPUnFieWdiaGhtMzZPSE44OWVwbHhIbHV6OFBMc1Q3eFJmMkNId3V0T3YwcnRUWTVQYVI4VGxrWkVJbXBvYmwtVGRPYVp6VjFpTFp5dVhQbEl4MW9HeFNiUVJMeUUtQ2ZITTVlNFJ6Rlk?oc=5\" target=\"_blank\">Nvidia stops production of chips intended for Chinese market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-03-05T05:00:33+00:00",
+      "published": "2026-03-05T05:00:56+00:00",
       "source": "Financial Times"
     },
     {
-      "title": "Broadcom rallies as it touts more than $100 billion in AI chip sales in 2027 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VhMElGUVl0cUJ0Qk5wMWZlX1U5d2JNTWhfeU45bExxRlZna09mbWdCN1dMTUlibDF4cnRQa0hzZjMtMTZQaGhjUHRfTllhZE51MHM3bmhaT0JYblZoNHoxc3JyY1dkM0RtM2kxbExxSnBRMFVDTlJ0X2lZWUFRSWhucFBjVE1KQldqa1Z1d1B4Z2xYTjFYemdLejh0c1RGN0w1UVZqZWNFVWNmS2Z2dA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0VhMElGUVl0cUJ0Qk5wMWZlX1U5d2JNTWhfeU45bExxRlZna09mbWdCN1dMTUlibDF4cnRQa0hzZjMtMTZQaGhjUHRfTllhZE51MHM3bmhaT0JYblZoNHoxc3JyY1dkM0RtM2kxbExxSnBRMFVDTlJ0X2lZWUFRSWhucFBjVE1KQldqa1Z1d1B4Z2xYTjFYemdLejh0c1RGN0w1UVZqZWNFVWNmS2Z2dA?oc=5\" target=\"_blank\">Broadcom rallies as it touts more than $100 billion in AI chip sales in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-03-05T10:26:19+00:00",
+      "title": "Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0JMMXNVcXdkMWE5MlJIWWtMMTdhMlpQTzZVWGljb2RMV1FzNU1kdUIzOUtqYmswR3h0VjlaZDV0d1VmcUZDa1NEUHZESVcyaDNFbUNTeUZzZWxIckhGV2d5ZGduTmNXejBhelotVGV3blZROC1hdDU3bDNKdl9RYl85MUlJLU1aMXZtNVgzdTVrVHh0MGpwc01aQ1dVcFdGNFNFTVgwNmxfUVpBN3NNNm1yUzNrZEN5eHZDQTNGNFI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0JMMXNVcXdkMWE5MlJIWWtMMTdhMlpQTzZVWGljb2RMV1FzNU1kdUIzOUtqYmswR3h0VjlaZDV0d1VmcUZDa1NEUHZESVcyaDNFbUNTeUZzZWxIckhGV2d5ZGduTmNXejBhelotVGV3blZROC1hdDU3bDNKdl9RYl85MUlJLU1aMXZtNVgzdTVrVHh0MGpwc01aQ1dVcFdGNFNFTVgwNmxfUVpBN3NNNm1yUzNrZEN5eHZDQTNGNFI?oc=5\" target=\"_blank\">Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-05T05:12:00+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Better Artificial Intelligence Stock: Nvidia vs. AMD - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazYzNXdLbHhZNFdwOTh5ekFpUmtsTFA3MW5YUHdabGlCWWo2LVYzb3FHdHNNRGNORXJhNFk2SVMzTXo4OWNJdTZWdXhCUzVRTTVQNHVtV1c4aFF3MEV0TkgweDVnYjU4T0tnd1h3SHdxRHZUQklKOWhZM1hyaUg5TGFPT2pZbVdRRFdpM0h5WmwwUExTbVgxWQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQazYzNXdLbHhZNFdwOTh5ekFpUmtsTFA3MW5YUHdabGlCWWo2LVYzb3FHdHNNRGNORXJhNFk2SVMzTXo4OWNJdTZWdXhCUzVRTTVQNHVtV1c4aFF3MEV0TkgweDVnYjU4T0tnd1h3SHdxRHZUQklKOWhZM1hyaUg5TGFPT2pZbVdRRFdpM0h5WmwwUExTbVgxWQ?oc=5\" target=\"_blank\">Better Artificial Intelligence Stock: Nvidia vs. AMD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnhZSGNsV0ZGRmhfYnpFclJWLU83cWd5LVVFNVZ5R0drb2IxUHdMMEp2T0hoWm5TTlJWZHVvM2xaUUJqRGw0ME9nZGJYVnJ4ZzJBNHhaWC1PTjZoZHotUTAzdkd6U1FxRXRPYy1oSmpIb1hMYnBOOU1mYkpSX2VsdG9zM2xnX1U5LWtMc2lFVVZQMXIyVlBBUjNVSGhGQ1JIbnVKYlF6bnF2SXN0?oc=5\" target=\"_blank\">Nvidia is investing in these two stocks. Wall Street says you should too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5mNHhJSVg3MXdxX1ltSW1mTnAzTDNnUzdlbGVFMWtwcmlPWkhBN1gweFhySjJUSjRkTHlkaW83bFpCWEZqRHBaUnlwNC1QSkFPSmpMNXpUMTJ6ZGxNN0M4ZWoxcjYtdUJ5WFhNWmNCdENJbERv?oc=5\" target=\"_blank\">Where Will Nvidia Be in 5 Years?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-03-05T01:05:00+00:00",
-      "source": "The Motley Fool"
+      "title": "Nvidia is shifting its China strategy. Here's why. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmN5MWVLNUc0Zno4NjRsQ2g3b1hSbWRZSzIzZklWbFNxN21KUll0SUFZV2xKcmxFSWxCTnRVc1NGaU5IbkZNNHRwQzZ0Wks4RURoTGQtVUoxaS1LM2xpZGJjY3U1ODNlQ1A0V3NYMnNBTVhfblZMbUIzY21NWjVkaV9MLVRKeUZKdUdn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmN5MWVLNUc0Zno4NjRsQ2g3b1hSbWRZSzIzZklWbFNxN21KUll0SUFZV2xKcmxFSWxCTnRVc1NGaU5IbkZNNHRwQzZ0Wks4RURoTGQtVUoxaS1LM2xpZGJjY3U1ODNlQ1A0V3NYMnNBTVhfblZMbUIzY21NWjVkaV9MLVRKeUZKdUdn?oc=5\" target=\"_blank\">Nvidia is shifting its China strategy. Here's why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-05T21:45:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Billionaire Leo KoGuan Buys 1 Million Nvidia Shares - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObGJ5c2p0WFV6QWM4TUVJajNzM29vQS1VYjN5N1ZybWo1VXpHbDdfNFNOeVJGVnlKSVZpTGR0UnZPV0xLd0wtNlU2SU91dUVWZlE1NENYUnVsM2FRMThGLThidFBSSE50cXIxd29ranZ0dW5fRmVnT1JTZ2d1Q2xsMkpfRXBoal9LYnAyV3RUYWJzVWw0RGNMT2FrMVdPb093bWJ5aW1sdlBVZngzT1FYTDNCUlJNR00?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObGJ5c2p0WFV6QWM4TUVJajNzM29vQS1VYjN5N1ZybWo1VXpHbDdfNFNOeVJGVnlKSVZpTGR0UnZPV0xLd0wtNlU2SU91dUVWZlE1NENYUnVsM2FRMThGLThidFBSSE50cXIxd29ranZ0dW5fRmVnT1JTZ2d1Q2xsMkpfRXBoal9LYnAyV3RUYWJzVWw0RGNMT2FrMVdPb093bWJ5aW1sdlBVZngzT1FYTDNCUlJNR00?oc=5\" target=\"_blank\">Billionaire Leo KoGuan Buys 1 Million Nvidia Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-03-04T14:29:32+00:00",
-      "source": "Forbes"
+      "title": "US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnJ0TG94MWlQU1RNTFNObUQzMkN3ekFVMkExRUhidlNyZ2xBNmZxc2VwZHF3aG5MR1lyWTlJQ09MbzRMQUNNcjdJTm5UUURYMUJhN1RJRDc3aTU5a0RRcDZBcTJVaF95c2lHeF8xVW95TG9jWmoxT0Y0RlNjTVpDZ3p6WWpMcnRManE1QmNMWE1ZVmhTUTQwQnJONWpBRXQ5MFhKVWVXc1V1dkwyVFlQX2J3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnJ0TG94MWlQU1RNTFNObUQzMkN3ekFVMkExRUhidlNyZ2xBNmZxc2VwZHF3aG5MR1lyWTlJQ09MbzRMQUNNcjdJTm5UUURYMUJhN1RJRDc3aTU5a0RRcDZBcTJVaF95c2lHeF8xVW95TG9jWmoxT0Y0RlNjTVpDZ3p6WWpMcnRManE1QmNMWE1ZVmhTUTQwQnJONWpBRXQ5MFhKVWVXc1V1dkwyVFlQX2J3?oc=5\" target=\"_blank\">US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-03-06T03:50:00+00:00",
+      "source": "Bloomberg"
     },
     {
-      "title": "Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3BvSlN2Q2FnMkdPOWFzTXBCSUdlWWJ0SjhlSFZGYWNrZ05rbVFXZWpGVXQxWkNlRW5MZkVYN1BPbGlDWmJCZEQwT0dPTnE3WGN6WlhjZkduRkstMGVHbk5FSWlqdFVrY3JxUUdPTGpiazlkQjl0SmtVWmFWSUJBeUN0bnBndmRaLVdBelBmTkhoeWtGT1dRNjVXbktDdF9fRlFoVGdVZ3RFS1hxSHFMRWZQNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxON3BvSlN2Q2FnMkdPOWFzTXBCSUdlWWJ0SjhlSFZGYWNrZ05rbVFXZWpGVXQxWkNlRW5MZkVYN1BPbGlDWmJCZEQwT0dPTnE3WGN6WlhjZkduRkstMGVHbk5FSWlqdFVrY3JxUUdPTGpiazlkQjl0SmtVWmFWSUJBeUN0bnBndmRaLVdBelBmTkhoeWtGT1dRNjVXbktDdF9fRlFoVGdVZ3RFS1hxSHFMRWZQNA?oc=5\" target=\"_blank\">Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-04T08:34:13+00:00",
-      "source": "Bloomberg.com"
+      "title": "US considers tying Nvidia and AMD AI chip exports to foreign investment pledges - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAycnJ6c1JDblVDQ1JTbmZ3R09hLWh4dkJDdmtmdTAtODdhUk85aWJQd2R6UHVBYXhsbGlwRnVqSWdLVDI0S0J4U0hydkNKa3o0NzB5WFBIVHhFNHVTUC0xV19JY0JacnBNZ3dXZlZKamg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAycnJ6c1JDblVDQ1JTbmZ3R09hLWh4dkJDdmtmdTAtODdhUk85aWJQd2R6UHVBYXhsbGlwRnVqSWdLVDI0S0J4U0hydkNKa3o0NzB5WFBIVHhFNHVTUC0xV19JY0JacnBNZ3dXZlZKamg?oc=5\" target=\"_blank\">US considers tying Nvidia and AMD AI chip exports to foreign investment pledges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-03-05T22:48:42+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "Commerce Department Shoots Down U.S. Draft Rules For Reviewing Nvidia AI Chip Exports - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkZ6NVlMdHl0aGJQZEltU01CVmJFNzg1M2lCSDJ2QXBqVHludjM2Tll1RGpLMFM1WElPekE1Zkl2Q0hrbVlvbTdQNFVYbV9maXQ5YmZLZHRfZHJkSjMxLW9oSnc5NTNaZ0VxMmVhVnJJVzhvdnY5T1hXLTFVVzNMTkhNUXVMT056dWxGSE9qR01rX3lVSXZha3d4ZXJXRVhZbFRJZzRIdkU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkZ6NVlMdHl0aGJQZEltU01CVmJFNzg1M2lCSDJ2QXBqVHludjM2Tll1RGpLMFM1WElPekE1Zkl2Q0hrbVlvbTdQNFVYbV9maXQ5YmZLZHRfZHJkSjMxLW9oSnc5NTNaZ0VxMmVhVnJJVzhvdnY5T1hXLTFVVzNMTkhNUXVMT056dWxGSE9qR01rX3lVSXZha3d4ZXJXRVhZbFRJZzRIdkU?oc=5\" target=\"_blank\">Commerce Department Shoots Down U.S. Draft Rules For Reviewing Nvidia AI Chip Exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-03-06T04:29:28+00:00",
+      "source": "The Information"
+    },
+    {
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWWxtWUotLTllRmJ1QktjTHVGUG55RmVmTERYVEtlUUhqS1VUc2t1a0lRT3BQemh4XzhTMHRPbm05bUVUSWpaXzNFajZNVDhjTjg1RnJweVAtVERrVWY1UEFlVFQ5N0VJWW1NYjZ4QUNuUUJTUVpWMnRQOER0UmdGOFIwTl9CeXdQYS1jeUJRRW1UMWMzYVdpeHhlZ3RuMkZvWFVITjE5c1d4NTdVbk44bXVaZkt5OGxXd0d4cUMtVE9tWjFlanZWTng2ejJ5TkpqVDZpS1F6QUg0MFBUY1BxSGRsbmhuOERVN285azFNZGM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWWxtWUotLTllRmJ1QktjTHVGUG55RmVmTERYVEtlUUhqS1VUc2t1a0lRT3BQemh4XzhTMHRPbm05bUVUSWpaXzNFajZNVDhjTjg1RnJweVAtVERrVWY1UEFlVFQ5N0VJWW1NYjZ4QUNuUUJTUVpWMnRQOER0UmdGOFIwTl9CeXdQYS1jeUJRRW1UMWMzYVdpeHhlZ3RuMkZvWFVITjE5c1d4NTdVbk44bXVaZkt5OGxXd0d4cUMtVE9tWjFlanZWTng2ejJ5TkpqVDZpS1F6QUg0MFBUY1BxSGRsbmhuOERVN285azFNZGM?oc=5\" target=\"_blank\">Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-03-05T01:08:28+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UUXBIbFZPTHMzOE5yQkRoNWJjdWVfX0xWNUxNVnFzaGdGdjVJVXZsa0d6dmpkdTU2X2Z6bEhndTVMLUh6NklJMVJId0pfMzdaSVhOZWlFa1BkWWR6cUtnX3VzZXZxWG8ydXlxdUYwSlBZZkozakHSAXtBVV95cUxObXZmZ2I5Y1ZlTXFGTWVZVUIwRmNobm40enRhdHR2Mm5kQmVVZVZnRHBKSTdBY0lWRU1tOVBlcjB6Y3FPZl9nZUYwb3RMakpCVjJDU0lVOXNDZFpfYkxlSWt4blNTS0ZVWVROOU9UZzFwU1VNal9NazhyaTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9UUXBIbFZPTHMzOE5yQkRoNWJjdWVfX0xWNUxNVnFzaGdGdjVJVXZsa0d6dmpkdTU2X2Z6bEhndTVMLUh6NklJMVJId0pfMzdaSVhOZWlFa1BkWWR6cUtnX3VzZXZxWG8ydXlxdUYwSlBZZkozakHSAXtBVV95cUxObXZmZ2I5Y1ZlTXFGTWVZVUIwRmNobm40enRhdHR2Mm5kQmVVZVZnRHBKSTdBY0lWRU1tOVBlcjB6Y3FPZl9nZUYwb3RMakpCVjJDU0lVOXNDZFpfYkxlSWt4blNTS0ZVWVROOU9UZzFwU1VNal9NazhyaTg?oc=5\" target=\"_blank\">Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-04T18:42:35+00:00",
+      "source": "CNBC"
     }
   ],
   "product_launches": [
@@ -68,6 +68,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5\" target=\"_blank\">NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-01-05T08:00:00+00:00",
       "source": "NVIDIA Newsroom"
+    },
+    {
+      "title": "Magnificent 7 Stock Report: Apple Leads, NVIDIA Fades, Microsoft Crashes - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xianU3U2JqaEhJTGoxYTVpclhQMjFkUmFuMFJZN2dFQmxzZjlaVEQzcmVkOS1EbktoVTZGVE50Um1fYm1YNUxjNUxLNWl3S0lGOTZBSWo3b20xeDl3ci1ramEzLXpBdGhrMVQyd0Zza1dvd0JRbXdRLW1rZjNGWlh2OXBqX2ktWllrODdybzBJR01UTkJKNUs5bXNGNDJLaHNMTjZRREJDUGJYcTlkZ0xKVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xianU3U2JqaEhJTGoxYTVpclhQMjFkUmFuMFJZN2dFQmxzZjlaVEQzcmVkOS1EbktoVTZGVE50Um1fYm1YNUxjNUxLNWl3S0lGOTZBSWo3b20xeDl3ci1ramEzLXpBdGhrMVQyd0Zza1dvd0JRbXdRLW1rZjNGWlh2OXBqX2ktWllrODdybzBJR01UTkJKNUs5bXNGNDJLaHNMTjZRREJDUGJYcTlkZ0xKVQ?oc=5\" target=\"_blank\">Magnificent 7 Stock Report: Apple Leads, NVIDIA Fades, Microsoft Crashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-03-05T20:38:56+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Nvidia targets RTX 5050 9GB launch around Computex - OC3D",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNi1STTVMLU5JQ05TTXhzVzNvVnVZRWducHJHMXNwWmtqOFNjTk1sRXhNd3JfRkw2SmVSSkk3MWxBdDhPaFVrSHgzeHNZUjFkOUxiWVl5MGhfYzdtZjJXeHJGNk9SblExa0ZWeWlhdkU2RHNReExfaFB2ajdUQmhvVjQxWk5qbzVKRXNuUG83LW9KYXFSU25YSA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNi1STTVMLU5JQ05TTXhzVzNvVnVZRWducHJHMXNwWmtqOFNjTk1sRXhNd3JfRkw2SmVSSkk3MWxBdDhPaFVrSHgzeHNZUjFkOUxiWVl5MGhfYzdtZjJXeHJGNk9SblExa0ZWeWlhdkU2RHNReExfaFB2ajdUQmhvVjQxWk5qbzVKRXNuUG83LW9KYXFSU25YSA?oc=5\" target=\"_blank\">Nvidia targets RTX 5050 9GB launch around Computex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
+      "published": "2026-03-05T17:26:40+00:00",
+      "source": "OC3D"
     },
     {
       "title": "The Nvidia GeForce3 launched 25 years ago — underappreciated at launch, its impact shaped the industry - [H]ard|Forum",
@@ -82,34 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-01-09T08:00:00+00:00",
       "source": "Business Insider"
-    },
-    {
-      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOM2YtLVZQYnNNXzBQN1l6bTU3aGVSb0Q4c05vbm12MjRfMWJTdWFKUldFYkNJMG9feXhNRVA5YURLb2t1UXBBQlE0a08zUEp5elNIUDVZRjg1OENrMk52c0p1MVA2Mm1vbzVnOWc3eEx4a016d29YeHp2dEFHaXdfcTJ2NlMzb1dVS2xrdmhpQUZMS1pQb0dtbGQ5ZTcxSEcyaEM4N1BsdWRwTkdrSzB3QnNkd04wbHZuLWlhY1lBTUl1TUtweXBmUjg0djFJMTEwbXA3QkR4WVNwWndBSkw4cmRMQ1A2MmZjT2tLb2FpeWl0aGd0Q0l2aThBaU9ORWhna09Ual9FS1UyZjRfdGdxaXdRLXZHNGtBRldhOXRXa1BRX3ZfVzFZZ3lIR1NuazBDUWtialdHVU90WExjMEhDMkhXTDFnZ3JYTjlLNllWazU0WVV5X0ZlQ3Fwam9TQkFES3c2R2E3VDBLUXVwcjI1WUVxb1I5RTY1YS0yZlFGdmJyWkZGdE1CVEM2VnJaN1NtRUVXNTBuZ2ZhWnFabXJ1dQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxOM2YtLVZQYnNNXzBQN1l6bTU3aGVSb0Q4c05vbm12MjRfMWJTdWFKUldFYkNJMG9feXhNRVA5YURLb2t1UXBBQlE0a08zUEp5elNIUDVZRjg1OENrMk52c0p1MVA2Mm1vbzVnOWc3eEx4a016d29YeHp2dEFHaXdfcTJ2NlMzb1dVS2xrdmhpQUZMS1pQb0dtbGQ5ZTcxSEcyaEM4N1BsdWRwTkdrSzB3QnNkd04wbHZuLWlhY1lBTUl1TUtweXBmUjg0djFJMTEwbXA3QkR4WVNwWndBSkw4cmRMQ1A2MmZjT2tLb2FpeWl0aGd0Q0l2aThBaU9ORWhna09Ual9FS1UyZjRfdGdxaXdRLXZHNGtBRldhOXRXa1BRX3ZfVzFZZ3lIR1NuazBDUWtialdHVU90WExjMEhDMkhXTDFnZ3JYTjlLNllWazU0WVV5X0ZlQ3Fwam9TQkFES3c2R2E3VDBLUXVwcjI1WUVxb1I5RTY1YS0yZlFGdmJyWkZGdE1CVEM2VnJaN1NtRUVXNTBuZ2ZhWnFabXJ1dQ?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2025-10-28T07:00:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "NVIDIA Stock Rebounds as AI Product Launch and Data Center Demand Restore Confidence - CarbonCredits.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME9jcGVVSjdwTGgyWFhTZ19hYVhxY2VITC1tLW5rdXBWSmZ2OVRZZVpXX1dvakMxd0dzV0x0RjE3S0hkSEZjVEdSaXpmbGs0Mkw3WTdia0RISjVMeVM1RURONE5XNkFJR2VZLVNUTllCSU1RelRsNjZsaGhvSTJoTDF2Y3AxQWJaU09LMDZwZkstMWFyb00wMGpBSWlMOHY1UUFzb1lkRThmeExIc1UzYQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOME9jcGVVSjdwTGgyWFhTZ19hYVhxY2VITC1tLW5rdXBWSmZ2OVRZZVpXX1dvakMxd0dzV0x0RjE3S0hkSEZjVEdSaXpmbGs0Mkw3WTdia0RISjVMeVM1RURONE5XNkFJR2VZLVNUTllCSU1RelRsNjZsaGhvSTJoTDF2Y3AxQWJaU09LMDZwZkstMWFyb00wMGpBSWlMOHY1UUFzb1lkRThmeExIc1UzYQ?oc=5\" target=\"_blank\">NVIDIA Stock Rebounds as AI Product Launch and Data Center Demand Restore Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CarbonCredits.com</font>",
-      "published": "2025-12-16T08:00:00+00:00",
-      "source": "CarbonCredits.com"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-04",
-      "close": 183.0399932861328
+      "date": "2026-03-05",
+      "close": 183.33999633789062
     },
     "history": [
-      {
-        "date": "2026-02-24",
-        "close": 192.85000610351562
-      },
       {
         "date": "2026-02-25",
         "close": 195.55999755859375
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-04",
         "close": 183.0399932861328
+      },
+      {
+        "date": "2026-03-05",
+        "close": 183.33999633789062
       }
     ],
     "name": "NVIDIA Corporation"
