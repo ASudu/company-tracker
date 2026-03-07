@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-03-06T12:33:04.676885+00:00",
+  "fetched_at": "2026-03-07T12:26:43.309598+00:00",
   "news": [
     {
       "title": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist - CNBC",
@@ -12,18 +12,46 @@
       "source": "CNBC"
     },
     {
-      "title": "Copilot swallows your browser. You're welcome - theregister.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92VmNMaC1QYnRpOHJWSUF3NU9KNE40WnZsQTVleDUwS0QzczB1Z29EX2k4TkpxX2dMWnJPamg2YnVuWDE5SDVUbTZIaVI1VnpSbjZQbVo2OFY4dWxrSFdZM0o3X3FyZkF3Nks3N2EyNjd4N1ZKUkZhTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE92VmNMaC1QYnRpOHJWSUF3NU9KNE40WnZsQTVleDUwS0QzczB1Z29EX2k4TkpxX2dMWnJPamg2YnVuWDE5SDVUbTZIaVI1VnpSbjZQbVo2OFY4dWxrSFdZM0o3X3FyZkF3Nks3N2EyNjd4N1ZKUkZhTA?oc=5\" target=\"_blank\">Copilot swallows your browser. You're welcome</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
-      "published": "2026-03-05T13:26:00+00:00",
-      "source": "theregister.com"
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmtqSmhyRkNWNjJhYWN2VmxBd016X0Z2czVrYzBONXRjLVJPeGhIVlZZcGFLdkJJdi15RmJnRl9aX0xvQmsydGVlNXJCMnl0RW9DRDItTlVfODJsUmVSRVdtaVdMQ3R3ZTBTb25oZGxQWTEtODdBZFZrOHJQc3VSX0lkdEhCaTAwQXlBUkNCSVFpZTR1VFVKdTRmV2o4QTlGbmFPY0FDMTBrNW5YZFpkd2VUQTRPM0NLbjVlRVNGUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWmtqSmhyRkNWNjJhYWN2VmxBd016X0Z2czVrYzBONXRjLVJPeGhIVlZZcGFLdkJJdi15RmJnRl9aX0xvQmsydGVlNXJCMnl0RW9DRDItTlVfODJsUmVSRVdtaVdMQ3R3ZTBTb25oZGxQWTEtODdBZFZrOHJQc3VSX0lkdEhCaTAwQXlBUkNCSVFpZTR1VFVKdTRmV2o4QTlGbmFPY0FDMTBrNW5YZFpkd2VUQTRPM0NLbjVlRVNGUQ?oc=5\" target=\"_blank\">Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-03-06T19:50:10+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm1xQjhNS0lNVmtBSkFLaFJEWllxcEFJV3dsSnlXT1pLU2Y2Y3JzSTNtNXdaV1hCeW03ZlhJbHpXNEVoS2ZzV2FxME1wcEx4czQwMFM4a0d4NDQxamxxMmxxWEVPNnZrd1h5d1JSdE1ZNjVkM3lJM3hLMkdtOC0zOFRrblVlcDgy?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm1xQjhNS0lNVmtBSkFLaFJEWllxcEFJV3dsSnlXT1pLU2Y2Y3JzSTNtNXdaV1hCeW03ZlhJbHpXNEVoS2ZzV2FxME1wcEx4czQwMFM4a0d4NDQxamxxMmxxWEVPNnZrd1h5d1JSdE1ZNjVkM3lJM3hLMkdtOC0zOFRrblVlcDgy?oc=5\" target=\"_blank\">OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-03-05T22:00:00+00:00",
-      "source": "WIRED"
+      "title": "Amazon joins Google and Microsoft in sending 'Anthropic message' to customers - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOW5kOW1qTUcxalN5bzZZeEl5anFYOWxwWHR5ci1mSTAyNWlpc3RXM21RSFFZYmxEWjVSdjB3djNRT3ZnQS1Zd282MU5hZjVYdklNeHZlQkxEWTk4M0R4aGo4RnRqTW1pZG5rbGZVN24zb0FoYXQyRS1HUUotRVY2ajhpcUVnLXVIbldIMUxMbVNsMWlfMEJ0SEcyU3Ezb19Md1hldEpUY2dtQnVpczlfd3otbG5sTkVJcnprRnFGV2dtZVV3WTVZVlU4ZTJ3U1hZcXpmQlpTTEhuRWdjakpBd1RkanhITkxYdlQteFpSb9IB9AFBVV95cUxPTjNOWmpTMEExTXpmV3RLOS1KMGNSbktwUmRveDFEcmRuNUQ1WmJxNXUybC1MWUJkVnlaTHZVUHJ3bFdBZFN6S2xjb2s3bS1yVnBJM1V6T3ZxRU9YUk9qQktLY3ZTbHNFT2xIUF9rNVV3LVlBVV80S2lTdGVRbWozTmV6eGp6MUNpQ1ZOb3pPZzF2RXdvOXZaVEkyTDdaQjlHVGdGclZXU0JpUktNbm56b3Eyc1h6dnRyV0RlcUlDVXdJM1EycHI1M2otSWgwbGVSdFgxOWxYZFNpelA4WUdyeWtkV2x6LXR2QXVaSVFJdVZya29j?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOW5kOW1qTUcxalN5bzZZeEl5anFYOWxwWHR5ci1mSTAyNWlpc3RXM21RSFFZYmxEWjVSdjB3djNRT3ZnQS1Zd282MU5hZjVYdklNeHZlQkxEWTk4M0R4aGo4RnRqTW1pZG5rbGZVN24zb0FoYXQyRS1HUUotRVY2ajhpcUVnLXVIbldIMUxMbVNsMWlfMEJ0SEcyU3Ezb19Md1hldEpUY2dtQnVpczlfd3otbG5sTkVJcnprRnFGV2dtZVV3WTVZVlU4ZTJ3U1hZcXpmQlpTTEhuRWdjakpBd1RkanhITkxYdlQteFpSb9IB9AFBVV95cUxPTjNOWmpTMEExTXpmV3RLOS1KMGNSbktwUmRveDFEcmRuNUQ1WmJxNXUybC1MWUJkVnlaTHZVUHJ3bFdBZFN6S2xjb2s3bS1yVnBJM1V6T3ZxRU9YUk9qQktLY3ZTbHNFT2xIUF9rNVV3LVlBVV80S2lTdGVRbWozTmV6eGp6MUNpQ1ZOb3pPZzF2RXdvOXZaVEkyTDdaQjlHVGdGclZXU0JpUktNbm56b3Eyc1h6dnRyV0RlcUlDVXdJM1EycHI1M2otSWgwbGVSdFgxOWxYZFNpelA4WUdyeWtkV2x6LXR2QXVaSVFJdVZya29j?oc=5\" target=\"_blank\">Amazon joins Google and Microsoft in sending 'Anthropic message' to customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-03-07T06:53:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "North Korean agents using AI to trick western firms into hiring them, Microsoft says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXUxeVVVMTFncmsyRGhwOTNzM0hUQjl1SEwyWjhnMjFJMy16bWJFcFJZQnZwT0JjaDFramJDWXVxUU5lZk5UQWZjTGN4VzhpMDMxYzlQekxNbXdlUlU2UWxJdHdEaUUtaDBYUFN4cGhfZnVuSEJVQ3hINVJ6YXBWVS1UM3NWSTV0RUtMMzl0Wi0xN1NFR1ZQNjBjUVRYMGh4Rlg1ajZBcWROME83dlI1dmV1WGttUEI3djlveGVELTdMYkhYVlZKQXNXaE8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXUxeVVVMTFncmsyRGhwOTNzM0hUQjl1SEwyWjhnMjFJMy16bWJFcFJZQnZwT0JjaDFramJDWXVxUU5lZk5UQWZjTGN4VzhpMDMxYzlQekxNbXdlUlU2UWxJdHdEaUUtaDBYUFN4cGhfZnVuSEJVQ3hINVJ6YXBWVS1UM3NWSTV0RUtMMzl0Wi0xN1NFR1ZQNjBjUVRYMGh4Rlg1ajZBcWROME83dlI1dmV1WGttUEI3djlveGVELTdMYkhYVlZKQXNXaE8?oc=5\" target=\"_blank\">North Korean agents using AI to trick western firms into hiring them, Microsoft says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-03-06T17:02:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "It costs less to get a Microsoft Office 2024 lifetime license than to pay one year of Microsoft 365 - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRU211Y3VkRzVRcDBJeEo2bmxyNUd1TnFlbWtpY1BsSU8tUFc1TEZoTFVNUndkVk00UEVfOVY0em50QWthUUdNQVhMZUlCMFVkY2lSb1Z0VWd4c3h0UVkwSTV2RmMyeGc2RHM1OUZjZUtFaElsVEtEdHlCeXE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBRU211Y3VkRzVRcDBJeEo2bmxyNUd1TnFlbWtpY1BsSU8tUFc1TEZoTFVNUndkVk00UEVfOVY0em50QWthUUdNQVhMZUlCMFVkY2lSb1Z0VWd4c3h0UVkwSTV2RmMyeGc2RHM1OUZjZUtFaElsVEtEdHlCeXE?oc=5\" target=\"_blank\">It costs less to get a Microsoft Office 2024 lifetime license than to pay one year of Microsoft 365</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-03-07T10:00:00+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Microsoft confirms Project Helix, the next-gen Xbox console: What we know - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEh3ZVBTQXRkZUk5VjA1bXhEQU9fSmtrOER4QWJIbThHVXRWbUVGQ0xQeGRFdlcxVHVSbmMzU2NmU2R5RWZEMVA1YmdiV0tlMHZfZmw3LUlIenNQYzRmOFVlZzNDWjhFMHNqME83NU5OdGlSV1JVQ2pkVEZTblhLczdGdWZJYTZpOUFqN3NrVmpaTGRu?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEh3ZVBTQXRkZUk5VjA1bXhEQU9fSmtrOER4QWJIbThHVXRWbUVGQ0xQeGRFdlcxVHVSbmMzU2NmU2R5RWZEMVA1YmdiV0tlMHZfZmw3LUlIenNQYzRmOFVlZzNDWjhFMHNqME83NU5OdGlSV1JVQ2pkVEZTblhLczdGdWZJYTZpOUFqN3NrVmpaTGRu?oc=5\" target=\"_blank\">Microsoft confirms Project Helix, the next-gen Xbox console: What we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-03-06T17:43:04+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Xbox confirms new console is coming - but can it revive the brand? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrdDNvb3lPdzFZQWJES1FqWXE2WUVPT0tOa0ZNeVFaQm42UFplM3U2YU5ROUFUR1FHVWdVZGI4UzlId3Uyem80QUdYTGpjNmkwejZDaUZzTVVzZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrdDNvb3lPdzFZQWJES1FqWXE2WUVPT0tOa0ZNeVFaQm42UFplM3U2YU5ROUFUR1FHVWdVZGI4UzlId3Uyem80QUdYTGpjNmkwejZDaUZzTVVzZw?oc=5\" target=\"_blank\">Xbox confirms new console is coming - but can it revive the brand?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-03-06T11:56:02+00:00",
+      "source": "BBC"
     },
     {
       "title": "MS exec: Microsoft’s next console will play “Xbox and PC games” - Ars Technica",
@@ -31,57 +59,22 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXlOLXdSa2FyeXZvVGhNX2s0cjlkakNtVDJtYXU3WVM5MktJYXduU1Z4UjhWTFpaZG5UWm0xMTM2WTNFMDJLQmF4TjFURTN2OFNtejdWY0NCeEpxVDlzSE5xZjFxLVQ1S0c2RldqMndDLU1nb0xzSUN3cUVCVGJZZUg5bk1jRl9OMGxLNDhpZElidE41aXB5UmI2NFdQOXdG?oc=5\" target=\"_blank\">MS exec: Microsoft’s next console will play “Xbox and PC games”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
       "published": "2026-03-05T21:39:43+00:00",
       "source": "Ars Technica"
-    },
-    {
-      "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PN3NVb19nVFNoNGdjX0Q4VEZNVE1VbHJPSnRMQ1hFZU13bkYtMi1MN3lmM0otN3gwUzY4OVNnZF85R1ZsMl9TQkY4N19LX2d5V0lWVkkybXFaZENjOWhhTjRZeDJjTEdXYmgxR0J0UTRLU0FYRFRwSXBkSkhsTlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1PN3NVb19nVFNoNGdjX0Q4VEZNVE1VbHJPSnRMQ1hFZU13bkYtMi1MN3lmM0otN3gwUzY4OVNnZF85R1ZsMl9TQkY4N19LX2d5V0lWVkkybXFaZENjOWhhTjRZeDJjTEdXYmgxR0J0UTRLU0FYRFRwSXBkSkhsTlk?oc=5\" target=\"_blank\">Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-03-06T06:44:00+00:00",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft: Buy The Dip, Or Regret It Forever (NASDAQ:MSFT) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMThVd3BOU2h1MElGSjA2VVBUb3RNZkhKa2s0dnJvOWRRbGlHNkRReGloRVVxTC1ZNC0tZlBSbS1NUlBKUUo5YzI2bDNxQXd4S0NVZTNPa0FrNGxzNXA4bG53WmgyZVpLOVJhT1JzM2g5SWp3UE4xRkMzWUw2Q3MtSVBld3JkeE1RelJN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMThVd3BOU2h1MElGSjA2VVBUb3RNZkhKa2s0dnJvOWRRbGlHNkRReGloRVVxTC1ZNC0tZlBSbS1NUlBKUUo5YzI2bDNxQXd4S0NVZTNPa0FrNGxzNXA4bG53WmgyZVpLOVJhT1JzM2g5SWp3UE4xRkMzWUw2Q3MtSVBld3JkeE1RelJN?oc=5\" target=\"_blank\">Microsoft: Buy The Dip, Or Regret It Forever (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-03-05T14:00:09+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Microsoft confirms Project Helix, the next-gen Xbox console: What we know - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEh3ZVBTQXRkZUk5VjA1bXhEQU9fSmtrOER4QWJIbThHVXRWbUVGQ0xQeGRFdlcxVHVSbmMzU2NmU2R5RWZEMVA1YmdiV0tlMHZfZmw3LUlIenNQYzRmOFVlZzNDWjhFMHNqME83NU5OdGlSV1JVQ2pkVEZTblhLczdGdWZJYTZpOUFqN3NrVmpaTGRu?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEh3ZVBTQXRkZUk5VjA1bXhEQU9fSmtrOER4QWJIbThHVXRWbUVGQ0xQeGRFdlcxVHVSbmMzU2NmU2R5RWZEMVA1YmdiV0tlMHZfZmw3LUlIenNQYzRmOFVlZzNDWjhFMHNqME83NU5OdGlSV1JVQ2pkVEZTblhLczdGdWZJYTZpOUFqN3NrVmpaTGRu?oc=5\" target=\"_blank\">Microsoft confirms Project Helix, the next-gen Xbox console: What we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-03-05T23:13:45+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "OpenAI Is Developing an Internal Alternative to Microsoft’s GitHub - The Information",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjBNWF9nSkRST25jaFZyOGVCcFRIdUU0aUpLcVN1VnE4RWFfUUkyQXRoYVNQbTVMeHowUkN3OWh0enY0SDUyZmNZWUZ6MGRMekc2VlB5Tm8tVVJXcHBvVVpqNE96amtiRzFzbHJGOE0wZ2xaMmNRbnBZTEFRUTI1a1hpU0Y3TEJTdmFDZHFERUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjBNWF9nSkRST25jaFZyOGVCcFRIdUU0aUpLcVN1VnE4RWFfUUkyQXRoYVNQbTVMeHowUkN3OWh0enY0SDUyZmNZWUZ6MGRMekc2VlB5Tm8tVVJXcHBvVVpqNE96amtiRzFzbHJGOE0wZ2xaMmNRbnBZTEFRUTI1a1hpU0Y3TEJTdmFDZHFERUw?oc=5\" target=\"_blank\">OpenAI Is Developing an Internal Alternative to Microsoft’s GitHub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-03-03T22:41:00+00:00",
-      "source": "The Information"
     }
   ],
   "product_launches": [
     {
-      "title": "Simplilearn Launches 'Applied Agentic AI: Systems, Design & Impact' Program to Build the Next Generation of Microsoft AI Product and Systems Leaders - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTlBudEw2VTRCUFc0VW0tcVVPQmxzWXg2bFhSZnBlblJhUUV5cFBfYUNhdFUyMXExel85ZDNxZWJwSlVGS3R4ZkdkNUdpUFMwRFhqeThRNUVKNFhtZTAyaVRhYXoxRGo5SHk2ZDVpMlhaUV9ncnE1U2xxUUVfNTJuVkV3a3FHUnVDYV9VMUpHeHZXT29qWGdhdE40OW1LcnB4TmFTOUxkSEtTOHdBQ19EV1BhWHhlMmdBVjBXMUZrOFVWNDhaWEdabkhrODQ3WjQ0ZFg3d2M3emFhcnc5VmZYZllZX1R1ZTFNUXI0TEQzbWhMdkVfdWlWYmNFYUtZcU5IbHhMMWVuNzJlbVdXSjJ0QjdzUkhzdGs3Q0UweU5vX2k5cW4tLUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxNTlBudEw2VTRCUFc0VW0tcVVPQmxzWXg2bFhSZnBlblJhUUV5cFBfYUNhdFUyMXExel85ZDNxZWJwSlVGS3R4ZkdkNUdpUFMwRFhqeThRNUVKNFhtZTAyaVRhYXoxRGo5SHk2ZDVpMlhaUV9ncnE1U2xxUUVfNTJuVkV3a3FHUnVDYV9VMUpHeHZXT29qWGdhdE40OW1LcnB4TmFTOUxkSEtTOHdBQ19EV1BhWHhlMmdBVjBXMUZrOFVWNDhaWEdabkhrODQ3WjQ0ZFg3d2M3emFhcnc5VmZYZllZX1R1ZTFNUXI0TEQzbWhMdkVfdWlWYmNFYUtZcU5IbHhMMWVuNzJlbVdXSjJ0QjdzUkhzdGs3Q0UweU5vX2k5cW4tLUE?oc=5\" target=\"_blank\">Simplilearn Launches 'Applied Agentic AI: Systems, Design & Impact' Program to Build the Next Generation of Microsoft AI Product and Systems Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "published": "2026-03-02T14:00:00+00:00",
-      "source": "PR Newswire"
-    },
-    {
-      "title": "2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSS1XWjNwcFpWX3pfRWQxeWxvTHFPeHdiUkxseWE4ck1yV3ZfdXFOR09HczRocGMycGR3bzVteHNlOTdwVDhYYTlhWGc5Z2Fodm9kdi04TkdWeVZuSEM5djByNFdHWXVza24tNW5ZTW14cEZ4cUdKSFNnOGoxbm9lWUgxMEVWaUd2MmZWY3dNQ3JqSVR2VjFBcWl6TzRXWnR5amhoNzVPU291QnVGU1VXMFh0WkNCTkhoSkpTRnQyLUJuUWlNTTJraTFFamtRLWc4RTZnbnZRU3I4V3MxYVJ1REJOUjZSaHliWkstOXptRVpjTzZlZ2pPYjBFRURIdw?oc=5\" target=\"_blank\">2025 release wave 1 brings hundreds of updates to Microsoft Dynamics 365 and Power Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2025-04-30T07:00:00+00:00",
+      "title": "Microsoft 365 Copilot now enables you to build apps and workflows - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUxEYVhvQlhaNUFrOG5oc3FQV01sYnhqVE9jLTVlQkh3VmMyWnhiNkZjQ0tGR0Z3U3NFOWc1cE5scmpFS2h3RllZQjItc01wZ0lfSUZpcTZSU2hOdjd3TVpIczFNODVqUnFRQmNLZU1zeHN6TTZDZVljUXU5d01RTEN5bUFXNlczR2VZN3Rkb202V3hrdW1XUnhSTG1peERGMGFUUG9CdDFiMF9yUm5JSll0cHJtdFZMOTVmUnhBc2NkUE9mQ3Aw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUxEYVhvQlhaNUFrOG5oc3FQV01sYnhqVE9jLTVlQkh3VmMyWnhiNkZjQ0tGR0Z3U3NFOWc1cE5scmpFS2h3RllZQjItc01wZ0lfSUZpcTZSU2hOdjd3TVpIczFNODVqUnFRQmNLZU1zeHN6TTZDZVljUXU5d01RTEN5bUFXNlczR2VZN3Rkb202V3hrdW1XUnhSTG1peERGMGFUUG9CdDFiMF9yUm5JSll0cHJtdFZMOTVmUnhBc2NkUE9mQ3Aw?oc=5\" target=\"_blank\">Microsoft 365 Copilot now enables you to build apps and workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-10-28T07:00:00+00:00",
       "source": "Microsoft"
     },
     {
-      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
+      "title": "PayPal Powers Microsoft’s Launch of Copilot Checkout - PYPL Investor Relations",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamJWank3SUkxWXdvSHlJNndVSDh3ZkVnU0JDM1NUQlotLTluRWtnRDFlV3dXdUVpNHNmM1NGVlpGYVBhUFl4dFNza1Y4blNYZHR0bFEtU2RxUGxjSVlzc25UaFhVS2FfZ0h6bHB5ZFV4cEMzNUthYzl1WkNxd2NuZllfQURDcmNRVTN3dFJWWFh3M1F5ZUFlN1FHYzJzOUJNelhEZTlVUjg2R1l3NTZEeFR2ZDJYcnpSVVJtQkxyd3RYdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamJWank3SUkxWXdvSHlJNndVSDh3ZkVnU0JDM1NUQlotLTluRWtnRDFlV3dXdUVpNHNmM1NGVlpGYVBhUFl4dFNza1Y4blNYZHR0bFEtU2RxUGxjSVlzc25UaFhVS2FfZ0h6bHB5ZFV4cEMzNUthYzl1WkNxd2NuZllfQURDcmNRVTN3dFJWWFh3M1F5ZUFlN1FHYzJzOUJNelhEZTlVUjg2R1l3NTZEeFR2ZDJYcnpSVVJtQkxyd3RYdw?oc=5\" target=\"_blank\">PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYPL Investor Relations</font>",
       "published": "2026-01-08T08:00:00+00:00",
-      "source": "PayPal Newsroom"
+      "source": "PYPL Investor Relations"
     },
     {
       "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VPcE5yeU1Kd2hWQ3hxUlpCMHhfanlnTzA0VTBDV0R5S3IxaWxWSm9yOWx1VUJJTENvbXNOQXAyVi1FeDhaRW9tZEVtY0xZY191NTVCYXo5c3g5WjloSFc4QjBEMDFFTGxOaFo0a1p5cDkyZWZUSHhNSWNCN1lndGN2aFdDVGdIVkRLaV92LURaU3k5NFV4Tl9B?oc=5\" target=\"_blank\">Microsoft launches ‘vibe working’ in Excel and Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2025-09-29T07:00:00+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Microsoft Ignite 2025: Copilot and agents built to power the Frontier Firm - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1BvOERnNktIWWRmTU10aTVyN0MyR1JrSkg4VG9vVkZ4aTVjTWprWHB1c0pYZ1NfN3VqdEk1MUdwUDc3R2c0ZDZZbC1UeTVTMFgwUmVFYWFzdFJocjhUcWo3cEJseHpCLUpaUzVZcHp6TW1LUFlEeURTVVlERENiUzdmdGhiYkxoaTNXNG5wUW1nUUU0ZnpRRGJ0SW11WlpSbHZ2bjZaXzBBNGFmTGpVZkpNY0YwTzhrS3U2Q2x1cjVtUmRYamRPM3ZhYkJnd1ZjS1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1BvOERnNktIWWRmTU10aTVyN0MyR1JrSkg4VG9vVkZ4aTVjTWprWHB1c0pYZ1NfN3VqdEk1MUdwUDc3R2c0ZDZZbC1UeTVTMFgwUmVFYWFzdFJocjhUcWo3cEJseHpCLUpaUzVZcHp6TW1LUFlEeURTVVlERENiUzdmdGhiYkxoaTNXNG5wUW1nUUU0ZnpRRGJ0SW11WlpSbHZ2bjZaXzBBNGFmTGpVZkpNY0YwTzhrS3U2Q2x1cjVtUmRYamRPM3ZhYkJnd1ZjS1E?oc=5\" target=\"_blank\">Microsoft Ignite 2025: Copilot and agents built to power the Frontier Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2025-11-18T08:00:00+00:00",
+      "source": "Microsoft"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-05",
-      "close": 410.67999267578125
+      "date": "2026-03-06",
+      "close": 408.9599914550781
     },
     "history": [
-      {
-        "date": "2026-02-25",
-        "close": 400.6000061035156
-      },
       {
         "date": "2026-02-26",
         "close": 401.7200012207031
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-05",
         "close": 410.67999267578125
+      },
+      {
+        "date": "2026-03-06",
+        "close": 408.9599914550781
       }
     ],
     "name": "Microsoft Corporation"
