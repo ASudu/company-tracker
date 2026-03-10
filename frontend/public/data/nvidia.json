@@ -2,42 +2,28 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-09T12:38:05.034932+00:00",
+  "fetched_at": "2026-03-10T12:37:37.194411+00:00",
   "news": [
     {
-      "title": "Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth — a small incentive for one of the richest people on earth - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUElUbzlTMEZYNmxKclpIZnJzakcwWEVsaU5oM1BCclJBYlN3V2FEX3Z6R0RhaVVZOTBtZ0hBM2s2UnFBc1JOclVHbExHTVpCSmR0dnNuWHM1b0VJOWxpZUJ0NnkxeGY5OXdOdHlkcWJBMDducWw5ZHRudklLOFItcGJCdXVVemxBTzFnOEN1RG4tb0ZoMmZ5R0RHQkFHbC1mOWQ5cDZURjNLZ2p1MUZYRnJ4a1AyUGZwVGF6TlB0eXZPQ01ZN1NGX191RElVVWdSQzR1RXp4VGkyMTFoUGRGR1FBc2pIV05tUUc2Z1U3T1NHU3NQcTk4NjBhM2tzRFlvWWVCSlR0aW9fYURlMldYNEhfb0RNR1M5dmszZFB3Nl9MR0Y1REJlcjJKOFk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOUElUbzlTMEZYNmxKclpIZnJzakcwWEVsaU5oM1BCclJBYlN3V2FEX3Z6R0RhaVVZOTBtZ0hBM2s2UnFBc1JOclVHbExHTVpCSmR0dnNuWHM1b0VJOWxpZUJ0NnkxeGY5OXdOdHlkcWJBMDducWw5ZHRudklLOFItcGJCdXVVemxBTzFnOEN1RG4tb0ZoMmZ5R0RHQkFHbC1mOWQ5cDZURjNLZ2p1MUZYRnJ4a1AyUGZwVGF6TlB0eXZPQ01ZN1NGX191RElVVWdSQzR1RXp4VGkyMTFoUGRGR1FBc2pIV05tUUc2Z1U3T1NHU3NQcTk4NjBhM2tzRFlvWWVCSlR0aW9fYURlMldYNEhfb0RNR1M5dmszZFB3Nl9MR0Y1REJlcjJKOFk?oc=5\" target=\"_blank\">Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth — a small incentive for one of the richest people on earth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-03-08T12:17:30+00:00",
-      "source": "Tom's Hardware"
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWZXRkJ0dC1RRXgxd1lUVy1MNWV6Ml9Hc0VCLU5XODRRS1ZObXdkcFoxQ0RkSHlmaUVtMk5Nbm1GWUE1c2E1MWJoZ0xnMDNrVkVOMlpXNEY1cXJFY0NLTllLVlRnM0pQVm9WWXlWUUhCekNIRnFNR0pzSm5LbkdITmlvZHNBZXRY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWZXRkJ0dC1RRXgxd1lUVy1MNWV6Ml9Hc0VCLU5XODRRS1ZObXdkcFoxQ0RkSHlmaUVtMk5Nbm1GWUE1c2E1MWJoZ0xnMDNrVkVOMlpXNEY1cXJFY0NLTllLVlRnM0pQVm9WWXlWUUhCekNIRnFNR0pzSm5LbkdITmlvZHNBZXRY?oc=5\" target=\"_blank\">Nvidia Is Planning to Launch an Open-Source AI Agent Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-03-09T23:11:00+00:00",
+      "source": "WIRED"
     },
     {
-      "title": "Tesla Billionaire Buys More Nvidia to ‘Calm the Nervous Market’ - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUg1QXNHOVViaW5PMGo3SlFIUnNfdHBRTVRNRUF3TmpDanBxSUVBVTI2Ni0xYll5NVNWNXRuNlItZjZ1M1JWX1piR1ZOUFkzRzRBcl91VXdldnBvN2ZfNEdSUTZEVmVKWUxxRFVXaDZlVERnS0tJcjd2b2ctcWVkOVdsYlRWUUcwTmFXaENpUXRmcC1fOGRjSVpGc3FEd3ZuX0J0U05yX3oyY1RfMHpVUF93?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUg1QXNHOVViaW5PMGo3SlFIUnNfdHBRTVRNRUF3TmpDanBxSUVBVTI2Ni0xYll5NVNWNXRuNlItZjZ1M1JWX1piR1ZOUFkzRzRBcl91VXdldnBvN2ZfNEdSUTZEVmVKWUxxRFVXaDZlVERnS0tJcjd2b2ctcWVkOVdsYlRWUUcwTmFXaENpUXRmcC1fOGRjSVpGc3FEd3ZuX0J0U05yX3oyY1RfMHpVUF93?oc=5\" target=\"_blank\">Tesla Billionaire Buys More Nvidia to ‘Calm the Nervous Market’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-09T06:25:00+00:00",
-      "source": "Bloomberg.com"
+      "title": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPem9IblQ1R1llUGU3LS1HNF9UREFHT00xZUVRUmNVZTNhVzBHSXhydVowbXdVaXpqcmNYN3NDRElHNTd5Ulh4RTV1ZWM4NWtqNVpYN3A3dmYyRzRITEVnLXNxRDVqX1BUSFdWV3k3dlFkV1NFZEFXczYyVTU4eUFSMkhBR1BoMElRcUF3T21XREt1X3Q2cjg3akhtdi1SLUlMaExOVVB1TXZqeDFCQktlbmtmbi03ZHpQTVVXa0dtTm5yR1dOcEo40gHMAUFVX3lxTE5TeXFRbTRWQTVKd1FVcXZTQl9SR0t1UDN3YUZpTmswOUYzQnZxYi1SeXBvYjNJbjdGenhreFA1anBXdzFReEJpNUhFRWgwQjhwaXd0bmw4eU5yZ1gyOUF0MEJSdVBWUEpCYkthbmQwUks3YWNmQkF0Vm9YcWM4djBZYTk4bVByR2tkYmZVNlRNSWFwVnpvc19PWFg3MXNPNGh3OXg2aXJHU0s4UERSbFNXZE4zUVFFemsyaTd1S2RRWkhlb0ZtUlI2dEVPOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPem9IblQ1R1llUGU3LS1HNF9UREFHT00xZUVRUmNVZTNhVzBHSXhydVowbXdVaXpqcmNYN3NDRElHNTd5Ulh4RTV1ZWM4NWtqNVpYN3A3dmYyRzRITEVnLXNxRDVqX1BUSFdWV3k3dlFkV1NFZEFXczYyVTU4eUFSMkhBR1BoMElRcUF3T21XREt1X3Q2cjg3akhtdi1SLUlMaExOVVB1TXZqeDFCQktlbmtmbi03ZHpQTVVXa0dtTm5yR1dOcEo40gHMAUFVX3lxTE5TeXFRbTRWQTVKd1FVcXZTQl9SR0t1UDN3YUZpTmswOUYzQnZxYi1SeXBvYjNJbjdGenhreFA1anBXdzFReEJpNUhFRWgwQjhwaXd0bmw4eU5yZ1gyOUF0MEJSdVBWUEpCYkthbmQwUks3YWNmQkF0Vm9YcWM4djBZYTk4bVByR2tkYmZVNlRNSWFwVnpvc19PWFg3MXNPNGh3OXg2aXJHU0s4UERSbFNXZE4zUVFFemsyaTd1S2RRWkhlb0ZtUlI2dEVPOA?oc=5\" target=\"_blank\">Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-10T05:52:16+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "ABB teams up with Nvidia to improve factory robot training - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGZveTNaVUlZSHo1SjZMejBvX0tpenBhWUo2ckRkWDlBM01nVUNBZWFWWWo5RURNV2lLSzdMMnUwMFVqc3BKcVRIU21xbG1uMXdhV3MxMmNNMDNja0plWmVEeHMtR3JLTlhEcXpUQS02a0Q1UFlxamhOYjVwOTkzSThDa1M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGZveTNaVUlZSHo1SjZMejBvX0tpenBhWUo2ckRkWDlBM01nVUNBZWFWWWo5RURNV2lLSzdMMnUwMFVqc3BKcVRIU21xbG1uMXdhV3MxMmNNMDNja0plWmVEeHMtR3JLTlhEcXpUQS02a0Q1UFlxamhOYjVwOTkzSThDa1M?oc=5\" target=\"_blank\">ABB teams up with Nvidia to improve factory robot training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-09T12:01:34+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Sold All of Its Applied Digital Stock. Should You Follow Suit? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnVYdDhNQTljNlI1UEdtRmJrUXcyaVVEdHpiM0FMX3pLY0pxWktHaG1Xek90aUpmRU45NHRqWnAxR1RKclpZYlBIVF9tVW11cE9XaHIyTlJvb3dOUnZ6SWNuZ3k0bVhxM2o4RzdCMFF4Q3B3NjBaYUpVVnhmb2RLZnU5ZlUwSy1oMThOR0VMREk3bkg5QjVlRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnVYdDhNQTljNlI1UEdtRmJrUXcyaVVEdHpiM0FMX3pLY0pxWktHaG1Xek90aUpmRU45NHRqWnAxR1RKclpZYlBIVF9tVW11cE9XaHIyTlJvb3dOUnZ6SWNuZ3k0bVhxM2o4RzdCMFF4Q3B3NjBaYUpVVnhmb2RLZnU5ZlUwSy1oMThOR0VMREk3bkg5QjVlRw?oc=5\" target=\"_blank\">Nvidia Sold All of Its Applied Digital Stock. Should You Follow Suit?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-09T12:11:04+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0pOQUZTOTZYR2RmUlRWbExTeE9Na08wTHFfblRGczZXdTloNVJ2OU1tdFRzOFo1QVZpRUFQV0R3YlFQTEYxbk9uWHFQN1d1ck55bEVERTZSbHNwSzJoNjUySi1jYlV3Zko0RE5JRHlKOG1IR01MU0lTY2hxS2FlWno0RUJVVDczb1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0pOQUZTOTZYR2RmUlRWbExTeE9Na08wTHFfblRGczZXdTloNVJ2OU1tdFRzOFo1QVZpRUFQV0R3YlFQTEYxbk9uWHFQN1d1ck55bEVERTZSbHNwSzJoNjUySi1jYlV3Zko0RE5JRHlKOG1IR01MU0lTY2hxS2FlWno0RUJVVDczb1E?oc=5\" target=\"_blank\">ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-09T12:00:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "AI tokens rally after Nvidia open-source agent plan, beat CoinDesk 20 - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2tScXBlbGlSOWhLb3BDbFpkZkI5dDBOejROTHVnc1hMTDlhRVpxeUNwT0cxZ2lPdGVIcnh6ZC1uT3oxbElUQ3pKbktVSWh0RGE3cDdWcUNKcjZUUHVNSVI3d2I4MmI3QW1DelB4T21ZNnZxQmhNT2hVU0tnd0c0OTNlcFhLWmlCWC1mbkQ5R21DNkFNa3RkZ1d3ZDFVcGN0am1jVXB6aDVIQjlRU3ZhcERtQ3RHdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2tScXBlbGlSOWhLb3BDbFpkZkI5dDBOejROTHVnc1hMTDlhRVpxeUNwT0cxZ2lPdGVIcnh6ZC1uT3oxbElUQ3pKbktVSWh0RGE3cDdWcUNKcjZUUHVNSVI3d2I4MmI3QW1DelB4T21ZNnZxQmhNT2hVU0tnd0c0OTNlcFhLWmlCWC1mbkQ5R21DNkFNa3RkZ1d3ZDFVcGN0am1jVXB6aDVIQjlRU3ZhcERtQ3RHdw?oc=5\" target=\"_blank\">AI tokens rally after Nvidia open-source agent plan, beat CoinDesk 20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "published": "2026-03-10T05:31:49+00:00",
+      "source": "CoinDesk"
     },
     {
       "title": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation - CNBC",
@@ -47,69 +33,79 @@
       "source": "CNBC"
     },
     {
-      "title": "Nvidia Stock: The Market Is Wrong (NASDAQ:NVDA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JTFd1dld2N0dWWU5zZEgteWVmTWdVTzhBYmx5X0lCaXZCRVE4NlkxaFFpVEFLdjlPejEyZFhMcVVBNzZQQWtWNXczYnh4a2RJVHdVSExtVTJFUnB2RzZLTXVqOVdJSjk4aWpWUjJGU2lsT2VMVHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9JTFd1dld2N0dWWU5zZEgteWVmTWdVTzhBYmx5X0lCaXZCRVE4NlkxaFFpVEFLdjlPejEyZFhMcVVBNzZQQWtWNXczYnh4a2RJVHdVSExtVTJFUnB2RzZLTXVqOVdJSjk4aWpWUjJGU2lsT2VMVHc?oc=5\" target=\"_blank\">Nvidia Stock: The Market Is Wrong (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-03-08T14:40:00+00:00",
-      "source": "Seeking Alpha"
+      "title": "5 takeaways from Nvidia CEO Jensen Huang's rare insider blog post on AI - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWdpLVVJVzhqXzh6Rmx0bEhSOGtGNURjVV9rbWpWcGkxRVA3d3RZdGcxQjYxZmRnYms5RUJHTWgwZlFkemloLTlJS3lxMUpMMERoUTJvN0F4MjBOanNENG02ZEY3MU9hcy1ZR1dFTnp5ZUN3QTNtNnExX19zMG15NFpBLTNJcnot?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWdpLVVJVzhqXzh6Rmx0bEhSOGtGNURjVV9rbWpWcGkxRVA3d3RZdGcxQjYxZmRnYms5RUJHTWgwZlFkemloLTlJS3lxMUpMMERoUTJvN0F4MjBOanNENG02ZEY3MU9hcy1ZR1dFTnp5ZUN3QTNtNnExX19zMG15NFpBLTNJcnot?oc=5\" target=\"_blank\">5 takeaways from Nvidia CEO Jensen Huang's rare insider blog post on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-03-10T10:03:40+00:00",
+      "source": "Axios"
     },
     {
-      "title": "Why Risk-Averse Investors Should Buy Nvidia Stock - Nasdaq",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHY5c0ptUWpOb3BwTnZJN2dnZ0MwQXpWS2pxeGhiTks3bTljNnAxUlVNelhGVVRLODNwOTB4SWdMRF9mNmM2NG5ZdVZOSHVzRXQ5V1BfRjNLMG85eTFidE9fRmNIOGNfZWk5SF9RcW8zQkxjUkc3S09MZk5Ldk1UVUF4RlNoNmJj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHY5c0ptUWpOb3BwTnZJN2dnZ0MwQXpWS2pxeGhiTks3bTljNnAxUlVNelhGVVRLODNwOTB4SWdMRF9mNmM2NG5ZdVZOSHVzRXQ5V1BfRjNLMG85eTFidE9fRmNIOGNfZWk5SF9RcW8zQkxjUkc3S09MZk5Ldk1UVUF4RlNoNmJj?oc=5\" target=\"_blank\">Why Risk-Averse Investors Should Buy Nvidia Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
-      "published": "2026-03-08T21:05:00+00:00",
-      "source": "Nasdaq"
+      "title": "Jensen Huang sends shocking message on Nvidia’s OpenAI stake - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRU9uUUp6MS1UU2t3Q3N4dHU1Q2p5S3pyMDdSaXQxM1Bfem5NcUladWtwSFJQVDlaVkg1NUt6cmxVRXQtdHhKcUd2MXlJYTd1ajdOWnBLSmpHN3c0dzlZUDg2dE1XbEstdGNsbTY0a242V1YwRVQ4cllQZ2tobFVfOU5UTGVlZU5TVkQ2M3pDeDZsR3JPaktZYW5OUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRU9uUUp6MS1UU2t3Q3N4dHU1Q2p5S3pyMDdSaXQxM1Bfem5NcUladWtwSFJQVDlaVkg1NUt6cmxVRXQtdHhKcUd2MXlJYTd1ajdOWnBLSmpHN3c0dzlZUDg2dE1XbEstdGNsbTY0a242V1YwRVQ4cllQZ2tobFVfOU5UTGVlZU5TVkQ2M3pDeDZsR3JPaktZYW5OUQ?oc=5\" target=\"_blank\">Jensen Huang sends shocking message on Nvidia’s OpenAI stake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "published": "2026-03-09T13:33:00+00:00",
+      "source": "thestreet.com"
+    },
+    {
+      "title": "Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth — a small incentive for one of the richest people on earth - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUElUbzlTMEZYNmxKclpIZnJzakcwWEVsaU5oM1BCclJBYlN3V2FEX3Z6R0RhaVVZOTBtZ0hBM2s2UnFBc1JOclVHbExHTVpCSmR0dnNuWHM1b0VJOWxpZUJ0NnkxeGY5OXdOdHlkcWJBMDducWw5ZHRudklLOFItcGJCdXVVemxBTzFnOEN1RG4tb0ZoMmZ5R0RHQkFHbC1mOWQ5cDZURjNLZ2p1MUZYRnJ4a1AyUGZwVGF6TlB0eXZPQ01ZN1NGX191RElVVWdSQzR1RXp4VGkyMTFoUGRGR1FBc2pIV05tUUc2Z1U3T1NHU3NQcTk4NjBhM2tzRFlvWWVCSlR0aW9fYURlMldYNEhfb0RNR1M5dmszZFB3Nl9MR0Y1REJlcjJKOFk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOUElUbzlTMEZYNmxKclpIZnJzakcwWEVsaU5oM1BCclJBYlN3V2FEX3Z6R0RhaVVZOTBtZ0hBM2s2UnFBc1JOclVHbExHTVpCSmR0dnNuWHM1b0VJOWxpZUJ0NnkxeGY5OXdOdHlkcWJBMDducWw5ZHRudklLOFItcGJCdXVVemxBTzFnOEN1RG4tb0ZoMmZ5R0RHQkFHbC1mOWQ5cDZURjNLZ2p1MUZYRnJ4a1AyUGZwVGF6TlB0eXZPQ01ZN1NGX191RElVVWdSQzR1RXp4VGkyMTFoUGRGR1FBc2pIV05tUUc2Z1U3T1NHU3NQcTk4NjBhM2tzRFlvWWVCSlR0aW9fYURlMldYNEhfb0RNR1M5dmszZFB3Nl9MR0Y1REJlcjJKOFk?oc=5\" target=\"_blank\">Jensen Huang set to receive $4 million bonus from Nvidia, 0.002% of his $164 billion net worth — a small incentive for one of the richest people on earth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2026-03-08T12:17:30+00:00",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Netflix, Oracle, Micron, Starbucks, Jefferies & more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDBsNTYwenVCanlLZ3MxSXpKUjV0WTZuRGRWVlhGaWNQSllvZVVuaEttMElXUHRReFJHUXVLczRIN292Z1llMWdVb2lmWmpjUExiLTYzenZrTHFnZVJCcDJubzhKX1hJZ2NQNlRaa2dFM3NXT3ZrUG4xQllDd0w5RmhVLW1PTXMzNWpweTJUX2dRUFBNNElFQnNBNUIwS3JVQU52bGt3?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDBsNTYwenVCanlLZ3MxSXpKUjV0WTZuRGRWVlhGaWNQSllvZVVuaEttMElXUHRReFJHUXVLczRIN292Z1llMWdVb2lmWmpjUExiLTYzenZrTHFnZVJCcDJubzhKX1hJZ2NQNlRaa2dFM3NXT3ZrUG4xQllDd0w5RmhVLW1PTXMzNWpweTJUX2dRUFBNNElFQnNBNUIwS3JVQU52bGt3?oc=5\" target=\"_blank\">Here are Monday's biggest analyst calls: Nvidia, Apple, Netflix, Oracle, Micron, Starbucks, Jefferies & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxPSS1aNWItTnRjamY3VTc0RXhQR1pqakxBUE9Fc09iQWN6VEI5VUdiMGtwbEtMQnRtbUhJaWNYamUxZ05MTHRXbjZLZm9aSE5FOGc5emJqd3A2SXdLQzZlbWc0U1hwRWlUemQ3VFU4QmVfS2djaTR0RTlEVkNvUXUwblNqbEZycjBEdWUtLWhRQW56THBmZnczNmhRZWkwQy1BbjdXMlVlRl9FSWdVNG1PbllMaUs2dUZMeENveDRyX19OcURtemV4NkJwMzFJcW9ZLVpEbGtJMl9fUk5vY3UtWWFaQklKdnlLSERxQTdWMHVFUG5TdUhwUFRPQmQ1dThBX1BZWmdBWDVZSWdqQjFfbml5eTE1dWJRcERmZXRsSTNUSFR0Mm1BSllIVllEeTU4OFJsNHVBQXptMm9ZbFhkQU5ZaFdvSndUd1hWTDFhSW0wMF95RjFlNlMzTW9NN3dYU3FUbHVjVjYzS0RjLW9NNlJBVkU4NG1wLUU1UFhZM1BkTlRyamc?oc=5\" target=\"_blank\">Nvidia Stock Is Threatened by War in Iran. Chip Stocks Are Still Rallying Today.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3FVcDkyQXk4alRzMjVNWTZsaXAxbWRSeWNNMEdUWXBRWHl3OVZFNkRZcE82UFdTbWhnaWNvQ3hhUVQ3UEh1WnJRdUNUc0xDbXdpYzNRWmx5T1JhNTRsZGIzSkxFNUctdXJuNy1sZDVXMEoxR1lXSXRYNmZwNEhPeEdXakdibW1ybDZFUXBXRTY4eVk?oc=5\" target=\"_blank\">This Could Be Nvidia's Next Big Growth Catalyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li></ol>",
+      "published": "2026-03-09T12:37:51+00:00",
+      "source": "CNBC"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5\" target=\"_blank\">NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-01-05T08:00:00+00:00",
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWZXRkJ0dC1RRXgxd1lUVy1MNWV6Ml9Hc0VCLU5XODRRS1ZObXdkcFoxQ0RkSHlmaUVtMk5Nbm1GWUE1c2E1MWJoZ0xnMDNrVkVOMlpXNEY1cXJFY0NLTllLVlRnM0pQVm9WWXlWUUhCekNIRnFNR0pzSm5LbkdITmlvZHNBZXRY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWZXRkJ0dC1RRXgxd1lUVy1MNWV6Ml9Hc0VCLU5XODRRS1ZObXdkcFoxQ0RkSHlmaUVtMk5Nbm1GWUE1c2E1MWJoZ0xnMDNrVkVOMlpXNEY1cXJFY0NLTllLVlRnM0pQVm9WWXlWUUhCekNIRnFNR0pzSm5LbkdITmlvZHNBZXRY?oc=5\" target=\"_blank\">Nvidia Is Planning to Launch an Open-Source AI Agent Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-03-09T23:11:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPem9IblQ1R1llUGU3LS1HNF9UREFHT00xZUVRUmNVZTNhVzBHSXhydVowbXdVaXpqcmNYN3NDRElHNTd5Ulh4RTV1ZWM4NWtqNVpYN3A3dmYyRzRITEVnLXNxRDVqX1BUSFdWV3k3dlFkV1NFZEFXczYyVTU4eUFSMkhBR1BoMElRcUF3T21XREt1X3Q2cjg3akhtdi1SLUlMaExOVVB1TXZqeDFCQktlbmtmbi03ZHpQTVVXa0dtTm5yR1dOcEo40gHMAUFVX3lxTE5TeXFRbTRWQTVKd1FVcXZTQl9SR0t1UDN3YUZpTmswOUYzQnZxYi1SeXBvYjNJbjdGenhreFA1anBXdzFReEJpNUhFRWgwQjhwaXd0bmw4eU5yZ1gyOUF0MEJSdVBWUEpCYkthbmQwUks3YWNmQkF0Vm9YcWM4djBZYTk4bVByR2tkYmZVNlRNSWFwVnpvc19PWFg3MXNPNGh3OXg2aXJHU0s4UERSbFNXZE4zUVFFemsyaTd1S2RRWkhlb0ZtUlI2dEVPOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPem9IblQ1R1llUGU3LS1HNF9UREFHT00xZUVRUmNVZTNhVzBHSXhydVowbXdVaXpqcmNYN3NDRElHNTd5Ulh4RTV1ZWM4NWtqNVpYN3A3dmYyRzRITEVnLXNxRDVqX1BUSFdWV3k3dlFkV1NFZEFXczYyVTU4eUFSMkhBR1BoMElRcUF3T21XREt1X3Q2cjg3akhtdi1SLUlMaExOVVB1TXZqeDFCQktlbmtmbi03ZHpQTVVXa0dtTm5yR1dOcEo40gHMAUFVX3lxTE5TeXFRbTRWQTVKd1FVcXZTQl9SR0t1UDN3YUZpTmswOUYzQnZxYi1SeXBvYjNJbjdGenhreFA1anBXdzFReEJpNUhFRWgwQjhwaXd0bmw4eU5yZ1gyOUF0MEJSdVBWUEpCYkthbmQwUks3YWNmQkF0Vm9YcWM4djBZYTk4bVByR2tkYmZVNlRNSWFwVnpvc19PWFg3MXNPNGh3OXg2aXJHU0s4UERSbFNXZE4zUVFFemsyaTd1S2RRWkhlb0ZtUlI2dEVPOA?oc=5\" target=\"_blank\">Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-10T05:52:16+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "NVIDIA DGX Spark Arrives for World’s AI Developers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjJsM21sdXFwZHpKaWlYLXR3b1NuSnNRLVd5X0c0LWNqV19MQ0lUU0ZqNjBUanFyU0pfQ3hIejZsekEtTk1hck13dS1KQl8xOXZlTmZnMmlhd2JTT3MxUlpUd3FfUklrQTNpV1JoT1V4WWd3Uk9zTm02SGlDTTAzcnJ0Rm1JWkE0bnpLMQ?oc=5\" target=\"_blank\">NVIDIA DGX Spark Arrives for World’s AI Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2025-10-13T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-01-09T08:00:00+00:00",
-      "source": "Business Insider"
+      "title": "NVIDIA to Launch Open-Source AI Agent \"NemoClaw\" at GTC 2026: What We Know So Far - Techloy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMS1Mekd1LTBhVkc0Zk9pMkNYVWxaZU9xZl9fQUdVa3lGU2pJcFRfeXN1SWg2N0dFUC1YWjE4bl9oWTlaV1lJdzRfb2NJU3dCWnRFcU9ITGN1U3RlcWR1cnhKRnduVjVIamlJSXRic1JpbTg5RDFFb21GczVLbmZKY3RnV3pLLXUxWVZWVXZqMDVhakRYQ2lkbnMyaUNBbkJmQ2ZhSW5n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMS1Mekd1LTBhVkc0Zk9pMkNYVWxaZU9xZl9fQUdVa3lGU2pJcFRfeXN1SWg2N0dFUC1YWjE4bl9oWTlaV1lJdzRfb2NJU3dCWnRFcU9ITGN1U3RlcWR1cnhKRnduVjVIamlJSXRic1JpbTg5RDFFb21GczVLbmZKY3RnV3pLLXUxWVZWVXZqMDVhakRYQ2lkbnMyaUNBbkJmQ2ZhSW5n?oc=5\" target=\"_blank\">NVIDIA to Launch Open-Source AI Agent \"NemoClaw\" at GTC 2026: What We Know So Far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techloy</font>",
+      "published": "2026-03-10T12:19:53+00:00",
+      "source": "Techloy"
     },
     {
-      "title": "Magnificent 7 Stock Report: Apple Leads, NVIDIA Fades, Microsoft Crashes - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xianU3U2JqaEhJTGoxYTVpclhQMjFkUmFuMFJZN2dFQmxzZjlaVEQzcmVkOS1EbktoVTZGVE50Um1fYm1YNUxjNUxLNWl3S0lGOTZBSWo3b20xeDl3ci1ramEzLXpBdGhrMVQyd0Zza1dvd0JRbXdRLW1rZjNGWlh2OXBqX2ktWllrODdybzBJR01UTkJKNUs5bXNGNDJLaHNMTjZRREJDUGJYcTlkZ0xKVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xianU3U2JqaEhJTGoxYTVpclhQMjFkUmFuMFJZN2dFQmxzZjlaVEQzcmVkOS1EbktoVTZGVE50Um1fYm1YNUxjNUxLNWl3S0lGOTZBSWo3b20xeDl3ci1ramEzLXpBdGhrMVQyd0Zza1dvd0JRbXdRLW1rZjNGWlh2OXBqX2ktWllrODdybzBJR01UTkJKNUs5bXNGNDJLaHNMTjZRREJDUGJYcTlkZ0xKVQ?oc=5\" target=\"_blank\">Magnificent 7 Stock Report: Apple Leads, NVIDIA Fades, Microsoft Crashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-      "published": "2026-03-05T20:38:56+00:00",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "Nvidia targets RTX 5050 9GB launch around Computex - OC3D",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNi1STTVMLU5JQ05TTXhzVzNvVnVZRWducHJHMXNwWmtqOFNjTk1sRXhNd3JfRkw2SmVSSkk3MWxBdDhPaFVrSHgzeHNZUjFkOUxiWVl5MGhfYzdtZjJXeHJGNk9SblExa0ZWeWlhdkU2RHNReExfaFB2ajdUQmhvVjQxWk5qbzVKRXNuUG83LW9KYXFSU25YSA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNi1STTVMLU5JQ05TTXhzVzNvVnVZRWducHJHMXNwWmtqOFNjTk1sRXhNd3JfRkw2SmVSSkk3MWxBdDhPaFVrSHgzeHNZUjFkOUxiWVl5MGhfYzdtZjJXeHJGNk9SblExa0ZWeWlhdkU2RHNReExfaFB2ajdUQmhvVjQxWk5qbzVKRXNuUG83LW9KYXFSU25YSA?oc=5\" target=\"_blank\">Nvidia targets RTX 5050 9GB launch around Computex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
-      "published": "2026-03-05T17:26:40+00:00",
-      "source": "OC3D"
-    },
-    {
-      "title": "Nvidia earnings, Apple CEO teases product launches: Tech Support - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXJRUG80TUdhVzluV281elktdHdGTDFtZVhSX1htbUVpTWRIX3dFTkZ5dlZOTi16dDNCbnJhc0FlRXo3MHpHOVpTMm1hRWo4ckRLTG5JbjVOVF9LMXZGMnpfMUh4U2RlQUVXbUVKVGFqdTlpOEczOXFCQ0FmcGhLMHFVYVRYQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXJRUG80TUdhVzluV281elktdHdGTDFtZVhSX1htbUVpTWRIX3dFTkZ5dlZOTi16dDNCbnJhc0FlRXo3MHpHOVpTMm1hRWo4ckRLTG5JbjVOVF9LMXZGMnpfMUh4U2RlQUVXbUVKVGFqdTlpOEczOXFCQ0FmcGhLMHFVYVRYQQ?oc=5\" target=\"_blank\">Nvidia earnings, Apple CEO teases product launches: Tech Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-02-26T08:00:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Nvidia GTC 2026 Preview: Two Major Architectures Launch Together, Can They Solve the AI Anxiety Dilemma? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcldJQ2JMMHU1UzBrRjYyeDQweW5HUEo5eVpzX21lSlBCS21RRWt5Y3F1b3loYkVjUGhJSXFqaW5kYnJ3QjJXLVFPU1VTTldQT25kWWxJbnZycXJNQ0dGcTVqckZsOXowR1FXMEpQRVZFMzlrSmNNTk5SYUtKekFVZGJEMUthYWFOdTlFSjNOS0hraXRsMVpQc2k0M0ZKSTJkSHhWNVdyZGVmbGUwbUtSTVd2VmFxWnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQcldJQ2JMMHU1UzBrRjYyeDQweW5HUEo5eVpzX21lSlBCS21RRWt5Y3F1b3loYkVjUGhJSXFqaW5kYnJ3QjJXLVFPU1VTTldQT25kWWxJbnZycXJNQ0dGcTVqckZsOXowR1FXMEpQRVZFMzlrSmNNTk5SYUtKekFVZGJEMUthYWFOdTlFSjNOS0hraXRsMVpQc2k0M0ZKSTJkSHhWNVdyZGVmbGUwbUtSTVd2VmFxWnM?oc=5\" target=\"_blank\">Nvidia GTC 2026 Preview: Two Major Architectures Launch Together, Can They Solve the AI Anxiety Dilemma?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "published": "2026-03-08T04:06:45+00:00",
+      "source": "TradingKey"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-06",
-      "close": 177.82000732421875
+      "date": "2026-03-09",
+      "close": 182.64999389648438
     },
     "history": [
-      {
-        "date": "2026-02-26",
-        "close": 184.88999938964844
-      },
       {
         "date": "2026-02-27",
         "close": 177.19000244140625
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-06",
         "close": 177.82000732421875
+      },
+      {
+        "date": "2026-03-09",
+        "close": 182.64999389648438
       }
     ],
     "name": "NVIDIA Corporation"
