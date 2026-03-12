@@ -2,15 +2,8 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-03-11T12:37:10.298976+00:00",
+  "fetched_at": "2026-03-12T12:36:34.262349+00:00",
   "news": [
-    {
-      "title": "Amazon orders 90-day reset after code mishaps cause millions of lost orders - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXJ0ZXAydm42bnZOZGo2ZWExaUNvY2h4bTdZLXlGaTZoQUlScnNsUFNWMmN3MkJnelRkZll0M2NtXzdheXhFSktNM042ODdWelZ3djE4SXU3SmxVUzlGOTdlcUJRQnBmeDVjeWdDbnlLTHlYSm51U3JRWUlRNnFJUUVIZ1JxZ1Q1bHZpbGFfSUxlTUtFWEluNkNBRWNaZUhD?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXJ0ZXAydm42bnZOZGo2ZWExaUNvY2h4bTdZLXlGaTZoQUlScnNsUFNWMmN3MkJnelRkZll0M2NtXzdheXhFSktNM042ODdWelZ3djE4SXU3SmxVUzlGOTdlcUJRQnBmeDVjeWdDbnlLTHlYSm51U3JRWUlRNnFJUUVIZ1JxZ1Q1bHZpbGFfSUxlTUtFWEluNkNBRWNaZUhD?oc=5\" target=\"_blank\">Amazon orders 90-day reset after code mishaps cause millions of lost orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-03-10T22:09:00+00:00",
-      "source": "Business Insider"
-    },
     {
       "title": "Amazon convenes 'deep dive' internal meeting to address outages - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlJJN3FZREJYSElYWnQtYW5DbzBnaWFXZFJrTzhkOVpwZU9jMThiY3paSlhudEdxcDgtVWhiZnQ2MVJpbE9lQ29JVmJiQU9uSWdLcGN1UENsYVFBTHhIazVuTVFqV2drVWN5QlBHOEhKdVo1NFI0Rm45S2tiQk1NWHE0VmNVeWpNcDNlVU5ZcUkxR1JQaWpMWTJuTEtXUTlpSUlhYlZB0gGrAUFVX3lxTE5xZ3l0WnF5U0JaU2ZxU3lEQkxrems1bTZjaDR3X1NCVGZrSmItQkpzdUJCRXlDcVUwVGJsSmk4QmFCb2phVlY3bkJuendHT1h2bTdncjU5MDZWdTZHM3dfVkhDcTVPb1pGaEJXZGFJZGo4Ry1RVkduVlN6WkRpTHVSTDVyQjhxZmJaYnA3UzVCSHp6U0hhRFNiRUdqRUZJWjdlT2xzTFNKMVg3UQ?oc=5",
@@ -19,32 +12,46 @@
       "source": "CNBC"
     },
     {
+      "title": "Amazon is determined to use AI for everything – even when it slows down work - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0poMHA3NG9ZeG5oQTAwSVgxeENjZ3NuNS15R1JfT3F3NWF6NU9UcHBZOFczYjhVTTJudnFGT0FIeWxBNU83anFaWmZyV1VIWlRGWXA1bE5aUVo1ckdlMHN4aG9sR3N6Uk85ZjJ1M3BHMzk0Vk05dDk2VklzRXFHNjB6THFyb05JTHZfbGowejRWRkdyTWQwZG9TZTE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0poMHA3NG9ZeG5oQTAwSVgxeENjZ3NuNS15R1JfT3F3NWF6NU9UcHBZOFczYjhVTTJudnFGT0FIeWxBNU83anFaWmZyV1VIWlRGWXA1bE5aUVo1ckdlMHN4aG9sR3N6Uk85ZjJ1M3BHMzk0Vk05dDk2VklzRXFHNjB6THFyb05JTHZfbGowejRWRkdyTWQwZG9TZTE?oc=5\" target=\"_blank\">Amazon is determined to use AI for everything – even when it slows down work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-03-11T11:00:00+00:00",
+      "source": "The Guardian"
+    },
+    {
       "title": "Amazon holds engineering meeting following AI-related outages - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81VEZwRTF4ZGxBcW14dTBlNzdRMTdXZlp2bXpPWUYzMHFHSjQzcURKU092Sno5UGY1YXRYTV9yUFB0cF9IS1JZaVNPNWkwblB5UERvNFNwcXo4NzBTM3NEalYxdGFZSVExem9DQzQ4ZU8?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE81VEZwRTF4ZGxBcW14dTBlNzdRMTdXZlp2bXpPWUYzMHFHSjQzcURKU092Sno5UGY1YXRYTV9yUFB0cF9IS1JZaVNPNWkwblB5UERvNFNwcXo4NzBTM3NEalYxdGFZSVExem9DQzQ4ZU8?oc=5\" target=\"_blank\">Amazon holds engineering meeting following AI-related outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-03-10T04:39:03+00:00",
+      "published": "2026-03-10T16:50:53+00:00",
       "source": "Financial Times"
     },
     {
-      "title": "Amazon Wins Court Order Blocking Perplexity’s AI Shopping Bots - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEt6Snc0Q21SWVViWGV6Qmt5OXo3OTVZVVl0RUZJSEo3aGM0UGZNVmUzVVBrV2JnZXhjT1dGRzlDaDdZVHFDYWNXNzVaWkFlc1FmR3lNNXZaZUEyLVVuaEYzQXRlSlhQTFhnWnRtYk9nLVYwSHZUWnZFMVkyVklENWN3b1NPS09OTUpOR0l1US12Z0NWUFVLeVpjZVMzTHEtbENOeTY5X244QTFRVFVNWVN5QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEt6Snc0Q21SWVViWGV6Qmt5OXo3OTVZVVl0RUZJSEo3aGM0UGZNVmUzVVBrV2JnZXhjT1dGRzlDaDdZVHFDYWNXNzVaWkFlc1FmR3lNNXZaZUEyLVVuaEYzQXRlSlhQTFhnWnRtYk9nLVYwSHZUWnZFMVkyVklENWN3b1NPS09OTUpOR0l1US12Z0NWUFVLeVpjZVMzTHEtbENOeTY5X244QTFRVFVNWVN5QQ?oc=5\" target=\"_blank\">Amazon Wins Court Order Blocking Perplexity’s AI Shopping Bots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-10T16:03:01+00:00",
-      "source": "Bloomberg.com"
+      "title": "The 37 Best Amazon Spring Sale Deals on Fitness Gear and Tech - Men's Health",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0ydXh4WE04Z1BSSFF5ZVpJbk9MODZWY3UyNUpkSXFXQ1hLT3NUTVl1N2xrMVZHcHhlTk0xcmMya0s3ZVBzbFRTYmhqYjZFclpKcXR2ZHE4aXRzR0FZcmlpWmtJM05OdVRHeUswaUZYb0dEdmpKZ2pMV3hKWm5Sdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0ydXh4WE04Z1BSSFF5ZVpJbk9MODZWY3UyNUpkSXFXQ1hLT3NUTVl1N2xrMVZHcHhlTk0xcmMya0s3ZVBzbFRTYmhqYjZFclpKcXR2ZHE4aXRzR0FZcmlpWmtJM05OdVRHeUswaUZYb0dEdmpKZ2pMV3hKWm5Sdw?oc=5\" target=\"_blank\">The 37 Best Amazon Spring Sale Deals on Fitness Gear and Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Men's Health</font>",
+      "published": "2026-03-12T12:13:39+00:00",
+      "source": "Men's Health"
     },
     {
-      "title": "Amazon wins court order to block Perplexity's AI shopping agent - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHRvd0ZKTzFIQWVDREhfOGFPSEdReVREMkhaN3kxU1djSDA3OXJSeWN6aVFPSmoyakFrRW5tTWgyZm85WEMzd3QxNnRSOGZyUDJxZFF0SzJkQkcxT18wM0FYcm0temU2WWkzM2lZTnExZmFrRGEzTC1kbV9vaU0ydURkYlF1cXpYT3RQb0phcWlTS3UtTWh0X09lRzZVaDAx0gGmAUFVX3lxTE9FOTJBd0NSLTljcVctMUxlcFVZbVozXzZ6S1pLQjdUMEFSZF9pS1JhMWhhcm95NEtMcXlLbHdNVEJ6NERHbVJ6RG9jeDJJZ1liR2JRbWs0S043cXZQZkIwbzdtUWpQaFl1aUdROHVmaWxrQ19rRkdEWFllSDVqc292ZkZjRUNCcHFwU1BfYWUydVRES01GWV9TMXdiM2xyTzVjZjUtbnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHRvd0ZKTzFIQWVDREhfOGFPSEdReVREMkhaN3kxU1djSDA3OXJSeWN6aVFPSmoyakFrRW5tTWgyZm85WEMzd3QxNnRSOGZyUDJxZFF0SzJkQkcxT18wM0FYcm0temU2WWkzM2lZTnExZmFrRGEzTC1kbV9vaU0ydURkYlF1cXpYT3RQb0phcWlTS3UtTWh0X09lRzZVaDAx0gGmAUFVX3lxTE9FOTJBd0NSLTljcVctMUxlcFVZbVozXzZ6S1pLQjdUMEFSZF9pS1JhMWhhcm95NEtMcXlLbHdNVEJ6NERHbVJ6RG9jeDJJZ1liR2JRbWs0S043cXZQZkIwbzdtUWpQaFl1aUdROHVmaWxrQ19rRkdEWFllSDVqc292ZkZjRUNCcHFwU1BfYWUydVRES01GWV9TMXdiM2xyTzVjZjUtbnc?oc=5\" target=\"_blank\">Amazon wins court order to block Perplexity's AI shopping agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-03-10T17:12:09+00:00",
+      "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzd1aTF2QnBZYzFRbTEwWkVsTk1kV1NVQzZnZ0tKRzlfSnpRV1k5ekxSZTJpdy1GdG53RVpDT3lSbGVQMjNoSDl5Z3dwS2g4RXlCeks0Zkp1V3l1MXU4Mkl2RE9GSWpISnh2YVp5T19tSmtpem9sLTVqcEZSc2RySlFaWEZEbTNKYjhrYm1PbWRUV1A3WVB5WjV1X1l5ZWxCWFlnQ1JtTUJLMnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzd1aTF2QnBZYzFRbTEwWkVsTk1kV1NVQzZnZ0tKRzlfSnpRV1k5ekxSZTJpdy1GdG53RVpDT3lSbGVQMjNoSDl5Z3dwS2g4RXlCeks0Zkp1V3l1MXU4Mkl2RE9GSWpISnh2YVp5T19tSmtpem9sLTVqcEZSc2RySlFaWEZEbTNKYjhrYm1PbWRUV1A3WVB5WjV1X1l5ZWxCWFlnQ1JtTUJLMnc?oc=5\" target=\"_blank\">FCC chair blasts Amazon after it criticizes SpaceX megaconstellation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-03-11T22:04:42+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "FCC chair slams Amazon for slow satellite launches after it opposed SpaceX data center plan - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVdicDN6S043WWg0VWFCdnFjUHplU2RScDk1NUZjc1Y4SmNXM1Z6TFlBQ1N6UkZNcFJUWVJxaG5DdE1BODB6cllxNkxiaXA3SkVqdWZWRVNWblRZU0FLVXNqcDlLODVDY3JvOG5XZ1BneDdJOW1kbXVZV3NucWhNbUdFWlrSAYoBQVVfeXFMT0pGbEtlNGc5M2ZrLVNzb3BqSGREa3BrNEtWaVlKTVJQREJBazZqdU44di1oZEUtMS12NmxYS0dXUXZiaFgxYzlHdXFkZzZYcjhyUGdyY3AwOG15Vm14alhqRlN2VWtORzNIN0FBN2RBM2Fzbng4VG9SY0NIV3FCZGVzVUdUMloyRnNB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVdicDN6S043WWg0VWFCdnFjUHplU2RScDk1NUZjc1Y4SmNXM1Z6TFlBQ1N6UkZNcFJUWVJxaG5DdE1BODB6cllxNkxiaXA3SkVqdWZWRVNWblRZU0FLVXNqcDlLODVDY3JvOG5XZ1BneDdJOW1kbXVZV3NucWhNbUdFWlrSAYoBQVVfeXFMT0pGbEtlNGc5M2ZrLVNzb3BqSGREa3BrNEtWaVlKTVJQREJBazZqdU44di1oZEUtMS12NmxYS0dXUXZiaFgxYzlHdXFkZzZYcjhyUGdyY3AwOG15Vm14alhqRlN2VWtORzNIN0FBN2RBM2Fzbng4VG9SY0NIV3FCZGVzVUdUMloyRnNB?oc=5\" target=\"_blank\">FCC chair slams Amazon for slow satellite launches after it opposed SpaceX data center plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-11T22:12:42+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Judge orders Perplexity to stop AI agents from shopping on Amazon - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEd4Sml0NXRsQTVSekRpLXcyQ1h5emVzbzVUMEhkWFlvWFdkbzlpeFgyWmpydXVZc1RrSnYtVkhNLVEzeHhjWGJGbFJfcmJzUFptdU1GZHZTbFdldl9Od0ZaWDlWaU9pSzFqVElxSmdXU2E2alVyMFZYR1AtNEpzWDFLbzlmbE1McWl5YkNPWVZ6NlFnaUVmNEphXzBoVk55ajVuSFByakpqUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEd4Sml0NXRsQTVSekRpLXcyQ1h5emVzbzVUMEhkWFlvWFdkbzlpeFgyWmpydXVZc1RrSnYtVkhNLVEzeHhjWGJGbFJfcmJzUFptdU1GZHZTbFdldl9Od0ZaWDlWaU9pSzFqVElxSmdXU2E2alVyMFZYR1AtNEpzWDFLbzlmbE1McWl5YkNPWVZ6NlFnaUVmNEphXzBoVk55ajVuSFByakpqUQ?oc=5\" target=\"_blank\">Judge orders Perplexity to stop AI agents from shopping on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-03-10T18:11:43+00:00",
-      "source": "The Verge"
+      "title": "FCC chair criticizes slow pace of Amazon satellite launches - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0hEeXpMalBieXNCWFdFZUlIdnJkRzJxVFBKTnFjUGNzSnpNTndIUHZoczFpeWtWZjg2dHJoV3RHWVUyQ2Q4b19IMmZhRGJZN3lRRV8wZ2w5VmFhTlFEc2wtQ3g3LXNJVnR0MC1VMWlRUlhEbEM2NFU0cVJHLXdGc0dtWE1QQ0U2WE5VUVFFNHp6QmVoeU9hVVhFZUVoQ1A4SDdEWDZBT1kzbXl0ZTZmLVdpeVJTUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0hEeXpMalBieXNCWFdFZUlIdnJkRzJxVFBKTnFjUGNzSnpNTndIUHZoczFpeWtWZjg2dHJoV3RHWVUyQ2Q4b19IMmZhRGJZN3lRRV8wZ2w5VmFhTlFEc2wtQ3g3LXNJVnR0MC1VMWlRUlhEbEM2NFU0cVJHLXdGc0dtWE1QQ0U2WE5VUVFFNHp6QmVoeU9hVVhFZUVoQ1A4SDdEWDZBT1kzbXl0ZTZmLVdpeVJTUQ?oc=5\" target=\"_blank\">FCC chair criticizes slow pace of Amazon satellite launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-11T17:23:57+00:00",
+      "source": "Reuters"
     },
     {
       "title": "Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members - About Amazon",
@@ -52,16 +59,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBDRE9KZFRCUXlwWWtnaVNEOTVQZE1NanBGY3pLSGNBdHlnVGpnWHhkdm5YUFNaNVRVU3dleDJnTmx3NU5jNDM0djA4Z1NVdjJ4T01RMmh1YjdmRWFidTlCS0NwdGhjdTRNWjktS3ZxeWJkSmdfSVFwWXZTZ0U0dk0?oc=5\" target=\"_blank\">Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
       "published": "2026-03-10T21:36:25+00:00",
       "source": "About Amazon"
-    },
+    }
+  ],
+  "product_launches": [
     {
       "title": "Amazon launches its healthcare AI assistant on its website and app - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHNES1FpSENnbnhpN3dhQUJmNUdDaUlNZmV1bGdldHdPTWpvMGdrLWJoRGV2bzNOTkhMd0VFQThUZ2VqeUpvYW93LWNQR3B6QmhoVkV0c082XzByY0l1djhGSXUwX1JzTlRSSzlXaUpra2FSLVFfQjc1aTZHdFZiTG1SNVVHc0pYb2ZrOEpqb2RTSVZVenZTbEtuaDQxTW9nTG1z?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHNES1FpSENnbnhpN3dhQUJmNUdDaUlNZmV1bGdldHdPTWpvMGdrLWJoRGV2bzNOTkhMd0VFQThUZ2VqeUpvYW93LWNQR3B6QmhoVkV0c082XzByY0l1djhGSXUwX1JzTlRSSzlXaUpra2FSLVFfQjc1aTZHdFZiTG1SNVVHc0pYb2ZrOEpqb2RTSVZVenZTbEtuaDQxTW9nTG1z?oc=5\" target=\"_blank\">Amazon launches its healthcare AI assistant on its website and app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
       "published": "2026-03-10T20:10:06+00:00",
       "source": "TechCrunch"
-    }
-  ],
-  "product_launches": [
+    },
     {
       "title": "Amazon’s new AI experience helps sellers visualize and grow their business in real time—here's how it works - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVQyVTA5MUs4TklXWjZacXZMNXhHX19sTWxzLUpXa3hzcWhtZ0ZlQmd5WTR1T0VSQUFDWGpydDdESlA1VGp3OFd1TVhOaUlxWkZOdjljLWc3UTlsSldERF9JTmRyN3FYVGdhektOcmNJV1VHcDJkbWNTZFlRYXZZZWpEZWlzUUJLcE5XQTk4dnNidlBIMkFFSFk1SEVwS3Ja?oc=5",
@@ -84,13 +91,6 @@
       "source": "bbwinc.com"
     },
     {
-      "title": "Introducing Amazon Connect Health: Agentic AI for healthcare, built for the people who deliver it - Amazon Web Services (AWS)",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFY5MVdueExNSDE5cjZ5aXhKMk5KbWs3ay1LMFdDUHVuZi1OaWozYmYwOXlmQUxkRXNsbEU3WDR4LVpDcHlWb3gyRi1SMjJqeHVpNEdiZ3c0eHdpMGZXVU5mNVdfVkRwMWtvWkVDTENYZjd2d25kZEJzaXowTnhjY1A4M0pxZVhKN2YzR0xXcGFFZ20xNUJzQWVDRGZFRjZnR0NCcUZnbG1pNl9CRXhGQkl2SFpIWEYzcHVTV0hDbEZPYmthMEM5dk91eTA5VjNpdVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFY5MVdueExNSDE5cjZ5aXhKMk5KbWs3ay1LMFdDUHVuZi1OaWozYmYwOXlmQUxkRXNsbEU3WDR4LVpDcHlWb3gyRi1SMjJqeHVpNEdiZ3c0eHdpMGZXVU5mNVdfVkRwMWtvWkVDTENYZjd2d25kZEJzaXowTnhjY1A4M0pxZVhKN2YzR0xXcGFFZ20xNUJzQWVDRGZFRjZnR0NCcUZnbG1pNl9CRXhGQkl2SFpIWEYzcHVTV0hDbEZPYmthMEM5dk91eTA5VjNpdVE?oc=5\" target=\"_blank\">Introducing Amazon Connect Health: Agentic AI for healthcare, built for the people who deliver it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
-      "published": "2026-03-05T12:36:35+00:00",
-      "source": "Amazon Web Services (AWS)"
-    },
-    {
       "title": "Amazon unveils new device lineup with AI powered experiences - About Amazon Europe",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWo3TWMtcGU5NEstejVJM3ozNFVvMGJaVVdabW5HRXk3OHdvQ2wzSkF3bmRFbi04alFkb3g2M1JrSVU5bVFMQjhZTVdwaGF1LXZCTXROSHJxcG1Ja3JTeHBieVBkT3daaTRrZHhFX0syS01hbHNmSUFSdnAwMzdmbHdCeUtpOEMxcFJ5UGpQY00tUDhFaDFpb3RvUl9nc1FJMHc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWo3TWMtcGU5NEstejVJM3ozNFVvMGJaVVdabW5HRXk3OHdvQ2wzSkF3bmRFbi04alFkb3g2M1JrSVU5bVFMQjhZTVdwaGF1LXZCTXROSHJxcG1Ja3JTeHBieVBkT3daaTRrZHhFX0syS01hbHNmSUFSdnAwMzdmbHdCeUtpOEMxcFJ5UGpQY00tUDhFaDFpb3RvUl9nc1FJMHc?oc=5\" target=\"_blank\">Amazon unveils new device lineup with AI powered experiences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon Europe</font>",
@@ -102,14 +102,10 @@
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-10",
-      "close": 214.3300018310547
+      "date": "2026-03-11",
+      "close": 212.64999389648438
     },
     "history": [
-      {
-        "date": "2026-03-02",
-        "close": 208.38999938964844
-      },
       {
         "date": "2026-03-03",
         "close": 208.72999572753906
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-10",
         "close": 214.3300018310547
+      },
+      {
+        "date": "2026-03-11",
+        "close": 212.64999389648438
       }
     ],
     "name": "Amazon.com, Inc."

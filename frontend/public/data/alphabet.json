@@ -2,36 +2,8 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-03-11T12:37:07.880987+00:00",
+  "fetched_at": "2026-03-12T12:36:31.738642+00:00",
   "news": [
-    {
-      "title": "Google CEO Sundar Pichai's $692M pay package hinges on two Google moonshots - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFlsWGxxc2VEVTlCS0VDeTlhbHpiRG0zOFI5dDlDb3loWGluU3VlRmh0ejNMc3hsS0tnWWdvTlZzRlkyaXVhYjVmRjRSUWJYQjFpRzdQbTBidTJkMENEU0JLZXZGYjFsZkd2QXJVQ3dEa2xIdFRNcTh3MzhfdnU3bUpFSGVuaTZRYmp4LXowclFFTGJUeTlsMF8tMW43NEVSV2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFlsWGxxc2VEVTlCS0VDeTlhbHpiRG0zOFI5dDlDb3loWGluU3VlRmh0ejNMc3hsS0tnWWdvTlZzRlkyaXVhYjVmRjRSUWJYQjFpRzdQbTBidTJkMENEU0JLZXZGYjFsZkd2QXJVQ3dEa2xIdFRNcTh3MzhfdnU3bUpFSGVuaTZRYmp4LXowclFFTGJUeTlsMF8tMW43NEVSV2c?oc=5\" target=\"_blank\">Google CEO Sundar Pichai's $692M pay package hinges on two Google moonshots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-03-10T19:09:00+00:00",
-      "source": "Fortune"
-    },
-    {
-      "title": "Alphabet offers CEO pay deal worth up to $692M with stock price, Waymo incentives - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczRWWF9XX0p4ZUE4UDVrTzFjTzN3T3FsdExDQUQ5UTYxSlZadVJMNHh2YXhHajhUd2NVMUtJUkJ2TmdvRTBSdlNMdVh4UHhhTjhZVndTT1dXcUNzQXA0VUFUeXlRaVdhRkVfTFRBM1owZUFHNG5uWUVlMEFHcXIyYnNwUWVpMk1VSmJsQkEyek83ZVpUazIw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPczRWWF9XX0p4ZUE4UDVrTzFjTzN3T3FsdExDQUQ5UTYxSlZadVJMNHh2YXhHajhUd2NVMUtJUkJ2TmdvRTBSdlNMdVh4UHhhTjhZVndTT1dXcUNzQXA0VUFUeXlRaVdhRkVfTFRBM1owZUFHNG5uWUVlMEFHcXIyYnNwUWVpMk1VSmJsQkEyek83ZVpUazIw?oc=5\" target=\"_blank\">Alphabet offers CEO pay deal worth up to $692M with stock price, Waymo incentives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-03-09T08:24:27+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Alphabet CEO could earn up to $692M under a new equity package that's linked to Waymo for the first time - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5qZXhjQlBtM1BhY2ZXeFVTT1hpVzQ4NFpZeF8wbnNXb0c0bjRtTk8zSjdYcTc4c2tvUlZtYU9Xa0dYVm43VmowYkhsb3E5T25kclAzczVxd0dCT3V5QUE2Mm9IRDY4RXprY1E1RVZIYkZ4TXVqMUlJTFNBV2FzWF9qUVUxUlBsTWhpdjctRENmQ0tfYWRqbnFLa0F5TXZBYXA5WWtxejVmejV0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5qZXhjQlBtM1BhY2ZXeFVTT1hpVzQ4NFpZeF8wbnNXb0c0bjRtTk8zSjdYcTc4c2tvUlZtYU9Xa0dYVm43VmowYkhsb3E5T25kclAzczVxd0dCT3V5QUE2Mm9IRDY4RXprY1E1RVZIYkZ4TXVqMUlJTFNBV2FzWF9qUVUxUlBsTWhpdjctRENmQ0tfYWRqbnFLa0F5TXZBYXA5WWtxejVmejV0?oc=5\" target=\"_blank\">Alphabet CEO could earn up to $692M under a new equity package that's linked to Waymo for the first time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-03-07T05:03:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "What Micron’s Stock Chart Says About the Possibility of a Tech Sector Rebound - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQcFlvNDBES1VXWTFMVWptNm9LeVozMUh2Qno0dlJGcFlwb3FzV293aEtHc0M0WDZwUlV5RTNVcXRySEZBRUNwUlJ0ZW00N1BKYi0zRDFud2ZCYk5GUU9MelFwVk9IT3BLamZjLW8wLVBlUkhINHhtcTBtYkc4S0lJMDBIaFhieHBGNkFFc3JKUlQ2eHl3SmlJWnRvVXZaWUx3YV9fcWhPVjU2cUFFRkVmX0hEbjY1Q0FDNFlxQzJoM1VNSVhCc1pZSmJENE9KUHdDZ3FRMDNWekkyODMzMl9hZ28xamMwTXRRanNBYkkzVFdCM0ZPMV9aNExKQW55SzMxNkhCVnVHSVB2UGtwSUxVVWdSVk9QbV9ZaXZ3X2dqQ1JuZGcxV2lZQnh6V2ZsRHdxbE4yYjB0eUpFcUpKQVpXbjdKMG9jZ0xmYzZ1ZzF3SnRLSlEzdUZmZVdXSWczX2lxYW96Y2VDN0N0aUNwMVM0a3VhUFd3SDBMUE1QU0pKc0lXNmxBQnVjdW5wVUszVkIxVXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxQcFlvNDBES1VXWTFMVWptNm9LeVozMUh2Qno0dlJGcFlwb3FzV293aEtHc0M0WDZwUlV5RTNVcXRySEZBRUNwUlJ0ZW00N1BKYi0zRDFud2ZCYk5GUU9MelFwVk9IT3BLamZjLW8wLVBlUkhINHhtcTBtYkc4S0lJMDBIaFhieHBGNkFFc3JKUlQ2eHl3SmlJWnRvVXZaWUx3YV9fcWhPVjU2cUFFRkVmX0hEbjY1Q0FDNFlxQzJoM1VNSVhCc1pZSmJENE9KUHdDZ3FRMDNWekkyODMzMl9hZ28xamMwTXRRanNBYkkzVFdCM0ZPMV9aNExKQW55SzMxNkhCVnVHSVB2UGtwSUxVVWdSVk9QbV9ZaXZ3X2dqQ1JuZGcxV2lZQnh6V2ZsRHdxbE4yYjB0eUpFcUpKQVpXbjdKMG9jZ0xmYzZ1ZzF3SnRLSlEzdUZmZVdXSWczX2lxYW96Y2VDN0N0aUNwMVM0a3VhUFd3SDBMUE1QU0pKc0lXNmxBQnVjdW5wVUszVkIxVXc?oc=5\" target=\"_blank\">What Micron’s Stock Chart Says About the Possibility of a Tech Sector Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-03-10T15:52:00+00:00",
-      "source": "Barron's"
-    },
     {
       "title": "S&P 500: Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VVVWRtUTk0LVNoRTlGaU04VXB6SnpGaFhCVW5kTEhtV19BTHNHQzhmeS13N2pHNUZZaENZLXFKYl8zUk11LVI1bjRZX0xBS0ZtbURQeWpsY3ZvSDE4RTZwdXpUUlg3SkJ4Q2k4ZTh2cHI3UlRBd0NVejlFaVJrM1VHeU1MblJQVFEwdkZEOXBUQ05nVkRSM3hvX01odlZPMjM4TVhESHRlLUdUMUJ3VWFHOGdGUm8?oc=5",
@@ -40,48 +12,62 @@
       "source": "Investor's Business Daily"
     },
     {
-      "title": "Why Alphabet Inc. (GOOG) Outpaced the Stock Market Today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkljS010eTZwNV9ZMjJ4eUk4MnF0VV9IZk1oc0wyQzNBQWJ0TFEwR09taGZ4MHlPcUdtZmVPczNKSC1KMHdSSHlBTzRGa1FXWWl0R3pJSi0ybnBNLUI0cXRqd0N3bHczWDNCVGRieWxHQ2kzcUctUUs5LVhhX0NBNEJn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkljS010eTZwNV9ZMjJ4eUk4MnF0VV9IZk1oc0wyQzNBQWJ0TFEwR09taGZ4MHlPcUdtZmVPczNKSC1KMHdSSHlBTzRGa1FXWWl0R3pJSi0ybnBNLUI0cXRqd0N3bHczWDNCVGRieWxHQ2kzcUctUUs5LVhhX0NBNEJn?oc=5\" target=\"_blank\">Why Alphabet Inc. (GOOG) Outpaced the Stock Market Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-09T21:45:04+00:00",
+      "title": "Zacks Investment Ideas feature highlights Microsoft, Alphabet, Amazon, Meta, Oracle, Micron, Sandisk, Bloom Energy, IREN, and NVIDIA - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzVNcGRtb1JUN2N5WS0talpuWGVFdEg2YWhHeDM5bVNNRUtiZkczWmxKYkM2WENVNnZNZFFjRGdUWnoyMGhHeThNNWRpWjNjZllsSzlkQ1FjNF9CNUhjNWxVaDg1SklBZXM5a25mS3EtTTcycHdJMUpMT19jaUVyZXNqRHNPbzBXNDdvTXZrelo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzVNcGRtb1JUN2N5WS0talpuWGVFdEg2YWhHeDM5bVNNRUtiZkczWmxKYkM2WENVNnZNZFFjRGdUWnoyMGhHeThNNWRpWjNjZllsSzlkQ1FjNF9CNUhjNWxVaDg1SklBZXM5a25mS3EtTTcycHdJMUpMT19jaUVyZXNqRHNPbzBXNDdvTXZrelo?oc=5\" target=\"_blank\">Zacks Investment Ideas feature highlights Microsoft, Alphabet, Amazon, Meta, Oracle, Micron, Sandisk, Bloom Energy, IREN, and NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-11T09:06:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia vs. Alphabet: Which Stock Will Make You Richer? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2R3dlFGOVBpLVFFUkNNVV94bmk0TW1QaUZQakRWcFhwYUlPd2dzNVliMkVKZGhlUy1SVVMzQk5VNWhtYnN1bFE4VEh5Rm0wak8wZEIzN2I0RFFSa0M4T3lsb2RJT21CVXZRNDVOeENSaGFkb0NGNkhRZFp5empGanV1dmJxTzRoM1p3NG5rejdJZ1FISjlIWg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2R3dlFGOVBpLVFFUkNNVV94bmk0TW1QaUZQakRWcFhwYUlPd2dzNVliMkVKZGhlUy1SVVMzQk5VNWhtYnN1bFE4VEh5Rm0wak8wZEIzN2I0RFFSa0M4T3lsb2RJT21CVXZRNDVOeENSaGFkb0NGNkhRZFp5empGanV1dmJxTzRoM1p3NG5rejdJZ1FISjlIWg?oc=5\" target=\"_blank\">Nvidia vs. Alphabet: Which Stock Will Make You Richer?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-10T02:03:00+00:00",
-      "source": "The Motley Fool"
+      "title": "What Micron’s Stock Chart Says About the Possibility of a Tech Sector Rebound - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNdmFNWXk2dUdXclFNQTJLc1RwTjFKb0dkaE9jVWZ5cnZrOF9uOF95anc1dU9HS3FHQzBzNDA5aEE0WDZpQWRoQzVYTlFYcHd2VlQ2STNmZG5jdUFGd3NxNjFoYW1hY3RSVU1pc1VYRTBEejVXS0owY0tFWldRS3hod1VQS2lXYUg5dDZ0S3pGWGdpTm1BU2pvaFZVT3dzSmt1cTBYMDMwVkg3eDI4RmJtQU44S0NqT0NCQkRaUjJVR3QxQnktQjBoUTVBV0NzT09YTFkyTlhXNFd5QkNiV053dXRFOXBpaFlYT0RtelJVTVRzZU95T292TEJab0I3XzdyOVpLRzdzTVlQUk9tUTdJMXpLUlR0R285QllnWkotdmE3eUpRcGVJeFdzN3BrR0R4S2phX1VLSkx6aXlqdXhBNlpfaVpURTlaY21YNTZoZVpEZnlRNVBVOUliUkwtSThHLUZvUDhXb0N0TVZnWXBKTFFSYUJfRFNhZzFWMFB5NzQ3bmNETGRfdmFaQUdPazloS2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxNdmFNWXk2dUdXclFNQTJLc1RwTjFKb0dkaE9jVWZ5cnZrOF9uOF95anc1dU9HS3FHQzBzNDA5aEE0WDZpQWRoQzVYTlFYcHd2VlQ2STNmZG5jdUFGd3NxNjFoYW1hY3RSVU1pc1VYRTBEejVXS0owY0tFWldRS3hod1VQS2lXYUg5dDZ0S3pGWGdpTm1BU2pvaFZVT3dzSmt1cTBYMDMwVkg3eDI4RmJtQU44S0NqT0NCQkRaUjJVR3QxQnktQjBoUTVBV0NzT09YTFkyTlhXNFd5QkNiV053dXRFOXBpaFlYT0RtelJVTVRzZU95T292TEJab0I3XzdyOVpLRzdzTVlQUk9tUTdJMXpLUlR0R285QllnWkotdmE3eUpRcGVJeFdzN3BrR0R4S2phX1VLSkx6aXlqdXhBNlpfaVpURTlaY21YNTZoZVpEZnlRNVBVOUliUkwtSThHLUZvUDhXb0N0TVZnWXBKTFFSYUJfRFNhZzFWMFB5NzQ3bmNETGRfdmFaQUdPazloS2c?oc=5\" target=\"_blank\">What Micron’s Stock Chart Says About the Possibility of a Tech Sector Rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-03-10T15:52:00+00:00",
+      "source": "Barron's"
     },
     {
-      "title": "‘A Bet Worth Making,’ Says Top Investor About Alphabet Stock - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2dPWUhDZVEwMl9ZTk1XQXhkOXYwN185eWtpVmo4QUdHcF93YU41bm1zOVdzdHJKR3k3MElwZldIZm81SFZJOHNON1NUYUlCc1loT3lYN2xaekJaaUJaN0xkT25BWl9Pay15WXUwNjV1aGROdXh0MVZadURySkNkODFyOXhrak50WVRsOE9rNUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPU2dPWUhDZVEwMl9ZTk1XQXhkOXYwN185eWtpVmo4QUdHcF93YU41bm1zOVdzdHJKR3k3MElwZldIZm81SFZJOHNON1NUYUlCc1loT3lYN2xaekJaaUJaN0xkT25BWl9Pay15WXUwNjV1aGROdXh0MVZadURySkNkODFyOXhrak50WVRsOE9rNUk?oc=5\" target=\"_blank\">‘A Bet Worth Making,’ Says Top Investor About Alphabet Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-03-09T13:50:11+00:00",
+      "title": "Google CEO Sundar Pichai's $692M pay package hinges on two Google moonshots - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFlsWGxxc2VEVTlCS0VDeTlhbHpiRG0zOFI5dDlDb3loWGluU3VlRmh0ejNMc3hsS0tnWWdvTlZzRlkyaXVhYjVmRjRSUWJYQjFpRzdQbTBidTJkMENEU0JLZXZGYjFsZkd2QXJVQ3dEa2xIdFRNcTh3MzhfdnU3bUpFSGVuaTZRYmp4LXowclFFTGJUeTlsMF8tMW43NEVSV2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTFlsWGxxc2VEVTlCS0VDeTlhbHpiRG0zOFI5dDlDb3loWGluU3VlRmh0ejNMc3hsS0tnWWdvTlZzRlkyaXVhYjVmRjRSUWJYQjFpRzdQbTBidTJkMENEU0JLZXZGYjFsZkd2QXJVQ3dEa2xIdFRNcTh3MzhfdnU3bUpFSGVuaTZRYmp4LXowclFFTGJUeTlsMF8tMW43NEVSV2c?oc=5\" target=\"_blank\">Google CEO Sundar Pichai's $692M pay package hinges on two Google moonshots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-03-10T19:09:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Alphabet Q4: A Fairly Valued Tech Titan To Buy Now (NASDAQ:GOOGL) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjd5ekZSbVVhN2ZrOFl2bWFrWEtYNE1ST3owN21KRmtSRE1iZDV4TnFtelp1a2g3STN5aUpUNENKZjZZTzJMSDhTWEdiS2dhY1B6UmR6Rk5xWTVaUGFyMGQyYVBOdnpZMUQxbGFRT3haZDZUaWI0V0VtbEpaQUJtbkYtQ2liR0NBSk5sQkc5M1p2OUw5?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjd5ekZSbVVhN2ZrOFl2bWFrWEtYNE1ST3owN21KRmtSRE1iZDV4TnFtelp1a2g3STN5aUpUNENKZjZZTzJMSDhTWEdiS2dhY1B6UmR6Rk5xWTVaUGFyMGQyYVBOdnpZMUQxbGFRT3haZDZUaWI0V0VtbEpaQUJtbkYtQ2liR0NBSk5sQkc5M1p2OUw5?oc=5\" target=\"_blank\">Alphabet Q4: A Fairly Valued Tech Titan To Buy Now (NASDAQ:GOOGL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-03-12T11:30:00+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Canal+ Taps Alphabet (GOOGL) AI to Boost Streaming Tech and Content Discovery - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjBaWWF5SV9wYlpkLW5lMHB6NHpQbk1FRlFIVXRSLWg4QnJ5Sk0wS0dNQnhCSnk4aE9tVU9iOU9ZQzlXQzhCSTFPeFpiYzhuMUgyLUc1aWppUDRFZ29TWWhFaWZDUmJXNDl2MDc2U3FJQ0FacjhOVENkbDBqaGdXaGZOcjA3SElScDR2X1dkckNWYXhMNXE1aDVmazhjZWV0YlNXVEozdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjBaWWF5SV9wYlpkLW5lMHB6NHpQbk1FRlFIVXRSLWg4QnJ5Sk0wS0dNQnhCSnk4aE9tVU9iOU9ZQzlXQzhCSTFPeFpiYzhuMUgyLUc1aWppUDRFZ29TWWhFaWZDUmJXNDl2MDc2U3FJQ0FacjhOVENkbDBqaGdXaGZOcjA3SElScDR2X1dkckNWYXhMNXE1aDVmazhjZWV0YlNXVEozdw?oc=5\" target=\"_blank\">Canal+ Taps Alphabet (GOOGL) AI to Boost Streaming Tech and Content Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2026-03-11T09:46:55+00:00",
       "source": "TipRanks"
+    },
+    {
+      "title": "Alphabet Inc. $GOOGL Shares Bought by Interchange Capital Partners LLC - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRnkyN3JsNE5oUFZ6SVp4alI3MFNERW8wZUZzUk93c2x5YVlUMC1FeWhRb1hoc1NHenNjLXJmTmNudjltX2loazhadFlFSnlRalUzM0hjRXN5eTBvb1hKc3V1QnRfclJFT0N6Ymc1Qm5fZW96X19ZVVduMm5pMUROamJmTlNUeFNyUm50Z0VmYnd3X21BSUhvbXBWcWszQlY0VE1zTVkzcHNWZ0FZQWZLOUNjZ1ZIQWlsd0RwOVlPcnZIYW9Xckh4Ug?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRnkyN3JsNE5oUFZ6SVp4alI3MFNERW8wZUZzUk93c2x5YVlUMC1FeWhRb1hoc1NHenNjLXJmTmNudjltX2loazhadFlFSnlRalUzM0hjRXN5eTBvb1hKc3V1QnRfclJFT0N6Ymc1Qm5fZW96X19ZVVduMm5pMUROamJmTlNUeFNyUm50Z0VmYnd3X21BSUhvbXBWcWszQlY0VE1zTVkzcHNWZ0FZQWZLOUNjZ1ZIQWlsd0RwOVlPcnZIYW9Xckh4Ug?oc=5\" target=\"_blank\">Alphabet Inc. $GOOGL Shares Bought by Interchange Capital Partners LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "published": "2026-03-12T09:24:58+00:00",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Apple, Tesla, and Alphabet All Sinking As Oil Prices Explode Higher - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTG13Y3BWM3NZR1JCSEdCZDQzVy1fY2hOZVA2TGRhY3lGa0doSDFVOEVzOFJESFFCalZfblo0bjV6ZkZpNFo0aUo0S0ItWTJlUm5UekMwNHRWV25vbnQwRXVfSmtVU1BjZGFGWnRieDZjNmVJSEJMVHplNFR3UXg4dVpqU0hydGViNE9aWXNuUUdOc2VZSXIteUk0blQ0bU1WTU95a2hHMHZ1QWc4UWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTG13Y3BWM3NZR1JCSEdCZDQzVy1fY2hOZVA2TGRhY3lGa0doSDFVOEVzOFJESFFCalZfblo0bjV6ZkZpNFo0aUo0S0ItWTJlUm5UekMwNHRWV25vbnQwRXVfSmtVU1BjZGFGWnRieDZjNmVJSEJMVHplNFR3UXg4dVpqU0hydGViNE9aWXNuUUdOc2VZSXIteUk0blQ0bU1WTU95a2hHMHZ1QWc4UWc?oc=5\" target=\"_blank\">Apple, Tesla, and Alphabet All Sinking As Oil Prices Explode Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-03-09T00:49:26+00:00",
+      "source": "24/7 Wall St."
     }
   ],
   "product_launches": [
-    {
-      "title": "Alphabet, Inc. | History, Products, & Business Segments | Britannica Money - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NVVd3cUlOc29HTUJyTDBvd0RQZlA2YWJScFZpd05EemlQZ09teUlLaFpKQUdlQUZQdFQ0VFBFQkU4YTdZcm04TXpxaVpGNkY0OEluLU5NZlo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NVVd3cUlOc29HTUJyTDBvd0RQZlA2YWJScFZpd05EemlQZ09teUlLaFpKQUdlQUZQdFQ0VFBFQkU4YTdZcm04TXpxaVpGNkY0OEluLU5NZlo?oc=5\" target=\"_blank\">Alphabet, Inc. | History, Products, & Business Segments | Britannica Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
-      "published": "2026-02-18T08:00:00+00:00",
-      "source": "Britannica"
-    },
     {
       "title": "Here’s Why Alphabet Stock Rose 4% Today - TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVTBSTmliVXgxWUZYeHMyZDZra2hLU2V4ZnNoODd1ZnFNZUVXNGFUOG8zZVNlWEd6TExaZ2lxeERRVWF0WDBzQ1l0Qk5rdHJaT2gtd2ROSnpQa3I0YzAyMlA2YmtnZEttRElvVE95amI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVTBSTmliVXgxWUZYeHMyZDZra2hLU2V4ZnNoODd1ZnFNZUVXNGFUOG8zZVNlWEd6TExaZ2lxeERRVWF0WDBzQ1l0Qk5rdHJaT2gtd2ROSnpQa3I0YzAyMlA2YmtnZEttRElvVE95amI?oc=5\" target=\"_blank\">Here’s Why Alphabet Stock Rose 4% Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
       "published": "2026-02-21T08:00:00+00:00",
       "source": "TIKR.com"
-    },
-    {
-      "title": "OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5\" target=\"_blank\">OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-10-21T07:00:00+00:00",
-      "source": "CNBC"
     },
     {
       "title": "Q4 earnings call: Remarks from our CEO - blog.google",
@@ -91,25 +77,35 @@
       "source": "blog.google"
     },
     {
+      "title": "OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5\" target=\"_blank\">OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2025-10-21T07:00:00+00:00",
+      "source": "CNBC"
+    },
+    {
       "title": "Alphabet Spinoff Taara Launches 25Gbps Beam for City Networks - The Tech Buzz",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzAzazBRT1BfS2xraldxLW9RS1RQWXh1OTVfYkZ6VUEzNy0tc0lOZXhNTmtlZkNidlU1NmxDZnRzdlp1OXpqMWNoZEZQU2tzR05hajdJOWlhT1pLbGdaNnlMbWU3X2YtQ043MkxIWTRESUZfUnh4VGVYcm1rUUVvMTFqU2Ztby1EZDlLY0xNZWNfNTg0cjlqbTFR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzAzazBRT1BfS2xraldxLW9RS1RQWXh1OTVfYkZ6VUEzNy0tc0lOZXhNTmtlZkNidlU1NmxDZnRzdlp1OXpqMWNoZEZQU2tzR05hajdJOWlhT1pLbGdaNnlMbWU3X2YtQ043MkxIWTRESUZfUnh4VGVYcm1rUUVvMTFqU2Ztby1EZDlLY0xNZWNfNTg0cjlqbTFR?oc=5\" target=\"_blank\">Alphabet Spinoff Taara Launches 25Gbps Beam for City Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tech Buzz</font>",
       "published": "2026-02-23T11:07:00+00:00",
       "source": "The Tech Buzz"
+    },
+    {
+      "title": "This AI Stock Could Rally More if Its New Product Line Delivers on Expectations - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmdaOFFaYWk4NWZJdG5WZDdBRF9MVmZmTE5yX25jQkZ0MVF6blEtWm5zZ3l1a3JqVXdvU0xQTFJhYW9MUVc0ZUVpelRqZUw4THB2UDZLeG1vYUsycnpRc2s5WjJxWFdrbG5La0hjc0M0SFNvWW03UjZUcWUyOUhsbmt1ZVRMTk1DOUJuN1NDNXZsY3ZTU0dj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmdaOFFaYWk4NWZJdG5WZDdBRF9MVmZmTE5yX25jQkZ0MVF6blEtWm5zZ3l1a3JqVXdvU0xQTFJhYW9MUVc0ZUVpelRqZUw4THB2UDZLeG1vYUsycnpRc2s5WjJxWFdrbG5La0hjc0M0SFNvWW03UjZUcWUyOUhsbmt1ZVRMTk1DOUJuN1NDNXZsY3ZTU0dj?oc=5\" target=\"_blank\">This AI Stock Could Rally More if Its New Product Line Delivers on Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2025-11-29T08:00:00+00:00",
+      "source": "The Motley Fool"
     }
   ],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-10",
-      "close": 307.0400085449219
+      "date": "2026-03-11",
+      "close": 308.70001220703125
     },
     "history": [
-      {
-        "date": "2026-03-02",
-        "close": 306.3043518066406
-      },
       {
         "date": "2026-03-03",
         "close": 303.3664245605469
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-10",
         "close": 307.0400085449219
+      },
+      {
+        "date": "2026-03-11",
+        "close": 308.70001220703125
       }
     ],
     "name": "Alphabet Inc."
