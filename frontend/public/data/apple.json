@@ -2,29 +2,8 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-03-13T12:35:46.680604+00:00",
+  "fetched_at": "2026-03-14T12:29:21.682539+00:00",
   "news": [
-    {
-      "title": "Apple cuts China App Store commission fees after government pressure - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHdyckUyV1lib2pUOG51blo2VTFRSWY4MVpRNk1kZkJWYXZWWi1mN0FNa015bFJjc19BbjMtRHBoSno3c0J2dDBERV8zTnQ1b0hyZWtQRVAzY25IVFJBMGJ1eW1WWEcxbDJaVFZJV05VV0FPUjkwRjBNV3o5ak5ERmhZRWEtR0E0WjdkN1EwanA3S3d5QVdfTW9wU015REROZUZDYUhMOWlNT2Z6UmVLR1VXeVF1SUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHdyckUyV1lib2pUOG51blo2VTFRSWY4MVpRNk1kZkJWYXZWWi1mN0FNa015bFJjc19BbjMtRHBoSno3c0J2dDBERV8zTnQ1b0hyZWtQRVAzY25IVFJBMGJ1eW1WWEcxbDJaVFZJV05VV0FPUjkwRjBNV3o5ak5ERmhZRWEtR0E0WjdkN1EwanA3S3d5QVdfTW9wU015REROZUZDYUhMOWlNT2Z6UmVLR1VXeVF1SUE?oc=5\" target=\"_blank\">Apple cuts China App Store commission fees after government pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-03-13T05:29:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple Lowers App Store Cut to 25% from 30% in China to Fend Off Local Regulators - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW1SSEQ2NWVZLTNhelRuWXQyMHRCSUw5aG1LSlM5dXZlOFJDTE5oc1pHTUsybDhWNVl4S1J1SW85Zk04ajR6OEFxc1c3WDZsN2ZOX0o4V0dUSmE1aG5WUnhETm04XzhlTXdhcFZNNHd4VTNNaFUtOXE2aWVVcEhRalNPMWxfSGtSZ0JINEN1UFNtcHBqcmZRY1NpR292ZTU4R3A5d2VJVUpKNlVlVDJLT21na2xCRWpLeFdndEFDUWdubURjWDVpTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW1SSEQ2NWVZLTNhelRuWXQyMHRCSUw5aG1LSlM5dXZlOFJDTE5oc1pHTUsybDhWNVl4S1J1SW85Zk04ajR6OEFxc1c3WDZsN2ZOX0o4V0dUSmE1aG5WUnhETm04XzhlTXdhcFZNNHd4VTNNaFUtOXE2aWVVcEhRalNPMWxfSGtSZ0JINEN1UFNtcHBqcmZRY1NpR292ZTU4R3A5d2VJVUpKNlVlVDJLT21na2xCRWpLeFdndEFDUWdubURjWDVpTA?oc=5\" target=\"_blank\">Apple Lowers App Store Cut to 25% from 30% in China to Fend Off Local Regulators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-13T09:46:32+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple Reduces China App Store Fees as It Fends Off Pressure From Beijing - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcWhLd1Vfa1locF9XcTJCNkh0T1hFejNlSE5SMmF3eHktaWxEUkN3dHhjZUxQQXI3OU9WS2dJUjNhdkh4YWp6SC1ZcGJSN0JpZ1JYMlM5dXZSYnl1SGM2VXBhSjZBMmNNYWFkdmxMU2kwYWdVUnBhSkhaQkV2aDBNaTN0VE93dXFmaDQ5cU9fXzZoWFFSU2VSRHVyV1JqMjRHb3FHekZzbE5iWi1YUGVTa2FrMlVwUXp4Ni1Yek9IZ25IblFJWTAxQ19PX3pTMmg3ZlRzMFExcmViT2JGeHJnZUNxUmNITW5qY1B2WWJreHBxMWNGVUkxazN5ZVlYcDhTM09CQ3dDaWFmVDlBWTVVbXBJXzZZcE5CWUU0dFd1Zld4SkF1U1NmY01oWFFxeGZnU1lZNUhfRUpFek9FRlluY3N2QzMxWmJQRUV2VTY1WjBEdDNRQnk2c0wzQ3B3S2V3a0hwVXFIa21rSmhHblUzeDdvVy1pbmd0dFRzRHZEdDhkeU1iTFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxQcWhLd1Vfa1locF9XcTJCNkh0T1hFejNlSE5SMmF3eHktaWxEUkN3dHhjZUxQQXI3OU9WS2dJUjNhdkh4YWp6SC1ZcGJSN0JpZ1JYMlM5dXZSYnl1SGM2VXBhSjZBMmNNYWFkdmxMU2kwYWdVUnBhSkhaQkV2aDBNaTN0VE93dXFmaDQ5cU9fXzZoWFFSU2VSRHVyV1JqMjRHb3FHekZzbE5iWi1YUGVTa2FrMlVwUXp4Ni1Yek9IZ25IblFJWTAxQ19PX3pTMmg3ZlRzMFExcmViT2JGeHJnZUNxUmNITW5qY1B2WWJreHBxMWNGVUkxazN5ZVlYcDhTM09CQ3dDaWFmVDlBWTVVbXBJXzZZcE5CWUU0dFd1Zld4SkF1U1NmY01oWFFxeGZnU1lZNUhfRUpFek9FRlluY3N2QzMxWmJQRUV2VTY1WjBEdDNRQnk2c0wzQ3B3S2V3a0hwVXFIa21rSmhHblUzeDdvVy1pbmd0dFRzRHZEdDhkeU1iTFE?oc=5\" target=\"_blank\">Apple Reduces China App Store Fees as It Fends Off Pressure From Beijing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-03-13T11:45:00+00:00",
-      "source": "Barron's"
-    },
     {
       "title": "Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGhOSW9rSzdsQzRSbFh2a2xSaER4akxRM0lweG9KOEhtNTA1YXQ3dC1HaXJjYUpXSEpvSFFZWlFmTE9reFdyQWc5UzNabS0zTmswOEFrRmFRZ2RnV3RpWHQtZTJlQUxVVWl4NDlseVpvbzREMklUenRydGQ5Y0VPdktqV0ttMTZQM0lRNVEzSHJjNFlXMkNPaVlyRE5EQXVSZmcxQldrY0VkQVk5NnJkR21CZi13ZTRz?oc=5",
@@ -33,35 +12,63 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "Keyboard Much Easier to Replace on MacBook Neo Than Apple's Other Laptops - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFHREpQNXVsOG1lMjdCWTd3WVcwSlFGMXRSQmc1Z1dIT2dkdzl1a1d1ZXY1R2lDdXpNeDh6bVlNREVVMGhMNm5hdXJLQVcwcy1DM3RZUzRvcTYtRkY2ZjlDOXhabGxiWE42ZEdvXzF1NjVKR0ZxZ2lNa1FES1Joc2VDY0VMaE5FdHF6eDZPbFdLd2hVNG1kbHBwcXotWW9t?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFHREpQNXVsOG1lMjdCWTd3WVcwSlFGMXRSQmc1Z1dIT2dkdzl1a1d1ZXY1R2lDdXpNeDh6bVlNREVVMGhMNm5hdXJLQVcwcy1DM3RZUzRvcTYtRkY2ZjlDOXhabGxiWE42ZEdvXzF1NjVKR0ZxZ2lNa1FES1Joc2VDY0VMaE5FdHF6eDZPbFdLd2hVNG1kbHBwcXotWW9t?oc=5\" target=\"_blank\">Keyboard Much Easier to Replace on MacBook Neo Than Apple's Other Laptops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWV6REc1a0JHUDRuUUZFZERDeFRoQTJ0cWxKNTBoTVNkd2loY2tTODhXZ21JOXBhajFfNVJoRXc2b01SZEdKMGZkZHpqdWdwNmh6SWdCd2xRaFJBNFF6aVdSNUJjSmNZVkpOQnd1c0o5bEZGMWN5U3drTmlpWE1XbkhBZHowenRMMnkyV2ZIbndhN2hISUNEVVVkc2QtNHlwZllvWV9WQTZZZGJiak45T2cwbTNvQzg?oc=5\" target=\"_blank\">Apple's $599 MacBook Neo, ChatGPT's Interactive Tutoring, Uber's Women-Only Option | Tech Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zZzlJTl9XZTJJeUZRSmNYdHBMLUh1cGdvbG9fQ0lKNGUwajZlQlFYRG5aY0VsN0M1dUJlTGpDMTVzY2F4Si1fU0pld05UM1RwMmIxR3o0RFl5eEQ3Y29yd3pzcHJlX1k?oc=5\" target=\"_blank\">The MacBook Pro M5 Max Is So Fast, It's Hard to Know How to Test It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li></ol>",
-      "published": "2026-03-12T16:52:09+00:00",
-      "source": "PCMag"
+      "title": "iPhone Fold: 5 Things We Learned This Week About Apple's Foldable - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkVsR0VWYXFMWVBWdS1pa2sxd2xZRGVhUU9keTJFa0Y3WktxZU92SDZVQWJ4WW1rRmlpaVR1VFJnbzExZlFRRloxYWV3b3h2TFVqQzRodlVnOEZKcjA3X0VRXzJnOW4tUVhGZkhSMndXTU5HMW1sLVE1MER4WTdYVGR0MUlVdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkVsR0VWYXFMWVBWdS1pa2sxd2xZRGVhUU9keTJFa0Y3WktxZU92SDZVQWJ4WW1rRmlpaVR1VFJnbzExZlFRRloxYWV3b3h2TFVqQzRodlVnOEZKcjA3X0VRXzJnOW4tUVhGZkhSMndXTU5HMW1sLVE1MER4WTdYVGR0MUlVdw?oc=5\" target=\"_blank\">iPhone Fold: 5 Things We Learned This Week About Apple's Foldable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-03-13T13:24:41+00:00",
+      "source": "MacRumors"
     },
     {
-      "title": "Apple says F1 streaming already exceeds everyone's expectations - Yahoo News Singapore",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RT2ZHdlNQMW93VVVwbHRwRDh5aFlZQVpDU1FQLUZDQ1VYV0lkYXFldVVqSVJYR09RZDB0OWlod0llRUUxa1UtLTRET0ZhaThUUjVYLWtSbmEyZkd4MVlYdmgxdjZqVkdLN2lJRzhHbmFUZ3EtMmM1MjRLSGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9RT2ZHdlNQMW93VVVwbHRwRDh5aFlZQVpDU1FQLUZDQ1VYV0lkYXFldVVqSVJYR09RZDB0OWlod0llRUUxa1UtLTRET0ZhaThUUjVYLWtSbmEyZkd4MVlYdmgxdjZqVkdLN2lJRzhHbmFUZ3EtMmM1MjRLSGc?oc=5\" target=\"_blank\">Apple says F1 streaming already exceeds everyone's expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Singapore</font>",
-      "published": "2026-03-13T11:10:28+00:00",
-      "source": "Yahoo News Singapore"
+      "title": "Apple’s iPhone 17e Is a Worthy Alternative to the Pricier iPhone 17 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXE0UUdFN255YzRLYmNWbUxSUVplN1pfN05mY0FlaDl4aDJJRjQ2eTlZSmtPN21XOTNTd2ZmVjVVR2lXWC1UenpmU2l0blpKWmVpTkEySkFxZWFSS09ydk5vY0ZJRFFObjJFekk5R3JjYVBwcjVrZ01pU1RKNkZNY291d0VrWjhFM1haM3ZJMEhUYWo2bk1XSF95SEh4UFJqc3o0a2tKbk53OVlEcDlibjJZeHI5MTV3a1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXE0UUdFN255YzRLYmNWbUxSUVplN1pfN05mY0FlaDl4aDJJRjQ2eTlZSmtPN21XOTNTd2ZmVjVVR2lXWC1UenpmU2l0blpKWmVpTkEySkFxZWFSS09ydk5vY0ZJRFFObjJFekk5R3JjYVBwcjVrZ01pU1RKNkZNY291d0VrWjhFM1haM3ZJMEhUYWo2bk1XSF95SEh4UFJqc3o0a2tKbk53OVlEcDlibjJZeHI5MTV3a1E?oc=5\" target=\"_blank\">Apple’s iPhone 17e Is a Worthy Alternative to the Pricier iPhone 17</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-03-14T12:00:07+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "The new M4 iPad Air has hit a record-low price — save $50 right now at Amazon - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5McU9DWGRZbUZ3M3l2RzNVYmU4aTJBTVRVYVhGSjE0Z2piSGg0Wjg0WW50WE5Ca3hfMVhYSzlZTmg5SWhyckhzT296TUU5ZERaNVZ0Nm9oUEtXZDl1VlNUX0M4OW1zakowa21MQg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5McU9DWGRZbUZ3M3l2RzNVYmU4aTJBTVRVYVhGSjE0Z2piSGg0Wjg0WW50WE5Ca3hfMVhYSzlZTmg5SWhyckhzT296TUU5ZERaNVZ0Nm9oUEtXZDl1VlNUX0M4OW1zakowa21MQg?oc=5\" target=\"_blank\">The new M4 iPad Air has hit a record-low price — save $50 right now at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-03-13T10:27:59+00:00",
+      "title": "Apple cuts China App Store commission fees after government pressure - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWTE0Nl9xWEN2ekMzTUR5ZHZiVFZ6QUl6YTZVUDBDVVFQcXV0MFRqeF9SNXlaN0hkSzJKUGtINzJZM1pRcF9UM0FMOU1nYjI3NE43eFJPVnJ5N19ZWkNoNGdWaUlRbld3cHNtV3E3WGo0eUpNX1ZJUzhXUnQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWTE0Nl9xWEN2ekMzTUR5ZHZiVFZ6QUl6YTZVUDBDVVFQcXV0MFRqeF9SNXlaN0hkSzJKUGtINzJZM1pRcF9UM0FMOU1nYjI3NE43eFJPVnJ5N19ZWkNoNGdWaUlRbld3cHNtV3E3WGo0eUpNX1ZJUzhXUnQ?oc=5\" target=\"_blank\">Apple cuts China App Store commission fees after government pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-03-13T19:26:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Apple cuts China App Store commission fees after government pressure - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHdyckUyV1lib2pUOG51blo2VTFRSWY4MVpRNk1kZkJWYXZWWi1mN0FNa015bFJjc19BbjMtRHBoSno3c0J2dDBERV8zTnQ1b0hyZWtQRVAzY25IVFJBMGJ1eW1WWEcxbDJaVFZJV05VV0FPUjkwRjBNV3o5ak5ERmhZRWEtR0E0WjdkN1EwanA3S3d5QVdfTW9wU015REROZUZDYUhMOWlNT2Z6UmVLR1VXeVF1SUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSHdyckUyV1lib2pUOG51blo2VTFRSWY4MVpRNk1kZkJWYXZWWi1mN0FNa015bFJjc19BbjMtRHBoSno3c0J2dDBERV8zTnQ1b0hyZWtQRVAzY25IVFJBMGJ1eW1WWEcxbDJaVFZJV05VV0FPUjkwRjBNV3o5ak5ERmhZRWEtR0E0WjdkN1EwanA3S3d5QVdfTW9wU015REROZUZDYUhMOWlNT2Z6UmVLR1VXeVF1SUE?oc=5\" target=\"_blank\">Apple cuts China App Store commission fees after government pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-13T05:29:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Apple Cuts China Fees in Big Concession to Beijing and Tencent - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nX1ppaEUtN1dOamNLLWl1eUVyaGFwY09YVjVpaE8zeng3THpkWmxrYXZSTWxyTWN2N2tZaVFiMnNBS3R2YXN6RGNXejF5WU8yWXg4dmJ6WkJoNnZoMEttN3RBVndrVnZxMFVKRFFlOVlBXzdIVzBRQkxhRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5nX1ppaEUtN1dOamNLLWl1eUVyaGFwY09YVjVpaE8zeng3THpkWmxrYXZSTWxyTWN2N2tZaVFiMnNBS3R2YXN6RGNXejF5WU8yWXg4dmJ6WkJoNnZoMEttN3RBVndrVnZxMFVKRFFlOVlBXzdIVzBRQkxhRQ?oc=5\" target=\"_blank\">Apple Cuts China Fees in Big Concession to Beijing and Tencent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-13T09:46:32+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Need a lightweight laptop? This MacBook Air costs less than an iPad. - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGpKaEhxZFNsQ1FoeGtsckVvaVMzRXRicFY5bk95d2tmOWpyRkl1elpMMGJRVkdncFhVdDZFVmhwWWlUY3R6RnZnVkFzcFo3bG5wLXBNSVlMM3pidWsxYU5XQW5XcWNZbmZhMUJac29HN21zQTdZTmNoVi04ekNaVzI2Y2E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGpKaEhxZFNsQ1FoeGtsckVvaVMzRXRicFY5bk95d2tmOWpyRkl1elpMMGJRVkdncFhVdDZFVmhwWWlUY3R6RnZnVkFzcFo3bG5wLXBNSVlMM3pidWsxYU5XQW5XcWNZbmZhMUJac29HN21zQTdZTmNoVi04ekNaVzI2Y2E?oc=5\" target=\"_blank\">Need a lightweight laptop? This MacBook Air costs less than an iPad.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-03-14T10:00:00+00:00",
       "source": "Mashable"
     },
     {
-      "title": "'Margo's Got Money Troubles' Review: Elle Fanning in Apple Dramedy - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1hQR0ptamI0azFUTGxURmhHUEhuLVdCcE9qNi1lRktzb1lpZ2JFbUpFT3RhQ2hrY2FjbUVWa1FBM3dNZTdEeVZkb3VYR0FPa2VUdzBnV192Zm9weEU3X1Z3MEFSREp1LUFuN0EyVkN0c2Q1S1dxWC1nWDFPMEYtdWExSnNrc000YXZhNmhnT3FKX3E2eEwwdDZjelBDb3VsZU80Z0p3aGlSZ1ZyVV9EVw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1hQR0ptamI0azFUTGxURmhHUEhuLVdCcE9qNi1lRktzb1lpZ2JFbUpFT3RhQ2hrY2FjbUVWa1FBM3dNZTdEeVZkb3VYR0FPa2VUdzBnV192Zm9weEU3X1Z3MEFSREp1LUFuN0EyVkN0c2Q1S1dxWC1nWDFPMEYtdWExSnNrc000YXZhNmhnT3FKX3E2eEwwdDZjelBDb3VsZU80Z0p3aGlSZ1ZyVV9EVw?oc=5\" target=\"_blank\">'Margo's Got Money Troubles' Review: Elle Fanning in Apple Dramedy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
-      "published": "2026-03-13T02:15:36+00:00",
-      "source": "The Hollywood Reporter"
+      "title": "Six great reads: Louis Theroux’s reluctance to answer questions, Apple’s hits and misses, and boomers v gen Z - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUZYMGctNWw5WE1MNDVQRGdMOGt6cFhrM0ZiYVc1QVZ3MVRoNjJHMVkyMEZ6SkVRVFpBMnA0MC12dmEtb05UN0N5c3A4aWVETlM0eW8wY0hEaWp2aWl4eW1vR3NCNzBJSmJ1NjE5QkxDbFBlcGJSY1pLeWhlNGxMWUdid1NTWjVDWWRKMXhtM054akdMWlZ6Tl9ZRmNJMnNBNEZXOGhXQmdRbmtOS1RPTmhpSmY3RkRES09sOGdkLVEwNjF6YVdUUjcyRldvOFpoUEZFUlZmbW1BNnBOMUY0anlEWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSUZYMGctNWw5WE1MNDVQRGdMOGt6cFhrM0ZiYVc1QVZ3MVRoNjJHMVkyMEZ6SkVRVFpBMnA0MC12dmEtb05UN0N5c3A4aWVETlM0eW8wY0hEaWp2aWl4eW1vR3NCNzBJSmJ1NjE5QkxDbFBlcGJSY1pLeWhlNGxMWUdid1NTWjVDWWRKMXhtM054akdMWlZ6Tl9ZRmNJMnNBNEZXOGhXQmdRbmtOS1RPTmhpSmY3RkRES09sOGdkLVEwNjF6YVdUUjcyRldvOFpoUEZFUlZmbW1BNnBOMUY0anlEWQ?oc=5\" target=\"_blank\">Six great reads: Louis Theroux’s reluctance to answer questions, Apple’s hits and misses, and boomers v gen Z</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-03-14T06:00:00+00:00",
+      "source": "The Guardian"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple products have never been what anyone would call cheap. But the company has just announced a slew of new devices, including its cheapest MacBook ever. Learn more about the latest news from Apple’s product launch event: https://nyti.ms/40qRbE5 - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV093d3BLaWxyVjFBV1hGc1lTY25ablFDMUVsQWdwUVBDWTlUVkUtYU41X0NQZzFPVi1IMndWVW50UjExRzdNS1FXVTNZSHd0bl9vWWR0bkhsNk1DNmFySUhoVlo4dDBERzdfUUJmRmJFWEFzNWxkN29iRUx6TGlZRkVuRWlQWkVQSDZMbkVLTXRzM0FMaGVnNEtqWVdtTWFaOURuel8zdHhIZzFBMUY1UlBwTFhTbXBCV01jT1dIY05QU2Z3VlpoRXQtd3RaTmVud09z?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV093d3BLaWxyVjFBV1hGc1lTY25ablFDMUVsQWdwUVBDWTlUVkUtYU41X0NQZzFPVi1IMndWVW50UjExRzdNS1FXVTNZSHd0bl9vWWR0bkhsNk1DNmFySUhoVlo4dDBERzdfUUJmRmJFWEFzNWxkN29iRUx6TGlZRkVuRWlQWkVQSDZMbkVLTXRzM0FMaGVnNEtqWVdtTWFaOURuel8zdHhIZzFBMUY1UlBwTFhTbXBCV01jT1dIY05QU2Z3VlpoRXQtd3RaTmVud09z?oc=5\" target=\"_blank\">Apple products have never been what anyone would call cheap. But the company has just announced a slew of new devices, including its cheapest MacBook ever. Learn more about the latest news from Apple’s product launch event: https://nyti.ms/40qRbE5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+      "published": "2026-03-14T03:57:02+00:00",
+      "source": "facebook.com"
+    },
     {
       "title": "MacBook Neo, iPhone 17e, iPad Air with M4, and more are now available - Apple",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3hHZEVQT0ZrMTFwcmlqOTluc2ZodHkyOTBhbGw2N0c5XzR3OEZpWm90VjRkVHBLbkxKd1JqLWNaSGVkX3V1ZFMxR0lPMmZZT0tYdmNWWjVLcGhBbDdBUU5Md0xLbEtFZVo2amlRazkybHA5S3lPWFgwd3JLRlFHR3IySUQ0RmtBb1pZYmhLUW9QWV9saXVuSGgzNGR6clF3ZXNmZkdYT1VEUQ?oc=5",
@@ -77,39 +84,28 @@
       "source": "Lifehacker"
     },
     {
+      "title": "iPhone Fold, Mac Studio, OLED MacBook Pro: What to expect from Apple for the rest of 2026 - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkE2cGlQMW14ZXRUMzFHVEw2ejZVenNlTG5rUEliTXY1T1R5WlVraGZ6VmN2eWJ3NHdDY1FRS2wydW5OQ1NhMEtscWlxODVOd0FrRGh4czlwUlRrcWhhSm14ZkNNVmhONVN0T1lNenZ6OW1WNVpvc1Z3a1BUb3lndGRlWXBia0RnSnFaWWFrcU52QWI2WU1zRmhDX0l4WGdkcXV6ZUFrLURrZUMySWl6a3FQMHVyOTgtY3l0ejg1bzRJNldGeDhiTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkE2cGlQMW14ZXRUMzFHVEw2ejZVenNlTG5rUEliTXY1T1R5WlVraGZ6VmN2eWJ3NHdDY1FRS2wydW5OQ1NhMEtscWlxODVOd0FrRGh4czlwUlRrcWhhSm14ZkNNVmhONVN0T1lNenZ6OW1WNVpvc1Z3a1BUb3lndGRlWXBia0RnSnFaWWFrcU52QWI2WU1zRmhDX0l4WGdkcXV6ZUFrLURrZUMySWl6a3FQMHVyOTgtY3l0ejg1bzRJNldGeDhiTA?oc=5\" target=\"_blank\">iPhone Fold, Mac Studio, OLED MacBook Pro: What to expect from Apple for the rest of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-03-13T17:22:00+00:00",
+      "source": "AppleInsider"
+    },
+    {
       "title": "What to expect at Apple's product launch event on March 4 - Engadget",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjRadXhkNDVrWk5Pd1hyb2JQWUdpcnMtMVZGaFgwZ2U2dHZ2RXBhZWo2c3RwQXpTMjgxXzNWNGUybzlidE9oRENPdm1WNmk4RE9HZllJT2ZsY2k1NnYxWWdlNVJmNWVPZVVORFVsck0yWVpSTEpUd3g0Y2VhTzFiVmFLUVZsaEM1d011RFpScXRSOWl1RDRBWV9PdWdGOW1vdEFaeFppZEQ1QQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjRadXhkNDVrWk5Pd1hyb2JQWUdpcnMtMVZGaFgwZ2U2dHZ2RXBhZWo2c3RwQXpTMjgxXzNWNGUybzlidE9oRENPdm1WNmk4RE9HZllJT2ZsY2k1NnYxWWdlNVJmNWVPZVVORFVsck0yWVpSTEpUd3g0Y2VhTzFiVmFLUVZsaEM1d011RFpScXRSOWl1RDRBWV9PdWdGOW1vdEFaeFppZEQ1QQ?oc=5\" target=\"_blank\">What to expect at Apple's product launch event on March 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
       "published": "2026-03-02T08:00:00+00:00",
       "source": "Engadget"
-    },
-    {
-      "title": "A new cheaper MacBook just dropped — here’s everything you need to know - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3BCbnM2VjF2eHVKazNfY1lJbS1iTmdub2N5S0N6eFo2bnBkNUl0Z1YwVl9ycEFlMnFUUUFNREszdFJOMWQzSHZDMFpJNmxmZnU1NGJJQVVKTlprV3JRY1NLNEFVaVpMVFRuN0lSYWw4X05Id19qbUt3YzNuUXFHSXcyT3FpTmlFQ0J2b2x0cDU0VElMTkczbVByckxXQ00?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3BCbnM2VjF2eHVKazNfY1lJbS1iTmdub2N5S0N6eFo2bnBkNUl0Z1YwVl9ycEFlMnFUUUFNREszdFJOMWQzSHZDMFpJNmxmZnU1NGJJQVVKTlprV3JRY1NLNEFVaVpMVFRuN0lSYWw4X05Id19qbUt3YzNuUXFHSXcyT3FpTmlFQ0J2b2x0cDU0VElMTkczbVByckxXQ00?oc=5\" target=\"_blank\">A new cheaper MacBook just dropped — here’s everything you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-03-04T08:00:00+00:00",
-      "source": "NBC News"
-    },
-    {
-      "title": "Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week - CNET",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnRpTy1xWkZnODF5RmRYOXJ1TmpRZ3pkX2xSVHRkQ3dBcHA4a0RsamxtdFhmaW9FYWt4Y0VCTHRwNTNkTHFEMXo1QU5QbUxoekpaWnowNzRVNlJ4SFlZSmZVLThKRkFMM1ZZS3RscHFudFNZWUlHV3F3aFlyZmw0RWxNVXdmU3BpbHVYdk14QmtTcW41ZHZHQ3BWN1JBSV9FalRZVVhtR2xjNHRna3FmN2V3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnRpTy1xWkZnODF5RmRYOXJ1TmpRZ3pkX2xSVHRkQ3dBcHA4a0RsamxtdFhmaW9FYWt4Y0VCTHRwNTNkTHFEMXo1QU5QbUxoekpaWnowNzRVNlJ4SFlZSmZVLThKRkFMM1ZZS3RscHFudFNZWUlHV3F3aFlyZmw0RWxNVXdmU3BpbHVYdk14QmtTcW41ZHZHQ3BWN1JBSV9FalRZVVhtR2xjNHRna3FmN2V3?oc=5\" target=\"_blank\">Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2026-02-23T08:00:00+00:00",
-      "source": "CNET"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-12",
-      "close": 255.75999450683594
+      "date": "2026-03-13",
+      "close": 250.1199951171875
     },
     "history": [
-      {
-        "date": "2026-03-04",
-        "close": 262.5199890136719
-      },
       {
         "date": "2026-03-05",
         "close": 260.2900085449219
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-12",
         "close": 255.75999450683594
+      },
+      {
+        "date": "2026-03-13",
+        "close": 250.1199951171875
       }
     ],
     "name": "Apple Inc."
