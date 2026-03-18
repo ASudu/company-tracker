@@ -2,14 +2,56 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-17T12:46:03.240218+00:00",
+  "fetched_at": "2026-03-18T12:46:24.601784+00:00",
   "news": [
     {
-      "title": "2 of our biggest takeaways from Nvidia CEO Jensen Huang's GTC keynote speech - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjBua3VGZXA3akZvRHZpR3BmalVOalg3Vi1aWWZMNGVPVGN2VUR0TkdJekpnNjNndE1tSXpObjJLMWZNZ0pEWDVSR0dXUVhSOWEzZ2VtS3FBWThoZVN1WEF1YW9nUmgtcm4zVkJYbXR4R2stYnVfMzhRcVBRTnRkZ0owcE5iR0luUGxEdEZBYWV4RWhOR3o0QVJvc0g0azZIbWFCa2JKcjBWUF9hYzZqZmln?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjBua3VGZXA3akZvRHZpR3BmalVOalg3Vi1aWWZMNGVPVGN2VUR0TkdJekpnNjNndE1tSXpObjJLMWZNZ0pEWDVSR0dXUVhSOWEzZ2VtS3FBWThoZVN1WEF1YW9nUmgtcm4zVkJYbXR4R2stYnVfMzhRcVBRTnRkZ0owcE5iR0luUGxEdEZBYWV4RWhOR3o0QVJvc0g0azZIbWFCa2JKcjBWUF9hYzZqZmln?oc=5\" target=\"_blank\">2 of our biggest takeaways from Nvidia CEO Jensen Huang's GTC keynote speech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDZnczlMZlFOTkFqRi1BTE40WjBjOHNNU1JVRFVPbVJXQjQwSDNRcjgtSkNidTlYRWRPNkM0Nl9LM3V0N2dXMFVKUnVra0xrYU0ydGRNTnhKODFuVGo5OVlYSmJyekx5eFFDX0ZUMVJISzFLXzcyWlZaLVl4ckh5UGJzTkNIWmM5TTRwT2RrT1dqUmxYNkhfWnpwSV81bjFG?oc=5\" target=\"_blank\">An Interview with Nvidia CEO Jensen Huang About Accelerated Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stratechery by Ben Thompson</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3hZV2VsUmtmdmVDMFYySU9mQ3k3RGpmTGdSRGZONV9LNFBJX1VlTTBPOUdkMkppVmY1QXptOHk1ZTJMMENGcG9xaFg1aklCOE44Wm1pdzd2UnFZNnlOMjVVN3UyZFNxYlZ3VXlPYk5PVUlaSzBaek5aS01CYnM0S3JCRDctYmMtWFJjMy1iRXlLNlBqeTFJMklSbXZMTXRUUG52ZFhfUFNsV0EtMTVPa3A5Y05FX2RPWUF5RzdlZXdvOUg2Q09LdGRIWDFoMDg?oc=5\" target=\"_blank\">Tech stocks today: Nvidia's Jensen Huang kicks off GTC event with $1 trillion forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-03-17T00:20:00+00:00",
+      "title": "Nvidia CEO Jensen Huang says OpenClaw is 'definitely the next ChatGPT' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2Zub1RVNE1hRXo5a3pRR3lpRWt1YnFWYkU5TjlRMS0tNFdXOWlDVEN1eFA3OVNtbUh3ZThQSG5QYXFzYkdSa2x6aEtLSlZMVmptYjdsXzAyZ3hFaVVrb25vSHJVaEpHWDYyUkMySXdPakdwZXYxeGVZRVFTRkIyeGdZbFRBeGxYd3BnQW9hbm85bXBldFJ0NjVaNWw4Sjg3R3VGMnBUanDSAa4BQVVfeXFMUDZyWEdkQzdWNTY1YXQzdFlsRS1VamhqQVl2blVDTWJ4UVJrVVhGVy1LbzJ4SFlBWUVKVUZ1Z3NWamh0WGVvTzl1aTJKa21JQlAteUpjZi04VDY5QnI2YVU4R1VsNm9GYWZUeVFpTDMzbXAweXhyZ0JvUFI4M0dOZWhJcG4wTlZtT0FEYTlpMzgxdWtCR2hfWFEtTl9WeUszNVlEMWl2NVcwaW1pUEZR?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2Zub1RVNE1hRXo5a3pRR3lpRWt1YnFWYkU5TjlRMS0tNFdXOWlDVEN1eFA3OVNtbUh3ZThQSG5QYXFzYkdSa2x6aEtLSlZMVmptYjdsXzAyZ3hFaVVrb25vSHJVaEpHWDYyUkMySXdPakdwZXYxeGVZRVFTRkIyeGdZbFRBeGxYd3BnQW9hbm85bXBldFJ0NjVaNWw4Sjg3R3VGMnBUanDSAa4BQVVfeXFMUDZyWEdkQzdWNTY1YXQzdFlsRS1VamhqQVl2blVDTWJ4UVJrVVhGVy1LbzJ4SFlBWUVKVUZ1Z3NWamh0WGVvTzl1aTJKa21JQlAteUpjZi04VDY5QnI2YVU4R1VsNm9GYWZUeVFpTDMzbXAweXhyZ0JvUFI4M0dOZWhJcG4wTlZtT0FEYTlpMzgxdWtCR2hfWFEtTl9WeUszNVlEMWl2NVcwaW1pUEZR?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang says OpenClaw is 'definitely the next ChatGPT'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVlrN3JLbzlGdW9NRU8tOU11RjFaWTEzOVJiaGJoZFFNUmdSNkJZRWE3bzc3Wk1XNllPdHFKQlB3Ry1RRXBpRUpTTmpiblprQy1NWGFCNldCYVh6ZE1BOVBGQ3JjUWVMNnZlUFpURnFzb2hjQXptazNZQlBIRWFSMDNPcTVFWDducjF4Z05ia2E3a3hYZWxSSk1ZOThYTTBoZ2RqQjNDUzVkaGtCRGk2c1gtM2l1VTZHdVdkOTFnVEQ?oc=5\" target=\"_blank\">Nvidia CEO Huang says company sees more than $1 trillion in sales through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPMDM2OHRjU3ZiNHVCa0l1MjhQdS1oNld4VG1nUWpPT2hjOUtiUW53Z2k0LVZMUGJlRkJuTGlaQklZWnhtOExvZ1ZvUnFpU05pdTR4Ni1pWWJ1RTRvLWlMMG1DbEVycEFReG1GLWxZYlF2TkF3UU1RNVpWX3Z6a3JFX3lmOVYyZzhvcFNDZGRFLTdPbklFUVVoTnUwZFFLNV82SHFHbkpxVEZTSm5L?oc=5\" target=\"_blank\">Nvidia: Why This Stock Refuses To Go Up And What You Can Do About It (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li></ol>",
+      "published": "2026-03-17T22:53:48+00:00",
       "source": "CNBC"
+    },
+    {
+      "title": "Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’ - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjNTZ2p4dG56OVNzZkp2aDM1eXh3X0t3T25QVzVHd0VYRTVJYW55bWJ5VDR6UVJZcHZCcERsVy01ejRZRHRkelZGbHoyVEJNUndZQ2QtOFhpOTgwajZkSWh1aFdMaTlhUnhIa0djWWhDdEdIRzJyNU9MOEgzbHBjRXNGei10S1VvMklZTjlyUjNNeTVIQ0g0TlZ1ZnFmMXJ5b0dqd3FSRDNsN3RCcTVPUjVLdmdBLVJiZVVXd1pQQUE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjNTZ2p4dG56OVNzZkp2aDM1eXh3X0t3T25QVzVHd0VYRTVJYW55bWJ5VDR6UVJZcHZCcERsVy01ejRZRHRkelZGbHoyVEJNUndZQ2QtOFhpOTgwajZkSWh1aFdMaTlhUnhIa0djWWhDdEdIRzJyNU9MOEgzbHBjRXNGei10S1VvMklZTjlyUjNNeTVIQ0g0TlZ1ZnFmMXJ5b0dqd3FSRDNsN3RCcTVPUjVLdmdBLVJiZVVXd1pQQUE?oc=5\" target=\"_blank\">Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOX251cWxSdUFtSW9MYWZBR092RGdrZzl0eDAyLW9OTXE0M2JzY1JqWXRJa0UxbndHSThONHRINjZwZnA3ZmJXX2ZjUTBZZWUyb3RLR085VElMdUJhWnh1YXliQldUVVJUSXNiVUpSU1YtbnB5Qm5GUy1CWXgxeDJ2aG9aX0xyeDRsbnMzd21R?oc=5\" target=\"_blank\">Nvidia’s DLSS 5 is like motion smoothing for video games, but worse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGJsd0VlNTN0UGtENk1yN2JYZXNraFM2SFk3QUZTa0RyMjYxd0FBQ3pQR2pjaVB3VzlaZUVXcEFYMnlmaEpNWVlxQ01CVmxMdVFoZDZjQTdpZmtPd3hKa1hqR2dPU1M4czJ2cUNjc3RsMzJUSHYtTDVwVmFPR0ZWbUZCWVVNM2JmUjNjdDB1eldyRVVfRWtFaVMzb3BUWGM?oc=5\" target=\"_blank\">Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamesIndustry.biz</font></li></ol>",
+      "published": "2026-03-17T17:31:35+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNEVlQjZrU1hSX09aM1FEZndmSzR5RVFkejlDaVpUNGd2QkJRMG1fVkNKaGFrMHRFR2doTXhPUUQxdFVZeW5felVvOGR2bDhKbjMxTXh0ZHU1aHpQdEJ6ekFmc19ldHMzWUxkUW4wNFRLNlhYZTVHTUM5NnBNVFlMU3VrUjBjWjROUzdkazI5eXBYWUc3TlIweUlQV28tdldQdm1GMnRuZEtFbFRjLTNGTHRjajM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNEVlQjZrU1hSX09aM1FEZndmSzR5RVFkejlDaVpUNGd2QkJRMG1fVkNKaGFrMHRFR2doTXhPUUQxdFVZeW5felVvOGR2bDhKbjMxTXh0ZHU1aHpQdEJ6ekFmc19ldHMzWUxkUW4wNFRLNlhYZTVHTUM5NnBNVFlMU3VrUjBjWjROUzdkazI5eXBYWUc3TlIweUlQV28tdldQdm1GMnRuZEtFbFRjLTNGTHRjajM?oc=5\" target=\"_blank\">Nvidia gets Beijing's nod for H200 chip sales, adapts Groq chip for China, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-18T01:32:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkNTcnhOZUxnNUNOckZiX3Z6eDlZZ3BBN18xVXpKRmtIMjFWY19sR0RoWGwxdDdyMXdlQmtSQnl4aE5WS0tWMU5GR2ZDd09RVkdHbEZpdVR1SjJ0cGNjVElKb1FZVUpnNUd4RlJrenVMNGVlRFNxRHdCRDlyWTZSSF9aaWxVOEdZLWxFSk9oWEo2bVZmMFhqS2pyT3NlaVBkUEtLQndLU203X3NCSTFpV0ZyeXJoM2tOWEUw?oc=5\" target=\"_blank\">Exclusive: Nvidia preparing Groq chips that can be sold in Chinese market, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-17T22:51:11+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nvidia is going back to China - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oaGtqYUpLR0YxOUZTQVRsREpIcUxMS2FYYVc3d253MlFqQXpxS2ktR1hkZWUzR1ZNaWZwc3RjZDNuQl9hS0dYdmhQSU1TYW5qOEJSY2NYR3NBdTJQLUtJREp0Q242clJ4VTMxWk5pYUI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5oaGtqYUpLR0YxOUZTQVRsREpIcUxMS2FYYVc3d253MlFqQXpxS2ktR1hkZWUzR1ZNaWZwc3RjZDNuQl9hS0dYdmhQSU1TYW5qOEJSY2NYR3NBdTJQLUtJREp0Q242clJ4VTMxWk5pYUI?oc=5\" target=\"_blank\">Nvidia is going back to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-03-18T12:42:22+00:00",
+      "source": "qz.com"
+    },
+    {
+      "title": "2 Companies That Will Join Nvidia, Apple, and Alphabet in the $3 Trillion Club by 2028 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONC16SG9vbmR2ZnIxa2c5bm1FV3hvS1BvNzgxTmNJMHYyVnc0Z0JodkRnU3NGemlETWZRaXV3LVlaM0ZFUmlSenJnQjluVHl1WU0yb0hSZEozbkVpamtmdDlDVmxnMlprc3lna2ktMlMxVElzRzZlaWhjZHA2cEZWdmxxT2h1aDJYdl9oRTBZdTM2MDlUekJMaA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONC16SG9vbmR2ZnIxa2c5bm1FV3hvS1BvNzgxTmNJMHYyVnc0Z0JodkRnU3NGemlETWZRaXV3LVlaM0ZFUmlSenJnQjluVHl1WU0yb0hSZEozbkVpamtmdDlDVmxnMlprc3lna2ktMlMxVElzRzZlaWhjZHA2cEZWdmxxT2h1aDJYdl9oRTBZdTM2MDlUekJMaA?oc=5\" target=\"_blank\">2 Companies That Will Join Nvidia, Apple, and Alphabet in the $3 Trillion Club by 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-03-18T11:34:01+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "AT&T Leads Industry Collaboration with Cisco and NVIDIA to Deliver Network-Driven Edge AI for Enterprises - AT&T",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82TnNaUGFGQ3I1YmNzczB5NWxiRWNRcURwdzVDM1hkUW93R0NLMmVKU3BiTHZxZDZZMmtLbnJmaVh6TW91ZnNqQ0tZU1VtZlpDUThTRXRRcG1XQ180M0ttV0xVU3dUZzFDUVJiU2dtVWY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE82TnNaUGFGQ3I1YmNzczB5NWxiRWNRcURwdzVDM1hkUW93R0NLMmVKU3BiTHZxZDZZMmtLbnJmaVh6TW91ZnNqQ0tZU1VtZlpDUThTRXRRcG1XQ180M0ttV0xVU3dUZzFDUVJiU2dtVWY?oc=5\" target=\"_blank\">AT&amp;T Leads Industry Collaboration with Cisco and NVIDIA to Deliver Network-Driven Edge AI for Enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT&amp;T</font>",
+      "published": "2026-03-17T18:00:00+00:00",
+      "source": "AT&T"
     },
     {
       "title": "Nvidia's race to outpace physics - Axios",
@@ -17,65 +59,9 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VN2VkMllEX29GOEd0Tmh0Vkh3Nk1RWUVHclJfZ3NXVE9HNzRxZTg4MzdwR3dDUW5aa2lSX19CSkl6eExOb1AxcVNlWmFNcGppQ240UHMyUk40ZzNiV1p5Y21PSDRUU3M?oc=5\" target=\"_blank\">Nvidia's race to outpace physics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
       "published": "2026-03-17T09:00:38+00:00",
       "source": "Axios"
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Nvidia, Delta Air Lines, Eli Lilly & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkZjMEt3TUU4N3Zad1VIeC1QeGNmZFFNRUxJS0FlUTVjYV8zbm5NQVZZbkN0Ri1kRnRHb0Y3Yl9UT2dSUlVrZXFCbVd0aER1cG9aMXZNWkdvUHcyNFJ5LVlFT3h2MnQ2YjF4TXp5NU9UNmdpNFNtaEtnTkNFWjZVVk1zLXdaMVNRMFNrWlFDX0ZYNGJXYVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkZjMEt3TUU4N3Zad1VIeC1QeGNmZFFNRUxJS0FlUTVjYV8zbm5NQVZZbkN0Ri1kRnRHb0Y3Yl9UT2dSUlVrZXFCbVd0aER1cG9aMXZNWkdvUHcyNFJ5LVlFT3h2MnQ2YjF4TXp5NU9UNmdpNFNtaEtnTkNFWjZVVk1zLXdaMVNRMFNrWlFDX0ZYNGJXYVE?oc=5\" target=\"_blank\">Stocks making the biggest moves premarket: Nvidia, Delta Air Lines, Eli Lilly & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-03-17T11:39:55+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "US Premarket Movers: Coherent, Delta, Nvidia, Semtech, Uber - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON25KMTdRUGtBcGdOTXc4VWhzWmxWVVViMkt5d0xQVmV0bjN4eldkZEJQNzVKdXBEUVNRcVdscm5xXzdfSzVuc0pKRV9Pd09TX2pxTEpOSElLdnp3bEljWHF0V0pvaUl4S2lZLXNmdENaMWNRVTkyOWV1WG8tdGdzRXNHM3ZpdTJOS3RZaUI5SUlVRnVFMlRuOGh2SVNYSWJHWUx6VVBFdGgzXzJr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxON25KMTdRUGtBcGdOTXc4VWhzWmxWVVViMkt5d0xQVmV0bjN4eldkZEJQNzVKdXBEUVNRcVdscm5xXzdfSzVuc0pKRV9Pd09TX2pxTEpOSElLdnp3bEljWHF0V0pvaUl4S2lZLXNmdENaMWNRVTkyOWV1WG8tdGdzRXNHM3ZpdTJOS3RZaUI5SUlVRnVFMlRuOGh2SVNYSWJHWUx6VVBFdGgzXzJr?oc=5\" target=\"_blank\">US Premarket Movers: Coherent, Delta, Nvidia, Semtech, Uber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-17T11:53:31+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Cisco’s Nvidia-powered AI Grid could be a turning point for telcos - fiercewireless.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdhamZvRFlTQkhPenllVXE5Q0g5TVlrSElIZTlKTjU0WWkyN19aLWdwWE9XTkVfNEZlRXp2S01EeFlIRDEwMUZYRHJ0clZwdVdSaXdqU3QxUEFVY2x5bERmUlB0MTdqS2I0Tnl1ZHRRazBUWkI5eHFMYzRzUEhpOUlrRkEySXRqSnc3MXM1S2tLNWk5WlJ1bV9sTHQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdhamZvRFlTQkhPenllVXE5Q0g5TVlrSElIZTlKTjU0WWkyN19aLWdwWE9XTkVfNEZlRXp2S01EeFlIRDEwMUZYRHJ0clZwdVdSaXdqU3QxUEFVY2x5bERmUlB0MTdqS2I0Tnl1ZHRRazBUWkI5eHFMYzRzUEhpOUlrRkEySXRqSnc3MXM1S2tLNWk5WlJ1bV9sTHQ?oc=5\" target=\"_blank\">Cisco’s Nvidia-powered AI Grid could be a turning point for telcos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fiercewireless.com</font>",
-      "published": "2026-03-17T12:00:00+00:00",
-      "source": "fiercewireless.com"
-    },
-    {
-      "title": "Exclusive | Nvidia-Backed AI Startup to Spend Billions on Korea Data Center to Combat China - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOSHZSY1JuZFpjTjF2ajdwVGprd3JIRGstRU9SOHlydHNSVVNYTkI2R3IxbTZpMG9MSG5mNGxibV94RHV1aURraGs4dXJXT3JlbVBjRndUSUxNUzBlSVhVYUxhMmFwR0FYZGRiV2NWMnJGdDduOFpNQ3ZJRHN2LWx6OXNEbkNHcDlPRWhMSU1jT090a1g4Z0lCRHVOMTZiNjB5d3N1Yk43SW9qdTZmZWVBU1hKVHA5aE01T0ZDMThNbEVlS0NTb0U0TkhPeVBmbWtmb3hNYXJKYjcwMDVzU2ZzNDVsd1R2RVdnLTdydzRYS2RoUW1HLUZJMTl2Ym5MWFdCeV9PODVUUW5kTklyeGNZYk5yM2w3Y1ZWcU5xVkZaV01DcFo4YndMUVJDRnJLb3lqdkl6V0hIRUxWdWdTcGpaSWlxckRCWHR4bEIwTmdNSkRPSURQREtfdTctZDZ1ZjRfVWZuQUxEZmlEZkVDZ25Eczc1NXpSMGZaZW54bUYwYXJaanFPR3B2ZE1hV3ZYN0l0SnMwTEFXLU1BVjZRblJyb0VweVI5cHdCczExWExJMGxscGZhZ1UybENGZG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxOSHZSY1JuZFpjTjF2ajdwVGprd3JIRGstRU9SOHlydHNSVVNYTkI2R3IxbTZpMG9MSG5mNGxibV94RHV1aURraGs4dXJXT3JlbVBjRndUSUxNUzBlSVhVYUxhMmFwR0FYZGRiV2NWMnJGdDduOFpNQ3ZJRHN2LWx6OXNEbkNHcDlPRWhMSU1jT090a1g4Z0lCRHVOMTZiNjB5d3N1Yk43SW9qdTZmZWVBU1hKVHA5aE01T0ZDMThNbEVlS0NTb0U0TkhPeVBmbWtmb3hNYXJKYjcwMDVzU2ZzNDVsd1R2RVdnLTdydzRYS2RoUW1HLUZJMTl2Ym5MWFdCeV9PODVUUW5kTklyeGNZYk5yM2w3Y1ZWcU5xVkZaV01DcFo4YndMUVJDRnJLb3lqdkl6V0hIRUxWdWdTcGpaSWlxckRCWHR4bEIwTmdNSkRPSURQREtfdTctZDZ1ZjRfVWZuQUxEZmlEZkVDZ25Eczc1NXpSMGZaZW54bUYwYXJaanFPR3B2ZE1hV3ZYN0l0SnMwTEFXLU1BVjZRblJyb0VweVI5cHdCczExWExJMGxscGZhZ1UybENGZG8?oc=5\" target=\"_blank\">Exclusive | Nvidia-Backed AI Startup to Spend Billions on Korea Data Center to Combat China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-03-17T06:32:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "NVIDIA to Launch L4 Software-Driven Robotaxis on Uber Across 28 Cities by 2028 - Uber Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSDI0aEVrZHZtNDl2TVcyNGw4M0xWc3JzdlByM2xtdDlpRTBQTC1teUdUakJjZjRVRUhUSmdhekhkUjBrNzYyYTE3aW0yLXZXcmJXSWFiZklJdGRvNWluelM3OGJlR0ZldFBielNTZ2h1ZjkzOVF0V2JwNnFYZUNFTE5YOGVnejhReTNwZDFZT0pCUEFKRThPQlY0aUlfQTY5YXZGZVlPNFlIODVKdXpvNFBPamlEVUlUUXJUQXN4eDhfVkhvOXpYZ3hwcC05LVdzZ0F4WkhjZUp6czFzYklFTlJKV1BRQXQzWDFFTGxkcUpfLU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSDI0aEVrZHZtNDl2TVcyNGw4M0xWc3JzdlByM2xtdDlpRTBQTC1teUdUakJjZjRVRUhUSmdhekhkUjBrNzYyYTE3aW0yLXZXcmJXSWFiZklJdGRvNWluelM3OGJlR0ZldFBielNTZ2h1ZjkzOVF0V2JwNnFYZUNFTE5YOGVnejhReTNwZDFZT0pCUEFKRThPQlY0aUlfQTY5YXZGZVlPNFlIODVKdXpvNFBPamlEVUlUUXJUQXN4eDhfVkhvOXpYZ3hwcC05LVdzZ0F4WkhjZUp6czFzYklFTlJKV1BRQXQzWDFFTGxkcUpfLU0?oc=5\" target=\"_blank\">NVIDIA to Launch L4 Software-Driven Robotaxis on Uber Across 28 Cities by 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Uber Investor Relations</font>",
-      "published": "2026-03-16T20:31:48+00:00",
-      "source": "Uber Investor Relations"
-    },
-    {
-      "title": "Nvidia Stock vs. Micron Stock: Billionaires Buy One and Sell the Other - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2dwU3FnMnA0aFpMREN4VkFUOVNNM0hHNjBULXRnbXJ5d1JudkV3dndOMGlZN0hZWFk5bDFRanpKd21hclh0bjBIMThyeWtLTEFHdmFUcV9RdDVyalNlT1BkSzJTMEY0ZXRKMk5qeEhmWHlCNVd0cDd1RUJ0TGdhTDczTVVoa2FOc2gzX3QyTEhSUlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2dwU3FnMnA0aFpMREN4VkFUOVNNM0hHNjBULXRnbXJ5d1JudkV3dndOMGlZN0hZWFk5bDFRanpKd21hclh0bjBIMThyeWtLTEFHdmFUcV9RdDVyalNlT1BkSzJTMEY0ZXRKMk5qeEhmWHlCNVd0cDd1RUJ0TGdhTDczTVVoa2FOc2gzX3QyTEhSUlE?oc=5\" target=\"_blank\">Nvidia Stock vs. Micron Stock: Billionaires Buy One and Sell the Other</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-17T09:12:00+00:00",
-      "source": "The Motley Fool"
     }
   ],
   "product_launches": [
-    {
-      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-16T19:38:33+00:00",
-      "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5\" target=\"_blank\">Nvidia Debuts New A.I. Product at GTC Developer Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-03-16T22:18:24+00:00",
-      "source": "The New York Times"
-    },
     {
       "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
@@ -84,32 +70,42 @@
       "source": "NVIDIA Newsroom"
     },
     {
+      "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-03-18T01:07:20+00:00",
+      "source": "MSN"
+    },
+    {
+      "title": "CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5\" target=\"_blank\">CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "published": "2026-03-16T23:26:08+00:00",
+      "source": "Stocktwits"
+    },
+    {
+      "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5\" target=\"_blank\">Nvidia Debuts New A.I. Product at GTC Developer Conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-03-16T19:34:03+00:00",
+      "source": "The New York Times"
+    },
+    {
       "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026 - VentureBeat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWFjM0hMemZzSi1iOTltdDdzWlVSdWlLR2x1OHNzTGpONWpRTEdXcElZNjJKRzZzMkc1R3hUM291am1hSzh0NFB6WUE3Tno4TEhMZFV6V0ZkNTBrUXVNTFZxdjVmOUcyWmNGTDFudTlaY25RZl9wdWctbEtWTXJNbG9oZGtoX2FESVBQRF96RXlVNm5yZmNGTUFXZlp6X3Q1SXNaT3kyZXJxVEo5aW9QUw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWFjM0hMemZzSi1iOTltdDdzWlVSdWlLR2x1OHNzTGpONWpRTEdXcElZNjJKRzZzMkc1R3hUM291am1hSzh0NFB6WUE3Tno4TEhMZFV6V0ZkNTBrUXVNTFZxdjVmOUcyWmNGTDFudTlaY25RZl9wdWctbEtWTXJNbG9oZGtoX2FESVBQRF96RXlVNm5yZmNGTUFXZlp6X3Q1SXNaT3kyZXJxVEo5aW9QUw?oc=5\" target=\"_blank\">Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
       "published": "2026-03-16T20:30:37+00:00",
       "source": "VentureBeat"
-    },
-    {
-      "title": "NVIDIA’s NemoClaw promises secure, always-on personal AI assistants - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUU9IZkliTjFsajZOcDN5RXE1ajVsZ0REd01RS05raXdoX3pQbzIyTEwyOTRndjBJZGpWTDY5TU9MeVZpZGxKT2NMVHVpd25aQm9tTENaQ2t0OENKVTRoWXFlY1RnV3dpX1V3dDZLanZaMkxCMTM1My1ST01BOVFGVWhrT1FCQS0zWEktVWZZb0hrQzRvbHM2M255WXpOdjZW?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUU9IZkliTjFsajZOcDN5RXE1ajVsZ0REd01RS05raXdoX3pQbzIyTEwyOTRndjBJZGpWTDY5TU9MeVZpZGxKT2NMVHVpd25aQm9tTENaQ2t0OENKVTRoWXFlY1RnV3dpX1V3dDZLanZaMkxCMTM1My1ST01BOVFGVWhrT1FCQS0zWEktVWZZb0hrQzRvbHM2M255WXpOdjZW?oc=5\" target=\"_blank\">NVIDIA’s NemoClaw promises secure, always-on personal AI assistants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "published": "2026-03-16T20:13:00+00:00",
-      "source": "Stock Titan"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-16",
-      "close": 183.22000122070312
+      "date": "2026-03-17",
+      "close": 181.92999267578125
     },
     "history": [
-      {
-        "date": "2026-03-06",
-        "close": 177.8103790283203
-      },
       {
         "date": "2026-03-09",
         "close": 182.64010620117188
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-16",
         "close": 183.22000122070312
+      },
+      {
+        "date": "2026-03-17",
+        "close": 181.92999267578125
       }
     ],
     "name": "NVIDIA Corporation"
