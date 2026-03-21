@@ -2,73 +2,66 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-20T12:36:25.039973+00:00",
+  "fetched_at": "2026-03-21T12:28:04.749888+00:00",
   "news": [
     {
-      "title": "U.S. prosecutors charge Super Micro Computer employees with smuggling Nvidia chips to China - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2EwNHBwMjJ0dkFmMFctSDJHVjQ3NkdSRWJJNU44WGkwVlNnb25CQ01hcDV4QWlOcENyY0dwUEZXYk4wMXVKbWVtcmpQelMzS1p0VG1pc09JNnNqTWRxdldUc1lMek83VU1PTnBEWS0xMkJXNXNERVhxak9wNk9lbi1tbkRWN1RlQ0Z4czlRcXdyV196VXAyZVlzSFNxUdIBowFBVV95cUxPTEdWbkdtMGZ4TGVaR0wwMDZ0VUZ4bHNBSjhrNGZrR3dKSEd6MS01eUI2bGEzdGdCNmRHMU8yVUVxeXo2bVR4anR3c1ZBS1RhZ0xqRUdVYXktY28yc3M2Uk1MR1hkWWdreERxeXU0cmZ2RGRnd1ViQWhzMklQMS1GcjFBd2hXMlZZcURzZzk3TnpyR2FCNXJjQ2hmNXRNekRZNEhR?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNd2EwNHBwMjJ0dkFmMFctSDJHVjQ3NkdSRWJJNU44WGkwVlNnb25CQ01hcDV4QWlOcENyY0dwUEZXYk4wMXVKbWVtcmpQelMzS1p0VG1pc09JNnNqTWRxdldUc1lMek83VU1PTnBEWS0xMkJXNXNERVhxak9wNk9lbi1tbkRWN1RlQ0Z4czlRcXdyV196VXAyZVlzSFNxUdIBowFBVV95cUxPTEdWbkdtMGZ4TGVaR0wwMDZ0VUZ4bHNBSjhrNGZrR3dKSEd6MS01eUI2bGEzdGdCNmRHMU8yVUVxeXo2bVR4anR3c1ZBS1RhZ0xqRUdVYXktY28yc3M2Uk1MR1hkWWdreERxeXU0cmZ2RGRnd1ViQWhzMklQMS1GcjFBd2hXMlZZcURzZzk3TnpyR2FCNXJjQ2hmNXRNekRZNEhR?oc=5\" target=\"_blank\">U.S. prosecutors charge Super Micro Computer employees with smuggling Nvidia chips to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1dRY002dkdydm5MOTFIS2IyUUl5WnI4RGxlenNGNGNLcGJ5bXpkeVFSMUl6TnFHbmJ3d3VINmZaME5taHBBdDIyUHdSOFQxVHIya05vY21ZWnpuNVhZZXJHRDhpUnBjUV9rQWFhUG5NS0cxbFZmMXUwWHV0ZzQ3YUIyNTh5dDEzUkw4Q1ZMaFVXa2Qwc2c?oc=5\" target=\"_blank\">Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLXZBbTEyRGh5UXNLNGlQdlRSUUdkdG84RUp2VFJscGRiMzh5eURqX1Z4M3J3bGdpSDZDRjlic0ZXbEJjT2ZhZGpwdWZkWUdCb3BLRnVWNnZyTXAtUDNYMHY2bXozX2didzk3MkpYN1oyUGRPU2RNSFR1TlBqeUd3a0UxSXEycXJLVWFFODNDbTJjSHZzbWNLNmMzbGV0NnZVSDJSZ3JfY0JobF9vN25WQ1VFeThpS0pkczBxclA0MGVCNzZLOHZrNmw5QUJmeHNhY0FFUE95QlJMNVNyQmFXSHhuTE12ZUhtWlpB?oc=5\" target=\"_blank\">Tech stocks today: Supermicro stock dives after US charges employees with smuggling Nvidia chips to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-03-19T22:21:28+00:00",
+      "title": "Super Micro co-founder indicted on Nvidia smuggling charges leaves board - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kM01TMy0xdHlrdjI5WGZkd3FOV1JvdU9aQlBQTjVrQzNfYXFaR3N0aVJXY0ZXbmhOZ1pRODNITFU0M0VFaUszV1JzRjBvbnpBYmtHOTBaT2pEVUVGQUJ5bS0tMlRtLWVUejNXczhodzFLMnJSMktwSm82NkHSAYIBQVVfeXFMT3RHZmh4Z2pSWkowcks1RFFrZlhwbWdCWGxMMzZRYWlkQnlZa1RiT3ZXQkNzWmpWcFFvX2FpRnpiOG5BaUU3eEtJWHF2UXFzSTZtY0pKa1hUbTB5N3dFLWhMQ096NVdNamxvOWMzRUpuQ3hvemRNY1BEVkYzR0w1cGpZUQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1kM01TMy0xdHlrdjI5WGZkd3FOV1JvdU9aQlBQTjVrQzNfYXFaR3N0aVJXY0ZXbmhOZ1pRODNITFU0M0VFaUszV1JzRjBvbnpBYmtHOTBaT2pEVUVGQUJ5bS0tMlRtLWVUejNXczhodzFLMnJSMktwSm82NkHSAYIBQVVfeXFMT3RHZmh4Z2pSWkowcks1RFFrZlhwbWdCWGxMMzZRYWlkQnlZa1RiT3ZXQkNzWmpWcFFvX2FpRnpiOG5BaUU3eEtJWHF2UXFzSTZtY0pKa1hUbTB5N3dFLWhMQ096NVdNamxvOWMzRUpuQ3hvemRNY1BEVkYzR0w1cGpZUQ?oc=5\" target=\"_blank\">Super Micro co-founder indicted on Nvidia smuggling charges leaves board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwNBVV95cUxQTTV6d21TRE9Ra0g0WmlPTGZSWjFvanU3VmlsNFc0MExWZ1JFekw3WU1lNERydEFsQlg2c1l2cmpWWnBLcFJjTkZNVDUwbGdhQmFDT2JpaWdjNkdRVzhmR19mSmVGYmJiZEcwRmFXanBPZEw4RXptRTM0REJFUGtwT0NHaXhLd19tM2FZcUpuTEkzN3lSWFN3MXJFcFh0Z3lKRVhMV1ZVNDlEYll5RnpKLURrd0xUeXI5aEMzZmI3em1WNlF4Q25aUHY0c3pRYXE5ajQ1S2FRRGgxaDdQdTlSWTVwVXhNVE1raVg3UzY3TkxheWk5dURKUkRFMENDMGNFZGFNeVZFWGtMODVtYThTdmlJdEZTSmFUcmNpQWlPZ3dnUWVqbjd6QmRxZURRV3kyb3VwM19vemR5QTZQQlFpUW5CR292SThWb3U2OGN1amlGNWR4U3loaXFfRDZNMDN1NjN1cmJCUXJFeHlfRGJoTnphelBhN29DZ2VsQ2FyOW5iRFZkaUk3LURWN19IeUpHYVFYQ21RYzd4UDNXT0RUYjZ5MWF4RkE?oc=5\" target=\"_blank\">Tech Exec Accused of Smuggling Nvidia Chips to China Resigns From Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWEVxMDdsc3VyV3ZoSERtLVh0YUpLM1Q4Y3ZhN1RidmVjOExLbExva0xHQnVtTlJMeHBDQ2hiNThlN29yUWZjbWFnSGlyVmNkcWdOdlhld3V0RGNneGdIQ1JaTWVCcjVZNklaemNzV1J6M19rUHZ3MmsyY1hZb1JiSm9NcmRBUHNsVGJVUll0bVRMQW4zSTlUa0VubGFOQmwyR2wwSzRLNWNZN1hHeVk4UmNoYkMxb3BxUzlGWlFISXZXMjdiY1U2dENlZlNuc0NvRjZkREF4OFIwRzdvTnd0cWk0Szc?oc=5\" target=\"_blank\">Supermicro stock plunges 33% after US charges co-founder with conspiracy to smuggle Nvidia chips to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-03-20T20:53:17+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Rosenblatt resets Nvidia stock price target for 2026 - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzdrc09LUGVqUEVzZlJsUVAtbWoyZ29qamxTVE1RUnFXeEJUV180eEZqaFhkcmI3WUxvREF4Y2tmNGwyR3BObXptZHBTT1pCOV9ReFY1LVZJVzJpc3pqeXpPejQzSk9fY3N0X2tsdzF3MTkzUXNBd0RDemg3cHYwOXplQ1BBMFc3UjVuZ1JR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzdrc09LUGVqUEVzZlJsUVAtbWoyZ29qamxTVE1RUnFXeEJUV180eEZqaFhkcmI3WUxvREF4Y2tmNGwyR3BObXptZHBTT1pCOV9ReFY1LVZJVzJpc3pqeXpPejQzSk9fY3N0X2tsdzF3MTkzUXNBd0RDemg3cHYwOXplQ1BBMFc3UjVuZ1JR?oc=5\" target=\"_blank\">Rosenblatt resets Nvidia stock price target for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "published": "2026-03-19T18:33:00+00:00",
-      "source": "Yahoo Finance Singapore"
+      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPai11OTNoZkRWMDJhOElVWjZJbFlVTlROTHl4VklnMVRvaFRyM0RwTGVhQmoxbjl2YU5GS0tPR1l1V1hYM1Ruc3R2dlltUEE2UmozM0ZDUHVNbnBXSUloRlBVMGdPREFPU21VUzh2bWJqY3NOd0hBekdxdTdSSzlxLWd6NFlJWWI3ZXg2MWpRMXVxcEk2YU1pQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPai11OTNoZkRWMDJhOElVWjZJbFlVTlROTHl4VklnMVRvaFRyM0RwTGVhQmoxbjl2YU5GS0tPR1l1V1hYM1Ruc3R2dlltUEE2UmozM0ZDUHVNbnBXSUloRlBVMGdPREFPU21VUzh2bWJqY3NOd0hBekdxdTdSSzlxLWd6NFlJWWI3ZXg2MWpRMXVxcEk2YU1pQQ?oc=5\" target=\"_blank\">Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUFWaFVuNVVudUUyRW4wU05ZaExad3VZQ0dONzVaTFplY203Zko1b3BWSW5VMXdFbmZHYnlfN0FyTE5fcmxkVjRRTXN3eXFYLUZ4ZldvZVV3cEhXNVFQelVnSkpXVXNRUTFESTJzaDNpS1VZLVA1b0RJOXdGWWtMQ2JneVJQVlk0aUlqTmdCZw?oc=5\" target=\"_blank\">Nvidia Confirms DLSS 5 Is Re-Drawing Games, and That Sucks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWRIT0xoSXV3MXVmMld4VlhfMTFUUlhXSEZTVzEwX1ZGS3ctZE1vUmgzZkQtcGtDS2ZmbDVyRjlSWUZMVlpRNEsxRDM1azNhVklPQU9UeW93elNTaElqQTU0M3ZVZVJOUmF5Ym5KczRhSGNfS1NKWThpTVd2TjVSbmJSQWZNRU5kM0Q1TnRJRnpKWmtndWfSAZsBQVVfeXFMUDFUNW5mdDZTd29MUHlOaEI2TzdDaEowTWtnS0c5N0o3RVlGRWVycWJCbWZQaEFJRTVfQ3ExQ3UzUTRxSkhoWVR0aDdvN194SUZvNFhhMDBYamc2aV90WXlyVjlMdFNDT1VZRC0yU3VmTm00aHJHY3Fnd2s0SUVXekE1T1VlbzFTTmRaYVM2bnFUeThBa2ctNzhWYm8?oc=5\" target=\"_blank\">NVIDIA DLSS 5 Takes 2D Frame and Motion Vectors as Input</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font></li></ol>",
+      "published": "2026-03-20T19:13:00+00:00",
+      "source": "WIRED"
     },
     {
-      "title": "Micron, Swarmer, Lumentum, Trade Desk, Macy’s, Williams-Sonoma, and More Stock Movers - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNREFfUHg3TFM0TDdhX0VwUk1WT0d0d0ozUW9aNERRQjVUVTlVVFlvZHZPMkgwY1pCSGVSUFNHQTRtcXlENG9wcHgwT0ozOGtZa01NR0tLRlVYVEp6S3dXRTdqckdfc2U3VDd4VDd3V0o3ekY1anNJTnd0MWREUFdwSjJUNjh4MGVNV0dfU1JJSTNZb1lmNnZueV9Rd3BIWjI2N2h4bldpUFloVVo5VHl3OHhRNWY3QzhkdTVLTVh3R2dkU2E1ZWdCcC1rUi1oS3luQ0txRklXTDdBeTRFV29iYTIzNjQzb3hqWUgxY1VVWUhLWWZpMHN4aGQ4QjRCRTdrT0s3NkpiTF9kbE5aTnQ3QnUtak92YkMxU0FIa09qdkpGS0tXY3RxRUtxeWUtemkxOXZzZ01ZWkJ6OEJTWkV3WWVCX0t2ckRkdk84TS1kWUd2OXR3ZTE4Yy1PaHdjS0pGclk4S0w5YVN3YTlfTDZIYVN0MUk2Rzhjalg1ZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxNREFfUHg3TFM0TDdhX0VwUk1WT0d0d0ozUW9aNERRQjVUVTlVVFlvZHZPMkgwY1pCSGVSUFNHQTRtcXlENG9wcHgwT0ozOGtZa01NR0tLRlVYVEp6S3dXRTdqckdfc2U3VDd4VDd3V0o3ekY1anNJTnd0MWREUFdwSjJUNjh4MGVNV0dfU1JJSTNZb1lmNnZueV9Rd3BIWjI2N2h4bldpUFloVVo5VHl3OHhRNWY3QzhkdTVLTVh3R2dkU2E1ZWdCcC1rUi1oS3luQ0txRklXTDdBeTRFV29iYTIzNjQzb3hqWUgxY1VVWUhLWWZpMHN4aGQ4QjRCRTdrT0s3NkpiTF9kbE5aTnQ3QnUtak92YkMxU0FIa09qdkpGS0tXY3RxRUtxeWUtemkxOXZzZ01ZWkJ6OEJTWkV3WWVCX0t2ckRkdk84TS1kWUd2OXR3ZTE4Yy1PaHdjS0pGclk4S0w5YVN3YTlfTDZIYVN0MUk2Rzhjalg1ZA?oc=5\" target=\"_blank\">Micron, Swarmer, Lumentum, Trade Desk, Macy’s, Williams-Sonoma, and More Stock Movers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-03-20T07:21:44+00:00",
+      "title": "Why Nvidia Stock Is Stuck in a Trading Range—and What Could Finally Break It Out - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOa3hHUXdvNHNSTXNVUHAwY3BKQkdRd1JCWXdvVWZRVEd0eWo5d3NiYVlxbElIdG5MSGZzWDVPLUluellkRFFDQzg2SGxaNXozT2o5WUQ1US0wVUt4WTR1UU9Qa3RsOFhmZlFFbFpjdGtyakdHUGg1VUZoNWY2Vzd0LUZvYm5TMjRZdEtSb2ItNmxJSkNYYy1fUVVPTkFJX0ZEcTlZbW9BX2lUMnpMaDU1YlRzWVlkQzlmUDluVnZoM3pXMmhTNlYxZkRsV2VURm14eU55NkxyTVVONllVbkxabGN4RFFyZER1YVdYRnVoZHVyTFIwMjFLcmw0cXdzTmVVTmJrYkIwZk5GWldaQTFUTjdZdGNQWlJZT2MtUHRwRE5UalRGVlZTamxET01VQTJMRVd0RzlJSXA5ZTgxVzVyQWl3anA5UnRXbUJrVGlMODV3N0lXbklQa1pvaDd6WTc0Z1FjVkN3aUE2VmlvdjRjOUFPTFJlNXBhaXBPUF9uTTA5dGF1VWlsVGt6NlU?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxOa3hHUXdvNHNSTXNVUHAwY3BKQkdRd1JCWXdvVWZRVEd0eWo5d3NiYVlxbElIdG5MSGZzWDVPLUluellkRFFDQzg2SGxaNXozT2o5WUQ1US0wVUt4WTR1UU9Qa3RsOFhmZlFFbFpjdGtyakdHUGg1VUZoNWY2Vzd0LUZvYm5TMjRZdEtSb2ItNmxJSkNYYy1fUVVPTkFJX0ZEcTlZbW9BX2lUMnpMaDU1YlRzWVlkQzlmUDluVnZoM3pXMmhTNlYxZkRsV2VURm14eU55NkxyTVVONllVbkxabGN4RFFyZER1YVdYRnVoZHVyTFIwMjFLcmw0cXdzTmVVTmJrYkIwZk5GWldaQTFUTjdZdGNQWlJZT2MtUHRwRE5UalRGVlZTamxET01VQTJMRVd0RzlJSXA5ZTgxVzVyQWl3anA5UnRXbUJrVGlMODV3N0lXbklQa1pvaDd6WTc0Z1FjVkN3aUE2VmlvdjRjOUFPTFJlNXBhaXBPUF9uTTA5dGF1VWlsVGt6NlU?oc=5\" target=\"_blank\">Why Nvidia Stock Is Stuck in a Trading Range—and What Could Finally Break It Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFU2SEk0MjlrYTJmQU5TY2NORnBlLTdLNTk4bi1lVXp6U2xsNUppQ0tuZEZqTzN3VmhoRk02azhxRkxNYlp2VVNUVmttMy0wWk5jakluai1rY25HdnJjWlJhQ3pvVFpUdnkwc3ZPQ3ZjcFF3aDhfazhPVXM4NGNET3B2YU1xWTdaQnZRYWJ0SmQ4VVBOR3ZTZA?oc=5\" target=\"_blank\">Prediction: This Will Be Nvidia's Stock Price by the End of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOY1ZFbnNWMDJGYmtDaWdZTERseUx3amV3Z2RNX29mQWRiLXJjb0x2RDdvOUdDYnNYRzNCNXR0djNfYTJXcEMxanFVeUh0d3lHM0MtSHQxMG1NcDBraEFhY2hzbWRlX2hIRDd3SkoxV3FiQzR6c1NVTFJMeUstVWRvWXNfblBPWGYzSGtSMFFLWmItN2U5QnZOMDBVNXF4Zw?oc=5\" target=\"_blank\">New Street Research Adds NVIDIA (NVDA) to Best Ideas List for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-03-20T18:15:00+00:00",
       "source": "Barron's"
     },
     {
-      "title": "Nvidia’s 3 Key Catalysts Failed to Boost the Stock. This Big Hope Might. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNazZoV2hFazRBNGI3VTRGODRmZ0dnX08wZEtzVkwzTnh2a2JfT0hlcjJFeTFCZFNwVlFrSXdxdnFGTldXX2E3aV9RcjhOR05ac1NEcVNwVkE0VjN6Y1V1OWF0c3hJY04wajdVRmhTM1BWTDFCZ1ByNEtPbi1iOXdrNFpHaEhNVVR6ZWtWbk1YM3ByNC1BU2dhSE5LaFg5V19yUTJ1SVFTNHg2NUFybUJJSlZKZTFYclhhV0NNc1ZQVGNVemtFd0VERGRuNkVEYzE0S0tNMGRsNWtBaDVGeEp6c1F6dWx2d1JrdDQ2LUhCR290aTdrSndJaDU1TThSS2p4a2h6ZHNWdVlXWFhSclF5aVl2cm9XQUFISGwzNEdFcGtCV2FaUW5XNDlQS01Qa2xTNU9hVEpGSmVhQnR4Nk16YUluNXZJOFJnQTVLMHJWdkVoU1JZZUZPRHNPcFpGQ2dHcDliQldaSnZ2MEZPeFd6cE9ROFRJSlNXcC1DTVd5dFFScExXOFJQX29RTG4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxNazZoV2hFazRBNGI3VTRGODRmZ0dnX08wZEtzVkwzTnh2a2JfT0hlcjJFeTFCZFNwVlFrSXdxdnFGTldXX2E3aV9RcjhOR05ac1NEcVNwVkE0VjN6Y1V1OWF0c3hJY04wajdVRmhTM1BWTDFCZ1ByNEtPbi1iOXdrNFpHaEhNVVR6ZWtWbk1YM3ByNC1BU2dhSE5LaFg5V19yUTJ1SVFTNHg2NUFybUJJSlZKZTFYclhhV0NNc1ZQVGNVemtFd0VERGRuNkVEYzE0S0tNMGRsNWtBaDVGeEp6c1F6dWx2d1JrdDQ2LUhCR290aTdrSndJaDU1TThSS2p4a2h6ZHNWdVlXWFhSclF5aVl2cm9XQUFISGwzNEdFcGtCV2FaUW5XNDlQS01Qa2xTNU9hVEpGSmVhQnR4Nk16YUluNXZJOFJnQTVLMHJWdkVoU1JZZUZPRHNPcFpGQ2dHcDliQldaSnZ2MEZPeFd6cE9ROFRJSlNXcC1DTVd5dFFScExXOFJQX29RTG4?oc=5\" target=\"_blank\">Nvidia’s 3 Key Catalysts Failed to Boost the Stock. This Big Hope Might.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-03-20T12:18:00+00:00",
-      "source": "Barron's"
+      "title": "NVIDIA Conference: Huang Sees Agentic AI Inflection, Cites $1T+ Blackwell-Rubin Demand Through 2027 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWJtVEtHdWU1aXhkRXdOeXlIVUlEMlU5MHYyS1JOaGs1bmlXaThGMnR0TjJXWEk1ZkQ4bTB0LTJoVGhhRnNNczhoeU9HZWotVkRrbVFjNFdsRzY1ZVhDTFhIMlFpdXZHWHd2a2FqQXlfWTRHWVFZSzU4ZE9HR0duYTdrbkNlRzd3RThvaUdmMGdaY1hXVjZjZjNydXQwc1FTeHNrWjdfUWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWJtVEtHdWU1aXhkRXdOeXlIVUlEMlU5MHYyS1JOaGs1bmlXaThGMnR0TjJXWEk1ZkQ4bTB0LTJoVGhhRnNNczhoeU9HZWotVkRrbVFjNFdsRzY1ZVhDTFhIMlFpdXZHWHd2a2FqQXlfWTRHWVFZSzU4ZE9HR0duYTdrbkNlRzd3RThvaUdmMGdaY1hXVjZjZjNydXQwc1FTeHNrWjdfUWQ?oc=5\" target=\"_blank\">NVIDIA Conference: Huang Sees Agentic AI Inflection, Cites $1T+ Blackwell-Rubin Demand Through 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-21T10:10:54+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia’s Huang Urges Tech Leaders to Avoid AI Fearmongering - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHNVejVqZV9yVU1JN1d0TGhIMHllMXV0WU5BNDhtNXFmZW1CZXozcDdWd1d5THpieWt5UXNhVEhxYTBONTNFWTlzVEVsSWhoUnhid0tlOWY2c09FTS00SmRYLUJ0ejd4ZjNMTEZlSllPMkt4cXV3OER1cmxQSzFJM1hjdF9walFYaGhhNWVNZE1BNVgwZFhFZW1fUEQ1ZzQ5TFVuTE9wV2JGZzhidE1jYjFB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHNVejVqZV9yVU1JN1d0TGhIMHllMXV0WU5BNDhtNXFmZW1CZXozcDdWd1d5THpieWt5UXNhVEhxYTBONTNFWTlzVEVsSWhoUnhid0tlOWY2c09FTS00SmRYLUJ0ejd4ZjNMTEZlSllPMkt4cXV3OER1cmxQSzFJM1hjdF9walFYaGhhNWVNZE1BNVgwZFhFZW1fUEQ1ZzQ5TFVuTE9wV2JGZzhidE1jYjFB?oc=5\" target=\"_blank\">Nvidia’s Huang Urges Tech Leaders to Avoid AI Fearmongering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-19T22:03:39+00:00",
-      "source": "Bloomberg.com"
+      "title": "Nvidia’s AI Yassification Feature Gives “Starfield” Character Grotesque “Giga-Nostril” - Yahoo News New Zealand",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV294VVBRT2FDc29namxMdF9QbkN5bnlFRFVKZThadUlzcjNxMlNEMklZRW9WSWwycHM2el92RDBjMElpTlloOGRfWTVYWFptc21DS2hCVlEtQW00bXlnd1dyQ0hJMlpfbFFCOHpCcjVwN002cGZPY1ByVkMtcGNfT0M2SHM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPV294VVBRT2FDc29namxMdF9QbkN5bnlFRFVKZThadUlzcjNxMlNEMklZRW9WSWwycHM2el92RDBjMElpTlloOGRfWTVYWFptc21DS2hCVlEtQW00bXlnd1dyQ0hJMlpfbFFCOHpCcjVwN002cGZPY1ByVkMtcGNfT0M2SHM?oc=5\" target=\"_blank\">Nvidia’s AI Yassification Feature Gives “Starfield” Character Grotesque “Giga-Nostril”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News New Zealand</font>",
+      "published": "2026-03-21T11:00:00+00:00",
+      "source": "Yahoo News New Zealand"
     },
     {
-      "title": "Nvidia CEO Jensen Huang says OpenClaw is 'definitely the next ChatGPT' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2Zub1RVNE1hRXo5a3pRR3lpRWt1YnFWYkU5TjlRMS0tNFdXOWlDVEN1eFA3OVNtbUh3ZThQSG5QYXFzYkdSa2x6aEtLSlZMVmptYjdsXzAyZ3hFaVVrb25vSHJVaEpHWDYyUkMySXdPakdwZXYxeGVZRVFTRkIyeGdZbFRBeGxYd3BnQW9hbm85bXBldFJ0NjVaNWw4Sjg3R3VGMnBUanDSAa4BQVVfeXFMUDZyWEdkQzdWNTY1YXQzdFlsRS1VamhqQVl2blVDTWJ4UVJrVVhGVy1LbzJ4SFlBWUVKVUZ1Z3NWamh0WGVvTzl1aTJKa21JQlAteUpjZi04VDY5QnI2YVU4R1VsNm9GYWZUeVFpTDMzbXAweXhyZ0JvUFI4M0dOZWhJcG4wTlZtT0FEYTlpMzgxdWtCR2hfWFEtTl9WeUszNVlEMWl2NVcwaW1pUEZR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2Zub1RVNE1hRXo5a3pRR3lpRWt1YnFWYkU5TjlRMS0tNFdXOWlDVEN1eFA3OVNtbUh3ZThQSG5QYXFzYkdSa2x6aEtLSlZMVmptYjdsXzAyZ3hFaVVrb25vSHJVaEpHWDYyUkMySXdPakdwZXYxeGVZRVFTRkIyeGdZbFRBeGxYd3BnQW9hbm85bXBldFJ0NjVaNWw4Sjg3R3VGMnBUanDSAa4BQVVfeXFMUDZyWEdkQzdWNTY1YXQzdFlsRS1VamhqQVl2blVDTWJ4UVJrVVhGVy1LbzJ4SFlBWUVKVUZ1Z3NWamh0WGVvTzl1aTJKa21JQlAteUpjZi04VDY5QnI2YVU4R1VsNm9GYWZUeVFpTDMzbXAweXhyZ0JvUFI4M0dOZWhJcG4wTlZtT0FEYTlpMzgxdWtCR2hfWFEtTl9WeUszNVlEMWl2NVcwaW1pUEZR?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang says OpenClaw is 'definitely the next ChatGPT'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-03-17T22:53:48+00:00",
+      "title": "Jensen Huang says he would be 'deeply alarmed' if his $500,000 engineer did not consume at least $250,000 of tokens - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUEhHN3VFTWdQczRyaTRXaVVDTzU1amM4WkpBeklhcHdyd2UtbGc2dTR3aGRkaG5nenFyWHpCWXJybWwzTTFqbzZ4VWdvUUtXV09UQjQ0aml0UmJGVjVObnlndXBiakJJajdvNHlha3pvaGZqQ3NMejRJTmc0R2xMdWt4Q1hNTEdlT1Q4V0h0MHAzZHB1OFBnUHpFXzM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUEhHN3VFTWdQczRyaTRXaVVDTzU1amM4WkpBeklhcHdyd2UtbGc2dTR3aGRkaG5nenFyWHpCWXJybWwzTTFqbzZ4VWdvUUtXV09UQjQ0aml0UmJGVjVObnlndXBiakJJajdvNHlha3pvaGZqQ3NMejRJTmc0R2xMdWt4Q1hNTEdlT1Q4V0h0MHAzZHB1OFBnUHpFXzM?oc=5\" target=\"_blank\">Jensen Huang says he would be 'deeply alarmed' if his $500,000 engineer did not consume at least $250,000 of tokens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-03-20T05:03:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXgycEFHeHl6YldWWkNudlZzSXQzUDFFSzZ1czhKcUF5VUk4ck00V3FGRFZqX3E5VmxhUW1WYTBfLTg0a0QzRWhabmlSRkNqdjhWYjZKdHVPLUhaRUN1VkNtRmQ0WWtLT1ZBOXdINU5LdUZFc0REbXp4ZWU3SVFQUkFaQXFkYV9VT0ZIX1d5bjhjNXN2QVhrQnVsXzNxS1pCWWx6QVVJdzg0TGt4d1lSWVQxcW_SAboBQVVfeXFMUEZVc1RtbkgyenhHaHBuWnhXTXFET0pSdE1RSzRyM2NFSHFxMGdmdHdRZVRWZkwzOVRxQ2M1bFAxSUZ1NTBxbUlaYTlPbTRMbkRZdnBac3NNZHdrTTk1b1Y0UmpzQ0U4OFRzU2swVEl4U0RyTm1oSWlnUUlia2NjNkZBeTU2N0hKV3JkalFjLUtHR0NRaUlHT3VyS2ZSZmdBSVVoTllFQmRoMG9PLUpRak1tWGZmMndGRnBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXgycEFHeHl6YldWWkNudlZzSXQzUDFFSzZ1czhKcUF5VUk4ck00V3FGRFZqX3E5VmxhUW1WYTBfLTg0a0QzRWhabmlSRkNqdjhWYjZKdHVPLUhaRUN1VkNtRmQ0WWtLT1ZBOXdINU5LdUZFc0REbXp4ZWU3SVFQUkFaQXFkYV9VT0ZIX1d5bjhjNXN2QVhrQnVsXzNxS1pCWWx6QVVJdzg0TGt4d1lSWVQxcW_SAboBQVVfeXFMUEZVc1RtbkgyenhHaHBuWnhXTXFET0pSdE1RSzRyM2NFSHFxMGdmdHdRZVRWZkwzOVRxQ2M1bFAxSUZ1NTBxbUlaYTlPbTRMbkRZdnBac3NNZHdrTTk1b1Y0UmpzQ0U4OFRzU2swVEl4U0RyTm1oSWlnUUlia2NjNkZBeTU2N0hKV3JkalFjLUtHR0NRaUlHT3VyS2ZSZmdBSVVoTllFQmRoMG9PLUpRak1tWGZmMndGRnBn?oc=5\" target=\"_blank\">Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-20T07:57:45+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Nvidia (NVDA) CEO Jensen Huang Finds It Harder to Wow His Audience at GTC - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRklKT3F2Qmh1amZMRTBFY241T1F2Q0ozbXd6S2VGRjFOcUFlMThhNkFhWG5iVzhJZ3FSNnh2YWdzTXJkRDdOUi1zZ3NyaGM5a3M2Y0I2RWFsMTkzU01MQm5OUmhaZmlOc256VnVWejI1R1ZBR0RvQTBqSmJzeW5oTHFzTVRGbkh3UzVpZm9HYkltck5BWXotZGpqTUdjeTdwbnpuNEZyMEVMWkdwUmhtNk5JWUJvR2pwTnFvU0YydURYdWphVGU4bjdmSVBhVW8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRklKT3F2Qmh1amZMRTBFY241T1F2Q0ozbXd6S2VGRjFOcUFlMThhNkFhWG5iVzhJZ3FSNnh2YWdzTXJkRDdOUi1zZ3NyaGM5a3M2Y0I2RWFsMTkzU01MQm5OUmhaZmlOc256VnVWejI1R1ZBR0RvQTBqSmJzeW5oTHFzTVRGbkh3UzVpZm9HYkltck5BWXotZGpqTUdjeTdwbnpuNEZyMEVMWkdwUmhtNk5JWUJvR2pwTnFvU0YydURYdWphVGU4bjdmSVBhVW8?oc=5\" target=\"_blank\">Nvidia (NVDA) CEO Jensen Huang Finds It Harder to Wow His Audience at GTC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-20T11:00:01+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2dzbTJCb0xfTERTem8xdnRIcHozOEIwNy12Zm12QWJ1SS1KRjRrMzdTMVkwVjl1TUpHR3VuRU03VFhUSG16WlpQZmFLbENfU1ZDUlhUUHNodG5mcXhwd1Q3MVBpQ2xpVVY2RDlFbnRhOXlEeDl1THJ2azVtNk4yNzI1MzFVb2xmQVFNNWNOWUdUaUZuR0s4RzFYT0FCV05rMEtmOUhuai1Gcnp6ZHFDamozQmstOU95OVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2dzbTJCb0xfTERTem8xdnRIcHozOEIwNy12Zm12QWJ1SS1KRjRrMzdTMVkwVjl1TUpHR3VuRU03VFhUSG16WlpQZmFLbENfU1ZDUlhUUHNodG5mcXhwd1Q3MVBpQ2xpVVY2RDlFbnRhOXlEeDl1THJ2azVtNk4yNzI1MzFVb2xmQVFNNWNOWUdUaUZuR0s4RzFYT0FCV05rMEtmOUhuai1Gcnp6ZHFDamozQmstOU95OVE?oc=5\" target=\"_blank\">Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-03-19T21:31:45+00:00",
-      "source": "Reuters"
+      "title": "Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDVUWVNra1UweUltXy1FNTRtVVByekRsZ2llT3V3aUxhZGJ4dmt4SlM4MEhkR0NPX3k5MnNKbnFtLVIyaUpXcXRPV1V0aFRjLU1mYzhraXJ1aHJ5RXItVGotTEdOZHNTX20tcTRqeFJSNDV5OUJPR2hjQVVERjJ3clh1YUxuME0tYWNWdjJJZ1RWSHhscTJQdXVxYklmblRCSF9feWtlUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDVUWVNra1UweUltXy1FNTRtVVByekRsZ2llT3V3aUxhZGJ4dmt4SlM4MEhkR0NPX3k5MnNKbnFtLVIyaUpXcXRPV1V0aFRjLU1mYzhraXJ1aHJ5RXItVGotTEdOZHNTX20tcTRqeFJSNDV5OUJPR2hjQVVERjJ3clh1YUxuME0tYWNWdjJJZ1RWSHhscTJQdXVxYklmblRCSF9feWtlUQ?oc=5\" target=\"_blank\">Nvidia CEO Wants Tech Execs to Stop Laying Off Workers and Scaring People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-03-20T20:10:56+00:00",
+      "source": "Gizmodo"
     }
   ],
   "product_launches": [
-    {
-      "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-03-20T10:54:54+00:00",
-      "source": "MSN"
-    },
     {
       "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
@@ -77,10 +70,24 @@
       "source": "NVIDIA Newsroom"
     },
     {
+      "title": "Nvidia updates data center product roadmap following LPU launch at GTC 2026 - Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5\" target=\"_blank\">Nvidia updates data center product roadmap following LPU launch at GTC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+      "published": "2026-03-20T18:08:50+00:00",
+      "source": "Data Center Dynamics"
+    },
+    {
+      "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-03-20T10:54:54+00:00",
+      "source": "MSN"
+    },
+    {
       "title": "CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5\" target=\"_blank\">CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
-      "published": "2026-03-16T23:26:08+00:00",
+      "published": "2026-03-17T19:11:57+00:00",
       "source": "Stocktwits"
     },
     {
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5\" target=\"_blank\">NVIDIA Launches Space Computing, Rocketing AI Into Orbit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-03-16T20:08:33+00:00",
       "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026 - Venturebeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWFjM0hMemZzSi1iOTltdDdzWlVSdWlLR2x1OHNzTGpONWpRTEdXcElZNjJKRzZzMkc1R3hUM291am1hSzh0NFB6WUE3Tno4TEhMZFV6V0ZkNTBrUXVNTFZxdjVmOUcyWmNGTDFudTlaY25RZl9wdWctbEtWTXJNbG9oZGtoX2FESVBQRF96RXlVNm5yZmNGTUFXZlp6X3Q1SXNaT3kyZXJxVEo5aW9QUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWFjM0hMemZzSi1iOTltdDdzWlVSdWlLR2x1OHNzTGpONWpRTEdXcElZNjJKRzZzMkc1R3hUM291am1hSzh0NFB6WUE3Tno4TEhMZFV6V0ZkNTBrUXVNTFZxdjVmOUcyWmNGTDFudTlaY25RZl9wdWctbEtWTXJNbG9oZGtoX2FESVBQRF96RXlVNm5yZmNGTUFXZlp6X3Q1SXNaT3kyZXJxVEo5aW9QUw?oc=5\" target=\"_blank\">Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-      "published": "2026-03-16T20:30:37+00:00",
-      "source": "Venturebeat"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-19",
-      "close": 178.55999755859375
+      "date": "2026-03-20",
+      "close": 172.6999969482422
     },
     "history": [
-      {
-        "date": "2026-03-11",
-        "close": 186.02999877929688
-      },
       {
         "date": "2026-03-12",
         "close": 183.13999938964844
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-19",
         "close": 178.55999755859375
+      },
+      {
+        "date": "2026-03-20",
+        "close": 172.6999969482422
       }
     ],
     "name": "NVIDIA Corporation"
