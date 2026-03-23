@@ -2,63 +2,63 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-22T12:29:44.229674+00:00",
+  "fetched_at": "2026-03-23T12:42:34.990384+00:00",
   "news": [
     {
-      "title": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWRFb3pGZ1I2eVZEdVhkSDZpOTNYcmxFZG1fSWRqWS11akx4UEllYUQwdUdiMDZDR01VZ0FkOXpwZWx2TjNscDQyTFBOclZNR25GdUJOMGZhcUs0eDZuY2RrVzFpdE5CQVlVaktFNWhsaUNsM3lINVg0TkZHU2hvM0lSWnA0VmxjMHVIWEU5SFRuU2txNUJWcnowdzNaSXBfSVlsWDY4X0pyMWRFbk5QZDZB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObWRFb3pGZ1I2eVZEdVhkSDZpOTNYcmxFZG1fSWRqWS11akx4UEllYUQwdUdiMDZDR01VZ0FkOXpwZWx2TjNscDQyTFBOclZNR25GdUJOMGZhcUs0eDZuY2RrVzFpdE5CQVlVaktFNWhsaUNsM3lINVg0TkZHU2hvM0lSWnA0VmxjMHVIWEU5SFRuU2txNUJWcnowdzNaSXBfSVlsWDY4X0pyMWRFbk5QZDZB?oc=5\" target=\"_blank\">How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
-      "published": "2026-03-18T16:09:51+00:00",
-      "source": "NVIDIA Developer"
-    },
-    {
-      "title": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVWg2aXVGMW4tZmZnTEo1SUN3R3VEM1JQMEVBVGNndjk0X3R3OFZmLWNWblRxVTFnNzBnNWNRaXlyVGhlUEN3azB4RWV4UXhZb3RpTE1LOUE3d19jZF85T3J6TTlCY2RTSTNBaEpXQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVWg2aXVGMW4tZmZnTEo1SUN3R3VEM1JQMEVBVGNndjk0X3R3OFZmLWNWblRxVTFnNzBnNWNRaXlyVGhlUEN3azB4RWV4UXhZb3RpTE1LOUE3d19jZF85T3J6TTlCY2RTSTNBaEpXQQ?oc=5\" target=\"_blank\">More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
-      "published": "2026-03-17T17:04:11+00:00",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "NVIDIA Ignites the Next Industrial Revolution in Knowledge Work With Open Agent Development Platform - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QU1ZDOTZ5U2o4WjctUWZrNThCd1dfeXBONHhJWTFNcVhNVkw4UFR4RlZsbkxWaV9nVE9zT2xkdEVPOXVzUUltcWZCeXVzQTNBS09vUlFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QU1ZDOTZ5U2o4WjctUWZrNThCd1dfeXBONHhJWTFNcVhNVkw4UFR4RlZsbkxWaV9nVE9zT2xkdEVPOXVzUUltcWZCeXVzQTNBS09vUlFR?oc=5\" target=\"_blank\">NVIDIA Ignites the Next Industrial Revolution in Knowledge Work With Open Agent Development Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-17T01:55:53+00:00",
-      "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDlBSVgwSGlVRUdTRklqbmYxMmtpQzdiVmF4dmY4RE4xNVA4eFg2WjRqVE0xNkNUejJ3Z2d3T1FZTWFfZDdaaG90V0pUeC1VUzd3dHNYT3RPSmhkM2t1aUs2YlllbnJVRVpwdnhvZC1xZEJnRXVDcmdoV25UQVRMLWJGdWs3c0JvVUItLWFjTEVILTE4YXZGSS1LV0lQQ29GWV9TTXNCMjg1bWViWmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDlBSVgwSGlVRUdTRklqbmYxMmtpQzdiVmF4dmY4RE4xNVA4eFg2WjRqVE0xNkNUejJ3Z2d3T1FZTWFfZDdaaG90V0pUeC1VUzd3dHNYT3RPSmhkM2t1aUs2YlllbnJVRVpwdnhvZC1xZEJnRXVDcmdoV25UQVRMLWJGdWs3c0JvVUItLWFjTEVILTE4YXZGSS1LV0lQQ29GWV9TTXNCMjg1bWViWmc?oc=5\" target=\"_blank\">NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-16T23:03:09+00:00",
-      "source": "NVIDIA Newsroom"
+      "title": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXgycEFHeHl6YldWWkNudlZzSXQzUDFFSzZ1czhKcUF5VUk4ck00V3FGRFZqX3E5VmxhUW1WYTBfLTg0a0QzRWhabmlSRkNqdjhWYjZKdHVPLUhaRUN1VkNtRmQ0WWtLT1ZBOXdINU5LdUZFc0REbXp4ZWU3SVFQUkFaQXFkYV9VT0ZIX1d5bjhjNXN2QVhrQnVsXzNxS1pCWWx6QVVJdzg0TGt4d1lSWVQxcW_SAboBQVVfeXFMUEZVc1RtbkgyenhHaHBuWnhXTXFET0pSdE1RSzRyM2NFSHFxMGdmdHdRZVRWZkwzOVRxQ2M1bFAxSUZ1NTBxbUlaYTlPbTRMbkRZdnBac3NNZHdrTTk1b1Y0UmpzQ0U4OFRzU2swVEl4U0RyTm1oSWlnUUlia2NjNkZBeTU2N0hKV3JkalFjLUtHR0NRaUlHT3VyS2ZSZmdBSVVoTllFQmRoMG9PLUpRak1tWGZmMndGRnBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXgycEFHeHl6YldWWkNudlZzSXQzUDFFSzZ1czhKcUF5VUk4ck00V3FGRFZqX3E5VmxhUW1WYTBfLTg0a0QzRWhabmlSRkNqdjhWYjZKdHVPLUhaRUN1VkNtRmQ0WWtLT1ZBOXdINU5LdUZFc0REbXp4ZWU3SVFQUkFaQXFkYV9VT0ZIX1d5bjhjNXN2QVhrQnVsXzNxS1pCWWx6QVVJdzg0TGt4d1lSWVQxcW_SAboBQVVfeXFMUEZVc1RtbkgyenhHaHBuWnhXTXFET0pSdE1RSzRyM2NFSHFxMGdmdHdRZVRWZkwzOVRxQ2M1bFAxSUZ1NTBxbUlaYTlPbTRMbkRZdnBac3NNZHdrTTk1b1Y0UmpzQ0U4OFRzU2swVEl4U0RyTm1oSWlnUUlia2NjNkZBeTU2N0hKV3JkalFjLUtHR0NRaUlHT3VyS2ZSZmdBSVVoTllFQmRoMG9PLUpRak1tWGZmMndGRnBn?oc=5\" target=\"_blank\">Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-20T07:57:45+00:00",
+      "source": "CNBC"
     },
     {
       "title": "The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOR2xrcl91RTJCNlpMbU53Vy1JdVY5YWZQTGxkcEdGNEI0dzNYbjdHZ2ktNW0zVTR1cVBFTDh2T19Nc3FJWi1RbXBoS0JFcHNCbjg2eUktS1EyNTBBN2pkTFdtUE8xOHZtaUc2UURzN0JsRTR3X2pILWZlOG5fd0NEWXY1OGpLQTRhckdVRE1uTEllVXhicndZdEZoeHdXeHJ2elozcnNkaFRwMDNMMGJvaU5KaWhjWVdENzlZRlVPN1BteEQyQV9Qem8yQ1NBTHgtU2xBNFF2eFhYb3FKMnRlaUtRWERlZUttTEp0UjNsTEFJZ2U4NV9sTUhOd1k2SlRDSmF3RTRqcWg5WUVmWXN0VVpoZ1dnUFRLVEo5MXFIVGJPZUVnUjZTaXpjY0hxMHFEc2I2NVFxZHU4Y2E2WG9hRU1ZQWVDV3haSC16NlhfSkRwR0xXd0hkRHlIbGFEUWRZNll2NE9UTi11UHFGMFpzUnktSlFZYTgxREk4ZjJBN2hxYkg1SHdiVEs0WGxjRHpBYkNFeTJxVWZFanB1b0hjOXZoRVozZjZoRUEyYjJLRWcxQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxOR2xrcl91RTJCNlpMbU53Vy1JdVY5YWZQTGxkcEdGNEI0dzNYbjdHZ2ktNW0zVTR1cVBFTDh2T19Nc3FJWi1RbXBoS0JFcHNCbjg2eUktS1EyNTBBN2pkTFdtUE8xOHZtaUc2UURzN0JsRTR3X2pILWZlOG5fd0NEWXY1OGpLQTRhckdVRE1uTEllVXhicndZdEZoeHdXeHJ2elozcnNkaFRwMDNMMGJvaU5KaWhjWVdENzlZRlVPN1BteEQyQV9Qem8yQ1NBTHgtU2xBNFF2eFhYb3FKMnRlaUtRWERlZUttTEp0UjNsTEFJZ2U4NV9sTUhOd1k2SlRDSmF3RTRqcWg5WUVmWXN0VVpoZ1dnUFRLVEo5MXFIVGJPZUVnUjZTaXpjY0hxMHFEc2I2NVFxZHU4Y2E2WG9hRU1ZQWVDV3haSC16NlhfSkRwR0xXd0hkRHlIbGFEUWRZNll2NE9UTi11UHFGMFpzUnktSlFZYTgxREk4ZjJBN2hxYkg1SHdiVEs0WGxjRHpBYkNFeTJxVWZFanB1b0hjOXZoRVozZjZoRUEyYjJLRWcxQQ?oc=5\" target=\"_blank\">The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNSFExMXJrbE1FbzhRalY3ejhoS2J5c2RSOVVGd0pZQ3hCZC1vWUR3RnJ4NTkxeWdRN1g1akwteVN2ZGR5NGtIMVppSlFrdUhWVHR0T25ObjJVS0JvM2VJQURRS2dzdmZSMnl0UjZicXpONUxsTjI2T1YyMThDdGJwTzg0d3FqR3EwNkFDYWw4a0otcTR4UGNsT0gzTGNUV0tKWmxVQmVacGdHOTc2TXNMZjl2Qzc0My1Ed3FueUhTcTNZZExKU0MxeVB1OVBrdEtFSms5SEdFcjU4bEE4eXdnVmZCd1ZyNnFrOXgtd19aOXRVTFUxUzBfSmdJbGt5cnM3bVZCZVhFZ29GSVFwSnpJYnhKZ0gwTURGbWQ5S2E5YXJhb1Q5MFVWYzEyUXZiYzZIVTRFdVFnYW9ZS2Nydy1ncHpVanlPdUo1bmN0cEJNYTJGMTMyV2dzVDdyd0hfbGR2UHM0akFKdjFYeUljTkxBYnJQcUNtaHJOM0twWmxaYUU5eUVmcUtoeGl0SWk4WVhyVGpzU19rTkN5RzJzUlhZdjMtekF6YzJKd2lJRjBGaGZzUQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxNSFExMXJrbE1FbzhRalY3ejhoS2J5c2RSOVVGd0pZQ3hCZC1vWUR3RnJ4NTkxeWdRN1g1akwteVN2ZGR5NGtIMVppSlFrdUhWVHR0T25ObjJVS0JvM2VJQURRS2dzdmZSMnl0UjZicXpONUxsTjI2T1YyMThDdGJwTzg0d3FqR3EwNkFDYWw4a0otcTR4UGNsT0gzTGNUV0tKWmxVQmVacGdHOTc2TXNMZjl2Qzc0My1Ed3FueUhTcTNZZExKU0MxeVB1OVBrdEtFSms5SEdFcjU4bEE4eXdnVmZCd1ZyNnFrOXgtd19aOXRVTFUxUzBfSmdJbGt5cnM3bVZCZVhFZ29GSVFwSnpJYnhKZ0gwTURGbWQ5S2E5YXJhb1Q5MFVWYzEyUXZiYzZIVTRFdVFnYW9ZS2Nydy1ncHpVanlPdUo1bmN0cEJNYTJGMTMyV2dzVDdyd0hfbGR2UHM0akFKdjFYeUljTkxBYnJQcUNtaHJOM0twWmxaYUU5eUVmcUtoeGl0SWk4WVhyVGpzU19rTkN5RzJzUlhZdjMtekF6YzJKd2lJRjBGaGZzUQ?oc=5\" target=\"_blank\">The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1kM01TMy0xdHlrdjI5WGZkd3FOV1JvdU9aQlBQTjVrQzNfYXFaR3N0aVJXY0ZXbmhOZ1pRODNITFU0M0VFaUszV1JzRjBvbnpBYmtHOTBaT2pEVUVGQUJ5bS0tMlRtLWVUejNXczhodzFLMnJSMktwSm82NkHSAYIBQVVfeXFMT3RHZmh4Z2pSWkowcks1RFFrZlhwbWdCWGxMMzZRYWlkQnlZa1RiT3ZXQkNzWmpWcFFvX2FpRnpiOG5BaUU3eEtJWHF2UXFzSTZtY0pKa1hUbTB5N3dFLWhMQ096NVdNamxvOWMzRUpuQ3hvemRNY1BEVkYzR0w1cGpZUQ?oc=5\" target=\"_blank\">Super Micro co-founder indicted on Nvidia smuggling charges leaves board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBUVlN4QUVUODZRQkNBQVAwOHNfX0JLQXc0eHhVLU01Uy1TaWpuQXdjam9ZSGRnZGdxaGdnTjVzcHh0YzFOcjBjUFY4NXpMbUJYVDBEcTY0bHRZblFCSm4yR0ZRbUxJU2MxQ213aGxPV3ZyS3RPODZZSVZ3?oc=5\" target=\"_blank\">Supermicro—accused of smuggling $2.5 billion in Nvidia chips and servers to China—has been here before, with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li></ol>",
       "published": "2026-03-21T17:18:00+00:00",
       "source": "WSJ"
     },
     {
-      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUgyODJtUGRDVkZmdVY0R0hiMzA5QmFzdFN0NC1JM3Znd0JfNmVHM2RIcTVVdkZWZE5xYlVEUnRKWkhmeVA2Nk02enp6aVVLUUxydE9iYW9xOFhUMXg1Vy0tUk96NElxTllRNVhuQUhIY19VRnRmeVR3NlZLNWdEZ20zNmlReld4bTVwQUlfMTFlZzJoQ1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUgyODJtUGRDVkZmdVY0R0hiMzA5QmFzdFN0NC1JM3Znd0JfNmVHM2RIcTVVdkZWZE5xYlVEUnRKWkhmeVA2Nk02enp6aVVLUUxydE9iYW9xOFhUMXg1Vy0tUk96NElxTllRNVhuQUhIY19VRnRmeVR3NlZLNWdEZ20zNmlReld4bTVwQUlfMTFlZzJoQ1E?oc=5\" target=\"_blank\">Why Wall Street wasn’t won over by Nvidia’s big conference</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-03-21T16:28:00+00:00",
-      "source": "TechCrunch"
+      "title": "Nvidia, Emerald AI team with energy companies on \"flexible\" data centers - Axios",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pd3NjckNfRFRqNzdRUXRZdVByVG91YXJMMm1oS2JPeklKOVhJXzJKZXB0R01abWJoZDAzRkl6U3VEQ0lfWHNiSW1EZUtkandOQzhidU03RUlvcHRmanNFOUxPUkYwWUpPRTd3MURRbkZZN29MUEtFellvZzRhdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1pd3NjckNfRFRqNzdRUXRZdVByVG91YXJMMm1oS2JPeklKOVhJXzJKZXB0R01abWJoZDAzRkl6U3VEQ0lfWHNiSW1EZUtkandOQzhidU03RUlvcHRmanNFOUxPUkYwWUpPRTd3MURRbkZZN29MUEtFellvZzRhdw?oc=5\" target=\"_blank\">Nvidia, Emerald AI team with energy companies on \"flexible\" data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-03-23T11:03:07+00:00",
+      "source": "Axios"
     },
     {
-      "title": "2 Semiconductor Stocks to Sell Before They Drop 32% and 43%, According to Wall Street Analysts (Hint: Not Nvidia) - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUVScE9RdFV0TkFIS3V2OXp0anRITVJVcFhxNWVxbkktQlNjTmc0bUlrZjR2ak1ZMmg5STJqMlVteEo5by0tTmRDNUpmRVRIRE8wbjdhSmJsa25WT0hfS0wxR1hBdXV1Rm5NeVl5X0MyREQtT0VKVFNmdEF0SF9LSVRYSTd5WUpUdElqNFZ5bXN0YUFxZUJzVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONUVScE9RdFV0TkFIS3V2OXp0anRITVJVcFhxNWVxbkktQlNjTmc0bUlrZjR2ak1ZMmg5STJqMlVteEo5by0tTmRDNUpmRVRIRE8wbjdhSmJsa25WT0hfS0wxR1hBdXV1Rm5NeVl5X0MyREQtT0VKVFNmdEF0SF9LSVRYSTd5WUpUdElqNFZ5bXN0YUFxZUJzVg?oc=5\" target=\"_blank\">2 Semiconductor Stocks to Sell Before They Drop 32% and 43%, According to Wall Street Analysts (Hint: Not Nvidia)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-22T08:34:30+00:00",
+      "title": "History Says Right Now Is the Turning Point for Nvidia's Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZU04QmdIckNvWUJjYTRVV0dwRGpldWo5MW96WDk3d3JiYV9Mai1KWXNVNWx6QjFscVpmWExPeTNob2hzTmZOVlVrZUY0SEV5azFQaHFKWXRwcVV3MVl3MFdVV1dMM3FaaGtGZ25YREFLampLY0xLeG8zUV9LMDhCbTV4NDlXTzJuMWtqeVRQSkxnWkRPSWcxRg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZU04QmdIckNvWUJjYTRVV0dwRGpldWo5MW96WDk3d3JiYV9Mai1KWXNVNWx6QjFscVpmWExPeTNob2hzTmZOVlVrZUY0SEV5azFQaHFKWXRwcVV3MVl3MFdVV1dMM3FaaGtGZ25YREFLampLY0xLeG8zUV9LMDhCbTV4NDlXTzJuMWtqeVRQSkxnWkRPSWcxRg?oc=5\" target=\"_blank\">History Says Right Now Is the Turning Point for Nvidia's Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-03-22T23:33:00+00:00",
       "source": "The Motley Fool"
     },
     {
-      "title": "Scaling Autonomous AI Agents and Workloads with NVIDIA DGX Spark | NVIDIA Technical Blog - NVIDIA Developer",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWdMMDRYVUJ0bDk0QS14QUtkMS1EakRHdFEwWHR2REwxUWdscV9BNFk5eVYyTVhEUTlXc3Q2OWwtblB1V2lCT0wtUWNCMDl6NE9OTHA4WDc5cDhaRlBwcmxVQ2hzUDRrRmFFd0NlWExvZ1NQejJJU3RxNXBaSl9Zc1ZKdXdzMW5LSC1zaVpySlk3eHBrYS1IcnhZT0U4VzVZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWdMMDRYVUJ0bDk0QS14QUtkMS1EakRHdFEwWHR2REwxUWdscV9BNFk5eVYyTVhEUTlXc3Q2OWwtblB1V2lCT0wtUWNCMDl6NE9OTHA4WDc5cDhaRlBwcmxVQ2hzUDRrRmFFd0NlWExvZ1NQejJJU3RxNXBaSl9Zc1ZKdXdzMW5LSC1zaVpySlk3eHBrYS1IcnhZT0U4VzVZ?oc=5\" target=\"_blank\">Scaling Autonomous AI Agents and Workloads with NVIDIA DGX Spark | NVIDIA Technical Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
-      "published": "2026-03-16T20:34:49+00:00",
-      "source": "NVIDIA Developer"
+      "title": "Nvidia's Customers Are Quietly Building Alternatives (NASDAQ:NVDA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFh5bGpDNGNvZEtwb2lfQXZfWGFrU3BNLXpBc2R5RWpiYjZjQjU1cG5GdV9QVGZzNlA2UjZLM3FJSi1XdHpnZ0E2NE5rSVJCZnJJcGRuXzJ4R05DTWxYclAwSFo2SExKN1o2aUtlNy1MeW42b0cwMjIwR0hVOGtlOERtbGJpM2dXcnRXZGxfLWtHRG5lZzNr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFh5bGpDNGNvZEtwb2lfQXZfWGFrU3BNLXpBc2R5RWpiYjZjQjU1cG5GdV9QVGZzNlA2UjZLM3FJSi1XdHpnZ0E2NE5rSVJCZnJJcGRuXzJ4R05DTWxYclAwSFo2SExKN1o2aUtlNy1MeW42b0cwMjIwR0hVOGtlOERtbGJpM2dXcnRXZGxfLWtHRG5lZzNr?oc=5\" target=\"_blank\">Nvidia's Customers Are Quietly Building Alternatives (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-03-22T14:23:01+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Just Delivered Fantastic News to Shareholders - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1PZ1VGcHBKcDlLcGtGc1BBZkhjRDhlZnZ1ejBCUVVFZjhSMkFLUkcyOG1teGcyX2lUWHJvb2haMWdKWF9QcHhWNFhGZDlxXzdtZjYwaE9oVFg5NFlRTS1vUk5kRXNzV2pTSDNtb2Y2MDREYllsU05Xc3BRR2tIOUlTdnR1bVRlN3RR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1PZ1VGcHBKcDlLcGtGc1BBZkhjRDhlZnZ1ejBCUVVFZjhSMkFLUkcyOG1teGcyX2lUWHJvb2haMWdKWF9QcHhWNFhGZDlxXzdtZjYwaE9oVFg5NFlRTS1vUk5kRXNzV2pTSDNtb2Y2MDREYllsU05Xc3BRR2tIOUlTdnR1bVRlN3RR?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Just Delivered Fantastic News to Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-03-23T11:57:54+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXZZbmk0emJvVEtPTXpwMnFPNFBodkwwMFZnblNSTWJ0YkQwenBHV0IzdUxybVc4bTFYZ0tLMVpKcHY5c25Hc3pSRUo5STV5bWdrRmtlcVlGbE5XSHhWbXRDVkVrNHktRjFRdzVDcTRMb2xURjBUMFVZLWFVeEhLTVFaYXVRTnE0ME5saklXbFd1Y0J5Ql85bWVQZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXZZbmk0emJvVEtPTXpwMnFPNFBodkwwMFZnblNSTWJ0YkQwenBHV0IzdUxybVc4bTFYZ0tLMVpKcHY5c25Hc3pSRUo5STV5bWdrRmtlcVlGbE5XSHhWbXRDVkVrNHktRjFRdzVDcTRMb2xURjBUMFVZLWFVeEhLTVFaYXVRTnE0ME5saklXbFd1Y0J5Ql85bWVQZw?oc=5\" target=\"_blank\">NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-23T11:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27 - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1d1RExPNlZzYXliUy1zTklBcXM4SXhYM3l6YmVIVWtHYTg5endIaU9IT1FIYkFKNHE0T1EzN1dtdUdWYXhzQUh3MnlPTmlQX2E4eFdLX21YRFhTNkJiLVM5U0tGcUctMGdWOGt4djZka2pXQnAwSmtRV18yWTF6eFdtT3IzQnFIWV9Kb3g0dlAtRGVaQkxIWDc0X0dZWlnSAaQBQVVfeXFMTlhGa0FMT0doaXpNcE1TN3pNU3Z3dUJWQ0pJdThtcmRmc2tnQ3F2cVR1dVdmWEJkdEs1YWRmY01NMGVuU25CcEZlaEcyNDdXdUVRd3lWRUNOWGxqRFMxOHJMYXV2d3VaSmZCcUlfZHpMUy1ObE90VjJEamJENzk4M0tveWhIT2FKaGZEZnZBOEpTckxkZm85ZnZxWFJ0anU2ZEFnRHI?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1d1RExPNlZzYXliUy1zTklBcXM4SXhYM3l6YmVIVWtHYTg5endIaU9IT1FIYkFKNHE0T1EzN1dtdUdWYXhzQUh3MnlPTmlQX2E4eFdLX21YRFhTNkJiLVM5U0tGcUctMGdWOGt4djZka2pXQnAwSmtRV18yWTF6eFdtT3IzQnFIWV9Kb3g0dlAtRGVaQkxIWDc0X0dZWlnSAaQBQVVfeXFMTlhGa0FMT0doaXpNcE1TN3pNU3Z3dUJWQ0pJdThtcmRmc2tnQ3F2cVR1dVdmWEJkdEs1YWRmY01NMGVuU25CcEZlaEcyNDdXdUVRd3lWRUNOWGxqRFMxOHJMYXV2d3VaSmZCcUlfZHpMUy1ObE90VjJEamJENzk4M0tveWhIT2FKaGZEZnZBOEpTckxkZm85ZnZxWFJ0anU2ZEFnRHI?oc=5\" target=\"_blank\">Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTZocFUzdTBxTmI5UUNTMVVUWVBtSzVwNmRnOVRiTHhKRE5Wc3F4NWI4UmN6b01LSmxLYnJsVUVHRXc0cWVrMVZYLWd3Q2VLcWQyRUI5MjlkaG5wUXJyM2NHNFZZYTB3UmxsQjNFMmEwRFdncmNQeGtxOW43Q0NYWmoyT1lRSS04Zzd6NjJvVU5XSlpQZ1d3dg?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Just Delivered Fantastic News to Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNUUtpaXlxY2I1TEt5RWNRa2YzTkVBZ2hUc2VET1hTcUVIaHJPRjg4MDdiRF81ZWdDWVpha1FiUUNpa2I0Uk9wMEhqdXJRcFZTQU9pbWVrSnJicWdzWHN2dFVlZnJGWGktTUllY3pNcElSWnY3aFJ4TVhNYnpCLVhiLTFodjVlUQ?oc=5\" target=\"_blank\">Every Robot I Met at Nvidia GTC in Under 6 Minutes - Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li></ol>",
+      "published": "2026-03-16T19:24:40+00:00",
+      "source": "CNBC"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-03-20T10:54:54+00:00",
-      "source": "MSN"
-    },
-    {
       "title": "Nvidia updates data center product roadmap following LPU launch at GTC 2026 - Data Center Dynamics",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5\" target=\"_blank\">Nvidia updates data center product roadmap following LPU launch at GTC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
       "published": "2026-03-20T18:08:50+00:00",
       "source": "Data Center Dynamics"
+    },
+    {
+      "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-03-20T10:54:54+00:00",
+      "source": "MSN"
     },
     {
       "title": "CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use - Stocktwits",
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-03-20",
-      "close": 172.6999969482422
+      "close": 172.92999267578125
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.6999969482422
+        "close": 172.92999267578125
       }
     ],
     "name": "NVIDIA Corporation"
