@@ -2,63 +2,63 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-23T12:42:34.990384+00:00",
+  "fetched_at": "2026-03-24T12:47:46.075699+00:00",
   "news": [
     {
-      "title": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXgycEFHeHl6YldWWkNudlZzSXQzUDFFSzZ1czhKcUF5VUk4ck00V3FGRFZqX3E5VmxhUW1WYTBfLTg0a0QzRWhabmlSRkNqdjhWYjZKdHVPLUhaRUN1VkNtRmQ0WWtLT1ZBOXdINU5LdUZFc0REbXp4ZWU3SVFQUkFaQXFkYV9VT0ZIX1d5bjhjNXN2QVhrQnVsXzNxS1pCWWx6QVVJdzg0TGt4d1lSWVQxcW_SAboBQVVfeXFMUEZVc1RtbkgyenhHaHBuWnhXTXFET0pSdE1RSzRyM2NFSHFxMGdmdHdRZVRWZkwzOVRxQ2M1bFAxSUZ1NTBxbUlaYTlPbTRMbkRZdnBac3NNZHdrTTk1b1Y0UmpzQ0U4OFRzU2swVEl4U0RyTm1oSWlnUUlia2NjNkZBeTU2N0hKV3JkalFjLUtHR0NRaUlHT3VyS2ZSZmdBSVVoTllFQmRoMG9PLUpRak1tWGZmMndGRnBn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXgycEFHeHl6YldWWkNudlZzSXQzUDFFSzZ1czhKcUF5VUk4ck00V3FGRFZqX3E5VmxhUW1WYTBfLTg0a0QzRWhabmlSRkNqdjhWYjZKdHVPLUhaRUN1VkNtRmQ0WWtLT1ZBOXdINU5LdUZFc0REbXp4ZWU3SVFQUkFaQXFkYV9VT0ZIX1d5bjhjNXN2QVhrQnVsXzNxS1pCWWx6QVVJdzg0TGt4d1lSWVQxcW_SAboBQVVfeXFMUEZVc1RtbkgyenhHaHBuWnhXTXFET0pSdE1RSzRyM2NFSHFxMGdmdHdRZVRWZkwzOVRxQ2M1bFAxSUZ1NTBxbUlaYTlPbTRMbkRZdnBac3NNZHdrTTk1b1Y0UmpzQ0U4OFRzU2swVEl4U0RyTm1oSWlnUUlia2NjNkZBeTU2N0hKV3JkalFjLUtHR0NRaUlHT3VyS2ZSZmdBSVVoTllFQmRoMG9PLUpRak1tWGZmMndGRnBn?oc=5\" target=\"_blank\">Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-03-20T07:57:45+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNSFExMXJrbE1FbzhRalY3ejhoS2J5c2RSOVVGd0pZQ3hCZC1vWUR3RnJ4NTkxeWdRN1g1akwteVN2ZGR5NGtIMVppSlFrdUhWVHR0T25ObjJVS0JvM2VJQURRS2dzdmZSMnl0UjZicXpONUxsTjI2T1YyMThDdGJwTzg0d3FqR3EwNkFDYWw4a0otcTR4UGNsT0gzTGNUV0tKWmxVQmVacGdHOTc2TXNMZjl2Qzc0My1Ed3FueUhTcTNZZExKU0MxeVB1OVBrdEtFSms5SEdFcjU4bEE4eXdnVmZCd1ZyNnFrOXgtd19aOXRVTFUxUzBfSmdJbGt5cnM3bVZCZVhFZ29GSVFwSnpJYnhKZ0gwTURGbWQ5S2E5YXJhb1Q5MFVWYzEyUXZiYzZIVTRFdVFnYW9ZS2Nydy1ncHpVanlPdUo1bmN0cEJNYTJGMTMyV2dzVDdyd0hfbGR2UHM0akFKdjFYeUljTkxBYnJQcUNtaHJOM0twWmxaYUU5eUVmcUtoeGl0SWk4WVhyVGpzU19rTkN5RzJzUlhZdjMtekF6YzJKd2lJRjBGaGZzUQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxNSFExMXJrbE1FbzhRalY3ejhoS2J5c2RSOVVGd0pZQ3hCZC1vWUR3RnJ4NTkxeWdRN1g1akwteVN2ZGR5NGtIMVppSlFrdUhWVHR0T25ObjJVS0JvM2VJQURRS2dzdmZSMnl0UjZicXpONUxsTjI2T1YyMThDdGJwTzg0d3FqR3EwNkFDYWw4a0otcTR4UGNsT0gzTGNUV0tKWmxVQmVacGdHOTc2TXNMZjl2Qzc0My1Ed3FueUhTcTNZZExKU0MxeVB1OVBrdEtFSms5SEdFcjU4bEE4eXdnVmZCd1ZyNnFrOXgtd19aOXRVTFUxUzBfSmdJbGt5cnM3bVZCZVhFZ29GSVFwSnpJYnhKZ0gwTURGbWQ5S2E5YXJhb1Q5MFVWYzEyUXZiYzZIVTRFdVFnYW9ZS2Nydy1ncHpVanlPdUo1bmN0cEJNYTJGMTMyV2dzVDdyd0hfbGR2UHM0akFKdjFYeUljTkxBYnJQcUNtaHJOM0twWmxaYUU5eUVmcUtoeGl0SWk4WVhyVGpzU19rTkN5RzJzUlhZdjMtekF6YzJKd2lJRjBGaGZzUQ?oc=5\" target=\"_blank\">The Silicon Valley Salesman Accused of Helping China Get Nvidia’s Top Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1kM01TMy0xdHlrdjI5WGZkd3FOV1JvdU9aQlBQTjVrQzNfYXFaR3N0aVJXY0ZXbmhOZ1pRODNITFU0M0VFaUszV1JzRjBvbnpBYmtHOTBaT2pEVUVGQUJ5bS0tMlRtLWVUejNXczhodzFLMnJSMktwSm82NkHSAYIBQVVfeXFMT3RHZmh4Z2pSWkowcks1RFFrZlhwbWdCWGxMMzZRYWlkQnlZa1RiT3ZXQkNzWmpWcFFvX2FpRnpiOG5BaUU3eEtJWHF2UXFzSTZtY0pKa1hUbTB5N3dFLWhMQ096NVdNamxvOWMzRUpuQ3hvemRNY1BEVkYzR0w1cGpZUQ?oc=5\" target=\"_blank\">Super Micro co-founder indicted on Nvidia smuggling charges leaves board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBUVlN4QUVUODZRQkNBQVAwOHNfX0JLQXc0eHhVLU01Uy1TaWpuQXdjam9ZSGRnZGdxaGdnTjVzcHh0YzFOcjBjUFY4NXpMbUJYVDBEcTY0bHRZblFCSm4yR0ZRbUxJU2MxQ213aGxPV3ZyS3RPODZZSVZ3?oc=5\" target=\"_blank\">Supermicro—accused of smuggling $2.5 billion in Nvidia chips and servers to China—has been here before, with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li></ol>",
-      "published": "2026-03-21T17:18:00+00:00",
+      "title": "Super Micro’s Fate Lies in Nvidia’s Hands - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOSXVCMnFjT3NtdmtoZzhfaVJzZHp4TXdrVGpfaUZuYmpuZlFkYmc3cHVfMzUwdlZQbDB1LXY1ZzFCQmdHQ1pyc00xVDFUTmxFU29kYnBub3FhMnFSd1gyM2ZMNnAwYk5ZRVp3SUhDSGpmTUF1OER3NF96ZE9YdXZILVFEeGdmYlNQLXI2UEJjdUd4UDVRalliRktUYUtZMjAtT3FBRlVwWWFuRWNlXzRULW9Qem5fMUh6ZExvNi1sSXBDOHBUSi11dnlXc01jaE5UWndzVjNKYUpjT3Q5LWJWR2piOXhxeXhqQnpDSVlmOFQ2bk42ZnFrSTFUYTFjcV9YbjNmNk5SS215NFZiMlF4ZnFFQ2xUY3dFZmJ5R3MzelpPdGRURThJSkJuWGc3MlZEUU5MaW1fMUV3VDRIM2VPUmE4UmFVdmtwSldaaUVrMjhWanItQzhLZjMxSDhDMzZaTGJUUUtzNV9VajR1RUF1VDRaT1d3cG5jVzdBNDBNOVRuMVQyREdkWEVDdmZNX25x?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikANBVV95cUxOSXVCMnFjT3NtdmtoZzhfaVJzZHp4TXdrVGpfaUZuYmpuZlFkYmc3cHVfMzUwdlZQbDB1LXY1ZzFCQmdHQ1pyc00xVDFUTmxFU29kYnBub3FhMnFSd1gyM2ZMNnAwYk5ZRVp3SUhDSGpmTUF1OER3NF96ZE9YdXZILVFEeGdmYlNQLXI2UEJjdUd4UDVRalliRktUYUtZMjAtT3FBRlVwWWFuRWNlXzRULW9Qem5fMUh6ZExvNi1sSXBDOHBUSi11dnlXc01jaE5UWndzVjNKYUpjT3Q5LWJWR2piOXhxeXhqQnpDSVlmOFQ2bk42ZnFrSTFUYTFjcV9YbjNmNk5SS215NFZiMlF4ZnFFQ2xUY3dFZmJ5R3MzelpPdGRURThJSkJuWGc3MlZEUU5MaW1fMUV3VDRIM2VPUmE4UmFVdmtwSldaaUVrMjhWanItQzhLZjMxSDhDMzZaTGJUUUtzNV9VajR1RUF1VDRaT1d3cG5jVzdBNDBNOVRuMVQyREdkWEVDdmZNX25x?oc=5\" target=\"_blank\">Super Micro’s Fate Lies in Nvidia’s Hands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-03-24T09:30:00+00:00",
       "source": "WSJ"
     },
     {
-      "title": "Nvidia, Emerald AI team with energy companies on \"flexible\" data centers - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pd3NjckNfRFRqNzdRUXRZdVByVG91YXJMMm1oS2JPeklKOVhJXzJKZXB0R01abWJoZDAzRkl6U3VEQ0lfWHNiSW1EZUtkandOQzhidU03RUlvcHRmanNFOUxPUkYwWUpPRTd3MURRbkZZN29MUEtFellvZzRhdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1pd3NjckNfRFRqNzdRUXRZdVByVG91YXJMMm1oS2JPeklKOVhJXzJKZXB0R01abWJoZDAzRkl6U3VEQ0lfWHNiSW1EZUtkandOQzhidU03RUlvcHRmanNFOUxPUkYwWUpPRTd3MURRbkZZN29MUEtFellvZzRhdw?oc=5\" target=\"_blank\">Nvidia, Emerald AI team with energy companies on \"flexible\" data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-03-23T11:03:07+00:00",
-      "source": "Axios"
+      "title": "Supermicro—accused of smuggling $2.5 billion in Nvidia chips and servers to China—has been here before, with Iran - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUVlN4QUVUODZRQkNBQVAwOHNfX0JLQXc0eHhVLU01Uy1TaWpuQXdjam9ZSGRnZGdxaGdnTjVzcHh0YzFOcjBjUFY4NXpMbUJYVDBEcTY0bHRZblFCSm4yR0ZRbUxJU2MxQ213aGxPV3ZyS3RPODZZSVZ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBUVlN4QUVUODZRQkNBQVAwOHNfX0JLQXc0eHhVLU01Uy1TaWpuQXdjam9ZSGRnZGdxaGdnTjVzcHh0YzFOcjBjUFY4NXpMbUJYVDBEcTY0bHRZblFCSm4yR0ZRbUxJU2MxQ213aGxPV3ZyS3RPODZZSVZ3?oc=5\" target=\"_blank\">Supermicro—accused of smuggling $2.5 billion in Nvidia chips and servers to China—has been here before, with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-03-23T11:17:00+00:00",
+      "source": "Fortune"
     },
     {
-      "title": "History Says Right Now Is the Turning Point for Nvidia's Stock - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZU04QmdIckNvWUJjYTRVV0dwRGpldWo5MW96WDk3d3JiYV9Mai1KWXNVNWx6QjFscVpmWExPeTNob2hzTmZOVlVrZUY0SEV5azFQaHFKWXRwcVV3MVl3MFdVV1dMM3FaaGtGZ25YREFLampLY0xLeG8zUV9LMDhCbTV4NDlXTzJuMWtqeVRQSkxnWkRPSWcxRg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZU04QmdIckNvWUJjYTRVV0dwRGpldWo5MW96WDk3d3JiYV9Mai1KWXNVNWx6QjFscVpmWExPeTNob2hzTmZOVlVrZUY0SEV5azFQaHFKWXRwcVV3MVl3MFdVV1dMM3FaaGtGZ25YREFLampLY0xLeG8zUV9LMDhCbTV4NDlXTzJuMWtqeVRQSkxnWkRPSWcxRg?oc=5\" target=\"_blank\">History Says Right Now Is the Turning Point for Nvidia's Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-22T23:33:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Nvidia's Customers Are Quietly Building Alternatives (NASDAQ:NVDA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFh5bGpDNGNvZEtwb2lfQXZfWGFrU3BNLXpBc2R5RWpiYjZjQjU1cG5GdV9QVGZzNlA2UjZLM3FJSi1XdHpnZ0E2NE5rSVJCZnJJcGRuXzJ4R05DTWxYclAwSFo2SExKN1o2aUtlNy1MeW42b0cwMjIwR0hVOGtlOERtbGJpM2dXcnRXZGxfLWtHRG5lZzNr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFh5bGpDNGNvZEtwb2lfQXZfWGFrU3BNLXpBc2R5RWpiYjZjQjU1cG5GdV9QVGZzNlA2UjZLM3FJSi1XdHpnZ0E2NE5rSVJCZnJJcGRuXzJ4R05DTWxYclAwSFo2SExKN1o2aUtlNy1MeW42b0cwMjIwR0hVOGtlOERtbGJpM2dXcnRXZGxfLWtHRG5lZzNr?oc=5\" target=\"_blank\">Nvidia's Customers Are Quietly Building Alternatives (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-03-22T14:23:01+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Just Delivered Fantastic News to Shareholders - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1PZ1VGcHBKcDlLcGtGc1BBZkhjRDhlZnZ1ejBCUVVFZjhSMkFLUkcyOG1teGcyX2lUWHJvb2haMWdKWF9QcHhWNFhGZDlxXzdtZjYwaE9oVFg5NFlRTS1vUk5kRXNzV2pTSDNtb2Y2MDREYllsU05Xc3BRR2tIOUlTdnR1bVRlN3RR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1PZ1VGcHBKcDlLcGtGc1BBZkhjRDhlZnZ1ejBCUVVFZjhSMkFLUkcyOG1teGcyX2lUWHJvb2haMWdKWF9QcHhWNFhGZDlxXzdtZjYwaE9oVFg5NFlRTS1vUk5kRXNzV2pTSDNtb2Y2MDREYllsU05Xc3BRR2tIOUlTdnR1bVRlN3RR?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Just Delivered Fantastic News to Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-23T11:57:54+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXZZbmk0emJvVEtPTXpwMnFPNFBodkwwMFZnblNSTWJ0YkQwenBHV0IzdUxybVc4bTFYZ0tLMVpKcHY5c25Hc3pSRUo5STV5bWdrRmtlcVlGbE5XSHhWbXRDVkVrNHktRjFRdzVDcTRMb2xURjBUMFVZLWFVeEhLTVFaYXVRTnE0ME5saklXbFd1Y0J5Ql85bWVQZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXZZbmk0emJvVEtPTXpwMnFPNFBodkwwMFZnblNSTWJ0YkQwenBHV0IzdUxybVc4bTFYZ0tLMVpKcHY5c25Hc3pSRUo5STV5bWdrRmtlcVlGbE5XSHhWbXRDVkVrNHktRjFRdzVDcTRMb2xURjBUMFVZLWFVeEhLTVFaYXVRTnE0ME5saklXbFd1Y0J5Ql85bWVQZw?oc=5\" target=\"_blank\">NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-23T11:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27 - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1d1RExPNlZzYXliUy1zTklBcXM4SXhYM3l6YmVIVWtHYTg5endIaU9IT1FIYkFKNHE0T1EzN1dtdUdWYXhzQUh3MnlPTmlQX2E4eFdLX21YRFhTNkJiLVM5U0tGcUctMGdWOGt4djZka2pXQnAwSmtRV18yWTF6eFdtT3IzQnFIWV9Kb3g0dlAtRGVaQkxIWDc0X0dZWlnSAaQBQVVfeXFMTlhGa0FMT0doaXpNcE1TN3pNU3Z3dUJWQ0pJdThtcmRmc2tnQ3F2cVR1dVdmWEJkdEs1YWRmY01NMGVuU25CcEZlaEcyNDdXdUVRd3lWRUNOWGxqRFMxOHJMYXV2d3VaSmZCcUlfZHpMUy1ObE90VjJEamJENzk4M0tveWhIT2FKaGZEZnZBOEpTckxkZm85ZnZxWFJ0anU2ZEFnRHI?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1d1RExPNlZzYXliUy1zTklBcXM4SXhYM3l6YmVIVWtHYTg5endIaU9IT1FIYkFKNHE0T1EzN1dtdUdWYXhzQUh3MnlPTmlQX2E4eFdLX21YRFhTNkJiLVM5U0tGcUctMGdWOGt4djZka2pXQnAwSmtRV18yWTF6eFdtT3IzQnFIWV9Kb3g0dlAtRGVaQkxIWDc0X0dZWlnSAaQBQVVfeXFMTlhGa0FMT0doaXpNcE1TN3pNU3Z3dUJWQ0pJdThtcmRmc2tnQ3F2cVR1dVdmWEJkdEs1YWRmY01NMGVuU25CcEZlaEcyNDdXdUVRd3lWRUNOWGxqRFMxOHJMYXV2d3VaSmZCcUlfZHpMUy1ObE90VjJEamJENzk4M0tveWhIT2FKaGZEZnZBOEpTckxkZm85ZnZxWFJ0anU2ZEFnRHI?oc=5\" target=\"_blank\">Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTZocFUzdTBxTmI5UUNTMVVUWVBtSzVwNmRnOVRiTHhKRE5Wc3F4NWI4UmN6b01LSmxLYnJsVUVHRXc0cWVrMVZYLWd3Q2VLcWQyRUI5MjlkaG5wUXJyM2NHNFZZYTB3UmxsQjNFMmEwRFdncmNQeGtxOW43Q0NYWmoyT1lRSS04Zzd6NjJvVU5XSlpQZ1d3dg?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Just Delivered Fantastic News to Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNUUtpaXlxY2I1TEt5RWNRa2YzTkVBZ2hUc2VET1hTcUVIaHJPRjg4MDdiRF81ZWdDWVpha1FiUUNpa2I0Uk9wMEhqdXJRcFZTQU9pbWVrSnJicWdzWHN2dFVlZnJGWGktTUllY3pNcElSWnY3aFJ4TVhNYnpCLVhiLTFodjVlUQ?oc=5\" target=\"_blank\">Every Robot I Met at Nvidia GTC in Under 6 Minutes - Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li></ol>",
-      "published": "2026-03-16T19:24:40+00:00",
+      "title": "Super Micro shares tank 33% after employees charged with smuggling Nvidia chips to China - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2EwNHBwMjJ0dkFmMFctSDJHVjQ3NkdSRWJJNU44WGkwVlNnb25CQ01hcDV4QWlOcENyY0dwUEZXYk4wMXVKbWVtcmpQelMzS1p0VG1pc09JNnNqTWRxdldUc1lMek83VU1PTnBEWS0xMkJXNXNERVhxak9wNk9lbi1tbkRWN1RlQ0Z4czlRcXdyV196VXAyZVlzSFNxUdIBowFBVV95cUxPTEdWbkdtMGZ4TGVaR0wwMDZ0VUZ4bHNBSjhrNGZrR3dKSEd6MS01eUI2bGEzdGdCNmRHMU8yVUVxeXo2bVR4anR3c1ZBS1RhZ0xqRUdVYXktY28yc3M2Uk1MR1hkWWdreERxeXU0cmZ2RGRnd1ViQWhzMklQMS1GcjFBd2hXMlZZcURzZzk3TnpyR2FCNXJjQ2hmNXRNekRZNEhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNd2EwNHBwMjJ0dkFmMFctSDJHVjQ3NkdSRWJJNU44WGkwVlNnb25CQ01hcDV4QWlOcENyY0dwUEZXYk4wMXVKbWVtcmpQelMzS1p0VG1pc09JNnNqTWRxdldUc1lMek83VU1PTnBEWS0xMkJXNXNERVhxak9wNk9lbi1tbkRWN1RlQ0Z4czlRcXdyV196VXAyZVlzSFNxUdIBowFBVV95cUxPTEdWbkdtMGZ4TGVaR0wwMDZ0VUZ4bHNBSjhrNGZrR3dKSEd6MS01eUI2bGEzdGdCNmRHMU8yVUVxeXo2bVR4anR3c1ZBS1RhZ0xqRUdVYXktY28yc3M2Uk1MR1hkWWdreERxeXU0cmZ2RGRnd1ViQWhzMklQMS1GcjFBd2hXMlZZcURzZzk3TnpyR2FCNXJjQ2hmNXRNekRZNEhR?oc=5\" target=\"_blank\">Super Micro shares tank 33% after employees charged with smuggling Nvidia chips to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-19T22:21:28+00:00",
       "source": "CNBC"
+    },
+    {
+      "title": "Nvidia’s Jensen Huang Says He Thinks ‘We’ve Achieved AGI’ - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQURocWh4TUJlU3Q4NGpseHdSejJPOGE1QVBiV3RxbFkyb1ZHT3dvSllUcDZsTWExRWQ1M0czZm1vc0E5RmNTN3loRlFKYjdUVGNlTU1fU3U2WUVyT0FJNlZVNEpxMnJDYVJPa1lNM1IzU0h2SG9uTmg5NWh5Vk4wRXdwd1VQbDNfRWhrZFd5cGE3ZkowVVdValdkaXNBUXVvSlVObUJkSXNFZUJ6TFNleg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQURocWh4TUJlU3Q4NGpseHdSejJPOGE1QVBiV3RxbFkyb1ZHT3dvSllUcDZsTWExRWQ1M0czZm1vc0E5RmNTN3loRlFKYjdUVGNlTU1fU3U2WUVyT0FJNlZVNEpxMnJDYVJPa1lNM1IzU0h2SG9uTmg5NWh5Vk4wRXdwd1VQbDNfRWhrZFd5cGE3ZkowVVdValdkaXNBUXVvSlVObUJkSXNFZUJ6TFNleg?oc=5\" target=\"_blank\">Nvidia’s Jensen Huang Says He Thinks ‘We’ve Achieved AGI’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-03-23T23:37:35+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjhoOTNCbVQyNXNwNXhEZXBnOGRqbkdLM3o3OTY1LW9XRGlqbExpVFBweVlHdnpPVVZUOWVCOVJzNk9sZnFEbjU1QVZ6QWNQM2gtajExOFR5d2l2UTl6bENLTXU5ZFlBZUpRVl84Rm04U3B5N04tLWRaTFBrT1VNc0s5UUJwYmM5UXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjhoOTNCbVQyNXNwNXhEZXBnOGRqbkdLM3o3OTY1LW9XRGlqbExpVFBweVlHdnpPVVZUOWVCOVJzNk9sZnFEbjU1QVZ6QWNQM2gtajExOFR5d2l2UTl6bENLTXU5ZFlBZUpRVl84Rm04U3B5N04tLWRaTFBrT1VNc0s5UUJwYmM5UXc?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-03-23T19:42:33+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nvidia’s Huang Says Human-Level AI Has Arrived. Don't Get Too Excited About AGI. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOejVlcEVhUU15cVZyTHhoSTM3cmhRMHFwQUZDZnFYeVpKVEFsTU1kR2duUXlRaFZwb2JITGFqS090VGdiRXJiX210VHRBT3JUYzlzWDdBM2NhREtUdTFMd29PVHRWa09Zb1Z2cHllVmt6MWZCWjlLZjBlak43RmdhZXc5bTdYcUV1TThGY013NlNNOEhCN3k5NURoM3c5Z3BSb0gtYUpsWk8zaEhSa1Y4TGh2RGVsMHdyeTZYR3Rzd0JYU3dpTFdKU04yQTluWmc1OTI0RlJjbXQ4QmtFQVVDZnlXWDlna1hxTTlydlhQUlFyR21iUnVkVFhmSGdhN0F6RG9FYkRuWEFFRGJXTzB0M3hQQ0tpZGxJbF9iVGRVRXdLLWhxVzI3ZU5aOG52MXNlajhuM05ISmhHUTV0YnBiMFBVT2plLUtWZEp6d1NzMGxxa3VlMjlGdkRGY1BSS1c3TmFyeUdvX1ZRbUlvcTNZLTkzM0FMZElnQmFBYkdMMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wJBVV95cUxOejVlcEVhUU15cVZyTHhoSTM3cmhRMHFwQUZDZnFYeVpKVEFsTU1kR2duUXlRaFZwb2JITGFqS090VGdiRXJiX210VHRBT3JUYzlzWDdBM2NhREtUdTFMd29PVHRWa09Zb1Z2cHllVmt6MWZCWjlLZjBlak43RmdhZXc5bTdYcUV1TThGY013NlNNOEhCN3k5NURoM3c5Z3BSb0gtYUpsWk8zaEhSa1Y4TGh2RGVsMHdyeTZYR3Rzd0JYU3dpTFdKU04yQTluWmc1OTI0RlJjbXQ4QmtFQVVDZnlXWDlna1hxTTlydlhQUlFyR21iUnVkVFhmSGdhN0F6RG9FYkRuWEFFRGJXTzB0M3hQQ0tpZGxJbF9iVGRVRXdLLWhxVzI3ZU5aOG52MXNlajhuM05ISmhHUTV0YnBiMFBVT2plLUtWZEp6d1NzMGxxa3VlMjlGdkRGY1BSS1c3TmFyeUdvX1ZRbUlvcTNZLTkzM0FMZElnQmFBYkdMMA?oc=5\" target=\"_blank\">Nvidia’s Huang Says Human-Level AI Has Arrived. Don't Get Too Excited About AGI.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-03-24T12:23:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Circle Makes Debut Africa Deal With Nvidia-Backed Cassava Unit - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmg1WloyTVhTMTFQVjRZZThRR0xocHY2TWpxYjdBS1pqV2JiVlM3M2g1VmktVkRfd013UmJvYUQxVFFnTkpvVDJZMjQ4cFVFVk5HRzBIbFJYcTBycXJVVGdPa0pzQWtPRXdoY0wxQzRlWTk2ek1JTmlKd3ltMUF2T2RjNmpRZ21SaHV1TFBwX0VTclctR3R6bk14RUhJYkM2bWU0dldPQThCaHdQQm91X2lrNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmg1WloyTVhTMTFQVjRZZThRR0xocHY2TWpxYjdBS1pqV2JiVlM3M2g1VmktVkRfd013UmJvYUQxVFFnTkpvVDJZMjQ4cFVFVk5HRzBIbFJYcTBycXJVVGdPa0pzQWtPRXdoY0wxQzRlWTk2ek1JTmlKd3ltMUF2T2RjNmpRZ21SaHV1TFBwX0VTclctR3R6bk14RUhJYkM2bWU0dldPQThCaHdQQm91X2lrNA?oc=5\" target=\"_blank\">Circle Makes Debut Africa Deal With Nvidia-Backed Cassava Unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-03-24T11:07:59+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "History Says Right Now Is the Turning Point for Nvidia's Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1VudFFoT184QUJhd2YzN1MxNENseE84RzRudjhZLXZuUHd1WGxMd2xCQmp6NWRGaUZSNzVHeWw1dWRIamE5SEhPYjBXaV93S1Zwc1NFbVA1T0ZsYlJEZ3FxYjJ2MkVkbXNmdHZ2c0lfdE55TEp2UHBWbnduUTlnVzZIUmkxYlRVQl94aTIwWGgzODFJMnl0VG1Wcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1VudFFoT184QUJhd2YzN1MxNENseE84RzRudjhZLXZuUHd1WGxMd2xCQmp6NWRGaUZSNzVHeWw1dWRIamE5SEhPYjBXaV93S1Zwc1NFbVA1T0ZsYlJEZ3FxYjJ2MkVkbXNmdHZ2c0lfdE55TEp2UHBWbnduUTlnVzZIUmkxYlRVQl94aTIwWGgzODFJMnl0VG1Wcw?oc=5\" target=\"_blank\">History Says Right Now Is the Turning Point for Nvidia's Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-22T22:53:00+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
@@ -102,14 +102,10 @@
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-20",
-      "close": 172.92999267578125
+      "date": "2026-03-23",
+      "close": 175.63999938964844
     },
     "history": [
-      {
-        "date": "2026-03-12",
-        "close": 183.13999938964844
-      },
       {
         "date": "2026-03-13",
         "close": 180.25
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-03-20",
-        "close": 172.92999267578125
+        "close": 172.6999969482422
+      },
+      {
+        "date": "2026-03-23",
+        "close": 175.63999938964844
       }
     ],
     "name": "NVIDIA Corporation"

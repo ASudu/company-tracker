@@ -2,66 +2,73 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-03-23T12:42:22.421456+00:00",
+  "fetched_at": "2026-03-24T12:47:31.733057+00:00",
   "news": [
     {
-      "title": "iPhone 17e review: Apple upgrades its cheapest new smartphone - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXIyY1dMV1NiUGxWd3RnVWtGZ0ZqdFRRcXJ0UkhxczM3WDVyNzc4MUtVOVl0RjFJRG9TcUpTVmJDLVBsUmlLVEJxRC1GaUlQaXBiMzUxZjVNQ0p1Q2h4QWRhSmtTU1cyd21HSjZyY0RZZkp2SVZETW8tdWRqa1FmaGRPZF8wb3pKM2t0NnVZTjJGdEVkZnBQVi02emR2Y3JyWUdobkVSTXNNcUxlRjN5bWs5czlZdmIzQVZv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXIyY1dMV1NiUGxWd3RnVWtGZ0ZqdFRRcXJ0UkhxczM3WDVyNzc4MUtVOVl0RjFJRG9TcUpTVmJDLVBsUmlLVEJxRC1GaUlQaXBiMzUxZjVNQ0p1Q2h4QWRhSmtTU1cyd21HSjZyY0RZZkp2SVZETW8tdWRqa1FmaGRPZF8wb3pKM2t0NnVZTjJGdEVkZnBQVi02emR2Y3JyWUdobkVSTXNNcUxlRjN5bWs5czlZdmIzQVZv?oc=5\" target=\"_blank\">iPhone 17e review: Apple upgrades its cheapest new smartphone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-03-23T07:02:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "T-Mobile is giving away the Apple iPhone 17 for free — how to claim yours this weekend - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SYTJKQTdmelRtOTJpTE9hUHF0ZGc2Qm1FYlNCNnRTbWZwVVBwUHpfd2hPSkt3WENPNWVxdzZWdDlsbzlsZVV3NFB2RGswYmp0WFFidERXcUJoaWFZYnFPNnZGQjFMb2JSaFRGMQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1SYTJKQTdmelRtOTJpTE9hUHF0ZGc2Qm1FYlNCNnRTbWZwVVBwUHpfd2hPSkt3WENPNWVxdzZWdDlsbzlsZVV3NFB2RGswYmp0WFFidERXcUJoaWFZYnFPNnZGQjFMb2JSaFRGMQ?oc=5\" target=\"_blank\">T-Mobile is giving away the Apple iPhone 17 for free — how to claim yours this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-03-21T09:00:31+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Apple issues warning for iPhone users to update their devices as new tool emerges that means millions of phones could be hacked - supercarblondie.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUhMaGRUeEtVaXNuLXdFSmI2VS12dkU5UzBtQVhVSmxQWHdIWHRJTG5Tekg4MGkwNDRSZXZ6WnJBUEJGVl9MU0Y3Ri1vOVdHVTZVMFJOVTYzSExhSUplNmZ5eHlRZEhxWE5FTmJVbC15RWNXaXlVYVNXNjN0WV9uSm1hQVlpOFhtMEpsdWxCTnd1aXkwSUh2ZE8xQmxJYjhF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUhMaGRUeEtVaXNuLXdFSmI2VS12dkU5UzBtQVhVSmxQWHdIWHRJTG5Tekg4MGkwNDRSZXZ6WnJBUEJGVl9MU0Y3Ri1vOVdHVTZVMFJOVTYzSExhSUplNmZ5eHlRZEhxWE5FTmJVbC15RWNXaXlVYVNXNjN0WV9uSm1hQVlpOFhtMEpsdWxCTnd1aXkwSUh2ZE8xQmxJYjhF?oc=5\" target=\"_blank\">Apple issues warning for iPhone users to update their devices as new tool emerges that means millions of phones could be hacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">supercarblondie.com</font>",
-      "published": "2026-03-23T00:43:00+00:00",
-      "source": "supercarblondie.com"
-    },
-    {
-      "title": "Apple’s Heir Apparent Steps Into the Spotlight - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZGtlX1Y3NDMtU2liNGpNOXdhaVpVOTM4VFg3eGdmbkR4THdidmEwU2tqdmRfazFOcTYzMGtFVzdObE1QeGNpV29uU3VxdDNkLUtCYWhqQnloanM3Q3kwOUVFMG44QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZGtlX1Y3NDMtU2liNGpNOXdhaVpVOTM4VFg3eGdmbkR4THdidmEwU2tqdmRfazFOcTYzMGtFVzdObE1QeGNpV29uU3VxdDNkLUtCYWhqQnloanM3Q3kwOUVFMG44QQ?oc=5\" target=\"_blank\">Apple’s Heir Apparent Steps Into the Spotlight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-22T21:00:00+00:00",
+      "title": "Apple Is Set to Put Ads in Apple Maps in Services Push - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmluSmc0VnJFNlQ5bG1DRno1RkdBaFZRZFFVdkdGR3AyaDJiNnU2SXliZG1BSEpWZzFJT2NwZ1UxSlIxZmZDUkxMSllCU3VKcWxuY3NFRnRCdnl6RDNrOURfcy1iSWlQZnhIZE5adG1VUFo2bWt3LVNJcklKNm9fbG1sdnl3RWdVM1ZTd3l4VkdMRE9XT0xiSlVmeWdmalQ5ajl2U3JzT1VPVTVsaWZSVndva3Q?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmluSmc0VnJFNlQ5bG1DRno1RkdBaFZRZFFVdkdGR3AyaDJiNnU2SXliZG1BSEpWZzFJT2NwZ1UxSlIxZmZDUkxMSllCU3VKcWxuY3NFRnRCdnl6RDNrOURfcy1iSWlQZnhIZE5adG1VUFo2bWt3LVNJcklKNm9fbG1sdnl3RWdVM1ZTd3l4VkdMRE9XT0xiSlVmeWdmalQ5ajl2U3JzT1VPVTVsaWZSVndva3Q?oc=5\" target=\"_blank\">Apple Is Set to Put Ads in Apple Maps in Services Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-03-23T16:39:45+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Apple CEO praises China partners as Beijing applies pressure - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUtHdE5Tdktyb3YwQUEwaHFmcThMVXdmZnZxTjduOXEySDdZcEFSelhnWFA1NlRac25mRUpaVWN5djRFendZVHJURmg1LXVxQ2taRkU4Wld3QVRwU2x2a1p1MHBBdHQwYjFTTnJOcEx0SkVPcnhwMDFveGNHOHRqbndIQ2lTZWE0OFY4ZTJyNHNoSy1xYTEzenlEY2FPOTJsN0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUtHdE5Tdktyb3YwQUEwaHFmcThMVXdmZnZxTjduOXEySDdZcEFSelhnWFA1NlRac25mRUpaVWN5djRFendZVHJURmg1LXVxQ2taRkU4Wld3QVRwU2x2a1p1MHBBdHQwYjFTTnJOcEx0SkVPcnhwMDFveGNHOHRqbndIQ2lTZWE0OFY4ZTJyNHNoSy1xYTEzenlEY2FPOTJsN0E?oc=5\" target=\"_blank\">Apple CEO praises China partners as Beijing applies pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-03-23T00:23:00+00:00",
-      "source": "Fortune"
+      "title": "Apple Maps may be about to get ads - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44NHZCMmVmLVVtLUlWS0hzUGxNeFRQT0lUNmxfQWJoQWw1WnhQbDhrQ3ROQnhYR2RLZVY2Q1FVWW5hckFzeHB5NXVzQVRIRDA5RlJzcnNtQjlud3d6Mi10dEstX29YTXZiOW9TT2hic19IWE5ZMDV5Xw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE44NHZCMmVmLVVtLUlWS0hzUGxNeFRQT0lUNmxfQWJoQWw1WnhQbDhrQ3ROQnhYR2RLZVY2Q1FVWW5hckFzeHB5NXVzQVRIRDA5RlJzcnNtQjlud3d6Mi10dEstX29YTXZiOW9TT2hic19IWE5ZMDV5Xw?oc=5\" target=\"_blank\">Apple Maps may be about to get ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-03-23T22:33:03+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Apple CEO Candidate John Ternus is 'Well-Liked' and Helped Reverse 'Declining Product Quality' - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT21lT0F0dzRIelUybWVHZzBUcFNnSzlGa180SGZwOXlqZVdOTjVLUHFucHljOHNDRHVYQ18wcHJhaHQ5VzlRRXFyc1JOSk1nRWZWYUc0VzYxUjZFdEdlYURrV1BMSkRqZWt6ZVpBVzZDOXFqcHladGhXYTNsSjgxNkNqYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQT21lT0F0dzRIelUybWVHZzBUcFNnSzlGa180SGZwOXlqZVdOTjVLUHFucHljOHNDRHVYQ18wcHJhaHQ5VzlRRXFyc1JOSk1nRWZWYUc0VzYxUjZFdEdlYURrV1BMSkRqZWt6ZVpBVzZDOXFqcHladGhXYTNsSjgxNkNqYw?oc=5\" target=\"_blank\">Apple CEO Candidate John Ternus is 'Well-Liked' and Helped Reverse 'Declining Product Quality'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-03-22T22:38:02+00:00",
+      "title": "Apple to Introduce Ads in Apple Maps as Part of Services Revenue Push - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53X2tOSURmOFViTEloNUoxQlNucG02Ny1jV1R1UE9SWklrc21YX1YxYVlRMFEwaUNDTDJrbE9DMFJtOHJOcmlhOHNNamM2Vjk3N3h2Ujc4U1dEN3hiMnl4UXV0ZldfOUxEY1VaZEZRWTRHUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE53X2tOSURmOFViTEloNUoxQlNucG02Ny1jV1R1UE9SWklrc21YX1YxYVlRMFEwaUNDTDJrbE9DMFJtOHJOcmlhOHNNamM2Vjk3N3h2Ujc4U1dEN3hiMnl4UXV0ZldfOUxEY1VaZEZRWTRHUQ?oc=5\" target=\"_blank\">Apple to Introduce Ads in Apple Maps as Part of Services Revenue Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-03-23T21:43:20+00:00",
       "source": "MacRumors"
     },
     {
-      "title": "iPad 12 With A18 Chip for Apple Intelligence is 'Still Coming This Year' - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uM01kcGZOOTM3a3pvNDZKcEsxTTU1akVCalVVelhlQW1wUWF2U25JdFQxQnM2LTE5TnQ5OGE5YkNXMnoyRld0M1Bndkt1ajFRaV9BSmhnbjQtX1BrTXhRNUFCRDllb3RvUUZKRndrVkIwazNFYnlwUA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1uM01kcGZOOTM3a3pvNDZKcEsxTTU1akVCalVVelhlQW1wUWF2U25JdFQxQnM2LTE5TnQ5OGE5YkNXMnoyRld0M1Bndkt1ajFRaV9BSmhnbjQtX1BrTXhRNUFCRDllb3RvUUZKRndrVkIwazNFYnlwUA?oc=5\" target=\"_blank\">iPad 12 With A18 Chip for Apple Intelligence is 'Still Coming This Year'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-03-22T13:56:36+00:00",
-      "source": "MacRumors"
+      "title": "U.S. executives, from Apple to Eli Lilly, revamp their push into the world's second-largest economy at the China Development Forum - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmZ4bW9TQ016MENRX0RvY2FEMFJRczVGX2V0Q21zRExRVjJKV09VUVFLYVEyMHdJNmd3Y3FGRUxjV3FTY0wyOFBVeno4X1FtUEE0NFB0dG9VemYwdHU3eUZQQ1dmRVl6dm92aTllUTlPTEZobWU5R3FPQVdZbWpDRnlfbi15MjRfSENoWjhB0gGTAUFVX3lxTE5GX2VJZDNZNXkwZjlabWoxQ3lTZ01uZ2x4YTUtYzBHSkJNd1o0OVBNN1VTZlVhR21sLXJwNHJobEx0RlB4dGFWQjM0emVJQUZ5TUR2NWU4ODZDN0V2SDZwaGp0WWhzdlVxeG5JcFZ5eWh4Z2pmNThIRll2QTF6MDdlS0Y2TElIekJpLXVqT0RBZHVfZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSmZ4bW9TQ016MENRX0RvY2FEMFJRczVGX2V0Q21zRExRVjJKV09VUVFLYVEyMHdJNmd3Y3FGRUxjV3FTY0wyOFBVeno4X1FtUEE0NFB0dG9VemYwdHU3eUZQQ1dmRVl6dm92aTllUTlPTEZobWU5R3FPQVdZbWpDRnlfbi15MjRfSENoWjhB0gGTAUFVX3lxTE5GX2VJZDNZNXkwZjlabWoxQ3lTZ01uZ2x4YTUtYzBHSkJNd1o0OVBNN1VTZlVhR21sLXJwNHJobEx0RlB4dGFWQjM0emVJQUZ5TUR2NWU4ODZDN0V2SDZwaGp0WWhzdlVxeG5JcFZ5eWh4Z2pmNThIRll2QTF6MDdlS0Y2TElIekJpLXVqT0RBZHVfZw?oc=5\" target=\"_blank\">U.S. executives, from Apple to Eli Lilly, revamp their push into the world's second-largest economy at the China Development Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-23T14:05:47+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Apple’s iPad Mini (A17 Pro) Is Back in Stock at a Record Low for Amazon’s Big Spring Sale After Briefly Selling Out - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFFoc3FDU19SSzU1UkhrbVJ2MTVnbWtxX3RVVVVZV1JHTC1XZUU5QzVVWXFEejgtTU5pelJKd1JabnBsYTRkZnJacVhFUW05N1dsU3laQktMdFpmdmpQRnh1b2xjOXNKa3ZYRGtpUnBHTXFZLXkyV1o0dmlLQWdmbzdkNnVENW5rZ1gxdEwtbjFWcXlOc3laNjR3Y1dsNXRLM0dRcVM5QUtDV3FOV3ZZRFFla3Rwa1NYbjJxMTBCdS1RTmpMNVQ1dmh4MTRWR3E4dnlLVmxzTXVqdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaFFoc3FDU19SSzU1UkhrbVJ2MTVnbWtxX3RVVVVZV1JHTC1XZUU5QzVVWXFEejgtTU5pelJKd1JabnBsYTRkZnJacVhFUW05N1dsU3laQktMdFpmdmpQRnh1b2xjOXNKa3ZYRGtpUnBHTXFZLXkyV1o0dmlLQWdmbzdkNnVENW5rZ1gxdEwtbjFWcXlOc3laNjR3Y1dsNXRLM0dRcVM5QUtDV3FOV3ZZRFFla3Rwa1NYbjJxMTBCdS1RTmpMNVQ1dmh4MTRWR3E4dnlLVmxzTXVqdw?oc=5\" target=\"_blank\">Apple’s iPad Mini (A17 Pro) Is Back in Stock at a Record Low for Amazon’s Big Spring Sale After Briefly Selling Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-03-23T12:33:58+00:00",
-      "source": "Gizmodo"
+      "title": "How to Use Apple’s Live Translation on Your AirPods - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iSExnVnlwMkpKbUE4NVRNaEpyMEJKYklvN3g3bGV1TV9CUm9TTjRtbi1ETUJELXo5T3B0VEdLc0Uyd1hvVURESzFUbm1yOVc2UjhUTUgweUFEMHg0eFNveG82VTFSZUxxS1BZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1iSExnVnlwMkpKbUE4NVRNaEpyMEJKYklvN3g3bGV1TV9CUm9TTjRtbi1ETUJELXo5T3B0VEdLc0Uyd1hvVURESzFUbm1yOVc2UjhUTUgweUFEMHg0eFNveG82VTFSZUxxS1BZ?oc=5\" target=\"_blank\">How to Use Apple’s Live Translation on Your AirPods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-03-24T11:00:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Apple’s stock rises as enthusiasm builds for a potential foldable iPhone - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNMW9pNUZYLUVPMm8zVWtSMEctTXBmcl9YTkZWUWhiUWFtSV96dkpTQnlZQTU1RTEyMVd0SkRyU0l1Q3lVX1d0SnctYzhmaFJLelJmVnRiLUx6Q1ZYbnVUbEhxZ3JfUmd3NEN0ZlVtcnBUOEw5MHZpSjh1VDNLWFJoN01BdC03Y3c2dU1udlRGMzdPdkFzc3hFaTZIQ1hrY3VsOUNJX2s3S3VMcWEwbl85SWxQNy1YS0hZMG9heEo5WFdrbmhKdnBtVm1vQ1NoM1pBMGpYME80X2t1ZGdTZlZVRWJrQWlOdTVqcWdwM0lUNmdTck9xQVdYSUlmdFJNaUt5ZkFQOEVhanNKVHBMaEdMdzJyNmV6Rmk0X3ZNclVFT1Mxcy1JcUQzeDBQcUpNWmd2M1RDZHZUQXdOX096djZ0X1c2Z005b3BkZTIyYWkwNWZNMVoyZVI0a1otYURHY3JpakxEQ243Zl9uMDFCZlZsZ19SaXZFLVhRWHdZOEs1MllhUDdXOG5KNTlVNE5ScnNBZXItaW9XRzN5c3VhUWF1Uy1zdmh5SlBINmJhcmc3U3RnM0F4VlJpVlFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNMW9pNUZYLUVPMm8zVWtSMEctTXBmcl9YTkZWUWhiUWFtSV96dkpTQnlZQTU1RTEyMVd0SkRyU0l1Q3lVX1d0SnctYzhmaFJLelJmVnRiLUx6Q1ZYbnVUbEhxZ3JfUmd3NEN0ZlVtcnBUOEw5MHZpSjh1VDNLWFJoN01BdC03Y3c2dU1udlRGMzdPdkFzc3hFaTZIQ1hrY3VsOUNJX2s3S3VMcWEwbl85SWxQNy1YS0hZMG9heEo5WFdrbmhKdnBtVm1vQ1NoM1pBMGpYME80X2t1ZGdTZlZVRWJrQWlOdTVqcWdwM0lUNmdTck9xQVdYSUlmdFJNaUt5ZkFQOEVhanNKVHBMaEdMdzJyNmV6Rmk0X3ZNclVFT1Mxcy1JcUQzeDBQcUpNWmd2M1RDZHZUQXdOX096djZ0X1c2Z005b3BkZTIyYWkwNWZNMVoyZVI0a1otYURHY3JpakxEQ243Zl9uMDFCZlZsZ19SaXZFLVhRWHdZOEs1MllhUDdXOG5KNTlVNE5ScnNBZXItaW9XRzN5c3VhUWF1Uy1zdmh5SlBINmJhcmc3U3RnM0F4VlJpVlFR?oc=5\" target=\"_blank\">Apple’s stock rises as enthusiasm builds for a potential foldable iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2026-03-23T17:18:00+00:00",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Here are Tuesday's biggest analyst calls: Apple, Tesla, Microsoft, Oracle, CoreWeave, Ralph Lauren & more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPanFFb1VuOHlWSEtvQnRjd2dsU09MRW9FQmN1U3lhLVkzOW5lWjVoNU5lV3VPaGZnT25VOXhuM1BmTWhFcnVjZk9LSkp0RGlTRlFxbml2U1NMVEhURkZ4d0VaTldkZzF4dzJhOWJTVGdwaEtVQzdFM2pxVW9VUXJRdjVlV1VhRVQ4LXBZZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPanFFb1VuOHlWSEtvQnRjd2dsU09MRW9FQmN1U3lhLVkzOW5lWjVoNU5lV3VPaGZnT25VOXhuM1BmTWhFcnVjZk9LSkp0RGlTRlFxbml2U1NMVEhURkZ4d0VaTldkZzF4dzJhOWJTVGdwaEtVQzdFM2pxVW9VUXJRdjVlV1VhRVQ4LXBZZA?oc=5\" target=\"_blank\">Here are Tuesday's biggest analyst calls: Apple, Tesla, Microsoft, Oracle, CoreWeave, Ralph Lauren & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-24T12:31:32+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple (AAPL) Rated Sector Weight on Mixed Spending Trends - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVd0d3lJSlRqMU5mWW5QeTJQVWlPX2l4Tng2dEtQMlduUElHZThqSllvOUYtbThsaWRLMmJPazJCellRV3ozUExVa2tESTAwcG9rU0ZnNzFkUUJMREpNY1A4QzR4R2lCMjdFcWoxb3lkSjB1eHhTSmlBVWlqVE50cTlaRTZpWWdBTl9UZURYcVdsUGp4NTI1UGIxMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVd0d3lJSlRqMU5mWW5QeTJQVWlPX2l4Tng2dEtQMlduUElHZThqSllvOUYtbThsaWRLMmJPazJCellRV3ozUExVa2tESTAwcG9rU0ZnNzFkUUJMREpNY1A4QzR4R2lCMjdFcWoxb3lkSjB1eHhTSmlBVWlqVE50cTlaRTZpWWdBTl9UZURYcVdsUGp4NTI1UGIxMA?oc=5\" target=\"_blank\">Apple (AAPL) Rated Sector Weight on Mixed Spending Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-24T11:44:02+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple has six new products that could launch soon, per rumors - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdV9tZWlxYVJNQ3drd0JxOEw2SDhmc3dLTkQzUFc5dlhsZFNRdW1QOXFfc1Z1NmVCd1M2UjRlc1JtcGRpS0xuSGM4N2JfS2FzN2Y0M3d3SDgzeXZodG54bERzQmw4dUp3aFduaE10QWx3ajJRRkNyR3JMbkJWY2FFMXNzNUNfTFpRX1JVZUFFcWdfMFVITFpn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdV9tZWlxYVJNQ3drd0JxOEw2SDhmc3dLTkQzUFc5dlhsZFNRdW1QOXFfc1Z1NmVCd1M2UjRlc1JtcGRpS0xuSGM4N2JfS2FzN2Y0M3d3SDgzeXZodG54bERzQmw4dUp3aFduaE10QWx3ajJRRkNyR3JMbkJWY2FFMXNzNUNfTFpRX1JVZUFFcWdfMFVITFpn?oc=5\" target=\"_blank\">Apple has six new products that could launch soon, per rumors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-03-23T20:07:00+00:00",
+      "source": "9to5Mac"
+    },
     {
       "title": "Upcoming Apple Products Guide: What's Coming in 2026 - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5",
@@ -70,25 +77,18 @@
       "source": "MacRumors"
     },
     {
-      "title": "iPad 12 With Apple Intelligence May Still Launch This Year, Report Says - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFI5UjlqQXY4WTFxRFUyY3NoMFBUcEVLLXJSRFhJX2hBRzBjSk5uZTlIQzFmQW1BWE5tb2o4UDNFaC13NXQzbGxRdExRMGttaDNqWF9UZlJscVRkdWx2Sk1veV9mb09HLXdqMmticEhHZUpxTmtrNDFpQ2MzZk5laUJ2RjJfNm5WbkdVX2xXVEFzN1QyRndtRWJLb0FFZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeFI5UjlqQXY4WTFxRFUyY3NoMFBUcEVLLXJSRFhJX2hBRzBjSk5uZTlIQzFmQW1BWE5tb2o4UDNFaC13NXQzbGxRdExRMGttaDNqWF9UZlJscVRkdWx2Sk1veV9mb09HLXdqMmticEhHZUpxTmtrNDFpQ2MzZk5laUJ2RjJfNm5WbkdVX2xXVEFzN1QyRndtRWJLb0FFZw?oc=5\" target=\"_blank\">iPad 12 With Apple Intelligence May Still Launch This Year, Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-03-23T10:13:21+00:00",
-      "source": "PCMag"
-    },
-    {
-      "title": "Apple’s next big products revealed: 20+ new Apple devices set for 2026 - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Apple’s next big products revealed: 20+ new Apple devices set for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-03-17T10:20:00+00:00",
-      "source": "Macworld"
-    },
-    {
       "title": "A new cheaper MacBook just dropped — here’s everything you need to know - NBC News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3BCbnM2VjF2eHVKazNfY1lJbS1iTmdub2N5S0N6eFo2bnBkNUl0Z1YwVl9ycEFlMnFUUUFNREszdFJOMWQzSHZDMFpJNmxmZnU1NGJJQVVKTlprV3JRY1NLNEFVaVpMVFRuN0lSYWw4X05Id19qbUt3YzNuUXFHSXcyT3FpTmlFQ0J2b2x0cDU0VElMTkczbVByckxXQ00?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3BCbnM2VjF2eHVKazNfY1lJbS1iTmdub2N5S0N6eFo2bnBkNUl0Z1YwVl9ycEFlMnFUUUFNREszdFJOMWQzSHZDMFpJNmxmZnU1NGJJQVVKTlprV3JRY1NLNEFVaVpMVFRuN0lSYWw4X05Id19qbUt3YzNuUXFHSXcyT3FpTmlFQ0J2b2x0cDU0VElMTkczbVByckxXQ00?oc=5\" target=\"_blank\">A new cheaper MacBook just dropped — here’s everything you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
       "published": "2026-03-04T08:00:00+00:00",
       "source": "NBC News"
+    },
+    {
+      "title": "Everything you need to know about Apple's ‘big week' of product launches - NBC Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWFsb01peTRleVV5bzN6RmU1ak1FSnhMYkZsREFhclU3eGdlSGdKRnB5QU9Qdl9MdVhRZFhXNlhvUHJMcXE1VllaVGlOOXR3ZzJKTUprUnRpSF92RFFxUm1UYTlWR2ZNdktGZEp4Sk1nNzdkWnpma0hwX0pyZHYzMzkzNzVMbk1kdjZFTjhMOFY2MW5fQ2fSAZ4BQVVfeXFMUHphQTEtSDhpUWQ5NTdWbDBhQTA3blZvRlFiZVpWYTFjc0ZMZDhuNFROYy1IeG5IRGhxYjAwTmV5eTRucnpibkxhTnFWZjN0V0huSElKWDBfVGYxUmRsaUNJV3VCV1JCOU8zVDlCOGFydVBMMmhTOU5MN3dtcndrTUFrZ040YkZKVUtJU3BrZWNuSFZJTndhVlhvQ0NsTFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWFsb01peTRleVV5bzN6RmU1ak1FSnhMYkZsREFhclU3eGdlSGdKRnB5QU9Qdl9MdVhRZFhXNlhvUHJMcXE1VllaVGlOOXR3ZzJKTUprUnRpSF92RFFxUm1UYTlWR2ZNdktGZEp4Sk1nNzdkWnpma0hwX0pyZHYzMzkzNzVMbk1kdjZFTjhMOFY2MW5fQ2fSAZ4BQVVfeXFMUHphQTEtSDhpUWQ5NTdWbDBhQTA3blZvRlFiZVpWYTFjc0ZMZDhuNFROYy1IeG5IRGhxYjAwTmV5eTRucnpibkxhTnFWZjN0V0huSElKWDBfVGYxUmRsaUNJV3VCV1JCOU8zVDlCOGFydVBMMmhTOU5MN3dtcndrTUFrZ040YkZKVUtJU3BrZWNuSFZJTndhVlhvQ0NsTFE?oc=5\" target=\"_blank\">Everything you need to know about Apple's ‘big week' of product launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Bay Area</font>",
+      "published": "2026-03-04T08:00:00+00:00",
+      "source": "NBC Bay Area"
     },
     {
       "title": "Apple CEO says latest product launch produces best week ever for new Mac customers - Seeking Alpha",
@@ -102,14 +102,10 @@
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-20",
-      "close": 247.99000549316406
+      "date": "2026-03-23",
+      "close": 251.49000549316406
     },
     "history": [
-      {
-        "date": "2026-03-12",
-        "close": 255.75999450683594
-      },
       {
         "date": "2026-03-13",
         "close": 250.1199951171875
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-20",
         "close": 247.99000549316406
+      },
+      {
+        "date": "2026-03-23",
+        "close": 251.49000549316406
       }
     ],
     "name": "Apple Inc."

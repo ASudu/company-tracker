@@ -2,114 +2,110 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-03-23T12:42:30.051831+00:00",
+  "fetched_at": "2026-03-24T12:47:40.201876+00:00",
   "news": [
     {
-      "title": "Amazon MGM Gets a Much-Needed Hit With ‘Project Hail Mary’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVNsRDNmSVdaUXhmRWF4UGM5TThjWVVSamNocDNOSXRxaUFmVE1KTmMwVl9oNlhFSmZYY2thOVR2Nlo3VW5ndW4wczYyMXp6UmxINEJDMWZPUHhldGNidlhOdkhQQ0w4c3BLZFZLRTNKdEw4TTFjY2xqZDNEMGU2WVNiSFdFa0hILVpjOEpTcDJrWHZjaUloN0dRWks?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVNsRDNmSVdaUXhmRWF4UGM5TThjWVVSamNocDNOSXRxaUFmVE1KTmMwVl9oNlhFSmZYY2thOVR2Nlo3VW5ndW4wczYyMXp6UmxINEJDMWZPUHhldGNidlhOdkhQQ0w4c3BLZFZLRTNKdEw4TTFjY2xqZDNEMGU2WVNiSFdFa0hILVpjOEpTcDJrWHZjaUloN0dRWks?oc=5\" target=\"_blank\">Amazon MGM Gets a Much-Needed Hit With ‘Project Hail Mary’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-03-22T23:56:00+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Weekend Box Office: Project Hail Mary Scores Big Win for Amazon MGM - Rotten Tomatoes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDJEOXRKeHI1UGFDVENpeFM2aDFIa05SUFpsTV9vdmJjUi1DMFhyYktJNHVLTWc5SXA3d3dMTDBlM3lIN1BZT2hXR2dKOEJ2TnNhZTdIcTBfaDQ3S0F3OVBYTUNiT3dCZ0lGTFRfSGpVdF9OV3N6clRoU3lINzM2WGlvRVBrMklISjdPUnA3Tm5RZ2NERUZId0dQejNmcmFJQnlnOFNtMWprZjJLVGFpNTR3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDJEOXRKeHI1UGFDVENpeFM2aDFIa05SUFpsTV9vdmJjUi1DMFhyYktJNHVLTWc5SXA3d3dMTDBlM3lIN1BZT2hXR2dKOEJ2TnNhZTdIcTBfaDQ3S0F3OVBYTUNiT3dCZ0lGTFRfSGpVdF9OV3N6clRoU3lINzM2WGlvRVBrMklISjdPUnA3Tm5RZ2NERUZId0dQejNmcmFJQnlnOFNtMWprZjJLVGFpNTR3?oc=5\" target=\"_blank\">Weekend Box Office: Project Hail Mary Scores Big Win for Amazon MGM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rotten Tomatoes</font>",
-      "published": "2026-03-22T21:53:24+00:00",
-      "source": "Rotten Tomatoes"
-    },
-    {
-      "title": "‘Project Hail Mary’ Becomes Amazon’s Highest-Grossing Film Debut - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmp1SF9ILTA5UDRrTjJFS3BJc2tMaDRZN01ZRkhMa2QyM3FZaDlubExWUXRKY2xkZlhUU3hlcmhDUmRiZDhpTkNUNllBWDZIYnNhbUM0YU5jdFBqb19hbGFZOGRrWVBoYUlQQmNSR3NWbEJGaXRFRjlvNjRJeEtuQ3U0N0kxQWtFMEpSYnJuZWdXaUM2SG81QTN5N2xwOThySFgxOVJzZ18tRkpSaXhCZWltTjg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmp1SF9ILTA5UDRrTjJFS3BJc2tMaDRZN01ZRkhMa2QyM3FZaDlubExWUXRKY2xkZlhUU3hlcmhDUmRiZDhpTkNUNllBWDZIYnNhbUM0YU5jdFBqb19hbGFZOGRrWVBoYUlQQmNSR3NWbEJGaXRFRjlvNjRJeEtuQ3U0N0kxQWtFMEpSYnJuZWdXaUM2SG81QTN5N2xwOThySFgxOVJzZ18tRkpSaXhCZWltTjg?oc=5\" target=\"_blank\">‘Project Hail Mary’ Becomes Amazon’s Highest-Grossing Film Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-22T15:27:04+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "AWS at 20*: Inside the rise of Amazon’s cloud empire, and what’s at stake in the AI era - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVVZUU1HNXN5alhlOEJULVhtNG52RWZBWjdyUGpKbnJ2NjJ0SlM4TFZacGVUbTl2UGU2QVlsSkVwbDhjbk5HMXlTamVLOVpiX0c4NnBXd3J4VWhuSWw0dGdJRUVsUXN0NENvdDQwRTdodWZja0poVVYxeHRMeTRyek9aWGNraUxLTUJETndELTZhNW9sMHZfQ3hSRGVrT0F0RDRJTGZUenpZVGQxTWRjc3R0UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdVVZUU1HNXN5alhlOEJULVhtNG52RWZBWjdyUGpKbnJ2NjJ0SlM4TFZacGVUbTl2UGU2QVlsSkVwbDhjbk5HMXlTamVLOVpiX0c4NnBXd3J4VWhuSWw0dGdJRUVsUXN0NENvdDQwRTdodWZja0poVVYxeHRMeTRyek9aWGNraUxLTUJETndELTZhNW9sMHZfQ3hSRGVrT0F0RDRJTGZUenpZVGQxTWRjc3R0UQ?oc=5\" target=\"_blank\">AWS at 20*: Inside the rise of Amazon’s cloud empire, and what’s at stake in the AI era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-03-22T16:46:14+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "How a small Oregon company’s dealings with Amazon created a scandal - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWhhaXFuSHhJeGxFNWIwMUlzaWpQWnd5QXpEbFYyZWI4SFBCaXlITXdlUlpXbENGYXgtbnZKWlJ4Z21qeGlBNGNpWkFqb2xpczBZWW9VVk1idTItbXhodUVxc1NtQWxzU2w1Rm1YemRUdlNYcGlod0pOMGJRQXphT2dEcXpqemhzSGdncEYta0ZCU2ZQT2FPeW13MlZ2N0toT0lTLUVJUTh2UDZMdVhkeVBfLXdGemRhaE5TRWNB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWhhaXFuSHhJeGxFNWIwMUlzaWpQWnd5QXpEbFYyZWI4SFBCaXlITXdlUlpXbENGYXgtbnZKWlJ4Z21qeGlBNGNpWkFqb2xpczBZWW9VVk1idTItbXhodUVxc1NtQWxzU2w1Rm1YemRUdlNYcGlod0pOMGJRQXphT2dEcXpqemhzSGdncEYta0ZCU2ZQT2FPeW13MlZ2N0toT0lTLUVJUTh2UDZMdVhkeVBfLXdGemRhaE5TRWNB?oc=5\" target=\"_blank\">How a small Oregon company’s dealings with Amazon created a scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OregonLive.com</font>",
-      "published": "2026-03-23T12:05:00+00:00",
-      "source": "OregonLive.com"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Meta Platforms, Alphabet and Amazon - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUpYSEtmbzJzUmRCSERPdjNVa3daZk9CeEdjMmk1NUp6OHVwb2s2WVdlQk9ScDV0bU96ZXdLS25seG9FRUdlM0VfcHdCbjd3dkFxVllFeFlsRWtudXo1YzRMVjhJVFhXNE1OUXh1Mk1Ja3B0emVIS05lRk1lUFhxbVVYb2p6U0Ezak5Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUpYSEtmbzJzUmRCSERPdjNVa3daZk9CeEdjMmk1NUp6OHVwb2s2WVdlQk9ScDV0bU96ZXdLS25seG9FRUdlM0VfcHdCbjd3dkFxVllFeFlsRWtudXo1YzRMVjhJVFhXNE1OUXh1Mk1Ja3B0emVIS05lRk1lUFhxbVVYb2p6U0Ezak5Z?oc=5\" target=\"_blank\">The Zacks Analyst Blog Highlights Meta Platforms, Alphabet and Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "published": "2026-03-23T09:52:00+00:00",
-      "source": "Yahoo Finance Singapore"
-    },
-    {
-      "title": "100 yards of debris covers Hwy. 99 as Amazon trailer hits bridge pillar near Delano - KBAK",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZUZMSzI4dmFLODRrZDJvS2R0MVRQbG5rOEFXb0pVaVBGVWNUazdZNGRqUHpzQTVrX1hFY2lROGZ4ODZ1N2k3c2lXVWFHYmozNVdzYXBLWXNYOERLbU0zdFoyVWFOQ3BQUjM0czgwblZLRlNWYkVUaHNWNHdCTHRWLVBHYnR4REFtcUxsN3hYMVpVb0g2TEp2YXVHeGRRTzM5b1FMNjdteEpqVjQtbkpucGhLZFVvSDNGUXN5NGw2a2R4Q1d1bVIwcTYweHRadFFHZ0VqdzFlcDVwYW42QzVtSmdMTlc5TjJCY0lmaWhENVcxOV8yVmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZUZMSzI4dmFLODRrZDJvS2R0MVRQbG5rOEFXb0pVaVBGVWNUazdZNGRqUHpzQTVrX1hFY2lROGZ4ODZ1N2k3c2lXVWFHYmozNVdzYXBLWXNYOERLbU0zdFoyVWFOQ3BQUjM0czgwblZLRlNWYkVUaHNWNHdCTHRWLVBHYnR4REFtcUxsN3hYMVpVb0g2TEp2YXVHeGRRTzM5b1FMNjdteEpqVjQtbkpucGhLZFVvSDNGUXN5NGw2a2R4Q1d1bVIwcTYweHRadFFHZ0VqdzFlcDVwYW42QzVtSmdMTlc5TjJCY0lmaWhENVcxOV8yVmc?oc=5\" target=\"_blank\">100 yards of debris covers Hwy. 99 as Amazon trailer hits bridge pillar near Delano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBAK</font>",
-      "published": "2026-03-22T18:30:40+00:00",
-      "source": "KBAK"
-    },
-    {
-      "title": "Yes, Amazon Is Selling a Luxe-Looking Gazebo with Curtains and String Lights — and It’s Under $2K Right Now - People.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6YUFZb2E4U2V4Z1lsZktuQ19JZUZid3hrQTNGS0tHbVhIZmZ4VnBVV3FXMHlrMF9BN2FPMWlUSmlSaHB6LWdyRV9qSUVVNzVfQWV5RWJ1Mm9BY0x0aHdxQktsTTl5aE5fb3ZaaXE0dFhhRmgyYzdr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB6YUFZb2E4U2V4Z1lsZktuQ19JZUZid3hrQTNGS0tHbVhIZmZ4VnBVV3FXMHlrMF9BN2FPMWlUSmlSaHB6LWdyRV9qSUVVNzVfQWV5RWJ1Mm9BY0x0aHdxQktsTTl5aE5fb3ZaaXE0dFhhRmgyYzdr?oc=5\" target=\"_blank\">Yes, Amazon Is Selling a Luxe-Looking Gazebo with Curtains and String Lights — and It’s Under $2K Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2026-03-23T08:00:00+00:00",
+      "title": "Amazon's Outlet Quietly Dropped Early Big Spring Sale Deals with Clearance-Level Prices — Starting at $6 - People.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12dzJuWTd2UmJJblBSdzhkQ2gwSjRuTjNYd0hmX1VuTjg2Mng0OEhfdlFNTGVwU1VKejh2YkoyeVFEYllsWU1Zd2pFR3Izd3VEbmU5c1VHb3RDcEJWaXJWT0RiSDI0VGtvQTh5LV85R1lEeFZrcWgyUGNQbVVtaTg?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE12dzJuWTd2UmJJblBSdzhkQ2gwSjRuTjNYd0hmX1VuTjg2Mng0OEhfdlFNTGVwU1VKejh2YkoyeVFEYllsWU1Zd2pFR3Izd3VEbmU5c1VHb3RDcEJWaXJWT0RiSDI0VGtvQTh5LV85R1lEeFZrcWgyUGNQbVVtaTg?oc=5\" target=\"_blank\">Amazon's Outlet Quietly Dropped Early Big Spring Sale Deals with Clearance-Level Prices — Starting at $6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWhiaXNaMFZoVllETlFIeDBqRGs0RkRjRkFPWkEtUWVXVHpZYk54S1NGaVlvTm1mTVI5ajV4bWczenMzUVhEZkF4cGhKS01MSmtaOWpxQXB1ak9nbFlzSUFDcDNDX2d3UG01U3JxUC1Ma1BNaWVmZzA4U3ZMRFhuSGJBTGF2QU94dTFBcQ?oc=5\" target=\"_blank\">Amazon’s Big Spring Sale is 2 days away — here’s who can shop, plus 43+ actually worthwhile early deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4zcnQ3aDZVeXpnUV8wa0ZQaktHeHNrNEVjdnkzQng0ZFk1MUJwLVBKU09GaTA4TGZqaWg1LXIxZG5ITkFWZVlLTXN1b2YtV2EtaEc5a2FtR1c4LXhyR24xblJraGhRc2h1VTlOOXFNX2tINndfMThyRjBucTFOZw?oc=5\" target=\"_blank\">Buy This, Not That! 13 Smart Picks from Amazon’s Big Spring Sale You Should Get Before They’re Gone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font></li></ol>",
+      "published": "2026-03-23T10:00:00+00:00",
       "source": "People.com"
+    },
+    {
+      "title": "SpaceX hits back at Amazon in orbital datacenter dispute - theregister.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhXzQycGx4Tzl0dkdCczI3aC1SWEZpMEtVR3NLWEd2UW1sMDV1UWtZOHNVMjFYUTE5MTFGS2ZiRGx0WjJVVUFwTHZ1SzZRNHZGOWZaamhtNTVFU3hxUkI1MG5zb3ZKMzJPR0xETzh3SFdtM3NzcWJPaHd2bWVzdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBhXzQycGx4Tzl0dkdCczI3aC1SWEZpMEtVR3NLWEd2UW1sMDV1UWtZOHNVMjFYUTE5MTFGS2ZiRGx0WjJVVUFwTHZ1SzZRNHZGOWZaamhtNTVFU3hxUkI1MG5zb3ZKMzJPR0xETzh3SFdtM3NzcWJPaHd2bWVzdw?oc=5\" target=\"_blank\">SpaceX hits back at Amazon in orbital datacenter dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+      "published": "2026-03-23T14:29:00+00:00",
+      "source": "theregister.com"
+    },
+    {
+      "title": "FedEx launches same-day delivery with OneRail as Amazon, Walmart boost their speeds - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UbHJDcG1ja25jNWVtYmFQWXgxTlpWaXJvV0w5Q3ZNb3lDSHJQX0NnaWJmdFZlcTZJdDQ2SnB2TmFHRW9nRVJTbkZsR21yUmFkR1BxbEZxYnQ2NkZvd1ZMcDlNWTB6cENDN0pHVEtOcGZmM1ZvanJv0gF8QVVfeXFMTlk5QzJZWnZEaFdGeEJfN3FMRnJIRl9XOFo0LUY1VWpURmFOQ2Y5NFkyUmgtSk5GeG8yOWo3RkFwbENkc2IxakI5MzN4b3c0RHpMTG0weU1YcnlseGhTSkJucGVKaWw5QmdCREJMN283d1ozcnhHTFpCNVhsdg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9UbHJDcG1ja25jNWVtYmFQWXgxTlpWaXJvV0w5Q3ZNb3lDSHJQX0NnaWJmdFZlcTZJdDQ2SnB2TmFHRW9nRVJTbkZsR21yUmFkR1BxbEZxYnQ2NkZvd1ZMcDlNWTB6cENDN0pHVEtOcGZmM1ZvanJv0gF8QVVfeXFMTlk5QzJZWnZEaFdGeEJfN3FMRnJIRl9XOFo0LUY1VWpURmFOQ2Y5NFkyUmgtSk5GeG8yOWo3RkFwbENkc2IxakI5MzN4b3c0RHpMTG0weU1YcnlseGhTSkJucGVKaWw5QmdCREJMN283d1ozcnhHTFpCNVhsdg?oc=5\" target=\"_blank\">FedEx launches same-day delivery with OneRail as Amazon, Walmart boost their speeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-24T11:00:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Dyson, Who? Amazon Shoppers Prefer This ‘Lightweight’ Vacuum Over Pricey Models — and It's Only $90 Today - People.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IbF9ZN1RxOHJBNXVVeWpWdndSVUhUdjFJRmh5NHFyNlRWQjgyaXpDWHFhVXhodmVtVG5ucExjUUd0ck1uYlVHbzhDcjlHQnFLWTdVUWhzS1JIYldkakVpRVpKUDhVTHVreEs5Z2prX1JjbDhZam13YWpLZzNSQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9IbF9ZN1RxOHJBNXVVeWpWdndSVUhUdjFJRmh5NHFyNlRWQjgyaXpDWHFhVXhodmVtVG5ucExjUUd0ck1uYlVHbzhDcjlHQnFLWTdVUWhzS1JIYldkakVpRVpKUDhVTHVreEs5Z2prX1JjbDhZam13YWpLZzNSQQ?oc=5\" target=\"_blank\">Dyson, Who? Amazon Shoppers Prefer This ‘Lightweight’ Vacuum Over Pricey Models — and It's Only $90 Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-03-24T11:00:00+00:00",
+      "source": "People.com"
+    },
+    {
+      "title": "Exclusive: Amazon says AWS' Bahrain region 'disrupted' following drone activity - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlAyNDJVcXJ0QzhwU3hDSkk4N3AyclNTcTZqamJuWlRtemRab2hXTThrZDM1eW9VSDg4OGtLQlJLbi1NUnNqeXE2YlRsdnJHYXMxb1Fjd3Q3Z1Y5TE5kd3dyX0J0clVTZGdDNGE5Nk9neVEyY0pSUE94M1dDZ0t3YjZfOTJsZ3BuaGpuY2VaSFBETjRtWTBUUG5TRmt2YjdfT0xBVXF5aFJqNzVZZXpBdnlGX0J4VEJvTzZLVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlAyNDJVcXJ0QzhwU3hDSkk4N3AyclNTcTZqamJuWlRtemRab2hXTThrZDM1eW9VSDg4OGtLQlJLbi1NUnNqeXE2YlRsdnJHYXMxb1Fjd3Q3Z1Y5TE5kd3dyX0J0clVTZGdDNGE5Nk9neVEyY0pSUE94M1dDZ0t3YjZfOTJsZ3BuaGpuY2VaSFBETjRtWTBUUG5TRmt2YjdfT0xBVXF5aFJqNzVZZXpBdnlGX0J4VEJvTzZLVQ?oc=5\" target=\"_blank\">Exclusive: Amazon says AWS' Bahrain region 'disrupted' following drone activity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-24T04:52:40+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Amazon faces further AWS disruption in the Middle East from Iran conflict - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kS3NRdVJkaFJZek8xT0VhcGN2QmRLYnhTQzBIZEdacU8wazBLT0VYSHlwVFV3NkJhd19TTnhvUjNPT0NTZmlTcGRTN3NYOWE2YmV6TzFHRGpYSzNtLVRaZXNnVHJ3VDdrdmhyZFNmT2d2c29WVWt0VS1ZbHJscDTSAYQBQVVfeXFMUHJKbGJBMlJvVWF6VTg4dkZLdVF0VWlKRExuVGx0ckNpTEphY2Vub2tLcnM3Y1J3MktlQmQzaFhMdUZ4cFV6Rms3eEVFblNsbVFOYmxmbHFEVy04WEh2MzhlYzJwOG5SdDloVXV6YmxJek5pR21YMTUyYWJrdmxYWkpjMzc2?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9kS3NRdVJkaFJZek8xT0VhcGN2QmRLYnhTQzBIZEdacU8wazBLT0VYSHlwVFV3NkJhd19TTnhvUjNPT0NTZmlTcGRTN3NYOWE2YmV6TzFHRGpYSzNtLVRaZXNnVHJ3VDdrdmhyZFNmT2d2c29WVWt0VS1ZbHJscDTSAYQBQVVfeXFMUHJKbGJBMlJvVWF6VTg4dkZLdVF0VWlKRExuVGx0ckNpTEphY2Vub2tLcnM3Y1J3MktlQmQzaFhMdUZ4cFV6Rms3eEVFblNsbVFOYmxmbHFEVy04WEh2MzhlYzJwOG5SdDloVXV6YmxJek5pR21YMTUyYWJrdmxYWkpjMzc2?oc=5\" target=\"_blank\">Amazon faces further AWS disruption in the Middle East from Iran conflict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-24T07:57:18+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Exclusive-Amazon says AWS' Bahrain region 'disrupted' following drone activity - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2JvX3RHcmJEZmtwcVlvYVZSZXAzN0V4RGpLWXk3Mnp6RGhlX3Iyc1JpR0I4NWgtUkxjWFVDdkMzc0U5S0syWTRjRHgyOU01d1pGNHNlbDIwdEx5V1pQX25MNHRGMDQ4M0ZZUHozYnlsOTl1ZlRwV2tYUWp1ZGFBdlppRzR6dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2JvX3RHcmJEZmtwcVlvYVZSZXAzN0V4RGpLWXk3Mnp6RGhlX3Iyc1JpR0I4NWgtUkxjWFVDdkMzc0U5S0syWTRjRHgyOU01d1pGNHNlbDIwdEx5V1pQX25MNHRGMDQ4M0ZZUHozYnlsOTl1ZlRwV2tYUWp1ZGFBdlppRzR6dw?oc=5\" target=\"_blank\">Exclusive-Amazon says AWS' Bahrain region 'disrupted' following drone activity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-24T05:21:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "At least 66 killed after Colombian military plane crashes in southern Amazon - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTk1mMC1PbVlsSzJ3NjgyOU1ndFU3Q3h3VXQtYnVwVnByZHZtN0JlLV9IV0d2WUdxbGRScFYzcXBIQy1vZzRXVDQ5YS03RXQxUHZmWGFjZ1N1VGI4NFBNaFQyY2hYZk8ySzdDZEI4UmxsT2xiVU9TT3VDenJYSkt0dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTk1mMC1PbVlsSzJ3NjgyOU1ndFU3Q3h3VXQtYnVwVnByZHZtN0JlLV9IV0d2WUdxbGRScFYzcXBIQy1vZzRXVDQ5YS03RXQxUHZmWGFjZ1N1VGI4NFBNaFQyY2hYZk8ySzdDZEI4UmxsT2xiVU9TT3VDenJYSkt0dw?oc=5\" target=\"_blank\">At least 66 killed after Colombian military plane crashes in southern Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-03-23T17:12:00+00:00",
+      "source": "The Guardian"
     }
   ],
   "product_launches": [
     {
-      "title": "Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5\" target=\"_blank\">Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2025-09-18T07:00:00+00:00",
+      "title": "Contrivian Launches New Product Bundling Amazon Leo & Starlink - Payload Space",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWxjd2VDSjdENHZYcldldHRRZm9qa3ViRHl5ZXZ4SzRFVFc5UjFnTTZTaUtMTTNFLWNRb1RaLXQ4ZTJ6X0tLV0pKQy10SGVuX1VQcjlZS2liV2FWWmlEanV4a1ZRV1VLOUVZM0hhaHFBS25TdnRLYUF3THB1MlhGUHlRcmRQTU0yRGltN0dRSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWxjd2VDSjdENHZYcldldHRRZm9qa3ViRHl5ZXZ4SzRFVFc5UjFnTTZTaUtMTTNFLWNRb1RaLXQ4ZTJ6X0tLV0pKQy10SGVuX1VQcjlZS2liV2FWWmlEanV4a1ZRV1VLOUVZM0hhaHFBS25TdnRLYUF3THB1MlhGUHlRcmRQTU0yRGltN0dRSQ?oc=5\" target=\"_blank\">Contrivian Launches New Product Bundling Amazon Leo & Starlink</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Payload Space</font>",
+      "published": "2026-03-23T13:04:52+00:00",
+      "source": "Payload Space"
+    },
+    {
+      "title": "Amazon Ads launches agentic AI tools to transform ad creation and campaign management - manifest-media.in",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTlFY05Fekx6OUNRR0tEblhpWUxfRTZuR29UX3k4cmdSNjJxZ2dhZGowRkNpeUlrSzN4UGZGaVNZVEM3TGFpdGYzTlVFVGVQRENtemh5RU1jWjFoNVRnU3JMdW5DVDIxMGRfQW15SWlOdzdEcUtIQWV5N3lTSjVUNUtYZjFBS0kyVGNmZjQtMW5WNkZKUzZPc2lKeF84NzFfbXlLc0VYc0cySndlejdvRmpLTGlLeTVTQjYtSDQ4VENhdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTlFY05Fekx6OUNRR0tEblhpWUxfRTZuR29UX3k4cmdSNjJxZ2dhZGowRkNpeUlrSzN4UGZGaVNZVEM3TGFpdGYzTlVFVGVQRENtemh5RU1jWjFoNVRnU3JMdW5DVDIxMGRfQW15SWlOdzdEcUtIQWV5N3lTSjVUNUtYZjFBS0kyVGNmZjQtMW5WNkZKUzZPc2lKeF84NzFfbXlLc0VYc0cySndlejdvRmpLTGlLeTVTQjYtSDQ4VENhdw?oc=5\" target=\"_blank\">Amazon Ads launches agentic AI tools to transform ad creation and campaign management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">manifest-media.in</font>",
+      "published": "2026-03-24T05:45:00+00:00",
+      "source": "manifest-media.in"
+    },
+    {
+      "title": "Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDRE9KZFRCUXlwWWtnaVNEOTVQZE1NanBGY3pLSGNBdHlnVGpnWHhkdm5YUFNaNVRVU3dleDJnTmx3NU5jNDM0djA4Z1NVdjJ4T01RMmh1YjdmRWFidTlCS0NwdGhjdTRNWjktS3ZxeWJkSmdfSVFwWXZTZ0U0dk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBDRE9KZFRCUXlwWWtnaVNEOTVQZE1NanBGY3pLSGNBdHlnVGpnWHhkdm5YUFNaNVRVU3dleDJnTmx3NU5jNDM0djA4Z1NVdjJ4T01RMmh1YjdmRWFidTlCS0NwdGhjdTRNWjktS3ZxeWJkSmdfSVFwWXZTZ0U0dk0?oc=5\" target=\"_blank\">Amazon launches Health AI agent on Amazon website and app with free 24/7 access to virtual care for Prime members</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-03-10T07:00:00+00:00",
       "source": "About Amazon"
     },
     {
-      "title": "Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products - bbwinc.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5\" target=\"_blank\">Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbwinc.com</font>",
-      "published": "2026-02-20T08:00:00+00:00",
-      "source": "bbwinc.com"
+      "title": "Amazon Ads launches Creative Agent, Ads Agent in India - Mediabrief.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pd2Y1T24zd3JxSzcxVURhWVFuRFJxcnZMZVFFOElZSjMzMlVUSjlZNkJxM2ZwUEVHNFUzYlMwNm4ycmhQTXJMaGhXNHk1eTEzVFI5NHl0ekFoQ182dlkyUEVFLWJ4Zl9DZUN2SmFMUVlJNThKLW00?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pd2Y1T24zd3JxSzcxVURhWVFuRFJxcnZMZVFFOElZSjMzMlVUSjlZNkJxM2ZwUEVHNFUzYlMwNm4ycmhQTXJMaGhXNHk1eTEzVFI5NHl0ekFoQ182dlkyUEVFLWJ4Zl9DZUN2SmFMUVlJNThKLW00?oc=5\" target=\"_blank\">Amazon Ads launches Creative Agent, Ads Agent in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mediabrief.com</font>",
+      "published": "2026-03-24T10:14:56+00:00",
+      "source": "Mediabrief.com"
     },
     {
-      "title": "Why Amazon wants to get products to your door in one hour - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHAxc1FaMXlEaEIzRzJnUW15aEkxZGxCZ09jbFBjbFF5eG13UXUzNEpZOFJYSG5vRkZwbzI2dGwtSXdrVjNVUnFtd2NvWjlPc1AxdFlaNUJDdWFyVUp0T3dySm9mX3lNOUctOEdFUkRuSFh2TDIyTW5TZzFvQTdWenVSbE90TjJiT1VMbXpjTG42TkJnejdTRTR2S0pCRXFPLU9V0gG3AUFVX3lxTE1mX2pnSC00cmEwUFVlalpncUkyNmZsa2VPUlVRZWgtVE1kbU5vN0h3emRxZk1UN3dmaXc3Rjl6MllqOWR5TV9KcklxQi1NTWtkNWZYMG5lbk5YelU2dFUzYzcxRkxMTDdhSklNS0JvV0ZXMFdKVzBjLVpxZTEzXzhWdDZOaUstNzVGQk5qNE80YnhKWHJHV19yM2VkaXBBRElhc3puQlZ5Uk9UQTJwQldGbUpTMVNoWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHAxc1FaMXlEaEIzRzJnUW15aEkxZGxCZ09jbFBjbFF5eG13UXUzNEpZOFJYSG5vRkZwbzI2dGwtSXdrVjNVUnFtd2NvWjlPc1AxdFlaNUJDdWFyVUp0T3dySm9mX3lNOUctOEdFUkRuSFh2TDIyTW5TZzFvQTdWenVSbE90TjJiT1VMbXpjTG42TkJnejdTRTR2S0pCRXFPLU9V0gG3AUFVX3lxTE1mX2pnSC00cmEwUFVlalpncUkyNmZsa2VPUlVRZWgtVE1kbU5vN0h3emRxZk1UN3dmaXc3Rjl6MllqOWR5TV9KcklxQi1NTWtkNWZYMG5lbk5YelU2dFUzYzcxRkxMTDdhSklNS0JvV0ZXMFdKVzBjLVpxZTEzXzhWdDZOaUstNzVGQk5qNE80YnhKWHJHV19yM2VkaXBBRElhc3puQlZ5Uk9UQTJwQldGbUpTMVNoWQ?oc=5\" target=\"_blank\">Why Amazon wants to get products to your door in one hour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland.com</font>",
-      "published": "2026-03-18T15:28:00+00:00",
-      "source": "Cleveland.com"
-    },
-    {
-      "title": "Amazon unveils new device lineup with AI powered experiences - About Amazon Europe",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWo3TWMtcGU5NEstejVJM3ozNFVvMGJaVVdabW5HRXk3OHdvQ2wzSkF3bmRFbi04alFkb3g2M1JrSVU5bVFMQjhZTVdwaGF1LXZCTXROSHJxcG1Ja3JTeHBieVBkT3daaTRrZHhFX0syS01hbHNmSUFSdnAwMzdmbHdCeUtpOEMxcFJ5UGpQY00tUDhFaDFpb3RvUl9nc1FJMHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWo3TWMtcGU5NEstejVJM3ozNFVvMGJaVVdabW5HRXk3OHdvQ2wzSkF3bmRFbi04alFkb3g2M1JrSVU5bVFMQjhZTVdwaGF1LXZCTXROSHJxcG1Ja3JTeHBieVBkT3daaTRrZHhFX0syS01hbHNmSUFSdnAwMzdmbHdCeUtpOEMxcFJ5UGpQY00tUDhFaDFpb3RvUl9nc1FJMHc?oc=5\" target=\"_blank\">Amazon unveils new device lineup with AI powered experiences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon Europe</font>",
-      "published": "2025-10-02T07:00:00+00:00",
-      "source": "About Amazon Europe"
-    },
-    {
-      "title": "Amazon launches AI-generated ‘canvas’ for sellers as e-commerce platforms race to add AI tools - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmh1Tlp5U25KREJmekJERXQxeGtjZEhNN3NaektiYlVoTXdNcDNObHdEUkF4UjZuMTIwcF9PY2tRU3NPNllrUVREUVF5R2Y5RkxHZkppamtRQ2diaUd6NnZGLUxCa2E5MUhQVk43QkRqNXpqMklKU05xUlJDMjFWRFZwWWNGbHlGZEdIR1Ezc2FaTzFMM1ZSZ0NvMzRvZ1k0OGtCYlM3Ui1nWlVwS3o4OGtLekhsTDhhV3A5Q3c2T3E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmh1Tlp5U25KREJmekJERXQxeGtjZEhNN3NaektiYlVoTXdNcDNObHdEUkF4UjZuMTIwcF9PY2tRU3NPNllrUVREUVF5R2Y5RkxHZkppamtRQ2diaUd6NnZGLUxCa2E5MUhQVk43QkRqNXpqMklKU05xUlJDMjFWRFZwWWNGbHlGZEdIR1Ezc2FaTzFMM1ZSZ0NvMzRvZ1k0OGtCYlM3Ui1nWlVwS3o4OGtLekhsTDhhV3A5Q3c2T3E?oc=5\" target=\"_blank\">Amazon launches AI-generated ‘canvas’ for sellers as e-commerce platforms race to add AI tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-03-03T08:00:00+00:00",
-      "source": "GeekWire"
+      "title": "Amazon launches one-hour shipping - Audacy",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnhYb0FEUl9XMU5hdEdwSHJyN2RHTEV2NWpvcG1wRG5VNnlONnRpdG1yNTNMWWQySzYzdkczRHpZSGh1cVlHeXVHQ2VUVGszdHNrNmtmczJkLWZ4WlVKT3RJNjhfZElDSGdqOHhsck9tRldTcDZxc1ZDVGoxUmwzb0lEczdubG8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnhYb0FEUl9XMU5hdEdwSHJyN2RHTEV2NWpvcG1wRG5VNnlONnRpdG1yNTNMWWQySzYzdkczRHpZSGh1cVlHeXVHQ2VUVGszdHNrNmtmczJkLWZ4WlVKT3RJNjhfZElDSGdqOHhsck9tRldTcDZxc1ZDVGoxUmwzb0lEczdubG8?oc=5\" target=\"_blank\">Amazon launches one-hour shipping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>",
+      "published": "2026-03-18T04:02:17+00:00",
+      "source": "Audacy"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-20",
-      "close": 205.3699951171875
+      "date": "2026-03-23",
+      "close": 210.13999938964844
     },
     "history": [
-      {
-        "date": "2026-03-12",
-        "close": 209.52999877929688
-      },
       {
         "date": "2026-03-13",
         "close": 207.6699981689453
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-20",
         "close": 205.3699951171875
+      },
+      {
+        "date": "2026-03-23",
+        "close": 210.13999938964844
       }
     ],
     "name": "Amazon.com, Inc."

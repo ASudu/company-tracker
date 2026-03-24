@@ -2,42 +2,21 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-03-23T12:42:32.481743+00:00",
+  "fetched_at": "2026-03-24T12:47:43.192145+00:00",
   "news": [
     {
-      "title": "The Rise of the Ray-Ban Meta Creep - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSlFRU3lpbDVqTldHVlRHbGJ6a1JtTnBRZVF5eEQ5eS0xa0hYOUszYi1zRmR6UWFoMUUxLWZqU2hBSVV5eWE4NU1CQmtsalk3Q1JhMUxaNlpiVnRrUTJWQm9lakdzY3EwWGtNRDlmUXI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSlFRU3lpbDVqTldHVlRHbGJ6a1JtTnBRZVF5eEQ5eS0xa0hYOUszYi1zRmR6UWFoMUUxLWZqU2hBSVV5eWE4NU1CQmtsalk3Q1JhMUxaNlpiVnRrUTJWQm9lakdzY3EwWGtNRDlmUXI?oc=5\" target=\"_blank\">The Rise of the Ray-Ban Meta Creep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-03-23T11:00:00+00:00",
-      "source": "WIRED"
-    },
-    {
       "title": "Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQTHJEbzlBRlEzMVBXX3drN2Fnb0k3Sk9zSFlLT2xsVmNkU1M1MHNLZWx1VUpVOUlaTmkwNk5ETjlUdW83RGRWOGZ6QUJfY3RmNnRUTmRsNDJDTHJuTDJydDlvblVub0hIU2EyanJpZHpROXl5ekFaaXpUVGlKdGZGZmhRaFJJT0tFa3BWNmZ3ME9nX3VrVjVZSEZ1UEo5QUh5ZUF3cE5qaUpaM29zVWRRZlFBYkt2RVgyNDNabnF0STVSZHgzMnRKWVlFcm85a1lCS1pQWFJfYUZlbWo0NGd4X0hqZ1R2OHlDMHU1YW1aZ0xybVItVFBYQUFVRDkweGRHUWo0Q2FtUWR0N2IzejVCaGZPMUI5cHg4SHRxRzNxSU84OXdDemlRdnRFb1ZkUWJoMlZDelBmWm85WnhSREdrSk5YczEyaUFTNF9leTQ3dXhJLVQzQ2lSQWVLX1FPcDJROGtoNzM3UFlubGZVQklxejl6ZDFKLVZDdzZUQzJaR3BxNnpqWnh3dkVkZ3BHaFFVcHN2SA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxQTHJEbzlBRlEzMVBXX3drN2Fnb0k3Sk9zSFlLT2xsVmNkU1M1MHNLZWx1VUpVOUlaTmkwNk5ETjlUdW83RGRWOGZ6QUJfY3RmNnRUTmRsNDJDTHJuTDJydDlvblVub0hIU2EyanJpZHpROXl5ekFaaXpUVGlKdGZGZmhRaFJJT0tFa3BWNmZ3ME9nX3VrVjVZSEZ1UEo5QUh5ZUF3cE5qaUpaM29zVWRRZlFBYkt2RVgyNDNabnF0STVSZHgzMnRKWVlFcm85a1lCS1pQWFJfYUZlbWo0NGd4X0hqZ1R2OHlDMHU1YW1aZ0xybVItVFBYQUFVRDkweGRHUWo0Q2FtUWR0N2IzejVCaGZPMUI5cHg4SHRxRzNxSU84OXdDemlRdnRFb1ZkUWJoMlZDelBmWm85WnhSREdrSk5YczEyaUFTNF9leTQ3dXhJLVQzQ2lSQWVLX1FPcDJROGtoNzM3UFlubGZVQklxejl6ZDFKLVZDdzZUQzJaR3BxNnpqWnh3dkVkZ3BHaFFVcHN2SA?oc=5\" target=\"_blank\">Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQWjQ4X1FVX1pZeFJJNTJLTE5wbm5nTjJTV0hOX21tTTZYTy1Ba2tXbmxsWjBEdEVfYjVDTWxuZ1B5Ujh5OUFSU2dXdzVWd1g0S3NGRXBuZUNtbmZnRHVEa0ppSVAxYmdQNU8wQktxaDZkLWR3dDJEXzJxZXJSQ1IydWxXN3M0aWdoR3p0OXNNT1lZOHpWeTYtcVdXeDRyQzNWNm90RUthM3B1MFQ4U3lLWTAzSlRvczVHNmNZd3Q3cFZXclh6eGRYWEVLZndpZ1l3encxTlctaWU5N0daV0czTUFPRmVBelZaeXN5cThoUHJRVEJ5SmxQUzAxWTdWaFlSeVAteGNTeWFMSEM1M2pIeVRPM0d2bjVCTHJpQzBOQldjeklhUWJ2WnFrZlZLVTNnQUliSS1ZSGZMNTIyZWc4dERONHA4Tzl2QjhsVG5fM2JQSDU1QVd3T1lBZGZJeUhkcUxsNjNOdzNTLXlkdmNPNEVDOElmR3ota21Vb2tsX0dYTHBzSVNxelkxYnBMVWhHR01lUg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxQWjQ4X1FVX1pZeFJJNTJLTE5wbm5nTjJTV0hOX21tTTZYTy1Ba2tXbmxsWjBEdEVfYjVDTWxuZ1B5Ujh5OUFSU2dXdzVWd1g0S3NGRXBuZUNtbmZnRHVEa0ppSVAxYmdQNU8wQktxaDZkLWR3dDJEXzJxZXJSQ1IydWxXN3M0aWdoR3p0OXNNT1lZOHpWeTYtcVdXeDRyQzNWNm90RUthM3B1MFQ4U3lLWTAzSlRvczVHNmNZd3Q3cFZXclh6eGRYWEVLZndpZ1l3encxTlctaWU5N0daV0czTUFPRmVBelZaeXN5cThoUHJRVEJ5SmxQUzAxWTdWaFlSeVAteGNTeWFMSEM1M2pIeVRPM0d2bjVCTHJpQzBOQldjeklhUWJ2WnFrZlZLVTNnQUliSS1ZSGZMNTIyZWc4dERONHA4Tzl2QjhsVG5fM2JQSDU1QVd3T1lBZGZJeUhkcUxsNjNOdzNTLXlkdmNPNEVDOElmR3ota21Vb2tsX0dYTHBzSVNxelkxYnBMVWhHR01lUg?oc=5\" target=\"_blank\">Exclusive | OpenAI Taps Former Meta Executive to Lead Ad Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
       "published": "2026-03-23T12:00:00+00:00",
       "source": "WSJ"
     },
     {
-      "title": "Landmark trial in New Mexico to decide whether Meta misled users about children's safety risks - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHhUZVNNV1M2cG4zUGJnTU1ab1poM21Fa3NlSWxDZ1hmbGQ4VzRQMThjZFhfb0RsMHhTNm5qMVFKSUxJTEo1akttQ0pTN1VmZWJmbVVGQlRUMmdsMG5wcXVoR3R5VU5BUE9fUEFUN1g2Z1ZkYjRBeGtraVBXak1GbjdUTFlKT25DbHRSVDdB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHhUZVNNV1M2cG4zUGJnTU1ab1poM21Fa3NlSWxDZ1hmbGQ4VzRQMThjZFhfb0RsMHhTNm5qMVFKSUxJTEo1akttQ0pTN1VmZWJmbVVGQlRUMmdsMG5wcXVoR3R5VU5BUE9fUEFUN1g2Z1ZkYjRBeGtraVBXak1GbjdUTFlKT25DbHRSVDdB?oc=5\" target=\"_blank\">Landmark trial in New Mexico to decide whether Meta misled users about children's safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-03-23T11:10:08+00:00",
-      "source": "Yahoo! Finance Canada"
-    },
-    {
-      "title": "Meta and Mark Zuckerberg Didn't Lose $80 Billion on the Metaverse - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczQ5SzZ0ZVBuOUkzaFM2MTk4enJHX1lCZGpMQlhGLXVac21UWXpDY1RfazdUcHNMTU95cUdFQzZGdU5vNXZfVzdINk43d1BKSDFxS3NLYW8xd1hVQUxaa283S0FYdG5xS2FQZ0dHaXF4alk4M0ozQkV5c25zV0hoMlptNkpFUnR3LWJBUl8tTF82Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQczQ5SzZ0ZVBuOUkzaFM2MTk4enJHX1lCZGpMQlhGLXVac21UWXpDY1RfazdUcHNMTU95cUdFQzZGdU5vNXZfVzdINk43d1BKSDFxS3NLYW8xd1hVQUxaa283S0FYdG5xS2FQZ0dHaXF4alk4M0ozQkV5c25zV0hoMlptNkpFUnR3LWJBUl8tTF82Zw?oc=5\" target=\"_blank\">Meta and Mark Zuckerberg Didn't Lose $80 Billion on the Metaverse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-03-21T10:03:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence) - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2ZBcWFRTHVaS0NEZm16enJ6MEF2azJGdW14c21xbnVjQmRmbEJqQWNBWFZwZUNrS1RWUGJLNjRMaERCSUpmczhvSVJtTkJnOE1pSFM2Ulh0V2ljdmZGM3E2cHhHcW11LUpCUXN2ZzM0WGxxcDJKSzkzc2l3M0duZDVXQ1dIY0tnMkNGQ3ppNGRUWWxhUmV4emh2M0c1S2RIVldJVlhoZXMxRXpzQnoyUEZiSl9ScnVrR2tlRmZ5Ry0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2ZBcWFRTHVaS0NEZm16enJ6MEF2azJGdW14c21xbnVjQmRmbEJqQWNBWFZwZUNrS1RWUGJLNjRMaERCSUpmczhvSVJtTkJnOE1pSFM2Ulh0V2ljdmZGM3E2cHhHcW11LUpCUXN2ZzM0WGxxcDJKSzkzc2l3M0duZDVXQ1dIY0tnMkNGQ3ppNGRUWWxhUmV4emh2M0c1S2RIVldJVlhoZXMxRXpzQnoyUEZiSl9ScnVrR2tlRmZ5Ry0?oc=5\" target=\"_blank\">Meta AI agent’s instruction causes large sensitive data leak to employees | AI (artificial intelligence)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-03-20T07:03:00+00:00",
-      "source": "The Guardian"
+      "title": "Jury begins deliberations in landmark New Mexico trial over children’s safety risks on Meta - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkx3ZVlvUVVBTXhpRTFHMHZNNWRMTUNhYVVWc2x6R2ZKQjdDMUNESzEzR0xKUmgwZ3pCYUo3RnJGUFdRdTJyS0pJNDh2WFpCTXVaZW9iUkcwYk93STRpTDZxQmpsaF93T1hPdnhOUGZNM0hoaTg1RUF2dUFTWUcyQmVEZ2NtdDhkRmxSUGo3dlBOTDR5enBweE1iS20?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZkx3ZVlvUVVBTXhpRTFHMHZNNWRMTUNhYVVWc2x6R2ZKQjdDMUNESzEzR0xKUmgwZ3pCYUo3RnJGUFdRdTJyS0pJNDh2WFpCTXVaZW9iUkcwYk93STRpTDZxQmpsaF93T1hPdnhOUGZNM0hoaTg1RUF2dUFTWUcyQmVEZ2NtdDhkRmxSUGo3dlBOTDR5enBweE1iS20?oc=5\" target=\"_blank\">Jury begins deliberations in landmark New Mexico trial over children’s safety risks on Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHBtcERSbkYwckh3SmdwV082ZjZFMWZ3dnR4aHhWTjZNdThxcTRPYU94dlFpOUNQOGd1Q3Z1SnlrR1lFUkNsNm9VX2hyQkJaVDZFT25Rb1JtWHhycXNYSUpralpWZ3B5LTVVRXJVb0dYU21zZFVySU5hV3Z2Z2Z2ckpwWUtkWHZOdDA1NHFpS1BXY3ExNjVpd2VFVUU4UUFsbmswcU9UYlAwVnVnM3dMN1dESnlGMHY5ZXpoWG50QQ?oc=5\" target=\"_blank\">Jury in landmark Meta, Google addiction trial having difficulty coming to consensus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxONWNUS1FhTTlpeHNoRTg5RU9sdzNsQVVUUm5BUXN5eUZWVHEzc1ZrQ21ETXRNVVVyUnRhc1lWQWdYSkZOeTNyV3BRZmkxRFZwdl9VQ0otdi00bnZnQk9vdFdxbmdjYmFWVWd5eXBGeTJnUTh5dHZqYWVjLVIwVXM5cA?oc=5\" target=\"_blank\">Meta is accused of enabling child sexual exploitation. Now a New Mexico jury must decide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+      "published": "2026-03-24T01:02:00+00:00",
+      "source": "AP News"
     },
     {
       "title": "Google CEO Sundar Pichai says AI could do his job, and Meta CEO Mark Zuckerberg is already working to 'pr - The Times of India",
@@ -47,21 +26,49 @@
       "source": "The Times of India"
     },
     {
-      "title": "Mark Zuckerberg and the ‘jobs apocalypse’ coming for Silicon Valley - The Times",
-      "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbUVNc3d3U2N6dFIyZzBFMXctdmh6OUxVTUM1RHBJcjBEUmhWSjlzZVR6bDMtWVhWanZ4SVMzLVlfNXNZWWFyZmVuM0VwQzEtVUhqQkczWm9LMWluakFyNXVOaVVjZzNlMnFBS0RZVWxLMFEySFIzODdJSk4xOWQwSU9JVlpobnl6ZG1SYlJWUVBOY3J2cVRLckZ4SVBmbXd6VXhfNmgzY0ZsaVBFMURtNXVxWHhpcDJnQnpucWFvOWUzQW9zR21WRko0MThLRl9sYlZybnFpLXltUG1qb2VCdVJRU0pFUlh2cnJScjlfNkxWUm4wYkRmUk9GajdNaHhBcnZFa0EzT2l4X0RMM3RwdEZfbWZteWtvVC14Sy1EQU1JTUpJVkFLZW1DeTlucktndzdzLU0zaEJmUmV3cjNTUVlER2tSYWJDOVdnRWdBVFo4MWpoZmhEY19vWjdmbDNXSkVlaWdpalpKLU1LblV2Y2VQZjRPQWRscGI4S2JrS25TNEVxZkZJb0FoUzFIT1lqQ1hGQ29MX09MU1BCcWxPQndnNXVQZWozTzZRanlxYkhyRExaekc3aERwVVF2eVg3ZDFyeWlZOHRCRTBl?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxNbUVNc3d3U2N6dFIyZzBFMXctdmh6OUxVTUM1RHBJcjBEUmhWSjlzZVR6bDMtWVhWanZ4SVMzLVlfNXNZWWFyZmVuM0VwQzEtVUhqQkczWm9LMWluakFyNXVOaVVjZzNlMnFBS0RZVWxLMFEySFIzODdJSk4xOWQwSU9JVlpobnl6ZG1SYlJWUVBOY3J2cVRLckZ4SVBmbXd6VXhfNmgzY0ZsaVBFMURtNXVxWHhpcDJnQnpucWFvOWUzQW9zR21WRko0MThLRl9sYlZybnFpLXltUG1qb2VCdVJRU0pFUlh2cnJScjlfNkxWUm4wYkRmUk9GajdNaHhBcnZFa0EzT2l4X0RMM3RwdEZfbWZteWtvVC14Sy1EQU1JTUpJVkFLZW1DeTlucktndzdzLU0zaEJmUmV3cjNTUVlER2tSYWJDOVdnRWdBVFo4MWpoZmhEY19vWjdmbDNXSkVlaWdpalpKLU1LblV2Y2VQZjRPQWRscGI4S2JrS25TNEVxZkZJb0FoUzFIT1lqQ1hGQ29MX09MU1BCcWxPQndnNXVQZWozTzZRanlxYkhyRExaekc3aERwVVF2eVg3ZDFyeWlZOHRCRTBl?oc=5\" target=\"_blank\">Mark Zuckerberg and the ‘jobs apocalypse’ coming for Silicon Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
-      "published": "2026-03-21T11:01:00+00:00",
-      "source": "The Times"
+      "title": "The message Mark Zuckerberg is sending with his AI sidekick - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01Wm5BSFpHamZRaUU0MFdUUkFyT0NUc0JWOERkaktTb0ZORkRlWE13ZVBHRkgzM0xHTHVLS0JUMm5Qa21vdUtxbGFNRzV2dFZWVUIwenlrbl9ZQVl1SWQwSXlUN2J6ZFFwNC1vb2hKYUFscFpqV29TS0FR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE01Wm5BSFpHamZRaUU0MFdUUkFyT0NUc0JWOERkaktTb0ZORkRlWE13ZVBHRkgzM0xHTHVLS0JUMm5Qa21vdUtxbGFNRzV2dFZWVUIwenlrbl9ZQVl1SWQwSXlUN2J6ZFFwNC1vb2hKYUFscFpqV29TS0FR?oc=5\" target=\"_blank\">The message Mark Zuckerberg is sending with his AI sidekick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-03-24T11:28:00+00:00",
+      "source": "Fortune"
     },
     {
-      "title": "Prediction: Oracle Will Be Worth More Than Meta by 2028. Here's Why. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVVrUG9FaW13LTROeGlnSXZaTEN5dzJORWpfb3djb3RzQ09uMks5M2R6T2Rhb01OS2JkM01rOUVpdXZ1aG5UVXQ3U0I5NVpjTDZkS2V1V1JROHZLVHBKUWhTY3hYSFR4RDFsWHdiV2xHMVp3T1pmWm5KR3BsaFBHdFJRVm1jNng2b3NFc2VjeVVGMkowbnJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTVVrUG9FaW13LTROeGlnSXZaTEN5dzJORWpfb3djb3RzQ09uMks5M2R6T2Rhb01OS2JkM01rOUVpdXZ1aG5UVXQ3U0I5NVpjTDZkS2V1V1JROHZLVHBKUWhTY3hYSFR4RDFsWHdiV2xHMVp3T1pmWm5KR3BsaFBHdFJRVm1jNng2b3NFc2VjeVVGMkowbnJ3?oc=5\" target=\"_blank\">Prediction: Oracle Will Be Worth More Than Meta by 2028. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-21T10:30:00+00:00",
-      "source": "The Motley Fool"
+      "title": "Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxNMkYzQlRyTDRyTllaZmxTZ1lQTTFpLUk2YXd3eW9qdzZMUXRqbS1mdXNyTlVVYzBHazBHdzhyT3N1cno0N1VmellrS0RsY28xbzFYR0x2eTVEM2Z4OE9WbXR6TWlIblRNQ0RFdERmV09TODY2bUU3Q3R1cGh1Wk45U2ozeUx6RDNCaVU2TFQ4bzA1Z19kM2RKZmJxUUdqRTFjYVA5c2F3Y3NZQXdhRjFXeTV2S0c4TUpYX1pDZ0Flalg5Qks1TWRHRjd3c01RLWliaXViOFJSdV9aTVBnZElrNHh0WDhzbDV4TjJrN0Y5VnpiT244OXFqNUczUlYtQnN0dEJhaUY3Q1BYUmVSRlJUZkltaC1jMHhxdnZhNEM2d2YtRktCbzZZLUNRemJUNnMxZTFnYWQxeVM2OGNYN2hqU3VSUEJ2RVpnNW5CTW1TdDdIS3pSR3FrMmRMLVZ5RFlzMmN2WGpaczFyMlNDUEsyTE5MT1JzSDZMRFNDNF9lQmZfVUJwYTlQNWVUVm1WdV9pWWxRUm1XWGRwTWVDNmxlZQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNMkYzQlRyTDRyTllaZmxTZ1lQTTFpLUk2YXd3eW9qdzZMUXRqbS1mdXNyTlVVYzBHazBHdzhyT3N1cno0N1VmellrS0RsY28xbzFYR0x2eTVEM2Z4OE9WbXR6TWlIblRNQ0RFdERmV09TODY2bUU3Q3R1cGh1Wk45U2ozeUx6RDNCaVU2TFQ4bzA1Z19kM2RKZmJxUUdqRTFjYVA5c2F3Y3NZQXdhRjFXeTV2S0c4TUpYX1pDZ0Flalg5Qks1TWRHRjd3c01RLWliaXViOFJSdV9aTVBnZElrNHh0WDhzbDV4TjJrN0Y5VnpiT244OXFqNUczUlYtQnN0dEJhaUY3Q1BYUmVSRlJUZkltaC1jMHhxdnZhNEM2d2YtRktCbzZZLUNRemJUNnMxZTFnYWQxeVM2OGNYN2hqU3VSUEJ2RVpnNW5CTW1TdDdIS3pSR3FrMmRMLVZ5RFlzMmN2WGpaczFyMlNDUEsyTE5MT1JzSDZMRFNDNF9lQmZfVUJwYTlQNWVUVm1WdV9pWWxRUm1XWGRwTWVDNmxlZQ?oc=5\" target=\"_blank\">Exclusive | Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-03-22T22:37:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "Erste Group Upgrades Meta (META) to Buy, Highlights the Company’s AI Investments - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHJDejlmTDVhMzFidER2Rjg3el9CdEg0TXVRbXBqZnc2Ty01Z0dWaVo4aXlNRzBITWt6OGduWFdWaXMxNVcyOXpNMVpuNllqSzZFa1ZBelBqbUQzbzNQZjF2TFE2c0JHYzJFUUFINWRSLWlxandnOU1JR2tQZTFIZVJHZW9nMVdra1BKa2Y3cnpVSW1CX0o1dzZNOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHJDejlmTDVhMzFidER2Rjg3el9CdEg0TXVRbXBqZnc2Ty01Z0dWaVo4aXlNRzBITWt6OGduWFdWaXMxNVcyOXpNMVpuNllqSzZFa1ZBelBqbUQzbzNQZjF2TFE2c0JHYzJFUUFINWRSLWlxandnOU1JR2tQZTFIZVJHZW9nMVdra1BKa2Y3cnpVSW1CX0o1dzZNOA?oc=5\" target=\"_blank\">Erste Group Upgrades Meta (META) to Buy, Highlights the Company’s AI Investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-24T11:27:16+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Rise of the Ray-Ban Meta Creep - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSlFRU3lpbDVqTldHVlRHbGJ6a1JtTnBRZVF5eEQ5eS0xa0hYOUszYi1zRmR6UWFoMUUxLWZqU2hBSVV5eWE4NU1CQmtsalk3Q1JhMUxaNlpiVnRrUTJWQm9lakdzY3EwWGtNRDlmUXI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSlFRU3lpbDVqTldHVlRHbGJ6a1JtTnBRZVF5eEQ5eS0xa0hYOUszYi1zRmR6UWFoMUUxLWZqU2hBSVV5eWE4NU1CQmtsalk3Q1JhMUxaNlpiVnRrUTJWQm9lakdzY3EwWGtNRDlmUXI?oc=5\" target=\"_blank\">The Rise of the Ray-Ban Meta Creep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-03-23T11:00:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Meta Hires AI Startup Dreamer’s Team - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeEVxdGxpbXlMb3BLa2xYc2doZjhEQ0l0OFNDeTdrTHhkakw3WGxfb3RSUU9vY1dPNkRCYXhra1Zrd1Z5MEdzdV82Q3BoVEtvdC1tTHVlZzRwOXJ6MDkxb09xN2ZBMDVEajV0ang1b3NRVjZSNEZkVkg1VnFZWDBLaTlR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeEVxdGxpbXlMb3BLa2xYc2doZjhEQ0l0OFNDeTdrTHhkakw3WGxfb3RSUU9vY1dPNkRCYXhra1Zrd1Z5MEdzdV82Q3BoVEtvdC1tTHVlZzRwOXJ6MDkxb09xN2ZBMDVEajV0ang1b3NRVjZSNEZkVkg1VnFZWDBLaTlR?oc=5\" target=\"_blank\">Meta Hires AI Startup Dreamer’s Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-03-23T20:16:00+00:00",
+      "source": "The Information"
     }
   ],
   "product_launches": [
+    {
+      "title": "36 Group: Meta Bliss Launches Blizz Markets and Enters $63 Billion Market Sector - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVdDT0ZZVXJHRmhvcGFYRjBqVk5IWV9fOENlY2h2WlpzNTA4bUxpY3lVSTZ1VzhqYlFHUDlCRVFoazBKQ284Z3JHR1Q2MW1DQ2JBOGdUX19IU3Z2QkdDRnZaNDNHVGNQMk1DbU1CSzB6c1NWTVFDS3gwVHhJUGtGNHNJZDNiNXJqWUZORkFuamlaM19uekVLZFJGQXFHMmdRdE85anMyd09nMEl3U2VzbTBCd1BncFZzTFdyLVdrMVVMQ2pjNmxSU3dzOTFiOHoxVi04bDFCQlFxWkM5?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVVdDT0ZZVXJHRmhvcGFYRjBqVk5IWV9fOENlY2h2WlpzNTA4bUxpY3lVSTZ1VzhqYlFHUDlCRVFoazBKQ284Z3JHR1Q2MW1DQ2JBOGdUX19IU3Z2QkdDRnZaNDNHVGNQMk1DbU1CSzB6c1NWTVFDS3gwVHhJUGtGNHNJZDNiNXJqWUZORkFuamlaM19uekVLZFJGQXFHMmdRdE85anMyd09nMEl3U2VzbTBCd1BncFZzTFdyLVdrMVVMQ2pjNmxSU3dzOTFiOHoxVi04bDFCQlFxWkM5?oc=5\" target=\"_blank\">36 Group: Meta Bliss Launches Blizz Markets and Enters $63 Billion Market Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2026-03-24T07:30:00+00:00",
+      "source": "TradingView"
+    },
     {
       "title": "Meta is officially shutting down its $80,000,000,000 product just five years after launch - UNILAD Tech",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLS1nRU5rT21SNVJWekpsWlRkbUJXYmt0WGdBVHlUQUVDNjJsU1k5aUtXWHZyNjIyZXNLdE9hQXhLVFpDWnRsUUd2RUVwVjd0aXR2b1I0emhWQTBTVzBpM0xDMUVxdjM4aGFSczE2VUl1MUhfdlVJNGxKYmJYaHhteE93RUE4VjZGUUtjLWV4b1F0dFM1d3d3d0NWTTJMV0FJVFlfbFhTQ08tVk9jVUhR?oc=5",
@@ -84,32 +91,21 @@
       "source": "CNBC"
     },
     {
-      "title": "Meta Launches Guaranteed Pay Program for Creators - EURweb",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mUm5uQzl0bmptNU5nNkl4bG81YlN6RG5haGJQQU1OcnZzVnBSMkFFdXJXU1NuNUlITWpVRVpEY0N4eW1laHl6T3AzX09HZUVTcFVDWjZyTkg3VnBnQm00TGpJQ0dkUklYVmZKUWZqdXBrdldU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5mUm5uQzl0bmptNU5nNkl4bG81YlN6RG5haGJQQU1OcnZzVnBSMkFFdXJXU1NuNUlITWpVRVpEY0N4eW1laHl6T3AzX09HZUVTcFVDWjZyTkg3VnBnQm00TGpJQ0dkUklYVmZKUWZqdXBrdldU?oc=5\" target=\"_blank\">Meta Launches Guaranteed Pay Program for Creators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EURweb</font>",
-      "published": "2026-03-19T17:04:11+00:00",
-      "source": "EURweb"
-    },
-    {
-      "title": "Meta reportedly delays the launch of its new AI model because it’s just not that good - Sherwood News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnpMVnUtdG1BbFhWQ20zRlNYMjlXWmlsNlhHVEt4VXZZTGl5VnpSQXQ2UFVqLWpVLUpLamJ0RjhuRnJCUXVYTGFzOC1sb3pmNkdEN0NzQ0g4RzJYSk5waElhWmRwbkxQRFViSXBoTTV5NjVIenBUallwQjZQSXlwYjk0YTVxLURnTkYwM1E5NHlTOW82eHppM2YyTUUzNWNaR0NjUFdrVG8xRmRKWm5nR0RNdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnpMVnUtdG1BbFhWQ20zRlNYMjlXWmlsNlhHVEt4VXZZTGl5VnpSQXQ2UFVqLWpVLUpLamJ0RjhuRnJCUXVYTGFzOC1sb3pmNkdEN0NzQ0g4RzJYSk5waElhWmRwbkxQRFViSXBoTTV5NjVIenBUallwQjZQSXlwYjk0YTVxLURnTkYwM1E5NHlTOW82eHppM2YyTUUzNWNaR0NjUFdrVG8xRmRKWm5nR0RNdw?oc=5\" target=\"_blank\">Meta reportedly delays the launch of its new AI model because it’s just not that good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sherwood News</font>",
-      "published": "2026-03-12T07:00:00+00:00",
-      "source": "Sherwood News"
+      "title": "Meta Plans to Add Facial Recognition Technology to Its Smart Glasses - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3lQQXZRMkZrbzQ0SmpRRENfN0lTUml0ZmFVMmRvUkZmM1lmdjBTV2ZTRFN5RzczNG9KU3hmck5pcFZvUlM1VllOM0RxN0ZwTUxLTEZFZGVWWVQycGF4Z0QycDhkTG5FaVVUcHlILUhVSVpZVjhvRG9TSExCSTFwbTMtVjlneHJvWjhxUHdscFhtdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3lQQXZRMkZrbzQ0SmpRRENfN0lTUml0ZmFVMmRvUkZmM1lmdjBTV2ZTRFN5RzczNG9KU3hmck5pcFZvUlM1VllOM0RxN0ZwTUxLTEZFZGVWWVQycGF4Z0QycDhkTG5FaVVUcHlILUhVSVpZVjhvRG9TSExCSTFwbTMtVjlneHJvWjhxUHdscFhtdw?oc=5\" target=\"_blank\">Meta Plans to Add Facial Recognition Technology to Its Smart Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-02-14T08:00:00+00:00",
+      "source": "The New York Times"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-20",
-      "close": 593.6599731445312
+      "date": "2026-03-23",
+      "close": 604.0599975585938
     },
     "history": [
-      {
-        "date": "2026-03-12",
-        "close": 637.6340942382812
-      },
       {
         "date": "2026-03-13",
         "close": 613.1849975585938
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-20",
         "close": 593.6599731445312
+      },
+      {
+        "date": "2026-03-23",
+        "close": 604.0599975585938
       }
     ],
     "name": "Meta Platforms, Inc."
