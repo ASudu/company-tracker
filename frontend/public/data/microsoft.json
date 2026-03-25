@@ -2,35 +2,56 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-03-24T12:47:34.750775+00:00",
+  "fetched_at": "2026-03-25T12:43:41.657823+00:00",
   "news": [
     {
-      "title": "Less AI? Microsoft Pledges to Focus on Windows 11 Updates You Actually Want - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVp3TDV6MlZvYkR1MFVkN1hPWXZBUURSOG9xMEJqc0ZfdEx6azhLUHNXcVllWUY4MWM2bDlnbGI3c1JlSk5PU0RpWklZam03R01VZ0dqWWdvMDFCaEpSSXlpMHczbHo0RGlhMGtBcHhCbTcwWDFGR29CVVp2Yncwc2MtaGhrclR0MkJ6QV8xdVFLUU5nc3RLZWFra2RBY0hnQ05F?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVp3TDV6MlZvYkR1MFVkN1hPWXZBUURSOG9xMEJqc0ZfdEx6azhLUHNXcVllWUY4MWM2bDlnbGI3c1JlSk5PU0RpWklZam03R01VZ0dqWWdvMDFCaEpSSXlpMHczbHo0RGlhMGtBcHhCbTcwWDFGR29CVVp2Yncwc2MtaGhrclR0MkJ6QV8xdVFLUU5nc3RLZWFra2RBY0hnQ05F?oc=5\" target=\"_blank\">Less AI? Microsoft Pledges to Focus on Windows 11 Updates You Actually Want</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzRpNjlqeXEtcVBQWTdVRHlKWHcycUNtclR5a1Z0anl6bHRoUlNGQXR0cm5EeG4zTkhSc2Nidng0QVpnWFpKM3c2TThhVDh2aTlfSHN2MWxWbEdETnV6dXR5dVNaSG5YRGQwc2RQN2FpZy14NDZwSnR1c1BvNFBqcUNRcl9Hc3A0SldJ?oc=5\" target=\"_blank\">Windows 11 Patch Triggers Sign-In Failures Across Microsoft Apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjVfQWp3MGdyN0F5WmV3OWM2a3lNYlVnVFVpRWgwZU16YzI2aVloSHNUeWlVOW9wT0c4WEtuNXY4QzNrRDlrOUE5UnpVZnlpLXlPTHh0MnpQeFlQZEdES1RBS09pQjVsWVZ0eGMwaHR5V3Zzcm90VDFyaDVIYzZueU1BanZXeU1BZFNXQ0psNUJnMW1EcWdUVWhtQk95RGIzdVRQOGx3eTRESzFXWEhhcXlFMzNTazRucGRpYktWTUpoc2NEOElpQU8zV1ZSSVBLa3hRUw?oc=5\" target=\"_blank\">Microsoft blocks registry trick that unlocked performance-boosting native NVMe driver on Windows 11 — workarounds still exist to enable support, however</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font></li></ol>",
-      "published": "2026-03-22T21:50:17+00:00",
+      "title": "Microsoft president says building data centres requires trust of US communities - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczdUT3hUZ2VRX0xuYnRIaUNibVNPZTc2N19XX1Q0WS1vMHZZdUJuZUNsTFJ4RUJ5M2pPaWg5OG5UTzNpbDViZ0V4M3RySDFIT3BqajQza3hmN2d1eTJ2M29UOC1nVUZER3h1dzdFV1lKTk5DbUs3bmdSU3BkVTQxeWhQbDNCMnRnUEFJc1VnYy1reFBiS1BvbW9ISEkwSFlLMF9vRXRSOFlfdmswb2NwR2dubEhwRzVSaDJVRG5qMnJSNlU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczdUT3hUZ2VRX0xuYnRIaUNibVNPZTc2N19XX1Q0WS1vMHZZdUJuZUNsTFJ4RUJ5M2pPaWg5OG5UTzNpbDViZ0V4M3RySDFIT3BqajQza3hmN2d1eTJ2M29UOC1nVUZER3h1dzdFV1lKTk5DbUs3bmdSU3BkVTQxeWhQbDNCMnRnUEFJc1VnYy1reFBiS1BvbW9ISEkwSFlLMF9vRXRSOFlfdmswb2NwR2dubEhwRzVSaDJVRG5qMnJSNlU?oc=5\" target=\"_blank\">Microsoft president says building data centres requires trust of US communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-24T15:14:02+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Microsoft agrees to lease 700MW at Crusoe's data center in Abilene, Texas - report - Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2U3NEkwTElQcmVXcTkzYjFRc3pWREJYeHBtQ24zV1NoVERjQUhmZmRGMW1aT3oteW1XTmQwRW0xYzMxa1dsY1lsRjJGRThyTENDTTBFOVJ6Z0ZlbWNyb1VmMmlVSVBmSC1qQlBpTTN5SXk2RkxpYTRWa2Ezd1ZaUGJTSElXVXFBSHdaUzdKcWdXNFZPeWcyaFJIdFh1d3puMU1kbEtBaDc3Y3RObG1fN1J0Mlplb3dEZHY4cmVUQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2U3NEkwTElQcmVXcTkzYjFRc3pWREJYeHBtQ24zV1NoVERjQUhmZmRGMW1aT3oteW1XTmQwRW0xYzMxa1dsY1lsRjJGRThyTENDTTBFOVJ6Z0ZlbWNyb1VmMmlVSVBmSC1qQlBpTTN5SXk2RkxpYTRWa2Ezd1ZaUGJTSElXVXFBSHdaUzdKcWdXNFZPeWcyaFJIdFh1d3puMU1kbEtBaDc3Y3RObG1fN1J0Mlplb3dEZHY4cmVUQQ?oc=5\" target=\"_blank\">Microsoft agrees to lease 700MW at Crusoe's data center in Abilene, Texas - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+      "published": "2026-03-24T17:21:17+00:00",
+      "source": "Data Center Dynamics"
+    },
+    {
+      "title": "One Microsoft data center in West Virginia could raise the company’s emissions 44%: report - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUgxMk5GWnVtSU9KSEFKeXQ4dkUyTVpMUWFBcnA5UWduTmNZWHhRbm5sc1hJUk4zVnU5SGNqa3h0bXptMVNvdEZpVEQyMHBaNXRYTlN3MDBHdlRGc2xhZXdHY01kNzczSGNZS01QcklJTFI1MG1qa19PdjlwQ1YtMUxuZ2U4MUU3UU9mdzdoUFNJQk90dDd4eEs2cExYblhWQ1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUgxMk5GWnVtSU9KSEFKeXQ4dkUyTVpMUWFBcnA5UWduTmNZWHhRbm5sc1hJUk4zVnU5SGNqa3h0bXptMVNvdEZpVEQyMHBaNXRYTlN3MDBHdlRGc2xhZXdHY01kNzczSGNZS01QcklJTFI1MG1qa19PdjlwQ1YtMUxuZ2U4MUU3UU9mdzdoUFNJQk90dDd4eEs2cExYblhWQ1E?oc=5\" target=\"_blank\">One Microsoft data center in West Virginia could raise the company’s emissions 44%: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "published": "2026-03-25T11:16:13+00:00",
+      "source": "Fast Company"
+    },
+    {
+      "title": "Microsoft and Nvidia team up on AI nuclear push - Axios",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFQxS1ppckpYNUliUFZ5dW5BMTR3ZkRzd2t5dDNUV0NPeHhSWkpSRjdCRm9wcUk4aEZsRmhwSk1SZjJQbTRrc09XUVBoS3IwV2pMdGhYaVhpYW1PYUVMMGV2Ti0xOGJSX1puQ1o1cHp1eG9URmNtRm9XaU5LLWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBfNFQxS1ppckpYNUliUFZ5dW5BMTR3ZkRzd2t5dDNUV0NPeHhSWkpSRjdCRm9wcUk4aEZsRmhwSk1SZjJQbTRrc09XUVBoS3IwV2pMdGhYaVhpYW1PYUVMMGV2Ti0xOGJSX1puQ1o1cHp1eG9URmNtRm9XaU5LLWs?oc=5\" target=\"_blank\">Microsoft and Nvidia team up on AI nuclear push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-03-25T08:23:06+00:00",
+      "source": "Axios"
+    },
+    {
+      "title": "Microsoft Aims to Supercharge Windows Performance and Cut RAM Waste in 2026 - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3Q3M2pjdGluWENHTVZKMUJydEJ3blp6cFVfZ1VPM01qc3hoVnJ0b3ZpSVZfY1Y1NFVFM1JWeEVKUVEtZnplMzhjZUJWWDZpNV9FWEctN00yTHJEUE83SHhpSmZXWmN5am1PTnRKWEZVU082X2lvRkZQZW5tWTRUSER2MERtWE05WE9UQ2N1WE41d0hxQmFva3lfTlhfdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNS3Q3M2pjdGluWENHTVZKMUJydEJ3blp6cFVfZ1VPM01qc3hoVnJ0b3ZpSVZfY1Y1NFVFM1JWeEVKUVEtZnplMzhjZUJWWDZpNV9FWEctN00yTHJEUE83SHhpSmZXWmN5am1PTnRKWEZVU082X2lvRkZQZW5tWTRUSER2MERtWE05WE9UQ2N1WE41d0hxQmFva3lfTlhfdw?oc=5\" target=\"_blank\">Microsoft Aims to Supercharge Windows Performance and Cut RAM Waste in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2026-03-25T11:10:36+00:00",
       "source": "PCMag"
     },
     {
-      "title": "Melius analyst: Microsoft’s Copilot reorganization is a ‘red flag’ - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWTM2OXBzV0hFaDVXMVBWaVpEOWJMWEM0OE1LSXFENnZRbl9vM3pCZ2RnX0VpV1hMQ01UM1FKVWJZaTJ1cmhWU1NUZUZCYUhZVW4tbENxNzEwVVRhR21hajNuTGI5QVo5LXkwam83a21kYXBiR25LYjFFZEc2NWtmNnVmejlBWmlYS0VIMHNoa2ppUUhPaU1fUGtyMFVtN3FxVktydWpSNS1HY1dpdEdvWGZn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWTM2OXBzV0hFaDVXMVBWaVpEOWJMWEM0OE1LSXFENnZRbl9vM3pCZ2RnX0VpV1hMQ01UM1FKVWJZaTJ1cmhWU1NUZUZCYUhZVW4tbENxNzEwVVRhR21hajNuTGI5QVo5LXkwam83a21kYXBiR25LYjFFZEc2NWtmNnVmejlBWmlYS0VIMHNoa2ppUUhPaU1fUGtyMFVtN3FxVktydWpSNS1HY1dpdEdvWGZn?oc=5\" target=\"_blank\">Melius analyst: Microsoft’s Copilot reorganization is a ‘red flag’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-23T22:56:52+00:00",
-      "source": "Yahoo Finance"
+      "title": "Microsoft may finally remove its frustrating Windows 11 setup requirement - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EYUhMRG0wTkk2NWZDZXRuZkZEdGh4UmJSYUdjaEdOa3AxTFFPd0pFUDRSUTVlaDZMdUF5alJVci1OWnlDN0RSdzNNajQwZVRiUENGRktoaTQ3T2FxcG5HWEtzb1oyWUpMZG1HeUdfM08tVmJzN0JIUzJfQk1ldw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5EYUhMRG0wTkk2NWZDZXRuZkZEdGh4UmJSYUdjaEdOa3AxTFFPd0pFUDRSUTVlaDZMdUF5alJVci1OWnlDN0RSdzNNajQwZVRiUENGRktoaTQ3T2FxcG5HWEtzb1oyWUpMZG1HeUdfM08tVmJzN0JIUzJfQk1ldw?oc=5\" target=\"_blank\">Microsoft may finally remove its frustrating Windows 11 setup requirement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2026-03-24T20:47:00+00:00",
+      "source": "ZDNET"
     },
     {
-      "title": "Microsoft: Beneath The Selloff (NASDAQ:MSFT) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80UzFacUc0eEVLYjN0OURiOHFBMU1YcTdhWmlxQ3dITHZlaV9IcE5Ta0RYc25EZmJabjZ2UllBTHRMeXU0bHBCUGxvYjlkLU1DanRYcFlNZU9Qcm9HcU1IT1NGRE94bjJMSUNUYUFuTkVxc25v?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80UzFacUc0eEVLYjN0OURiOHFBMU1YcTdhWmlxQ3dITHZlaV9IcE5Ta0RYc25EZmJabjZ2UllBTHRMeXU0bHBCUGxvYjlkLU1DanRYcFlNZU9Qcm9HcU1IT1NGRE94bjJMSUNUYUFuTkVxc25v?oc=5\" target=\"_blank\">Microsoft: Beneath The Selloff (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-03-23T14:59:25+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Microsoft: This Might Be the Best Core Stock Bargain in the Market Today - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREtvNVZmQWV5Rm5wNWhQaGF2NGVHMENwVEdUTHJSaHJhRGxmeU5QUzNiU0ZRU2JfRjJyOER1ZXFaR1JSRjA5NnpiV243U2VybUVaUnl5NkhfQ214QUpkU3dzekZ6bTNwVnBONExTdTBGaUlfS3VubFlRSTg5SVZzWHltRjE0QzFEbFkzTVNkMndPVDZBblo5TVhsRl9XSGZSdnNlaGZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNREtvNVZmQWV5Rm5wNWhQaGF2NGVHMENwVEdUTHJSaHJhRGxmeU5QUzNiU0ZRU2JfRjJyOER1ZXFaR1JSRjA5NnpiV243U2VybUVaUnl5NkhfQ214QUpkU3dzekZ6bTNwVnBONExTdTBGaUlfS3VubFlRSTg5SVZzWHltRjE0QzFEbFkzTVNkMndPVDZBblo5TVhsRl9XSGZSdnNlaGZ3?oc=5\" target=\"_blank\">Microsoft: This Might Be the Best Core Stock Bargain in the Market Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-03-23T22:07:39+00:00",
-      "source": "Morningstar"
+      "title": "Microsoft Says It's Fixing Windows…But I'm Not Buying It - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFNpTE55WUhNNUZvYlcxSVhrRFd1TExiYnRrWm9VQ0J2clZvTjgzRm94SFB3WlhBeVhXZVozYVJiTWxheFNJd0l4YTVYQU83TlZaNDhvMFJyS3ZaSzBEYjQ1cFZfNmY1WEgtWmxuNEJXb0xJVC1JUHR1bXB6eUJ0djZRek5NVGF6MUZsbUNR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFNpTE55WUhNNUZvYlcxSVhrRFd1TExiYnRrWm9VQ0J2clZvTjgzRm94SFB3WlhBeVhXZVozYVJiTWxheFNJd0l4YTVYQU83TlZaNDhvMFJyS3ZaSzBEYjQ1cFZfNmY1WEgtWmxuNEJXb0xJVC1JUHR1bXB6eUJ0djZRek5NVGF6MUZsbUNR?oc=5\" target=\"_blank\">Microsoft Says It's Fixing Windows…But I'm Not Buying It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2026-03-25T12:02:21+00:00",
+      "source": "PCMag"
     },
     {
       "title": "OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO - CNBC",
@@ -38,43 +59,22 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk14bkEzVmx5d29yUW5zVTBrSWFDTUNldFN4WnQ1TDJQWmhDcEZyOXBZX180WmxFS3lWZVh1X1ZIUFBCNDhBY09OVEo4djA0dU1JVGY5VlRYWUZDQWpIeGJ2Y0Yzc29XNTBDOFhlLUVxZ0VDS0xqQlJYWXg3UHJaN1RtMW1jcGZWZUpSaGFEUHR3U0QySkR0aElFVEpxWnlsMEFjYdIBqgFBVV95cUxNbXMzRWN6aktvMGhobW9EQ0ZkRXpHZzVNYndYZF9hTjRka2Nfdm8yOGJDQVZ5NU52SVpDSEhYN2kxMGJ6S1UtLWNDN0YybkVzQ0FBa0ZtU0tUNVhTMXJfMEZXRFI3ZUtJNDlsdjdXWVlhS3MzMjZYbjl6c3N5X20wSnN1cnk5amU1eXNGM1JPMF9ScFhIWDlpZVFFNkRsM1piRDAxb25BLTZkQQ?oc=5\" target=\"_blank\">OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2026-03-23T23:00:28+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "OpenAI lists Microsoft reliance as a risk in pre-IPO document- CNBC - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdlBJc28ycTlic0RsRWdUR3hnejRSR1l0TTQxMWV2VkdYM2lrRWZYbVZwX2FQVUstczZlUlJ6S2M5Ym9Qb0pPc1VnTm9SY3ZOWkNnLVVmMDUwVTV5aGp2T25KWm1kWmsyTXN2V3NwVm9YOE5wUGRYTUEtRXJPakF5aFR3b0t4d2pla0wyYzUxaW1YVEdwU2E4anotNFg5dGVNZWZCWUxjVkEwM213MVFyd1pfVkczWnlqaTVCUXd0WQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdlBJc28ycTlic0RsRWdUR3hnejRSR1l0TTQxMWV2VkdYM2lrRWZYbVZwX2FQVUstczZlUlJ6S2M5Ym9Qb0pPc1VnTm9SY3ZOWkNnLVVmMDUwVTV5aGp2T25KWm1kWmsyTXN2V3NwVm9YOE5wUGRYTUEtRXJPakF5aFR3b0t4d2pla0wyYzUxaW1YVEdwU2E4anotNFg5dGVNZWZCWUxjVkEwM213MVFyd1pfVkczWnlqaTVCUXd0WQ?oc=5\" target=\"_blank\">OpenAI lists Microsoft reliance as a risk in pre-IPO document- CNBC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-03-24T04:11:15+00:00",
-      "source": "Investing.com"
-    },
-    {
-      "title": "OpenAI Flags Microsoft as ‘Top Risk’ in Pre-IPO Document - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUng2SElJYVlya0ZkUGNBbmIyQ2RYZU0wWEh0cXlyYkptS3hxMlVNbmY1VzhLT2Y2cDNreS1wUmhvaEN1QnJCM2lIRUR5MVIyT2xxNzYyNEh6UWdZRVNPT09sV1NvVUJJa3YxbzBuT3lvLTBHQXotY1FjZEtWbU1zWXhLd25yeGNpTm5OQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOUng2SElJYVlya0ZkUGNBbmIyQ2RYZU0wWEh0cXlyYkptS3hxMlVNbmY1VzhLT2Y2cDNreS1wUmhvaEN1QnJCM2lIRUR5MVIyT2xxNzYyNEh6UWdZRVNPT09sV1NvVUJJa3YxbzBuT3lvLTBHQXotY1FjZEtWbU1zWXhLd25yeGNpTm5OQQ?oc=5\" target=\"_blank\">OpenAI Flags Microsoft as ‘Top Risk’ in Pre-IPO Document</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-03-24T05:39:48+00:00",
-      "source": "TipRanks"
-    },
-    {
-      "title": "Microsoft Launches MAI-Image-2, Its Most Advanced AI Image Model Yet - eWeek",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KXzRKYzcwRjctV3JVVU15Vmw3Qi1HeTFVd2RFT0tqMUs1OW9PUUpBb3dWcFU2UjQ1ZUgtUW9TTHpzeHpCOWdSNXhBaUpPb0hYbGlnQTJsUTJVbC1fZkg4a1hkREtEU1F1WkhEV0RLTE5Gc3pETmd3UThvVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5KXzRKYzcwRjctV3JVVU15Vmw3Qi1HeTFVd2RFT0tqMUs1OW9PUUpBb3dWcFU2UjQ1ZUgtUW9TTHpzeHpCOWdSNXhBaUpPb0hYbGlnQTJsUTJVbC1fZkg4a1hkREtEU1F1WkhEV0RLTE5Gc3pETmd3UThvVQ?oc=5\" target=\"_blank\">Microsoft Launches MAI-Image-2, Its Most Advanced AI Image Model Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eWeek</font>",
-      "published": "2026-03-23T21:08:16+00:00",
-      "source": "eWeek"
     }
   ],
   "product_launches": [
-    {
-      "title": "Microsoft Launches MAI-Image-2, Its Most Advanced AI Image Model Yet - eWeek",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KXzRKYzcwRjctV3JVVU15Vmw3Qi1HeTFVd2RFT0tqMUs1OW9PUUpBb3dWcFU2UjQ1ZUgtUW9TTHpzeHpCOWdSNXhBaUpPb0hYbGlnQTJsUTJVbC1fZkg4a1hkREtEU1F1WkhEV0RLTE5Gc3pETmd3UThvVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5KXzRKYzcwRjctV3JVVU15Vmw3Qi1HeTFVd2RFT0tqMUs1OW9PUUpBb3dWcFU2UjQ1ZUgtUW9TTHpzeHpCOWdSNXhBaUpPb0hYbGlnQTJsUTJVbC1fZkg4a1hkREtEU1F1WkhEV0RLTE5Gc3pETmd3UThvVQ?oc=5\" target=\"_blank\">Microsoft Launches MAI-Image-2, Its Most Advanced AI Image Model Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eWeek</font>",
-      "published": "2026-03-23T21:08:16+00:00",
-      "source": "eWeek"
-    },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2026-03-09T07:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "Microsoft Launches MAI-Image-2, Its Most Advanced AI Image Model Yet - eWeek",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KXzRKYzcwRjctV3JVVU15Vmw3Qi1HeTFVd2RFT0tqMUs1OW9PUUpBb3dWcFU2UjQ1ZUgtUW9TTHpzeHpCOWdSNXhBaUpPb0hYbGlnQTJsUTJVbC1fZkg4a1hkREtEU1F1WkhEV0RLTE5Gc3pETmd3UThvVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5KXzRKYzcwRjctV3JVVU15Vmw3Qi1HeTFVd2RFT0tqMUs1OW9PUUpBb3dWcFU2UjQ1ZUgtUW9TTHpzeHpCOWdSNXhBaUpPb0hYbGlnQTJsUTJVbC1fZkg4a1hkREtEU1F1WkhEV0RLTE5Gc3pETmd3UThvVQ?oc=5\" target=\"_blank\">Microsoft Launches MAI-Image-2, Its Most Advanced AI Image Model Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eWeek</font>",
+      "published": "2026-03-23T21:08:16+00:00",
+      "source": "eWeek"
     },
     {
       "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-23",
-      "close": 383.0
+      "date": "2026-03-24",
+      "close": 372.739990234375
     },
     "history": [
-      {
-        "date": "2026-03-13",
-        "close": 395.54998779296875
-      },
       {
         "date": "2026-03-16",
         "close": 399.95001220703125
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-23",
         "close": 383.0
+      },
+      {
+        "date": "2026-03-24",
+        "close": 372.739990234375
       }
     ],
     "name": "Microsoft Corporation"
