@@ -2,66 +2,80 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-03-25T12:43:39.234245+00:00",
+  "fetched_at": "2026-03-26T12:52:03.909428+00:00",
   "news": [
-    {
-      "title": "Apple Plans AI Reboot With Siri App, New Look and ‘Ask Siri’ Button in iOS 27 - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUZmYmU4RUk0eVpfcXVobzVDZmdpOXZMb1BCUDJDWTZfLXhfOUVwSzVFcHpVT0V3LWNsRDI3R3lkZnlpNmtZZWxMNjJ5emVlTjNucVpSY194ZVQ4c0hVdmtZaDFCMkdqS1c5QzZjMC1QQWJiTE9ON080dXFzV2RnbENMVVpqQVBDQmJhTkF3UG1JMmlJOWtlMGdhcTI2Y0lJUmdlOXlEWmttby1RQk9uRmU0b0hqbGVSbHJEU1VGb1ROZ3ZN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUZmYmU4RUk0eVpfcXVobzVDZmdpOXZMb1BCUDJDWTZfLXhfOUVwSzVFcHpVT0V3LWNsRDI3R3lkZnlpNmtZZWxMNjJ5emVlTjNucVpSY194ZVQ4c0hVdmtZaDFCMkdqS1c5QzZjMC1QQWJiTE9ON080dXFzV2RnbENMVVpqQVBDQmJhTkF3UG1JMmlJOWtlMGdhcTI2Y0lJUmdlOXlEWmttby1RQk9uRmU0b0hqbGVSbHJEU1VGb1ROZ3ZN?oc=5\" target=\"_blank\">Apple Plans AI Reboot With Siri App, New Look and ‘Ask Siri’ Button in iOS 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "published": "2026-03-24T18:48:59+00:00",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Apple is testing a standalone app for its overhauled Siri - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JaQnFKakhWU0RZM2xaLUFUQ2hHemxvdl9aTjYzclA2T3M3Rnh1cDRXb0NvZ0t1MTNyelpUeUJIRkgxQWM1VU1LX3lacVhCUzd6NWl1WWc4YWUxNWlUUEhMNWc4R21IUDZieHhPakczbVVrV1ljR3JiaXBNVWhtSjJwVThCeVFpRlFJLU9PcnVRUGxtRWlYSjFlWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JaQnFKakhWU0RZM2xaLUFUQ2hHemxvdl9aTjYzclA2T3M3Rnh1cDRXb0NvZ0t1MTNyelpUeUJIRkgxQWM1VU1LX3lacVhCUzd6NWl1WWc4YWUxNWlUUEhMNWc4R21IUDZieHhPakczbVVrV1ljR3JiaXBNVWhtSjJwVThCeVFpRlFJLU9PcnVRUGxtRWlYSjFlWQ?oc=5\" target=\"_blank\">Apple is testing a standalone app for its overhauled Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-03-24T20:41:24+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple May Give Siri a Big AI Overhaul in iOS 27 - CNET",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnRudkxiUHcza2s3b0tEeE1wWmZsZGZLQU1jVDJ6UjFEN0RaV0JscENhME9oSHc1aWZWMWhPUm42QkMwMnNRUF9UR0lqbkVYV2lnS2xOQ1FWTzhMWlg2RFdhbEFaN1lWeDR2NS16UDg4X29ESERlZW0tY2ctVEJ5d1JQaHY4ZDdLRmdGdlhmZjc0ZUpzTGxBbEpTd3phZExIdzJsRVpEamNOZnJz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnRudkxiUHcza2s3b0tEeE1wWmZsZGZLQU1jVDJ6UjFEN0RaV0JscENhME9oSHc1aWZWMWhPUm42QkMwMnNRUF9UR0lqbkVYV2lnS2xOQ1FWTzhMWlg2RFdhbEFaN1lWeDR2NS16UDg4X29ESERlZW0tY2ctVEJ5d1JQaHY4ZDdLRmdGdlhmZjc0ZUpzTGxBbEpTd3phZExIdzJsRVpEamNOZnJz?oc=5\" target=\"_blank\">Apple May Give Siri a Big AI Overhaul in iOS 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2026-03-25T00:44:00+00:00",
-      "source": "CNET"
-    },
-    {
-      "title": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFJzN3dHamFLX2NBUy1JbnNueDQtaGpzNGdnX2wwSGhZcEVvOXRqSzVYbkVHUmRYek9CSTY1bDI5N3czdVJoZUhyNjJ2WU5jR2U2OWVkNU52V1JiTDVLbkJ4VTI4eWhzUDRBS2xONUtCMVJlX3Q1ZjhKcV83TzgyNUlhOHhRalVXakRQcGd0WDRWMl9vbkxjQmhKeHowTEZ5M0pzMElydWdYcWhMdFlYdGF0WHlld2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFJzN3dHamFLX2NBUy1JbnNueDQtaGpzNGdnX2wwSGhZcEVvOXRqSzVYbkVHUmRYek9CSTY1bDI5N3czdVJoZUhyNjJ2WU5jR2U2OWVkNU52V1JiTDVLbkJ4VTI4eWhzUDRBS2xONUtCMVJlX3Q1ZjhKcV83TzgyNUlhOHhRalVXakRQcGd0WDRWMl9vbkxjQmhKeHowTEZ5M0pzMElydWdYcWhMdFlYdGF0WHlld2M?oc=5\" target=\"_blank\">Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-03-24T19:06:03+00:00",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "No new Siri, but iOS 26.4 is here with a ton of must-have new features - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU5WSThXLUZ6OVRLLTFJZjBFVDB5TXVXcGZiSy11REFBdmVfTEIzUnBPeWNPX01aeFJwUnFPUFZBSFVVaGVidVk3MHpXVVZLZE1Bd1RoNC1MVElwODZsNHlWSnhsOHcyeHk4NlVZbHRBNEVFOWRPZHlYNFI5VnpMWm9RNzZRQkZPdHQ2UFZuc2ZDYms5Q0c4U1pkUk12Y3BpZDltalhCVVduWUZHdk1HMmZlYTlrZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU5WSThXLUZ6OVRLLTFJZjBFVDB5TXVXcGZiSy11REFBdmVfTEIzUnBPeWNPX01aeFJwUnFPUFZBSFVVaGVidVk3MHpXVVZLZE1Bd1RoNC1MVElwODZsNHlWSnhsOHcyeHk4NlVZbHRBNEVFOWRPZHlYNFI5VnpMWm9RNzZRQkZPdHQ2UFZuc2ZDYms5Q0c4U1pkUk12Y3BpZDltalhCVVduWUZHdk1HMmZlYTlrZw?oc=5\" target=\"_blank\">No new Siri, but iOS 26.4 is here with a ton of must-have new features</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-03-24T17:44:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "8 new emojis arrive in Apple iOS 26.4 update for iPhone users - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2p4YkFKM0hrQ1Y5MXQybTNtQTBGcS04VndGNU1pNTNEWk40NXNyaUQtNjFwd00tangwUm83YWkycWs0UjlULXVzWXp0bVlPUjlTZDJqT0lXOE5POE5taGRfZUI0WlgyRlB1ZTRkQVgtQXdNaWx5dUQ2ak5XT3lYVlI4MlNrdDFLYUdLSm9MN09CREtpek9r?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2p4YkFKM0hrQ1Y5MXQybTNtQTBGcS04VndGNU1pNTNEWk40NXNyaUQtNjFwd00tangwUm83YWkycWs0UjlULXVzWXp0bVlPUjlTZDJqT0lXOE5POE5taGRfZUI0WlgyRlB1ZTRkQVgtQXdNaWx5dUQ2ak5XT3lYVlI4MlNrdDFLYUdLSm9MN09CREtpek9r?oc=5\" target=\"_blank\">8 new emojis arrive in Apple iOS 26.4 update for iPhone users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2026-03-25T02:36:00+00:00",
-      "source": "USA Today"
-    },
     {
       "title": "Apple Watches don’t go on sale often — these are the ones you need to grab from the Amazon Big Spring Sale - NBC News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQy1feHpER19OZXZkNjdxRXBZXzcxUmNiQkVtQWZ0NGtGamRvX004Nll6ODEyakhzVjJIWld6aHhrRDFVTzFKeGpHaXcycURKWUNJVEx1WkdiY2xJQ0dwOVZFdlJQT2JOc2RfNFctVV91Z014bEZEbmpZSFY4SzBYbmFGQUZ1Zw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQy1feHpER19OZXZkNjdxRXBZXzcxUmNiQkVtQWZ0NGtGamRvX004Nll6ODEyakhzVjJIWld6aHhrRDFVTzFKeGpHaXcycURKWUNJVEx1WkdiY2xJQ0dwOVZFdlJQT2JOc2RfNFctVV91Z014bEZEbmpZSFY4SzBYbmFGQUZ1Zw?oc=5\" target=\"_blank\">Apple Watches don’t go on sale often — these are the ones you need to grab from the Amazon Big Spring Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-03-25T11:26:05+00:00",
+      "published": "2026-03-25T20:32:19+00:00",
       "source": "NBC News"
     },
     {
-      "title": "The Apple Watch SE 3 is even easier to recommend at $50 off - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEFUTTRldHZ5X0JYTk5GTEJjYWN0MWtGTnBVUjR5ckF4U0FQZ1c1ZmNnM3Z6LXZ5WmJGMmx0ZHVqU2hfZ3pIMFRUeVNZTmkyQWxDUFFqaU9jWUtIdU9FSkJULXNHV0xZUUFDRDVpUm1wbm93WG9YbmVzMGtrZ3F4ZTM0QkJwQnVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEFUTTRldHZ5X0JYTk5GTEJjYWN0MWtGTnBVUjR5ckF4U0FQZ1c1ZmNnM3Z6LXZ5WmJGMmx0ZHVqU2hfZ3pIMFRUeVNZTmkyQWxDUFFqaU9jWUtIdU9FSkJULXNHV0xZUUFDRDVpUm1wbm93WG9YbmVzMGtrZ3F4ZTM0QkJwQnVQ?oc=5\" target=\"_blank\">The Apple Watch SE 3 is even easier to recommend at $50 off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-03-24T17:18:10+00:00",
-      "source": "The Verge"
+      "title": "Best Amazon Big Spring Sale Apple deals: iPad Air, AirPods Pro 3, and more - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTlnVTNMdTFSY2pHZHotamhzMmtnZ1I4b1M2NE9TUWtVbGRoemJhdm5Yc3hHSW9RM0xYSElwQVd2Q2hXRjNsYmota0FMQ244Nk1ZcWRNV09EeDd0c05mbUl5cXdXWURHMXpzUkN4cW8tWU83ZlBzSkRiVzVNdVZfYUpSZWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTlnVTNMdTFSY2pHZHotamhzMmtnZ1I4b1M2NE9TUWtVbGRoemJhdm5Yc3hHSW9RM0xYSElwQVd2Q2hXRjNsYmota0FMQ244Nk1ZcWRNV09EeDd0c05mbUl5cXdXWURHMXpzUkN4cW8tWU83ZlBzSkRiVzVNdVZfYUpSZWM?oc=5\" target=\"_blank\">Best Amazon Big Spring Sale Apple deals: iPad Air, AirPods Pro 3, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-03-26T08:01:45+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "The Apple Watch Series 9 is $400 off during Amazon’s Big Spring Sale - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNXNpcVVvOERaVlJCelZQOW5MR0dLN0U0LW5tQkg2Y3VTMVEtcjV1V1gxM2V6S0VDdWItc2oybkduR19KQ2doa1FDTlhvY2JuV2xPY2g2MzBJcWxFUzAxUGlTTGR5ZXpSMkMwRFBFdEJTb1o4dGtyRDdGZ1o4Mlhsa2x3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNXNpcVVvOERaVlJCelZQOW5MR0dLN0U0LW5tQkg2Y3VTMVEtcjV1V1gxM2V6S0VDdWItc2oybkduR19KQ2doa1FDTlhvY2JuV2xPY2g2MzBJcWxFUzAxUGlTTGR5ZXpSMkMwRFBFdEJTb1o4dGtyRDdGZ1o4Mlhsa2x3?oc=5\" target=\"_blank\">The Apple Watch Series 9 is $400 off during Amazon’s Big Spring Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
+      "published": "2026-03-25T22:34:31+00:00",
+      "source": "SFGATE"
+    },
+    {
+      "title": "Apple iPhone users in the UK asked to verify age with new update - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nMlMzdTBtUmlYWDBMUEZzZWVOQUdzR1NfZTg5aS15dFNjZWFBQjIyWUs0RXdDcXV6YTlUSkxyUlJuNjlDRkFGUmR6SlpnSWoxc0cyNFU0R0lodw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nMlMzdTBtUmlYWDBMUEZzZWVOQUdzR1NfZTg5aS15dFNjZWFBQjIyWUs0RXdDcXV6YTlUSkxyUlJuNjlDRkFGUmR6SlpnSWoxc0cyNFU0R0lodw?oc=5\" target=\"_blank\">Apple iPhone users in the UK asked to verify age with new update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-03-25T17:41:20+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Apple rolls out UK age checks for iPhone users - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3Y1Skc2WlVWTmhiTzRYc2c1UTV2U1VOU19CV2pBQ3BCckhqc05WWmRQSzZPLUFpYUVHN0RwbkdILWtwZXg5NWl0UWc1eTBzOE9PQzdtSE5ZazJmbnlQc1lQZzlaLXBScWxsVmFFM09fU1hwemdRSWh6N1R5bnMweDgzb2g?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3Y1Skc2WlVWTmhiTzRYc2c1UTV2U1VOU19CV2pBQ3BCckhqc05WWmRQSzZPLUFpYUVHN0RwbkdILWtwZXg5NWl0UWc1eTBzOE9PQzdtSE5ZazJmbnlQc1lQZzlaLXBScWxsVmFFM09fU1hwemdRSWh6N1R5bnMweDgzb2g?oc=5\" target=\"_blank\">Apple rolls out UK age checks for iPhone users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-03-25T12:21:37+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "UK iPhone users face over-18 age check to use services after update - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1V4S2RpTnRmUW5rTW16XzkxWG9vUXdlVjQxMGgyRmE2dlBJVDVvZ1BINUZwRWdENWdmbnNKZDd2bk0xVTFiU1RNbjFuRDNUUnhocm5ZOFF3cWxuWE5UUlNBejRYTzA3dXJRYzFDajB6M1FKWm5WV1hhOGR6MU1TdmVIYW1UM3BjLWtsMDM2QXh1aTNnaXhDZGxtbEZnWEd0VGkzT2tOQ3FvQ0RsZ1pOS1ZpLWVfLVlDTEs4MHp3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1V4S2RpTnRmUW5rTW16XzkxWG9vUXdlVjQxMGgyRmE2dlBJVDVvZ1BINUZwRWdENWdmbnNKZDd2bk0xVTFiU1RNbjFuRDNUUnhocm5ZOFF3cWxuWE5UUlNBejRYTzA3dXJRYzFDajB6M1FKWm5WV1hhOGR6MU1TdmVIYW1UM3BjLWtsMDM2QXh1aTNnaXhDZGxtbEZnWEd0VGkzT2tOQ3FvQ0RsZ1pOS1ZpLWVfLVlDTEs4MHp3?oc=5\" target=\"_blank\">UK iPhone users face over-18 age check to use services after update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-03-26T02:30:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "iPhone 19 Pro rumored to get 200MP telephoto camera sensor - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjlGWHdtR29QYWdNblV4TVFBczdTSXdDR293ZVZOQmRXWWRYZ0d6QlNnU3N6S1dvNGFrXzAtZXViaXJoRFBZYjlTUTR3RDRoeUFncXJhMTFYUy1WWlNMa3ItM3o2X0psTlNSeFRqdVhaS0tmcF90bEp1NHMtMkowaGNncUJnY094d1pyaHJpa1A4WndCMFdZdldkekpuUFoxRjdr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjlGWHdtR29QYWdNblV4TVFBczdTSXdDR293ZVZOQmRXWWRYZ0d6QlNnU3N6S1dvNGFrXzAtZXViaXJoRFBZYjlTUTR3RDRoeUFncXJhMTFYUy1WWlNMa3ItM3o2X0psTlNSeFRqdVhaS0tmcF90bEp1NHMtMkowaGNncUJnY094d1pyaHJpa1A4WndCMFdZdldkekpuUFoxRjdr?oc=5\" target=\"_blank\">iPhone 19 Pro rumored to get 200MP telephoto camera sensor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-03-26T12:12:00+00:00",
+      "source": "AppleInsider"
+    },
+    {
+      "title": "Apple Testing 200MP iPhone Camera That Could Ship Next Year - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVgwRUgtVGNsVkt6RUNHRHh4RFZoN1FFa3FmUm51bGNxc1paNndPXzdBWGd2Q2RpX3VFN0JlYmtHRHEycGxBbktLYV8xSWRrN0FaMFRlQzhXSTJrMFQ3b3l6aEVpcEFtVzhyNGYtOFBJZTBFeUtnRnVsNERWa3NzZHc0WmZhR1RxSzg1QU9R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVgwRUgtVGNsVkt6RUNHRHh4RFZoN1FFa3FmUm51bGNxc1paNndPXzdBWGd2Q2RpX3VFN0JlYmtHRHEycGxBbktLYV8xSWRrN0FaMFRlQzhXSTJrMFQ3b3l6aEVpcEFtVzhyNGYtOFBJZTBFeUtnRnVsNERWa3NzZHc0WmZhR1RxSzg1QU9R?oc=5\" target=\"_blank\">Apple Testing 200MP iPhone Camera That Could Ship Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-03-26T11:04:17+00:00",
+      "source": "MacRumors"
     }
   ],
   "product_launches": [
+    {
+      "title": "Introducing Apple Business — a new all-in-one platform for businesses of all sizes - Apple",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2Y2aVA5cXpqY3B2Q0R6Nkc4M3ZPeHIxdVdtd296dklwb0lxUnJ2N0NqMmpheHI0RVZMdTJLWjFTX0MtMEdnUjFqNFhlRF8wdU1Ud2FPa1I3aHdhMFgtNXloV3ZBaGtoQ0h4UlhmNXgtUXdVYkVaRHh0TFMwcFBpZUpTclBwTzEzSzRWUHp6eTIzRkxlc3JGMW5seEk3M3Zzek1HWW1mbmUtcWhSSlJ2NmFYbnBkTkZyVmVIWA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2Y2aVA5cXpqY3B2Q0R6Nkc4M3ZPeHIxdVdtd296dklwb0lxUnJ2N0NqMmpheHI0RVZMdTJLWjFTX0MtMEdnUjFqNFhlRF8wdU1Ud2FPa1I3aHdhMFgtNXloV3ZBaGtoQ0h4UlhmNXgtUXdVYkVaRHh0TFMwcFBpZUpTclBwTzEzSzRWUHp6eTIzRkxlc3JGMW5seEk3M3Zzek1HWW1mbmUtcWhSSlJ2NmFYbnBkTkZyVmVIWA?oc=5\" target=\"_blank\">Introducing Apple Business — a new all-in-one platform for businesses of all sizes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
+      "published": "2026-03-24T15:05:39+00:00",
+      "source": "Apple"
+    },
+    {
+      "title": "Apple confirms next event date – here’s what’s coming - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQmVCTEk2RG15YllmbEQ3RktxLWp1QUxGUEloNE1Gb3pwMldjU2V3eGhGOFBKWnBhUFVma2YtNm95c0h0cDdZaFFkblVrX2J5WmlOanU0b2pUQVJ3VEYzNG81RVJKUktydGM3ajRaVGotWjFxUDNGLW9n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQmVCTEk2RG15YllmbEQ3RktxLWp1QUxGUEloNE1Gb3pwMldjU2V3eGhGOFBKWnBhUFVma2YtNm95c0h0cDdZaFFkblVrX2J5WmlOanU0b2pUQVJ3VEYzNG81RVJKUktydGM3ajRaVGotWjFxUDNGLW9n?oc=5\" target=\"_blank\">Apple confirms next event date – here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-03-25T11:29:00+00:00",
+      "source": "Macworld"
+    },
     {
       "title": "Apple has six new products that could launch soon, per rumors - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdV9tZWlxYVJNQ3drd0JxOEw2SDhmc3dLTkQzUFc5dlhsZFNRdW1QOXFfc1Z1NmVCd1M2UjRlc1JtcGRpS0xuSGM4N2JfS2FzN2Y0M3d3SDgzeXZodG54bERzQmw4dUp3aFduaE10QWx3ajJRRkNyR3JMbkJWY2FFMXNzNUNfTFpRX1JVZUFFcWdfMFVITFpn?oc=5",
@@ -70,18 +84,11 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple CEO says latest product launch produces best week ever for new Mac customers - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0puTzd1SDltNGlRemZQYjlwN0tVRTgtOUE5UkthU2hvUVI3cV9EMGtUYVpZcE5DcEhJcXBMbmU0c2hzTTNjU1NwSmlOVzNmT2pxQWRGc0k3MGxnZ3V5MUpVYU9uYzQ5bmYwTlZ3UnQwSHQ3RGhmeEN3cjVnQ2xDUGtkVTZCVGZhS1BrRVI3eG9XZzVoekxqbnJxV0owcWE1Yzc2RzVZcUsyUDBXMDBoNUVUSmhFcEZyVG5HUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0puTzd1SDltNGlRemZQYjlwN0tVRTgtOUE5UkthU2hvUVI3cV9EMGtUYVpZcE5DcEhJcXBMbmU0c2hzTTNjU1NwSmlOVzNmT2pxQWRGc0k3MGxnZ3V5MUpVYU9uYzQ5bmYwTlZ3UnQwSHQ3RGhmeEN3cjVnQ2xDUGtkVTZCVGZhS1BrRVI3eG9XZzVoekxqbnJxV0owcWE1Yzc2RzVZcUsyUDBXMDBoNUVUSmhFcEZyVG5HUQ?oc=5\" target=\"_blank\">Apple CEO says latest product launch produces best week ever for new Mac customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-03-20T16:05:56+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Apple Launches Apple Business to Streamline Corporate Device Man - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHFCZTdqaWRuZ0pQU0Z3RDJFT3hkc2ZqaldINEg1MmNya3lhTEp4eXhONlhOZF9XSjAxQ0VUSTg4Wjc3NEFBZ3FOX0VaQV9iOHd3enNyMkROTzIwRVY5THhkc2pPeVZNNVpzWW55OXJrVWUyYlVfVXBiQjZMUnk0MElXT1hSallvZVBpOW1ZbmxJS3Q4WFJuaFJCdG16dWplNXpZZkdLaUE5Wl9PTDZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORHFCZTdqaWRuZ0pQU0Z3RDJFT3hkc2ZqaldINEg1MmNya3lhTEp4eXhONlhOZF9XSjAxQ0VUSTg4Wjc3NEFBZ3FOX0VaQV9iOHd3enNyMkROTzIwRVY5THhkc2pPeVZNNVpzWW55OXJrVWUyYlVfVXBiQjZMUnk0MElXT1hSallvZVBpOW1ZbmxJS3Q4WFJuaFJCdG16dWplNXpZZkdLaUE5Wl9PTDZ3?oc=5\" target=\"_blank\">Apple Launches Apple Business to Streamline Corporate Device Man</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-      "published": "2026-03-25T07:52:24+00:00",
-      "source": "GuruFocus"
+      "title": "Upcoming Apple Products Guide: What's Coming in 2026 - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5\" target=\"_blank\">Upcoming Apple Products Guide: What's Coming in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-03-20T20:37:54+00:00",
+      "source": "MacRumors"
     },
     {
       "title": "A new cheaper MacBook just dropped — here’s everything you need to know - NBC News",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3BCbnM2VjF2eHVKazNfY1lJbS1iTmdub2N5S0N6eFo2bnBkNUl0Z1YwVl9ycEFlMnFUUUFNREszdFJOMWQzSHZDMFpJNmxmZnU1NGJJQVVKTlprV3JRY1NLNEFVaVpMVFRuN0lSYWw4X05Id19qbUt3YzNuUXFHSXcyT3FpTmlFQ0J2b2x0cDU0VElMTkczbVByckxXQ00?oc=5\" target=\"_blank\">A new cheaper MacBook just dropped — here’s everything you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
       "published": "2026-03-04T08:00:00+00:00",
       "source": "NBC News"
-    },
-    {
-      "title": "Everything you need to know about Apple's ‘big week' of product launches - NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWFsb01peTRleVV5bzN6RmU1ak1FSnhMYkZsREFhclU3eGdlSGdKRnB5QU9Qdl9MdVhRZFhXNlhvUHJMcXE1VllaVGlOOXR3ZzJKTUprUnRpSF92RFFxUm1UYTlWR2ZNdktGZEp4Sk1nNzdkWnpma0hwX0pyZHYzMzkzNzVMbk1kdjZFTjhMOFY2MW5fQ2fSAZ4BQVVfeXFMUHphQTEtSDhpUWQ5NTdWbDBhQTA3blZvRlFiZVpWYTFjc0ZMZDhuNFROYy1IeG5IRGhxYjAwTmV5eTRucnpibkxhTnFWZjN0V0huSElKWDBfVGYxUmRsaUNJV3VCV1JCOU8zVDlCOGFydVBMMmhTOU5MN3dtcndrTUFrZ040YkZKVUtJU3BrZWNuSFZJTndhVlhvQ0NsTFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWFsb01peTRleVV5bzN6RmU1ak1FSnhMYkZsREFhclU3eGdlSGdKRnB5QU9Qdl9MdVhRZFhXNlhvUHJMcXE1VllaVGlOOXR3ZzJKTUprUnRpSF92RFFxUm1UYTlWR2ZNdktGZEp4Sk1nNzdkWnpma0hwX0pyZHYzMzkzNzVMbk1kdjZFTjhMOFY2MW5fQ2fSAZ4BQVVfeXFMUHphQTEtSDhpUWQ5NTdWbDBhQTA3blZvRlFiZVpWYTFjc0ZMZDhuNFROYy1IeG5IRGhxYjAwTmV5eTRucnpibkxhTnFWZjN0V0huSElKWDBfVGYxUmRsaUNJV3VCV1JCOU8zVDlCOGFydVBMMmhTOU5MN3dtcndrTUFrZ040YkZKVUtJU3BrZWNuSFZJTndhVlhvQ0NsTFE?oc=5\" target=\"_blank\">Everything you need to know about Apple's ‘big week' of product launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Bay Area</font>",
-      "published": "2026-03-04T08:00:00+00:00",
-      "source": "NBC Bay Area"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-24",
-      "close": 251.63999938964844
+      "date": "2026-03-25",
+      "close": 252.6199951171875
     },
     "history": [
-      {
-        "date": "2026-03-16",
-        "close": 252.82000732421875
-      },
       {
         "date": "2026-03-17",
         "close": 254.22999572753906
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-24",
         "close": 251.63999938964844
+      },
+      {
+        "date": "2026-03-25",
+        "close": 252.6199951171875
       }
     ],
     "name": "Apple Inc."
