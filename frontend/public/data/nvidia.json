@@ -2,73 +2,66 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-26T12:52:16.717244+00:00",
+  "fetched_at": "2026-03-27T12:40:42.569569+00:00",
   "news": [
     {
+      "title": "Move Over, Nvidia GPUs. The AI CPU Era Is Here - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmVCd3VfNERjeFdKSmhJMWFPSHQ2SjdqazR0eTJpazF6eHNJWnoycDNFUldfS0ludmU0MktqN000VllKSURhazZ3SWJoRHpnUDZxQ0hjeG5HRmlPb0JmOFBsSi15TG1PLW41ekhhRElmNmF5cUpmX0loM01reVYwMk84OFRveUtVb3M1d3QtSlc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmVCd3VfNERjeFdKSmhJMWFPSHQ2SjdqazR0eTJpazF6eHNJWnoycDNFUldfS0ludmU0MktqN000VllKSURhazZ3SWJoRHpnUDZxQ0hjeG5HRmlPb0JmOFBsSi15TG1PLW41ekhhRElmNmF5cUpmX0loM01reVYwMk84OFRveUtVb3M1d3QtSlc?oc=5\" target=\"_blank\">Move Over, Nvidia GPUs. The AI CPU Era Is Here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-03-27T01:30:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
       "title": "Exclusive | Nvidia-Backed Startup Seeking to Counter Chinese AI Eyes $25 Billion Valuation - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOTzJNdHp5aGRnMkc5MF9HMnhSRUhGZlNjRnFKSi1QNV9LTm1WeWlwdEpSY0dEQ2Y4dnJBYU92X3plMDM1bDVyeVFiSm5MdWZXMkRiZmRucXZjNDNGRTN1RFh5T2x5UnlIcjc3ZlBWcnlvMnZQcWZXcndjYkxHam1HdldMdHZYazBDaU9MbTdtSnhSSk43MXJXd3FXSWJNdUp3R0FlcGYxOE1kQ3R1bkg2MlNlOWpWd1JzYTA1bjlXSmhSYkFJMHF5T0pqR1BucnlZMldlcjFmMWNRMmFBd01ackR0QkhUd2NHV19HNWVtRzNpZzFOYnpQVzFoakw1QWxPMTlIUzBqSDBBc2MzYnZCWjZoNFk3REVYbU0tTjEtNlZtdzJqVy1qZEdUeTdGWHFIWm4zVkNBdW9VZU1vLWdJQlhGMWpCczB2dExpTGJYLXlhMk02bXQ5M2IwYmVYYWhtTGNpQ3dPY0NSZzZqTGFHLVdnQ1owd2NyRjF3OE1raWlKQV9ZbG5UbDNYS2V4T1RjOWJXZzY2VjFiT0NYclFuZDFvckx0M2NiQklPSE0tQWM3XzQwTy12UEl3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxOTzJNdHp5aGRnMkc5MF9HMnhSRUhGZlNjRnFKSi1QNV9LTm1WeWlwdEpSY0dEQ2Y4dnJBYU92X3plMDM1bDVyeVFiSm5MdWZXMkRiZmRucXZjNDNGRTN1RFh5T2x5UnlIcjc3ZlBWcnlvMnZQcWZXcndjYkxHam1HdldMdHZYazBDaU9MbTdtSnhSSk43MXJXd3FXSWJNdUp3R0FlcGYxOE1kQ3R1bkg2MlNlOWpWd1JzYTA1bjlXSmhSYkFJMHF5T0pqR1BucnlZMldlcjFmMWNRMmFBd01ackR0QkhUd2NHV19HNWVtRzNpZzFOYnpQVzFoakw1QWxPMTlIUzBqSDBBc2MzYnZCWjZoNFk3REVYbU0tTjEtNlZtdzJqVy1qZEdUeTdGWHFIWm4zVkNBdW9VZU1vLWdJQlhGMWpCczB2dExpTGJYLXlhMk02bXQ5M2IwYmVYYWhtTGNpQ3dPY0NSZzZqTGFHLVdnQ1owd2NyRjF3OE1raWlKQV9ZbG5UbDNYS2V4T1RjOWJXZzY2VjFiT0NYclFuZDFvckx0M2NiQklPSE0tQWM3XzQwTy12UEl3?oc=5\" target=\"_blank\">Exclusive | Nvidia-Backed Startup Seeking to Counter Chinese AI Eyes $25 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOS2NKTE5CUUl2eEtUUjFnV1kzSTl6MThVRnV3aG5KWmxnb1ViSWJ4LWd5RVYtZTBFbkpTbHBkY2FQNlhPOFQ0UWJ2TGtDcjctMzZkOVVtT05TY1lXRHpRbTVYSkJFcFZwbVRKdkRuYjRrVERVam1pSWs2aHRBOUwxWk51WXgxaV9wMkE1SmlITFRxWkFlV0c2VzBOdEl6a0lnUDZGWTZSV2RCamRiM25mREx4N2RXUFpXcE03ZFN6N1N5dWlIbnI3Ul9Ob1pXdDBqVVhTUXZrWEFFMkVCT3BEbXNhU1ZabEJ2ZmoxOWlfUDBBOXNsaGxHOXNqbzdBQWRjcURMMFNPV182S3dwa21RdGZTaldpTzNNZFY2YnhFUUlPM1FPcjFDcmo1Sk5aLWdHMTZ0Y2c1bXVDbkRCdTNlSGlxdVhvTmNOb05HZTZLNVhiYS01bW5zSnZpVE9Ec0NPUlFrYmVhZG5kRTltM2JkaE9lc01IY1FOUUlNbDJyRlN1MHdjY1FRYkxscmRBR3NiU3l3cDBWMXh5M2ZIZVVtY1UwRTZVUXNkUEk2VTJZaGRyUEtQUmN1OUln?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxOS2NKTE5CUUl2eEtUUjFnV1kzSTl6MThVRnV3aG5KWmxnb1ViSWJ4LWd5RVYtZTBFbkpTbHBkY2FQNlhPOFQ0UWJ2TGtDcjctMzZkOVVtT05TY1lXRHpRbTVYSkJFcFZwbVRKdkRuYjRrVERVam1pSWs2aHRBOUwxWk51WXgxaV9wMkE1SmlITFRxWkFlV0c2VzBOdEl6a0lnUDZGWTZSV2RCamRiM25mREx4N2RXUFpXcE03ZFN6N1N5dWlIbnI3Ul9Ob1pXdDBqVVhTUXZrWEFFMkVCT3BEbXNhU1ZabEJ2ZmoxOWlfUDBBOXNsaGxHOXNqbzdBQWRjcURMMFNPV182S3dwa21RdGZTaldpTzNNZFY2YnhFUUlPM1FPcjFDcmo1Sk5aLWdHMTZ0Y2c1bXVDbkRCdTNlSGlxdVhvTmNOb05HZTZLNVhiYS01bW5zSnZpVE9Ec0NPUlFrYmVhZG5kRTltM2JkaE9lc01IY1FOUUlNbDJyRlN1MHdjY1FRYkxscmRBR3NiU3l3cDBWMXh5M2ZIZVVtY1UwRTZVUXNkUEk2VTJZaGRyUEtQUmN1OUln?oc=5\" target=\"_blank\">Exclusive | Nvidia-Backed Startup Seeking to Counter Chinese AI Eyes $25 Billion Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
       "published": "2026-03-26T02:53:00+00:00",
       "source": "WSJ"
     },
     {
-      "title": "Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmRCZkV3ZWtxZ0ljc0FQb1d3ak1Nb0gwbTNDUzJiTU1iR0Ewbmw3UjFWR0FwalFxWmYyRHdCVmNmVDlRRDJjVWVLekVyeU02UG9RQ1Rsb2psYWRjVmJyWFowNndjSllteXI4ZEhMalVMTkdOZGJFR1JTd3A0SjY4SjluZjZHdmJQS3dvZlplTGdJaWtJOFBkd0ZqN3RfbGVEanBmRXJHZXRONDRsc3gw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmRCZkV3ZWtxZ0ljc0FQb1d3ak1Nb0gwbTNDUzJiTU1iR0Ewbmw3UjFWR0FwalFxWmYyRHdCVmNmVDlRRDJjVWVLekVyeU02UG9RQ1Rsb2psYWRjVmJyWFowNndjSllteXI4ZEhMalVMTkdOZGJFR1JTd3A0SjY4SjluZjZHdmJQS3dvZlplTGdJaWtJOFBkd0ZqN3RfbGVEanBmRXJHZXRONDRsc3gw?oc=5\" target=\"_blank\">Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-03-26T02:43:00+00:00",
+      "title": "NVIDIA: The Market Stopped Believing (NASDAQ:NVDA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1Rhem9MRDhOaG51UXNXZkd1cFlQR3lsTlBRcUpnSHFJUm9pQnZrLW14dGwxMmJMeWVSVWZnamFuR2xxTkRBSk96MzNjeGxaUUlxNHk4ZzJKZEN4ZVJOdldXMDhwMS1oQ045Q25OV1ljOVBWblp6MFFTV2pyQ003REhXSlNncG1XbnFDa2FoRmxZRC1CcU1z?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1Rhem9MRDhOaG51UXNXZkd1cFlQR3lsTlBRcUpnSHFJUm9pQnZrLW14dGwxMmJMeWVSVWZnamFuR2xxTkRBSk96MzNjeGxaUUlxNHk4ZzJKZEN4ZVJOdldXMDhwMS1oQ045Q25OV1ljOVBWblp6MFFTV2pyQ003REhXSlNncG1XbnFDa2FoRmxZRC1CcU1z?oc=5\" target=\"_blank\">NVIDIA: The Market Stopped Believing (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlFKUHQ0RDRCaWQyUmhadl9ZTDJOSS1uYU1mTWhYYVE0ZzBSU3hRaFNySDlZMFhtN0tZbzFMcjFZcVVTREhSMTdiMlZWUmdtbkZBNGlOTW05bUdqdDczSV9XNTVfbU1EajBnNHVMOGQ1bUo5U3FOak1GQlZRQ3B0cG9BdS1pOExyQ2ZZa043LUxDS19EQ2tVRg?oc=5\" target=\"_blank\">Here are Friday's biggest analyst calls: Nvidia, Apple, Tesla, Netflix, Disney, Alphabet, Tripadvisor & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDh5SGFDN2ZNTG51TGh1MHJOeFVkdXVMS2YwdUdIbTVTdTh0UzF6cnhRU1Z0bWlNTGVYZkc2SmJMRnk2c0Q0Tk81anJnTy1rOFpIeEd4QnVjN3hTWDRFSzM3alFzUC1uZmdzRk92TFpLbFlUd3ZndG4wMG5zclBCSWpXaGZKRHo2aktlWWdZUzRvS2c?oc=5\" target=\"_blank\">Move Over, Nvidia GPUs. The AI CPU Era Is Here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-03-27T00:23:20+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Nvidia, Arm Return the CPU to Center Stage in the Age of AI - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBXQXd5NWFBVkphaXFMMGlQeFpGaXFWTnhyQUhoRGVqMVRpSU56c2FpR0tnZ0QxN25US0ZZQnFHbG1DWmVKQjhwQ1FHNzJsRkN5VUNTTW4wLXhPV1NaSjRVdEs5dk1xa2JGclZaQllxRF9Od0JTcFNwakVMcFktTk1ZclRQcXJncXpSLWlxd0dRQWhxZU5ld2lGN25aU0lCUXo2c0pLRUYzRHFk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBXQXd5NWFBVkphaXFMMGlQeFpGaXFWTnhyQUhoRGVqMVRpSU56c2FpR0tnZ0QxN25US0ZZQnFHbG1DWmVKQjhwQ1FHNzJsRkN5VUNTTW4wLXhPV1NaSjRVdEs5dk1xa2JGclZaQllxRF9Od0JTcFNwakVMcFktTk1ZclRQcXJncXpSLWlxd0dRQWhxZU5ld2lGN25aU0lCUXo2c0pLRUYzRHFk?oc=5\" target=\"_blank\">Nvidia, Arm Return the CPU to Center Stage in the Age of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-03-27T12:33:55+00:00",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Exclusive: Huawei's new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUV5d0I0b2ZxMDFnMXZRV0NxZzdhWFR1UkV3bmJzN1E4c1UyS0Yya3ZNSE1TUnhENmo0ck0tcE5pX3hKV0VBeXRPd29mTmQ2cEZzS0lrZlU0aFEwenBRR0xwMUpac2tfOEsxTEM4dm8xbWt3R0hseUtlUXp2S2ZiOVRSOWZYbW4wVmxjekVoYmV1MWRqZkQwTkx6cTVsN3oxak9MYlRJbHF0TG1sckY4a2hZQllGOThUM2JxRkVwcUVvM0Na?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUV5d0I0b2ZxMDFnMXZRV0NxZzdhWFR1UkV3bmJzN1E4c1UyS0Yya3ZNSE1TUnhENmo0ck0tcE5pX3hKV0VBeXRPd29mTmQ2cEZzS0lrZlU0aFEwenBRR0xwMUpac2tfOEsxTEM4dm8xbWt3R0hseUtlUXp2S2ZiOVRSOWZYbW4wVmxjekVoYmV1MWRqZkQwTkx6cTVsN3oxak9MYlRJbHF0TG1sckY4a2hZQllGOThUM2JxRkVwcUVvM0Na?oc=5\" target=\"_blank\">Exclusive: Huawei's new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-27T06:53:00+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Nvidia-Backed AI Start-Up Chases Big Valuation. It’s Taking On China’s DeepSeek. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPaUE0Y0NPaFJQRmRoZHdra1BEek1landYSUlCdnNMOHFWNnd1V0Jqb1BGNk9rbHh1UWdUaTFxQ2RwT2tIRGZMUVhDS2JvU1dZYlQtZDNhd0VpWXlYUl9TRmFSanZFcmN3WW5DNkNjTmVXa0RPdlhzbG5BZHZQOG93d3RRNEp2M3pZMU93d3FuYUpvZ0NsaU1ud202ZlJBcVlsTnpmdGhfMEdxS3J5QmZpT2FzRkdubFcyQ0hUa28zUTVmNnNsTllaUkNCUkVXdVJsWXFOM1NSaWV3S09TVG0wVmJkLWxSdjdPRmQ2XzFyX3NqcExNRDg1UmtlNTM2cDU4UWFOd1d1eVppelRKbU9FY3pqVERfUEdrMGlmblprUlF4dTFWbjRTT3dlYS1MZWd6ZzI1XzR1emVNOXRSci1paElmNi1VWUNYM2U0bThSMWdLOE5ibVBfaF94Z2g1WjhVVEM0UENjWk5VQWNiT0U4UFBFRk1NcUpwajd6Y3cxUW1Fd2NDUkFsS0FR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPaUE0Y0NPaFJQRmRoZHdra1BEek1landYSUlCdnNMOHFWNnd1V0Jqb1BGNk9rbHh1UWdUaTFxQ2RwT2tIRGZMUVhDS2JvU1dZYlQtZDNhd0VpWXlYUl9TRmFSanZFcmN3WW5DNkNjTmVXa0RPdlhzbG5BZHZQOG93d3RRNEp2M3pZMU93d3FuYUpvZ0NsaU1ud202ZlJBcVlsTnpmdGhfMEdxS3J5QmZpT2FzRkdubFcyQ0hUa28zUTVmNnNsTllaUkNCUkVXdVJsWXFOM1NSaWV3S09TVG0wVmJkLWxSdjdPRmQ2XzFyX3NqcExNRDg1UmtlNTM2cDU4UWFOd1d1eVppelRKbU9FY3pqVERfUEdrMGlmblprUlF4dTFWbjRTT3dlYS1MZWd6ZzI1XzR1emVNOXRSci1paElmNi1VWUNYM2U0bThSMWdLOE5ibVBfaF94Z2g1WjhVVEM0UENjWk5VQWNiT0U4UFBFRk1NcUpwajd6Y3cxUW1Fd2NDUkFsS0FR?oc=5\" target=\"_blank\">Nvidia-Backed AI Start-Up Chases Big Valuation. It’s Taking On China’s DeepSeek.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-03-26T10:51:00+00:00",
-      "source": "Barron's"
+      "title": "Jensen Huang runs Nvidia with 60 direct reports — and no one-on-ones - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblUwXzVHekhoN0FHOUZxWU8tOWRwV3gybmY2Qm1pSDNwc05nWU1ZcmxveWxZVjU5QmI1cnpKSVJyVGc2ZnN1bHl1SDFua19fUnB0TmxQakJISkVOVWE3QUhQazdEZ0hVenV1a0NzWW1mX0pRVmU2T202eDhnQ2pKT2k5d2xuNk4tNE51V1M0eGxJN3IwVHM5LXBqc2Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOblUwXzVHekhoN0FHOUZxWU8tOWRwV3gybmY2Qm1pSDNwc05nWU1ZcmxveWxZVjU5QmI1cnpKSVJyVGc2ZnN1bHl1SDFua19fUnB0TmxQakJISkVOVWE3QUhQazdEZ0hVenV1a0NzWW1mX0pRVmU2T202eDhnQ2pKT2k5d2xuNk4tNE51V1M0eGxJN3IwVHM5LXBqc2Y?oc=5\" target=\"_blank\">Jensen Huang runs Nvidia with 60 direct reports — and no one-on-ones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-03-26T10:41:00+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "Nvidia CEO Jensen Huang claims AGI has been 'achieved,' can create billion-dollar businesses - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcE51OWk1bGUyR0kyRXowZEZ6NzR0Z0w4c2FKazFCd3pZRnZSc09nS0RNeWtmZHp3OXVwTEpPa1BSOVFCS2ZOTDhvY1BidUszTS1yR1dqeUlYTGFhRm5JcFhBT2tXbWdmZjZIenBHdU5PMkdmaUJYdElkYkVfQ1FBSEdyc2NXdTEtaFE0VGc0d2wyS08wWklKdXloSGgxbnpmbi1kOXdGZnhQMkhFb2Y1cGY4T19aZTVqZDlVenp5X2lycWZRb3JFSGZwckFCOEht?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcE51OWk1bGUyR0kyRXowZEZ6NzR0Z0w4c2FKazFCd3pZRnZSc09nS0RNeWtmZHp3OXVwTEpPa1BSOVFCS2ZOTDhvY1BidUszTS1yR1dqeUlYTGFhRm5JcFhBT2tXbWdmZjZIenBHdU5PMkdmaUJYdElkYkVfQ1FBSEdyc2NXdTEtaFE0VGc0d2wyS08wWklKdXloSGgxbnpmbi1kOXdGZnhQMkhFb2Y1cGY4T19aZTVqZDlVenp5X2lycWZRb3JFSGZwckFCOEht?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang claims AGI has been 'achieved,' can create billion-dollar businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-25T05:53:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Nvidia’s new AI tool is giving female game characters a makeover – and gamers are pushing back - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRERuOGxjQnNJaFFLRU43enMyMS1PT0V4VUNTd0lub1g1aVpGak8yWjA5dkxNRHg1MXhwSGszMlB0anY1cXRmWEJEakhLTjRuQ1pfNmJTQUZMdXRqcU84clBRVGhTeUc5SXBUZTRHbXZ6OC1LTWhud0JHbW1vN1FDQWNweFIwdGNwYW9XeV9XYTZxRy1MakN1bzEtdjc3b0xTMmQwekZYLUdPUjNObU1ycVdfR196WmpDOTJ3SmYtbnVYV3Ra?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRERuOGxjQnNJaFFLRU43enMyMS1PT0V4VUNTd0lub1g1aVpGak8yWjA5dkxNRHg1MXhwSGszMlB0anY1cXRmWEJEakhLTjRuQ1pfNmJTQUZMdXRqcU84clBRVGhTeUc5SXBUZTRHbXZ6OC1LTWhud0JHbW1vN1FDQWNweFIwdGNwYW9XeV9XYTZxRy1MakN1bzEtdjc3b0xTMmQwekZYLUdPUjNObU1ycVdfR196WmpDOTJ3SmYtbnVYV3Ra?oc=5\" target=\"_blank\">Nvidia’s new AI tool is giving female game characters a makeover – and gamers are pushing back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
+      "published": "2026-03-26T19:06:31+00:00",
+      "source": "The Conversation"
     },
     {
-      "title": "Nvidia’s Jensen Huang Says He Thinks ‘We’ve Achieved AGI’ - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQURocWh4TUJlU3Q4NGpseHdSejJPOGE1QVBiV3RxbFkyb1ZHT3dvSllUcDZsTWExRWQ1M0czZm1vc0E5RmNTN3loRlFKYjdUVGNlTU1fU3U2WUVyT0FJNlZVNEpxMnJDYVJPa1lNM1IzU0h2SG9uTmg5NWh5Vk4wRXdwd1VQbDNfRWhrZFd5cGE3ZkowVVdValdkaXNBUXVvSlVObUJkSXNFZUJ6TFNleg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQURocWh4TUJlU3Q4NGpseHdSejJPOGE1QVBiV3RxbFkyb1ZHT3dvSllUcDZsTWExRWQ1M0czZm1vc0E5RmNTN3loRlFKYjdUVGNlTU1fU3U2WUVyT0FJNlZVNEpxMnJDYVJPa1lNM1IzU0h2SG9uTmg5NWh5Vk4wRXdwd1VQbDNfRWhrZFd5cGE3ZkowVVdValdkaXNBUXVvSlVObUJkSXNFZUJ6TFNleg?oc=5\" target=\"_blank\">Nvidia’s Jensen Huang Says He Thinks ‘We’ve Achieved AGI’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-03-23T23:37:35+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Nvidia’s Jensen Huang reveals 3 traits behind Elon Musk’s success — says others are slowed by ‘excuses’ - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU9EMk5fcC1RMml5aWZ2cDRHTW4zd01yc1dhSG0tSkp0NEY0eXpNV2gxU0dKOG9MN3ZrMXJfdUIwLVNyMENiR3VIZUVHS1FYVTJLSjJfdFUyZ2NRQmxGWTd3ZnRoeW91UjJQdjFxT2xyZ244Mjd5YnJpVnBHZlJJdjNTTFFuaENPVGNjQWNHaVBJd3h2cm1kRVN0WVMxblk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU9EMk5fcC1RMml5aWZ2cDRHTW4zd01yc1dhSG0tSkp0NEY0eXpNV2gxU0dKOG9MN3ZrMXJfdUIwLVNyMENiR3VIZUVHS1FYVTJLSjJfdFUyZ2NRQmxGWTd3ZnRoeW91UjJQdjFxT2xyZ244Mjd5YnJpVnBHZlJJdjNTTFFuaENPVGNjQWNHaVBJd3h2cm1kRVN0WVMxblk?oc=5\" target=\"_blank\">Nvidia’s Jensen Huang reveals 3 traits behind Elon Musk’s success — says others are slowed by ‘excuses’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-26T12:30:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia's Networking Revenue Just Grew 263%. The AI Trade Is No Longer Just About GPUs. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjRNRFV4OUZRMHllYXhiRjZXTnRVd0txdWJhME5YYmwyamIzRmMtd1ZGLXZ4WVdEcXNnazVQQXhQNVdzV2pkWldPcG9ManhJYVREQmtfckdwTGs4bWt5SW5oaUpBeWVJcGhFalE3WHp4Wjc1N3g0alFQd3hfVjVPcnNrQW96ME8wR05ORA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjRNRFV4OUZRMHllYXhiRjZXTnRVd0txdWJhME5YYmwyamIzRmMtd1ZGLXZ4WVdEcXNnazVQQXhQNVdzV2pkWldPcG9ManhJYVREQmtfckdwTGs4bWt5SW5oaUpBeWVJcGhFalE3WHp4Wjc1N3g0alFQd3hfVjVPcnNrQW96ME8wR05ORA?oc=5\" target=\"_blank\">Nvidia's Networking Revenue Just Grew 263%. The AI Trade Is No Longer Just About GPUs.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-26T12:28:30+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Nvidia Stock Is Rising. Why Arm’s New AI Chip Is Not a Threat. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxONHB2Tk8yTlY1Ynh0MUszLTgyUDFSY1FMMlYxSDFaSkpGOFdZLU9yUU54M0E4OFZyY25ZT3hQUUFtWXNORkVpSVFOUHQ2TUpzaTFQWUprZUFBeVdZVW9sVmxmMlZvTGRCbWNZVnhnLUpBN3Z0UGlJZWJxYTFPR1ZzSkxnSzdMN21yaDMxSjgtdERoTXlNVnhyWG1VemNwMFZXRms5aXgwVDNEX2tqQ3dBZTlETUhXa2ZQeWxIU3UtSU01WDRDaDlyMXZTbHQyZWgwQ0VhMEdaT21Ia3BscWh1ZWN4MGptS0RtNkJMSEx5UnFqYlFWWG9TZHBuYkw3cDhTRDkwaWUycDNsUkpTLWhpOVJsOVJ0aDNpSm1JRXJkU2Fob0JJM2x0LXV0SlA2UlFBbi1tMGk1ZkdrQkwxd3dDMjFLTFFwTElwcTBiVWFkdVRsSWJTckVnTmFqSy1wb1JlN3c4Z2p3alF0VjdCcTNtcTBFR0R3UXVJWExIMTZ1ZmJxQQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxONHB2Tk8yTlY1Ynh0MUszLTgyUDFSY1FMMlYxSDFaSkpGOFdZLU9yUU54M0E4OFZyY25ZT3hQUUFtWXNORkVpSVFOUHQ2TUpzaTFQWUprZUFBeVdZVW9sVmxmMlZvTGRCbWNZVnhnLUpBN3Z0UGlJZWJxYTFPR1ZzSkxnSzdMN21yaDMxSjgtdERoTXlNVnhyWG1VemNwMFZXRms5aXgwVDNEX2tqQ3dBZTlETUhXa2ZQeWxIU3UtSU01WDRDaDlyMXZTbHQyZWgwQ0VhMEdaT21Ia3BscWh1ZWN4MGptS0RtNkJMSEx5UnFqYlFWWG9TZHBuYkw3cDhTRDkwaWUycDNsUkpTLWhpOVJsOVJ0aDNpSm1JRXJkU2Fob0JJM2x0LXV0SlA2UlFBbi1tMGk1ZkdrQkwxd3dDMjFLTFFwTElwcTBiVWFkdVRsSWJTckVnTmFqSy1wb1JlN3c4Z2p3alF0VjdCcTNtcTBFR0R3UXVJWExIMTZ1ZmJxQQ?oc=5\" target=\"_blank\">Nvidia Stock Is Rising. Why Arm’s New AI Chip Is Not a Threat.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlBBdHRuUVVyNjJNeEN4RW1KX3VBb2Q4Sy1qRndwcTRabHF6blkyZHJ0cV9LdmwtU2ZuR1BXSXhIb1F0Z3ltRzFaUU5acERxa25DRnRSMlVhVEw5SnlUei04UmJwVUVrU2ZLcTlTWnV0cEV3RFowZGExaTNYQTluRXUxcEcwX3RnSER2WGtBSkRRdw?oc=5\" target=\"_blank\">Surprise! Nvidia Just Revealed Secret New Revenue Streams Worth Tens of Billions: Time to Buy.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVU4RlZYUzRmVHlKa3RuZlBteVlfRzFJNUluTm9JQWVMVktrSW1mU2FVOG9USi1HM0ljTDJNVnFiQ2J0YWRubWRtWWdQaThYdmdiZkNYemhmcHFLZl9JM2R3SnlXYnNiOHpRcmVOQTBPSTBPQzNMb1VxTVM4RlJEVnpoam9TZTRObkl2VVZqWWthVm04cHFVNXdSRQ?oc=5\" target=\"_blank\">Is Nvidia About to Soar? Here's What History Says.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-03-25T14:02:00+00:00",
-      "source": "Barron's"
+      "title": "Alleged Nvidia RTX 60 series GPU Specifications Leak - OC3D",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlJPYlU2MEVNYVBzWWN3S3J4bjNXQWNuOVQ5eklYcGoyamxEQnN3UldHS3RWNnhkSVhETWkySm9WeWhhcEtDcGlKdkt4dENORHBMbFlONFNoczJfUWphX1BROTBtVzBkMXpIQU9KRG5kMmwweFc0czJkbVh4cjh3VUV6TDN5RlAtV1dhd2RndmFLX3p2NU1HMzQydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlJPYlU2MEVNYVBzWWN3S3J4bjNXQWNuOVQ5eklYcGoyamxEQnN3UldHS3RWNnhkSVhETWkySm9WeWhhcEtDcGlKdkt4dENORHBMbFlONFNoczJfUWphX1BROTBtVzBkMXpIQU9KRG5kMmwweFc0czJkbVh4cjh3VUV6TDN5RlAtV1dhd2RndmFLX3p2NU1HMzQydw?oc=5\" target=\"_blank\">Alleged Nvidia RTX 60 series GPU Specifications Leak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
+      "published": "2026-03-26T16:32:39+00:00",
+      "source": "OC3D"
     }
   ],
   "product_launches": [
-    {
-      "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-03-25T04:36:36+00:00",
-      "source": "MSN"
-    },
     {
       "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
@@ -77,18 +70,18 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "A Look At Dell Technologies (DELL) Valuation As AI Launches And NVIDIA Partnership Momentum Build - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDk4T0tFMnVPaGVnQUNJMm5mZ3Vyd28xTGlIdjAxMGhzNnIteUhaWU16WlNtWGxBQ3JEYjlnUlQ3QjJ4d002ZFlKaVhkajJkOWFFWDVnZFRBc3NpSDdfV3FmTTc0MDJKb1REX3ZYLWxfSTlmeEV4dldLWW5qem9OS0RnUWcwVHhuNU1XUnBMNVlyMkd3VDdQV1ZzTXlNU01ZVWJyZDVQUXZrc1pBZ3NVbV9la3MyR1otWVptdXAtSVJfeEwwUDd2QjFR0gHPAUFVX3lxTFB2NUtnUXdBTGZ2VDF2eFZBeV9XVEhwdGdKZ2wzazd4RVo0VDZMQ291eUF3Nkh2c1NJTE5HcnZERlRzUjkyZU95R1IzYkdYLWFZckp3QW5HZ1NZY0F1cDFJcG93d0ZMbHRyNUZ2dGFSUDFHeWZTbThQWkVETHV3Tmctd0VlTk9HSVZBZ180T1BRM0F3dGFidGNTVEhrUkxBby0zYmVuQ24wSUJxeTF1ZUQ1Z1JVZXFVSGNSbFo3UjIxUlZGTk1ISzVXOUxzaTdZZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDk4T0tFMnVPaGVnQUNJMm5mZ3Vyd28xTGlIdjAxMGhzNnIteUhaWU16WlNtWGxBQ3JEYjlnUlQ3QjJ4d002ZFlKaVhkajJkOWFFWDVnZFRBc3NpSDdfV3FmTTc0MDJKb1REX3ZYLWxfSTlmeEV4dldLWW5qem9OS0RnUWcwVHhuNU1XUnBMNVlyMkd3VDdQV1ZzTXlNU01ZVWJyZDVQUXZrc1pBZ3NVbV9la3MyR1otWVptdXAtSVJfeEwwUDd2QjFR0gHPAUFVX3lxTFB2NUtnUXdBTGZ2VDF2eFZBeV9XVEhwdGdKZ2wzazd4RVo0VDZMQ291eUF3Nkh2c1NJTE5HcnZERlRzUjkyZU95R1IzYkdYLWFZckp3QW5HZ1NZY0F1cDFJcG93d0ZMbHRyNUZ2dGFSUDFHeWZTbThQWkVETHV3Tmctd0VlTk9HSVZBZ180T1BRM0F3dGFidGNTVEhrUkxBby0zYmVuQ24wSUJxeTF1ZUQ1Z1JVZXFVSGNSbFo3UjIxUlZGTk1ISzVXOUxzaTdZZw?oc=5\" target=\"_blank\">A Look At Dell Technologies (DELL) Valuation As AI Launches And NVIDIA Partnership Momentum Build</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "published": "2026-03-25T17:12:39+00:00",
-      "source": "simplywall.st"
+      "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd21QZ0cyRkVGbkdZVU9kQmVnT3d0VlllYmJULVRJQkptcHBsSnNQXy1FM2RGdEhrUjI1ZTZpTVdSNzE4TXdST3pXWnVNZmlNVmxYUW9nZWdVTWNqTnNtOUZpMEE0VGxtSzZGMzktRG9peDJpbmZNVlI5NTZOUjNlNFVYSUZTYWUwUmt3MERMR215VmluRVdRTWw0dkRaSmdwVURXdkxuSGdqTDZ6Yk9hdVM2TU9HSF81SzF5dWJweFExSU9pZkRuNkNrR2ZSRU8tYlpMN1ltQnJjdzVESkE?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-03-25T04:36:36+00:00",
+      "source": "MSN"
     },
     {
-      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
+      "title": "Nvidia updates data center product roadmap following LPU launch at GTC 2026 - Data Center Dynamics",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5\" target=\"_blank\">Nvidia updates data center product roadmap following LPU launch at GTC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+      "published": "2026-03-20T18:08:50+00:00",
+      "source": "Data Center Dynamics"
     },
     {
       "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-01-09T08:00:00+00:00",
       "source": "Business Insider"
+    },
+    {
+      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-25",
-      "close": 178.67999267578125
+      "date": "2026-03-26",
+      "close": 171.24000549316406
     },
     "history": [
-      {
-        "date": "2026-03-17",
-        "close": 181.92999267578125
-      },
       {
         "date": "2026-03-18",
         "close": 180.39999389648438
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-25",
         "close": 178.67999267578125
+      },
+      {
+        "date": "2026-03-26",
+        "close": 171.24000549316406
       }
     ],
     "name": "NVIDIA Corporation"
