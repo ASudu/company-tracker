@@ -2,49 +2,14 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-03-28T12:33:25.600081+00:00",
+  "fetched_at": "2026-03-29T12:33:11.747279+00:00",
   "news": [
-    {
-      "title": "Apple Still Plans to Sell iPhones When It Turns 100 - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3R3N0FQbWtTZHJiWDJVZHJ2RlpISUxMS0x0SnRNOVZENFFKUFFuM0NING9pRHhHYjM0Ti0weTVPNjI0cGtVcGlYZXBCNDItZ1pycU1mNlBqMWZDZlozLVpDN1FtWjBtWlV2c3VqUG1UZFZySkIyaUJZTVRjclA1a2JraWNsbm9vblRZN2hR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3R3N0FQbWtTZHJiWDJVZHJ2RlpISUxMS0x0SnRNOVZENFFKUFFuM0NING9pRHhHYjM0Ti0weTVPNjI0cGtVcGlYZXBCNDItZ1pycU1mNlBqMWZDZlozLVpDN1FtWjBtWlV2c3VqUG1UZFZySkIyaUJZTVRjclA1a2JraWNsbm9vblRZN2hR?oc=5\" target=\"_blank\">Apple Still Plans to Sell iPhones When It Turns 100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-03-27T15:00:00+00:00",
-      "source": "WIRED"
-    },
     {
       "title": "Apple says no one using Lockdown Mode has been hacked with spyware - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlY2MTlITUtYQjNNd1BicWlIMlhDNUsxWUNwWUF4NWRUa09oWnI5Q1hJWThEMzJJNzI3b0RuNFNHcHd3RHlobkdfYVp6M3BlZUVBQ3lJbWtMWU43Y0hwZW9IcjV6RE9CdjE3cUJPdEljT01SSWFZcGU5TW1RNnhMdnhaU1lZX3ZDbTdjbmZVb0cyWDh0NmhOY1BzU3YzX0MyR1Vr?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlY2MTlITUtYQjNNd1BicWlIMlhDNUsxWUNwWUF4NWRUa09oWnI5Q1hJWThEMzJJNzI3b0RuNFNHcHd3RHlobkdfYVp6M3BlZUVBQ3lJbWtMWU43Y0hwZW9IcjV6RE9CdjE3cUJPdEljT01SSWFZcGU5TW1RNnhMdnhaU1lZX3ZDbTdjbmZVb0cyWDh0NmhOY1BzU3YzX0MyR1Vr?oc=5\" target=\"_blank\">Apple says no one using Lockdown Mode has been hacked with spyware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
       "published": "2026-03-27T14:27:32+00:00",
       "source": "TechCrunch"
-    },
-    {
-      "title": "DarkSword leak puts millions of iPhone users at risk - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWk5BMElsM2ZsUWw0S2Z3c1NDQTMyelRWaWlZakR1bnpORndyaFVoNzFjcGdOdjZEdnhZTFJCbmhWUXdKLU9jRUc3Yi13WkV1TWREM1VGR3BrWEQ5SjhobGozNG82eGZHaUxZc3BNbnhIODFjMlhHclFEa1RkaVc1LdIBhgFBVV95cUxPRFlNSkhBQXM2Tm91VGl0Zm5hOVFqYWVKWDVQbHBtZEVwM213ZE1paFJRaGZkUFl3and5RFdIZ18zVl9ta1hZc25Bb0dNSVpEcGhsUF8wZlVMQUt2OGdCcDJmeHJRcVJFWldGZ2loN3JTbmJxZ20tUDZjTkVCRldDOWlIdGVIUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNWk5BMElsM2ZsUWw0S2Z3c1NDQTMyelRWaWlZakR1bnpORndyaFVoNzFjcGdOdjZEdnhZTFJCbmhWUXdKLU9jRUc3Yi13WkV1TWREM1VGR3BrWEQ5SjhobGozNG82eGZHaUxZc3BNbnhIODFjMlhHclFEa1RkaVc1LdIBhgFBVV95cUxPRFlNSkhBQXM2Tm91VGl0Zm5hOVFqYWVKWDVQbHBtZEVwM213ZE1paFJRaGZkUFl3and5RFdIZ18zVl9ta1hZc25Bb0dNSVpEcGhsUF8wZlVMQUt2OGdCcDJmeHJRcVJFWldGZ2loN3JTbmJxZ20tUDZjTkVCRldDOWlIdGVIUQ?oc=5\" target=\"_blank\">DarkSword leak puts millions of iPhone users at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "published": "2026-03-27T14:01:57+00:00",
-      "source": "Fox News"
-    },
-    {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2QjVmWXZreEtkaVZVYVdzMGZfSDNQNDhlbThzVlJrc2g5cnQ4a0ZzcXppTkhFaEdZSERiak1aLU1xR2RFSkxSZW01WG9fbTZ4T3paWl9yVkxTVzlCVmR5RW1hTTBabHUyVGdSbFBOUEhjTGFMS2k3Z2NwLWE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA2QjVmWXZreEtkaVZVYVdzMGZfSDNQNDhlbThzVlJrc2g5cnQ4a0ZzcXppTkhFaEdZSERiak1aLU1xR2RFSkxSZW01WG9fbTZ4T3paWl9yVkxTVzlCVmR5RW1hTTBabHUyVGdSbFBOUEhjTGFMS2k3Z2NwLWE?oc=5\" target=\"_blank\">Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-03-27T17:22:00+00:00",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Amazon Big Spring Sale Apple deals: We found the iPad Air, AirPods Pro 3, and more on sale - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBraTBUSlN2emhsYnZJLUJEODZTeWl2UU9IMENLd3FkLXpWQlgzODBYZzQxNHRVWF8wbXR6MXZJQXNnbDBEcXUxbUVRVlBVVG5kMHNLdFpSR3FrR1JMajBJLWo0WGRISjMwZldhWnlQTWpGY1M5blc0NXlGT0xXZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBraTBUSlN2emhsYnZJLUJEODZTeWl2UU9IMENLd3FkLXpWQlgzODBYZzQxNHRVWF8wbXR6MXZJQXNnbDBEcXUxbUVRVlBVVG5kMHNLdFpSR3FrR1JMajBJLWo0WGRISjMwZldhWnlQTWpGY1M5blc0NXlGT0xXZw?oc=5\" target=\"_blank\">Amazon Big Spring Sale Apple deals: We found the iPad Air, AirPods Pro 3, and more on sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-03-28T12:26:32+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Check Your iPhone Now: Apple Sends Urgent ‘Critical Software’ Alerts To Millions - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxYjBUcUM2elNad241eGhVS0Z1MTlIZHdzY3pzVlhWMGpvLTJMeFZSa3YtNEUyVklzWWRnQlk2dVNuU1ZJdXpsNS1GR1VUanprdlAxWTFyczc4Z01Db3h6Qlhfd3dQTi13eWxOUzU4c1dWbi1HcGEzVA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAxYjBUcUM2elNad241eGhVS0Z1MTlIZHdzY3pzVlhWMGpvLTJMeFZSa3YtNEUyVklzWWRnQlk2dVNuU1ZJdXpsNS1GR1VUanprdlAxWTFyczc4Z01Db3h6Qlhfd3dQTi13eWxOUzU4c1dWbi1HcGEzVA?oc=5\" target=\"_blank\">Check Your iPhone Now: Apple Sends Urgent ‘Critical Software’ Alerts To Millions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
-      "published": "2026-03-28T10:20:29+00:00",
-      "source": "Yahoo News Canada"
     },
     {
       "title": "Apple cofounder Steve Wozniak admits he’s ‘disappointed a lot’ by AI and hardly uses it - Fortune",
@@ -54,27 +19,62 @@
       "source": "Fortune"
     },
     {
-      "title": "Your Questions on Apple’s Critical 2026, Answered by Mark Gurman - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMWZoTzB4bG1FdndCUWtYMEdocjBHMjdmd3JkZWVpemJscFQwNWl5OUlCYVJ2MEo1b2l4MVhIeFIyRGtybDNLQkYzX1NEaDlqZmY0VjZ5SHpqeW5UZTJwS0JpNkkyN3NPUklYOGFfSjhJanJ4LUtpTnFVQ19QT0l4R0M0SmZ0SEV5SDVZaDBhVHdNQjFvZWJQa0JfQUVEeHNpY0lneVRBYVBnaFM0Z2QxVWxnc3lDSXdwM1lLQw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQMWZoTzB4bG1FdndCUWtYMEdocjBHMjdmd3JkZWVpemJscFQwNWl5OUlCYVJ2MEo1b2l4MVhIeFIyRGtybDNLQkYzX1NEaDlqZmY0VjZ5SHpqeW5UZTJwS0JpNkkyN3NPUklYOGFfSjhJanJ4LUtpTnFVQ19QT0l4R0M0SmZ0SEV5SDVZaDBhVHdNQjFvZWJQa0JfQUVEeHNpY0lneVRBYVBnaFM0Z2QxVWxnc3lDSXdwM1lLQw?oc=5\" target=\"_blank\">Your Questions on Apple’s Critical 2026, Answered by Mark Gurman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-27T21:18:12+00:00",
+      "title": "Apple Still Plans to Sell iPhones When It Turns 100 - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3R3N0FQbWtTZHJiWDJVZHJ2RlpISUxMS0x0SnRNOVZENFFKUFFuM0NING9pRHhHYjM0Ti0weTVPNjI0cGtVcGlYZXBCNDItZ1pycU1mNlBqMWZDZlozLVpDN1FtWjBtWlV2c3VqUG1UZFZySkIyaUJZTVRjclA1a2JraWNsbm9vblRZN2hR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3R3N0FQbWtTZHJiWDJVZHJ2RlpISUxMS0x0SnRNOVZENFFKUFFuM0NING9pRHhHYjM0Ti0weTVPNjI0cGtVcGlYZXBCNDItZ1pycU1mNlBqMWZDZlozLVpDN1FtWjBtWlV2c3VqUG1UZFZySkIyaUJZTVRjclA1a2JraWNsbm9vblRZN2hR?oc=5\" target=\"_blank\">Apple Still Plans to Sell iPhones When It Turns 100</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-03-27T15:00:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "How Apple became Apple: The definitive oral history of the company’s earliest days - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGs3MXRyb0thWUJZQ29IZTlMdkxZVld2SjlDQzNlYXFQTEtVU2dMTzYySk5zUTd4QjJueV9SYVFTMm9RQW4tOTB1Y1YyNHYwQ2xrYlFmbFpYdURuWFpfakhnRHQ1VndHUUM0S2RCMmJOX2JSZFdzR3E0OUwzLWhNcEVJS29yQkJCaWs5N01Jd2JOWVlFVG8ydEFmbjB5ZlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGs3MXRyb0thWUJZQ29IZTlMdkxZVld2SjlDQzNlYXFQTEtVU2dMTzYySk5zUTd4QjJueV9SYVFTMm9RQW4tOTB1Y1YyNHYwQ2xrYlFmbFpYdURuWFpfakhnRHQ1VndHUUM0S2RCMmJOX2JSZFdzR3E0OUwzLWhNcEVJS29yQkJCaWs5N01Jd2JOWVlFVG8ydEFmbjB5ZlE?oc=5\" target=\"_blank\">How Apple became Apple: The definitive oral history of the company’s earliest days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "published": "2026-03-26T06:31:54+00:00",
+      "source": "Fast Company"
+    },
+    {
+      "title": "I’ve Tested Over 100 Pairs of Noise-Canceling Buds, and These Are My Favorite - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14ZnBlbzFCc2NqaU5jM3Y5blJqMGxFYy0wU09pdC01NVNLQnlGSGpseHJsdW9qUzFJT1ZLVE44eUg3Vi15TzZfcGo5RDVwb3NYWGpuQ00tZW41QVZFbDVxU2JLV0RDajhfMHBJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE14ZnBlbzFCc2NqaU5jM3Y5blJqMGxFYy0wU09pdC01NVNLQnlGSGpseHJsdW9qUzFJT1ZLVE44eUg3Vi15TzZfcGo5RDVwb3NYWGpuQ00tZW41QVZFbDVxU2JLV0RDajhfMHBJ?oc=5\" target=\"_blank\">I’ve Tested Over 100 Pairs of Noise-Canceling Buds, and These Are My Favorite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-03-29T10:30:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Apple’s long, bitter App Store antitrust war - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02dlVmOWczYTNRcXg5WTh4WjNQZDZGaXMtRkduLW1FSWo0ZGRnbHBSTFF1endOR2lPc1lOZHU0ZmpNQnZ2ZGVFU1JLNHRTTHZiMU01czd1akV3Y1Z3NGRFMGRuUjJMNzRKMy1vUGNEWEQ2UDdQU0lz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE02dlVmOWczYTNRcXg5WTh4WjNQZDZGaXMtRkduLW1FSWo0ZGRnbHBSTFF1endOR2lPc1lOZHU0ZmpNQnZ2ZGVFU1JLNHRTTHZiMU01czd1akV3Y1Z3NGRFMGRuUjJMNzRKMy1vUGNEWEQ2UDdQU0lz?oc=5\" target=\"_blank\">Apple’s long, bitter App Store antitrust war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-03-29T12:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmxjb3ZqTDFHd0R6UmhuV2RSTFRnQkt3Vm9hWWluYTRBZTZReG9LT1pzZzByMi1lYndCV0ctbldzeENyYUxqYWdMLWl6eHFQa0YweFM1NUxLNWo1ZjFsNDNjWkl2U05Tb3ljbFdaZkxhVE5XSV90YkhESi1yNzhuc0p5V2FrR0l4ak92enJUOFdmOUo2RHlNTlRCc1htaUxqQzFFSTVsV0JHRFFNRldPWkJUdjQtWmhxb1Fhd0huR09VMC1WU09hSjNSRFBYZy1sQ1VvNWJmRXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmxjb3ZqTDFHd0R6UmhuV2RSTFRnQkt3Vm9hWWluYTRBZTZReG9LT1pzZzByMi1lYndCV0ctbldzeENyYUxqYWdMLWl6eHFQa0YweFM1NUxLNWo1ZjFsNDNjWkl2U05Tb3ljbFdaZkxhVE5XSV90YkhESi1yNzhuc0p5V2FrR0l4ak92enJUOFdmOUo2RHlNTlRCc1htaUxqQzFFSTVsV0JHRFFNRldPWkJUdjQtWmhxb1Fhd0huR09VMC1WU09hSjNSRFBYZy1sQ1VvNWJmRXc?oc=5\" target=\"_blank\">Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-03-29T12:00:01+00:00",
       "source": "Bloomberg.com"
+    },
+    {
+      "title": "Amazon Big Spring Sale: 150+ best-ever prices on Apple, Sony headphones - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5NlFxMmg2MjNlUENkTmYyNTZoRE01M0NzRVFWU3g1VjhLcTRidUJDbnoxX3FkMjd6UFp6NXlmSGRlS01xS1pNN3A0WGNXcDg4c1JpUlVnU1o1bnFvM3VXVHU4V2RfNUV4UkdmWm9GZU0zMHdXZ0Q4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB5NlFxMmg2MjNlUENkTmYyNTZoRE01M0NzRVFWU3g1VjhLcTRidUJDbnoxX3FkMjd6UFp6NXlmSGRlS01xS1pNN3A0WGNXcDg4c1JpUlVnU1o1bnFvM3VXVHU4V2RfNUV4UkdmWm9GZU0zMHdXZ0Q4?oc=5\" target=\"_blank\">Amazon Big Spring Sale: 150+ best-ever prices on Apple, Sony headphones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-03-29T12:29:07+00:00",
+      "source": "Mashable"
     }
   ],
   "product_launches": [
-    {
-      "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5\" target=\"_blank\">Apple to Launch These 15+ New Products Later This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-03-27T21:03:37+00:00",
-      "source": "MacRumors"
-    },
     {
       "title": "Apple’s next big products revealed: 15+ new Apple devices set for 2026 - Macworld",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Apple’s next big products revealed: 15+ new Apple devices set for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
       "published": "2026-03-27T14:20:00+00:00",
       "source": "Macworld"
+    },
+    {
+      "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5\" target=\"_blank\">Apple to Launch These 15+ New Products Later This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-03-27T21:03:37+00:00",
+      "source": "MacRumors"
     },
     {
       "title": "Introducing Apple Business — a new all-in-one platform for businesses of all sizes - Apple",
@@ -91,11 +91,11 @@
       "source": "Seeking Alpha"
     },
     {
-      "title": "Apple has announced 8 new products this month - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEs0d0ctaFNDeFNySU9qOHg1b3RyOWgzVUs1bk82ejJnaGVjZFd3dUJSNHJHRVRoZ2dRUWtNdWs5Zk1ycjBPY0xEOFM5aUxJaEg5UWxMSTlyVl9mRHJhVnNTQnR4ZVhBNVlNaUJEZ05XbGs2eC05TFVNamN2dFNabXVRRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQWEs0d0ctaFNDeFNySU9qOHg1b3RyOWgzVUs1bk82ejJnaGVjZFd3dUJSNHJHRVRoZ2dRUWtNdWs5Zk1ycjBPY0xEOFM5aUxJaEg5UWxMSTlyVl9mRHJhVnNTQnR4ZVhBNVlNaUJEZ05XbGs2eC05TFVNamN2dFNabXVRRQ?oc=5\" target=\"_blank\">Apple has announced 8 new products this month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "9to5Mac"
+      "title": "Apple May Launch These Three 'Ultra' Products in 2026 - Lifehacker",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVEhWZlV2V3B0WDBpeEZjZm9oV3BoS2x0V04yWDdhUDZpZXNYLUg3MWtob3hhRFlnUnVOd1liQy14TmJvX2ZObE9YdG4zSGlLdnJnaHJHZ3hTTjZTem9aTUFCVGNBdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVEhWZlV2V3B0WDBpeEZjZm9oV3BoS2x0V04yWDdhUDZpZXNYLUg3MWtob3hhRFlnUnVOd1liQy14TmJvX2ZObE9YdG4zSGlLdnJnaHJHZ3hTTjZTem9aTUFCVGNBdw?oc=5\" target=\"_blank\">Apple May Launch These Three 'Ultra' Products in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lifehacker</font>",
+      "published": "2026-03-10T07:00:00+00:00",
+      "source": "Lifehacker"
     }
   ],
   "stock": {
