@@ -2,72 +2,86 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-03-30T12:54:55.968526+00:00",
+  "fetched_at": "2026-03-31T12:53:48.022117+00:00",
   "news": [
     {
-      "title": "Is Now a Good Time to Buy Microsoft Stock? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0M0cV9NMGpTZGNEQ25UdXJZOUxvNVlVMHIxWENhSzd4OW9nbEZWbVFMMVhDQnFnOFh2cVBOejZvMGg2SnpBMUkwaFUxNjJtVXB1Y1AzdW9NRXNpdW54alZXZXEwYmJCMXRXaXEtV0NJU3dZTExDM2FnelllTThuQ196X0U3TDQwRFAzRQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0M0cV9NMGpTZGNEQ25UdXJZOUxvNVlVMHIxWENhSzd4OW9nbEZWbVFMMVhDQnFnOFh2cVBOejZvMGg2SnpBMUkwaFUxNjJtVXB1Y1AzdW9NRXNpdW54alZXZXEwYmJCMXRXaXEtV0NJU3dZTExDM2FnelllTThuQ196X0U3TDQwRFAzRQ?oc=5\" target=\"_blank\">Is Now a Good Time to Buy Microsoft Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNelJwaGxyQ2Y0TzRqeVlxeFFaUUxXMC1WbXZMdzhVdWlLZ19rdlBpZFBSX2g1UVBXelREM0IzbWlpZnRiSWFKQUt4cUw3aVFiMHdhMUNBLWxKTlZPaVl4MEo1cXpkTEI2SXdxLTNjUExzLWNjUjNYTWMtcURoT190MkwzUTVwUQ?oc=5\" target=\"_blank\">Microsoft Set for Worst Quarter Since 2008 as AI Fears Converge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNT243VnRNMlpoN3VnUlN4NnMyN2I1aDN0ZkM0RFBTTGZ2TThZSUdQcV9vMFVIWjV5RGhfSlJVb2pmMklSRTNWX0dKbElMSzNieml4UmdRRUI5ejlEM0JSVnJJa28zQWJSRl9hQ3BUdzJfYmdiTlpYcGRQNC1lQU5MYkhJRTQ1THhuQ3FjT3NSQ0VYTlRZS21rSQ?oc=5\" target=\"_blank\">Microsoft Near Multi-Year Lows: Why Analysts Still See a Path to $792</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font></li></ol>",
-      "published": "2026-03-30T00:31:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Microsoft VP's memoir of growing up in India makes unexpected case for what matters in the age of AI - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmFKY1VHaTZnVWdnTVRqUjI4eFNsaklxQW4yVm1Sbno4TDFfZ3JmNGFtbmJsamtaamxuRUd0a1pCclRpQkJXcnIwcVR1RlZ4WVhTeXFmYnI1YjJIdGZQR2FTTmJwNHJiT3Z3bHFIRE9RSjJjakhxejFiazBEdEtwRGp1eW1hQ1RPUEVqdUlncEFURXVqRFJxTVNRMzgzUHkwTklHTlI2b2xwWEh0OHhRSjJJTVo4NVNCOWFYWEdNaWhrWTBEQlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmFKY1VHaTZnVWdnTVRqUjI4eFNsaklxQW4yVm1Sbno4TDFfZ3JmNGFtbmJsamtaamxuRUd0a1pCclRpQkJXcnIwcVR1RlZ4WVhTeXFmYnI1YjJIdGZQR2FTTmJwNHJiT3Z3bHFIRE9RSjJjakhxejFiazBEdEtwRGp1eW1hQ1RPUEVqdUlncEFURXVqRFJxTVNRMzgzUHkwTklHTlI2b2xwWEh0OHhRSjJJTVo4NVNCOWFYWEdNaWhrWTBEQlE?oc=5\" target=\"_blank\">Microsoft VP's memoir of growing up in India makes unexpected case for what matters in the age of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-03-29T16:00:02+00:00",
+      "title": "GPT drafts, Claude critiques: Microsoft blends rival AI models in new Copilot upgrade - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXV3cDh6VHJkY3pfVW84T0EyLW9aUzRuQUtfNXd2NE1iT1VXeHh6eElHR0hTcnFQN2F5TjVsZzNRbTE5WUtKMVFld3RBME52VVZ5VzRUNFN6WU1RUUdVd05UZy01aEFwTzFNQlFjYjhQSHBMaDNuZFJIUGtkNzIycFlzaTcyME5pcUtpcVRadlJUeGF2VC1HWC1ZWEZxWHVpWHlQbm1rZnNMZEc2NVdVU054eTA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXV3cDh6VHJkY3pfVW84T0EyLW9aUzRuQUtfNXd2NE1iT1VXeHh6eElHR0hTcnFQN2F5TjVsZzNRbTE5WUtKMVFld3RBME52VVZ5VzRUNFN6WU1RUUdVd05UZy01aEFwTzFNQlFjYjhQSHBMaDNuZFJIUGtkNzIycFlzaTcyME5pcUtpcVRadlJUeGF2VC1HWC1ZWEZxWHVpWHlQbm1rZnNMZEc2NVdVU054eTA?oc=5\" target=\"_blank\">GPT drafts, Claude critiques: Microsoft blends rival AI models in new Copilot upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOOXI4dFM4bkM2N0RZYVVOM1dQeEl0YmVRZjVWMHk2YWpQT3BPbkFhQzNqT0dZNWdxdzFza1dKdG1rUmROajVjWEtWUlQxeDR0cWFwcDlZSHBPbVBHcm9TdEhBbG4zTmZIT1lJajJsVFFkN3hKTEh3cDRTSDlsaHZYY3RCQTFOXzMzaVN1WFNqQnBQMGVmbVRyTERLbkp5Y2RFZmNNU3FHZ2JrRng2dmFuSU9DMzJsdlZzVWJRZDZTRQ?oc=5\" target=\"_blank\">Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Pb2pIckZGMWhWNFF0VjluZkd3Y21TS3puTGJ5NmFGcjNfa0VvSXNxRW1DWFZmVERBeW9jbFREbEFRX1FCQklVOUt0VUZuZmUtUUxCMHdCOFVQdEFpMkF6bQ?oc=5\" target=\"_blank\">Microsoft’s Copilot makes Anthropic’s Claude and OpenAI’s GPT team up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Stack</font></li></ol>",
+      "published": "2026-03-30T13:13:49+00:00",
       "source": "GeekWire"
     },
     {
-      "title": "Microsoft Launches Azure Copilot Migration Agent to Accelerate Cloud Migration Planning - infoq.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ITlM5RjgycGdydjFBNzFtVjV3STUydk5pR2p0Y09YYXZmRmlCZ1NwMDFvZmRmMnhnQ3NNUmVrYlhoZ0RCVEUybXVselhTU19WSG9FMndNal9jZ1Bua1czS2ZMM1BPTHJoSWNSN0IzbEZNcUU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9ITlM5RjgycGdydjFBNzFtVjV3STUydk5pR2p0Y09YYXZmRmlCZ1NwMDFvZmRmMnhnQ3NNUmVrYlhoZ0RCVEUybXVselhTU19WSG9FMndNal9jZ1Bua1czS2ZMM1BPTHJoSWNSN0IzbEZNcUU?oc=5\" target=\"_blank\">Microsoft Launches Azure Copilot Migration Agent to Accelerate Cloud Migration Planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">infoq.com</font>",
-      "published": "2026-03-29T10:00:38+00:00",
-      "source": "infoq.com"
+      "title": "Microsoft AI CEO Mustafa Suleyman: For the next couple years at least, entire AI industry is going to be - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPSVNKMnF1RVlJZ0tYSXlIeEdBekNGZFloWGVTTkRsSFMzSVJDSkFjSmJVdkZCekhDd29YNE1PVVBtTUFBR0ZBN0VKdm92QV9jOUoxYW9oU3VZNkE1UjZ2MUxJWTZuMk91dDAtNlllZ2dUUERDb20tNlZseVNLTy12TGJkbFd1eEVBVmVVRzFmb1VYNERJbXp2eTlNYmw2YmYyNU10SzZlNFdPU3NvNWtpRXVlNFNYTkQ1TzMzcU1CbDN4WnlxZnp6bVdrSDk3WTkyV3FRS0s0eXk0NFdJRVA5RXc0VUJGZHUwUk1mU0xvUzhKS1BvaHk3aklPZG5JN2FMQmFfODBOZHppdFc3WWp2cENTSk9CQ3hzTktGcUk0V3BoMTDSAagCQVVfeXFMTnlCX3k3bTh0bFdGNTUzT3FzT090ZnpsQjB3QkY5N0pyQVVoLS0td3FxTk10LTJmSnN4N3IxOGZoek5tU1RFcDFobFp6SlJDTnhNOFBUVU1QYkxkRlJaYkF0SVB2LU85Zm1ETzlfNlVtdTNjU2dBVGlkc3dIcE42Q0xSbk1hVGxhZzA0WUlQczIxNG5YMjEydDVtZ013MG9uenQ3c3dMaFpCYnhqQXRlMFRFcVd2RHo3OGE0ckZzdVhpTHp4ZzlOcncwYzhyck1EbnNZZ1BtWGllenhQR2Z5TUtDSFczWk5lMmJkOE9La3RkTTUyZHdmclZUeGkxckhHQ2RBRHJxSGxtaVNJNGw3SlM4Y1VsWkdTM1ktUnZEaWhCczktb014Mmo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPSVNKMnF1RVlJZ0tYSXlIeEdBekNGZFloWGVTTkRsSFMzSVJDSkFjSmJVdkZCekhDd29YNE1PVVBtTUFBR0ZBN0VKdm92QV9jOUoxYW9oU3VZNkE1UjZ2MUxJWTZuMk91dDAtNlllZ2dUUERDb20tNlZseVNLTy12TGJkbFd1eEVBVmVVRzFmb1VYNERJbXp2eTlNYmw2YmYyNU10SzZlNFdPU3NvNWtpRXVlNFNYTkQ1TzMzcU1CbDN4WnlxZnp6bVdrSDk3WTkyV3FRS0s0eXk0NFdJRVA5RXc0VUJGZHUwUk1mU0xvUzhKS1BvaHk3aklPZG5JN2FMQmFfODBOZHppdFc3WWp2cENTSk9CQ3hzTktGcUk0V3BoMTDSAagCQVVfeXFMTnlCX3k3bTh0bFdGNTUzT3FzT090ZnpsQjB3QkY5N0pyQVVoLS0td3FxTk10LTJmSnN4N3IxOGZoek5tU1RFcDFobFp6SlJDTnhNOFBUVU1QYkxkRlJaYkF0SVB2LU85Zm1ETzlfNlVtdTNjU2dBVGlkc3dIcE42Q0xSbk1hVGxhZzA0WUlQczIxNG5YMjEydDVtZ013MG9uenQ3c3dMaFpCYnhqQXRlMFRFcVd2RHo3OGE0ckZzdVhpTHp4ZzlOcncwYzhyck1EbnNZZ1BtWGllenhQR2Z5TUtDSFczWk5lMmJkOE9La3RkTTUyZHdmclZUeGkxckhHQ2RBRHJxSGxtaVNJNGw3SlM4Y1VsWkdTM1ktUnZEaWhCczktb014Mmo?oc=5\" target=\"_blank\">Microsoft AI CEO Mustafa Suleyman: For the next couple years at least, entire AI industry is going to be</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-03-31T03:27:00+00:00",
+      "source": "The Times of India"
     },
     {
-      "title": "Microsoft’s bold Game Pass rethink resets the rule for gaming - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdllsWjlma0pUaDVjdkFnRzE5ajFseVZBMnJ6TkZlM1JxTk5xSDdQamk1ZmtsSmR6WEZPNDRwT1piU1oyN1dIQVhtcV9URkp4SFVoWGxTcDZtVUVtQVpWWFJWaVJGUDFOR3U3ZkFxT0FXV05rbnJDNldZRlpwZkM4UmZjeWRKeVJFZ0g5TDZzMnBvbEZ5VkczQURYZ1NqTFdFamc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdllsWjlma0pUaDVjdkFnRzE5ajFseVZBMnJ6TkZlM1JxTk5xSDdQamk1ZmtsSmR6WEZPNDRwT1piU1oyN1dIQVhtcV9URkp4SFVoWGxTcDZtVUVtQVpWWFJWaVJGUDFOR3U3ZkFxT0FXV05rbnJDNldZRlpwZkM4UmZjeWRKeVJFZ0g5TDZzMnBvbEZ5VkczQURYZ1NqTFdFamc?oc=5\" target=\"_blank\">Microsoft’s bold Game Pass rethink resets the rule for gaming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "published": "2026-03-30T02:37:00+00:00",
-      "source": "thestreet.com"
+      "title": "Microsoft Business Software Ecosystem Faces UK Competition Probe - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlMwSlJkamhkNEUycFNpZzFyMGtnbDVRYVZTdWpnZWJPU2wxdUZ6ZzBpYk5sTzlJT0kxcFJXNHBfNU4yenhaSk9mVkJLdnpuOFVtMDN4S2QwYkV4RFVqWFI3QmpBTlR1RFR3SEVXeGpwazFQZmVvWFAxQXRJV1lRbXdtckktWFNBcWVuRHVyRGRQQk5tLTJfb1gtSlcwV25nWVFEVUFURmVqWEJObzgxTzRSOF9Mdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlMwSlJkamhkNEUycFNpZzFyMGtnbDVRYVZTdWpnZWJPU2wxdUZ6ZzBpYk5sTzlJT0kxcFJXNHBfNU4yenhaSk9mVkJLdnpuOFVtMDN4S2QwYkV4RFVqWFI3QmpBTlR1RFR3SEVXeGpwazFQZmVvWFAxQXRJV1lRbXdtckktWFNBcWVuRHVyRGRQQk5tLTJfb1gtSlcwV25nWVFEVUFURmVqWEJObzgxTzRSOF9Mdw?oc=5\" target=\"_blank\">Microsoft Business Software Ecosystem Faces UK Competition Probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-03-31T11:35:17+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Refresh your PC with a $13 Microsoft upgrade this spring - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBscjNJSzZSSjZnR3JCRGkzaXMzVXRVMzRZVC1hc24zanVmdGw2OWMzNWNSa0syTERaUGgwOTY3bWJjaVMzdVhjTG9MZjlfMVdaSXcxbWxmNVUtV2pVWUhncmZMVmJ0UnJSbEg1dHRsYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBscjNJSzZSSjZnR3JCRGkzaXMzVXRVMzRZVC1hc24zanVmdGw2OWMzNWNSa0syTERaUGgwOTY3bWJjaVMzdVhjTG9MZjlfMVdaSXcxbWxmNVUtV2pVWUhncmZMVmJ0UnJSbEg1dHRsYw?oc=5\" target=\"_blank\">Refresh your PC with a $13 Microsoft upgrade this spring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-03-29T22:14:20+00:00",
-      "source": "Mashable"
+      "title": "Microsoft hit with UK competition regulator probe over software business - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQk9kcDhuUnFwN3RkNGJ0MjBQNm5lYnZMYVhhZGp4dFNaNDVWYmpXYjF2VlR6aWQtX3gyb1QydDNiRmZ1RzI3N0E2cWpOODJ5bFdBQkJKQ0hnRE1HaHZiMkdQdnNnYUY3UFdrZlJzNGdZU3Q1ZENyckpualYwT1l5VUd0SWVOa2Q0U09FeGFR0gGTAUFVX3lxTE1FUXhQemZtZkpNbDJmZGlhczRLMGM4OVppajVvcHFuOUNLNXVOX3cwaGU1eFA5cEwwMHdZWVNjNEJkV05NcWdpRmRhaXJJMHpNTDJkcG51cEtwMUF5OFN2cl9kdTQ0cXZaR2Q3d2hfUFh0bDZVaVA4aXVYMzM0QnBlekZnSUtRalBsLURLc1cyUS12NA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQk9kcDhuUnFwN3RkNGJ0MjBQNm5lYnZMYVhhZGp4dFNaNDVWYmpXYjF2VlR6aWQtX3gyb1QydDNiRmZ1RzI3N0E2cWpOODJ5bFdBQkJKQ0hnRE1HaHZiMkdQdnNnYUY3UFdrZlJzNGdZU3Q1ZENyckpualYwT1l5VUd0SWVOa2Q0U09FeGFR0gGTAUFVX3lxTE1FUXhQemZtZkpNbDJmZGlhczRLMGM4OVppajVvcHFuOUNLNXVOX3cwaGU1eFA5cEwwMHdZWVNjNEJkV05NcWdpRmRhaXJJMHpNTDJkcG51cEtwMUF5OFN2cl9kdTQ0cXZaR2Q3d2hfUFh0bDZVaVA4aXVYMzM0QnBlekZnSUtRalBsLURLc1cyUS12NA?oc=5\" target=\"_blank\">Microsoft hit with UK competition regulator probe over software business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-31T11:22:11+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Microsoft pulls KB5079391 Windows update over install issues - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXJuWkRpLW8yaVY1UmhFeFBubVNRQTN5TVBYbC1hS3pRRGE1eFQyQjlGX1djdS1YcXF6eEdiRlMwV1ZRYzB6a1ZPWmZxU29EM080c2dBTjJyaU1tUDBOSURJZWt5VVRmRnRkU3ZlVjFKUU5scUFEc2hiZUpXaTl1Q0ZTTDREM2VkNC1BWWhjcXRoSTJocnRPVzlxUGVPczF0NG1uRVREaFh5WXhQUEl3VVhYQWVjS2xsTkR6edIBwgFBVV95cUxPYzJkM0tDVUdnNVBZMGhQd0tjak41MG1yVUwyU01Yb2M1Z1RRek9ZT0lIYk95OXpyWmpTam9LSjZ0enZWRTFBWlZ0OGY2XzdNMGJCaU5OdlV3cnlLdTI3cmIyUXdzMUNWdmd1em1Zd1JvOFZ0YWZFVG9QNGtIeTRHQWlJcWVXTm9feWJRVDMwTTRDUnZEV3NPVnVVazZTMnBkSkhIcTBpZXpSSV9GNklXSTFabUNXcGc1dTVZaXljUF9SUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXJuWkRpLW8yaVY1UmhFeFBubVNRQTN5TVBYbC1hS3pRRGE1eFQyQjlGX1djdS1YcXF6eEdiRlMwV1ZRYzB6a1ZPWmZxU29EM080c2dBTjJyaU1tUDBOSURJZWt5VVRmRnRkU3ZlVjFKUU5scUFEc2hiZUpXaTl1Q0ZTTDREM2VkNC1BWWhjcXRoSTJocnRPVzlxUGVPczF0NG1uRVREaFh5WXhQUEl3VVhYQWVjS2xsTkR6edIBwgFBVV95cUxPYzJkM0tDVUdnNVBZMGhQd0tjak41MG1yVUwyU01Yb2M1Z1RRek9ZT0lIYk95OXpyWmpTam9LSjZ0enZWRTFBWlZ0OGY2XzdNMGJCaU5OdlV3cnlLdTI3cmIyUXdzMUNWdmd1em1Zd1JvOFZ0YWZFVG9QNGtIeTRHQWlJcWVXTm9feWJRVDMwTTRDUnZEV3NPVnVVazZTMnBkSkhIcTBpZXpSSV9GNklXSTFabUNXcGc1dTVZaXljUF9SUQ?oc=5\" target=\"_blank\">Microsoft pulls KB5079391 Windows update over install issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-03-30T09:38:45+00:00",
-      "source": "BleepingComputer"
+      "title": "Zacks Investment Ideas feature highlights Adobe's and Microsoft - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDdpOGloT3dBODg2WDJDbGdQWF9RMVd5eXBTc2dVUkt5bzdtcUMyWC03bXhNMU9IMVEyMHI2b1J0VmY5V0hSYmRqbWJSdlRSVU9mbWhBUHNRTlBQZUc0MEdzRzhNNm1wX0JyZElrWWJJZ1g0QnNTWEZFN3NYRXVBNDN2TVc3TllVYnZfT05kRzZlWXcy?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDdpOGloT3dBODg2WDJDbGdQWF9RMVd5eXBTc2dVUkt5bzdtcUMyWC03bXhNMU9IMVEyMHI2b1J0VmY5V0hSYmRqbWJSdlRSVU9mbWhBUHNRTlBQZUc0MEdzRzhNNm1wX0JyZElrWWJJZ1g0QnNTWEZFN3NYRXVBNDN2TVc3TllVYnZfT05kRzZlWXcy?oc=5\" target=\"_blank\">Zacks Investment Ideas feature highlights Adobe's and Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "published": "2026-03-31T09:26:00+00:00",
+      "source": "Yahoo Finance Singapore"
     },
     {
-      "title": "Microsoft Issues Critical WinRE and Setup Updates Ahead of 2026 Secure Boot Certificate Expiration - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YbzEweE1jLTJyWUZ3RnkyazlvQWhnbWFtNFV2U0k0UXdHT3lvYUczb1RvVWF2MUpWZ3IwaFp5RG9sZ2lMX3NyWXZLZm5WOWlVWFBjMGZZZkxCc1FTNnlQdG9mLWVyOWJ2cGQ0WDBFY9IBdEFVX3lxTE5vdmpLc1JVS21sYnNDWmRES2NfbjlscE02WWhaNDU0cEZhZDBUZXV5NG9EVjlyeWw1X0x3NGJ6WWVZX1gxSEgwQjNmd0UySFpvSGxrUy1oQlJZR3BEblBLaWxJSzZaRkJxYzhmQ05ROExpV2o4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9YbzEweE1jLTJyWUZ3RnkyazlvQWhnbWFtNFV2U0k0UXdHT3lvYUczb1RvVWF2MUpWZ3IwaFp5RG9sZ2lMX3NyWXZLZm5WOWlVWFBjMGZZZkxCc1FTNnlQdG9mLWVyOWJ2cGQ0WDBFY9IBdEFVX3lxTE5vdmpLc1JVS21sYnNDWmRES2NfbjlscE02WWhaNDU0cEZhZDBUZXV5NG9EVjlyeWw1X0x3NGJ6WWVZX1gxSEgwQjNmd0UySFpvSGxrUy1oQlJZR3BEblBLaWxJSzZaRkJxYzhmQ05ROExpV2o4?oc=5\" target=\"_blank\">Microsoft Issues Critical WinRE and Setup Updates Ahead of 2026 Secure Boot Certificate Expiration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyberSecurityNews</font>",
-      "published": "2026-03-29T14:39:06+00:00",
-      "source": "CyberSecurityNews"
+      "title": "Microsoft plans $1 billion investment in Thailand, Thai government says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm5hYVlUOFFvMmM2V0hYOEJWVzlGYXhkbW9LNGMxUkVlSUJJeXVoUWdPLUwtanFRamV6b05EUTVKYW1ZTDNGWHpxeDBfdjdlOXlJVV8wRDNLUlJGeGRNZVR3Sm96TjF2cnM4YkdKc2JsRnNkU3Jyc1R1QmdZdmFLaG9KUHp0b1llcFBic3kxSXk4a3VjQ3B2WG93NU5wSHpVMmZrODNGdlRSVVF6TzE4aG5GVHRoTmRjQlZrZHpB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm5hYVlUOFFvMmM2V0hYOEJWVzlGYXhkbW9LNGMxUkVlSUJJeXVoUWdPLUwtanFRamV6b05EUTVKYW1ZTDNGWHpxeDBfdjdlOXlJVV8wRDNLUlJGeGRNZVR3Sm96TjF2cnM4YkdKc2JsRnNkU3Jyc1R1QmdZdmFLaG9KUHp0b1llcFBic3kxSXk4a3VjQ3B2WG93NU5wSHpVMmZrODNGdlRSVVF6TzE4aG5GVHRoTmRjQlZrZHpB?oc=5\" target=\"_blank\">Microsoft plans $1 billion investment in Thailand, Thai government says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-03-31T04:17:00+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "If Microsoft really wants to fix Windows 11, it should do these four things ASAP - zdnet.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wYVFVLTgxb0J2aGJQanBCZ1BzdDRuQ2FzOERPWHhmV05nYi1UVUs5cmZlNWRGcUMxaExxUjU5WHBFS2ZCYkl3dzBLNlpVOFAzQWExM25OTHNLM3BHSE9uRm53?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wYVFVLTgxb0J2aGJQanBCZ1BzdDRuQ2FzOERPWHhmV05nYi1UVUs5cmZlNWRGcUMxaExxUjU5WHBFS2ZCYkl3dzBLNlpVOFAzQWExM25OTHNLM3BHSE9uRm53?oc=5\" target=\"_blank\">If Microsoft really wants to fix Windows 11, it should do these four things ASAP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zdnet.com</font>",
-      "published": "2026-03-30T01:55:00+00:00",
-      "source": "zdnet.com"
+      "title": "Microsoft to Invest Over $1 Billion in Thailand on Cloud, AI Infrastructure - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOTTVLUVFwcTltTjhycXhkWUZnX2JQU3BDWGxJQkhxT1p5S2hCdEw3eDZGTFkwN3hfcEZvWFh0a2hTZzJnc25zT3R4NDQ1WVVhTlkxQWtuOXJxT1lhUXZoS2ZhNjFJMmF4ZGtYQVNNVFpMUThLNF9Xa1hNWXFPazNqX19TMmRIVmNPeWtfa09pUXlXOFQ3NzZnZlhLY0FEX0FYM0NvaGFRZndfcUY0c3h1ZUhqeUlpeTN1TUVEbkk5YVFqdk9XbnB1MFBWWGo2R2xPcWtMZGNNMHZkWUttMm5GNk15TnpURm9SRmw4anlHNDgzQTBPRHV2MFdHTF9rQzBoa1FaSVRtczZFMUdXS2l3ZTVaczhGeXFUMTJHOG96NWpQcThCd3hJRml0TjFSSzRSbGd2cDFFUzVtQlYydGk3dUtrLXJiNlpkenJaWjZWX1o2N1VuckEyUG5rY1I0ZmNEY09xOWlrajc5VmZ1ZWdST2txSkVhbTRKalJ4cE9nUWFLTkh5Z1BsYkpqaFVFMDNpSHA0LXFMeGNfWHUybVhCdzdtVGM3ZVV3SVNSekRzczhfS0tSeUxN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxOTTVLUVFwcTltTjhycXhkWUZnX2JQU3BDWGxJQkhxT1p5S2hCdEw3eDZGTFkwN3hfcEZvWFh0a2hTZzJnc25zT3R4NDQ1WVVhTlkxQWtuOXJxT1lhUXZoS2ZhNjFJMmF4ZGtYQVNNVFpMUThLNF9Xa1hNWXFPazNqX19TMmRIVmNPeWtfa09pUXlXOFQ3NzZnZlhLY0FEX0FYM0NvaGFRZndfcUY0c3h1ZUhqeUlpeTN1TUVEbkk5YVFqdk9XbnB1MFBWWGo2R2xPcWtMZGNNMHZkWUttMm5GNk15TnpURm9SRmw4anlHNDgzQTBPRHV2MFdHTF9rQzBoa1FaSVRtczZFMUdXS2l3ZTVaczhGeXFUMTJHOG96NWpQcThCd3hJRml0TjFSSzRSbGd2cDFFUzVtQlYydGk3dUtrLXJiNlpkenJaWjZWX1o2N1VuckEyUG5rY1I0ZmNEY09xOWlrajc5VmZ1ZWdST2txSkVhbTRKalJ4cE9nUWFLTkh5Z1BsYkpqaFVFMDNpSHA0LXFMeGNfWHUybVhCdzdtVGM3ZVV3SVNSekRzczhfS0tSeUxN?oc=5\" target=\"_blank\">Microsoft to Invest Over $1 Billion in Thailand on Cloud, AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-03-31T06:48:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "Microsoft plans $1 billion investment in Thailand, Thai government says - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHpVZGVOUVFqQXhnTkpIWXhPRnRZVXJQTjAydWFvMDJQVEJUOVVyUm11UllzRExfMEMyZGVhRFhDSVNHSXh1c2NTYnoycDh3ZnVaeC03Si1sZV9KQkl3bVFwSGlOT1NCZFItNEpySzFrLUY4VzZ6a2pXMGU5Q01lSEJkazN5RVN3UFh5aDhORnBWcTlpSFRWT3kzcXBuclBZT1FnT2JWbVg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHpVZGVOUVFqQXhnTkpIWXhPRnRZVXJQTjAydWFvMDJQVEJUOVVyUm11UllzRExfMEMyZGVhRFhDSVNHSXh1c2NTYnoycDh3ZnVaeC03Si1sZV9KQkl3bVFwSGlOT1NCZFItNEpySzFrLUY4VzZ6a2pXMGU5Q01lSEJkazN5RVN3UFh5aDhORnBWcTlpSFRWT3kzcXBuclBZT1FnT2JWbVg?oc=5\" target=\"_blank\">Microsoft plans $1 billion investment in Thailand, Thai government says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-31T04:17:00+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
     {
-      "title": "Nextcloud And Ionos Launch Open Source Euro-Office To Challenge Microsoft - Open Source For You",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLWZEbDJpYnB5UHhLOVA2bXFkeE5KWkZtU2ZCTHNmdlFFWE5aRnB2cnk4VFFnLXZOMUI4b2VUS0tMZlVhVExIdkp2ZE1EdThyZTN3OF8xUmFrTXhZbXM5VmVyc2ZGMEV1dzRNYUZwdmJydUc4UENBV3d5dDd0NmhWU3NJZ242c3FxUHhqU29FdkZlbWlJNHpjRWU2TWc4eXo4VnNfLVh3YVFmeDdLQWUyTzg5Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNLWZEbDJpYnB5UHhLOVA2bXFkeE5KWkZtU2ZCTHNmdlFFWE5aRnB2cnk4VFFnLXZOMUI4b2VUS0tMZlVhVExIdkp2ZE1EdThyZTN3OF8xUmFrTXhZbXM5VmVyc2ZGMEV1dzRNYUZwdmJydUc4UENBV3d5dDd0NmhWU3NJZ242c3FxUHhqU29FdkZlbWlJNHpjRWU2TWc4eXo4VnNfLVh3YVFmeDdLQWUyTzg5Zw?oc=5\" target=\"_blank\">Nextcloud And Ionos Launch Open Source Euro-Office To Challenge Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Open Source For You</font>",
-      "published": "2026-03-30T08:33:53+00:00",
-      "source": "Open Source For You"
+      "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-03-30T22:35:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Proton launches Microsoft Office competitor bundle, with a focus on privacy - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3FKNG1WZDFoZERPRDJtOTFJVmpnUERlTkVYOUdhX3QzZjRYT09hUzVsclBEczl2OXpYcVJUSzNrVnNwWEZ1T09KSGg3d0EtYVJQODVadVp0RFZuWVhIMUtTalBDUFlxVjE0S0dFSy1rd0ZWdWhkSFBRakw4UmNpNkhzYnlRcWxpWFVVYjJVMnFheGZxQ2gxU3Axd0ZzcnZfdzhKYWR3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3FKNG1WZDFoZERPRDJtOTFJVmpnUERlTkVYOUdhX3QzZjRYT09hUzVsclBEczl2OXpYcVJUSzNrVnNwWEZ1T09KSGg3d0EtYVJQODVadVp0RFZuWVhIMUtTalBDUFlxVjE0S0dFSy1rd0ZWdWhkSFBRakw4UmNpNkhzYnlRcWxpWFVVYjJVMnFheGZxQ2gxU3Axd0ZzcnZfdzhKYWR3?oc=5\" target=\"_blank\">Proton launches Microsoft Office competitor bundle, with a focus on privacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2026-03-31T10:52:00+00:00",
+      "source": "Neowin"
+    },
+    {
+      "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmo1X0pja0dFVzhTMVZLdGk0T3hvWm5nbGRWRXJPQ0pFakFkVFc0NGwyc1IwXzFwdzJmSHl3Szd2S0RnWHdJUDltSEVfa1ZMU2tTVDhBY2pJaVNxalN5M0tqbkM3WW5LRHFmTTdqSmVWdmRmX21zUWoycWRfOWNxTjJQOFhXd3huUEtjZ3hGY0FsSHV2bXpBWmZaeFB0d1NXZ0J3aFNhR1huZGk5QUZ4MC01dFBzbUJ1MnhMMUJ6djFjZG93ZDUzY1NZb3lhejJpTjc1d29OVC1abHJaTHhwZ0FqcVhNUmRqcU1WTnY5NnBXNkRDTUZmVWVvRmpQTzVURVFUcGZBNHltTWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxORmo1X0pja0dFVzhTMVZLdGk0T3hvWm5nbGRWRXJPQ0pFakFkVFc0NGwyc1IwXzFwdzJmSHl3Szd2S0RnWHdJUDltSEVfa1ZMU2tTVDhBY2pJaVNxalN5M0tqbkM3WW5LRHFmTTdqSmVWdmRmX21zUWoycWRfOWNxTjJQOFhXd3huUEtjZ3hGY0FsSHV2bXpBWmZaeFB0d1NXZ0J3aFNhR1huZGk5QUZ4MC01dFBzbUJ1MnhMMUJ6djFjZG93ZDUzY1NZb3lhejJpTjc1d29OVC1abHJaTHhwZ0FqcVhNUmRqcU1WTnY5NnBXNkRDTUZmVWVvRmpQTzVURVFUcGZBNHltTWc?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "published": "2026-03-30T21:58:15+00:00",
+      "source": "The Globe and Mail"
     },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
@@ -77,39 +91,21 @@
       "source": "Microsoft"
     },
     {
-      "title": "Euro-Office: European Tech Coalition to Challenge Microsoft with Open Source - trendingtopics.eu",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MDFtYno3LXRxUDlJeDVvT0J3b3BOdUNjNzdGRWpDUERacWF1RU1vcTVuUzZSYjFaTTZKWUlGbHRuS2kwUU8wbEJBU3I1SjREZnFfVjc1OWloNUM1TkFMZDlEVzg2NEg1ZnFBSVRMMDM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE51MDFtYno3LXRxUDlJeDVvT0J3b3BOdUNjNzdGRWpDUERacWF1RU1vcTVuUzZSYjFaTTZKWUlGbHRuS2kwUU8wbEJBU3I1SjREZnFfVjc1OWloNUM1TkFMZDlEVzg2NEg1ZnFBSVRMMDM?oc=5\" target=\"_blank\">Euro-Office: European Tech Coalition to Challenge Microsoft with Open Source</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">trendingtopics.eu</font>",
-      "published": "2026-03-27T13:44:16+00:00",
-      "source": "trendingtopics.eu"
-    },
-    {
-      "title": "Microsoft launches Copilot Health, a dedicated space for personal health data and AI-driven insights - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEVCWlJNSTlSTlZuMHpTemU5MllidkxmUF91T04tbXFvYV9vMGNReGI3a1Bkd1lwVHBTV0tzSFhuOS1pclEzck1saV9BVmY1SXg3Z3V5c3VyUUVaQTJQQnJ2ZUtFNjRoTFQ3LTUwVjBnSXU2cXNCNlU4Q2I1SzE3YkRkUGZldXVDRi1la3dieHlYZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEVCWlJNSTlSTlZuMHpTemU5MllidkxmUF91T04tbXFvYV9vMGNReGI3a1Bkd1lwVHBTV0tzSFhuOS1pclEzck1saV9BVmY1SXg3Z3V5c3VyUUVaQTJQQnJ2ZUtFNjRoTFQ3LTUwVjBnSXU2cXNCNlU4Q2I1SzE3YkRkUGZldXVDRi1la3dieHlYZw?oc=5\" target=\"_blank\">Microsoft launches Copilot Health, a dedicated space for personal health data and AI-driven insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-03-12T07:00:00+00:00",
-      "source": "Fortune"
-    },
-    {
-      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
-      "published": "2026-01-08T08:00:00+00:00",
-      "source": "PayPal Newsroom"
+      "title": "Nextcloud And Ionos Launch Open Source Euro-Office To Challenge Microsoft - Open Source For You",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLWZEbDJpYnB5UHhLOVA2bXFkeE5KWkZtU2ZCTHNmdlFFWE5aRnB2cnk4VFFnLXZOMUI4b2VUS0tMZlVhVExIdkp2ZE1EdThyZTN3OF8xUmFrTXhZbXM5VmVyc2ZGMEV1dzRNYUZwdmJydUc4UENBV3d5dDd0NmhWU3NJZ242c3FxUHhqU29FdkZlbWlJNHpjRWU2TWc4eXo4VnNfLVh3YVFmeDdLQWUyTzg5Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNLWZEbDJpYnB5UHhLOVA2bXFkeE5KWkZtU2ZCTHNmdlFFWE5aRnB2cnk4VFFnLXZOMUI4b2VUS0tMZlVhVExIdkp2ZE1EdThyZTN3OF8xUmFrTXhZbXM5VmVyc2ZGMEV1dzRNYUZwdmJydUc4UENBV3d5dDd0NmhWU3NJZ242c3FxUHhqU29FdkZlbWlJNHpjRWU2TWc4eXo4VnNfLVh3YVFmeDdLQWUyTzg5Zw?oc=5\" target=\"_blank\">Nextcloud And Ionos Launch Open Source Euro-Office To Challenge Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Open Source For You</font>",
+      "published": "2026-03-30T08:33:53+00:00",
+      "source": "Open Source For You"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-27",
-      "close": 356.7699890136719
+      "date": "2026-03-30",
+      "close": 358.9599914550781
     },
     "history": [
-      {
-        "date": "2026-03-19",
-        "close": 389.0199890136719
-      },
       {
         "date": "2026-03-20",
         "close": 381.8699951171875
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-27",
         "close": 356.7699890136719
+      },
+      {
+        "date": "2026-03-30",
+        "close": 358.9599914550781
       }
     ],
     "name": "Microsoft Corporation"

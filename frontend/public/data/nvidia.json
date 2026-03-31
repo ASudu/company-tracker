@@ -2,29 +2,8 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-03-30T12:55:05.159789+00:00",
+  "fetched_at": "2026-03-31T12:53:57.984791+00:00",
   "news": [
-    {
-      "title": "Nvidia stock sends valuation signal for first time in 13 years - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUNhZWJzY0hJVTJjUlVHWndRN1N2eUpfU2RZdDNfVnUzcVJNeVNUS0o4ZGxNVWtsUkFIVE10d0h2SGdFZ1NVams2R0NYVVp3OUxPOTcxbEQ1d3pSRGh0MWFIQlR1Tm0zWFBwMTR4T0hYZ1JacTV6dk5vMUJmNHVtZ0x2cXNDLUp3X1ZSZjNiMUZmN21BUndKUWlrTnVNa2M0eE1iTktOSW4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUNhZWJzY0hJVTJjUlVHWndRN1N2eUpfU2RZdDNfVnUzcVJNeVNUS0o4ZGxNVWtsUkFIVE10d0h2SGdFZ1NVams2R0NYVVp3OUxPOTcxbEQ1d3pSRGh0MWFIQlR1Tm0zWFBwMTR4T0hYZ1JacTV6dk5vMUJmNHVtZ0x2cXNDLUp3X1ZSZjNiMUZmN21BUndKUWlrTnVNa2M0eE1iTktOSW4?oc=5\" target=\"_blank\">Nvidia stock sends valuation signal for first time in 13 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "published": "2026-03-29T14:17:00+00:00",
-      "source": "thestreet.com"
-    },
-    {
-      "title": "Prediction: This Will Be Nvidia's Stock Price 3 Years From Now - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUgtMng3MHdmT3doLXRRSENoZDY4M1NzcDVLZ29aOEFjWVdEQ0tIZWw0VFJHbVRJbHYzYnA5a0YteVFBQlBuV0FsTExDVlhCVUJBUW9Gb0hRMFJ2T2RBZktsWWFFOVpfWXpiSlZxbXlaMGN2RHdMNFdialV5d1ZONnlrYmQwcHcwRVRyZTlodTJ0RlA1UWpfeg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUgtMng3MHdmT3doLXRRSENoZDY4M1NzcDVLZ29aOEFjWVdEQ0tIZWw0VFJHbVRJbHYzYnA5a0YteVFBQlBuV0FsTExDVlhCVUJBUW9Gb0hRMFJ2T2RBZktsWWFFOVpfWXpiSlZxbXlaMGN2RHdMNFdialV5d1ZONnlrYmQwcHcwRVRyZTlodTJ0RlA1UWpfeg?oc=5\" target=\"_blank\">Prediction: This Will Be Nvidia's Stock Price 3 Years From Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-29T07:44:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Nvidia's PE sinks to seven-year low as war and AI angst weigh - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0ZFT2xDVFVkTFAzVlBpMmlhUnpxbjVrZjgzSTRoOHQza0lvTERvNlYwVTVjWVJhNVJGVUlXanJ4Q1o1ZUwzUkFiNnBVcmdtbE1NWVVCRHZZeEEwM0FNOVFqdnVSYmdfWXVsb1BYaDl4a3p6T3laX2JucEpCZzVuRFZKOHJJWkVaYmdfRW5RY21lNG1lNFVUQXI2VQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0ZFT2xDVFVkTFAzVlBpMmlhUnpxbjVrZjgzSTRoOHQza0lvTERvNlYwVTVjWVJhNVJGVUlXanJ4Q1o1ZUwzUkFiNnBVcmdtbE1NWVVCRHZZeEEwM0FNOVFqdnVSYmdfWXVsb1BYaDl4a3p6T3laX2JucEpCZzVuRFZKOHJJWkVaYmdfRW5RY21lNG1lNFVUQXI2VQ?oc=5\" target=\"_blank\">Nvidia's PE sinks to seven-year low as war and AI angst weigh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-03-30T09:34:25+00:00",
-      "source": "Reuters"
-    },
     {
       "title": "Nvidia’s Jensen Huang says ‘We’ve achieved AGI.’ But no one can agree on what AGI means. - Fortune",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkstVXcwbWZWbHljWkJNVUY4Z3ZvdEN1STQ5SWRFbmdraTNsQmpOTGZIRlhhNnZDSlNwekhIQjJtZjJMNXltQm5sMTd5U1h4TVRnbVNHNkg3Y2plOG1QRXZvMG5LRWRxcmp3YXJ4dXRELThKejFwMVM1UnRKbE5GXzVwdGVBVEZfOGdfSkE5MGF3TXNUYWtMeHpFbW1EMGF6RUhqX2pvUnUzbmNtaGthTw?oc=5",
@@ -33,47 +12,68 @@
       "source": "Fortune"
     },
     {
-      "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Netflix, Carnival, Expedia, CrowdStrike, Meta, Seagate & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaERQU3pMRFRZbk5ST3ZTNEFQLWtSOWpWRW9EN3RBWW9xUzF4azYyb2dmdG1CSmZ4THp3a3hGX3Vhb3pZUUM0Y2t6V2U2VlhPU21pSFFudmJVYkN4dHhDSUNBYjdPU1IyVUxWWDRvWm5MX3VKNTctZ2U4S1Z2ekZLVjFDUjkwV3VV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaERQU3pMRFRZbk5ST3ZTNEFQLWtSOWpWRW9EN3RBWW9xUzF4azYyb2dmdG1CSmZ4THp3a3hGX3Vhb3pZUUM0Y2t6V2U2VlhPU21pSFFudmJVYkN4dHhDSUNBYjdPU1IyVUxWWDRvWm5MX3VKNTctZ2U4S1Z2ekZLVjFDUjkwV3VV?oc=5\" target=\"_blank\">Here are Monday's biggest analyst calls: Nvidia, Apple, Netflix, Carnival, Expedia, CrowdStrike, Meta, Seagate & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-03-30T12:19:46+00:00",
+      "title": "Nvidia: Helium Shortage Problems (NASDAQ:NVDA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFVuRnNUdkxVR3ItQWRqTmxHSWxZTG9DdEg5M0JaLUszU1ZvWHJHV01MdDlyS0NubnpXQjMwZDFRZEZYUGVXZk01OXJIaEc3MVYtSHBTemNiSk1NWlZpcGhPdDVCSTB4LTBESTNWdVRYRi1oeS1GNEo2NFNTY0dLSUxwRXlqQU9IMUNKQ2NZTjRZbzBhcjlKaURYSlFBMXR5eVE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFVuRnNUdkxVR3ItQWRqTmxHSWxZTG9DdEg5M0JaLUszU1ZvWHJHV01MdDlyS0NubnpXQjMwZDFRZEZYUGVXZk01OXJIaEc3MVYtSHBTemNiSk1NWlZpcGhPdDVCSTB4LTBESTNWdVRYRi1oeS1GNEo2NFNTY0dLSUxwRXlqQU9IMUNKQ2NZTjRZbzBhcjlKaURYSlFBMXR5eVE?oc=5\" target=\"_blank\">Nvidia: Helium Shortage Problems (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVk1OEFHeGxEaktjN0pNaHNKNGlXa25rZWxDcl9MNHBlMVpvTFZGaC1RLUNxMjMwX09aeVR2WTRBczA5RmpsRDVXX2x1TWhMckprNk1pWmFNTHlaSUs3T3hvOFN6N1V4Z3ZiSEtNb09mSHo2SHVPLXprOWZIR2d2czlTSkJkWU5iQlA2SlF6ck83VG9YRE4xT3VDZ1QwNl9Z?oc=5\" target=\"_blank\">Why Nvidia has the important stock chart in the world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVRPSlJYV200dGNlWW1TMXFvWXNveTRMaTdCY0FySTh6enZuRHNhQ2VCZWRZb1ZtdXlMdkM0ekdiMTBhc21hRGZ4ekN4V05nZkJha0VtbHh6ZTBMVG5JQVIyLUxrVjQxdGtvLURGbGVuVDlmQ0VPUmt4MHI5WkN1LXVVT1hwTDRqZFV1Tm00aGxDSmFkTWg4?oc=5\" target=\"_blank\">Jensen Huang Just Raised Nvidia's Order Outlook to $1 Trillion. Should You Buy the AI Stock -- or Has the Market Already Priced It in?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li></ol>",
+      "published": "2026-03-30T14:12:01+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Marvell stock pops 11% as Nvidia takes $2 billion stake, continuing run of similar bets - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XMktGMUszZ2JrMHQwMVZtcGY0VkRfYnZQM1J0QjBMeThEcnR0MDlrMEg1ZjByc3I4NmhSUzFGMnVxR3FmNVNfa0dUM0I4a0ktZzBEQTIwWDNXa0k0b3ZhTnFkRDVSa1JnMEk3RGFqS1PSAXZBVV95cUxOR1VkNnljYTdvQjBSaktlY1EzZHBmbWlXM3pLUjRvYVdFSjc2RjRpbVNHSzRKTzlfYXZrTWVuMGkzbk9iTG1OcWNLZVFxLVRsbklTUXhfUFZJck9nMlhnYzVqTmNPWGprYy13UVFSeUt5ZkRjSi1B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1XMktGMUszZ2JrMHQwMVZtcGY0VkRfYnZQM1J0QjBMeThEcnR0MDlrMEg1ZjByc3I4NmhSUzFGMnVxR3FmNVNfa0dUM0I4a0ktZzBEQTIwWDNXa0k0b3ZhTnFkRDVSa1JnMEk3RGFqS1PSAXZBVV95cUxOR1VkNnljYTdvQjBSaktlY1EzZHBmbWlXM3pLUjRvYVdFSjc2RjRpbVNHSzRKTzlfYXZrTWVuMGkzbk9iTG1OcWNLZVFxLVRsbklTUXhfUFZJck9nMlhnYzVqTmNPWGprYy13UVFSeUt5ZkRjSi1B?oc=5\" target=\"_blank\">Marvell stock pops 11% as Nvidia takes $2 billion stake, continuing run of similar bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-31T12:14:51+00:00",
       "source": "CNBC"
     },
     {
+      "title": "Nvidia invests $2 billion in Marvell, launches AI partnership - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2I4Szd3M213dWFyM0lLYnY2VHI5TXB0ZEhXVGIzQ1BUaVpHNzAzMWUxYXd0dWQ5YS1zdE1jZXYwanZyYlpoSWl3Z09laGdiWmg2eDlTd1JTbDY2U2JjNGRybE1tN3BZc0d5YXhrc0l6cGcxVmhUeFVMcFc5OWFKbXBlY2U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2I4Szd3M213dWFyM0lLYnY2VHI5TXB0ZEhXVGIzQ1BUaVpHNzAzMWUxYXd0dWQ5YS1zdE1jZXYwanZyYlpoSWl3Z09laGdiWmg2eDlTd1JTbDY2U2JjNGRybE1tN3BZc0d5YXhrc0l6cGcxVmhUeFVMcFc5OWFKbXBlY2U?oc=5\" target=\"_blank\">Nvidia invests $2 billion in Marvell, launches AI partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-31T12:21:15+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Marvell Stock Soars. Why Nvidia Is Taking a Stake in Its AI Chip Rival. - barrons.com",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNTVhoME9mc3lSeFE3RXZHZU9WRlpiQ0pVS3V4QmxKemVHcjF3SDU0YXBhRGFIamIyX2EySV83Vm8xSmhBVlN6SC1rV1RacXJ5NGZSa3hfdnNMQm9pbDM3VVFGTW1MaWtWdm12NTduQ1ZSMThBWnVPWEJHTDB2V09GSkgxbEU4blRneGt6YktlOThiaEt1anVmLXRGZEU3Z0huc1pWWE1FcW4zdnN3ZE1FME1rWnJBdUJyZUxVVk5uZVd6bEJmWmdKX2RkQTFVVWI5YmJ1bWNNQXBrS2RDWWxPMFRVLTdJclFyaC0tcXczOThTcFpUTy1QQzNMNThlUFdIMEFLVExDZXFoRFBWc1RtNHZTODVNbnhJbzBkLXZmMDlYSGZ3Q0M1QkFDQmY4RUxiOW9Nc0d5TmY3RHZEOTFiVUJFMmNlU2VOWERzLWFiYk4xdGdMbkttakhRMTBldkhzNjN3YVBpQ3ZFU09sek9tWkdZUDFrWHliUU1mVGw4Sm81UXhx?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxNTVhoME9mc3lSeFE3RXZHZU9WRlpiQ0pVS3V4QmxKemVHcjF3SDU0YXBhRGFIamIyX2EySV83Vm8xSmhBVlN6SC1rV1RacXJ5NGZSa3hfdnNMQm9pbDM3VVFGTW1MaWtWdm12NTduQ1ZSMThBWnVPWEJHTDB2V09GSkgxbEU4blRneGt6YktlOThiaEt1anVmLXRGZEU3Z0huc1pWWE1FcW4zdnN3ZE1FME1rWnJBdUJyZUxVVk5uZVd6bEJmWmdKX2RkQTFVVWI5YmJ1bWNNQXBrS2RDWWxPMFRVLTdJclFyaC0tcXczOThTcFpUTy1QQzNMNThlUFdIMEFLVExDZXFoRFBWc1RtNHZTODVNbnhJbzBkLXZmMDlYSGZ3Q0M1QkFDQmY4RUxiOW9Nc0d5TmY3RHZEOTFiVUJFMmNlU2VOWERzLWFiYk4xdGdMbkttakhRMTBldkhzNjN3YVBpQ3ZFU09sek9tWkdZUDFrWHliUU1mVGw4Sm81UXhx?oc=5\" target=\"_blank\">Marvell Stock Soars. Why Nvidia Is Taking a Stake in Its AI Chip Rival.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">barrons.com</font>",
+      "published": "2026-03-31T12:47:00+00:00",
+      "source": "barrons.com"
+    },
+    {
+      "title": "Emerald AI raises $25 million from Nvidia and others to build a fast pass for data centers connecting to the grid - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEdPaXdJWnNnbXh2bzVEUjJ2bndrTHZLdVRaS081Q2N5UlVBZnRXOGduQjBHMkUwVXB4UnU2NzdUbFZ1RlhOVS1hai13X3BQcURZQl9OZUV1cmlRdVpHNHVKWWszRzJBczlBazZvMnl2d3pzT0ZxeW1JbzVTVThOWkY1NVBqc0V2LVRSSllR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEdPaXdJWnNnbXh2bzVEUjJ2bndrTHZLdVRaS081Q2N5UlVBZnRXOGduQjBHMkUwVXB4UnU2NzdUbFZ1RlhOVS1hai13X3BQcURZQl9OZUV1cmlRdVpHNHVKWWszRzJBczlBazZvMnl2d3pzT0ZxeW1JbzVTVThOWkY1NVBqc0V2LVRSSllR?oc=5\" target=\"_blank\">Emerald AI raises $25 million from Nvidia and others to build a fast pass for data centers connecting to the grid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-03-31T11:00:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Nvidia-Tied Debt Deal Turbocharges a 30,000-Acre Data Center Bet - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTMzYnJ2b2FxWi11MnFsZ3Y3NW5Vb2l6eHlVSUx5LWszWDFOemt0RUFpVVM1QmV4VUh4VktMZ3NtOGl1dW93cGdBTUVXZlJMUHk4cnkwLTlTSjBlR3Nac0dMM05WazhVdm13cml6R0IzWlZnSElqMzRUcldGMWE4dmc1dDcteHg3dmw4ZEkyNWtrSFFyWkZkd01LZWpSMzc5ZkhCd0xmZzNOd0JuSjIzOHdZaFFiZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTMzYnJ2b2FxWi11MnFsZ3Y3NW5Vb2l6eHlVSUx5LWszWDFOemt0RUFpVVM1QmV4VUh4VktMZ3NtOGl1dW93cGdBTUVXZlJMUHk4cnkwLTlTSjBlR3Nac0dMM05WazhVdm13cml6R0IzWlZnSElqMzRUcldGMWE4dmc1dDcteHg3dmw4ZEkyNWtrSFFyWkZkd01LZWpSMzc5ZkhCd0xmZzNOd0JuSjIzOHdZaFFiZw?oc=5\" target=\"_blank\">Nvidia-Tied Debt Deal Turbocharges a 30,000-Acre Data Center Bet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-03-31T12:00:00+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
       "title": "Mistral AI Raises $830 Million in Debt For Nvidia-Powered Data Center - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQWVdXdFJreTNiSzUtMGRHZE16eEZxcGJEeFU4dDBkcGViSXp4UjYxX2duYXZ1cDdYYnN6Mm05US1xaHNsT1lkbF9kXy1IaG54RkVoNnNFc3MwYXdSalFEenlMTVFlbmhkME96NmVYYk9zN3lGQTZNT2hvMzEyaGRPVHZmRG1seTE0YXEtR2FRdlpkb3lZRkQyWmFDWHRMaE9DREMtX1JvVjRJdXlhSm5jZVdSaXc4S3pFejNJNldRLXU2MExIM1hnRkhaUXdXMTQ4YmJOVDZ0dldKOVd6eUNLMllUWFN6TUZBTFpaNy0tdVRteWliQ3pzRUdyN2RRY0U2cGhZcXBSZ1NNMlRCcm94RFBRMFNDQnJFaFJWOTRfbS14dDhrSHUwRGxhZko2cXJKQmpRWlc4czlzYTJ0ZGpOdWZzQWg1clBkODI4MUxMcnRLYmRwSlFxbTJ3bG5JV3ZlNF8wcVdFMUhNNGdlY0dIQWNucjFTeTlERnVfQW9HS0JELWlhaWg2YzhETHAxcExtYXVoeHdzXzBJNFY3Q1J0ZEdJbG1hc1NLbWZTcUhB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgNBVV95cUxQWVdXdFJreTNiSzUtMGRHZE16eEZxcGJEeFU4dDBkcGViSXp4UjYxX2duYXZ1cDdYYnN6Mm05US1xaHNsT1lkbF9kXy1IaG54RkVoNnNFc3MwYXdSalFEenlMTVFlbmhkME96NmVYYk9zN3lGQTZNT2hvMzEyaGRPVHZmRG1seTE0YXEtR2FRdlpkb3lZRkQyWmFDWHRMaE9DREMtX1JvVjRJdXlhSm5jZVdSaXc4S3pFejNJNldRLXU2MExIM1hnRkhaUXdXMTQ4YmJOVDZ0dldKOVd6eUNLMllUWFN6TUZBTFpaNy0tdVRteWliQ3pzRUdyN2RRY0U2cGhZcXBSZ1NNMlRCcm94RFBRMFNDQnJFaFJWOTRfbS14dDhrSHUwRGxhZko2cXJKQmpRWlc4czlzYTJ0ZGpOdWZzQWg1clBkODI4MUxMcnRLYmRwSlFxbTJ3bG5JV3ZlNF8wcVdFMUhNNGdlY0dIQWNucjFTeTlERnVfQW9HS0JELWlhaWg2YzhETHAxcExtYXVoeHdzXzBJNFY3Q1J0ZEdJbG1hc1NLbWZTcUhB?oc=5\" target=\"_blank\">Mistral AI Raises $830 Million in Debt For Nvidia-Powered Data Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNSGJXWUpKQmM5UmlDWEE1bDhCRGdqVFQyejJ5MlVrenVEVUp5R25hcmFDR3JTdHNzYmZtS3p3eURfRjRzcmVjbm15czJRLWRTbHhiQVdlTmo1TldQNzR0NUlvRjFmX1lxYkFCSW5DbXF6S0E4OUlMZzliZS0tdkhEQlhHUEFELWFQOEtSX2h1RXZOWUVjVVJiWG1vWDFnX2l5SDhqOUotTmNDdjJLZ2hqQW5hcDhUeE9qdjVKcEJpTGp2OG5ic096dHVrNEoycm1rTjFvZEVUVHhXMTl0LTVLeUVqc0p6dmNLVDRaVUFpM0VSTTVGVDdrQlozUEJrNGFzNFNPeUFuUUxaLUY1UFlkS0xiM2tHWV9XbktEY3kxd29hbkJOdHc4bUtHOVRDVXFfR1lsNG9QRC1rWHU2U0tRZ29INklRaWx0MVltRGhIT3VxTHFFTV9GdU9CSzZDN1F5MjUyMWxrY3Z1cnVWRUNvUTU2UGwtX0lFVlc3X0JUaExXVjFJaVZhUVNzTTc2RURsTW5IZU96LU5FVjY4QTRpa0pPTEYxLU41RUJKS2pR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgNBVV95cUxNSGJXWUpKQmM5UmlDWEE1bDhCRGdqVFQyejJ5MlVrenVEVUp5R25hcmFDR3JTdHNzYmZtS3p3eURfRjRzcmVjbm15czJRLWRTbHhiQVdlTmo1TldQNzR0NUlvRjFmX1lxYkFCSW5DbXF6S0E4OUlMZzliZS0tdkhEQlhHUEFELWFQOEtSX2h1RXZOWUVjVVJiWG1vWDFnX2l5SDhqOUotTmNDdjJLZ2hqQW5hcDhUeE9qdjVKcEJpTGp2OG5ic096dHVrNEoycm1rTjFvZEVUVHhXMTl0LTVLeUVqc0p6dmNLVDRaVUFpM0VSTTVGVDdrQlozUEJrNGFzNFNPeUFuUUxaLUY1UFlkS0xiM2tHWV9XbktEY3kxd29hbkJOdHc4bUtHOVRDVXFfR1lsNG9QRC1rWHU2U0tRZ29INklRaWx0MVltRGhIT3VxTHFFTV9GdU9CSzZDN1F5MjUyMWxrY3Z1cnVWRUNvUTU2UGwtX0lFVlc3X0JUaExXVjFJaVZhUVNzTTc2RURsTW5IZU96LU5FVjY4QTRpa0pPTEYxLU41RUJKS2pR?oc=5\" target=\"_blank\">Mistral AI Raises $830 Million in Debt For Nvidia-Powered Data Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
       "published": "2026-03-30T09:46:00+00:00",
       "source": "WSJ"
-    },
-    {
-      "title": "Nvidia, Eli Lilly, Alcoa, Coinbase, Strategy, and More Stock Market Movers - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNTWNKRE5pVHpHWG03T3hZMElZOVJWOEN2N0wxVG1XbTUtbXFfMVczaS1zNTZHNmlkVDNEd3l1S09CQUtic01aQ2NCODdnemtNM2hkRE83UkVvc1gtTHBOOE5CUm4xZTFrcVozZnNsVEhoQVBRRFlOOEsxOWtLcWdrNjFXTmszYWlOT090MHlwajRNWHIxWEFnMUlLbDBwNTFmUWdqOUJhMndVbFRhdXpTQUMzZHdZSmVkb2dSdkphbmloXzdLYVoyN2FkVTV1anRMdGxsUEtqYnFVS2Z5bHZiZzZFS0dYLUxrWVVWdkwyb191djdyM2lVcjFKSlFOdkh6WVBBZl9sbUlUNFNpeUtBdEIybmNqYlRUS21pSjNDUm5LMnZuRU03ZzVNOUljM3BjTEx3NkVDeTd6Mng3NkR1QzNteTByY0c5U2ptU3N6Q0tCVkVOcjZJbE9QOElrcWZKS2xUOG1uam1VUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNTWNKRE5pVHpHWG03T3hZMElZOVJWOEN2N0wxVG1XbTUtbXFfMVczaS1zNTZHNmlkVDNEd3l1S09CQUtic01aQ2NCODdnemtNM2hkRE83UkVvc1gtTHBOOE5CUm4xZTFrcVozZnNsVEhoQVBRRFlOOEsxOWtLcWdrNjFXTmszYWlOT090MHlwajRNWHIxWEFnMUlLbDBwNTFmUWdqOUJhMndVbFRhdXpTQUMzZHdZSmVkb2dSdkphbmloXzdLYVoyN2FkVTV1anRMdGxsUEtqYnFVS2Z5bHZiZzZFS0dYLUxrWVVWdkwyb191djdyM2lVcjFKSlFOdkh6WVBBZl9sbUlUNFNpeUtBdEIybmNqYlRUS21pSjNDUm5LMnZuRU03ZzVNOUljM3BjTEx3NkVDeTd6Mng3NkR1QzNteTByY0c5U2ptU3N6Q0tCVkVOcjZJbE9QOElrcWZKS2xUOG1uam1VUQ?oc=5\" target=\"_blank\">Nvidia, Eli Lilly, Alcoa, Coinbase, Strategy, and More Stock Market Movers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-03-30T09:39:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2xSeUZWZV9WcXVGSmQ4aVFUUG5sMlpPb01tTjVaVEl5WGJIMnN2a2p1YkdyZWJGUUFvdFMzcjlOYnIxalpWU0tjcDBDWkc5aE43cC1QV3ZJR1FpbnRGOC1yUE9BV2M3YkZpZFhfaWtiMGRObGNCRjZwQi1lbEZDaC1QOUlQTFZTcVZWdzl0dV9ab1VQaW4xc0hHUlpfdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOM2xSeUZWZV9WcXVGSmQ4aVFUUG5sMlpPb01tTjVaVEl5WGJIMnN2a2p1YkdyZWJGUUFvdFMzcjlOYnIxalpWU0tjcDBDWkc5aE43cC1QV3ZJR1FpbnRGOC1yUE9BV2M3YkZpZFhfaWtiMGRObGNCRjZwQi1lbEZDaC1QOUlQTFZTcVZWdzl0dV9ab1VQaW4xc0hHUlpfdw?oc=5\" target=\"_blank\">Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-03-28T15:18:38+00:00",
-      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - nvidianews.nvidia.com",
+      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5\" target=\"_blank\">NVIDIA Launches Space Computing, Rocketing AI Into Orbit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nvidianews.nvidia.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5\" target=\"_blank\">NVIDIA Launches Space Computing, Rocketing AI Into Orbit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-03-16T07:00:00+00:00",
-      "source": "nvidianews.nvidia.com"
+      "source": "NVIDIA Newsroom"
     },
     {
       "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
-      "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNOGR1V2Y2bFRBMVIwbHZsQzEwWUpPZHVGa3hHSXR3LWgzOWlUMjZVMTNBUGlUaDNRNVhxbWpJX0ZDLXpQckJObE9URy1ib1M5TDZTSHBPT0ZONzl6ekdEUS1INW1lTzdRMnVyQXRlampPUlZnWnlrOXh6RktfcUhoVU12SEQ4cWFzNU42Vmx1YVJaYnR5Nk4zbTZGbDNpYVlLX0Rmdk4yZVQyN1JOQjNPTmxtNENqSEl4YUJyeklVd256c3NERFVVT1FfSkZGWE5XU1JabHV1TG9OX082NFFraGtjMGFNb3BucEZLUkh0bzdxaU16ZFVDak9ZTHFid3paQy1HajAxVnRka09HYkZWQW5ELTFwcW1ldnFEVzJsLUZGVHo0Zk14VDhhVm1oMnk3RDBVLUtuWkIwOWRRbGhJcmZVRndwdHpCNHBwY0pGdnRINUpMdS11RFdJemtLc3VOMlZka2V2VDU3d3puVElhaDZNRjBXbTQ3RVg5ZjNhZWRKUkl2WGQtd2p4LVgzMHFoMU85YmlLQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxNOGR1V2Y2bFRBMVIwbHZsQzEwWUpPZHVGa3hHSXR3LWgzOWlUMjZVMTNBUGlUaDNRNVhxbWpJX0ZDLXpQckJObE9URy1ib1M5TDZTSHBPT0ZONzl6ekdEUS1INW1lTzdRMnVyQXRlampPUlZnWnlrOXh6RktfcUhoVU12SEQ4cWFzNU42Vmx1YVJaYnR5Nk4zbTZGbDNpYVlLX0Rmdk4yZVQyN1JOQjNPTmxtNENqSEl4YUJyeklVd256c3NERFVVT1FfSkZGWE5XU1JabHV1TG9OX082NFFraGtjMGFNb3BucEZLUkh0bzdxaU16ZFVDak9ZTHFid3paQy1HajAxVnRka09HYkZWQW5ELTFwcW1ldnFEVzJsLUZGVHo0Zk14VDhhVm1oMnk3RDBVLUtuWkIwOWRRbGhJcmZVRndwdHpCNHBwY0pGdnRINUpMdS11RFdJemtLc3VOMlZka2V2VDU3d3puVElhaDZNRjBXbTQ3RVg5ZjNhZWRKUkl2WGQtd2p4LVgzMHFoMU85YmlLQQ?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-03-28T06:35:21+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdm80aU1wME5JNWJLcVd4Z2lUblI4ZHFJaWRiY1VYOFAxbHNLWFFHaTNLajQ3WjZvM2JjOHRWMkZaejRWTTFRZXgwMVg1Y0hMWDlCbnU2OEVrNGV5MUhWSHVnWDNEQUlMeERGbXhhQkZpUnl4VXc4V0VhNWhIeER2Tll4R3RON21yN3UxVmlnNFlCaU1LOGRCQzZiX2txS1pVSDkyTUVyYjBkeXNQMzJhQ3dOYnVLSU42dTFJNExxMldSX3ZScDJuQkdkSU5yQTVzRkNXSkYza3duVXNwQTk4N0hRakZOeHBVVEVxbk8tOENsQ1dDOVkxbDRiNDFqNHZB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNdm80aU1wME5JNWJLcVd4Z2lUblI4ZHFJaWRiY1VYOFAxbHNLWFFHaTNLajQ3WjZvM2JjOHRWMkZaejRWTTFRZXgwMVg1Y0hMWDlCbnU2OEVrNGV5MUhWSHVnWDNEQUlMeERGbXhhQkZpUnl4VXc4V0VhNWhIeER2Tll4R3RON21yN3UxVmlnNFlCaU1LOGRCQzZiX2txS1pVSDkyTUVyYjBkeXNQMzJhQ3dOYnVLSU42dTFJNExxMldSX3ZScDJuQkdkSU5yQTVzRkNXSkYza3duVXNwQTk4N0hRakZOeHBVVEVxbk8tOENsQ1dDOVkxbDRiNDFqNHZB?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-03-30T19:09:14+00:00",
       "source": "MSN"
     },
     {
@@ -91,25 +91,21 @@
       "source": "The New York Times"
     },
     {
-      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - nvidianews.nvidia.com",
+      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nvidianews.nvidia.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-03-16T07:00:00+00:00",
-      "source": "nvidianews.nvidia.com"
+      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-27",
-      "close": 167.52000427246094
+      "date": "2026-03-30",
+      "close": 165.1699981689453
     },
     "history": [
-      {
-        "date": "2026-03-19",
-        "close": 178.55999755859375
-      },
       {
         "date": "2026-03-20",
         "close": 172.6999969482422
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-27",
         "close": 167.52000427246094
+      },
+      {
+        "date": "2026-03-30",
+        "close": 165.1699981689453
       }
     ],
     "name": "NVIDIA Corporation"

@@ -2,63 +2,63 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-03-30T12:54:53.569465+00:00",
+  "fetched_at": "2026-03-31T12:53:45.635536+00:00",
   "news": [
     {
-      "title": "Here are the iOS 26.4 features to try after installing the new iPhone update - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON09wV1JEOGprSzdHak5kVllmX21OYmV4OVVabFdxV2UySWhyOUk5ZzY3OE5IMkYzUmxIbEdINk1MQXhmMW5HcXJNQV9PTjJwRnE1dW5tSWJsOGFWRkhmclZVd1RTeHNNeThGYWtxQlAzNDR3ZWhDd2E4ZExmdEJ5ZFFuUjBLWTFaU21Ib1FYaXpJcjdSbVlIUlhwb1RsbXlpc2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxON09wV1JEOGprSzdHak5kVllmX21OYmV4OVVabFdxV2UySWhyOUk5ZzY3OE5IMkYzUmxIbEdINk1MQXhmMW5HcXJNQV9PTjJwRnE1dW5tSWJsOGFWRkhmclZVd1RTeHNNeThGYWtxQlAzNDR3ZWhDd2E4ZExmdEJ5ZFFuUjBLWTFaU21Ib1FYaXpJcjdSbVlIUlhwb1RsbXlpc2c?oc=5\" target=\"_blank\">Here are the iOS 26.4 features to try after installing the new iPhone update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-03-28T15:28:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "Apple Preparing 'Most Significant Overhaul in the iPhone's History' - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BbTc4b2JMOUExdjdxZWJndUhLVFNoemVzX3VNT1VyMENteHJVNkEwYU5wYm5YSHZvNWJON0RMclpxVmlGUmpua2tpSE9tb201THlwb1lkMVVfemFYaDczbXhQU25kZHhZakh4OWk3eUJKVXJlM2Fod281Ujc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5BbTc4b2JMOUExdjdxZWJndUhLVFNoemVzX3VNT1VyMENteHJVNkEwYU5wYm5YSHZvNWJON0RMclpxVmlGUmpua2tpSE9tb201THlwb1lkMVVfemFYaDczbXhQU25kZHhZakh4OWk3eUJKVXJlM2Fod281Ujc?oc=5\" target=\"_blank\">Apple Preparing 'Most Significant Overhaul in the iPhone's History'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-03-29T15:18:47+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "OpenAI’s ChatGPT App Store Took Aim at Apple, But Results Lag So Far - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXVKTzZBTllJSFk4VHcwVlo1bTFkU1V0Tjk2S3ZLMWhyUlJDQmFXdlJCaEpjbWNqYjROMVg3SXRHb0ZkbnVxaTdaNWFmeHRkUzYzaW9zTVFXVXJEeTZ2WXNXYjBTbDJtdzdIV3RrLVVmSUJoQnMxZUVEcVV3OU8ySUMyTmY4QUx6YzBUNld1dXV1RkFKVmU3T20tcFVrRGViNzVEX1Y4ZTYyTE1leHZZZzF2SDgwcXpHcXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXVKTzZBTllJSFk4VHcwVlo1bTFkU1V0Tjk2S3ZLMWhyUlJDQmFXdlJCaEpjbWNqYjROMVg3SXRHb0ZkbnVxaTdaNWFmeHRkUzYzaW9zTVFXVXJEeTZ2WXNXYjBTbDJtdzdIV3RrLVVmSUJoQnMxZUVEcVV3OU8ySUMyTmY4QUx6YzBUNld1dXV1RkFKVmU3T20tcFVrRGViNzVEX1Y4ZTYyTE1leHZZZzF2SDgwcXpHcXc?oc=5\" target=\"_blank\">OpenAI’s ChatGPT App Store Took Aim at Apple, But Results Lag So Far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-30T11:10:04+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTl83ZVg5a1ZxMzZNQjNsUXBjZWJ2eS1ZSDJ2SWY4eDdndmxwTDRvSFJxaHlEamJSVWRnSlNSRHM3alpJMnFKMGZiMVhMU1pZREdJQThsVzZvS0c0TzctdzBmSTRhaEF0cE1NR3UydWhrWGRwYm9iWTU5SGdyaFBCUkx3UEVoaGJ5b2ZkNnVPZ0lpOElKb3JUUmtIZmd4Yks4NzRSOWx3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTl83ZVg5a1ZxMzZNQjNsUXBjZWJ2eS1ZSDJ2SWY4eDdndmxwTDRvSFJxaHlEamJSVWRnSlNSRHM3alpJMnFKMGZiMVhMU1pZREdJQThsVzZvS0c0TzctdzBmSTRhaEF0cE1NR3UydWhrWGRwYm9iWTU5SGdyaFBCUkx3UEVoaGJ5b2ZkNnVPZ0lpOElKb3JUUmtIZmd4Yks4NzRSOWx3?oc=5\" target=\"_blank\">Apple subsidiary fined by UK government over Moscow sanctions breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-03-30T12:49:00+00:00",
+      "title": "MacBook Neo review: the budget Apple laptop powered by an iPhone chip - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9BUF9xeUNqTE9IS2U2aURRLWhvWG0tS01DOWJkZ3lhOUFXTno0ZWlxM1VzQkNpa0RHeGZZMmlHOHJjbFZjS1h5S2toa09jT3ppcjN1aWFBbldvTzY0SEtGLW9oM1pwWl9hWGtvV0QtMFBFVkE4MEN2ZzY5V1M4U083NHU0ZGF5M1JXWkZQdWJSbTd6Zk9lYjhQUHAtTGJSNVQ4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE9BUF9xeUNqTE9IS2U2aURRLWhvWG0tS01DOWJkZ3lhOUFXTno0ZWlxM1VzQkNpa0RHeGZZMmlHOHJjbFZjS1h5S2toa09jT3ppcjN1aWFBbldvTzY0SEtGLW9oM1pwWl9hWGtvV0QtMFBFVkE4MEN2ZzY5V1M4U083NHU0ZGF5M1JXWkZQdWJSbTd6Zk9lYjhQUHAtTGJSNVQ4?oc=5\" target=\"_blank\">MacBook Neo review: the budget Apple laptop powered by an iPhone chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-03-31T06:01:00+00:00",
       "source": "The Guardian"
     },
     {
-      "title": "Apple Fined £390,000 by UK Over Russian Sanction Breaches - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXJlU2RMNXVhQi1OeDRxNHpPb3VYOVUwbS01SDVzSVdRcVJuYW91MURadlJOcnVCU2xyOEg1eHRCbXA2Q3hialJfUU55a2ZiY01LZGlwTnM4ZGt5MlpYMDBEaWVEVjR1Q0t2N185UnluNlkzY1l5Yk1RR3IwdXJUMFlTemxhOGFmbzA2X0NhVGJKQVNHUjRjRGFubDYtQXVPQUpIUmZpOTNqYUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeXJlU2RMNXVhQi1OeDRxNHpPb3VYOVUwbS01SDVzSVdRcVJuYW91MURadlJOcnVCU2xyOEg1eHRCbXA2Q3hialJfUU55a2ZiY01LZGlwTnM4ZGt5MlpYMDBEaWVEVjR1Q0t2N185UnluNlkzY1l5Yk1RR3IwdXJUMFlTemxhOGFmbzA2X0NhVGJKQVNHUjRjRGFubDYtQXVPQUpIUmZpOTNqYUE?oc=5\" target=\"_blank\">Apple Fined £390,000 by UK Over Russian Sanction Breaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-03-30T11:35:26+00:00",
+      "title": "Apple will hide your email address from apps and websites, but not cops - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0ZSdnBTZUhfZDZiVlAydkNILUNsMUlvOE1tOElVNXpiYUhUbWlmdGt6WlJiZXVOUGRfZFRfY3EtSzJSY1RNS2tyNkI3OWUwcWd2TVlWOG95eHlkQkVlcF95WDJzekVsc1NOLW1sVFlsdzAyMjc2RUJfRWZGRWljbDY4cWVDSkdWbWFEUksyVjc0RzBQSktSRlpqVnFKeVZEeFZOdjFzYUw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0ZSdnBTZUhfZDZiVlAydkNILUNsMUlvOE1tOElVNXpiYUhUbWlmdGt6WlJiZXVOUGRfZFRfY3EtSzJSY1RNS2tyNkI3OWUwcWd2TVlWOG95eHlkQkVlcF95WDJzekVsc1NOLW1sVFlsdzAyMjc2RUJfRWZGRWljbDY4cWVDSkdWbWFEUksyVjc0RzBQSktSRlpqVnFKeVZEeFZOdjFzYUw?oc=5\" target=\"_blank\">Apple will hide your email address from apps and websites, but not cops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-03-30T15:34:41+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon Big Spring Sale: Last chance for 150+ best-ever prices on Apple, Sony headphones, more - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONDctc0ctU09wWFBMZ2JCT00wcUh3YkYyQWRreTA4WEZidThzRjNxeE5pMGFKeFo1T1VjTTNMTjBZNU1LeS12QTg2c0VvVkNCSzZ5U1N2Y1JhejlVQ0ZwWFU1eEhXSGluSXJXRjFJZTM5RzZ3NXBBVWMzMWY1TEFfY2c1WXFWSHVWcHRrT1ZVWFJFb0wyQWZUV2tKODE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONDctc0ctU09wWFBMZ2JCT00wcUh3YkYyQWRreTA4WEZidThzRjNxeE5pMGFKeFo1T1VjTTNMTjBZNU1LeS12QTg2c0VvVkNCSzZ5U1N2Y1JhejlVQ0ZwWFU1eEhXSGluSXJXRjFJZTM5RzZ3NXBBVWMzMWY1TEFfY2c1WXFWSHVWcHRrT1ZVWFJFb0wyQWZUV2tKODE?oc=5\" target=\"_blank\">Amazon Big Spring Sale: Last chance for 150+ best-ever prices on Apple, Sony headphones, more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-03-31T09:01:32+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Huawei Growth Stalls After Apple Comeback Offsets China AI Push - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1CbzVBWEY1anp5N1UyQWl3dmh6VXd0dk15NFZFV1RSdkNaRE12LWhiQU1McWNlUGQwQ3d4OHRYUXBnUGc5WWM2Z2o4dkw1cXBST2RaQVhsVHFTV2w0Nktabm1IaFBIOG5uMFZVbC1ZT3hIQTlld0dPMVVpR3dKaTg1ZlR5cUtEVUlsMThpRW1ONGpSVWhzQl96eHRvS2YweFYwY21yZGtOT0o3dEZzQ2ZySms?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSi1CbzVBWEY1anp5N1UyQWl3dmh6VXd0dk15NFZFV1RSdkNaRE12LWhiQU1McWNlUGQwQ3d4OHRYUXBnUGc5WWM2Z2o4dkw1cXBST2RaQVhsVHFTV2w0Nktabm1IaFBIOG5uMFZVbC1ZT3hIQTlld0dPMVVpR3dKaTg1ZlR5cUtEVUlsMThpRW1ONGpSVWhzQl96eHRvS2YweFYwY21yZGtOT0o3dEZzQ2ZySms?oc=5\" target=\"_blank\">Huawei Growth Stalls After Apple Comeback Offsets China AI Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-03-31T12:20:16+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Apple subsidiary fined £390K for Russian sanctions breaches - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkhyU0FHcExRNXpUSGlSTjV6SGFhOEdZR2tRUXFlU1VTREktWUJlMXVRUzJnblNIbU8wbkJiS181QWhkRndsZnl3ZWx6YWdpSTV3MDhJTGJQQlJSRFllbGV0T1l2R1BQNHRDMnZkUUFyUFVTckRVaVhWWUx4aXk2eHZNVHhWWGNCZ1F0bVMzVE5uTG5CaFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkhyU0FHcExRNXpUSGlSTjV6SGFhOEdZR2tRUXFlU1VTREktWUJlMXVRUzJnblNIbU8wbkJiS181QWhkRndsZnl3ZWx6YWdpSTV3MDhJTGJQQlJSRFllbGV0T1l2R1BQNHRDMnZkUUFyUFVTckRVaVhWWUx4aXk2eHZNVHhWWGNCZ1F0bVMzVE5uTG5CaFE?oc=5\" target=\"_blank\">Apple subsidiary fined £390K for Russian sanctions breaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font>",
-      "published": "2026-03-30T10:28:51+00:00",
-      "source": "politico.eu"
+      "title": "Warren Buffett on Apple: I sold too soon - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVk1MN2Jpbk9xT1RtZUw4dTdpNWxlU0VkcmVHdWpwMUx0eXdVRGV3R2dtUDRIVUxzekpGeWR1R3V5TWw1NkRTTTd5SlZraHNtLW02ckR4aDgxd08wYjdVbWFsV0o0eTJpd3FXUXRKRzFlaXN5SlRDeGh4Y2hCTGhFbVVCb2lSZzh0bXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPVk1MN2Jpbk9xT1RtZUw4dTdpNWxlU0VkcmVHdWpwMUx0eXdVRGV3R2dtUDRIVUxzekpGeWR1R3V5TWw1NkRTTTd5SlZraHNtLW02ckR4aDgxd08wYjdVbWFsV0o0eTJpd3FXUXRKRzFlaXN5SlRDeGh4Y2hCTGhFbVVCb2lSZzh0bXc?oc=5\" target=\"_blank\">Warren Buffett on Apple: I sold too soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-03-31T12:27:36+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "The Machine That Changed Everything: How the Apple II Kickstarted the Personal Computer Era - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbE1RUERteUdabGVYWFoxYWFUdDB6eVlhajBsMGpERnpaUkJFVXRPRTZpT0VSejZWb0haV0FFeHBzRnlGelU3Tks2R1pVNEt3aUd4Z19EOGtqMDJPTnpIM2Q2eThMSTlLVmlSOUZHeVZQNHQ0ek11RUlhMm9DLUxpelJXQS1aWmQ4M1FJeVdUY0JaN2xseHdCYjVfTFlOQlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbE1RUERteUdabGVYWFoxYWFUdDB6eVlhajBsMGpERnpaUkJFVXRPRTZpT0VSejZWb0haV0FFeHBzRnlGelU3Tks2R1pVNEt3aUd4Z19EOGtqMDJPTnpIM2Q2eThMSTlLVmlSOUZHeVZQNHQ0ek11RUlhMm9DLUxpelJXQS1aWmQ4M1FJeVdUY0JaN2xseHdCYjVfTFlOQlk?oc=5\" target=\"_blank\">The Machine That Changed Everything: How the Apple II Kickstarted the Personal Computer Era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-03-30T12:29:10+00:00",
-      "source": "PCMag"
+      "title": "Apple Kicks Vibe Coding App Out of App Store, Escalating Crackdown - The Information",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0l5QVJvSFFBV3htay1kMHhOcElTem40amRiZXBHZE4xMDlCX1V2eW5qeUNsOGF3Qk1BSEhBdmt0VndVMlhGQlA2VkVkc2lvUUc4TDJHZnBaV2ctNGJYem12VnhJWkYyY2dsNVJYdzlod2pNUFFUVWRfOVZmY2tfT3RwS2IyNUswVm52VE9uZDM0MFpGQjB5V3R1djBpckE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0l5QVJvSFFBV3htay1kMHhOcElTem40amRiZXBHZE4xMDlCX1V2eW5qeUNsOGF3Qk1BSEhBdmt0VndVMlhGQlA2VkVkc2lvUUc4TDJHZnBaV2ctNGJYem12VnhJWkYyY2dsNVJYdzlod2pNUFFUVWRfOVZmY2tfT3RwS2IyNUswVm52VE9uZDM0MFpGQjB5V3R1djBpckE?oc=5\" target=\"_blank\">Apple Kicks Vibe Coding App Out of App Store, Escalating Crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-03-30T18:51:00+00:00",
+      "source": "The Information"
     },
     {
-      "title": "AirPods Pro 3 Still at Their Lowest Price While Apple Gradually Pulls Back Amazon’s Spring Sale Offers - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGlmRUZyRzYtSmFxZHVBY3EwVEhvRGNoV0tRVzRydWlndGtZdlVHZGRXMDFaVmZrSndxenJ1Vlc5M2QzaTdNb2VPUjlRUzgxRjYzZU9hVEtCY0JMem9uWmNPVGpnVGtsRy1RZ1pkMEZBRzlITi1PR3RTT2NVakZsdWhtcW4yOWJWWmthcm1nV3prNm9ha2tPWFRxcjhiSmpYZlBtZjFpTzVCZHplSWpFZnkyS3FJQmVKVUtYNjVmdTF6Z3gySkgzLTFfeFA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGlmRUZyRzYtSmFxZHVBY3EwVEhvRGNoV0tRVzRydWlndGtZdlVHZGRXMDFaVmZrSndxenJ1Vlc5M2QzaTdNb2VPUjlRUzgxRjYzZU9hVEtCY0JMem9uWmNPVGpnVGtsRy1RZ1pkMEZBRzlITi1PR3RTT2NVakZsdWhtcW4yOWJWWmthcm1nV3prNm9ha2tPWFRxcjhiSmpYZlBtZjFpTzVCZHplSWpFZnkyS3FJQmVKVUtYNjVmdTF6Z3gySkgzLTFfeFA?oc=5\" target=\"_blank\">AirPods Pro 3 Still at Their Lowest Price While Apple Gradually Pulls Back Amazon’s Spring Sale Offers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-03-30T11:32:58+00:00",
-      "source": "Gizmodo"
+      "title": "Apple steps up crackdown on vibe coding apps, pulls ‘Anything’ from the App Store - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZW1xUVZub0E5Q2dtb2dLV2ZDYjBwb2pzUm5pQXFiWmp6VDBobWxxX1ZUcUFCWFpJdnhELVhiTVBWN0hBRi02YV8wVjA4eUJUY2RTdnM4RjJKYWtXTUtKMVF0M2E1d0R5b2JkS2N2U1o4dEpGYndobDgwWXhFMk1NLVBBTlVDbEpuVmNtV1lwcTlQemszUmhxdHoyQUEtU3JpSi1kZERCTTFoOVduMURv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZW1xUVZub0E5Q2dtb2dLV2ZDYjBwb2pzUm5pQXFiWmp6VDBobWxxX1ZUcUFCWFpJdnhELVhiTVBWN0hBRi02YV8wVjA4eUJUY2RTdnM4RjJKYWtXTUtKMVF0M2E1d0R5b2JkS2N2U1o4dEpGYndobDgwWXhFMk1NLVBBTlVDbEpuVmNtV1lwcTlQemszUmhxdHoyQUEtU3JpSi1kZERCTTFoOVduMURv?oc=5\" target=\"_blank\">Apple steps up crackdown on vibe coding apps, pulls ‘Anything’ from the App Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-03-30T22:30:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple is more aggressively booting vibe coding apps from the App Store - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0hMaHhpd2M5SEV3ZWdWajNqZ1Exb2dqNndjYVc4cUh3UTl2N3dCZ0xCbXdTeDJ5VFRVanBycVMxUFJ5Skk4cDE2UDRLX0lQT0VXcHBCZjc4elk1eWQweGNlNXFiNlVEWmRnUk82Mzl1aDNpSlpPQmRUcGozQWRNeEdPUHpabnFKRHl3Sm1lTFFiQkYyYThhanBCM09KNDhPdU13YlR4LV8tN0dCUjN6alhvbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0hMaHhpd2M5SEV3ZWdWajNqZ1Exb2dqNndjYVc4cUh3UTl2N3dCZ0xCbXdTeDJ5VFRVanBycVMxUFJ5Skk4cDE2UDRLX0lQT0VXcHBCZjc4elk1eWQweGNlNXFiNlVEWmRnUk82Mzl1aDNpSlpPQmRUcGozQWRNeEdPUHpabnFKRHl3Sm1lTFFiQkYyYThhanBCM09KNDhPdU13YlR4LV8tN0dCUjN6alhvbw?oc=5\" target=\"_blank\">Apple is more aggressively booting vibe coding apps from the App Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-03-30T20:43:00+00:00",
+      "source": "AppleInsider"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "Macworld"
     },
     {
-      "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5\" target=\"_blank\">Apple to Launch These 15+ New Products Later This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-03-27T21:03:37+00:00",
-      "source": "MacRumors"
-    },
-    {
       "title": "Apple in focus as Wedbush calls 2026 a 'significant' product launch year ahead of WWDC (AAPL:NASDAQ) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFZBcUtBNjFwYWRxdExVRlJmMU1saE9oMndnVGRDc0pDVnhsSk1hTnkzWkxRdG5mWVlKekhWRndZQkh1bVpVcHVfcjhuZXhDb3VWTGZxUXZrOWhVVk9FREhoWHZRenFoOGhmdDZIWGFmNm9TVjJlSmVNemxEbExRMXJvY2NrRUZvZVNiOGxDdXl0bHVRM3lraGkzX0JocVc4MzdSdExsNlF5QTV2V2ljN3hXdWR2MmplWlhNZlQzWQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFZBcUtBNjFwYWRxdExVRlJmMU1saE9oMndnVGRDc0pDVnhsSk1hTnkzWkxRdG5mWVlKekhWRndZQkh1bVpVcHVfcjhuZXhDb3VWTGZxUXZrOWhVVk9FREhoWHZRenFoOGhmdDZIWGFmNm9TVjJlSmVNemxEbExRMXJvY2NrRUZvZVNiOGxDdXl0bHVRM3lraGkzX0JocVc4MzdSdExsNlF5QTV2V2ljN3hXdWR2MmplWlhNZlQzWQ?oc=5\" target=\"_blank\">Apple in focus as Wedbush calls 2026 a 'significant' product launch year ahead of WWDC (AAPL:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
       "published": "2026-03-27T11:34:02+00:00",
       "source": "Seeking Alpha"
+    },
+    {
+      "title": "Upcoming Apple Products Guide: What's Coming in 2026 - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qcUVjVE9aNldQNFJuYTVkTFZQdzJ0cmhKX0QzekgzRVJCMVJrc0ZGZFQwTE9SQ0xsMkd5TUNxem5wNzZXVmE3emdqX2FfQnhKZVNrRkxGT0l3M3ZNY25COTktSEdrb2s?oc=5\" target=\"_blank\">Upcoming Apple Products Guide: What's Coming in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-03-20T07:00:00+00:00",
+      "source": "MacRumors"
     },
     {
       "title": "Apple May Launch These Three 'Ultra' Products in 2026 - Lifehacker",
@@ -102,14 +102,10 @@
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-27",
-      "close": 248.8000030517578
+      "date": "2026-03-30",
+      "close": 246.6300048828125
     },
     "history": [
-      {
-        "date": "2026-03-19",
-        "close": 248.9600067138672
-      },
       {
         "date": "2026-03-20",
         "close": 247.99000549316406
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-27",
         "close": 248.8000030517578
+      },
+      {
+        "date": "2026-03-30",
+        "close": 246.6300048828125
       }
     ],
     "name": "Apple Inc."
