@@ -2,49 +2,14 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-04-01T12:55:43.606434+00:00",
+  "fetched_at": "2026-04-02T12:49:54.213485+00:00",
   "news": [
-    {
-      "title": "Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeDZhVVBUQmhGUXdlN3RJVFNZVjVhRmdiMTJLYjZTYzJaODc2NGhvNXRHZWZXV2dUc2l3RTJCVkg0aS00RGRzazY3QjN1cTdlVnFWNDRPQmlFSWRHTTVKTmJhSFF3NmMzeU1WY1hGWGdmelRBcUNpU3RXUV9JVmZjWDFiRGlKSDRjRGRNd1JCU2lWakRNTkQ5eDRTS3dYd01KbFNyM3R1QzhLR1RkdVFBWEItdTFQUkFFLTZZY3dadEs5dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeDZhVVBUQmhGUXdlN3RJVFNZVjVhRmdiMTJLYjZTYzJaODc2NGhvNXRHZWZXV2dUc2l3RTJCVkg0aS00RGRzazY3QjN1cTdlVnFWNDRPQmlFSWRHTTVKTmJhSFF3NmMzeU1WY1hGWGdmelRBcUNpU3RXUV9JVmZjWDFiRGlKSDRjRGRNd1JCU2lWakRNTkQ5eDRTS3dYd01KbFNyM3R1QzhLR1RkdVFBWEItdTFQUkFFLTZZY3dadEs5dw?oc=5\" target=\"_blank\">Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-04-01T00:49:00+00:00",
-      "source": "WIRED"
-    },
-    {
-      "title": "Apple confirms iOS 18 update to patch DarkSword exploit for users who haven’t upgraded to iOS 26 - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0YtODROTTFKbHRjUnNKV2lpNFMtZmpJTEJlbUd5RjQ5MGNPM3pkRjJJVHRTWV9SdzAwTGhoQi1WZkJ6b3hHY1o3M2Jjdmx4YmVEdVdGWHdkNjBheEdQWW1vblhnZEkxTTg1M0VDc3lQWk44WFNvMFlDMkdicHVJWWJMbHNVWVhPQzZJQ2ZGMEpQbG4tWWtaYWRqWGhDV1hkaGhEU3lZb1pFV1Q5RmZrMFc3UDZydW1kWHo5cWt4ajh5VmZjZmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0YtODROTTFKbHRjUnNKV2lpNFMtZmpJTEJlbUd5RjQ5MGNPM3pkRjJJVHRTWV9SdzAwTGhoQi1WZkJ6b3hHY1o3M2Jjdmx4YmVEdVdGWHdkNjBheEdQWW1vblhnZEkxTTg1M0VDc3lQWk44WFNvMFlDMkdicHVJWWJMbHNVWVhPQzZJQ2ZGMEpQbG4tWWtaYWRqWGhDV1hkaGhEU3lZb1pFV1Q5RmZrMFc3UDZydW1kWHo5cWt4ajh5VmZjZmc?oc=5\" target=\"_blank\">Apple confirms iOS 18 update to patch DarkSword exploit for users who haven’t upgraded to iOS 26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-04-01T03:55:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Offers Rare Olive Branch to Liquid Glass Haters - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWg4UUhScEFlN3AzMWVCbjhrZTJiZGxnUDFWczlGTzNxX05yRjVwbGxGRHlqRjk0b0xMSlZQOEs1MjBPYU4wVk0xNFB4dW0yQmJYVU5vQmZjRDFVVHFXbUtoWFhkaEJjc1ZLNTRNQ1hnNFlXcnZUTFZ2OGdMeVpQQmQ3N3dITEJ5MGJmaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWg4UUhScEFlN3AzMWVCbjhrZTJiZGxnUDFWczlGTzNxX05yRjVwbGxGRHlqRjk0b0xMSlZQOEs1MjBPYU4wVk0xNFB4dW0yQmJYVU5vQmZjRDFVVHFXbUtoWFhkaEJjc1ZLNTRNQ1hnNFlXcnZUTFZ2OGdMeVpQQmQ3N3dITEJ5MGJmaw?oc=5\" target=\"_blank\">Apple Offers Rare Olive Branch to Liquid Glass Haters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-04-01T09:30:33+00:00",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "Iran threatens Nvidia, Apple and other tech giants with attacks - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcWxaZEpSbExrbVZFUDcxZ09jNm5pVmcwWUVyRUgyMWNRSWw5a2FhVVhCRE54OFlPX1RIOXg0TFFwZS1ZX2FDWUJ2cFlfcmo0Vmd1VjVFdEs3czJPeXVtcU1sUFNsMUlVXzNBckg0dVZBcnNnbk1fbTU1VmphdlnSAYQBQVVfeXFMUE5SVzR5S1FaMng3TkY5bjQ4WE8xMDJqQlU0MnV0V0dHZk5lLVdNNmtUOWxEbl9peVN2S052dU5nX1VTSjZ4a2FyNjNwQV91NG9sQmtNbGdlY2VpNnRteHE4Qmktd3ZTeWZuMS1wSVhUT0VseTlIa0hJTzgwcWhTUXNFX0Zm?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcWxaZEpSbExrbVZFUDcxZ09jNm5pVmcwWUVyRUgyMWNRSWw5a2FhVVhCRE54OFlPX1RIOXg0TFFwZS1ZX2FDWUJ2cFlfcmo0Vmd1VjVFdEs3czJPeXVtcU1sUFNsMUlVXzNBckg0dVZBcnNnbk1fbTU1VmphdlnSAYQBQVVfeXFMUE5SVzR5S1FaMng3TkY5bjQ4WE8xMDJqQlU0MnV0V0dHZk5lLVdNNmtUOWxEbl9peVN2S052dU5nX1VTSjZ4a2FyNjNwQV91NG9sQmtNbGdlY2VpNnRteHE4Qmktd3ZTeWZuMS1wSVhUT0VseTlIa0hJTzgwcWhTUXNFX0Zm?oc=5\" target=\"_blank\">Iran threatens Nvidia, Apple and other tech giants with attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3lwcTM1TGdSZkdqV1I0VVVnOXhkd1NHR0I1Zk1KUm02NXpTcUNVVVdVZjRISjlqQzA3bGJTejYtNTBDbnFPUXFuVG9ySmNLLUw0WGE2YW5sa0V3WklRRTJLUUh2OE9JNUNSQWh6Smt2Tm83T053RmxjbnhhVkpfcXAzdGtrMEoybEI4eHhPQVk3cUtMaENsQ9IBngFBVV95cUxOc3JZV3lWeFNrcUd2azNrRTJYa1FOanlMNE5ueEpQYmp0bnBvZk53MFZJSlRYYXRsSTVZMFdxcGxzcGRXR3ZsTkYzUjc4QVd2dkRGVGtGdV91dXNGNktFWlFIaFAyY2xnZTZFRE5HVW9VRXlTSVprSnVFN0lrUjIzSzJWd2twRDE5QmFZNWJHejd6R3N6VGR5dGQtTUxUUQ?oc=5\" target=\"_blank\">Iran says it will target US tech companies in Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0M3dWpnZWdsQ2RFd0h6VUxxc1BiY0syelpmOWRLWk1rMjdmZ3htbU05bmtzRmNqTjNwcHhWSFZwdkRFUFdhR3dnNEFRTngyUi12U18yVG5ReGxraFY5TTNVeGd1UUpsNWlBUjNLT3hEemZYenZBTUFzY3NhU0JJd3JlamVnQQ?oc=5\" target=\"_blank\">Iran threatens Apple, Dell, Meta operations in Middle East | Morning in America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li></ol>",
-      "published": "2026-04-01T09:03:21+00:00",
-      "source": "CNBC"
-    },
     {
       "title": "One of Apple’s First Employees Looks Back at 50 Years - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwV0ltYm8zTmVGaDNORERKT0pxaEp3OUZPTE1tdWpVY1I0WjdhQXBHSGNwN0h0UDdiTnY5bWdXeVBYalctM19oek5JSldMMVJJTjFWTjJRR0NvRmJCSVM2SmE0R013RlZIZE1uaGxlSldqeVpKTHcwNlJYanh6eE0?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwV0ltYm8zTmVGaDNORERKT0pxaEp3OUZPTE1tdWpVY1I0WjdhQXBHSGNwN0h0UDdiTnY5bWdXeVBYalctM19oek5JSldMMVJJTjFWTjJRR0NvRmJCSVM2SmE0R013RlZIZE1uaGxlSldqeVpKTHcwNlJYanh6eE0?oc=5\" target=\"_blank\">One of Apple’s First Employees Looks Back at 50 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFJhckU2VDRIelZqZ1E3SWxQRmNldWhTLUtSV3lXUEliQ2hqeTkySlRucG9HNHVmRzdPZVVnMUYzS3N0b0Roc2g3cWM3RUJVNTdJbXVTTlVPelUyZG1laWpVNlprVG5fQzFBRF9DU1pUcWlKUUdMN1N3Q3k2UENYU19PQzN6Sk80ZjV6M2NwNm0ydw?oc=5\" target=\"_blank\">Apple's 50-year journey from garage to tech titan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYkNremNiSHJaNE9mZVpQU3FrRkNlanA3X01EUllSOVc1OVFLcG9NOGVNb000dmU4YUotcndMRmdUc1NMTXFHYnEtUzd3S1BTdlVRTWRXSFJpRzZRaEl2VVltdDNLTFBjbHA2clVkOEFhWFhmWVlIdmFaS0JKUlNibGwzTU93RUtx?oc=5\" target=\"_blank\">Huge Apple museum opens in Europe as one-time garage startup turns 50</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li></ol>",
-      "published": "2026-04-01T09:02:40+00:00",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwV0ltYm8zTmVGaDNORERKT0pxaEp3OUZPTE1tdWpVY1I0WjdhQXBHSGNwN0h0UDdiTnY5bWdXeVBYalctM19oek5JSldMMVJJTjFWTjJRR0NvRmJCSVM2SmE0R013RlZIZE1uaGxlSldqeVpKTHcwNlJYanh6eE0?oc=5\" target=\"_blank\">One of Apple’s First Employees Looks Back at 50 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE90dnZLUVJtVEMzdnpPZWR3RFhKXzUxZVJNNkZlNHp5eER1TzVQX0FablMtSHVVb244MTJpei1GSkM1aTZQek1taF9QZGFzX0JFcWlTSGZ4dTFIQUpOOW5pT2FsUzg2dnU5MDVsYnVGSEVBcFl2angzSlFSaw?oc=5\" target=\"_blank\">Tim Cook (Still) Believes in Crazy Ideas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Esquire</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3RzSU1LcHdtcXRtNkVVSTJSX01Ib09WcFAyclNiTW9hY0pfMHVicFpvLTJraHNZaEFSb3lsQ1BRWnRkcnBVbjlYRkdPZG90dXE1TldXeUZZZXJMWHJGY29Jd3FkeDhHZVlVV0J2MlJWUnBVcUNkajcxNTRLRjZjVzJNOHFvanpIWTZXdWNfRHptZGs?oc=5\" target=\"_blank\">A village of great minds shaped Apple. We've ranked the top 50</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font></li></ol>",
+      "published": "2026-04-01T17:26:29+00:00",
       "source": "The New York Times"
-    },
-    {
-      "title": "Apple M4 MacBook Air Is Still at Its Spring Sale Low as Amazon Moves Into Clearance Mode, No Need to Wait for Prime Day - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSnl3TDJKYTBMUDYwNkpPaEhLZV80b2NRLWQycHNUdkxZd1FCbk8teUZUX1V1VEgxMlNCTVhYRWthNFVrLVA5dktDdlNkeExTYkhac25zV1h0SmFnOGtzS3cxeUY4QlRLWFQ4eWp5OUZIZEhnNFhscTdibGlMUEsyeXJaSk1NY1RnRTJUMlgweFl3V190LTJWU3lfZGloblUyLVBaa2hOVFJhQVRmZVU2RlRLcnYwMDJqbGxxOGdrSmhUUTNnYmxTY1J4VnlfSkloMWUwdk1DN1pKYnFyaUlVYUtR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSnl3TDJKYTBMUDYwNkpPaEhLZV80b2NRLWQycHNUdkxZd1FCbk8teUZUX1V1VEgxMlNCTVhYRWthNFVrLVA5dktDdlNkeExTYkhac25zV1h0SmFnOGtzS3cxeUY4QlRLWFQ4eWp5OUZIZEhnNFhscTdibGlMUEsyeXJaSk1NY1RnRTJUMlgweFl3V190LTJWU3lfZGloblUyLVBaa2hOVFJhQVRmZVU2RlRLcnYwMDJqbGxxOGdrSmhUUTNnYmxTY1J4VnlfSkloMWUwdk1DN1pKYnFyaUlVYUtR?oc=5\" target=\"_blank\">Apple M4 MacBook Air Is Still at Its Spring Sale Low as Amazon Moves Into Clearance Mode, No Need to Wait for Prime Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-04-01T12:02:38+00:00",
-      "source": "Gizmodo"
     },
     {
       "title": "Apple’s biggest product in its 50-year history surprised the engineers who designed it - CNN",
@@ -54,27 +19,69 @@
       "source": "CNN"
     },
     {
-      "title": "I’ve tested the highly anticipated AirPods Max 2 wireless headphones – were they worth the wait? - What Hi-Fi?",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oek8zUDVmaVBmMjc4d2haQk5NYlduWEdrNHJHUjgxMmRQdXJ2RWRMWkxYaUY3bVhNTHNSbGMzWnYyRllKQkphd3RZeXdiSk9nc0xQVlowdWl6em5qc2tia3kteXFGZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oek8zUDVmaVBmMjc4d2haQk5NYlduWEdrNHJHUjgxMmRQdXJ2RWRMWkxYaUY3bVhNTHNSbGMzWnYyRllKQkphd3RZeXdiSk9nc0xQVlowdWl6em5qc2tia3kteXFGZw?oc=5\" target=\"_blank\">I’ve tested the highly anticipated AirPods Max 2 wireless headphones – were they worth the wait?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">What Hi-Fi?</font>",
-      "published": "2026-03-31T15:06:43+00:00",
-      "source": "What Hi-Fi?"
+      "title": "Foldable Phones Have Solved Nearly Every Trade-Off, Well Before Apple Debuts One - CNET",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazl5WDRoWVFZTmg2dzJKdG1NaFIzRzYxTjhhSTBxOG83X2dkbFVySXIxTjhJaDJTUGk5eEhaVmt0bHpBNnFtbDcyOUp2aURoWFJmVE5YeUR0MGtLckJVSi1iUG01YVpXa3g1Q3Bxb2pFeV9ScDVNb01Ec2dBOF9LUGlGb2h5RTVmcVVjWDFKZEJWWHQ1VWx5OVE4eFBLT3VDSXZyZU15Q1F0QU5xaWYzZ0dLcWE2WXFMZHNTQXc0YlVMRVRq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPazl5WDRoWVFZTmg2dzJKdG1NaFIzRzYxTjhhSTBxOG83X2dkbFVySXIxTjhJaDJTUGk5eEhaVmt0bHpBNnFtbDcyOUp2aURoWFJmVE5YeUR0MGtLckJVSi1iUG01YVpXa3g1Q3Bxb2pFeV9ScDVNb01Ec2dBOF9LUGlGb2h5RTVmcVVjWDFKZEJWWHQ1VWx5OVE4eFBLT3VDSXZyZU15Q1F0QU5xaWYzZ0dLcWE2WXFMZHNTQXc0YlVMRVRq?oc=5\" target=\"_blank\">Foldable Phones Have Solved Nearly Every Trade-Off, Well Before Apple Debuts One</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-04-02T12:01:00+00:00",
+      "source": "CNET"
+    },
+    {
+      "title": "iPhone Fold to reportedly have three unique design features new to Apple - 9to5mac.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlFqOTNlMGdZR28wWjlEQ1lEem0wdUpIdXI5QV9RM1AySTdHdDhoNm1ZYVdWLWNPSG1TY0tnNUVhbGQtS1RNcGRTZU5BOGhMcFBBRXplWlNRTG4xU3dyQzNGV2V3S0NSUkpzc0JrTkRaQ0pPSVBfRnJheGd6RUlmVDNUTHp3WUJMamZaWGxDMS1iNGZSRjBUeDRqNTlEWEZxT1Bqc2FCMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNYlFqOTNlMGdZR28wWjlEQ1lEem0wdUpIdXI5QV9RM1AySTdHdDhoNm1ZYVdWLWNPSG1TY0tnNUVhbGQtS1RNcGRTZU5BOGhMcFBBRXplWlNRTG4xU3dyQzNGV2V3S0NSUkpzc0JrTkRaQ0pPSVBfRnJheGd6RUlmVDNUTHp3WUJMamZaWGxDMS1iNGZSRjBUeDRqNTlEWEZxT1Bqc2FCMA?oc=5\" target=\"_blank\">iPhone Fold to reportedly have three unique design features new to Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5mac.com</font>",
+      "published": "2026-04-01T15:24:00+00:00",
+      "source": "9to5mac.com"
+    },
+    {
+      "title": "Sorry everyone, but you need to stop copying Apple already - PhoneArena",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkxlWHFvLXl3THFVbl9fdFNxbEpBZDhIWjU2WG5EYWdWZC0taDFaSnVYdGx2ZjFRMWpLdGRwck52TVFNSXRyN3J0aVdNRkpUcXhaUnViYWRFcW5FZDFUQXJrYm5JWDV3N1pZdjN0SmxYSFllRXNWVko1TWJGZ284S0dDM2tmc3lldElUREEtcWh2aDJhZFFZSUxKVUhpQVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkxlWHFvLXl3THFVbl9fdFNxbEpBZDhIWjU2WG5EYWdWZC0taDFaSnVYdGx2ZjFRMWpLdGRwck52TVFNSXRyN3J0aVdNRkpUcXhaUnViYWRFcW5FZDFUQXJrYm5JWDV3N1pZdjN0SmxYSFllRXNWVko1TWJGZ284S0dDM2tmc3lldElUREEtcWh2aDJhZFFZSUxKVUhpQVk?oc=5\" target=\"_blank\">Sorry everyone, but you need to stop copying Apple already</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font>",
+      "published": "2026-04-02T00:55:12+00:00",
+      "source": "PhoneArena"
+    },
+    {
+      "title": "Don’t Forget About the iPad Air in the Hubbub Over the MacBook Neo - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNR21NYjRPajB1RDl0eThuRkdJNFBTdHBLbUcyYjhFUEZ3TzVTN3dFSEt5NTFUMS1IaVUta2luekpTMm1rRElZeWZVYzlMSWkwN1BRSV84S284eDg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNR21NYjRPajB1RDl0eThuRkdJNFBTdHBLbUcyYjhFUEZ3TzVTN3dFSEt5NTFUMS1IaVUta2luekpTMm1rRElZeWZVYzlMSWkwN1BRSV84S284eDg?oc=5\" target=\"_blank\">Don’t Forget About the iPad Air in the Hubbub Over the MacBook Neo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-04-02T10:30:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Iran threatens Nvidia, Apple and other tech giants with attacks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcWxaZEpSbExrbVZFUDcxZ09jNm5pVmcwWUVyRUgyMWNRSWw5a2FhVVhCRE54OFlPX1RIOXg0TFFwZS1ZX2FDWUJ2cFlfcmo0Vmd1VjVFdEs3czJPeXVtcU1sUFNsMUlVXzNBckg0dVZBcnNnbk1fbTU1VmphdlnSAYQBQVVfeXFMUE5SVzR5S1FaMng3TkY5bjQ4WE8xMDJqQlU0MnV0V0dHZk5lLVdNNmtUOWxEbl9peVN2S052dU5nX1VTSjZ4a2FyNjNwQV91NG9sQmtNbGdlY2VpNnRteHE4Qmktd3ZTeWZuMS1wSVhUT0VseTlIa0hJTzgwcWhTUXNFX0Zm?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcWxaZEpSbExrbVZFUDcxZ09jNm5pVmcwWUVyRUgyMWNRSWw5a2FhVVhCRE54OFlPX1RIOXg0TFFwZS1ZX2FDWUJ2cFlfcmo0Vmd1VjVFdEs3czJPeXVtcU1sUFNsMUlVXzNBckg0dVZBcnNnbk1fbTU1VmphdlnSAYQBQVVfeXFMUE5SVzR5S1FaMng3TkY5bjQ4WE8xMDJqQlU0MnV0V0dHZk5lLVdNNmtUOWxEbl9peVN2S052dU5nX1VTSjZ4a2FyNjNwQV91NG9sQmtNbGdlY2VpNnRteHE4Qmktd3ZTeWZuMS1wSVhUT0VseTlIa0hJTzgwcWhTUXNFX0Zm?oc=5\" target=\"_blank\">Iran threatens Nvidia, Apple and other tech giants with attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-04-01T09:03:21+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple retires well-known product after 20 years as it shifts strategy - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTVIWjE3QUlJaEphU1E1djc2YnMtNl84aHl4Yl9WeGZ5a1pEa1p0dWcxSlp4Q290YkZhUzNIOFpQZXJUOVZ5Z1B0R0xvemVteDBUdDAtV0FVTFJYV1FyUk56dElOZGFIRUdLOXhoRjNYZjk0Ql9KS2swUEptYmQ5S0ljZF9vTVFaR3o2VFRPb1dvNUx4NDl4YjBYUUVJZUpTbzhuSS13d3HSAa4BQVVfeXFMT2xjUmJRVnB2ZUFCa3VrV3QyU3JDSjJRNGtoT0xWbktsbUJvQVF5ZE1YSjNmUG9SN0ZSYnJPajVGUXI1MEpSalVuWnB6MFNvRFFLY2pMYzBsM1FWRFJRNDBVRTI2UUpFU056RjljM2hxU3l6MDUzcWRVY1NvemRmMVR3YXhPQzhfUUVkSUZoQXVFbVdwTnZxQmVIT0R3U0dnQUtVT3J0UWJReVRyVFFn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTVIWjE3QUlJaEphU1E1djc2YnMtNl84aHl4Yl9WeGZ5a1pEa1p0dWcxSlp4Q290YkZhUzNIOFpQZXJUOVZ5Z1B0R0xvemVteDBUdDAtV0FVTFJYV1FyUk56dElOZGFIRUdLOXhoRjNYZjk0Ql9KS2swUEptYmQ5S0ljZF9vTVFaR3o2VFRPb1dvNUx4NDl4YjBYUUVJZUpTbzhuSS13d3HSAa4BQVVfeXFMT2xjUmJRVnB2ZUFCa3VrV3QyU3JDSjJRNGtoT0xWbktsbUJvQVF5ZE1YSjNmUG9SN0ZSYnJPajVGUXI1MEpSalVuWnB6MFNvRFFLY2pMYzBsM1FWRFJRNDBVRTI2UUpFU056RjljM2hxU3l6MDUzcWRVY1NvemRmMVR3YXhPQzhfUUVkSUZoQXVFbVdwTnZxQmVIT0R3U0dnQUtVT3J0UWJReVRyVFFn?oc=5\" target=\"_blank\">Apple retires well-known product after 20 years as it shifts strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-04-01T17:02:00+00:00",
+      "source": "Fox Business"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple at 50: My 10 most memorable moments - Six Colors",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmpmRnp0bXh6U2NXdWJRVGF4X1drdXhra0xLLUl0eDJnS2R3YlF6LWU2UkpWSWs2MkJ4cEllUkV5c285NENFRVFNVl91Yndwd3dZalVpYk9ORkVNM1JaSjAtYmRfajVXMXNzRlFpOUtqc3k2WEozOU1iZVZZaURGMnVn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmpmRnp0bXh6U2NXdWJRVGF4X1drdXhra0xLLUl0eDJnS2R3YlF6LWU2UkpWSWs2MkJ4cEllUkV5c285NENFRVFNVl91Yndwd3dZalVpYk9ORkVNM1JaSjAtYmRfajVXMXNzRlFpOUtqc3k2WEozOU1iZVZZaURGMnVn?oc=5\" target=\"_blank\">Apple at 50: My 10 most memorable moments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Six Colors</font>",
+      "published": "2026-04-01T14:00:00+00:00",
+      "source": "Six Colors"
+    },
+    {
+      "title": "Apple’s biggest product in its 50-year history surprised the engineers who designed it - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTTczRmJlbjlqeldoRmMycThiTEdpc2ktUFZNTElSQVpWLWM2cDJVbUFfeUc0S2lrUFBza3FSbVhsb1RJeGdPbmpyYzgwNndGNGs1T3E5M1NWV2JPR202UWdEQVZmeEZTb0FqblVHQUZKRW1pRG40Ug?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFByTTczRmJlbjlqeldoRmMycThiTEdpc2ktUFZNTElSQVpWLWM2cDJVbUFfeUc0S2lrUFBza3FSbVhsb1RJeGdPbmpyYzgwNndGNGs1T3E5M1NWV2JPR202UWdEQVZmeEZTb0FqblVHQUZKRW1pRG40Ug?oc=5\" target=\"_blank\">Apple’s biggest product in its 50-year history surprised the engineers who designed it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2026-04-01T09:00:55+00:00",
+      "source": "CNN"
+    },
     {
       "title": "Apple’s next big products revealed: 15+ new Apple devices set for 2026 - Macworld",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Apple’s next big products revealed: 15+ new Apple devices set for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
       "published": "2026-03-27T14:20:00+00:00",
       "source": "Macworld"
-    },
-    {
-      "title": "The history of Apple in photos, from the early Steve Jobs era to the iPhone launch to its 50-year mark - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XS1ZBYUpfYjItXzRtLVdkYjFtUU5UYU9xMENCSDFIZ1RCNFVkV0ozN2ZJSmJ6Ujg5Rzh3eExOdVlBMmlac0FMYnBPZEhSUjF5aGJvcjFkVW1OSDUwVE5xWGFkNWEybTNBaXQ1Sg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1XS1ZBYUpfYjItXzRtLVdkYjFtUU5UYU9xMENCSDFIZ1RCNFVkV0ozN2ZJSmJ6Ujg5Rzh3eExOdVlBMmlac0FMYnBPZEhSUjF5aGJvcjFkVW1OSDUwVE5xWGFkNWEybTNBaXQ1Sg?oc=5\" target=\"_blank\">The history of Apple in photos, from the early Steve Jobs era to the iPhone launch to its 50-year mark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-04-01T09:31:00+00:00",
-      "source": "Business Insider"
     },
     {
       "title": "Upcoming Apple Products Guide: What's Coming in 2026 - MacRumors",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3BCbnM2VjF2eHVKazNfY1lJbS1iTmdub2N5S0N6eFo2bnBkNUl0Z1YwVl9ycEFlMnFUUUFNREszdFJOMWQzSHZDMFpJNmxmZnU1NGJJQVVKTlprV3JRY1NLNEFVaVpMVFRuN0lSYWw4X05Id19qbUt3YzNuUXFHSXcyT3FpTmlFQ0J2b2x0cDU0VElMTkczbVByckxXQ00?oc=5\" target=\"_blank\">A new cheaper MacBook just dropped — here’s everything you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
       "published": "2026-03-04T08:00:00+00:00",
       "source": "NBC News"
-    },
-    {
-      "title": "Apple Preps for March 4 Product Launch - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvSGhOQnRjRzBuU1M0UkFXMUFTTm84N0FkcG5iWEZNWGtIWHkyUUY5TTExYWxsSkRDVURPbE1vcTMwQkxkM2J6aFZLU0VtV00xWmhhczRBX1RWbXN3eUdFSXBZamRKQ0dzT09ONjlNaXA2RG5TU05Rc1V5d0s5Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBvSGhOQnRjRzBuU1M0UkFXMUFTTm84N0FkcG5iWEZNWGtIWHkyUUY5TTExYWxsSkRDVURPbE1vcTMwQkxkM2J6aFZLU0VtV00xWmhhczRBX1RWbXN3eUdFSXBZamRKQ0dzT09ONjlNaXA2RG5TU05Rc1V5d0s5Zw?oc=5\" target=\"_blank\">Apple Preps for March 4 Product Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "published": "2026-02-16T08:00:00+00:00",
-      "source": "PYMNTS.com"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-03-31",
-      "close": 253.7899932861328
+      "date": "2026-04-01",
+      "close": 255.6300048828125
     },
     "history": [
-      {
-        "date": "2026-03-23",
-        "close": 251.49000549316406
-      },
       {
         "date": "2026-03-24",
         "close": 251.63999938964844
@@ -133,6 +129,10 @@
       {
         "date": "2026-03-31",
         "close": 253.7899932861328
+      },
+      {
+        "date": "2026-04-01",
+        "close": 255.6300048828125
       }
     ],
     "name": "Apple Inc."
