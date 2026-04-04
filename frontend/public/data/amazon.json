@@ -2,63 +2,63 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-04-03T12:40:29.261712+00:00",
+  "fetched_at": "2026-04-04T12:33:25.621336+00:00",
   "news": [
     {
-      "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTRQbVVKWkZLRUprdU1vMWZIR2xYbHRXVkktV0dFYlNuYWR0YTY4dlN4dzJ5Rzc1d2ZZZWhlQjRPMExXRW1qbExjN2t4N3Q2T0VYY1JNa1Vwb1lOeC02Z0gwVXNJR3c3OHhmTUJIQmgtTHFGUlRPXzFFYjZZeGM4WG9SbGxyR0dwMTBKdzJoVzl4Q2lMUG1uay1KdS1KZlc3N2JycGs2N2xNcE1hMW1FV3EyS2dSdHpw0gG-AUFVX3lxTE5SSXVHeTE0ZDJqNVRWSGNtRnktNjVadElZbm5zeEtoQ255YTJpUTJka3h2d1NFS2hKQnhBc3kxanVFU2w2anh3WTRyM0ZGMzNudnhiQ2J4N093aWN5Z1k2ZndaX2lRMTBtd25heGdITnFnQXFCUWsxTVFyRWVJLU80N0pITkNvWkNnTWtBN2lubFV3TUtIR1FWelY5OG1XOGJrRUlORVd0X2FhYWZLNVMzbWN1cXEwNlp2c25kd0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTRQbVVKWkZLRUprdU1vMWZIR2xYbHRXVkktV0dFYlNuYWR0YTY4dlN4dzJ5Rzc1d2ZZZWhlQjRPMExXRW1qbExjN2t4N3Q2T0VYY1JNa1Vwb1lOeC02Z0gwVXNJR3c3OHhmTUJIQmgtTHFGUlRPXzFFYjZZeGM4WG9SbGxyR0dwMTBKdzJoVzl4Q2lMUG1uay1KdS1KZlc3N2JycGs2N2xNcE1hMW1FV3EyS2dSdHpw0gG-AUFVX3lxTE5SSXVHeTE0ZDJqNVRWSGNtRnktNjVadElZbm5zeEtoQ255YTJpUTJka3h2d1NFS2hKQnhBc3kxanVFU2w2anh3WTRyM0ZGMzNudnhiQ2J4N093aWN5Z1k2ZndaX2lRMTBtd25heGdITnFnQXFCUWsxTVFyRWVJLU80N0pITkNvWkNnTWtBN2lubFV3TUtIR1FWelY5OG1XOGJrRUlORVd0X2FhYWZLNVMzbWN1cXEwNlp2c25kd0E?oc=5\" target=\"_blank\">Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-04-02T17:06:49+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXZzV3ROOWEwRkh2VjVNdzVfNm5yYnQtdHpQSGxGR0lqVWtuX2lMQy1ZNHJwenZic3R6UVU3SXNkX2pQcmFTNVdWWVdCTVBoaHEzRzJFdjZkM3VLOHJhLURldGpfTzNfZnNvVUxLOGZpT0JRTllYWmVjcTVtejEzcm9GTHVqXzZOOFV6SjV1MnhpSVpNcThQTC1RUS15RE02UzZfbmt2YzBwbUdKaFBZVXhJWng?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXZzV3ROOWEwRkh2VjVNdzVfNm5yYnQtdHpQSGxGR0lqVWtuX2lMQy1ZNHJwenZic3R6UVU3SXNkX2pQcmFTNVdWWVdCTVBoaHEzRzJFdjZkM3VLOHJhLURldGpfTzNfZnNvVUxLOGZpT0JRTllYWmVjcTVtejEzcm9GTHVqXzZOOFV6SjV1MnhpSVpNcThQTC1RUS15RE02UzZfbmt2YzBwbUdKaFBZVXhJWng?oc=5\" target=\"_blank\">Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-04-02T22:56:29+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Amazon to slap a 3.5% surcharge on third-party sellers as Iran war drives up fuel prices - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0FManJBSjVpN1NnNUNYRmNDQjRLMmpmWjJ4RkJia05UM1pHUERiRW5vcWlGR2xObC1sR2NEc3VwdE0zbno3ZjAzQXJ2dzgzeFlGRjZtSkVQdWJkVnUwc1M2WkJNTEFkb3JkN2MtRHlUNmhxREFKZ2g4S3BpNXNaTXdDWXNVTVExSVNTRXhfbDlQWm9kTEpGaFJpTDfSAaIBQVVfeXFMUGptWWtpTTdUU2ZVYVlUZHBTbmlXeldUSlNnaTI5Z1dBdnJIVFp5Rkp2dGRweXc3WDJZaU1GMGQ4d1dYVGY3N0ZOdXZXNDFHVGpqQndfUzIwQTFYNHdXOUJTcFl2aEV6amlYWmZUYjZpVXF6UGsyZGl0YkF5WTJXQU5HcGpZOWgtVUN3VDBPM3cxRUd6bHh5S3dJczE5M2JWVERn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0FManJBSjVpN1NnNUNYRmNDQjRLMmpmWjJ4RkJia05UM1pHUERiRW5vcWlGR2xObC1sR2NEc3VwdE0zbno3ZjAzQXJ2dzgzeFlGRjZtSkVQdWJkVnUwc1M2WkJNTEFkb3JkN2MtRHlUNmhxREFKZ2g4S3BpNXNaTXdDWXNVTVExSVNTRXhfbDlQWm9kTEpGaFJpTDfSAaIBQVVfeXFMUGptWWtpTTdUU2ZVYVlUZHBTbmlXeldUSlNnaTI5Z1dBdnJIVFp5Rkp2dGRweXc3WDJZaU1GMGQ4d1dYVGY3N0ZOdXZXNDFHVGpqQndfUzIwQTFYNHdXOUJTcFl2aEV6amlYWmZUYjZpVXF6UGsyZGl0YkF5WTJXQU5HcGpZOWgtVUN3VDBPM3cxRUd6bHh5S3dJczE5M2JWVERn?oc=5\" target=\"_blank\">Amazon to slap a 3.5% surcharge on third-party sellers as Iran war drives up fuel prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>",
-      "published": "2026-04-03T09:16:51+00:00",
-      "source": "ABC News"
-    },
-    {
-      "title": "Amazon Prime customers can get 20-cents-per-gallon off a tank of gas at these select stations - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkhjN2JQLTR6X25nczNHSGJZemwxajE2NXBMNW1YdnNuUWVlNVFiOUVlLVpWNXRmMmZrVm5QbmF0Q2paNlM4V0hUeDExT0VVSlA2ZnpWT3Z0S0hXd3dnbVpiR2J2aklIc0liWXJJTUNlQVJaaWhpZjhoMmJUazl5cjdydjE2anBmcW5UcVZMMGQtT3JSa3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkhjN2JQLTR6X25nczNHSGJZemwxajE2NXBMNW1YdnNuUWVlNVFiOUVlLVpWNXRmMmZrVm5QbmF0Q2paNlM4V0hUeDExT0VVSlA2ZnpWT3Z0S0hXd3dnbVpiR2J2aklIc0liWXJJTUNlQVJaaWhpZjhoMmJUazl5cjdydjE2anBmcW5UcVZMMGQtT3JSa3c?oc=5\" target=\"_blank\">Amazon Prime customers can get 20-cents-per-gallon off a tank of gas at these select stations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-      "published": "2026-04-02T22:43:00+00:00",
-      "source": "New York Post"
-    },
-    {
-      "title": "Katie Holmes, 47, Convinced Me, 27, to Overhaul My Denim Collection with This Effortless Spring Style — from $30 - People.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mbnllSWltRTNQWDRMbjRLZkJJYkszOHBQQ1g4UHlDeUduUXhhWm1GVHBsQ1hoZERTWWdYYkNiWnRwSHB0YnFqeFhOWGdrZThyUDFvTGFjT3pBMzdVVzE2MTJoOTJSTWVISDV6WGxsaDJOYUV0aTdHZ0lJTmlpZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1mbnllSWltRTNQWDRMbjRLZkJJYkszOHBQQ1g4UHlDeUduUXhhWm1GVHBsQ1hoZERTWWdYYkNiWnRwSHB0YnFqeFhOWGdrZThyUDFvTGFjT3pBMzdVVzE2MTJoOTJSTWVISDV6WGxsaDJOYUV0aTdHZ0lJTmlpZw?oc=5\" target=\"_blank\">Katie Holmes, 47, Convinced Me, 27, to Overhaul My Denim Collection with This Effortless Spring Style — from $30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2026-04-03T10:30:00+00:00",
+      "title": "We Scoured Amazon's Top 100 Spring Products — These Are the 15 Best Picks from Owala, Ugg, and More - People.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lMlliUThqeTNSZmhQNHhsVlRKU0pGb1dGaExRc1RoVkJwQnI3UE4yMGxlcm41Z0c0NHdUSDFtb0FITGhBQWJaSzRvTmdId0JBeDA5SlRFY3lWQndwYUExRVBwcU4ydF90eGJjYlhBT2lCbDlqVjRPOQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5lMlliUThqeTNSZmhQNHhsVlRKU0pGb1dGaExRc1RoVkJwQnI3UE4yMGxlcm41Z0c0NHdUSDFtb0FITGhBQWJaSzRvTmdId0JBeDA5SlRFY3lWQndwYUExRVBwcU4ydF90eGJjYlhBT2lCbDlqVjRPOQ?oc=5\" target=\"_blank\">We Scoured Amazon's Top 100 Spring Products — These Are the 15 Best Picks from Owala, Ugg, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-04-04T11:00:00+00:00",
       "source": "People.com"
     },
     {
-      "title": "Kylie Jenner Just Wore the Sexy but Practical Bikini I’m Buying in Multiples for Summer 2026—From $15 - instyle.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm9Bdk56TVhWbTR3SWVYUlpzQkFucDdkNC1PTW5tOFpEX0ZWdFJNUGFjNnhlWFNPVS1oZUxjaUZWZXJLREN0NmJiTXFmWnFvS3l5T0ZKSnU1VXMyN1kyUUN4eDlnQUZkbnl5YVFSUTd2Xy1VVlo2LXlOY3MwcGFiaW1n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONm9Bdk56TVhWbTR3SWVYUlpzQkFucDdkNC1PTW5tOFpEX0ZWdFJNUGFjNnhlWFNPVS1oZUxjaUZWZXJLREN0NmJiTXFmWnFvS3l5T0ZKSnU1VXMyN1kyUUN4eDlnQUZkbnl5YVFSUTd2Xy1VVlo2LXlOY3MwcGFiaW1n?oc=5\" target=\"_blank\">Kylie Jenner Just Wore the Sexy but Practical Bikini I’m Buying in Multiples for Summer 2026—From $15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font>",
-      "published": "2026-04-03T11:00:00+00:00",
+      "title": "I'm 5-Feet-Tall, and I Found 8 Ready-to-Wear Petite Spring Styles on Amazon That Won't Need a Hem—From $19 - Real Simple",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRU1ZdThXN0xXM0EwUlB4S3lrbUxuU0prb0hVazdnVk1iZTYwZTFfWHlpeGVGRnhuY1VtNm5hclBvU25LQTc1OWpFLTdYMVdLN1M1Z2hhV0REb0xSa3BtMkpDd3Npay1OUjhMZGhHZVpNQ2N3aGk2VWxMQW95YzdyM1JPUGNPUmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRU1ZdThXN0xXM0EwUlB4S3lrbUxuU0prb0hVazdnVk1iZTYwZTFfWHlpeGVGRnhuY1VtNm5hclBvU25LQTc1OWpFLTdYMVdLN1M1Z2hhV0REb0xSa3BtMkpDd3Npay1OUjhMZGhHZVpNQ2N3aGk2VWxMQW95YzdyM1JPUGNPUmM?oc=5\" target=\"_blank\">I'm 5-Feet-Tall, and I Found 8 Ready-to-Wear Petite Spring Styles on Amazon That Won't Need a Hem—From $19</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Real Simple</font>",
+      "published": "2026-04-03T10:00:00+00:00",
+      "source": "Real Simple"
+    },
+    {
+      "title": "I'm 24, and I'm Swapping My Tight Jeans for This Ageless Spring Pant Trend Oprah, 72, Loves—From $20 on Amazon - instyle.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZllvTjB0c3RWeWxqTmVYMFJfTjNLaFdUbEpfcVY2U2NOcGJfcVRab282clJ4NVN1aXprdHlfeDFEb0I3X3lJY0w5NlZXWlhPc19ZbGplMjVXUkdLZG9kdjk5eWU1MFZqaFFDSFVoNGk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZllvTjB0c3RWeWxqTmVYMFJfTjNLaFdUbEpfcVY2U2NOcGJfcVRab282clJ4NVN1aXprdHlfeDFEb0I3X3lJY0w5NlZXWlhPc19ZbGplMjVXUkdLZG9kdjk5eWU1MFZqaFFDSFVoNGk?oc=5\" target=\"_blank\">I'm 24, and I'm Swapping My Tight Jeans for This Ageless Spring Pant Trend Oprah, 72, Loves—From $20 on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font>",
+      "published": "2026-04-04T05:00:00+00:00",
       "source": "instyle.com"
     },
     {
-      "title": "Amazon in talks to buy $9bn satellite group Globalstar in bid to rival Elon Musk’s Starlink - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1eUxTcUFBMDM2UjBYWV9tRHBFWmZJcnkwWmJYXzVPTFFvR2pxeldTanZCT01SeTNvMW1aa1J3cno0WjNWOFhoUXJtVWhVRndSWmZWUW8waDVIbTFWWlZlVnFRMHd0blB2ZDFXZ3A4N1p6dkxrVXlmd1pVcENfOUFaeWw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEY1eUxTcUFBMDM2UjBYWV9tRHBFWmZJcnkwWmJYXzVPTFFvR2pxeldTanZCT01SeTNvMW1aa1J3cno0WjNWOFhoUXJtVWhVRndSWmZWUW8waDVIbTFWWlZlVnFRMHd0blB2ZDFXZ3A4N1p6dkxrVXlmd1pVcENfOUFaeWw?oc=5\" target=\"_blank\">Amazon in talks to buy $9bn satellite group Globalstar in bid to rival Elon Musk’s Starlink</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-04-01T22:40:05+00:00",
-      "source": "Financial Times"
+      "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTRQbVVKWkZLRUprdU1vMWZIR2xYbHRXVkktV0dFYlNuYWR0YTY4dlN4dzJ5Rzc1d2ZZZWhlQjRPMExXRW1qbExjN2t4N3Q2T0VYY1JNa1Vwb1lOeC02Z0gwVXNJR3c3OHhmTUJIQmgtTHFGUlRPXzFFYjZZeGM4WG9SbGxyR0dwMTBKdzJoVzl4Q2lMUG1uay1KdS1KZlc3N2JycGs2N2xNcE1hMW1FV3EyS2dSdHpw0gG-AUFVX3lxTE5SSXVHeTE0ZDJqNVRWSGNtRnktNjVadElZbm5zeEtoQ255YTJpUTJka3h2d1NFS2hKQnhBc3kxanVFU2w2anh3WTRyM0ZGMzNudnhiQ2J4N093aWN5Z1k2ZndaX2lRMTBtd25heGdITnFnQXFCUWsxTVFyRWVJLU80N0pITkNvWkNnTWtBN2lubFV3TUtIR1FWelY5OG1XOGJrRUlORVd0X2FhYWZLNVMzbWN1cXEwNlp2c25kd0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTRQbVVKWkZLRUprdU1vMWZIR2xYbHRXVkktV0dFYlNuYWR0YTY4dlN4dzJ5Rzc1d2ZZZWhlQjRPMExXRW1qbExjN2t4N3Q2T0VYY1JNa1Vwb1lOeC02Z0gwVXNJR3c3OHhmTUJIQmgtTHFGUlRPXzFFYjZZeGM4WG9SbGxyR0dwMTBKdzJoVzl4Q2lMUG1uay1KdS1KZlc3N2JycGs2N2xNcE1hMW1FV3EyS2dSdHpw0gG-AUFVX3lxTE5SSXVHeTE0ZDJqNVRWSGNtRnktNjVadElZbm5zeEtoQ255YTJpUTJka3h2d1NFS2hKQnhBc3kxanVFU2w2anh3WTRyM0ZGMzNudnhiQ2J4N093aWN5Z1k2ZndaX2lRMTBtd25heGdITnFnQXFCUWsxTVFyRWVJLU80N0pITkNvWkNnTWtBN2lubFV3TUtIR1FWelY5OG1XOGJrRUlORVd0X2FhYWZLNVMzbWN1cXEwNlp2c25kd0E?oc=5\" target=\"_blank\">Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+      "published": "2026-04-02T17:06:49+00:00",
+      "source": "cnbc.com"
     },
     {
-      "title": "Globalstar stock surges 15% on report Amazon is weighing an acquisition - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2wzdldFelJJOVQyT29pbHR2OU1COTVEamlta29Yd1R4NkxXQm5iNUQ5dS1Ncmh1TDhhSjY4OFN6RGJpLXdmX19HUWFPU1dGSE9qTEtxUDdaZ2x0cnduNjNiVkM3WTVGbThOb1h0MUt2eHJacW5wbWRlcnU5eHpfMFlzTk96d0lWMm5USEU2NVFGano0dUJXdTNIRmVKam5Sa0hrY21NUFFIYWFqaVIwZERB0gG3AUFVX3lxTFBXRW5BVFltX1N3bzhGQmtMTlc4LThPTHQyeEdzS0tYZnlrRGk1bTBVbE0yNDR4eFpFWmpwLUZhT3BpYml3V2pPUER1ODFCV2JrWnNHUzZORjNuVjJmVWk3aU5WMzRVZXV5TnRVdU1FNjMxanpxSi1iQTRtRXdDTUR2cG8xWlhhbUt3ZzloNVB0YjFzZXRGdDlfVWNWUXpHVzFGMkI4QVpiYWdOT2RrcVY2TFhFd1hyRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2wzdldFelJJOVQyT29pbHR2OU1COTVEamlta29Yd1R4NkxXQm5iNUQ5dS1Ncmh1TDhhSjY4OFN6RGJpLXdmX19HUWFPU1dGSE9qTEtxUDdaZ2x0cnduNjNiVkM3WTVGbThOb1h0MUt2eHJacW5wbWRlcnU5eHpfMFlzTk96d0lWMm5USEU2NVFGano0dUJXdTNIRmVKam5Sa0hrY21NUFFIYWFqaVIwZERB0gG3AUFVX3lxTFBXRW5BVFltX1N3bzhGQmtMTlc4LThPTHQyeEdzS0tYZnlrRGk1bTBVbE0yNDR4eFpFWmpwLUZhT3BpYml3V2pPUER1ODFCV2JrWnNHUzZORjNuVjJmVWk3aU5WMzRVZXV5TnRVdU1FNjMxanpxSi1iQTRtRXdDTUR2cG8xWlhhbUt3ZzloNVB0YjFzZXRGdDlfVWNWUXpHVzFGMkI4QVpiYWdOT2RrcVY2TFhFd1hyRQ?oc=5\" target=\"_blank\">Globalstar stock surges 15% on report Amazon is weighing an acquisition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-04-01T23:58:09+00:00",
-      "source": "CNBC"
+      "title": "Amazon adds seller surcharge as oil spike from Iran tensions drives logistics costs higher - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnREcGJxel8wV1ctUm5DZEo3VXRpNnIyVDNpQUJiaGxpT2wtVjRYcjFjRHZGOTZlM2x0cnR6VEl1R0F4dElyRnVpbXpaY2d2Zlktd3doMlVZMFVjZlJyYUJ3UXd2SmtoVFMzcFR4cXNxNFdRU0xiRkRDSTB3YkE5Ym5iN3pBb1pTc2xTSnAzSdIBlAFBVV95cUxNemRTRGNrQ0xJZTF1aFdsREMzMDlpZmc1cmg0X0dXSWhZNVB1eHdhOTAyUVh4NlhDN09wN2tIR09JSXpsQkZ4emhYXzFQaXN4RWpqOXJQNmU5SFlYcEU0VWVaVVE2MkRFRmwxa1hyc2NRQ3ZKZlc5QzhZZXgzWW5VVE9ONU9CSFJ5bkJLaVEtVXk3Y04x?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnREcGJxel8wV1ctUm5DZEo3VXRpNnIyVDNpQUJiaGxpT2wtVjRYcjFjRHZGOTZlM2x0cnR6VEl1R0F4dElyRnVpbXpaY2d2Zlktd3doMlVZMFVjZlJyYUJ3UXd2SmtoVFMzcFR4cXNxNFdRU0xiRkRDSTB3YkE5Ym5iN3pBb1pTc2xTSnAzSdIBlAFBVV95cUxNemRTRGNrQ0xJZTF1aFdsREMzMDlpZmc1cmg0X0dXSWhZNVB1eHdhOTAyUVh4NlhDN09wN2tIR09JSXpsQkZ4emhYXzFQaXN4RWpqOXJQNmU5SFlYcEU0VWVaVVE2MkRFRmwxa1hyc2NRQ3ZKZlc5QzhZZXgzWW5VVE9ONU9CSFJ5bkJLaVEtVXk3Y04x?oc=5\" target=\"_blank\">Amazon adds seller surcharge as oil spike from Iran tensions drives logistics costs higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-04-03T16:50:00+00:00",
+      "source": "Fox Business"
+    },
+    {
+      "title": "Iran war is about to add costs for Amazon merchants - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0xSRTloQjVtS2hUWjk4RFJaelMzWDNrdmMtRjA1dGJGcFlUd0VSZnhvb2YzNWY2UUJFazdpTVFNZHB6Zl8wd2M5d0Q0Uk1PQTJEQUV3NGMyMGtFbU9MenpYV3Z6a0pWZTRyRkgyNWdjQkcwU1NQRGt5d1J3R0lVTGk3RVRwM2dwREZSekxWX0lkeXZfNmdNVnU1V29oZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNa0xSRTloQjVtS2hUWjk4RFJaelMzWDNrdmMtRjA1dGJGcFlUd0VSZnhvb2YzNWY2UUJFazdpTVFNZHB6Zl8wd2M5d0Q0Uk1PQTJEQUV3NGMyMGtFbU9MenpYV3Z6a0pWZTRyRkgyNWdjQkcwU1NQRGt5d1J3R0lVTGk3RVRwM2dwREZSekxWX0lkeXZfNmdNVnU1V29oZw?oc=5\" target=\"_blank\">Iran war is about to add costs for Amazon merchants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+      "published": "2026-04-03T23:48:07+00:00",
+      "source": "The Seattle Times"
+    },
+    {
+      "title": "Amazon is having a secret sale on Nike sneakers — including top-rated styles for 39% off - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FR2wycFFYZjU2eXlPbjhpU2g2NTJjQVpfalhVZ25GdzRwaExhcWwyQ0dFZTVaOG5nOGFiM0NYcjdHNkdHVFY4VGVZX0ljVWpWVngwalhxbllaRzMteGpwY0E2MWwtVF9NZzdHcTliN1h1OS1hNFY1X3A2Yno?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5FR2wycFFYZjU2eXlPbjhpU2g2NTJjQVpfalhVZ25GdzRwaExhcWwyQ0dFZTVaOG5nOGFiM0NYcjdHNkdHVFY4VGVZX0ljVWpWVngwalhxbllaRzMteGpwY0E2MWwtVF9NZzdHcTliN1h1OS1hNFY1X3A2Yno?oc=5\" target=\"_blank\">Amazon is having a secret sale on Nike sneakers — including top-rated styles for 39% off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+      "published": "2026-04-04T12:00:00+00:00",
+      "source": "NBC News"
+    },
+    {
+      "title": "Caught on camera: Amazon truck fire spreads to West Babylon supermarket - News12 | Long Island",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVZfZElDUU9SaGZmX0R1ZWZRMFR6QTR4NGRDR1B2TXlyc0VUaDQyX0xpZHBGTGp1bWNLRnN2OV9Ra2l3ek1ZT0pHdXdUdEpVd2twQzdwWTJKZGh0SE9TcW5TYW9xWlU3ZlZEZEhDODB6ZHhHbl9md1h5RllheEIzLUlmbDdoX0pWMXVIS004dEFLRDQxNERDdUhvMmlGZW9JWUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVZfZElDUU9SaGZmX0R1ZWZRMFR6QTR4NGRDR1B2TXlyc0VUaDQyX0xpZHBGTGp1bWNLRnN2OV9Ra2l3ek1ZT0pHdXdUdEpVd2twQzdwWTJKZGh0SE9TcW5TYW9xWlU3ZlZEZEhDODB6ZHhHbl9md1h5RllheEIzLUlmbDdoX0pWMXVIS004dEFLRDQxNERDdUhvMmlGZW9JWUE?oc=5\" target=\"_blank\">Caught on camera: Amazon truck fire spreads to West Babylon supermarket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News12 | Long Island</font>",
+      "published": "2026-04-04T10:21:01+00:00",
+      "source": "News12 | Long Island"
     }
   ],
   "product_launches": [
@@ -68,13 +68,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJwZWJuUm1ENlRoWlFXRGpxNGxJUXNWbEdRaVU3RnNweDJvaF9sUVVQVmtnMXE1bFpOM0tHMXFVUG9peG02U2l4Z3d1ckFZVXB0RnVDUDJ2VERxdDZXNEcwSXFhYS12cFFKcVl5SnNETE5WTjFfcWN4Zm5idUxqREZhRENCLTNfbms0Vjl6S1hHY0RjVmVB?oc=5\" target=\"_blank\">Amazon unveils new AI-powered tools to help sellers launch more winning products with greater speed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
       "published": "2025-09-18T07:00:00+00:00",
       "source": "About Amazon"
-    },
-    {
-      "title": "Ecominsights Launches Dedicated Resource Platform to Expand Access to Amazon Market Intelligence Education and Strategic Tools - Carroll County Mirror-Democrat",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR3JpM2tIMVl1NmUzN05mRmJMWEs1UUhTQmJhcXVMSVZlb3pQRFFaRkxvSTQ0N1l6bGprUURMY1VPTTVzRHNRZktJeTZzRFBENmFpbFBxWmhzdjhJMFFFaUJmZ3ZuYzI2ZktyT0l5SEJpTHJmZG5JQmpLSnRyR1V4SnYzaDJrbkdiUk1MUjZiaE5lZ2RZdjViYjZ3Qno5N1pCYXJVclZLTENPd1IzeVZ4WFdWSlhxak0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNR3JpM2tIMVl1NmUzN05mRmJMWEs1UUhTQmJhcXVMSVZlb3pQRFFaRkxvSTQ0N1l6bGprUURMY1VPTTVzRHNRZktJeTZzRFBENmFpbFBxWmhzdjhJMFFFaUJmZ3ZuYzI2ZktyT0l5SEJpTHJmZG5JQmpLSnRyR1V4SnYzaDJrbkdiUk1MUjZiaE5lZ2RZdjViYjZ3Qno5N1pCYXJVclZLTENPd1IzeVZ4WFdWSlhxak0?oc=5\" target=\"_blank\">Ecominsights Launches Dedicated Resource Platform to Expand Access to Amazon Market Intelligence Education and Strategic Tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carroll County Mirror-Democrat</font>",
-      "published": "2026-04-01T19:35:01+00:00",
-      "source": "Carroll County Mirror-Democrat"
     },
     {
       "title": "Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products - bbwinc.com",
@@ -89,6 +82,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWo3TWMtcGU5NEstejVJM3ozNFVvMGJaVVdabW5HRXk3OHdvQ2wzSkF3bmRFbi04alFkb3g2M1JrSVU5bVFMQjhZTVdwaGF1LXZCTXROSHJxcG1Ja3JTeHBieVBkT3daaTRrZHhFX0syS01hbHNmSUFSdnAwMzdmbHdCeUtpOEMxcFJ5UGpQY00tUDhFaDFpb3RvUl9nc1FJMHc?oc=5\" target=\"_blank\">Amazon unveils new device lineup with AI powered experiences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon Europe</font>",
       "published": "2025-10-02T07:00:00+00:00",
       "source": "About Amazon Europe"
+    },
+    {
+      "title": "Contrivian Launches New Product Bundling Amazon Leo & Starlink - payloadspace.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWxjd2VDSjdENHZYcldldHRRZm9qa3ViRHl5ZXZ4SzRFVFc5UjFnTTZTaUtMTTNFLWNRb1RaLXQ4ZTJ6X0tLV0pKQy10SGVuX1VQcjlZS2liV2FWWmlEanV4a1ZRV1VLOUVZM0hhaHFBS25TdnRLYUF3THB1MlhGUHlRcmRQTU0yRGltN0dRSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWxjd2VDSjdENHZYcldldHRRZm9qa3ViRHl5ZXZ4SzRFVFc5UjFnTTZTaUtMTTNFLWNRb1RaLXQ4ZTJ6X0tLV0pKQy10SGVuX1VQcjlZS2liV2FWWmlEanV4a1ZRV1VLOUVZM0hhaHFBS25TdnRLYUF3THB1MlhGUHlRcmRQTU0yRGltN0dRSQ?oc=5\" target=\"_blank\">Contrivian Launches New Product Bundling Amazon Leo & Starlink</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">payloadspace.com</font>",
+      "published": "2026-03-23T13:05:25+00:00",
+      "source": "payloadspace.com"
     },
     {
       "title": "Amazon Growth Lab Launches Creative Cascade for Rufus-Ready Product Upgrades - National Today",
