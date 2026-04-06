@@ -2,35 +2,21 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-04-05T12:35:26.885918+00:00",
+  "fetched_at": "2026-04-06T12:48:45.260514+00:00",
   "news": [
-    {
-      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGlMeTN2cE80dkVVNWIzM1pUdmRKNVpCbDZLZHVWVkVsaWp0NnpBSl82MHpyMEFuU09VV1R6OTc2QWpyek1CSWR0MUVDLTFUNkRRWWhDbjJQRGFmTEFuRHU5MFo2NG83cjlwenRmNEh1Y1JBLTRLZ1F4bm5DUnk4TFpWN2JPaGswQ2ZFd1pwRjgwU3JsaDkybTc4V3BtRVJEUUxKc1dJajFWWVoz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGlMeTN2cE80dkVVNWIzM1pUdmRKNVpCbDZLZHVWVkVsaWp0NnpBSl82MHpyMEFuU09VV1R6OTc2QWpyek1CSWR0MUVDLTFUNkRRWWhDbjJQRGFmTEFuRHU5MFo2NG83cjlwenRmNEh1Y1JBLTRLZ1F4bm5DUnk4TFpWN2JPaGswQ2ZFd1pwRjgwU3JsaDkybTc4V3BtRVJEUUxKc1dJajFWWVoz?oc=5\" target=\"_blank\">Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-04-03T21:28:00+00:00",
-      "source": "WIRED"
-    },
-    {
-      "title": "Meta pauses all work with AI recruiting startup Mercor after $10 billion company confirms hacking - timesofindia.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmU3WjZlNWY4aUQ4VldFdzQ2WGZtc2ZDSVRMUzNyR2s1aGlKcm9jQU81SThOVHc5ckxINXBuWXlWWHZHY3NXNGhBcDJlTUU5VVBfbEwxZ2ZSVndjUERXUUxhMk9HenRvamI2ZXR3Um9talJvS3FJczROZkJNWjlpY1BqVU9GdUdXcndPTmkyQ25FXzZFWFNGQVQyR292SUZtOW1YLTZYRFNkNFYzenRPMFdFSmVCMWExN1NaUy1laFczTEpidmZpZGFjMFIwN0dNYl9TTTE3RlVGMFB1T2JJUWYwbTZMOW8xb1k2ZmZwYXdpdDVOTU5teDRxSVNMSnJZeXM3WVJOZkVfY0XSAZACQVVfeXFMUHBfMUp5bUNlekpJNElUUFRZeGFpRVloVUhYNnYxbmRrcHlDeGI5bG5ySVpoYnJkR2VBU19YbUx1WXg0d3BxSE9kZi0wME5mMzBQblR0eG94QjMwcWtwd0d2enFGLXFUTTRfbzZoXy1ydHlZRHFEUlp6T2FkY0VuZjd3dGllMDFON2cyc0Jod25UX1NTdTVNSjZDM2RRcU8wQVR0bHR6NlgwWkxuTU54akp3S0xsUE16bGNabV9QVlN2Ukg2Z0ltWkg2SmR3SVhmNC1BWHJlT3huWHk2RlFsaThETXAzY0hPMF83dFJxWWJVUVZUUzRBMnkyYW9tZERBakZFNVVYTFctV1FPaHc3b2E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNmU3WjZlNWY4aUQ4VldFdzQ2WGZtc2ZDSVRMUzNyR2s1aGlKcm9jQU81SThOVHc5ckxINXBuWXlWWHZHY3NXNGhBcDJlTUU5VVBfbEwxZ2ZSVndjUERXUUxhMk9HenRvamI2ZXR3Um9talJvS3FJczROZkJNWjlpY1BqVU9GdUdXcndPTmkyQ25FXzZFWFNGQVQyR292SUZtOW1YLTZYRFNkNFYzenRPMFdFSmVCMWExN1NaUy1laFczTEpidmZpZGFjMFIwN0dNYl9TTTE3RlVGMFB1T2JJUWYwbTZMOW8xb1k2ZmZwYXdpdDVOTU5teDRxSVNMSnJZeXM3WVJOZkVfY0XSAZACQVVfeXFMUHBfMUp5bUNlekpJNElUUFRZeGFpRVloVUhYNnYxbmRrcHlDeGI5bG5ySVpoYnJkR2VBU19YbUx1WXg0d3BxSE9kZi0wME5mMzBQblR0eG94QjMwcWtwd0d2enFGLXFUTTRfbzZoXy1ydHlZRHFEUlp6T2FkY0VuZjd3dGllMDFON2cyc0Jod25UX1NTdTVNSjZDM2RRcU8wQVR0bHR6NlgwWkxuTU54akp3S0xsUE16bGNabV9QVlN2Ukg2Z0ltWkg2SmR3SVhmNC1BWHJlT3huWHk2RlFsaThETXAzY0hPMF83dFJxWWJVUVZUUzRBMnkyYW9tZERBakZFNVVYTFctV1FPaHc3b2E?oc=5\" target=\"_blank\">Meta pauses all work with AI recruiting startup Mercor after $10 billion company confirms hacking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timesofindia.indiatimes.com</font>",
-      "published": "2026-04-05T03:24:00+00:00",
-      "source": "timesofindia.indiatimes.com"
-    },
-    {
-      "title": "Meta freezes AI data work after breach puts training secrets at risk - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsb3o5OElrUjBJWTBhelZZYXBzak1VV3pFNEVhWGZjOWpzajBVV1R4UXl0Ukh5UldfLVJ5RDBqYTlMbGhYbjM0a0t4SkdoOTBzTTVwdHVYSDVkbFBzQm16TXRzeVZzTzE3ZkhTNXFpbXlGeHFaSzJRSkw1Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBsb3o5OElrUjBJWTBhelZZYXBzak1VV3pFNEVhWGZjOWpzajBVV1R4UXl0Ukh5UldfLVJ5RDBqYTlMbGhYbjM0a0t4SkdoOTBzTTVwdHVYSDVkbFBzQm16TXRzeVZzTzE3ZkhTNXFpbXlGeHFaSzJRSkw1Yw?oc=5\" target=\"_blank\">Meta freezes AI data work after breach puts training secrets at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Web</font>",
-      "published": "2026-04-04T18:31:00+00:00",
-      "source": "The Next Web"
-    },
     {
       "title": "Goodbye, middle managers. Hello, 'player-coaches' and 'org leads.' - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0ZiekFIamtwTHRmME10V2N4U3FrNjFuWjdnQ1I1S21lanI5LVFVNmdZOGJ3Qzg3eXZvems1M3JzZWxtZFNsWHNEN2l4UlRhQm5yYzRBQlBFRlZKYWRkT0pkU3RNaEhyMHNsdHZKaFdKZU9acWUtRzdzWW1fRHdxZ2d0dXJfaVE1c1Nv?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0ZiekFIamtwTHRmME10V2N4U3FrNjFuWjdnQ1I1S21lanI5LVFVNmdZOGJ3Qzg3eXZvems1M3JzZWxtZFNsWHNEN2l4UlRhQm5yYzRBQlBFRlZKYWRkT0pkU3RNaEhyMHNsdHZKaFdKZU9acWUtRzdzWW1fRHdxZ2d0dXJfaVE1c1Nv?oc=5\" target=\"_blank\">Goodbye, middle managers. Hello, 'player-coaches' and 'org leads.'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-04-04T09:48:00+00:00",
       "source": "Business Insider"
+    },
+    {
+      "title": "We Can't Even Imagine the Eating Disorders This New Meta Smart Glasses Feature Will Cause - futurism.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHpMY0FLSTlIcG96THpWWXBqMURjX3g1eE5pcDhhRFNFay1GekhTZ2YyQkN6dnhST2E3VklJdEhsMjlaUDRWNmZabW9aMGhIVnJZaHJIZldHajlLMXdCMWh4eTREc2NYeWhxTWVlNEQxd3QxWGFYeDVrRHNSM1VBMDVXMld0ZlloOWVhQmJOY0dEdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHpMY0FLSTlIcG96THpWWXBqMURjX3g1eE5pcDhhRFNFay1GekhTZ2YyQkN6dnhST2E3VklJdEhsMjlaUDRWNmZabW9aMGhIVnJZaHJIZldHajlLMXdCMWh4eTREc2NYeWhxTWVlNEQxd3QxWGFYeDVrRHNSM1VBMDVXMld0ZlloOWVhQmJOY0dEdw?oc=5\" target=\"_blank\">We Can't Even Imagine the Eating Disorders This New Meta Smart Glasses Feature Will Cause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">futurism.com</font>",
+      "published": "2026-04-05T16:33:21+00:00",
+      "source": "futurism.com"
     },
     {
       "title": "Six great reads: the OnlyFans legacy, stolen cargo and Meta’s ‘creepy’ glasses - The Guardian",
@@ -40,34 +26,62 @@
       "source": "The Guardian"
     },
     {
-      "title": "Meta, Google under attack as court cases bypass 30-year-old legal shield - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFNjM2pyUmo2QWVCVGI4NUlfR2cxckZJSG5DWW1Ha0RkajVEVjJDRUEwR0w2NFowQkx0R2l4WHZPRWZ0SFVlb3FVQ1R0SmJQcUVEcmRZRjZfaklMd0ZqaE5qazNQM2NaX0otQmRzdTc4RU9jTGpXYWJBZkgyNV9hMzJFWHR5aFBGWmVzNUVYM2dibmhQLWU1TUMyeDlhWF9YUG9Ha0g4YjLSAa4BQVVfeXFMUEVhYUUxTDlFdzB2cy1Ec18yb01SaFlJQ1AyN2dIcVdwVTRHS3BGQkNBTTFuakxoUDhHRndLTEIwLWpKOExYVm9MakNBakVyY3hEMFplcTRIQkl2Tk42NGdJS0hvMlk4b29meUF2amJTdEVwTXB5dkZQU2J1SF9jYkRoUXVmQWpnOWhnRzUwNEU4VXBNMHhpTzlBdXFESnI2NUlMTFN0YUZoandyNmRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObFNjM2pyUmo2QWVCVGI4NUlfR2cxckZJSG5DWW1Ha0RkajVEVjJDRUEwR0w2NFowQkx0R2l4WHZPRWZ0SFVlb3FVQ1R0SmJQcUVEcmRZRjZfaklMd0ZqaE5qazNQM2NaX0otQmRzdTc4RU9jTGpXYWJBZkgyNV9hMzJFWHR5aFBGWmVzNUVYM2dibmhQLWU1TUMyeDlhWF9YUG9Ha0g4YjLSAa4BQVVfeXFMUEVhYUUxTDlFdzB2cy1Ec18yb01SaFlJQ1AyN2dIcVdwVTRHS3BGQkNBTTFuakxoUDhHRndLTEIwLWpKOExYVm9MakNBakVyY3hEMFplcTRIQkl2Tk42NGdJS0hvMlk4b29meUF2amJTdEVwTXB5dkZQU2J1SF9jYkRoUXVmQWpnOWhnRzUwNEU4VXBNMHhpTzlBdXFESnI2NUlMTFN0YUZoandyNmRR?oc=5\" target=\"_blank\">Meta, Google under attack as court cases bypass 30-year-old legal shield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-04-03T12:30:01+00:00",
-      "source": "CNBC"
+      "title": "Google, Microsoft, Amazon and Meta have a 'American datacentre problem' as the number of States opposing - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQVHdneGpsTGxudG14TFBIQllxWTk2dmxuNjF5ZGlYanBYZl9RaWJHN19HQVRoN1Axb0ZzbXFRSkZjX2xlbi0tU2V5dlgwallQaDZzN1BEZnNuTjVTNERNQ3VqdXNSZVNVVnlES0xEbjVOMEtDOFZ4QlJkNFRXQVhxdFFPWElRbFdPemxkOGhCclUwenE1TThjaHFLY0FUcnZEcDBvTmZzWnd4cEhlYzFEelBlaU9UVVRVeEFiSXhEU2R3RUdNRXdHeDg3eWpTNGQyT2w3bkpjdWdzWnAxZzZUUHh2MV80UktrcDdRbVBwVEhHcVQ0VlZ5OENrNGNCS054ZUdYYkRod01rWlRneThJYmwzeFlJUlNfb05sc2hLYnJJY2JIS2JoVjdfTVBOY0F0X2JucHp4cTJEQ1HSAcACQVVfeXFMUENMMnIweGozTEo5ZjdUVU1YYzVBcmhrTWYyaGJ3V3kydm1CUjBtRG9RM095aGtXSW91MU1Ub09JSFNteGR3WjZZLXhyWHdIc2gxS3JFR0dBZTkxMDBLb3B3MlBtX205eTBwT2diOGNYVXdhQmZkNEVOOWlhX0RpdjBkRVRrX2s4aGJ1Y2hqLWtxVlo5eGctUDZCSXdwa3pTOVpCS1BYSW5qcWlfc0VMemdyTFpDd1pPUXExTTVHSlY3cGg2YWZnNmpmV25LMmg0amZJOUhsUTNwcVpyNnd6bFQ3LWpFQmJIYXlTVlBWU2htSlhZME9IVnJPY1RmVml6bndiSEJERVl3UDZkZV9VVm5rbG5NeDd2UUVRcHVKMXJkWU1nSlVRSTlPeVdyU0NPZzFrdkVQZDhRMjBtTTNIay0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxQVHdneGpsTGxudG14TFBIQllxWTk2dmxuNjF5ZGlYanBYZl9RaWJHN19HQVRoN1Axb0ZzbXFRSkZjX2xlbi0tU2V5dlgwallQaDZzN1BEZnNuTjVTNERNQ3VqdXNSZVNVVnlES0xEbjVOMEtDOFZ4QlJkNFRXQVhxdFFPWElRbFdPemxkOGhCclUwenE1TThjaHFLY0FUcnZEcDBvTmZzWnd4cEhlYzFEelBlaU9UVVRVeEFiSXhEU2R3RUdNRXdHeDg3eWpTNGQyT2w3bkpjdWdzWnAxZzZUUHh2MV80UktrcDdRbVBwVEhHcVQ0VlZ5OENrNGNCS054ZUdYYkRod01rWlRneThJYmwzeFlJUlNfb05sc2hLYnJJY2JIS2JoVjdfTVBOY0F0X2JucHp4cTJEQ1HSAcACQVVfeXFMUENMMnIweGozTEo5ZjdUVU1YYzVBcmhrTWYyaGJ3V3kydm1CUjBtRG9RM095aGtXSW91MU1Ub09JSFNteGR3WjZZLXhyWHdIc2gxS3JFR0dBZTkxMDBLb3B3MlBtX205eTBwT2diOGNYVXdhQmZkNEVOOWlhX0RpdjBkRVRrX2s4aGJ1Y2hqLWtxVlo5eGctUDZCSXdwa3pTOVpCS1BYSW5qcWlfc0VMemdyTFpDd1pPUXExTTVHSlY3cGg2YWZnNmpmV25LMmg0amZJOUhsUTNwcVpyNnd6bFQ3LWpFQmJIYXlTVlBWU2htSlhZME9IVnJPY1RmVml6bndiSEJERVl3UDZkZV9VVm5rbG5NeDd2UUVRcHVKMXJkWU1nSlVRSTlPeVdyU0NPZzFrdkVQZDhRMjBtTTNIay0?oc=5\" target=\"_blank\">Google, Microsoft, Amazon and Meta have a 'American datacentre problem' as the number of States opposing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-04-05T13:37:00+00:00",
+      "source": "The Times of India"
     },
     {
-      "title": "Meta CTO Andrew Bosworth to engineers and college graduates looking to join technology industry: You just - timesofindia.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ3Fmal9xOXBPN0J0UktWNDVlU2U5YnUxU0RyamNmOHNpZnNWbjZkeExNQ21VMGRzY29wTVd2Zml3dnRYcU9CNGVERjFtemF6SWRYXy1jMG5RVmZzQjJmVG1DaGVZejBId0l3ZXZfNHZUenZUWl9mMEY4VmpBak8tbGpaQTBvTm5ZSkM5WjB2YXZiYmFiRVU4QTU1YXhlNlluZ2xKc0RoU09Sa1Atd2ZrU01FYXU3OVZ1enFURGxJSlotckM4QzJtZWxORXpOa2JqSUhLNXZ6ejBPZElxVWE0d2pnRWE4Yy1fRUVCWUduaGxpcGxnQk9DRjFKb1A4ZG1DN21lRDAzamhNbVhW0gGSAkFVX3lxTE9GX1l6dkcwTjhWQmlLaHV1bUk0QmhraEJGdzdFUGtWTFE0ZTMyZzVQWWRzNXNrdVZScWZYTVd4NzFMcjJKYkNKTG1XQTE2WDdTOFdYVnY4cm9iTEFLeW9kZk95SERldmxNal9HbmduSkpWZnRjbk5aT1FNVk13RE5TVHBIT2ZEQ2hBUlJ0MEpwRmtrS0lzemttTkJkS2h6UGdrOGVFLUpxbHkzcUs1LUU1M0laSjBlMlhfZ1FDQ1RXYlh0V25HWlhOVno3SXY5bGJqS0VLbG5XTGdacW1sYmU4bkZiTlhCaVVScmlUNEM2UU1WMjRKR0ctSnJFenlZVWlCVF9xcFZ2aDRPWVZURlpVSWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ3Fmal9xOXBPN0J0UktWNDVlU2U5YnUxU0RyamNmOHNpZnNWbjZkeExNQ21VMGRzY29wTVd2Zml3dnRYcU9CNGVERjFtemF6SWRYXy1jMG5RVmZzQjJmVG1DaGVZejBId0l3ZXZfNHZUenZUWl9mMEY4VmpBak8tbGpaQTBvTm5ZSkM5WjB2YXZiYmFiRVU4QTU1YXhlNlluZ2xKc0RoU09Sa1Atd2ZrU01FYXU3OVZ1enFURGxJSlotckM4QzJtZWxORXpOa2JqSUhLNXZ6ejBPZElxVWE0d2pnRWE4Yy1fRUVCWUduaGxpcGxnQk9DRjFKb1A4ZG1DN21lRDAzamhNbVhW0gGSAkFVX3lxTE9GX1l6dkcwTjhWQmlLaHV1bUk0QmhraEJGdzdFUGtWTFE0ZTMyZzVQWWRzNXNrdVZScWZYTVd4NzFMcjJKYkNKTG1XQTE2WDdTOFdYVnY4cm9iTEFLeW9kZk95SERldmxNal9HbmduSkpWZnRjbk5aT1FNVk13RE5TVHBIT2ZEQ2hBUlJ0MEpwRmtrS0lzemttTkJkS2h6UGdrOGVFLUpxbHkzcUs1LUU1M0laSjBlMlhfZ1FDQ1RXYlh0V25HWlhOVno3SXY5bGJqS0VLbG5XTGdacW1sYmU4bkZiTlhCaVVScmlUNEM2UU1WMjRKR0ctSnJFenlZVWlCVF9xcFZ2aDRPWVZURlpVSWc?oc=5\" target=\"_blank\">Meta CTO Andrew Bosworth to engineers and college graduates looking to join technology industry: You just</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">timesofindia.indiatimes.com</font>",
-      "published": "2026-04-04T17:42:00+00:00",
-      "source": "timesofindia.indiatimes.com"
+      "title": "Meta-backed data centre seeks $3bn for campus with novel financing - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWxHR1RCQ2FoRjE0T2ZseTA3WEdvdlpYSDY1enh3Q25PaXdxOURvTDJ5ZERZNzg4d2daQ040X1dLRk9sdEozS1RTN0xDQlRiUUpIWmVTbDVrUGhEMXZheFFEdDNZUkdfTEZMeUFPUHg2R2hZRUhqZ0kxVmRzYmJ1R0NVLTE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWxHR1RCQ2FoRjE0T2ZseTA3WEdvdlpYSDY1enh3Q25PaXdxOURvTDJ5ZERZNzg4d2daQ040X1dLRk9sdEozS1RTN0xDQlRiUUpIWmVTbDVrUGhEMXZheFFEdDNZUkdfTEZMeUFPUHg2R2hZRUhqZ0kxVmRzYmJ1R0NVLTE?oc=5\" target=\"_blank\">Meta-backed data centre seeks $3bn for campus with novel financing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-04-03T21:14:25+00:00",
+      "source": "Financial Times"
     },
     {
-      "title": "What Is Meta Doing on Fifth Avenue? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUZPY0hNc0FFUWFKb3FsSTJYRjlJcjlTMFhRbzBHdmNaZWVaNWo4bk9NX0xoVzhVQ0NaU3ZQMTh3bzFlbG9CZ2NuaThQaFQ3UUxMcmlTVDBGaFRJNDN1VUVVUkloQW16U3l3aGdYdDBUY2dwQkppSTMtRDZoMkJwVEd2WQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUZPY0hNc0FFUWFKb3FsSTJYRjlJcjlTMFhRbzBHdmNaZWVaNWo4bk9NX0xoVzhVQ0NaU3ZQMTh3bzFlbG9CZ2NuaThQaFQ3UUxMcmlTVDBGaFRJNDN1VUVVUkloQW16U3l3aGdYdDBUY2dwQkppSTMtRDZoMkJwVEd2WQ?oc=5\" target=\"_blank\">What Is Meta Doing on Fifth Avenue?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-04-03T12:16:03+00:00",
-      "source": "The New York Times"
+      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGlMeTN2cE80dkVVNWIzM1pUdmRKNVpCbDZLZHVWVkVsaWp0NnpBSl82MHpyMEFuU09VV1R6OTc2QWpyek1CSWR0MUVDLTFUNkRRWWhDbjJQRGFmTEFuRHU5MFo2NG83cjlwenRmNEh1Y1JBLTRLZ1F4bm5DUnk4TFpWN2JPaGswQ2ZFd1pwRjgwU3JsaDkybTc4V3BtRVJEUUxKc1dJajFWWVoz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGlMeTN2cE80dkVVNWIzM1pUdmRKNVpCbDZLZHVWVkVsaWp0NnpBSl82MHpyMEFuU09VV1R6OTc2QWpyek1CSWR0MUVDLTFUNkRRWWhDbjJQRGFmTEFuRHU5MFo2NG83cjlwenRmNEh1Y1JBLTRLZ1F4bm5DUnk4TFpWN2JPaGswQ2ZFd1pwRjgwU3JsaDkybTc4V3BtRVJEUUxKc1dJajFWWVoz?oc=5\" target=\"_blank\">Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-04-03T21:28:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Meta paused its work with AI training startup Mercor after a data breach - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0hTTEY1YXRoUnVWeWFWeVpQQnRKY1o1Tldxd3R2RVpqTmFycDM0V1pRNU5ZNHlLNU1oWWkzU0QwMl9zWjVSRk1OQm5COTFLZVR6QWdLVnJFZ2xOTDBxOTlCdHZYUFQzS3ZtYTBSYmtDX3FFcXN3a1NpRVg2MkxXQ3Fva04xRTMxakpCQmkxaGszV292YkY5S1A2WjYzUl9jMFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0hTTEY1YXRoUnVWeWFWeVpQQnRKY1o1Tldxd3R2RVpqTmFycDM0V1pRNU5ZNHlLNU1oWWkzU0QwMl9zWjVSRk1OQm5COTFLZVR6QWdLVnJFZ2xOTDBxOTlCdHZYUFQzS3ZtYTBSYmtDX3FFcXN3a1NpRVg2MkxXQ3Fva04xRTMxakpCQmkxaGszV292YkY5S1A2WjYzUl9jMFE?oc=5\" target=\"_blank\">Meta paused its work with AI training startup Mercor after a data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-04-04T04:26:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Meta freezes AI data work after breach puts training secrets at risk - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsb3o5OElrUjBJWTBhelZZYXBzak1VV3pFNEVhWGZjOWpzajBVV1R4UXl0Ukh5UldfLVJ5RDBqYTlMbGhYbjM0a0t4SkdoOTBzTTVwdHVYSDVkbFBzQm16TXRzeVZzTzE3ZkhTNXFpbXlGeHFaSzJRSkw1Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBsb3o5OElrUjBJWTBhelZZYXBzak1VV3pFNEVhWGZjOWpzajBVV1R4UXl0Ukh5UldfLVJ5RDBqYTlMbGhYbjM0a0t4SkdoOTBzTTVwdHVYSDVkbFBzQm16TXRzeVZzTzE3ZkhTNXFpbXlGeHFaSzJRSkw1Yw?oc=5\" target=\"_blank\">Meta freezes AI data work after breach puts training secrets at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Web</font>",
+      "published": "2026-04-04T18:31:00+00:00",
+      "source": "The Next Web"
     }
   ],
   "product_launches": [
     {
-      "title": "Meta Smart Glasses Launch To Reportedly Target Prescription Wearers 03/31/2026 - mediapost.com",
+      "title": "Meta Reportedly Launching Prescription-Focused Smart Glasses This Week - UploadVR",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUcwMkxPVXB6eHRTWkxMV09VM1NvVlh3M3ZqWE8zX3FqdmNaMnRnb21NY3F6NkZBZ0E4U3oyQVRyVElWUTBQUTlReGVrZkFoYXJSQTVrWmxSZTZvb2kyaWNNQUowRWQzS01ZR0NRTkdaN2JyTS1TdjFFckdHZm1KeTFPT01PTjNDRzdiNWc5UmxYWmp0SXA3ZUFxVzY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUcwMkxPVXB6eHRTWkxMV09VM1NvVlh3M3ZqWE8zX3FqdmNaMnRnb21NY3F6NkZBZ0E4U3oyQVRyVElWUTBQUTlReGVrZkFoYXJSQTVrWmxSZTZvb2kyaWNNQUowRWQzS01ZR0NRTkdaN2JyTS1TdjFFckdHZm1KeTFPT01PTjNDRzdiNWc5UmxYWmp0SXA3ZUFxVzY?oc=5\" target=\"_blank\">Meta Reportedly Launching Prescription-Focused Smart Glasses This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
+      "published": "2026-03-30T15:22:24+00:00",
+      "source": "UploadVR"
+    },
+    {
+      "title": "Meta Smart Glasses Launch To Reportedly Target Prescription Wearers 03/31/2026 - MediaPost",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXI5cThIRmdLNnAwckFIa1AySW5EaUlFQ28zUjAzb2ptLXI4ZkNzX3I3d3NmVll0MzFoazd6bDdSVm5sVUVnOHcyZGwtSktpM0U5NEdOb2JMamVrbzJpNGJGSDIyWVI1T2Z4TmUyZkF5bUFBZXoybThnNGNoOUxHMHlUVUktNG9tdlVLNXdpMk9QY0lUUEdsX1MyZTQ3elQ3REFMcHNWVGs5SEI3YXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXI5cThIRmdLNnAwckFIa1AySW5EaUlFQ28zUjAzb2ptLXI4ZkNzX3I3d3NmVll0MzFoazd6bDdSVm5sVUVnOHcyZGwtSktpM0U5NEdOb2JMamVrbzJpNGJGSDIyWVI1T2Z4TmUyZkF5bUFBZXoybThnNGNoOUxHMHlUVUktNG9tdlVLNXdpMk9QY0lUUEdsX1MyZTQ3elQ3REFMcHNWVGs5SEI3YXc?oc=5\" target=\"_blank\">Meta Smart Glasses Launch To Reportedly Target Prescription Wearers 03/31/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mediapost.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXI5cThIRmdLNnAwckFIa1AySW5EaUlFQ28zUjAzb2ptLXI4ZkNzX3I3d3NmVll0MzFoazd6bDdSVm5sVUVnOHcyZGwtSktpM0U5NEdOb2JMamVrbzJpNGJGSDIyWVI1T2Z4TmUyZkF5bUFBZXoybThnNGNoOUxHMHlUVUktNG9tdlVLNXdpMk9QY0lUUEdsX1MyZTQ3elQ3REFMcHNWVGs5SEI3YXc?oc=5\" target=\"_blank\">Meta Smart Glasses Launch To Reportedly Target Prescription Wearers 03/31/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
       "published": "2026-03-30T22:47:33+00:00",
-      "source": "mediapost.com"
+      "source": "MediaPost"
+    },
+    {
+      "title": "Meta's next AI glasses are reportedly designed with prescription lenses in mind - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNE92ZVFYVjlVSUZlZm1kYzZQSkY0T094cUFibERGMkJKVGQ4ekNYSG9mM0djZzQ1dkd6cEVMdF9VaUxrMFcwWXVuNFU3dnRqdmxJUWpDUVYwNS1fRlR4eVVBa2FINXFSVHZnaXNsTmRYTV9uTkZwejhhUmdlanFzdm1aY21MM01xXzBzR2hnWnZrZTQtczlCMnF1aWVNX2VVR0lraTJTclI3R281MndOMUEtX0hCLU1PN0hBQTNGeW43ODN4TmNz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNE92ZVFYVjlVSUZlZm1kYzZQSkY0T094cUFibERGMkJKVGQ4ekNYSG9mM0djZzQ1dkd6cEVMdF9VaUxrMFcwWXVuNFU3dnRqdmxJUWpDUVYwNS1fRlR4eVVBa2FINXFSVHZnaXNsTmRYTV9uTkZwejhhUmdlanFzdm1aY21MM01xXzBzR2hnWnZrZTQtczlCMnF1aWVNX2VVR0lraTJTclI3R281MndOMUEtX0hCLU1PN0hBQTNGeW43ODN4TmNz?oc=5\" target=\"_blank\">Meta's next AI glasses are reportedly designed with prescription lenses in mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-03-28T07:00:00+00:00",
+      "source": "Engadget"
     },
     {
       "title": "Exclusive: Zuckerberg launches Meta Small Business - Axios",
@@ -77,25 +91,11 @@
       "source": "Axios"
     },
     {
-      "title": "Meta is officially shutting down its $80,000,000,000 product just five years after launch - UNILAD Tech",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLS1nRU5rT21SNVJWekpsWlRkbUJXYmt0WGdBVHlUQUVDNjJsU1k5aUtXWHZyNjIyZXNLdE9hQXhLVFpDWnRsUUd2RUVwVjd0aXR2b1I0emhWQTBTVzBpM0xDMUVxdjM4aGFSczE2VUl1MUhfdlVJNGxKYmJYaHhteE93RUE4VjZGUUtjLWV4b1F0dFM1d3d3d0NWTTJMV0FJVFlfbFhTQ08tVk9jVUhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOLS1nRU5rT21SNVJWekpsWlRkbUJXYmt0WGdBVHlUQUVDNjJsU1k5aUtXWHZyNjIyZXNLdE9hQXhLVFpDWnRsUUd2RUVwVjd0aXR2b1I0emhWQTBTVzBpM0xDMUVxdjM4aGFSczE2VUl1MUhfdlVJNGxKYmJYaHhteE93RUE4VjZGUUtjLWV4b1F0dFM1d3d3d0NWTTJMV0FJVFlfbFhTQ08tVk9jVUhR?oc=5\" target=\"_blank\">Meta is officially shutting down its $80,000,000,000 product just five years after launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNILAD Tech</font>",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": "UNILAD Tech"
-    },
-    {
       "title": "Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More - meta.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWxfRkpiNlloV1ZZWFZ3QVJYZVlrSDhvRjRON0ZNQ1QzTlo5SXBObklpalZERWhyYVhFRy04T3lEbHpzR2NoeDhFSWFtVVRucTlLbFFyRWFiOEFhMmxzRVpBcTJRR05aTnhLTmQ5VUFCem1aVldPNnNOWHFCVlJ3V0cta1ZjQXFGSi0zQ2YtaDA4bGFUOEtabWF4Ync3cEJhU0NjRnV2WlNYdWU3YjVzZ2tmREZfeUJQQjNNYXN4SXA2TjVKc3JRelZIblRBU2s?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWxfRkpiNlloV1ZZWFZ3QVJYZVlrSDhvRjRON0ZNQ1QzTlo5SXBObklpalZERWhyYVhFRy04T3lEbHpzR2NoeDhFSWFtVVRucTlLbFFyRWFiOEFhMmxzRVpBcTJRR05aTnhLTmQ5VUFCem1aVldPNnNOWHFCVlJ3V0cta1ZjQXFGSi0zQ2YtaDA4bGFUOEtabWF4Ync3cEJhU0NjRnV2WlNYdWU3YjVzZ2tmREZfeUJQQjNNYXN4SXA2TjVKc3JRelZIblRBU2s?oc=5\" target=\"_blank\">Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
       "published": "2026-01-06T08:00:00+00:00",
       "source": "meta.com"
-    },
-    {
-      "title": "Meta's next AI glasses are reportedly designed with prescription lenses in mind - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNE92ZVFYVjlVSUZlZm1kYzZQSkY0T094cUFibERGMkJKVGQ4ekNYSG9mM0djZzQ1dkd6cEVMdF9VaUxrMFcwWXVuNFU3dnRqdmxJUWpDUVYwNS1fRlR4eVVBa2FINXFSVHZnaXNsTmRYTV9uTkZwejhhUmdlanFzdm1aY21MM01xXzBzR2hnWnZrZTQtczlCMnF1aWVNX2VVR0lraTJTclI3R281MndOMUEtX0hCLU1PN0hBQTNGeW43ODN4TmNz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNE92ZVFYVjlVSUZlZm1kYzZQSkY0T094cUFibERGMkJKVGQ4ekNYSG9mM0djZzQ1dkd6cEVMdF9VaUxrMFcwWXVuNFU3dnRqdmxJUWpDUVYwNS1fRlR4eVVBa2FINXFSVHZnaXNsTmRYTV9uTkZwejhhUmdlanFzdm1aY21MM01xXzBzR2hnWnZrZTQtczlCMnF1aWVNX2VVR0lraTJTclI3R281MndOMUEtX0hCLU1PN0hBQTNGeW43ODN4TmNz?oc=5\" target=\"_blank\">Meta's next AI glasses are reportedly designed with prescription lenses in mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2026-03-28T16:27:30+00:00",
-      "source": "Engadget"
     }
   ],
   "stock": {
