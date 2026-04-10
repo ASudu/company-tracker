@@ -2,49 +2,21 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-04-09T13:00:09.870543+00:00",
+  "fetched_at": "2026-04-10T12:45:38.007758+00:00",
   "news": [
     {
-      "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkYyRDRYbHJ1c05XZXFFSnl4RUl5cWJqblZuTUlVaXRsVXUzN044MXNyMG95OGVaSEdtWmhCNXNHZE81clhHcFZfakJVMElZRjd2VnRWRXFpeGNNR3RZVXBCQk1LczRDSmRERmlVTDVTbmpFdkZVSUJiLVM5UlRqek5YQ2ZGSm1ZWmxsWnZfVkpyNS1YUEtQOGxwM0huQmZNMW5wSTRVUHZ2Y1JTaWNJZHVXSnRqQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkYyRDRYbHJ1c05XZXFFSnl4RUl5cWJqblZuTUlVaXRsVXUzN044MXNyMG95OGVaSEdtWmhCNXNHZE81clhHcFZfakJVMElZRjd2VnRWRXFpeGNNR3RZVXBCQk1LczRDSmRERmlVTDVTbmpFdkZVSUJiLVM5UlRqek5YQ2ZGSm1ZWmxsWnZfVkpyNS1YUEtQOGxwM0huQmZNMW5wSTRVUHZ2Y1JTaWNJZHVXSnRqQQ?oc=5\" target=\"_blank\">WireGuard VPN developer can’t ship software updates after Microsoft locks account</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-04-08T21:50:41+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft Mysteriously Freezes Accounts for VeraCrypt, WireGuard, Windscribe - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWFYc3ZkSkhobzJQQWNPVEVYSzgwSTl6RWJ6ZjZrQk9uNkd0dTBiUUl5ZUQ1aFN0NlloQ1M4SFdUZ0l0LXFZYnVtMHJRV0J3VHdPMlVrREtJVzdZRjFuN01LamRjdHFHNzNWRTl3NGdxcmFnNlFPYU1DUFRzUGFJZ2dDcmV1elRQY0NtcV9sSEhlVVc3V3FoRmxCQ1BVZGVncFAw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWFYc3ZkSkhobzJQQWNPVEVYSzgwSTl6RWJ6ZjZrQk9uNkd0dTBiUUl5ZUQ1aFN0NlloQ1M4SFdUZ0l0LXFZYnVtMHJRV0J3VHdPMlVrREtJVzdZRjFuN01LamRjdHFHNzNWRTl3NGdxcmFnNlFPYU1DUFRzUGFJZ2dDcmV1elRQY0NtcV9sSEhlVVc3V3FoRmxCQ1BVZGVncFAw?oc=5\" target=\"_blank\">Microsoft Mysteriously Freezes Accounts for VeraCrypt, WireGuard, Windscribe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-04-08T20:56:51+00:00",
-      "source": "PCMag"
-    },
-    {
-      "title": "Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates - 404 Media",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVIzT3A0NDlRZ1p5VjdqSTFZeVk3bDNDNUNCYUw3UHJzRUtDOTFoMi12RlRFdnlvZlNiZ2JnQjBEcGRKaEU3VnBfTGFuWEk3Rk5NbnUtQ1ZFeGR0ZzI4UDI1SVdUbUFzbi04RGNlTVRkSzJYLW5FeU1QczRSZi1nVFJsX2JwdTZDS244aFd5SzdTMnQtVHFvZUVpckU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVIzT3A0NDlRZ1p5VjdqSTFZeVk3bDNDNUNCYUw3UHJzRUtDOTFoMi12RlRFdnlvZlNiZ2JnQjBEcGRKaEU3VnBfTGFuWEk3Rk5NbnUtQ1ZFeGR0ZzI4UDI1SVdUbUFzbi04RGNlTVRkSzJYLW5FeU1QczRSZi1nVFJsX2JwdTZDS244aFd5SzdTMnQtVHFvZUVpckU?oc=5\" target=\"_blank\">Microsoft Abruptly Terminates VeraCrypt Account, Halting Windows Updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">404 Media</font>",
-      "published": "2026-04-08T17:03:57+00:00",
-      "source": "404 Media"
-    },
-    {
-      "title": "Microsoft’s executive shake-up continues as developer division chief resigns - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazhhV19ZbHRBZVhrSU9STWpKNjVIc19zaDdIeGlTS3RLQVJHejhxNmdpS0p5WnFZZF9HTm1abk9ZcnJDeEJqb2kzU3Z2SnNUSGhJMjNGTTg1cmFMTktlV0dpb25jQmtkSzZqQ0NfT3huNTRYWXM4YzNJeWIyalNqcV9sT3E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNazhhV19ZbHRBZVhrSU9STWpKNjVIc19zaDdIeGlTS3RLQVJHejhxNmdpS0p5WnFZZF9HTm1abk9ZcnJDeEJqb2kzU3Z2SnNUSGhJMjNGTTg1cmFMTktlV0dpb25jQmtkSzZqQ0NfT3huNTRYWXM4YzNJeWIyalNqcV9sT3E?oc=5\" target=\"_blank\">Microsoft’s executive shake-up continues as developer division chief resigns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-04-08T16:56:43+00:00",
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEd3R2otbXRQUVVHUFBnOXhqWFh0UG14YXFxbHZMb1h6SXYwcjJRazNQRHVCNHh0clU2RVphOE9mRlVEVEtPd0plSWpYREJ5blpHZVA2RVo0ZWg1YlEyblZ1am8tOTlTb2lYMEY1bk5WQ1c5bEQ5dkdSV2Z1UXdYQlFjMzgxaE1kVnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEd3R2otbXRQUVVHUFBnOXhqWFh0UG14YXFxbHZMb1h6SXYwcjJRazNQRHVCNHh0clU2RVphOE9mRlVEVEtPd0plSWpYREJ5blpHZVA2RVo0ZWg1YlEyblZ1am8tOTlTb2lYMEY1bk5WQ1c5bEQ5dkdSV2Z1UXdYQlFjMzgxaE1kVnc?oc=5\" target=\"_blank\">Microsoft starts removing Copilot buttons from Windows 11 apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-04-10T09:22:06+00:00",
       "source": "The Verge"
     },
     {
-      "title": "Microsoft & Oracle have a 'tremendous opportunity' in the AI boom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1NvSmR2RV96M2hWcnFNd0VUSkVNSzZrelBlTkc5TmRENmYwc0VYX1hJcTZXMnVZVDhKX09wbzNMcDlHNTZXa2xVRnpsc1dueEdCdldpZlFzaWZ4WmNyNzdxUEVGdzFuQ01BeFd6cnpSaDROeWIxalgwY3lwY0FXWldZU0VMY3dod25CUGNjbXdsVVpaS1VxSDRMVElpNTdYWVBDVFBoVkF0S3Z6RGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1NvSmR2RV96M2hWcnFNd0VUSkVNSzZrelBlTkc5TmRENmYwc0VYX1hJcTZXMnVZVDhKX09wbzNMcDlHNTZXa2xVRnpsc1dueEdCdldpZlFzaWZ4WmNyNzdxUEVGdzFuQ01BeFd6cnpSaDROeWIxalgwY3lwY0FXWldZU0VMY3dod25CUGNjbXdsVVpaS1VxSDRMVElpNTdYWVBDVFBoVkF0S3Z6RGc?oc=5\" target=\"_blank\">Microsoft & Oracle have a 'tremendous opportunity' in the AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-09T11:00:17+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Microsoft Now Forces Windows Upgrade On Millions Of PCs - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlJQRDI1TzJjX1NJdWxaMWhwQUNyYlh1U3g1R0NkVzhrdUV2THRFZ3RVQy1aNG5hZTJNNjNyaUdOdHVoTVNSdTZxVEhlQUhHNGJPZi1faTRmejNxZTR1TkJsdEdkOHc0NVNqLXg0RE40ZEFVUHZfVExtaVBvV2Voc0M4Q3owR2lGSW5UMmlfM29aazQwZGMteGV3R0Nad013TjF6dEk1MGpzcWs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlJQRDI1TzJjX1NJdWxaMWhwQUNyYlh1U3g1R0NkVzhrdUV2THRFZ3RVQy1aNG5hZTJNNjNyaUdOdHVoTVNSdTZxVEhlQUhHNGJPZi1faTRmejNxZTR1TkJsdEdkOHc0NVNqLXg0RE40ZEFVUHZfVExtaVBvV2Voc0M4Q3owR2lGSW5UMmlfM29aazQwZGMteGV3R0Nad013TjF6dEk1MGpzcWs?oc=5\" target=\"_blank\">Microsoft Now Forces Windows Upgrade On Millions Of PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-04-07T21:33:45+00:00",
-      "source": "Forbes"
+      "title": "Microsoft begins removing Copilot from Windows 11, starting with Notepad, Snipping Tool, but not entirely - Windows Latest",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDhoc0pXUV9mb3Bkak1TV3A5NzFDX1hsVGRZVm1qa2FwZTNMMVZ3Qng1SVBkS21zbjRabkYyWExZcmNrX1lJSXN5ZlZYQlFmMFQtWWFhSEdMLUtYWllCMWxJaWs5QTZ1SnpOTzNHZ194bFJEcmZ4QTZlTFRmTTZEMWlvam9rQ2xJWmNHMGF3SmRSajlRN1c4SUxWQS1LbXcxT3Z2S2NNM3lTOThZMTl6TTZSWHhjS1lsNlpNWUMxTExZMGdhVHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDhoc0pXUV9mb3Bkak1TV3A5NzFDX1hsVGRZVm1qa2FwZTNMMVZ3Qng1SVBkS21zbjRabkYyWExZcmNrX1lJSXN5ZlZYQlFmMFQtWWFhSEdMLUtYWllCMWxJaWs5QTZ1SnpOTzNHZ194bFJEcmZ4QTZlTFRmTTZEMWlvam9rQ2xJWmNHMGF3SmRSajlRN1c4SUxWQS1LbXcxT3Z2S2NNM3lTOThZMTl6TTZSWHhjS1lsNlpNWUMxTExZMGdhVHc?oc=5\" target=\"_blank\">Microsoft begins removing Copilot from Windows 11, starting with Notepad, Snipping Tool, but not entirely</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
+      "published": "2026-04-09T14:36:22+00:00",
+      "source": "Windows Latest"
     },
     {
       "title": "Is Your Windows 11 Start Menu Search Broken? Microsoft Is Rolling Out a Fix - PCMag",
@@ -54,34 +26,55 @@
       "source": "PCMag"
     },
     {
-      "title": "Why Microsoft’s war on Windows’ Control Panel is taking so long - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2ltTjRvYUZ2Nm5rVFFPREppckJQNmhmMlFMSU5NVHlXRUx6clA1QWRjZ2oxakJiVXNiSHJSUU1WN2VXaTUwR1owZDZBR3pqQkYwWjVYOWtPWmNvUXZSY1lpZmRITkNIeGZVNFFtMU1ZYUtmelU0MjhKMkxOOVVLZGUzVXJtdHdVM1AwZ181RzdVUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2ltTjRvYUZ2Nm5rVFFPREppckJQNmhmMlFMSU5NVHlXRUx6clA1QWRjZ2oxakJiVXNiSHJSUU1WN2VXaTUwR1owZDZBR3pqQkYwWjVYOWtPWmNvUXZSY1lpZmRITkNIeGZVNFFtMU1ZYUtmelU0MjhKMkxOOVVLZGUzVXJtdHdVM1AwZ181RzdVUQ?oc=5\" target=\"_blank\">Why Microsoft’s war on Windows’ Control Panel is taking so long</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-04-08T09:23:58+00:00",
-      "source": "The Verge"
+      "title": "Old habits die hard: Microsoft tries to limit our options, this time with AI - blog.mozilla.org",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04TGVfSzhzbUN4TzFuejZhLVYyd0tHT0dSbThoZHM3VTJDNDVoOHA2NVQxWnE2RmZTby1PTmlVbW82MXJ3SFFGRWxqYlZzcWJ0ejZ0a2VBM2JQbGNmNDFWWnFqYjRoSTNWdGdvNE1vQ1lwb09QWGMwRGtfcEs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE04TGVfSzhzbUN4TzFuejZhLVYyd0tHT0dSbThoZHM3VTJDNDVoOHA2NVQxWnE2RmZTby1PTmlVbW82MXJ3SFFGRWxqYlZzcWJ0ejZ0a2VBM2JQbGNmNDFWWnFqYjRoSTNWdGdvNE1vQ1lwb09QWGMwRGtfcEs?oc=5\" target=\"_blank\">Old habits die hard: Microsoft tries to limit our options, this time with AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.mozilla.org</font>",
+      "published": "2026-04-09T17:23:07+00:00",
+      "source": "blog.mozilla.org"
+    },
+    {
+      "title": "Microsoft starts removing unnecessary Copilot buttons in Windows 11 - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0JkZjdMZm9URXV3RHg1OERZSDdKNXE4VWFtcjNHcWpGQkhDWVJQdTVfazY0RDBoTDVxeUsxeDRqVi1yLURXcWpTSmVkUnhfWWgyUndZMDFCU290bW1xOGcyQzdDSmVHUU1BeGtJUWEyMTNUVUU3MlFNUUNJZGV3S0VHb19xOUhTMGZpVW94cw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0JkZjdMZm9URXV3RHg1OERZSDdKNXE4VWFtcjNHcWpGQkhDWVJQdTVfazY0RDBoTDVxeUsxeDRqVi1yLURXcWpTSmVkUnhfWWgyUndZMDFCU290bW1xOGcyQzdDSmVHUU1BeGtJUWEyMTNUVUU3MlFNUUNJZGV3S0VHb19xOUhTMGZpVW94cw?oc=5\" target=\"_blank\">Microsoft starts removing unnecessary Copilot buttons in Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
+      "published": "2026-04-10T12:03:46+00:00",
+      "source": "Yahoo News Canada"
+    },
+    {
+      "title": "‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUZuWG1xNVRERFZ1XzdCYlVJaWVhNHRMLTlZU1JYZmhrWHpQT253MUc1SFFJVUt4dUw0bmVDaE1ZaC1TX09BSjE0MzBjRGtKRzU2bTdBcGlmdm1UcHdJdzd0STZpZFRuQkJ5Y19EMVprUjdyNHg1MUxma2Z2SFozZ2FNSlFpMHN6ZDQ3b29jcFhRdHhRcnZSdkZxeGZFWTBl?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUZuWG1xNVRERFZ1XzdCYlVJaWVhNHRMLTlZU1JYZmhrWHpQT253MUc1SFFJVUt4dUw0bmVDaE1ZaC1TX09BSjE0MzBjRGtKRzU2bTdBcGlmdm1UcHdJdzd0STZpZFRuQkJ5Y19EMVprUjdyNHg1MUxma2Z2SFozZ2FNSlFpMHN6ZDQ3b29jcFhRdHhRcnZSdkZxeGZFWTBl?oc=5\" target=\"_blank\">‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-04-10T06:01:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Microsoft: The Selloff Looks Better Than The Story (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEVyMUE2RXBmbW9EQUNZQmtzal9yY0dsbk4weHZGUG12MlJlanJoVWVkMFI3T3U1NGV0T2FsZWJCYW5wQUNSUkY3UzFBYWlXclZ0MHpMTjFJSXZ4SHFyemlCdzhPUmozaHF2cl9EUG00Q0wxNDQwbVBKeWE5Z1QzOHJFcHVrV295eWNOWWE5VzVNaElQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEVyMUE2RXBmbW9EQUNZQmtzal9yY0dsbk4weHZGUG12MlJlanJoVWVkMFI3T3U1NGV0T2FsZWJCYW5wQUNSUkY3UzFBYWlXclZ0MHpMTjFJSXZ4SHFyemlCdzhPUmozaHF2cl9EUG00Q0wxNDQwbVBKeWE5Z1QzOHJFcHVrV295eWNOWWE5VzVNaElQ?oc=5\" target=\"_blank\">Microsoft: The Selloff Looks Better Than The Story (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUcxUkFrX3lmZGtwdVlsb0RQOVVfVzJlVTVQLTNfS3BWYTZwak9rMHR2WWtaeHNiOXpIYXp3cXlKd0hSMVVDNTFBQ09QaGpmNmtxUGgyTVRDMjhjV0ZvV0Z5eFFOR25IdFpUa0QxZkFEWUlrSUlEYnJFTGE3ZEl1Rnp1X0FMRkE0RlZycENCLXFPcTFUOWhQekhBbVBvSFJwdlQ3ZWEyaEtwM0pHZDl4eC1ERQ?oc=5\" target=\"_blank\">Microsoft Stock (MSFT) Is Down 23% — Is This a Rare Buying Opportunity or a Warning Sign?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSmE0NTQ0VFZlWExreFdjc2tqWDB2VVN6ZXFBa0pvNUU4VFRyRXR6QVV1Yi1kZlhJNXEwa0REbW9lNHl3d0ZWS2sxSmNYTWV0T0UtR2ozTHZLTzJEX3ZLbGN6bGZPOWh3N21Cc2t3Y1p4LWh5Z0FTVjZVeG5uQmJxZ25TRnRoT1dESXpKZGZObVBUeXhSdjdfQk83QmdFNVRGVDczLVJCY0FCM0k?oc=5\" target=\"_blank\">Why Microsoft and Google could be the best Mag 7 stock picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-04-09T14:35:15+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Mysteriously Freezes Accounts for VeraCrypt, WireGuard, Windscribe - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWFYc3ZkSkhobzJQQWNPVEVYSzgwSTl6RWJ6ZjZrQk9uNkd0dTBiUUl5ZUQ1aFN0NlloQ1M4SFdUZ0l0LXFZYnVtMHJRV0J3VHdPMlVrREtJVzdZRjFuN01LamRjdHFHNzNWRTl3NGdxcmFnNlFPYU1DUFRzUGFJZ2dDcmV1elRQY0NtcV9sSEhlVVc3V3FoRmxCQ1BVZGVncFAw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWFYc3ZkSkhobzJQQWNPVEVYSzgwSTl6RWJ6ZjZrQk9uNkd0dTBiUUl5ZUQ1aFN0NlloQ1M4SFdUZ0l0LXFZYnVtMHJRV0J3VHdPMlVrREtJVzdZRjFuN01LamRjdHFHNzNWRTl3NGdxcmFnNlFPYU1DUFRzUGFJZ2dDcmV1elRQY0NtcV9sSEhlVVc3V3FoRmxCQ1BVZGVncFAw?oc=5\" target=\"_blank\">Microsoft Mysteriously Freezes Accounts for VeraCrypt, WireGuard, Windscribe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMEZWVFh3eVgzNXJsU1lBdG5hTlozNmdQMnc1aWtnZmZGZGU0WVhjZ0FuV1ZzWTVwWWc1UFVNNmZvSzY5a1NNU1lSa2diVTVkbVFKT0FUR2FxQmxjS3huVGZTWERfdXU1VU9BT0JnNGVIVnRMWXU3MV9LU0w1UDkzY2Y5TkY?oc=5\" target=\"_blank\">Reflecting On Microsoft Windows Vista In 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hackaday</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxORi16aTZ4MGIyNnlZaDI2Z25mN1ktdWdoZ0RxdklmOUYzVG1GaEpqVlNpcEwwTWxJdTBaYlRlcVBVSDM3azdRbm1VeW5HSy1YY1NzVTRMdmlMeG41SjJWTWQwczI3X3RHSFZuUmFDdS0yNzZpM1Z1ZlhtVkhrd1NUQ1pfUEdJVXJPZmc3SndvV3IzOHB3REUteUZvR2JOdw?oc=5\" target=\"_blank\">Microsoft says Windows' Secure Lock screen clock deliberately runs up to 30 seconds behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XDA</font></li></ol>",
+      "published": "2026-04-09T03:19:27+00:00",
+      "source": "PCMag"
     }
   ],
   "product_launches": [
-    {
-      "title": "Shaping AI management at Microsoft with Agent 365 and Copilot controls - Inside Track Blog - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHd2ZE9TU3NWMVZTeDFsVTJsVVctS0hwNVhWZlYxWk5taldlQjdFZTlNUGhmZlJPRHNpd3hhNk53YXFiWUpnOU1OSUloMzdUN3NtSEdSbERVY0NqRlN6WkxQQnk1MDFxXzloczR1clZneE8xbXpJMERyUV9GaEw4WVl6bjd3Sm16UGpvRDBoQkhqLVJlRkVwUVRqUlBqX2JVV25DWi1PWXUtYkloZFc5SW1GMDk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHd2ZE9TU3NWMVZTeDFsVTJsVVctS0hwNVhWZlYxWk5taldlQjdFZTlNUGhmZlJPRHNpd3hhNk53YXFiWUpnOU1OSUloMzdUN3NtSEdSbERVY0NqRlN6WkxQQnk1MDFxXzloczR1clZneE8xbXpJMERyUV9GaEw4WVl6bjd3Sm16UGpvRDBoQkhqLVJlRkVwUVRqUlBqX2JVV25DWi1PWXUtYkloZFc5SW1GMDk?oc=5\" target=\"_blank\">Shaping AI management at Microsoft with Agent 365 and Copilot controls - Inside Track Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2026-03-09T07:00:00+00:00",
-      "source": "Microsoft"
-    },
-    {
-      "title": "OpenAI | ChatGPT, Sam Altman, Microsoft, & History | Britannica Money - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, Microsoft, & History | Britannica Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
-      "published": "2026-04-07T00:05:00+00:00",
-      "source": "Britannica"
-    },
     {
       "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
       "published": "2026-03-30T07:00:00+00:00",
       "source": "The Motley Fool"
+    },
+    {
+      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": "Microsoft"
     },
     {
       "title": "Microsoft 365 explained: Office 365, rebranded and expanded - Computerworld",
@@ -91,25 +84,28 @@
       "source": "Computerworld"
     },
     {
-      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
-      "published": "2026-01-08T08:00:00+00:00",
-      "source": "PayPal Newsroom"
+      "title": "‘Euro-Office’ Launches as Europe’s Sovereign Alternative to Microsoft Office - Morocco World News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkFKMFBWQVhZOGJ3RzZMZ0NCeUVXeXM1SnZsR25kVHdzS0NhVmIxYjYzemR5eG9VODhNcGMyRGZiOC1fbnV1UWg3S3VpZERwS3NaSzJKY0ZZbW93WnZTd3NYem9UNnQwTU03Rk1kUElTZTFfT0Q0SnQxd0EwR1dFUnN6R1hvX0lsUE1wX1hqZUl2U1NrS3VGeml5N0M4ZHh5TGNySFJDbHlxRzRRTnc2OEZCbnRKMjRWSnNNNlR0NA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkFKMFBWQVhZOGJ3RzZMZ0NCeUVXeXM1SnZsR25kVHdzS0NhVmIxYjYzemR5eG9VODhNcGMyRGZiOC1fbnV1UWg3S3VpZERwS3NaSzJKY0ZZbW93WnZTd3NYem9UNnQwTU03Rk1kUElTZTFfT0Q0SnQxd0EwR1dFUnN6R1hvX0lsUE1wX1hqZUl2U1NrS3VGeml5N0M4ZHh5TGNySFJDbHlxRzRRTnc2OEZCbnRKMjRWSnNNNlR0NA?oc=5\" target=\"_blank\">‘Euro-Office’ Launches as Europe’s Sovereign Alternative to Microsoft Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morocco World News</font>",
+      "published": "2026-03-31T20:35:52+00:00",
+      "source": "Morocco World News"
+    },
+    {
+      "title": "Microsoft launches AI tool that competes with Anthropic - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83QThEOUVvR18xV3NOUExSQ0lydnZxYy1WTWEzbWNLN0lRckRWcnE4TzRtbWJ5U0JNZ0xEU09rcW4ycHFpT0NZczNDdnJGY2paTXkzZ3piSTNMa0VLaElvNVVQR1dtaERSbnVNa05aZjJfX0tYQWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83QThEOUVvR18xV3NOUExSQ0lydnZxYy1WTWEzbWNLN0lRckRWcnE4TzRtbWJ5U0JNZ0xEU09rcW4ycHFpT0NZczNDdnJGY2paTXkzZ3piSTNMa0VLaElvNVVQR1dtaERSbnVNa05aZjJfX0tYQWc?oc=5\" target=\"_blank\">Microsoft launches AI tool that competes with Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": "Axios"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-08",
-      "close": 374.3299865722656
+      "date": "2026-04-09",
+      "close": 373.07000732421875
     },
     "history": [
-      {
-        "date": "2026-03-30",
-        "close": 358.9599914550781
-      },
       {
         "date": "2026-03-31",
         "close": 370.1700134277344
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-08",
         "close": 374.3299865722656
+      },
+      {
+        "date": "2026-04-09",
+        "close": 373.07000732421875
       }
     ],
     "name": "Microsoft Corporation"
