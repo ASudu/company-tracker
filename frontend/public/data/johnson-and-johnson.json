@@ -2,72 +2,86 @@
   "name": "Johnson & Johnson",
   "slug": "johnson-and-johnson",
   "ticker": "JNJ",
-  "fetched_at": "2026-04-13T13:01:58.426291+00:00",
+  "fetched_at": "2026-04-14T13:02:44.486539+00:00",
   "news": [
     {
-      "title": "Assessing Johnson & Johnson (JNJ) Valuation After Recent Share Price Strength - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFN3eE5IMkYzdlpHbGd6MzZ6VmlTelFWY0ZRaEhpTHc4YlBpOXkxNHlLLXRCT0ZQQ01EbXY1ZHJ4SXJNMjhmeHpLWG5VQUZ3NFpYSVRKMW0xOVhHbW4yZ2dBUjNNZWoxTFk3OTJRMEtkaERKWDNYRjhMeWw5eHBxZUd1a2EwZnZMd25rQTQtTF9vbmc0R2NxSGVxRDloYlBrRUtubEdFUHdlclJ5b2lyU0ZZblRMTnpITE9SWFl0ZXRfRVd6WElNUUEzemtvNEx0UkVRTnU5OVpZdERuZHAxVHRB0gHnAUFVX3lxTE11bjlGeXRVNTBDbmk0QkdEMlpBQU5LZXBZRi0wX0ZPR1dBb2M3SHZZc1ZCWlo5QVRkWTJDejFjY1NQcFNBbGV3QWN2UWpIcnNVYnd4RjNKR2tsaGxTb3BJd1M0Zm43ZnRrZjBFM1FGa3FPSjZmMXFKRk4yQ0JicllfRXJsaGtRNjZBcUgwS09iTmJ5N05TTEFTTG9rVzhQOW1WS01lWERqeVFfVC10Z1NnX2xpa3RoVTFoSVNrUTZfOUlNREZGbS1seVlQZDg2SlBGcklHSlZCbmlSZVc2a1dkeWE5Rm82dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFN3eE5IMkYzdlpHbGd6MzZ6VmlTelFWY0ZRaEhpTHc4YlBpOXkxNHlLLXRCT0ZQQ01EbXY1ZHJ4SXJNMjhmeHpLWG5VQUZ3NFpYSVRKMW0xOVhHbW4yZ2dBUjNNZWoxTFk3OTJRMEtkaERKWDNYRjhMeWw5eHBxZUd1a2EwZnZMd25rQTQtTF9vbmc0R2NxSGVxRDloYlBrRUtubEdFUHdlclJ5b2lyU0ZZblRMTnpITE9SWFl0ZXRfRVd6WElNUUEzemtvNEx0UkVRTnU5OVpZdERuZHAxVHRB0gHnAUFVX3lxTE11bjlGeXRVNTBDbmk0QkdEMlpBQU5LZXBZRi0wX0ZPR1dBb2M3SHZZc1ZCWlo5QVRkWTJDejFjY1NQcFNBbGV3QWN2UWpIcnNVYnd4RjNKR2tsaGxTb3BJd1M0Zm43ZnRrZjBFM1FGa3FPSjZmMXFKRk4yQ0JicllfRXJsaGtRNjZBcUgwS09iTmJ5N05TTEFTTG9rVzhQOW1WS01lWERqeVFfVC10Z1NnX2xpa3RoVTFoSVNrUTZfOUlNREZGbS1seVlQZDg2SlBGcklHSlZCbmlSZVc2a1dkeWE5Rm82dw?oc=5\" target=\"_blank\">Assessing Johnson & Johnson (JNJ) Valuation After Recent Share Price Strength</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "published": "2026-04-13T12:28:02+00:00",
-      "source": "simplywall.st"
+      "title": "J&J's first-quarter profit beats estimates even as Stelara sales disappoint - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1ZIbkZmYXRhUmxMOWNXOV8tZUxVTThabDJFYjhZOU12cmY3eTBoR3pJMGhwcm9YUEZMN1lLNEhzN3JjRHJUTS1aRGI1R2ttTExYZ19MLW5PMWs3WnpFZE91ZGdNOWhrR0FTa1Jyc3R3d0FqNFNKcXFacHJXYmlKdjI1WdIBiAFBVV95cUxPOHFPRmF3VlAyYVB2U0E4My1tS2luTXV2YWdTekFiVlV3bzdxMHVxZllCdlg5Z0p6UVdzaGxGbEszNE5XMGlCOEJJbHREWk5GUmpCMzIxVTRRQ2Z0TWlmWmF6WHd4RUZqMnh3SndVQ01vR2hPTG9ZeDdjQ1ZnU2ZnMDItVkdwdXlF?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1ZIbkZmYXRhUmxMOWNXOV8tZUxVTThabDJFYjhZOU12cmY3eTBoR3pJMGhwcm9YUEZMN1lLNEhzN3JjRHJUTS1aRGI1R2ttTExYZ19MLW5PMWs3WnpFZE91ZGdNOWhrR0FTa1Jyc3R3d0FqNFNKcXFacHJXYmlKdjI1WdIBiAFBVV95cUxPOHFPRmF3VlAyYVB2U0E4My1tS2luTXV2YWdTekFiVlV3bzdxMHVxZllCdlg5Z0p6UVdzaGxGbEszNE5XMGlCOEJJbHREWk5GUmpCMzIxVTRRQ2Z0TWlmWmF6WHd4RUZqMnh3SndVQ01vR2hPTG9ZeDdjQ1ZnU2ZnMDItVkdwdXlF?oc=5\" target=\"_blank\">J&amp;J's first-quarter profit beats estimates even as Stelara sales disappoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBVTUFvZFVjVzJpT3MxLUtPM0pMbk5RTjROYXZqeUwwU3BlY1puOXk2M0Q1SFpLSFlsaGJKYjBFejdoUUtZSjJTNk5QZ1p2VU1ka1U4dk9Pekl0WkROV0pLTGgyNVV0NDdNX1ExaHpJWnVkc3ZTVF9UOXdR?oc=5\" target=\"_blank\">Johnson & Johnson raises 2026 outlook after strong Q1 earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdzQ2X283SDhaMTFuTmpKNG9sejdIbmRIMVpIQjJ0VDFKRjBYbkJJQkN2bzQxQl9PV3pJTjN1WFo4d0NIdm5ENjU4WE1XZEhQbFA4YW5STmhoaFlCNnhPNldOMnpyaVVJQ2ZKcFBONmpvd01oQjVCV09hU0MxcXQtZjNHcHNiVmwyS0ZNekdTV09MV25uTHhBdk9GQVl2RGxfU3lGVmNGM3M1SnR1MDMzV1lnU05wc0l4VkpNaFhfRWlfdmd2aWhDR3YxaW1IelctVXRscEt4N0dsZw?oc=5\" target=\"_blank\">J&amp;J's first-quarter profit beats estimates even as Stelara sales disappoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXlQOEVrZ0xJekR6WkVLbE9wNFAxN0p1eGg1OHhpUndoWkNGMkhUQ19FVEZ2djJkdHFVcVI5Wkc1UXZsUWluajd1Ny1VS19NUW9XSEhIbjlFcmpneS1UZEVfQmRmMlNhS0tiQ0llcUxZdVFZbnIyRDhNd1hoTnpwelhNRTc0UQ?oc=5\" target=\"_blank\">Johnson & Johnson Q1 preview: What to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlBBb3BibDg4TWxNcG5COU1oSUxPczg1dDlxbnVtWlpwLU90ekl0ZVJlWUQ1Z2l0Y0E1clNnVFFabXQxdUVjLXNZek5rWW9Mb0FHMW5RLWhrSVVyWEVPWG1jVXRNUHZtZ3lJdnBGb0RnbmFBdFVacS00TFFQTzV4cVNDalp3azJFdW5ZaFRPYjd0SjNUekVkQng5RnZvcDhU?oc=5\" target=\"_blank\">J&amp;J raises guidance for 2026 on strong start to the year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNLURfSVNSVkUzQXU2cXVtSThNZXdnV0hUekx3V2pTMHhhTzVoTHZfRUtGUlBVdG9seDcxN0lTTURiY2E0NVpoLWRsd18yNV9Kcy1RWFZsLTR2LXJ2c0wxUl9MbkRpTnlYaUhyTHo3aVpoWlVQRXR1R2g1TEpOUDNod3A0cWlfcnFvSWJ4T1VQaXlhcy01?oc=5\" target=\"_blank\">J&amp;J’s First-Quarter Sales Grow on Cancer-Drug Strength</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOczF1S3N6eTVIV1RjSVRtd1lLS2U0My1uV3NVUWU5dm1NWl9FTV8tSmZyeXZ1RHJkbUtCU21sRjF6NGtOUTU2SnEtMWVfa2k0VFVHUUMtVlhDcEpqNm8zOFprNEw2Q0lkSVZUaHFzNFJJYjVqSmE5dzc1VEZ6MHlpbzFGODlPOFJhSllPcVVBTEVOQjIyQ0ZfNE9ZOU1QLXlTcV9Jd2JweHVqbzNPSEIwWWVQUzRUcFI5OWJaX1hLWUVqWW11a3JRdnMwMWQzNjZtZXlz?oc=5\" target=\"_blank\">Johnson & Johnson: Q1 Earnings Snapshot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kare11.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3NoeG1ZZ0VpTi02VGVyRENMaGN3VTctVk9ZQUY1Q0cwaFZfblljQUpvM1VmN3lNczBUX2xBS3pZQjYzanR2dHFDT001QXBkWVZqeVlQTkZCd2VkZGZPYzhhaFcxdEpKR01OcjMyUE9hVmJPQmlvUGRxTjRVWlpvSEdWSmh4NXlQWS1XTjdoR0hDS2lMWDRZeDlZbDFFb0k?oc=5\" target=\"_blank\">The $100 Billion Pivot: Why Johnson & Johnson Is My Top Dividend King to Buy in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXB2TGtjNjRZNFYwMDJ2Ry1STG1rc3l0SXB6andGeDdSTmp2OE9jdEk0cWJ6RWhUdmQ2VlVjWi1wanM4b21TdHJrYXFFT2g3aWJnQXNMZFZsRGpFN1NIZE9peU9pV243aEJQRWZ3NW1mNEs2d0xJNTBpMVdlNW5QN0tMRnRKanM0WFViNUMzQ2VpbFhkT1RKdm5fQ3NfWVVnTEJxdWhyTEk?oc=5\" target=\"_blank\">Ahead of Q1 Earnings, What Do Analysts Think About Johnson & Johnson Stock (JNJ)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font></li></ol>",
+      "published": "2026-04-14T10:55:34+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Willis Investment Counsel Has $75.62 Million Position in Johnson & Johnson $JNJ - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkFOQ3JLanlfdnQxUTdSa3lLb2RnS1ZpVDVnZUJrYjY0RjgwUmdodS01ZkdLNk1DbWkzQzV3a01HcThmM01zX1VRM3NfbnpnSDZIMHV0akVpc2JiZ2lGS1dDdm12MnREYm1COWVJb05zRkNQZlRvczkwZW5obFFhUjdOY1Q3ZmM0ZWFZNFVYTnZaaHJKVzBtVlAzUDl6b1R4bkpDUjJEb3Q3X1JtZUY4cXlRWDRiQ1piZktvLV9DM05UUEhRMVFRVFZMeXM2UTFj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkFOQ3JLanlfdnQxUTdSa3lLb2RnS1ZpVDVnZUJrYjY0RjgwUmdodS01ZkdLNk1DbWkzQzV3a01HcThmM01zX1VRM3NfbnpnSDZIMHV0akVpc2JiZ2lGS1dDdm12MnREYm1COWVJb05zRkNQZlRvczkwZW5obFFhUjdOY1Q3ZmM0ZWFZNFVYTnZaaHJKVzBtVlAzUDl6b1R4bkpDUjJEb3Q3X1JtZUY4cXlRWDRiQ1piZktvLV9DM05UUEhRMVFRVFZMeXM2UTFj?oc=5\" target=\"_blank\">Willis Investment Counsel Has $75.62 Million Position in Johnson & Johnson $JNJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-      "published": "2026-04-13T11:46:57+00:00",
-      "source": "MarketBeat"
-    },
-    {
-      "title": "Johnson & Johnson Advances Pulsed Field Ablation Portfolio with the Launch of VARIPULSE Pro in Europe - Johnson & Johnson",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlVRmV1Zm9MUjBLbFRTVVNUQ0hnaFZ1MXQ3ZGVJbDR1WEd1NG5iNW91WFU0RkdYVjVHdTFlZ3Z3V1RQZHdFWEVteE96TjNMSDVIdzZUTGVKSXZXRnhVQ0hRM1hES2pqTVRSaVNHN3hUN3lCRWV1R1plWXBUcTBrVjZzaXdWSW9pU1ZzTm9GSVpvbGtubW5uQWxEYkp5bXVENjhJU3hUSUxYeFpyZWhNY2xRVk1aRzhpRHdtOTlnS3NidmIzN3g4eTdWUUFWQUlFckhNTmdSWmFIRFM2anl1Wg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlVRmV1Zm9MUjBLbFRTVVNUQ0hnaFZ1MXQ3ZGVJbDR1WEd1NG5iNW91WFU0RkdYVjVHdTFlZ3Z3V1RQZHdFWEVteE96TjNMSDVIdzZUTGVKSXZXRnhVQ0hRM1hES2pqTVRSaVNHN3hUN3lCRWV1R1plWXBUcTBrVjZzaXdWSW9pU1ZzTm9GSVpvbGtubW5uQWxEYkp5bXVENjhJU3hUSUxYeFpyZWhNY2xRVk1aRzhpRHdtOTlnS3NidmIzN3g4eTdWUUFWQUlFckhNTmdSWmFIRFM2anl1Wg?oc=5\" target=\"_blank\">Johnson & Johnson Advances Pulsed Field Ablation Portfolio with the Launch of VARIPULSE Pro in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Johnson & Johnson</font>",
-      "published": "2026-04-07T12:00:19+00:00",
-      "source": "Johnson & Johnson"
-    },
-    {
-      "title": "Buy Johnson & Johnson Stock Ahead of Earnings, Analyst Says. The Run-Up Isn’t Over. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVBPNWg4b3UtZDdwQkNPQ2NfT2d2S1VJV2I2RTR1V0NuU0FDMGxzVDh5Q1FMS25qdzJyT3dqaVc3SW9QZ1Bhb1d4OHpYbDl4cTVwT01BTzh4cm5uMnZYbFVqUFp3RXFXeWlZWHdqd0ZCOGtOSFhyWkNpaHlXMnBFZUVsOXdRenN1eXNndnRJMmQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVBPNWg4b3UtZDdwQkNPQ2NfT2d2S1VJV2I2RTR1V0NuU0FDMGxzVDh5Q1FMS25qdzJyT3dqaVc3SW9QZ1Bhb1d4OHpYbDl4cTVwT01BTzh4cm5uMnZYbFVqUFp3RXFXeWlZWHdqd0ZCOGtOSFhyWkNpaHlXMnBFZUVsOXdRenN1eXNndnRJMmQ?oc=5\" target=\"_blank\">Buy Johnson & Johnson Stock Ahead of Earnings, Analyst Says. The Run-Up Isn’t Over.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-04-08T14:41:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Better Buy Right Now: Johnson & Johnson Vs. Pfizer - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGNLZG5TVmNhMW5BQWNYNGJCeUU1OGFpTG9nV1JWOFZLekRjSUk2X0s5OXkyRE5fbl8tY0dlNWs4ckh6aHBZWjZSVGNTN0h3LVNac19NblE5VGZaeFBXUEpGZUQ4WXZRbUxFMjdreVllTEl5STcwcmUyQ1JxRmF0bTB4eXNBcEViVDdvRUYtVXh3SXM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGNLZG5TVmNhMW5BQWNYNGJCeUU1OGFpTG9nV1JWOFZLekRjSUk2X0s5OXkyRE5fbl8tY0dlNWs4ckh6aHBZWjZSVGNTN0h3LVNac19NblE5VGZaeFBXUEpGZUQ4WXZRbUxFMjdreVllTEl5STcwcmUyQ1JxRmF0bTB4eXNBcEViVDdvRUYtVXh3SXM?oc=5\" target=\"_blank\">Better Buy Right Now: Johnson & Johnson Vs. Pfizer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-04-12T06:00:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Johnson & Johnson (JNJ) Valuation Check As TECNIS PureSee IOL Data Take Center Stage - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUI5NFVQU19vMGt4bmVyRXNSWWk5UUl5dTVIMmNvdWFyS193ei1iLV93SkhhTms4NDY2Y2J4eG9jYUNOM18wNkJnN2tlcGpqZXJfNEJsWTdUQ3BoQ01kNTRpWlY2ZHFONVZfbG11SG1lVGdURkh1RzdnWEdqZ1ZWLVp2VElfZ3RCYTJfV3p3M24zcmJGZk5NcFZqcFM1aDdCVDBRdXNjRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUI5NFVQU19vMGt4bmVyRXNSWWk5UUl5dTVIMmNvdWFyS193ei1iLV93SkhhTms4NDY2Y2J4eG9jYUNOM18wNkJnN2tlcGpqZXJfNEJsWTdUQ3BoQ01kNTRpWlY2ZHFONVZfbG11SG1lVGdURkh1RzdnWEdqZ1ZWLVp2VElfZ3RCYTJfV3p3M24zcmJGZk5NcFZqcFM1aDdCVDBRdXNjRQ?oc=5\" target=\"_blank\">Johnson & Johnson (JNJ) Valuation Check As TECNIS PureSee IOL Data Take Center Stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-11T19:13:04+00:00",
+      "title": "Johnson & Johnson Announces 64th Consecutive Year of Dividend Increase; Raises Quarterly Dividend by 3.1% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlNzY3V3R3RxdDJHTjZ6MTNhNjh5NFBfLTZSeTJlZjBkcFR0WE1vQk5NV3Z0YUsxdlFkR2ZBWFUxdHgwSTh5Ty1kVXhFaU5xMWZVbWJEWlh5d2h6RlE3SzNQTFVTRUpfNzZpUU9qNEdmcTVsYUFuQ2IzSERBVXdkbjkyNlFfNHM0ckJ0LTRYZWM0SW1RSGEtZHBGM3FJVHlNZ250T05oNTFIREE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlNzY3V3R3RxdDJHTjZ6MTNhNjh5NFBfLTZSeTJlZjBkcFR0WE1vQk5NV3Z0YUsxdlFkR2ZBWFUxdHgwSTh5Ty1kVXhFaU5xMWZVbWJEWlh5d2h6RlE3SzNQTFVTRUpfNzZpUU9qNEdmcTVsYUFuQ2IzSERBVXdkbjkyNlFfNHM0ckJ0LTRYZWM0SW1RSGEtZHBGM3FJVHlNZ250T05oNTFIREE?oc=5\" target=\"_blank\">Johnson & Johnson Announces 64th Consecutive Year of Dividend Increase; Raises Quarterly Dividend by 3.1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-04-14T10:21:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Johnson & Johnson Q1 Earnings Preview: Time To Sell The Rally? - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanMtNFl2eHpEbTdaS1U3VGd4X2M0WjdzaFM1SkhTMDJFWUVUU1RNNG9Ec0Rrb2piOTFFa1J6bUtoY2VMellTa1JiSEZGaWE4WUZqQXhKbXJnRUNhUFh0SEhvRFBlVDBvWHVEbVFoUVp6LXBjaTFrcVBNS2NlNkJYTXRCaWRoU001SC1aNzAwRVNDd0RXdW9HTEZ0WjhwSWw5ZGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQanMtNFl2eHpEbTdaS1U3VGd4X2M0WjdzaFM1SkhTMDJFWUVUU1RNNG9Ec0Rrb2piOTFFa1J6bUtoY2VMellTa1JiSEZGaWE4WUZqQXhKbXJnRUNhUFh0SEhvRFBlVDBvWHVEbVFoUVp6LXBjaTFrcVBNS2NlNkJYTXRCaWRoU001SC1aNzAwRVNDd0RXdW9HTEZ0WjhwSWw5ZGc?oc=5\" target=\"_blank\">Johnson & Johnson Q1 Earnings Preview: Time To Sell The Rally?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-04-10T12:45:00+00:00",
-      "source": "Seeking Alpha"
+      "title": "What you need to know about Johnson & Johnson’s first-quarter 2026 earnings report - Johnson & Johnson",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHZ0X3Q2V01BNHpUZGJJaHpkZWxtMVV0NHBxQTR5RklHckVnekVQSmxNMUtjajE0SmVsSUpTY2paa3dUZjBneUgyZXFjVTUyS1prbUFBbDRHT2ZvVmY0MW1uNExEWjRiSmZrU1BlR1VBYzNZd3JZajZfeDkydjlNMWg1NFVfbTItVmk2MHJmVzNmWm1Yd09hVkZ6azZvMUxrcVktSTlOMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHZ0X3Q2V01BNHpUZGJJaHpkZWxtMVV0NHBxQTR5RklHckVnekVQSmxNMUtjajE0SmVsSUpTY2paa3dUZjBneUgyZXFjVTUyS1prbUFBbDRHT2ZvVmY0MW1uNExEWjRiSmZrU1BlR1VBYzNZd3JZajZfeDkydjlNMWg1NFVfbTItVmk2MHJmVzNmWm1Yd09hVkZ6azZvMUxrcVktSTlOMA?oc=5\" target=\"_blank\">What you need to know about Johnson & Johnson’s first-quarter 2026 earnings report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Johnson & Johnson</font>",
+      "published": "2026-04-14T10:42:32+00:00",
+      "source": "Johnson & Johnson"
     },
     {
-      "title": "1 Stock to Buy, 1 Stock to Sell This Week: Netflix, Johnson & Johnson - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjY4WjZTV0had1ZJdVNIM3FMS00td1dDZjFWaklzckZYWXJ6U1VZTlA2UUJaVXJobTJEREJKMkNTS0JoaVVCcWNSU251ZnlRcEFHcTA0OGN2Y2g3dDN0YlUzVHppOVFBel9yWm9SREpjaW5HZV9fcENKQjBBRE5pNU5QaW1ZSm9nREthMllSN2UxaDF4dTFzX0ZRMzJaZTE0cDBObVl1eV9rVlduNFVR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjY4WjZTV0had1ZJdVNIM3FMS00td1dDZjFWaklzckZYWXJ6U1VZTlA2UUJaVXJobTJEREJKMkNTS0JoaVVCcWNSU251ZnlRcEFHcTA0OGN2Y2g3dDN0YlUzVHppOVFBel9yWm9SREpjaW5HZV9fcENKQjBBRE5pNU5QaW1ZSm9nREthMllSN2UxaDF4dTFzX0ZRMzJaZTE0cDBObVl1eV9rVlduNFVR?oc=5\" target=\"_blank\">1 Stock to Buy, 1 Stock to Sell This Week: Netflix, Johnson & Johnson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-04-12T14:21:10+00:00",
+      "title": "Johnson & Johnson Beats Earnings Estimates. Cancer Treatments Help Drive the Quarter. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTdMQmNkRE9FUzBQN0tfdTdpVktLV0ZVdTJrYUc4RFNPNnpsZ0FrbzlydG15d3R2b0lCOTZlTmprblc4cVFsSTdYY1F4QjdSQnY2SkNMY3Uza1hON1paeTRUWVFia1FjOGVxdWNQdlZ4Q2kzWk9KRFNXdGRGWHc3LXJlZko?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTdMQmNkRE9FUzBQN0tfdTdpVktLV0ZVdTJrYUc4RFNPNnpsZ0FrbzlydG15d3R2b0lCOTZlTmprblc4cVFsSTdYY1F4QjdSQnY2SkNMY3Uza1hON1paeTRUWVFia1FjOGVxdWNQdlZ4Q2kzWk9KRFNXdGRGWHc3LXJlZko?oc=5\" target=\"_blank\">Johnson & Johnson Beats Earnings Estimates. Cancer Treatments Help Drive the Quarter.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-04-14T11:19:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Johnson & Johnson ups 2026 outlook on Q1 beats, MedTech sales rise 7.7% - MassDevice",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYk5TZzVJQWlZQjZvdFF0YUVpOUU2NkZlWEdab3FLNGhRVk94S1F1WHpNNUwtQlhRZXNpbUlTNjFOLUFhM0I1ei0yWUFlOWdyWEM5b01xR3lsRXA2RUltc3ZOYVo0VmZOVWM2YWh5VWNKSk85SjkxaQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYk5TZzVJQWlZQjZvdFF0YUVpOUU2NkZlWEdab3FLNGhRVk94S1F1WHpNNUwtQlhRZXNpbUlTNjFOLUFhM0I1ei0yWUFlOWdyWEM5b01xR3lsRXA2RUltc3ZOYVo0VmZOVWM2YWh5VWNKSk85SjkxaQ?oc=5\" target=\"_blank\">Johnson & Johnson ups 2026 outlook on Q1 beats, MedTech sales rise 7.7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MassDevice</font>",
+      "published": "2026-04-14T11:05:58+00:00",
+      "source": "MassDevice"
+    },
+    {
+      "title": "J&J lifts 2026 forecast after $24.1B quarter and new approvals - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0ZkOEM2NGJKNHNKTmdsNXM3QmhSS2V3bmh6YlFzRDFBeUkzT0taaHh1d2xEVzRzS0J6UWtGa1hnZXAzRUZhVUgySHdQSEJfTU9nNVhTZ3BudTJ2Z2wtRGtiejJ0UWRnZ0JrMlVYdGtTTTdyblAtOFc4RWxZQndDdnA1RWNfZktJUXdQUmZ0d3VkODhMRTNCbWZmN0xVYkZURzA2b09QUEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0ZkOEM2NGJKNHNKTmdsNXM3QmhSS2V3bmh6YlFzRDFBeUkzT0taaHh1d2xEVzRzS0J6UWtGa1hnZXAzRUZhVUgySHdQSEJfTU9nNVhTZ3BudTJ2Z2wtRGtiejJ0UWRnZ0JrMlVYdGtTTTdyblAtOFc4RWxZQndDdnA1RWNfZktJUXdQUmZ0d3VkODhMRTNCbWZmN0xVYkZURzA2b09QUEw?oc=5\" target=\"_blank\">J&amp;J lifts 2026 forecast after $24.1B quarter and new approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "published": "2026-04-14T10:20:00+00:00",
+      "source": "Stock Titan"
+    },
+    {
+      "title": "Johnson & Johnson raises quarterly dividend by 3.1% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGE3U05pQUhDTElSMTBMWWhOdkZpaWt1TXZfdVNXSzJxakd5X3J4LVE2RENpRVdHcWxvbnJrMzRnRUVYR0dlOEJScDBCcl9VU0lub3FOTDNtUlJfLUF6MjZkekNWTGtDZGVMazZRem50QjBDWkJOM1BVYVVIM2lqbEZQelhDMUdkQlZwSHhGeVZrSEREbDBSaUNTY3ZuSTA3UnJiUWw1T0M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGE3U05pQUhDTElSMTBMWWhOdkZpaWt1TXZfdVNXSzJxakd5X3J4LVE2RENpRVdHcWxvbnJrMzRnRUVYR0dlOEJScDBCcl9VU0lub3FOTDNtUlJfLUF6MjZkekNWTGtDZGVMazZRem50QjBDWkJOM1BVYVVIM2lqbEZQelhDMUdkQlZwSHhGeVZrSEREbDBSaUNTY3ZuSTA3UnJiUWw1T0M?oc=5\" target=\"_blank\">Johnson & Johnson raises quarterly dividend by 3.1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2026-04-14T11:08:18+00:00",
       "source": "Investing.com"
+    },
+    {
+      "title": "Johnson & Johnson CFO Wolk on Q1 earnings results - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3p5aXNBLUhWc0dVVFRLTjVING5fMnpvOXZRSWc3MHJ3TTQxMU1RX0RRNjI3SzFvT3RHLVd2ckt2bEU0amdHckhsSVRLbjVHZzZGZUFFb2NQT3hpVlNpajJlWE8xSmtKYWdBbUs5alBNRm5TYzl0QXJMQjUwRnY3R2tHMUs3dzY2SXZoQmNOSmNEYWtX?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3p5aXNBLUhWc0dVVFRLTjVING5fMnpvOXZRSWc3MHJ3TTQxMU1RX0RRNjI3SzFvT3RHLVd2ckt2bEU0amdHckhsSVRLbjVHZzZGZUFFb2NQT3hpVlNpajJlWE8xSmtKYWdBbUs5alBNRm5TYzl0QXJMQjUwRnY3R2tHMUs3dzY2SXZoQmNOSmNEYWtX?oc=5\" target=\"_blank\">Johnson & Johnson CFO Wolk on Q1 earnings results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-04-14T11:09:38+00:00",
+      "source": "CNBC"
     }
   ],
   "product_launches": [
     {
+      "title": "J&J lifts 2026 forecast after $24.1B quarter and new approvals - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0ZkOEM2NGJKNHNKTmdsNXM3QmhSS2V3bmh6YlFzRDFBeUkzT0taaHh1d2xEVzRzS0J6UWtGa1hnZXAzRUZhVUgySHdQSEJfTU9nNVhTZ3BudTJ2Z2wtRGtiejJ0UWRnZ0JrMlVYdGtTTTdyblAtOFc4RWxZQndDdnA1RWNfZktJUXdQUmZ0d3VkODhMRTNCbWZmN0xVYkZURzA2b09QUEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0ZkOEM2NGJKNHNKTmdsNXM3QmhSS2V3bmh6YlFzRDFBeUkzT0taaHh1d2xEVzRzS0J6UWtGa1hnZXAzRUZhVUgySHdQSEJfTU9nNVhTZ3BudTJ2Z2wtRGtiejJ0UWRnZ0JrMlVYdGtTTTdyblAtOFc4RWxZQndDdnA1RWNfZktJUXdQUmZ0d3VkODhMRTNCbWZmN0xVYkZURzA2b09QUEw?oc=5\" target=\"_blank\">J&amp;J lifts 2026 forecast after $24.1B quarter and new approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "published": "2026-04-14T10:20:00+00:00",
+      "source": "Stock Titan"
+    },
+    {
       "title": "Johnson & Johnson Advances Pulsed Field Ablation Portfolio with the Launch of VARIPULSE Pro in Europe - Johnson & Johnson",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlVRmV1Zm9MUjBLbFRTVVNUQ0hnaFZ1MXQ3ZGVJbDR1WEd1NG5iNW91WFU0RkdYVjVHdTFlZ3Z3V1RQZHdFWEVteE96TjNMSDVIdzZUTGVKSXZXRnhVQ0hRM1hES2pqTVRSaVNHN3hUN3lCRWV1R1plWXBUcTBrVjZzaXdWSW9pU1ZzTm9GSVpvbGtubW5uQWxEYkp5bXVENjhJU3hUSUxYeFpyZWhNY2xRVk1aRzhpRHdtOTlnS3NidmIzN3g4eTdWUUFWQUlFckhNTmdSWmFIRFM2anl1Wg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlVRmV1Zm9MUjBLbFRTVVNUQ0hnaFZ1MXQ3ZGVJbDR1WEd1NG5iNW91WFU0RkdYVjVHdTFlZ3Z3V1RQZHdFWEVteE96TjNMSDVIdzZUTGVKSXZXRnhVQ0hRM1hES2pqTVRSaVNHN3hUN3lCRWV1R1plWXBUcTBrVjZzaXdWSW9pU1ZzTm9GSVpvbGtubW5uQWxEYkp5bXVENjhJU3hUSUxYeFpyZWhNY2xRVk1aRzhpRHdtOTlnS3NidmIzN3g4eTdWUUFWQUlFckhNTmdSWmFIRFM2anl1Wg?oc=5\" target=\"_blank\">Johnson & Johnson Advances Pulsed Field Ablation Portfolio with the Launch of VARIPULSE Pro in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Johnson & Johnson</font>",
       "published": "2026-04-07T12:00:19+00:00",
       "source": "Johnson & Johnson"
+    },
+    {
+      "title": "Will ICOTYDE’s First‑in‑Class Oral Psoriasis Launch Redefine Johnson & Johnson’s (JNJ) Immunology Narrative? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzZZUXFaUUZoQjZLaDJ3RVVNWTk5WnRCekQxejZRSFp0dzFrM1lYM1Q3Z185a0tZdmtrUWhnaWtFdFEwWERTQ09ZMHV0VEFGZHJJVnNkczdqS1hta1cxSDV0RG1xaFUtSm5rMi1oNzJ0aE1EakdQdGJ1QnhYTGczYjRlSTNjby1GZGF3T0pnSDdXaUhUNDN1cVVmaWFUakVBSFl5SWVn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzZZUXFaUUZoQjZLaDJ3RVVNWTk5WnRCekQxejZRSFp0dzFrM1lYM1Q3Z185a0tZdmtrUWhnaWtFdFEwWERTQ09ZMHV0VEFGZHJJVnNkczdqS1hta1cxSDV0RG1xaFUtSm5rMi1oNzJ0aE1EakdQdGJ1QnhYTGczYjRlSTNjby1GZGF3T0pnSDdXaUhUNDN1cVVmaWFUakVBSFl5SWVn?oc=5\" target=\"_blank\">Will ICOTYDE’s First‑in‑Class Oral Psoriasis Launch Redefine Johnson & Johnson’s (JNJ) Immunology Narrative?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "J&J Launches Varipulse Pro in Europe: Faster, Precise PFA Tech - Medical Device and Diagnostic industry",
@@ -82,34 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxONmdnM1FRc3FGR2Y0dGJxT1BqbzA0ZURHaEs3dDVXMFNhdFN2amJYUkJmSnNOdDNxMS1SRWo4cVY5NHZPOEtBa2k3SUVoSUxBV3g2Nm9MLUJRQnpDYmtVaGtZZGUwOHNKM2FfRW1FVzdLdmVWQjF3UjNocHA0ZkNZNUEtZ25aYi1taWN2THp2SUF5RUhkTWplY3RlMkJvUmpjWGFLM24xbFMtZ1l3ZHlUSFZqQWE1R1hkbktMbG5sM0lUNG5uTzZkMl92SzE5dy1CbG5fdXJxem1vNVdYcW1n0gHkAUFVX3lxTE5mcjQ4VkZWVlVzMG5wUk9acDRDeUE2Y0szM2U4ZklpTDJzb3RzMXU4Vlc0SFA1bWpBcUJWVHFEUndmSGw3bmJrWkJhSnFRM0RvVklJVTRuSU9lSUJXVW1BVU1QVUVjb0Y3WTJPNVhMdVZvWERTSFNYR1Q0cG4zX19vMEp4V1RrVFBxWHlQcU14U09Ud2VBY2s3SE8zb2RQNk5kOXRHamIzWG16bFhoNm83VjRCVmVfTjhQTW5oNFZLV1BLSklCWTJjbHRrdEYxVmVESEFabVBLM0FSWThIVGtrSmhJbw?oc=5\" target=\"_blank\">Johnson And Johnson PFA Launch In Europe Puts MedTech In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
       "published": "2026-04-08T10:04:43+00:00",
       "source": "simplywall.st"
-    },
-    {
-      "title": "Johnson And Johnson PFA Launch In Europe Puts MedTech In Focus - Sahm",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHVmdmNBN0Vqakcta3AyYjVtaXVTLXJOa3NHX3lPd1hmRHVhNGVpVlUtdVFqV1lZbkNnelcxbnlnU1VWTE1aOHQxZzVQUmQxeEUtQnJ3OFlMR3c3N0RhWTEtNlRzSWlFYUEyNkJLQ1BKMjgzQVl4NUhleE95LXNUeVlkd0VPUk96My1pWTE0RE8yUEltRUYtUFA1TlIzVGVJN2N3M1liVWZkX3V2U2p3WmVDSFA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORHVmdmNBN0Vqakcta3AyYjVtaXVTLXJOa3NHX3lPd1hmRHVhNGVpVlUtdVFqV1lZbkNnelcxbnlnU1VWTE1aOHQxZzVQUmQxeEUtQnJ3OFlMR3c3N0RhWTEtNlRzSWlFYUEyNkJLQ1BKMjgzQVl4NUhleE95LXNUeVlkd0VPUk96My1pWTE0RE8yUEltRUYtUFA1TlIzVGVJN2N3M1liVWZkX3V2U2p3WmVDSFA?oc=5\" target=\"_blank\">Johnson And Johnson PFA Launch In Europe Puts MedTech In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
-      "published": "2026-04-09T07:36:29+00:00",
-      "source": "Sahm"
-    },
-    {
-      "title": "Is Johnson & Johnson Seeing Boost from S&P 500 Coverage Surge? - Kalkine Media",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzdmOHNZMG80ajNsME5xYUhTSG5udTdPRHVIVVJHc0dseVF5SEdRN1lxNkNYMUp5OHp6MDdxaEtJUEF6Q3dMNW5ISmVBNk5BRjNmQ0NucmhSUmZiMXRHRmYtOGk3X2NUcTh4ZVpLeDNwVHpVeUoxR0lNRUdpX3BWUmJNa0Mzei1ZQ1FLdUluTU1sVFhibEhUVGphUHBvMFlVYm5pUUV6bw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzdmOHNZMG80ajNsME5xYUhTSG5udTdPRHVIVVJHc0dseVF5SEdRN1lxNkNYMUp5OHp6MDdxaEtJUEF6Q3dMNW5ISmVBNk5BRjNmQ0NucmhSUmZiMXRHRmYtOGk3X2NUcTh4ZVpLeDNwVHpVeUoxR0lNRUdpX3BWUmJNa0Mzei1ZQ1FLdUluTU1sVFhibEhUVGphUHBvMFlVYm5pUUV6bw?oc=5\" target=\"_blank\">Is Johnson & Johnson Seeing Boost from S&amp;P 500 Coverage Surge?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>",
-      "published": "2026-04-10T22:31:00+00:00",
-      "source": "Kalkine Media"
     }
   ],
   "stock": {
     "ticker": "JNJ",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-10",
-      "close": 238.4600067138672
+      "date": "2026-04-13",
+      "close": 237.9600067138672
     },
     "history": [
-      {
-        "date": "2026-04-01",
-        "close": 244.1199951171875
-      },
       {
         "date": "2026-04-02",
         "close": 243.0399932861328
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-10",
         "close": 238.4600067138672
+      },
+      {
+        "date": "2026-04-13",
+        "close": 237.9600067138672
       }
     ],
     "name": "Johnson & Johnson"

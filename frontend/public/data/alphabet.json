@@ -2,36 +2,8 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-04-13T13:01:47.935545+00:00",
+  "fetched_at": "2026-04-14T13:02:32.738375+00:00",
   "news": [
-    {
-      "title": "Catalyst Alert: Alphabet Just Made Broadcom's Stock a Must-Buy - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzNUM05mMUlnanl4ejFIUGFBV0pBZG1Eb2JJZHNmVDhIM012ZEJaWHMyTHVKUF9EQ2JjTGFHQjF4Tm9ZY1RycHYwNVdnNDhyMkR6NnB5cUVhSGt3bldpZWRNZzZibWxFaV81a3BlZm4wQXFTaGpRSkI3WmNyRlhSbUNFZXIyRTNwNnlHZl9SZDU4NDdsQklickxqM1ZFdWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzNUM05mMUlnanl4ejFIUGFBV0pBZG1Eb2JJZHNmVDhIM012ZEJaWHMyTHVKUF9EQ2JjTGFHQjF4Tm9ZY1RycHYwNVdnNDhyMkR6NnB5cUVhSGt3bldpZWRNZzZibWxFaV81a3BlZm4wQXFTaGpRSkI3WmNyRlhSbUNFZXIyRTNwNnlHZl9SZDU4NDdsQklickxqM1ZFdWc?oc=5\" target=\"_blank\">Catalyst Alert: Alphabet Just Made Broadcom's Stock a Must-Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-12T18:31:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Catalyst Alert: Alphabet Just Made Broadcom's Stock a Must-Buy - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFo0SFBEQWJWWE1VaXdxcXVRM0JpRDRJZDIxc0RMaWN6X1Rudnp3R0Qyd29DTzg1NDhyRlRVdUx2bFdVSjJSeklHVjN4eFNmdnFWVURlV3VxZ0J0aFJBdm5udXdIVnpwcFpnSWNaek5nZW5MWVhhZ3JOQkV1eUxJZTRTSy16RFJyVndFaXJlenEwVmhVWmw4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFo0SFBEQWJWWE1VaXdxcXVRM0JpRDRJZDIxc0RMaWN6X1Rudnp3R0Qyd29DTzg1NDhyRlRVdUx2bFdVSjJSeklHVjN4eFNmdnFWVURlV3VxZ0J0aFJBdm5udXdIVnpwcFpnSWNaek5nZW5MWVhhZ3JOQkV1eUxJZTRTSy16RFJyVndFaXJlenEwVmhVWmw4?oc=5\" target=\"_blank\">Catalyst Alert: Alphabet Just Made Broadcom's Stock a Must-Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-04-12T19:11:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Catalyst Alert: Anthropic Deal Makes Alphabet Stock a Must-Buy - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON21EZVFEVHlESktsQ2x6VUJwS0ozYVVSMldZRUVFMGVuR2d2LTBrLTFEVW5sTzd2ZkJtWU5TUlZETTBsYXlDMmd6My0tUmpicU50U0N0WUR3Z2RRWnhWZFdZNTEyR0lpWFIzSnJyYm82RzBGcHNBeDl2bjB4Z1dWZUJFNlRCYlRvS1JaUUZya2kxcmR0S0FwSzJHMU91VzMwZ1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxON21EZVFEVHlESktsQ2x6VUJwS0ozYVVSMldZRUVFMGVuR2d2LTBrLTFEVW5sTzd2ZkJtWU5TUlZETTBsYXlDMmd6My0tUmpicU50U0N0WUR3Z2RRWnhWZFdZNTEyR0lpWFIzSnJyYm82RzBGcHNBeDl2bjB4Z1dWZUJFNlRCYlRvS1JaUUZya2kxcmR0S0FwSzJHMU91VzMwZ1E?oc=5\" target=\"_blank\">Catalyst Alert: Anthropic Deal Makes Alphabet Stock a Must-Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-13T09:40:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Alphabet Is Quietly Building Its Next Major Business -- and It Could Be Bigger Than You Think - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGxtcEZET3ozOUlmcXl6WmZBQ0VwcXdiQm1lSVpTenByNFFiVGgxczBwa3UzM2NKclZuTHJ1WlZwdlo5OEZZZUo0cHZ1YjgtWklVTkVHRTJjTzlZbWNPYVpTNlR6MkFjSmxoR0tMcGtqQ2o2Q0w5R0twMktpWVRmR0JSSDNOWTRUd1AwTDFGOUNhVWdRZk1Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGxtcEZET3ozOUlmcXl6WmZBQ0VwcXdiQm1lSVpTenByNFFiVGgxczBwa3UzM2NKclZuTHJ1WlZwdlo5OEZZZUo0cHZ1YjgtWklVTkVHRTJjTzlZbWNPYVpTNlR6MkFjSmxoR0tMcGtqQ2o2Q0w5R0twMktpWVRmR0JSSDNOWTRUd1AwTDFGOUNhVWdRZk1Z?oc=5\" target=\"_blank\">Alphabet Is Quietly Building Its Next Major Business -- and It Could Be Bigger Than You Think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-04-10T13:30:00+00:00",
-      "source": "The Motley Fool"
-    },
     {
       "title": "Got $1,000? Apple vs Alphabet — Only One Deserves Your Money Right Now - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSndoX2hhODhmR293by11NFdPUllINV9qT2p4OW4xY3pKVGRNYWhmcGUxLXFBR0lGa3AwWGFTWlBRQ2VDamZOc3lkbUx4RWNuZlNFT21Ja193LUpuOTdpQmZ4YXVpbEptOS1tdzZzZ3pwX3BscDZrZE53cjg2VlRsNF9KamZIQU1WOGRBOGVtVXdjUzRFVE95LW1rMkZweWo2cEtod3lJVC1GX0dScFE?oc=5",
@@ -40,24 +12,52 @@
       "source": "24/7 Wall St."
     },
     {
-      "title": "AI Cyber Risks Trigger White House Talks with Microsoft, Alphabet, and Major Banks - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHBNdng4OENOZDFHV0psWFlmdGstcTdSVFpvYVZfd0cxTzREQllveWJmUkhERzlTQXFvNG1aX0Z3X1VLU3FfMnVVMmFwamh2TjBWX0ZZanNqdkZtdWdxMlhoX28ydEFXNmhNR25MOENKNW54MTRRdXg5S293T0V1U21Qb0wzS0UyQW9KSFVoS0RjQ19BaFFHeV9mRXY4NDYxUjNVekFGcWZsX2ppM05n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHBNdng4OENOZDFHV0psWFlmdGstcTdSVFpvYVZfd0cxTzREQllveWJmUkhERzlTQXFvNG1aX0Z3X1VLU3FfMnVVMmFwamh2TjBWX0ZZanNqdkZtdWdxMlhoX28ydEFXNmhNR25MOENKNW54MTRRdXg5S293T0V1U21Qb0wzS0UyQW9KSFVoS0RjQ19BaFFHeV9mRXY4NDYxUjNVekFGcWZsX2ppM05n?oc=5\" target=\"_blank\">AI Cyber Risks Trigger White House Talks with Microsoft, Alphabet, and Major Banks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-04-12T12:03:46+00:00",
-      "source": "TipRanks"
+      "title": "Alphabet Inc (GOOGL) Autonomous Car Unit Hits a Significant Milestone - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3hJdW9IQzVBWGF1dl9QV3owck8zV1A5MlU3R0t6QnFZcndzM2V1RUJ3S0lsUmQzNVRNOE5KUElVNzRFNW9rUWJjN3ZNSnBPcy15TEJRaUNBMHlyc1BISDB4TF9VQ05fVkgzYmpmTTdYNmZOczVyRDNCTWcyLWFGUGVFcjQzMFJISEFpcXJoZndyZTFZWnV3QTJmN0VhYWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3hJdW9IQzVBWGF1dl9QV3owck8zV1A5MlU3R0t6QnFZcndzM2V1RUJ3S0lsUmQzNVRNOE5KUElVNzRFNW9rUWJjN3ZNSnBPcy15TEJRaUNBMHlyc1BISDB4TF9VQ05fVkgzYmpmTTdYNmZOczVyRDNCTWcyLWFGUGVFcjQzMFJISEFpcXJoZndyZTFZWnV3QTJmN0VhYWs?oc=5\" target=\"_blank\">Alphabet Inc (GOOGL) Autonomous Car Unit Hits a Significant Milestone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-04-14T11:44:48+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Stifel cuts Alphabet stock price target on ad budget uncertainty - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWVITDF0NVM5VmtjOVBGOEFhNUVWQ0t6M0lSdGtqVEhPVTRFQlFlak5NX2FPM1VVa3VkRk80UVdKcG92Sjc0UjZtaUlDVTFCUkNZNHVrdUZIREFyZGpOWFVWRVlQNEg5SDJNXzY0Z19NXzBvMXhsRDFsWXVUcUMwQnpvNHRqY0VSTHRqYU1LS0JyV1ZGR2NmQnhqQU14cXRiTEJVU0M2TV9SOFhlUWdKcU52YTFGM1E3VVBuVmdNcUFqZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWVITDF0NVM5VmtjOVBGOEFhNUVWQ0t6M0lSdGtqVEhPVTRFQlFlak5NX2FPM1VVa3VkRk80UVdKcG92Sjc0UjZtaUlDVTFCUkNZNHVrdUZIREFyZGpOWFVWRVlQNEg5SDJNXzY0Z19NXzBvMXhsRDFsWXVUcUMwQnpvNHRqY0VSTHRqYU1LS0JyV1ZGR2NmQnhqQU14cXRiTEJVU0M2TV9SOFhlUWdKcU52YTFGM1E3VVBuVmdNcUFqZw?oc=5\" target=\"_blank\">Stifel cuts Alphabet stock price target on ad budget uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-04-13T12:29:29+00:00",
+      "title": "Alphabet: AI-Powered Google Finance Is A Masterstroke (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa05PeTJ5RExQZVFOMHJRTExNN2xxOFN5dUhWUTNQVkZsWE8xWE94RGJFS2tvclo5WVFEQjd4WER5MUd5Y3ItTWlpME12eTRvWEZjZnFJUi1pOElWZ2JmbFdrX1Vtam1aVVhhZDRCelFValVkQjZSVWE0WVdlX0dkdGRGczZMMTdMQ0hkd3JfSk0wR2xBS0NBeQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQa05PeTJ5RExQZVFOMHJRTExNN2xxOFN5dUhWUTNQVkZsWE8xWE94RGJFS2tvclo5WVFEQjd4WER5MUd5Y3ItTWlpME12eTRvWEZjZnFJUi1pOElWZ2JmbFdrX1Vtam1aVVhhZDRCelFValVkQjZSVWE0WVdlX0dkdGRGczZMMTdMQ0hkd3JfSk0wR2xBS0NBeQ?oc=5\" target=\"_blank\">Alphabet: AI-Powered Google Finance Is A Masterstroke (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-04-13T20:07:08+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Did Anthropic, Alphabet, and Broadcom Just Say Checkmate to Nvidia? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEEtd1J2QnlFdkUxczRGUXRVQVJIZ0h4aE9yRlRRa0pLc3k4VnpTbXR5ZjQwRU1DOUwyb3RROW03MTdfV0FrX2JkbWdFRGhzblZIRGhGSk4wTXJaZTBtd3pxaXlYdGwybHo0SjZrTjV5Ykg3RHNJMUxBQVVxQnZzZ3MySmxreGJCODRRWkZtVmE4TFFna3FwbQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEEtd1J2QnlFdkUxczRGUXRVQVJIZ0h4aE9yRlRRa0pLc3k4VnpTbXR5ZjQwRU1DOUwyb3RROW03MTdfV0FrX2JkbWdFRGhzblZIRGhGSk4wTXJaZTBtd3pxaXlYdGwybHo0SjZrTjV5Ykg3RHNJMUxBQVVxQnZzZ3MySmxreGJCODRRWkZtVmE4TFFna3FwbQ?oc=5\" target=\"_blank\">Did Anthropic, Alphabet, and Broadcom Just Say Checkmate to Nvidia?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-04-14T06:52:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Why Microsoft Stock Is A Better Pick Than Google - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmQ0cUhLNzloTUpfWW5kQ2JvR0d5Nkc1VU0yc1ptVGNEQmE5bzV0R3h0eEd2SmNHdDdwc2dhT3lfZlNEb1BTNThQQURvS0VGZkZXNWtlb1ZDSm9NekhtdklORHJhQ1lIc3dGRGRlU21CVzIxSXM3U3Rvek5qZHVabk9VQ3VuSzdCOWo1QlNaWUFsYXVzT2JzbTdJOVM1NGZfTWFUM1RQbVFuQmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmQ0cUhLNzloTUpfWW5kQ2JvR0d5Nkc1VU0yc1ptVGNEQmE5bzV0R3h0eEd2SmNHdDdwc2dhT3lfZlNEb1BTNThQQURvS0VGZkZXNWtlb1ZDSm9NekhtdklORHJhQ1lIc3dGRGRlU21CVzIxSXM3U3Rvek5qZHVabk9VQ3VuSzdCOWo1QlNaWUFsYXVzT2JzbTdJOVM1NGZfTWFUM1RQbVFuQmc?oc=5\" target=\"_blank\">Why Microsoft Stock Is A Better Pick Than Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-04-13T14:41:18+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Guggenheim reiterates Alphabet stock rating ahead of earnings - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3VXbkdBTkFVYmhxd2IwTGNQTkYyM3hGbTRvT0FGTldZcE1oZEd2VUNPVUJlcWNNMG5RSWVBeVB3V25QclpyR3hRZ0Nyb3BlaFItZy1oVTJFWkEyMk4xNnZZT25ob2g5N3JLZVBTNnpQcHl6UExFaGh6bHY4bUdZTkNNcmwwV1U3Z0VlSjNWYmxaLU5rQ3JRS2llRjVtZHVqUXhKMG9RUDdHN0xoSlFSYVhLWDN1UDR5YjRrYlBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3VXbkdBTkFVYmhxd2IwTGNQTkYyM3hGbTRvT0FGTldZcE1oZEd2VUNPVUJlcWNNMG5RSWVBeVB3V25QclpyR3hRZ0Nyb3BlaFItZy1oVTJFWkEyMk4xNnZZT25ob2g5N3JLZVBTNnpQcHl6UExFaGh6bHY4bUdZTkNNcmwwV1U3Z0VlSjNWYmxaLU5rQ3JRS2llRjVtZHVqUXhKMG9RUDdHN0xoSlFSYVhLWDN1UDR5YjRrYlBn?oc=5\" target=\"_blank\">Guggenheim reiterates Alphabet stock rating ahead of earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2026-04-14T12:01:40+00:00",
       "source": "Investing.com"
     },
     {
-      "title": "Aspiriant LLC Sells 1,609 Shares of Alphabet Inc. $GOOGL - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnYzbnlFaG4zbTItaE9uVFIxVV9nNnR0REFWRzVGS0Q4aVd4Um4yRUNyOFlVMUdhSGh1X2ZFNHFnb2hOaF92N1FQV19jZndDcVpoeHlDa3Z0andFbTFiSEFMSWE3NUJjQnl4aFZNb3VreVRLZlpnT05qUXFERk5VemNsWWdOOHlaQjdXM2NfcG1nbElVaEJRVVVvdEpFX2Vkcm95N3ZLRUM3QTkxZVpHLWNYQUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnYzbnlFaG4zbTItaE9uVFIxVV9nNnR0REFWRzVGS0Q4aVd4Um4yRUNyOFlVMUdhSGh1X2ZFNHFnb2hOaF92N1FQV19jZndDcVpoeHlDa3Z0andFbTFiSEFMSWE3NUJjQnl4aFZNb3VreVRLZlpnT05qUXFERk5VemNsWWdOOHlaQjdXM2NfcG1nbElVaEJRVVVvdEpFX2Vkcm95N3ZLRUM3QTkxZVpHLWNYQUw?oc=5\" target=\"_blank\">Aspiriant LLC Sells 1,609 Shares of Alphabet Inc. $GOOGL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-      "published": "2026-04-13T07:22:50+00:00",
+      "title": "META vs. GOOGL: Can Facebook’s Owner Surpass Alphabet’s Ad Dominance? - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnpodXV0MFNSWi1HRGFMWlNFSUZxeWdJdmNWX3NRZTllVDRHZ1MwY3RHY29nQzN3TU41TGpwQmFqUmZZOHNPSkxFeHNUWVZTSjZXdVJQLXhORDEzb3c2T3hWOFRxa2VobnZtM3VwSHlnMndzbEFRQm5Sa1VOZlRNbkhiMDVZUkc1NXFYekdCb3hYV3N3WEpBTUROMGRtUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYnpodXV0MFNSWi1HRGFMWlNFSUZxeWdJdmNWX3NRZTllVDRHZ1MwY3RHY29nQzN3TU41TGpwQmFqUmZZOHNPSkxFeHNUWVZTSjZXdVJQLXhORDEzb3c2T3hWOFRxa2VobnZtM3VwSHlnMndzbEFRQm5Sa1VOZlRNbkhiMDVZUkc1NXFYekdCb3hYV3N3WEpBTUROMGRtUQ?oc=5\" target=\"_blank\">META vs. GOOGL: Can Facebook’s Owner Surpass Alphabet’s Ad Dominance?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2026-04-13T13:40:36+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Arvest Investments Inc. Lowers Stake in Alphabet Inc. $GOOGL - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3hzS0FZQ0tTcVV5SlVQVHM1M1BDVDE2N2Mtcjg3OHQ3SnpUZ1VuSzQ2Tl9uYVI1VjhpNk9UWDEzdUV5ZXV0STZZa2VLUGg5TE45U1hOb1Y0WTJka2NpOWFsdlR2YW9VSFBuckdOVGk1MW5mQTBGUXZfRjZFY0xOTUUtUXhuV2ViS3lrY3dDbHlKUEFhMnQ2dVN5NGU0MFFnMUV4RUdHMUkzblQ3NGZoVVhhcVpFbmctT2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3hzS0FZQ0tTcVV5SlVQVHM1M1BDVDE2N2Mtcjg3OHQ3SnpUZ1VuSzQ2Tl9uYVI1VjhpNk9UWDEzdUV5ZXV0STZZa2VLUGg5TE45U1hOb1Y0WTJka2NpOWFsdlR2YW9VSFBuckdOVGk1MW5mQTBGUXZfRjZFY0xOTUUtUXhuV2ViS3lrY3dDbHlKUEFhMnQ2dVN5NGU0MFFnMUV4RUdHMUkzblQ3NGZoVVhhcVpFbmctT2c?oc=5\" target=\"_blank\">Arvest Investments Inc. Lowers Stake in Alphabet Inc. $GOOGL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "published": "2026-04-14T07:29:11+00:00",
       "source": "MarketBeat"
     }
   ],
@@ -91,25 +91,21 @@
       "source": "CNBC"
     },
     {
-      "title": "This AI Stock Could Rally More if Its New Product Line Delivers on Expectations - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmdaOFFaYWk4NWZJdG5WZDdBRF9MVmZmTE5yX25jQkZ0MVF6blEtWm5zZ3l1a3JqVXdvU0xQTFJhYW9MUVc0ZUVpelRqZUw4THB2UDZLeG1vYUsycnpRc2s5WjJxWFdrbG5La0hjc0M0SFNvWW03UjZUcWUyOUhsbmt1ZVRMTk1DOUJuN1NDNXZsY3ZTU0dj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmdaOFFaYWk4NWZJdG5WZDdBRF9MVmZmTE5yX25jQkZ0MVF6blEtWm5zZ3l1a3JqVXdvU0xQTFJhYW9MUVc0ZUVpelRqZUw4THB2UDZLeG1vYUsycnpRc2s5WjJxWFdrbG5La0hjc0M0SFNvWW03UjZUcWUyOUhsbmt1ZVRMTk1DOUJuN1NDNXZsY3ZTU0dj?oc=5\" target=\"_blank\">This AI Stock Could Rally More if Its New Product Line Delivers on Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "title": "This AI Stock Could Rally More if Its New Product Line Delivers on Expectations - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TcDFIUW1qd25SVkVFS2t2TGoydEJvUTUwVVdldUZ5cGl0QWhfUEFMVHVPOWg1Ymk1cWEwSW5tVTFxYktTQ2FKS0E1T2lVVG9rN2NCaWZ4dEJKaVJTOENpZ0VWREFoQU1MRHEzM3ZOMFp2RTFUVnNIWWNoVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1TcDFIUW1qd25SVkVFS2t2TGoydEJvUTUwVVdldUZ5cGl0QWhfUEFMVHVPOWg1Ymk1cWEwSW5tVTFxYktTQ2FKS0E1T2lVVG9rN2NCaWZ4dEJKaVJTOENpZ0VWREFoQU1MRHEzM3ZOMFp2RTFUVnNIWWNoVQ?oc=5\" target=\"_blank\">This AI Stock Could Rally More if Its New Product Line Delivers on Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2025-11-29T08:00:00+00:00",
-      "source": "The Motley Fool"
+      "source": "Yahoo Finance"
     }
   ],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-10",
-      "close": 317.239990234375
+      "date": "2026-04-13",
+      "close": 321.30999755859375
     },
     "history": [
-      {
-        "date": "2026-04-01",
-        "close": 297.3900146484375
-      },
       {
         "date": "2026-04-02",
         "close": 295.7699890136719
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-10",
         "close": 317.239990234375
+      },
+      {
+        "date": "2026-04-13",
+        "close": 321.30999755859375
       }
     ],
     "name": "Alphabet Inc."
