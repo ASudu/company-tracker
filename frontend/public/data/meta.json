@@ -2,14 +2,35 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-04-14T13:02:37.384987+00:00",
+  "fetched_at": "2026-04-15T13:02:47.423837+00:00",
   "news": [
     {
-      "title": "CNBC's The China Connection newsletter: China's AI glasses have something Meta doesn't - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckhoejNJeDdLcUNDTlBqZk1XQnBQWU0yUWpOWXJOZmxoNmtmanhvdmN4TG84cGVTY2M5T1ZrSG9uZXVPRW5MSm5IMTF0UmxrX1UwVFF4NTlsMDlYYmlaMmpGQ3hrS1dhOXdhQUdjOVZOVlBOeVlYYnZxT2RRUHVFYkZDVkhhemQ2Q0Y5V0pDbGR0UlJma1pkaUV4VjdmaXFjcU1v0gGoAUFVX3lxTE1DTVUtUXlMQlhPdk1nSXFfTkdpamxaa1FFSGZmMkJXVk9nb0dCYTFBSFNSMDhoQTV6dmRZWUdtQ0ZCQkt3VDQ1VkhlcGtWSW5kVzNMeHhTMmdSOGVsZ3YtVWNXYVk0ZHM0ZGFuU1FOVjJ4NHU1NU9LZS1DN2Qwc3NjSmFPM2k1dmVSMmdPaGtKbTJTZ21FbDZTVk44S3ZWVm9XNWw0aFJaRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOckhoejNJeDdLcUNDTlBqZk1XQnBQWU0yUWpOWXJOZmxoNmtmanhvdmN4TG84cGVTY2M5T1ZrSG9uZXVPRW5MSm5IMTF0UmxrX1UwVFF4NTlsMDlYYmlaMmpGQ3hrS1dhOXdhQUdjOVZOVlBOeVlYYnZxT2RRUHVFYkZDVkhhemQ2Q0Y5V0pDbGR0UlJma1pkaUV4VjdmaXFjcU1v0gGoAUFVX3lxTE1DTVUtUXlMQlhPdk1nSXFfTkdpamxaa1FFSGZmMkJXVk9nb0dCYTFBSFNSMDhoQTV6dmRZWUdtQ0ZCQkt3VDQ1VkhlcGtWSW5kVzNMeHhTMmdSOGVsZ3YtVWNXYVk0ZHM0ZGFuU1FOVjJ4NHU1NU9LZS1DN2Qwc3NjSmFPM2k1dmVSMmdPaGtKbTJTZ21FbDZTVk44S3ZWVm9XNWw0aFJaRw?oc=5\" target=\"_blank\">CNBC's The China Connection newsletter: China's AI glasses have something Meta doesn't</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-04-13T23:00:01+00:00",
+      "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3JRUzgyMGZsQ08tLVgyTzNfZE1PZUdJaDBIVFZJUmlfM1daVEVFSEhvOTNXV1Y1UTRKQ1hPRk90UWExbjl1MGpjU0NSTVc4aGhXZWV3X242NGFoLUJ3TjJVZXZ2UHY4QjdVOGlqWXd4a1l0SWI3Z2ZnTHdCVmE4cy14alMwOGhUX09YUEtWeGJaYmhXcGxzejd3VHRlaUtHSDdRa04yc09pUklmZk82RG5XdGw0ZGhweDFMZjl5ZVhsOVdPNGRkRdIBzgFBVV95cUxNOVpIdHVQTnJMT3dqYldjdzJoWVN5TExQMjM1dzJQYXpyWEY4bUY4bG1Famw4M3lxanUxMjBpZmdiQVNXSEgtVEc0RWtNTzBXeUxOaXl2ZlQ0dGJ4bk9xLUpEUmNWRE44UFBDcXZrU01KcFl6XzdjRkRVMnc0elhNQ2wycmlHZkFBN01UanRvaGtxbTVfdmVmOGVFYjlwZDBXRlZwVGJoQ19ROE8wMy1Ya0ZNYUxxV0otMVh6M3ktc25IVVBfVXJWMDg3djVwdw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3JRUzgyMGZsQ08tLVgyTzNfZE1PZUdJaDBIVFZJUmlfM1daVEVFSEhvOTNXV1Y1UTRKQ1hPRk90UWExbjl1MGpjU0NSTVc4aGhXZWV3X242NGFoLUJ3TjJVZXZ2UHY4QjdVOGlqWXd4a1l0SWI3Z2ZnTHdCVmE4cy14alMwOGhUX09YUEtWeGJaYmhXcGxzejd3VHRlaUtHSDdRa04yc09pUklmZk82RG5XdGw0ZGhweDFMZjl5ZVhsOVdPNGRkRdIBzgFBVV95cUxNOVpIdHVQTnJMT3dqYldjdzJoWVN5TExQMjM1dzJQYXpyWEY4bUY4bG1Famw4M3lxanUxMjBpZmdiQVNXSEgtVEc0RWtNTzBXeUxOaXl2ZlQ0dGJ4bk9xLUpEUmNWRE44UFBDcXZrU01KcFl6XzdjRkRVMnc0elhNQ2wycmlHZkFBN01UanRvaGtxbTVfdmVmOGVFYjlwZDBXRlZwVGJoQ19ROE8wMy1Ya0ZNYUxxV0otMVh6M3ktc25IVVBfVXJWMDg3djVwdw?oc=5\" target=\"_blank\">Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkJRVzdfRWNmZ3NIYXd4anc0NkxadlVhb09qVEtYVFNsS09TMnpZWEpycmJIQUgzVFcybUpTWmwyUjlMTzljcU9UY3RRZmlLMDBnN1hYeXdiaklRMkVSeHVmY3REbHlmdm4xb0JGYWVrT2FKQ01pSV9jLWdwamc5NU51SlFvWEJiTTk0ZDl3U1JMYUhHNEV1aEln0gGfAUFVX3lxTE9OVXhrbzBtRUFnYXZlamJLeE00VFVUdVpRVGcwQVgwNlFCQWpJTldqQVJLWXduWGFDTXgzUDhZVWlVZ3RlOEdNdVhGRkktYzMxdXRnc2k4T2JWeXFmNThqQ0Q4WTVaNXZEQXF1ZWhmbUNxVlc4WkZSU01COFF6WndQVEFZTzFUaXlKaXZDTnBfN1lRdWxTSWFzbVVBeUpVSQ?oc=5\" target=\"_blank\">Meta Partners With Broadcom to Co-Develop Custom AI Silicon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0RfdXloQWhEVDB5VDZlandrSERlb2w3YjJITHQ3WTJnX09yNFJlSUo3aktjYUhuZGcyLUhoRzZZQ0pOeEF4dEhMbFk4R3pWRk1DUHd2Q2hjRkdtbm5BYnptQS1Wb1ZXaWFacWNqcUszamlLaEZtaW1Fck9GQ0ZpbjhyT2dMN0J1aXB2bldBOFk?oc=5\" target=\"_blank\">Broadcom Stock Rises On Meta AI Chip Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li></ol>",
+      "published": "2026-04-14T21:22:35+00:00",
       "source": "CNBC"
+    },
+    {
+      "title": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaHMteHJhZEFvUG9Fc25mdlZzY2Vsbld2TW5UNkJmbXN1a3kydGdENFVzR05FY2xxVjNiZWhUemZjdXVmb2hfbV9xWEtFa0hwZWtlUlNKQU5hcDdMTzNyNG9LdmZpRmR2M2F0YlI5d19wRW9iczVIa0Zfb1JueFpQby1KOUJwc2RVZXpmckVRdTFaa1I3aldDT1R2WVBxdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQaHMteHJhZEFvUG9Fc25mdlZzY2Vsbld2TW5UNkJmbXN1a3kydGdENFVzR05FY2xxVjNiZWhUemZjdXVmb2hfbV9xWEtFa0hwZWtlUlNKQU5hcDdMTzNyNG9LdmZpRmR2M2F0YlI5d19wRW9iczVIa0Zfb1JueFpQby1KOUJwc2RVZXpmckVRdTFaa1I3aldDT1R2WVBxdw?oc=5\" target=\"_blank\">Meta creating AI version of Mark Zuckerberg so staff can talk to the boss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-04-13T15:00:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWRsVTAzWDBkc3daQlRFZGZYYjdsd1BfNnBiSG9LT1JXb3NvcFE3Q0RId2ZwNUtPZlpGaEpwd2pGLTRQaExYR3Q3MERuN0VQVlBCWGs5Mzc2bXhJdGN6Snl0bW5ZVEliR2tScGgtb0JqMHNlYmo1bk92VnkxVlBfcEo2WmY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWRsVTAzWDBkc3daQlRFZGZYYjdsd1BfNnBiSG9LT1JXb3NvcFE3Q0RId2ZwNUtPZlpGaEpwd2pGLTRQaExYR3Q3MERuN0VQVlBCWGs5Mzc2bXhJdGN6Snl0bW5ZVEliR2tScGgtb0JqMHNlYmo1bk92VnkxVlBfcEo2WmY?oc=5\" target=\"_blank\">Meta builds AI version of Mark Zuckerberg to interact with staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-04-13T04:02:07+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "Mark Zuckerberg moved his desk and is coding again, Meta president says - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDBPVUJuVXRreDNtcS1YSjFERXByVm41Z01KU3dmcXoxZ21XMVdLTDNjaE5qaHNxR3U1MkgtcDAxbERKSUlvQUpRQ2lZVGZVY2hpSHc1ZHdULW9KUU1FYjRmb3VqblV4SV9GY1Fva1FKSUFGV0hPYkdpelJyVFhzR1I3OU9nOFk0alF2RHltYVlscGNka21jSlhKbkxwOERzZFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDBPVUJuVXRreDNtcS1YSjFERXByVm41Z01KU3dmcXoxZ21XMVdLTDNjaE5qaHNxR3U1MkgtcDAxbERKSUlvQUpRQ2lZVGZVY2hpSHc1ZHdULW9KUU1FYjRmb3VqblV4SV9GY1Fva1FKSUFGV0hPYkdpelJyVFhzR1I3OU9nOFk0alF2RHltYVlscGNka21jSlhKbkxwOERzZFE?oc=5\" target=\"_blank\">Mark Zuckerberg moved his desk and is coding again, Meta president says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-04-14T15:33:00+00:00",
+      "source": "Business Insider"
     },
     {
       "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators - WIRED",
@@ -19,55 +40,34 @@
       "source": "WIRED"
     },
     {
-      "title": "Apple is testing four smart glasses designs to compete with Meta, report says - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrNFQ5QnVYZXNsTkR6aVNkcEtuZzFjRDYwZ213S1NqREg4UW9pazZKb2w5SmM0dE9MU2l1SEF5cVVRbTdKbl9ka195d0RBYVlScnVOdG9MMTdtaFJfWGk2Y0FxdzU0YnVsQXktaG5RNWNYWTAxa1JINA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBrNFQ5QnVYZXNsTkR6aVNkcEtuZzFjRDYwZ213S1NqREg4UW9pazZKb2w5SmM0dE9MU2l1SEF5cVVRbTdKbl9ka195d0RBYVlScnVOdG9MMTdtaFJfWGk2Y0FxdzU0YnVsQXktaG5RNWNYWTAxa1JINA?oc=5\" target=\"_blank\">Apple is testing four smart glasses designs to compete with Meta, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-04-13T18:06:34+00:00",
-      "source": "Mashable"
+      "title": "CNBC's The China Connection newsletter: China's AI glasses have something Meta doesn't - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckhoejNJeDdLcUNDTlBqZk1XQnBQWU0yUWpOWXJOZmxoNmtmanhvdmN4TG84cGVTY2M5T1ZrSG9uZXVPRW5MSm5IMTF0UmxrX1UwVFF4NTlsMDlYYmlaMmpGQ3hrS1dhOXdhQUdjOVZOVlBOeVlYYnZxT2RRUHVFYkZDVkhhemQ2Q0Y5V0pDbGR0UlJma1pkaUV4VjdmaXFjcU1v0gGoAUFVX3lxTE1DTVUtUXlMQlhPdk1nSXFfTkdpamxaa1FFSGZmMkJXVk9nb0dCYTFBSFNSMDhoQTV6dmRZWUdtQ0ZCQkt3VDQ1VkhlcGtWSW5kVzNMeHhTMmdSOGVsZ3YtVWNXYVk0ZHM0ZGFuU1FOVjJ4NHU1NU9LZS1DN2Qwc3NjSmFPM2k1dmVSMmdPaGtKbTJTZ21FbDZTVk44S3ZWVm9XNWw0aFJaRw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOckhoejNJeDdLcUNDTlBqZk1XQnBQWU0yUWpOWXJOZmxoNmtmanhvdmN4TG84cGVTY2M5T1ZrSG9uZXVPRW5MSm5IMTF0UmxrX1UwVFF4NTlsMDlYYmlaMmpGQ3hrS1dhOXdhQUdjOVZOVlBOeVlYYnZxT2RRUHVFYkZDVkhhemQ2Q0Y5V0pDbGR0UlJma1pkaUV4VjdmaXFjcU1v0gGoAUFVX3lxTE1DTVUtUXlMQlhPdk1nSXFfTkdpamxaa1FFSGZmMkJXVk9nb0dCYTFBSFNSMDhoQTV6dmRZWUdtQ0ZCQkt3VDQ1VkhlcGtWSW5kVzNMeHhTMmdSOGVsZ3YtVWNXYVk0ZHM0ZGFuU1FOVjJ4NHU1NU9LZS1DN2Qwc3NjSmFPM2k1dmVSMmdPaGtKbTJTZ21FbDZTVk44S3ZWVm9XNWw0aFJaRw?oc=5\" target=\"_blank\">CNBC's The China Connection newsletter: China's AI glasses have something Meta doesn't</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-04-13T23:00:01+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWRsVTAzWDBkc3daQlRFZGZYYjdsd1BfNnBiSG9LT1JXb3NvcFE3Q0RId2ZwNUtPZlpGaEpwd2pGLTRQaExYR3Q3MERuN0VQVlBCWGs5Mzc2bXhJdGN6Snl0bW5ZVEliR2tScGgtb0JqMHNlYmo1bk92VnkxVlBfcEo2WmY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWRsVTAzWDBkc3daQlRFZGZYYjdsd1BfNnBiSG9LT1JXb3NvcFE3Q0RId2ZwNUtPZlpGaEpwd2pGLTRQaExYR3Q3MERuN0VQVlBCWGs5Mzc2bXhJdGN6Snl0bW5ZVEliR2tScGgtb0JqMHNlYmo1bk92VnkxVlBfcEo2WmY?oc=5\" target=\"_blank\">Meta builds AI version of Mark Zuckerberg to interact with staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-04-13T06:44:24+00:00",
-      "source": "Financial Times"
+      "title": "Meta’s ‘pervert glasses’ fuels trend of creeps secretly filming women, posting videos online without consent: report - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEZhUVJ2cHFPd1dFU244b1k4d1llRHByNzlhaWJGRHA2TVR2QmlyRHhFdFZDelM3clZ2TjdRLXNFMXZXQUp6dExMVWlDRkdlRDh0YkZ4T1IwY3FxVERxQ1lrLXExekVfT2pOSmlCU3U0MnpCS3B5SEEzRzBCS0pXS1RXVUkySzJTTVNxM0JuNUd1b3N4UWNuTlFuZElad3dlV1BsVDA5VFM4eUdNQkJiazM3R2l6aDFMUFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEZhUVJ2cHFPd1dFU244b1k4d1llRHByNzlhaWJGRHA2TVR2QmlyRHhFdFZDelM3clZ2TjdRLXNFMXZXQUp6dExMVWlDRkdlRDh0YkZ4T1IwY3FxVERxQ1lrLXExekVfT2pOSmlCU3U0MnpCS3B5SEEzRzBCS0pXS1RXVUkySzJTTVNxM0JuNUd1b3N4UWNuTlFuZElad3dlV1BsVDA5VFM4eUdNQkJiazM3R2l6aDFMUFE?oc=5\" target=\"_blank\">Meta’s ‘pervert glasses’ fuels trend of creeps secretly filming women, posting videos online without consent: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "published": "2026-04-14T19:25:00+00:00",
+      "source": "New York Post"
     },
     {
-      "title": "Meta is reportedly building an AI clone of Mark Zuckerberg - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2p4R2dqckphU1p1cWo5cEZMaUxycW43SG0wUzctRk1YT1hWOWhyckRoaFhyTnVSbWZKRHhKTllVUkI3d2lLbW5NODkzSVN0YmpCTlpFMmk1RjJJM1VLaUhOOXFCLUVaN3lGNTRNMVhjS1g0WDM2QWtod2NnbjdZbU1xU3VMUVRmcmlWVGFOUE1obVU1M05LYzhta0NBQjhFSmsw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2p4R2dqckphU1p1cWo5cEZMaUxycW43SG0wUzctRk1YT1hWOWhyckRoaFhyTnVSbWZKRHhKTllVUkI3d2lLbW5NODkzSVN0YmpCTlpFMmk1RjJJM1VLaUhOOXFCLUVaN3lGNTRNMVhjS1g0WDM2QWtod2NnbjdZbU1xU3VMUVRmcmlWVGFOUE1obVU1M05LYzhta0NBQjhFSmsw?oc=5\" target=\"_blank\">Meta is reportedly building an AI clone of Mark Zuckerberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2026-04-13T13:02:42+00:00",
-      "source": "Engadget"
-    },
-    {
-      "title": "The Morning After: Meta is reportedly working on an AI model of Mark Zuckerberg - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGJ6aWZDdVNQeWpabEd3azd1Z1hpLUpwOHUyVEFDMzNxZEdvV0xvLTU1Zlp6bGVmanlxTXJFd09JMlhwaWV3LXNtM0hRcTlvVFhyUTdvclNLcld3UGp2b2hmU1p6WmgwVFdzU1lkX3ZRNTg5a3h3bEJ6Ujh5LTJ6M2otbllKOXlkTV9QQmpR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGJ6aWZDdVNQeWpabEd3azd1Z1hpLUpwOHUyVEFDMzNxZEdvV0xvLTU1Zlp6bGVmanlxTXJFd09JMlhwaWV3LXNtM0hRcTlvVFhyUTdvclNLcld3UGp2b2hmU1p6WmgwVFdzU1lkX3ZRNTg5a3h3bEJ6Ujh5LTJ6M2otbllKOXlkTV9QQmpR?oc=5\" target=\"_blank\">The Morning After: Meta is reportedly working on an AI model of Mark Zuckerberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2026-04-14T11:15:28+00:00",
-      "source": "Engadget"
-    },
-    {
-      "title": "Wall Street Firms Assert Meta Platforms, Inc. (META) as a Top Growth Stock in Billionaire Philippe Laffont’s portfolio - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHZnVmJGSW5XOWhIa3ZBNGVKdUk1WjUxT2FhOXV4Z1VvTEhYdHcwNUZtVm1JQmZzanZPRXNEbXFzSGxac3NGWXV5U1hLdlVpWjZZNUxyN3pHR1NZSndxaTd5RlB6ekZDTExLeFFvWFR0T1Y1eDlfVHc3dXh4azQyMWliX29idVRvUWtrXzlaSHVHS3lYWkphT0Nn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHZnVmJGSW5XOWhIa3ZBNGVKdUk1WjUxT2FhOXV4Z1VvTEhYdHcwNUZtVm1JQmZzanZPRXNEbXFzSGxac3NGWXV5U1hLdlVpWjZZNUxyN3pHR1NZSndxaTd5RlB6ekZDTExLeFFvWFR0T1Y1eDlfVHc3dXh4azQyMWliX29idVRvUWtrXzlaSHVHS3lYWkphT0Nn?oc=5\" target=\"_blank\">Wall Street Firms Assert Meta Platforms, Inc. (META) as a Top Growth Stock in Billionaire Philippe Laffont’s portfolio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-14T11:44:25+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Meta Expected to Unseat Google as World’s Largest Digital-Ad Player - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnlxeFAyVWZ0dE1FdGZjU1pyOG5PczZCR0p1UXFuNGdqMVJjcFlMYzRRSEdidDU0TjRQUGwtOXVDQVlLVDZoeG1KNHBhZHZzN2JIY2FBSlZQclRqUFRNbGdLdF9iY1hVaU9NV09UX0lTUG1BYzliRDVwWVZ6WVRHUnJzT2FQU3lmUEhZTmlvdXlYbmRMYVZEam1XcVEwbmd1TlBhb1EwQ0hxQkRUTW84?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnlxeFAyVWZ0dE1FdGZjU1pyOG5PczZCR0p1UXFuNGdqMVJjcFlMYzRRSEdidDU0TjRQUGwtOXVDQVlLVDZoeG1KNHBhZHZzN2JIY2FBSlZQclRqUFRNbGdLdF9iY1hVaU9NV09UX0lTUG1BYzliRDVwWVZ6WVRHUnJzT2FQU3lmUEhZTmlvdXlYbmRMYVZEam1XcVEwbmd1TlBhb1EwQ0hxQkRUTW84?oc=5\" target=\"_blank\">Meta Expected to Unseat Google as World’s Largest Digital-Ad Player</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-04-13T11:00:00+00:00",
-      "source": "WSJ"
+      "title": "Social Media Powers Online’s Ad Market Dominance, and Meta Eats 70 Percent of That Pie - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlB6SjFPMGVUNUg1RzFMU3VCSm1nSHZJZk1xeE5tVHFwdnhQR2RvTjBRLTZsSlY5X2kxcWQ2MUI5Ym5MRFdqNWJPSGhFS2Y5anlLM3pyZm9OZ1h1YlNlZ1lBUnZLV0FxVHVmNGcxTEw5d1RzZ0wxSFNpM3BvclVZVzZVaFM0dHotUWtBTlJTbWZLZG5Xam52ME1rVHE4ZkJsNXh0YzdxbVhRaGhOclhUTno2MG5NaGpjTHpneFVOdFpramlrb2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlB6SjFPMGVUNUg1RzFMU3VCSm1nSHZJZk1xeE5tVHFwdnhQR2RvTjBRLTZsSlY5X2kxcWQ2MUI5Ym5MRFdqNWJPSGhFS2Y5anlLM3pyZm9OZ1h1YlNlZ1lBUnZLV0FxVHVmNGcxTEw5d1RzZ0wxSFNpM3BvclVZVzZVaFM0dHotUWtBTlJTbWZLZG5Xam52ME1rVHE4ZkJsNXh0YzdxbVhRaGhOclhUTno2MG5NaGpjTHpneFVOdFpramlrb2c?oc=5\" target=\"_blank\">Social Media Powers Online’s Ad Market Dominance, and Meta Eats 70 Percent of That Pie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
+      "published": "2026-04-14T16:13:17+00:00",
+      "source": "The Hollywood Reporter"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple's Smart Glasses to Rival Meta's - StartupHub.ai",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlY3UF85V1NqbXh5dEtuVnpkQ2dCTTBLVVJSVWx6LXZGVU9tOVplekNPUHlRQXZYWC10ODlRSkoyal9TY3FmY3RtU2ROcGZvNGFVZVpXbUo3dG92Y0Rjc2hSODBoMkI0OWVtdDFNU3hiOGYzUHB5Vm5LSzllMDlFRzNTemplNE9qQkF6MF9xdjZRX0oyRGdWdjYzempNQm9OUnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlY3UF85V1NqbXh5dEtuVnpkQ2dCTTBLVVJSVWx6LXZGVU9tOVplekNPUHlRQXZYWC10ODlRSkoyal9TY3FmY3RtU2ROcGZvNGFVZVpXbUo3dG92Y0Rjc2hSODBoMkI0OWVtdDFNU3hiOGYzUHB5Vm5LSzllMDlFRzNTemplNE9qQkF6MF9xdjZRX0oyRGdWdjYzempNQm9OUnc?oc=5\" target=\"_blank\">Apple's Smart Glasses to Rival Meta's</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StartupHub.ai</font>",
-      "published": "2026-04-13T21:13:23+00:00",
-      "source": "StartupHub.ai"
+      "title": "Meta To Expand Consumer-Facing AI Products In 2026 01/30/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVNtRXVMbUFrV3BPTTlLNnBla3F6Vk93SUY4SjZLRXdpZGRFQndGUmpHelNkSUVnWGlBVG1EZFJ5OUhzdGFmTUFPcVNpT3hwbFM1SWZ5aEVXQlpfR1IxMUxxT3ByZUVmWnA0SVd0LXY5ckY2RkpLNXQ4MklFd3J1aFVEUE9YVEVUVmN1QlEtazNmdFktWlJORVpYcmJaV2JWcTlLQ3RPeW5tV1Z1SlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVNtRXVMbUFrV3BPTTlLNnBla3F6Vk93SUY4SjZLRXdpZGRFQndGUmpHelNkSUVnWGlBVG1EZFJ5OUhzdGFmTUFPcVNpT3hwbFM1SWZ5aEVXQlpfR1IxMUxxT3ByZUVmWnA0SVd0LXY5ckY2RkpLNXQ4MklFd3J1aFVEUE9YVEVUVmN1QlEtazNmdFktWlJORVpYcmJaV2JWcTlLQ3RPeW5tV1Z1SlE?oc=5\" target=\"_blank\">Meta To Expand Consumer-Facing AI Products In 2026 01/30/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
+      "published": "2026-04-14T19:26:13+00:00",
+      "source": "MediaPost"
     },
     {
       "title": "Meta Reportedly Launching Prescription-Focused Smart Glasses This Week - UploadVR",
@@ -77,13 +77,6 @@
       "source": "UploadVR"
     },
     {
-      "title": "Meta Platforms: Muse Spark Launch Sends A Signal To Investors (NASDAQ:META) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnJXUDNSMWNhSzUyeU9lUUJUR3lSaGY1VXRIMTlmUGoyLWFUNm5nOHV0ZUdRNHBseHp4eEdGRGZpaFJsaWhab1A1eHdRUDE3SnI2RjFDMnhtWm9jYkdRNGZncjhtUjYxY1otOWZvZHo2bHlFMnU1WTJRYUU3VkE4ZjdkUTNpOHFOQmJiNEdMWEhMNzhmeWJDMDFRa0g3UWQ1Yzlr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnJXUDNSMWNhSzUyeU9lUUJUR3lSaGY1VXRIMTlmUGoyLWFUNm5nOHV0ZUdRNHBseHp4eEdGRGZpaFJsaWhab1A1eHdRUDE3SnI2RjFDMnhtWm9jYkdRNGZncjhtUjYxY1otOWZvZHo2bHlFMnU1WTJRYUU3VkE4ZjdkUTNpOHFOQmJiNEdMWEhMNzhmeWJDMDFRa0g3UWQ1Yzlr?oc=5\" target=\"_blank\">Meta Platforms: Muse Spark Launch Sends A Signal To Investors (NASDAQ:META)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-04-09T18:35:45+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
       "title": "Meta unveils two $499 Ray-Ban smart glasses for prescription users - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVpxak83MjhkRWktYkxQc3lPeTJQSzh1WGROcHRzZTBPNXptVU9iV3FFem5zOHdXb0xCX1B1N3ZEaVV1Y1Q2MjNfdUlmeFVIRGFDQWkwMElaQnBBNC1XelRrRWR3ZnJ1RWhFbE5BUmJWWGxBeDlRZE0tZ0d0QUF6SkltVDgwZ3FKUzdOLTdkSFREaFJYQTlHTXQzYmYzUlVhQmRqakY1NG91XzJSVUdaZnQ0TV8?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVpxak83MjhkRWktYkxQc3lPeTJQSzh1WGROcHRzZTBPNXptVU9iV3FFem5zOHdXb0xCX1B1N3ZEaVV1Y1Q2MjNfdUlmeFVIRGFDQWkwMElaQnBBNC1XelRrRWR3ZnJ1RWhFbE5BUmJWWGxBeDlRZE0tZ0d0QUF6SkltVDgwZ3FKUzdOLTdkSFREaFJYQTlHTXQzYmYzUlVhQmRqakY1NG91XzJSVUdaZnQ0TV8?oc=5\" target=\"_blank\">Meta unveils two $499 Ray-Ban smart glasses for prescription users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -91,25 +84,28 @@
       "source": "Reuters"
     },
     {
-      "title": "Exclusive: Zuckerberg launches Meta Small Business - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHNpaFduTXpRS2dzUGxoNktNOWt5ZDNSeDZPSTNITXM2c0ZRaFdlVkl1M3hnTEFMbUp0OUU0YXByOUxFdHY5R29tS0ZkdGExbnM2c2dlRGE3UUUxNl9fQUJlY09RcG9TVlpXVXViNS15d1MtQkFmUnhrWHQxbXZJOUFVaUNHZll0SXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORHNpaFduTXpRS2dzUGxoNktNOWt5ZDNSeDZPSTNITXM2c0ZRaFdlVkl1M3hnTEFMbUp0OUU0YXByOUxFdHY5R29tS0ZkdGExbnM2c2dlRGE3UUUxNl9fQUJlY09RcG9TVlpXVXViNS15d1MtQkFmUnhrWHQxbXZJOUFVaUNHZll0SXc?oc=5\" target=\"_blank\">Exclusive: Zuckerberg launches Meta Small Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": "Axios"
+      "title": "Meta's next AI glasses are reportedly designed with prescription lenses in mind - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNE92ZVFYVjlVSUZlZm1kYzZQSkY0T094cUFibERGMkJKVGQ4ekNYSG9mM0djZzQ1dkd6cEVMdF9VaUxrMFcwWXVuNFU3dnRqdmxJUWpDUVYwNS1fRlR4eVVBa2FINXFSVHZnaXNsTmRYTV9uTkZwejhhUmdlanFzdm1aY21MM01xXzBzR2hnWnZrZTQtczlCMnF1aWVNX2VVR0lraTJTclI3R281MndOMUEtX0hCLU1PN0hBQTNGeW43ODN4TmNz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNE92ZVFYVjlVSUZlZm1kYzZQSkY0T094cUFibERGMkJKVGQ4ekNYSG9mM0djZzQ1dkd6cEVMdF9VaUxrMFcwWXVuNFU3dnRqdmxJUWpDUVYwNS1fRlR4eVVBa2FINXFSVHZnaXNsTmRYTV9uTkZwejhhUmdlanFzdm1aY21MM01xXzBzR2hnWnZrZTQtczlCMnF1aWVNX2VVR0lraTJTclI3R281MndOMUEtX0hCLU1PN0hBQTNGeW43ODN4TmNz?oc=5\" target=\"_blank\">Meta's next AI glasses are reportedly designed with prescription lenses in mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-03-28T07:00:00+00:00",
+      "source": "Engadget"
+    },
+    {
+      "title": "Meta Plans to Add Facial Recognition Technology to Its Smart Glasses - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3lQQXZRMkZrbzQ0SmpRRENfN0lTUml0ZmFVMmRvUkZmM1lmdjBTV2ZTRFN5RzczNG9KU3hmck5pcFZvUlM1VllOM0RxN0ZwTUxLTEZFZGVWWVQycGF4Z0QycDhkTG5FaVVUcHlILUhVSVpZVjhvRG9TSExCSTFwbTMtVjlneHJvWjhxUHdscFhtdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3lQQXZRMkZrbzQ0SmpRRENfN0lTUml0ZmFVMmRvUkZmM1lmdjBTV2ZTRFN5RzczNG9KU3hmck5pcFZvUlM1VllOM0RxN0ZwTUxLTEZFZGVWWVQycGF4Z0QycDhkTG5FaVVUcHlILUhVSVpZVjhvRG9TSExCSTFwbTMtVjlneHJvWjhxUHdscFhtdw?oc=5\" target=\"_blank\">Meta Plans to Add Facial Recognition Technology to Its Smart Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-02-14T08:00:00+00:00",
+      "source": "The New York Times"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-13",
-      "close": 634.530029296875
+      "date": "2026-04-14",
+      "close": 662.489990234375
     },
     "history": [
-      {
-        "date": "2026-04-02",
-        "close": 574.4600219726562
-      },
       {
         "date": "2026-04-06",
         "close": 573.02001953125
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-13",
         "close": 634.530029296875
+      },
+      {
+        "date": "2026-04-14",
+        "close": 662.489990234375
       }
     ],
     "name": "Meta Platforms, Inc."
