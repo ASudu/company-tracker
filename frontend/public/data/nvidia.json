@@ -2,49 +2,56 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-04-16T13:06:34.703442+00:00",
+  "fetched_at": "2026-04-17T12:56:34.277413+00:00",
   "news": [
     {
-      "title": "IonQ (IONQ) Soars 21% on Nvidia Quantum Computing Support - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHV0R2E3NEtUWVd4UEwwVUdYYlN5SklsczFiN19weklEQ0xKYjdjSzJVRW1qV1BaSVpSTlN5NWN2SjFaWndGX2FfUnF6dVBadVBmQm00Wk1VMEFuS3VwamFZajVoUDZIWTdwMEM3QlBvXzFveGwyeURQajlqaUhlYnFoeDA3WC1tRkc0QmxIVHZ5SDRZ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHV0R2E3NEtUWVd4UEwwVUdYYlN5SklsczFiN19weklEQ0xKYjdjSzJVRW1qV1BaSVpSTlN5NWN2SjFaWndGX2FfUnF6dVBadVBmQm00Wk1VMEFuS3VwamFZajVoUDZIWTdwMEM3QlBvXzFveGwyeURQajlqaUhlYnFoeDA3WC1tRkc0QmxIVHZ5SDRZ?oc=5\" target=\"_blank\">IonQ (IONQ) Soars 21% on Nvidia Quantum Computing Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0JvM3otNDQtbV8xdl9sR2JKeHp2enlkVlg4akZFR3RSNVJ5WGo1cGJ3RUVPZXBuRmJHX3B4b1Zjd3dyUVJiYnduaWtOZE1BVVBhZzRDMWNUSnROR0t1TjdlWUFWbEUwaEhRMWVRVllLM1ZELTBNeDQ2STc2RWw1Q0dYRmhsWkctZHA2SlhVRlRjNU5iSVFER3pSVVRGbmpnOHA3RXVwcUYzSG5telhoSXhjczRzN0lQUE93eXluM3JULTg?oc=5\" target=\"_blank\">Quantum Computing Stocks Are Surging. New Models From Nvidia Are Helping Drive the Rally.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUt6WjNnb2pwdTVkXzhLZkJJTklpTnd1b0V0TTV3TUJMV1RyZzhmLWExS3gtQU5NOWRtV3ZnNGg1dUt2WWFEM3R1N2dSZjNYN1lTdmJPdFBqY3ZWdnVPcHNjR3U1UmcxZUswN2tGNVlERVZqRXVfT1V2N0t5RlNTNWlCVm4tMTlNMXRiQnVla2VVRnJXcW5LVzBvV2FkTU9XRFl4cC1jTTM?oc=5\" target=\"_blank\">Here are Thursday's biggest analyst calls: Nvidia, Apple, Tesla, CoreWeave, Meta, Dick's, ResMed & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
-      "published": "2026-04-16T01:25:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9yWHNfUVZJUW9Rd19PbnE5elVSXzY2WFhvd2ZWYTRlN1k5QUlLRmk5XzNyOEhfYjFwazRVSXVBTEE1R2ZQZHNtTVhDTmwxZjkyMmU1bzRsSnY0a3diOTUtSFJMeGNENkpXd0U1N3dLU1dmc002NGtnTUFuaV8yYUM0bndFR3I5U2lOY2JB0gGTAUFVX3lxTE9SU0hXMzN2YVpuVXRLajdsWF9faFdRS2tvMllhTXE2U2hzZkNNU1JtNEFCTFhWdm1wQllQM1VqVGZtRkVpdHJSZnI4d2txSUx6bHR0U3pYRTc1cVBhbVZkS2lOMDc3TWJmdDF6WkpWM3ZEMG9uTGJyVjh5azlOY0d4TFFnUl9uN2N6T2tCVkItQi1Jaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9yWHNfUVZJUW9Rd19PbnE5elVSXzY2WFhvd2ZWYTRlN1k5QUlLRmk5XzNyOEhfYjFwazRVSXVBTEE1R2ZQZHNtTVhDTmwxZjkyMmU1bzRsSnY0a3diOTUtSFJMeGNENkpXd0U1N3dLU1dmc002NGtnTUFuaV8yYUM0bndFR3I5U2lOY2JB0gGTAUFVX3lxTE9SU0hXMzN2YVpuVXRLajdsWF9faFdRS2tvMllhTXE2U2hzZkNNU1JtNEFCTFhWdm1wQllQM1VqVGZtRkVpdHJSZnI4d2txSUx6bHR0U3pYRTc1cVBhbVZkS2lOMDc3TWJmdDF6WkpWM3ZEMG9uTGJyVjh5azlOY0d4TFFnUl9uN2N6T2tCVkItQi1Jaw?oc=5\" target=\"_blank\">Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-04-17T07:10:01+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "US Senator Warren voices concern over Nvidia's acquisition of Slurm - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEFGbmEteGR6T1h3TVBvVXlfWk5xUWU0TTRjU29kRHFLeWVrb0FtWHFSZTkwOWRsZ2NhalF0ekQyT1VLa0t1d3dELTRLMTZuWktyaEVKejhadFNuSDYwQ3ZyNUplMDUtWGxvR0NJa01mT0lHSlFDS3ZYUC1mWHI1cEdxZ3hHOWVqUVUwSDgtRV8yT0x3TldmR2tDbkRDaTNxLTl3bG1wSVBpQmwzU3JR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEFGbmEteGR6T1h3TVBvVXlfWk5xUWU0TTRjU29kRHFLeWVrb0FtWHFSZTkwOWRsZ2NhalF0ekQyT1VLa0t1d3dELTRLMTZuWktyaEVKejhadFNuSDYwQ3ZyNUplMDUtWGxvR0NJa01mT0lHSlFDS3ZYUC1mWHI1cEdxZ3hHOWVqUVUwSDgtRV8yT0x3TldmR2tDbkRDaTNxLTl3bG1wSVBpQmwzU3JR?oc=5\" target=\"_blank\">US Senator Warren voices concern over Nvidia's acquisition of Slurm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-04-15T14:35:37+00:00",
+      "title": "Tech stocks today: Dell stock jumps, then falls after hours, as Nvidia dispels acquisition rumor - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU0pTVE9QcmdoRml0UTdaWUZOWVVKaWV3Vk5QZ3hkTm1jWm1Db21HRFZBZWpkdjJWUFo2cjd2d25mR1ltWnFtcTYyMjgtX1c4MnZhUEdSMnBXYlNTNmlwVkdsZU11N2lEelhIUjU3b29vTWJIQVNOV0F1dmUxV044TFlueGI3WTREcVFrSFRHTjBSUmxjNXdiLXFOS1lXQkRjV2tiUHl0T3dHNW9ib1dnN1hwcGlMd1hBQ2F3SGdGVDBuVlBzR1UtZ20yY0llWWJJc0hreHBuNXBpcWx4a2Rn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU0pTVE9QcmdoRml0UTdaWUZOWVVKaWV3Vk5QZ3hkTm1jWm1Db21HRFZBZWpkdjJWUFo2cjd2d25mR1ltWnFtcTYyMjgtX1c4MnZhUEdSMnBXYlNTNmlwVkdsZU11N2lEelhIUjU3b29vTWJIQVNOV0F1dmUxV044TFlueGI3WTREcVFrSFRHTjBSUmxjNXdiLXFOS1lXQkRjV2tiUHl0T3dHNW9ib1dnN1hwcGlMd1hBQ2F3SGdGVDBuVlBzR1UtZ20yY0llWWJJc0hreHBuNXBpcWx4a2Rn?oc=5\" target=\"_blank\">Tech stocks today: Dell stock jumps, then falls after hours, as Nvidia dispels acquisition rumor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+      "published": "2026-04-13T21:19:55+00:00",
+      "source": "Yahoo! Finance Canada"
+    },
+    {
+      "title": "Is Nvidia Stock a Buy as the Agentic AI Era Begins? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcExtbGFRb2lXTHpPT1NxejhmT3NvVThuU3R2RVdUOEowdW1US2otazFHYW9JUlVscktyYUJfSlE2TFRwYkRuTGxEVFdwRjdrRldQb2xQUkE0TW8tRlItSmZBdUFEd2xHOUlmSXFqX0N5U0FuSTdVdGRrQ1ZxMi02QjJKNHVCX1RTSi1qMW5tdE11SjdtN1I3bQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcExtbGFRb2lXTHpPT1NxejhmT3NvVThuU3R2RVdUOEowdW1US2otazFHYW9JUlVscktyYUJfSlE2TFRwYkRuTGxEVFdwRjdrRldQb2xQUkE0TW8tRlItSmZBdUFEd2xHOUlmSXFqX0N5U0FuSTdVdGRrQ1ZxMi02QjJKNHVCX1RTSi1qMW5tdE11SjdtN1I3bQ?oc=5\" target=\"_blank\">Is Nvidia Stock a Buy as the Agentic AI Era Begins?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWxYdjJWaEtYUzM0T1JHLThnOXNSZVdQeEtpLXVicTIzWTdvRDBqQlc5bWVybXJPLVg2REt6U01wSE5yVnhGZTVhRExKN0Q2S1dlZW1EQlctVUlBai1QaUV0UGpWN1Z5R0VtOU1uZkZtYjRhLVhReUF2WmxnOHcwZGRyaVF2ZUlTTzhR?oc=5\" target=\"_blank\">Nvidia: I'm Finally Convinced (Rating Upgrade) (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcjgzRW5vdEpESFkwb0pyNkU0UXlOX0pTVmIwZ0Z1bUo2czNmLWVtMkl6SHh3aWliSU0wVTJsMzk3RFhqSmtUQ3d5MlRSRWFZazdqaTdIenVXR3hwQmx5cExmRG9LblRoOUcxSFVHeGNWODZQa3J5N1VvZ3JDbHpYSHN1V2ZLNDNSWWFDMW9kMmZsVjJJeUswVXl6clZxTkZpel90eg?oc=5\" target=\"_blank\">Here are Friday's biggest analyst calls: Nvidia, Apple, Netflix, JPMorgan, Affirm, UnitedHealth, WeRide & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+      "published": "2026-04-17T02:05:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Nvidia (NVDA) Rival Charges into $100 Million Funding as European AI Chip Market Surges - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRm9lYkRiZ1JUWHJQUExXTVpFYjE3SE1jakJnZ2lBeGVqTmR3b0JZTEdzLUVIbW9vNVBHUVZSczhuLXA2ZVJqX1VOdzlDc0VLUUJpNGtULS1WdTVTSlV1dl9zbDM1TTVQWDRjR05KV3RQMDB5UW15VXFrN0tBMnpLSzBEZGJtekkyVFRaR2RINHRublA3UVBKdGhiVml4YXdzNHl1aUh2cmdfMHJRNktiQjdzWXg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRm9lYkRiZ1JUWHJQUExXTVpFYjE3SE1jakJnZ2lBeGVqTmR3b0JZTEdzLUVIbW9vNVBHUVZSczhuLXA2ZVJqX1VOdzlDc0VLUUJpNGtULS1WdTVTSlV1dl9zbDM1TTVQWDRjR05KV3RQMDB5UW15VXFrN0tBMnpLSzBEZGJtekkyVFRaR2RINHRublA3UVBKdGhiVml4YXdzNHl1aUh2cmdfMHJRNktiQjdzWXg?oc=5\" target=\"_blank\">Nvidia (NVDA) Rival Charges into $100 Million Funding as European AI Chip Market Surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "published": "2026-04-17T12:08:07+00:00",
+      "source": "TipRanks"
+    },
+    {
+      "title": "Nvidia Alum Rides China’s Robotics Wave to 187% Debut Pop - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBOZ0lnV1lEYjltb25BcDBHaThBR1pTSlJSNXo0RGN0T0hDTUQ4dEgxbW54cXFnMmEzamhxU1ZiRUpGSkRyNTlpS0FYV3pCR25GSDF1a2ZReEUzTXNkaE53MFh1a29NQ3FvQkdfQzktdlBLOGZ5b0haREMyaHlOQVRWdmd6LWk2c0RxUGpVZkc0U1drWW8wUWVkczZyVGFOZTc5Sl9qbUFuNDE4SFhVaA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTBOZ0lnV1lEYjltb25BcDBHaThBR1pTSlJSNXo0RGN0T0hDTUQ4dEgxbW54cXFnMmEzamhxU1ZiRUpGSkRyNTlpS0FYV3pCR25GSDF1a2ZReEUzTXNkaE53MFh1a29NQ3FvQkdfQzktdlBLOGZ5b0haREMyaHlOQVRWdmd6LWk2c0RxUGpVZkc0U1drWW8wUWVkczZyVGFOZTc5Sl9qbUFuNDE4SFhVaA?oc=5\" target=\"_blank\">Nvidia Alum Rides China’s Robotics Wave to 187% Debut Pop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-04-17T01:53:00+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5\" target=\"_blank\">Cadence, Nvidia working together on developing AI for robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-04-15T21:42:09+00:00",
       "source": "Reuters"
     },
     {
-      "title": "How Nvidia Stock Gets To $300 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnpETGlYRkJ2YVNsZTFtSGZEVzJWSlE5RDgxRmlpa051R01oN3d5Q29VQWZ0ZzZIWUhVa1RvMWhvRGZxaDcyV2lYRS1hRkc1YWVhb3pZYjIwZm9MQ0R6NzVHczdQYklTQ3p3Qm5vLUdwRGM2UXNOSzhpT2p3VndQOFlWVnlhWUpvdDljanFIN00?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnpETGlYRkJ2YVNsZTFtSGZEVzJWSlE5RDgxRmlpa051R01oN3d5Q29VQWZ0ZzZIWUhVa1RvMWhvRGZxaDcyV2lYRS1hRkc1YWVhb3pZYjIwZm9MQ0R6NzVHczdQYklTQ3p3Qm5vLUdwRGM2UXNOSzhpT2p3VndQOFlWVnlhWUpvdDljanFIN00?oc=5\" target=\"_blank\">How Nvidia Stock Gets To $300</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-04-16T12:30:47+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Nvidia Stock Tests $200. What’s Driving Its Longest-Ever Hot Run. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OUXh5UVpMQk94d0h0SG5PYzJPNkhsN1ZDcVFFZ1RVY0FxVWJTMEM5cWY3Tm1UNUM2T0hjY1RCSTNtazVZZ1FhWlZxVzZrcmFVVmVacXZQVnkwU1VYODlWYWFNczBES3RlZkp4YzVhT05DOVRvWUFFOHlNa1NyWlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9OUXh5UVpMQk94d0h0SG5PYzJPNkhsN1ZDcVFFZ1RVY0FxVWJTMEM5cWY3Tm1UNUM2T0hjY1RCSTNtazVZZ1FhWlZxVzZrcmFVVmVacXZQVnkwU1VYODlWYWFNczBES3RlZkp4YzVhT05DOVRvWUFFOHlNa1NyWlk?oc=5\" target=\"_blank\">Nvidia Stock Tests $200. What’s Driving Its Longest-Ever Hot Run.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-04-16T11:13:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Tech stocks today: Dell stock jumps, then falls after hours, as Nvidia dispels acquisition rumor - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRC1aWE1ENGEtUEhJTV9udDRSdjl5R0ZOV21lTVhDT2h3MlpHdFFsM3NwYzE2VzYtTUNXdEZ0bVEzcmUyblRkaERCbWd4Uld4akFfVklfMTNDNEZsbUJkOVhkYzFIUEhnNnVweUxWT3JUUmVxd0RPZ0laYXgxQV9veHJiakNrY216QThrdndoYms2R0s0ZHlCWGpGWm5XTE9QREpkRnVaQmxqOXFJM2NVeXcwNVFfZDRsdUI1X25McU1Sc0ItWDBFVlFtaFNXRGJWd1l6THBB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRC1aWE1ENGEtUEhJTV9udDRSdjl5R0ZOV21lTVhDT2h3MlpHdFFsM3NwYzE2VzYtTUNXdEZ0bVEzcmUyblRkaERCbWd4Uld4akFfVklfMTNDNEZsbUJkOVhkYzFIUEhnNnVweUxWT3JUUmVxd0RPZ0laYXgxQV9veHJiakNrY216QThrdndoYms2R0s0ZHlCWGpGWm5XTE9QREpkRnVaQmxqOXFJM2NVeXcwNVFfZDRsdUI1X25McU1Sc0ItWDBFVlFtaFNXRGJWd1l6THBB?oc=5\" target=\"_blank\">Tech stocks today: Dell stock jumps, then falls after hours, as Nvidia dispels acquisition rumor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-14T09:55:29+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Futures Rise After Market Hits High; AI Giant Slides - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjB0bjZpUFRTWHF5RV9EVjJlS09YaVk5ZW13YldXdi04YUtVUElyX3hETkdzU0U0YUtnOG44ejBhUWNUczV2M2NSMUZ2Yjh0WDFfNUkxLXp3UDFycXdkVHg4WE5EaG1KUGNwRlhQQ0tPVUk3eVVfckJtQXkwek5zMk5MMjN2TzU1LXdfeUdJNWN1bk1qeW1keUwwVDNJazRqSWF5VnQzTkhieV9nWTNGNkNtNGlPa3g3b0xNamNhczlJZVVaWDByQjZqdko3TEJha3dFQ2xwZXJLc2N5VUlXcmI3VQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjB0bjZpUFRTWHF5RV9EVjJlS09YaVk5ZW13YldXdi04YUtVUElyX3hETkdzU0U0YUtnOG44ejBhUWNUczV2M2NSMUZ2Yjh0WDFfNUkxLXp3UDFycXdkVHg4WE5EaG1KUGNwRlhQQ0tPVUk3eVVfckJtQXkwek5zMk5MMjN2TzU1LXdfeUdJNWN1bk1qeW1keUwwVDNJazRqSWF5VnQzTkhieV9nWTNGNkNtNGlPa3g3b0xNamNhczlJZVVaWDByQjZqdko3TEJha3dFQ2xwZXJLc2N5VUlXcmI3VQ?oc=5\" target=\"_blank\">Futures Rise After Market Hits High; AI Giant Slides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-04-16T11:58:00+00:00",
-      "source": "Investor's Business Daily"
+      "title": "Exclusive: TD Synnex Nabs Over 1,000 Nvidia GPUs For Channel In Nebius Cloud Deal - crn.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjFJbU5hdDBnMXNhcjdrY19EeEF3Z2t6U3RIbEpJZzk5VEtpU2hCUnhiNmNjLTNhWWg5WkYxWHpSN2M3ZXhYZjhRTU1YWjQ3Sk8zd1RmU203UUFLTnItR0VZNWh4czFLWW5oQXZFQkh0ZC1jc3VQbVQ3d3FxX09jVTdEdXdMZ3ZzSldWUm5zeTYwRjhJLXhtT1MwVGIwc3llQW90ZWMzTlRlb3E4YjJ4bjQ0cw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjFJbU5hdDBnMXNhcjdrY19EeEF3Z2t6U3RIbEpJZzk5VEtpU2hCUnhiNmNjLTNhWWg5WkYxWHpSN2M3ZXhYZjhRTU1YWjQ3Sk8zd1RmU203UUFLTnItR0VZNWh4czFLWW5oQXZFQkh0ZC1jc3VQbVQ3d3FxX09jVTdEdXdMZ3ZzSldWUm5zeTYwRjhJLXhtT1MwVGIwc3llQW90ZWMzTlRlb3E4YjJ4bjQ0cw?oc=5\" target=\"_blank\">Exclusive: TD Synnex Nabs Over 1,000 Nvidia GPUs For Channel In Nebius Cloud Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crn.com</font>",
+      "published": "2026-04-16T12:00:00+00:00",
+      "source": "crn.com"
     },
     {
       "title": "Nvidia’s Huang Says Mythos Shows Need for US-China AI Dialogue - Bloomberg.com",
@@ -52,13 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzFicVFRcTBOYUwwVUJXTUJIVUc4VUN3VjVfWm1fb1o5T2w5UzYtcnV4NHFuMEZSSFVZc1J1dDl4UnkyZk8xRDJJc1NqaENmSmlZTVptem5wZmVZVTBDOTIzcTVLUFpfTWVITW5EdDJETUViejE1ZkF5b0toQWFNR2poX2ppYlhwWlYzS2NZSWtLeU9rTEQ5WktRVG8ycHFmUVpyeE9zZzllQkdzeGdBX0Qzcw?oc=5\" target=\"_blank\">Nvidia’s Huang Says Mythos Shows Need for US-China AI Dialogue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "published": "2026-04-15T23:12:47+00:00",
       "source": "Bloomberg.com"
-    },
-    {
-      "title": "Broadcom: Stealing Nvidia's Lunch Money (NASDAQ:AVGO) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemtkelVabVc0Y3pITllMMDh0YXNjV0REa29ZZ2Y3cWJOeFc4ZlBnV1luVUpXZThxMUNvWVF3NWlWU2F5dFlDZVhyVUxINDUyMkpsalQtSkJIbzEyZmRuYU9vTXh6ZE9PckJmamFzWnlHRnRzdEJFWVpmUUpQeFJBY1o2MA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOemtkelVabVc0Y3pITllMMDh0YXNjV0REa29ZZ2Y3cWJOeFc4ZlBnV1luVUpXZThxMUNvWVF3NWlWU2F5dFlDZVhyVUxINDUyMkpsalQtSkJIbzEyZmRuYU9vTXh6ZE9PckJmamFzWnlHRnRzdEJFWVpmUUpQeFJBY1o2MA?oc=5\" target=\"_blank\">Broadcom: Stealing Nvidia's Lunch Money (NASDAQ:AVGO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-04-15T13:19:39+00:00",
-      "source": "Seeking Alpha"
     }
   ],
   "product_launches": [
@@ -91,25 +91,21 @@
       "source": "Data Center Dynamics"
     },
     {
-      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026 - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWFjM0hMemZzSi1iOTltdDdzWlVSdWlLR2x1OHNzTGpONWpRTEdXcElZNjJKRzZzMkc1R3hUM291am1hSzh0NFB6WUE3Tno4TEhMZFV6V0ZkNTBrUXVNTFZxdjVmOUcyWmNGTDFudTlaY25RZl9wdWctbEtWTXJNbG9oZGtoX2FESVBQRF96RXlVNm5yZmNGTUFXZlp6X3Q1SXNaT3kyZXJxVEo5aW9QUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWFjM0hMemZzSi1iOTltdDdzWlVSdWlLR2x1OHNzTGpONWpRTEdXcElZNjJKRzZzMkc1R3hUM291am1hSzh0NFB6WUE3Tno4TEhMZFV6V0ZkNTBrUXVNTFZxdjVmOUcyWmNGTDFudTlaY25RZl9wdWctbEtWTXJNbG9oZGtoX2FESVBQRF96RXlVNm5yZmNGTUFXZlp6X3Q1SXNaT3kyZXJxVEo5aW9QUw?oc=5\" target=\"_blank\">Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-      "published": "2026-04-03T07:00:00+00:00",
-      "source": "VentureBeat"
+      "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-01-09T08:00:00+00:00",
+      "source": "Business Insider"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-15",
-      "close": 198.8699951171875
+      "date": "2026-04-16",
+      "close": 198.35000610351562
     },
     "history": [
-      {
-        "date": "2026-04-07",
-        "close": 178.10000610351562
-      },
       {
         "date": "2026-04-08",
         "close": 182.0800018310547
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-15",
         "close": 198.8699951171875
+      },
+      {
+        "date": "2026-04-16",
+        "close": 198.35000610351562
       }
     ],
     "name": "NVIDIA Corporation"
