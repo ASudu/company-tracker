@@ -2,35 +2,14 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-04-20T13:06:21.547858+00:00",
+  "fetched_at": "2026-04-21T13:00:58.225823+00:00",
   "news": [
     {
-      "title": "Swiss authorities want to reduce dependency on Microsoft - SWI swissinfo.ch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnpwb19RdzBGcnFOTFF0QlZ6MkFmamFzeDRoRHdoMFhpVTNNdTNXWUZCTXd1OWdydVVMd2l2cVNlRFgxbXpfVl9rbjZPTm5YMGhldHlHMXhELVh0TmdUczlWS1BDOWVPQV9FWlczamxVRzY3M2hiUFh0NVlyTkplTC1xMVR0bWxPdGNvX0ZWSUhCc2dRYTQtVGZuN2JFUHNrbnVfemV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnpwb19RdzBGcnFOTFF0QlZ6MkFmamFzeDRoRHdoMFhpVTNNdTNXWUZCTXd1OWdydVVMd2l2cVNlRFgxbXpfVl9rbjZPTm5YMGhldHlHMXhELVh0TmdUczlWS1BDOWVPQV9FWlczamxVRzY3M2hiUFh0NVlyTkplTC1xMVR0bWxPdGNvX0ZWSUhCc2dRYTQtVGZuN2JFUHNrbnVfemV3?oc=5\" target=\"_blank\">Swiss authorities want to reduce dependency on Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SWI swissinfo.ch</font>",
-      "published": "2026-04-19T10:34:42+00:00",
-      "source": "SWI swissinfo.ch"
-    },
-    {
-      "title": "If You See This Microsoft Login—Your Account Is Being Hacked - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHRIYVYxVndPeUZYZ3dqdnJ0M0R1MmI4QU8xUGRRRl96WWxMNk03MWMxSUlMSGxWRm9Ta0ptek9xYm9TcGdXZkFkQVIzdjZBeTFldm5ubjgtUF9sOFRMTFJRUEdscVh6LW1SS1ZiNlplS1pSd3Y5a0h4Uy1ZTkl6UGVMMk9Fd1VzalgwZjVQbHUwbzBLc0ZBOXZqRHpmb3ZuNHJiMEZqb05USy1DZWgxZmRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHRIYVYxVndPeUZYZ3dqdnJ0M0R1MmI4QU8xUGRRRl96WWxMNk03MWMxSUlMSGxWRm9Ta0ptek9xYm9TcGdXZkFkQVIzdjZBeTFldm5ubjgtUF9sOFRMTFJRUEdscVh6LW1SS1ZiNlplS1pSd3Y5a0h4Uy1ZTkl6UGVMMk9Fd1VzalgwZjVQbHUwbzBLc0ZBOXZqRHpmb3ZuNHJiMEZqb05USy1DZWgxZmRR?oc=5\" target=\"_blank\">If You See This Microsoft Login—Your Account Is Being Hacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-04-19T20:47:54+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Why Wall Street Loves Microsoft Stock Despite It Falling 23% - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzFIU1h3YU9CZGs2S29zb0k2bEFsN1gwS2JUZWpHU2FpSFdpSFktSk5wUndmTDg2V2VPUjdtVS1uNUE2QzEzbGczMjE1SV9MeWN3bG9NTERDNDY3d29INXNCcl84U3l3d1RxcWl5VVh2dXQ1dVBGSVc3NEZ5UFFqdlQ4ZnBTUUVUdVAxbjF5eXh3czR0Rmc2YVlWYjY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzFIU1h3YU9CZGs2S29zb0k2bEFsN1gwS2JUZWpHU2FpSFdpSFktSk5wUndmTDg2V2VPUjdtVS1uNUE2QzEzbGczMjE1SV9MeWN3bG9NTERDNDY3d29INXNCcl84U3l3d1RxcWl5VVh2dXQ1dVBGSVc3NEZ5UFFqdlQ4ZnBTUUVUdVAxbjF5eXh3czR0Rmc2YVlWYjY?oc=5\" target=\"_blank\">Why Wall Street Loves Microsoft Stock Despite It Falling 23%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-20T11:06:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Microsoft Isn’t Actually the Savior of Carbon Removal - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnhQUDVmalU1bTFhQnJ6RjZ1RWg2bjM5NTNhTXRJYmhNWURzNDJWcW05UXBqTkdraTNzaUZXT2ZRaFpfNXRCeENtdlJBd2sydWp6RHJMOURfMDJ5MjU4MjRGSGk0NUw0WXdkMHRmczlqb1QwZDNTdTRoZUphMjE4YU9NV0p1bkQ4UnVtMWtyNk4xSGN0OFBtQkgxS1dFblAzaGJuLWFPZ2F4QXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnhQUDVmalU1bTFhQnJ6RjZ1RWg2bjM5NTNhTXRJYmhNWURzNDJWcW05UXBqTkdraTNzaUZXT2ZRaFpfNXRCeENtdlJBd2sydWp6RHJMOURfMDJ5MjU4MjRGSGk0NUw0WXdkMHRmczlqb1QwZDNTdTRoZUphMjE4YU9NV0p1bkQ4UnVtMWtyNk4xSGN0OFBtQkgxS1dFblAzaGJuLWFPZ2F4QXc?oc=5\" target=\"_blank\">Microsoft Isn’t Actually the Savior of Carbon Removal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-04-20T04:00:00+00:00",
-      "source": "Bloomberg.com"
+      "title": "Bank of America resets Microsoft stock forecast ahead of earnings - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFRNcWdfdFpxYzU0M0E3SGdXajduVG1DVWVWV1BJMGw5YmNKeGhqVHY4a3dWWWpRdDBYcnFKNmJyQjZyeGRSR1NZUGdmZnNRaGMweGFGYXJiVG1HTm1wYy0zWEVqUy11UlB0QVBTdHRjeExJUjNOZ21qLXN6YXZuUU1OZ1c2RmhRZkY1ZEZtb0x1QURCOFNDTWo0cW5TSm9vMU9yV2V0SGdHdjJk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFRNcWdfdFpxYzU0M0E3SGdXajduVG1DVWVWV1BJMGw5YmNKeGhqVHY4a3dWWWpRdDBYcnFKNmJyQjZyeGRSR1NZUGdmZnNRaGMweGFGYXJiVG1HTm1wYy0zWEVqUy11UlB0QVBTdHRjeExJUjNOZ21qLXN6YXZuUU1OZ1c2RmhRZkY1ZEZtb0x1QURCOFNDTWo0cW5TSm9vMU9yV2V0SGdHdjJk?oc=5\" target=\"_blank\">Bank of America resets Microsoft stock forecast ahead of earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "published": "2026-04-20T20:00:00+00:00",
+      "source": "thestreet.com"
     },
     {
       "title": "Microsoft Stock Is Down 22%, but Here's Why It Could Soar After April 29 - The Motley Fool",
@@ -40,25 +19,46 @@
       "source": "The Motley Fool"
     },
     {
-      "title": "Opinion: Whither Microsoft? A view from the neighborhood - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEhZNk5yaUFBVldqbDllUHozV3RVQlpvY1lsLWdTVUVKYl9IV21oLXp3NW01MDA2dGxVREJ5YnBrak9YaW9XcHFvVDdDWVhvS2QtMzdEWU5NRXJpR0cxREFOY0thVWNLWFZfZGxkVktyc0NkbUh3MEx5YTU2QXhDeVlfeXoyREtSaE9KVDNn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObEhZNk5yaUFBVldqbDllUHozV3RVQlpvY1lsLWdTVUVKYl9IV21oLXp3NW01MDA2dGxVREJ5YnBrak9YaW9XcHFvVDdDWVhvS2QtMzdEWU5NRXJpR0cxREFOY0thVWNLWFZfZGxkVktyc0NkbUh3MEx5YTU2QXhDeVlfeXoyREtSaE9KVDNn?oc=5\" target=\"_blank\">Opinion: Whither Microsoft? A view from the neighborhood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-04-19T14:03:46+00:00",
-      "source": "GeekWire"
+      "title": "Microsoft's Q3 likely to 'take back the narrative' amid cautious sentiment: MS (MSFT:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTNVMTBGTTBLLUZTdS1QUFpxYlJLZEFLWEZfVWhlakw5VVJ2NjZ5YUFxMGtSc3pLZjV6Mmo0YkNlM0xvUVNqYmxxcVUxZnFwOS1OVzhNclJvLTh2Ty03eDBwVkI3VGZ2NkQ0c3NUNE84Y1pUVVNBUWJSZzlac193Q1IxR0hzUEMtdmxKTlR5dGNsNmVDandWYkpTaG4zRUF1SFljVlEzMzFYY2pkLTFlUjh3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTNVMTBGTTBLLUZTdS1QUFpxYlJLZEFLWEZfVWhlakw5VVJ2NjZ5YUFxMGtSc3pLZjV6Mmo0YkNlM0xvUVNqYmxxcVUxZnFwOS1OVzhNclJvLTh2Ty03eDBwVkI3VGZ2NkQ0c3NUNE84Y1pUVVNBUWJSZzlac193Q1IxR0hzUEMtdmxKTlR5dGNsNmVDandWYkpTaG4zRUF1SFljVlEzMzFYY2pkLTFlUjh3?oc=5\" target=\"_blank\">Microsoft's Q3 likely to 'take back the narrative' amid cautious sentiment: MS (MSFT:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-04-20T16:19:30+00:00",
+      "source": "Seeking Alpha"
     },
     {
-      "title": "Microsoft releases emergency updates to fix Windows Server issues - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWNNMnJxQUNhU2JrVXJNczJuZ3I3WUhZQmxRSk1nXzZ2UGU5MEp5Z2lnT0ZhWHZLZExXZzNQQmkxTW9pdk9Vdlc4aEFPZDdQSklyTUdJV0lQRDNaM1NXREt3akFENEJuTVZwcEJnWFgzVnFzX1pvRklzNkk4U3JqQ0NqVUV2T1R0aW04a3lzMUNZNkJ6eXVfcW9wUHY4NFJxeVhPUUFTYVRjQWtmRjZiTWhUQkXSAboBQVVfeXFMTkh0SGpaNjdiUEtnS29QSldkVlgxWThXYTN4cGFkWDU3ZjZFU1VkVWVPMnBSaUNBdGFIX3RBSHZnUmlBYTNsamtoT1JiNm9hMExuTDRYTFcxZi0xQWVGczJKSG5PUF9hN3R5QVpibWdjUkZ3S3FiVVlwQm9TbjRGbF90cXRQSFBPV3pNSlktTU1pVmdkOE9MRENkRE41bUx5X2xtcWRmYjRib1ZZajY5TVZ0emFYSlRKWEZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWNNMnJxQUNhU2JrVXJNczJuZ3I3WUhZQmxRSk1nXzZ2UGU5MEp5Z2lnT0ZhWHZLZExXZzNQQmkxTW9pdk9Vdlc4aEFPZDdQSklyTUdJV0lQRDNaM1NXREt3akFENEJuTVZwcEJnWFgzVnFzX1pvRklzNkk4U3JqQ0NqVUV2T1R0aW04a3lzMUNZNkJ6eXVfcW9wUHY4NFJxeVhPUUFTYVRjQWtmRjZiTWhUQkXSAboBQVVfeXFMTkh0SGpaNjdiUEtnS29QSldkVlgxWThXYTN4cGFkWDU3ZjZFU1VkVWVPMnBSaUNBdGFIX3RBSHZnUmlBYTNsamtoT1JiNm9hMExuTDRYTFcxZi0xQWVGczJKSG5PUF9hN3R5QVpibWdjUkZ3S3FiVVlwQm9TbjRGbF90cXRQSFBPV3pNSlktTU1pVmdkOE9MRENkRE41bUx5X2xtcWRmYjRib1ZZajY5TVZ0emFYSlRKWEZ3?oc=5\" target=\"_blank\">Microsoft releases emergency updates to fix Windows Server issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-04-20T08:30:56+00:00",
+      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelFmcUJJSWpoZGEtTmNSb3BxcDRRZHR4N29WLXJwU2tWTE5zTjRMSXFTM3dDT1RidzBfSGg1cWllNkthRlkxX3hmWEJKc2RIV3JleVpIaGwzT0tjTGdWbGltZHpxMUx6dHNiUzhzM2FQU3RvYVJYQWRNcjlRTzdWU1otZlZJcDd6XzhiTTZSTkFabGZmODBHR2V0cjFhWHExRFpJMzVtbUZCOU1HQlJ2Y2dHMkVfNUhS0gG-AUFVX3lxTFBkekVCZVdjUUQwMWZ4Z0dERjJhWWtpeHdGUlVhSF9mZG91QlZzOUxJX2tROFNMVWJNb2NKZG03cXJhc2RhcmFnZ0NyX0hKUVlRWXRXM0FPUlRrTTUybEhsTnc0bDl0VkdWZURtT0tzWWFPTDU1UHVuR1NqRHFXWkg5bllWZUlGcmJyeWRCWGFabWNNTTVRUmlXaFhiOEw1WDFCUkRucHVnWHBQWm1TSFJHS25Lc2tad2NxMWI1Zmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelFmcUJJSWpoZGEtTmNSb3BxcDRRZHR4N29WLXJwU2tWTE5zTjRMSXFTM3dDT1RidzBfSGg1cWllNkthRlkxX3hmWEJKc2RIV3JleVpIaGwzT0tjTGdWbGltZHpxMUx6dHNiUzhzM2FQU3RvYVJYQWRNcjlRTzdWU1otZlZJcDd6XzhiTTZSTkFabGZmODBHR2V0cjFhWHExRFpJMzVtbUZCOU1HQlJ2Y2dHMkVfNUhS0gG-AUFVX3lxTFBkekVCZVdjUUQwMWZ4Z0dERjJhWWtpeHdGUlVhSF9mZG91QlZzOUxJX2tROFNMVWJNb2NKZG03cXJhc2RhcmFnZ0NyX0hKUVlRWXRXM0FPUlRrTTUybEhsTnc0bDl0VkdWZURtT0tzWWFPTDU1UHVuR1NqRHFXWkg5bllWZUlGcmJyeWRCWGFabWNNTTVRUmlXaFhiOEw1WDFCUkRucHVnWHBQWm1TSFJHS25Lc2tad2NxMWI1Zmc?oc=5\" target=\"_blank\">Microsoft: Teams increasingly abused in helpdesk impersonation attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2026-04-20T15:11:24+00:00",
       "source": "BleepingComputer"
     },
     {
-      "title": "BNP Paribas delivers blunt message on Microsoft stock - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWNQb0g2UF9scS1QMWxjdlpPYk1wZFdLdHg4TG9QMm50WEt6anIxTHRGQXJ3Yk1CM0xKUF9hMjNjTHkyVjk3M0hTNk91aXRyWjVDMmpmRlpZMEZGcTEzVW9JTjc2bE1mYXphX1RkWThLZFYxSTJvRE9WMHBDUkRZSkJUODRnMkdNMWk4eUdKRHlQQjU4elk5d1lRZWs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWNQb0g2UF9scS1QMWxjdlpPYk1wZFdLdHg4TG9QMm50WEt6anIxTHRGQXJ3Yk1CM0xKUF9hMjNjTHkyVjk3M0hTNk91aXRyWjVDMmpmRlpZMEZGcTEzVW9JTjc2bE1mYXphX1RkWThLZFYxSTJvRE9WMHBDUkRZSkJUODRnMkdNMWk4eUdKRHlQQjU4elk5d1lRZWs?oc=5\" target=\"_blank\">BNP Paribas delivers blunt message on Microsoft stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "published": "2026-04-18T08:03:00+00:00",
-      "source": "thestreet.com"
+      "title": "Microsoft Deepens Industrial AI Role With Stellantis And Hannover Messe Deals - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckZlOUZ0dTM4U0JEMnM0dHBBU3JDZEJWOG1sMzN2V2RPOXljSHpHakdMcFRqZzhoWEdwbHRNT1RXWGY2T2VaZjluWGFmbFVxR1ZWQ3o5SHo3MzM1TVFWcXBRWThucy1uZWNfY2VkMk1HVFE0a1d3eXpROFRJdEI2aVJMVWdCU0RQcmlIbFM4bTdtbDlTT1BRU3c5c193b0g3RkVn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQckZlOUZ0dTM4U0JEMnM0dHBBU3JDZEJWOG1sMzN2V2RPOXljSHpHakdMcFRqZzhoWEdwbHRNT1RXWGY2T2VaZjluWGFmbFVxR1ZWQ3o5SHo3MzM1TVFWcXBRWThucy1uZWNfY2VkMk1HVFE0a1d3eXpROFRJdEI2aVJMVWdCU0RQcmlIbFM4bTdtbDlTT1BRU3c5c193b0g3RkVn?oc=5\" target=\"_blank\">Microsoft Deepens Industrial AI Role With Stellantis And Hannover Messe Deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-04-21T12:06:37+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Ookla and Microsoft Partner to Launch Speedtest from the Windows Taskbar - ookla.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzU0Qm9WRnRHSVVkMEhBa004LUpiRzFkVlI0dVJIZFFMazJuRndROFJFUmRieG0zTE92NWlVRWJ3bmNJRHNkamw2cno0RWJZZFcyN3k1LXJWZy1CbWJqYkVfSms4am4zUEt0b0hOSURGekY4cFNrS2JteHMwQ2d4dnNiOXN4Mi1SRkFackJZTWVyQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzU0Qm9WRnRHSVVkMEhBa004LUpiRzFkVlI0dVJIZFFMazJuRndROFJFUmRieG0zTE92NWlVRWJ3bmNJRHNkamw2cno0RWJZZFcyN3k1LXJWZy1CbWJqYkVfSms4am4zUEt0b0hOSURGekY4cFNrS2JteHMwQ2d4dnNiOXN4Mi1SRkFackJZTWVyQQ?oc=5\" target=\"_blank\">Ookla and Microsoft Partner to Launch Speedtest from the Windows Taskbar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ookla.com</font>",
+      "published": "2026-04-17T07:00:00+00:00",
+      "source": "ookla.com"
+    },
+    {
+      "title": "Microsoft Teams is trying to fix accidental hand-raising - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE1KbnlST05pS1VKWHh6bVR0T3RXVzF5NVBfSHI5OXU5cktnLVRHMDlqTk4yQUhuYk5yUG9TanQwRlNMcXZmM19FckV6cVg2SFdqbGFjdzdBRG9vUVl0b0FJYjFWWlkxdl8ySWhiM2dOYUZ4a2dHaE5FTkdlSkdMWVNJTU53OVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE1KbnlST05pS1VKWHh6bVR0T3RXVzF5NVBfSHI5OXU5cktnLVRHMDlqTk4yQUhuYk5yUG9TanQwRlNMcXZmM19FckV6cVg2SFdqbGFjdzdBRG9vUVl0b0FJYjFWWlkxdl8ySWhiM2dOYUZ4a2dHaE5FTkdlSkdMWVNJTU53OVk?oc=5\" target=\"_blank\">Microsoft Teams is trying to fix accidental hand-raising</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-04-21T09:14:16+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Exclusive: Microsoft partners with construction unions on AI boom - Axios",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHNMVXB1OEV0dW5FNVFmZ2w3UmtYRExGX1N4MUl1ODEzbUlQM2dlZ0xueXFQVkJEN3B2SEQ0UnVWUU1JMFJsQm9hTWVQVEZfMmxJUktoM2xpWU43SDZFMDlOc3d0Q0E5V2lZNUk0OFdncVo3ZzdMQUJVMjZoNnMtWWg4LWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHNMVXB1OEV0dW5FNVFmZ2w3UmtYRExGX1N4MUl1ODEzbUlQM2dlZ0xueXFQVkJEN3B2SEQ0UnVWUU1JMFJsQm9hTWVQVEZfMmxJUktoM2xpWU43SDZFMDlOc3d0Q0E5V2lZNUk0OFdncVo3ZzdMQUJVMjZoNnMtWWg4LWM?oc=5\" target=\"_blank\">Exclusive: Microsoft partners with construction unions on AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-04-21T09:47:35+00:00",
+      "source": "Axios"
     }
   ],
   "product_launches": [
@@ -70,11 +70,18 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - VentureBeat",
+      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - Venturebeat",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5\" target=\"_blank\">Microsoft launches 3 new AI models in direct shot at OpenAI and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5\" target=\"_blank\">Microsoft launches 3 new AI models in direct shot at OpenAI and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
       "published": "2026-04-03T07:00:00+00:00",
-      "source": "VentureBeat"
+      "source": "Venturebeat"
+    },
+    {
+      "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": "The Motley Fool"
     },
     {
       "title": "Windows 95 launched 30 years ago and made us and maybe me who we are today - TechRadar",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
       "published": "2026-01-08T08:00:00+00:00",
       "source": "PayPal Newsroom"
-    },
-    {
-      "title": "Microsoft launches AI tool that competes with Anthropic - Axios",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83QThEOUVvR18xV3NOUExSQ0lydnZxYy1WTWEzbWNLN0lRckRWcnE4TzRtbWJ5U0JNZ0xEU09rcW4ycHFpT0NZczNDdnJGY2paTXkzZ3piSTNMa0VLaElvNVVQR1dtaERSbnVNa05aZjJfX0tYQWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83QThEOUVvR18xV3NOUExSQ0lydnZxYy1WTWEzbWNLN0lRckRWcnE4TzRtbWJ5U0JNZ0xEU09rcW4ycHFpT0NZczNDdnJGY2paTXkzZ3piSTNMa0VLaElvNVVQR1dtaERSbnVNa05aZjJfX0tYQWc?oc=5\" target=\"_blank\">Microsoft launches AI tool that competes with Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-03-09T07:00:00+00:00",
-      "source": "Axios"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-17",
-      "close": 422.7900085449219
+      "date": "2026-04-20",
+      "close": 418.07000732421875
     },
     "history": [
-      {
-        "date": "2026-04-09",
-        "close": 373.07000732421875
-      },
       {
         "date": "2026-04-10",
         "close": 370.8699951171875
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-17",
         "close": 422.7900085449219
+      },
+      {
+        "date": "2026-04-20",
+        "close": 418.07000732421875
       }
     ],
     "name": "Microsoft Corporation"
