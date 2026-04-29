@@ -2,66 +2,73 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-04-28T13:28:45.912678+00:00",
+  "fetched_at": "2026-04-29T13:22:46.436637+00:00",
   "news": [
     {
-      "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54bnJBN0hXSkl2LVdLc2ZkTU41NllEemNfNHdkSzlzaXZWS2ozUmVuaWZVN2dDbVBaTjJIYUpEYWRKNzdyS0NDWUFqckdHQnF0bG5aeUZoUFYzMkEwd2VoOHRkb1pNTzB4Q1RVOVVwTVQ0aERneEVDVThQV1NMQQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE54bnJBN0hXSkl2LVdLc2ZkTU41NllEemNfNHdkSzlzaXZWS2ozUmVuaWZVN2dDbVBaTjJIYUpEYWRKNzdyS0NDWUFqckdHQnF0bG5aeUZoUFYzMkEwd2VoOHRkb1pNTzB4Q1RVOVVwTVQ0aERneEVDVThQV1NMQQ?oc=5\" target=\"_blank\">China Will Require Meta to Unwind Acquisition of AI Start-Up Manus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2tNOUoxcFRleGEzeXlodnZWQXgtMU9TWk9nWUlERDB0emE4c1BTOFZmNjlrR2hQQkNla3llWTFXU0J1TW4xNGZpMFB6RlVUMlVuQWJLRFJmYzZxeHJQYzdBM0lvT0pkMTY5Ty1yNVI3NVFwUVQ4a2lRejg0V0xYbk9uZG1MQXVwZzIw?oc=5\" target=\"_blank\">China blocks Meta's $2 billion takeover of AI startup Manus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFZ3WjRyeE4yUzJFTVZmSktDaTY0ZmlYZW1CZkFhZDdyY2lkakxZR0tYckMwcVJvSF84cC1DTENycnZnS1R5SERJQkFOR2g4Z3FrUnRTVGZaenFNNUYzWGRYUE5TZUlYRlFEU0lHbGxwcFdnRHJnZ3F3S1RpVXVMYUtqSU5pV0ZWSWJkZzE5ejduYUp6S180ZTZEU3JxU3piN1pzZ29tamlmUFZnNE1GT21DaU1ZcF9FSEVFV096dGpuM0JD?oc=5\" target=\"_blank\">What Is Manus and Why Does China Want to Block Meta’s $2 Billion Takeover?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
-      "published": "2026-04-27T09:43:07+00:00",
-      "source": "The New York Times"
+      "title": "EU says Meta is failing to keep underage users off Facebook and Instagram - NPR",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tNm5nMnc4Zk9vYUowdG5YTzU0ZktVRTVBNkFLWUs3bkhfazFDVG9yenQ3MjNPdUphVUN0ZG1DOHEzNGZ2OE9zMjA4aTlEbm1FYjR6SUdRWHdwY01xVnpBWThkYjk4RF9mYVZIV3o4SDdmNjQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5tNm5nMnc4Zk9vYUowdG5YTzU0ZktVRTVBNkFLWUs3bkhfazFDVG9yenQ3MjNPdUphVUN0ZG1DOHEzNGZ2OE9zMjA4aTlEbm1FYjR6SUdRWHdwY01xVnpBWThkYjk4RF9mYVZIV3o4SDdmNjQ?oc=5\" target=\"_blank\">EU says Meta is failing to keep underage users off Facebook and Instagram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUE5hX0VxWHZsSl9fWG9QbWp1TmtEV25ZZS0tQUEyaXI5THowRk1zYzE5a1F6Q00tWGg2eXFlR3VjREhuMnY0SzJVbk5nVWhnUl9SWi03Qi12ZXpYaFU1OWlFNEZhVmQzU2ViNmlYdDJjU2NzZ2FPODFNSjJ0RUtpSldPYUx2V0dQ?oc=5\" target=\"_blank\">Meta Accused of Failing to Keep Children Off Instagram and Facebook in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcWppenFsR01Ta0VHN2l5ZnB2aHhYeWh1Qkxzdnp5NXhWTld5VUVhUHQ3aDN4OXM1VzdqNE9GSWw5N2lmRDZ3czVNV3g4UENFNVNPSTNIaGZMay0wT1FrLVduYllnYlhIRi1sY3dQdFdvaVd3SjR5QUtfTkl1VnY0VXJTMkhCSHFqbUlVNmtIdFp5em9INTRpblMxTjJXdG9aVFVvUGJOWlBIZm9taHZyVzNuc2oxd0p5Qnl6RGEtQTZRa0lGTlB6c095VmxlRXllUzRmQlpJTy1ldE52YWlZVjQxOVk0bmNSd1Mw?oc=5\" target=\"_blank\">Facebook and Instagram must do more to block under-13s, EU warns in Meta charges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+      "published": "2026-04-29T08:44:38+00:00",
+      "source": "NPR"
     },
     {
-      "title": "Meta's new AI model shows early promise, but investors want to see Zuckerberg's strategy - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnpIZGlVLUM0LTN0YjVLdGVwR0I2VVFLOEhoN3o1NjVVamJzdlJCS3FpYjh4TDhCMjZHbzVLM21fV1EzcEM0VkZWYjhaRDMtaFJpQVAyR3NhcTQybDdtSkdoZV90NUVqZWhHNVZVY0RjdGV2aUlhUk84eFFoT1FXMUFDdzM4dEpYdVZ4dHlYY0czUVNiR281b09TZ2JLaElwcnBlb19qSTPSAa4BQVVfeXFMTVVNRmp3c1pmZGFIZ2RNQzZYanRHcHBiUmVfNlJIbmw0aU1Eb016ZTZJYzBKWXdVckNhSGd4SlZoRXdkeXU4cmVfSHl4LWVNTWtyX2E4QUZwX3o2RHM1MmZUVk5kMkhSTW9qYzljYUxMQzFzSDZQMGxXX2FCMFJDVVB1bTVOam41dFJrUW93WjhGRFlpSGpBMTh4WUI3eFhCQm4taTZpWHpFX3hEa0hR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnpIZGlVLUM0LTN0YjVLdGVwR0I2VVFLOEhoN3o1NjVVamJzdlJCS3FpYjh4TDhCMjZHbzVLM21fV1EzcEM0VkZWYjhaRDMtaFJpQVAyR3NhcTQybDdtSkdoZV90NUVqZWhHNVZVY0RjdGV2aUlhUk84eFFoT1FXMUFDdzM4dEpYdVZ4dHlYY0czUVNiR281b09TZ2JLaElwcnBlb19qSTPSAa4BQVVfeXFMTVVNRmp3c1pmZGFIZ2RNQzZYanRHcHBiUmVfNlJIbmw0aU1Eb016ZTZJYzBKWXdVckNhSGd4SlZoRXdkeXU4cmVfSHl4LWVNTWtyX2E4QUZwX3o2RHM1MmZUVk5kMkhSTW9qYzljYUxMQzFzSDZQMGxXX2FCMFJDVVB1bTVOam41dFJrUW93WjhGRFlpSGpBMTh4WUI3eFhCQm4taTZpWHpFX3hEa0hR?oc=5\" target=\"_blank\">Meta's new AI model shows early promise, but investors want to see Zuckerberg's strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-04-28T12:30:01+00:00",
+      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdmtycUVVdUpBOTBaT0JjSjVERmJXcVRYTER1Wm1OM1FweExLSjdLOFMtaThST1paeXUtOTdhUWxHLV93UDZvN1ZyVC1rbjF2X1lpU1JEc3NLbE5FRHJtTC15VFlSMXhDd0tOeg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBKdmtycUVVdUpBOTBaT0JjSjVERmJXcVRYTER1Wm1OM1FweExLSjdLOFMtaThST1paeXUtOTdhUWxHLV93UDZvN1ZyVC1rbjF2X1lpU1JEc3NLbE5FRHJtTC15VFlSMXhDd0tOeg?oc=5\" target=\"_blank\">‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-04-28T18:36:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Meta shares look 'iffy' into earnings. How to trade it - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN054bGpyN1BkbUVDZWtUTTYtc015VDZiRnpYc19YcFdwcVc5UFVhdjQ0M0RoX2xfOC1oX19DQUlpdHctU001MzU0ZzJ5OVpXdVhPdHYwUkFaZk5ubENIMUl0Z2JzTGZ6NkZJdHgyVHFTVjhZWE1PN3ZhNER3UzllRnRIaGgxMHAyNVUxS1lkdzlGd9IBlwFBVV95cUxQdk54VE9uYUUxZkw2S1BucFFKMzNzS18wRW05MEZmV3VJV056c05HRFRrd3JPRTJwdS1Jekx3eU5JOUliRVF6WEpKRGttU0haLTZXUXlQZnV3N1ZaUHdEZU1kRVN4SlJ1U0NhT0phRlJoS2Z3MVhOUk5sS3JBV19KM3dESm45cS1MZnljWnF5NXU4U0dyVnVV?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNN054bGpyN1BkbUVDZWtUTTYtc015VDZiRnpYc19YcFdwcVc5UFVhdjQ0M0RoX2xfOC1oX19DQUlpdHctU001MzU0ZzJ5OVpXdVhPdHYwUkFaZk5ubENIMUl0Z2JzTGZ6NkZJdHgyVHFTVjhZWE1PN3ZhNER3UzllRnRIaGgxMHAyNVUxS1lkdzlGd9IBlwFBVV95cUxQdk54VE9uYUUxZkw2S1BucFFKMzNzS18wRW05MEZmV3VJV056c05HRFRrd3JPRTJwdS1Jekx3eU5JOUliRVF6WEpKRGttU0haLTZXUXlQZnV3N1ZaUHdEZU1kRVN4SlJ1U0NhT0phRlJoS2Z3MVhOUk5sS3JBV19KM3dESm45cS1MZnljWnF5NXU4U0dyVnVV?oc=5\" target=\"_blank\">Meta shares look 'iffy' into earnings. How to trade it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQancwVnU5UXA4WjZ3QkFJZkFNcWs1TlhpVS1tYjAyaXF3RlVKQW1SVXF0ejhhMk1aTkZWZUJCMEdXMVRwMTcxd3FOMmFKejcxaExNQlh0WEpBM2thd19TaURTYThaYnlfTHZQaG95dmllQXB5cUs0emw4WjVEemlhTThreDY?oc=5\" target=\"_blank\">Meta Earnings Preview: AI 'Monetization Story' Faces Biggest Test Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlZSc1czZy1lVHRadmVlanA5a3AtUXYwYXFJNE43Sk91LW1ULXdGNFFmUFFkNnJDT0EyODZSNk51THUxSXBKR3NCdHowXzM1c19FY2M5bURSMmJCbWxZRlI0OVdVa3FqTWdyM2cyZndlaXZMWkZWdUlXYk9NQ0JmNjR2VmhEc3l0bm5uTVZfUlY1R1JiU25aV3FtUDFuRDlfejVFRFFrcw?oc=5\" target=\"_blank\">Meta is paying top executives to hit a $9.5 trillion valuation—and no one’s ever done it before</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li></ol>",
+      "published": "2026-04-28T15:53:55+00:00",
       "source": "CNBC"
     },
     {
-      "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026) - Amazon Web Services",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTndOTGJ4UEtJOWpIckU2LTZoWmx0cXZQdG5kRlFJMDFCMC1oQlE0LUtEZVUzTnh1VVNycldRZWl6cEphQXFTbk43bHJRS1RiZDhYMDVIdTlic19sZGpuLTE1ZjRiajZZUDFJR0k2MjJkNnBIaDlkcXV5T0tDNDNvTVhPR3hwdTQzdU5Jbm5JY2lnQUlRUFkxc2dPcGRzVzhYX2pGaU5qTXlpM0VUN0hFbmhITFNRSHhDVlpjVEhBZjhtX3Q4VUxGTVZJY0lTOHJjeGE3eUdSOUlCOEdnMmhnNU9EWC1Ydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTndOTGJ4UEtJOWpIckU2LTZoWmx0cXZQdG5kRlFJMDFCMC1oQlE0LUtEZVUzTnh1VVNycldRZWl6cEphQXFTbk43bHJRS1RiZDhYMDVIdTlic19sZGpuLTE1ZjRiajZZUDFJR0k2MjJkNnBIaDlkcXV5T0tDNDNvTVhPR3hwdTQzdU5Jbm5JY2lnQUlRUFkxc2dPcGRzVzhYX2pGaU5qTXlpM0VUN0hFbmhITFNRSHhDVlpjVEhBZjhtX3Q4VUxGTVZJY0lTOHJjeGE3eUdSOUlCOEdnMmhnNU9EWC1Ydw?oc=5\" target=\"_blank\">AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services</font>",
-      "published": "2026-04-27T15:01:28+00:00",
-      "source": "Amazon Web Services"
-    },
-    {
-      "title": "Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage - meta.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjZBYmRkOEJESnpnQ2RjSGd4TmxuUkRMWk1NRWZTZkVhbnZjOEgyNmJqQTVraXNVWlhiWnlWT1Jmd2FFVWVyWHI4R1J2OFJfVTdjRXZicFo0QjJxNlVBTFRZYUxLcHJCQm9hZmZId0w5ZU90eHdvVXNkcjc2VzBraHZtT29iNU9kU2VabmI1bHlSTUQ1b0JkVTBocmdMZHZQWTgxTXROQWlmUW1pcW1IQ0RLd0LSAboBQVVfeXFMT29fNG5EYjFiMTZkTk5LTWJ0TXRRMUM1YjlyRC0ySzB3TUJENU1zZXF6dFhQVy1ySVJSbVFUV2kxZW5BakNfbWw4SXcwZ2N3NlZkQlNoamwzeUpjODMtWm5HOHdXV3pYc2c1a1BtbEJ6YWQyQ25KUWhTcVVYMmlUTWtjQjlYMEphdVhtZ0xXOGNzTEZGOW5DNk81a1J1dENTOGJ0LVVjWkI1ZWZPMDVqejdVSVJKelR0ejZR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjZBYmRkOEJESnpnQ2RjSGd4TmxuUkRMWk1NRWZTZkVhbnZjOEgyNmJqQTVraXNVWlhiWnlWT1Jmd2FFVWVyWHI4R1J2OFJfVTdjRXZicFo0QjJxNlVBTFRZYUxLcHJCQm9hZmZId0w5ZU90eHdvVXNkcjc2VzBraHZtT29iNU9kU2VabmI1bHlSTUQ1b0JkVTBocmdMZHZQWTgxTXROQWlmUW1pcW1IQ0RLd0LSAboBQVVfeXFMT29fNG5EYjFiMTZkTk5LTWJ0TXRRMUM1YjlyRC0ySzB3TUJENU1zZXF6dFhQVy1ySVJSbVFUV2kxZW5BakNfbWw4SXcwZ2N3NlZkQlNoamwzeUpjODMtWm5HOHdXV3pYc2c1a1BtbEJ6YWQyQ25KUWhTcVVYMmlUTWtjQjlYMEphdVhtZ0xXOGNzTEZGOW5DNk81a1J1dENTOGJ0LVVjWkI1ZWZPMDVqejdVSVJKelR0ejZR?oc=5\" target=\"_blank\">Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
-      "published": "2026-04-27T10:00:08+00:00",
-      "source": "meta.com"
-    },
-    {
-      "title": "Meta wants to power data centers from space - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUcTNOT0VlbTVobmFzRmdSMmhVbXU0STNqa2p0Z3ZOS1Q4ZW9YN1BhYU96Yzdac2lnSWZxeUpDRnV5OHlrN2JabVFieTlvX29uSXpZQUFKTWEwSlRWX0lPalZqNWZxaUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUcTNOT0VlbTVobmFzRmdSMmhVbXU0STNqa2p0Z3ZOS1Q4ZW9YN1BhYU96Yzdac2lnSWZxeUpDRnV5OHlrN2JabVFieTlvX29uSXpZQUFKTWEwSlRWX0lPalZqNWZxaUk?oc=5\" target=\"_blank\">Meta wants to power data centers from space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-04-27T19:02:19+00:00",
-      "source": "Axios"
-    },
-    {
-      "title": "Meta Seeks to Power Data Centers With Energy Beamed From Space - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2tzX2s0V0hnZjlCRlBtVmVlRTJoUDkxTUVQMnFfZ0RocDdGMDBZcUVuNHNrSThFRktPNEdWZ1V3Nm1HR3BmbmtZdVRReHJ3VXU0WkhBamU3OThacGZLS3YtYk5tN1dWZmVrMXFhVFNjN09uVFBaQTc1WW1vYjBPTm83VDNESzd6WnAySEdEZk5XNmctSGc5c0ctV1ZKTzhockl2MzhYeUdBQW4tZDE1ZnpqOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2tzX2s0V0hnZjlCRlBtVmVlRTJoUDkxTUVQMnFfZ0RocDdGMDBZcUVuNHNrSThFRktPNEdWZ1V3Nm1HR3BmbmtZdVRReHJ3VXU0WkhBamU3OThacGZLS3YtYk5tN1dWZmVrMXFhVFNjN09uVFBaQTc1WW1vYjBPTm83VDNESzd6WnAySEdEZk5XNmctSGc5c0ctV1ZKTzhockl2MzhYeUdBQW4tZDE1ZnpqOA?oc=5\" target=\"_blank\">Meta Seeks to Power Data Centers With Energy Beamed From Space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-04-27T09:55:18+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Google, Meta, Microsoft, Amazon, Apple earnings: What to expect - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDZkSFAweGgyODNPUEtfQzlVZV84X2VzUlNZRGZIWHQ5ZmZvZU9HdFhURmpfeERZWmVVVkFwUFg5TWE5R1d4a3VUXy1KNm04eVkzV1Y2S1NOcnBqbFB2RVZaLVJwNUZXSk9ySjJINzBaa0hfNy0yWlJkNjQzSkxramk4b2VkRHp6bmltRHEyNUZYdU40TTQyZFc1YnRCUWozY0F2M3UzeTM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDZkSFAweGgyODNPUEtfQzlVZV84X2VzUlNZRGZIWHQ5ZmZvZU9HdFhURmpfeERZWmVVVkFwUFg5TWE5R1d4a3VUXy1KNm04eVkzV1Y2S1NOcnBqbFB2RVZaLVJwNUZXSk9ySjJINzBaa0hfNy0yWlJkNjQzSkxramk4b2VkRHp6bmltRHEyNUZYdU40TTQyZFc1YnRCUWozY0F2M3UzeTM?oc=5\" target=\"_blank\">Google, Meta, Microsoft, Amazon, Apple earnings: What to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-04-27T15:12:48+00:00",
+      "title": "What Makes Meta Platforms (META) a Lucrative Investment? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXFWLWtvb2JUMGo0STBybFdtc1ZYb2F4Yk1Jbkl5Z3kxVjYwVVFQb0ZCSUh2eWUydWNyMlFkejA4cHd2Y3BBaDZpcFJVSmpyZnZzYVJnZ19JaFRjd1NFTEFINFFqNWJrMnhOQ20wSW9jRS0xZGRwYnNubkZlWk45aldFYmZrTkd6WlljaENYSGtzVW1FdjZyblhlRXVmeVlITWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXFWLWtvb2JUMGo0STBybFdtc1ZYb2F4Yk1Jbkl5Z3kxVjYwVVFQb0ZCSUh2eWUydWNyMlFkejA4cHd2Y3BBaDZpcFJVSmpyZnZzYVJnZ19JaFRjd1NFTEFINFFqNWJrMnhOQ20wSW9jRS0xZGRwYnNubkZlWk45aldFYmZrTkd6WlljaENYSGtzVW1FdjZyblhlRXVmeVlITWc?oc=5\" target=\"_blank\">What Makes Meta Platforms (META) a Lucrative Investment?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-04-29T11:49:53+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Meta's Stock May Plunge Following Results (NASDAQ:META) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXhiT3NjYzE3cC1PaUhaS3RocUdFS09jeXpkQ2hPMWowel81NGZwVHhKaUxrMlNoeGdPZWFuUU5tRHE0YkhsTlowb2lyX0NXbV8tNk5hSUk0RkRUZm11Mk5ub1F2Z0Rud2d6Y2xFR283ZGs0aEFONlM4RFJkZzBrQlNzX0JjSVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXhiT3NjYzE3cC1PaUhaS3RocUdFS09jeXpkQ2hPMWowel81NGZwVHhKaUxrMlNoeGdPZWFuUU5tRHE0YkhsTlowb2lyX0NXbV8tNk5hSUk0RkRUZm11Mk5ub1F2Z0Rud2d6Y2xFR283ZGs0aEFONlM4RFJkZzBrQlNzX0JjSVE?oc=5\" target=\"_blank\">Meta's Stock May Plunge Following Results (NASDAQ:META)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-04-27T16:23:45+00:00",
-      "source": "Seeking Alpha"
+      "title": "How Much Is Meta Stock Expected to Move After Earnings? - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzJpb25yZGZLSUZFdFQxNXpMWjl3WGdkSG5xS2xnODdsSjZhZkN5M2FTdXQtVGs5ODB1ai1yUUVNZmQ3VlJxYXpCMnFFN1RFbWc1WGFSdmNlSXc2ejBYdVhabDlpdkVhRmhXR1Z3a2hCLW1jNU96aDhPT29Qa1d3WVRPOXNaazEza2NNSno4ZTZ1RVctYWJ3Z1JjNUhxY29zTkJXc3NzakN5MXNFTWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzJpb25yZGZLSUZFdFQxNXpMWjl3WGdkSG5xS2xnODdsSjZhZkN5M2FTdXQtVGs5ODB1ai1yUUVNZmQ3VlJxYXpCMnFFN1RFbWc1WGFSdmNlSXc2ejBYdVhabDlpdkVhRmhXR1Z3a2hCLW1jNU96aDhPT29Qa1d3WVRPOXNaazEza2NNSno4ZTZ1RVctYWJ3Z1JjNUhxY29zTkJXc3NzakN5MXNFTWc?oc=5\" target=\"_blank\">How Much Is Meta Stock Expected to Move After Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "published": "2026-04-29T13:01:31+00:00",
+      "source": "Investopedia"
+    },
+    {
+      "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HNVFVcnRYSjJmUHQtMEpJak1qNW1kaWhjNDV0bExicmQ1WHhvOG1vc29nVkhjLTZIUnIyWC1MXzVlb2gteUVhN0QwaVF5U21mckpuSHI4Qy04b3ZxM2RpRE1KMno3ZGxvcm50MnVRdHpRTWRDVHlQTmF4VkZ3UQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9HNVFVcnRYSjJmUHQtMEpJak1qNW1kaWhjNDV0bExicmQ1WHhvOG1vc29nVkhjLTZIUnIyWC1MXzVlb2gteUVhN0QwaVF5U21mckpuSHI4Qy04b3ZxM2RpRE1KMno3ZGxvcm50MnVRdHpRTWRDVHlQTmF4VkZ3UQ?oc=5\" target=\"_blank\">China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9FY2ZQMnRvUUo3TGswelExNlVFMTRxdnRCczAtU3NfTXlpQi01aDQ2aTVDV2twLS1pOVZHNHNHcFFHQ2NILW83UEpKM2ktelN0MzQzTGRxdmp4S2RxX1pFNzVESGFORDlSWEpSNHRB0gFzQVVfeXFMTVVnYVBKN2cxQW5hQk9LdHlhbmNHcFJmWklJbUJZYTVFTjlMOVoyX2xDdkhidGpLdG1QTjFiQzFVS3NKQVpjeUZMLU1YeUtZZXU3ZDFBMFF1LVkwM1JtSVlpRnAxVFpzNVZhTlNyY0FwVHVSUQ?oc=5\" target=\"_blank\">Op-ed: In blocking Meta-Manus deal, China sent a powerful reminder to Mark Zuckerberg and U.S. market about AI race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNR00zS2E4NXJEeDRpQm8tdVlkTzFmVXlWVmw0TlB2ekVGOVNjc0swbmlPNnNuY3BPVlIxR0RESnpNU0FQMWstWlhsQ1paZGdSWUZGc0pScG5LSUZTOFc2ZWVGc3phRHYzbmI2QmpWVUlVX0JTLUtXRmhqWWptZkJmaWxZMUQyNHYwV0JOXzRkMDhEM3lGZkltdG0xS1NkUFI0MzRaSWJBY3dJUm9k?oc=5\" target=\"_blank\">China’s Meta Backlash Renders Manus Model ‘Officially Dead’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+      "published": "2026-04-27T13:49:14+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Australia moves to tax Meta, Google and TikTok to fund newsrooms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTU9yblBGeW1EbEV3LTVIQUx3S3lsTF8zRlJQVE1FeWRFZDJza0NYZ2JHSW5JMjNkTUliRFE2UHB5RHNCRXoxNWVVaGFaak1zSnhGS3haWEVwM0dpeUhFWUE4S2lUcURvZTQwVnRtT2xUV3VCMFB6Qy1IQnhCYnlPc1U3bnlPenRhclg5TXNianNOdF8xZHRkMmpvNXBwc2g2bW9PSUJn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTU9yblBGeW1EbEV3LTVIQUx3S3lsTF8zRlJQVE1FeWRFZDJza0NYZ2JHSW5JMjNkTUliRFE2UHB5RHNCRXoxNWVVaGFaak1zSnhGS3haWEVwM0dpeUhFWUE4S2lUcURvZTQwVnRtT2xUV3VCMFB6Qy1IQnhCYnlPc1U3bnlPenRhclg5TXNianNOdF8xZHRkMmpvNXBwc2g2bW9PSUJn?oc=5\" target=\"_blank\">Australia moves to tax Meta, Google and TikTok to fund newsrooms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2026-04-29T07:33:00+00:00",
+      "source": "AP News"
+    },
+    {
+      "title": "Meta inks deal for solar power at night, beamed from space - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONkl3U1FwQVdLaThQR0V1ZnBpb0hmVVpIN29ubDRlWm9ySy1OYVlCckh3ZzNZOTdGeWxjMTd4WHN4U2F5V3F2VTVwSGh4NlVReTNFeEw1cE5nbTA4Tko4XzUyVUdEeXFuRTVtUi0tN0c2TUVtTXhwS0lRUUxQUTJmZDB6cElJQmc3ZERLdHZmVjUzZURwcnM4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONkl3U1FwQVdLaThQR0V1ZnBpb0hmVVpIN29ubDRlWm9ySy1OYVlCckh3ZzNZOTdGeWxjMTd4WHN4U2F5V3F2VTVwSGh4NlVReTNFeEw1cE5nbTA4Tko4XzUyVUdEeXFuRTVtUi0tN0c2TUVtTXhwS0lRUUxQUTJmZDB6cElJQmc3ZERLdHZmVjUzZURwcnM4?oc=5\" target=\"_blank\">Meta inks deal for solar power at night, beamed from space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-04-27T10:00:00+00:00",
+      "source": "TechCrunch"
     }
   ],
   "product_launches": [
+    {
+      "title": "Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More - meta.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWxfRkpiNlloV1ZZWFZ3QVJYZVlrSDhvRjRON0ZNQ1QzTlo5SXBObklpalZERWhyYVhFRy04T3lEbHpzR2NoeDhFSWFtVVRucTlLbFFyRWFiOEFhMmxzRVpBcTJRR05aTnhLTmQ5VUFCem1aVldPNnNOWHFCVlJ3V0cta1ZjQXFGSi0zQ2YtaDA4bGFUOEtabWF4Ync3cEJhU0NjRnV2WlNYdWU3YjVzZ2tmREZfeUJQQjNNYXN4SXA2TjVKc3JRelZIblRBU2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWxfRkpiNlloV1ZZWFZ3QVJYZVlrSDhvRjRON0ZNQ1QzTlo5SXBObklpalZERWhyYVhFRy04T3lEbHpzR2NoeDhFSWFtVVRucTlLbFFyRWFiOEFhMmxzRVpBcTJRR05aTnhLTmQ5VUFCem1aVldPNnNOWHFCVlJ3V0cta1ZjQXFGSi0zQ2YtaDA4bGFUOEtabWF4Ync3cEJhU0NjRnV2WlNYdWU3YjVzZ2tmREZfeUJQQjNNYXN4SXA2TjVKc3JRelZIblRBU2s?oc=5\" target=\"_blank\">Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
+      "published": "2026-01-06T08:00:00+00:00",
+      "source": "meta.com"
+    },
     {
       "title": "[News] Huawei Launches AI Glasses as Meta Leads the Market; Samsung, Apple Reportedly Eye 2026–2027 Entry - TrendForce",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOTllcGhaekNDXy1VM0pDQXltQWE2Q2hlTTRhcDBjOWxLcm9URG9UdTFQVjR6MjQ3TG9vc3M4OV9BM29LbmdyTUZFb1dJU3FmUnNpdkl2WnZ4LTRudkJaREpCb2psVHo4VG40S2dhemRJaFZWdUQ2Z0kyY0tqOHVnVXZHQ1VmbE5NVnZmeTJORXE0OENEemhrVWJqLWZSNFR0S2RBRGdjRzdOYTc5TlhIT2xIcEhNQlJLajdoMWJ1U3FZaVNsOHVDQlYyY293VFZ4MTJFb2tqemh5dVVvdnc?oc=5",
@@ -70,11 +77,11 @@
       "source": "TrendForce"
     },
     {
-      "title": "Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More - meta.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWxfRkpiNlloV1ZZWFZ3QVJYZVlrSDhvRjRON0ZNQ1QzTlo5SXBObklpalZERWhyYVhFRy04T3lEbHpzR2NoeDhFSWFtVVRucTlLbFFyRWFiOEFhMmxzRVpBcTJRR05aTnhLTmQ5VUFCem1aVldPNnNOWHFCVlJ3V0cta1ZjQXFGSi0zQ2YtaDA4bGFUOEtabWF4Ync3cEJhU0NjRnV2WlNYdWU3YjVzZ2tmREZfeUJQQjNNYXN4SXA2TjVKc3JRelZIblRBU2s?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWxfRkpiNlloV1ZZWFZ3QVJYZVlrSDhvRjRON0ZNQ1QzTlo5SXBObklpalZERWhyYVhFRy04T3lEbHpzR2NoeDhFSWFtVVRucTlLbFFyRWFiOEFhMmxzRVpBcTJRR05aTnhLTmQ5VUFCem1aVldPNnNOWHFCVlJ3V0cta1ZjQXFGSi0zQ2YtaDA4bGFUOEtabWF4Ync3cEJhU0NjRnV2WlNYdWU3YjVzZ2tmREZfeUJQQjNNYXN4SXA2TjVKc3JRelZIblRBU2s?oc=5\" target=\"_blank\">Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
-      "published": "2026-01-06T08:00:00+00:00",
-      "source": "meta.com"
+      "title": "Meta launches Muse Spark as investors seek clarity - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1ptYzFZb1o4ZElhNGJPaklteW9ELXAtSEhKcWRqOFY2RkxxbmJFMzVlMXd0UE1xRE05bHUyM3FEay1XS1lUTjJ0TGhhZWdGUWdBZ0FsYjcyQVlTODlVaFFYZ2Z4bE1kU3l6OVU3RzA3MFhYTkRfYUIxV3NyWk9fckltR2o4czdwcVcxRzhjSHZuOGxYOU5J?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1ptYzFZb1o4ZElhNGJPaklteW9ELXAtSEhKcWRqOFY2RkxxbmJFMzVlMXd0UE1xRE05bHUyM3FEay1XS1lUTjJ0TGhhZWdGUWdBZ0FsYjcyQVlTODlVaFFYZ2Z4bE1kU3l6OVU3RzA3MFhYTkRfYUIxV3NyWk9fckltR2o4czdwcVcxRzhjSHZuOGxYOU5J?oc=5\" target=\"_blank\">Meta launches Muse Spark as investors seek clarity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "published": "2026-04-28T12:30:01+00:00",
+      "source": "Let's Data Science"
     },
     {
       "title": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People - meta.com",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBmNmE5cUo5Ql9icHlHaENtVjNFcU16MGFLT2hvM2xxaDZhbXluQ3pyN1lYQ0R1SmhfNXppUFh6anV1Nkd1SHpQWUY2SFlxTHRlWllMaHlUNGxoT0hiMzJSQmFHanBhQTRCWjNDTW1YREJfUHZpRWRFY0t4aw?oc=5\" target=\"_blank\">Meta won’t let morality get in the way of a product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2026-03-01T08:00:00+00:00",
       "source": "The Verge"
-    },
-    {
-      "title": "Meta unveils two $499 Ray-Ban smart glasses for prescription users - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVpxak83MjhkRWktYkxQc3lPeTJQSzh1WGROcHRzZTBPNXptVU9iV3FFem5zOHdXb0xCX1B1N3ZEaVV1Y1Q2MjNfdUlmeFVIRGFDQWkwMElaQnBBNC1XelRrRWR3ZnJ1RWhFbE5BUmJWWGxBeDlRZE0tZ0d0QUF6SkltVDgwZ3FKUzdOLTdkSFREaFJYQTlHTXQzYmYzUlVhQmRqakY1NG91XzJSVUdaZnQ0TV8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVpxak83MjhkRWktYkxQc3lPeTJQSzh1WGROcHRzZTBPNXptVU9iV3FFem5zOHdXb0xCX1B1N3ZEaVV1Y1Q2MjNfdUlmeFVIRGFDQWkwMElaQnBBNC1XelRrRWR3ZnJ1RWhFbE5BUmJWWGxBeDlRZE0tZ0d0QUF6SkltVDgwZ3FKUzdOLTdkSFREaFJYQTlHTXQzYmYzUlVhQmRqakY1NG91XzJSVUdaZnQ0TV8?oc=5\" target=\"_blank\">Meta unveils two $499 Ray-Ban smart glasses for prescription users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-03-31T07:00:00+00:00",
-      "source": "Reuters"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-27",
-      "close": 678.6199951171875
+      "date": "2026-04-28",
+      "close": 671.3400268554688
     },
     "history": [
-      {
-        "date": "2026-04-17",
-        "close": 688.5499877929688
-      },
       {
         "date": "2026-04-20",
         "close": 670.9099731445312
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-27",
         "close": 678.6199951171875
+      },
+      {
+        "date": "2026-04-28",
+        "close": 671.3400268554688
       }
     ],
     "name": "Meta Platforms, Inc."

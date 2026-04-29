@@ -2,15 +2,8 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-04-28T13:28:48.459661+00:00",
+  "fetched_at": "2026-04-29T13:22:48.955049+00:00",
   "news": [
-    {
-      "title": "Stock Market Today: Tech Futures Sell Off On OpenAI Report; Broadcom, Micron, Nvidia Tumble (Live Coverage) - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG1UWXdTZjRSYlNVZlZrX2dPRHRleF9tZnhEZENCTERsZjlnN1p4UjJ6aFdmTE43MGhaakxkaXZhOTNaaWw0MURSZndBa2lyY1N1OTBuUnRFYnFsNnZkNmF3Y09iRUNkV0ZWdFJiR1JpeUVYNVJ6Y2JSVW8xWF9DRU5NME82cjFXOVdpdjdwYXc5Ny1WN3drZWhpQmhNSDJXVEFEQzYtQ0wzUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG1UWXdTZjRSYlNVZlZrX2dPRHRleF9tZnhEZENCTERsZjlnN1p4UjJ6aFdmTE43MGhaakxkaXZhOTNaaWw0MURSZndBa2lyY1N1OTBuUnRFYnFsNnZkNmF3Y09iRUNkV0ZWdFJiR1JpeUVYNVJ6Y2JSVW8xWF9DRU5NME82cjFXOVdpdjdwYXc5Ny1WN3drZWhpQmhNSDJXVEFEQzYtQ0wzUQ?oc=5\" target=\"_blank\">Stock Market Today: Tech Futures Sell Off On OpenAI Report; Broadcom, Micron, Nvidia Tumble (Live Coverage)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-04-28T12:13:00+00:00",
-      "source": "Investor's Business Daily"
-    },
     {
       "title": "‘The cost of compute is far beyond the costs of the employees’: Nvidia executive says right now AI is more expensive than paying human workers - Fortune",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEh6TXNLZFQ4bGEycW1lUi1kYlVYMHozOWZ6M3M4OFV0a3Fud2JnMExQbU41YkxRWWVoU0FqUy0xTnlZMU0tQkxHSTBGV0xiQ01WRDVoWlNHZEtiemwzN1cyanY1YUxhdDVDRjJ0QUZoSEh1YXJjX0tJbE1WOTFSSm5GMVFJRFMxODdVUTFYVjVIbkE3UW9fbQ?oc=5",
@@ -19,54 +12,61 @@
       "source": "Fortune"
     },
     {
-      "title": "Nvidia-Supplier Victory Giant’s Sales Surge on Solid AI Demand - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFozVHMyLVI3ajdaRFNOTWtuSmJxdW9xNm5BTnA4OHNrU3F0cmpCYW52UkstN1ZoYk0yWkZLeG1QX21qblE4X3YwWTRwTVQ3NzFlb1ZXVElJYUExSlY0U1RGMHJQa2ZMeUw0ZG45czF6ZXlTeDFPbEtiMlhrZGpLZEVDR2UxWDNweUdIODFoZUVyZTJfckFaX3lEc2JfVktyQm1jUkZ5S3BNT0VCc05uQmpnZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFozVHMyLVI3ajdaRFNOTWtuSmJxdW9xNm5BTnA4OHNrU3F0cmpCYW52UkstN1ZoYk0yWkZLeG1QX21qblE4X3YwWTRwTVQ3NzFlb1ZXVElJYUExSlY0U1RGMHJQa2ZMeUw0ZG45czF6ZXlTeDFPbEtiMlhrZGpLZEVDR2UxWDNweUdIODFoZUVyZTJfckFaX3lEc2JfVktyQm1jUkZ5S3BNT0VCc05uQmpnZw?oc=5\" target=\"_blank\">Nvidia-Supplier Victory Giant’s Sales Surge on Solid AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-04-28T12:48:41+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Cognex Launches In-Sight Vision Controller Powered by NVIDIA - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmQ3OW5GNFJyMEZFTmFqX0lsbUItcEJZODgzNFpnOW44NVJoNTNnWUcxOWNBRWp1Vm5vS192WHlMX25aTW1ETV9pWHdRWTlPZ25YenpRU1VrMkxnekpIM1lJcW1KNkZIdHRIemN2cENZR1BGb0xKMjl3N1owU09XSHBXM1RsRWU3X04xT0pzZTNlQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmQ3OW5GNFJyMEZFTmFqX0lsbUItcEJZODgzNFpnOW44NVJoNTNnWUcxOWNBRWp1Vm5vS192WHlMX25aTW1ETV9pWHdRWTlPZ25YenpRU1VrMkxnekpIM1lJcW1KNkZIdHRIemN2cENZR1BGb0xKMjl3N1owU09XSHBXM1RsRWU3X04xT0pzZTNlQQ?oc=5\" target=\"_blank\">Cognex Launches In-Sight Vision Controller Powered by NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "published": "2026-04-28T13:00:00+00:00",
-      "source": "Yahoo Finance Singapore"
-    },
-    {
-      "title": "Nvidia, Oracle and AMD slide as report of OpenAI stumbles shakes AI boom narrative - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeFJQX09MZEdDMDFQMUdscF85MWJnQTRxZy1yYnM0UFVKRFZ3TEt0NURQVDdWSTdlcXllVjdoaVkxXzU0NFlVNDdIMFc3b1hYQnhvSXk2Y2tPOVlqeHJHNUt6YUt2TndHVHJCVlJidVk3M1h3S1Nwd2VWaS1qTHJZQnFPLUROUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeFJQX09MZEdDMDFQMUdscF85MWJnQTRxZy1yYnM0UFVKRFZ3TEt0NURQVDdWSTdlcXllVjdoaVkxXzU0NFlVNDdIMFc3b1hYQnhvSXk2Y2tPOVlqeHJHNUt6YUt2TndHVHJCVlJidVk3M1h3S1Nwd2VWaS1qTHJZQnFPLUROUQ?oc=5\" target=\"_blank\">Nvidia, Oracle and AMD slide as report of OpenAI stumbles shakes AI boom narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
-      "published": "2026-04-28T12:40:00+00:00",
-      "source": "Yahoo Finance UK"
-    },
-    {
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Palantir, Microsoft & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0MxQy02eEF1SEQ3cVE5R256dVpTZHM1OHdZVGJ3UVBWMFg0Vm9acS11UWlpTlJ5cENoRThINlItdU5qQ2xqSFNpQVZRVGQ5SlBCMGJaVVE4NUZfNnphM01TOXdvQUdCYlljcUxCcWpuQlM3bUFlX041WEF4MEFwdThjMFlrYUZKcVVwc0F3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0MxQy02eEF1SEQ3cVE5R256dVpTZHM1OHdZVGJ3UVBWMFg0Vm9acS11UWlpTlJ5cENoRThINlItdU5qQ2xqSFNpQVZRVGQ5SlBCMGJaVVE4NUZfNnphM01TOXdvQUdCYlljcUxCcWpuQlM3bUFlX041WEF4MEFwdThjMFlrYUZKcVVwc0F3?oc=5\" target=\"_blank\">Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Palantir, Microsoft & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-04-28T12:18:57+00:00",
+      "title": "Traders bet Nvidia's stock will return to record highs soon - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVFZSjNaSjdqYVZBcFhEc0RrLUREMUhNOHRRSUF2Nlp3VTFXNWU2X1ZjRU12U01JMk4td0RMOHlOVTlkR1A0UG1QOXdsa3QxcDVsNFAtTV9yYkpHN0hpZ25ydGZMWC1aNFE5Tng1aVJLNkNRWEJnN0ZWcnkzRmduQk94bmRQWDgxZ0lvQmVFNDYtZkp3OVYyV0hGWdIBoAFBVV95cUxOTGQzbmlDY05VVFRxQlZkc0VsN3ZDc1Bvdl9jaHhxNENCNnNCUS1qR2s1R3BqOTAxRklpRUx0bDhkQnVoSDhCcm5DU01kQXE4dnFtNlptTzNPWHZDR3h3NGlwd2hqMTZ5NnBqeDNNWDFxb3FMTGxPUkFnaVlhYmFsa0ZSMVZYYnBKWkRhVUJmUHhYU2dSYk93U3NjZEpLTC1S?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVFZSjNaSjdqYVZBcFhEc0RrLUREMUhNOHRRSUF2Nlp3VTFXNWU2X1ZjRU12U01JMk4td0RMOHlOVTlkR1A0UG1QOXdsa3QxcDVsNFAtTV9yYkpHN0hpZ25ydGZMWC1aNFE5Tng1aVJLNkNRWEJnN0ZWcnkzRmduQk94bmRQWDgxZ0lvQmVFNDYtZkp3OVYyV0hGWdIBoAFBVV95cUxOTGQzbmlDY05VVFRxQlZkc0VsN3ZDc1Bvdl9jaHhxNENCNnNCUS1qR2s1R3BqOTAxRklpRUx0bDhkQnVoSDhCcm5DU01kQXE4dnFtNlptTzNPWHZDR3h3NGlwd2hqMTZ5NnBqeDNNWDFxb3FMTGxPUkFnaVlhYmFsa0ZSMVZYYnBKWkRhVUJmUHhYU2dSYk93U3NjZEpLTC1S?oc=5\" target=\"_blank\">Traders bet Nvidia's stock will return to record highs soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkxZUXlIcm1oWFVrS0ZsMWZFX3F3UUFieG5Lc1I0Ql9hX0U4VGJWbU9BYmVYYjF4U3FUSFBYRmd4QS1rWTE2Ymp6RG0yc0h3N2V2bVIzTHpWQ1lrb194X0NnZGM1RnQ0YnNmeFljTWExUmIxd25CamthLTlSNGd4RFdjSUVMclU?oc=5\" target=\"_blank\">Nvidia Stock Drops. Why Chip Stocks Keep Getting Hit.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlkzVWs0VmFHdUtUMnlzRzJHZmtEYXRwVGdsTUtRbEZLQWh6TFFGVDBXemFlSG9JWGJwM25wOUFkcHVNWTJQdXRIaWhxWjAxQ3ZCdm5tRUhMcGhaS0g0ODVVQWJsZFJINXR3MDZkS19xdTRVdExvWXBMc3NVcW1HVTNwTldnTFplNE1UbzlNSjJjSHBBNzVneUlIbFh6NTJG?oc=5\" target=\"_blank\">Are Investors Losing Faith in NVIDIA’s (NVDA) AI Promises?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-04-28T19:06:52+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Bank of America resets Nvidia stock forecast - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ24zZU1YY2ZNY0lLU3paaXpBUU1MUFp2SU1aVmtoZ1BqVGhtdjVIS2FsR1pEX2h6ZkZkRmMyZU9pWGJuQUtMdUhxQUxUVXpSTmc2WUlRSExLUGV6QXFWRzkzWkptYk5vbEozR2xWTWtvcXJZcXRLRjZuQ1J1WE1NU0NuMmQ3VnB2UV95emxzbS1HQVV3clZvRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ24zZU1YY2ZNY0lLU3paaXpBUU1MUFp2SU1aVmtoZ1BqVGhtdjVIS2FsR1pEX2h6ZkZkRmMyZU9pWGJuQUtMdUhxQUxUVXpSTmc2WUlRSExLUGV6QXFWRzkzWkptYk5vbEozR2xWTWtvcXJZcXRLRjZuQ1J1WE1NU0NuMmQ3VnB2UV95emxzbS1HQVV3clZvRw?oc=5\" target=\"_blank\">Bank of America resets Nvidia stock forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "published": "2026-04-28T00:17:00+00:00",
-      "source": "thestreet.com"
+      "title": "Blind Test Shows Gamers Prefer NVIDIA DLSS 4.5 Over AMD FSR 4.1 - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVldtSjFwNUtjcFRpNWxtSklvaGZwRW9vaHJXLUdBeFRVSzZ4ZGdNM2xqTFowbUdtdUt2dGZPNUNJVmRCQTBTVEFELW9kb0dtTXZjVUU2UzRTRE5DVEI3RmJZa0xQMF9wX3prYlRRTnFRcEx4RVhwbHBHWlUyQ3pfMTRENDY3MkpSc0ZfQmltX3BMUmFobzZtelV3NHBfS03SAaQBQVVfeXFMUFpIbllqay01M2ZtcnFDTXFudm10ZWdTTlB4YVhQNTdTMDhwTDZtVjhtZ0pmY0ppY1djZkZEazMwaWkxMW9lVm9GTHNOUFhtQ0EyM3g1YUhYcjBkdHVxTTNxbThLOExuY2N1R1BpVjJoalZLOThIS3FPaTNHMThHQnVBalRhaktCOXA5bk1tWnJRLWFVNzBDdzRydERVS2xWMWpLSjU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVldtSjFwNUtjcFRpNWxtSklvaGZwRW9vaHJXLUdBeFRVSzZ4ZGdNM2xqTFowbUdtdUt2dGZPNUNJVmRCQTBTVEFELW9kb0dtTXZjVUU2UzRTRE5DVEI3RmJZa0xQMF9wX3prYlRRTnFRcEx4RVhwbHBHWlUyQ3pfMTRENDY3MkpSc0ZfQmltX3BMUmFobzZtelV3NHBfS03SAaQBQVVfeXFMUFpIbllqay01M2ZtcnFDTXFudm10ZWdTTlB4YVhQNTdTMDhwTDZtVjhtZ0pmY0ppY1djZkZEazMwaWkxMW9lVm9GTHNOUFhtQ0EyM3g1YUhYcjBkdHVxTTNxbThLOExuY2N1R1BpVjJoalZLOThIS3FPaTNHMThHQnVBalRhaktCOXA5bk1tWnJRLWFVNzBDdzRydERVS2xWMWpLSjU?oc=5\" target=\"_blank\">Blind Test Shows Gamers Prefer NVIDIA DLSS 4.5 Over AMD FSR 4.1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2026-04-29T11:50:50+00:00",
+      "source": "TechPowerUp"
     },
     {
-      "title": "Will Nvidia's explosive rally end soon? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzlLSkxTV0pZR0QtOE5pSkJ1RmdHdFRVd0FtY0xvOFUzbS1ETzNVeG56T2haa3JJd25TNmdSS3kyVFlCYk5oT3dackxjZTl6VlhJcXJsYmdMYnRRQldmUGRVWGsyLVJSQ2NWbVhtbGVJeUJhZHN3Ql9NVnRVTXJhZE02RmxEb2VpcERF?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzlLSkxTV0pZR0QtOE5pSkJ1RmdHdFRVd0FtY0xvOFUzbS1ETzNVeG56T2haa3JJd25TNmdSS3kyVFlCYk5oT3dackxjZTl6VlhJcXJsYmdMYnRRQldmUGRVWGsyLVJSQ2NWbVhtbGVJeUJhZHN3Ql9NVnRVTXJhZE02RmxEb2VpcERF?oc=5\" target=\"_blank\">Will Nvidia's explosive rally end soon?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFhycnJLX0JLS1BSN2VZektJNzJrMEdaNE43VFVGWEV1QU5kcERWQlNNRXNHaktfMWxQVDBvc3AwYUJtd1IzRzdldmVoandiMzhuNFl4Qk50bFBtYWRPZGZxUHR1aUFvM09xU0s0MlhBWTZDUE93UlY0akFIc0VTWXFROWZaQldXT0lPWHhYWmFOazljUFdaTG5BTHdURkdNY1FuUjNnZkY5OU1uWXVVckhBcWJnWDFlOUVhLWF4YURvUmp2RUVXZWhLOUx2TmNza3c?oc=5\" target=\"_blank\">Nvidia Sets New Record With Nearly $5.3 Trillion Value After AI Darling Surges 4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYU1HYkV3NVpGTWoxdEZGeHUyOEwxUDNCbnlFOG5KWWhDcXFTaWVwZ2pLbTlDeTAxOElyY0x4ckJEanVzZDlQTV84bm40N1dMc1pqR1hxMDZOaFRUUnExNS13czg1aGppZUo0S3JZMFFGVUZTSHZpU1B6OE1vQ184MmtJcC0xcUxRSGlGeWtDakRqcnViSVV6aWh5MFVEZi1YUlJ3TWpuUGlSWXM5YzNjNGp2YWxOMVJ6Z3FETUU0UQ?oc=5\" target=\"_blank\">Forbes Daily: Nvidia’s Market Cap Hits A New Record Of $5.26 Trillion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li></ol>",
-      "published": "2026-04-27T13:34:30+00:00",
+      "title": "NVIDIA Accounting Leadership Shift Raises Questions For AI Investment Oversight - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUJlZDlWU0xiY0lFaWlmYm5DM2dteEdRTGpCVUNrOEVOU08yLUIyQW41U3RmcGpPdlBaS1RuNnRvSnJ0OUk4eGtIX19yVmoxSlRMZGR6MlhUUkJFb1F2bzJkUnJuN2dacUd1c252dDBVTTZfdzJGU3FBRGllcmptNmhwcWc5RFdnaUVwS2dLODdKcy1BdU9tQjdMNkFiSlZlZS1qeHVlTmNqUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWUJlZDlWU0xiY0lFaWlmYm5DM2dteEdRTGpCVUNrOEVOU08yLUIyQW41U3RmcGpPdlBaS1RuNnRvSnJ0OUk4eGtIX19yVmoxSlRMZGR6MlhUUkJFb1F2bzJkUnJuN2dacUd1c252dDBVTTZfdzJGU3FBRGllcmptNmhwcWc5RFdnaUVwS2dLODdKcy1BdU9tQjdMNkFiSlZlZS1qeHVlTmNqUQ?oc=5\" target=\"_blank\">NVIDIA Accounting Leadership Shift Raises Questions For AI Investment Oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-04-29T12:03:05+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "LG Electronics, Nvidia in talks over robots, AI data centres and mobility - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTG83TUhuRFBGRGpZQ2V2ajV4VjViTXpiclZVWVhoQkpOYjNwczZnN0NVMUZTcDg0VHFmTndfQ0dVY1B1UFhIWV9ldVJnSU1QaVJncjlScWdYZkVKY2wwQjZpV05xYloyN2dGQjd4QXlGOEZXZXdlTTZjSUtfV1h4OXkxaXJmclpRMGUtbndLaDM4V3JteTNZbS1lNmx6RTl1SHhZSU9QUjhUTnRUZVJ5bkUzQnJkX1JRVUJ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTG83TUhuRFBGRGpZQ2V2ajV4VjViTXpiclZVWVhoQkpOYjNwczZnN0NVMUZTcDg0VHFmTndfQ0dVY1B1UFhIWV9ldVJnSU1QaVJncjlScWdYZkVKY2wwQjZpV05xYloyN2dGQjd4QXlGOEZXZXdlTTZjSUtfV1h4OXkxaXJmclpRMGUtbndLaDM4V3JteTNZbS1lNmx6RTl1SHhZSU9QUjhUTnRUZVJ5bkUzQnJkX1JRVUJ3?oc=5\" target=\"_blank\">LG Electronics, Nvidia in talks over robots, AI data centres and mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-04-29T08:24:13+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nvidia-Tied Data Center Raises $4.59 Billion From Junk-Bond Sale - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHBFSFNHZUM0cE9Kc2xEMThadC1Fd2NtbjlMRzdWWi0xMU81R19lMl9WQ0tLdlNsSklpaXg2M1Jib2Y3dWNXYTI2aHNDQ0RUU09DbDRrUVF0T1dZemVxSmI2ZnljNmo3dGVwNE41S2J3RnpKYXUzNUxMS2VaV1F4Zk8xLTR4SW85M1RiVUU0Uk5QMG5keXFrdmFXT3RwV3RwUTJQRFJfOHB4dHphX0JGUjZWMHY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHBFSFNHZUM0cE9Kc2xEMThadC1Fd2NtbjlMRzdWWi0xMU81R19lMl9WQ0tLdlNsSklpaXg2M1Jib2Y3dWNXYTI2aHNDQ0RUU09DbDRrUVF0T1dZemVxSmI2ZnljNmo3dGVwNE41S2J3RnpKYXUzNUxMS2VaV1F4Zk8xLTR4SW85M1RiVUU0Uk5QMG5keXFrdmFXT3RwV3RwUTJQRFJfOHB4dHphX0JGUjZWMHY?oc=5\" target=\"_blank\">Nvidia-Tied Data Center Raises $4.59 Billion From Junk-Bond Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-04-28T20:57:53+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "NVIDIA starts offering a 12GB version of the 5070 for laptops - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlI4cUtCOTl1TVA2S1hUZXNuODl3aXNFVHFNb3hzcUY5cU0yWHMwV3M0Tkd6cGZYZDZVVXRhamxFQm5FNmlER1d4dFhVRHlpY21tWm1RR0U5cEZ5cnpKZ0dsYVUxZUw2bXBUc1Vmd2ZYRHJDWGxXMjFFTXZZZ1RRdGhEYS1XV3cwUEMzMmc1RWhGRDNWMnJKSkNVVDdSWTZkVDg0ZmF0V2UyV2VlUWY3WUplLUZIMlREWkVZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlI4cUtCOTl1TVA2S1hUZXNuODl3aXNFVHFNb3hzcUY5cU0yWHMwV3M0Tkd6cGZYZDZVVXRhamxFQm5FNmlER1d4dFhVRHlpY21tWm1RR0U5cEZ5cnpKZ0dsYVUxZUw2bXBUc1Vmd2ZYRHJDWGxXMjFFTXZZZ1RRdGhEYS1XV3cwUEMzMmc1RWhGRDNWMnJKSkNVVDdSWTZkVDg0ZmF0V2UyV2VlUWY3WUplLUZIMlREWkVZ?oc=5\" target=\"_blank\">NVIDIA starts offering a 12GB version of the 5070 for laptops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-04-28T18:00:57+00:00",
+      "source": "Engadget"
+    },
+    {
+      "title": "NVIDIA Releases New GeForce 596.36 WHQL Game Ready Drivers - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0hzcV8weFBQdlFwVkJ3elhyS19CQ0lZWF9QUE5iYjlxTm1za0xtbWRQbkdUMXRTVzZkZjNpdTNDZlRUdHZsbDgyNGRLR3hrOFROMTBoMy1WdzdGOVlVSEgtODB6T3VqbzJrWGpYeGd1bVV0SnRGajFFcGxPMkFFNGRGSDlpX3EtUjdnUHZmeGJqRXhiMlBPetIBngFBVV95cUxNa19lUE9UVWw0UUR0ZGd4WHFIMDRrTGpic3NTdTBGd3ZlMzZpdTNQUTdhVjhuUmkxcFBmOVZ5eWlfU0RDTUZnZ2czU3BzaDlfRGNhelkwQ2lmeWJjRkxsMU1lWXZid2pNSXhaOGwxdVNndjNkUDRHXzFLdl90a1Z1dFRfTUhJaFl5VmVDejlINmNUWms0d0VSclJsRjlJdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxON0hzcV8weFBQdlFwVkJ3elhyS19CQ0lZWF9QUE5iYjlxTm1za0xtbWRQbkdUMXRTVzZkZjNpdTNDZlRUdHZsbDgyNGRLR3hrOFROMTBoMy1WdzdGOVlVSEgtODB6T3VqbzJrWGpYeGd1bVV0SnRGajFFcGxPMkFFNGRGSDlpX3EtUjdnUHZmeGJqRXhiMlBPetIBngFBVV95cUxNa19lUE9UVWw0UUR0ZGd4WHFIMDRrTGpic3NTdTBGd3ZlMzZpdTNQUTdhVjhuUmkxcFBmOVZ5eWlfU0RDTUZnZ2czU3BzaDlfRGNhelkwQ2lmeWJjRkxsMU1lWXZid2pNSXhaOGwxdVNndjNkUDRHXzFLdl90a1Z1dFRfTUhJaFl5VmVDejlINmNUWms0d0VSclJsRjlJdw?oc=5\" target=\"_blank\">NVIDIA Releases New GeForce 596.36 WHQL Game Ready Drivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2026-04-28T18:21:41+00:00",
+      "source": "TechPowerUp"
     }
   ],
   "product_launches": [
     {
       "title": "CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOdGJKNFVpVmV2MmVMRDZpT0dWc3JCYWwtMnVtVmZRcmhEVmxUZmZpUEVMUjkxOW9JM1lDWkxyUG9wcU1uSXdFU2trRVFHWXpaZEptSldpbWpza2F3TDNjMl9qNzkxbnF5ckRPSzBWZUR6WHJWRVNydEdGcXlGNUk4M2NDRGdZZm1ndGFGTGs0NzNEQVRYc0QzQTVYMkptYXBfWWhkbFB3ZllRejBaYVQ3T3VXMjhiXy11dWc3LTlDd3lwWnFmeXNlMlZIMXdReEpFZnpRaGRZb0dzc1RGWkEtT3FBZE96Tkt0RVZMNllXQkVUNU1DaUxSSnVZT3NfR0FCclAyemstUjdHSllNNklZSkRjdXpxZC0zVS1FNkdoRlJtamw3cnlKNjBUNWxKS2dVN0ZLOElBS1hUaTdTTFZWQ01qTUZaazk4TEZTUHlEZzlyUTU4ZWtlVDZJZGhtUjhORjFMSjlnU2JMTEJ6X09Oa1ZLbnVQVlJsNElLand3UGZYaGk4bVlkY0FSM255NldIV3BYcE51OFBPakZxNEUteG1SZXdhSjFiV29aa2lpM2E2TDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswNBVV95cUxOdGJKNFVpVmV2MmVMRDZpT0dWc3JCYWwtMnVtVmZRcmhEVmxUZmZpUEVMUjkxOW9JM1lDWkxyUG9wcU1uSXdFU2trRVFHWXpaZEptSldpbWpza2F3TDNjMl9qNzkxbnF5ckRPSzBWZUR6WHJWRVNydEdGcXlGNUk4M2NDRGdZZm1ndGFGTGs0NzNEQVRYc0QzQTVYMkptYXBfWWhkbFB3ZllRejBaYVQ3T3VXMjhiXy11dWc3LTlDd3lwWnFmeXNlMlZIMXdReEpFZnpRaGRZb0dzc1RGWkEtT3FBZE96Tkt0RVZMNllXQkVUNU1DaUxSSnVZT3NfR0FCclAyemstUjdHSllNNklZSkRjdXpxZC0zVS1FNkdoRlJtamw3cnlKNjBUNWxKS2dVN0ZLOElBS1hUaTdTTFZWQ01qTUZaazk4TEZTUHlEZzlyUTU4ZWtlVDZJZGhtUjhORjFMSjlnU2JMTEJ6X09Oa1ZLbnVQVlJsNElLand3UGZYaGk4bVlkY0FSM255NldIV3BYcE51OFBPakZxNEUteG1SZXdhSjFiV29aa2lpM2E2TDg?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-04-26T17:56:34+00:00",
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPa01VT2RzTWhqQnc4bGRXQjY5eE9nTGZnRmNoWGdlRzRmVENqMkxDZW5uQ3gta2ZGUGEyRlhXc0lmRXB3VGctelhNQjc0N2xVWGIzdS1ELVdPUE43bjNBVUdRX2Y3NXNFbUtETlgwV1I5bDlXdzAwdVl2cUdsaV9vdHlKbkg5LTJGbW8teV9OQ29qdGtxRnVtdEdzLTg5ZkVNbEJPeG5VMFVkUE5vWkdJUGxLc1pRLTZ4cWx5M2hVa0ttNGUwMzJYRGpLU0NpUmxZNjdDLURyYnh4bDUzSkhteU0xUDVqVkg1dW9KWWlrckJRYTRsbjJ3NWljejIwaFQxa2Z2YjRXVHZHVkJBbmRtREg2WGlkTW1XbkxVVFZmQm9rVUFwZHMxZFV0enZvMEhNeHFQVE1wTDZ2aEpSY3ZtNk8wQ2NIRU5LcV9CSFJzMDRfckxZbFNfTVUzMEZVd3Z6WngwVlA2UGFJeHo0Vm8yQzJBUGlaM3o3YURkR1NCVHhLNFAzaE1CWnJxdlp3TV8tWXYwYmNtMHMwemZzb2IyYzlWZUliTkRVMHJyMVgyTFRYZWtZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitANBVV95cUxPa01VT2RzTWhqQnc4bGRXQjY5eE9nTGZnRmNoWGdlRzRmVENqMkxDZW5uQ3gta2ZGUGEyRlhXc0lmRXB3VGctelhNQjc0N2xVWGIzdS1ELVdPUE43bjNBVUdRX2Y3NXNFbUtETlgwV1I5bDlXdzAwdVl2cUdsaV9vdHlKbkg5LTJGbW8teV9OQ29qdGtxRnVtdEdzLTg5ZkVNbEJPeG5VMFVkUE5vWkdJUGxLc1pRLTZ4cWx5M2hVa0ttNGUwMzJYRGpLU0NpUmxZNjdDLURyYnh4bDUzSkhteU0xUDVqVkg1dW9KWWlrckJRYTRsbjJ3NWljejIwaFQxa2Z2YjRXVHZHVkJBbmRtREg2WGlkTW1XbkxVVFZmQm9rVUFwZHMxZFV0enZvMEhNeHFQVE1wTDZ2aEpSY3ZtNk8wQ2NIRU5LcV9CSFJzMDRfckxZbFNfTVUzMEZVd3Z6WngwVlA2UGFJeHo0Vm8yQzJBUGlaM3o3YURkR1NCVHhLNFAzaE1CWnJxdlp3TV8tWXYwYmNtMHMwemZzb2IyYzlWZUliTkRVMHJyMVgyTFRYZWtZ?oc=5\" target=\"_blank\">CRDO shares garner retail attention amid new product launches, Nvidia CEO comments on copper use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-04-29T11:10:50+00:00",
       "source": "MSN"
     },
     {
@@ -77,6 +77,13 @@
       "source": "NVIDIA Newsroom"
     },
     {
+      "title": "NVIDIA N1X in the spotlight at Computex: Leak suggests a 2026 demo, but only a late market launch - igor´sLAB",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1JOM1pvMWpodll0eTducTA0dzdGSnFhalFXNXI0ak9FdG9oLXdNT2RkZlM2RzRzLWRIMUg4bnFkZk84ZHZQbmI4M29yak9Bd1hjd3AtZDAya0VKTWVEZGZCekNGT2N2aDc4WTVmWUxyckhZVDdpdGZaMWtKREZzSmxwOEVieWwtOGM5b1lkOVJ5STdpeTZYeWNXUHhfMGwwSFdwTy0zU2ZKV3pRS25MbGliaW9pTDVQX2hQR2Nhcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1JOM1pvMWpodll0eTducTA0dzdGSnFhalFXNXI0ak9FdG9oLXdNT2RkZlM2RzRzLWRIMUg4bnFkZk84ZHZQbmI4M29yak9Bd1hjd3AtZDAya0VKTWVEZGZCekNGT2N2aDc4WTVmWUxyckhZVDdpdGZaMWtKREZzSmxwOEVieWwtOGM5b1lkOVJ5STdpeTZYeWNXUHhfMGwwSFdwTy0zU2ZKV3pRS25MbGliaW9pTDVQX2hQR2Nhcw?oc=5\" target=\"_blank\">NVIDIA N1X in the spotlight at Computex: Leak suggests a 2026 demo, but only a late market launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">igor´sLAB</font>",
+      "published": "2026-04-29T04:00:00+00:00",
+      "source": "igor´sLAB"
+    },
+    {
       "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
@@ -84,32 +91,21 @@
       "source": "Business Insider"
     },
     {
-      "title": "Nvidia Built the A.I. Era. Now It Has to Defend It. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5\" target=\"_blank\">Nvidia Built the A.I. Era. Now It Has to Defend It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
+      "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHFoZWh5ekV4ckU0djlfcGdLWnhScDJqb0MtMEZvTjF3Vkt6bXZnWTlobVdjcXNzTWhRMTh5QUNIMWptOXNUMnN4VVRNZzdsQTNzQy04Q2xCWlFBaXVIN3BBVjdUdkE0YUtmU3c4cE1PRGo3bjFPd1I3RHc2eFUtY3htYWl0MG5YelgwNEJaVjFyalhJVXp3VTRydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHFoZWh5ekV4ckU0djlfcGdLWnhScDJqb0MtMEZvTjF3Vkt6bXZnWTlobVdjcXNzTWhRMTh5QUNIMWptOXNUMnN4VVRNZzdsQTNzQy04Q2xCWlFBaXVIN3BBVjdUdkE0YUtmU3c4cE1PRGo3bjFPd1I3RHc2eFUtY3htYWl0MG5YelgwNEJaVjFyalhJVXp3VTRydw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2025-10-28T07:00:00+00:00",
+      "source": "WSJ"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-04-27",
-      "close": 216.61000061035156
+      "date": "2026-04-28",
+      "close": 213.1699981689453
     },
     "history": [
-      {
-        "date": "2026-04-17",
-        "close": 201.67999267578125
-      },
       {
         "date": "2026-04-20",
         "close": 202.05999755859375
@@ -133,6 +129,10 @@
       {
         "date": "2026-04-27",
         "close": 216.61000061035156
+      },
+      {
+        "date": "2026-04-28",
+        "close": 213.1699981689453
       }
     ],
     "name": "NVIDIA Corporation"
