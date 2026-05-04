@@ -2,21 +2,56 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-05-03T12:45:49.749862+00:00",
+  "fetched_at": "2026-05-04T13:22:15.791268+00:00",
   "news": [
     {
-      "title": "JPMorgan resets Amazon stock price target after earnings - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHRJQVlBQm9BTTl6VkF6TjJmTHNYQWlHajJVaFowV1QzaGVRcUdwaGVLVkFwUGZtYkhBazJwN1dGdmR5djVRUEZuNnpVRzVSN2hubUJhMTlGX1RGdjdnMUZWQXVKQUN6N0ExeV9IV2wwek1QWnJidHNSVW1hQl9pYXJmdzNYakNhcWV3Y0Q1MzRQOU03czMtdjhjMi1ESGta?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHRJQVlBQm9BTTl6VkF6TjJmTHNYQWlHajJVaFowV1QzaGVRcUdwaGVLVkFwUGZtYkhBazJwN1dGdmR5djVRUEZuNnpVRzVSN2hubUJhMTlGX1RGdjdnMUZWQXVKQUN6N0ExeV9IV2wwek1QWnJidHNSVW1hQl9pYXJmdzNYakNhcWV3Y0Q1MzRQOU03czMtdjhjMi1ESGta?oc=5\" target=\"_blank\">JPMorgan resets Amazon stock price target after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "published": "2026-05-03T08:03:00+00:00",
-      "source": "thestreet.com"
+      "title": "Amazon Built a Massive Supply Chain for Itself. Now It’s for Hire. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFZnRmZMNjZuWUhybDQtSUtGYm9hSzJ3OXVUcUNDUkZKRk5MN1ZWQXlGSVVKNkJucU8zTEgwajk2REVSZUFXb0Z6aHd0Nnp1NXZvVXVzZmpoMkh6VldwNlAwR1lLaTdQdFRMRW82SDJjaUlwU2tWWWk3cklnUC1kcWpiaDVwd1pZWE5nWHg0VXJsVWUwQ1RpWW1fZzlCcnZXVWlFNDR3a21zMzJiV2c?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFZnRmZMNjZuWUhybDQtSUtGYm9hSzJ3OXVUcUNDUkZKRk5MN1ZWQXlGSVVKNkJucU8zTEgwajk2REVSZUFXb0Z6aHd0Nnp1NXZvVXVzZmpoMkh6VldwNlAwR1lLaTdQdFRMRW82SDJjaUlwU2tWWWk3cklnUC1kcWpiaDVwd1pZWE5nWHg0VXJsVWUwQ1RpWW1fZzlCcnZXVWlFNDR3a21zMzJiV2c?oc=5\" target=\"_blank\">Amazon Built a Massive Supply Chain for Itself. Now It’s for Hire.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnNXeHB1RGNpd2xnUGlydFZCZ0tycFFUTmdpWWxIR09IMXlHM3ZrenI2b1oxeFZyeHpoWVhPRG5PNVhDTzlpOWc2ZTBjcUc2ZzE0b2RBZjNpOUpseVpfSnA2MDNLSHFWNVlRSFdqMGRpX2pmZ3ZTcGxyWFhiWXNZdTNMWldwYUFOTFF5Sno5M1ZVQVNDS3VqOUdWTVU2QXRPTm8tTl9NY09LZUFMMWlESHpTN3NGbHJrWkl0TGN3?oc=5\" target=\"_blank\">Amazon supply chain shocker sends FedEx, UPS, and other freight logistics names lower (FDX:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li></ol>",
+      "published": "2026-05-04T10:00:00+00:00",
+      "source": "WSJ"
     },
     {
-      "title": "Amazon stuck with months of repairs after drone strikes on data centers - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkI3QUdydGxDeWVNbUhNYTdUZFdxM1V0Q01PYTBWTnZvekRiZHNpTkNJeEVlVHA0ZG9zOVpIRHM5TVRkWVplTExpUkkwZHkxcWNuSEsydHFBcG4xUU8wc0hucDR1RzdRR2VXckNoejJUUFk1a1FxZ0ZOcjZYWnJWdHAzWnFidkk4QWF1MzAzWnZlY2R2TWVlT1lubElabHRUdnpfMU1UbWkwMnlpV3RkcHRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkI3QUdydGxDeWVNbUhNYTdUZFdxM1V0Q01PYTBWTnZvekRiZHNpTkNJeEVlVHA0ZG9zOVpIRHM5TVRkWVplTExpUkkwZHkxcWNuSEsydHFBcG4xUU8wc0hucDR1RzdRR2VXckNoejJUUFk1a1FxZ0ZOcjZYWnJWdHAzWnFidkk4QWF1MzAzWnZlY2R2TWVlT1lubElabHRUdnpfMU1UbWkwMnlpV3RkcHRR?oc=5\" target=\"_blank\">Amazon stuck with months of repairs after drone strikes on data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-05-01T17:09:59+00:00",
-      "source": "Ars Technica"
+      "title": "I’m Ditching Tight, Constricting Leggings for Loose-Fitting Workout Pants — Shop 8 Styles I’m Eyeing Starting at $25 - People.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FYnZuUnRyTUt5dmpoVTJ2Z1Z5M2M0OGM3RkRodEQ4VnRJLUpRRkI5UndIenljUmtBU2pDRFp6YmlOUFhaWWxBZXVMYVltSzNNZzVUMXNkQkxUb3JGRmV4WHd5MkNVTzRyYmtKVGVvTG5TVlQwZUZZZmF2QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9FYnZuUnRyTUt5dmpoVTJ2Z1Z5M2M0OGM3RkRodEQ4VnRJLUpRRkI5UndIenljUmtBU2pDRFp6YmlOUFhaWWxBZXVMYVltSzNNZzVUMXNkQkxUb3JGRmV4WHd5MkNVTzRyYmtKVGVvTG5TVlQwZUZZZmF2QQ?oc=5\" target=\"_blank\">I’m Ditching Tight, Constricting Leggings for Loose-Fitting Workout Pants — Shop 8 Styles I’m Eyeing Starting at $25</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-05-04T12:00:00+00:00",
+      "source": "People.com"
+    },
+    {
+      "title": "Amazon Has Legitimately Great Last-Minute Mother’s Day Gifts - Esquire",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTNpdzdEbHoydHNLaG9JZ3dFWGlYTm9OMzk5NXRFVi1pcUE4SVFKZF9FMW5Ib0xxOHlyY0llSVY5WHNXTTVoVUhveWIxd2xnRGM3OGxpWEdCOXVBSEhOSDNEN21LVHNDeGRpdTVkVXdKZ2pmbWwxeTM3MDlHQkpSZjlBX3V1QnFJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTNpdzdEbHoydHNLaG9JZ3dFWGlYTm9OMzk5NXRFVi1pcUE4SVFKZF9FMW5Ib0xxOHlyY0llSVY5WHNXTTVoVUhveWIxd2xnRGM3OGxpWEdCOXVBSEhOSDNEN21LVHNDeGRpdTVkVXdKZ2pmbWwxeTM3MDlHQkpSZjlBX3V1QnFJ?oc=5\" target=\"_blank\">Amazon Has Legitimately Great Last-Minute Mother’s Day Gifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Esquire</font>",
+      "published": "2026-05-04T12:02:13+00:00",
+      "source": "Esquire"
+    },
+    {
+      "title": "EBay soars as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVltYU54aE55djhNSUw5V1VNUllGQVV3dnRTZTVUY3lNWWc2WWlUeDhCZ3BkRmV0Y29GM1dvQkNILVJUbHRqWktNZnc4SUR0cjhFeWkyNlZ0d201NGxlQWhsSV9PWXlaYmFXVV81MGduUnhxbDNBZWRGWGlYMXNvZldHU3FLSVJ1eDNNQUpSaHJoZHZxR2JRM09iV1VrSFXSAaQBQVVfeXFMUFdzNXRXS0dpTnFkOEFuWFRybGYyaUJ0M0xYV3dUbXF1QnpYWmZMWGpiRThnWlpjcXhrNXpfaEg0dEdsM2dLZl9zc182VHBhNEFleThwcF94dGdSRi1tcl9ZSWhoSUdKRWVndmZIcTRyQkx2UnJZQl9UbkJfZnNQVEdqZEpNRzNfN3N6YUlwYXRyUTF2b2J4c01UaUZFLW1uVS1iSmk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSVltYU54aE55djhNSUw5V1VNUllGQVV3dnRTZTVUY3lNWWc2WWlUeDhCZ3BkRmV0Y29GM1dvQkNILVJUbHRqWktNZnc4SUR0cjhFeWkyNlZ0d201NGxlQWhsSV9PWXlaYmFXVV81MGduUnhxbDNBZWRGWGlYMXNvZldHU3FLSVJ1eDNNQUpSaHJoZHZxR2JRM09iV1VrSFXSAaQBQVVfeXFMUFdzNXRXS0dpTnFkOEFuWFRybGYyaUJ0M0xYV3dUbXF1QnpYWmZMWGpiRThnWlpjcXhrNXpfaEg0dEdsM2dLZl9zc182VHBhNEFleThwcF94dGdSRi1tcl9ZSWhoSUdKRWVndmZIcTRyQkx2UnJZQl9UbkJfZnNQVEdqZEpNRzNfN3N6YUlwYXRyUTF2b2J4c01UaUZFLW1uVS1iSmk?oc=5\" target=\"_blank\">EBay soars as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-04T03:22:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Assault reported at Durham Amazon facility, police say - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXE1dHZocnFCWmQ0VkdGMHdXbGZ1UkphUUdEN1YxaVJnSG5objhXSEdUb0RzTzBHYkxHS2lFTm1DNG9ZaXd2OXRrbHJhWlpnV25fTS1Nd2ljeXhleUN3aDVTN2haMThYY1I0b1U0b0FzT2pqMnpRTTRpdHlCcnIxVk5tY0Z2Sk5J?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXE1dHZocnFCWmQ0VkdGMHdXbGZ1UkphUUdEN1YxaVJnSG5objhXSEdUb0RzTzBHYkxHS2lFTm1DNG9ZaXd2OXRrbHJhWlpnV25fTS1Nd2ljeXhleUN3aDVTN2haMThYY1I0b1U0b0FzT2pqMnpRTTRpdHlCcnIxVk5tY0Z2Sk5J?oc=5\" target=\"_blank\">Assault reported at Durham Amazon facility, police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>",
+      "published": "2026-05-04T10:55:46+00:00",
+      "source": "WRAL"
+    },
+    {
+      "title": "Rochester police investigate series of collisions involving Amazon truck - 13wham.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFEzRFNaYmpoZ0xvSnVBRWpEVnBSTVFmUU91LVBULVdhcGxvVjlBeHNuVEloVkN6VnZFbDNidFF4aXVnOFBNZ1V5MUFmaWRoSnJEZmM4TmdQZFhhTEQ5VXE3WUM2b2VlQzlQb2t6T1RuMTNrRDJacHIwUkxEcEhUVjdKR2w4MDhWUXhQaXZlVU42ZkNjR1NQcEh0WUJZanpoUXJUTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFEzRFNaYmpoZ0xvSnVBRWpEVnBSTVFmUU91LVBULVdhcGxvVjlBeHNuVEloVkN6VnZFbDNidFF4aXVnOFBNZ1V5MUFmaWRoSnJEZmM4TmdQZFhhTEQ5VXE3WUM2b2VlQzlQb2t6T1RuMTNrRDJacHIwUkxEcEhUVjdKR2w4MDhWUXhQaXZlVU42ZkNjR1NQcEh0WUJZanpoUXJUTQ?oc=5\" target=\"_blank\">Rochester police investigate series of collisions involving Amazon truck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13wham.com</font>",
+      "published": "2026-05-04T10:01:51+00:00",
+      "source": "13wham.com"
+    },
+    {
+      "title": "GameStop makes daring $56 billion bid for eBay, hoping to rival Amazon - CNN",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUeGhrcG1uVWJVandrMkFYTlRMWWVXTmJPMDZRS2ZMT2JKWVpVazZ4aTdWWGR6a21xcFBETkZtLUdyUUVaUkt6dktleEUzVnZvSHBtNWZfQkFRdkxPbHdSQUNMT1FZU09KSFpXZDBzUFc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBUeGhrcG1uVWJVandrMkFYTlRMWWVXTmJPMDZRS2ZMT2JKWVpVazZ4aTdWWGR6a21xcFBETkZtLUdyUUVaUkt6dktleEUzVnZvSHBtNWZfQkFRdkxPbHdSQUNMT1FZU09KSFpXZDBzUFc?oc=5\" target=\"_blank\">GameStop makes daring $56 billion bid for eBay, hoping to rival Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2026-05-04T10:18:29+00:00",
+      "source": "CNN"
     },
     {
       "title": "I'm an ex-Amazon recruiter. My advice for job seekers: Don't come across as trying too hard — be found or referred. - Business Insider",
@@ -24,44 +59,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRjd2QWd3MUJmVjloSTBmSXdYNkxKTXJFV0NQQzc3c09KWW82NTEwTHZHQ1pFSXRBRmFIekN3bGR4ZDJmeUNleXdYeXIwV2ZhQmJaLTAzT19DQUN3UUtpZzRpaXRUZWF5WnE2Rkd0WEJ6dmZJZkhfR2tsaHpINjFrczV6OHgtYm1EVmlpRXpWeFZaSzUzWjdDM0VRbkdLMnM?oc=5\" target=\"_blank\">I'm an ex-Amazon recruiter. My advice for job seekers: Don't come across as trying too hard — be found or referred.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-05-02T09:10:00+00:00",
       "source": "Business Insider"
-    },
-    {
-      "title": "Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVl9HNGktRlFfVmRZZTJIdVhTc3hWQlZ1dHhXMVBHQTFqaDQ1NHJKYldZZTgwTWZidm1IQnVkRTBhUWxuZ1pEaENhd0VTQUpIMF9TRFJhTFBHRS12Tkp1eGJwaW5yOEFsQkd5b1VrbmFNRXdFX1c2QUlGeUNjNTZRSFh6ekRhREdLaW12Q0FsWElwYXJOejJMamhyTjVWT2l1TDR1RkNvRjQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVl9HNGktRlFfVmRZZTJIdVhTc3hWQlZ1dHhXMVBHQTFqaDQ1NHJKYldZZTgwTWZidm1IQnVkRTBhUWxuZ1pEaENhd0VTQUpIMF9TRFJhTFBHRS12Tkp1eGJwaW5yOEFsQkd5b1VrbmFNRXdFX1c2QUlGeUNjNTZRSFh6ekRhREdLaW12Q0FsWElwYXJOejJMamhyTjVWT2l1TDR1RkNvRjQ?oc=5\" target=\"_blank\">Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-05-03T09:00:24+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Quick! Amazon Just Dropped Hundreds of Fresh Deals for May — Here Are the 50 Best to Shop from Just $6 - People.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hdFZYb3ZEY2lodERNS3hDaTlGX1piVFlnbTY3RlVta0JYdkl1X0lyc3U2dHJqZF8tME9YV2RZV2tpRHdLVlJkTUVfdVhqbXVVenBmMV9Nd1dBYTNsUURJRVRRc1g?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hdFZYb3ZEY2lodERNS3hDaTlGX1piVFlnbTY3RlVta0JYdkl1X0lyc3U2dHJqZF8tME9YV2RZV2tpRHdLVlJkTUVfdVhqbXVVenBmMV9Nd1dBYTNsUURJRVRRc1g?oc=5\" target=\"_blank\">Quick! Amazon Just Dropped Hundreds of Fresh Deals for May — Here Are the 50 Best to Shop from Just $6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2026-05-02T10:30:00+00:00",
-      "source": "People.com"
-    },
-    {
-      "title": "\"Never Share These 10 Things At Work\": Amazon Employee's Viral Career Advice - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXlSSHNqZnlzRW5PYlBYM3FYalRieVV6Z0E0OExpWnRPaWlwZTJRY24zb2RFdnpvZHNleXlCUzNTQ2lxc3RoUmpLeWZxUGJfdkY1V21icFpyT2JTTEZVR2JyZ1JEb21kdklWQXF2TS05R3FUekZubWV0U1ZlYkNsanBXN2Q1YVhkVnUydEp1SmlLTnZzZ1pwTjRmc25DX1I2LThpLV8xV2QzTDZYZ2pn0gG3AUFVX3lxTFBYeHpYOF9PQkN5YWYtSjRKbmRDZGVlVFJOb25GWkdZUjJYUGhXVFRPY3pGcjhjUHdLQ0NaTXN2YjdZU2QwQ0JaNWhUd1BRUzluM3lUVVFfYUY5dU0wMEZCLXNVdS11X09RZjJwai1fTXZZYXJqc0ZadDM4ME9od2h4ZWtoc2tlaGN3T2g0TC00cVFyREZqLUp4dk83SmpfaU5WVEx0a0ppbEdlOWNDcU5wZWNJemM3OA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXlSSHNqZnlzRW5PYlBYM3FYalRieVV6Z0E0OExpWnRPaWlwZTJRY24zb2RFdnpvZHNleXlCUzNTQ2lxc3RoUmpLeWZxUGJfdkY1V21icFpyT2JTTEZVR2JyZ1JEb21kdklWQXF2TS05R3FUekZubWV0U1ZlYkNsanBXN2Q1YVhkVnUydEp1SmlLTnZzZ1pwTjRmc25DX1I2LThpLV8xV2QzTDZYZ2pn0gG3AUFVX3lxTFBYeHpYOF9PQkN5YWYtSjRKbmRDZGVlVFJOb25GWkdZUjJYUGhXVFRPY3pGcjhjUHdLQ0NaTXN2YjdZU2QwQ0JaNWhUd1BRUzluM3lUVVFfYUY5dU0wMEZCLXNVdS11X09RZjJwai1fTXZZYXJqc0ZadDM4ME9od2h4ZWtoc2tlaGN3T2g0TC00cVFyREZqLUp4dk83SmpfaU5WVEx0a0ppbEdlOWNDcU5wZWNJemM3OA?oc=5\" target=\"_blank\">\"Never Share These 10 Things At Work\": Amazon Employee's Viral Career Advice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-      "published": "2026-05-03T09:26:52+00:00",
-      "source": "NDTV"
-    },
-    {
-      "title": "Amazon Added Hundreds of New Kitchen Arrivals This Month, but These Are the 10 Best - Food & Wine",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUpmTW5COGNQZU93cHRyZTJVNmplOTFXdTZrWFdRczlIbDIyS2NLTl85QW5ZVFgyVGdYZmllMm9FNG9WOFlETVBrclJhdXBFVzBPaFNSU3JSX3U2clBKdFdTTDdKaXhjS2ZRU2JQYkRYbnlnUXZaaW1iT0Q3QlNLNW85MHI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUpmTW5COGNQZU93cHRyZTJVNmplOTFXdTZrWFdRczlIbDIyS2NLTl85QW5ZVFgyVGdYZmllMm9FNG9WOFlETVBrclJhdXBFVzBPaFNSU3JSX3U2clBKdFdTTDdKaXhjS2ZRU2JQYkRYbnlnUXZaaW1iT0Q3QlNLNW85MHI?oc=5\" target=\"_blank\">Amazon Added Hundreds of New Kitchen Arrivals This Month, but These Are the 10 Best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food & Wine</font>",
-      "published": "2026-05-03T05:30:00+00:00",
-      "source": "Food & Wine"
-    },
-    {
-      "title": "Found: Easy, Packable Spring And Summer Dresses For Your Next Beach Getaway—From $15 At Amazon - Southern Living",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2lVUzduTGhYd2RpRmd5ZUJTSmN6TGl2Q09iUEVEeE5yR0VvZndyYkxNeGFZR215amxQRTRpdHNtV0o3YnJVdnZ1UTFSdVdRWDhCTWNJOGktSUtTdFZ0cFF2M1JBRzVoaTZ3bG9Cem50UTUtb3BsT080S3ZfZlhvMng1REdkdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ2lVUzduTGhYd2RpRmd5ZUJTSmN6TGl2Q09iUEVEeE5yR0VvZndyYkxNeGFZR215amxQRTRpdHNtV0o3YnJVdnZ1UTFSdVdRWDhCTWNJOGktSUtTdFZ0cFF2M1JBRzVoaTZ3bG9Cem50UTUtb3BsT080S3ZfZlhvMng1REdkdw?oc=5\" target=\"_blank\">Found: Easy, Packable Spring And Summer Dresses For Your Next Beach Getaway—From $15 At Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Living</font>",
-      "published": "2026-04-30T22:30:00+00:00",
-      "source": "Southern Living"
     }
   ],
   "product_launches": [
+    {
+      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-05-04T10:01:06+00:00",
+      "source": "About Amazon"
+    },
     {
       "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5",
@@ -75,13 +82,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWl6X1llc19uTTFVc2gxNGZjVk9qbmdKNU1LMmc3US0zN0tWN0ZsOTBLSTlUc2d5NlBxZmhOQ2V4R24zZ0tQYnV6QlNvLUFoZDRJYTlNZ2x3WUdXbHFHeWs2S3JxWGVUQVlBZ3dBeTcxVDBTZmhDUGxNU3hkNFFUZ0Y2cTNHOGh0ckR6Y1RaeWJNR1ktYVdTWUFScHRRTDVHOURodEZPdndidjB3enhEeDVCSdIBxwFBVV95cUxNX2RhWUNZM19Jd0t5dTNMYmJzc0czR0tlTFgzdnVKQlpwSzU3Vk5JUDJJbDg1bnBDMEVWaHlHb0hlYjVvaXVDRzk2Q29DVkkwYmFOdXRjNlBFQ0hxdGpvZzBQX3czRTdTZVhGTnotUXlYajZPMEoyUmU1N2hGRjd2OGdWTTBlUFJlWnl2ZXJaN2VYdVAxck9yNTNIeHl1bzBidWgzVmlHT2szZFM5dndGTEJwQlowSk1wX1ZJYlNZV3owOW1TNXM0?oc=5\" target=\"_blank\">Amazon looks to launch drone deliveries from Clay - 7 things to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
       "published": "2026-04-30T12:20:00+00:00",
       "source": "Syracuse.com"
-    },
-    {
-      "title": "Amazon Connect expands into a set of agentic AI solutions - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdlA0aFZUckNpRkQzbmo4ZlNGNGx0QUpPVXpGQm41VGJWQjFxdmpab2gzNnlsd01CTG5qWkFXZW56WjRDdkhTNmVwbnFnaXhlWDc4THBHbkRWY2JHWDk1Qjg2ZnBZWkJZZXBVNWVNUFpJX2xLUUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdlA0aFZUckNpRkQzbmo4ZlNGNGx0QUpPVXpGQm41VGJWQjFxdmpab2gzNnlsd01CTG5qWkFXZW56WjRDdkhTNmVwbnFnaXhlWDc4THBHbkRWY2JHWDk1Qjg2ZnBZWkJZZXBVNWVNUFpJX2xLUUE?oc=5\" target=\"_blank\">Amazon Connect expands into a set of agentic AI solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-04-28T16:01:28+00:00",
-      "source": "About Amazon"
     },
     {
       "title": "Amazon Launches ‘Join The Chat,’ Enabling Real-Time Questions During AI-Generated Product Audio Summaries - Pulse 2.0",
