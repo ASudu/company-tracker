@@ -2,21 +2,49 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-05-05T13:12:30.340910+00:00",
+  "fetched_at": "2026-05-06T13:29:58.714936+00:00",
   "news": [
     {
-      "title": "Nvidia CEO Jensen Huang says company now has zero market share in China - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1hYYk5qWHVvMDBwUkpSTjU4NlE5ZGUwMDVEbEhOZmV3bHRpT1A3N05FRE1pdUFlTVFzVWdneHZTYk5JTXVVdjZGOUUyY3BqWThxbUFNZk1iVFJua2hGbVdUQllmRm9CSVdwR0xoRGU2LVBkamtPTEh2ci1YRDhYZy1DZTNhN2Z5VWJNUUw2UXp2TTNqSUpQZ3pRdHMyeUlFMWhlWG1ZdktxV3h3a2tsamYxZDRZS2tSUjNHSXducFdKUHJIYnkwS05nR2VvMnpVaGJham53?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1hYYk5qWHVvMDBwUkpSTjU4NlE5ZGUwMDVEbEhOZmV3bHRpT1A3N05FRE1pdUFlTVFzVWdneHZTYk5JTXVVdjZGOUUyY3BqWThxbUFNZk1iVFJua2hGbVdUQllmRm9CSVdwR0xoRGU2LVBkamtPTEh2ci1YRDhYZy1DZTNhN2Z5VWJNUUw2UXp2TTNqSUpQZ3pRdHMyeUlFMWhlWG1ZdktxV3h3a2tsamYxZDRZS2tSUjNHSXducFdKUHJIYnkwS05nR2VvMnpVaGJham53?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang says company now has zero market share in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOODkzRHBnbk1sTUtDOGlHLUZuaVdiNHd1R0VVSVVkWmdlbUd1S0NmM2FoNmpjYjgyTExSRFJVWjQ3ajkzeGtyV045TmdtR0h6dDNPV0ZjQmllSVdaT2tvN3BDaFdLTGtTN2xabjRrY2NVM3FnQ1EyU1pIU09VdVNjOHQxR1p6WUlxQ1p3OGhoSXV3Yl8ySjhlM1lDdEt3LU5oNi1tTS1uM1M5MzlUSTZlU2Utb1dvWWRWNFpxVkNhZkUtQ2s4eVQ0?oc=5\" target=\"_blank\">As workers worry about AI, Nvidia's Jensen Huang says AI is 'creating an enormous number of jobs'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxONml2SG00NHI3MTdhSU4yWThDdkVWVkRoaWhONUVkazFhcWFVOXhvaUQyaGFyUk45NG1qX3lnUGZUelVzQ2pUaVk1UGhRWC1BSFBubjVhaUZKRHFMZU5yRGg4bjNKRWNvN2FJZHRGVUNGMW1CbTFDNXl3dkZwem93aVNqWGN0cG90bkxTVEc1WExNVkEzWVdrZkxTVmZCR2xVZGFhcG54el9CZXFIaGJMOHB6WVJvMVpSTWJTeHotZ3U2dHpSR3VVbA?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang on Anthropic: Hope the U.S. government and Anthropic work it out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
-      "published": "2026-05-04T15:08:05+00:00",
+      "title": "Nvidia, Corning partner on massive optical fiber deal that may be a game changer for AI - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDJQc25TbUZNY2JMUmg4MjRheTV4TVQ3bWJtMkcyblFDMVdwWEE3M3FtOVVyT0xaV2cwSzFXQmk0U0l6MHp6UFMwYi1sYzdheTVadlhMMUJzVGtMeXhQa0Y5Y2dVem1EUTYzaVp0eGpoWTJSNkhFekdkb2Z5ZDNocENuMjFSWTcw0gGOAUFVX3lxTFBHZW01bV8tRUNsVEFWVno1WklTNmRVZTFueGxiM241MWRVTFFsN0JFS0Jxb3VxLTRMQkk5RWVxYXd1U2xTS1JTQy03T1c2b1VIUm9icllPWEhXVDk5SlBkZk1DWk95aF9nVG92SGVtODBrQm1SMDdHTlJxZWtWaXplU3JZdU1raldIZmpBVEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDJQc25TbUZNY2JMUmg4MjRheTV4TVQ3bWJtMkcyblFDMVdwWEE3M3FtOVVyT0xaV2cwSzFXQmk0U0l6MHp6UFMwYi1sYzdheTVadlhMMUJzVGtMeXhQa0Y5Y2dVem1EUTYzaVp0eGpoWTJSNkhFekdkb2Z5ZDNocENuMjFSWTcw0gGOAUFVX3lxTFBHZW01bV8tRUNsVEFWVno1WklTNmRVZTFueGxiM241MWRVTFFsN0JFS0Jxb3VxLTRMQkk5RWVxYXd1U2xTS1JTQy03T1c2b1VIUm9icllPWEhXVDk5SlBkZk1DWk95aF9nVG92SGVtODBrQm1SMDdHTlJxZWtWaXplU3JZdU1raldIZmpBVEE?oc=5\" target=\"_blank\">Nvidia, Corning partner on massive optical fiber deal that may be a game changer for AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-06T11:30:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia, Corning partner on 3 U.S. fiber optic factories for AI - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YamctZWRIYnNhMmZUdURsWENUemRkNnlWWEJrT1Z0T1pMMHdicm5iMUtpNVBUckJKd3F2amFtT2cxTmFUTGJZOTVFN1NHbHY4WlpJc3ptQ3FwR3JpWk5qN2d5SGtSOHpqRHdfVVNkekN6Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5YamctZWRIYnNhMmZUdURsWENUemRkNnlWWEJrT1Z0T1pMMHdicm5iMUtpNVBUckJKd3F2amFtT2cxTmFUTGJZOTVFN1NHbHY4WlpJc3ptQ3FwR3JpWk5qN2d5SGtSOHpqRHdfVVNkekN6Zw?oc=5\" target=\"_blank\">Nvidia, Corning partner on 3 U.S. fiber optic factories for AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-05-06T12:16:29+00:00",
+      "source": "qz.com"
+    },
+    {
+      "title": "Nvidia Just Made Corning's 175th Birthday Very Interesting - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGxmZVR6T2wzbE9HdjFQNFpBV3d3Q1FEVV90SGstbnJRWUdJcGhuN1Rtd0ZaQklJbWk4eHNiZTFqU1NvckN3VVNvRmQ4WkcxdWtqai1CUmtBU3R4b1pYWU5NTWxrOE8yR1NKXy1KeVhaNXJTdVFmOEZhRzJvaWR0VE5qMExybmVCbnZhbHJCaHJLeTAwWmdfVTBMQkM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGxmZVR6T2wzbE9HdjFQNFpBV3d3Q1FEVV90SGstbnJRWUdJcGhuN1Rtd0ZaQklJbWk4eHNiZTFqU1NvckN3VVNvRmQ4WkcxdWtqai1CUmtBU3R4b1pYWU5NTWxrOE8yR1NKXy1KeVhaNXJTdVFmOEZhRzJvaWR0VE5qMExybmVCbnZhbHJCaHJLeTAwWmdfVTBMQkM?oc=5\" target=\"_blank\">Nvidia Just Made Corning's 175th Birthday Very Interesting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-05-06T12:21:18+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia and Pulte are helping this startup put mini data centers on homes - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1pfcW83bXRMaUY4WWhmeGl6SjU2QlJGa2ktT2czcWZaM244azc0LXI5d3A1TkxGRkp2LVlRVFVCNFdNdTBCX18wQ1JXcWMyaGFEZ3I4MUtMS09LZDNJZ3ExMzVLaG1uNWxIN2JnSUZnUDk2WE5tY3VlV0ZZdGFwNm1LOXhCOE40?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1pfcW83bXRMaUY4WWhmeGl6SjU2QlJGa2ktT2czcWZaM244azc0LXI5d3A1TkxGRkp2LVlRVFVCNFdNdTBCX18wQ1JXcWMyaGFEZ3I4MUtMS09LZDNJZ3ExMzVLaG1uNWxIN2JnSUZnUDk2WE5tY3VlV0ZZdGFwNm1LOXhCOE40?oc=5\" target=\"_blank\">Nvidia and Pulte are helping this startup put mini data centers on homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-05-05T12:30:01+00:00",
-      "source": "CNBC"
+      "title": "Nvidia and ServiceNow team up on OpenClaw-style AI agent - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOV9EWnlKall2cG5Uek1sT2pHWmVqZnFSWnFuWWs3VUF5dE8xQWo0bFEzU1M1Nm1VMVlOSXZUcDFyUmRNU3Byb3ZGQVdINi0tN19lQ1I4ZXJ3dVZRaWYxWU4wRUhfeWpSWGxCdGVjSEVvR1F1NThHVGY2aTVQOUdCQlplV2JvNmtGWXBWb0NtX3ROV0ltTTUzdUMzekJwRzZjdUJCeTZYc3BqOG9mMktUWEs1ZmExMV9MTzVRQVQxdHZDUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOV9EWnlKall2cG5Uek1sT2pHWmVqZnFSWnFuWWs3VUF5dE8xQWo0bFEzU1M1Nm1VMVlOSXZUcDFyUmRNU3Byb3ZGQVdINi0tN19lQ1I4ZXJ3dVZRaWYxWU4wRUhfeWpSWGxCdGVjSEVvR1F1NThHVGY2aTVQOUdCQlplV2JvNmtGWXBWb0NtX3ROV0ltTTUzdUMzekJwRzZjdUJCeTZYc3BqOG9mMktUWEs1ZmExMV9MTzVRQVQxdHZDUQ?oc=5\" target=\"_blank\">Nvidia and ServiceNow team up on OpenClaw-style AI agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-05-05T17:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Corning partners with Nvidia to expand US fiber optic output for AI growth - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkkzS2VaOF9TdF92ckVKWC1nQ3FKY3BmRVZYU0VNUnZXVDh0N2x3amhZRkxQN05TX1p4NkYwcVpubzR1RkN1ejc0NWZVZlRscUJHMkNtazJLQk5mSzdmOUxxNkpxRGlIQmR3UWRTdnhVYlVMaHMwYU9VYmdYUmJmT0xuZEQxaWJfeEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkkzS2VaOF9TdF92ckVKWC1nQ3FKY3BmRVZYU0VNUnZXVDh0N2x3amhZRkxQN05TX1p4NkYwcVpubzR1RkN1ejc0NWZVZlRscUJHMkNtazJLQk5mSzdmOUxxNkpxRGlIQmR3UWRTdnhVYlVMaHMwYU9VYmdYUmJmT0xuZEQxaWJfeEE?oc=5\" target=\"_blank\">Corning partners with Nvidia to expand US fiber optic output for AI growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "published": "2026-05-06T13:19:03+00:00",
+      "source": "Yahoo Finance UK"
+    },
+    {
+      "title": "DBS Bank Raises PT on NVIDIA (NVDA) Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkxCU0g2M0F3cHRxVXpueHBoUXdZNDhmX0pYRUJSYjJIS1d4SlVNeEVWeGxkQVFlMlN5NnFpcl93b3UtZVJKcmRLckFGdGw0M2RMRVRWTUxmcER4d2h0NXhualdGV2N3U0JmaUF6N2RXVXRRb1VpbGZJU21XLXFNa1J0LTZhdlR0M3FtU0RHVmxXRnZX?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkxCU0g2M0F3cHRxVXpueHBoUXdZNDhmX0pYRUJSYjJIS1d4SlVNeEVWeGxkQVFlMlN5NnFpcl93b3UtZVJKcmRLckFGdGw0M2RMRVRWTUxmcER4d2h0NXhualdGV2N3U0JmaUF6N2RXVXRRb1VpbGZJU21XLXFNa1J0LTZhdlR0M3FtU0RHVmxXRnZX?oc=5\" target=\"_blank\">DBS Bank Raises PT on NVIDIA (NVDA) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWhrMzk5Si1YX05HdzlNS2JSQTZxMU53MlZkT2txanIwek1ic1UtZnBpVUtWZTJIOURnYmw5SC1adE50WlZ1ZWhETXJlYk9mUUc5VmFmR0FiVDJqSlpFd1FMb1pRMjJYSFp5UVFDcDZRRHNYZnI1aWgzdm5oT0IyS3NJSk53VHBVeFFxRHF0QXY1S3c3Sjd0cg?oc=5\" target=\"_blank\">Microsoft Delivers Huge News for Nvidia Stock Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkVDcEZGeWlJNXNQX0ZFNFFLMDdPVnhTQ2FPcTNoR0FXZzRnWllvb2JIZVVfdUdtdmZoN2R0N0ZRTHIwTFNEMnNxM2pfcWFHVVBYRW5UOG4wRWpjUkZvUW1uVWFmeXVfbGsxRHhhMXNvbDR1S1VkS1RLT3c4Yk5odHIxYXFZbmhpUmRlNFowckw1SkpCYzZKeWJjNkxzTkpBNnlkaw?oc=5\" target=\"_blank\">Here are Wednesday's biggest analyst calls: Nvidia, AMD, Palantir, Monster Beverage, Alphabet, Meta, Sphere Entertainment & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+      "published": "2026-05-04T19:10:58+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "AI Computing Is a Memory Hog. An Nvidia-Backed Startup Has an Answer. - WSJ",
@@ -26,47 +54,19 @@
       "source": "WSJ"
     },
     {
-      "title": "Nvidia Stock Is Stuck Below $200. What Pushes It Higher. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kTHBIUU80OHNGalBzTlhkdnE4TjRBNUNXX3UtZWJsSWZsWkZnb0UxRE9Kbk1sU1JMTGI5aTF6NEpnNG1BV2ZoNWVlNk1CMkxORG9XWkJkYkNUMnhwLTZ5MVF3U0RocDE5WjhLYkVhQVdpbWlt?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1kTHBIUU80OHNGalBzTlhkdnE4TjRBNUNXX3UtZWJsSWZsWkZnb0UxRE9Kbk1sU1JMTGI5aTF6NEpnNG1BV2ZoNWVlNk1CMkxORG9XWkJkYkNUMnhwLTZ5MVF3U0RocDE5WjhLYkVhQVdpbWlt?oc=5\" target=\"_blank\">Nvidia Stock Is Stuck Below $200. What Pushes It Higher.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-05-04T19:41:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Microsoft, and Apple in the $3 Trillion Club - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVU5UVFhfeTJwa0hoMGI0ODJpZEJYNGRubWRmSWJxZ3pacVVqVzIwZ1hhTlh1Z1JYTno0eGJWcHN5WEVSZm9xand5NFJvRUY3Q3VEbnM2bFJUbkRVRU9EV1pwOGdzT25NbVBOMC1NeWtPYjFueUJXR25KUmo2cFF4TU9fVUROR2dOcmo3VkR1UzA4M0daQjhvSw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVU5UVFhfeTJwa0hoMGI0ODJpZEJYNGRubWRmSWJxZ3pacVVqVzIwZ1hhTlh1Z1JYTno0eGJWcHN5WEVSZm9xand5NFJvRUY3Q3VEbnM2bFJUbkRVRU9EV1pwOGdzT25NbVBOMC1NeWtPYjFueUJXR25KUmo2cFF4TU9fVUROR2dOcmo3VkR1UzA4M0daQjhvSw?oc=5\" target=\"_blank\">1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, Microsoft, and Apple in the $3 Trillion Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-05-05T11:19:43+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Here’s What BofA Thinks About ​NVIDIA Corporation (NVDA) - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcW92YmZ1dzFyOGVZYV9pQlRYQlBZRldoTHUtM2JYRWFucUFXbXFsN2E5eTZ6UjRQOHBVa0xEOFMxRnEtMzNNUXFjdTItUExidDlyS1JWMEIxRFZRVV9DSEo2cjNfakJqLVhmXzNCQXlraGhVeDVPcXJvZUtWbV9pMlpKUHl6Z3lOX1AybTdDUGZseWd0amllX3FaNE9zS3V0d0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQcW92YmZ1dzFyOGVZYV9pQlRYQlBZRldoTHUtM2JYRWFucUFXbXFsN2E5eTZ6UjRQOHBVa0xEOFMxRnEtMzNNUXFjdTItUExidDlyS1JWMEIxRFZRVV9DSEo2cjNfakJqLVhmXzNCQXlraGhVeDVPcXJvZUtWbV9pMlpKUHl6Z3lOX1AybTdDUGZseWd0amllX3FaNE9zS3V0d0E?oc=5\" target=\"_blank\">Here’s What BofA Thinks About ​NVIDIA Corporation (NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-05T10:11:32+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Rival Cerebras Seeks to Raise $3.5 Billion in US IPO - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0EzTkliUTdhTWl2ZlpCOUgxejdHYldTZURDZFhXaGl2M1Vpbnp5Rmt2bWVBQWRQQ2JENTZUNDFGUWhXcXkxSXRtdkliQmdWckdGMzdtZG9pR1JBSWJiRl80WDZkdWhBYzFCSE5kWkRVQ2EtV3VfcFdndWpaSXZHb2JBcC1XVHJzR29kTWRNQTc5VHJrcmpsT1lpdS1wbzBQX1pjVG4wSVRhU3NjZkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0EzTkliUTdhTWl2ZlpCOUgxejdHYldTZURDZFhXaGl2M1Vpbnp5Rmt2bWVBQWRQQ2JENTZUNDFGUWhXcXkxSXRtdkliQmdWckdGMzdtZG9pR1JBSWJiRl80WDZkdWhBYzFCSE5kWkRVQ2EtV3VfcFdndWpaSXZHb2JBcC1XVHJzR29kTWRNQTc5VHJrcmpsT1lpdS1wbzBQX1pjVG4wSVRhU3NjZkE?oc=5\" target=\"_blank\">Nvidia Rival Cerebras Seeks to Raise $3.5 Billion in US IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-05-04T11:35:13+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nvidia rival Cerebras unveils IPO details -- here's what investors need to know - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT0VjUDZBYTFmbzJPM1dVRGRYWmRHX2puUVJIb1otYTZjQjFGVkJ0MWowYWh1T010UjJmMWY3WkZjVFZfVHJibWxfWm5LX2lOdXlNMHl2WjBaQzd6UFBzUWxaSzRyUnl2bTNxT2ZLUC13RmJzTEF1S1VRMVJqSUIyVWZMM2NEZU5DdFFDQV9vWW1qeTQ2TkFndXVJY1kwaDg0TTBTSXRmSzZNTldaRmN6SWd2S3V1bl9nX2VQMG9ISVBaSDlISzZ4WTdRTU1JUWdOTTc3djZsM3N4SWRlaUtHZG4xS3ZLWEU0dS1MVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT0VjUDZBYTFmbzJPM1dVRGRYWmRHX2puUVJIb1otYTZjQjFGVkJ0MWowYWh1T010UjJmMWY3WkZjVFZfVHJibWxfWm5LX2lOdXlNMHl2WjBaQzd6UFBzUWxaSzRyUnl2bTNxT2ZLUC13RmJzTEF1S1VRMVJqSUIyVWZMM2NEZU5DdFFDQV9vWW1qeTQ2TkFndXVJY1kwaDg0TTBTSXRmSzZNTldaRmN6SWd2S3V1bl9nX2VQMG9ISVBaSDlISzZ4WTdRTU1JUWdOTTc3djZsM3N4SWRlaUtHZG4xS3ZLWEU0dS1MVQ?oc=5\" target=\"_blank\">Nvidia rival Cerebras unveils IPO details -- here's what investors need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-05-05T08:13:48+00:00",
-      "source": "MSN"
+      "title": "After Nvidia share falls to zero in China, CEO Jensen Huang says: China should not have ... - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNelEwSlcwT0tVZ3BJTU8zaTRQbVZodDlyWWphNmxOaFJCTy1iVW9FanB0M3pjZW4yVl96MW1ia09mVjhTSDlzRHN1dGVnLUN5V184N1NOSFdrcFRyQlBIN0lhZ3Z2b0ZTV3FzOXR6NHdJVlVQNzlkbllMbVJZYjVhZ1F1SDh3aDRmaWlXenJJYnFHV2MtekdlekxXV1Z5Qnl4SFpWT2FkVjJqdGM2eVVfOVRhZmwtUUNpYi13WThOd2tPTFZlSDZZOS1GRDFKWVp2WldNQmJuWFRhdURFbUpwZm5nOTh2RzU2TGJ3RzloUWVtSW1GcURJVmtHMnlxd9IBgwJBVV95cUxNRWhISjVFVWI2R0RWNGV1LXVqdUtQa3Y1OHNNZ3A3TmduNW1HVDVWUDUyampxdFlNT20wekttaklPU05Tdm9RR3Z4UXB2WGtvcHZ4SWczSzZkVUZwTDdfZ3RNZGdTakVVY09uUjNnc0Z6eHVKbDNhNXZNVXN5RHNXOEVhM1kwOFdOVzIxdzQtSnpIS0NSOGhQTlhLVHpGM1I0UGVwVzJtM2FuQkE4N0NIR2ozNDh2ZHMzNWNhSnAzTnc1cjRSUTBab2xGOEtKSXdyNWZHYkNCd3k5TlNpelZLdG13bEU0RVpfcUhiYjBubkdwdDQwT0R2SE14cHBjSFVSc1kw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNelEwSlcwT0tVZ3BJTU8zaTRQbVZodDlyWWphNmxOaFJCTy1iVW9FanB0M3pjZW4yVl96MW1ia09mVjhTSDlzRHN1dGVnLUN5V184N1NOSFdrcFRyQlBIN0lhZ3Z2b0ZTV3FzOXR6NHdJVlVQNzlkbllMbVJZYjVhZ1F1SDh3aDRmaWlXenJJYnFHV2MtekdlekxXV1Z5Qnl4SFpWT2FkVjJqdGM2eVVfOVRhZmwtUUNpYi13WThOd2tPTFZlSDZZOS1GRDFKWVp2WldNQmJuWFRhdURFbUpwZm5nOTh2RzU2TGJ3RzloUWVtSW1GcURJVmtHMnlxd9IBgwJBVV95cUxNRWhISjVFVWI2R0RWNGV1LXVqdUtQa3Y1OHNNZ3A3TmduNW1HVDVWUDUyampxdFlNT20wekttaklPU05Tdm9RR3Z4UXB2WGtvcHZ4SWczSzZkVUZwTDdfZ3RNZGdTakVVY09uUjNnc0Z6eHVKbDNhNXZNVXN5RHNXOEVhM1kwOFdOVzIxdzQtSnpIS0NSOGhQTlhLVHpGM1I0UGVwVzJtM2FuQkE4N0NIR2ozNDh2ZHMzNWNhSnAzTnc1cjRSUTBab2xGOEtKSXdyNWZHYkNCd3k5TlNpelZLdG13bEU0RVpfcUhiYjBubkdwdDQwT0R2SE14cHBjSFVSc1kw?oc=5\" target=\"_blank\">After Nvidia share falls to zero in China, CEO Jensen Huang says: China should not have ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1hYYk5qWHVvMDBwUkpSTjU4NlE5ZGUwMDVEbEhOZmV3bHRpT1A3N05FRE1pdUFlTVFzVWdneHZTYk5JTXVVdjZGOUUyY3BqWThxbUFNZk1iVFJua2hGbVdUQllmRm9CSVdwR0xoRGU2LVBkamtPTEh2ci1YRDhYZy1DZTNhN2Z5VWJNUUw2UXp2TTNqSUpQZ3pRdHMyeUlFMWhlWG1ZdktxV3h3a2tsamYxZDRZS2tSUjNHSXducFdKUHJIYnkwS05nR2VvMnpVaGJham53?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang says company now has zero market share in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbkVCQi1mUnU1NEJmUFg5VHBTY3VKeUVWWk9EQ2VlcmRjT1hIcWhyRWdoOTNQZ2hHRFdoR2kybDBtV1RGS3g0WTdxYlRVNklpZmpFODBiNFMxZE1fblBtTE12bnN6QlRTeXBaWUUtWmVnOXlYZ1RwMFZUQnp0dURWQUdKY3pqQ2ZsMmRLVktqd3lSZmZjV1gwOFZOUTdjeHhfejdzRE5UNm8tUVdRaDlHaGdTemNIYVdHc3piSDAzTEI5RFB6cE13RTVycjc?oc=5\" target=\"_blank\">Watch CNBC's full interview with Nvidia CEO Jensen Huang and ServiceNow CEO Bill McDermott</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+      "published": "2026-05-06T06:27:00+00:00",
+      "source": "The Times of India"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-04-14T07:00:00+00:00",
+      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-03-16T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
@@ -77,6 +77,13 @@
       "source": "Business Insider"
     },
     {
+      "title": "Nvidia Built the A.I. Era. Now It Has to Defend It. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5\" target=\"_blank\">Nvidia Built the A.I. Era. Now It Has to Defend It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-03-16T07:00:00+00:00",
+      "source": "The New York Times"
+    },
+    {
       "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - WSJ",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHFoZWh5ekV4ckU0djlfcGdLWnhScDJqb0MtMEZvTjF3Vkt6bXZnWTlobVdjcXNzTWhRMTh5QUNIMWptOXNUMnN4VVRNZzdsQTNzQy04Q2xCWlFBaXVIN3BBVjdUdkE0YUtmU3c4cE1PRGo3bjFPd1I3RHc2eFUtY3htYWl0MG5YelgwNEJaVjFyalhJVXp3VTRydw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHFoZWh5ekV4ckU0djlfcGdLWnhScDJqb0MtMEZvTjF3Vkt6bXZnWTlobVdjcXNzTWhRMTh5QUNIMWptOXNUMnN4VVRNZzdsQTNzQy04Q2xCWlFBaXVIN3BBVjdUdkE0YUtmU3c4cE1PRGo3bjFPd1I3RHc2eFUtY3htYWl0MG5YelgwNEJaVjFyalhJVXp3VTRydw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
@@ -84,32 +91,21 @@
       "source": "WSJ"
     },
     {
-      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-16T07:00:00+00:00",
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-04-14T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia updates data center product roadmap following LPU launch at GTC 2026 - Data Center Dynamics",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanRLbDl6NnBvY3N6bmtTaFpBS1FlUFBmX1hYbm1oN1JkLUtoblVvTVp4alljRTdyeVJqZFZpUEtTdzh4SWFUODZTenlUOW1lN2x5Q1BWelg5YTI5eTB6NFJoNnVDVE9pWmZsc3pyU3lsbFdmT21BN3BFVER1SWp2cmNpbFVvUFRFTHVmYWdSVlI4bkVlQ0RJMnozNWZZTnkwTGJaQzhCN3I5b0FEbjdKMzE3M2F1UGlwcXU4?oc=5\" target=\"_blank\">Nvidia updates data center product roadmap following LPU launch at GTC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": "Data Center Dynamics"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-04",
-      "close": 198.47999572753906
+      "date": "2026-05-05",
+      "close": 196.5
     },
     "history": [
-      {
-        "date": "2026-04-24",
-        "close": 208.27000427246094
-      },
       {
         "date": "2026-04-27",
         "close": 216.61000061035156
@@ -133,6 +129,10 @@
       {
         "date": "2026-05-04",
         "close": 198.47999572753906
+      },
+      {
+        "date": "2026-05-05",
+        "close": 196.5
       }
     ],
     "name": "NVIDIA Corporation"
