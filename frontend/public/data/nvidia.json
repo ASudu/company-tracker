@@ -2,49 +2,28 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-05-08T13:08:07.433058+00:00",
+  "fetched_at": "2026-05-09T12:54:05.565583+00:00",
   "news": [
     {
-      "title": "IREN inks AI infrastructure deal with Nvidia - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ibjd6aUM3QzlEZVplTXQ1MjJrZVVCR1F3VlBsNzZGWXVQQW5mZXkyaUxwNWJUUVc4UGRJUkx1RXYwVTQzRFFhSE0tTlVNQWVvMG04MXRZRU02YldrR3JGWXdxOE1KYUdsdU9QU1MtNmp6OFdpbWFCdWc0R1XSAYIBQVVfeXFMTjlkVTZERGZmNEwyQ1lFT1F4T0k2MmI5QVQxaGR6T3FOMkJyUHJFMmVSdS1RSGtsYkxkSTFjUm1Rd3ZCNUtzRlE4MGRlZktSWE40TWNzWFZsbEpmeW5OQXRYa2ZCN1IwbGdlRndjRGhxRHNtWGZOUE5FVmk4WFcySnE1Zw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ibjd6aUM3QzlEZVplTXQ1MjJrZVVCR1F3VlBsNzZGWXVQQW5mZXkyaUxwNWJUUVc4UGRJUkx1RXYwVTQzRFFhSE0tTlVNQWVvMG04MXRZRU02YldrR3JGWXdxOE1KYUdsdU9QU1MtNmp6OFdpbWFCdWc0R1XSAYIBQVVfeXFMTjlkVTZERGZmNEwyQ1lFT1F4T0k2MmI5QVQxaGR6T3FOMkJyUHJFMmVSdS1RSGtsYkxkSTFjUm1Rd3ZCNUtzRlE4MGRlZktSWE40TWNzWFZsbEpmeW5OQXRYa2ZCN1IwbGdlRndjRGhxRHNtWGZOUE5FVmk4WFcySnE1Zw?oc=5\" target=\"_blank\">IREN inks AI infrastructure deal with Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXRfYjlTODB1c08tend0YVFhQUl3X0FVMnVBWDZyT193ei1DcFhJeWhBX2hRSHBGQ2k2eFFtcDVkQk5ndGRNNlFIbDVHMXNMbS1VbU1jN0VXb3RXdXZpYUE3RjRyMUxGVGVIM2R0NzNMLTNtd0R1ZHRFdm03Zm1ZZ3poaWc4c0JjUk10ckxxWGhTWDRiWDlPX1diR05wS2tfd1VHZQ?oc=5\" target=\"_blank\">Nvidia to invest up to $2.1 billion in IREN as part of AI data center deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1xMF9lM1Jud3g3VGxDVl9QVmtYMXRsNm53c2J1ZVVraWZUNEVrdXZXQU9HbzlHTUhsS3BXcG5meUpQVFFWZ0JZeFdoX0JRVW90NFhDWnk5Vk9fajNheW1pOW1Yc2hZaXBNLW9SOFdKS0J2dXgydjFyNF9Scw?oc=5\" target=\"_blank\">Nvidia invests up to $2.1 billion in IREN AI data center deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font></li></ol>",
-      "published": "2026-05-07T21:28:19+00:00",
+      "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFBsdk9WTUhFWTBZTElxNHRLQnBWYll6MWI0OFZ3cWZ3dFVSNkV6MFZIYW5zZGRPaFNwYmJfNmRiNl9hVFdDc2N5aC1FX0FWZV80d3ZKZDVlT3dpWkFseUJDalBySU1iWl90emo4N1pDVE1QYVRybVlyanNZbGdvdndmZ0NGLWh4UHRNSWxpeFdybzB5X0lZbzg5WWx3emJhMUZubTRB0gGrAUFVX3lxTE9mczV3bkZjVHJQNWN3RWtjQ3JrSHgwZjdad3hHRHVFSWFhWE80a005YlVTUVdkZVAzWDlVQUFTTFlKZVhTSXNtcnEtMHZWM1BUalNxUkZnXzdpSXFxR1hNdUg5MU16Ni1oMU9Ia3N2WTU2SkJzckVSMUZzUWV0WEpCX0NPTm9wWmVNYW8xUnZYMjVmeDVKbE9NQjRCNXkwNlBvaWZpLWZ6ZXNmTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFBsdk9WTUhFWTBZTElxNHRLQnBWYll6MWI0OFZ3cWZ3dFVSNkV6MFZIYW5zZGRPaFNwYmJfNmRiNl9hVFdDc2N5aC1FX0FWZV80d3ZKZDVlT3dpWkFseUJDalBySU1iWl90emo4N1pDVE1QYVRybVlyanNZbGdvdndmZ0NGLWh4UHRNSWxpeFdybzB5X0lZbzg5WWx3emJhMUZubTRB0gGrAUFVX3lxTE9mczV3bkZjVHJQNWN3RWtjQ3JrSHgwZjdad3hHRHVFSWFhWE80a005YlVTUVdkZVAzWDlVQUFTTFlKZVhTSXNtcnEtMHZWM1BUalNxUkZnXzdpSXFxR1hNdUg5MU16Ni1oMU9Ia3N2WTU2SkJzckVSMUZzUWV0WEpCX0NPTm9wWmVNYW8xUnZYMjVmeDVKbE9NQjRCNXkwNlBvaWZpLWZ6ZXNmTQ?oc=5\" target=\"_blank\">Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-08T19:23:01+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSC1VY3pFVDJMd2pEcW9OSkVCbzd4aHpIM2FlNnRqMUxsdWRxcmZ5eTZKaEl2Q1oyNGVzOXgxczk4aWh2Qjh2SjJDdzRHc2hSMXNaelQ0OGFic1hrcVR4S1RLODBTMmlDVmMzc0VUbXRkNGFKdERJOUxYeUpSelh6NDhoWHJvblQzdnBpVDd1Qy0tMnp1S3IyZDlERXFYRExOSmxkZWpKZkxJR2ZEMUlFeXpYS3Itdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSC1VY3pFVDJMd2pEcW9OSkVCbzd4aHpIM2FlNnRqMUxsdWRxcmZ5eTZKaEl2Q1oyNGVzOXgxczk4aWh2Qjh2SjJDdzRHc2hSMXNaelQ0OGFic1hrcVR4S1RLODBTMmlDVmMzc0VUbXRkNGFKdERJOUxYeUpSelh6NDhoWHJvblQzdnBpVDd1Qy0tMnp1S3IyZDlERXFYRExOSmxkZWpKZkxJR2ZEMUlFeXpYS3Itdw?oc=5\" target=\"_blank\">US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-05-08T12:34:10+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXA2dy1BelpvR2lNdlNoZzB2NnJtWWRJOXg4ZUViWTZyQ3FDcVE3dGdEeGRFTUphLTg4dGgyNXQ1VkMzdXhRNG9MQVVNaXQ4cTNRSFFhYklBLVhGYjdRTkFjVWp4S2pjd3ZIQjZjT3c3bmtaU1Jhakxuel95UWt6Ymc0QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXA2dy1BelpvR2lNdlNoZzB2NnJtWWRJOXg4ZUViWTZyQ3FDcVE3dGdEeGRFTUphLTg4dGgyNXQ1VkMzdXhRNG9MQVVNaXQ4cTNRSFFhYklBLVhGYjdRTkFjVWp4S2pjd3ZIQjZjT3c3bmtaU1Jhakxuel95UWt6Ymc0QQ?oc=5\" target=\"_blank\">US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
-      "published": "2026-05-08T07:56:32+00:00",
-      "source": "Yahoo Finance UK"
-    },
-    {
-      "title": "US suspects Nvidia chips smuggled to Alibaba via Thailand, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS056UFp2Y28xTm5Hb3pPdUpJaWdSUFZDU09mczI2eEtqZWdYN2pXbm5HOTdmLUtvelB1SURVX2Y4eHhqNTlYbVJNMmM1ZTJTY3NVTGFYUGNmLUlwWDdtSGU2YzBlemMxWVNTUWd6S2w2Sk1kRUdaN2VtSDFURzkyYmRwSi1VS0diNGY0Rl9aUDFsRHRHSHlDYm8xWm1ZYVRyMWdOcnR5YlRFNnRCWG10b2tUR2drN01BcGxteXNKc1U2cFptRTBWRUJmdDM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPS056UFp2Y28xTm5Hb3pPdUpJaWdSUFZDU09mczI2eEtqZWdYN2pXbm5HOTdmLUtvelB1SURVX2Y4eHhqNTlYbVJNMmM1ZTJTY3NVTGFYUGNmLUlwWDdtSGU2YzBlemMxWVNTUWd6S2w2Sk1kRUdaN2VtSDFURzkyYmRwSi1VS0diNGY0Rl9aUDFsRHRHSHlDYm8xWm1ZYVRyMWdOcnR5YlRFNnRCWG10b2tUR2drN01BcGxteXNKc1U2cFptRTBWRUJmdDM?oc=5\" target=\"_blank\">US suspects Nvidia chips smuggled to Alibaba via Thailand, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-05-08T08:13:14+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "The Evidence Is Piling Up: Nvidia's AI Chip Dominance May Be About to Come to an End - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR29YLVItanpwVGNnNXBBVE40MXR4MU9ENDk3b0d2WXlmWm9TSzBVeGstLXRKSVBudVJzMHZ1VFJQNjV0OXd2anJmTzliUGI5Z2g2TnRaN2J1Mkc0VmZPdEJ1S0hlem14dFhrNEhtODN2d28zM0xXbGgzZHBNR1VYOFMxX1h1VFFIWEpoT1pXdUtmMTBiVDVuMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQR29YLVItanpwVGNnNXBBVE40MXR4MU9ENDk3b0d2WXlmWm9TSzBVeGstLXRKSVBudVJzMHZ1VFJQNjV0OXd2anJmTzliUGI5Z2g2TnRaN2J1Mkc0VmZPdEJ1S0hlem14dFhrNEhtODN2d28zM0xXbGgzZHBNR1VYOFMxX1h1VFFIWEpoT1pXdUtmMTBiVDVuMA?oc=5\" target=\"_blank\">The Evidence Is Piling Up: Nvidia's AI Chip Dominance May Be About to Come to an End</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-05-08T11:44:24+00:00",
-      "source": "The Motley Fool"
     },
     {
       "title": "Why Nvidia stock looks cheap ahead of its high-stakes earnings report this month - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQk9YdFY5dVROWjFaV3N0Z2NEVmR5N1F6d0RjXzVyMkwwd3dGaHM2TW9CSllZcFUtc1pmeHdNMlNTX2pZYXVCeHc2eTlSckk3ZW15UmZJc2c5aHNvYVZLOWxaa0FHeEtHSFZkNlpqRFdaeGhNc3ZxeE82UWh4ZllhUXA0bWdDMnhOd3Q3czUyZUx6ZHZPcURMSDVsdnZEeXJqYkZrYjV3QkxiRVhXcndfV1hIRXEyNXNaYkR1WkVIYjNtMF9YVFJCQmptc0xDQW9LbUVlN3FHNWEyRTEyc2phX213?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQk9YdFY5dVROWjFaV3N0Z2NEVmR5N1F6d0RjXzVyMkwwd3dGaHM2TW9CSllZcFUtc1pmeHdNMlNTX2pZYXVCeHc2eTlSckk3ZW15UmZJc2c5aHNvYVZLOWxaa0FHeEtHSFZkNlpqRFdaeGhNc3ZxeE82UWh4ZllhUXA0bWdDMnhOd3Q3czUyZUx6ZHZPcURMSDVsdnZEeXJqYkZrYjV3QkxiRVhXcndfV1hIRXEyNXNaYkR1WkVIYjNtMF9YVFJCQmptc0xDQW9LbUVlN3FHNWEyRTEyc2phX213?oc=5\" target=\"_blank\">Why Nvidia stock looks cheap ahead of its high-stakes earnings report this month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQk9YdFY5dVROWjFaV3N0Z2NEVmR5N1F6d0RjXzVyMkwwd3dGaHM2TW9CSllZcFUtc1pmeHdNMlNTX2pZYXVCeHc2eTlSckk3ZW15UmZJc2c5aHNvYVZLOWxaa0FHeEtHSFZkNlpqRFdaeGhNc3ZxeE82UWh4ZllhUXA0bWdDMnhOd3Q3czUyZUx6ZHZPcURMSDVsdnZEeXJqYkZrYjV3QkxiRVhXcndfV1hIRXEyNXNaYkR1WkVIYjNtMF9YVFJCQmptc0xDQW9LbUVlN3FHNWEyRTEyc2phX213?oc=5\" target=\"_blank\">Why Nvidia stock looks cheap ahead of its high-stakes earnings report this month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXhVVTJGT0JINzFGWDhJdXNKY1pqcGh6NTZkTENhcjNQR2xaNG5BOF9jUzgtQjdmaTNlNGxaY1o2aEtGa1JwZXNqUWVBUmxHUDRGVjVwRWlwX01JcVFrVDdMbFJER3hURVRfT09nZEl5QWV4U1pzNHdhWTBaanp1aWstOTV1clZZUW5zdndvMA?oc=5\" target=\"_blank\">Nvidia FQ1 Earnings Preview: Back To Cash Flow (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZEE5NElxZm5oVTVDNktLZ19kVGZtSWktQ2x6SzlFT28tUDUtUlFOMjdjRXN1aHd5aUZXVVozdHV4NWhuVVNyUEE0OFFhWkJvYlREeU83eC1BN09TZFhJaWpWZkdpelBaRUpUbmZtWU5Sa1RyY1UySXcyODBVM25COQ?oc=5\" target=\"_blank\">Nvidia, Boeing Lead 5 Dow Stocks Near Buy Points. They Share This Flaw.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li></ol>",
       "published": "2026-05-08T11:48:22+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWstdkxlNEs5aUZkLVNSZDZnb0drM0JSbS14VFVGQ1ltWnJRVy14bWZWaFkwbjFteUJUZ2N1VFhXOFk1d2VZaWJHT0xURGgwb1EwbFlCd2pjLXVreXRyQVNkWWxyRnpvRmhJQWp5ZjFkaWxkSnFET3BPQ0JFLVJqM2w2VjJBbDdLbmVsM3NPX1pMbzhQbk9pNk5EVnd4Vk1Bb2ltcEJ30gGrAUFVX3lxTFBrMF9RX21ZMFRNNTBwbDVoTW93N2xjeGhlSEh6ZDZtY2FiZHVxTjlfaklmTnVLWlNoeWIybGxlLUpDQTVwLXVyTW5oei0xWDFBcjZUdjNRZzlrZVd4VDBxc3k0dDdTaW9Vd0wtc0lxYXBxS3EtVkVxUDdZelJIRllUbHhxRnJ2VTc1Q1AyMmdYM3dUXzlUajE4cnBxNkFHSGJoS3g2RUxRajVYUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWstdkxlNEs5aUZkLVNSZDZnb0drM0JSbS14VFVGQ1ltWnJRVy14bWZWaFkwbjFteUJUZ2N1VFhXOFk1d2VZaWJHT0xURGgwb1EwbFlCd2pjLXVreXRyQVNkWWxyRnpvRmhJQWp5ZjFkaWxkSnFET3BPQ0JFLVJqM2w2VjJBbDdLbmVsM3NPX1pMbzhQbk9pNk5EVnd4Vk1Bb2ltcEJ30gGrAUFVX3lxTFBrMF9RX21ZMFRNNTBwbDVoTW93N2xjeGhlSEh6ZDZtY2FiZHVxTjlfaklmTnVLWlNoeWIybGxlLUpDQTVwLXVyTW5oei0xWDFBcjZUdjNRZzlrZVd4VDBxc3k0dDdTaW9Vd0wtc0lxYXBxS3EtVkVxUDdZelJIRllUbHhxRnJ2VTc1Q1AyMmdYM3dUXzlUajE4cnBxNkFHSGJoS3g2RUxRajVYUQ?oc=5\" target=\"_blank\">Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-09T12:00:01+00:00",
+      "source": "CNBC"
     },
     {
       "title": "Trump administration invites Nvidia, Boeing CEOs for China trip, report says - Reuters",
@@ -54,11 +33,32 @@
       "source": "Reuters"
     },
     {
-      "title": "Nvidia CEO Says He Would Join Trump’s China Trip If Invited - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDB5Mk9UZFpEOUVQU09RcEZXU0lrVUNuQ3ZkTFl6anJNN2JwbHBVZUNKSWowQUJTTUV2aU11cUJ5NmdSMm55OXhEZ0lhYzctZHk2V3VuRDlWX212dWZiRTktVFlkQ3IwZkV5NmFhZDcxZ3ZEZlNVWkdHSWxzbmFUV0tYczJZU3p0T053ZWppZXFmSENqNTRySEJQSWZpWXVrNTJOdmxUazY2QjVsRGFj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDB5Mk9UZFpEOUVQU09RcEZXU0lrVUNuQ3ZkTFl6anJNN2JwbHBVZUNKSWowQUJTTUV2aU11cUJ5NmdSMm55OXhEZ0lhYzctZHk2V3VuRDlWX212dWZiRTktVFlkQ3IwZkV5NmFhZDcxZ3ZEZlNVWkdHSWxzbmFUV0tYczJZU3p0T053ZWppZXFmSENqNTRySEJQSWZpWXVrNTJOdmxUazY2QjVsRGFj?oc=5\" target=\"_blank\">Nvidia CEO Says He Would Join Trump’s China Trip If Invited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-05-08T00:18:00+00:00",
+      "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSC1VY3pFVDJMd2pEcW9OSkVCbzd4aHpIM2FlNnRqMUxsdWRxcmZ5eTZKaEl2Q1oyNGVzOXgxczk4aWh2Qjh2SjJDdzRHc2hSMXNaelQ0OGFic1hrcVR4S1RLODBTMmlDVmMzc0VUbXRkNGFKdERJOUxYeUpSelh6NDhoWHJvblQzdnBpVDd1Qy0tMnp1S3IyZDlERXFYRExOSmxkZWpKZkxJR2ZEMUlFeXpYS3Itdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSC1VY3pFVDJMd2pEcW9OSkVCbzd4aHpIM2FlNnRqMUxsdWRxcmZ5eTZKaEl2Q1oyNGVzOXgxczk4aWh2Qjh2SjJDdzRHc2hSMXNaelQ0OGFic1hrcVR4S1RLODBTMmlDVmMzc0VUbXRkNGFKdERJOUxYeUpSelh6NDhoWHJvblQzdnBpVDd1Qy0tMnp1S3IyZDlERXFYRExOSmxkZWpKZkxJR2ZEMUlFeXpYS3Itdw?oc=5\" target=\"_blank\">US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-05-09T05:20:00+00:00",
       "source": "Bloomberg.com"
+    },
+    {
+      "title": "US suspects Nvidia chips smuggled to Alibaba via Thailand, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS056UFp2Y28xTm5Hb3pPdUpJaWdSUFZDU09mczI2eEtqZWdYN2pXbm5HOTdmLUtvelB1SURVX2Y4eHhqNTlYbVJNMmM1ZTJTY3NVTGFYUGNmLUlwWDdtSGU2YzBlemMxWVNTUWd6S2w2Sk1kRUdaN2VtSDFURzkyYmRwSi1VS0diNGY0Rl9aUDFsRHRHSHlDYm8xWm1ZYVRyMWdOcnR5YlRFNnRCWG10b2tUR2drN01BcGxteXNKc1U2cFptRTBWRUJmdDM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPS056UFp2Y28xTm5Hb3pPdUpJaWdSUFZDU09mczI2eEtqZWdYN2pXbm5HOTdmLUtvelB1SURVX2Y4eHhqNTlYbVJNMmM1ZTJTY3NVTGFYUGNmLUlwWDdtSGU2YzBlemMxWVNTUWd6S2w2Sk1kRUdaN2VtSDFURzkyYmRwSi1VS0diNGY0Rl9aUDFsRHRHSHlDYm8xWm1ZYVRyMWdOcnR5YlRFNnRCWG10b2tUR2drN01BcGxteXNKc1U2cFptRTBWRUJmdDM?oc=5\" target=\"_blank\">US suspects Nvidia chips smuggled to Alibaba via Thailand, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-05-08T08:13:14+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "U.S. suspects OBON Corp smuggled Nvidia AI chips to Alibaba - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOek9UeFVDbWdObGVpNXNmSmJlYlNGQ1dSb3BIUnV4YTFtNUxxTFRPc0s5eWtpMHBsM2FSWFpjb0t3UXlTT3BaaUdndTZWWUMyT3dxU2J4eDJkRVBKaHZRaTU1bGpjcjV4V0dUdGlJakpJWnFBUEYyLVZpRmozR05UWmFkZHVZeXlya0xXZ2p3aXhyaHJ5MEtXZmRRUHlFWWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOek9UeFVDbWdObGVpNXNmSmJlYlNGQ1dSb3BIUnV4YTFtNUxxTFRPc0s5eWtpMHBsM2FSWFpjb0t3UXlTT3BaaUdndTZWWUMyT3dxU2J4eDJkRVBKaHZRaTU1bGpjcjV4V0dUdGlJakpJWnFBUEYyLVZpRmozR05UWmFkZHVZeXlya0xXZ2p3aXhyaHJ5MEtXZmRRUHlFWWc?oc=5\" target=\"_blank\">U.S. suspects OBON Corp smuggled Nvidia AI chips to Alibaba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-05-08T13:24:30+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Inside Nvidia’s $4B Optical Strategy—and Why CPO Changes Everything - IO Fund",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUl1cGVPV1dVNW41cEVyc1lpcTM1ZGRRVHh6eTBsLUdqSnBpOF9jaExQdFpsNmFsN1A0RGpUcmVtcXVjanE4OHdZNWtQek1iX2pGbzE2Z3hNWU1OM0xJbFp5SFVxR3dwZXVIOWMySjFuYTdkSmt4YVBuMkZiZGgwQmtB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUl1cGVPV1dVNW41cEVyc1lpcTM1ZGRRVHh6eTBsLUdqSnBpOF9jaExQdFpsNmFsN1A0RGpUcmVtcXVjanE4OHdZNWtQek1iX2pGbzE2Z3hNWU1OM0xJbFp5SFVxR3dwZXVIOWMySjFuYTdkSmt4YVBuMkZiZGgwQmtB?oc=5\" target=\"_blank\">Inside Nvidia’s $4B Optical Strategy—and Why CPO Changes Everything</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IO Fund</font>",
+      "published": "2026-05-07T07:00:00+00:00",
+      "source": "IO Fund"
     }
   ],
   "product_launches": [
@@ -77,11 +77,18 @@
       "source": "Business Insider"
     },
     {
-      "title": "Nvidia Built the A.I. Era. Now It Has to Defend It. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUFyM3AyTWtodVpLMFVZeXIyS0JlRGdiQnRmaHpZQmxBSFcxSEs4Mm5iS2pxQnZhd29PeWgwSEVxUzYxdkZ3Q3Blb2FROVhwVG5oNDlLVkJ1V1ByYklFemMxbC1JaXpoajdRb1dyY1lkMEZVZm5HVjhZb3pkQmJTZnB3?oc=5\" target=\"_blank\">Nvidia Built the A.I. Era. Now It Has to Defend It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "title": "Adobe launches cloud-native 3D digital twin solution and enterprise agents with NVIDIA. - Adobe for Business",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVU53RFc4UnA2RVhaM2FNSDNYU0pMcVRVaE5zNlctQTJVczZya1pBMzZxeF9DWmhqdTdnNlpidFRIOUFiVEs4c3FFMk1fckFBWDBaVFdhTm9sM1ZWdkZkazRoOXZmZmVzQlQ0ZmJNRHNyLUFybGtCRlVCbkkxQXhQR3hEeTM1NXNUemMtOEprX2JsLUVQWUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVU53RFc4UnA2RVhaM2FNSDNYU0pMcVRVaE5zNlctQTJVczZya1pBMzZxeF9DWmhqdTdnNlpidFRIOUFiVEs4c3FFMk1fckFBWDBaVFdhTm9sM1ZWdkZkazRoOXZmZmVzQlQ0ZmJNRHNyLUFybGtCRlVCbkkxQXhQR3hEeTM1NXNUemMtOEprX2JsLUVQWUE?oc=5\" target=\"_blank\">Adobe launches cloud-native 3D digital twin solution and enterprise agents with NVIDIA.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Adobe for Business</font>",
+      "published": "2026-04-20T13:17:05+00:00",
+      "source": "Adobe for Business"
+    },
+    {
+      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-03-16T07:00:00+00:00",
-      "source": "The New York Times"
+      "source": "NVIDIA Newsroom"
     },
     {
       "title": "Nvidia’s New Product Merges AI Supercomputing With Quantum - WSJ",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHFoZWh5ekV4ckU0djlfcGdLWnhScDJqb0MtMEZvTjF3Vkt6bXZnWTlobVdjcXNzTWhRMTh5QUNIMWptOXNUMnN4VVRNZzdsQTNzQy04Q2xCWlFBaXVIN3BBVjdUdkE0YUtmU3c4cE1PRGo3bjFPd1I3RHc2eFUtY3htYWl0MG5YelgwNEJaVjFyalhJVXp3VTRydw?oc=5\" target=\"_blank\">Nvidia’s New Product Merges AI Supercomputing With Quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
       "published": "2025-10-28T07:00:00+00:00",
       "source": "WSJ"
-    },
-    {
-      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTFhFdVBzclhIVjNSbWNVX0tSY0FpZWdKenRYLTJNVU53ZW12ZnFBeE5GaldHTERicEIxUDlWQnJhdFFSQnh6NHNVbXMyUlNTS3AwUFZkaWN4dUxmMkE?oc=5\" target=\"_blank\">NVIDIA Launches Space Computing, Rocketing AI Into Orbit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-07",
-      "close": 211.5
+      "date": "2026-05-08",
+      "close": 215.1999969482422
     },
     "history": [
-      {
-        "date": "2026-04-29",
-        "close": 209.25
-      },
       {
         "date": "2026-04-30",
         "close": 199.57000732421875
@@ -133,6 +129,10 @@
       {
         "date": "2026-05-07",
         "close": 211.5
+      },
+      {
+        "date": "2026-05-08",
+        "close": 215.1999969482422
       }
     ],
     "name": "NVIDIA Corporation"
