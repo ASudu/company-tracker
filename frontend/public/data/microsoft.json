@@ -2,114 +2,74 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-05-10T12:55:00.305517+00:00",
+  "fetched_at": "2026-05-11T14:26:56.895274+00:00",
   "news": [
     {
-      "title": "Internal Microsoft document spells out the company's buyout offer - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU245akluRHJCX0h2MjhPLUhHZzVLM1R5Vi1zb2dCZ21TZ25OUnBBUjd1YzBRNW8tVW85MHhhblBWOVRmSHhlYzJ0RWhieHRwNHJZdWVIS05qc0tadTRpMlVIVGV5VjQ0SHU2U1k5bDNRSEx3OXBhTTU3SkJJT0JDbmpzWThhZVNWSTEtVFNlUDYycF9hajBpUnA0QnI2R1MwMnJXNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU245akluRHJCX0h2MjhPLUhHZzVLM1R5Vi1zb2dCZ21TZ25OUnBBUjd1YzBRNW8tVW85MHhhblBWOVRmSHhlYzJ0RWhieHRwNHJZdWVIS05qc0tadTRpMlVIVGV5VjQ0SHU2U1k5bDNRSEx3OXBhTTU3SkJJT0JDbmpzWThhZVNWSTEtVFNlUDYycF9hajBpUnA0QnI2R1MwMnJXNA?oc=5\" target=\"_blank\">Internal Microsoft document spells out the company's buyout offer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-05-07T18:23:00+00:00",
-      "source": "Business Insider"
+      "title": "‘One Time Restart’—Microsoft Changes Windows After 15 Years - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkpCOTI4OVJua3lNREpma2diajIxMWx0a1pBVVVaZlNCNzhfLVlhUnI2eUxhRXJwSmpxbFNPR3UwT2tleXh6NzBmZ3NLYXd2TTRXb0FCSTdZZ0doRjZ3ZXdLYjBHOTJrZmJ5M1d6bmVUVG9IMVlsOHU0YmpZcWNNLUdXaE1wYldTMmFkN1pSa0hlMFNsZXdOcEpXU1RHVE1mU21VdEhPOWxXMzB1aHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkpCOTI4OVJua3lNREpma2diajIxMWx0a1pBVVVaZlNCNzhfLVlhUnI2eUxhRXJwSmpxbFNPR3UwT2tleXh6NzBmZ3NLYXd2TTRXb0FCSTdZZ0doRjZ3ZXdLYjBHOTJrZmJ5M1d6bmVUVG9IMVlsOHU0YmpZcWNNLUdXaE1wYldTMmFkN1pSa0hlMFNsZXdOcEpXU1RHVE1mU21VdEhPOWxXMzB1aHc?oc=5\" target=\"_blank\">‘One Time Restart’—Microsoft Changes Windows After 15 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-05-10T15:23:48+00:00",
+      "source": "Forbes"
     },
     {
-      "title": "Pay $30 once and own Microsoft Office apps for life with this deal - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZFOS1NTWFzMHlFUzhSTDRYbnBRMVQ5S1RSVGJUVWp4czFtSHF6LWtCaEd3c21rRENPMDQ4UVg3ZGR3cTgxT0pOMXBqUjN1a3NPYlVoaWxWTUdNWlEtWE43S1YxRFQwdEh0bnhDLXVLNTZINU5MV1VzeVBsM3M0U1A2U0hOaHdzazFIcHp5U210QUhtclVKNi1qNThYYVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZFOS1NTWFzMHlFUzhSTDRYbnBRMVQ5S1RSVGJUVWp4czFtSHF6LWtCaEd3c21rRENPMDQ4UVg3ZGR3cTgxT0pOMXBqUjN1a3NPYlVoaWxWTUdNWlEtWE43S1YxRFQwdEh0bnhDLXVLNTZINU5MV1VzeVBsM3M0U1A2U0hOaHdzazFIcHp5U210QUhtclVKNi1qNThYYVk?oc=5\" target=\"_blank\">Pay $30 once and own Microsoft Office apps for life with this deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-05-09T09:07:39+00:00",
-      "source": "Mashable"
+      "title": "Microsoft denies Windows 11 CPU boost trick is a lazy fix, says Apple does this and you love it - Windows Latest",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWE54ZFNaZDlmZE05N3Zpcm1rckQ1aEVaMUl1bWVBVllITXdMaGVtQlZROS1PWXFtSncyekRZc3NBanlDclJFU0Q5ZXE3UWRhdDlQMWZfUnFTR29MV0NXaHFVb0x0aGVHTzBBRVNTNThtNlZFOXlYenhVbFF0OUUyNGFITkFHX1Via0MzTVlnVnlGSHVwSmRHUHFIcWJzTDcyaEVibnJTaHo1b24yZzQ1c3NBcVlPZHZWS1NzZmhHRG0tblJYYTE3clpnOVQ4NjhnblE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWE54ZFNaZDlmZE05N3Zpcm1rckQ1aEVaMUl1bWVBVllITXdMaGVtQlZROS1PWXFtSncyekRZc3NBanlDclJFU0Q5ZXE3UWRhdDlQMWZfUnFTR29MV0NXaHFVb0x0aGVHTzBBRVNTNThtNlZFOXlYenhVbFF0OUUyNGFITkFHX1Via0MzTVlnVnlGSHVwSmRHUHFIcWJzTDcyaEVibnJTaHo1b24yZzQ1c3NBcVlPZHZWS1NzZmhHRG0tblJYYTE3clpnOVQ4NjhnblE?oc=5\" target=\"_blank\">Microsoft denies Windows 11 CPU boost trick is a lazy fix, says Apple does this and you love it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
+      "published": "2026-05-10T20:57:17+00:00",
+      "source": "Windows Latest"
     },
     {
-      "title": "How Microsoft Pulled off ‘One of the Best Tech Acquisitions of the Last Decade’ - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmlUQnZUTFVLTVRxa1RSM1FLdk1FMXJBU2puWUVLRnppc290WHVlMXFvMHFaTnJxY2otakxQVGxnTzktbGxOTnlDaE9qT1EzQWpNYXRibDY3ODNhNjFsalNIMDZZMi1JUWgzTklqN0ZMOUxnS1N4V0txZWNyTzBQTmJoRWUzQWh4VWcwc0YxQ19MY1lseEY3dzNWVVdIc2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmlUQnZUTFVLTVRxa1RSM1FLdk1FMXJBU2puWUVLRnppc290WHVlMXFvMHFaTnJxY2otakxQVGxnTzktbGxOTnlDaE9qT1EzQWpNYXRibDY3ODNhNjFsalNIMDZZMi1JUWgzTklqN0ZMOUxnS1N4V0txZWNyTzBQTmJoRWUzQWh4VWcwc0YxQ19MY1lseEY3dzNWVVdIc2M?oc=5\" target=\"_blank\">How Microsoft Pulled off ‘One of the Best Tech Acquisitions of the Last Decade’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-09T12:00:37+00:00",
-      "source": "Yahoo Finance"
+      "title": "'Still absolutely wild that this isn't just built into Windows': I love Microsoft's new monitor add-on, and fully agree that it's baffling why more PowerToys aren't in Windows 11 - TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTWlvZi1SeWdHM2Z4Rms5QWs0ZFpiTW14QTJfdDBpT0NrcE1vUjY5RnlGa1dWUUNrV1ZObk5nSGpIcDVmQWFlNWprclpHOXVMdl9qR0twSGFqLXBmUHhnOEhHVnNDRTBtQlBUSEg0N005ekRpTTlUX0d3a0UwRjlQRUN5NFBaVExDUF9BcUlqOUx6aGRjV0dJdXkxSlJHRjRxb2FRN0pETmVjMHFMOVFxN0VRTUtsREZqZEpKekNiRGFhZjNWbWJGY1c1cVZmNXJlNXN1ZlJvOXE0UVpsdGFCSlBuZGxmVTF5VFVhMzhpemctR0ktSW5zc19wUC15ZjBoNlV0RURiRk9YU2lWTzkyMTRORzBIMXhIWDVWYnZ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNTWlvZi1SeWdHM2Z4Rms5QWs0ZFpiTW14QTJfdDBpT0NrcE1vUjY5RnlGa1dWUUNrV1ZObk5nSGpIcDVmQWFlNWprclpHOXVMdl9qR0twSGFqLXBmUHhnOEhHVnNDRTBtQlBUSEg0N005ekRpTTlUX0d3a0UwRjlQRUN5NFBaVExDUF9BcUlqOUx6aGRjV0dJdXkxSlJHRjRxb2FRN0pETmVjMHFMOVFxN0VRTUtsREZqZEpKekNiRGFhZjNWbWJGY1c1cVZmNXJlNXN1ZlJvOXE0UVpsdGFCSlBuZGxmVTF5VFVhMzhpemctR0ktSW5zc19wUC15ZjBoNlV0RURiRk9YU2lWTzkyMTRORzBIMXhIWDVWYnZ3?oc=5\" target=\"_blank\">'Still absolutely wild that this isn't just built into Windows': I love Microsoft's new monitor add-on, and fully agree that it's baffling why more PowerToys aren't in Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
+      "published": "2026-05-10T22:30:00+00:00",
+      "source": "TechRadar"
     },
     {
-      "title": "Microsoft: The Best Time To Buy Is When Others Continue To Ignore (NASDAQ:MSFT) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDJ5cnNjZHU3aWtaRElWWHRMc2VhOHJmbVJmWDVJNVUxcnVPLWJiLXRucDhjVWpfWUZzckJEWWdIU1RCQXl6NnRTWGs0Z1p0NXNKQnNNVG1MVDVIVU5MOGV0RnBIOEN1UE5CRS1wRXhEbFJzbnhRSWVOUl9jSVk0dmRPYjNVZHF2OHZMbUlGVXRHSFN0Z2tyUWJBM0ZNbkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDJ5cnNjZHU3aWtaRElWWHRMc2VhOHJmbVJmWDVJNVUxcnVPLWJiLXRucDhjVWpfWUZzckJEWWdIU1RCQXl6NnRTWGs0Z1p0NXNKQnNNVG1MVDVIVU5MOGV0RnBIOEN1UE5CRS1wRXhEbFJzbnhRSWVOUl9jSVk0dmRPYjNVZHF2OHZMbUlGVXRHSFN0Z2tyUWJBM0ZNbkE?oc=5\" target=\"_blank\">Microsoft: The Best Time To Buy Is When Others Continue To Ignore (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-05-09T13:00:00+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "America’s Most Infamous Nuclear Site Returns to Fuel the AI Boom - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDNKSzJEbTNIc3FUWDFfVEk4M2N5TVRoTVRtaFlraURSYnVCOEZXMTB0TGNFRFBzeWxfMnFJUFVHLUctX05YZFF2M1NHZkhSNEl6a0xSQ3kxbjhfdmFPOFNjQk5wZXY0U3M1bU1mMVltRWh5aThXUjdnQlV6cTY5b2lPdlpSVFAtcVotMmNqMlQ4dm00THcwODBiYU5EeXpMZzNzQ1B1SmhyZy1ZeEJQZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDNKSzJEbTNIc3FUWDFfVEk4M2N5TVRoTVRtaFlraURSYnVCOEZXMTB0TGNFRFBzeWxfMnFJUFVHLUctX05YZFF2M1NHZkhSNEl6a0xSQ3kxbjhfdmFPOFNjQk5wZXY0U3M1bU1mMVltRWh5aThXUjdnQlV6cTY5b2lPdlpSVFAtcVotMmNqMlQ4dm00THcwODBiYU5EeXpMZzNzQ1B1SmhyZy1ZeEJQZg?oc=5\" target=\"_blank\">America’s Most Infamous Nuclear Site Returns to Fuel the AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-05-07T21:00:42+00:00",
+      "title": "Microsoft’s African Data Center Falters on Payment Demands - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGpwTVZsRXBhLXc4alA0eEFFQ0YwRG5wUWViZG53ekh4SWlyRUR4UXU2Wm1LT2pJdEFjMTJVTTExY3REdGZNLUtsWkZ6ZVdQNmw1REE0RHlkdFVRSnJmOEdhWXZneksxM1cwRGRmalBzcGFjS0VvaVN0TFpJN1IzLTZoQmlBRUxjUHE0UnM3N0NadXFGTC16RXVfR3U2X2NmNFhoNlJTNzJEb1Bvb0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGpwTVZsRXBhLXc4alA0eEFFQ0YwRG5wUWViZG53ekh4SWlyRUR4UXU2Wm1LT2pJdEFjMTJVTTExY3REdGZNLUtsWkZ6ZVdQNmw1REE0RHlkdFVRSnJmOEdhWXZneksxM1cwRGRmalBzcGFjS0VvaVN0TFpJN1IzLTZoQmlBRUxjUHE0UnM3N0NadXFGTC16RXVfR3U2X2NmNFhoNlJTNzJEb1Bvb0E?oc=5\" target=\"_blank\">Microsoft’s African Data Center Falters on Payment Demands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-05-11T12:18:55+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Chris Hohn’s hedge fund slashes $8bn Microsoft stake in warning over AI disruption - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV21haE1xMTUzYTcyY3JURlotejAyN2NJWDNrYWxtaFdwWGdLVkFkc0tBM0d4UEpId3VJQm5TR0c3VlNwMEZ2LVhjYWZWT3lrdEcwNy0xU2RTZnFEZmZUZHNxUkJPRUdpQlFHVWZrVnAzd1QtQ1dFdUIzdzk0bGNsSndOdEc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQV21haE1xMTUzYTcyY3JURlotejAyN2NJWDNrYWxtaFdwWGdLVkFkc0tBM0d4UEpId3VJQm5TR0c3VlNwMEZ2LVhjYWZWT3lrdEcwNy0xU2RTZnFEZmZUZHNxUkJPRUdpQlFHVWZrVnAzd1QtQ1dFdUIzdzk0bGNsSndOdEc?oc=5\" target=\"_blank\">Chris Hohn’s hedge fund slashes $8bn Microsoft stake in warning over AI disruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-05-08T14:01:27+00:00",
-      "source": "Financial Times"
+      "title": "Microsoft's $1 billion Kenya data center is stalling over a government payment dispute - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzNhNG52eUlPaXN4WGc2dEFXY3gzcXVRYXlmLXpJMUtsVU9aTzFPODBtT2VXTlRFb2VZdHlkeE9taTBtVXpWNnd5Yjk4VmNmN1hUWXl1bFI3ekNJYzV0YnI5QktydGFzNEtxOHN6SEs1UkN0eDdycUJtbXZtVFdPOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzNhNG52eUlPaXN4WGc2dEFXY3gzcXVRYXlmLXpJMUtsVU9aTzFPODBtT2VXTlRFb2VZdHlkeE9taTBtVXpWNnd5Yjk4VmNmN1hUWXl1bFI3ekNJYzV0YnI5QktydGFzNEtxOHN6SEs1UkN0eDdycUJtbXZtVFdPOA?oc=5\" target=\"_blank\">Microsoft's $1 billion Kenya data center is stalling over a government payment dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-05-11T12:27:38+00:00",
+      "source": "qz.com"
     },
     {
-      "title": "I left Windows for Linux, but Microsoft's K2 pivot just gave me a reason to reconsider - XDA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wdG5pWk5yaXZ3NUdqUktyNGIxRFVNY0NkMWxnVmRrcHAyQ3BiOElkUGlVT1A1N25sNVJNN2hxUnltNllOVjNEZ1hKSWdGUXdRZjNGVVNsTDA0UDk2UlBr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wdG5pWk5yaXZ3NUdqUktyNGIxRFVNY0NkMWxnVmRrcHAyQ3BiOElkUGlVT1A1N25sNVJNN2hxUnltNllOVjNEZ1hKSWdGUXdRZjNGVVNsTDA0UDk2UlBr?oc=5\" target=\"_blank\">I left Windows for Linux, but Microsoft's K2 pivot just gave me a reason to reconsider</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XDA</font>",
-      "published": "2026-05-09T16:30:21+00:00",
-      "source": "XDA"
+      "title": "Microsoft’s African data center falters on payment demands, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc004TlNOQ3k0SEVzN2Roa2hveTZER3d3b3ZJaFlPVktOdHZLRVJkY25pcDZITFdjQlF1T0l3MTkwLUlDTlJrbWdSTk5OdEk4M3R6REVIZi01RmptSy1JamNVdDJsTkE3S3JEdXRQMkQwRF9ndDhtLXNlS2g1cHBvMjV0akV6T04yY1NabEpTXy1zcVRhMzRrUjFaRWFkNzAzalFMZ1FMbERtLWktMmFEVUJaSEZnbEtZWENkTjJrUXlveUNp?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQc004TlNOQ3k0SEVzN2Roa2hveTZER3d3b3ZJaFlPVktOdHZLRVJkY25pcDZITFdjQlF1T0l3MTkwLUlDTlJrbWdSTk5OdEk4M3R6REVIZi01RmptSy1JamNVdDJsTkE3S3JEdXRQMkQwRF9ndDhtLXNlS2g1cHBvMjV0akV6T04yY1NabEpTXy1zcVRhMzRrUjFaRWFkNzAzalFMZ1FMbERtLWktMmFEVUJaSEZnbEtZWENkTjJrUXlveUNp?oc=5\" target=\"_blank\">Microsoft’s African data center falters on payment demands, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-05-10T13:47:00+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Great News for Microsoft Stock Investors - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0ZucmFVYUFSekk4M241QVFOLXhRVlI1bFRiZS12Y0lidGlDNE00X3lvbVdmQzN4d0o1SEFWcEUzcGRxbjVDYkpWM3BsMmdVYVZ6dksxTTYzTEJZRXpsYlo5dGIwM0lXSWtCYjNYUnFYdUZBNHlEQlkyQjl5RWR6eEpUb3Y2ZW9aM2hJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0ZucmFVYUFSekk4M241QVFOLXhRVlI1bFRiZS12Y0lidGlDNE00X3lvbVdmQzN4d0o1SEFWcEUzcGRxbjVDYkpWM3BsMmdVYVZ6dksxTTYzTEJZRXpsYlo5dGIwM0lXSWtCYjNYUnFYdUZBNHlEQlkyQjl5RWR6eEpUb3Y2ZW9aM2hJ?oc=5\" target=\"_blank\">Great News for Microsoft Stock Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-05-10T00:24:12+00:00",
-      "source": "The Motley Fool"
+      "title": "What Microsoft Executives Really Thought About OpenAI in 2018 - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXy1JYUgtMm5vcVdXVHdnRG9FMlZGUmdEYm9mT2ZPTzBjZHRuaWc3b1R5cFctU1lyOFZvejdlYk5YNTJfMFZXU3lYNUxkTzVIeG5qRGVwdDlvN3RKNHdWQUhBb3J2VExtTmZaR3lxSXNPYkVneEdsQzRVaXNRLTlkdGlyeURDMUk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNXy1JYUgtMm5vcVdXVHdnRG9FMlZGUmdEYm9mT2ZPTzBjZHRuaWc3b1R5cFctU1lyOFZvejdlYk5YNTJfMFZXU3lYNUxkTzVIeG5qRGVwdDlvN3RKNHdWQUhBb3J2VExtTmZaR3lxSXNPYkVneEdsQzRVaXNRLTlkdGlyeURDMUk?oc=5\" target=\"_blank\">What Microsoft Executives Really Thought About OpenAI in 2018</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-05-08T01:42:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "Musk v. Altman live updates: Microsoft CEO to testify as week 3 of trial begins - ABC7 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSF81WEVqVXZiajZJSDhEeVJ1eWZqSmtyWENJYkJGTXJSU21Vd1VhdEFLYVkyMnVneWluVFRRemZxa1pfN0ctekJLZ3psQ2pIMkR6Nlk0Tm9YRkItamwycm9wV3pQdm5jYVdWTG0zYU1vUWt1d3VRX0dVOHJvM0FFYjZZOVUtOFhYMEFzazFOM2xFZWo2em9vbXJGb0JCVlZ2WU4zWW1YMEpJcjFPYzZVel9qQkZrV1FCZXU2cXplcHh4LURFMUVkTW1BOE1fZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSF81WEVqVXZiajZJSDhEeVJ1eWZqSmtyWENJYkJGTXJSU21Vd1VhdEFLYVkyMnVneWluVFRRemZxa1pfN0ctekJLZ3psQ2pIMkR6Nlk0Tm9YRkItamwycm9wV3pQdm5jYVdWTG0zYU1vUWt1d3VRX0dVOHJvM0FFYjZZOVUtOFhYMEFzazFOM2xFZWo2em9vbXJGb0JCVlZ2WU4zWW1YMEpJcjFPYzZVel9qQkZrV1FCZXU2cXplcHh4LURFMUVkTW1BOE1fZw?oc=5\" target=\"_blank\">Musk v. Altman live updates: Microsoft CEO to testify as week 3 of trial begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
+      "published": "2026-05-11T14:09:00+00:00",
+      "source": "ABC7 San Francisco"
     }
   ],
-  "product_launches": [
-    {
-      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2026-03-09T07:00:00+00:00",
-      "source": "Microsoft"
-    },
-    {
-      "title": "OpenAI | ChatGPT, Sam Altman, Microsoft, & History - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, Microsoft, & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
-      "published": "2026-05-07T04:00:00+00:00",
-      "source": "Britannica"
-    },
-    {
-      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5\" target=\"_blank\">Microsoft launches 3 new AI models in direct shot at OpenAI and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-      "published": "2026-04-03T07:00:00+00:00",
-      "source": "VentureBeat"
-    },
-    {
-      "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5\" target=\"_blank\">Microsoft Launches Its Own Legal Agent For Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artificial Lawyer</font>",
-      "published": "2026-04-30T07:00:00+00:00",
-      "source": "Artificial Lawyer"
-    },
-    {
-      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
-      "published": "2026-01-08T08:00:00+00:00",
-      "source": "PayPal Newsroom"
-    }
-  ],
+  "product_launches": [],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-08",
-      "close": 415.1199951171875
+      "date": "2026-05-11",
+      "close": 411.20001220703125
     },
     "history": [
-      {
-        "date": "2026-04-30",
-        "close": 407.7799987792969
-      },
       {
         "date": "2026-05-01",
         "close": 414.44000244140625
@@ -133,6 +93,10 @@
       {
         "date": "2026-05-08",
         "close": 415.1199951171875
+      },
+      {
+        "date": "2026-05-11",
+        "close": 411.20001220703125
       }
     ],
     "name": "Microsoft Corporation"

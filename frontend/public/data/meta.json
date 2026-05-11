@@ -2,15 +2,8 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-05-10T12:55:08.110472+00:00",
+  "fetched_at": "2026-05-11T14:27:03.944027+00:00",
   "news": [
-    {
-      "title": "Opinion | Mark Zuckerberg Is Running Meta Into the Ground - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ueUVtdlhsclN0OFlDN0ZOdF95T18zNnpHVHE0MTR5b2FhVzB4LUJBZVdZQkhIMlZjc0ljeGo5c2xSQ1NtX0FSWmk5T282a1d5WjFOdDlGb09vTmRJdGhhYTNiSlAtdHBTVWZ1S21HY0xrVWVscVdFOU5feUo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1ueUVtdlhsclN0OFlDN0ZOdF95T18zNnpHVHE0MTR5b2FhVzB4LUJBZVdZQkhIMlZjc0ljeGo5c2xSQ1NtX0FSWmk5T282a1d5WjFOdDlGb09vTmRJdGhhYTNiSlAtdHBTVWZ1S21HY0xrVWVscVdFOU5feUo?oc=5\" target=\"_blank\">Opinion | Mark Zuckerberg Is Running Meta Into the Ground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-05-08T09:04:06+00:00",
-      "source": "The New York Times"
-    },
     {
       "title": "Meta’s Embrace of A.I. Is Making Its Employees Miserable - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONnNrMkM2andrc2R0ZVdveDcxRkNmcWJyRlZ6RjNVd29NVzBCakVHUlFBN1FPOGVBNEJqWlg0TzRDN3pzZDNZUGo3dzZoR3c5VHZLUnRiQzBMR3BIWkNURmdYUFNHMEpXeEtTUko5bVJkQko5OHIwVjR1bjhET05RRHJqcmg?oc=5",
@@ -19,46 +12,53 @@
       "source": "The New York Times"
     },
     {
-      "title": "Meta Platforms Swaps Jobs For AI Infrastructure And Investor Uncertainty - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2gtdW1UQWVvR2ZWNEdLbnJPdTY3dWZwc1NoZ05LdW04VDlfMHgxZDJBSUlDMmZCOExoRlNHbHh6OEdVaFFLVjl4MnRMenRoYnFVbUJ0T0FUYnlLR0FPV1Q0YjJtcUNrc1daNnFZZFl2bENPV0FqMXJ2dXIwOWNKVVdiYlpycGhaemttR2Z2clY5MHlRWUwxVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2gtdW1UQWVvR2ZWNEdLbnJPdTY3dWZwc1NoZ05LdW04VDlfMHgxZDJBSUlDMmZCOExoRlNHbHh6OEdVaFFLVjl4MnRMenRoYnFVbUJ0T0FUYnlLR0FPV1Q0YjJtcUNrc1daNnFZZFl2bENPV0FqMXJ2dXIwOWNKVVdiYlpycGhaemttR2Z2clY5MHlRWUwxVg?oc=5\" target=\"_blank\">Meta Platforms Swaps Jobs For AI Infrastructure And Investor Uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-09T02:21:00+00:00",
+      "title": "Opinion | Meta Is Dying. It’s About Time. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ueUVtdlhsclN0OFlDN0ZOdF95T18zNnpHVHE0MTR5b2FhVzB4LUJBZVdZQkhIMlZjc0ljeGo5c2xSQ1NtX0FSWmk5T282a1d5WjFOdDlGb09vTmRJdGhhYTNiSlAtdHBTVWZ1S21HY0xrVWVscVdFOU5feUo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1ueUVtdlhsclN0OFlDN0ZOdF95T18zNnpHVHE0MTR5b2FhVzB4LUJBZVdZQkhIMlZjc0ljeGo5c2xSQ1NtX0FSWmk5T282a1d5WjFOdDlGb09vTmRJdGhhYTNiSlAtdHBTVWZ1S21HY0xrVWVscVdFOU5feUo?oc=5\" target=\"_blank\">Opinion | Meta Is Dying. It’s About Time.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-05-08T09:04:06+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Inside Meta’s threat to exit New Mexico over kids safety rules — and whether experts believe the ploy will work - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXBzVHM0WnVPcGpKR2ZucDBjeVZMUzFPcFd4MEZkTEppN2RZWjdHNkVwWDhFRW9PZk9PREM5TlhrTVIwNEVZQXdodzk3LUxtMk91X19nVnA2OTA2bVV4VGFzRHJqMS1sZGtrME15LXUxc01uS3BqSmg3N09LZFY1NVZTSnJkUm1GTUtxZG5mZDlUYkZiM0kwSjFVNVZuNFlkejM4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPLXBzVHM0WnVPcGpKR2ZucDBjeVZMUzFPcFd4MEZkTEppN2RZWjdHNkVwWDhFRW9PZk9PREM5TlhrTVIwNEVZQXdodzk3LUxtMk91X19nVnA2OTA2bVV4VGFzRHJqMS1sZGtrME15LXUxc01uS3BqSmg3N09LZFY1NVZTSnJkUm1GTUtxZG5mZDlUYkZiM0kwSjFVNVZuNFlkejM4?oc=5\" target=\"_blank\">Inside Meta’s threat to exit New Mexico over kids safety rules — and whether experts believe the ploy will work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "published": "2026-05-11T10:00:00+00:00",
+      "source": "New York Post"
+    },
+    {
+      "title": "Is Meta Stock a Buy? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSHUxNW1YNFlQdmVoRXYtdm9HMTF2VV9JeVdSTWFxZ2kzUm5QRmQ1UkQweTZ6QTNOQU1RRXZIMnVuSU1YVDhJWUc2NldhcGlWZDdydkQ2M0NHTDJTQ3NWTXcwMmZ6WV84ekZBaldUTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSHUxNW1YNFlQdmVoRXYtdm9HMTF2VV9JeVdSTWFxZ2kzUm5QRmQ1UkQweTZ6QTNOQU1RRXZIMnVuSU1YVDhJWUc2NldhcGlWZDdydkQ2M0NHTDJTQ3NWTXcwMmZ6WV84ekZBaldUTQ?oc=5\" target=\"_blank\">Is Meta Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-05-10T17:30:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Meta Backed Sensor Approaches 20 Stops Of Dynamic Range - Y.M.Cinema Magazine",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aUFBWTkRBOVp4WkJqU1o4UkxzWjktel9nbXdiOFJiMVNPaHI3NS1tQk5SOE1UaUItWnpLZHo1R0phNUMzdTNZZTY5SEJHY05iaDVGTGVORk5vRHpvNHQ4R2kzR29wZ1pTaFRpdnpDQVA3NTRYU096NU16Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9aUFBWTkRBOVp4WkJqU1o4UkxzWjktel9nbXdiOFJiMVNPaHI3NS1tQk5SOE1UaUItWnpLZHo1R0phNUMzdTNZZTY5SEJHY05iaDVGTGVORk5vRHpvNHQ4R2kzR29wZ1pTaFRpdnpDQVA3NTRYU096NU16Yw?oc=5\" target=\"_blank\">Meta Backed Sensor Approaches 20 Stops Of Dynamic Range</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Y.M.Cinema Magazine</font>",
+      "published": "2026-05-10T16:24:49+00:00",
+      "source": "Y.M.Cinema Magazine"
+    },
+    {
+      "title": "Is Meta really dying? - Social Media Today",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CSUtlN3FOODhjLVNJa3JjYjlXSGxGeFB5WGpDWTVlV2pSa25mYktMV2NEb1l1UTc3cElIVkY0ZFRESU5hUDNRQ0ZrcnZfd2h3VVU4cTFqdC1CRlRoTTFCaF9aTGwzUHZUdDRWbUhaVGRLVlNY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1CSUtlN3FOODhjLVNJa3JjYjlXSGxGeFB5WGpDWTVlV2pSa25mYktMV2NEb1l1UTc3cElIVkY0ZFRESU5hUDNRQ0ZrcnZfd2h3VVU4cTFqdC1CRlRoTTFCaF9aTGwzUHZUdDRWbUhaVGRLVlNY?oc=5\" target=\"_blank\">Is Meta really dying?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Social Media Today</font>",
+      "published": "2026-05-11T05:08:23+00:00",
+      "source": "Social Media Today"
+    },
+    {
+      "title": "Why Market is Wrong About Meta Platforms (META) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGJReGNCTUZXNHVaVy1mcWtOXzR0SFBHNDFUOXFTMzBYTFdOYndqZVFTeHkxUVozcDN6Zy1FNWFJR2Uxb0JUb05Bd3B0Y2FaSVBSWU0yNUVadXA5TUpXTVA2SGx2bDlGTmVUY3JpOTdGUllMbjBFMkwxMkFGWmU4VVVwb0VIU2FRdmhGLUtSUVY2OFQ0blVVRGVlQkw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGJReGNCTUZXNHVaVy1mcWtOXzR0SFBHNDFUOXFTMzBYTFdOYndqZVFTeHkxUVozcDN6Zy1FNWFJR2Uxb0JUb05Bd3B0Y2FaSVBSWU0yNUVadXA5TUpXTVA2SGx2bDlGTmVUY3JpOTdGUllMbjBFMkwxMkFGWmU4VVVwb0VIU2FRdmhGLUtSUVY2OFQ0blVVRGVlQkw?oc=5\" target=\"_blank\">Why Market is Wrong About Meta Platforms (META)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-05-11T12:54:35+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Why Meta’s Pullback Looks Bullish (NASDAQ:META) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50N3Z0VnpXWWpKQ2NiMjFJdTJ0M3NyVzN0bE42S0RDeGdXRmh2dTBTak9wRTVpOXQzOTgyZmJ4SEYyd1cyX3pnWkd1NnpwM3N1clNJd1VoTDhMRmQxd2p4NHJoWTBKRUxKYUU0bHB3VE1mLWZ1X2xR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE50N3Z0VnpXWWpKQ2NiMjFJdTJ0M3NyVzN0bE42S0RDeGdXRmh2dTBTak9wRTVpOXQzOTgyZmJ4SEYyd1cyX3pnWkd1NnpwM3N1clNJd1VoTDhMRmQxd2p4NHJoWTBKRUxKYUU0bHB3VE1mLWZ1X2xR?oc=5\" target=\"_blank\">Why Meta’s Pullback Looks Bullish (NASDAQ:META)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-05-09T12:57:44+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Instagram privacy tech is turned off today - what does this mean for your DMs? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lQkY3MUdwUFoxVFNiOVJDWG1Zc01qVlhnMC1hcWRrY3JlcEktYjFHeGU4RnhwRzdTVUl4UEpyWUZRN1EyTmh3X3dGTGNFUmcwU29heDNsQkd0Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lQkY3MUdwUFoxVFNiOVJDWG1Zc01qVlhnMC1hcWRrY3JlcEktYjFHeGU4RnhwRzdTVUl4UEpyWUZRN1EyTmh3X3dGTGNFUmcwU29heDNsQkd0Zw?oc=5\" target=\"_blank\">Instagram privacy tech is turned off today - what does this mean for your DMs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2026-05-08T01:31:55+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "As Apple and Meta protest against Canada's Bill C-22, claims it will make them 'Government Spy Tools'; Ca - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPeVFaaENYNEtkMmp1ejA1eXc3cnpKV0dXbDVQX3BYSFBtdVJmUENtRGRlLWdvazJ3NGU3bkVnVnVaX3JhRGZIVjBEdVMzdm9fUXVDMVZUbmdVMzRBMkNnVm9xNTdPV0JOdEptdHV6ZzFlTnJMOWZEWVBOU2NveUIwNDRBOGhTd3EtZk5CMHVKR2FFYmNKNTJpUzJfRXNwS1FHUm9kakxuUTdhc0U2U0kwSVgtWW9pYUx2bEpEcmM1QTVuY0pyS1MwVE45ZEg5WHgxQ01RVXN3RkdCNnd0Rm9TaHJMZG9BTHlFNC1yUnRNU1FQTXAzQ08wVmtTQVMtM2VhQlZzMDhJVmxZMkZOenp2WUhhc1pJMzlNTHdpSWpjajRkR0dGdnNSd2N3NEdQeHZHUjROV3p5cnBCY2RLVEdzSExBWmFhMkFqYS1haU9IM0M2QdIB1wJBVV95cUxQeDk5eERxcXVmdjAyaDI3R2JPYTRTN3UxRkFqUzQ5bEtLMDZodmZJc0N2dzlRZDVSbGJwaklkVEpYem10V09vbXN5eWV1SlBfOE1jOFdUY0JKQWdfZk9Da3hMQzJzbzMxeWlCUnZqTHpVeFdxdlpHdFN0OEljYV9kenZuZEFoanpuR011dVppaHlqRmJCdmVUZHYwQzB5WENENG5qbm9CMG9SUS1USEN3X0toR2hiNHlrTXlrYXpjRlFma0p3N19CaERyTUVjZG1EUVNMeU84Y1c2cHE3cm5Ca1VMR2FSY0I4by1nOVN6Nk1uSnY2eDUxNkt2bnI2V2xZaG5qU2FiNDE4bmdhTGFzUXB1WUtRT0NPU0pxOVdoUTVGT0gzS1hKN3EtSWJ1dWxQS01jS1dfRFlhSzh3c2wwMGVycldJelJVYXBPbFU2S1ltQmZjLWJr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxPeVFaaENYNEtkMmp1ejA1eXc3cnpKV0dXbDVQX3BYSFBtdVJmUENtRGRlLWdvazJ3NGU3bkVnVnVaX3JhRGZIVjBEdVMzdm9fUXVDMVZUbmdVMzRBMkNnVm9xNTdPV0JOdEptdHV6ZzFlTnJMOWZEWVBOU2NveUIwNDRBOGhTd3EtZk5CMHVKR2FFYmNKNTJpUzJfRXNwS1FHUm9kakxuUTdhc0U2U0kwSVgtWW9pYUx2bEpEcmM1QTVuY0pyS1MwVE45ZEg5WHgxQ01RVXN3RkdCNnd0Rm9TaHJMZG9BTHlFNC1yUnRNU1FQTXAzQ08wVmtTQVMtM2VhQlZzMDhJVmxZMkZOenp2WUhhc1pJMzlNTHdpSWpjajRkR0dGdnNSd2N3NEdQeHZHUjROV3p5cnBCY2RLVEdzSExBWmFhMkFqYS1haU9IM0M2QdIB1wJBVV95cUxQeDk5eERxcXVmdjAyaDI3R2JPYTRTN3UxRkFqUzQ5bEtLMDZodmZJc0N2dzlRZDVSbGJwaklkVEpYem10V09vbXN5eWV1SlBfOE1jOFdUY0JKQWdfZk9Da3hMQzJzbzMxeWlCUnZqTHpVeFdxdlpHdFN0OEljYV9kenZuZEFoanpuR011dVppaHlqRmJCdmVUZHYwQzB5WENENG5qbm9CMG9SUS1USEN3X0toR2hiNHlrTXlrYXpjRlFma0p3N19CaERyTUVjZG1EUVNMeU84Y1c2cHE3cm5Ca1VMR2FSY0I4by1nOVN6Nk1uSnY2eDUxNkt2bnI2V2xZaG5qU2FiNDE4bmdhTGFzUXB1WUtRT0NPU0pxOVdoUTVGT0gzS1hKN3EtSWJ1dWxQS01jS1dfRFlhSzh3c2wwMGVycldJelJVYXBPbFU2S1ltQmZjLWJr?oc=5\" target=\"_blank\">As Apple and Meta protest against Canada's Bill C-22, claims it will make them 'Government Spy Tools'; Ca</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "published": "2026-05-10T06:33:00+00:00",
-      "source": "The Times of India"
-    },
-    {
-      "title": "After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNjNwanpMa0x1ak9seGRQRFZpVzlaQTZvSW11VndINUxyS2FxWFZMOUp2RF9XU2lKTGtuX0JfR2tOZUliUjVKc3FVcXFzdDBSNlpUbGFtWkdEVkNTOEFtdzFZY1J2amo4b1FzdXhNWGt3U1V6cHlrcWVGRVlrLVRPMEtRbzdRTGhRdmVlOUVlWElNRXlBUjhUQk5yQ3htVnlGMVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNjNwanpMa0x1ak9seGRQRFZpVzlaQTZvSW11VndINUxyS2FxWFZMOUp2RF9XU2lKTGtuX0JfR2tOZUliUjVKc3FVcXFzdDBSNlpUbGFtWkdEVkNTOEFtdzFZY1J2amo4b1FzdXhNWGt3U1V6cHlrcWVGRVlrLVRPMEtRbzdRTGhRdmVlOUVlWElNRXlBUjhUQk5yQ3htVnlGMVE?oc=5\" target=\"_blank\">After Earnings, Is Meta Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar Canada</font>",
-      "published": "2026-05-08T13:52:55+00:00",
-      "source": "Morningstar Canada"
-    },
-    {
-      "title": "NYC dad files $50 million lawsuit against ACS, Meta after teen’s fatal stabbing - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDNPMzR2Nm5sQ2UyQkowNDRHWE5CX0hPejk2TlRWNWpvMVNNYnBsaGpjUnN4ODNoa3djbmViN0ZjWG9OSnd1UUo1c3lMTThkN0M2dWRWMXFFZFJKSkVqWUtZWGt3ZkVvbzU2QWhVaWZIOTlQbkpBdzFQMGFlQjNCU0FpUXlIRDVhMlNqU2JoYTFyb1JhNDFXS2VkTElHeUpxNDZlX2ljQ3BtcVVWZzRWTHRYZHAxQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDNPMzR2Nm5sQ2UyQkowNDRHWE5CX0hPejk2TlRWNWpvMVNNYnBsaGpjUnN4ODNoa3djbmViN0ZjWG9OSnd1UUo1c3lMTThkN0M2dWRWMXFFZFJKSkVqWUtZWGt3ZkVvbzU2QWhVaWZIOTlQbkpBdzFQMGFlQjNCU0FpUXlIRDVhMlNqU2JoYTFyb1JhNDFXS2VkTElHeUpxNDZlX2ljQ3BtcVVWZzRWTHRYZHAxQQ?oc=5\" target=\"_blank\">NYC dad files $50 million lawsuit against ACS, Meta after teen’s fatal stabbing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-      "published": "2026-05-09T20:23:00+00:00",
-      "source": "New York Post"
+      "title": "Meta’s New AI-Powered VR Toolkit Lets Anyone Build WebXR Experiences Without Coding - Road to VR",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84MXZKazdFV01EMHpHTEZ6dTM1Rkg2QXFvYm4tR3dEckNiUVdSNzJtd2R1d0ZtVjB2SWlGWE5LOUwxOG5NSDFWTDA3V3VGM3B0UWs0eVE0RmtRRElqRUpNSVpRbWpMUEdyZXpScGxsZTh6RUJ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE84MXZKazdFV01EMHpHTEZ6dTM1Rkg2QXFvYm4tR3dEckNiUVdSNzJtd2R1d0ZtVjB2SWlGWE5LOUwxOG5NSDFWTDA3V3VGM3B0UWs0eVE0RmtRRElqRUpNSVpRbWpMUEdyZXpScGxsZTh6RUJ3?oc=5\" target=\"_blank\">Meta’s New AI-Powered VR Toolkit Lets Anyone Build WebXR Experiences Without Coding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Road to VR</font>",
+      "published": "2026-05-11T12:46:48+00:00",
+      "source": "Road to VR"
     }
   ],
   "product_launches": [
@@ -102,14 +102,10 @@
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-08",
-      "close": 609.6300048828125
+      "date": "2026-05-11",
+      "close": 602.9400024414062
     },
     "history": [
-      {
-        "date": "2026-04-30",
-        "close": 611.9099731445312
-      },
       {
         "date": "2026-05-01",
         "close": 608.75
@@ -133,6 +129,10 @@
       {
         "date": "2026-05-08",
         "close": 609.6300048828125
+      },
+      {
+        "date": "2026-05-11",
+        "close": 602.9400024414062
       }
     ],
     "name": "Meta Platforms, Inc."
