@@ -2,114 +2,110 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-05-11T14:27:01.475035+00:00",
+  "fetched_at": "2026-05-12T13:54:01.162689+00:00",
   "news": [
     {
-      "title": "Amazon halts high-speed e-bike sales in California following fatal crashes - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXZrQkZZNGI3dzBpX0FTd0dXS2l3NjdLWFozcDU5dGlSRmdITTdLT2U1WW81SFhxTG14S01veDRkMEFpd241ZGFEcDR3c216dmFOVWsya0IyNjVjMUV0bWZoNm14aTRYTmZzSzhTbUZObVVWRXpPQmdJSU1Vd2NsclVEaFdvUmtJeTJfWm0yWWdVR3ZSYnhuakRybUZMU192WVEzZkppemFGN1lRdXpjcUlB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXZrQkZZNGI3dzBpX0FTd0dXS2l3NjdLWFozcDU5dGlSRmdITTdLT2U1WW81SFhxTG14S01veDRkMEFpd241ZGFEcDR3c216dmFOVWsya0IyNjVjMUV0bWZoNm14aTRYTmZzSzhTbUZObVVWRXpPQmdJSU1Vd2NsclVEaFdvUmtJeTJfWm0yWWdVR3ZSYnhuakRybUZMU192WVEzZkppemFGN1lRdXpjcUlB?oc=5\" target=\"_blank\">Amazon halts high-speed e-bike sales in California following fatal crashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "published": "2026-05-10T23:21:26+00:00",
-      "source": "Los Angeles Times"
+      "title": "Amazon staff use AI tool for unnecessary tasks to inflate usage scores - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWNCaHJUTlpVeXM5N09ob3pDNkszaGRoaERoUDhwZkF4SGV3NnJoLVNLNVYxWXNlN0RkdGpUQlF5anEyWTlKZ2ZRRWFweUpUXzVCRWZFNjZUOEEtb0g4a3VVTU1vOU9JT05DMUJjdE9hQ1pGQW5hX3RzTzd0dUtzcWJLN0s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWNCaHJUTlpVeXM5N09ob3pDNkszaGRoaERoUDhwZkF4SGV3NnJoLVNLNVYxWXNlN0RkdGpUQlF5anEyWTlKZ2ZRRWFweUpUXzVCRWZFNjZUOEEtb0g4a3VVTU1vOU9JT05DMUJjdE9hQ1pGQW5hX3RzTzd0dUtzcWJLN0s?oc=5\" target=\"_blank\">Amazon staff use AI tool for unnecessary tasks to inflate usage scores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-05-12T04:00:48+00:00",
+      "source": "Financial Times"
     },
     {
-      "title": "Amazon says it won't sell e-bikes in California that exceed state speed limits amid rise in deadly crashes - ABC30 Fresno",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGVSOGpaNEkxUHlKdVR5a280a0NYei1xTTAyazhQNW1meEZXaWlDSG4zRjRndVlMdVU4ZFZvSXNpbU5CcmNXY0oxMDNjODVSWVlwMmQ3VTVQdC1Hb2xrRktvLXlrUFR4a2YwcU04VzdKOFU0OWs4TFRXWHN3U2R4ZWpUWjZQOVUtR2owN0xpT1R4OG1WaTh4QTN0Mkl3RTJWRURBLUp0T0lBeUJ3X3JXYzhncUV0cmFl0gG-AUFVX3lxTE1KQjJTc1lwY093SGFWX0Z0NXM0T0JuX2tud0NoQWVyVFVabGYxWTR4ZWV0OGl0SHZ5RGVFalcya2FzMG1kZ3dKS09Na1VHeHc0TTBwLWlXUFlaMlpZQURfaGZEaDd6NzVBN2lncDBEUW4yNkp6aWthVVBPWFAwMGozaVlOUjlIRHBNS3V1c3R4Tkt6cDB6a0FlVnpvQ2dkd0stMEZjbHBXMjZVRV93R1doTmM1WE1SbkluMGxLOUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGVSOGpaNEkxUHlKdVR5a280a0NYei1xTTAyazhQNW1meEZXaWlDSG4zRjRndVlMdVU4ZFZvSXNpbU5CcmNXY0oxMDNjODVSWVlwMmQ3VTVQdC1Hb2xrRktvLXlrUFR4a2YwcU04VzdKOFU0OWs4TFRXWHN3U2R4ZWpUWjZQOVUtR2owN0xpT1R4OG1WaTh4QTN0Mkl3RTJWRURBLUp0T0lBeUJ3X3JXYzhncUV0cmFl0gG-AUFVX3lxTE1KQjJTc1lwY093SGFWX0Z0NXM0T0JuX2tud0NoQWVyVFVabGYxWTR4ZWV0OGl0SHZ5RGVFalcya2FzMG1kZ3dKS09Na1VHeHc0TTBwLWlXUFlaMlpZQURfaGZEaDd6NzVBN2lncDBEUW4yNkp6aWthVVBPWFAwMGozaVlOUjlIRHBNS3V1c3R4Tkt6cDB6a0FlVnpvQ2dkd0stMEZjbHBXMjZVRV93R1doTmM1WE1SbkluMGxLOUE?oc=5\" target=\"_blank\">Amazon says it won't sell e-bikes in California that exceed state speed limits amid rise in deadly crashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC30 Fresno</font>",
-      "published": "2026-05-11T05:03:50+00:00",
-      "source": "ABC30 Fresno"
-    },
-    {
-      "title": "Amazon to stop selling some high-speed e-bikes in California - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTl2YnlYRTl0ODdlX0FBM0hOVUs1OFhPVDFoWkxqOWNSYUVUWW45YXBFbmtJRGpZWlRXYkZMWDk0UlBBblVPTDY0NGNVUGo4V2kxajkxV20yektRMWs4V2hOWllOaU1XQ0JnOU5vbm5HZnJ6WktUODdvUHFVYmJ5WmxTSFRrTkVkdGdWa1FfTTNRUUFEY0hUS1dB0gGfAUFVX3lxTE9Sb2pFRGdvNmdqek9vV29HcDhPS1dxa1lqVTRaOTFWS2Z1cU1WeXVmdzgzS0hwTUVuR3RkZDB5X19YbXlsNmxjZnZaTVM0aVg2eDY5bzFaRVhldWJtTzNfRWkwcURsRktBQnBCZGhfcXo1d2JqRi1FUXhTWVR6S1ZPRExJZVN4eHlUR29tMzBQY3hPNkYtWnpBeERRcmhGOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTl2YnlYRTl0ODdlX0FBM0hOVUs1OFhPVDFoWkxqOWNSYUVUWW45YXBFbmtJRGpZWlRXYkZMWDk0UlBBblVPTDY0NGNVUGo4V2kxajkxV20yektRMWs4V2hOWllOaU1XQ0JnOU5vbm5HZnJ6WktUODdvUHFVYmJ5WmxTSFRrTkVkdGdWa1FfTTNRUUFEY0hUS1dB0gGfAUFVX3lxTE9Sb2pFRGdvNmdqek9vV29HcDhPS1dxa1lqVTRaOTFWS2Z1cU1WeXVmdzgzS0hwTUVuR3RkZDB5X19YbXlsNmxjZnZaTVM0aVg2eDY5bzFaRVhldWJtTzNfRWkwcURsRktBQnBCZGhfcXo1d2JqRi1FUXhTWVR6S1ZPRExJZVN4eHlUR29tMzBQY3hPNkYtWnpBeERRcmhGOA?oc=5\" target=\"_blank\">Amazon to stop selling some high-speed e-bikes in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
-      "published": "2026-05-10T18:10:14+00:00",
-      "source": "KTLA"
-    },
-    {
-      "title": "‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjRJRHc3Z0d4eTZTNGNGQnhCMzFVMUMtU09tUGxtMmdhZWtORHN2bkhkTDFmREFlSHBLdjA5MGsya1pjUVVJdlUzQnpkME1qdVR4Ymp2bGxjazlfdjhUaFFwZU90Q3VsWE51N2ZSZzFaNVpTbEF6U0tTLXVKVUVvNmhRNFBEWVpObEhhY0x2dVF3X3VFcVY0VTdJYVcwSjRtZXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjRJRHc3Z0d4eTZTNGNGQnhCMzFVMUMtU09tUGxtMmdhZWtORHN2bkhkTDFmREFlSHBLdjA5MGsya1pjUVVJdlUzQnpkME1qdVR4Ymp2bGxjazlfdjhUaFFwZU90Q3VsWE51N2ZSZzFaNVpTbEF6U0tTLXVKVUVvNmhRNFBEWVpObEhhY0x2dVF3X3VFcVY0VTdJYVcwSjRtZXc?oc=5\" target=\"_blank\">‘Amazon of America’: film paints vision of a post-coup Brazil giving up rainforest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-05-10T12:01:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "This Wireless Bra with ‘Reliable Support’ Is So Comfy, Shoppers Forget They're Wearing It — Grab One for $19 Now - People.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yVV9lblNUeEQwMzdUOE8xUmVpVlJfdUMwTmQ2YWlKZU5SSlEzTC1NenFldWtxb0Q5N1VEUG9sc1FBOTJFMm4xRFNnZGkyOGdxTHpWdHpuOC1tUXN5MElJOE42b1dQRmZ4aVMzanVCSDZhOG44eVVNUg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4yVV9lblNUeEQwMzdUOE8xUmVpVlJfdUMwTmQ2YWlKZU5SSlEzTC1NenFldWtxb0Q5N1VEUG9sc1FBOTJFMm4xRFNnZGkyOGdxTHpWdHpuOC1tUXN5MElJOE42b1dQRmZ4aVMzanVCSDZhOG44eVVNUg?oc=5\" target=\"_blank\">This Wireless Bra with ‘Reliable Support’ Is So Comfy, Shoppers Forget They're Wearing It — Grab One for $19 Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2026-05-11T13:15:00+00:00",
-      "source": "People.com"
-    },
-    {
-      "title": "When is Amazon's Memorial Day sale? Here's what's worth buying now - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEtQbjR4enZkMXIzY0xhLS1PRTJyY1FjQWExcF9vSXBfVEFOSm5fUGdvc3FjQ0RyaHJ4dWtoT2ZaTld1STd0bkpvTnlmMV9sTXo4Y3llWVczbEt0anRkZkhBRDA2T1ZhVVpVNk9udU9xbS1RZ1p3OXNOMVhJMnlPbGdwUWNNdUtybm5nWkw2LU5uakVZVkZLMEhfSGhLZmtpaVhob0NjZlh0Nm44MjZMaWUtZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEtQbjR4enZkMXIzY0xhLS1PRTJyY1FjQWExcF9vSXBfVEFOSm5fUGdvc3FjQ0RyaHJ4dWtoT2ZaTld1STd0bkpvTnlmMV9sTXo4Y3llWVczbEt0anRkZkhBRDA2T1ZhVVpVNk9udU9xbS1RZ1p3OXNOMVhJMnlPbGdwUWNNdUtybm5nWkw2LU5uakVZVkZLMEhfSGhLZmtpaVhob0NjZlh0Nm44MjZMaWUtZw?oc=5\" target=\"_blank\">When is Amazon's Memorial Day sale? Here's what's worth buying now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2026-05-11T12:27:13+00:00",
-      "source": "USA Today"
-    },
-    {
-      "title": "Amazon Squares Off Against Advertisers’ Biggest Challenge: Streaming Commercials That Run Over and Over - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWUyUVptTVVsRGJHQ3dqTFgyQ3lJeXZCcWhSRmc4ZXh3c1NDNUFxMXpYOGNOYmY1RDluczE2N1NLMzljeVFqV0FoMkpMVHBqMVdqZXNjc1NIQjNZUHlHbjJTT0ViVFJndjl0czVrYWM2d25qbS0zemJ4MEl4MEFJdUVUTW42RmdHai1wRS1Galo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWUyUVptTVVsRGJHQ3dqTFgyQ3lJeXZCcWhSRmc4ZXh3c1NDNUFxMXpYOGNOYmY1RDluczE2N1NLMzljeVFqV0FoMkpMVHBqMVdqZXNjc1NIQjNZUHlHbjJTT0ViVFJndjl0czVrYWM2d25qbS0zemJ4MEl4MEFJdUVUTW42RmdHai1wRS1Galo?oc=5\" target=\"_blank\">Amazon Squares Off Against Advertisers’ Biggest Challenge: Streaming Commercials That Run Over and Over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Australia</font>",
-      "published": "2026-05-11T13:00:00+00:00",
-      "source": "Yahoo Finance Australia"
-    },
-    {
-      "title": "Amazon Pet Days 2026: 65 top deals on pet food, toys, grooming, and health supplies to shop now - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uQmZmLWdySDZwejgtLW1XMnRJS1ZhRXBzMWR2SWxpMTJFOENiRWswNU1tOUh0RW94OGNuNHlMd29LOHltTE9YQjRmQzVKaUdVTmdkTlgwSUgzSi1udmgwZXp6cjRDb1dMUWl3bjlCS3pYZVVV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5uQmZmLWdySDZwejgtLW1XMnRJS1ZhRXBzMWR2SWxpMTJFOENiRWswNU1tOUh0RW94OGNuNHlMd29LOHltTE9YQjRmQzVKaUdVTmdkTlgwSUgzSi1udmgwZXp6cjRDb1dMUWl3bjlCS3pYZVVV?oc=5\" target=\"_blank\">Amazon Pet Days 2026: 65 top deals on pet food, toys, grooming, and health supplies to shop now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-05-11T09:01:56+00:00",
+      "title": "'Fourth Wing' TV series: What to know about the Prime Video show - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFl4LVdBczdyTThQUUVmYzBFU3hiREZKZmRtSTB3TlA1bXI1RVZXX09KckF3ZVUyeFJMbXZWNDF4UWxmbzZhb01XN1ZPTUJWNXFVaFY1ZnVnbjVUdVh6dEo3clhzbTFlajA4ZExpVHhtU1B0WENaOEU5cGhVbElUcVhfdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWFl4LVdBczdyTThQUUVmYzBFU3hiREZKZmRtSTB3TlA1bXI1RVZXX09KckF3ZVUyeFJMbXZWNDF4UWxmbzZhb01XN1ZPTUJWNXFVaFY1ZnVnbjVUdVh6dEo3clhzbTFlajA4ZExpVHhtU1B0WENaOEU5cGhVbElUcVhfdw?oc=5\" target=\"_blank\">'Fourth Wing' TV series: What to know about the Prime Video show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-05-12T03:27:52+00:00",
       "source": "About Amazon"
+    },
+    {
+      "title": "‘Fourth Wing’ TV Series Ordered at Amazon - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWC1CUEpVQXZjYXlJWEJGRDBhYzBOTW5BeGVpcjhSdmp4dGVXUW9URUJOMTJHYzlseS1jWFNVTU9YdFBWbVpxSTVvalNNZVJiNEtCblVqUWw1SkFrNDRLcTBZZXJ4bk5vR0J0aWZFYTJ6SmZLbkR2UWw2eWFCRHB5NlMtMk1Qd1JX?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWC1CUEpVQXZjYXlJWEJGRDBhYzBOTW5BeGVpcjhSdmp4dGVXUW9URUJOMTJHYzlseS1jWFNVTU9YdFBWbVpxSTVvalNNZVJiNEtCblVqUWw1SkFrNDRLcTBZZXJ4bk5vR0J0aWZFYTJ6SmZLbkR2UWw2eWFCRHB5NlMtMk1Qd1JX?oc=5\" target=\"_blank\">‘Fourth Wing’ TV Series Ordered at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>",
+      "published": "2026-05-11T23:56:00+00:00",
+      "source": "Variety"
+    },
+    {
+      "title": "The world's hottest romantasy series is coming to Prime Video with a new show - Polygon.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIbUc0c3YyQV9TWEJaN0FTSnZNTXRfTTdZaUV2c3ZXNkNKNGVxRzJLUm5Ec2JIXzR5OTd1OV9vYjE3OXZidlJVdmpSOWZ0Z3ZkXzZkWTVtZ2h5cERCOS1IYzR3SkJIUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIbUc0c3YyQV9TWEJaN0FTSnZNTXRfTTdZaUV2c3ZXNkNKNGVxRzJLUm5Ec2JIXzR5OTd1OV9vYjE3OXZidlJVdmpSOWZ0Z3ZkXzZkWTVtZ2h5cERCOS1IYzR3SkJIUQ?oc=5\" target=\"_blank\">The world's hottest romantasy series is coming to Prime Video with a new show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Polygon.com</font>",
+      "published": "2026-05-12T12:04:32+00:00",
+      "source": "Polygon.com"
+    },
+    {
+      "title": "Amazon launches 30-minute delivery across the U.S. - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFo5NmtfWDI1ZDN5VkVvNUU2cThrblo1ZndMaTRjNkphX3BfZTBLMV9NdGs4ZzNKWWpHajVKTEhuVjFFeXBWblVBMGM5T2ZCa0c5THl5RGlwY1lkZDcxSXU3d2QyM1MzNVhLWkVTVHFMYWVJa3Zfak16U05BTGFwam9TMnRkVVJiZzZR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFo5NmtfWDI1ZDN5VkVvNUU2cThrblo1ZndMaTRjNkphX3BfZTBLMV9NdGs4ZzNKWWpHajVKTEhuVjFFeXBWblVBMGM5T2ZCa0c5THl5RGlwY1lkZDcxSXU3d2QyM1MzNVhLWkVTVHFMYWVJa3Zfak16U05BTGFwam9TMnRkVVJiZzZR?oc=5\" target=\"_blank\">Amazon launches 30-minute delivery across the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-05-12T10:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon looks to redefine a need for speed with 30-minute deliveries - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcG1hekRlRm5jNTk4Wl9YMEJ1MjRNLU1qdk1UUGpQWXEtcTM3UHI2NTZPVW5GT3Q5YVBZdWJpSS1LVWFMNndCSU5mMEhKX2pyNDEzamxtbEtnRkVPOGszamNjcy16WldseGU0cEtNdklFZ1R1UVdabG5Pd2htNWV0alE2eUFkZjAyNEF4X2U0RVEybU5TQWfSAZsBQVVfeXFMTU9TVGZ3WkVWaHJ1R1E5a1YzLUtqZUhuVWVSTWIteXc0TlNVUnNqdXVJVnhDaDZMNHE3blBjWXdrWWRGUVhXRW5fTVNFMDY1bXUteDZseV9LZzZIMW1QYkFwSml3SnV1RS1uajQzYWdhS3pEamx3YUxKMDVtRDZnSy1VZ3JvV3V4RllCTVo5UksxWGNvbXZmTl95Sm8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcG1hekRlRm5jNTk4Wl9YMEJ1MjRNLU1qdk1UUGpQWXEtcTM3UHI2NTZPVW5GT3Q5YVBZdWJpSS1LVWFMNndCSU5mMEhKX2pyNDEzamxtbEtnRkVPOGszamNjcy16WldseGU0cEtNdklFZ1R1UVdabG5Pd2htNWV0alE2eUFkZjAyNEF4X2U0RVEybU5TQWfSAZsBQVVfeXFMTU9TVGZ3WkVWaHJ1R1E5a1YzLUtqZUhuVWVSTWIteXc0TlNVUnNqdXVJVnhDaDZMNHE3blBjWXdrWWRGUVhXRW5fTVNFMDY1bXUteDZseV9LZzZIMW1QYkFwSml3SnV1RS1uajQzYWdhS3pEamx3YUxKMDVtRDZnSy1VZ3JvV3V4RllCTVo5UksxWGNvbXZmTl95Sm8?oc=5\" target=\"_blank\">Amazon looks to redefine a need for speed with 30-minute deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+      "published": "2026-05-12T10:35:48+00:00",
+      "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1lTcnR3djhWa2Jma0FnVFd4d0hpUzJxYlk0MVVKLWhVYjNwTTZJd2YtTnQ1bWlwMmQ2UVM2N1hKTWZCOTlVTjdoNXdhcUt3M3NiODkzMkFXN0R4VHlSejY1aXVac2MtQ2dGSjlWcjVSYU5wVU1UNjc3cU1GbjBhb192MmliQzB6emR5OE51RDJ2dDZoVkQ3TVRUME10RVMzMXVxVzdsRjJqZXJt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1lTcnR3djhWa2Jma0FnVFd4d0hpUzJxYlk0MVVKLWhVYjNwTTZJd2YtTnQ1bWlwMmQ2UVM2N1hKTWZCOTlVTjdoNXdhcUt3M3NiODkzMkFXN0R4VHlSejY1aXVac2MtQ2dGSjlWcjVSYU5wVU1UNjc3cU1GbjBhb192MmliQzB6emR5OE51RDJ2dDZoVkQ3TVRUME10RVMzMXVxVzdsRjJqZXJt?oc=5\" target=\"_blank\">Amazon’s ultrafast 30-minute deliveries are now available in more cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-05-12T13:34:12+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Ultimate Summer Pants, a Firming Body Cream and More Viral Finds Shoppers Are Raving About - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qOGRKM05rMjRSQTZMcXRLNldwa25mczJfeVRBYmZJWkdCUndTbGxZQVVHVlVTeDVEaXNLUVEwWDZkNnl4cF9lTmpPM1VYeEk0Y0JsdkNRbTc3WFZxRWh2OGRQb2tTdkllcVN0ckNhQlpMVXdCdzFzd0ltWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5qOGRKM05rMjRSQTZMcXRLNldwa25mczJfeVRBYmZJWkdCUndTbGxZQVVHVlVTeDVEaXNLUVEwWDZkNnl4cF9lTmpPM1VYeEk0Y0JsdkNRbTc3WFZxRWh2OGRQb2tTdkllcVN0ckNhQlpMVXdCdzFzd0ltWQ?oc=5\" target=\"_blank\">The Ultimate Summer Pants, a Firming Body Cream and More Viral Finds Shoppers Are Raving About</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TODAY.com</font>",
+      "published": "2026-05-12T13:02:06+00:00",
+      "source": "TODAY.com"
     }
   ],
   "product_launches": [
     {
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5\" target=\"_blank\">Amazon launches an AI-powered audio Q&amp;A experience on product pages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-04-28T07:00:00+00:00",
+      "title": "Amazon launches 30-minute delivery across the U.S. - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFo5NmtfWDI1ZDN5VkVvNUU2cThrblo1ZndMaTRjNkphX3BfZTBLMV9NdGs4ZzNKWWpHajVKTEhuVjFFeXBWblVBMGM5T2ZCa0c5THl5RGlwY1lkZDcxSXU3d2QyM1MzNVhLWkVTVHFMYWVJa3Zfak16U05BTGFwam9TMnRkVVJiZzZR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFo5NmtfWDI1ZDN5VkVvNUU2cThrblo1ZndMaTRjNkphX3BfZTBLMV9NdGs4ZzNKWWpHajVKTEhuVjFFeXBWblVBMGM5T2ZCa0c5THl5RGlwY1lkZDcxSXU3d2QyM1MzNVhLWkVTVHFMYWVJa3Zfak16U05BTGFwam9TMnRkVVJiZzZR?oc=5\" target=\"_blank\">Amazon launches 30-minute delivery across the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-05-12T10:00:00+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-05-04T10:01:19+00:00",
-      "source": "About Amazon"
+      "title": "Why Amazon chose to launch Prime Air drone delivery in Richmond - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUltNWdyNFpWYTIwUEdWQkdzZGd3Vm9CR3E5eXR5OENKb2tESXE3dGpRdVE3VFBmQS1nWGJLUnRCVUJPV1BTYU9kRXB2cndtNU00ajBxMGlEdDZiWjY2TW9iMnBET1o1TkRMUUZ2U2xOeUl6Y0ZIY245RU9MWXJueENvVFB3cVJsYlZ3V2dNSGtNTEp4bXYtSDZ4LTJvZjNOMFIta1Q1dlZyQjg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUltNWdyNFpWYTIwUEdWQkdzZGd3Vm9CR3E5eXR5OENKb2tESXE3dGpRdVE3VFBmQS1nWGJLUnRCVUJPV1BTYU9kRXB2cndtNU00ajBxMGlEdDZiWjY2TW9iMnBET1o1TkRMUUZ2U2xOeUl6Y0ZIY245RU9MWXJueENvVFB3cVJsYlZ3V2dNSGtNTEp4bXYtSDZ4LTJvZjNOMFIta1Q1dlZyQjg?oc=5\" target=\"_blank\">Why Amazon chose to launch Prime Air drone delivery in Richmond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "published": "2026-05-12T09:00:00+00:00",
+      "source": "The Business Journals"
     },
     {
-      "title": "Amorepacific’s Mamonde Launches on Amazon - wwd.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkhPTlc4NHVNMzIxUnRvaW96d3JwSGJIeVNVaHhYVGZPQjZvTzF3bXZReWh0QV96dV9aUE1WTDNEbGJCN0JWZFRkclpXd2pTQWl6NUJiYmZmb1NHQUhGWDdpVGVwdVBCbDhNcUFLT1lKRDR3emt2LUx3YXQwVW5WN0taeXdteDlfUy16RHlLYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkhPTlc4NHVNMzIxUnRvaW96d3JwSGJIeVNVaHhYVGZPQjZvTzF3bXZReWh0QV96dV9aUE1WTDNEbGJCN0JWZFRkclpXd2pTQWl6NUJiYmZmb1NHQUhGWDdpVGVwdVBCbDhNcUFLT1lKRDR3emt2LUx3YXQwVW5WN0taeXdteDlfUy16RHlLYw?oc=5\" target=\"_blank\">Amorepacific’s Mamonde Launches on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wwd.com</font>",
-      "published": "2026-05-07T04:02:56+00:00",
-      "source": "wwd.com"
+      "title": "Amazon Launches 30-Minute Grocery Delivery - Progressive Grocer",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12VHlnODhuVDczSE5Ia24zQWNMb0xJS1N1dW1PYndGWWprSTc1TG9kZGktaHBSY1pKd3hkSWdHeUdvTXpwbV9Ca3BPc2pyTVRYUGtqbjhPWnZxTG1qNVhndUExTnhnQ3RzQXdramFIamh1N2tqQ3BtdEplNjY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE12VHlnODhuVDczSE5Ia24zQWNMb0xJS1N1dW1PYndGWWprSTc1TG9kZGktaHBSY1pKd3hkSWdHeUdvTXpwbV9Ca3BPc2pyTVRYUGtqbjhPWnZxTG1qNVhndUExTnhnQ3RzQXdramFIamh1N2tqQ3BtdEplNjY?oc=5\" target=\"_blank\">Amazon Launches 30-Minute Grocery Delivery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Progressive Grocer</font>",
+      "published": "2026-05-12T11:38:00+00:00",
+      "source": "Progressive Grocer"
     },
     {
-      "title": "Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products - bbwinc.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5\" target=\"_blank\">Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbwinc.com</font>",
-      "published": "2026-02-20T08:00:00+00:00",
-      "source": "bbwinc.com"
+      "title": "Amorepacific launches MAMONDE exclusively on Amazon Premium Beauty in the US - Global Cosmetics News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXdFcmxLLTRvNjZmN2hPQmgwSUg0dUE2UWRoZm9SbXZpeEphTkVZcGx2S1NsckhVWGtra3ctOW5mSjlxbWFRY1VyWkJfMTlISUVCRmp6U2doUFBLZzduaWxWR3BoTHNJemxha3Q2dG9qMERFNnRRN0RyTk1xb1RHWndnSXAyTXpmbUVudGZ2ZHF3OEhBSFNuSTZZQ2JLdm45anZvdGxOTjFIRWtqSWZMUGd5Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXdFcmxLLTRvNjZmN2hPQmgwSUg0dUE2UWRoZm9SbXZpeEphTkVZcGx2S1NsckhVWGtra3ctOW5mSjlxbWFRY1VyWkJfMTlISUVCRmp6U2doUFBLZzduaWxWR3BoTHNJemxha3Q2dG9qMERFNnRRN0RyTk1xb1RHWndnSXAyTXpmbUVudGZ2ZHF3OEhBSFNuSTZZQ2JLdm45anZvdGxOTjFIRWtqSWZMUGd5Zw?oc=5\" target=\"_blank\">Amorepacific launches MAMONDE exclusively on Amazon Premium Beauty in the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Cosmetics News</font>",
+      "published": "2026-05-12T05:01:21+00:00",
+      "source": "Global Cosmetics News"
     },
     {
-      "title": "Oral Ozempic and Wegovy pills now available for same-day delivery on Amazon - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTM4X1hYeURXTE54czduMzdja0szUjZ4aTk3cF9pM2w0YmFWR0s3bzhzOURGZmFKUlN4MHdxV1VHTTJ2WGE2ZHBGZ3RoNkhJTnpFc3BLYmxJR3R0c2Z3a09EdWVJRFVmU0pYSHZVa0poNnV2S3pTSnFRNWtKX0dQWDZVTGZpMktvMG0xR3FoNk50QTNqZmNudjhvOUozSmFUdmFWS05ZcjRPRi1OTDFqNE1OdlZNV0xOd0RLeXB5ZTJqUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTM4X1hYeURXTE54czduMzdja0szUjZ4aTk3cF9pM2w0YmFWR0s3bzhzOURGZmFKUlN4MHdxV1VHTTJ2WGE2ZHBGZ3RoNkhJTnpFc3BLYmxJR3R0c2Z3a09EdWVJRFVmU0pYSHZVa0poNnV2S3pTSnFRNWtKX0dQWDZVTGZpMktvMG0xR3FoNk50QTNqZmNudjhvOUozSmFUdmFWS05ZcjRPRi1OTDFqNE1OdlZNV0xOd0RLeXB5ZTJqUQ?oc=5\" target=\"_blank\">Oral Ozempic and Wegovy pills now available for same-day delivery on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-      "published": "2026-05-09T07:51:00+00:00",
-      "source": "New York Post"
+      "title": "Yuyu's US unit Mervyn's Petcare launches feline oral care supplement on Amazon - koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53OVpIdWJfMWdVR05xT3JGWmUyWVBSLWZ4a045a3E1OWpZNG5mcVBkUndYX2JNazZiRmtVM1dHZDVFYlhmUHFhZVVqTkJPa2FoczVzMEhjM1JPd2xlc0VScHFhbjhRQ1MzaHNQcjh30gFyQVVfeXFMUHlySjdqVWJKRWo3ZVdEQzIycjFNalh1d1JRTkJDaUVHVE9nY0YzcGJ5MVByQktEQjBNMF80SmVId2pGbV9OM0hWemVPdkt2VmVkNFdzdHNjcjRHSjF6blQ0ekNkam5QdnFNV180VHN5b2xB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE53OVpIdWJfMWdVR05xT3JGWmUyWVBSLWZ4a045a3E1OWpZNG5mcVBkUndYX2JNazZiRmtVM1dHZDVFYlhmUHFhZVVqTkJPa2FoczVzMEhjM1JPd2xlc0VScHFhbjhRQ1MzaHNQcjh30gFyQVVfeXFMUHlySjdqVWJKRWo3ZVdEQzIycjFNalh1d1JRTkJDaUVHVE9nY0YzcGJ5MVByQktEQjBNMF80SmVId2pGbV9OM0hWemVPdkt2VmVkNFdzdHNjcjRHSjF6blQ0ekNkam5QdnFNV180VHN5b2xB?oc=5\" target=\"_blank\">Yuyu's US unit Mervyn's Petcare launches feline oral care supplement on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreabiomed.com</font>",
+      "published": "2026-05-12T02:43:34+00:00",
+      "source": "koreabiomed.com"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-11",
-      "close": 272.1199951171875
+      "date": "2026-05-12",
+      "close": 265.80499267578125
     },
     "history": [
-      {
-        "date": "2026-05-01",
-        "close": 268.260009765625
-      },
       {
         "date": "2026-05-04",
         "close": 272.04998779296875
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-05-11",
-        "close": 272.1199951171875
+        "close": 268.989990234375
+      },
+      {
+        "date": "2026-05-12",
+        "close": 265.80499267578125
       }
     ],
     "name": "Amazon.com, Inc."

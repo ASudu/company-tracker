@@ -2,78 +2,110 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-05-11T14:26:56.895274+00:00",
+  "fetched_at": "2026-05-12T13:53:56.016899+00:00",
   "news": [
     {
-      "title": "‘One Time Restart’—Microsoft Changes Windows After 15 Years - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkpCOTI4OVJua3lNREpma2diajIxMWx0a1pBVVVaZlNCNzhfLVlhUnI2eUxhRXJwSmpxbFNPR3UwT2tleXh6NzBmZ3NLYXd2TTRXb0FCSTdZZ0doRjZ3ZXdLYjBHOTJrZmJ5M1d6bmVUVG9IMVlsOHU0YmpZcWNNLUdXaE1wYldTMmFkN1pSa0hlMFNsZXdOcEpXU1RHVE1mU21VdEhPOWxXMzB1aHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkpCOTI4OVJua3lNREpma2diajIxMWx0a1pBVVVaZlNCNzhfLVlhUnI2eUxhRXJwSmpxbFNPR3UwT2tleXh6NzBmZ3NLYXd2TTRXb0FCSTdZZ0doRjZ3ZXdLYjBHOTJrZmJ5M1d6bmVUVG9IMVlsOHU0YmpZcWNNLUdXaE1wYldTMmFkN1pSa0hlMFNsZXdOcEpXU1RHVE1mU21VdEhPOWxXMzB1aHc?oc=5\" target=\"_blank\">‘One Time Restart’—Microsoft Changes Windows After 15 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-05-10T15:23:48+00:00",
-      "source": "Forbes"
+      "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPODh4U09iR1VxbVJOUVU3UFN3OGxwWDVSdGI5bUNPb2N2alFTTnNYTlEyczdWUGZzdjdUNEhHWkZBSkZsM09pWXIyaWdtQUNPTEIwd3F6Mm8xWURFeEtwTVp5T1lTald6QjlEUGdRU1R2eFVzcVQ5NkgzcWktV1VWdDJpb0ptZDFLZ1HSAY8BQVVfeXFMT3VHQndoaTNlUlhTaGFrOGVjZUFSalV6RnNiZy1zMXZNdGYxRGhTNFQ1S21wbTdpMl9JSnV1V214aWJISmVKZk1vS2NyRS1reEUzQXRrVWV3REtOOEhLQ2FxQ0tsMTFFSVZBSVVHZGxpRTVSN2kxV1RQbkVLSzNLVkZHZHg3YVV5dG11ZXFrWTQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPODh4U09iR1VxbVJOUVU3UFN3OGxwWDVSdGI5bUNPb2N2alFTTnNYTlEyczdWUGZzdjdUNEhHWkZBSkZsM09pWXIyaWdtQUNPTEIwd3F6Mm8xWURFeEtwTVp5T1lTald6QjlEUGdRU1R2eFVzcVQ5NkgzcWktV1VWdDJpb0ptZDFLZ1HSAY8BQVVfeXFMT3VHQndoaTNlUlhTaGFrOGVjZUFSalV6RnNiZy1zMXZNdGYxRGhTNFQ1S21wbTdpMl9JSnV1V214aWJISmVKZk1vS2NyRS1reEUzQXRrVWV3REtOOEhLQ2FxQ0tsMTFFSVZBSVVHZGxpRTVSN2kxV1RQbkVLSzNLVkZHZHg3YVV5dG11ZXFrWTQ?oc=5\" target=\"_blank\">OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVhjRVVwZmxabl9YUE80OGpfVGNUaWMyeUlJN2VSOFFJUWxmd3h3ZkJTWHVKdENIOHlCd0tEOWtVYUQzY0FTUnVjMXd1TEJXYjktQlljTEVocF8xWnMtSnVuaDR6V0R2VV9xeXJqR2RSSjU3QVZkajFnNWhHbHl0S3BXWnp0d0FUWm5yR09UYXl1eEVzdF9oNg?oc=5\" target=\"_blank\">How Much Power Did Microsoft Have Over OpenAI?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFlqTlpRbUc1eENFU1ZkcVVDQUgwdE53RUFoYWhkS3FRSlJvTV81cHdSOWYzNEFKRmF3MHZLS0tSSXRiS2IxclBJcGFEVGtSYVFaY2JJVVp1RmFpNWUyYVB5eHpnNkJIemNoRWVVQ1IyTXFndm9IbzdqSXZkTFcyZmpGT1FRYXJqMV9STHVTbjNaQUJnazQ0Sl9lemM1ajMwa3ktckllNjR0UzBJb1JFd0hwaUFwX3ZTWUdKSGhlMWxpRWotWUhJVFpKcW12dUV1RzNmRXlyMWlYZkIwSGc?oc=5\" target=\"_blank\">Microsoft CEO says he was never given 'clarity' on why Altman was fired from OpenAI during Musk trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-05-11T16:19:37+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Microsoft denies Windows 11 CPU boost trick is a lazy fix, says Apple does this and you love it - Windows Latest",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWE54ZFNaZDlmZE05N3Zpcm1rckQ1aEVaMUl1bWVBVllITXdMaGVtQlZROS1PWXFtSncyekRZc3NBanlDclJFU0Q5ZXE3UWRhdDlQMWZfUnFTR29MV0NXaHFVb0x0aGVHTzBBRVNTNThtNlZFOXlYenhVbFF0OUUyNGFITkFHX1Via0MzTVlnVnlGSHVwSmRHUHFIcWJzTDcyaEVibnJTaHo1b24yZzQ1c3NBcVlPZHZWS1NzZmhHRG0tblJYYTE3clpnOVQ4NjhnblE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWE54ZFNaZDlmZE05N3Zpcm1rckQ1aEVaMUl1bWVBVllITXdMaGVtQlZROS1PWXFtSncyekRZc3NBanlDclJFU0Q5ZXE3UWRhdDlQMWZfUnFTR29MV0NXaHFVb0x0aGVHTzBBRVNTNThtNlZFOXlYenhVbFF0OUUyNGFITkFHX1Via0MzTVlnVnlGSHVwSmRHUHFIcWJzTDcyaEVibnJTaHo1b24yZzQ1c3NBcVlPZHZWS1NzZmhHRG0tblJYYTE3clpnOVQ4NjhnblE?oc=5\" target=\"_blank\">Microsoft denies Windows 11 CPU boost trick is a lazy fix, says Apple does this and you love it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
-      "published": "2026-05-10T20:57:17+00:00",
-      "source": "Windows Latest"
+      "title": "OpenAI to Save $97 Billion Through 2030 in Latest Microsoft Deal - The Information",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0VZd2R5UThUbFI0S3RydTM4WU1GR3ZNRzY5NHB0UXNuVXNDUVU2WFpKMnktY2pKdk5VSzQ4ZDRkNVdwSC03eDZ1cUlES0dFUEJkSFpFSVkxalRvcDZiajhrdVVLOFkxX3pGOVdxVUF3ZlBmNUp2TmJhVkVyQnpfLXVYLTlpYXBCRHZUVGhtRGtRYVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0VZd2R5UThUbFI0S3RydTM4WU1GR3ZNRzY5NHB0UXNuVXNDUVU2WFpKMnktY2pKdk5VSzQ4ZDRkNVdwSC03eDZ1cUlES0dFUEJkSFpFSVkxalRvcDZiajhrdVVLOFkxX3pGOVdxVUF3ZlBmNUp2TmJhVkVyQnpfLXVYLTlpYXBCRHZUVGhtRGtRYVk?oc=5\" target=\"_blank\">OpenAI to Save $97 Billion Through 2030 in Latest Microsoft Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-05-12T01:09:00+00:00",
+      "source": "The Information"
     },
     {
-      "title": "'Still absolutely wild that this isn't just built into Windows': I love Microsoft's new monitor add-on, and fully agree that it's baffling why more PowerToys aren't in Windows 11 - TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTWlvZi1SeWdHM2Z4Rms5QWs0ZFpiTW14QTJfdDBpT0NrcE1vUjY5RnlGa1dWUUNrV1ZObk5nSGpIcDVmQWFlNWprclpHOXVMdl9qR0twSGFqLXBmUHhnOEhHVnNDRTBtQlBUSEg0N005ekRpTTlUX0d3a0UwRjlQRUN5NFBaVExDUF9BcUlqOUx6aGRjV0dJdXkxSlJHRjRxb2FRN0pETmVjMHFMOVFxN0VRTUtsREZqZEpKekNiRGFhZjNWbWJGY1c1cVZmNXJlNXN1ZlJvOXE0UVpsdGFCSlBuZGxmVTF5VFVhMzhpemctR0ktSW5zc19wUC15ZjBoNlV0RURiRk9YU2lWTzkyMTRORzBIMXhIWDVWYnZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNTWlvZi1SeWdHM2Z4Rms5QWs0ZFpiTW14QTJfdDBpT0NrcE1vUjY5RnlGa1dWUUNrV1ZObk5nSGpIcDVmQWFlNWprclpHOXVMdl9qR0twSGFqLXBmUHhnOEhHVnNDRTBtQlBUSEg0N005ekRpTTlUX0d3a0UwRjlQRUN5NFBaVExDUF9BcUlqOUx6aGRjV0dJdXkxSlJHRjRxb2FRN0pETmVjMHFMOVFxN0VRTUtsREZqZEpKekNiRGFhZjNWbWJGY1c1cVZmNXJlNXN1ZlJvOXE0UVpsdGFCSlBuZGxmVTF5VFVhMzhpemctR0ktSW5zc19wUC15ZjBoNlV0RURiRk9YU2lWTzkyMTRORzBIMXhIWDVWYnZ3?oc=5\" target=\"_blank\">'Still absolutely wild that this isn't just built into Windows': I love Microsoft's new monitor add-on, and fully agree that it's baffling why more PowerToys aren't in Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font>",
-      "published": "2026-05-10T22:30:00+00:00",
-      "source": "TechRadar"
-    },
-    {
-      "title": "Microsoft’s African Data Center Falters on Payment Demands - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGpwTVZsRXBhLXc4alA0eEFFQ0YwRG5wUWViZG53ekh4SWlyRUR4UXU2Wm1LT2pJdEFjMTJVTTExY3REdGZNLUtsWkZ6ZVdQNmw1REE0RHlkdFVRSnJmOEdhWXZneksxM1cwRGRmalBzcGFjS0VvaVN0TFpJN1IzLTZoQmlBRUxjUHE0UnM3N0NadXFGTC16RXVfR3U2X2NmNFhoNlJTNzJEb1Bvb0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGpwTVZsRXBhLXc4alA0eEFFQ0YwRG5wUWViZG53ekh4SWlyRUR4UXU2Wm1LT2pJdEFjMTJVTTExY3REdGZNLUtsWkZ6ZVdQNmw1REE0RHlkdFVRSnJmOEdhWXZneksxM1cwRGRmalBzcGFjS0VvaVN0TFpJN1IzLTZoQmlBRUxjUHE0UnM3N0NadXFGTC16RXVfR3U2X2NmNFhoNlJTNzJEb1Bvb0E?oc=5\" target=\"_blank\">Microsoft’s African Data Center Falters on Payment Demands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-05-11T12:18:55+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Microsoft's $1 billion Kenya data center is stalling over a government payment dispute - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzNhNG52eUlPaXN4WGc2dEFXY3gzcXVRYXlmLXpJMUtsVU9aTzFPODBtT2VXTlRFb2VZdHlkeE9taTBtVXpWNnd5Yjk4VmNmN1hUWXl1bFI3ekNJYzV0YnI5QktydGFzNEtxOHN6SEs1UkN0eDdycUJtbXZtVFdPOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzNhNG52eUlPaXN4WGc2dEFXY3gzcXVRYXlmLXpJMUtsVU9aTzFPODBtT2VXTlRFb2VZdHlkeE9taTBtVXpWNnd5Yjk4VmNmN1hUWXl1bFI3ekNJYzV0YnI5QktydGFzNEtxOHN6SEs1UkN0eDdycUJtbXZtVFdPOA?oc=5\" target=\"_blank\">Microsoft's $1 billion Kenya data center is stalling over a government payment dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
-      "published": "2026-05-11T12:27:38+00:00",
-      "source": "qz.com"
-    },
-    {
-      "title": "Microsoft’s African data center falters on payment demands, Bloomberg News reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc004TlNOQ3k0SEVzN2Roa2hveTZER3d3b3ZJaFlPVktOdHZLRVJkY25pcDZITFdjQlF1T0l3MTkwLUlDTlJrbWdSTk5OdEk4M3R6REVIZi01RmptSy1JamNVdDJsTkE3S3JEdXRQMkQwRF9ndDhtLXNlS2g1cHBvMjV0akV6T04yY1NabEpTXy1zcVRhMzRrUjFaRWFkNzAzalFMZ1FMbERtLWktMmFEVUJaSEZnbEtZWENkTjJrUXlveUNp?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQc004TlNOQ3k0SEVzN2Roa2hveTZER3d3b3ZJaFlPVktOdHZLRVJkY25pcDZITFdjQlF1T0l3MTkwLUlDTlJrbWdSTk5OdEk4M3R6REVIZi01RmptSy1JamNVdDJsTkE3S3JEdXRQMkQwRF9ndDhtLXNlS2g1cHBvMjV0akV6T04yY1NabEpTXy1zcVRhMzRrUjFaRWFkNzAzalFMZ1FMbERtLWktMmFEVUJaSEZnbEtZWENkTjJrUXlveUNp?oc=5\" target=\"_blank\">Microsoft’s African data center falters on payment demands, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-05-10T13:47:00+00:00",
+      "title": "OpenAI, Microsoft agree to cap revenue sharing at $38 billion, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblVmbDNUMWl1TnJGZ1lvSlBUWkZPOGswWWk2MGxGczB0TVMwZVliUGpicUp5M0dKUTg1cEFBblQtZ3lfc0ZXZDUwTy1KcERsLUxHWTRPYnJ4bElJWG8ta3J2X1ZVTkg1am9jN3ZvNkJncFFzQXhvWV9ScnFsbFA4S3doU0d3Y0pIUE5nNEVtVm91eTQ0MDdCVE1ybTY5WmZEUnBTeVBDRG9GWjZSNC1IRTRYTVY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNblVmbDNUMWl1TnJGZ1lvSlBUWkZPOGswWWk2MGxGczB0TVMwZVliUGpicUp5M0dKUTg1cEFBblQtZ3lfc0ZXZDUwTy1KcERsLUxHWTRPYnJ4bElJWG8ta3J2X1ZVTkg1am9jN3ZvNkJncFFzQXhvWV9ScnFsbFA4S3doU0d3Y0pIUE5nNEVtVm91eTQ0MDdCVE1ybTY5WmZEUnBTeVBDRG9GWjZSNC1IRTRYTVY?oc=5\" target=\"_blank\">OpenAI, Microsoft agree to cap revenue sharing at $38 billion, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-05-12T01:22:00+00:00",
       "source": "Reuters"
     },
     {
-      "title": "What Microsoft Executives Really Thought About OpenAI in 2018 - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXy1JYUgtMm5vcVdXVHdnRG9FMlZGUmdEYm9mT2ZPTzBjZHRuaWc3b1R5cFctU1lyOFZvejdlYk5YNTJfMFZXU3lYNUxkTzVIeG5qRGVwdDlvN3RKNHdWQUhBb3J2VExtTmZaR3lxSXNPYkVneEdsQzRVaXNRLTlkdGlyeURDMUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNXy1JYUgtMm5vcVdXVHdnRG9FMlZGUmdEYm9mT2ZPTzBjZHRuaWc3b1R5cFctU1lyOFZvejdlYk5YNTJfMFZXU3lYNUxkTzVIeG5qRGVwdDlvN3RKNHdWQUhBb3J2VExtTmZaR3lxSXNPYkVneEdsQzRVaXNRLTlkdGlyeURDMUk?oc=5\" target=\"_blank\">What Microsoft Executives Really Thought About OpenAI in 2018</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-05-08T01:42:00+00:00",
-      "source": "WIRED"
+      "title": "Alphabet vs. Microsoft: What Recent Revenue Trends Reveal - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmNYeDlUVkw4djJHZ2JSZHBLWVJmT3RvZ0FjajI2RUVUMDd6bm85V3NtanNwUE5raWZRSTNRZDNpWWY5WENiLTVOdVIxaG5hdkZIMGxiSzVrb0NzckxaMDUyc2s2OHFXQjFwbWpyaDA3SDlzVnhhUXBpaXBkZEx0U2dQcExaUzJKdWhuUkdrMjNoTXhIV05mQllHM0JXcEZtcFNvMzJGSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWmNYeDlUVkw4djJHZ2JSZHBLWVJmT3RvZ0FjajI2RUVUMDd6bm85V3NtanNwUE5raWZRSTNRZDNpWWY5WENiLTVOdVIxaG5hdkZIMGxiSzVrb0NzckxaMDUyc2s2OHFXQjFwbWpyaDA3SDlzVnhhUXBpaXBkZEx0U2dQcExaUzJKdWhuUkdrMjNoTXhIV05mQllHM0JXcEZtcFNvMzJGSQ?oc=5\" target=\"_blank\">Alphabet vs. Microsoft: What Recent Revenue Trends Reveal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-05-12T13:53:29+00:00",
+      "source": "The Motley Fool"
     },
     {
-      "title": "Musk v. Altman live updates: Microsoft CEO to testify as week 3 of trial begins - ABC7 San Francisco",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSF81WEVqVXZiajZJSDhEeVJ1eWZqSmtyWENJYkJGTXJSU21Vd1VhdEFLYVkyMnVneWluVFRRemZxa1pfN0ctekJLZ3psQ2pIMkR6Nlk0Tm9YRkItamwycm9wV3pQdm5jYVdWTG0zYU1vUWt1d3VRX0dVOHJvM0FFYjZZOVUtOFhYMEFzazFOM2xFZWo2em9vbXJGb0JCVlZ2WU4zWW1YMEpJcjFPYzZVel9qQkZrV1FCZXU2cXplcHh4LURFMUVkTW1BOE1fZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSF81WEVqVXZiajZJSDhEeVJ1eWZqSmtyWENJYkJGTXJSU21Vd1VhdEFLYVkyMnVneWluVFRRemZxa1pfN0ctekJLZ3psQ2pIMkR6Nlk0Tm9YRkItamwycm9wV3pQdm5jYVdWTG0zYU1vUWt1d3VRX0dVOHJvM0FFYjZZOVUtOFhYMEFzazFOM2xFZWo2em9vbXJGb0JCVlZ2WU4zWW1YMEpJcjFPYzZVel9qQkZrV1FCZXU2cXplcHh4LURFMUVkTW1BOE1fZw?oc=5\" target=\"_blank\">Musk v. Altman live updates: Microsoft CEO to testify as week 3 of trial begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 San Francisco</font>",
-      "published": "2026-05-11T14:09:00+00:00",
-      "source": "ABC7 San Francisco"
+      "title": "Microsoft's rebound gains steam with traders eyeing a potential bull flag pattern - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjFZWC14WkMtSjBxcGJlUl9YY0VFMUd4TzVBSzhsbkVDYlJVcmpEZjdibi1fZktvRFlEWG1mLVJoSHVqNEl2R2dMYndMc2R1Vi1TMUVwZkRtMDg3VEo3UEpZSWF2QXBhUWVKVWh6TV9hbS1NWl9FdDhqWFdtdnRuYVFabHVCUkJkMUNSNjVFaU9QT0NrX1hVbFFjVW5FTTUwTXNpZVpLMHFQcFdBNHdIbkZXQ0x3dndD?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjFZWC14WkMtSjBxcGJlUl9YY0VFMUd4TzVBSzhsbkVDYlJVcmpEZjdibi1fZktvRFlEWG1mLVJoSHVqNEl2R2dMYndMc2R1Vi1TMUVwZkRtMDg3VEo3UEpZSWF2QXBhUWVKVWh6TV9hbS1NWl9FdDhqWFdtdnRuYVFabHVCUkJkMUNSNjVFaU9QT0NrX1hVbFFjVW5FTTUwTXNpZVpLMHFQcFdBNHdIbkZXQ0x3dndD?oc=5\" target=\"_blank\">Microsoft's rebound gains steam with traders eyeing a potential bull flag pattern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-05-12T12:48:28+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft’s CFO admits she joined the tech giant without even knowing her salary—and then missed her first day of work - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnlReGtpcmpfV0NtcW85ejBWRHNUT25nMk1ISm5iY3gxS05MR3ZrNDhRaHR6c0IyelFfSkRKcmxnbmVWRTBoYU1vbWw2djZjVVplM1dYWXAxSXltZE1wOV92Yk5SNTROcDF0R19JWmxHZ1FGb3htdnFpUmVzUXJ6NUU5ODM3Ui1xWlExZkxidkR3Z1VXTjllVENfMEs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnlReGtpcmpfV0NtcW85ejBWRHNUT25nMk1ISm5iY3gxS05MR3ZrNDhRaHR6c0IyelFfSkRKcmxnbmVWRTBoYU1vbWw2djZjVVplM1dYWXAxSXltZE1wOV92Yk5SNTROcDF0R19JWmxHZ1FGb3htdnFpUmVzUXJ6NUU5ODM3Ui1xWlExZkxidkR3Z1VXTjllVENfMEs?oc=5\" target=\"_blank\">Microsoft’s CFO admits she joined the tech giant without even knowing her salary—and then missed her first day of work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-05-11T15:27:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "‘One Time Restart’—Microsoft Changes Windows After 15 Years - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmFTajBzaFFQaG1HRnJpNU1oZmxQbDY2RHBPVmhtWGN3YkhIMnJDbV9nVHk5czg2a0JlakdwZElBdzlyZW0zRmVRNFYwdzlkSGNWTTI1TEk1OHRHUVRFTnZfRExfVGNvb2kzdU9XMll6TXNTSTdGN3k1UmdqajBJMmRVVzF2dHpMOHBIenRfZUcxX2VndkFwaFVOX084YWxiNzg5Y0d1OFBtaE1ocWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmFTajBzaFFQaG1HRnJpNU1oZmxQbDY2RHBPVmhtWGN3YkhIMnJDbV9nVHk5czg2a0JlakdwZElBdzlyZW0zRmVRNFYwdzlkSGNWTTI1TEk1OHRHUVRFTnZfRExfVGNvb2kzdU9XMll6TXNTSTdGN3k1UmdqajBJMmRVVzF2dHpMOHBIenRfZUcxX2VndkFwaFVOX084YWxiNzg5Y0d1OFBtaE1ocWc?oc=5\" target=\"_blank\">‘One Time Restart’—Microsoft Changes Windows After 15 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-05-12T04:39:00+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Microsoft's Next Windows 11 Update Could Come With a Big Speed Boost - CNET",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ2E3RHFyQURSQWxnbVpzbTVENVlTWno0b1BacEl1UlVqMlhqRnFVX0pEWkd2VDhTbzFfTllQX0ozMEk1SmhmM0VBaklZdmtZRHQ4TEo0X0o5RzR6MXBod0pxS1ItcTZtS21RRGNIUXExZWd1SERaak1mdzZaWW54N0FzZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ2E3RHFyQURSQWxnbVpzbTVENVlTWno0b1BacEl1UlVqMlhqRnFVX0pEWkd2VDhTbzFfTllQX0ozMEk1SmhmM0VBaklZdmtZRHQ4TEo0X0o5RzR6MXBod0pxS1ItcTZtS21RRGNIUXExZWd1SERaak1mdzZaWW54N0FzZw?oc=5\" target=\"_blank\">Microsoft's Next Windows 11 Update Could Come With a Big Speed Boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-05-11T19:27:00+00:00",
+      "source": "CNET"
     }
   ],
-  "product_launches": [],
+  "product_launches": [
+    {
+      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": "Microsoft"
+    },
+    {
+      "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5\" target=\"_blank\">Microsoft Launches Its Own Legal Agent For Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artificial Lawyer</font>",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": "Artificial Lawyer"
+    },
+    {
+      "title": "Microsoft launches “vibe working” in Word, Excel, and PowerPoint - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlNIWVphMnFILU1vM2ZLX090VW5Ec1hJWUZGZHNyS3hfMDJUeEZsYXFlbE0tQ3ltWVNTX0xJTTJ0MjNPSFVObk5MWUtsYk1mZEFDZDRBaWFiYW8wNlZydV9meFJTcHVXSGhrSGFtMTI4MmpxNm9vcXZSU3ZHZDVmLWFWb2EwSFVHNkpEY0dLQmlXZEg1eWtwYVBhWEIySVlG?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlNIWVphMnFILU1vM2ZLX090VW5Ec1hJWUZGZHNyS3hfMDJUeEZsYXFlbE0tQ3ltWVNTX0xJTTJ0MjNPSFVObk5MWUtsYk1mZEFDZDRBaWFiYW8wNlZydV9meFJTcHVXSGhrSGFtMTI4MmpxNm9vcXZSU3ZHZDVmLWFWb2EwSFVHNkpEY0dLQmlXZEg1eWtwYVBhWEIySVlG?oc=5\" target=\"_blank\">Microsoft launches “vibe working” in Word, Excel, and PowerPoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-04-23T07:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - Venturebeat",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5\" target=\"_blank\">Microsoft launches 3 new AI models in direct shot at OpenAI and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+      "published": "2026-04-03T07:00:00+00:00",
+      "source": "Venturebeat"
+    },
+    {
+      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
+      "published": "2026-01-08T08:00:00+00:00",
+      "source": "PayPal Newsroom"
+    }
+  ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-11",
-      "close": 411.20001220703125
+      "date": "2026-05-12",
+      "close": 408.0799865722656
     },
     "history": [
-      {
-        "date": "2026-05-01",
-        "close": 414.44000244140625
-      },
       {
         "date": "2026-05-04",
         "close": 413.6199951171875
@@ -96,7 +128,11 @@
       },
       {
         "date": "2026-05-11",
-        "close": 411.20001220703125
+        "close": 412.6600036621094
+      },
+      {
+        "date": "2026-05-12",
+        "close": 408.0799865722656
       }
     ],
     "name": "Microsoft Corporation"
