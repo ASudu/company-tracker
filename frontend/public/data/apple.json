@@ -2,8 +2,50 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-05-13T14:06:18.917895+00:00",
+  "fetched_at": "2026-05-14T13:30:22.587496+00:00",
   "news": [
+    {
+      "title": "Apple Explores Ways to Welcome AI Agents in the App Store - The Information",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd01Ya3pMWEFzcV84ZFZoWW9QM2VZY1BkcnYyMDRibFAtNl92SnNVRndKYzNrLXFMXy1mWXNWaWlYcTlVX003aWdkVkFxeEJuQzgtbUpGUUlGc2h0ZGRYM3I0Mk5sZEJBY2tUTDFmdGtfcWd2OVA5WlBkbWlkeGJSQWE3T1JYZDJObm10b0hiYXA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOd01Ya3pMWEFzcV84ZFZoWW9QM2VZY1BkcnYyMDRibFAtNl92SnNVRndKYzNrLXFMXy1mWXNWaWlYcTlVX003aWdkVkFxeEJuQzgtbUpGUUlGc2h0ZGRYM3I0Mk5sZEJBY2tUTDFmdGtfcWd2OVA5WlBkbWlkeGJSQWE3T1JYZDJObm10b0hiYXA?oc=5\" target=\"_blank\">Apple Explores Ways to Welcome AI Agents in the App Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-05-13T17:17:00+00:00",
+      "source": "The Information"
+    },
+    {
+      "title": "Apple criticises EU measures to help AI rivals access Google services - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRIMGtQVGx6RTU1MlhoaEkzcXp6OXpIdE5OVl8wbDNJYktDYlZoMnM4Uk44UW8tZ3V5M2xCSmw3RmQwQTJ4cVExWXNaQi1pdGZhamNRNkx4RWVMdGhQanBjbGVMZHktTS1CZURxNm0tNklWRzRRc1BYeG4wc2o4QzdtejdvanlEX3ZTVk9zZ1o2QkNkVDNqRnlaSTFPWTJ6TFZXekxON05pX2Q5MDc1YWx4bFJITXMxbVVaZ0RLTWstbERRUzdMR2Rtdi1DSmJOeGotZlFSTFJ0UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRIMGtQVGx6RTU1MlhoaEkzcXp6OXpIdE5OVl8wbDNJYktDYlZoMnM4Uk44UW8tZ3V5M2xCSmw3RmQwQTJ4cVExWXNaQi1pdGZhamNRNkx4RWVMdGhQanBjbGVMZHktTS1CZURxNm0tNklWRzRRc1BYeG4wc2o4QzdtejdvanlEX3ZTVk9zZ1o2QkNkVDNqRnlaSTFPWTJ6TFZXekxON05pX2Q5MDc1YWx4bFJITXMxbVVaZ0RLTWstbERRUzdMR2Rtdi1DSmJOeGotZlFSTFJ0UQ?oc=5\" target=\"_blank\">Apple criticises EU measures to help AI rivals access Google services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-05-13T16:20:28+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Apple Backs Google After EU Orders Android Be Opened Up To AI Rivals - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQklvLVlFNDF2QV9UdndHeF9qNWw0cHd1VUdrSDRfeng4Qm9GSENtLVhLclJrOEFHWUw3NWg2UXVSeFN1TlMyUWhpT0Q4Y2k0Nm9TQUhRMERYempqWm9uUTI1UHUwMkZwQ1B6aE1FUFRrQVJ4S2lFRUF6N1RuNEZHeG5mbHpZUFk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPQklvLVlFNDF2QV9UdndHeF9qNWw0cHd1VUdrSDRfeng4Qm9GSENtLVhLclJrOEFHWUw3NWg2UXVSeFN1TlMyUWhpT0Q4Y2k0Nm9TQUhRMERYempqWm9uUTI1UHUwMkZwQ1B6aE1FUFRrQVJ4S2lFRUF6N1RuNEZHeG5mbHpZUFk?oc=5\" target=\"_blank\">Apple Backs Google After EU Orders Android Be Opened Up To AI Rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-05-14T07:03:16+00:00",
+      "source": "Engadget"
+    },
+    {
+      "title": "Google races to put Gemini at the center of Android before Apple’s AI reboot - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGZ2Tm5ybERiSlNrMlRKdGNpajIzbG5OYjR6T1M4Tk94WkhkX2R2aUgyZnR6eWoxbkJJcTJEcHJ0OGtNODgxZ2JSX0lZSlJ6V2tPWUJOUlM2ck05T2tHV1lwbm5wM0dxcDdkQ2pqc3htOGVNZURybENoU1FhMEwzbFptbFdndV83LU96ckNsemIxbjBuV1ZxQ05kemtUb3NfSjJxM01idlHSAa4BQVVfeXFMTzdyTDkxYy1VN0lrT2pMX2hQOWR0eHdRbWxiYUliSnY5enlKMmRwQjRSQTgxZl9JWGdBRHlQYU5aQk1uekVESUVvc0I0ZXRVTGI1TERsSXZNZmM1ODZyQnB6VU43NmJwNnc4UHpETTFiZ3FPc2NFVTNoUzdMaE5pRGVrMmVHVE5HVkdXWHJteUVYRFEyY3FGd1BWODJCNTlCTjdyOGpkUzlGVnBBLW5n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGZ2Tm5ybERiSlNrMlRKdGNpajIzbG5OYjR6T1M4Tk94WkhkX2R2aUgyZnR6eWoxbkJJcTJEcHJ0OGtNODgxZ2JSX0lZSlJ6V2tPWUJOUlM2ck05T2tHV1lwbm5wM0dxcDdkQ2pqc3htOGVNZURybENoU1FhMEwzbFptbFdndV83LU96ckNsemIxbjBuV1ZxQ05kemtUb3NfSjJxM01idlHSAa4BQVVfeXFMTzdyTDkxYy1VN0lrT2pMX2hQOWR0eHdRbWxiYUliSnY5enlKMmRwQjRSQTgxZl9JWGdBRHlQYU5aQk1uekVESUVvc0I0ZXRVTGI1TERsSXZNZmM1ODZyQnB6VU43NmJwNnc4UHpETTFiZ3FPc2NFVTNoUzdMaE5pRGVrMmVHVE5HVkdXWHJteUVYRFEyY3FGd1BWODJCNTlCTjdyOGpkUzlGVnBBLW5n?oc=5\" target=\"_blank\">Google races to put Gemini at the center of Android before Apple’s AI reboot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-12T19:22:28+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple momentum to continue, overcoming any memory chip shortage, Evercore ISI says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeV81V2MxNENURUZwclB1RzllVDJGTkplbjhtTWxDTEdNX3pCeUVhTkxpWEZ2ZHNDSXRJcW01R0FEbUE0RFBiT2RleThrcnR6SjdqT0QzYVJWd3FWMjR4WGdHQ25feGlxU1VvbDdsQ192UkZ2d1k0X0RpdXJyWEluVmtNR3VpcVBpdEM1X3BHSmJCcmpYc3RvcGxQUUlkSGp3eWNCdllaLTJ6aWVXaTF5NjhMYi0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeV81V2MxNENURUZwclB1RzllVDJGTkplbjhtTWxDTEdNX3pCeUVhTkxpWEZ2ZHNDSXRJcW01R0FEbUE0RFBiT2RleThrcnR6SjdqT0QzYVJWd3FWMjR4WGdHQ25feGlxU1VvbDdsQ192UkZ2d1k0X0RpdXJyWEluVmtNR3VpcVBpdEM1X3BHSmJCcmpYc3RvcGxQUUlkSGp3eWNCdllaLTJ6aWVXaTF5NjhMYi0?oc=5\" target=\"_blank\">Apple momentum to continue, overcoming any memory chip shortage, Evercore ISI says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-14T13:07:38+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "iOS 26.5—Apple Just Gave iPhone Users 60 Reasons To Update Now - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd01XR3lkV0xBZzBwSjV4ek9SUnlDbmtWS3REc2JRS2t1VldiY00yUXNDU2ZtY1RkWnRZaGZyaEcyZE83YTJhS2NnRGZWZVkxcG1CUDl0TDQ1TmxGOWktZkNFSl9NcV9RcjI4UmxIZTdKcks5VzJoODU3emlFdWNHaWdCbW5EX0Jzbks4RWdxTVF4cHlfY3hFcnFDdTZCc0s4dF9ldGItZXB0Tm1nQ3FZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPd01XR3lkV0xBZzBwSjV4ek9SUnlDbmtWS3REc2JRS2t1VldiY00yUXNDU2ZtY1RkWnRZaGZyaEcyZE83YTJhS2NnRGZWZVkxcG1CUDl0TDQ1TmxGOWktZkNFSl9NcV9RcjI4UmxIZTdKcks5VzJoODU3emlFdWNHaWdCbW5EX0Jzbks4RWdxTVF4cHlfY3hFcnFDdTZCc0s4dF9ldGItZXB0Tm1nQ3FZ?oc=5\" target=\"_blank\">iOS 26.5—Apple Just Gave iPhone Users 60 Reasons To Update Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-05-13T13:24:00+00:00",
+      "source": "Forbes"
+    },
     {
       "title": "Apple Plans Customizable Camera for Pros, Siri Design Changes in iOS 27 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1BKMmw0cXh2YmxrZGpMYmpYY054VWtRTzBRaUVoOHF6VmU3TE1qa0ZIXzJUbHZmM182MERYaExrZXBkUWtQb2R1LW1tT0JXbUd6cGFMTGhxenNqdXZiem9BdzhHRWxNMjEtZWpMeUs5SzFRazE2MVRmRGdCRDg5dVRYbVNkbmZlZ0Y4clpDZkJpZUMyTlBVV01TNnhNVkVRLVVweHhvLUNGcnVxeHBaQ0xXeFk?oc=5",
@@ -12,61 +54,19 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "The iPhone Camera App Is Being Revamped for ‘Professional’ Photographers, Report Says - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0Zhck5VUy1mYVBvbGFIZzM3TmJWREM1MVJ4bm85MGswMzVId2thZVdBeHJhcVNIRXN6QmhxSGVjWEV3anFuODdOZ2JKbi03QUdFR2dXaW5kSlVzRloxeFhtenpJQXpxWVJMNktvY1NsTzRJaHh3UVV4NVN0TXBXZlE4M2tURjVNeW1MejItRTJvNXpoX1BYTW5BR1Y4bmVidEhEWGRpdHZ5TTBha0tTU21LUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0Zhck5VUy1mYVBvbGFIZzM3TmJWREM1MVJ4bm85MGswMzVId2thZVdBeHJhcVNIRXN6QmhxSGVjWEV3anFuODdOZ2JKbi03QUdFR2dXaW5kSlVzRloxeFhtenpJQXpxWVJMNktvY1NsTzRJaHh3UVV4NVN0TXBXZlE4M2tURjVNeW1MejItRTJvNXpoX1BYTW5BR1Y4bmVidEhEWGRpdHZ5TTBha0tTU21LUQ?oc=5\" target=\"_blank\">The iPhone Camera App Is Being Revamped for ‘Professional’ Photographers, Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-05-13T02:25:36+00:00",
+      "title": "Forget iPhone, Motorola Offloads the Moto G Play Smartphone for Less Than the Price of Apple AirPods - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWR5UmNwYWxPSFN5NGJ5OFd6VnFEaGlHQXc2SnRzZDhuUkt3R1hrd3paci1Ra0xOamZMV09UajBFcTBET3pVNkpzUXo4Q3d3SkNibENWaUpWS0R2ekh5RVhhV3JORXhwN2VIVmh5cFpxRzZQZGhpc0tlRWN5Q190TGZhc3doR0pPajFacTBqelZsVnA1bHhKV3ZKRTBWMmZNU3lLVjIxOEE4U1ptMnpXZzBTWEhYeVZSQ1NuYjFlMEpmZGc2LVJDWWp3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWR5UmNwYWxPSFN5NGJ5OFd6VnFEaGlHQXc2SnRzZDhuUkt3R1hrd3paci1Ra0xOamZMV09UajBFcTBET3pVNkpzUXo4Q3d3SkNibENWaUpWS0R2ekh5RVhhV3JORXhwN2VIVmh5cFpxRzZQZGhpc0tlRWN5Q190TGZhc3doR0pPajFacTBqelZsVnA1bHhKV3ZKRTBWMmZNU3lLVjIxOEE4U1ptMnpXZzBTWEhYeVZSQ1NuYjFlMEpmZGc2LVJDWWp3?oc=5\" target=\"_blank\">Forget iPhone, Motorola Offloads the Moto G Play Smartphone for Less Than the Price of Apple AirPods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-05-14T12:25:37+00:00",
       "source": "Gizmodo"
-    },
-    {
-      "title": "This could be the best thing to ever happen to Apple’s Camera app - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVRuMVd4N1Bjc1ZjaHlvZGkxX081S2ZpTXlFdklWckdIZ2pVTXFsMXY4TVBNZ3FKeGMtbmhBbUNVMmVxanJhZUZIaV9kUWNkejFSSkpmNFlHbWpkR0M0LUI0cl9YNE1KNGhpYlgtS2FlTUU0bXdUQVB2ZkxZOVFxTG9iR3JqZkZGV2ZieVlFLThuQ1U4bzJCZVkxS2U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVRuMVd4N1Bjc1ZjaHlvZGkxX081S2ZpTXlFdklWckdIZ2pVTXFsMXY4TVBNZ3FKeGMtbmhBbUNVMmVxanJhZUZIaV9kUWNkejFSSkpmNFlHbWpkR0M0LUI0cl9YNE1KNGhpYlgtS2FlTUU0bXdUQVB2ZkxZOVFxTG9iR3JqZkZGV2ZieVlFLThuQ1U4bzJCZVkxS2U?oc=5\" target=\"_blank\">This could be the best thing to ever happen to Apple’s Camera app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-05-13T12:00:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHZQUVNPQUhwcUNsNWhrMHlVU2VvczRSWVFKLWtkMGpibFNSYk9KYkdRZkZZMVI4QlZmaUgwMVNPVGh6aXFhZEtJVmRJTlVrSWR6UGFlZmlWVzI3c1dWY1EwcE1oU1pLMG5pZXdyUGxEeEpZSUlLQnZUckJfblZfQ29xLTNPTDh3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHZQUVNPQUhwcUNsNWhrMHlVU2VvczRSWVFKLWtkMGpibFNSYk9KYkdRZkZZMVI4QlZmaUgwMVNPVGh6aXFhZEtJVmRJTlVrSWR6UGFlZmlWVzI3c1dWY1EwcE1oU1pLMG5pZXdyUGxEeEpZSUlLQnZUckJfblZfQ29xLTNPTDh3?oc=5\" target=\"_blank\">WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
-      "published": "2026-05-13T01:08:38+00:00",
-      "source": "TechRepublic"
-    },
-    {
-      "title": "Here are Wednesday's biggest analyst calls: Nvidia, Apple, Micron, Amazon, AMD, Johnson & Johnson & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVdGQmFBUlJnVDJvNFFBUk5WYzFvZEV5dThWY2Roa2o5R0J3cDdTTnF5aGhydERrZ2JjNGhWSVYwaGdjRHhtWEU2UnU2V05yM1BCWV9Wc1RWQTQwV2ZBV2JDb3Y1dy1iQmpCdGlteEFTWGFQcnNkRmV1RG9KcFM4Z3ZmeDFzZWE0ZUtqVzlvUTFkX3UxZEh5b09YRDhoT2FSWTR6UVc2WTVEMHBJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVdGQmFBUlJnVDJvNFFBUk5WYzFvZEV5dThWY2Roa2o5R0J3cDdTTnF5aGhydERrZ2JjNGhWSVYwaGdjRHhtWEU2UnU2V05yM1BCWV9Wc1RWQTQwV2ZBV2JDb3Y1dy1iQmpCdGlteEFTWGFQcnNkRmV1RG9KcFM4Z3ZmeDFzZWE0ZUtqVzlvUTFkX3UxZEh5b09YRDhoT2FSWTR6UVc2WTVEMHBJ?oc=5\" target=\"_blank\">Here are Wednesday's biggest analyst calls: Nvidia, Apple, Micron, Amazon, AMD, Johnson & Johnson & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-05-13T12:32:41+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Tim Cook Just Sold Apple Stock Near All Time Highs. Here Is Why One Analyst Says Alphabet Is the Smarter Trade - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCbk84OWRIZnl3MWdEOFhBcmFSZHRweWdfeUxZUXdpdGd1VUQ0dDZhMHJOdG9jM09zTUFLdlZ3cjJTUFlaQ3dLYXhkRUprZzBKcXoyVzdIUEtrenFmWXlUam03Yl9JLW1zME9yQXl1djZIN0VKaGt2VEZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBCbk84OWRIZnl3MWdEOFhBcmFSZHRweWdfeUxZUXdpdGd1VUQ0dDZhMHJOdG9jM09zTUFLdlZ3cjJTUFlaQ3dLYXhkRUprZzBKcXoyVzdIUEtrenFmWXlUam03Yl9JLW1zME9yQXl1djZIN0VKaGt2VEZ3?oc=5\" target=\"_blank\">Tim Cook Just Sold Apple Stock Near All Time Highs. Here Is Why One Analyst Says Alphabet Is the Smarter Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-13T13:23:26+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Alphabet vs. Amazon vs. Apple: Which is the Best Stock to Invest In? - Morningstar Canada",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXh5dWFzUXRfRF81d3lsOExoMUcwX2JtUjNVQV9qSW5FMG9qV3o1Z3F4d0tqdmNJVzlkdDc4cDlIM0ZPUEtSNTVEMEUwMVpKbTE3SUpDNFcxTzExdmJnQlhqYkZmUWxkMm1IQTVIOVd0cjVVTHJXd2ZpaE5sRzQxZ3JleEp6TDVEWnZDQklFZUhKeEZHQVAxakNCZnJrYUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORXh5dWFzUXRfRF81d3lsOExoMUcwX2JtUjNVQV9qSW5FMG9qV3o1Z3F4d0tqdmNJVzlkdDc4cDlIM0ZPUEtSNTVEMEUwMVpKbTE3SUpDNFcxTzExdmJnQlhqYkZmUWxkMm1IQTVIOVd0cjVVTHJXd2ZpaE5sRzQxZ3JleEp6TDVEWnZDQklFZUhKeEZHQVAxakNCZnJrYUk?oc=5\" target=\"_blank\">Alphabet vs. Amazon vs. Apple: Which is the Best Stock to Invest In?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar Canada</font>",
-      "published": "2026-05-13T10:05:28+00:00",
-      "source": "Morningstar Canada"
-    },
-    {
-      "title": "Apple criticises EU measures to help AI rivals access Google services - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0lRNkNNRHp3d0hubzRsZV9kWVhvelpuVU9ad0V1TnpiSmxicnJhTGxUVnF6UjRZc3VlQWtnZXJJb2tZYVhZRThkZ1hMSzAxYmk0YkJhOHpjekxCLUZuQS14Q3A4UExFZDQydlpsS2o1ejN6OVYtbk04clFWbjUxb2k4R25oUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0lRNkNNRHp3d0hubzRsZV9kWVhvelpuVU9ad0V1TnpiSmxicnJhTGxUVnF6UjRZc3VlQWtnZXJJb2tZYVhZRThkZ1hMSzAxYmk0YkJhOHpjekxCLUZuQS14Q3A4UExFZDQydlpsS2o1ejN6OVYtbk04clFWbjUxb2k4R25oUQ?oc=5\" target=\"_blank\">Apple criticises EU measures to help AI rivals access Google services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-13T13:14:52+00:00",
-      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple has ‘six major new product categories’ coming, says Mark Gurman - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2tJV25WR1J5ZGdEQkJlVktMWmRXVnU5OWpXeF9oVUszZjRZYjVqWGhBY1NPeEFxUVRFU252SE52UHk2MXk2RGdVYks2aDVzSnJqd2ZqQ1BOTHZrTHVWRWJneDZKbjk3NmE0NGpZc1M5VEg4M0ZicjFKZU0tSWJTYTFUclNad3JOalM5NkdoNW0yY3hxRkdqd19yalNFR2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2tJV25WR1J5ZGdEQkJlVktMWmRXVnU5OWpXeF9oVUszZjRZYjVqWGhBY1NPeEFxUVRFU252SE52UHk2MXk2RGdVYks2aDVzSnJqd2ZqQ1BOTHZrTHVWRWJneDZKbjk3NmE0NGpZc1M5VEg4M0ZicjFKZU0tSWJTYTFUclNad3JOalM5NkdoNW0yY3hxRkdqd19yalNFR2c?oc=5\" target=\"_blank\">Apple has ‘six major new product categories’ coming, says Mark Gurman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-04-23T07:00:00+00:00",
+      "title": "Apple has 10+ new products rumored to launch first with John Ternus as CEO - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLS1QNDlMWWt0NnBMQzdEaEsxSUNjMERuNzJxSVA3bHhCSHI1b21oV2ZsejhLRmJEa0tPSnlTcFBwOWIzZzlUd182WVIzSlpRVGxsOVc1Qm15RVB3S2RKWXJqUlVlVHpXVWs3QVZ0Sk4wdWN2aFVQdmRvaGhnbzU2bVhTNGw4Mm01YXEtb2FHWm1fTWVHUVk0RUVQY0hxWUJNdWMtcnpDMU8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLS1QNDlMWWt0NnBMQzdEaEsxSUNjMERuNzJxSVA3bHhCSHI1b21oV2ZsejhLRmJEa0tPSnlTcFBwOWIzZzlUd182WVIzSlpRVGxsOVc1Qm15RVB3S2RKWXJqUlVlVHpXVWs3QVZ0Sk4wdWN2aFVQdmRvaGhnbzU2bVhTNGw4Mm01YXEtb2FHWm1fTWVHUVk0RUVQY0hxWUJNdWMtcnpDMU8?oc=5\" target=\"_blank\">Apple has 10+ new products rumored to launch first with John Ternus as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-04-21T07:00:00+00:00",
       "source": "9to5Mac"
     },
     {
@@ -77,11 +77,11 @@
       "source": "Macworld"
     },
     {
-      "title": "5 Apple Products That Outshine Samsung In Price And Value - SlashGear",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjBnd3BIRnNraUJvZTVHb0NkM2RtUEEzOGpmUGJYeTNJSmtkeWV4M29VX0NmeEY3Y1dRY1ExaC1aYzBROE0zR0dKQ1hTajM3azd3dnhDa3pZQ3EtT3BUNjBaZ0JkaDM4bXl1V0lpM3VzWjBoZHBiNnNCVWg3bEdiVlRCVnI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjBnd3BIRnNraUJvZTVHb0NkM2RtUEEzOGpmUGJYeTNJSmtkeWV4M29VX0NmeEY3Y1dRY1ExaC1aYzBROE0zR0dKQ1hTajM3azd3dnhDa3pZQ3EtT3BUNjBaZ0JkaDM4bXl1V0lpM3VzWjBoZHBiNnNCVWg3bEdiVlRCVnI?oc=5\" target=\"_blank\">5 Apple Products That Outshine Samsung In Price And Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SlashGear</font>",
-      "published": "2026-05-12T22:15:00+00:00",
-      "source": "SlashGear"
+      "title": "Every New Product Apple Is Launching In 2026 (There Are Over 15) - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDNYUHFpWWJqRzNNY0lIWlFZMWpYTmVVOHoyaUtjdWpqWGJ1c0RCZU1oMVNXeG5pV3E5Rk9NU3BPdHd3WVpMX2RaVnRQZ3lrNDRLNXJROEZVRV90WmlOcUpSNnlBSmNxR0hENjF5dE5HQ0hrNWtsQk9sZzRsdGx0dXh3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDNYUHFpWWJqRzNNY0lIWlFZMWpYTmVVOHoyaUtjdWpqWGJ1c0RCZU1oMVNXeG5pV3E5Rk9NU3BPdHd3WVpMX2RaVnRQZ3lrNDRLNXJROEZVRV90WmlOcUpSNnlBSmNxR0hENjF5dE5HQ0hrNWtsQk9sZzRsdGx0dXh3?oc=5\" target=\"_blank\">Every New Product Apple Is Launching In 2026 (There Are Over 15)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
+      "published": "2026-04-23T07:00:00+00:00",
+      "source": "bgr.com"
     },
     {
       "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
@@ -91,11 +91,11 @@
       "source": "MacRumors"
     },
     {
-      "title": "Every New Product Apple Is Launching In 2026 (There Are Over 15) - bgr.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDNYUHFpWWJqRzNNY0lIWlFZMWpYTmVVOHoyaUtjdWpqWGJ1c0RCZU1oMVNXeG5pV3E5Rk9NU3BPdHd3WVpMX2RaVnRQZ3lrNDRLNXJROEZVRV90WmlOcUpSNnlBSmNxR0hENjF5dE5HQ0hrNWtsQk9sZzRsdGx0dXh3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDNYUHFpWWJqRzNNY0lIWlFZMWpYTmVVOHoyaUtjdWpqWGJ1c0RCZU1oMVNXeG5pV3E5Rk9NU3BPdHd3WVpMX2RaVnRQZ3lrNDRLNXJROEZVRV90WmlOcUpSNnlBSmNxR0hENjF5dE5HQ0hrNWtsQk9sZzRsdGx0dXh3?oc=5\" target=\"_blank\">Every New Product Apple Is Launching In 2026 (There Are Over 15)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>",
-      "published": "2026-04-23T07:00:00+00:00",
-      "source": "bgr.com"
+      "title": "Apple Preps for March 4 Product Launch - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvSGhOQnRjRzBuU1M0UkFXMUFTTm84N0FkcG5iWEZNWGtIWHkyUUY5TTExYWxsSkRDVURPbE1vcTMwQkxkM2J6aFZLU0VtV00xWmhhczRBX1RWbXN3eUdFSXBZamRKQ0dzT09ONjlNaXA2RG5TU05Rc1V5d0s5Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBvSGhOQnRjRzBuU1M0UkFXMUFTTm84N0FkcG5iWEZNWGtIWHkyUUY5TTExYWxsSkRDVURPbE1vcTMwQkxkM2J6aFZLU0VtV00xWmhhczRBX1RWbXN3eUdFSXBZamRKQ0dzT09ONjlNaXA2RG5TU05Rc1V5d0s5Zw?oc=5\" target=\"_blank\">Apple Preps for March 4 Product Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+      "published": "2026-02-16T08:00:00+00:00",
+      "source": "PYMNTS.com"
     }
   ],
   "stock": {
@@ -103,13 +103,9 @@
     "currency": "USD",
     "latest": {
       "date": "2026-05-13",
-      "close": 295.1700134277344
+      "close": 298.8699951171875
     },
     "history": [
-      {
-        "date": "2026-05-05",
-        "close": 283.9184265136719
-      },
       {
         "date": "2026-05-06",
         "close": 287.245361328125
@@ -132,7 +128,7 @@
       },
       {
         "date": "2026-05-13",
-        "close": 295.1700134277344
+        "close": 298.8699951171875
       }
     ],
     "name": "Apple Inc."
