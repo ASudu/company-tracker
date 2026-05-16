@@ -2,29 +2,8 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-05-15T13:30:17.287219+00:00",
+  "fetched_at": "2026-05-16T12:58:22.400030+00:00",
   "news": [
-    {
-      "title": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5\" target=\"_blank\">Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-05-14T18:23:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Anthropic's Mythos is already finding security flaws in Apple software - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93dkg3Z2VRVFhDM1NiT3RRM040RHdLc1p6WU45Y2xMLVdWd3VFN0o3dkdNSl9PMUJsLVpJUlRTUTNCTG45RC11ZXRqa3Q3Rl8tc3lqQnJER3FxUTBCM2JOV0J2SjIxNzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93dkg3Z2VRVFhDM1NiT3RRM040RHdLc1p6WU45Y2xMLVdWd3VFN0o3dkdNSl9PMUJsLVpJUlRTUTNCTG45RC11ZXRqa3Q3Rl8tc3lqQnJER3FxUTBCM2JOV0J2SjIxNzA?oc=5\" target=\"_blank\">Anthropic's Mythos is already finding security flaws in Apple software</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-05-15T12:03:30+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Calif team details how Anthropic Mythos helped build a working macOS exploit in five days - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3hjQVBzQVFycXl1elpIRzNURS1SandubG1tN2VYSEp6YzloVGVGeGd2R2x0R1BELVI3MTVQMmRyVG5RYjZqYlBZejdZSFh2TnNhTTZlVEV2c3MzUHdpVUtwanlVbFNqc2FuMEhRXzZRV2ZZMmlhRXFxb1VmSWtMNngzTDNDcFJWOEFCdURZMzhwNjhmQldzcmlXcndjTTI1ZlduOFlsTjlBQ2prVEpFVXFLbDYxd2lHejFwTk13?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3hjQVBzQVFycXl1elpIRzNURS1SandubG1tN2VYSEp6YzloVGVGeGd2R2x0R1BELVI3MTVQMmRyVG5RYjZqYlBZejdZSFh2TnNhTTZlVEV2c3MzUHdpVUtwanlVbFNqc2FuMEhRXzZRV2ZZMmlhRXFxb1VmSWtMNngzTDNDcFJWOEFCdURZMzhwNjhmQldzcmlXcndjTTI1ZlduOFlsTjlBQ2prVEpFVXFLbDYxd2lHejFwTk13?oc=5\" target=\"_blank\">Calif team details how Anthropic Mythos helped build a working macOS exploit in five days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-05-14T22:17:00+00:00",
-      "source": "9to5Mac"
-    },
     {
       "title": "Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTFQQWIwbUlnN3hVWXlZYmpZVnl6aUZPTTU4MWNldVhKdjZ6M2t0ckpGTnEybFltYzJzY2FKa0RKVnBsLWxYaTlYTEZKb19oVkZpc2ZCTjBZaHYzU29jTWZ2OGtQbmczRHNxMm93SUlYX0NvQWZ5T1FTYTRKQkUxZkhOaUdwSlVtNkdpYS1Vd3IxSE4zd3FnVnNFNFJfVElCZXo3RWNPSVQwS1dxdTZ3TWxjbw?oc=5",
@@ -33,47 +12,68 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd203TjJOelZBR1lpSDV1UEl2VEhxS2dPbGItOTlCaFVmWVlEbXRFSUpVY21oMzNjWENwZkFFX0RiTVRyaE9LQk1uV1lLeDFEaGxpLUJwSVZ4VkpqUVRtVWc5SGxuaGU3d1FFbFQwUHg4MGIwWVQ4MUxfWHNjaF9tano0RHZZZVhSVTdXNUJDNmtmOEVXR1pGckdOMkQzZHFIZkIyZWxCbHBvWm9XSUdnTWNfQkFQbzBfbUhYX29INlBSYTA3SzlEUTBaRzlPUjNMMHFhUUV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd203TjJOelZBR1lpSDV1UEl2VEhxS2dPbGItOTlCaFVmWVlEbXRFSUpVY21oMzNjWENwZkFFX0RiTVRyaE9LQk1uV1lLeDFEaGxpLUJwSVZ4VkpqUVRtVWc5SGxuaGU3d1FFbFQwUHg4MGIwWVQ4MUxfWHNjaF9tano0RHZZZVhSVTdXNUJDNmtmOEVXR1pGckdOMkQzZHFIZkIyZWxCbHBvWm9XSUdnTWNfQkFQbzBfbUhYX29INlBSYTA3SzlEUTBaRzlPUjNMMHFhUUV3?oc=5\" target=\"_blank\">OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-05-14T19:12:03+00:00",
-      "source": "TechCrunch"
+      "title": "OpenAI Considers Legal Action Against Apple in Strained Relationship - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFM3YXZtNFBFa0hWSWhqUWlpRE5wTFNlaDl6NVJtOWcwVlcweVZYR0hUSlV5X0FsS3lkWVZBdHlCRTQtcDFKTHo0c2xpdVZTTEhxV2J5SHFZQnFrV1dfalhHZjdfdERrMXNiR2hkY1lLaU1MMlVPQjhvNkkxVzJNenhn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFM3YXZtNFBFa0hWSWhqUWlpRE5wTFNlaDl6NVJtOWcwVlcweVZYR0hUSlV5X0FsS3lkWVZBdHlCRTQtcDFKTHo0c2xpdVZTTEhxV2J5SHFZQnFrV1dfalhHZjdfdERrMXNiR2hkY1lLaU1MMlVPQjhvNkkxVzJNenhn?oc=5\" target=\"_blank\">OpenAI Considers Legal Action Against Apple in Strained Relationship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-05-15T00:48:16+00:00",
+      "source": "The New York Times"
     },
     {
-      "title": "Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeThuU19GZ3NDdHRzVXhKZUVNdkhjQ3FFczhJY3pmTjR1MGxadHFxeGV2SXdhT0JZZWx2THRjUndmNWxkdkpSS0RwdTFMUktZWEFHTlNIQ1oxcTVNRjZWTnJra1QwY2FzeEtTOGl3ME9UbDBqUUZHMGh2OWg5MWppUllMcF9vQy1tRTNMY2ZnZWowaTBkRFpYT1gyWmxISmlqV3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeThuU19GZ3NDdHRzVXhKZUVNdkhjQ3FFczhJY3pmTjR1MGxadHFxeGV2SXdhT0JZZWx2THRjUndmNWxkdkpSS0RwdTFMUktZWEFHTlNIQ1oxcTVNRjZWTnJra1QwY2FzeEtTOGl3ME9UbDBqUUZHMGh2OWg5MWppUllMcF9vQy1tRTNMY2ZnZWowaTBkRFpYT1gyWmxISmlqV3c?oc=5\" target=\"_blank\">Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-14T18:15:58+00:00",
-      "source": "Yahoo Finance"
+      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRl9iTnlSU1Nnc2lYTEFIMHEweEJ0dTl2WkNKVHBhTmRJdEJOamE5eEYxNm9SVU91VlROSUNHVGM0UGk1cmJ2RXRvQlRvWTFPWC12STRVNFBueEo3cE5odEtRZEJwSWR2Rm8xLW5rVFNCUV9CQ1RPU1JVVnpNWTU5VzJEOHB1S1FjaWtaTFBwN0dHWEk2NG1ZdXVycWl6WEZxTzA4Y0QyYjNTVFFYenpaZGtfOTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRl9iTnlSU1Nnc2lYTEFIMHEweEJ0dTl2WkNKVHBhTmRJdEJOamE5eEYxNm9SVU91VlROSUNHVGM0UGk1cmJ2RXRvQlRvWTFPWC12STRVNFBueEo3cE5odEtRZEJwSWR2Rm8xLW5rVFNCUV9CQ1RPU1JVVnpNWTU5VzJEOHB1S1FjaWtaTFBwN0dHWEk2NG1ZdXVycWl6WEZxTzA4Y0QyYjNTVFFYenpaZGtfOTg?oc=5\" target=\"_blank\">OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-05-15T18:13:33+00:00",
+      "source": "Ars Technica"
     },
     {
-      "title": "DOJ Is Asking Apple and Google to Hand Over Data on 100,000 Users of a Car App - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEE2NU9SVUZmT1lSNG5iMzA5VmhCcFpzRHN5MGgwNXJkQTl2ZHJITmRFZ0tOTDV3aUFzYkZFVnVVZE1VUEp0bTJ0QnBXTC1MTUd2TXN5MGpZRk9leDlMdzU4MWZrS01XT2g3RjhwdGlUV1h1aHZUSEhNeEhjMGhhRGp3Wk4yLXhSalROZ1BsSWV0MjgwU3hwZkY4TDFyRUZ3VlZMMmk0bXN2bVRB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEE2NU9SVUZmT1lSNG5iMzA5VmhCcFpzRHN5MGgwNXJkQTl2ZHJITmRFZ0tOTDV3aUFzYkZFVnVVZE1VUEp0bTJ0QnBXTC1MTUd2TXN5MGpZRk9leDlMdzU4MWZrS01XT2g3RjhwdGlUV1h1aHZUSEhNeEhjMGhhRGp3Wk4yLXhSalROZ1BsSWV0MjgwU3hwZkY4TDFyRUZ3VlZMMmk0bXN2bVRB?oc=5\" target=\"_blank\">DOJ Is Asking Apple and Google to Hand Over Data on 100,000 Users of a Car App</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-05-15T11:00:43+00:00",
+      "title": "Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZk5ObXgyc3dYYkNQMU9tWGwyZVAxdVdWa002T0dwaVRrZTY5OW5CVmwzcl9Qa2p0R25jTzEyMHQ0RTNKVXczSXhjMzdFT3pYbXplNWo0UExaTUhPYS1GMFVqMjg4Y0plaWlqTzliQnQ1aDVuLWVQZw?oc=5\" target=\"_blank\">Apple’s Security Has Been Tough to Crack. Mythos Helped Find a Way In.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-05-14T18:23:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More - eWeek",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SN0g3cHd1NUpoVXpBOF9Ra0Z1MnJBUHdVY0hLX0RzcmdyZXV0NHM0VTdGR3FfbEN2dy0yNmVTUkxWZk40T3lCTk1ScEdhcWZKdk1WWFV6U1J1RV9OYjJFMU5EMW8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SN0g3cHd1NUpoVXpBOF9Ra0Z1MnJBUHdVY0hLX0RzcmdyZXV0NHM0VTdGR3FfbEN2dy0yNmVTUkxWZk40T3lCTk1ScEdhcWZKdk1WWFV6U1J1RV9OYjJFMU5EMW8?oc=5\" target=\"_blank\">WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eWeek</font>",
+      "published": "2026-05-15T19:13:15+00:00",
+      "source": "eWeek"
+    },
+    {
+      "title": "Google just helped Apple sell a million more MacBook Neos - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUZfSndNQWRKQk9hWWhBZGVpbmdoTHc3dUZySjNLNkNCa05NbklmNFptOVVFSUpKTFZQVmRKSm1vaHBZNDhFcFlsUXU4TGdWVk5YYy1LUEIxbGQ5WTdKWTJ5NHRQYXZMVmlvckx1NTRZdldaamh3LVNyVWd3Z1VpWV9adXk3RzhEMzB0aElucFYzVXotYVZnaFVQLVBfTFJjeXA2OWlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUZfSndNQWRKQk9hWWhBZGVpbmdoTHc3dUZySjNLNkNCa05NbklmNFptOVVFSUpKTFZQVmRKSm1vaHBZNDhFcFlsUXU4TGdWVk5YYy1LUEIxbGQ5WTdKWTJ5NHRQYXZMVmlvckx1NTRZdldaamh3LVNyVWd3Z1VpWV9adXk3RzhEMzB0aElucFYzVXotYVZnaFVQLVBfTFJjeXA2OWlB?oc=5\" target=\"_blank\">Google just helped Apple sell a million more MacBook Neos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-05-14T11:00:00+00:00",
+      "source": "Macworld"
+    },
+    {
+      "title": "The AI Chip Rush Is Making Hardware More Expensive, Amazon Still Manages to Drop the MacBook Neo Price - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOC1IWGJfeUZPcTdoQmtSR0ZudEppMTlzajhzVG9RSXBIbEx1OERGcnQxakd0Z2NVa2tGWDF2dng2ZXNVdFBEdHBING5BZ2pVaG54TzN3S1U5cHVERU9jLVlDOTZIbXRrd0x0THVibk9VeUVyUlpoYXRJZXRJRllBLWVwaHZ0c2VLSmphX1pFajV2dzlyeEpndXhPeGNxVEYtZzR6XzJwR3ZpWlNTSXo3bFRMVWJpNVhJRkpJYzFKRTMycng5ZXJXWEZQb1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNOC1IWGJfeUZPcTdoQmtSR0ZudEppMTlzajhzVG9RSXBIbEx1OERGcnQxakd0Z2NVa2tGWDF2dng2ZXNVdFBEdHBING5BZ2pVaG54TzN3S1U5cHVERU9jLVlDOTZIbXRrd0x0THVibk9VeUVyUlpoYXRJZXRJRllBLWVwaHZ0c2VLSmphX1pFajV2dzlyeEpndXhPeGNxVEYtZzR6XzJwR3ZpWlNTSXo3bFRMVWJpNVhJRkpJYzFKRTMycng5ZXJXWEZQb1E?oc=5\" target=\"_blank\">The AI Chip Rush Is Making Hardware More Expensive, Amazon Still Manages to Drop the MacBook Neo Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-05-15T22:45:03+00:00",
       "source": "Gizmodo"
     },
     {
-      "title": "Apple iPhone Sales Appear Unstoppable - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXJsd1NobHhUa1pRazJCWVZWSmpvYlFBTU5fVVNSNXVnLUVFdEtCem1oc05fZDlwenhvX2VwMk9QSENscUlhSXNMVjJFX2FHazMtajVzZ3ktOVpUanp3ZjRtZWJBZ2RVWHlFc1pZcnFEalM3djVZWmg3ZllTNzdvUWtoQ2pMOTRHNzhmOTBuSHUzRUJCVDhhR3RCR1RLMUF0bGFQeQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXJsd1NobHhUa1pRazJCWVZWSmpvYlFBTU5fVVNSNXVnLUVFdEtCem1oc05fZDlwenhvX2VwMk9QSENscUlhSXNMVjJFX2FHazMtajVzZ3ktOVpUanp3ZjRtZWJBZ2RVWHlFc1pZcnFEalM3djVZWmg3ZllTNzdvUWtoQ2pMOTRHNzhmOTBuSHUzRUJCVDhhR3RCR1RLMUF0bGFQeQ?oc=5\" target=\"_blank\">Apple iPhone Sales Appear Unstoppable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-15T13:13:43+00:00",
-      "source": "Yahoo Finance"
+      "title": "Did Apple's MacBook Neo accidentally build the new Googlebook? - PhoneArena",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcjhyMm0yZFgweE1zTnQ2YWM5R3hBZVlmVGxzZ2VzOW9xd0VJSzQ1U3B3VzlENU5BdTN1SW1IRkZ2M3VzQnJBYXlqQVFtMkI2SEk0NDdJUVp5QU1XYndvck5ycnhObkx4SUhicHg0VWVtUXF3cFRUdi1zbEFzVEVtTzRac2lCWWw1dlh4bld4Z2dyM1Z4V1JmYXBXbFM0MHBOZVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQcjhyMm0yZFgweE1zTnQ2YWM5R3hBZVlmVGxzZ2VzOW9xd0VJSzQ1U3B3VzlENU5BdTN1SW1IRkZ2M3VzQnJBYXlqQVFtMkI2SEk0NDdJUVp5QU1XYndvck5ycnhObkx4SUhicHg0VWVtUXF3cFRUdi1zbEFzVEVtTzRac2lCWWw1dlh4bld4Z2dyM1Z4V1JmYXBXbFM0MHBOZVE?oc=5\" target=\"_blank\">Did Apple's MacBook Neo accidentally build the new Googlebook?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font>",
+      "published": "2026-05-15T14:05:01+00:00",
+      "source": "PhoneArena"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple has 10+ new products rumored to launch first with John Ternus as CEO - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLS1QNDlMWWt0NnBMQzdEaEsxSUNjMERuNzJxSVA3bHhCSHI1b21oV2ZsejhLRmJEa0tPSnlTcFBwOWIzZzlUd182WVIzSlpRVGxsOVc1Qm15RVB3S2RKWXJqUlVlVHpXVWs3QVZ0Sk4wdWN2aFVQdmRvaGhnbzU2bVhTNGw4Mm01YXEtb2FHWm1fTWVHUVk0RUVQY0hxWUJNdWMtcnpDMU8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLS1QNDlMWWt0NnBMQzdEaEsxSUNjMERuNzJxSVA3bHhCSHI1b21oV2ZsejhLRmJEa0tPSnlTcFBwOWIzZzlUd182WVIzSlpRVGxsOVc1Qm15RVB3S2RKWXJqUlVlVHpXVWs3QVZ0Sk4wdWN2aFVQdmRvaGhnbzU2bVhTNGw4Mm01YXEtb2FHWm1fTWVHUVk0RUVQY0hxWUJNdWMtcnpDMU8?oc=5\" target=\"_blank\">Apple has 10+ new products rumored to launch first with John Ternus as CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-04-21T07:00:00+00:00",
+      "title": "Apple will launch 15+ new products this fall, here’s what’s coming - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmJrb1FQeWtyd0wxRGJld0NIMVEwc1ZGV0dxbTQxUEt5LXB3VW12OHNET3R4Z0EtTXRsa3NyRUZwSHd0R0xOSXhXWjZ2dUVHMGJDdXJxNFFzaFBFMXFlVDZvRlNrNzdQOFZkeEhrQnl2Wi1QWXVkX2NFZkJnMm9vMzVwamU2MHR5N1FaemY5RDlfNU1jV0ZZSV9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmJrb1FQeWtyd0wxRGJld0NIMVEwc1ZGV0dxbTQxUEt5LXB3VW12OHNET3R4Z0EtTXRsa3NyRUZwSHd0R0xOSXhXWjZ2dUVHMGJDdXJxNFFzaFBFMXFlVDZvRlNrNzdQOFZkeEhrQnl2Wi1QWXVkX2NFZkJnMm9vMzVwamU2MHR5N1FaemY5RDlfNU1jV0ZZSV9B?oc=5\" target=\"_blank\">Apple will launch 15+ new products this fall, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-05-15T18:11:00+00:00",
       "source": "9to5Mac"
     },
     {
-      "title": "Apple confirms next event date – here’s what’s coming - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQmVCTEk2RG15YllmbEQ3RktxLWp1QUxGUEloNE1Gb3pwMldjU2V3eGhGOFBKWnBhUFVma2YtNm95c0h0cDdZaFFkblVrX2J5WmlOanU0b2pUQVJ3VEYzNG81RVJKUktydGM3ajRaVGotWjFxUDNGLW9n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQmVCTEk2RG15YllmbEQ3RktxLWp1QUxGUEloNE1Gb3pwMldjU2V3eGhGOFBKWnBhUFVma2YtNm95c0h0cDdZaFFkblVrX2J5WmlOanU0b2pUQVJ3VEYzNG81RVJKUktydGM3ajRaVGotWjFxUDNGLW9n?oc=5\" target=\"_blank\">Apple confirms next event date – here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-04-24T07:00:00+00:00",
+      "title": "Apple’s next big products revealed: 15+ new Apple devices set for 2026 - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Apple’s next big products revealed: 15+ new Apple devices set for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-04-22T07:00:00+00:00",
       "source": "Macworld"
     },
     {
@@ -84,17 +84,17 @@
       "source": "bgr.com"
     },
     {
-      "title": "Apple, Huawei launch major discounts as premium smartphone race heats up ahead of 618 shopping festival - Global Times",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBocVhhODAyZ2ZsaXp4bV9weXhxMkx0ak1iNzhsZVlYMTR4eHdGWldBR0RRb3lIV0xMSy01YngtbEg5M3VSUzJKNkRPSXJILUNlNk1ZZ015SG1VMmotQ1ZXYUxB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBocVhhODAyZ2ZsaXp4bV9weXhxMkx0ak1iNzhsZVlYMTR4eHdGWldBR0RRb3lIV0xMSy01YngtbEg5M3VSUzJKNkRPSXJILUNlNk1ZZ015SG1VMmotQ1ZXYUxB?oc=5\" target=\"_blank\">Apple, Huawei launch major discounts as premium smartphone race heats up ahead of 618 shopping festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
-      "published": "2026-05-15T05:19:00+00:00",
-      "source": "Global Times"
+      "title": "Apple is reportedly working on six new product categories - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1TUlZlT05NVnV2cjloX3ZuenNTYTZLaUdVbTNybEF0blNxWFN3M3Q0ckc5Q0NROVpLSi1NQW85NUxMb05yR2FMTjRQZU1nNld1Qmd6SGU1UmNRVld5bXltYXdwRElURFdoQnZEeWxFLWdOdWE4QWcwNXVVQkpuYml3WDZFZktOY0RtamE3cjdObVk4dndvbUVJYmhrQ1V3S2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1TUlZlT05NVnV2cjloX3ZuenNTYTZLaUdVbTNybEF0blNxWFN3M3Q0ckc5Q0NROVpLSi1NQW85NUxMb05yR2FMTjRQZU1nNld1Qmd6SGU1UmNRVld5bXltYXdwRElURFdoQnZEeWxFLWdOdWE4QWcwNXVVQkpuYml3WDZFZktOY0RtamE3cjdObVk4dndvbUVJYmhrQ1V3S2c?oc=5\" target=\"_blank\">Apple is reportedly working on six new product categories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-04-23T07:00:00+00:00",
+      "source": "AppleInsider"
     },
     {
-      "title": "Apple Planning to Launch Two New 'Ultra' Products in the Next Year - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUg4ZGFZQkQ3QzBkSEw3SVAxaC1kb0lTWk9ETW9uZnJWdkUwNmRfeTZaeXprYzM1OS1UVTBBMm5WblJLTlM0LXdkM3V2cDlLd2dTbzNVblQwY3h6dmRITGpoMFBEN1p5djVTNF9GM194SVZyVTRZR2RIS0NLaE9Fa3RKM2VmdW8zUi12LUJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUg4ZGFZQkQ3QzBkSEw3SVAxaC1kb0lTWk9ETW9uZnJWdkUwNmRfeTZaeXprYzM1OS1UVTBBMm5WblJLTlM0LXdkM3V2cDlLd2dTbzNVblQwY3h6dmRITGpoMFBEN1p5djVTNF9GM194SVZyVTRZR2RIS0NLaE9Fa3RKM2VmdW8zUi12LUJ3?oc=5\" target=\"_blank\">Apple Planning to Launch Two New 'Ultra' Products in the Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-04-27T07:00:00+00:00",
+      "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2FPTERFa2FjdFVqZWJxQ0hiREZDSmRXZldZTTRVdWlhNlFHbkJZSERYdFY3WHdXR1duTWp2Y0doSk01bGJJVFBnN2x1Ri1MRi1CRnYtX0dGOFF6VjNqQXlVUWVyUngyNWFCMExEc2RydHgwbmlQaTV0WS1rSnRTT3YwRlFBOHNz?oc=5\" target=\"_blank\">Apple to Launch These 15+ New Products Later This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-03-27T07:00:00+00:00",
       "source": "MacRumors"
     }
   ],
@@ -102,8 +102,8 @@
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-14",
-      "close": 298.2099914550781
+      "date": "2026-05-15",
+      "close": 300.2300109863281
     },
     "history": [
       {
@@ -129,6 +129,10 @@
       {
         "date": "2026-05-14",
         "close": 298.2099914550781
+      },
+      {
+        "date": "2026-05-15",
+        "close": 300.2300109863281
       }
     ],
     "name": "Apple Inc."
