@@ -2,8 +2,15 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-05-19T14:35:54.689356+00:00",
+  "fetched_at": "2026-05-20T14:35:05.178568+00:00",
   "news": [
+    {
+      "title": "Android 17 is getting its own version of Apple’s Handoff - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wbDYyVjRBV1Vhc3BHR19UWDRlZ1p5Um04UXdLM0VrTF8zNmRpWTY3dlhpOVZyYUVUa0hCcXlVazBjMHVjWG9veWhPTXBEWFBUT3psWDVkQ3paU3IxYlVSNnZObjBVN1VpUklERFI3Z3VSQ2hFX2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wbDYyVjRBV1Vhc3BHR19UWDRlZ1p5Um04UXdLM0VrTF8zNmRpWTY3dlhpOVZyYUVUa0hCcXlVazBjMHVjWG9veWhPTXBEWFBUT3psWDVkQ3paU3IxYlVSNnZObjBVN1VpUklERFI3Z3VSQ2hFX2c?oc=5\" target=\"_blank\">Android 17 is getting its own version of Apple’s Handoff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-05-20T11:07:33+00:00",
+      "source": "The Verge"
+    },
     {
       "title": "Apple Is Making Hit Products and High Profits From Imperfect Chips - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXQ4YjdXTDBjSUluVXBURzNPM1JGSVJNdF9fUktTdGhyQzJQU2VVdzA5OGU3cHBYLTdkcVNaNnlKc3dfZXBRaUdqeUlISW9MSVQ1N2FaYW1IR0RFcVhMTlpPS2I0Z1ljSUYxRDFTWmRFaWp5NXNDZnM4VHJSOVc5NDQwWnROZm1qR2tfN2l1RElVR3dReHc1d3RhZ3NNQjBRNWc?oc=5",
@@ -12,53 +19,46 @@
       "source": "WSJ"
     },
     {
-      "title": "Apple announces AI-powered accessibility features and eye-controlled wheelchair functionality - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa091cHRSM3RsWnl6QV9XeFlZSm5faEdTZDlycUV6TlRlZV9KRkdnUDBodThVT3Fvd3pXSmhOZ1RFRFJuN2wzSU9TY09pODllWGtVVHpuaFIwRDNLVDZveWJ3YVZja2RXbDdRYnNYTXVacDR0ZmtSSVBickFjTkxOeUotMEdNSjFPNWw4Qm1zanV5VFdvQ3gyNDZWSnJXLXhnOUd1TGJXM21scjhxM0NDeWQ0RUx4bnRpQnZ1Snd5SGhGbkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa091cHRSM3RsWnl6QV9XeFlZSm5faEdTZDlycUV6TlRlZV9KRkdnUDBodThVT3Fvd3pXSmhOZ1RFRFJuN2wzSU9TY09pODllWGtVVHpuaFIwRDNLVDZveWJ3YVZja2RXbDdRYnNYTXVacDR0ZmtSSVBickFjTkxOeUotMEdNSjFPNWw4Qm1zanV5VFdvQ3gyNDZWSnJXLXhnOUd1TGJXM21scjhxM0NDeWQ0RUx4bnRpQnZ1Snd5SGhGbkE?oc=5\" target=\"_blank\">Apple announces AI-powered accessibility features and eye-controlled wheelchair functionality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-05-19T12:34:00+00:00",
+      "title": "iPhone 18: Everything We Know About Apple's Most Ambitious Lineup Yet - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkZvUk5FeDFXUnlLYkFlQi1qYVhMRUEtM2REbWZ0MllIcEpjMEtGcWxJbGRTbEFvQi1lOE5XNkZJTk0tblphNzVwOG5SdjNSQV9sTmlfT2RXbUo0WlBuWFFwS2RFNmY0anFWUVU5aGswNnBVWmk3bXpPZ3NFQzhNS0hlemRMbE1KdVRFSmdlWG80bllocEw1Q2JUTGdxby03VkZV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkZvUk5FeDFXUnlLYkFlQi1qYVhMRUEtM2REbWZ0MllIcEpjMEtGcWxJbGRTbEFvQi1lOE5XNkZJTk0tblphNzVwOG5SdjNSQV9sTmlfT2RXbUo0WlBuWFFwS2RFNmY0anFWUVU5aGswNnBVWmk3bXpPZ3NFQzhNS0hlemRMbE1KdVRFSmdlWG80bllocEw1Q2JUTGdxby03VkZV?oc=5\" target=\"_blank\">iPhone 18: Everything We Know About Apple's Most Ambitious Lineup Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-05-20T14:00:00+00:00",
+      "source": "CNET"
+    },
+    {
+      "title": "Apple gives update on the App Store and its key protections - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVpsSjdNY2pDZWpxUkJGNWgzdnVuMGVYbHB2X1NJLWJCQmhEa0VPaURNbndiVVFyVGhxN1JfNmZxN0xrRTlGMkk2TWZoT0hUcTJZTjdaYnA3TlNna2p0SGdLTHlnYUdFWThUNE83RHRhb25TMnBWbEhIOTRXdTA1QUc5TTN0LUJHeVU3b05FODhDczlpU0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVpsSjdNY2pDZWpxUkJGNWgzdnVuMGVYbHB2X1NJLWJCQmhEa0VPaURNbndiVVFyVGhxN1JfNmZxN0xrRTlGMkk2TWZoT0hUcTJZTjdaYnA3TlNna2p0SGdLTHlnYUdFWThUNE83RHRhb25TMnBWbEhIOTRXdTA1QUc5TTN0LUJHeVU3b05FODhDczlpU0E?oc=5\" target=\"_blank\">Apple gives update on the App Store and its key protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-05-20T13:28:00+00:00",
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Intelligence-Infused Accessibility Features Promise Greater Flexibility and Power - MacStories",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzhsMEJBTHp3OGdxYWxTQ1pmSVQwTDJLcDJXZGVvWVcxMkNUN2tHRU45eUcyX19xb3FYcnk1cFNRdEtKd3pNZFA0MVJZQllVd0NrMlRfcHIzb3RjMG12UHlkSHFKM3V6RFA0UmRwVkxHU3M0NWRhVlk0WHVHR0dLRTlLTVBDak9na29XRFk1WWVfSjNESWMtNGJ2SU5zS242V3cxWkdMajJEU2pqOXRjeFgyRTY4WTU2SVFlUw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzhsMEJBTHp3OGdxYWxTQ1pmSVQwTDJLcDJXZGVvWVcxMkNUN2tHRU45eUcyX19xb3FYcnk1cFNRdEtKd3pNZFA0MVJZQllVd0NrMlRfcHIzb3RjMG12UHlkSHFKM3V6RFA0UmRwVkxHU3M0NWRhVlk0WHVHR0dLRTlLTVBDak9na29XRFk1WWVfSjNESWMtNGJ2SU5zS242V3cxWkdMajJEU2pqOXRjeFgyRTY4WTU2SVFlUw?oc=5\" target=\"_blank\">Apple Intelligence-Infused Accessibility Features Promise Greater Flexibility and Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacStories</font>",
-      "published": "2026-05-19T12:00:43+00:00",
-      "source": "MacStories"
+      "title": "‘Maximum Pleasure Guaranteed’ premieres on Apple TV - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnh1bS14dDFYV09nZk1qV2kyemM0eFRQbndVVmlVQXktR0szejNjZm92Zk9Gd2hQZEpqUVgyenNyTHk1bXhRM3hMQW1oeDFIMGZzVk1iTmpjeS00WDNDSl9jZFc0UFBTOE90TWk3WWhYWHpVTDBoYThydFFYNTFadW5IOUdsTGlF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnh1bS14dDFYV09nZk1qV2kyemM0eFRQbndVVmlVQXktR0szejNjZm92Zk9Gd2hQZEpqUVgyenNyTHk1bXhRM3hMQW1oeDFIMGZzVk1iTmpjeS00WDNDSl9jZFc0UFBTOE90TWk3WWhYWHpVTDBoYThydFFYNTFadW5IOUdsTGlF?oc=5\" target=\"_blank\">‘Maximum Pleasure Guaranteed’ premieres on Apple TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-05-20T02:27:00+00:00",
+      "source": "9to5Mac"
     },
     {
-      "title": "Apple's 2026 Accessibility Roadmap And The Disability Employment Story Behind It - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRnBYQUxMRjB3V0YyUHBRYm9BMEY4Z3ZObkVldk1GdVlxWFRZZW4zSDVSS21oenZTTHNMSVNQZHdPWk1xQ2toMUZDXzJ6bUJWWVNNcFZjcmM5cDZQRC0wVlYtWG01N25kVzhBMTBxQzJialBqNVNhNmJZcTB6SmZCc05jX256eDdmTm5BcnFYWnZ4LS1kc3pIeHdDcUQxekFoOHJ4eE5uSFBHdWhlQ2x0Y3FjMUhUbGNBWlp5cjlQTkhVNmpqRVVINUxUcEEybDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPRnBYQUxMRjB3V0YyUHBRYm9BMEY4Z3ZObkVldk1GdVlxWFRZZW4zSDVSS21oenZTTHNMSVNQZHdPWk1xQ2toMUZDXzJ6bUJWWVNNcFZjcmM5cDZQRC0wVlYtWG01N25kVzhBMTBxQzJialBqNVNhNmJZcTB6SmZCc05jX256eDdmTm5BcnFYWnZ4LS1kc3pIeHdDcUQxekFoOHJ4eE5uSFBHdWhlQ2x0Y3FjMUhUbGNBWlp5cjlQTkhVNmpqRVVINUxUcEEybDg?oc=5\" target=\"_blank\">Apple's 2026 Accessibility Roadmap And The Disability Employment Story Behind It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-05-19T14:15:49+00:00",
-      "source": "Forbes"
+      "title": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDkxU1B1Tzk1YWhDdEZCYkVNRGlRSG80WWZRYWQyU0tFWXU1UmlxOFd1VGM4U29WcFR6cE9YNndJQ01HbWlrNTlNeldfM0dBNVdsSTd6em4tVzV4dkV4YlR6aU5NbGlmZGd6eFA0dTlrZW1EN01HOWJCRXNuTTluQy1MVnprekp5NHRXTWJQc3BiUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDkxU1B1Tzk1YWhDdEZCYkVNRGlRSG80WWZRYWQyU0tFWXU1UmlxOFd1VGM4U29WcFR6cE9YNndJQ01HbWlrNTlNeldfM0dBNVdsSTd6em4tVzV4dkV4YlR6aU5NbGlmZGd6eFA0dTlrZW1EN01HOWJCRXNuTTluQy1MVnprekp5NHRXTWJQc3BiUQ?oc=5\" target=\"_blank\">‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-05-20T12:00:00+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "Indian court tells Apple to 'cooperate' in antitrust case - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlA5MlE0REd2eWIta1pLY0hOMVBqOVlRZHRaRTExQ1lrUnlWcFFXWHBuVUtXUjhUSDdDRk5oSVdUcHBhUVhHcWpCTnZ1cE03dVNURm1OTERCOXhRdTVldWQwWnJ5bnBreGdqNGJkY1lhX3JLNUNJdXBYbzlVSDF1U21nd3RlUVVTeVphbnBSYVVWSnM0X0NVdnpxUGFueG84S0xEOW13?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVlA5MlE0REd2eWIta1pLY0hOMVBqOVlRZHRaRTExQ1lrUnlWcFFXWHBuVUtXUjhUSDdDRk5oSVdUcHBhUVhHcWpCTnZ1cE03dVNURm1OTERCOXhRdTVldWQwWnJ5bnBreGdqNGJkY1lhX3JLNUNJdXBYbzlVSDF1U21nd3RlUVVTeVphbnBSYVVWSnM0X0NVdnpxUGFueG84S0xEOW13?oc=5\" target=\"_blank\">Indian court tells Apple to 'cooperate' in antitrust case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-18T10:15:25+00:00",
-      "source": "Yahoo Finance"
+      "title": "‘Maximum Pleasure Guaranteed’ Review: Tatiana Maslany Delivers the Goods in Apple’s Deliciously Twisty Thriller - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1dIQU9oUTFlZ19LSGY3NEcweVE2Nk83ajdGUFZjUGo1eEFzNEo1RzRLaDRlVXFqMEZ0SU5sb2xkWDU5c2dUMENhZmNjWXdtemh1WWZ1emJMbVE0Q0F6R3VZUjBHejh5SFFuRlZ0QU85bnQtUGRvZTFmbVN4VktLTHR4SUhsVkpvaUxjbFVGa3FFZEpNWEh3WVZYTnYwTlBpSG82cFRwZnpLMkJ3aWE0cmlfRXE5OW8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1dIQU9oUTFlZ19LSGY3NEcweVE2Nk83ajdGUFZjUGo1eEFzNEo1RzRLaDRlVXFqMEZ0SU5sb2xkWDU5c2dUMENhZmNjWXdtemh1WWZ1emJMbVE0Q0F6R3VZUjBHejh5SFFuRlZ0QU85bnQtUGRvZTFmbVN4VktLTHR4SUhsVkpvaUxjbFVGa3FFZEpNWEh3WVZYTnYwTlBpSG82cFRwZnpLMkJ3aWE0cmlfRXE5OW8?oc=5\" target=\"_blank\">‘Maximum Pleasure Guaranteed’ Review: Tatiana Maslany Delivers the Goods in Apple’s Deliciously Twisty Thriller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
+      "published": "2026-05-20T07:00:29+00:00",
+      "source": "The Hollywood Reporter"
     },
     {
-      "title": "SHub Reaper | macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain - sentinelone.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNclVjakFOLVQzdXhtUlVFWEM3UFI5WUtnTE1BMGU0VDlYSmtPME9DQXQ0UWowb2tsSHVVZy1URF9uSkg2UjZEZE9fbGtxS21JNmVBeWx2U2tXRDhicWpaVDZ2VFhpM19Tc1lYUWxEUnZJbnlCOXBXYWo0SkVrdjdHeXNRQmU0MVRsR1g1VDVnTlNoeDVhQm5TSFhPeDFYcE5tbjlEcGxXZmJ2MDdhR3c3U1Z1S2ZSOXlIeVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNclVjakFOLVQzdXhtUlVFWEM3UFI5WUtnTE1BMGU0VDlYSmtPME9DQXQ0UWowb2tsSHVVZy1URF9uSkg2UjZEZE9fbGtxS21JNmVBeWx2U2tXRDhicWpaVDZ2VFhpM19Tc1lYUWxEUnZJbnlCOXBXYWo0SkVrdjdHeXNRQmU0MVRsR1g1VDVnTlNoeDVhQm5TSFhPeDFYcE5tbjlEcGxXZmJ2MDdhR3c3U1Z1S2ZSOXlIeVE?oc=5\" target=\"_blank\">SHub Reaper | macOS Stealer Spoofs Apple, Google, and Microsoft in a Single Attack Chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sentinelone.com</font>",
-      "published": "2026-05-18T13:46:20+00:00",
-      "source": "sentinelone.com"
-    },
-    {
-      "title": "Pennsylvania woman loses $24K after falling for ‘Apple high alert’ text scam - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVSWThkVVhIQnI4OFNsODNoWmZfMWFxYTB0ZGlENGY0RERNWUlBMlYwR0lZMWVCaXJoZ0pIUWpxVS1sMzdhWXdHbW9LTWhzTURxMm5IM3BKSzk3emV6a2d3VVJzT1hNNlBCYktBcms3X0R5RnBxY0MtM0gzcksxNGxPRmtLSk1FUUJTMVZDLUNobUREQ3dFbXlKaUNWMVlYQ19Mb0N1UVdIQWlZbGVjcTNYbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVSWThkVVhIQnI4OFNsODNoWmZfMWFxYTB0ZGlENGY0RERNWUlBMlYwR0lZMWVCaXJoZ0pIUWpxVS1sMzdhWXdHbW9LTWhzTURxMm5IM3BKSzk3emV6a2d3VVJzT1hNNlBCYktBcms3X0R5RnBxY0MtM0gzcksxNGxPRmtLSk1FUUJTMVZDLUNobUREQ3dFbXlKaUNWMVlYQ19Mb0N1UVdIQWlZbGVjcTNYbw?oc=5\" target=\"_blank\">Pennsylvania woman loses $24K after falling for ‘Apple high alert’ text scam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-      "published": "2026-05-19T00:16:00+00:00",
-      "source": "New York Post"
-    },
-    {
-      "title": "The new iPhone Ultra and iPhone 18 lineup: Everything you need to know about Apple's rumored 2026 launches - Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTDJySHlBWm9HVnoyTmxrQ2dzZnM2Uko4cHY5dzB0N1JqLVJuQ0JYVHdkUlQ2RkNSQWdlT2h5WlliTjNWd2JNbGtSUWZBU04ydEpXREl6LVNXaUU2YzRVbmk4N2YtcGo4RUdwQW1aaXhrQndGS0plZWg0ZU9iQ1RpZjRUVzZMYlB3LXNkQ1FvTi1KMXVUTHRRSHU4SGpSamtVSXJ1YjBnNVFSRm4tVFVCeEZYMy1HQnFJamw5Y1ZWcFkyRHU5ZHFRU082OG84SGJQcFlkNjVqOXFJeVU1X3BFdHcyaklHSTFaZlZXSGpmM0dCOGdIdkl4STV1eF82UFEw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOTDJySHlBWm9HVnoyTmxrQ2dzZnM2Uko4cHY5dzB0N1JqLVJuQ0JYVHdkUlQ2RkNSQWdlT2h5WlliTjNWd2JNbGtSUWZBU04ydEpXREl6LVNXaUU2YzRVbmk4N2YtcGo4RUdwQW1aaXhrQndGS0plZWg0ZU9iQ1RpZjRUVzZMYlB3LXNkQ1FvTi1KMXVUTHRRSHU4SGpSamtVSXJ1YjBnNVFSRm4tVFVCeEZYMy1HQnFJamw5Y1ZWcFkyRHU5ZHFRU082OG84SGJQcFlkNjVqOXFJeVU1X3BFdHcyaklHSTFaZlZXSGpmM0dCOGdIdkl4STV1eF82UFEw?oc=5\" target=\"_blank\">The new iPhone Ultra and iPhone 18 lineup: Everything you need to know about Apple's rumored 2026 launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
-      "published": "2026-05-18T20:06:32+00:00",
-      "source": "Yahoo Tech"
+      "title": "Apple’s Eddy Cue to Receive Entertainment Person of the Year Honor at Cannes Lions Festival - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWQwM3pDNnAwVDJCUy1mY21QMGtYT3BnSFRzNmZTY3Y4SFlLTnJDNHh1akdELS1hVnE3cW9oZUIzZDhHblJwdDJrQU5MQThWNm85cEo1aDMwU1hwVm9nbjlibXNrOWttdG1KZDJ5WTE1bkdDS3NKaVlfTDgzM3F0Snd6MjBHRDU1VEtteDFEZzI1ZlgwcDZjTXNpYjJSMWxm?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWQwM3pDNnAwVDJCUy1mY21QMGtYT3BnSFRzNmZTY3Y4SFlLTnJDNHh1akdELS1hVnE3cW9oZUIzZDhHblJwdDJrQU5MQThWNm85cEo1aDMwU1hwVm9nbjlibXNrOWttdG1KZDJ5WTE1bkdDS3NKaVlfTDgzM3F0Snd6MjBHRDU1VEtteDFEZzI1ZlgwcDZjTXNpYjJSMWxm?oc=5\" target=\"_blank\">Apple’s Eddy Cue to Receive Entertainment Person of the Year Honor at Cannes Lions Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-05-20T13:01:00+00:00",
+      "source": "Yahoo"
     }
   ],
   "product_launches": [
@@ -68,13 +68,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmJrb1FQeWtyd0wxRGJld0NIMVEwc1ZGV0dxbTQxUEt5LXB3VW12OHNET3R4Z0EtTXRsa3NyRUZwSHd0R0xOSXhXWjZ2dUVHMGJDdXJxNFFzaFBFMXFlVDZvRlNrNzdQOFZkeEhrQnl2Wi1QWXVkX2NFZkJnMm9vMzVwamU2MHR5N1FaemY5RDlfNU1jV0ZZSV9B?oc=5\" target=\"_blank\">Apple will launch 15+ new products this fall, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
       "published": "2026-05-15T18:11:00+00:00",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple’s next big products revealed: 15+ new Apple devices set for 2026 - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Apple’s next big products revealed: 15+ new Apple devices set for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-04-22T07:00:00+00:00",
-      "source": "Macworld"
     },
     {
       "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
@@ -91,6 +84,13 @@
       "source": "Medium"
     },
     {
+      "title": "Apple’s next big products revealed: 15+ new Apple devices set for 2026 - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Apple’s next big products revealed: 15+ new Apple devices set for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-04-22T07:00:00+00:00",
+      "source": "Macworld"
+    },
+    {
       "title": "Apple is reportedly working on six new product categories - AppleInsider",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1TUlZlT05NVnV2cjloX3ZuenNTYTZLaUdVbTNybEF0blNxWFN3M3Q0ckc5Q0NROVpLSi1NQW85NUxMb05yR2FMTjRQZU1nNld1Qmd6SGU1UmNRVld5bXltYXdwRElURFdoQnZEeWxFLWdOdWE4QWcwNXVVQkpuYml3WDZFZktOY0RtamE3cjdObVk4dndvbUVJYmhrQ1V3S2c?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPUy1TUlZlT05NVnV2cjloX3ZuenNTYTZLaUdVbTNybEF0blNxWFN3M3Q0ckc5Q0NROVpLSi1NQW85NUxMb05yR2FMTjRQZU1nNld1Qmd6SGU1UmNRVld5bXltYXdwRElURFdoQnZEeWxFLWdOdWE4QWcwNXVVQkpuYml3WDZFZktOY0RtamE3cjdObVk4dndvbUVJYmhrQ1V3S2c?oc=5\" target=\"_blank\">Apple is reportedly working on six new product categories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
@@ -102,14 +102,10 @@
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-19",
-      "close": 296.80499267578125
+      "date": "2026-05-20",
+      "close": 299.5899963378906
     },
     "history": [
-      {
-        "date": "2026-05-11",
-        "close": 292.67999267578125
-      },
       {
         "date": "2026-05-12",
         "close": 294.79998779296875
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-05-19",
-        "close": 296.80499267578125
+        "close": 298.9700012207031
+      },
+      {
+        "date": "2026-05-20",
+        "close": 299.5899963378906
       }
     ],
     "name": "Apple Inc."

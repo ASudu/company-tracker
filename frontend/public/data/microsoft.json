@@ -2,86 +2,72 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-05-19T14:35:57.353298+00:00",
+  "fetched_at": "2026-05-20T14:35:07.983889+00:00",
   "news": [
     {
-      "title": "Microsoft Executives Sound the Alarm Over GitHub’s Eroding AI Lead - The Information",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkpfVDk1OVhxWGc1a0JuWVREU3IyS1J0cG5waWNLbXVObVBVR0J2ZmRHUGZhWWtrZVZsRzBoSF9rR0k1dEFva3l6THo4Wm5iN0g3bTdmZ2JlalAxTTRVQ0hxanJvdDluMWZEeFNvbnBxa3lSaFdDcngzRF9idFFuNmZwaXR1cFNYUm5nM0xQVnYyeEZaLWJ3dndLU1Q?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkpfVDk1OVhxWGc1a0JuWVREU3IyS1J0cG5waWNLbXVObVBVR0J2ZmRHUGZhWWtrZVZsRzBoSF9rR0k1dEFva3l6THo4Wm5iN0g3bTdmZ2JlalAxTTRVQ0hxanJvdDluMWZEeFNvbnBxa3lSaFdDcngzRF9idFFuNmZwaXR1cFNYUm5nM0xQVnYyeEZaLWJ3dndLU1Q?oc=5\" target=\"_blank\">Microsoft Executives Sound the Alarm Over GitHub’s Eroding AI Lead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-05-18T13:00:00+00:00",
-      "source": "The Information"
+      "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0 - ZDNET",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEptVDZ5UWlfV0o1RGJCT0FUZVFmWkxteEVTVF9tRWU4QlJjNjRIbnRHUTRvWVdIaFlIdXdqbGtwdUJXb0Fsbmpab012UU4xR0lFeGZCQWI3ZEctS3dJQVYzNHJWdWJ6NHc3dkVlWmotVXhpQTNfRm5ocTM3aldrYXhnVGYzVk0zb1gxSXl1X3U1SW1zMUNvNmNELTZPRElPeDFr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEptVDZ5UWlfV0o1RGJCT0FUZVFmWkxteEVTVF9tRWU4QlJjNjRIbnRHUTRvWVdIaFlIdXdqbGtwdUJXb0Fsbmpab012UU4xR0lFeGZCQWI3ZEctS3dJQVYzNHJWdWJ6NHc3dkVlWmotVXhpQTNfRm5ocTM3aldrYXhnVGYzVk0zb1gxSXl1X3U1SW1zMUNvNmNELTZPRElPeDFr?oc=5\" target=\"_blank\">Microsoft surprises with its first server Linux distribution: Azure Linux 4.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
+      "published": "2026-05-18T22:53:00+00:00",
+      "source": "ZDNET"
     },
     {
-      "title": "Microsoft admits faulty drivers were killing Windows 11 battery life for years - PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWVMUE5JZ0prYjlKWFNiUTV2OUtKZVNIdWg5MGlieE5sUkdsREp3WWZEYnRZWGhHQXVHN0xIOTZ0M3lVV0FmaVQyblZ3S0RWSFJMUmF5aEFfX2hpVmZsVDFjUmV6VXhNM3NESVZwbkM5WUNxZjdqcmxKbjlSZ0l5dFNlSWhPUXpqUmxHbzhxckI3M0cyeVhjN1RGS0N3ZXVCZHV3d3NRaWExdWxCRGxJcFJENU1KdUZ4LUpWMHAtMjI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWVMUE5JZ0prYjlKWFNiUTV2OUtKZVNIdWg5MGlieE5sUkdsREp3WWZEYnRZWGhHQXVHN0xIOTZ0M3lVV0FmaVQyblZ3S0RWSFJMUmF5aEFfX2hpVmZsVDFjUmV6VXhNM3NESVZwbkM5WUNxZjdqcmxKbjlSZ0l5dFNlSWhPUXpqUmxHbzhxckI3M0cyeVhjN1RGS0N3ZXVCZHV3d3NRaWExdWxCRGxJcFJENU1KdUZ4LUpWMHAtMjI?oc=5\" target=\"_blank\">Microsoft admits faulty drivers were killing Windows 11 battery life for years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font>",
-      "published": "2026-05-18T15:22:00+00:00",
-      "source": "PCWorld"
+      "title": "Hackers Abuse Microsoft Entra ID Accounts to Exfiltrate Microsoft 365 and Azure Data - CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZmluM0MxSkNKME9adjdhV1lYOW4yZnBRN29zczlNT1VvWF9GVDJvYzM5S0pPYUpvZTNSWWpvODg5WG1paVc3MTlNaEhsSGQwZ1h2WXp1dFFMZEhTUVpyZXRCaWJjNGpRM0pBbWoxUDhWWUtyWGhmeHdHQUzSAYIBQVVfeXFMTzE3WXBFbTNfSDg0MldDX3N6N3ZUM3BQZHFjOUE3dVBqQURzYUNldEtnMTk2R2JEcnJBMG1QUGVoR3BZUEN4bUZ4X2RZb2hpb0MyX2p3ODJSdlJ6SGJ0QTk0U29BNks5c2sweWtoQ2lYX1JreTBiTFhmTWhMRjh5OEtzUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZmluM0MxSkNKME9adjdhV1lYOW4yZnBRN29zczlNT1VvWF9GVDJvYzM5S0pPYUpvZTNSWWpvODg5WG1paVc3MTlNaEhsSGQwZ1h2WXp1dFFMZEhTUVpyZXRCaWJjNGpRM0pBbWoxUDhWWUtyWGhmeHdHQUzSAYIBQVVfeXFMTzE3WXBFbTNfSDg0MldDX3N6N3ZUM3BQZHFjOUE3dVBqQURzYUNldEtnMTk2R2JEcnJBMG1QUGVoR3BZUEN4bUZ4X2RZb2hpb0MyX2p3ODJSdlJ6SGJ0QTk0U29BNks5c2sweWtoQ2lYX1JreTBiTFhmTWhMRjh5OEtzUQ?oc=5\" target=\"_blank\">Hackers Abuse Microsoft Entra ID Accounts to Exfiltrate Microsoft 365 and Azure Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyberSecurityNews</font>",
+      "published": "2026-05-19T11:42:44+00:00",
+      "source": "CyberSecurityNews"
     },
     {
-      "title": "‘Reboot Your PC’—Microsoft Changes ‘Most Windows Devices’ In June - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDM2TUROUS1UYVQ0eG1vem1KSndlZnUyZExXa1FfVVZ3WUoweVgwZXd1M0RTLWZsWWtVb1BVbXJ3T2g4Y2F5WndJQk5vWXphMUxhYnB6TWQtbmIxTjR5M2VMWjNtbXFnclN3d1M2Zm9mcnJCMktGV0xqMFc5amY2bi1Eb1N2SmNlY0EyWTFJeHM1MGlfakJxejFTbWQ5R0lsNkptTlBpaFdaMGJ0cWlZVWZ5UWhodw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDM2TUROUS1UYVQ0eG1vem1KSndlZnUyZExXa1FfVVZ3WUoweVgwZXd1M0RTLWZsWWtVb1BVbXJ3T2g4Y2F5WndJQk5vWXphMUxhYnB6TWQtbmIxTjR5M2VMWjNtbXFnclN3d1M2Zm9mcnJCMktGV0xqMFc5amY2bi1Eb1N2SmNlY0EyWTFJeHM1MGlfakJxejFTbWQ5R0lsNkptTlBpaFdaMGJ0cWlZVWZ5UWhodw?oc=5\" target=\"_blank\">‘Reboot Your PC’—Microsoft Changes ‘Most Windows Devices’ In June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-05-18T19:02:00+00:00",
-      "source": "Forbes"
+      "title": "Corsica Technologies Recognized with Microsoft Verified Managed XDR Solution Status - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXIzbjRlZXIySVhxcG42WVdQSzA0TDlwVDJ0NkNCemF1ZzZ2NVAtaFNTNjhrYzNfWDN6aFpnQUlGWEEwQnJmRmJGQks2bkdyOGxSMWJoYUt4bVVXUFY3R2FmZS1FYWlHLXpfNkVHdWdOZmFjUFFINU8yWG81OExjblU2eGwyRnFQVi0xSzRXckhzUHY4OGxIOUJrQzZvMWlG?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXIzbjRlZXIySVhxcG42WVdQSzA0TDlwVDJ0NkNCemF1ZzZ2NVAtaFNTNjhrYzNfWDN6aFpnQUlGWEEwQnJmRmJGQks2bkdyOGxSMWJoYUt4bVVXUFY3R2FmZS1FYWlHLXpfNkVHdWdOZmFjUFFINU8yWG81OExjblU2eGwyRnFQVi0xSzRXckhzUHY4OGxIOUJrQzZvMWlG?oc=5\" target=\"_blank\">Corsica Technologies Recognized with Microsoft Verified Managed XDR Solution Status</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "published": "2026-05-20T13:00:00+00:00",
+      "source": "Yahoo Finance Singapore"
     },
     {
-      "title": "Microsoft confirms patching issues in restricted Windows networks - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpIeGZPWUtjR29mTFliQjlubkFaUWhDSWpla3VEajREWjRwS2lkM3ZNcndnMXBZNzYydDdncTY3SVlGcWZyTzg0bzRyWE55V0NaR1FYV1kzOU5OM29CaTkzR1VvWFhPcEJ0OGhDNUpjbmdwX1hfb1pQeTBCazlYSzB4bDZhNHlLXzNmdnBvYzh4SDdYYnowUndZME14dllHNVJlY05YaTRPcTF4Tlp6cDlIVVbSAboBQVVfeXFMTUNKcXVYcVU5X3BqUGJjNGE3MmdGNUFPV0ZFLXFuMWs5WXJkRXkzeHd2VGNrWldjenBmVG5wSXZjZEs0Z2tmZ242MlZNR3ZJVVlGbjZhQm5MOUpMbnI3RUNMN3kycEVqY2RUQmJYVmxLYllxZkRHQ2RHeDRRQ095SDdIV1p1bDNMc3MtVExIaXpIZUtrM09wa3YxT3BCLU1OZkhMQi1manhHNWY1UDktQ1FSa29BTjQtejVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpIeGZPWUtjR29mTFliQjlubkFaUWhDSWpla3VEajREWjRwS2lkM3ZNcndnMXBZNzYydDdncTY3SVlGcWZyTzg0bzRyWE55V0NaR1FYV1kzOU5OM29CaTkzR1VvWFhPcEJ0OGhDNUpjbmdwX1hfb1pQeTBCazlYSzB4bDZhNHlLXzNmdnBvYzh4SDdYYnowUndZME14dllHNVJlY05YaTRPcTF4Tlp6cDlIVVbSAboBQVVfeXFMTUNKcXVYcVU5X3BqUGJjNGE3MmdGNUFPV0ZFLXFuMWs5WXJkRXkzeHd2VGNrWldjenBmVG5wSXZjZEs0Z2tmZ242MlZNR3ZJVVlGbjZhQm5MOUpMbnI3RUNMN3kycEVqY2RUQmJYVmxLYllxZkRHQ2RHeDRRQ095SDdIV1p1bDNMc3MtVExIaXpIZUtrM09wa3YxT3BCLU1OZkhMQi1manhHNWY1UDktQ1FSa29BTjQtejVB?oc=5\" target=\"_blank\">Microsoft confirms patching issues in restricted Windows networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-05-19T11:22:15+00:00",
-      "source": "BleepingComputer"
+      "title": "CAI Advances Multicloud and Secure AI Strategy with AWS and Microsoft - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhsSVRFYVFEc0d2ZzFYeEVTVDloSDhCbjFDY2VQSkx2bER1VXBWbllPN1BYOFRyZ3M5S3kwMmFxMk41S3VmeFhtSUJfRzhlUUhDSExzWC1pS1g3YnRhN3VsYTlLN3o4Mks3Q3k2TnJmQVMwZW5oVWo5dE03SGJObjFFRlVtNld4TlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhsSVRFYVFEc0d2ZzFYeEVTVDloSDhCbjFDY2VQSkx2bER1VXBWbllPN1BYOFRyZ3M5S3kwMmFxMk41S3VmeFhtSUJfRzhlUUhDSExzWC1pS1g3YnRhN3VsYTlLN3o4Mks3Q3k2TnJmQVMwZW5oVWo5dE03SGJObjFFRlVtNld4TlE?oc=5\" target=\"_blank\">CAI Advances Multicloud and Secure AI Strategy with AWS and Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+      "published": "2026-05-20T13:02:00+00:00",
+      "source": "Yahoo! Finance Canada"
     },
     {
-      "title": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU02S3JwTHA0VjFGM3Jra3lhX2RGcVRhZWF4TENaZjJxV3pUWS1Sb24xVVY5Z29kYTR6cXpnWXBRQlAtYXN3Q0FVX1psLVRfazNCVHFQRzlNc1lJMV9YN2RJbmNpZEJGdE0xVDhvZFhRaFA5LVBPaXF2ZW8wSFhrdWdwZHV0V0dRMFRYWW84cTR0SWRYRFdLNFY4cmFXcnA2b0FVcUNTV3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU02S3JwTHA0VjFGM3Jra3lhX2RGcVRhZWF4TENaZjJxV3pUWS1Sb24xVVY5Z29kYTR6cXpnWXBRQlAtYXN3Q0FVX1psLVRfazNCVHFQRzlNc1lJMV9YN2RJbmNpZEJGdE0xVDhvZFhRaFA5LVBPaXF2ZW8wSFhrdWdwZHV0V0dRMFRYWW84cTR0SWRYRFdLNFY4cmFXcnA2b0FVcUNTV3c?oc=5\" target=\"_blank\">Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-05-19T13:00:00+00:00",
-      "source": "The Verge"
+      "title": "How To Mitigate The Microsoft Windows BitLocker ‘Angry Hacker’ 0-Day - Yahoo News Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2VQWFRTY2thNGNwbzJFSVRzaV8zUVZpWE56QlhnM3dUQ1Q1ZWNzS2F3bTgwakNJZXlCUkt4YTVEOGpOZk54NEh6ZndyeUhiYTNuOVU1THpWbm02TmFySmdLWkxMMWUxZWk1UVJhd3VmTmlMNHFYSWJiM0dOYWszVUhQLUlRY21lRlFB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2VQWFRTY2thNGNwbzJFSVRzaV8zUVZpWE56QlhnM3dUQ1Q1ZWNzS2F3bTgwakNJZXlCUkt4YTVEOGpOZk54NEh6ZndyeUhiYTNuOVU1THpWbm02TmFySmdLWkxMMWUxZWk1UVJhd3VmTmlMNHFYSWJiM0dOYWszVUhQLUlRY21lRlFB?oc=5\" target=\"_blank\">How To Mitigate The Microsoft Windows BitLocker ‘Angry Hacker’ 0-Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Singapore</font>",
+      "published": "2026-05-20T14:16:09+00:00",
+      "source": "Yahoo News Singapore"
     },
     {
-      "title": "Microsoft reveals new business Surface devices with Intel and Qualcomm processors - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFd6N2pVVHlZYTlQVklhanQxbVRZU3BqdFlCYW5kYlRRWFlKTlpJUHJsc05wV0xzaERKeEVES1B6dHV6cHVncEdpTWFIUUEzNVNwUUVtU001RmlJdVhBQ1pPVE11ZUZIdWJON2xlM1prZkgyb1JaZ1BDamJ5eEZaTmtGMXcwWnd2S0hFUGJUU2N0U0NETzZ4ekMxdmREWm1ldXh5dTJlM1d5TGJFNktFa0VYb1MwTG0xcTJV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSFd6N2pVVHlZYTlQVklhanQxbVRZU3BqdFlCYW5kYlRRWFlKTlpJUHJsc05wV0xzaERKeEVES1B6dHV6cHVncEdpTWFIUUEzNVNwUUVtU001RmlJdVhBQ1pPVE11ZUZIdWJON2xlM1prZkgyb1JaZ1BDamJ5eEZaTmtGMXcwWnd2S0hFUGJUU2N0U0NETzZ4ekMxdmREWm1ldXh5dTJlM1d5TGJFNktFa0VYb1MwTG0xcTJV?oc=5\" target=\"_blank\">Microsoft reveals new business Surface devices with Intel and Qualcomm processors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-05-19T14:07:13+00:00",
-      "source": "Seeking Alpha"
+      "title": "S. 'Soma' Somasegar, 1966-2026: Microsoft and Madrona leader was a champion of developers and startups - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmZ1bS1VcW1qSlRQNm1lUUlXVnhVSC14VnI5cS0yZmtpMkNGYmotUGFCVUtrYWlwdmZtdmdHOXdKc0JuUHFxSnhjb0MtUDJ4SzIwYWV3eEY0UkFOUU5xZWQ0ZWh0UkJ2ZWMxRWVuV3doRUhkQjVWV29RMTVQdkdpd3ctY2hBeDVYWllHclFicnlzdEh2RlpiV3NVV3haallKQmIzNGlDdE41N2N0Ykw4MEFsOGxfdzY0VDZNd1MwSGI1d2JtZGlr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmZ1bS1VcW1qSlRQNm1lUUlXVnhVSC14VnI5cS0yZmtpMkNGYmotUGFCVUtrYWlwdmZtdmdHOXdKc0JuUHFxSnhjb0MtUDJ4SzIwYWV3eEY0UkFOUU5xZWQ0ZWh0UkJ2ZWMxRWVuV3doRUhkQjVWV29RMTVQdkdpd3ctY2hBeDVYWllHclFicnlzdEh2RlpiV3NVV3haallKQmIzNGlDdE41N2N0Ykw4MEFsOGxfdzY0VDZNd1MwSGI1d2JtZGlr?oc=5\" target=\"_blank\">S. 'Soma' Somasegar, 1966-2026: Microsoft and Madrona leader was a champion of developers and startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "published": "2026-05-20T00:06:27+00:00",
+      "source": "GeekWire"
     },
     {
-      "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
-      "published": "2026-05-19T13:07:30+00:00",
-      "source": "Windows Blog"
+      "title": "Coming to XBOX Game Pass: Forza Horizon 6, Escape Simulator, Jurassic World Evolution 3, and More - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15cy1JZVhKTlN6YU14a2VHX2swUm5COTJfQzUySnctOEx4dTd6YUZLM200aTE0N3F4dy1BMWlhMkk4bFhScXhmQ0xWQVg3eVBCZmxFOG5Xek43MmxxdTB6eDFESzRhSnZsVk15b2hpVHV4MmlPNHdJaEtR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE15cy1JZVhKTlN6YU14a2VHX2swUm5COTJfQzUySnctOEx4dTd6YUZLM200aTE0N3F4dy1BMWlhMkk4bFhScXhmQ0xWQVg3eVBCZmxFOG5Xek43MmxxdTB6eDFESzRhSnZsVk15b2hpVHV4MmlPNHdJaEtR?oc=5\" target=\"_blank\">Coming to XBOX Game Pass: Forza Horizon 6, Escape Simulator, Jurassic World Evolution 3, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XBOX Wire</font>",
+      "published": "2026-05-19T17:20:39+00:00",
+      "source": "XBOX Wire"
     },
     {
-      "title": "How Microsoft Stock Can Climb To $600 - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQREVZak9lTVVOS2hOOU8yd2RhQkNfSUtSalBqZFBWTTloQ3d3Q2Q4MzJoN0dVNzJXZG1pQmoxeDdNNzItWS1Oc3BnQzNWTXdPUGhmNzlIam94M2oySzdjdVdGWk9BSGZlZDdYM3dzSjlLWWVUS09OeTNmR3NkeUNiUmhsbTRlSDdlRDRBSkxuZEx3V0RKcjNvWEJwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQREVZak9lTVVOS2hOOU8yd2RhQkNfSUtSalBqZFBWTTloQ3d3Q2Q4MzJoN0dVNzJXZG1pQmoxeDdNNzItWS1Oc3BnQzNWTXdPUGhmNzlIam94M2oySzdjdVdGWk9BSGZlZDdYM3dzSjlLWWVUS09OeTNmR3NkeUNiUmhsbTRlSDdlRDRBSkxuZEx3V0RKcjNvWEJwQQ?oc=5\" target=\"_blank\">How Microsoft Stock Can Climb To $600</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-05-18T12:39:36+00:00",
-      "source": "Forbes"
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SaF9FZkhyczJzQUdPZ3cyeVl0XzNvWEdRZmxLa3ZqWkRBT2lNb1J1NUNEdWpVVFUxVHZZV0tUemQwampadGNhc2E4VkNMVm5Oa1ZGa0Q1TGVGbGF1QUNGWGQ2SkdWY3FGbzgtRHI0eENXWHJ5UmUzQ1VtTks?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5SaF9FZkhyczJzQUdPZ3cyeVl0XzNvWEdRZmxLa3ZqWkRBT2lNb1J1NUNEdWpVVFUxVHZZV0tUemQwampadGNhc2E4VkNMVm5Oa1ZGa0Q1TGVGbGF1QUNGWGQ2SkdWY3FGbzgtRHI0eENXWHJ5UmUzQ1VtTks?oc=5\" target=\"_blank\">Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-05-20T08:28:00+00:00",
+      "source": "The Hacker News"
     }
   ],
   "product_launches": [
-    {
-      "title": "CMA launches investigation into Microsoft business software - Computer Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2duQk91bGR5UlNIUVFfZHlyamE4dHRXeW51REdrd3dGMEY1SHI4NndBS1JCdG5yZEhfektBRi1NM21NT3dlVHREcTZtVENHUDhscGFzUXIyM1lfUXR6a3NhTkp3ZFMzM3BIVXVDNUM3RElFOEtfQXctQzBIaUxxcXBxQmJhVEo5Zkx6V2RDZHNBZFRuX2NLMmJDdzJTcWhhOHdGell5VGk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2duQk91bGR5UlNIUVFfZHlyamE4dHRXeW51REdrd3dGMEY1SHI4NndBS1JCdG5yZEhfektBRi1NM21NT3dlVHREcTZtVENHUDhscGFzUXIyM1lfUXR6a3NhTkp3ZFMzM3BIVXVDNUM3RElFOEtfQXctQzBIaUxxcXBxQmJhVEo5Zkx6V2RDZHNBZFRuX2NLMmJDdzJTcWhhOHdGell5VGk?oc=5\" target=\"_blank\">CMA launches investigation into Microsoft business software</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computer Weekly</font>",
-      "published": "2026-05-14T16:00:58+00:00",
-      "source": "Computer Weekly"
-    },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2026-03-09T07:00:00+00:00",
       "source": "Microsoft"
-    },
-    {
-      "title": "Zetifi launches Microsoft-native fleet safety tool - IT Brief Australia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHlyeHRXN295c0w1VjJGNldndjlza244VnhnLTRzTF9iUU1qaUhYaVhxMDNteVRxTmJzWGRIRkFDaGFaeEtleUY3NWhGaG5CaWd5SmhqZ055SjF3WWlQc25aMmo5TnJyOERHeWZybl9KaUNjeFVXUHpKV25FdFloOVJVdkczQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHlyeHRXN295c0w1VjJGNldndjlza244VnhnLTRzTF9iUU1qaUhYaVhxMDNteVRxTmJzWGRIRkFDaGFaeEtleUY3NWhGaG5CaWd5SmhqZ055SjF3WWlQc25aMmo5TnJyOERHeWZybl9KaUNjeFVXUHpKV25FdFloOVJVdkczQQ?oc=5\" target=\"_blank\">Zetifi launches Microsoft-native fleet safety tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Brief Australia</font>",
-      "published": "2026-05-18T23:38:00+00:00",
-      "source": "IT Brief Australia"
     },
     {
       "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - VentureBeat",
@@ -91,25 +77,35 @@
       "source": "VentureBeat"
     },
     {
-      "title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem - GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzFrSVp0aVRwYW9yWVZFcjUyekc4ZHJKVTNFbzhDYXl1eTVlM01nNUFMSER0cWZwODZReUZkSlVpVE1UdnRGQklneDhldkRQSnBiaUtnUjg1QVFHekl1cFp5bC13eEdCei14d216TVVTUEoxZkNUMnluTUMtOEQzdTVtazdUNzNqTVdPaWVGdTJhVDRYQTlBQS14c1ZKUmQydXBTY3JNVHRMWjloVEwxSUliX0RaeDJuRm90MnVUbVhlWElxTVZDQw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzFrSVp0aVRwYW9yWVZFcjUyekc4ZHJKVTNFbzhDYXl1eTVlM01nNUFMSER0cWZwODZReUZkSlVpVE1UdnRGQklneDhldkRQSnBiaUtnUjg1QVFHekl1cFp5bC13eEdCei14d216TVVTUEoxZkNUMnluTUMtOEQzdTVtazdUNzNqTVdPaWVGdTJhVDRYQTlBQS14c1ZKUmQydXBTY3JNVHRMWjloVEwxSUliX0RaeDJuRm90MnVUbVhlWElxTVZDQw?oc=5\" target=\"_blank\">CMA launches strategic market status investigation into Microsoft’s business software ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GOV.UK</font>",
-      "published": "2026-05-14T10:20:00+00:00",
-      "source": "GOV.UK"
+      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
+      "published": "2026-01-08T08:00:00+00:00",
+      "source": "PayPal Newsroom"
+    },
+    {
+      "title": "Microsoft launches “vibe working” in Word, Excel, and PowerPoint - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlNIWVphMnFILU1vM2ZLX090VW5Ec1hJWUZGZHNyS3hfMDJUeEZsYXFlbE0tQ3ltWVNTX0xJTTJ0MjNPSFVObk5MWUtsYk1mZEFDZDRBaWFiYW8wNlZydV9meFJTcHVXSGhrSGFtMTI4MmpxNm9vcXZSU3ZHZDVmLWFWb2EwSFVHNkpEY0dLQmlXZEg1eWtwYVBhWEIySVlG?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlNIWVphMnFILU1vM2ZLX090VW5Ec1hJWUZGZHNyS3hfMDJUeEZsYXFlbE0tQ3ltWVNTX0xJTTJ0MjNPSFVObk5MWUtsYk1mZEFDZDRBaWFiYW8wNlZydV9meFJTcHVXSGhrSGFtMTI4MmpxNm9vcXZSU3ZHZDVmLWFWb2EwSFVHNkpEY0dLQmlXZEg1eWtwYVBhWEIySVlG?oc=5\" target=\"_blank\">Microsoft launches “vibe working” in Word, Excel, and PowerPoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-04-23T07:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5\" target=\"_blank\">Microsoft Launches Its Own Legal Agent For Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artificial Lawyer</font>",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": "Artificial Lawyer"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-19",
-      "close": 425.7099914550781
+      "date": "2026-05-20",
+      "close": 414.3999938964844
     },
     "history": [
-      {
-        "date": "2026-05-11",
-        "close": 412.6600036621094
-      },
       {
         "date": "2026-05-12",
         "close": 407.7699890136719
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-05-19",
-        "close": 425.7099914550781
+        "close": 417.4200134277344
+      },
+      {
+        "date": "2026-05-20",
+        "close": 414.3999938964844
       }
     ],
     "name": "Microsoft Corporation"
