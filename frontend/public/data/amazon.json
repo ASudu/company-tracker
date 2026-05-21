@@ -2,79 +2,72 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-05-20T14:35:13.137097+00:00",
+  "fetched_at": "2026-05-21T14:40:51.062407+00:00",
   "news": [
-    {
-      "title": "Amazon E-Bikes Take Root in Manhattan and Brooklyn - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObzlCSTN3THRGeVBnRUQ3YTgteVRhazVBa3QwUGprZkFPV05fWUp5VTFEOElQWmNHUWlEWC1oWUpwZ0FlRWhmZzNNdkUtLVFjYUNPY2tfSFNiNy13QzBKa2gwRDJJeEU3a3Y4Mnh4SmVVTG8xR0pZVkxBdW5EUW8wRDBn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObzlCSTN3THRGeVBnRUQ3YTgteVRhazVBa3QwUGprZkFPV05fWUp5VTFEOElQWmNHUWlEWC1oWUpwZ0FlRWhmZzNNdkUtLVFjYUNPY2tfSFNiNy13QzBKa2gwRDJJeEU3a3Y4Mnh4SmVVTG8xR0pZVkxBdW5EUW8wRDBn?oc=5\" target=\"_blank\">Amazon E-Bikes Take Root in Manhattan and Brooklyn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-05-19T18:11:43+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Amazon’s Nvidia Alternative Starts Winning Over AI Developers - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpkZ1VLSzNseVV4bk5RdUFUTDNDd2I5RjlGR21IOHR2SmxRalRjci0wQldiYTVpeW92d2tsWG9RNGZ0Z2tlZ2J0ZjJzWXg1WjhDVUhQLUVrWUpOektXaWxoV2t3dl80ZGJTcHVYaC1LRHBiQkhYY085bzlhMDlHMTZ5SHNtWnU2UmFmelcyWjNHcjFFUVM3R3VINA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpkZ1VLSzNseVV4bk5RdUFUTDNDd2I5RjlGR21IOHR2SmxRalRjci0wQldiYTVpeW92d2tsWG9RNGZ0Z2tlZ2J0ZjJzWXg1WjhDVUhQLUVrWUpOektXaWxoV2t3dl80ZGJTcHVYaC1LRHBiQkhYY085bzlhMDlHMTZ5SHNtWnU2UmFmelcyWjNHcjFFUVM3R3VINA?oc=5\" target=\"_blank\">Amazon’s Nvidia Alternative Starts Winning Over AI Developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-05-19T13:00:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Amazon, IBD's Stock Of The Day, Named 'Franchise Pick' As $3 Trillion Milestone Nears - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXNGMUVLR0pVLWZFZEJJYVBNZmlkU0VLYXdxY19pUmhHWVBRRmZDOTVfS0VfNTA4dk1rc0JxSmZpNmtOME91TE1xb2RDSXZmT1ZPV0hDSGNLeW5PNkt1VFdYNlhTMHFVY3JCbXcxSkNPUFQ3eVBDZmh4Q0hLaTlrWFo2UnBSWU1qSXlKUG50QXNDVHpUTi04LV9rT3RZY0dBYnRoSlNjQ1Z1MGlyOTNVbHpYQ28yVHcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXNGMUVLR0pVLWZFZEJJYVBNZmlkU0VLYXdxY19pUmhHWVBRRmZDOTVfS0VfNTA4dk1rc0JxSmZpNmtOME91TE1xb2RDSXZmT1ZPV0hDSGNLeW5PNkt1VFdYNlhTMHFVY3JCbXcxSkNPUFQ3eVBDZmh4Q0hLaTlrWFo2UnBSWU1qSXlKUG50QXNDVHpUTi04LV9rT3RZY0dBYnRoSlNjQ1Z1MGlyOTNVbHpYQ28yVHcw?oc=5\" target=\"_blank\">Amazon, IBD's Stock Of The Day, Named 'Franchise Pick' As $3 Trillion Milestone Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-05-18T20:22:00+00:00",
-      "source": "Investor's Business Daily"
-    },
-    {
-      "title": "Warren Buffett's Successor Greg Abel Just Dumped Amazon Stock: 2 AI Stocks He Is Still Bullish On - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWp6eXpNTENSQ3JzTjhrQVBLWV9nbEZMc2t4cTRwa1Y2SW1hQXpaYlMwdUwxeTdFOEx4MEdlMURYT1pVSks2Y1psalNoY2VqbnRLRGg1X3A5N045aTNMYzNVelJPdWxpeVdVUERGRUhNT1hmZkh3V0JyOVpkLXJ6ZXV0Z1N6M2Voa1FqOFhEcUJ0QUYzcVlYeg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWp6eXpNTENSQ3JzTjhrQVBLWV9nbEZMc2t4cTRwa1Y2SW1hQXpaYlMwdUwxeTdFOEx4MEdlMURYT1pVSks2Y1psalNoY2VqbnRLRGg1X3A5N045aTNMYzNVelJPdWxpeVdVUERGRUhNT1hmZkh3V0JyOVpkLXJ6ZXV0Z1N6M2Voa1FqOFhEcUJ0QUYzcVlYeg?oc=5\" target=\"_blank\">Warren Buffett's Successor Greg Abel Just Dumped Amazon Stock: 2 AI Stocks He Is Still Bullish On</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-05-20T05:45:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Amazon has thousands of Memorial Day offers. These 38 deals are actually worth it - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjNiSWF2bU43MFVycE5NZ3VCQ3lsZXJwMFVfcU5xbVZrTlR5QzJOX3BNMDV1RTh3VHJGUHZBdmtTN1kxLWxXUXFjR2Itb3NTZXhEbmJTS1FoaVhDM09UNGttR1czY25DVE4ycEppd3ozcjNfcG1aSUc3QlRjSTZzTUpwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjNiSWF2bU43MFVycE5NZ3VCQ3lsZXJwMFVfcU5xbVZrTlR5QzJOX3BNMDV1RTh3VHJGUHZBdmtTN1kxLWxXUXFjR2Itb3NTZXhEbmJTS1FoaVhDM09UNGttR1czY25DVE4ycEppd3ozcjNfcG1aSUc3QlRjSTZzTUpwQQ?oc=5\" target=\"_blank\">Amazon has thousands of Memorial Day offers. These 38 deals are actually worth it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-05-20T13:31:00+00:00",
-      "source": "CNN"
-    },
-    {
-      "title": "Amazon Already Has Tons of Early Memorial Day Sales Live—Including Under-$25 Deals on Fashion, Home, and More - Real Simple",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3lPbElJSkFubUYxbkkzZVpjLUMzMkFtMmw4WWNkR2hWbks4U0lBOXBBQW9MQmpYVWNLYk5aR0V5VlNibUlTV1RINXFlNXZoSHVqeUpFVFlOVEdfSFR5X1oxYjJmTXZoQl8xcGtHR1RqRnU0Y19scTdXS0tPdW9OdE9NcVhKMUZU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3lPbElJSkFubUYxbkkzZVpjLUMzMkFtMmw4WWNkR2hWbks4U0lBOXBBQW9MQmpYVWNLYk5aR0V5VlNibUlTV1RINXFlNXZoSHVqeUpFVFlOVEdfSFR5X1oxYjJmTXZoQl8xcGtHR1RqRnU0Y19scTdXS0tPdW9OdE9NcVhKMUZU?oc=5\" target=\"_blank\">Amazon Already Has Tons of Early Memorial Day Sales Live—Including Under-$25 Deals on Fashion, Home, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Real Simple</font>",
-      "published": "2026-05-19T04:00:00+00:00",
-      "source": "Real Simple"
-    },
-    {
-      "title": "The Smartest Things to Buy Over Memorial Day Weekend - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GZ3hQaVdVQVlGVFJxWU9aQk9GTEJzTjlQSmtvMnVIcmpyZ0JOVmNPcUZ3bDRSODdWTkhlcFpuNWVsMnRqRkRnblUxVzN3dGhwVmRTUmpLMGU3czlwVG5JVkxVYURWaUhiTXVTWml0TjBEa2Z4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9GZ3hQaVdVQVlGVFJxWU9aQk9GTEJzTjlQSmtvMnVIcmpyZ0JOVmNPcUZ3bDRSODdWTkhlcFpuNWVsMnRqRkRnblUxVzN3dGhwVmRTUmpLMGU3czlwVG5JVkxVYURWaUhiTXVTWml0TjBEa2Z4?oc=5\" target=\"_blank\">The Smartest Things to Buy Over Memorial Day Weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cut</font>",
-      "published": "2026-05-20T13:00:32+00:00",
-      "source": "The Cut"
-    },
     {
       "title": "Watch CNBC's full interview with Amazon founder Jeff Bezos - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnJmenV5NjNYS1ZZMlVickpjaFBFdTEyYjhJZDhxenpFeFZCaER6U3Y5OGQ5am9Vczg1NFFvejdBWUJ3ZjNMYjBfOFZlZ1dqSXNDYmlxcDB6N1V1cGZFdWZ1TThmemJBMEJEQTFYVmlydlR5aFZDMU1XZFpWR0t6VVVXdkg3YUdLY3VsQW9hRTg2V21qTEItdFc5TC1zSFNJd3c?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnJmenV5NjNYS1ZZMlVickpjaFBFdTEyYjhJZDhxenpFeFZCaER6U3Y5OGQ5am9Vczg1NFFvejdBWUJ3ZjNMYjBfOFZlZ1dqSXNDYmlxcDB6N1V1cGZFdWZ1TThmemJBMEJEQTFYVmlydlR5aFZDMU1XZFpWR0t6VVVXdkg3YUdLY3VsQW9hRTg2V21qTEItdFc5TC1zSFNJd3c?oc=5\" target=\"_blank\">Watch CNBC's full interview with Amazon founder Jeff Bezos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-05-20T13:49:32+00:00",
+      "published": "2026-05-20T13:49:00+00:00",
       "source": "CNBC"
+    },
+    {
+      "title": "Jeff Bezos calls Amazon’s $40m Melania film ‘a good business decision’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlFHZ05Dbl9RSEc5bjQ1b0JkQkNybzJlQXJQZlhXQ1JQbkJRbTFXMktBZjhMZzV6SlVoUWtoa2d6SFJSYXVDN1ZRb2pNWHo3TDhXVG1XamR4M1VwTTd4dlhRU3M4NE0zZVlQdGltbzM2dUIwbmFxSVNMWjVqeUV3dUU1Mzl5SkFJX29v?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlFHZ05Dbl9RSEc5bjQ1b0JkQkNybzJlQXJQZlhXQ1JQbkJRbTFXMktBZjhMZzV6SlVoUWtoa2d6SFJSYXVDN1ZRb2pNWHo3TDhXVG1XamR4M1VwTTd4dlhRU3M4NE0zZVlQdGltbzM2dUIwbmFxSVNMWjVqeUV3dUU1Mzl5SkFJX29v?oc=5\" target=\"_blank\">Jeff Bezos calls Amazon’s $40m Melania film ‘a good business decision’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-05-20T16:32:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Jeff Bezos torches Mamdani for pouring $43B into mismanaged NYC schools - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjVTd21kS1ZJWEdBczRKbGMxamVwME1TZncwU25POENhRno2QUFFMDE4X2t2akdVeXEySVhHYkNERUV6UDlJSk4zdmR2YW9PTWdzT2g0THFBSi0tLXBhT3Nrd3ZFOUZwR2RibVBqU0d0U0N2Rk9acEdRREt2dWtxbVdmcHZneW84bGxVUTVOOFRDNlJqdURrbkFHTUI5SWZTb3BjMnBKS0h1a253Zmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjVTd21kS1ZJWEdBczRKbGMxamVwME1TZncwU25POENhRno2QUFFMDE4X2t2akdVeXEySVhHYkNERUV6UDlJSk4zdmR2YW9PTWdzT2g0THFBSi0tLXBhT3Nrd3ZFOUZwR2RibVBqU0d0U0N2Rk9acEdRREt2dWtxbVdmcHZneW84bGxVUTVOOFRDNlJqdURrbkFHTUI5SWZTb3BjMnBKS0h1a253Zmc?oc=5\" target=\"_blank\">Jeff Bezos torches Mamdani for pouring $43B into mismanaged NYC schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "published": "2026-05-20T23:15:22+00:00",
+      "source": "New York Post"
+    },
+    {
+      "title": "Amazon E-Bikes Take Root in Manhattan and Brooklyn - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObzlCSTN3THRGeVBnRUQ3YTgteVRhazVBa3QwUGprZkFPV05fWUp5VTFEOElQWmNHUWlEWC1oWUpwZ0FlRWhmZzNNdkUtLVFjYUNPY2tfSFNiNy13QzBKa2gwRDJJeEU3a3Y4Mnh4SmVVTG8xR0pZVkxBdW5EUW8wRDBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObzlCSTN3THRGeVBnRUQ3YTgteVRhazVBa3QwUGprZkFPV05fWUp5VTFEOElQWmNHUWlEWC1oWUpwZ0FlRWhmZzNNdkUtLVFjYUNPY2tfSFNiNy13QzBKa2gwRDJJeEU3a3Y4Mnh4SmVVTG8xR0pZVkxBdW5EUW8wRDBn?oc=5\" target=\"_blank\">Amazon E-Bikes Take Root in Manhattan and Brooklyn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-05-19T14:47:53+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Amazon's Best Memorial Day Weekend Travel Deals Are Reserved Just for Prime Members—Shop the 60 Best From $6 - Travel + Leisure",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmVpWjM3NmQwUmlNS0pMb3BTT1prOFd4ZFlOeUZqb2htdE9Cc3Z1NXRYUFRpMW5McFNpd2U0YmpKSkRpamRrdXRNTk92ZFFNWkZtN3JWODA3RkI2TDdJeWZFaU52V1pZSEFVejlvRU8tcGV0dWhic3luSlY3ZFZXUzB2S3RYZ3ZhNFcyMExMUDJJbThmb0tGWGZDVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmVpWjM3NmQwUmlNS0pMb3BTT1prOFd4ZFlOeUZqb2htdE9Cc3Z1NXRYUFRpMW5McFNpd2U0YmpKSkRpamRrdXRNTk92ZFFNWkZtN3JWODA3RkI2TDdJeWZFaU52V1pZSEFVejlvRU8tcGV0dWhic3luSlY3ZFZXUzB2S3RYZ3ZhNFcyMExMUDJJbThmb0tGWGZDVQ?oc=5\" target=\"_blank\">Amazon's Best Memorial Day Weekend Travel Deals Are Reserved Just for Prime Members—Shop the 60 Best From $6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel + Leisure</font>",
+      "published": "2026-05-21T10:00:00+00:00",
+      "source": "Travel + Leisure"
+    },
+    {
+      "title": "Amazon's Memorial Day Sale Is Packed with Thousands of Deals — the 100 Best Start at $5 and Go Up to 80% Off - People.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRG1YMTRRdEZNQ0p1bW5sUy1qWlJGMXY0dUhxV29CUE1VTlFETUtCR3RXVGF6azFHQWo1Sy1xdElFeFAwUFBTUm1WWTBJN1dmMDA0dHZZS2ZnQmpMcEFvTXRWM2VpOFE3RTN2dVM1SHI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRG1YMTRRdEZNQ0p1bW5sUy1qWlJGMXY0dUhxV29CUE1VTlFETUtCR3RXVGF6azFHQWo1Sy1xdElFeFAwUFBTUm1WWTBJN1dmMDA0dHZZS2ZnQmpMcEFvTXRWM2VpOFE3RTN2dVM1SHI?oc=5\" target=\"_blank\">Amazon's Memorial Day Sale Is Packed with Thousands of Deals — the 100 Best Start at $5 and Go Up to 80% Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-05-20T10:30:00+00:00",
+      "source": "People.com"
+    },
+    {
+      "title": "Save 20% on a pocket-size fan that keeps me cool in 100-degree weather - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUmNaY1VCWW1HN1NyVjZRV1hTT0oyTFEzbDFOT2dhaVU0ZGtZX1pOVkFSblFVdWxGZ2ozRlpmY0IyZGxOdFNNTG11c21lc0VaU1gwcUwtNHpfU3hKUHhyeURKX05kUHVzZXZUNnFFTUxHazZRZENZbmZRUENKTmE4VTV6ZnJ2dGt0UnFsQm1tLUNwSzA4ZWhOMG5iWERqYzNJWC1DcDFJTnpuZzNIVjBIS0IzMnZnLTEtYzdZUG9sRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUmNaY1VCWW1HN1NyVjZRV1hTT0oyTFEzbDFOT2dhaVU0ZGtZX1pOVkFSblFVdWxGZ2ozRlpmY0IyZGxOdFNNTG11c21lc0VaU1gwcUwtNHpfU3hKUHhyeURKX05kUHVzZXZUNnFFTUxHazZRZENZbmZRUENKTmE4VTV6ZnJ2dGt0UnFsQm1tLUNwSzA4ZWhOMG5iWERqYzNJWC1DcDFJTnpuZzNIVjBIS0IzMnZnLTEtYzdZUG9sRQ?oc=5\" target=\"_blank\">Save 20% on a pocket-size fan that keeps me cool in 100-degree weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+      "published": "2026-05-21T13:08:00+00:00",
+      "source": "USA Today"
+    },
+    {
+      "title": "How Amazon helps employees find support when it matters most - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeENxanY3Q2VHazdaRDRod1J2WFNWLVVsYlktR09fNUxQdXV6NzA2d3lLSElxY3M3YXBEODU1bmo5Tk5PRU45QlVIZzRtMkNrNDNtbVIyMmxrd1pRSHBzcUs1WlNYd0NWVkRCTmJtZjlDS09ER2ItR0E4UWctVUx5OWxlWXNELTdMTGxvaEhRaW9zVGtWTGR5cVliZlZlZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOeENxanY3Q2VHazdaRDRod1J2WFNWLVVsYlktR09fNUxQdXV6NzA2d3lLSElxY3M3YXBEODU1bmo5Tk5PRU45QlVIZzRtMkNrNDNtbVIyMmxrd1pRSHBzcUs1WlNYd0NWVkRCTmJtZjlDS09ER2ItR0E4UWctVUx5OWxlWXNELTdMTGxvaEhRaW9zVGtWTGR5cVliZlZlZw?oc=5\" target=\"_blank\">How Amazon helps employees find support when it matters most</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-05-21T13:08:17+00:00",
+      "source": "About Amazon"
     }
   ],
   "product_launches": [
     {
-      "title": "Amazon launches 30-minute delivery in dozens of cities - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBScWlCemZweGh3aTRjZjQyNU9ibzRsVl9ialhfdnFvWG9mSGhpV3FnM2V6TERjX1lMX25yYnFnZFpkSTkyQU04VXFTN3RWOXJEVnNTcnRMaEM0cnJmeU9LTUtlMlJDOHBpcF91LVMzY3l0eDRaRVhz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBScWlCemZweGh3aTRjZjQyNU9ibzRsVl9ialhfdnFvWG9mSGhpV3FnM2V6TERjX1lMX25yYnFnZFpkSTkyQU04VXFTN3RWOXJEVnNTcnRMaEM0cnJmeU9LTUtlMlJDOHBpcF91LVMzY3l0eDRaRVhz?oc=5\" target=\"_blank\">Amazon launches 30-minute delivery in dozens of cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-05-20T02:36:17+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Amazon now launches in Philadelphia: Get thousands of items delivered in 30 minutes or less - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUTItaFhISGM0ZFhVeS1HVVcwNkVSMVlObVNMM3hDUFVITnU3Nzl4OVJITnVXTEZCZ1phY0x3dHhMd3N3OThCdlhISlc4dWhfMHBZNUVaTkFwR3hSVWNHU2txWHFBQlZVSFV6bzZVVXpEeXpiblF3NzZudUtQUFpRUkdMaHVCQWliS2dtVlR3RENYeGxORFRZTzJydjV3M3VhbUhKdm95LXRTWVFxSmhGSWFucWpUMUJpMXFxLTFDQTFYZjFNWlBhTXFiTlU2bkdiUEZpcjYwRFhhb2Jz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUTItaFhISGM0ZFhVeS1HVVcwNkVSMVlObVNMM3hDUFVITnU3Nzl4OVJITnVXTEZCZ1phY0x3dHhMd3N3OThCdlhISlc4dWhfMHBZNUVaTkFwR3hSVWNHU2txWHFBQlZVSFV6bzZVVXpEeXpiblF3NzZudUtQUFpRUkdMaHVCQWliS2dtVlR3RENYeGxORFRZTzJydjV3M3VhbUhKdm95LXRTWVFxSmhGSWFucWpUMUJpMXFxLTFDQTFYZjFNWlBhTXFiTlU2bkdiUEZpcjYwRFhhb2Jz?oc=5\" target=\"_blank\">Amazon now launches in Philadelphia: Get thousands of items delivered in 30 minutes or less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-05-20T10:48:21+00:00",
-      "source": "MSN"
+      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": "About Amazon"
     },
     {
       "title": "The Harvest Table Founder Shares Milestone Moment as Full Product Line Launches on Amazon - Yahoo Finance",
@@ -84,32 +77,35 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-05-04T07:00:00+00:00",
-      "source": "About Amazon"
+      "title": "Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products - bbwinc.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5\" target=\"_blank\">Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbwinc.com</font>",
+      "published": "2026-02-20T08:00:00+00:00",
+      "source": "bbwinc.com"
     },
     {
-      "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes - AI News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORExaWVlNaUxlVGRoMHd6LTFBV0xXNzFESV9QVndVSUEwZXU5cW9iMC1kWHVlUklmaGhaSHZMTXNlT19RM0hDcDdvRlZIVUVTUHBDTjBhOG9HS0tyWGF4WDZaWUFqTGI1UzFPMDcxQlpWNjFKUVc3X3hPMjBFblVoVWZkdGxldnl3SFItRlN5SDFXQXJlcDhNaGRn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORExaWVlNaUxlVGRoMHd6LTFBV0xXNzFESV9QVndVSUEwZXU5cW9iMC1kWHVlUklmaGhaSHZMTXNlT19RM0hDcDdvRlZIVUVTUHBDTjBhOG9HS0tyWGF4WDZaWUFqTGI1UzFPMDcxQlpWNjFKUVc3X3hPMjBFblVoVWZkdGxldnl3SFItRlN5SDFXQXJlcDhNaGRn?oc=5\" target=\"_blank\">Amazon launches Alexa for Shopping as Rufus moves behind the scenes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-      "published": "2026-05-18T10:00:59+00:00",
-      "source": "AI News"
+      "title": "Amazon now launches in Philadelphia: Get thousands of items delivered in 30 minutes or less - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUTItaFhISGM0ZFhVeS1HVVcwNkVSMVlObVNMM3hDUFVITnU3Nzl4OVJITnVXTEZCZ1phY0x3dHhMd3N3OThCdlhISlc4dWhfMHBZNUVaTkFwR3hSVWNHU2txWHFBQlZVSFV6bzZVVXpEeXpiblF3NzZudUtQUFpRUkdMaHVCQWliS2dtVlR3RENYeGxORFRZTzJydjV3M3VhbUhKdm95LXRTWVFxSmhGSWFucWpUMUJpMXFxLTFDQTFYZjFNWlBhTXFiTlU2bkdiUEZpcjYwRFhhb2Jz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUTItaFhISGM0ZFhVeS1HVVcwNkVSMVlObVNMM3hDUFVITnU3Nzl4OVJITnVXTEZCZ1phY0x3dHhMd3N3OThCdlhISlc4dWhfMHBZNUVaTkFwR3hSVWNHU2txWHFBQlZVSFV6bzZVVXpEeXpiblF3NzZudUtQUFpRUkdMaHVCQWliS2dtVlR3RENYeGxORFRZTzJydjV3M3VhbUhKdm95LXRTWVFxSmhGSWFucWpUMUJpMXFxLTFDQTFYZjFNWlBhTXFiTlU2bkdiUEZpcjYwRFhhb2Jz?oc=5\" target=\"_blank\">Amazon now launches in Philadelphia: Get thousands of items delivered in 30 minutes or less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-05-20T10:48:21+00:00",
+      "source": "MSN"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5\" target=\"_blank\">Amazon launches an AI-powered audio Q&amp;A experience on product pages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-04-28T07:00:00+00:00",
+      "source": "TechCrunch"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-20",
-      "close": 262.55999755859375
+      "date": "2026-05-21",
+      "close": 263.6451110839844
     },
     "history": [
-      {
-        "date": "2026-05-12",
-        "close": 265.82000732421875
-      },
       {
         "date": "2026-05-13",
         "close": 270.1300048828125
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-05-20",
-        "close": 262.55999755859375
+        "close": 265.010009765625
+      },
+      {
+        "date": "2026-05-21",
+        "close": 263.6451110839844
       }
     ],
     "name": "Amazon.com, Inc."

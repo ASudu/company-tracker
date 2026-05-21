@@ -2,72 +2,86 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-05-20T14:35:15.814517+00:00",
+  "fetched_at": "2026-05-21T14:40:53.520022+00:00",
   "news": [
     {
-      "title": "\"I Cry In Shower\": Meta, LinkedIn Employees Share Fears, Anxiety Amid Layoffs - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUMwU0ltaHZlTUVCOEoyTlhiaW11Q1ptT3ZnMzg2cGlMUjNNUjFMbXZ4dmp3LTdvWl9kMjl0MmxmejIwcl9yX2d2SmlhR21pRFA0UW5NenIyMGtELWF4U2lvTm1QbkdGb0RDODhTSVk4RnNFei1USUl5UDd1RlRiSXM2MHhKVWZBUnpaT3hwOEZhYmJnWGVkNndBbEJzdkdpZDE2b2lmSjMtYU0zRUQyQzFlTmxNWHJGRGpIem5ZZWtMajlMZU1NTg?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUMwU0ltaHZlTUVCOEoyTlhiaW11Q1ptT3ZnMzg2cGlMUjNNUjFMbXZ4dmp3LTdvWl9kMjl0MmxmejIwcl9yX2d2SmlhR21pRFA0UW5NenIyMGtELWF4U2lvTm1QbkdGb0RDODhTSVk4RnNFei1USUl5UDd1RlRiSXM2MHhKVWZBUnpaT3hwOEZhYmJnWGVkNndBbEJzdkdpZDE2b2lmSjMtYU0zRUQyQzFlTmxNWHJGRGpIem5ZZWtMajlMZU1NTg?oc=5\" target=\"_blank\">\"I Cry In Shower\": Meta, LinkedIn Employees Share Fears, Anxiety Amid Layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5ES3paV2FtSGsxcUhMSHhFazVTR1BaLTBac2tIcGRsQnhvSi1FeXJLbmEweGh3RTJkWERqS042RDMxZkxHZHpWZE8wdUdKLWtSWnB6TTNlcnVZbE5vb0pGMHBmc1F0Ym5pR0NVYWdMa0ZmSE9NZHptQVV5c3Y?oc=5\" target=\"_blank\">Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQemNmRUgwODNpWmg5WHRBcHdFdnhSSlhZWUV2SzJBLVZVYW8xTVdrLWVwZV9ZWnBEZzNNb29LXzhMZ0tkdzNvMXVQa2t5UkQ3R0hDck5QRzlEM3ZTcTZSdFpPdTVJNkNBWi15NTN1Z0VXd01DTTZnY1cwdjc2Tjl3SFFOZmpuUQ?oc=5\" target=\"_blank\">Meta begins cutting thousands of jobs in sweeping layoffs. Here's how much it's paying in severance.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
-      "published": "2026-05-20T08:05:14+00:00",
-      "source": "NDTV"
+      "title": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEFoWUdIMTFJaWtwM3pCdUltTmZlOWRHTkIzVFZndWF5WUlSUnJmSkxBTUVyOXVGUE1weGw0UG9QaG9yeUJzc0l0dnpIZnVwcVJWN0pNTTUzZWpHaWxyb0M2UXNJTEJsQk4zLU16RkZOblhjUklfcVU1OWxkZHZMVjh3ZWxxVkJOeUFSUDRJRTBVdmFqSnNIVnpB0gGfAUFVX3lxTE5ra0M5dXhnWnA5RWllVUZ4Y2ZsRnh0OGNRRTVmcmczY0w4SE5Jclc5ZnRPMVpMTlkwUXYxN1BpWU9BMXdXT2RHbUxqdW83bjgtZTdvWDNuUFhnLW5fcW9DYkZ1b1ZWa3B1WnU2a1RTSmw3VTBjd0xraEgxMHpzTkJDcW9DNFdrVkw5LVFMQVlab25QYnRzeFNZVzR5d05hSQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEFoWUdIMTFJaWtwM3pCdUltTmZlOWRHTkIzVFZndWF5WUlSUnJmSkxBTUVyOXVGUE1weGw0UG9QaG9yeUJzc0l0dnpIZnVwcVJWN0pNTTUzZWpHaWxyb0M2UXNJTEJsQk4zLU16RkZOblhjUklfcVU1OWxkZHZMVjh3ZWxxVkJOeUFSUDRJRTBVdmFqSnNIVnpB0gGfAUFVX3lxTE5ra0M5dXhnWnA5RWllVUZ4Y2ZsRnh0OGNRRTVmcmczY0w4SE5Jclc5ZnRPMVpMTlkwUXYxN1BpWU9BMXdXT2RHbUxqdW83bjgtZTdvWDNuUFhnLW5fcW9DYkZ1b1ZWa3B1WnU2a1RTSmw3VTBjd0xraEgxMHpzTkJDcW9DNFdrVkw5LVFMQVlab25QYnRzeFNZVzR5d05hSQ?oc=5\" target=\"_blank\">Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE01alVaazVtTjl4WEphSEpXbmpsUmlnZHJMUlFTOEdOQ0hUeWdnZkNpVzRIVU9NSjVjNFV4Z3phNUczSmNoVTJIXzhwNjhDLXAyM0ktMUo3UXVNS0Z1dmZkN2cwMXRhT3ZrZFZFbk9TTkpkQnc?oc=5\" target=\"_blank\">Meta slashes 8,000 jobs as it pivots towards AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE51Y1pYU2hpa0Nlc0FIMGowMEJMME5wdDV3bUNMejNkSE1LeE44X1UtR29qUUdkMG5abk43WXR6T0lTNWVlYzdmSGdRSnVzZUNfb0VRbHhza01rZGlKNkZKeFJNbWRyMnBHNlVxTlhsTk1tSDlwVkQ5X090S3hEQQ?oc=5\" target=\"_blank\">Meta Has Reportedly Laid Off 8,000 Employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE92RWN4SWkwU01mNENEcXFFc05IZGNyNzV6dFRZdDd6dm1XWEtzMkVweDdVRUxaSjRkRDZSRVlNVUZyUzdNTlNzTkxzckhmTTV4Z2x5NFE5MGFBN1hKc19VOEtBZk4yeWpNc1IwWWVUc0dxTEYzSUVsTDQ3VQ?oc=5\" target=\"_blank\">Read the email Meta is sending to thousands of laid-off employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9udG9HS3ludkExQ0RjT0xmUTVPT1JoQ0cxQ1FXWjBmSFphUXRfR3JSOGc1UXNTMktjQTFTQ2YwenRMRUFsVjU4eHpVNW51WThiLU9CVE1wbTBoZDFVT21iY19hRTVpU1dNcWpJTUd3TTNCaUNQY1IwbEZqbw?oc=5\" target=\"_blank\">Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFFHWmVYem9MM0ZjSV8ycHpydWxsZG5HM2NCRnNvMlFiaGt0ZWdjam55WkV2NjJ4MnJqOEZiemQ4QWFGaXZfX0ZJcmJWVHkxSG1CRFZqYUZMNXdrM2s3OTJkYWlPYTBKbmdmWFg3REhSZGo2NFFsLVRkeUtxTTVhY1NKZnRuSGtxTjM3cTVvVzBHUm5JeXJ0RnM0SVI0S0RaQ1VRSlo3ZGR2YmhNVUhCWmh0Wk1PblFKUFRHd2lB?oc=5\" target=\"_blank\">Exclusive: Meta CEO tells employees he does not expect more company-wide layoffs this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHVUcTNJU0txaUNNZV80MVYyVG9sV21QbWIwdzRSYm5fdm5jSUNDMHlCazQ5dThIQktVc01yVFpTdnlvNDFWSklVYmNCUWk2MjZkUEVEUkx0akxwUWFJRnYxTkUzZXFrbGg2TlFvVnlvZUIyQ0gxNW91OW9hN3pNWkk1cDV2REFkU2k1WWdWWVNyZmI3eExHUFJwSQ?oc=5\" target=\"_blank\">Zuckerberg warns ‘success isn’t a given’ after laying off 10% of Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSnFaWnhHN2pNSjA0Q2RoTVRUdTdybEs3M2RUQ3lrU0VadkdGOFFsNWRESG9DUGY3cEE5VGhDb3dyYUpZaHZ6aDltUTBQQTJNaGtERlNQZjZIUTE2OU1DVktqWHVPRUdqMEdDaXQ2WkhFUUVDc1VJcUVqVk44Z3poMw?oc=5\" target=\"_blank\">Meta lays off thousands of employees to offset AI investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHp6MEJ1b00yZmZrOVdxbldUWkZiek44VVpxWUk0cVJNZlIzTTN1VjJlWXB3S1dId1o0clV5NTFHOGJXR2s3d1Axa3Yya2FZRHl6Q3VBaG1MODBzRVJZYlQyR1d3TE9rNE1HX2V2aC1kWTdjVHpmRlhmSllxdXFZblFkdlNSeGtxNC0wenB0S3RMbE13WUpINzhKaVQ5eFRRMnM3SUIxVQ?oc=5\" target=\"_blank\">Meta Begins 8,000 Global Job Cuts in AI Efficiency Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-05-20T17:43:11+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Meta Medicare scam ads targeting seniors face scrutiny - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWZwOEVXeWtmd3FWSUNNTDN1aWo0VUVsNlhhNzhmTEhZMWo0UnM2YkI0YXJ3WUZ0NlhhZzZ1MjJfcDZLZnNmUnBXVlFBUGVSbFR3NHpzak9BVEtLeTdNZGQzY3VFd1JhUEtSX2R6Y0ZKSWhEUXFiTlRZYktXWXBrbVZWV2YyUWxhNXhj0gGQAUFVX3lxTFA4MHI3b090NlF4WlZnZ3RIbHRYV3lwUElwM24tSnFEVDRCYldPWjU3d1Q2WU9mV0kwaklKemFkQWJweFUwd1Y5U2hHREYzVUttODBrenhhWVpnVWJkU1ItdDg4MTh2Z0xuQnEwMWJFeWUtVGN1U1RxNnBiOXg0cmVvN2ZCZklvZFpXZHMwNGd0Wg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWZwOEVXeWtmd3FWSUNNTDN1aWo0VUVsNlhhNzhmTEhZMWo0UnM2YkI0YXJ3WUZ0NlhhZzZ1MjJfcDZLZnNmUnBXVlFBUGVSbFR3NHpzak9BVEtLeTdNZGQzY3VFd1JhUEtSX2R6Y0ZKSWhEUXFiTlRZYktXWXBrbVZWV2YyUWxhNXhj0gGQAUFVX3lxTFA4MHI3b090NlF4WlZnZ3RIbHRYV3lwUElwM24tSnFEVDRCYldPWjU3d1Q2WU9mV0kwaklKemFkQWJweFUwd1Y5U2hHREYzVUttODBrenhhWVpnVWJkU1ItdDg4MTh2Z0xuQnEwMWJFeWUtVGN1U1RxNnBiOXg0cmVvN2ZCZklvZFpXZHMwNGd0Wg?oc=5\" target=\"_blank\">Meta Medicare scam ads targeting seniors face scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "published": "2026-05-20T13:08:08+00:00",
-      "source": "Fox News"
+      "title": "How Sen. Jay Morris mixed Meta’s mega-deal with his own real estate business - Louisiana Illuminator",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vb0ctcEtqWUUwQlIwOGwtRmI3Wm9jWi0yRm11eWx1MHh3dHYtb0RGT0d5U0N5ZjJoeTJLX0l0NHdZVU5YbWJULTVtQ2ZGbGItWWFQSklvVjNLeU1fVXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vb0ctcEtqWUUwQlIwOGwtRmI3Wm9jWi0yRm11eWx1MHh3dHYtb0RGT0d5U0N5ZjJoeTJLX0l0NHdZVU5YbWJULTVtQ2ZGbGItWWFQSklvVjNLeU1fVXc?oc=5\" target=\"_blank\">How Sen. Jay Morris mixed Meta’s mega-deal with his own real estate business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Louisiana Illuminator</font>",
+      "published": "2026-05-21T11:03:09+00:00",
+      "source": "Louisiana Illuminator"
     },
     {
-      "title": "Exclusive: Meta offers AI rival chatbots limited free WhatsApp access, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVEtQTVkYUhoTXFGWlhKSkc0Mi1LUTdRUmN6VUJzbVdLWUdmVlJlTU9NMWQ5UmFpNFhDdFY0RGNPcFRtTkxOM2pTVV9BXzNjdEJzQWthakRKdFNwbm5mN1RCaU1qSTBFcGp4UWlac2tuSWJyekd3U2szdEQwOVFjbmJGUVJmZVNHOE4wTDZENXA5X2dHa0RZMHZVYm1naTNWZEhDa19ZV2NEQ2owWFY1QkhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVEtQTVkYUhoTXFGWlhKSkc0Mi1LUTdRUmN6VUJzbVdLWUdmVlJlTU9NMWQ5UmFpNFhDdFY0RGNPcFRtTkxOM2pTVV9BXzNjdEJzQWthakRKdFNwbm5mN1RCaU1qSTBFcGp4UWlac2tuSWJyekd3U2szdEQwOVFjbmJGUVJmZVNHOE4wTDZENXA5X2dHa0RZMHZVYm1naTNWZEhDa19ZV2NEQ2owWFY1QkhR?oc=5\" target=\"_blank\">Exclusive: Meta offers AI rival chatbots limited free WhatsApp access, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-05-19T19:17:00+00:00",
+      "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE01dlE0eEFid2dCTjlQbDBaVFV4dHpmbnNYdEFJd2RCUlhNWmx4V0NBSEpoWlZRaXlPQ3B0WmxEOGpIMlJiNzU3c2ZNdGRfYnk2Z3hLbTNLWlFNeWZ1ZGI2NTItajYxR0NUdnQ5Nk9kUEhvMjFa?oc=5\" target=\"_blank\">Meta Lays Off 8,000 Employees, as A.I. Casualties Mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-05-20T22:01:59+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Meta cuts 8,000 jobs as Mark Zuckerberg bets the company’s future on AI - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDJlU0VYMFBWUzdrTEt5ZWNfaGhySGhUbGlYd0ZKMU0wb24zMHY5ZWZ0WVVWVnY0MkxGMmw5YklnNVpUVzI2U3pMc0xfN1dRRkk5OERjTFBDNkFaVm91TVVmN3lpRmdTbDRjZmx3SnJMel96TDhZTlBSNlc4UGhUOFpmX1VtTE1ZdmE0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDJlU0VYMFBWUzdrTEt5ZWNfaGhySGhUbGlYd0ZKMU0wb24zMHY5ZWZ0WVVWVnY0MkxGMmw5YklnNVpUVzI2U3pMc0xfN1dRRkk5OERjTFBDNkFaVm91TVVmN3lpRmdTbDRjZmx3SnJMel96TDhZTlBSNlc4UGhUOFpmX1VtTE1ZdmE0?oc=5\" target=\"_blank\">Meta cuts 8,000 jobs as Mark Zuckerberg bets the company’s future on AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
+      "published": "2026-05-21T06:28:41+00:00",
+      "source": "San Francisco Chronicle"
+    },
+    {
+      "title": "China's Manus founders seek $1 billion to undo Meta takeover, Bloomberg News reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjU4TlRCUVhKN1B5RmZLRElBUGpBWUVhVEI4ay02S1RwV2J4V29kZTNrc1BrVXlCMHZ3Z1M4UnRmcjFLc1pOS3ZCOFBqMDJNTUpoazQxLTZnNHkzRlBoekVrNHJ3QXJvWVJXWS1Wd3llS2JhNWZoOXE3elpHNGpJRm1NQmUxRDdqXzFtakxaWmNqUE9ZdERpQ1FLX1NlYW4yVDI2eGVrdDNDdC00bm1Sb1dHSG5pOTBsbDJRZTY4WTlNcDA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjU4TlRCUVhKN1B5RmZLRElBUGpBWUVhVEI4ay02S1RwV2J4V29kZTNrc1BrVXlCMHZ3Z1M4UnRmcjFLc1pOS3ZCOFBqMDJNTUpoazQxLTZnNHkzRlBoekVrNHJ3QXJvWVJXWS1Wd3llS2JhNWZoOXE3elpHNGpJRm1NQmUxRDdqXzFtakxaWmNqUE9ZdERpQ1FLX1NlYW4yVDI2eGVrdDNDdC00bm1Sb1dHSG5pOTBsbDJRZTY4WTlNcDA?oc=5\" target=\"_blank\">China's Manus founders seek $1 billion to undo Meta takeover, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-05-21T10:00:00+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Meta to offer rival AI chatbots limited free access to WhatsApp: report (META:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG9LQktlMGVmY1BYODR1WlhSUk40SlhtRFIyMktsLXVTTjdHOXp1cjVuckpJNl9hSGZJZ1AycE1wcjB6Ni0xd25yMEpKRTVJc3VyMVNEREYzaERLQlQ2UjRZZkhCNkZJVzRpTXZrcXBBVEpJeGFPZDRZeWM4UUpOMklneG5La3pmY0FZNzdVT1BkUXB0Tmd3SXBReDJUNmE0NzZFNlA1eEZsci1L?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVG9LQktlMGVmY1BYODR1WlhSUk40SlhtRFIyMktsLXVTTjdHOXp1cjVuckpJNl9hSGZJZ1AycE1wcjB6Ni0xd25yMEpKRTVJc3VyMVNEREYzaERLQlQ2UjRZZkhCNkZJVzRpTXZrcXBBVEpJeGFPZDRZeWM4UUpOMklneG5La3pmY0FZNzdVT1BkUXB0Tmd3SXBReDJUNmE0NzZFNlA1eEZsci1L?oc=5\" target=\"_blank\">Meta to offer rival AI chatbots limited free access to WhatsApp: report (META:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-05-19T19:40:36+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Meta Offers WhatsApp Access to AI Rivals in Europe, but There’s a Catch - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFZEMzdPeDFheTIwX2dEWFpZY1RwVzBobldpNmJ6OFp1NHcxZVpBSDloSTdDNE43WDJrdVdnM2Jfb2tBaDM5bVdQdDMyS29wV3JoeS1ZNklkOXR5OEtqRDZKRnJoVDdnUTR4T1JEQ09LT2ExaGhvOGpRS0RsT2lxWlp5SlUxUkNtbTZ5NkxRVHY3cmsxTVVYUWxmUXZ0NGtU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFZEMzdPeDFheTIwX2dEWFpZY1RwVzBobldpNmJ6OFp1NHcxZVpBSDloSTdDNE43WDJrdVdnM2Jfb2tBaDM5bVdQdDMyS29wV3JoeS1ZNklkOXR5OEtqRDZKRnJoVDdnUTR4T1JEQ09LT2ExaGhvOGpRS0RsT2lxWlp5SlUxUkNtbTZ5NkxRVHY3cmsxTVVYUWxmUXZ0NGtU?oc=5\" target=\"_blank\">Meta Offers WhatsApp Access to AI Rivals in Europe, but There’s a Catch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-05-19T20:01:27+00:00",
-      "source": "TipRanks"
-    },
-    {
-      "title": "Meta’s campaign to promote scrutinized youth safety features involved hundreds of family influencers - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmk0bjh3Q1VXcFhna25ndVBtNUZDamY5cnJHOEpiMGR1MVJoX1F4Ym5XOGdxcW9xX0RTeDE0djctalptZTZaeGx4X0ROdzNYMjAtd2pQbTE2QmtoMTRMcXhyb1p3aF9ZSl9PRXJpbTNpd0ZZcFBZTWdPVWtWME9leXZiYXBIZ21P?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmk0bjh3Q1VXcFhna25ndVBtNUZDamY5cnJHOEpiMGR1MVJoX1F4Ym5XOGdxcW9xX0RTeDE0djctalptZTZaeGx4X0ROdzNYMjAtd2pQbTE2QmtoMTRMcXhyb1p3aF9ZSl9PRXJpbTNpd0ZZcFBZTWdPVWtWME9leXZiYXBIZ21P?oc=5\" target=\"_blank\">Meta’s campaign to promote scrutinized youth safety features involved hundreds of family influencers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-05-20T11:00:51+00:00",
-      "source": "CNN"
-    },
-    {
-      "title": "Watch Inside Meta’s $200 Billion Louisiana Data Center Bet - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWS1jUlh4N0N3TThxMDZLb0hnVGtpcnBRY280UGN0bDJlODJCWFk4Tk5HcTNNdEZWY2VVblJEaGxiUmNyNzBZYkJfNkJ5dWpkalZ4WnBnUkV3V2Zac002UnUtcHFqVUxQM3A0THFHWEI4c2JyWHBaMmp5bTFCZ3ZKaWpzd1RrTUdqdk1zbVJyRTRnSENfVU04a2x3OXVCVVB1cUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWS1jUlh4N0N3TThxMDZLb0hnVGtpcnBRY280UGN0bDJlODJCWFk4Tk5HcTNNdEZWY2VVblJEaGxiUmNyNzBZYkJfNkJ5dWpkalZ4WnBnUkV3V2Zac002UnUtcHFqVUxQM3A0THFHWEI4c2JyWHBaMmp5bTFCZ3ZKaWpzd1RrTUdqdk1zbVJyRTRnSENfVU04a2x3OXVCVVB1cUE?oc=5\" target=\"_blank\">Watch Inside Meta’s $200 Billion Louisiana Data Center Bet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-05-18T00:00:00+00:00",
+      "title": "Manus Weighs Raising $1 Billion to Unwind Meta Takeover - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YxTUt1djY1QmJZMFlsZXdBekowc20wNlhIZ2M0bTJqdVE3ZlBVOW1EMEtBWHhBREhBNllHcEtOODVKT0xPQUtuQ01BYVhqbmFZWmtOUVhlYzdLeS0zdzZGcHVGdG1VTWR0aUVnTUlZVnpwRzVPZ0ViT1pHd2JMckxjallTcDZnR2dXSzZQRmRMQ09NZ0d3Ujl2SVBCMWlCbEZOTl9EWTY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YxTUt1djY1QmJZMFlsZXdBekowc20wNlhIZ2M0bTJqdVE3ZlBVOW1EMEtBWHhBREhBNllHcEtOODVKT0xPQUtuQ01BYVhqbmFZWmtOUVhlYzdLeS0zdzZGcHVGdG1VTWR0aUVnTUlZVnpwRzVPZ0ViT1pHd2JMckxjallTcDZnR2dXSzZQRmRMQ09NZ0d3Ujl2SVBCMWlCbEZOTl9EWTY?oc=5\" target=\"_blank\">Manus Weighs Raising $1 Billion to Unwind Meta Takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-05-21T08:30:51+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Expedia Pushes Meta, Uber, and Clear Partnerships to Own More of the Trip - Skift",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkZCREJoZm13ZmxhMjlXY0N3bnBRVVY2cWxhcG9XVlJiaGNGZFdxSmktLVNYaDNPbnN5S281TFlXMExPYUd2LVM4N0t4bWhWRy1naHBVY2FXa0VMRnBNUEkxbl9TSm9acTZMdVdUUFdoMGZuYkhOTUx5TmVma2pQX2hZeE96MnBpR0s3YzR5bHVWRjNtMUN3dExha3RSZXM1bWow?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkZCREJoZm13ZmxhMjlXY0N3bnBRVVY2cWxhcG9XVlJiaGNGZFdxSmktLVNYaDNPbnN5S281TFlXMExPYUd2LVM4N0t4bWhWRy1naHBVY2FXa0VMRnBNUEkxbl9TSm9acTZMdVdUUFdoMGZuYkhOTUx5TmVma2pQX2hZeE96MnBpR0s3YzR5bHVWRjNtMUN3dExha3RSZXM1bWow?oc=5\" target=\"_blank\">Expedia Pushes Meta, Uber, and Clear Partnerships to Own More of the Trip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Skift</font>",
-      "published": "2026-05-19T21:15:00+00:00",
-      "source": "Skift"
+      "title": "Zuckerberg names communication as 'one area' to improve as Meta guts workforce - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aN05NTXBuN3MzMm5EbnNiTHhhNHlZaV91T2hwa1d4YlBIUmNlN0JNQlVTVUc5U1E3dmI2aktUTzlBNW00S3ROSnc2MHM3X1h6Y1N2eFhPTWo3WjNVNC1iUDhnQ01GWnFja3M4aW8tUU5aNXRsX1lVME1pVE9pZ0k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1aN05NTXBuN3MzMm5EbnNiTHhhNHlZaV91T2hwa1d4YlBIUmNlN0JNQlVTVUc5U1E3dmI2aktUTzlBNW00S3ROSnc2MHM3X1h6Y1N2eFhPTWo3WjNVNC1iUDhnQ01GWnFja3M4aW8tUU5aNXRsX1lVME1pVE9pZ0k?oc=5\" target=\"_blank\">Zuckerberg names communication as 'one area' to improve as Meta guts workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
+      "published": "2026-05-20T22:14:47+00:00",
+      "source": "SFGATE"
+    },
+    {
+      "title": "Meta begins cutting thousands of jobs amid AI push - Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUprMFl2VkU2RzlYejVUcGIzRlcxYUd6a0JsMm1hNTZJSXBnWVhTM2hGQTgwLVdOS1pjOGhRdVFMMG1MQXU4WjBBd05DMkx2SW1GQXlyR0FOT2VMR2xvTFFyZnFITXdxX0wwR3RlTnBmNnR2S21TazA1aGNhLUZIZWR2X0Z0dWJhRFZqeVVuYTc0emdEVU0ybTBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUprMFl2VkU2RzlYejVUcGIzRlcxYUd6a0JsMm1hNTZJSXBnWVhTM2hGQTgwLVdOS1pjOGhRdVFMMG1MQXU4WjBBd05DMkx2SW1GQXlyR0FOT2VMR2xvTFFyZnFITXdxX0wwR3RlTnBmNnR2S21TazA1aGNhLUZIZWR2X0Z0dWJhRFZqeVVuYTc0emdEVU0ybTBn?oc=5\" target=\"_blank\">Meta begins cutting thousands of jobs amid AI push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Austin American-Statesman</font>",
+      "published": "2026-05-20T14:23:23+00:00",
+      "source": "Austin American-Statesman"
     }
   ],
   "product_launches": [
     {
-      "title": "Google Launches Smart Glasses Taking On META - BusinessToday Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmVXS3hxc0JVNWpyd1l6QnpTU21hVXk0Y1pFMzJiWjlqbFZRcVBpMDRtdnFDNmtnX3FuVGF0VW9Qa2VIY3hjQUlPOHhQZEQ0MlcxMFlQVmx3QW5hLVg2dHZWVXkwaDNyUFREaHh0WEpydTZNWHZWSFlMS0dJMGkxOXVqcWpWQ1FudUdTNi04cVphdjg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMmVXS3hxc0JVNWpyd1l6QnpTU21hVXk0Y1pFMzJiWjlqbFZRcVBpMDRtdnFDNmtnX3FuVGF0VW9Qa2VIY3hjQUlPOHhQZEQ0MlcxMFlQVmx3QW5hLVg2dHZWVXkwaDNyUFREaHh0WEpydTZNWHZWSFlMS0dJMGkxOXVqcWpWQ1FudUdTNi04cVphdjg?oc=5\" target=\"_blank\">Google Launches Smart Glasses Taking On META</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessToday Malaysia</font>",
-      "published": "2026-05-20T02:05:37+00:00",
-      "source": "BusinessToday Malaysia"
+      "title": "Texas AG Ken Paxton launches investigation into Meta AI glasses over privacy concerns - WFAA",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUdMdzhjWWNmR0xIa1FRZFZMX041ZXFZcnl0OE0zMlJZZUR1UXFub3A1b0hfOG95d2FOM3VzLWdnUXZxSlVvYkh5UzVSQTdQS2lzT0prTzhwV3hzZnRlWi11RlU1RkhrSkR2RFFJdjZNMWVOV0NuTEE5TzJkYmFYWW8yWDNoUHl0UG96eHowVWI2UFBYYS1LTXBRVFpZR29rbU5SbUFzQ0N4Qmt0Ty02TE92dF9Vb3V6dndlMTRSdldUa2p6eUJWZ08zeXQ3Nld3dFJlZXAwLWRYRlZEbWhDOV9lQ0lQeUNTeWVrdC0xbEo0UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUdMdzhjWWNmR0xIa1FRZFZMX041ZXFZcnl0OE0zMlJZZUR1UXFub3A1b0hfOG95d2FOM3VzLWdnUXZxSlVvYkh5UzVSQTdQS2lzT0prTzhwV3hzZnRlWi11RlU1RkhrSkR2RFFJdjZNMWVOV0NuTEE5TzJkYmFYWW8yWDNoUHl0UG96eHowVWI2UFBYYS1LTXBRVFpZR29rbU5SbUFzQ0N4Qmt0Ty02TE92dF9Vb3V6dndlMTRSdldUa2p6eUJWZ08zeXQ3Nld3dFJlZXAwLWRYRlZEbWhDOV9lQ0lQeUNTeWVrdC0xbEo0UQ?oc=5\" target=\"_blank\">Texas AG Ken Paxton launches investigation into Meta AI glasses over privacy concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFAA</font>",
+      "published": "2026-05-20T21:14:00+00:00",
+      "source": "WFAA"
+    },
+    {
+      "title": "Meta Smart Glasses Launch To Reportedly Target Prescription Wearers 03/31/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXI5cThIRmdLNnAwckFIa1AySW5EaUlFQ28zUjAzb2ptLXI4ZkNzX3I3d3NmVll0MzFoazd6bDdSVm5sVUVnOHcyZGwtSktpM0U5NEdOb2JMamVrbzJpNGJGSDIyWVI1T2Z4TmUyZkF5bUFBZXoybThnNGNoOUxHMHlUVUktNG9tdlVLNXdpMk9QY0lUUEdsX1MyZTQ3elQ3REFMcHNWVGs5SEI3YXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXI5cThIRmdLNnAwckFIa1AySW5EaUlFQ28zUjAzb2ptLXI4ZkNzX3I3d3NmVll0MzFoazd6bDdSVm5sVUVnOHcyZGwtSktpM0U5NEdOb2JMamVrbzJpNGJGSDIyWVI1T2Z4TmUyZkF5bUFBZXoybThnNGNoOUxHMHlUVUktNG9tdlVLNXdpMk9QY0lUUEdsX1MyZTQ3elQ3REFMcHNWVGs5SEI3YXc?oc=5\" target=\"_blank\">Meta Smart Glasses Launch To Reportedly Target Prescription Wearers 03/31/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
+      "published": "2026-05-20T13:36:28+00:00",
+      "source": "MediaPost"
+    },
+    {
+      "title": "Meta To Expand Consumer-Facing AI Products In 2026 01/30/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVNtRXVMbUFrV3BPTTlLNnBla3F6Vk93SUY4SjZLRXdpZGRFQndGUmpHelNkSUVnWGlBVG1EZFJ5OUhzdGFmTUFPcVNpT3hwbFM1SWZ5aEVXQlpfR1IxMUxxT3ByZUVmWnA0SVd0LXY5ckY2RkpLNXQ4MklFd3J1aFVEUE9YVEVUVmN1QlEtazNmdFktWlJORVpYcmJaV2JWcTlLQ3RPeW5tV1Z1SlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVNtRXVMbUFrV3BPTTlLNnBla3F6Vk93SUY4SjZLRXdpZGRFQndGUmpHelNkSUVnWGlBVG1EZFJ5OUhzdGFmTUFPcVNpT3hwbFM1SWZ5aEVXQlpfR1IxMUxxT3ByZUVmWnA0SVd0LXY5ckY2RkpLNXQ4MklFd3J1aFVEUE9YVEVUVmN1QlEtazNmdFktWlJORVpYcmJaV2JWcTlLQ3RPeW5tV1Z1SlE?oc=5\" target=\"_blank\">Meta To Expand Consumer-Facing AI Products In 2026 01/30/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
+      "published": "2026-05-20T13:37:11+00:00",
+      "source": "MediaPost"
     },
     {
       "title": "Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More - meta.com",
@@ -75,20 +89,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWxfRkpiNlloV1ZZWFZ3QVJYZVlrSDhvRjRON0ZNQ1QzTlo5SXBObklpalZERWhyYVhFRy04T3lEbHpzR2NoeDhFSWFtVVRucTlLbFFyRWFiOEFhMmxzRVpBcTJRR05aTnhLTmQ5VUFCem1aVldPNnNOWHFCVlJ3V0cta1ZjQXFGSi0zQ2YtaDA4bGFUOEtabWF4Ync3cEJhU0NjRnV2WlNYdWU3YjVzZ2tmREZfeUJQQjNNYXN4SXA2TjVKc3JRelZIblRBU2s?oc=5\" target=\"_blank\">Introducing Meta Ray-Ban Display Teleprompter, Neural Handwriting, Industry & Research Collaborations, & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
       "published": "2026-01-06T08:00:00+00:00",
       "source": "meta.com"
-    },
-    {
-      "title": "Meta won’t let morality get in the way of a product launch - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmNmE5cUo5Ql9icHlHaENtVjNFcU16MGFLT2hvM2xxaDZhbXluQ3pyN1lYQ0R1SmhfNXppUFh6anV1Nkd1SHpQWUY2SFlxTHRlWllMaHlUNGxoT0hiMzJSQmFHanBhQTRCWjNDTW1YREJfUHZpRWRFY0t4aw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBmNmE5cUo5Ql9icHlHaENtVjNFcU16MGFLT2hvM2xxaDZhbXluQ3pyN1lYQ0R1SmhfNXppUFh6anV1Nkd1SHpQWUY2SFlxTHRlWllMaHlUNGxoT0hiMzJSQmFHanBhQTRCWjNDTW1YREJfUHZpRWRFY0t4aw?oc=5\" target=\"_blank\">Meta won’t let morality get in the way of a product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-03-01T08:00:00+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta Reportedly Launching Prescription-Focused Smart Glasses This Week - UploadVR",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUcwMkxPVXB6eHRTWkxMV09VM1NvVlh3M3ZqWE8zX3FqdmNaMnRnb21NY3F6NkZBZ0E4U3oyQVRyVElWUTBQUTlReGVrZkFoYXJSQTVrWmxSZTZvb2kyaWNNQUowRWQzS01ZR0NRTkdaN2JyTS1TdjFFckdHZm1KeTFPT01PTjNDRzdiNWc5UmxYWmp0SXA3ZUFxVzY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUcwMkxPVXB6eHRTWkxMV09VM1NvVlh3M3ZqWE8zX3FqdmNaMnRnb21NY3F6NkZBZ0E4U3oyQVRyVElWUTBQUTlReGVrZkFoYXJSQTVrWmxSZTZvb2kyaWNNQUowRWQzS01ZR0NRTkdaN2JyTS1TdjFFckdHZm1KeTFPT01PTjNDRzdiNWc5UmxYWmp0SXA3ZUFxVzY?oc=5\" target=\"_blank\">Meta Reportedly Launching Prescription-Focused Smart Glasses This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": "UploadVR"
     },
     {
       "title": "Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People - meta.com",
@@ -102,14 +102,10 @@
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-20",
-      "close": 601.85498046875
+      "date": "2026-05-21",
+      "close": 596.885009765625
     },
     "history": [
-      {
-        "date": "2026-05-12",
-        "close": 603.0
-      },
       {
         "date": "2026-05-13",
         "close": 616.6300048828125
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-05-20",
-        "close": 601.85498046875
+        "close": 605.0599975585938
+      },
+      {
+        "date": "2026-05-21",
+        "close": 596.885009765625
       }
     ],
     "name": "Meta Platforms, Inc."

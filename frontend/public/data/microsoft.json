@@ -2,66 +2,73 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-05-20T14:35:07.983889+00:00",
+  "fetched_at": "2026-05-21T14:40:46.357722+00:00",
   "news": [
     {
-      "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0 - ZDNET",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEptVDZ5UWlfV0o1RGJCT0FUZVFmWkxteEVTVF9tRWU4QlJjNjRIbnRHUTRvWVdIaFlIdXdqbGtwdUJXb0Fsbmpab012UU4xR0lFeGZCQWI3ZEctS3dJQVYzNHJWdWJ6NHc3dkVlWmotVXhpQTNfRm5ocTM3aldrYXhnVGYzVk0zb1gxSXl1X3U1SW1zMUNvNmNELTZPRElPeDFr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEptVDZ5UWlfV0o1RGJCT0FUZVFmWkxteEVTVF9tRWU4QlJjNjRIbnRHUTRvWVdIaFlIdXdqbGtwdUJXb0Fsbmpab012UU4xR0lFeGZCQWI3ZEctS3dJQVYzNHJWdWJ6NHc3dkVlWmotVXhpQTNfRm5ocTM3aldrYXhnVGYzVk0zb1gxSXl1X3U1SW1zMUNvNmNELTZPRElPeDFr?oc=5\" target=\"_blank\">Microsoft surprises with its first server Linux distribution: Azure Linux 4.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
-      "published": "2026-05-18T22:53:00+00:00",
-      "source": "ZDNET"
+      "title": "Anthropic Is in Talks to Use Microsoft’s AI Chips - The Information",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFZDclVxeGppLS01VVFnckxEaWM4VWZyNlFTTlpQWHAwTW0yZlhLSkNfanl3dk1WdFVOZFZaR2VQQ243a1pHSGhVY1pMOXlJdDVjZGJoTm56UW81aWpaeUMwZGdJeHMwS2ZGeWc4Ti1ZQ1ZhVFZnOUxpV0Z0NzVmTlotNVlxQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFZDclVxeGppLS01VVFnckxEaWM4VWZyNlFTTlpQWHAwTW0yZlhLSkNfanl3dk1WdFVOZFZaR2VQQ243a1pHSGhVY1pMOXlJdDVjZGJoTm56UW81aWpaeUMwZGdJeHMwS2ZGeWc4Ti1ZQ1ZhVFZnOUxpV0Z0NzVmTlotNVlxQQ?oc=5\" target=\"_blank\">Anthropic Is in Talks to Use Microsoft’s AI Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-05-21T13:00:00+00:00",
+      "source": "The Information"
     },
     {
-      "title": "Hackers Abuse Microsoft Entra ID Accounts to Exfiltrate Microsoft 365 and Azure Data - CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZmluM0MxSkNKME9adjdhV1lYOW4yZnBRN29zczlNT1VvWF9GVDJvYzM5S0pPYUpvZTNSWWpvODg5WG1paVc3MTlNaEhsSGQwZ1h2WXp1dFFMZEhTUVpyZXRCaWJjNGpRM0pBbWoxUDhWWUtyWGhmeHdHQUzSAYIBQVVfeXFMTzE3WXBFbTNfSDg0MldDX3N6N3ZUM3BQZHFjOUE3dVBqQURzYUNldEtnMTk2R2JEcnJBMG1QUGVoR3BZUEN4bUZ4X2RZb2hpb0MyX2p3ODJSdlJ6SGJ0QTk0U29BNks5c2sweWtoQ2lYX1JreTBiTFhmTWhMRjh5OEtzUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBiZmluM0MxSkNKME9adjdhV1lYOW4yZnBRN29zczlNT1VvWF9GVDJvYzM5S0pPYUpvZTNSWWpvODg5WG1paVc3MTlNaEhsSGQwZ1h2WXp1dFFMZEhTUVpyZXRCaWJjNGpRM0pBbWoxUDhWWUtyWGhmeHdHQUzSAYIBQVVfeXFMTzE3WXBFbTNfSDg0MldDX3N6N3ZUM3BQZHFjOUE3dVBqQURzYUNldEtnMTk2R2JEcnJBMG1QUGVoR3BZUEN4bUZ4X2RZb2hpb0MyX2p3ODJSdlJ6SGJ0QTk0U29BNks5c2sweWtoQ2lYX1JreTBiTFhmTWhMRjh5OEtzUQ?oc=5\" target=\"_blank\">Hackers Abuse Microsoft Entra ID Accounts to Exfiltrate Microsoft 365 and Azure Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyberSecurityNews</font>",
-      "published": "2026-05-19T11:42:44+00:00",
-      "source": "CyberSecurityNews"
+      "title": "Scammers are abusing an internal Microsoft account to send spam links - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0xlczZuWEVFTktPREI4M2N3RnRtY2s3OHp0SFdRWG1hZDRYbm0yd0ZzYW1KMl9yaFZQbFlEMTFBMUhodnFmSEdxSDdZS1lUcmUxcEJqblNLcFlkaUZUS0FhZ25qYVhhMV9YeWVPai1zY3d0VTdZTEhEa0pPQWYxYURRdnZoQ0lIQ0JRQWRiSU45T3hRX1BhNnkzYjlMVnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0xlczZuWEVFTktPREI4M2N3RnRtY2s3OHp0SFdRWG1hZDRYbm0yd0ZzYW1KMl9yaFZQbFlEMTFBMUhodnFmSEdxSDdZS1lUcmUxcEJqblNLcFlkaUZUS0FhZ25qYVhhMV9YeWVPai1zY3d0VTdZTEhEa0pPQWYxYURRdnZoQ0lIQ0JRQWRiSU45T3hRX1BhNnkzYjlMVnc?oc=5\" target=\"_blank\">Scammers are abusing an internal Microsoft account to send spam links</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-05-21T11:42:57+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Corsica Technologies Recognized with Microsoft Verified Managed XDR Solution Status - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXIzbjRlZXIySVhxcG42WVdQSzA0TDlwVDJ0NkNCemF1ZzZ2NVAtaFNTNjhrYzNfWDN6aFpnQUlGWEEwQnJmRmJGQks2bkdyOGxSMWJoYUt4bVVXUFY3R2FmZS1FYWlHLXpfNkVHdWdOZmFjUFFINU8yWG81OExjblU2eGwyRnFQVi0xSzRXckhzUHY4OGxIOUJrQzZvMWlG?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXIzbjRlZXIySVhxcG42WVdQSzA0TDlwVDJ0NkNCemF1ZzZ2NVAtaFNTNjhrYzNfWDN6aFpnQUlGWEEwQnJmRmJGQks2bkdyOGxSMWJoYUt4bVVXUFY3R2FmZS1FYWlHLXpfNkVHdWdOZmFjUFFINU8yWG81OExjblU2eGwyRnFQVi0xSzRXckhzUHY4OGxIOUJrQzZvMWlG?oc=5\" target=\"_blank\">Corsica Technologies Recognized with Microsoft Verified Managed XDR Solution Status</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "published": "2026-05-20T13:00:00+00:00",
-      "source": "Yahoo Finance Singapore"
+      "title": "Microsoft Turns to Video-Game Researcher to Fire Up Xbox Revival - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVZPR3BPZE1YT01Qa0txLVRZWTkzQ0YtaENkU1puOG1ETnZlMXBzekV5d1NuR1dROG81Ujc5VEVWdEhKQktaeGJZMFdyOHRvRnYxY2ZRMnVEVG5aT3lITV9CNHRYdUQ2MGRVZ1h3M0ctdlhLbWhFUUpyMGVxdXl0TEt5WkRvZVFLM3FjT2UzYjhvd2lkZTNmYWRrdUNGems3cHhqTHUyT2ZmemxBNWtrVXpPZXhCdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVZPR3BPZE1YT01Qa0txLVRZWTkzQ0YtaENkU1puOG1ETnZlMXBzekV5d1NuR1dROG81Ujc5VEVWdEhKQktaeGJZMFdyOHRvRnYxY2ZRMnVEVG5aT3lITV9CNHRYdUQ2MGRVZ1h3M0ctdlhLbWhFUUpyMGVxdXl0TEt5WkRvZVFLM3FjT2UzYjhvd2lkZTNmYWRrdUNGems3cHhqTHUyT2ZmemxBNWtrVXpPZXhCdw?oc=5\" target=\"_blank\">Microsoft Turns to Video-Game Researcher to Fire Up Xbox Revival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-05-21T13:59:11+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "CAI Advances Multicloud and Secure AI Strategy with AWS and Microsoft - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhsSVRFYVFEc0d2ZzFYeEVTVDloSDhCbjFDY2VQSkx2bER1VXBWbllPN1BYOFRyZ3M5S3kwMmFxMk41S3VmeFhtSUJfRzhlUUhDSExzWC1pS1g3YnRhN3VsYTlLN3o4Mks3Q3k2TnJmQVMwZW5oVWo5dE03SGJObjFFRlVtNld4TlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhsSVRFYVFEc0d2ZzFYeEVTVDloSDhCbjFDY2VQSkx2bER1VXBWbllPN1BYOFRyZ3M5S3kwMmFxMk41S3VmeFhtSUJfRzhlUUhDSExzWC1pS1g3YnRhN3VsYTlLN3o4Mks3Q3k2TnJmQVMwZW5oVWo5dE03SGJObjFFRlVtNld4TlE?oc=5\" target=\"_blank\">CAI Advances Multicloud and Secure AI Strategy with AWS and Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-05-20T13:02:00+00:00",
-      "source": "Yahoo! Finance Canada"
+      "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHZaTnlLWU01TkxBTE02aXRTQkxxVjJqTC1GS0taVXg2V0dnSE56RE05UmhOTnY4ak9VS1NORkFKWU5Ud2hkNl9WUUphQmVodmtOcWQwNm0wY1BaMVVfUk1NS0U0ZG45ZzMxMkhZaWdEY0Y1blNacFFYVktWQnh6emFFN1lnVDdPZ055RlVETVh6ZU84R19KUTRKZGxkQW5yUW9XMjdkZXAwSmRVNjd4cS1jc1J3YmxJRHdFdDdVNHE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHZaTnlLWU01TkxBTE02aXRTQkxxVjJqTC1GS0taVXg2V0dnSE56RE05UmhOTnY4ak9VS1NORkFKWU5Ud2hkNl9WUUphQmVodmtOcWQwNm0wY1BaMVVfUk1NS0U0ZG45ZzMxMkhZaWdEY0Y1blNacFFYVktWQnh6emFFN1lnVDdPZ055RlVETVh6ZU84R19KUTRKZGxkQW5yUW9XMjdkZXAwSmRVNjd4cS1jc1J3YmxJRHdFdDdVNHE?oc=5\" target=\"_blank\">Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "published": "2026-05-21T13:00:00+00:00",
+      "source": "VentureBeat"
     },
     {
-      "title": "How To Mitigate The Microsoft Windows BitLocker ‘Angry Hacker’ 0-Day - Yahoo News Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2VQWFRTY2thNGNwbzJFSVRzaV8zUVZpWE56QlhnM3dUQ1Q1ZWNzS2F3bTgwakNJZXlCUkt4YTVEOGpOZk54NEh6ZndyeUhiYTNuOVU1THpWbm02TmFySmdLWkxMMWUxZWk1UVJhd3VmTmlMNHFYSWJiM0dOYWszVUhQLUlRY21lRlFB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN2VQWFRTY2thNGNwbzJFSVRzaV8zUVZpWE56QlhnM3dUQ1Q1ZWNzS2F3bTgwakNJZXlCUkt4YTVEOGpOZk54NEh6ZndyeUhiYTNuOVU1THpWbm02TmFySmdLWkxMMWUxZWk1UVJhd3VmTmlMNHFYSWJiM0dOYWszVUhQLUlRY21lRlFB?oc=5\" target=\"_blank\">How To Mitigate The Microsoft Windows BitLocker ‘Angry Hacker’ 0-Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Singapore</font>",
-      "published": "2026-05-20T14:16:09+00:00",
-      "source": "Yahoo News Singapore"
+      "title": "Anthropic in Talks to Use Microsoft AI Chips, Information Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWJCZzJ1cEVJQWxaWUNoY1hQdFlRNXpwYThDRGJzclctTDRBQjZrcFBoNDRvOE9yMGVGTUgxR0FiTVRXMkx4NVk5ZVpteHNJQVFPVkdud2tTN2t3bkh1SGhiQnRoSzFvUjZTdzNRYTJRWXJ2b0o2dVVYSWpDMHZTM3VkZ3g4Wkx1VjZPVUxWbkdpblFtRlNjdHM0TlgtQ0daeVRhY2hkSVdwbUpsWndFZFZn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWJCZzJ1cEVJQWxaWUNoY1hQdFlRNXpwYThDRGJzclctTDRBQjZrcFBoNDRvOE9yMGVGTUgxR0FiTVRXMkx4NVk5ZVpteHNJQVFPVkdud2tTN2t3bkh1SGhiQnRoSzFvUjZTdzNRYTJRWXJ2b0o2dVVYSWpDMHZTM3VkZ3g4Wkx1VjZPVUxWbkdpblFtRlNjdHM0TlgtQ0daeVRhY2hkSVdwbUpsWndFZFZn?oc=5\" target=\"_blank\">Anthropic in Talks to Use Microsoft AI Chips, Information Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-05-21T13:23:38+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hV1VKN3luRlFKTWM1cTJua3d4ZXpFOVg2WjJidFpNSE5peTA5RjJfSjdqZENPZzFhVkgtTEhSa3gtUXY5b1RodkNyMG5TVzlCSjczTXJ4dGloVWoyWmx5X1M4NkYtR2tHdTNpLXY3dTZoZ1ZtdzRacHp3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1hV1VKN3luRlFKTWM1cTJua3d4ZXpFOVg2WjJidFpNSE5peTA5RjJfSjdqZENPZzFhVkgtTEhSa3gtUXY5b1RodkNyMG5TVzlCSjczTXJ4dGloVWoyWmx5X1M4NkYtR2tHdTNpLXY3dTZoZ1ZtdzRacHp3?oc=5\" target=\"_blank\">Microsoft Warns of Two Actively Exploited Defender Vulnerabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-05-21T10:55:00+00:00",
+      "source": "The Hacker News"
     },
     {
       "title": "S. 'Soma' Somasegar, 1966-2026: Microsoft and Madrona leader was a champion of developers and startups - GeekWire",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmZ1bS1VcW1qSlRQNm1lUUlXVnhVSC14VnI5cS0yZmtpMkNGYmotUGFCVUtrYWlwdmZtdmdHOXdKc0JuUHFxSnhjb0MtUDJ4SzIwYWV3eEY0UkFOUU5xZWQ0ZWh0UkJ2ZWMxRWVuV3doRUhkQjVWV29RMTVQdkdpd3ctY2hBeDVYWllHclFicnlzdEh2RlpiV3NVV3haallKQmIzNGlDdE41N2N0Ykw4MEFsOGxfdzY0VDZNd1MwSGI1d2JtZGlr?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmZ1bS1VcW1qSlRQNm1lUUlXVnhVSC14VnI5cS0yZmtpMkNGYmotUGFCVUtrYWlwdmZtdmdHOXdKc0JuUHFxSnhjb0MtUDJ4SzIwYWV3eEY0UkFOUU5xZWQ0ZWh0UkJ2ZWMxRWVuV3doRUhkQjVWV29RMTVQdkdpd3ctY2hBeDVYWllHclFicnlzdEh2RlpiV3NVV3haallKQmIzNGlDdE41N2N0Ykw4MEFsOGxfdzY0VDZNd1MwSGI1d2JtZGlr?oc=5\" target=\"_blank\">S. 'Soma' Somasegar, 1966-2026: Microsoft and Madrona leader was a champion of developers and startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-05-20T00:06:27+00:00",
+      "published": "2026-05-20T00:06:46+00:00",
       "source": "GeekWire"
     },
     {
-      "title": "Coming to XBOX Game Pass: Forza Horizon 6, Escape Simulator, Jurassic World Evolution 3, and More - XBOX Wire",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15cy1JZVhKTlN6YU14a2VHX2swUm5COTJfQzUySnctOEx4dTd6YUZLM200aTE0N3F4dy1BMWlhMkk4bFhScXhmQ0xWQVg3eVBCZmxFOG5Xek43MmxxdTB6eDFESzRhSnZsVk15b2hpVHV4MmlPNHdJaEtR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE15cy1JZVhKTlN6YU14a2VHX2swUm5COTJfQzUySnctOEx4dTd6YUZLM200aTE0N3F4dy1BMWlhMkk4bFhScXhmQ0xWQVg3eVBCZmxFOG5Xek43MmxxdTB6eDFESzRhSnZsVk15b2hpVHV4MmlPNHdJaEtR?oc=5\" target=\"_blank\">Coming to XBOX Game Pass: Forza Horizon 6, Escape Simulator, Jurassic World Evolution 3, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XBOX Wire</font>",
-      "published": "2026-05-19T17:20:39+00:00",
-      "source": "XBOX Wire"
-    },
-    {
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SaF9FZkhyczJzQUdPZ3cyeVl0XzNvWEdRZmxLa3ZqWkRBT2lNb1J1NUNEdWpVVFUxVHZZV0tUemQwampadGNhc2E4VkNMVm5Oa1ZGa0Q1TGVGbGF1QUNGWGQ2SkdWY3FGbzgtRHI0eENXWHJ5UmUzQ1VtTks?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5SaF9FZkhyczJzQUdPZ3cyeVl0XzNvWEdRZmxLa3ZqWkRBT2lNb1J1NUNEdWpVVFUxVHZZV0tUemQwampadGNhc2E4VkNMVm5Oa1ZGa0Q1TGVGbGF1QUNGWGQ2SkdWY3FGbzgtRHI0eENXWHJ5UmUzQ1VtTks?oc=5\" target=\"_blank\">Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-05-20T08:28:00+00:00",
-      "source": "The Hacker News"
+      "title": "Microsoft lost its way in the AI race. Can Copilot get it back on course? - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWw1RGdIZ3BwdHlITlJpbTFrNWZiSFowV1g3Sk9VSTNOYzd0djlhZzh5Ul9MOEFLUVRhdjJRX2o2MjI3ZmNFeG9TTmNmVDBOVUtUa1ZDU2ppeTI2RFBibTQ4VnJCbzZsZGhzSVJVd3VBazhObnJtaWl2XzZyN0wzVk4zd2w3UmFMSUdXdkl0bk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNLWw1RGdIZ3BwdHlITlJpbTFrNWZiSFowV1g3Sk9VSTNOYzd0djlhZzh5Ul9MOEFLUVRhdjJRX2o2MjI3ZmNFeG9TTmNmVDBOVUtUa1ZDU2ppeTI2RFBibTQ4VnJCbzZsZGhzSVJVd3VBazhObnJtaWl2XzZyN0wzVk4zd2w3UmFMSUdXdkl0bk0?oc=5\" target=\"_blank\">Microsoft lost its way in the AI race. Can Copilot get it back on course?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-05-21T07:00:00+00:00",
+      "source": "Fortune"
     }
   ],
   "product_launches": [
+    {
+      "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
+      "published": "2026-05-19T13:09:38+00:00",
+      "source": "Windows Blog"
+    },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTlNIWVphMnFILU1vM2ZLX090VW5Ec1hJWUZGZHNyS3hfMDJUeEZsYXFlbE0tQ3ltWVNTX0xJTTJ0MjNPSFVObk5MWUtsYk1mZEFDZDRBaWFiYW8wNlZydV9meFJTcHVXSGhrSGFtMTI4MmpxNm9vcXZSU3ZHZDVmLWFWb2EwSFVHNkpEY0dLQmlXZEg1eWtwYVBhWEIySVlG?oc=5\" target=\"_blank\">Microsoft launches “vibe working” in Word, Excel, and PowerPoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2026-04-23T07:00:00+00:00",
       "source": "The Verge"
-    },
-    {
-      "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5\" target=\"_blank\">Microsoft Launches Its Own Legal Agent For Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artificial Lawyer</font>",
-      "published": "2026-04-30T07:00:00+00:00",
-      "source": "Artificial Lawyer"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-05-20",
-      "close": 414.3999938964844
+      "date": "2026-05-21",
+      "close": 416.7300109863281
     },
     "history": [
-      {
-        "date": "2026-05-12",
-        "close": 407.7699890136719
-      },
       {
         "date": "2026-05-13",
         "close": 405.2099914550781
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-05-20",
-        "close": 414.3999938964844
+        "close": 421.05999755859375
+      },
+      {
+        "date": "2026-05-21",
+        "close": 416.7300109863281
       }
     ],
     "name": "Microsoft Corporation"
