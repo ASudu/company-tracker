@@ -2,86 +2,79 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-05-29T14:39:12.728338+00:00",
+  "fetched_at": "2026-05-30T13:02:48.941101+00:00",
   "news": [
     {
-      "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTd6U0hhbWhZUkxpa2F5SUJ6QTNwZUpCYVM3SlpkQ0RlWmhSWmxmODFycG4xa2xwaHRZTHV2eDhkVGt5RHNhVkcwNHp0WGpNal9HcVNqcjVDa1R0eDZUcEh5cWRrX1JqZU9Fa05ubTJnekI0SVFUcEdBQVZlV3p3MDhjVVZkVndVbTN2QVgtaHZ6SWNReFN2ZUU4bGQyTGo4WllBNkluR3lmd2Y0RjZlUXZyaE5pbzZ6dkNyd2V3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTd6U0hhbWhZUkxpa2F5SUJ6QTNwZUpCYVM3SlpkQ0RlWmhSWmxmODFycG4xa2xwaHRZTHV2eDhkVGt5RHNhVkcwNHp0WGpNal9HcVNqcjVDa1R0eDZUcEh5cWRrX1JqZU9Fa05ubTJnekI0SVFUcEdBQVZlV3p3MDhjVVZkVndVbTN2QVgtaHZ6SWNReFN2ZUU4bGQyTGo4WllBNkluR3lmd2Y0RjZlUXZyaE5pbzZ6dkNyd2V3?oc=5\" target=\"_blank\">The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc.com</font>",
-      "published": "2026-05-29T00:39:35+00:00",
-      "source": "inc.com"
+      "title": "Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5wbi1EdUFDSGUwNGxNS0tOeFltRElsVVBpdGlZUVRiVk1xczlkbENVWGQ4dlBIREFZOEpGYzZXODNkN05pYTJQSUtYeXBVQV9McHoyay03MW9XQ2RpV1lBZnNrSkk4WExQQ2lHbXUtcw?oc=5\" target=\"_blank\">Exclusive: Microsoft is building a super app that combines coding, chat, and other Copilot AI tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-05-29T17:14:00+00:00",
+      "source": "Fortune"
     },
     {
-      "title": "Cyber attackers are hijacking Microsoft Outlook, Teams and 365 log-ins, FBI says - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFRjdE1HQ25uMnpobkdSTlU3ZmZvcFN1NTJfV19ITjlGejUxMG1TcFR6S3lFX01JbktlQUZDcm02NFV1a3c0aXBOcmxjVnNkV3Q4b043YWN3Nng1M2FrVndXUFNkc1E4YnFtMEtVbmVyVVJPdXpxQVZOZFUySWVJTzFnejVSUWtpR1NxdXdHSXAyVXJmWGllSW1Lb0VnaWVRRWxUYzB6QzN2QTVpTUxBdmJncXhWN2Rfb0dseWQxd3QwazjSAcgBQVVfeXFMTV9lZTQ1UEFNR3NudHhqLWctMmdmUmp1N3NIeDRpeUVINW9HUUlvM3VIUGJKb2FwN2RNNkZBZHR1TldqLXFFNElKQWpWY3RPNUxZVnBFZWVCWXlfYkVWbEx2REMyUlNuNnZXTG56Z1ZGN2V2cEVXTVd1SVViMXNQeWlmSUVPNW9MeE42S1l3a2RsTDZYU0FZMDNkTm5LUGFxUS1XUGVoQUh6M2pDTzZUOHV3SDZwRU5FMlF2TXNWWklKV0IteDlzeHY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFRjdE1HQ25uMnpobkdSTlU3ZmZvcFN1NTJfV19ITjlGejUxMG1TcFR6S3lFX01JbktlQUZDcm02NFV1a3c0aXBOcmxjVnNkV3Q4b043YWN3Nng1M2FrVndXUFNkc1E4YnFtMEtVbmVyVVJPdXpxQVZOZFUySWVJTzFnejVSUWtpR1NxdXdHSXAyVXJmWGllSW1Lb0VnaWVRRWxUYzB6QzN2QTVpTUxBdmJncXhWN2Rfb0dseWQxd3QwazjSAcgBQVVfeXFMTV9lZTQ1UEFNR3NudHhqLWctMmdmUmp1N3NIeDRpeUVINW9HUUlvM3VIUGJKb2FwN2RNNkZBZHR1TldqLXFFNElKQWpWY3RPNUxZVnBFZWVCWXlfYkVWbEx2REMyUlNuNnZXTG56Z1ZGN2V2cEVXTVd1SVViMXNQeWlmSUVPNW9MeE42S1l3a2RsTDZYU0FZMDNkTm5LUGFxUS1XUGVoQUh6M2pDTzZUOHV3SDZwRU5FMlF2TXNWWklKV0IteDlzeHY?oc=5\" target=\"_blank\">Cyber attackers are hijacking Microsoft Outlook, Teams and 365 log-ins, FBI says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-      "published": "2026-05-27T21:34:00+00:00",
-      "source": "The Hill"
+      "title": "Microsoft Build 2026: What to Expect - CNET",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1ODJva1ktV2tnSEE4aU40VTZfYW1Wak9vTXE5LVNNdG1UbTBtUE1TaFVEQkdvRXlId3RqVkZMSVpHc0VIOXNMbTFoZEU1QnhjRmlmeExoWlZCM1Fxd3pqODZlVG03VHR2RXdLM1FiWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1ODJva1ktV2tnSEE4aU40VTZfYW1Wak9vTXE5LVNNdG1UbTBtUE1TaFVEQkdvRXlId3RqVkZMSVpHc0VIOXNMbTFoZEU1QnhjRmlmeExoWlZCM1Fxd3pqODZlVG03VHR2RXdLM1FiWQ?oc=5\" target=\"_blank\">Microsoft Build 2026: What to Expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-05-29T17:00:00+00:00",
+      "source": "CNET"
     },
     {
-      "title": "FBI warns of new phishing scam targeting Microsoft 365 users - WAVY.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDJKeFdPS1hkdDU4TnVUVkYyb1AtT0xib0NkMjBiM0l2YXFtLVctV01LUE9uTkVLcGFGRTdhQWtXcEtPS3AxRnk2dFgtOVNaUGxUUzFVNG5iTGVHVXRtUFo2aTRrSkVOeXFETk1mZG1GN2VReUlTd3NTcTdOUHBZblRoemUyWHc2UkUzMlZ3SG3SAZYBQVVfeXFMTWFUVnYtZHBWM2JJeWlMa05rZUdNZGhwQlduU3dOSjFoLURwbGxaXzM0azdMM2xOV292TnR4TkRnYi1qdjhFTnpfZGZMekZlbDVrWnZwTGlCOG1MemhLa1NKVFZ4cmtEbVdTMlVFTGpCZFhnYV9oYnVXd2ZUdW5wS0ZjV291RnV2c3dSNjNzTmYycmpnMUFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDJKeFdPS1hkdDU4TnVUVkYyb1AtT0xib0NkMjBiM0l2YXFtLVctV01LUE9uTkVLcGFGRTdhQWtXcEtPS3AxRnk2dFgtOVNaUGxUUzFVNG5iTGVHVXRtUFo2aTRrSkVOeXFETk1mZG1GN2VReUlTd3NTcTdOUHBZblRoemUyWHc2UkUzMlZ3SG3SAZYBQVVfeXFMTWFUVnYtZHBWM2JJeWlMa05rZUdNZGhwQlduU3dOSjFoLURwbGxaXzM0azdMM2xOV292TnR4TkRnYi1qdjhFTnpfZGZMekZlbDVrWnZwTGlCOG1MemhLa1NKVFZ4cmtEbVdTMlVFTGpCZFhnYV9oYnVXd2ZUdW5wS0ZjV291RnV2c3dSNjNzTmYycmpnMUFR?oc=5\" target=\"_blank\">FBI warns of new phishing scam targeting Microsoft 365 users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVY.com</font>",
-      "published": "2026-05-28T23:35:26+00:00",
-      "source": "WAVY.com"
+      "title": "This is Microsoft's unreleased AI super app - Sources | Alex Heath",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUUwLUpDOHdUdUVhR2hHczZ5RDF3RE9iTkdlano0bEloOVFIWnhuUWhqX0JtZUdiZEJNRlNaNENhWVI4aFk5UzQwbjFLY3FxVTJjNGc5ZHlweW83WmpnS0ZkMGJhUVBaaE40UmVfX1cxWWJ2UENDZEdmWVctWVZBcy1R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxORUUwLUpDOHdUdUVhR2hHczZ5RDF3RE9iTkdlano0bEloOVFIWnhuUWhqX0JtZUdiZEJNRlNaNENhWVI4aFk5UzQwbjFLY3FxVTJjNGc5ZHlweW83WmpnS0ZkMGJhUVBaaE40UmVfX1cxWWJ2UENDZEdmWVctWVZBcy1R?oc=5\" target=\"_blank\">This is Microsoft's unreleased AI super app</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sources | Alex Heath</font>",
+      "published": "2026-05-30T00:17:09+00:00",
+      "source": "Sources | Alex Heath"
     },
     {
-      "title": "Microsoft to release new coding model next week, the Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkl5RWJpbU1EMWV2ZkU5S1FKVWNWeG8tcmFBMUlLWWhuUUM1bmtVUlVTdnlmRDdFNmtaVVp2TUo1dFJrelVpRDhZa1p6Vi1KTDJQWmdSTnFuU1l4b2xrdS02dWx0YlBUQzd4NE1lMTZUckJhVGR2ZUY0TkZPdWhUSlVDQzA4WDAyV1B2Y3RWZzNjX0NtUGpRdm8yRWNXUmFQQjFPYVNkU3FfSVEyNnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkl5RWJpbU1EMWV2ZkU5S1FKVWNWeG8tcmFBMUlLWWhuUUM1bmtVUlVTdnlmRDdFNmtaVVp2TUo1dFJrelVpRDhZa1p6Vi1KTDJQWmdSTnFuU1l4b2xrdS02dWx0YlBUQzd4NE1lMTZUckJhVGR2ZUY0TkZPdWhUSlVDQzA4WDAyV1B2Y3RWZzNjX0NtUGpRdm8yRWNXUmFQQjFPYVNkU3FfSVEyNnc?oc=5\" target=\"_blank\">Microsoft to release new coding model next week, the Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-05-28T16:05:21+00:00",
-      "source": "Reuters"
+      "title": "Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzR4eWYxQURNS0luRXRha2tSWXMzZTkzdVRBZUx5MTVQSHBFTnRrZ0Y1Z1NjWjdlWFBhWk5nN2xCTXcyT05hcmk4eEpsX1lRQlJtSG4xaXkzOTVyY2x2aTNhbjA0d2UxbENQMTVWTEE3ZGJ5TXRPRFBwVFR4ZC1rUDdjSWZybEhwYWxiS2taNTI3SHZ1Y3VDaTJfTVhFUjhZZ0hxXy1GeDl6ZUdSbHZEcjhZanNkc2dsaHZJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzR4eWYxQURNS0luRXRha2tSWXMzZTkzdVRBZUx5MTVQSHBFTnRrZ0Y1Z1NjWjdlWFBhWk5nN2xCTXcyT05hcmk4eEpsX1lRQlJtSG4xaXkzOTVyY2x2aTNhbjA0d2UxbENQMTVWTEE3ZGJ5TXRPRFBwVFR4ZC1rUDdjSWZybEhwYWxiS2taNTI3SHZ1Y3VDaTJfTVhFUjhZZ0hxXy1GeDl6ZUdSbHZEcjhZanNkc2dsaHZJ?oc=5\" target=\"_blank\">Microsoft under fire for threatening security researcher with criminal investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-05-29T17:03:39+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Microsoft to Release New Coding Model Next Week in Comeback Attempt - The Information",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnYwdFliUHZQWnMxTHQ5TnA1QVBFd2VCMHRQNUFEWGtra1h1eEsxdWVadDB1Z2dHdDJ6eERhd3lVT3Z1czJaOHYzbVIyN1JFUFc3TDl0cFBtQzFoY3VzdklCM2dLOC12cUF4dXlleDBtS3pob1YyMVNvS3RBQUY0a3dlQ01fMGJMYnpsUWlnblhObEtWU0s2TVRkc0daa1dRSUpsdEZKZHNJbFlUTHo4cTZLcXE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnYwdFliUHZQWnMxTHQ5TnA1QVBFd2VCMHRQNUFEWGtra1h1eEsxdWVadDB1Z2dHdDJ6eERhd3lVT3Z1czJaOHYzbVIyN1JFUFc3TDl0cFBtQzFoY3VzdklCM2dLOC12cUF4dXlleDBtS3pob1YyMVNvS3RBQUY0a3dlQ01fMGJMYnpsUWlnblhObEtWU0s2TVRkc0daa1dRSUpsdEZKZHNJbFlUTHo4cTZLcXE?oc=5\" target=\"_blank\">Microsoft to Release New Coding Model Next Week in Comeback Attempt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-05-28T14:00:00+00:00",
-      "source": "The Information"
+      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX21uejJnb1Z0T1ZEYmNDVi1nRG5zWVRtVm1MaU5zZnZrU1BSdXF4aE5rSUpiYlF3aXRlV25MX005NEx5LUExV09GTmtxQXc3UmRYbF9WeGZONjRVOGp6VEk0UFprcmhHYVJfQlRORkw4Sm5BQ3VyM1NOem9lRFV4NlBrdVZMZmFCcWV5ZkVB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNX21uejJnb1Z0T1ZEYmNDVi1nRG5zWVRtVm1MaU5zZnZrU1BSdXF4aE5rSUpiYlF3aXRlV25MX005NEx5LUExV09GTmtxQXc3UmRYbF9WeGZONjRVOGp6VEk0UFprcmhHYVJfQlRORkw4Sm5BQ3VyM1NOem9lRFV4NlBrdVZMZmFCcWV5ZkVB?oc=5\" target=\"_blank\">Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-05-29T23:03:29+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "Microsoft plans to showcase new coding model at next week's Build conference: report - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjVxRFkwOHV5bW0ybHJCWjFHNkttSlBDaVpra1BEQ0FVanozTTdnby1sajRsMk9OTkxhd3BCeHlVdHdiaUJTaWFid0J2Nk5vaFRmZEpOMGR1TnJkU0F3alBvNlI0WW82VUhrN2JIZUNfNFU4SVJuSFFUZ3BEbVJkWlh5bVY3Sl9RTXhQbXlyQVB5UjNWWW1VQl93MVZPQW1NYVhlSldUSnU4LTIydnVpWUxoVTdzN3BvOWllSw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjVxRFkwOHV5bW0ybHJCWjFHNkttSlBDaVpra1BEQ0FVanozTTdnby1sajRsMk9OTkxhd3BCeHlVdHdiaUJTaWFid0J2Nk5vaFRmZEpOMGR1TnJkU0F3alBvNlI0WW82VUhrN2JIZUNfNFU4SVJuSFFUZ3BEbVJkWlh5bVY3Sl9RTXhQbXlyQVB5UjNWWW1VQl93MVZPQW1NYVhlSldUSnU4LTIydnVpWUxoVTdzN3BvOWllSw?oc=5\" target=\"_blank\">Microsoft plans to showcase new coding model at next week's Build conference: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-05-28T16:05:29+00:00",
-      "source": "Seeking Alpha"
+      "title": "Microsoft and NVIDIA Jointly Tease Possible N1X Debut as a \"New Era of PC\" - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0J5azJmc2dBZk1Ua3dmeVZaTUEtY3haUlJTWi1UakxNbVFsS0RZaFMwNnR4OTQ2aWp6QjdqLXYyaWVxMUFoRDQzTUdINDZsWmtNZG5zMnluSzN6dHJ0UWtjUnBJZVRJZklBdHBQRzRyWXA1clFldVo5WTdjQXRNR0FDYnNhS3prUmwxRmxJVFEyX0FtSXVuQWJwYlptRVR3Smg1WlF2VVQ0ZTTSAbABQVVfeXFMTm5Pb1JZZ3hINXpFMFRuVTEwbGhBLWVsTm1DUHhOR0p2X0k4RHlDQlpGWlU1RkxFQVBzS3RnZExIMXFlNjVXejBvbHRkemVQQXNNeUF3TXhHZFZwTTZPOUJDM0E1X1JqbnNUS0FZRkc4cFNBdFNfSVVoSllLa25haGFGczY4b0tXMUo3LUFaYjZfY0JBa1k1bzAzM18tQTJLMk5XaDFITnlDay1uWW1tVEc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0J5azJmc2dBZk1Ua3dmeVZaTUEtY3haUlJTWi1UakxNbVFsS0RZaFMwNnR4OTQ2aWp6QjdqLXYyaWVxMUFoRDQzTUdINDZsWmtNZG5zMnluSzN6dHJ0UWtjUnBJZVRJZklBdHBQRzRyWXA1clFldVo5WTdjQXRNR0FDYnNhS3prUmwxRmxJVFEyX0FtSXVuQWJwYlptRVR3Smg1WlF2VVQ0ZTTSAbABQVVfeXFMTm5Pb1JZZ3hINXpFMFRuVTEwbGhBLWVsTm1DUHhOR0p2X0k4RHlDQlpGWlU1RkxFQVBzS3RnZExIMXFlNjVXejBvbHRkemVQQXNNeUF3TXhHZFZwTTZPOUJDM0E1X1JqbnNUS0FZRkc4cFNBdFNfSVVoSllLa25haGFGczY4b0tXMUo3LUFaYjZfY0JBa1k1bzAzM18tQTJLMk5XaDFITnlDay1uWW1tVEc?oc=5\" target=\"_blank\">Microsoft and NVIDIA Jointly Tease Possible N1X Debut as a \"New Era of PC\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2026-05-29T21:18:07+00:00",
+      "source": "TechPowerUp"
     },
     {
-      "title": "Why Microsoft Stock Is Surging Today - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnE0X3dYTHoxelJDcEVmN0lwMEdfYmRiVW1BWVhPTlp3TmdvZkZjdWVBOW9PVDdNUEdRWGdzMS1nM3JmZE9WVkc1dTRHUmtHSGh2aTR6dHVwSHczS0lhUE1yUWFKTlNYdHpSVGFHYllncDY3dG14c2NXbUl4RnhWQnRZYkxZN3BLMVFmTExVVmlzd0Ezb05YVDJyQ1ltYXM?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnE0X3dYTHoxelJDcEVmN0lwMEdfYmRiVW1BWVhPTlp3TmdvZkZjdWVBOW9PVDdNUEdRWGdzMS1nM3JmZE9WVkc1dTRHUmtHSGh2aTR6dHVwSHczS0lhUE1yUWFKTlNYdHpSVGFHYllncDY3dG14c2NXbUl4RnhWQnRZYkxZN3BLMVFmTExVVmlzd0Ezb05YVDJyQ1ltYXM?oc=5\" target=\"_blank\">Why Microsoft Stock Is Surging Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORzlJM3hsdEQ4V0lPZlUxSkVHSy1ldjhTUjNPUFJENUZ2OFlrRHc5M3JJdmFmRmJXVmdyRnJKbzh4VC1ZUDR0b3BfN3AwS1ozelhuYm9ZVjJHLWdOZlBSZHB0OWxFaWFSeThQMVBiaFNoTWxNcXQ2TEZpTHpFbEFoeVdOclN2TF85cFVORzNSX3hBT05qVUVGNnJhdGwxOVU?oc=5\" target=\"_blank\">Microsoft (MSFT) Slid from the Threat of Margin Compression Due to AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPTTdvTHpaVVBZVFNGTDYxaGFaenVjX1FpRFNGVkdjeThhSVR5bS1Fb3k1UTRPaXZyeExGcHdXOHVwOWNWRnF0bUdyTXpsQkloQ2ZYUm40VGVSb3dxRFN0ZEdGSTIyS3dqZVBoVDJWcFpXRDNTNFlvejZpc1FtaGFVQkxjcXJoc29BcGg1Nw?oc=5\" target=\"_blank\">Market Indexes Rise on Microsoft Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li></ol>",
-      "published": "2026-05-28T19:28:02+00:00",
+      "title": "Final Trades: Nvidia, Microsoft, Alibaba and the IGV - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmVRT21jb0tGLU1IWDgwcWl2c0hPcVdDMDBNclJtOWtTb3J3Z2xkaDFGeUdnMlUxWl81SDZDYXlRQzhkV3lsbFBLMUFWdWZvQ1VQb0x6VGg2ZTVWeC1TY3FJMXV4X3BlcEFMOXUxa2ptazF0b0kzMk9YUjdJcDNxNUtTQ1FDSldMMXFLYTVMQ09iLUNaQ21v?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmVRT21jb0tGLU1IWDgwcWl2c0hPcVdDMDBNclJtOWtTb3J3Z2xkaDFGeUdnMlUxWl81SDZDYXlRQzhkV3lsbFBLMUFWdWZvQ1VQb0x6VGg2ZTVWeC1TY3FJMXV4X3BlcEFMOXUxa2ptazF0b0kzMk9YUjdJcDNxNUtTQ1FDSldMMXFLYTVMQ09iLUNaQ21v?oc=5\" target=\"_blank\">Final Trades: Nvidia, Microsoft, Alibaba and the IGV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-29T17:20:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Trades Up, Here Is Why - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRExCemFOOV9Wd1NBXzUweVhRSExocFF2NzBvR2VabjdvSFJUd3ZqeGd6aTBPc2V0Y05wWUloTVJwMFJTZ1hvSC05RUlLMmJFTmhWOGYydnRjazBPOFEzeG5Ec1hDUTVwUU1JV0R1WkJqRU5zT05BZGJmSTZ5Y2Uzb0h1Tm13MUNrUC1Da0p6WXd0WVF6YWpTY3JnUWI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRExCemFOOV9Wd1NBXzUweVhRSExocFF2NzBvR2VabjdvSFJUd3ZqeGd6aTBPc2V0Y05wWUloTVJwMFJTZ1hvSC05RUlLMmJFTmhWOGYydnRjazBPOFEzeG5Ec1hDUTVwUU1JV0R1WkJqRU5zT05BZGJmSTZ5Y2Uzb0h1Tm13MUNrUC1Da0p6WXd0WVF6YWpTY3JnUWI?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock Trades Up, Here Is Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-05-29T03:34:00+00:00",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "War Department Signs $9.7B Technology Deal With Dell for Microsoft Services - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDRybFVDN2d1dUNLRk1UemJ3NFRuTHp2NzZfck14NjRDcDBkYl9ObldKRmtFa054eHR1Xy1nVFdGNXFaLV9fMW5TT0lOSUFTSFJKQkY4MzctaFpHNmg0YTRNTmVqSjByTFJYdDRfek82cjFSc1V3V3UxTW5mRlp3NlM3UmxILVByWUpiUnVEQ01QaWtMQzRKZUJkY0RYM3pQTnZSM2V2VENEU1ZDYUU3bDVEWUo2Q0NKQzNWX0tVZVJmOVpSd200Z2t5OHNXSFhfaEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDRybFVDN2d1dUNLRk1UemJ3NFRuTHp2NzZfck14NjRDcDBkYl9ObldKRmtFa054eHR1Xy1nVFdGNXFaLV9fMW5TT0lOSUFTSFJKQkY4MzctaFpHNmg0YTRNTmVqSjByTFJYdDRfek82cjFSc1V3V3UxTW5mRlp3NlM3UmxILVByWUpiUnVEQ01QaWtMQzRKZUJkY0RYM3pQTnZSM2V2VENEU1ZDYUU3bDVEWUo2Q0NKQzNWX0tVZVJmOVpSd200Z2t5OHNXSFhfaEE?oc=5\" target=\"_blank\">War Department Signs $9.7B Technology Deal With Dell for Microsoft Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Department of War (.gov)</font>",
-      "published": "2026-05-28T21:29:10+00:00",
-      "source": "U.S. Department of War (.gov)"
     }
   ],
   "product_launches": [
+    {
+      "title": "Microsoft launches Copilot Health for personal medical records - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeE5zX1BiRkc3azM0b01ZenJJVkFmQWFLNlRsdkN2M0t4QldDZ1AwbDZsLXFTVS1tWUxGRXg1ekY5cXFUUTdiMUlyWVdqQ3JNQ3hnQ1Izb2czMFBlcU96bngwQ0dmUkZmSDVBV0JIckhiemFjVVZZWlZrWDVyc29rNWxQMzJ2S1dQZ3VkcmMtS0FVUjFOV2F4dFNKM2JGQUdNMGQ3ZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQeE5zX1BiRkc3azM0b01ZenJJVkFmQWFLNlRsdkN2M0t4QldDZ1AwbDZsLXFTVS1tWUxGRXg1ekY5cXFUUTdiMUlyWVdqQ3JNQ3hnQ1Izb2czMFBlcU96bngwQ0dmUkZmSDVBV0JIckhiemFjVVZZWlZrWDVyc29rNWxQMzJ2S1dQZ3VkcmMtS0FVUjFOV2F4dFNKM2JGQUdNMGQ3ZA?oc=5\" target=\"_blank\">Microsoft launches Copilot Health for personal medical records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "published": "2026-05-29T21:16:59+00:00",
+      "source": "Let's Data Science"
+    },
     {
       "title": "Euro-Office, Europe's open-source alternative to Microsoft Office and Google Docs, launches June 9 - ZDNET",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekpPLWxBSHdVaEdMX1dTdnVxVGE3S2RFZ0hkeTJ3eHlFdVJJTUhjV21UVzNHRFg2ekFIclJKdkRvNnE1Q0I3Vnp4aXNMZWN3STBndFRRaS01dzNUaU1BTnl0aG1hU0YyQUwyQnU5eTdYOFFJTnVicVNuQWUzYTd5eGxVRE9HX0xCZ1lxTjR3QTZ6SWVZT1J0T1Z2R29QMWZ6bkFCRkN1Y3BEbHUw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQekpPLWxBSHdVaEdMX1dTdnVxVGE3S2RFZ0hkeTJ3eHlFdVJJTUhjV21UVzNHRFg2ekFIclJKdkRvNnE1Q0I3Vnp4aXNMZWN3STBndFRRaS01dzNUaU1BTnl0aG1hU0YyQUwyQnU5eTdYOFFJTnVicVNuQWUzYTd5eGxVRE9HX0xCZ1lxTjR3QTZ6SWVZT1J0T1Z2R29QMWZ6bkFCRkN1Y3BEbHUw?oc=5\" target=\"_blank\">Euro-Office, Europe's open-source alternative to Microsoft Office and Google Docs, launches June 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
       "published": "2026-05-28T18:17:00+00:00",
       "source": "ZDNET"
-    },
-    {
-      "title": "Microsoft Office alternative Euro-Office launches for the public on June 9th - Cybernews",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GeUVLdEFpYi1SMzRxTmY0c2Q4STZybzBOa19JcHVwZ2F4NUNQZGQyaEVxOGx3cDIwT1VjUkVuQV9NU2FwXzVfNWk5ckpRVGI3S2dHc1pfRUVRVUdaODdDRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GeUVLdEFpYi1SMzRxTmY0c2Q4STZybzBOa19JcHVwZ2F4NUNQZGQyaEVxOGx3cDIwT1VjUkVuQV9NU2FwXzVfNWk5ckpRVGI3S2dHc1pfRUVRVUdaODdDRQ?oc=5\" target=\"_blank\">Microsoft Office alternative Euro-Office launches for the public on June 9th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybernews</font>",
-      "published": "2026-05-29T10:11:57+00:00",
-      "source": "Cybernews"
-    },
-    {
-      "title": "Microsoft AI launches MAI-Image-2.5 as image model ranks third on Arena - EdTech Innovation Hub",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHcxZmttLXE3cmgzaEZnTGF0dHFKSWhhUGZWb3UwZW5hZlZreG44T1ltN0g3SVBRdUI2NVBGMzJteWMwSkNOZlVNN3NXTWIxa1htUDFYcXd0RFViRzliVFExeXM3SFAzSnBtSmtRVmxseVU3cGkxX3dXZGRoSUppWkZmRmYzZjVUSlJWREZ3S3RfRFU5dVM0aGF3QWtibEpCd0hOMzYtcFllM1hMbDlvbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHcxZmttLXE3cmgzaEZnTGF0dHFKSWhhUGZWb3UwZW5hZlZreG44T1ltN0g3SVBRdUI2NVBGMzJteWMwSkNOZlVNN3NXTWIxa1htUDFYcXd0RFViRzliVFExeXM3SFAzSnBtSmtRVmxseVU3cGkxX3dXZGRoSUppWkZmRmYzZjVUSlJWREZ3S3RfRFU5dVM0aGF3QWtibEpCd0hOMzYtcFllM1hMbDlvbw?oc=5\" target=\"_blank\">Microsoft AI launches MAI-Image-2.5 as image model ranks third on Arena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdTech Innovation Hub</font>",
-      "published": "2026-05-28T00:30:39+00:00",
-      "source": "EdTech Innovation Hub"
     },
     {
       "title": "10 products that launched at Microsoft Build — and what happened to them - TechRadar",
@@ -96,6 +89,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2026-03-09T07:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout - PayPal Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFgxUnpBS2REM2ZGSkdzc2VIdTV3TjBFV0YxRERYZFhpc2IwZHlqWnpNckp6QjR6V3gtU1lxc3N6WVJ4MnlWcXlPVEhVSWtMbU56Unpfcm5wOEZJVHI3d0ZKaFBEWjNzbnNRNkljVnVNOGpQQlFiNkZLVUc4ZVFidmVWdVFidmpuYUJweTh4MDBsR0R3Mmo1eDBaWQ?oc=5\" target=\"_blank\">Press Release: PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
+      "published": "2026-01-08T08:00:00+00:00",
+      "source": "PayPal Newsroom"
     }
   ],
   "stock": {
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-05-29",
-      "close": 442.1000061035156
+      "close": 450.239990234375
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 442.1000061035156
+        "close": 450.239990234375
       }
     ],
     "name": "Microsoft Corporation"
