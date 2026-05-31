@@ -2,8 +2,15 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-05-30T13:02:58.878265+00:00",
+  "fetched_at": "2026-05-31T13:14:19.292863+00:00",
   "news": [
+    {
+      "title": "First Windows PC powered by Nvidia chips to debut next week, Axios reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnVLOHBlWmZIZ3gyME1WZ3ZUY2VkU2VwdFYzR1FzNV9hTEM5bW16SUxrYmx5ZzdWSGxnSTRzeHJBOE5paGRWUnQ3QW1nYVBkYVY5OExaRlZoV0pMV1NVTDJTbGZTMFFjNzc0WWNhbVppaThrZUIzU1FmOVJBU1c4Q2NiSTVxeE1TRXM1VHp6YU15THBJR25KSloxZ3BhMDl6eElCdlc1U2lRM3dIVTdVclRZckhSUQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnVLOHBlWmZIZ3gyME1WZ3ZUY2VkU2VwdFYzR1FzNV9hTEM5bW16SUxrYmx5ZzdWSGxnSTRzeHJBOE5paGRWUnQ3QW1nYVBkYVY5OExaRlZoV0pMV1NVTDJTbGZTMFFjNzc0WWNhbVppaThrZUIzU1FmOVJBU1c4Q2NiSTVxeE1TRXM1VHp6YU15THBJR25KSloxZ3BhMDl6eElCdlc1U2lRM3dIVTdVclRZckhSUQ?oc=5\" target=\"_blank\">First Windows PC powered by Nvidia chips to debut next week, Axios reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA3c2ZZdTRTXzZUeWx6cUtCaW1Ya2VoTjFrVGFpQ0lGNUliUzJoT19jb2NUTTc0MTd5T0trZ3BBWmxpQXNoMDg2aWZCeFlvRHUzLThwSE50TUc4VW5ubHg2TG9KUm9xYTdUVDUtT0stRVVYM1gzWk55TA?oc=5\" target=\"_blank\">Scoop: First Windows PCs powered by Nvidia chips to debut next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWZmMlMtMHVkamF1NUJrZ25yajBWTlZnYVJIR1RtTHRmV2xiZzhfRFlraTYzdmI0ZktWRXpsbXY5ZVVqaF9VVXlOZU9zVFM1V1JQSi1rZkJ6ZHpReUpWRWFPbXBnTmRwSVZ1R2JSUC1tVUFTMGZMaHR2TEdhMjZDdU1Vb3MzanJWclU2UjQ0OUl0UGhzMmdxN2pfdXctclJQRkUw?oc=5\" target=\"_blank\">Nvidia and Microsoft Just Dropped a Cryptic Tease. Is an Arm-Powered Windows PC Chip Finally Coming?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font></li></ol>",
+      "published": "2026-05-30T23:53:03+00:00",
+      "source": "Reuters"
+    },
     {
       "title": "Nvidia is investing billions into this emerging technology that could change the AI industry - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdnhMdmVKM19DYkQ4c1EtWXk3bHI3ek1mRWZvVFV6b3RTdXp1Y2VWTk9KdWs2M1o4LXlxc3pkQ0JNeWNfVzlwZmM0c212cFJ6LW9pRm9MNC1wUUwwd0hRTTRMVUN1RDRUbkRBUnp3dFJvazR6eGfSAXtBVV95cUxQZktCN0hoc29UbEI1bHVGR2NGd0pLSnBkWW1xbFlWZ2hxV0JrcFd0NEFwQ0NHY3pqbHlvZG5nS2pGdTcwZjJEU2YyQWdHdWNDTkRnMGRkc0J1aFBRZ0M5UEh6T1RqT3ZRdVF1NHBCOE4yQk9wdzRkRWF0Vzg?oc=5",
@@ -12,25 +19,18 @@
       "source": "CNBC"
     },
     {
-      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX21uejJnb1Z0T1ZEYmNDVi1nRG5zWVRtVm1MaU5zZnZrU1BSdXF4aE5rSUpiYlF3aXRlV25MX005NEx5LUExV09GTmtxQXc3UmRYbF9WeGZONjRVOGp6VEk0UFprcmhHYVJfQlRORkw4Sm5BQ3VyM1NOem9lRFV4NlBrdVZMZmFCcWV5ZkVB?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNX21uejJnb1Z0T1ZEYmNDVi1nRG5zWVRtVm1MaU5zZnZrU1BSdXF4aE5rSUpiYlF3aXRlV25MX005NEx5LUExV09GTmtxQXc3UmRYbF9WeGZONjRVOGp6VEk0UFprcmhHYVJfQlRORkw4Sm5BQ3VyM1NOem9lRFV4NlBrdVZMZmFCcWV5ZkVB?oc=5\" target=\"_blank\">Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0J5azJmc2dBZk1Ua3dmeVZaTUEtY3haUlJTWi1UakxNbVFsS0RZaFMwNnR4OTQ2aWp6QjdqLXYyaWVxMUFoRDQzTUdINDZsWmtNZG5zMnluSzN6dHJ0UWtjUnBJZVRJZklBdHBQRzRyWXA1clFldVo5WTdjQXRNR0FDYnNhS3prUmwxRmxJVFEyX0FtSXVuQWJwYlptRVR3Smg1WlF2VVQ0ZTTSAbABQVVfeXFMTm5Pb1JZZ3hINXpFMFRuVTEwbGhBLWVsTm1DUHhOR0p2X0k4RHlDQlpGWlU1RkxFQVBzS3RnZExIMXFlNjVXejBvbHRkemVQQXNNeUF3TXhHZFZwTTZPOUJDM0E1X1JqbnNUS0FZRkc4cFNBdFNfSVVoSllLa25haGFGczY4b0tXMUo3LUFaYjZfY0JBa1k1bzAzM18tQTJLMk5XaDFITnlDay1uWW1tVEc?oc=5\" target=\"_blank\">Microsoft and NVIDIA Jointly Tease Possible N1X Debut as a \"New Era of PC\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA3c2ZZdTRTXzZUeWx6cUtCaW1Ya2VoTjFrVGFpQ0lGNUliUzJoT19jb2NUTTc0MTd5T0trZ3BBWmxpQXNoMDg2aWZCeFlvRHUzLThwSE50TUc4VW5ubHg2TG9KUm9xYTdUVDUtT0stRVVYM1gzWk55TA?oc=5\" target=\"_blank\">Scoop: First Windows PCs powered by Nvidia chips to debut next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li></ol>",
-      "published": "2026-05-29T23:03:29+00:00",
-      "source": "The Verge"
+      "title": "Prediction: Nvidia Stock Is Going to $400 Within 1 Year - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDNCQ3pPZzNhMW5lU2hZeWlDc19NRFoySk5zOXI5ejRXdlBEMjdmeXFWb2pmaURLYnBEWmFheG1oTEdYQ1prMkR3UGdOeklPSjExems1ZloyaTNwQTAyUFE4QXdkU1JLQ0JTWlB1RTVuNUkxRG1OSmliODhiQ3lzdWtYWWVNTDEzVFRkZXVHVEpWa2ZFWFFwb1lPSDJwZjg?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDNCQ3pPZzNhMW5lU2hZeWlDc19NRFoySk5zOXI5ejRXdlBEMjdmeXFWb2pmaURLYnBEWmFheG1oTEdYQ1prMkR3UGdOeklPSjExems1ZloyaTNwQTAyUFE4QXdkU1JLQ0JTWlB1RTVuNUkxRG1OSmliODhiQ3lzdWtYWWVNTDEzVFRkZXVHVEpWa2ZFWFFwb1lPSDJwZjg?oc=5\" target=\"_blank\">Prediction: Nvidia Stock Is Going to $400 Within 1 Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXd0VWx0dnl0YVBsdXd2YURISmM2bVk1aXpPOGtqenNhM1pRTlcwMUNxRVNOaFkxNkxMSzhnZ2VnRGpWM09XNm56SzZsU204UGhNNHVRSmNKbm5nUnhaRGJJMlhzd2tibFZkdFlVMDZ2WlNZOEV2dGkxcU02M3FFZDlqT1JYeU5PejhCQVczZ092ZGRVR0FpeA?oc=5\" target=\"_blank\">Nvidia Recently Plowed $3.8 Billion Into These 2 Artificial Intelligence (AI) Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHRxZHBuTjdFMVZTRVUzVkJqSzZOaFo3TG9pZXlyY1hkMmxmNmhoV2hzZUluZFYzbks4eGNzM1B6LThpamhXblBpcXozQktucGdHc0pTcXVwMjI1Mi1VSTd1c3MtYm5ZQ1J5WVRMeXFQQWJINnQxakw1VElrRExGTg?oc=5\" target=\"_blank\">Nvidia Stock: How the Chip Maker Is Trading Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
+      "published": "2026-05-30T13:14:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "How to Watch Nvidia CEO Jensen Huang's Computex 2026 Keynote - PCMag Australia",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXRHNmlUTlJZeGtqUjBhNGRrOUZpQUZXMEU0dkFQRF9fTDZNSUJjNjR1aEI4cEVJOVVLY0hCUVBWODRDdjNfbTRTeHk2eUNsUG9xTWZIZEhIeV82TWF1NzRpSkJEVWVjR29tVTI0QTZXR2dsYnctNXN1RGJuTUtGUjZsWEFfUTZ0ODZDZXFNRmMwWDhBTHVoX0JvMGk0WlU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXRHNmlUTlJZeGtqUjBhNGRrOUZpQUZXMEU0dkFQRF9fTDZNSUJjNjR1aEI4cEVJOVVLY0hCUVBWODRDdjNfbTRTeHk2eUNsUG9xTWZIZEhIeV82TWF1NzRpSkJEVWVjR29tVTI0QTZXR2dsYnctNXN1RGJuTUtGUjZsWEFfUTZ0ODZDZXFNRmMwWDhBTHVoX0JvMGk0WlU?oc=5\" target=\"_blank\">How to Watch Nvidia CEO Jensen Huang's Computex 2026 Keynote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag Australia</font>",
-      "published": "2026-05-30T12:04:50+00:00",
-      "source": "PCMag Australia"
-    },
-    {
-      "title": "Nvidia Stock: How the Chip Maker Is Trading Today - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHRxZHBuTjdFMVZTRVUzVkJqSzZOaFo3TG9pZXlyY1hkMmxmNmhoV2hzZUluZFYzbks4eGNzM1B6LThpamhXblBpcXozQktucGdHc0pTcXVwMjI1Mi1VSTd1c3MtYm5ZQ1J5WVRMeXFQQWJINnQxakw1VElrRExGTg?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHRxZHBuTjdFMVZTRVUzVkJqSzZOaFo3TG9pZXlyY1hkMmxmNmhoV2hzZUluZFYzbks4eGNzM1B6LThpamhXblBpcXozQktucGdHc0pTcXVwMjI1Mi1VSTd1c3MtYm5ZQ1J5WVRMeXFQQWJINnQxakw1VElrRExGTg?oc=5\" target=\"_blank\">Nvidia Stock: How the Chip Maker Is Trading Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXdKak5OUG5oQTNmb0lQMUFXNV8yQ09EZFBoUzlYZ2FreU9NaHZobVhTSDh5T2hXTmR3SWgyTUxqY0ktUUlJX29tUGZUbURXTi05YXZNREJQMXN5QzVCWXdleHloTHZGS21xeWt5SWh5aFJzZE1PU1dacmtPY0NJVXJ3MU9SYk5yallUdDNlNGZ6RUhFWlA0?oc=5\" target=\"_blank\">Stocks In AI Bottleneck Soar 1,000%. Now Nvidia Is Demanding 20X More Supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1VMcWtWYkgyLXdFOTVBeVVzWU43VFpwTmstSjRpdGFZQi1mV0NMTmpBdVBSTGMyaEExaXdTZWhlNENEbkRNeEtlQm1NaFcyY2FRcE9UNnVFMjE1WFVLbDZQX2lBYUp4VVVwb2NsUk5hb202Z0VfSEQ2dUJlQlZIVU1TOHhDcVNibmhfVVNn?oc=5\" target=\"_blank\">Here are Friday's biggest analyst calls: Nvidia, Dell, Costco, Amazon, Alphabet, Snowflake, Xpeng & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
-      "published": "2026-05-29T12:49:00+00:00",
-      "source": "Barron's"
+      "title": "Nvidia CEO Jensen Huang leaves a 'timeless note' outside bathroom wall in Taiwan's capital that says ... - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZ3J0WDluMzhvamNDUzBHdlgzZnVBV0JzdU5WQ3hxX1RWdXh6YldUNEgwVXZwSE9fWi03eTZWZDVkX3NQcVBKa0lMOGp4S3ZkQW00Q2xvMXZsYjZoelNDSU03cHJTMDRjellOQ2J5V1lyc2VObTVpWUtyLXFjVjdNVUpNNmsyTUJpb29oX2IxMTNTMkdPQW5tOG5vTkpsMjhUT3pSdHZveDljaEhmVXh0RjNrdE5vcTVDSHEzd0ZUNUFZLTZMZkkzRTNqdzVJMGhUNUE5MnE0T3RCcnR5SS1JalE1amlRTHVYZWdzSElRQUFSeUlQaE5kb21udElPWjZIbW8tQXRSTS1zaURaRVHSAZMCQVVfeXFMTXJ1bDNMaXBFYk9JX3VWQlpTS011Z3FWNVRmVkNSdTI0ODlfVXRGd1I2TWkyM1hjSi0xaWN6OGtVSW9sbGpZT0hWSjFxODNUTVVoX1dxS3RueDVnclhfTlN4OE1hS1FYV0xJNlBuV0NFY1hMR2QtbVI1WW1vamhGQndrUnNFYmk4LTQ5d0QyRlh0WThRa2NndmR3UTZMOGhNSGh1MWR6bVlSVllKaVYtWlNERmEtYlJRU1VreURPcElITFFyNWNUb2dJMFRLWi0wTVdxQmJBUjY1YWhFeVFkVVdrYTNBSlo3bGdxTWpxYXdxUlJfd1RyUF82TnNSeHcyYWpvWVg2RE0tdklheUdmdDU2MEU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPZ3J0WDluMzhvamNDUzBHdlgzZnVBV0JzdU5WQ3hxX1RWdXh6YldUNEgwVXZwSE9fWi03eTZWZDVkX3NQcVBKa0lMOGp4S3ZkQW00Q2xvMXZsYjZoelNDSU03cHJTMDRjellOQ2J5V1lyc2VObTVpWUtyLXFjVjdNVUpNNmsyTUJpb29oX2IxMTNTMkdPQW5tOG5vTkpsMjhUT3pSdHZveDljaEhmVXh0RjNrdE5vcTVDSHEzd0ZUNUFZLTZMZkkzRTNqdzVJMGhUNUE5MnE0T3RCcnR5SS1JalE1amlRTHVYZWdzSElRQUFSeUlQaE5kb21udElPWjZIbW8tQXRSTS1zaURaRVHSAZMCQVVfeXFMTXJ1bDNMaXBFYk9JX3VWQlpTS011Z3FWNVRmVkNSdTI0ODlfVXRGd1I2TWkyM1hjSi0xaWN6OGtVSW9sbGpZT0hWSjFxODNUTVVoX1dxS3RueDVnclhfTlN4OE1hS1FYV0xJNlBuV0NFY1hMR2QtbVI1WW1vamhGQndrUnNFYmk4LTQ5d0QyRlh0WThRa2NndmR3UTZMOGhNSGh1MWR6bVlSVllKaVYtWlNERmEtYlJRU1VreURPcElITFFyNWNUb2dJMFRLWi0wTVdxQmJBUjY1YWhFeVFkVVdrYTNBSlo3bGdxTWpxYXdxUlJfd1RyUF82TnNSeHcyYWpvWVg2RE0tdklheUdmdDU2MEU?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang leaves a 'timeless note' outside bathroom wall in Taiwan's capital that says ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-05-31T07:46:00+00:00",
+      "source": "The Times of India"
     },
     {
       "title": "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz - Reuters",
@@ -40,25 +40,25 @@
       "source": "Reuters"
     },
     {
-      "title": "At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDJHQWFLSm1mOFd1YzM1d2d6RGJjemZiTGNISy11Tlhab1NMU1k2RUFIM29ab1d4NmZnemRwQjU2dnpta2Y5U3JmdDhrZVozMUVuQXdfaUh6Z1Uwai1MVU5JeHVfd21xQ0JRLUc4TWFtQ0o3enlNaEgtcWxMTWw5ODZwcjJCZ3AyWEl4R0RydkF1Z1BsS2hFblk2OWJDNUVfVHpnYWdYcnFyQUdJMWk1ODVBcXVYMlg4c2FEQ2p2NXVjbjVR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDJHQWFLSm1mOFd1YzM1d2d6RGJjemZiTGNISy11Tlhab1NMU1k2RUFIM29ab1d4NmZnemRwQjU2dnpta2Y5U3JmdDhrZVozMUVuQXdfaUh6Z1Uwai1MVU5JeHVfd21xQ0JRLUc4TWFtQ0o3enlNaEgtcWxMTWw5ODZwcjJCZ3AyWEl4R0RydkF1Z1BsS2hFblk2OWJDNUVfVHpnYWdYcnFyQUdJMWk1ODVBcXVYMlg4c2FEQ2p2NXVjbjVR?oc=5\" target=\"_blank\">At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-05-29T08:24:58+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "The CEOs of the world's biggest chip companies are descending on Taiwan next week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEZqT19Ya2tudlZTWV9PSHp2UzJLOEhGSUlzVnlnWFNzWElfaDgxSTF3SURVSGQtMWt4Y0RhSWNJQUhMNGY5NWktTVo0ZXJocEluMG9rYlpIX2swNklGM3NHNjRYSWxaQnNTVXozSWw5TUY5UnZWWWgzcHlUYWdqSE4waWlmWWpiNVVxVGZITFVidlpCazdDZXNaR1NvZjlJSGpjQmJaa0FnOHJTTlVKTmxNOE4yRlBpeWVIYlZuSlBzWlRlYTFuXzE2SC1Fd3Vud2Ywd1BtRURXSUNGQm1PaVpB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEZqT19Ya2tudlZTWV9PSHp2UzJLOEhGSUlzVnlnWFNzWElfaDgxSTF3SURVSGQtMWt4Y0RhSWNJQUhMNGY5NWktTVo0ZXJocEluMG9rYlpIX2swNklGM3NHNjRYSWxaQnNTVXozSWw5TUY5UnZWWWgzcHlUYWdqSE4waWlmWWpiNVVxVGZITFVidlpCazdDZXNaR1NvZjlJSGpjQmJaa0FnOHJTTlVKTmxNOE4yRlBpeWVIYlZuSlBzWlRlYTFuXzE2SC1Fd3Vud2Ywd1BtRURXSUNGQm1PaVpB?oc=5\" target=\"_blank\">The CEOs of the world's biggest chip companies are descending on Taiwan next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-29T19:46:02+00:00",
+      "title": "Nvidia CEO blasts bosses using AI as a layoff excuse: 'We're scaring people' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3g1dkJ0ZHN1UXR0YWd2Vi1JSTZKd1NhZmlGN3VldEsyOEZmMWVuNm92aWdBa2RlZUVFd0dTTHhISnloUlVhYV9aOFFlYnBObE9HcWJTaUt6UUVDclBvYmZQWC1NYUJxNWE1Zkc5TFRVemNnb2s5aVVQOTZrQ0JHelc4aXVyZU1oQTBDVlY1Nk9UVW00UjlpM2l4c2pBeUN0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3g1dkJ0ZHN1UXR0YWd2Vi1JSTZKd1NhZmlGN3VldEsyOEZmMWVuNm92aWdBa2RlZUVFd0dTTHhISnloUlVhYV9aOFFlYnBObE9HcWJTaUt6UUVDclBvYmZQWC1NYUJxNWE1Zkc5TFRVemNnb2s5aVVQOTZrQ0JHelc4aXVyZU1oQTBDVlY1Nk9UVW00UjlpM2l4c2pBeUN0?oc=5\" target=\"_blank\">Nvidia CEO blasts bosses using AI as a layoff excuse: 'We're scaring people'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-05-31T07:00:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXlKS0xwSGRTYVd5TnF3NnFJMWxtRmFNZFVwR3AxM3QtV0dUWFhxREpNamRmREpHUGJtVlBLbS03OG9iMUJRUHFZWGRpRDE1OWlrX1NGLXVYVGRfYTNWeUI3aEdXS2p6dkQtZlA4Z1h5N1V5VlowenpOSTI0cVRaTDltM0ZHTDZCaUhlUGZHOUNmZmR3NGxmZjM1U2d1SXlTeFlXejVhQkV0c3ZFRjhJLS1B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXlKS0xwSGRTYVd5TnF3NnFJMWxtRmFNZFVwR3AxM3QtV0dUWFhxREpNamRmREpHUGJtVlBLbS03OG9iMUJRUHFZWGRpRDE1OWlrX1NGLXVYVGRfYTNWeUI3aEdXS2p6dkQtZlA4Z1h5N1V5VlowenpOSTI0cVRaTDltM0ZHTDZCaUhlUGZHOUNmZmR3NGxmZjM1U2d1SXlTeFlXejVhQkV0c3ZFRjhJLS1B?oc=5\" target=\"_blank\">After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-05-29T17:27:13+00:00",
-      "source": "TechCrunch"
+      "title": "ASUS XA NB3I-E12 Review A Massive 8x NVIDIA B300 GPU Server - ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdm10MGsxa28tUldxTC1tNFNhN0VSajJPVnhWUmZJRHA1SEU3UGxUOWRhWHRPMndHQnlvTHVhRl9qUkk4YXExRWctUlNqMllyamlTQXpETk92cTF1UlJWajJCTWdhUkdUV0gtMTBKSzBaM2ZNSjY3N1dxZEM2VTdDZXRmZkZoYkF6SmVxc2FSWUdKME0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdm10MGsxa28tUldxTC1tNFNhN0VSajJPVnhWUmZJRHA1SEU3UGxUOWRhWHRPMndHQnlvTHVhRl9qUkk4YXExRWctUlNqMllyamlTQXpETk92cTF1UlJWajJCTWdhUkdUV0gtMTBKSzBaM2ZNSjY3N1dxZEM2VTdDZXRmZkZoYkF6SmVxc2FSWUdKME0?oc=5\" target=\"_blank\">ASUS XA NB3I-E12 Review A Massive 8x NVIDIA B300 GPU Server</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ServeTheHome</font>",
+      "published": "2026-05-30T17:00:09+00:00",
+      "source": "ServeTheHome"
+    },
+    {
+      "title": "Nvidia CFO Colette Kress: ‘AI is no longer a nice-to-have’ - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUpqMEtpVVlmZHI1R01kZUFteVk4Ym15blFyRklTWE1iMGQtbVFwejBoa1UtajVjU0lCS2NvektlU3JMS2JlTmlMMU5aLVVHb2JjdXdSNHlqbXR5a1Z0dnl0QlJNT1BuX0pXcmFLRVNjYm1URWc1d0hSc1pJenNEM08zUHVSbDRIRzFZZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUpqMEtpVVlmZHI1R01kZUFteVk4Ym15blFyRklTWE1iMGQtbVFwejBoa1UtajVjU0lCS2NvektlU3JMS2JlTmlMMU5aLVVHb2JjdXdSNHlqbXR5a1Z0dnl0QlJNT1BuX0pXcmFLRVNjYm1URWc1d0hSc1pJenNEM08zUHVSbDRIRzFZZw?oc=5\" target=\"_blank\">Nvidia CFO Colette Kress: ‘AI is no longer a nice-to-have’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-05-30T11:30:00+00:00",
+      "source": "Fortune"
     }
   ],
   "product_launches": [
@@ -84,18 +84,18 @@
       "source": "digitimes"
     },
     {
+      "title": "Microsoft and Nvidia to Launch New PCs at Upcoming Conferences - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVW5EMzNiRHp4QWFLNDBBUURZcXNRcFA0MjJxamRzVUNieEZpMjE2UGs4MllXTUVRd0dQdERmSDRWZDlzTDhnNmIyNEtOZDBUYTJlTF9wWlZ0aDlUdFQyaDF6R1pnM0FkQXUtckZtUEU1blIxWENyZzRXRVlhdTM5UDRqUGp6TWJXblc3eFlFUHdBb2xxczlEREVLUFI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVW5EMzNiRHp4QWFLNDBBUURZcXNRcFA0MjJxamRzVUNieEZpMjE2UGs4MllXTUVRd0dQdERmSDRWZDlzTDhnNmIyNEtOZDBUYTJlTF9wWlZ0aDlUdFQyaDF6R1pnM0FkQXUtckZtUEU1blIxWENyZzRXRVlhdTM5UDRqUGp6TWJXblc3eFlFUHdBb2xxczlEREVLUFI?oc=5\" target=\"_blank\">Microsoft and Nvidia to Launch New PCs at Upcoming Conferences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
+      "published": "2026-05-30T15:07:54+00:00",
+      "source": "Intellectia AI"
+    },
+    {
       "title": "Nvidia's Jensen Huang arrives in Taiwan ahead of GTC Taipei and country's biggest product launch - GamesBeat",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDJhcUU0NnNyZ2NBSUdtV2hGYk1tTTFhTDNBWGtCekpxQW5nUnc5cHV6MmxodkRWLTlzVl9PZmhxYnBEU0lPV3BNc2JRZnJ3ampXeVkzME1BZU9oR3hfbHhLQXYzRXZpencxcGdNTHhyVEpJd0NuRFVPOFBTM3d0VVVfQjc1MjJsUGMyMDZiWDBycVZma0lSc1g1X01Pd19sUU9wenNoc3FTU1RRSHZQUGZ3ZW9xb2V2?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDJhcUU0NnNyZ2NBSUdtV2hGYk1tTTFhTDNBWGtCekpxQW5nUnc5cHV6MmxodkRWLTlzVl9PZmhxYnBEU0lPV3BNc2JRZnJ3ampXeVkzME1BZU9oR3hfbHhLQXYzRXZpencxcGdNTHhyVEpJd0NuRFVPOFBTM3d0VVVfQjc1MjJsUGMyMDZiWDBycVZma0lSc1g1X01Pd19sUU9wenNoc3FTU1RRSHZQUGZ3ZW9xb2V2?oc=5\" target=\"_blank\">Nvidia's Jensen Huang arrives in Taiwan ahead of GTC Taipei and country's biggest product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamesBeat</font>",
       "published": "2026-05-27T23:59:47+00:00",
       "source": "GamesBeat"
-    },
-    {
-      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzU4d012RHJ5YXR5WWRTSDRDWWpsdVhWN29XVHFSajNURGNoWDFhSjF3X2Q1ckcwRmxGWFlub2tMX2s3eUhYUjNZY180OHBQeGFfV0xZMV9FZHlEcENLdHU5UURUbTlqQmFDeEtBeUZzNzlkU0Z3NEdqNUlndVQ5aDZfTXF5MjQ0ZUxFd1ZiVFI?oc=5\" target=\"_blank\">NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-03-16T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
