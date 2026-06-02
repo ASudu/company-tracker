@@ -2,63 +2,63 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-06-01T17:16:02.742655+00:00",
+  "fetched_at": "2026-06-02T16:00:02.844726+00:00",
   "news": [
     {
-      "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’ - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmdxQnJrUzdRZ3RvRzhuYmkwMDQ2MUtjc3pTb01kY2Q4Z3BVdTYxUGh5cXdNc3g0QmNRR1pXRzlWODBZR3NnejFJeFpYa2h5OVJZN213LTdVRy15RUJQZHNPYzZtTWtrbmVPdjZfQWlUeU9wZHpRclZEbU5Vb3FIaFlWRElYWV95Z2xlV043M0RwTnFqbG8tUXZrQ25lX21uX3BEWg?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmdxQnJrUzdRZ3RvRzhuYmkwMDQ2MUtjc3pTb01kY2Q4Z3BVdTYxUGh5cXdNc3g0QmNRR1pXRzlWODBZR3NnejFJeFpYa2h5OVJZN213LTdVRy15RUJQZHNPYzZtTWtrbmVPdjZfQWlUeU9wZHpRclZEbU5Vb3FIaFlWRElYWV95Z2xlV043M0RwTnFqbG8tUXZrQ25lX21uX3BEWg?oc=5\" target=\"_blank\">Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQVXhiYm1SaF83ZVlpcmJocG1zZDBTRTNaQWtPa3RPampON2M2bFZLbXhBT055QUg4em1YMHBqbGNrLXZHZlNIU21tdDdvY3d0c0VHbmJTWDF1eGdfeUFWMm9rZTd0ZzlUR2NkbW10aVQ3aFpnWktJZXc5X1kzOE9yeTM3dWFTSEF6TjJMMmlLNXpIQlgzelQ1WDZwT3VwWGw4NnZjTGZRY1E1VGljeTU4SzhPQzY2UQ?oc=5\" target=\"_blank\">Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1BUDlvTEh2SndvalE0eTVYSTFUYXZuU3A4RlhPSWFSYS1RTm5QV0szOVZfd2pkV2Q1N3Q1V3I2aGI2VFM0RnFoNGdMMTZXVENWWGVBUWszcXZzck9OaTBsSjlERlJJUkdqM1doTlhaVHpaeHhW?oc=5\" target=\"_blank\">Nvidia RTX Spark sounds like it might be a great Windows chip even beyond the AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Google</font></li></ol>",
-      "published": "2026-06-01T04:28:00+00:00",
-      "source": "The Verge"
+      "title": "Marvell stock soars 20% as Nvidia's Huang says it could be the next trillion-dollar company - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTMtR2pPU3JFdFNmZlA5NEw0YWM2aFFBZVdPNGYxX202dmdFTjVVdGZ4b3poZ2htaWh6eHhWMTFqRHBZdDR4VGE0ZTBPWDYzd05vOEQ4akVXbmZ5LTR2RF9DM1hTS1h5ZlNXUldiUXpod0IzU3BTMGlaVjIybUc0YmVCSzRFOVBBWU5jclVLS2l2bEZMSVl6b1NB0gGfAUFVX3lxTE5MUG1BMGkxV2dSR2ZPQ2ZHV0t1aTZqTlJqcmVJcHNfOEdxbzZCMzJIaEh2aVFZcHVGZzYyQUtaNTZISktWUVRGa0FGOTdneXphdHRFaWhacjhYQmdXZUo0TkxMSWNpZi1ZRzUtRkpKNGNnckczX3RaZS1oZU4yYVFIS3JSUFZxb1JDaExVcGUtZHc0dUtSOWtNaEdUXzI0cw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTMtR2pPU3JFdFNmZlA5NEw0YWM2aFFBZVdPNGYxX202dmdFTjVVdGZ4b3poZ2htaWh6eHhWMTFqRHBZdDR4VGE0ZTBPWDYzd05vOEQ4akVXbmZ5LTR2RF9DM1hTS1h5ZlNXUldiUXpod0IzU3BTMGlaVjIybUc0YmVCSzRFOVBBWU5jclVLS2l2bEZMSVl6b1NB0gGfAUFVX3lxTE5MUG1BMGkxV2dSR2ZPQ2ZHV0t1aTZqTlJqcmVJcHNfOEdxbzZCMzJIaEh2aVFZcHVGZzYyQUtaNTZISktWUVRGa0FGOTdneXphdHRFaWhacjhYQmdXZUo0TkxMSWNpZi1ZRzUtRkpKNGNnckczX3RaZS1oZU4yYVFIS3JSUFZxb1JDaExVcGUtZHc0dUtSOWtNaEdUXzI0cw?oc=5\" target=\"_blank\">Marvell stock soars 20% as Nvidia's Huang says it could be the next trillion-dollar company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-06-02T10:10:27+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Stock Market Today: Indexes Mostly Gain as Nvidia-Driven Tech Gains Outweigh Soaring Oil Prices; Anthropic Confidentially Files IPO Prospectus - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlzTGtuZlRwdWh0YmRfU0hNdE1WOFRYM0ZBZjEyNTdHelNzdG91aTVhWWhvYjJEQjdtZE1JVnhtaXljUHF2a1BCSUlUTW04YW4zTHhaOGtneldNNUNQci1QRUpOUm5wdXlYSm1zTHY2aExGV3I0TUZkNFRwbDdLeE9DbkJRQTIyUlNxMHZOSW8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlzTGtuZlRwdWh0YmRfU0hNdE1WOFRYM0ZBZjEyNTdHelNzdG91aTVhWWhvYjJEQjdtZE1JVnhtaXljUHF2a1BCSUlUTW04YW4zTHhaOGtneldNNUNQci1QRUpOUm5wdXlYSm1zTHY2aExGV3I0TUZkNFRwbDdLeE9DbkJRQTIyUlNxMHZOSW8?oc=5\" target=\"_blank\">Stock Market Today: Indexes Mostly Gain as Nvidia-Driven Tech Gains Outweigh Soaring Oil Prices; Anthropic Confidentially Files IPO Prospectus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
-      "published": "2026-06-01T17:01:46+00:00",
-      "source": "Investopedia"
-    },
-    {
-      "title": "Wall Street mixed as U.S.-Iran diplomatic setbacks offset Nvidia boost - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2ZTSU1IQng0N0V3eS02eTI0eWs1aWVIZ0g1NEpWZy0tcmx4RWVUcDBzZkFmczhqeGJyVXRRTVBWdWhzclhaUXUtV2ZOOWs2emllRE5nVmVBX3czVlI3M2h3UlV2eDFvSS1IaEV3cnlFeUxsd3BGalkzVWFrb0tYU2N2UndNdGczZFdBaXFzcFE5S3hFbmF1aUtqRElsLXExMWNUOTAyTEhnV3VNbUZJeEw3SURCaHl6?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2ZTSU1IQng0N0V3eS02eTI0eWs1aWVIZ0g1NEpWZy0tcmx4RWVUcDBzZkFmczhqeGJyVXRRTVBWdWhzclhaUXUtV2ZOOWs2emllRE5nVmVBX3czVlI3M2h3UlV2eDFvSS1IaEV3cnlFeUxsd3BGalkzVWFrb0tYU2N2UndNdGczZFdBaXFzcFE5S3hFbmF1aUtqRElsLXExMWNUOTAyTEhnV3VNbUZJeEw3SURCaHl6?oc=5\" target=\"_blank\">Wall Street mixed as U.S.-Iran diplomatic setbacks offset Nvidia boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-06-01T01:01:54+00:00",
-      "source": "Investing.com"
-    },
-    {
-      "title": "Wall St hovers near record highs as Nvidia, tech gains eclipse Iran war anxiety - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUNQekF0VTVYU1pWSkxuYnE4cklIRTliQzVsN2NLUlItQ0Jvd1Q5My1lQlZJTUZMQmZpaWxDN1YtY3RGY1h0R1BIeHlrbm1qcFhpU1dxZjhfTmFwVERDd0VsOUFxTHRBZzNfNFdCYkFqVDE1ODVXVGNxaEpTdTd3SjlGZGMwRDdtUFBWQ3RtOVZoOGtGZmZWRGtnOUotbmxYejNobloxaGFqV1dSUWJRek5VYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUNQekF0VTVYU1pWSkxuYnE4cklIRTliQzVsN2NLUlItQ0Jvd1Q5My1lQlZJTUZMQmZpaWxDN1YtY3RGY1h0R1BIeHlrbm1qcFhpU1dxZjhfTmFwVERDd0VsOUFxTHRBZzNfNFdCYkFqVDE1ODVXVGNxaEpTdTd3SjlGZGMwRDdtUFBWQ3RtOVZoOGtGZmZWRGtnOUotbmxYejNobloxaGFqV1dSUWJRek5VYw?oc=5\" target=\"_blank\">Wall St hovers near record highs as Nvidia, tech gains eclipse Iran war anxiety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-06-01T15:51:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "OpenAI Could Release Internal Tool That Would Weaken Nvidia’s Software Advantage - The Information",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkVuZzRSbWlfZkg3cDg5Ui00MVZSVUlvcmRraEUwczFPemo1NEl6UVdjdWNsWHdEWHp3TEFTSTlrYTI5eC10clpfSk52cnFGcDdZUUt5WW56UHhFR012bFJXSGk3Q0JQSDRSd0x2NHB1Uk5nbHFrV21QSTNEZE1yTTNiY20zeXRfYjFSLTBDZzBhWWRWMGhhOWVpcm5DNi1hMk9GWg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkVuZzRSbWlfZkg3cDg5Ui00MVZSVUlvcmRraEUwczFPemo1NEl6UVdjdWNsWHdEWHp3TEFTSTlrYTI5eC10clpfSk52cnFGcDdZUUt5WW56UHhFR012bFJXSGk3Q0JQSDRSd0x2NHB1Uk5nbHFrV21QSTNEZE1yTTNiY20zeXRfYjFSLTBDZzBhWWRWMGhhOWVpcm5DNi1hMk9GWg?oc=5\" target=\"_blank\">OpenAI Could Release Internal Tool That Would Weaken Nvidia’s Software Advantage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-06-01T16:37:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang just perfectly explained the AI stock boom - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0tQUHpVS0ZPeEtFX0dqcjc1c2JoWXcxNV9ZYkJYaHJrcVVjbWlZcTJ4TE9BSzVmTVRMU3BmSEJqaHoxaEgzdmx0R3FNcUJYNWVZMmYyd1hLWVp4VE8wUVRXYVdqcHlnMm9RNktZVXJQbTAtRDBMY3RxY1lnRk42ZnVtMXJjMzNDdHFQNWdPbHZiTm5iZzBvclFKeFJvcGtpbmxDbE1CMHY5MGFQRFloQm9nbzdjcWV5cXdyM2I0Uno?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0tQUHpVS0ZPeEtFX0dqcjc1c2JoWXcxNV9ZYkJYaHJrcVVjbWlZcTJ4TE9BSzVmTVRMU3BmSEJqaHoxaEgzdmx0R3FNcUJYNWVZMmYyd1hLWVp4VE8wUVRXYVdqcHlnMm9RNktZVXJQbTAtRDBMY3RxY1lnRk42ZnVtMXJjMzNDdHFQNWdPbHZiTm5iZzBvclFKeFJvcGtpbmxDbE1CMHY5MGFQRFloQm9nbzdjcWV5cXdyM2I0Uno?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang just perfectly explained the AI stock boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-01T13:08:35+00:00",
+      "title": "Marvell stock soars as Nvidia CEO calls chipmaker 'the next trillion-dollar company' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUpUODI5ek5faEIyS2RwUnE2MFVmMVdxVno0ck1Hc296bnRiNmRyX0dZYlBXRVJ3NGVHck1CUW8xX09ONjFwcC1ra3ZtUlktZ3VjNG4zVE42NXRyVTlpTHpnaUR4ZFJ5VHhwWElZNjgyWnhwZnVJdFVITTZfUWhjN2NpT3cyUEVqMV96N2pjbEdQM0x0Yi15dEx5Zk9YRVZjeFdnNFp5aFlnYUFBZmZ2Mzh5VzVNZ0xEM2RnWGNNTnRsaUtwVnlfN2w5ZEpsdm9yQ0RDSWpB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUpUODI5ek5faEIyS2RwUnE2MFVmMVdxVno0ck1Hc296bnRiNmRyX0dZYlBXRVJ3NGVHck1CUW8xX09ONjFwcC1ra3ZtUlktZ3VjNG4zVE42NXRyVTlpTHpnaUR4ZFJ5VHhwWElZNjgyWnhwZnVJdFVITTZfUWhjN2NpT3cyUEVqMV96N2pjbEdQM0x0Yi15dEx5Zk9YRVZjeFdnNFp5aFlnYUFBZmZ2Mzh5VzVNZ0xEM2RnWGNNTnRsaUtwVnlfN2w5ZEpsdm9yQ0RDSWpB?oc=5\" target=\"_blank\">Marvell stock soars as Nvidia CEO calls chipmaker 'the next trillion-dollar company'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-02T13:50:07+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5\" target=\"_blank\">US takes step to halt Nvidia AI chip shipments to Chinese firms outside China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-05-31T20:09:00+00:00",
+      "title": "Nvidia's Jensen Huang Says This 'Essential' Company Is Primed to Join the $1 Trillion Club - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnlVYkh3bHc1dDFjVDBNZGxjcmZVUWtWMVhOZWo2bGdlWG5SUjhDWl9ma0NPT3d0Qld2UnJvQmkyVnRaOUtUWUxBR0k0alU3R1IzYTVIYVF1LU5sZ3k4NjBadHBpcTRQUUVtMkx1UE9oblhDOWFiXzI5Qkd1MF9WQ0JfNnd4T3M0ckNQSnlvWVB4Ujd1X3JfaHNpZE11OE9LZVdkakxIQU5LUTBUaVkydlI5ekxOckRyMFRxYkpFeEJWY19X?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnlVYkh3bHc1dDFjVDBNZGxjcmZVUWtWMVhOZWo2bGdlWG5SUjhDWl9ma0NPT3d0Qld2UnJvQmkyVnRaOUtUWUxBR0k0alU3R1IzYTVIYVF1LU5sZ3k4NjBadHBpcTRQUUVtMkx1UE9oblhDOWFiXzI5Qkd1MF9WQ0JfNnd4T3M0ckNQSnlvWVB4Ujd1X3JfaHNpZE11OE9LZVdkakxIQU5LUTBUaVkydlI5ekxOckRyMFRxYkpFeEJWY19X?oc=5\" target=\"_blank\">Nvidia's Jensen Huang Says This 'Essential' Company Is Primed to Join the $1 Trillion Club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "published": "2026-06-02T13:45:40+00:00",
+      "source": "Investopedia"
+    },
+    {
+      "title": "Why a massive Nvidia stock rally may be just getting started - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT294UlBSWFpwWTd5Ml9sZVJwY1VEZGZwWkVWUGxaRmtYa3dIVGFIdjlIaHRreG1DZ1pKRFJWZUNDODJNckNDT1BxMWtBNll6b3o0Y0lEeHFhbWdCbTRsS1Rzc1lQaHYtamNqTTF1UFdudlk5YS1QQ2dQU1ctd2dXa05ROElVSk9RQkZZRjdJYU8yb2Z6RWY3NVBsN2xEdThkMFVtNTBqMDBqeHdaeUlneGtTeTZpLUdaby1JY1pqUG1wLUZhb1Q0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQT294UlBSWFpwWTd5Ml9sZVJwY1VEZGZwWkVWUGxaRmtYa3dIVGFIdjlIaHRreG1DZ1pKRFJWZUNDODJNckNDT1BxMWtBNll6b3o0Y0lEeHFhbWdCbTRsS1Rzc1lQaHYtamNqTTF1UFdudlk5YS1QQ2dQU1ctd2dXa05ROElVSk9RQkZZRjdJYU8yb2Z6RWY3NVBsN2xEdThkMFVtNTBqMDBqeHdaeUlneGtTeTZpLUdaby1JY1pqUG1wLUZhb1Q0?oc=5\" target=\"_blank\">Why a massive Nvidia stock rally may be just getting started</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-02T13:06:59+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability - 404 Media",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa01sU29XQnEtUGRJOEtKaW9BLW1lWHpzR3BBTVVfTTNRVG44SWhYd0NQci1PanI2dGNCem5feHFiZXJXckRvNmJBMkZKajZCUmRpczhqUmZrMzZueHFEaGJRZGRMNzQ3WDYzS1VKdUVzNnkyTFhRTW0xT21yem43dElVMkZ2T2t1WDVibUNtMXY1SDhIcUNMb1VmRnJyOEdYYWlHYzZTMWNiOGdZTXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa01sU29XQnEtUGRJOEtKaW9BLW1lWHpzR3BBTVVfTTNRVG44SWhYd0NQci1PanI2dGNCem5feHFiZXJXckRvNmJBMkZKajZCUmRpczhqUmZrMzZueHFEaGJRZGRMNzQ3WDYzS1VKdUVzNnkyTFhRTW0xT21yem43dElVMkZ2T2t1WDVibUNtMXY1SDhIcUNMb1VmRnJyOEdYYWlHYzZTMWNiOGdZTXc?oc=5\" target=\"_blank\">Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">404 Media</font>",
+      "published": "2026-06-02T15:04:01+00:00",
+      "source": "404 Media"
+    },
+    {
+      "title": "Nvidia Introduces First PCs Designed for AI Agents - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU0Y0VFlScVBDdDFaUXIxc1hvNlBZRnZ6NElFUHgtckZENHVMVmpvM241YjU1RnN2ejdlWEV6OFBfbldXZkItckJzOVZURWNUWmhaMUJ3SHhYd2xHWHF3VGwzeUlGTkNlc0h2UWhYbm03TXItXzEyNm1UeVk?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU0Y0VFlScVBDdDFaUXIxc1hvNlBZRnZ6NElFUHgtckZENHVMVmpvM241YjU1RnN2ejdlWEV6OFBfbldXZkItckJzOVZURWNUWmhaMUJ3SHhYd2xHWHF3VGwzeUlGTkNlc0h2UWhYbm03TXItXzEyNm1UeVk?oc=5\" target=\"_blank\">Nvidia Introduces First PCs Designed for AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnRIeXFkWERYZXZveDliWDZPZEtSTTh1cHh3YUxEODBRUHdnM0NzWEdwblVnc0NFX3k3UkQ4RlhCcm5XRTlzM2p2YVVXYzFGZUhmbEEtZWsyTUJjMXF6WmtUMFBlQzEzckJsZ2pUZU1Beno3cHBJb21MVmlORVJUbFdCV2lyMDBGRWd3YmVJSFprQW1WQUNJNGI1Slhobk5PQkk0YjVYYTFCLTRSMURjNFM2c18wX2ZMY3BkOE9ha2k?oc=5\" target=\"_blank\">Nvidia debuts RTX Spark processor for Windows laptops, taking aim at Intel, AMD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnQzcGdhN1BFYS1oY0FDcUhQOU9fMmlvMTNfYTl3bmJnc1p0bkMzbDRuSDlaUlpQSlZYVzViRmZXc0RFME9SMEg1VUJJeTBaV1puMFBlLUtfekE3M3k1LS1JRF9jOFBxZmxJU0l2dUJRS2Y0Qm95SVdSVGNIc1dqRGpUVjVQUmpSbVpJdVlYWnd2clJValBidW9wN095ZnNPb0ZtOGlMM2FraHc?oc=5\" target=\"_blank\">ASUS's NVIDIA RTX Spark Laptops Could Give The MacBook Pro Some Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li></ol>",
+      "published": "2026-06-01T21:31:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "How a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2dTRkVYMVpzQzRhbXVDc1ktNEJiYUs1ckZXQWNxQkJxaHk2SWJRbzdjeTZBaERwbjlydUdHajBQN2U1dFFUVzRiZER2OEpJbXRVQVZKNHNNdkJxcmpfX1NIdTI3ZktpMnVULW9YakRoeld2ME9xRTlnMkhLeVY4bTktbDhZbTJRcDVSY0x4bnF4WHhUOF96ancwMFgzVHRJLTZ6T1Vtc29qSXd0OW53ekhoOXFnMjQxX0RFRkFVaU1sbVQ3Yll1eGF3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2dTRkVYMVpzQzRhbXVDc1ktNEJiYUs1ckZXQWNxQkJxaHk2SWJRbzdjeTZBaERwbjlydUdHajBQN2U1dFFUVzRiZER2OEpJbXRVQVZKNHNNdkJxcmpfX1NIdTI3ZktpMnVULW9YakRoeld2ME9xRTlnMkhLeVY4bTktbDhZbTJRcDVSY0x4bnF4WHhUOF96ancwMFgzVHRJLTZ6T1Vtc29qSXd0OW53ekhoOXFnMjQxX0RFRkFVaU1sbVQ3Yll1eGF3?oc=5\" target=\"_blank\">How a nudge from Nvidia propelled frugal Micron into the AI boom and a $1 trillion market cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-06-02T15:22:31+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDF5My1wM3VhT0VTeURaS3VPTTEwaTI2eWloQjlmRERBYURmTVhCcVdDYTd0YWY2TFo4VzdlUXRhM3lKYWRUbm5fcS1UNFRtNXBEczdqVm9udWEyNWxhdDMxUkM1NUdpcjQ0NGh0M19iYWxvdlRmQ19KUjR6QklZVzVaNmQyd1FrUW5oSA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDF5My1wM3VhT0VTeURaS3VPTTEwaTI2eWloQjlmRERBYURmTVhCcVdDYTd0YWY2TFo4VzdlUXRhM3lKYWRUbm5fcS1UNFRtNXBEczdqVm9udWEyNWxhdDMxUkM1NUdpcjQ0NGh0M19iYWxvdlRmQ19KUjR6QklZVzVaNmQyd1FrUW5oSA?oc=5\" target=\"_blank\">Chinese Military Sought Nvidia Chips for Years, Report Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-06-01T09:02:12+00:00",
-      "source": "The New York Times"
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Sandisk and Micron - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFhtSkF5X05iYzBCMDc4SGRiTWloMWxwSjM3Wkpabklxd2xWMEZyeGRQeU5TWGNsdkJ4M1RONFBsSl8xRmpxTmZKYkswRTFqU1RSdkdCLTJmSnhrMTZZdWNaRmJBdUN5Q0RFZ0RrYnlnXy0wdlFyeVdZdUFYT3RQRGc2allWOHRKTlhUQm5vZUFaVGphSUZfcHdOaW9IdUU5Smc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFhtSkF5X05iYzBCMDc4SGRiTWloMWxwSjM3Wkpabklxd2xWMEZyeGRQeU5TWGNsdkJ4M1RONFBsSl8xRmpxTmZKYkswRTFqU1RSdkdCLTJmSnhrMTZZdWNaRmJBdUN5Q0RFZ0RrYnlnXy0wdlFyeVdZdUFYT3RQRGc2allWOHRKTlhUQm5vZUFaVGphSUZfcHdOaW9IdUU5Smc?oc=5\" target=\"_blank\">The Zacks Analyst Blog Highlights NVIDIA, Sandisk and Micron</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+      "published": "2026-06-02T12:31:49+00:00",
+      "source": "Zacks Investment Research"
     }
   ],
   "product_launches": [
@@ -66,7 +66,7 @@
       "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5\" target=\"_blank\">NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-06-01T04:30:43+00:00",
+      "published": "2026-06-01T04:30:47+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
@@ -77,13 +77,6 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia Plans To Take Control Of The PC Market - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0FYMFgxYlpIdmJQNXRabnFMMFEzdG9OTG8zZl9ZdDVTNnBVZVAwQ3RCSFQ0U3BGLWQtZWV1RGR0UEhzLXBmdVFfZUc5OU01RUp5ZEY5LUVPYlZZODNiOFFfczc1enFWa1piRGdXX0YwYWhQVkhacTBqY0ZtR1JfR1A4VWpqTVdxOTBmV1M0d0plMzg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0FYMFgxYlpIdmJQNXRabnFMMFEzdG9OTG8zZl9ZdDVTNnBVZVAwQ3RCSFQ0U3BGLWQtZWV1RGR0UEhzLXBmdVFfZUc5OU01RUp5ZEY5LUVPYlZZODNiOFFfczc1enFWa1piRGdXX0YwYWhQVkhacTBqY0ZtR1JfR1A4VWpqTVdxOTBmV1M0d0plMzg?oc=5\" target=\"_blank\">Nvidia Plans To Take Control Of The PC Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-      "published": "2026-06-01T09:35:21+00:00",
-      "source": "24/7 Wall St."
-    },
-    {
       "title": "Nvidia launches Windows laptop chip for AI era - France 24",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON1hYbDdPZGN4NzBPemJ1ZGpWekY2LVMtV0kzY3NlaVk0NGdIYjJxNWRDLW1QYm5iUnRBM3FfYkgwd2VUT1d2aThHaW1oOWtaaXUzWEEtZGhFemNLa3pwSnlKbGFGSHpKNHRzMDhiTDNodHplMEhUaDBhanduRGVFSE5ncTM5Y1FVRWpBZi0ybDJLQUUtaksxYjlRYmpHNTh3WDdzSQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxON1hYbDdPZGN4NzBPemJ1ZGpWekY2LVMtV0kzY3NlaVk0NGdIYjJxNWRDLW1QYm5iUnRBM3FfYkgwd2VUT1d2aThHaW1oOWtaaXUzWEEtZGhFemNLa3pwSnlKbGFGSHpKNHRzMDhiTDNodHplMEhUaDBhanduRGVFSE5ncTM5Y1FVRWpBZi0ybDJLQUUtaksxYjlRYmpHNTh3WDdzSQ?oc=5\" target=\"_blank\">Nvidia launches Windows laptop chip for AI era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font>",
@@ -91,25 +84,28 @@
       "source": "France 24"
     },
     {
-      "title": "ARM rises on Nvidia's PC chip launch; Cramer says 'amazing' for Arm shareholders - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObEloSTJiTk9ORTUtYVdYLTNqX0szcTBPNWFZRTdsVTZiYmpjaXFfNlNrSW10VTg4YkozQWtMckpJblllTFZZb2NTeXJmVk5LZFJ2UmVCU3dJTVJCcmhLbFprMlpnQ21xZ0ZDWTQ4M2ZGd05ZNmtubWhQMGZyeFVLUDAzcTdjUUQyMHRiNzZibnY2cDJmQlJMYmtoNXcxWUtHeE8xREZiNjlEdklZWWg3V2thaFE4ZlkwWUdtUzRVc2lkYVpWZUZ1UUh1M04zdG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObEloSTJiTk9ORTUtYVdYLTNqX0szcTBPNWFZRTdsVTZiYmpjaXFfNlNrSW10VTg4YkozQWtMckpJblllTFZZb2NTeXJmVk5LZFJ2UmVCU3dJTVJCcmhLbFprMlpnQ21xZ0ZDWTQ4M2ZGd05ZNmtubWhQMGZyeFVLUDAzcTdjUUQyMHRiNzZibnY2cDJmQlJMYmtoNXcxWUtHeE8xREZiNjlEdklZWWg3V2thaFE4ZlkwWUdtUzRVc2lkYVpWZUZ1UUh1M04zdG8?oc=5\" target=\"_blank\">ARM rises on Nvidia's PC chip launch; Cramer says 'amazing' for Arm shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "published": "2026-06-01T13:25:54+00:00",
-      "source": "TradingView"
+      "title": "Nvidia Plans To Take Control Of The PC Market - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0FYMFgxYlpIdmJQNXRabnFMMFEzdG9OTG8zZl9ZdDVTNnBVZVAwQ3RCSFQ0U3BGLWQtZWV1RGR0UEhzLXBmdVFfZUc5OU01RUp5ZEY5LUVPYlZZODNiOFFfczc1enFWa1piRGdXX0YwYWhQVkhacTBqY0ZtR1JfR1A4VWpqTVdxOTBmV1M0d0plMzg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0FYMFgxYlpIdmJQNXRabnFMMFEzdG9OTG8zZl9ZdDVTNnBVZVAwQ3RCSFQ0U3BGLWQtZWV1RGR0UEhzLXBmdVFfZUc5OU01RUp5ZEY5LUVPYlZZODNiOFFfczc1enFWa1piRGdXX0YwYWhQVkhacTBqY0ZtR1JfR1A4VWpqTVdxOTBmV1M0d0plMzg?oc=5\" target=\"_blank\">Nvidia Plans To Take Control Of The PC Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-06-01T09:35:21+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "NVIDIA's new Cosmos 3 AI can see, hear and plan actions - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pJenhRYThsWGV3b0lqc0dYY1NPOFJPYlhBdHlmZXJmS2xFUF9wZ2dwMEZTanBlN2diVWsyNXg1aVk5SHMyZDd5UXhHRkpRamwyVXJnbXFnQ0RSaVVaUjVMOWsybHl5YVhNTGt5R1l5QnVRZjNJSXAySjJ5T3VkbVFwS1hrWUNXeVdUUDNLeFUteG5La1pPMExscDljcDhfUmdMOGVDUXBkaTlodU5aelNicFNYVnRzcXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pJenhRYThsWGV3b0lqc0dYY1NPOFJPYlhBdHlmZXJmS2xFUF9wZ2dwMEZTanBlN2diVWsyNXg1aVk5SHMyZDd5UXhHRkpRamwyVXJnbXFnQ0RSaVVaUjVMOWsybHl5YVhNTGt5R1l5QnVRZjNJSXAySjJ5T3VkbVFwS1hrWUNXeVdUUDNLeFUteG5La1pPMExscDljcDhfUmdMOGVDUXBkaTlodU5aelNicFNYVnRzcXc?oc=5\" target=\"_blank\">NVIDIA's new Cosmos 3 AI can see, hear and plan actions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "published": "2026-06-01T04:46:44+00:00",
+      "source": "Stock Titan"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-01",
-      "close": 221.69000244140625
+      "date": "2026-06-02",
+      "close": 225.4600067138672
     },
     "history": [
-      {
-        "date": "2026-05-21",
-        "close": 219.50999450683594
-      },
       {
         "date": "2026-05-22",
         "close": 215.3300018310547
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-06-01",
-        "close": 221.69000244140625
+        "close": 224.36000061035156
+      },
+      {
+        "date": "2026-06-02",
+        "close": 225.4600067138672
       }
     ],
     "name": "NVIDIA Corporation"

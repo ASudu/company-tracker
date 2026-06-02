@@ -2,21 +2,110 @@
   "name": "TCS",
   "slug": "tcs",
   "ticker": "TCS.NS",
-  "fetched_at": "2026-06-01T17:16:18.739785+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-06-02T16:00:19.093178+00:00",
+  "news": [
+    {
+      "title": "TCS clarifies on Royal Bank of Canada partnership; stock slips over 1% - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdlhCY3hYYXM2cjJFSXJaSDZRdFZTcWE0NFdQWGw2SkJONlBlVEpVZ3BmWUk0VG5UZDdMcmN0VTRKUHo0dWl0QkdQa2JnbmQxWTJHZ1otSklKZHpGdmd5aTMtd3V1amFmMzdVamJYZnNGeW1id3Y1OEt5MHBpMEVzZWN4SDI2UW1RSlZpeTA5WVVlX2h0SmgyTkxEM2pRT2pEc1dEQ245Q1JFbXNKanBFS1EwaXl6cnJBRG80NHlYWHRsemljWEJoa2hUeVFKRzVxYlJhSDE4VzJNYmRKNFNCYTFXZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdlhCY3hYYXM2cjJFSXJaSDZRdFZTcWE0NFdQWGw2SkJONlBlVEpVZ3BmWUk0VG5UZDdMcmN0VTRKUHo0dWl0QkdQa2JnbmQxWTJHZ1otSklKZHpGdmd5aTMtd3V1amFmMzdVamJYZnNGeW1id3Y1OEt5MHBpMEVzZWN4SDI2UW1RSlZpeTA5WVVlX2h0SmgyTkxEM2pRT2pEc1dEQ245Q1JFbXNKanBFS1EwaXl6cnJBRG80NHlYWHRsemljWEJoa2hUeVFKRzVxYlJhSDE4VzJNYmRKNFNCYTFXZw?oc=5\" target=\"_blank\">TCS clarifies on Royal Bank of Canada partnership; stock slips over 1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-06-02T12:33:21+00:00",
+      "source": "MSN"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang agrees with CEOs of TCS, Salesforce, SAP and others that it is 'an incredible tim - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQR3VtMEpid1RjbGd1aF9ORGRuWHp2UWsxTk9kcGJtc0UwbjdPa2VaWHBTMkc3Vnh3STAzZnhGV1k5X21Xc3RtUnhEVEFZUHFFOHliUHNzY0FlNmxhMW5rM3FBeFVtZUQ3b1FTXy1pcHZPVmZ4SHo1aEFyWEFuLU9DT1NSbnJpYkZ6RGtiX1A5Nk8wQlN2bDVYbEw2UVFzdFoxSzFhNWlLaEsxVVJVN3ZEaU1YRmdhcXhaZWY4ZFF3SU44Mmhmc1RZT2liTVRyNC1rZWVfRzZkaWo2dWIzWEdwVVlIMHRfX3hQdnVmNVhySzRyX1BDWVh2WXJxalVXVXhtT1JRSUpCX1VXSHpiM2VINHpkNUxHS3pzQWczMk9QRTgwaEVhbG9xdzl1cDFSaE5ocV9hREVB0gG7AkFVX3lxTE1XTjZBMkp6dmRrY3F1d2pjU2VWaWFSYjhfanBsejgtZXJfNmR1RzJwNkpGVlBqV0VNRW0xVk40cW5uRV9tLXo4T0NmUXpCZ0ZKd3Zab1dGS19hNnk2NTI1Ym1wTEFZV2djeElJOU5DRkxvbEt5TWlPeXZFNzZyV3Uzb0JEdUZXSHZCNEV6d19sLTFvQjRMN2NBeFBlODAxLUk5eHZVUHE5eUhJUXVaQ3hSSndrZDVMNjdUSFZnbWxVaGNNMGNuTF96ZEZzdFdReEpBVG9TclJRZlh0LWdRNlRuejdQT2JpSmpxX1ItTFZWQzRCOWw0ajdfRVIxbjlnSlZSZ0RnU3BBWDFEcUJveTBPVjY4Zm11Y1dtcTJPRHVuS3dPMnJTT2ppRUtDSDdlc1RZWUdlOUx1RlZCaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxQR3VtMEpid1RjbGd1aF9ORGRuWHp2UWsxTk9kcGJtc0UwbjdPa2VaWHBTMkc3Vnh3STAzZnhGV1k5X21Xc3RtUnhEVEFZUHFFOHliUHNzY0FlNmxhMW5rM3FBeFVtZUQ3b1FTXy1pcHZPVmZ4SHo1aEFyWEFuLU9DT1NSbnJpYkZ6RGtiX1A5Nk8wQlN2bDVYbEw2UVFzdFoxSzFhNWlLaEsxVVJVN3ZEaU1YRmdhcXhaZWY4ZFF3SU44Mmhmc1RZT2liTVRyNC1rZWVfRzZkaWo2dWIzWEdwVVlIMHRfX3hQdnVmNVhySzRyX1BDWVh2WXJxalVXVXhtT1JRSUpCX1VXSHpiM2VINHpkNUxHS3pzQWczMk9QRTgwaEVhbG9xdzl1cDFSaE5ocV9hREVB0gG7AkFVX3lxTE1XTjZBMkp6dmRrY3F1d2pjU2VWaWFSYjhfanBsejgtZXJfNmR1RzJwNkpGVlBqV0VNRW0xVk40cW5uRV9tLXo4T0NmUXpCZ0ZKd3Zab1dGS19hNnk2NTI1Ym1wTEFZV2djeElJOU5DRkxvbEt5TWlPeXZFNzZyV3Uzb0JEdUZXSHZCNEV6d19sLTFvQjRMN2NBeFBlODAxLUk5eHZVUHE5eUhJUXVaQ3hSSndrZDVMNjdUSFZnbWxVaGNNMGNuTF96ZEZzdFdReEpBVG9TclJRZlh0LWdRNlRuejdQT2JpSmpxX1ItTFZWQzRCOWw0ajdfRVIxbjlnSlZSZ0RnU3BBWDFEcUJveTBPVjY4Zm11Y1dtcTJPRHVuS3dPMnJTT2ppRUtDSDdlc1RZWUdlOUx1RlZCaw?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang agrees with CEOs of TCS, Salesforce, SAP and others that it is 'an incredible tim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-06-02T04:38:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Country Stars Donation To TCS + Fight At University Mall Applebees - Patch",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBBMmMwUFdzaEJicUowbU5XdUxJN3NMNldZQ0ZKSnk1YXhNLWhTQVJUYUZ5cWZRMGVZd19KY3JwTkpJa0NPSXpuNzFPS1JjQUNHcUhPZ3VCMXpka19WZFhreEM5SjhKZzNNdWdjamV6aktNaW44VjVRVnk0OV9xUFV1VjZzd0dtb19Td2tXQkRuaG10QVNQVy13NNIBtAFBVV95cUxPUkRwMGZHWWV2VVpQblBUaEtxdmtLWTI2bWcyNGZpc19QR3RHZVBvZkJiUHhFRWQ3UlQ2T1FEMzBIcmdLNUNpMHFlVHBsdENpMG9jOEU2TktMXzUyVUFFM09zWVFTNmNBeEhlV3RxZVh0WHJ5UW9SZGxkU05DYXRWRVRfbEhxYWRDd1pGNWlYaVB4eXFmZUl0TUxBdFFwYlZISTR0M2hBX0lXTmtDTmdnLUhVYUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBBMmMwUFdzaEJicUowbU5XdUxJN3NMNldZQ0ZKSnk1YXhNLWhTQVJUYUZ5cWZRMGVZd19KY3JwTkpJa0NPSXpuNzFPS1JjQUNHcUhPZ3VCMXpka19WZFhreEM5SjhKZzNNdWdjamV6aktNaW44VjVRVnk0OV9xUFV1VjZzd0dtb19Td2tXQkRuaG10QVNQVy13NNIBtAFBVV95cUxPUkRwMGZHWWV2VVpQblBUaEtxdmtLWTI2bWcyNGZpc19QR3RHZVBvZkJiUHhFRWQ3UlQ2T1FEMzBIcmdLNUNpMHFlVHBsdENpMG9jOEU2TktMXzUyVUFFM09zWVFTNmNBeEhlV3RxZVh0WHJ5UW9SZGxkU05DYXRWRVRfbEhxYWRDd1pGNWlYaVB4eXFmZUl0TUxBdFFwYlZISTR0M2hBX0lXTmtDTmdnLUhVYUQ?oc=5\" target=\"_blank\">Country Stars Donation To TCS + Fight At University Mall Applebees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+      "published": "2026-06-02T13:24:08+00:00",
+      "source": "Patch"
+    },
+    {
+      "title": "TCS, Infosys rally up to 9% in 3 days: Want to trade the major IT stocks? Check stop losses - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNGdCa1dPYTh4XzNJYURSWG9uQnRISEpDYmVRSnVCZnUtNkdzdk5HTEdHOEJEMjh0M05OWDlSN0xkM091al9qdlhSQ1FJUEdiOUR3WmgxbmJQRHpoWk0tMW5QVzdwWHFJOC04ZGpva2FXbUt2NFBRdldCaUlsZ3A1NlRZeTdzZC04VnRBd3JIS25BWDlNckxNdW5haVV5LTJPRHIzTVExVk9ocWhGNzZPNDdBTWJRN3RjVTZoaXR3UTZ3ajduTTNmRlAyblUzZG9iRHppRDRZZ0Q2akx0aWFITTlZMmg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNGdCa1dPYTh4XzNJYURSWG9uQnRISEpDYmVRSnVCZnUtNkdzdk5HTEdHOEJEMjh0M05OWDlSN0xkM091al9qdlhSQ1FJUEdiOUR3WmgxbmJQRHpoWk0tMW5QVzdwWHFJOC04ZGpva2FXbUt2NFBRdldCaUlsZ3A1NlRZeTdzZC04VnRBd3JIS25BWDlNckxNdW5haVV5LTJPRHIzTVExVk9ocWhGNzZPNDdBTWJRN3RjVTZoaXR3UTZ3ajduTTNmRlAyblUzZG9iRHppRDRZZ0Q2akx0aWFITTlZMmg?oc=5\" target=\"_blank\">TCS, Infosys rally up to 9% in 3 days: Want to trade the major IT stocks? Check stop losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2026-06-02T10:35:16+00:00",
+      "source": "TradingView"
+    },
+    {
+      "title": "Morgan Wallen Foundation donates instruments to three TCS schools - WVUA 23",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkduQjQ1TlFSM0JkdXBZYllxX0J5Z0Vla3VJNVd4ZE5OMXJJenZVRUpfX01YR2FrcGJkRS1LNHZiLXgxZkR3aTkzc000dGo3TnowZ1pLU1BpMjQ1dXVTVldjOVdwQ1dwRGRDRTgzVDhEZEtadUhZWGhQNk5ocEgwM0FpY0tUWk9CWHJVZU5hOTRhTjVfbHdFMkRRVE4yN2p6N0N1TEVFbGlvTTNzdTEzQktWNm1NUWNTTDlpdlB1c2xOMWZLZVZ5ZlZGNnRCUlFyREowRTJpQzUtXzhfRHh2VQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkduQjQ1TlFSM0JkdXBZYllxX0J5Z0Vla3VJNVd4ZE5OMXJJenZVRUpfX01YR2FrcGJkRS1LNHZiLXgxZkR3aTkzc000dGo3TnowZ1pLU1BpMjQ1dXVTVldjOVdwQ1dwRGRDRTgzVDhEZEtadUhZWGhQNk5ocEgwM0FpY0tUWk9CWHJVZU5hOTRhTjVfbHdFMkRRVE4yN2p6N0N1TEVFbGlvTTNzdTEzQktWNm1NUWNTTDlpdlB1c2xOMWZLZVZ5ZlZGNnRCUlFyREowRTJpQzUtXzhfRHh2VQ?oc=5\" target=\"_blank\">Morgan Wallen Foundation donates instruments to three TCS schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVUA 23</font>",
+      "published": "2026-06-01T22:39:00+00:00",
+      "source": "WVUA 23"
+    },
+    {
+      "title": "TCS Partners with Mistral; becomes the first Global Systems Integrator (GSI) to bring Mistral Forge to enterprises worldwide - Tata Consultancy Services",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenc4T1BuVGJiTVZWREN6R2RKYnpBYTV6VGdyaHYxdG9YanNuNGQ3QTJtZTdxT28zd3oxeGk0Y2hRMk9acDlmbURQcGlEalNOQllPQWlfcFZzaTNCaWJBVTcxZ3B5V3BKNlRsTjVpOFowV0ExQ1ppWkpiZWR5OFVlcDhPXzdzb0FEdGp3RlgzLWZHVUZhQTB2MTVQQ0tWQy1kRWIzYzNZXzY3bVdOOVhYc1BjY0twQnlVXzdORTdoaHo5ak1Fd0tN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOenc4T1BuVGJiTVZWREN6R2RKYnpBYTV6VGdyaHYxdG9YanNuNGQ3QTJtZTdxT28zd3oxeGk0Y2hRMk9acDlmbURQcGlEalNOQllPQWlfcFZzaTNCaWJBVTcxZ3B5V3BKNlRsTjVpOFowV0ExQ1ppWkpiZWR5OFVlcDhPXzdzb0FEdGp3RlgzLWZHVUZhQTB2MTVQQ0tWQy1kRWIzYzNZXzY3bVdOOVhYc1BjY0twQnlVXzdORTdoaHo5ak1Fd0tN?oc=5\" target=\"_blank\">TCS Partners with Mistral; becomes the first Global Systems Integrator (GSI) to bring Mistral Forge to enterprises worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tata Consultancy Services</font>",
+      "published": "2026-05-28T12:42:42+00:00",
+      "source": "Tata Consultancy Services"
+    },
+    {
+      "title": "AI Tailwind: 'Nvidia Effect' Powers TCS Shares To A Two-Year High In Daily Gains - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDdFdnpJMW00aG5HS2NPUzIzeFlyWDNIWi1CbXhod0tKaDJfN2RMMTdjMWd3eDVlaDFWY3Vma3FPUEItb3c3Y0JueXFlYkhUc21hdjgxTExCRHF3TmZhZ1VQM181OXdnTlNDSjVtNENEMElTNmxMbW9XMmN0VFUwZVI0LWNhWWxiV3d6ZWdhQzl6RExpajNsSGxJTVVEM2REbVBCS1otNlBfanI1Vkk3VnYzOU9hcHJ6MFY4R2FB0gHGAUFVX3lxTE54RXhRMnpoWDZ5YnpPZWFodFdhR3J3YVVEQ29NVF9vNUV6Vko3TDNKQkR5RVRlSWJUYWFsTmVoVEttMHQ0aXN1SFd5VTRxZUVfVFF6a3pzamxsWXowck5TNnUwNmx5MjVJSjBmX1FFSHNWRHJlcG9zSkxpRW9zWFJiRWYycU8zZ2IyelhCQzltS0JqaTA3b2hsVkRicG5Ncy1taTlvQnRQQXAzZmpsX21YWndDVWlFejNKZktyclFaX2lDSTg2dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDdFdnpJMW00aG5HS2NPUzIzeFlyWDNIWi1CbXhod0tKaDJfN2RMMTdjMWd3eDVlaDFWY3Vma3FPUEItb3c3Y0JueXFlYkhUc21hdjgxTExCRHF3TmZhZ1VQM181OXdnTlNDSjVtNENEMElTNmxMbW9XMmN0VFUwZVI0LWNhWWxiV3d6ZWdhQzl6RExpajNsSGxJTVVEM2REbVBCS1otNlBfanI1Vkk3VnYzOU9hcHJ6MFY4R2FB0gHGAUFVX3lxTE54RXhRMnpoWDZ5YnpPZWFodFdhR3J3YVVEQ29NVF9vNUV6Vko3TDNKQkR5RVRlSWJUYWFsTmVoVEttMHQ0aXN1SFd5VTRxZUVfVFF6a3pzamxsWXowck5TNnUwNmx5MjVJSjBmX1FFSHNWRHJlcG9zSkxpRW9zWFJiRWYycU8zZ2IyelhCQzltS0JqaTA3b2hsVkRicG5Ncy1taTlvQnRQQXAzZmpsX21YWndDVWlFejNKZktyclFaX2lDSTg2dw?oc=5\" target=\"_blank\">AI Tailwind: 'Nvidia Effect' Powers TCS Shares To A Two-Year High In Daily Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+      "published": "2026-06-02T11:18:17+00:00",
+      "source": "NDTV Profit"
+    },
+    {
+      "title": "TCS, Infosys, HCLTech jump up to 6%. 3 reasons why IT stocks are rallying today? - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTd3NGU5VFhGNV9XVWgtcDNuVXp3U2VJYmg4VVNUZ0p0QzlFa1RIVXhWSDhQS3lvNUJUOXM0Nl9MczhQd0xJOXNLbkREZnRINF9TNTg4UVVfZThSTDh4cXJ1YzA1QVFfc2xDMUFfWE03Q3VYTDd6UGFrUVBJdlNsN2Y1b1FUd0p6VWM2b2xGWC1oVkp4dHNKOXFpaFR0bV92bzlKeXROVmFfckw2aWl6RTJnWk82ajdleGgwYnlwaHJGNUNITXFrNEpEZ0xhTUU3RHdPMU43T09fWW1v0gHiAUFVX3lxTE5OWVM2dU5lNzJNSnpIR0RFelo2ZldVU3R5alNWR0V0OVVGU200czhkZ2NVZEktMEtZemhHZGw5RFNQMmJsUHpJYk8wNGVEUnprODFhMkgxa2ZPaUoyV2ZVUFEyRm9RaXF0Wlo3UHA4eG55eDQ4SUs1MDI4S0Nad1dRcWZ0OU1BLVRjTjFSTEcwX3F1bHhjT1pRQWZLTWhDYXlZekNreEZ2bGVldnRqUHZrbkFFMXhPcFZlb19hX05RZlVoNW5MZU5ZOFpWeTNVQWVJOEtxTFBiRFZmQlRBS3RCVVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTd3NGU5VFhGNV9XVWgtcDNuVXp3U2VJYmg4VVNUZ0p0QzlFa1RIVXhWSDhQS3lvNUJUOXM0Nl9MczhQd0xJOXNLbkREZnRINF9TNTg4UVVfZThSTDh4cXJ1YzA1QVFfc2xDMUFfWE03Q3VYTDd6UGFrUVBJdlNsN2Y1b1FUd0p6VWM2b2xGWC1oVkp4dHNKOXFpaFR0bV92bzlKeXROVmFfckw2aWl6RTJnWk82ajdleGgwYnlwaHJGNUNITXFrNEpEZ0xhTUU3RHdPMU43T09fWW1v0gHiAUFVX3lxTE5OWVM2dU5lNzJNSnpIR0RFelo2ZldVU3R5alNWR0V0OVVGU200czhkZ2NVZEktMEtZemhHZGw5RFNQMmJsUHpJYk8wNGVEUnprODFhMkgxa2ZPaUoyV2ZVUFEyRm9RaXF0Wlo3UHA4eG55eDQ4SUs1MDI4S0Nad1dRcWZ0OU1BLVRjTjFSTEcwX3F1bHhjT1pRQWZLTWhDYXlZekNreEZ2bGVldnRqUHZrbkFFMXhPcFZlb19hX05RZlVoNW5MZU5ZOFpWeTNVQWVJOEtxTFBiRFZmQlRBS3RCVVE?oc=5\" target=\"_blank\">TCS, Infosys, HCLTech jump up to 6%. 3 reasons why IT stocks are rallying today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+      "published": "2026-06-02T04:39:41+00:00",
+      "source": "India Today"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Tata Consultancy Services (TCS) has launched its Chiplet-based System Engineering Services, a move set to redefine how semiconductors are designed in an era of skyrocketing global demand. By leveraging chiplets—smaller integrated circuits that can be c - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGhZcFRJOTZrZzQtRHdIZll6VlpERENmNFdUVXdvRHAxVER4bVgzaUtTenE4N2hqWkdOODRuWlFYeGxoTHNQY2dSRnkxTVEtWU55UFhYR1h5bndtVVdfSVhMb0U4UThNR3FLVUNUZzdpRC1sdXY4dk93VUpJd0ZwU29JVVRVSXFiNmdBNDRCM3lHZDU2Yjg3S0VON1RWdzFJSkFrT3RkSXE5aW12ZWpuaDNTenlGYk1oS2NxUjZUc1RDRTl4X0lPbGxoeVo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGhZcFRJOTZrZzQtRHdIZll6VlpERENmNFdUVXdvRHAxVER4bVgzaUtTenE4N2hqWkdOODRuWlFYeGxoTHNQY2dSRnkxTVEtWU55UFhYR1h5bndtVVdfSVhMb0U4UThNR3FLVUNUZzdpRC1sdXY4dk93VUpJd0ZwU29JVVRVSXFiNmdBNDRCM3lHZDU2Yjg3S0VON1RWdzFJSkFrT3RkSXE5aW12ZWpuaDNTenlGYk1oS2NxUjZUc1RDRTl4X0lPbGxoeVo?oc=5\" target=\"_blank\">Tata Consultancy Services (TCS) has launched its Chiplet-based System Engineering Services, a move set to redefine how semiconductors are designed in an era of skyrocketing global demand. By leveraging chiplets—smaller integrated circuits that can be c</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+      "published": "2025-09-11T07:00:00+00:00",
+      "source": "LinkedIn"
+    },
+    {
+      "title": "TCS & MIT Sloan Management Review Launch New Research Series; Unveil Roadmap for Human-AI collaboration in Enterprises - Tata Consultancy Services",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0lEV2lVaUk5dUd3UVVILWhpMHg3WDlOTDVzbERuSFU1b2lVa1ZreVpFcWhrTkhVc3NySUZwbUFRNHJEaGRzbVk1TlJoVDdBaUJ0elVnQVRkak1OLW5rNVpiTkJhSnVBRnMwWXhCaEFjdzNxLVpjUUxPVkhqT1VKYk1OY2x0VmZHeFZWODE2VmgtdTNUbi0zZ2pZeFdaNndMb1ZLMVV2X2s5OVJINTNQanl3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0lEV2lVaUk5dUd3UVVILWhpMHg3WDlOTDVzbERuSFU1b2lVa1ZreVpFcWhrTkhVc3NySUZwbUFRNHJEaGRzbVk1TlJoVDdBaUJ0elVnQVRkak1OLW5rNVpiTkJhSnVBRnMwWXhCaEFjdzNxLVpjUUxPVkhqT1VKYk1OY2x0VmZHeFZWODE2VmgtdTNUbi0zZ2pZeFdaNndMb1ZLMVV2X2s5OVJINTNQanl3?oc=5\" target=\"_blank\">TCS & MIT Sloan Management Review Launch New Research Series; Unveil Roadmap for Human-AI collaboration in Enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tata Consultancy Services</font>",
+      "published": "2025-07-15T07:00:00+00:00",
+      "source": "Tata Consultancy Services"
+    },
+    {
+      "title": "Dawsongroup tcs USA Launches in the States - Pharmaceutical Commerce",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGlpai1lMUZQamtDQW92Z1A5V3owTno3UVBjZVNuc3hoV3l5T2RnOVczbzhDSmtMRXNRS3hEejNRMkUycmcwcnUtaEF4aGNJWVdYdlUyX1E0aGFDOXhXaC01dDVmbjBieVdXVHFDMWNxWTUwU2paanNLVTNXSDdkLWhPRDd5cGd3cjRzUnFubw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWGlpai1lMUZQamtDQW92Z1A5V3owTno3UVBjZVNuc3hoV3l5T2RnOVczbzhDSmtMRXNRS3hEejNRMkUycmcwcnUtaEF4aGNJWVdYdlUyX1E0aGFDOXhXaC01dDVmbjBieVdXVHFDMWNxWTUwU2paanNLVTNXSDdkLWhPRDd5cGd3cjRzUnFubw?oc=5\" target=\"_blank\">Dawsongroup tcs USA Launches in the States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Commerce</font>",
+      "published": "2026-01-16T08:00:00+00:00",
+      "source": "Pharmaceutical Commerce"
+    },
+    {
+      "title": "TCS John Huxley launches RFID product for casino ops management - GGRAsia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEI0YmZXcVdoZEhYWHdsM2gtZ2ZUbUs4cTYtTENkYlZVSkFVdW5ITjJjbkhpM01sN0pGYTFDcGdjUzhhSWpCV3V0MFlLalJYcHpsb1k0MHVHcGJBTTJJMTl2dEswWDRDM0I4ZENhZjB6NmhDdndVeFdPWjNVU0pvREFfaVJoVzJ1dzJTMF9QbFM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEI0YmZXcVdoZEhYWHdsM2gtZ2ZUbUs4cTYtTENkYlZVSkFVdW5ITjJjbkhpM01sN0pGYTFDcGdjUzhhSWpCV3V0MFlLalJYcHpsb1k0MHVHcGJBTTJJMTl2dEswWDRDM0I4ZENhZjB6NmhDdndVeFdPWjNVU0pvREFfaVJoVzJ1dzJTMF9QbFM?oc=5\" target=\"_blank\">TCS John Huxley launches RFID product for casino ops management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GGRAsia</font>",
+      "published": "2025-10-14T07:00:00+00:00",
+      "source": "GGRAsia"
+    },
+    {
+      "title": "TCS partners with Google Cloud to launch AI centre for manufacturing innovation - People Matters Media",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMW9pRjl5U2gwMFFnZlg5QmxYaXc0dC0zZTdGVTVVUmwxeEVnVHRUNnAxZUpsUmJhUl92ZDFMdGlqbVp1SWZUSE5CakZENlFuZTVOSU5JNHd4NXV3aGN5LWhyeE1aU19QeUk1SWJLbW11aS1wUTdxUE9ERzI5a0tndjFxcmZMRGU1SThaenRtVDhYT0dFSm5FQXVVSExHQXE3VU5HcWtfUlVmY3N0bFQ4T0stcF9oamhjVHBEQzZRU3RxQmZESm9FZEpqNFhYa01aYmxtZWlDYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMW9pRjl5U2gwMFFnZlg5QmxYaXc0dC0zZTdGVTVVUmwxeEVnVHRUNnAxZUpsUmJhUl92ZDFMdGlqbVp1SWZUSE5CakZENlFuZTVOSU5JNHd4NXV3aGN5LWhyeE1aU19QeUk1SWJLbW11aS1wUTdxUE9ERzI5a0tndjFxcmZMRGU1SThaenRtVDhYT0dFSm5FQXVVSExHQXE3VU5HcWtfUlVmY3N0bFQ4T0stcF9oamhjVHBEQzZRU3RxQmZESm9FZEpqNFhYa01aYmxtZWlDYw?oc=5\" target=\"_blank\">TCS partners with Google Cloud to launch AI centre for manufacturing innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People Matters Media</font>",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": "People Matters Media"
+    }
+  ],
   "stock": {
     "ticker": "TCS.NS",
     "currency": "INR",
     "latest": {
-      "date": "2026-06-01",
-      "close": 2297.39990234375
+      "date": "2026-06-02",
+      "close": 2446.89990234375
     },
     "history": [
-      {
-        "date": "2026-05-22",
-        "close": 2286.300048828125
-      },
       {
         "date": "2026-05-25",
         "close": 2308.199951171875
@@ -40,6 +129,10 @@
       {
         "date": "2026-06-01",
         "close": 2297.39990234375
+      },
+      {
+        "date": "2026-06-02",
+        "close": 2446.89990234375
       }
     ],
     "name": "TATA CONSULTANCY SERV LT"
