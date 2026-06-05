@@ -2,8 +2,15 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-06-04T14:34:49.771883+00:00",
+  "fetched_at": "2026-06-05T14:25:15.772582+00:00",
   "news": [
+    {
+      "title": "‘Big Tech is desperate’: Amazon engineers are calling out the tech giant for its $200 billion in data center spending after slashing 30,000 workers - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGhhYkRlM25pM0haZUZrVEV1bUxxelgtR1JEYzRJa3FZTEZJY3UzdEZ6eWZDNEQ3YmEtTXY1QUFRdlk0U2hsS1Juek55MnBNVHlBVFFNMkFDd0JrY2VGRXZGWHdHNEplMWs0dGlYZnJibjVTam12NGpSdDA3Q2dxcUFTODBieEU0bnpqQkVQcE1TNkNleVcwa2g4ZkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGhhYkRlM25pM0haZUZrVEV1bUxxelgtR1JEYzRJa3FZTEZJY3UzdEZ6eWZDNEQ3YmEtTXY1QUFRdlk0U2hsS1Juek55MnBNVHlBVFFNMkFDd0JrY2VGRXZGWHdHNEplMWs0dGlYZnJibjVTam12NGpSdDA3Q2dxcUFTODBieEU0bnpqQkVQcE1TNkNleVcwa2g4ZkE?oc=5\" target=\"_blank\">‘Big Tech is desperate’: Amazon engineers are calling out the tech giant for its $200 billion in data center spending after slashing 30,000 workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-06-05T08:17:00+00:00",
+      "source": "Fortune"
+    },
     {
       "title": "Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPay1qWEZjMDZTY04xcHAzQVdJT1g2RkZOTmJDVGl6NXVGeTdhdEl1NlZac1FzSkNHWHFQazBybU40MWd6azlIWFpUTFB3c196a0Y4LVlFU0I5MElXSS1kTVRwY2M4d25kcUJCSEc4NGhSMmpzT3VvRzlxWW5CeFBfUDExUDBSdjhESlJ4RnA2VUZyYU5JcENMa1N4U1RuOGtpbVUwT3Z30gGrAUFVX3lxTFBUY2pnSXkzdHJRRmxXVmZxck9uQjhFcFZJTi0yekZDOWNpdjdtc3FRa0xTMkdDdW5uVlY3a0FXV2ZmUHpwWVlCNFFTcEl3WUpReDBfWGxqaFNzSTZPc2VzaEUzNVhkVjg0cFZTbXdNdEM2SVdHU3ZYcFdpblo1MlM1eVRrZFVIMVAtRnkxTWs5N2dpc3pqUzloUHJXRGlnZWJEeVZLZnRHaV9SNA?oc=5",
@@ -12,76 +19,55 @@
       "source": "CNBC"
     },
     {
-      "title": "Amazon workers back Seattle AI data center moratorium amid layoffs - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83aXkxT2puMlFVYnAyUnhzOTNxQWIyMFFiSnE2OEpJNzVVTzBmeUl0Y3BTdWhmWktCOUpsbEJqZ0JGeXBXemw4M0MxeVNudWR1RjB1VTFGWjROU3VvcFBhS3JDY01uVW9LS0dJVXRRX25yZmtGcjRHUmtR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE83aXkxT2puMlFVYnAyUnhzOTNxQWIyMFFiSnE2OEpJNzVVTzBmeUl0Y3BTdWhmWktCOUpsbEJqZ0JGeXBXemw4M0MxeVNudWR1RjB1VTFGWjROU3VvcFBhS3JDY01uVW9LS0dJVXRRX25yZmtGcjRHUmtR?oc=5\" target=\"_blank\">Amazon workers back Seattle AI data center moratorium amid layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
-      "published": "2026-06-04T12:53:43+00:00",
-      "source": "qz.com"
+      "title": "Amazon engineers blast company for spending billions on AI while cutting jobs: 'Desperate to build' - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZMVXppMG9RRUFMLWs0VFlpMC1QV2tmS3RiNW5fY3lNOWhORVpXSEwxSW5EcnFhQ1JsRlpYRDVZaHc3dDVJZjRCYTVtTWtldlFESmNEbkp6dkpYRnVYX0E0d1IwNWF3Nm5pNmtBR1ZrOGtRTWpOZGRFdExEN1ZxV25fb2lsNkp3MjhGYTluQld2WGw5RnhXSGdxV1BRcGFzZklxT05Jbjd0SmtSUDgwWW1YU3pRY0xSaFNNUVhINVZRaEJkNW16YWU0bkdSWVdMNUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZMVXppMG9RRUFMLWs0VFlpMC1QV2tmS3RiNW5fY3lNOWhORVpXSEwxSW5EcnFhQ1JsRlpYRDVZaHc3dDVJZjRCYTVtTWtldlFESmNEbkp6dkpYRnVYX0E0d1IwNWF3Nm5pNmtBR1ZrOGtRTWpOZGRFdExEN1ZxV25fb2lsNkp3MjhGYTluQld2WGw5RnhXSGdxV1BRcGFzZklxT05Jbjd0SmtSUDgwWW1YU3pRY0xSaFNNUVhINVZRaEJkNW16YWU0bkdSWVdMNUE?oc=5\" target=\"_blank\">Amazon engineers blast company for spending billions on AI while cutting jobs: 'Desperate to build'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "published": "2026-06-04T19:55:00+00:00",
+      "source": "New York Post"
     },
     {
-      "title": "Amazon Web Services data center in St. Joseph County celebrates first graduates from training program - WNDU",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjBQYUN2dmhrcmJRZGsyaEtIbXgzNVFwS0x2ZXdNOXRYX3JramRLbHN0OEdTN0twWjQ1Tm81SG1lcGlfT1NrS1dLTFU1bGJMNDhBdVF6RThPZnFQaUJMRi1OUm4wdXdrQ2V2Sk13SkcteXdqZUp1bnlIVGZxaW8taHJqOVB6RmpJM2tVc1ZJV0pmZDZ1TFIzeWlNZEtWRHZxS2F1QVN4aExhZ19mZ19uOEpQVjJGRkc5RERBdnVYME1yaG_SAdcBQVVfeXFMTl9ITFVhZnNKTHhNV045anlwdVpmLTRPTG8wTFFYVXVhT2tWOFlmNGQ5dG8xOWNpZlJIMzlTa05QOWlzczFoRzBlTkRqLVMxUHhOOHB3Mlpua2lwTXl4RHU4WnJRYU1yaG4yZmU3OExCODd0a09ZY2NYaTVVdHlWMVBqbDlhUFc1cmN5eV9aNFhQZDhEcXczc1F6TXYzYk4xUUlPdDJKRFJKeWJOTFR6NUtNSWlGRXpTbVltMDZ0WGtTaEo1blhlbnA5WDU4S3dmVnRRQWY3YzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjBQYUN2dmhrcmJRZGsyaEtIbXgzNVFwS0x2ZXdNOXRYX3JramRLbHN0OEdTN0twWjQ1Tm81SG1lcGlfT1NrS1dLTFU1bGJMNDhBdVF6RThPZnFQaUJMRi1OUm4wdXdrQ2V2Sk13SkcteXdqZUp1bnlIVGZxaW8taHJqOVB6RmpJM2tVc1ZJV0pmZDZ1TFIzeWlNZEtWRHZxS2F1QVN4aExhZ19mZ19uOEpQVjJGRkc5RERBdnVYME1yaG_SAdcBQVVfeXFMTl9ITFVhZnNKTHhNV045anlwdVpmLTRPTG8wTFFYVXVhT2tWOFlmNGQ5dG8xOWNpZlJIMzlTa05QOWlzczFoRzBlTkRqLVMxUHhOOHB3Mlpua2lwTXl4RHU4WnJRYU1yaG4yZmU3OExCODd0a09ZY2NYaTVVdHlWMVBqbDlhUFc1cmN5eV9aNFhQZDhEcXczc1F6TXYzYk4xUUlPdDJKRFJKeWJOTFR6NUtNSWlGRXpTbVltMDZ0WGtTaEo1blhlbnA5WDU4S3dmVnRRQWY3YzQ?oc=5\" target=\"_blank\">Amazon Web Services data center in St. Joseph County celebrates first graduates from training program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WNDU</font>",
-      "published": "2026-06-03T22:45:00+00:00",
-      "source": "WNDU"
+      "title": "Amazon Prime Day starts June 23, but here are 20 early deals to shop now - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sZHMtN25TUHI2a1Q0SFVVWUtxbFBQWFFid0x3d1g1UTR3cWlmOXJrQ2Y4UDVmLVppdnZqN2tYZWsxS01qWl94R0tab3V5TWJYZ21femF0SjhsVzNmbnM3RS16SHp5X2tvLXI3MHBCSXBuZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sZHMtN25TUHI2a1Q0SFVVWUtxbFBQWFFid0x3d1g1UTR3cWlmOXJrQ2Y4UDVmLVppdnZqN2tYZWsxS01qWl94R0tab3V5TWJYZ21femF0SjhsVzNmbnM3RS16SHp5X2tvLXI3MHBCSXBuZw?oc=5\" target=\"_blank\">Amazon Prime Day starts June 23, but here are 20 early deals to shop now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-06-05T09:40:54+00:00",
+      "source": "Mashable"
     },
     {
-      "title": "Amazon unveils next-gen Proteus robot as part of €10 billion European investment in its fulfillment network - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTkwRzBwZnZaTW1lZDZoMEptNlFFYWs2ZEFUR1R3WGFhMWdRV2k5WDI0VzRvc3Q2bUNDX0d5Q18xdnUzWlBnY2FhMHdUZ29rTHpoLUZzTkJ0cjd1TlM3WUEzX0RQTWgyeFc5X0V4M0YtXzZtT0NGUkRUMGVhekY1bnkybmlwSDZGakdmbnlSUFlsa2Y4OU0zRVNuUDVFQ2lj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTkwRzBwZnZaTW1lZDZoMEptNlFFYWs2ZEFUR1R3WGFhMWdRV2k5WDI0VzRvc3Q2bUNDX0d5Q18xdnUzWlBnY2FhMHdUZ29rTHpoLUZzTkJ0cjd1TlM3WUEzX0RQTWgyeFc5X0V4M0YtXzZtT0NGUkRUMGVhekY1bnkybmlwSDZGakdmbnlSUFlsa2Y4OU0zRVNuUDVFQ2lj?oc=5\" target=\"_blank\">Amazon unveils next-gen Proteus robot as part of €10 billion European investment in its fulfillment network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-06-04T09:31:19+00:00",
-      "source": "About Amazon"
+      "title": "You don’t have to wait — here are 51+ Prime Day early deals you can already shop - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNendNajFfNFluZXVxR1gxSEVHaVVKU2FMQWRkZjh2Rll1dWZsRVpLU3BuUG50V0MxTFNXeGFNU1RIX01oUndSdjZaRUZBcVpXVzhGM1FJQnhCREFxNnphTGs0ZEViZjl2OGVQOGJXMU9uUWFhQkQxR3hHZ3hwTmVxNjZCZUFlcFVNTDQtRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNendNajFfNFluZXVxR1gxSEVHaVVKU2FMQWRkZjh2Rll1dWZsRVpLU3BuUG50V0MxTFNXeGFNU1RIX01oUndSdjZaRUZBcVpXVzhGM1FJQnhCREFxNnphTGs0ZEViZjl2OGVQOGJXMU9uUWFhQkQxR3hHZ3hwTmVxNjZCZUFlcFVNTDQtRQ?oc=5\" target=\"_blank\">You don’t have to wait — here are 51+ Prime Day early deals you can already shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+      "published": "2026-06-04T20:25:11+00:00",
+      "source": "NBC News"
     },
     {
-      "title": "Amazon unveils new AI warehouse robot in $12 billion Europe push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVV9nWFItNWR4YjRtS3ExcDB0MTFNeTU2NjBtRUt3VWNIVjVFTzlIbGVTc0ZLb2VULUd2dGQ2YXg1ZjNQWEJMTVg3SGVmYXBmUzUtbkQwbXNVUGpTQ0Z5OUdKNlEyazM5T19XaHZPQTFqY253S1JZeDltbXZwNkNQYUlFbzFSOXRsYkRndkZDU25WMWxWdkZjeEpGNkF1Rm9SM0o5YjRnLVhSc09Qa3ZTcW9JSVJaUm1KRVA5UkVR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNVV9nWFItNWR4YjRtS3ExcDB0MTFNeTU2NjBtRUt3VWNIVjVFTzlIbGVTc0ZLb2VULUd2dGQ2YXg1ZjNQWEJMTVg3SGVmYXBmUzUtbkQwbXNVUGpTQ0Z5OUdKNlEyazM5T19XaHZPQTFqY253S1JZeDltbXZwNkNQYUlFbzFSOXRsYkRndkZDU25WMWxWdkZjeEpGNkF1Rm9SM0o5YjRnLVhSc09Qa3ZTcW9JSVJaUm1KRVA5UkVR?oc=5\" target=\"_blank\">Amazon unveils new AI warehouse robot in $12 billion Europe push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-06-04T09:38:11+00:00",
-      "source": "Reuters"
+      "title": "We Found Early Amazon Prime Day Deals for Up to 85% Off (We’re Not Kidding!) — Shop Steep Discounts from $6 - People.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUlVRnFNX2dwZDNOamNncWgwdWtmZWlhdzYwNndSTGlTX1ZRSlFEN0hudzJ2S3dLeXdlNk1zbW5aUVI5V21OTmJiU2JibDFuS05JOXpFNzU3eGhkX1hiV0w5NWRQVUd3d1VWR1dYd0hFSm5iQXl2ZVlWR0dRTUtxLQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUlVRnFNX2dwZDNOamNncWgwdWtmZWlhdzYwNndSTGlTX1ZRSlFEN0hudzJ2S3dLeXdlNk1zbW5aUVI5V21OTmJiU2JibDFuS05JOXpFNzU3eGhkX1hiV0w5NWRQVUd3d1VWR1dYd0hFSm5iQXl2ZVlWR0dRTUtxLQ?oc=5\" target=\"_blank\">We Found Early Amazon Prime Day Deals for Up to 85% Off (We’re Not Kidding!) — Shop Steep Discounts from $6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-06-04T09:30:00+00:00",
+      "source": "People.com"
     },
     {
-      "title": "Amazon's New Proteus Warehouse Robot Is Fully Autonomous - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHpmNzU5Y1I2ZlZvY1lNSUM0cWxQRzJsRlVkM0tNcXo5bWdYVFV4RWkzb0VmeTZkWnVSX3Zac3lkM1RGS0l2T2xuNm1HTlhXeFdZMlFHeTJPMGNESFBDT1ZKVjhfTExwVEJ3ZVJ5ZmpWR2lfMW1uVnBIMldRMlMwUkV1Ul9jbktTbmxyX3lST256ZFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHpmNzU5Y1I2ZlZvY1lNSUM0cWxQRzJsRlVkM0tNcXo5bWdYVFV4RWkzb0VmeTZkWnVSX3Zac3lkM1RGS0l2T2xuNm1HTlhXeFdZMlFHeTJPMGNESFBDT1ZKVjhfTExwVEJ3ZVJ5ZmpWR2lfMW1uVnBIMldRMlMwUkV1Ul9jbktTbmxyX3lST256ZFU?oc=5\" target=\"_blank\">Amazon's New Proteus Warehouse Robot Is Fully Autonomous</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
-      "published": "2026-06-04T13:02:58+00:00",
-      "source": "Engadget"
+      "title": "Amazon knocks Walmart from the top spot on Fortune 500 for the first time in 13 years - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEcyTTF0WUlfQjY4b2JqamRMczg0a2tSMlBqOHNpV1E1Z3JCQjlILU14SEpOaEd0ZlhJMHVoZ1Q4NTVRYnFNcThIRVdhU0xJZkN3cE1VX1BiUkdJSWZSTkEzN2ZUcGlpQXJqTFA4bDd0dTU0ZWNWUWlRMXh6NWpNVF9vUjlWSVdJT2ZfT0dNREFIbEdNZEpPUGpVZV9XLTloTmtSc29Yek9MSUFLZE9EaENjOV9IN1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEcyTTF0WUlfQjY4b2JqamRMczg0a2tSMlBqOHNpV1E1Z3JCQjlILU14SEpOaEd0ZlhJMHVoZ1Q4NTVRYnFNcThIRVdhU0xJZkN3cE1VX1BiUkdJSWZSTkEzN2ZUcGlpQXJqTFA4bDd0dTU0ZWNWUWlRMXh6NWpNVF9vUjlWSVdJT2ZfT0dNREFIbEdNZEpPUGpVZV9XLTloTmtSc29Yek9MSUFLZE9EaENjOV9IN1E?oc=5\" target=\"_blank\">Amazon knocks Walmart from the top spot on Fortune 500 for the first time in 13 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "published": "2026-06-03T15:14:33+00:00",
+      "source": "GeekWire"
     },
     {
-      "title": "Pinterest signs $4 billion Amazon deal for cloud services - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1lkRy04dzZSZXVvTnhITzVLR3hmcTZzVWMzY18xZUxyNmZGZWVGdnB2VmJFcl9aQm9pd1g2Ty0zakZaSXpFR2ZuOVQ2NUhaOHFxcWxhN3pqWnBCTFliVjJnQnVMMEw2UU9rd0NQR3pfMzk2YlcybWduOF9Zdm5udGlLTzQ4bzdvakpGU094RWR6bjltakV6SUVyYktJZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNN1lkRy04dzZSZXVvTnhITzVLR3hmcTZzVWMzY18xZUxyNmZGZWVGdnB2VmJFcl9aQm9pd1g2Ty0zakZaSXpFR2ZuOVQ2NUhaOHFxcWxhN3pqWnBCTFliVjJnQnVMMEw2UU9rd0NQR3pfMzk2YlcybWduOF9Zdm5udGlLTzQ4bzdvakpGU094RWR6bjltakV6SUVyYktJZw?oc=5\" target=\"_blank\">Pinterest signs $4 billion Amazon deal for cloud services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-04T13:08:37+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Amazon and Google are sitting on billions in Anthropic stock. The IPO will finally reveal how much. - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxeS1EVWo2T2NWaGZwbm9TR0JQVjFWMlE5eS1uN0JHMTlRbC1nVkdVc0JHRzlQRHJnX0hyaTdRUERRX18xYlVRRVlZODR6Q2dOSnI1RVotTG1fTEY5dXk3cTVOT21OWXBDTGdJT3p5RXptaEdSX2ZN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBxeS1EVWo2T2NWaGZwbm9TR0JQVjFWMlE5eS1uN0JHMTlRbC1nVkdVc0JHRzlQRHJnX0hyaTdRUERRX18xYlVRRVlZODR6Q2dOSnI1RVotTG1fTEY5dXk3cTVOT21OWXBDTGdJT3p5RXptaEdSX2ZN?oc=5\" target=\"_blank\">Amazon and Google are sitting on billions in Anthropic stock. The IPO will finally reveal how much.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-06-04T14:12:00+00:00",
-      "source": "Fortune"
+      "title": "Amazon wrestles No. 1 spot away from Walmart on Fortune 500 list - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS09OdHdWcGdOODA1aUFnanR6NTk2MUZNRWFlbFFHNkNfY0NBSG82eVNnWkpGVVV0RHZDWmZSdDlvbTJKOEcya1NDbjB1aVN4ZGs4dklER2h4dWZRckRTbEdBdThkRGRtYjJVTlMwa080WFNkNU5FeFhubUFXVFk4R0NZRWYxaF80UGFMUkplQ05fVE9BeDB0U05UdE91T1JwY2l1b0R5MVV2cnQ5LU1pZlJGeS1VWHRGNHR6M0dMd3ZKSmJzZjZCa3Nn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQS09OdHdWcGdOODA1aUFnanR6NTk2MUZNRWFlbFFHNkNfY0NBSG82eVNnWkpGVVV0RHZDWmZSdDlvbTJKOEcya1NDbjB1aVN4ZGs4dklER2h4dWZRckRTbEdBdThkRGRtYjJVTlMwa080WFNkNU5FeFhubUFXVFk4R0NZRWYxaF80UGFMUkplQ05fVE9BeDB0U05UdE91T1JwY2l1b0R5MVV2cnQ5LU1pZlJGeS1VWHRGNHR6M0dMd3ZKSmJzZjZCa3Nn?oc=5\" target=\"_blank\">Amazon wrestles No. 1 spot away from Walmart on Fortune 500 list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Detroit News</font>",
+      "published": "2026-06-05T13:56:00+00:00",
+      "source": "The Detroit News"
     }
   ],
   "product_launches": [
     {
-      "title": "Amazon launches Prime in South Africa with unlimited free delivery, savings, and entertainment benefits - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91RW1YVjJYN0hFei01ZGRoNTBQc2FGUWVCZUxaX05jdDJvRGxhU1A0d01pVE1FemFSNVJubTZrbWpub05oM3huVFVWY0FneWhRejNVd0FQRVBDVlJsd3ZrQndwcUYyZTluT0tiTHVVWVE4YXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE91RW1YVjJYN0hFei01ZGRoNTBQc2FGUWVCZUxaX05jdDJvRGxhU1A0d01pVE1FemFSNVJubTZrbWpub05oM3huVFVWY0FneWhRejNVd0FQRVBDVlJsd3ZrQndwcUYyZTluT0tiTHVVWVE4YXc?oc=5\" target=\"_blank\">Amazon launches Prime in South Africa with unlimited free delivery, savings, and entertainment benefits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-06-03T04:33:22+00:00",
+      "title": "8 visual search features that help you quickly find what you’re looking for on Amazon - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBua0lKTlF5VG5nd0dweHFWSDM5WTZnbnFJd3dWQVRGZmY3SnVRaTdQdUtTS3FVN0tDenVVU3F5dkJsNkhlMFNSSzU1WWVRWGF5Y05RYUgtelNpRGtQcm5zRHI5R3BEdURESVl6TXFWbmRZMnBkRWRzcUlRSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBua0lKTlF5VG5nd0dweHFWSDM5WTZnbnFJd3dWQVRGZmY3SnVRaTdQdUtTS3FVN0tDenVVU3F5dkJsNkhlMFNSSzU1WWVRWGF5Y05RYUgtelNpRGtQcm5zRHI5R3BEdURESVl6TXFWbmRZMnBkRWRzcUlRSQ?oc=5\" target=\"_blank\">8 visual search features that help you quickly find what you’re looking for on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-06-03T07:00:00+00:00",
       "source": "About Amazon"
-    },
-    {
-      "title": "Amazon and Bashas’ Launch Grocery Delivery and Pickup in Arizona - Perishable News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDlWYjFVWTd6M2VSRzZBTG1mTmI3Q1NQNFhNTjc0VjNLcm5BTVZJZmJ6Wnk5b2kyekdQX2N2X1lNLWExV0psRkFaOTV6QUlya09jcGFOY20yTVgtMEE3LU5HNVV6TVFFZDg1TzF0aUY2NnlRTEo3ZVItMmZmczc1MXdCS2RjSGRTUnBrWURTWGRRTkVxblp2Z1lLVEJXanpkQUJwbFlxQkl2UDZIWFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDlWYjFVWTd6M2VSRzZBTG1mTmI3Q1NQNFhNTjc0VjNLcm5BTVZJZmJ6Wnk5b2kyekdQX2N2X1lNLWExV0psRkFaOTV6QUlya09jcGFOY20yTVgtMEE3LU5HNVV6TVFFZDg1TzF0aUY2NnlRTEo3ZVItMmZmczc1MXdCS2RjSGRTUnBrWURTWGRRTkVxblp2Z1lLVEJXanpkQUJwbFlxQkl2UDZIWFE?oc=5\" target=\"_blank\">Amazon and Bashas’ Launch Grocery Delivery and Pickup in Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Perishable News</font>",
-      "published": "2026-06-03T18:28:32+00:00",
-      "source": "Perishable News"
-    },
-    {
-      "title": "Amazon escalates South Africa’s e-commerce war with aggressive Prime pricing - Business Insider Africa",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbE5uWkdTOGZsblVoeVc5Nkw2bVdGM25iVHVzWE1XWE5IXzA2QUl5NGllNkhVODZuakZxbndIOHppYzFUTTdxbE96bjFidVhXQjVMZUxaUVljczZuRW1BS2R1VXVRX3JpbDVJX1RERUdPc3lESWFjU1NZV3VWOTdLZDJDbm1vTXdpVW9ZSlU1TkxvQjFTaEJ4LXR2dEhLOUJLZ1pKSWYxTDRUdV8tS0pzTGRwSkQ5QTBCODBGMlJzSFJWdEp1ZGZocmZDNlZVbFlHTVNkcnMyRHY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbE5uWkdTOGZsblVoeVc5Nkw2bVdGM25iVHVzWE1XWE5IXzA2QUl5NGllNkhVODZuakZxbndIOHppYzFUTTdxbE96bjFidVhXQjVMZUxaUVljczZuRW1BS2R1VXVRX3JpbDVJX1RERUdPc3lESWFjU1NZV3VWOTdLZDJDbm1vTXdpVW9ZSlU1TkxvQjFTaEJ4LXR2dEhLOUJLZ1pKSWYxTDRUdV8tS0pzTGRwSkQ5QTBCODBGMlJzSFJWdEp1ZGZocmZDNlZVbFlHTVNkcnMyRHY?oc=5\" target=\"_blank\">Amazon escalates South Africa’s e-commerce war with aggressive Prime pricing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
-      "published": "2026-06-03T18:23:17+00:00",
-      "source": "Business Insider Africa"
     },
     {
       "title": "Amazon launches Brand Gallery for Sponsored Brands RSOV campaigns - PPC Land",
@@ -91,25 +77,35 @@
       "source": "PPC Land"
     },
     {
-      "title": "Amazon to launch same-day delivery for fresh groceries in the UK - channelx.world",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3pyNjJIOThkU1RqME1IQ19yMDUzUnJsTnQxNnRBcVRKTnBscEE4VVhySUE0ajhRS0N3dUhJUzdxbTdXYzRpb2N5WXlqVnFDNmZ3VDViYm1OWVVXU3RfNjI3eURSQm1GNGVmSkZDZUpWaGRYREV0SkgyNG0xN1ZOME52aG5iLWRhWkt2RGwtSUo3Nl95SlgxSFZZblA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3pyNjJIOThkU1RqME1IQ19yMDUzUnJsTnQxNnRBcVRKTnBscEE4VVhySUE0ajhRS0N3dUhJUzdxbTdXYzRpb2N5WXlqVnFDNmZ3VDViYm1OWVVXU3RfNjI3eURSQm1GNGVmSkZDZUpWaGRYREV0SkgyNG0xN1ZOME52aG5iLWRhWkt2RGwtSUo3Nl95SlgxSFZZblA?oc=5\" target=\"_blank\">Amazon to launch same-day delivery for fresh groceries in the UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">channelx.world</font>",
-      "published": "2026-06-04T10:12:38+00:00",
-      "source": "channelx.world"
+      "title": "Amazon and Bashas’ Launch Grocery Delivery and Pickup in Arizona - Perishable News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDlWYjFVWTd6M2VSRzZBTG1mTmI3Q1NQNFhNTjc0VjNLcm5BTVZJZmJ6Wnk5b2kyekdQX2N2X1lNLWExV0psRkFaOTV6QUlya09jcGFOY20yTVgtMEE3LU5HNVV6TVFFZDg1TzF0aUY2NnlRTEo3ZVItMmZmczc1MXdCS2RjSGRTUnBrWURTWGRRTkVxblp2Z1lLVEJXanpkQUJwbFlxQkl2UDZIWFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDlWYjFVWTd6M2VSRzZBTG1mTmI3Q1NQNFhNTjc0VjNLcm5BTVZJZmJ6Wnk5b2kyekdQX2N2X1lNLWExV0psRkFaOTV6QUlya09jcGFOY20yTVgtMEE3LU5HNVV6TVFFZDg1TzF0aUY2NnlRTEo3ZVItMmZmczc1MXdCS2RjSGRTUnBrWURTWGRRTkVxblp2Z1lLVEJXanpkQUJwbFlxQkl2UDZIWFE?oc=5\" target=\"_blank\">Amazon and Bashas’ Launch Grocery Delivery and Pickup in Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Perishable News</font>",
+      "published": "2026-06-03T18:28:32+00:00",
+      "source": "Perishable News"
+    },
+    {
+      "title": "Amazon Now Launches in Philadelphia: Get Thousands of Items Delivered in 30 Minutes or Less - PHILADELPHIA.Today",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3JKdnNETTJ0U0JtZ3JVOGZBMUxBVGVkai1mWTV4VHVoZGREY0tka01QRnFHRGFFbXBtTUlnclVrT1U0ZVpicW5KNENiY0ZxbnlfQ0hYdC1kZklEUXdEQ0pmdWt5V0t0VGJFVThGcmN1Zl9xVHpkVkZSeHNfMXZCOW1vWHg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3JKdnNETTJ0U0JtZ3JVOGZBMUxBVGVkai1mWTV4VHVoZGREY0tka01QRnFHRGFFbXBtTUlnclVrT1U0ZVpicW5KNENiY0ZxbnlfQ0hYdC1kZklEUXdEQ0pmdWt5V0t0VGJFVThGcmN1Zl9xVHpkVkZSeHNfMXZCOW1vWHg?oc=5\" target=\"_blank\">Amazon Now Launches in Philadelphia: Get Thousands of Items Delivered in 30 Minutes or Less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PHILADELPHIA.Today</font>",
+      "published": "2026-05-19T07:00:00+00:00",
+      "source": "PHILADELPHIA.Today"
+    },
+    {
+      "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5\" target=\"_blank\">Amazon starts selling its AI shopping technology to other retailers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-05-27T07:00:00+00:00",
+      "source": "CNBC"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-04",
-      "close": 253.94000244140625
+      "date": "2026-06-05",
+      "close": 253.9499969482422
     },
     "history": [
-      {
-        "date": "2026-05-27",
-        "close": 271.8500061035156
-      },
       {
         "date": "2026-05-28",
         "close": 274.0
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-06-04",
-        "close": 253.94000244140625
+        "close": 253.7899932861328
+      },
+      {
+        "date": "2026-06-05",
+        "close": 253.9499969482422
       }
     ],
     "name": "Amazon.com, Inc."

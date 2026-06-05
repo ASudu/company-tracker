@@ -2,49 +2,35 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-06-04T14:34:54.571406+00:00",
+  "fetched_at": "2026-06-05T14:25:20.456790+00:00",
   "news": [
     {
-      "title": "Hidden beneath AI chips, Chinese-made circuit boards raise national security concerns in U.S. - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFR2UGhUQlljYmtFMlJJd2lETUZBZWJkSVd5TTRjZWVNX214cWNvR25nd19DclVscjczTTVGU082NFc0T1V2RjJEMVlvR2NaSUhlNmd3VGhJc0hKbHNTcFZkLWk3Y0hpUFZkSnF0RnduaGVoYkRJNXd6a1dEMUwwV3YwUlVseWdvT0FfTngxdGVzc05NaTU2V2dFREdBSkNqVHBHejN30gGrAUFVX3lxTE9ueTNVOTFQcHkwN24zTmNtUnlBSkZPVXVTd1FCZGlmT2hBUVlEYTBFNmdkTGlGeVRBQUV1bVBQYkg4SjlKX28yNHVMU2lscUd6YloyLTZCNWVTNk5nRnRyVWRBUkxTTmlvU3JSXzgwRExoVWpXTGVZX1llN0w5LUdwakgyTnZkYmJGZGMzMXdXc1ZDbkJEa0c2YmltTEFoZ3llcVg2SG1VNm1qSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFR2UGhUQlljYmtFMlJJd2lETUZBZWJkSVd5TTRjZWVNX214cWNvR25nd19DclVscjczTTVGU082NFc0T1V2RjJEMVlvR2NaSUhlNmd3VGhJc0hKbHNTcFZkLWk3Y0hpUFZkSnF0RnduaGVoYkRJNXd6a1dEMUwwV3YwUlVseWdvT0FfTngxdGVzc05NaTU2V2dFREdBSkNqVHBHejN30gGrAUFVX3lxTE9ueTNVOTFQcHkwN24zTmNtUnlBSkZPVXVTd1FCZGlmT2hBUVlEYTBFNmdkTGlGeVRBQUV1bVBQYkg4SjlKX28yNHVMU2lscUd6YloyLTZCNWVTNk5nRnRyVWRBUkxTTmlvU3JSXzgwRExoVWpXTGVZX1llN0w5LUdwakgyTnZkYmJGZGMzMXdXc1ZDbkJEa0c2YmltTEFoZ3llcVg2SG1VNm1qSQ?oc=5\" target=\"_blank\">Hidden beneath AI chips, Chinese-made circuit boards raise national security concerns in U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-06-03T20:42:53+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Nvidia Buys Enterprise Model-Maker Kumo AI for at Least $400 Million - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTR0REdsRG9qNjFIYUI5NUM3bDhqNFpfeFlLSGMxMnJSenctWWQzRGNTNE1XNUlncjNSelkxRGpnaWE3NjR5XzRULVRDdFphRTVybUpfZEFJcGZRQTJWOHVZSHJRb0s5WUF4YnA3Tm1JMVZBMEtfVHZKRHVhb09HbzZzYzZ3VHRIUjRGbGhxamM5aGU1V2RDMEVlNlVCWFpnVHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTR0REdsRG9qNjFIYUI5NUM3bDhqNFpfeFlLSGMxMnJSenctWWQzRGNTNE1XNUlncjNSelkxRGpnaWE3NjR5XzRULVRDdFphRTVybUpfZEFJcGZRQTJWOHVZSHJRb0s5WUF4YnA3Tm1JMVZBMEtfVHZKRHVhb09HbzZzYzZ3VHRIUjRGbGhxamM5aGU1V2RDMEVlNlVCWFpnVHc?oc=5\" target=\"_blank\">Nvidia Buys Enterprise Model-Maker Kumo AI for at Least $400 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-06-03T21:47:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkl0dWo1cmVmQTAwa3FPOUlhUGdKUU45U1N0STUxWEtodnpqT1FnaHlGQ1ZNTFo4M3d2S3IxSGFYVHE5X2hZQ05rMUFZUFYtQ1g5Wjc4MVhsSW40SVBWS3otU1hBMjRlOWRaZFZaM2hVMTd6elFPY0pSa2V0V3F5XzlrTVhRT1lzcEUtRXhNLVJtZV82QmJvUFY2OUFuZ3FVNDFSYUxFSFVnbHpzZ2k3YkJ5TGh5QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkl0dWo1cmVmQTAwa3FPOUlhUGdKUU45U1N0STUxWEtodnpqT1FnaHlGQ1ZNTFo4M3d2S3IxSGFYVHE5X2hZQ05rMUFZUFYtQ1g5Wjc4MVhsSW40SVBWS3otU1hBMjRlOWRaZFZaM2hVMTd6elFPY0pSa2V0V3F5XzlrTVhRT1lzcEUtRXhNLVJtZV82QmJvUFY2OUFuZ3FVNDFSYUxFSFVnbHpzZ2k3YkJ5TGh5QQ?oc=5\" target=\"_blank\">Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "published": "2026-06-04T12:30:05+00:00",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Intel's mysterious new datacenter GPU is what Nvidia's Rubin CPX nearly was - The Register",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnY4cUpPeE5PbFltSlVDdC1CTGJwbm9UY2Zmb0N6NWlYUUJZOU9uZmkzb0lpekdUcTVEYWpuaG4tRFBjQ3dfRkNYaUxjLXV3ZFpidzFjbEFEeEloVmNBTzVUWXZ5by1iVnIzcFZ6VVkyMmxMdHJwUjI2d2JjVVRVMjVxb3Z2NkpRMGRTTVVWZElzTmZGUEJmM0FhZjRGZDZsaGpTbGNDYk5CVHNh?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnY4cUpPeE5PbFltSlVDdC1CTGJwbm9UY2Zmb0N6NWlYUUJZOU9uZmkzb0lpekdUcTVEYWpuaG4tRFBjQ3dfRkNYaUxjLXV3ZFpidzFjbEFEeEloVmNBTzVUWXZ5by1iVnIzcFZ6VVkyMmxMdHJwUjI2d2JjVVRVMjVxb3Z2NkpRMGRTTVVWZElzTmZGUEJmM0FhZjRGZDZsaGpTbGNDYk5CVHNh?oc=5\" target=\"_blank\">Intel's mysterious new datacenter GPU is what Nvidia's Rubin CPX nearly was</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
-      "published": "2026-06-04T13:00:00+00:00",
-      "source": "The Register"
-    },
-    {
-      "title": "Nvidia (NVDA) Stock Has Made Early Investors a Fortune. Is There Still Room to Run? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzFVWWdNUGlpaWZOV0h1MmFqWHZ4a3lEeFdOS1dEcmNia0NTZGYtM3lfQ3J0VnVwY1FXX3E1ejBTQkg2UWdVbFJuSXlIMkd6TUJkS24zYXFaRTdpNmVPaWZKTnJ6aTFEVENqaWdMM1hlMExxM3RmQkl4ZjRuTW5iRVdqTlR3RGpsTkdiSzd2LUFCQnNuWC1FNw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzFVWWdNUGlpaWZOV0h1MmFqWHZ4a3lEeFdOS1dEcmNia0NTZGYtM3lfQ3J0VnVwY1FXX3E1ejBTQkg2UWdVbFJuSXlIMkd6TUJkS24zYXFaRTdpNmVPaWZKTnJ6aTFEVENqaWdMM1hlMExxM3RmQkl4ZjRuTW5iRVdqTlR3RGpsTkdiSzd2LUFCQnNuWC1FNw?oc=5\" target=\"_blank\">Nvidia (NVDA) Stock Has Made Early Investors a Fortune. Is There Still Room to Run?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-04T04:05:00+00:00",
+      "title": "Nvidia CEO sees robotics as next major sector in South Korea - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFZidHdyenlNNmdmSmd1QUZuWWo3WEMyZ0FKc1FOR2VWODc3N0V1UTJiTTZVdUJVd2hqRUNFc2JVdkhaQ1c5LVgzX0EyNi1xeGRTUnEwZllwTjdMdi01M3FCVE1BY01WMlFCQ244c092MEQzVmJ4QW04ZGxiUmdfdFU1NFF6OUl0ZjluZS1WRDU1VnE5a2t6blg3TXgwbEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFZidHdyenlNNmdmSmd1QUZuWWo3WEMyZ0FKc1FOR2VWODc3N0V1UTJiTTZVdUJVd2hqRUNFc2JVdkhaQ1c5LVgzX0EyNi1xeGRTUnEwZllwTjdMdi01M3FCVE1BY01WMlFCQ244c092MEQzVmJ4QW04ZGxiUmdfdFU1NFF6OUl0ZjluZS1WRDU1VnE5a2t6blg3TXgwbEk?oc=5\" target=\"_blank\">Nvidia CEO sees robotics as next major sector in South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-05T04:55:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia Stock Falls. Why Its Partners Are Getting a Boost and It Isn’t. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNV9aUWJPUmhVdXRYdG05OTd0ZEhGYThrRU1HR2hmZkxUd2oyVC1aVjBxbzVSdWF6REFUZDhwMV9JUFdpR0hSZWxPRU4wLUYxMTUzTHBnbmJPMndjR2d6djM4NHhaRDhCSkRSdHZDdUFXRC1xaGkweVZ3ODRjMzg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNV9aUWJPUmhVdXRYdG05OTd0ZEhGYThrRU1HR2hmZkxUd2oyVC1aVjBxbzVSdWF6REFUZDhwMV9JUFdpR0hSZWxPRU4wLUYxMTUzTHBnbmJPMndjR2d6djM4NHhaRDhCSkRSdHZDdUFXRC1xaGkweVZ3ODRjMzg?oc=5\" target=\"_blank\">Nvidia Stock Falls. Why Its Partners Are Getting a Boost and It Isn’t.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-06-03T13:57:00+00:00",
-      "source": "Barron's"
+      "title": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR29HaHl0WnF4eTBKNVVGWjh5ZUhVVlJnR3RmeUczNjR1UDgwVUhCRHFYdXdlR1gtSjBFQWdYUUU4NndsSFdkbnd0VWJIN056Qm5GaDdBZDBHRUlOQTFxZkJfMjEyOEthS2VpbDZwdlFPOW0wRC11Z0Q4WE5mQjdSQWZodFFVc2pHVFZEa2ZGVkM4WmlGcGxlVWtfTzV0Z9IBowFBVV95cUxNZDhBQnp5YkdVSjY4Q1VuRlBkRlBjenRwRGpHZ0ZSSEt0d0dWTUs0RnhmUi1WNy1uUU9zNFhvbWRGUFgwUU5zZzVLUkE2NlFEU1lPX2xZZGpHUUUwcm5ja0FpYjduZ0w4em5hR1dTTmdDRzNEVl91TzdNTFhudVl0UFpKaFNmZTRvTXJ2VWhTUUNBdjhMNjN2UDhJUWVyVG1JMjl3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOR29HaHl0WnF4eTBKNVVGWjh5ZUhVVlJnR3RmeUczNjR1UDgwVUhCRHFYdXdlR1gtSjBFQWdYUUU4NndsSFdkbnd0VWJIN056Qm5GaDdBZDBHRUlOQTFxZkJfMjEyOEthS2VpbDZwdlFPOW0wRC11Z0Q4WE5mQjdSQWZodFFVc2pHVFZEa2ZGVkM4WmlGcGxlVWtfTzV0Z9IBowFBVV95cUxNZDhBQnp5YkdVSjY4Q1VuRlBkRlBjenRwRGpHZ0ZSSEt0d0dWTUs0RnhmUi1WNy1uUU9zNFhvbWRGUFgwUU5zZzVLUkE2NlFEU1lPX2xZZGpHUUUwcm5ja0FpYjduZ0w4em5hR1dTTmdDRzNEVl91TzdNTFhudVl0UFpKaFNmZTRvTXJ2VWhTUUNBdjhMNjN2UDhJUWVyVG1JMjl3?oc=5\" target=\"_blank\">Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-06-05T04:08:11+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia's Huang arrives in South Korea with 'surprises', bets on robotics - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnNwZTdHT0RjN2RVMEp6b2tCWERYdUViYjdDTXg2UDR6b3pZUjJSZ1d4NFdYdnJ3cld4Q1F2bDBxbk5lekFqTDNXNndtX0tFZnduOVdkR0dGYW04RzIybE52Z1pidXhwZnlWTE4yRjNuYzV4ZHZocEhtV2FxQU5kR3NLN1VEaHRxYjF1NVpZMWE0YkUteW1JY0pxWXAyd1RUZkNSNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnNwZTdHT0RjN2RVMEp6b2tCWERYdUViYjdDTXg2UDR6b3pZUjJSZ1d4NFdYdnJ3cld4Q1F2bDBxbk5lekFqTDNXNndtX0tFZnduOVdkR0dGYW04RzIybE52Z1pidXhwZnlWTE4yRjNuYzV4ZHZocEhtV2FxQU5kR3NLN1VEaHRxYjF1NVpZMWE0YkUteW1JY0pxWXAyd1RUZkNSNA?oc=5\" target=\"_blank\">Nvidia's Huang arrives in South Korea with 'surprises', bets on robotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-05T13:45:53+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia vs. Salesforce vs. Marvell Technology: Which Is the Best Stock to Buy? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlQaFNORlByVVg5SV92VERCdUg0RnpqQmxCTHI1cDlVM2pVVDVCZEUtMWlzNnFfNVMtSm5HT1IxSzZQWHpDa21wdGJTZ1JaTTV2X0p6c2FPSkNOdFcxZV8xYXhZS3dkRDhGV2pWZ3lYTDdPSWc4UDg4TFNJb3hVeEVJbldGd09wRWY2SjhoeGZTOFkzNWVreGZrV0ZCSzB0a1IxTkcwanZ0T1gyT1Fz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObXlQaFNORlByVVg5SV92VERCdUg0RnpqQmxCTHI1cDlVM2pVVDVCZEUtMWlzNnFfNVMtSm5HT1IxSzZQWHpDa21wdGJTZ1JaTTV2X0p6c2FPSkNOdFcxZV8xYXhZS3dkRDhGV2pWZ3lYTDdPSWc4UDg4TFNJb3hVeEVJbldGd09wRWY2SjhoeGZTOFkzNWVreGZrV0ZCSzB0a1IxTkcwanZ0T1gyT1Fz?oc=5\" target=\"_blank\">Nvidia vs. Salesforce vs. Marvell Technology: Which Is the Best Stock to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-06-05T09:10:09+00:00",
+      "source": "Morningstar"
     },
     {
       "title": "Here are Thursday's biggest analyst calls: Nvidia, Apple, Broadcom, Netflix, Oracle, Microsoft, CrowdStrike & more - CNBC",
@@ -54,27 +40,41 @@
       "source": "CNBC"
     },
     {
-      "title": "Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTMtR2pPU3JFdFNmZlA5NEw0YWM2aFFBZVdPNGYxX202dmdFTjVVdGZ4b3poZ2htaWh6eHhWMTFqRHBZdDR4VGE0ZTBPWDYzd05vOEQ4akVXbmZ5LTR2RF9DM1hTS1h5ZlNXUldiUXpod0IzU3BTMGlaVjIybUc0YmVCSzRFOVBBWU5jclVLS2l2bEZMSVl6b1NB0gGfAUFVX3lxTE5MUG1BMGkxV2dSR2ZPQ2ZHV0t1aTZqTlJqcmVJcHNfOEdxbzZCMzJIaEh2aVFZcHVGZzYyQUtaNTZISktWUVRGa0FGOTdneXphdHRFaWhacjhYQmdXZUo0TkxMSWNpZi1ZRzUtRkpKNGNnckczX3RaZS1oZU4yYVFIS3JSUFZxb1JDaExVcGUtZHc0dUtSOWtNaEdUXzI0cw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTMtR2pPU3JFdFNmZlA5NEw0YWM2aFFBZVdPNGYxX202dmdFTjVVdGZ4b3poZ2htaWh6eHhWMTFqRHBZdDR4VGE0ZTBPWDYzd05vOEQ4akVXbmZ5LTR2RF9DM1hTS1h5ZlNXUldiUXpod0IzU3BTMGlaVjIybUc0YmVCSzRFOVBBWU5jclVLS2l2bEZMSVl6b1NB0gGfAUFVX3lxTE5MUG1BMGkxV2dSR2ZPQ2ZHV0t1aTZqTlJqcmVJcHNfOEdxbzZCMzJIaEh2aVFZcHVGZzYyQUtaNTZISktWUVRGa0FGOTdneXphdHRFaWhacjhYQmdXZUo0TkxMSWNpZi1ZRzUtRkpKNGNnckczX3RaZS1oZU4yYVFIS3JSUFZxb1JDaExVcGUtZHc0dUtSOWtNaEdUXzI0cw?oc=5\" target=\"_blank\">Marvell stock soars 32% as Nvidia's Huang says it could be the next trillion-dollar company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-06-02T10:10:27+00:00",
-      "source": "CNBC"
+      "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 With a Return of 120% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzI1aXZTR2JlNmIzMUFMd29IbGVmcFd4SmpKVlk1djNGN0xuVUxqMDZMRWhNT2QxdDlWX204eUJ1b014dy1vRVljTjhzUEwxZTh5dzhkbEo0VDAzUWt0dy1DSWhwbndpSTFTUnNac25NeTNfWnp2cmVkcHlyRHNIbDdlMlF5VnRpdlQ2bV9QTjhfTDFaN0lFbEVUYlAteW8tMlFrSzhhaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzI1aXZTR2JlNmIzMUFMd29IbGVmcFd4SmpKVlk1djNGN0xuVUxqMDZMRWhNT2QxdDlWX204eUJ1b014dy1vRVljTjhzUEwxZTh5dzhkbEo0VDAzUWt0dy1DSWhwbndpSTFTUnNac25NeTNfWnp2cmVkcHlyRHNIbDdlMlF5VnRpdlQ2bV9QTjhfTDFaN0lFbEVUYlAteW8tMlFrSzhhaw?oc=5\" target=\"_blank\">Meet the Super Semiconductor Stock Crushing Nvidia in 2026 With a Return of 120%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-05T14:05:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Generalist AI raises $400M at $2B valuation, backed by Nvidia - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTLTJuUnkyMnBLZ1A4ZlIwbmdIbHYzZkJGdWhtVGFodENvS2I2ZVdfZ18zT0lyV0FuZWZ4blAyZkNWbWF5cWRiT19RazBYbjN0anBRUE12SnRaTERBcHJYbW52YzI1djhmQ0lmMXpaN2RXd1k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBTLTJuUnkyMnBLZ1A4ZlIwbmdIbHYzZkJGdWhtVGFodENvS2I2ZVdfZ18zT0lyV0FuZWZ4blAyZkNWbWF5cWRiT19RazBYbjN0anBRUE12SnRaTERBcHJYbW52YzI1djhmQ0lmMXpaN2RXd1k?oc=5\" target=\"_blank\">Generalist AI raises $400M at $2B valuation, backed by Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-06-05T14:16:08+00:00",
+      "source": "qz.com"
+    },
+    {
+      "title": "Chinese satellite company releases images of Nvidia, Apple HQs - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV19rVURLUkN1QXg2UDZhci1PVXZKTXQ3ZGVJWmhuT2pWRG9xTzlzSmEwZl94ZDVOVThqRXdrVzk1dW1YOTFjRV9BdUZnbGRkQndpZEJVd1BGbkk4bFNQRGcwMWJBZm5PY1hCMDlJY3pqWDBZV0JpbVFBV0pyOHlQSno3MWJYOW5SeW5vNEhyc3A0dmROUUV0aHZQY1AwVHRfSU9udlJVU3d5MXExMllrbXFzdHnSAbQBQVVfeXFMT1BEMkR5SG02ckVYcUdzNFJDb29PeUdOUWJBVC16UHFBdC1DSG9DdUpJTUl0dTYtdjd6bktwVlF0UG1fbXFrQVFfSjVtSnJQMTduMEQwMWRFN1BteUlwWUl3TTd3cHBtUGY3dEt4d1AtX1p4R2dmemZiUlpiSG9DSmdBWm95UEZ6Q2JfbWdiTjlnekt4UmpXaFBYWmxCakZoaVZYSHB2bnozdEt3cmhaZU1DcU9O?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNV19rVURLUkN1QXg2UDZhci1PVXZKTXQ3ZGVJWmhuT2pWRG9xTzlzSmEwZl94ZDVOVThqRXdrVzk1dW1YOTFjRV9BdUZnbGRkQndpZEJVd1BGbkk4bFNQRGcwMWJBZm5PY1hCMDlJY3pqWDBZV0JpbVFBV0pyOHlQSno3MWJYOW5SeW5vNEhyc3A0dmROUUV0aHZQY1AwVHRfSU9udlJVU3d5MXExMllrbXFzdHnSAbQBQVVfeXFMT1BEMkR5SG02ckVYcUdzNFJDb29PeUdOUWJBVC16UHFBdC1DSG9DdUpJTUl0dTYtdjd6bktwVlF0UG1fbXFrQVFfSjVtSnJQMTduMEQwMWRFN1BteUlwWUl3TTd3cHBtUGY3dEt4d1AtX1p4R2dmemZiUlpiSG9DSmdBWm95UEZ6Q2JfbWdiTjlnekt4UmpXaFBYWmxCakZoaVZYSHB2bnozdEt3cmhaZU1DcU9O?oc=5\" target=\"_blank\">Chinese satellite company releases images of Nvidia, Apple HQs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+      "published": "2026-06-04T22:00:06+00:00",
+      "source": "South China Morning Post"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5\" target=\"_blank\">NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-06-01T04:50:49+00:00",
+      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5\" target=\"_blank\">NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-06-01T04:30:47+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Qualcomm stock under pressure as Nvidia unveils new product - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTlwM0hjQnZMX1U4RUFHWl9yU1pEcW03b0xpNy1UUVdZYlRyUnJMVkV5YWtqY1Z5TlhrRklLd3p4Ml9HM2hXeXhMVFJiaE5zSzFjVWdiczIzLXNvLTdCTW0xVk41Rnd3cFJma1NaN2hZNVpMbTVFV3pIeC15Rkk2Wk1ZSG80SjFGWHRPZGxB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTlwM0hjQnZMX1U4RUFHWl9yU1pEcW03b0xpNy1UUVdZYlRyUnJMVkV5YWtqY1Z5TlhrRklLd3p4Ml9HM2hXeXhMVFJiaE5zSzFjVWdiczIzLXNvLTdCTW0xVk41Rnd3cFJma1NaN2hZNVpMbTVFV3pIeC15Rkk2Wk1ZSG80SjFGWHRPZGxB?oc=5\" target=\"_blank\">Qualcomm stock under pressure as Nvidia unveils new product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "published": "2026-06-04T02:47:00+00:00",
-      "source": "Yahoo Finance Singapore"
+      "title": "Nvidia (NASDAQ: NVDA) Targets Apple Partnership As Nemotron 3 Ultra Launch Reshapes AI Stack - foreignpolicyjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOTdjbmpnZnJVSEtXS3lBYjluQTd6czJYek94WDZwU3J3WmVObG9HV1N3V3V0U2dLVEhaQjRlbHNZRWZEZF9ZVS1fcW8wYVlZSkFMM3NKTDkwalVRQ0RJVGJFOWdmY1pmNDY2ZnkzRXo5QVdacVl2bGN3RHRsTW5qek5wLTZncXl2bE1XdjVGcHdPZ24zVVlSQ0dpREJxTjdwcURMcktRQ29rS2xxUVUxdFAwLXY3T2NsZW5uS0xHVlk3NExKSDg4c2xUdlZISjRCdFJjSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOTdjbmpnZnJVSEtXS3lBYjluQTd6czJYek94WDZwU3J3WmVObG9HV1N3V3V0U2dLVEhaQjRlbHNZRWZEZF9ZVS1fcW8wYVlZSkFMM3NKTDkwalVRQ0RJVGJFOWdmY1pmNDY2ZnkzRXo5QVdacVl2bGN3RHRsTW5qek5wLTZncXl2bE1XdjVGcHdPZ24zVVlSQ0dpREJxTjdwcURMcktRQ29rS2xxUVUxdFAwLXY3T2NsZW5uS0xHVlk3NExKSDg4c2xUdlZISjRCdFJjSQ?oc=5\" target=\"_blank\">Nvidia (NASDAQ: NVDA) Targets Apple Partnership As Nemotron 3 Ultra Launch Reshapes AI Stack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foreignpolicyjournal.com</font>",
+      "published": "2026-06-05T13:17:00+00:00",
+      "source": "foreignpolicyjournal.com"
     },
     {
       "title": "Qualcomm stock under pressure as Nvidia unveils new product - thestreet.com",
@@ -84,17 +84,17 @@
       "source": "thestreet.com"
     },
     {
-      "title": "NVIDIA Launches RTX Spark AI Superchip, Escalating Competition with Apple and Intel - Spherical Insights",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ZGbWpyeHBTbTRGNXh4alpqMC00V0V0djV3UUtlMmJUYlZSYUpPV3h1WjhhcTQ1Zk5MNHhNSFVUNllJRkw3QWt3VXJoWDVfbGdkbGU0bjFZVm1yVkNWbFVpVVJtTEpLcE9KZk9reUx5Sy1rSmlrWGJtcXR6WHB0SEhfdU9peXFvNUR3SVlRT2JlNnZTdDlUdTVzRUQ2MlJFT0tQNWpmVlRienhzMGlHN3g2ZFczOFNaNkplNnFRTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ZGbWpyeHBTbTRGNXh4alpqMC00V0V0djV3UUtlMmJUYlZSYUpPV3h1WjhhcTQ1Zk5MNHhNSFVUNllJRkw3QWt3VXJoWDVfbGdkbGU0bjFZVm1yVkNWbFVpVVJtTEpLcE9KZk9reUx5Sy1rSmlrWGJtcXR6WHB0SEhfdU9peXFvNUR3SVlRT2JlNnZTdDlUdTVzRUQ2MlJFT0tQNWpmVlRienhzMGlHN3g2ZFczOFNaNkplNnFRTQ?oc=5\" target=\"_blank\">NVIDIA Launches RTX Spark AI Superchip, Escalating Competition with Apple and Intel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spherical Insights</font>",
-      "published": "2026-06-04T12:11:00+00:00",
-      "source": "Spherical Insights"
+      "title": "Qualcomm stock under pressure as Nvidia unveils new product - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTlwM0hjQnZMX1U4RUFHWl9yU1pEcW03b0xpNy1UUVdZYlRyUnJMVkV5YWtqY1Z5TlhrRklLd3p4Ml9HM2hXeXhMVFJiaE5zSzFjVWdiczIzLXNvLTdCTW0xVk41Rnd3cFJma1NaN2hZNVpMbTVFV3pIeC15Rkk2Wk1ZSG80SjFGWHRPZGxB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTlwM0hjQnZMX1U4RUFHWl9yU1pEcW03b0xpNy1UUVdZYlRyUnJMVkV5YWtqY1Z5TlhrRklLd3p4Ml9HM2hXeXhMVFJiaE5zSzFjVWdiczIzLXNvLTdCTW0xVk41Rnd3cFJma1NaN2hZNVpMbTVFV3pIeC15Rkk2Wk1ZSG80SjFGWHRPZGxB?oc=5\" target=\"_blank\">Qualcomm stock under pressure as Nvidia unveils new product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "published": "2026-06-04T02:47:00+00:00",
+      "source": "Yahoo Finance Singapore"
     },
     {
       "title": "Apple to Launch New Siri in September With Help of Google, Nvidia - The Information",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUJPM0lfTEJmVXN6dE5yTjd6SDFQb0t2RnBoVi1oRFdDejU5TTlTS3NVY205OEFtQVRDVDN2Uk53Wm5qc3lxS1pFbC1xcVM4YTVZd2tYNU45ZEFKY1ZWX1RHOTlHOW9WUGRqMnlDNllwMHV2ZTRwMUxqelpxZkdjU0RnTDFCODNDbWc5U2k0d2M2d2h4WWc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUJPM0lfTEJmVXN6dE5yTjd6SDFQb0t2RnBoVi1oRFdDejU5TTlTS3NVY205OEFtQVRDVDN2Uk53Wm5qc3lxS1pFbC1xcVM4YTVZd2tYNU45ZEFKY1ZWX1RHOTlHOW9WUGRqMnlDNllwMHV2ZTRwMUxqelpxZkdjU0RnTDFCODNDbWc5U2k0d2M2d2h4WWc?oc=5\" target=\"_blank\">Apple to Launch New Siri in September With Help of Google, Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-06-03T22:27:33+00:00",
+      "published": "2026-06-03T22:24:00+00:00",
       "source": "The Information"
     }
   ],
@@ -102,37 +102,37 @@
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-04",
-      "close": 213.86000061035156
+      "date": "2026-06-05",
+      "close": 211.50929260253906
     },
     "history": [
       {
-        "date": "2026-05-27",
-        "close": 212.60000610351562
-      },
-      {
         "date": "2026-05-28",
-        "close": 214.25
+        "close": 214.00057983398438
       },
       {
         "date": "2026-05-29",
-        "close": 211.13999938964844
+        "close": 210.8942108154297
       },
       {
         "date": "2026-06-01",
-        "close": 224.36000061035156
+        "close": 224.09881591796875
       },
       {
         "date": "2026-06-02",
-        "close": 222.82000732421875
+        "close": 222.56060791015625
       },
       {
         "date": "2026-06-03",
-        "close": 214.75
+        "close": 214.5
       },
       {
         "date": "2026-06-04",
-        "close": 213.86000061035156
+        "close": 218.66000366210938
+      },
+      {
+        "date": "2026-06-05",
+        "close": 211.50929260253906
       }
     ],
     "name": "NVIDIA Corporation"
