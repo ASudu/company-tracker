@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-06-06T13:07:53.670134+00:00",
+  "fetched_at": "2026-06-07T13:21:16.595502+00:00",
   "news": [
     {
       "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence - VentureBeat",
@@ -12,6 +12,27 @@
       "source": "VentureBeat"
     },
     {
+      "title": "I Saw the Future of Windows at Microsoft Build, and It's Unrecognizable - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWZOYXZXZU5faVQyLUVZSFpfdE54X2VBSXJQVDZNSmthbVlENzBzLU80ZGc0aVZNVmVOT3Z3eGhDOTVyZDg0SFJqcGMwa2g1bjAtcWJza2NRdmJnUW5rUVlpeTVSU3hVNFc4RFhOWFRvWWU5NmxKS25jWEUtdFpWZlNHMktHdjBaRUN4UU5WZkZqclczUlRFeUJYRnhST2xXeEo1c1Qtc18?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWZOYXZXZU5faVQyLUVZSFpfdE54X2VBSXJQVDZNSmthbVlENzBzLU80ZGc0aVZNVmVOT3Z3eGhDOTVyZDg0SFJqcGMwa2g1bjAtcWJza2NRdmJnUW5rUVlpeTVSU3hVNFc4RFhOWFRvWWU5NmxKS25jWEUtdFpWZlNHMktHdjBaRUN4UU5WZkZqclczUlRFeUJYRnhST2xXeEo1c1Qtc18?oc=5\" target=\"_blank\">I Saw the Future of Windows at Microsoft Build, and It's Unrecognizable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2026-06-05T12:53:12+00:00",
+      "source": "PCMag"
+    },
+    {
+      "title": "Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents - StepSecurity",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbVIxMjMtUFBDc3hpLThYT0QwWXJRTURLeHNuV0NnUTJFYkhRQzZNQkU3M0hNdkJlVkdhMHVnaXZLTF8wTnVPbUZ4YVlLbExCQ3dFbzh6M2VRSjFNRWQxN2YxRWZycHhvWVVlWVRXTldUdTUwSU40Tk9qdHFGb1JVSkw2ckFqOF9Qd2RCMU5tNTRjeXFwcnlzV2FWNnZwWE9peUhLczBDR2hRVmxXZkZ2SmI5LUNxOTBnYWo4WWpjU3doZmE0eFVXdjdJUDBjQ1NubnZtVDdQd1duME1OZEtPYmJpdUpWTnFFMlBzbGtIdUR0dWZlazctMVhBTndGX21BZWU2TXkwMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNbVIxMjMtUFBDc3hpLThYT0QwWXJRTURLeHNuV0NnUTJFYkhRQzZNQkU3M0hNdkJlVkdhMHVnaXZLTF8wTnVPbUZ4YVlLbExCQ3dFbzh6M2VRSjFNRWQxN2YxRWZycHhvWVVlWVRXTldUdTUwSU40Tk9qdHFGb1JVSkw2ckFqOF9Qd2RCMU5tNTRjeXFwcnlzV2FWNnZwWE9peUhLczBDR2hRVmxXZkZ2SmI5LUNxOTBnYWo4WWpjU3doZmE0eFVXdjdJUDBjQ1NubnZtVDdQd1duME1OZEtPYmJpdUpWTnFFMlBzbGtIdUR0dWZlazctMVhBTndGX21BZWU2TXkwMA?oc=5\" target=\"_blank\">Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StepSecurity</font>",
+      "published": "2026-06-05T07:00:00+00:00",
+      "source": "StepSecurity"
+    },
+    {
+      "title": "Wells Fargo Raises PT on Microsoft (MSFT) Stock - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDI4LTNNZUs0TWNrZXJ0SEM1T05VMnp2TF9VN0tvRXdZalRIUVRoVHR3S3BUS1ZOaVFZM3NqMk1sUlBiemF5dzJETEh1OEJxVy1wM2ljemxBeFBzYVM3MmlkUUxIMjJUazF0b2xjcUduNzd3dXRub1ZYRUpNZXNPUUZQZ3JzTkQ1WnlwTDV3dFJZaXB0SUpBZFJpcUM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDI4LTNNZUs0TWNrZXJ0SEM1T05VMnp2TF9VN0tvRXdZalRIUVRoVHR3S3BUS1ZOaVFZM3NqMk1sUlBiemF5dzJETEh1OEJxVy1wM2ljemxBeFBzYVM3MmlkUUxIMjJUazF0b2xjcUduNzd3dXRub1ZYRUpNZXNPUUZQZ3JzTkQ1WnlwTDV3dFJZaXB0SUpBZFJpcUM?oc=5\" target=\"_blank\">Wells Fargo Raises PT on Microsoft (MSFT) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-06T17:24:23+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
       "title": "Has Microsoft Lost Its Mojo (Again)? - WIRED",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51NWNCM1F6NTN5OU9kRTJldHFLZXd0dmw1dzQta2FGbGFUNF92YmxrN3dhLWNucHU1SlVFb0hzbDItRWZfMnZrdzR4UklLUF9aQ1pGS056X1loQkd5aGcwdEY5dllvdjVLNW9pQ1g4SQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE51NWNCM1F6NTN5OU9kRTJldHFLZXd0dmw1dzQta2FGbGFUNF92YmxrN3dhLWNucHU1SlVFb0hzbDItRWZfMnZrdzR4UklLUF9aQ1pGS056X1loQkd5aGcwdEY5dllvdjVLNW9pQ1g4SQ?oc=5\" target=\"_blank\">Has Microsoft Lost Its Mojo (Again)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
@@ -19,46 +40,25 @@
       "source": "WIRED"
     },
     {
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbFdZOWxXR0YwLTVNR2ZUbkdXTzF0M0FzQnR4QWtCX0hhVFNVTTRmNlNmS3FLdThWRWJWZjlsbWdpWmdaSWVGZEtRemVYSHllZUZSWTV0NjVUN0c0eWNZUktRbC1MYUNJbS1mTDlEWjVONTVnNlVBUExETXlNTWJlbA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNbFdZOWxXR0YwLTVNR2ZUbkdXTzF0M0FzQnR4QWtCX0hhVFNVTTRmNlNmS3FLdThWRWJWZjlsbWdpWmdaSWVGZEtRemVYSHllZUZSWTV0NjVUN0c0eWNZUktRbC1MYUNJbS1mTDlEWjVONTVnNlVBUExETXlNTWJlbA?oc=5\" target=\"_blank\">Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-06-06T06:58:00+00:00",
-      "source": "The Hacker News"
+      "title": "Microsoft CEO Satya Nadella to company's 50 top engineers: Please be clear that our goal is not to make… - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQ3M2MGxVUXRhNFg5Z3EydlM2NlNpR1h1Q0xOdnk2N1VNODNQVGJJOFdRTnF1emRTRzhKSkJYS2ZBNzQteDllWFprY2JhTVRESnhob0xORTd2S1FUUkVwT0t6ZzNRb1pCOGJkUGhhUVZ2V01EbzlYa2NfcjF4YUh3MGRHMXozbUloYTBudk9fa082VlZpaFZXOEtFRkRhMDlDMXFJXzExZERzZGM3SzFDR3U5VHNyYWdfZWVZVlYtV1loamd0Mk45Zm9GRktIR0l6OEhmQkxBdDVzb1RxQWRMTmliSWxXQmg0QjUxWnpxMFNSUnpqeC1TcTBLV3VwUVJieVd1YkxfTGtEU0RUbXlHbk5n0gGXAkFVX3lxTE5sUnJEMnNhZ1JvLVJ4ZnFLb3NtRVpTSXhUdWtvbTJrMjhZa2F3MXdwdVlwclZzaHBMN0ZWZDVsWHhaSUVNWkVzY0dJUXh4ZTVyVjR3dFV2eUxsMEtUMWh3ZllOdGhSaHkzeVNVTUJETml0THZrQmlPdDZBdUphZVZ4aU1rcG85OE9NYnpaMWdtODU1ckJqNnllNDBuOFlDYVZBZTA2T196cG1xRV9ZRi10WTlIN2I3STVpQkd1OWs0RmU4SFE3bDdTSzJKTS1VQ21wMnhqdmJLa0lJRVlIbWJxS1psbGl4TFdERmd5ZzVVSHRsaWIzSnV4TU12S2tWLXEtSFRuVm1xN2tiRklWX3pKWS14dWxnRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNQ3M2MGxVUXRhNFg5Z3EydlM2NlNpR1h1Q0xOdnk2N1VNODNQVGJJOFdRTnF1emRTRzhKSkJYS2ZBNzQteDllWFprY2JhTVRESnhob0xORTd2S1FUUkVwT0t6ZzNRb1pCOGJkUGhhUVZ2V01EbzlYa2NfcjF4YUh3MGRHMXozbUloYTBudk9fa082VlZpaFZXOEtFRkRhMDlDMXFJXzExZERzZGM3SzFDR3U5VHNyYWdfZWVZVlYtV1loamd0Mk45Zm9GRktIR0l6OEhmQkxBdDVzb1RxQWRMTmliSWxXQmg0QjUxWnpxMFNSUnpqeC1TcTBLV3VwUVJieVd1YkxfTGtEU0RUbXlHbk5n0gGXAkFVX3lxTE5sUnJEMnNhZ1JvLVJ4ZnFLb3NtRVpTSXhUdWtvbTJrMjhZa2F3MXdwdVlwclZzaHBMN0ZWZDVsWHhaSUVNWkVzY0dJUXh4ZTVyVjR3dFV2eUxsMEtUMWh3ZllOdGhSaHkzeVNVTUJETml0THZrQmlPdDZBdUphZVZ4aU1rcG85OE9NYnpaMWdtODU1ckJqNnllNDBuOFlDYVZBZTA2T196cG1xRV9ZRi10WTlIN2I3STVpQkd1OWs0RmU4SFE3bDdTSzJKTS1VQ21wMnhqdmJLa0lJRVlIbWJxS1psbGl4TFdERmd5ZzVVSHRsaWIzSnV4TU12S2tWLXEtSFRuVm1xN2tiRklWX3pKWS14dWxnRQ?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella to company's 50 top engineers: Please be clear that our goal is not to make…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-06-07T07:47:00+00:00",
+      "source": "The Times of India"
     },
     {
-      "title": "Investor Reid Hoffman to Leave Microsoft’s Board of Directors - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlY1MzFFMVBqOGNQUm1EdHU0RmhXdEhNUWV2Z2NuZlpGSXB5RWplNGJjVDRiZG55TXdqS3JaRnZtdGhtYXRNaHRqWjh0SUZsNDRiZXV4UzZEdC10TE1JX1doRHpSbzJQelRiYmd0S3k0S3lobjE2UzQtdEpDVnFxYzdCN3JNNmpnelRxSHVmeHE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlY1MzFFMVBqOGNQUm1EdHU0RmhXdEhNUWV2Z2NuZlpGSXB5RWplNGJjVDRiZG55TXdqS3JaRnZtdGhtYXRNaHRqWjh0SUZsNDRiZXV4UzZEdC10TE1JX1doRHpSbzJQelRiYmd0S3k0S3lobjE2UzQtdEpDVnFxYzdCN3JNNmpnelRxSHVmeHE?oc=5\" target=\"_blank\">Investor Reid Hoffman to Leave Microsoft’s Board of Directors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-06-05T18:25:38+00:00",
-      "source": "The New York Times"
+      "title": "June 14 is the cutoff to get Windows 11 Pro and Microsoft Office for life for $35 - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjFDMU9nZzVBMWJFQkp2c2VhV01qZjBQcENPOC05WEFncnVHMlZLRXlteU00T2NUTklVb2prLVluaWRhVHdHN1kxX2M2VjB2UEtIeXAxRVhPOWNjR2NJaEE0SU11OTNuY1VUaTdMenpvR0Q0OEZBNDBuME0tLWl0V0lYRFVFYnZVUXZsZHZKM3I1UmV3cS1iUkxLZHQ1UmE0aFA0Y1NHSnV3TkNmMWpIMWJjWDZzTzJyX0Y4b3MzUngwdkk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjFDMU9nZzVBMWJFQkp2c2VhV01qZjBQcENPOC05WEFncnVHMlZLRXlteU00T2NUTklVb2prLVluaWRhVHdHN1kxX2M2VjB2UEtIeXAxRVhPOWNjR2NJaEE0SU11OTNuY1VUaTdMenpvR0Q0OEZBNDBuME0tLWl0V0lYRFVFYnZVUXZsZHZKM3I1UmV3cS1iUkxLZHQ1UmE0aFA0Y1NHSnV3TkNmMWpIMWJjWDZzTzJyX0Y4b3MzUngwdkk?oc=5\" target=\"_blank\">June 14 is the cutoff to get Windows 11 Pro and Microsoft Office for life for $35</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font>",
+      "published": "2026-06-07T08:00:00+00:00",
+      "source": "PCWorld"
     },
     {
-      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJxQzA2WFNCSXJ6dmdiRlhrLU1yZnkyZUV0ajlpOFFWcVZxdkxOSFVjUzhNVExhcDJMdXU1WjVSeWFxcXlUSUd4SHRWd2h1TWFmaUxhUVRjUXM2N01Wc3RzNU9nb3laVDRJTHhmN0NmRm9GMkgxS0xNYVFHRGxJZzF2bmc5bk5MSHhHME5DMXE4bUU1c1hqc1hUOTFXQmlvWEVGejgtcHkwNlZEV1p1MzJXUQ?oc=5\" target=\"_blank\">Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-06-05T22:35:01+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "LinkedIn Co-Founder Reid Hoffman to Leave Microsoft’s Board - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGd6V2NvQ21EbDNxamFjUGV0MTk5SnlORzhhSHZ6ZkhfNmFpQVk2cG16blJPRURkRmNtbkZxXzlpcHFKU29PUmtCYk41NHQ2MDFBSDdUOFBRNElucTBXUTk4cTF0V0tZc3UyaXJRSWRBa1lLVHp5bVJZeDBTT25MOTBUUmR0dUF5MzZVdmlMWmRlaV9xYnM0MUd1cEJ1WEl6X0xGN3JPazhWUm95em1n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGd6V2NvQ21EbDNxamFjUGV0MTk5SnlORzhhSHZ6ZkhfNmFpQVk2cG16blJPRURkRmNtbkZxXzlpcHFKU29PUmtCYk41NHQ2MDFBSDdUOFBRNElucTBXUTk4cTF0V0tZc3UyaXJRSWRBa1lLVHp5bVJZeDBTT25MOTBUUmR0dUF5MzZVdmlMWmRlaV9xYnM0MUd1cEJ1WEl6X0xGN3JPazhWUm95em1n?oc=5\" target=\"_blank\">LinkedIn Co-Founder Reid Hoffman to Leave Microsoft’s Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-06-05T15:29:50+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Tech Moves: Salesforce names president; Microsoft execs coming and going; Amazon departures - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjVDTFVsb2M0R3N4ampnVVZ1djZ6dXVQU3hYZDk0RGZBT2M2N2NpWERjLUZUQ3RLUWxSTm13OUp4R0dTclFkbFpZVFIwZkU5cFJNZEJvaUt1OEl5dnBmbWxxSUd4bmk0dzVjVlZwakIyN2RaRG8xdkNkQ2huYWNtY20xMEhrS3cwTHpRdF9hTFVicnU5RzlxQ3VnMjB5T1JEWFlDcjlUS0Z3Y0JuenE0ZzdHTHJuLU9XSXQw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjVDTFVsb2M0R3N4ampnVVZ1djZ6dXVQU3hYZDk0RGZBT2M2N2NpWERjLUZUQ3RLUWxSTm13OUp4R0dTclFkbFpZVFIwZkU5cFJNZEJvaUt1OEl5dnBmbWxxSUd4bmk0dzVjVlZwakIyN2RaRG8xdkNkQ2huYWNtY20xMEhrS3cwTHpRdF9hTFVicnU5RzlxQ3VnMjB5T1JEWFlDcjlUS0Z3Y0JuenE0ZzdHTHJuLU9XSXQw?oc=5\" target=\"_blank\">Tech Moves: Salesforce names president; Microsoft execs coming and going; Amazon departures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-06-05T17:28:17+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "Amazon, Microsoft fare better than most in tech stock sell-off spree - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjRqZTR4SFUydFQ5WFFzRURkSW84c2JsR3hTX20ycFk5bkt6M2hzb3ZGMU9FVEJtNDF2aldiQTR6V3BvaGFLa18zREJkSGtNXzltV3lvdlVMYkYyTnFGS2xnOUM2WE81MVVZRE5kU1NSU0FBNjBYYk93NDB2bTNteVZZY2dmbEF5SGhrQWtTVk9fNkR0d2o1aGpLMkxJYXMxTzA0M01TVmJWMVU5V2pWa25UMER0UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjRqZTR4SFUydFQ5WFFzRURkSW84c2JsR3hTX20ycFk5bkt6M2hzb3ZGMU9FVEJtNDF2aldiQTR6V3BvaGFLa18zREJkSGtNXzltV3lvdlVMYkYyTnFGS2xnOUM2WE81MVVZRE5kU1NSU0FBNjBYYk93NDB2bTNteVZZY2dmbEF5SGhrQWtTVk9fNkR0d2o1aGpLMkxJYXMxTzA0M01TVmJWMVU5V2pWa25UMER0UQ?oc=5\" target=\"_blank\">Amazon, Microsoft fare better than most in tech stock sell-off spree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2026-06-05T23:56:54+00:00",
-      "source": "The Seattle Times"
+      "title": "Microsoft released new Defender update for Windows 11, 10, Server ISO installations - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTV6azYyNW5YNFVqOFhKS1d2T2Rmczg0OFBSX1M1QVBmOXFMZFlSaXpkSVk3b2V2RXZHNWRSdG1rRUd2SUhzbXEzWjh1cm9mZVY2RXNYbldnTWFuaGxBeDhNNk9TbGJXZ2ZDdHM3SmkzczdLSGNocFljZFh0R19KVVFVUWh5cno4YU14YnAzZEpydEZmeU9aUkN4OHI3VjJxcVd5M0pseFJWbVduT3Zn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTV6azYyNW5YNFVqOFhKS1d2T2Rmczg0OFBSX1M1QVBmOXFMZFlSaXpkSVk3b2V2RXZHNWRSdG1rRUd2SUhzbXEzWjh1cm9mZVY2RXNYbldnTWFuaGxBeDhNNk9TbGJXZ2ZDdHM3SmkzczdLSGNocFljZFh0R19KVVFVUWh5cno4YU14YnAzZEpydEZmeU9aUkN4OHI3VjJxcVd5M0pseFJWbVduT3Zn?oc=5\" target=\"_blank\">Microsoft released new Defender update for Windows 11, 10, Server ISO installations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2026-06-06T18:18:39+00:00",
+      "source": "Neowin"
     }
   ],
   "product_launches": [
