@@ -2,114 +2,74 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-06-08T15:28:25.191579+00:00",
+  "fetched_at": "2026-06-09T14:25:40.607648+00:00",
   "news": [
     {
-      "title": "Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2p4UEQ1cTlNM1dmQ1BmTnBZMHFJR2V4WUkzSTNuZ25ZZm1ITU53NWJ3eHFZTk9RM21HNWpiWTFXVGNZZmFJOTBLR2tvNV9yMDZRREZWUS0yLWx4bmlnakRPZmEtSnVXRkxLUy1mN2NFWFROaWxmcmlpV1JKbDBDYzF4dzJuRm1HTjRSVUVQSjA2dlJpbXJJX21qUFNqVHhCVkpfNQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2p4UEQ1cTlNM1dmQ1BmTnBZMHFJR2V4WUkzSTNuZ25ZZm1ITU53NWJ3eHFZTk9RM21HNWpiWTFXVGNZZmFJOTBLR2tvNV9yMDZRREZWUS0yLWx4bmlnakRPZmEtSnVXRkxLUy1mN2NFWFROaWxmcmlpV1JKbDBDYzF4dzJuRm1HTjRSVUVQSjA2dlJpbXJJX21qUFNqVHhCVkpfNQ?oc=5\" target=\"_blank\">Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-08T13:51:44+00:00",
+      "title": "Amazon Enters Agreement With Corning for Optical Fiber for Data Centers - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0NYRmFrWXF6dlNnN19xN2JIbDBGQ2hmb2hzd200cm9rYWlqYzhPM0xvaDNqSjFsTHN0QVpvOEFlSkxfM1RPYXNCQzA5TmJ3SzFoRnh5Z0NsT2RZTlY4ek82cTlPb2FXSDREMVJCSS1YWVczaTJmUUFra2tYNzZwNWZid2o2XzlCVHlHWFZuY2QtZGtZbVpIU3A4Q1FXS3RQYkZZV1IxYXA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0NYRmFrWXF6dlNnN19xN2JIbDBGQ2hmb2hzd200cm9rYWlqYzhPM0xvaDNqSjFsTHN0QVpvOEFlSkxfM1RPYXNCQzA5TmJ3SzFoRnh5Z0NsT2RZTlY4ek82cTlPb2FXSDREMVJCSS1YWVczaTJmUUFra2tYNzZwNWZid2o2XzlCVHlHWFZuY2QtZGtZbVpIU3A4Q1FXS3RQYkZZV1IxYXA?oc=5\" target=\"_blank\">Amazon Enters Agreement With Corning for Optical Fiber for Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-06-08T14:16:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "Corning lands multibillion-dollar Amazon deal that will create 1,000 manufacturing jobs - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3FoaVlHM3B3VHNoZnFjc1FSX1RGenAxaHBEYlI1S3JTVEV6UW4xeTM3X0hOVDdNV0JkQzc2c3FQVEZTOWFxdm1VZ1JsRW04ZGlHTktnU3lOd194UmV6eVJZbEZWWXAzTlpTWEIwTFVtMHJlZVRXY0Y1NXlGRWNnTlNnQkN1MkVKNW9yRWo2STlFc3p3NE52SjRiUDV1MWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3FoaVlHM3B3VHNoZnFjc1FSX1RGenAxaHBEYlI1S3JTVEV6UW4xeTM3X0hOVDdNV0JkQzc2c3FQVEZTOWFxdm1VZ1JsRW04ZGlHTktnU3lOd194UmV6eVJZbEZWWXAzTlpTWEIwTFVtMHJlZVRXY0Y1NXlGRWNnTlNnQkN1MkVKNW9yRWo2STlFc3p3NE52SjRiUDV1MWs?oc=5\" target=\"_blank\">Corning lands multibillion-dollar Amazon deal that will create 1,000 manufacturing jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "published": "2026-06-08T13:58:00+00:00",
+      "source": "The Business Journals"
+    },
+    {
+      "title": "Corning strikes another multibillion-dollar AI deal. What the new Amazon pact means for the stock - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkJMWjA5R1dMUTVKWU9FcEVNaVBXM0tZVEk0S3dNZWtFRlFIdUgzTGlVbnVNclFZbTIyVC0tT2o3bDQ4UHpfNGJDNXEyVnJfNGN6V2V4b1NKX0ZzdnZma3JNbnM1dUh1Qlp1cEg4aElzYmRUSDloY0JzVE5hU2tEZmROUUx2bHpqX2dGeVJkQmpHQnNGc0RTYmJGc3F3UF84SFVzLUxMOHJ6LUNpTDJWbEdmUUIxQXBx?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkJMWjA5R1dMUTVKWU9FcEVNaVBXM0tZVEk0S3dNZWtFRlFIdUgzTGlVbnVNclFZbTIyVC0tT2o3bDQ4UHpfNGJDNXEyVnJfNGN6V2V4b1NKX0ZzdnZma3JNbnM1dUh1Qlp1cEg4aElzYmRUSDloY0JzVE5hU2tEZmROUUx2bHpqX2dGeVJkQmpHQnNGc0RTYmJGc3F3UF84SFVzLUxMOHJ6LUNpTDJWbEdmUUIxQXBx?oc=5\" target=\"_blank\">Corning strikes another multibillion-dollar AI deal. What the new Amazon pact means for the stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-06-08T20:30:45+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Customers can now design merch with Alexa for Shopping on Amazon - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ppekZDWlp6ai1IZkk3ekNCWVloUk1SaWNuM2VSRzgxVUxlRHRJcjdDU2pVR3FSNUV5V3BuTk15TzFjVjJvSHhiWGRhZ3NuQzRWdGloM1VSakw1ZG9wQVpBTGp0Zk5CTm5TNWo5b2ZnNm1zUl9XRjNIZmI1Mkx1ZTdFdFUtQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ppekZDWlp6ai1IZkk3ekNCWVloUk1SaWNuM2VSRzgxVUxlRHRJcjdDU2pVR3FSNUV5V3BuTk15TzFjVjJvSHhiWGRhZ3NuQzRWdGloM1VSakw1ZG9wQVpBTGp0Zk5CTm5TNWo5b2ZnNm1zUl9XRjNIZmI1Mkx1ZTdFdFUtQQ?oc=5\" target=\"_blank\">Customers can now design merch with Alexa for Shopping on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-06-08T13:06:53+00:00",
+      "source": "About Amazon"
+    },
+    {
+      "title": "Amazon’s main UK arm handed £7.6m tax credit as profits soar to £355m - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdllLUHdXOGlyY3B5ZUlEcnctUFBVRXhPYXZZM3lmRjNHek00MEpKRVQwZDBLNmVaSDNCRnAySDJMQjVXTnVEVElzQlo5N3MyeU9PbFNpeFI5V2JnWTRxWHQ4a0dwZFpKZnhVNUhKVThlY0wxWUl2bzFUQW9EMG9mMDJ1ZjFqMGdFM1FLOUx0YUZfSDhBVDVwNmNld2I?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdllLUHdXOGlyY3B5ZUlEcnctUFBVRXhPYXZZM3lmRjNHek00MEpKRVQwZDBLNmVaSDNCRnAySDJMQjVXTnVEVElzQlo5N3MyeU9PbFNpeFI5V2JnWTRxWHQ4a0dwZFpKZnhVNUhKVThlY0wxWUl2bzFUQW9EMG9mMDJ1ZjFqMGdFM1FLOUx0YUZfSDhBVDVwNmNld2I?oc=5\" target=\"_blank\">Amazon’s main UK arm handed £7.6m tax credit as profits soar to £355m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-06-09T13:14:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "“Sloppenheimer:” Amazon Employees Mock the Company’s AI on Slack - 404 Media",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3Q4S2QwbTJaUy1RNVFqV29fU1JGNVk4ZDNQWkU0ZVNjTDBCSm01amc3TEp1QUg3eFJPTkZnbFFXaTJLc2hWd3pUWlZrUDFqVENzN1JQNjVuTlprbmFhSUZ0S1J1OHg0MzhtdGg0c1FCb0Y3S0luaDAwRlFTZnMtcmtEbHB0a1YxTGtGRFVB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3Q4S2QwbTJaUy1RNVFqV29fU1JGNVk4ZDNQWkU0ZVNjTDBCSm01amc3TEp1QUg3eFJPTkZnbFFXaTJLc2hWd3pUWlZrUDFqVENzN1JQNjVuTlprbmFhSUZ0S1J1OHg0MzhtdGg0c1FCb0Y3S0luaDAwRlFTZnMtcmtEbHB0a1YxTGtGRFVB?oc=5\" target=\"_blank\">“Sloppenheimer:” Amazon Employees Mock the Company’s AI on Slack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">404 Media</font>",
+      "published": "2026-06-09T13:48:38+00:00",
+      "source": "404 Media"
+    },
+    {
+      "title": "Amazon.com Inc. (AMZN) Buy Rating Reiterated by BofA Securities - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1hMbTlreFM0WEtpbVNhdnRvNmVudG9KUVUtYWxobWRNeEhDcTF4bGJoZ0FWbzVmckxEOGV6RkVRR3F4bzExMVRrWDhRLWdRb2tiSml3NnlhcXNnNTRfNkVYUGFZT19sWjVpVEFYZXVqc1lMX0VPZmdiUmJDSFd2Q1VRMWNPcnVKa1JFTkhkZGVrQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1hMbTlreFM0WEtpbVNhdnRvNmVudG9KUVUtYWxobWRNeEhDcTF4bGJoZ0FWbzVmckxEOGV6RkVRR3F4bzExMVRrWDhRLWdRb2tiSml3NnlhcXNnNTRfNkVYUGFZT19sWjVpVEFYZXVqc1lMX0VPZmdiUmJDSFd2Q1VRMWNPcnVKa1JFTkhkZGVrQQ?oc=5\" target=\"_blank\">Amazon.com Inc. (AMZN) Buy Rating Reiterated by BofA Securities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-09T13:39:09+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Amazon's multibillion-dollar deal with Corning creates 1,000 jobs in North Carolina - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzJ3Q1VMX3FNYVdMRlp4QVBPREpOdmJoNTI5TmVVOTRjRWhyTjQwbEY0RXY0cVlVVkd6TDZHb3UyR2FKdi1ySXFjQW9WOGh6VkNxZDdVZHlseTNFcXhBdWJqNm52QTZFc2tfOEZpZFV4dFU1eXltUE1rVHhOZjd6dURnWlhDQ2o0ck5qV1V4dTV5SEc1RktDRUppSDN3enc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzJ3Q1VMX3FNYVdMRlp4QVBPREpOdmJoNTI5TmVVOTRjRWhyTjQwbEY0RXY0cVlVVkd6TDZHb3UyR2FKdi1ySXFjQW9WOGh6VkNxZDdVZHlseTNFcXhBdWJqNm52QTZFc2tfOEZpZFV4dFU1eXltUE1rVHhOZjd6dURnWlhDQ2o0ck5qV1V4dTV5SEc1RktDRUppSDN3enc?oc=5\" target=\"_blank\">Amazon's multibillion-dollar deal with Corning creates 1,000 jobs in North Carolina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-06-08T12:36:53+00:00",
-      "source": "About Amazon"
-    },
-    {
-      "title": "Corning shares jump 9% after striking deal to power Amazon AI data centers in U.S. - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVXBRUVluS0xHOXVKSEF6M1RZVHVVcWlJb3huc1hCZnZsUVhfeE5oc3NtUzhyQWREeDB6OTlPTnZuMnVYdEVPLWUwV1VHelc0a0h0YVZpbm9HTHZ4ZDR0ZjQxTEJVSjZHcEd2STVQN0rSAXZBVV95cUxNNkU4MlBPZmRVMUtnTTZBMkkyMzFHMGVBQ3Z6VERFTUgtSXU3QndFSlJCUnUyc2VnVl9NdjZ2WTFUTjltazZQZ0I0YzhGenhkVVU4UTBEbnNEbE1MTm1uYnNWVk1KVm53VTl5eFlTSFhfenp2dHpn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVXBRUVluS0xHOXVKSEF6M1RZVHVVcWlJb3huc1hCZnZsUVhfeE5oc3NtUzhyQWREeDB6OTlPTnZuMnVYdEVPLWUwV1VHelc0a0h0YVZpbm9HTHZ4ZDR0ZjQxTEJVSjZHcEd2STVQN0rSAXZBVV95cUxNNkU4MlBPZmRVMUtnTTZBMkkyMzFHMGVBQ3Z6VERFTUgtSXU3QndFSlJCUnUyc2VnVl9NdjZ2WTFUTjltazZQZ0I0YzhGenhkVVU4UTBEbnNEbE1MTm1uYnNWVk1KVm53VTl5eFlTSFhfenp2dHpn?oc=5\" target=\"_blank\">Corning shares jump 9% after striking deal to power Amazon AI data centers in U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-06-08T12:35:01+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Amazon’s Ring Cameras Are Scanning Your Face – And Getting Sued for It - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDVRUDA5YTlTTTEyNlBHQkNtTzJMVnZCM21UUVJrUXVlTENvcjZfd1hTdEdEUkhUYnlTaUtUSHctQlFvSHpDSE9oc3R5cUgybFJHaXBDQWR0cHl1Y2JXSVhHSVNUZlZINHI0VElwV0U0QURqWmhPcjhzV0JhSGNVdHFEeDhXVmFpMWF0S0p5Yk1RZHhZM1dpYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDVRUDA5YTlTTTEyNlBHQkNtTzJMVnZCM21UUVJrUXVlTENvcjZfd1hTdEdEUkhUYnlTaUtUSHctQlFvSHpDSE9oc3R5cUgybFJHaXBDQWR0cHl1Y2JXSVhHSVNUZlZINHI0VElwV0U0QURqWmhPcjhzV0JhSGNVdHFEeDhXVmFpMWF0S0p5Yk1RZHhZM1dpYw?oc=5\" target=\"_blank\">Amazon’s Ring Cameras Are Scanning Your Face – And Getting Sued for It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-06-08T14:53:40+00:00",
-      "source": "Yahoo"
-    },
-    {
-      "title": "Amazon Prime Day 2026: Early deals are already live from Apple, Stanley, Hanes and more, plus everything we know about the huge discounts coming in June - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOWk9QdGV4TmgtRTJndDFZV3dLeS1IZVhCZVB0aTF0aVB2TFpfTGo0NWdDTFdEVFVrdUtsaGxNQjFBQmpUU3dVdHd5RGdmQ0RwQVF0cXlxakhMTkhVdldiWFlzR2UwcVRKVThNck5wZmdmVWhKdWFyVmNrTldKSjJaWUZDM2doZVoxd0VXYVlJUmI1Q2ZPX1hZSVZ1b2hvdkFkQW5DVGxIUVdRT2NUaDl6anNyWEVMTU93ZVIyR19hZjJxMjhKejVMZ2tweE1CTUdSX21QX0tkZnVWa000MzNSeEJueWpEcnRxbVJ4N1Utam5DWmdpTVEtOXBpbzhBUW5XR2dNZGhDTkJFUFF5T3BXVlNLNlRlV3UxUU5zWVh2VktacFpNSXU0cGFBLXIzcHBxQ1E0VGRHX1kyZF9HVmZF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxOWk9QdGV4TmgtRTJndDFZV3dLeS1IZVhCZVB0aTF0aVB2TFpfTGo0NWdDTFdEVFVrdUtsaGxNQjFBQmpUU3dVdHd5RGdmQ0RwQVF0cXlxakhMTkhVdldiWFlzR2UwcVRKVThNck5wZmdmVWhKdWFyVmNrTldKSjJaWUZDM2doZVoxd0VXYVlJUmI1Q2ZPX1hZSVZ1b2hvdkFkQW5DVGxIUVdRT2NUaDl6anNyWEVMTU93ZVIyR19hZjJxMjhKejVMZ2tweE1CTUdSX21QX0tkZnVWa000MzNSeEJueWpEcnRxbVJ4N1Utam5DWmdpTVEtOXBpbzhBUW5XR2dNZGhDTkJFUFF5T3BXVlNLNlRlV3UxUU5zWVh2VktacFpNSXU0cGFBLXIzcHBxQ1E0VGRHX1kyZF9HVmZF?oc=5\" target=\"_blank\">Amazon Prime Day 2026: Early deals are already live from Apple, Stanley, Hanes and more, plus everything we know about the huge discounts coming in June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-06-08T14:37:10+00:00",
-      "source": "Yahoo"
-    },
-    {
-      "title": "How to watch every FIFA World Cup 2026™ match on Fire TV - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGpMRmloZlIxaUdJX2FhRG9LVmhOR3hGNXNVaGxkTnNfTGRaZFlNV1V6MjhQY1hZbVppazF4WXBBZUdTRDhDNElNdkVvdXd2ZmtsamhOT2xSYXJ1TjBpVUE2VHpyb3RwWFYxV3QyMTdCcEhQX2FqSHllRi02cEgwZ25hck9sc3Q0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGpMRmloZlIxaUdJX2FhRG9LVmhOR3hGNXNVaGxkTnNfTGRaZFlNV1V6MjhQY1hZbVppazF4WXBBZUdTRDhDNElNdkVvdXd2ZmtsamhOT2xSYXJ1TjBpVUE2VHpyb3RwWFYxV3QyMTdCcEhQX2FqSHllRi02cEgwZ25hck9sc3Q0?oc=5\" target=\"_blank\">How to watch every FIFA World Cup 2026™ match on Fire TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-06-08T15:06:53+00:00",
-      "source": "About Amazon"
-    },
-    {
-      "title": "Amazon mystery boxes for sale in Maumelle tempt the curious - The Arkansas Democrat-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ09TbHpBMkZzNXRyVUhRNk04eUZaa01ua1JoMExaQWV2UG5Ybi1VWC1NR2RUdjRRVTU4anh3b0g0aUtORjRUbXk5SFBzdHJ2T2pTN0FOTHprWklJRkdKUEhqX3lZeU1QU1RnZXNwQlBCOWZJdzFMazRPd2JFQjZiZm9lWXgzalAwdmZKbEJNd2E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ09TbHpBMkZzNXRyVUhRNk04eUZaa01ua1JoMExaQWV2UG5Ybi1VWC1NR2RUdjRRVTU4anh3b0g0aUtORjRUbXk5SFBzdHJ2T2pTN0FOTHprWklJRkdKUEhqX3lZeU1QU1RnZXNwQlBCOWZJdzFMazRPd2JFQjZiZm9lWXgzalAwdmZKbEJNd2E?oc=5\" target=\"_blank\">Amazon mystery boxes for sale in Maumelle tempt the curious</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
-      "published": "2026-06-07T15:00:00+00:00",
-      "source": "The Arkansas Democrat-Gazette"
-    },
-    {
-      "title": "Tamil Blockbuster ‘Karuppu’ Set for Global Streaming Launch on Amazon Prime Video - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaHlNSWNBNkV6WldjbGNURHFfNENRYXpsejN4V2g0NDM5aVo4dFZkSEg0UlRVVFlxY2x0SmhNaUttQV8taTZFdXlab2I2YkU3OGg2TmtEcDlUVlF4cnRMTWRSV3FtVEgtLTE4aEtUZzBnOEtycHZZRjNybm5PTkVTYXZnZTdROXdLRFJQYUF0T3lQRUNRdWxxZHNxQ2xwb0lzMWxPdHFmdlQ0TmlkYUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaHlNSWNBNkV6WldjbGNURHFfNENRYXpsejN4V2g0NDM5aVo4dFZkSEg0UlRVVFlxY2x0SmhNaUttQV8taTZFdXlab2I2YkU3OGg2TmtEcDlUVlF4cnRMTWRSV3FtVEgtLTE4aEtUZzBnOEtycHZZRjNybm5PTkVTYXZnZTdROXdLRFJQYUF0T3lQRUNRdWxxZHNxQ2xwb0lzMWxPdHFmdlQ0TmlkYUE?oc=5\" target=\"_blank\">Tamil Blockbuster ‘Karuppu’ Set for Global Streaming Launch on Amazon Prime Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
-      "published": "2026-06-08T08:28:22+00:00",
-      "source": "The Hollywood Reporter"
+      "title": "Don’t wait for Prime Day. Our deals expert found 12 offers worth shopping early - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93M3FoR0VhTEFwODNGckZBSDBhc014Z0w0WHVxMFhzcXdFRHJSaWZJN19tcjUwZWtpVkYxTGdrR0JTajFCSFhUaEtWN1VvaEFuOGdmY2dJeUFHNUNHaFp2MWZkTmZyc2IwZWFoZ0g0Uk5WU1J5aWFhUA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE93M3FoR0VhTEFwODNGckZBSDBhc014Z0w0WHVxMFhzcXdFRHJSaWZJN19tcjUwZWtpVkYxTGdrR0JTajFCSFhUaEtWN1VvaEFuOGdmY2dJeUFHNUNHaFp2MWZkTmZyc2IwZWFoZ0g0Uk5WU1J5aWFhUA?oc=5\" target=\"_blank\">Don’t wait for Prime Day. Our deals expert found 12 offers worth shopping early</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2026-06-08T16:49:00+00:00",
+      "source": "CNN"
     }
   ],
-  "product_launches": [
-    {
-      "title": "Amazon launches AI image generator to narrow search queries - Retail Dive",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzYyV1ltbG40Vy1HeWNCVXVLMEVQMFNKNW1MNDk4SFlpSTB3YUg0UV83MThIM3lEZ3hiVTNkWFNkZWVEdDNqeFJPUmVYNE9HblF1d3gxVmVVN2pSM2pnaHdvbzlwM2Jrdy1ZcXNJNEpkVWludTQyZEgyMl9iQ29mOWluSlRpNEV6Q2JwOGU5UnpUdFNPSTRRVw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzYyV1ltbG40Vy1HeWNCVXVLMEVQMFNKNW1MNDk4SFlpSTB3YUg0UV83MThIM3lEZ3hiVTNkWFNkZWVEdDNqeFJPUmVYNE9HblF1d3gxVmVVN2pSM2pnaHdvbzlwM2Jrdy1ZcXNJNEpkVWludTQyZEgyMl9iQ29mOWluSlRpNEV6Q2JwOGU5UnpUdFNPSTRRVw?oc=5\" target=\"_blank\">Amazon launches AI image generator to narrow search queries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Dive</font>",
-      "published": "2026-06-08T15:20:51+00:00",
-      "source": "Retail Dive"
-    },
-    {
-      "title": "EXURA Launches Four-Product Equipment Line for Knees Over Toes (ATG) Training - markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTdrNjhXSUliOXpzNU9pNi01Y1dFS1FUbzlKQ01HcHRqSVo1dmU3R0h2bHFEajFudU1HVDNmVmQ4Uzgyb2sxZUUzVFc4Q01CS3VlRWVoVjdWRHd4WnhOLWpPd1lseE1xYlZLZlhWY25WTGpydUVnS1RPc1BqN0xvaldoR3JyVDFoR2tWQThXdjNEbzZ0bzB4NVd3TGlMWmhwQnRRYlBRZ2NXQXA2c0JmbG5WM1kwbXdkRTFqRU5HWjNsUkdEWl9rb1h4Q2NxVFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTdrNjhXSUliOXpzNU9pNi01Y1dFS1FUbzlKQ01HcHRqSVo1dmU3R0h2bHFEajFudU1HVDNmVmQ4Uzgyb2sxZUUzVFc4Q01CS3VlRWVoVjdWRHd4WnhOLWpPd1lseE1xYlZLZlhWY25WTGpydUVnS1RPc1BqN0xvaldoR3JyVDFoR2tWQThXdjNEbzZ0bzB4NVd3TGlMWmhwQnRRYlBRZ2NXQXA2c0JmbG5WM1kwbXdkRTFqRU5HWjNsUkdEWl9rb1h4Q2NxVFU?oc=5\" target=\"_blank\">EXURA Launches Four-Product Equipment Line for Knees Over Toes (ATG) Training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">markets.businessinsider.com</font>",
-      "published": "2026-06-08T09:04:12+00:00",
-      "source": "markets.businessinsider.com"
-    },
-    {
-      "title": "Amazon launches Prime in South Africa with unlimited free delivery, savings, and entertainment benefits - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91RW1YVjJYN0hFei01ZGRoNTBQc2FGUWVCZUxaX05jdDJvRGxhU1A0d01pVE1FemFSNVJubTZrbWpub05oM3huVFVWY0FneWhRejNVd0FQRVBDVlJsd3ZrQndwcUYyZTluT0tiTHVVWVE4YXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE91RW1YVjJYN0hFei01ZGRoNTBQc2FGUWVCZUxaX05jdDJvRGxhU1A0d01pVE1FemFSNVJubTZrbWpub05oM3huVFVWY0FneWhRejNVd0FQRVBDVlJsd3ZrQndwcUYyZTluT0tiTHVVWVE4YXc?oc=5\" target=\"_blank\">Amazon launches Prime in South Africa with unlimited free delivery, savings, and entertainment benefits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-06-03T04:33:22+00:00",
-      "source": "About Amazon"
-    },
-    {
-      "title": "Amazon launches 30-minute delivery across the US - MSN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczh5dHJxTnVISE1aZ3RYR2Jpd0Qxdjg2SzVhbnpnWVFYVVQ4ZVRtVWhDcU5LaVdHZGcyQlZBQ19HeVJmY2tuWl80bDIxWG53X0ljbl9pQ3JMTmNRblBjZGdRYVFyNVhtSjY2WWVyVDFiMHF3Sy1HbC1ydlFKaUNwdDFOM2xyNXJQTlc0eDFnY1p3X3oyay1HV2M2TTgzV0FqQlNwMHNxRXVKeHRKVHFla29B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOczh5dHJxTnVISE1aZ3RYR2Jpd0Qxdjg2SzVhbnpnWVFYVVQ4ZVRtVWhDcU5LaVdHZGcyQlZBQ19HeVJmY2tuWl80bDIxWG53X0ljbl9pQ3JMTmNRblBjZGdRYVFyNVhtSjY2WWVyVDFiMHF3Sy1HbC1ydlFKaUNwdDFOM2xyNXJQTlc0eDFnY1p3X3oyay1HV2M2TTgzV0FqQlNwMHNxRXVKeHRKVHFla29B?oc=5\" target=\"_blank\">Amazon launches 30-minute delivery across the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "published": "2026-06-05T17:30:41+00:00",
-      "source": "MSN"
-    },
-    {
-      "title": "Amazon starts selling its AI shopping technology to other retailers - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZll6bkRZRUdQT1k4OVRNTEVuRlRtcVJyakZ1cUhxUl9Kc21wN0lkcllSNFV0YUVFY3NpMFZZaXlRWEVDdUUxVnROajdkVGxJWXRsdzZOTG9oaF9jNDdDODhCOXVvWTBzR1kybkNzYnNUYzMwNHhtSWtEQ1PSAYIBQVVfeXFMUG9tOWEwSFY5cGhlOFB5YVJiNjgxbHloczdFb1BSVHNCaTE5SG94NXlEUXVHTlBRNm8zdmVMSVhKaW1NMWZCbHRaZFFEYXJETzNPamtuU2theUF6d1U1LVVrUUFmbTRsOEVSQ3lUVzFNR3pwUjlYU05mSlc1WENPLTFYZw?oc=5\" target=\"_blank\">Amazon starts selling its AI shopping technology to other retailers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-05-27T07:00:00+00:00",
-      "source": "CNBC"
-    }
-  ],
+  "product_launches": [],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-08",
-      "close": 246.94000244140625
+      "date": "2026-06-09",
+      "close": 247.55999755859375
     },
     "history": [
-      {
-        "date": "2026-05-29",
-        "close": 270.6400146484375
-      },
       {
         "date": "2026-06-01",
         "close": 261.260009765625
@@ -132,7 +92,11 @@
       },
       {
         "date": "2026-06-08",
-        "close": 246.94000244140625
+        "close": 245.22000122070312
+      },
+      {
+        "date": "2026-06-09",
+        "close": 247.55999755859375
       }
     ],
     "name": "Amazon.com, Inc."
