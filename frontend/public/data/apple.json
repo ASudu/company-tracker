@@ -2,78 +2,110 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-06-09T14:25:32.507674+00:00",
+  "fetched_at": "2026-06-10T14:52:22.472154+00:00",
   "news": [
     {
-      "title": "Apple's Siri AI is both cool and 2 years too late - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0WDNseWFfc0ZidGVqczllelh3eVZhZmNVVkk2b0xzMkU0MnZCcUxTWTNLXzR2Y0xaaTIydGQtbkNVbkxDZ3NURnB0d3MwWF9OSDhPUjROZklvZVFZUG5VTDNPcUh5NmlhSlE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0WDNseWFfc0ZidGVqczllelh3eVZhZmNVVkk2b0xzMkU0MnZCcUxTWTNLXzR2Y0xaaTIydGQtbkNVbkxDZ3NURnB0d3MwWF9OSDhPUjROZklvZVFZUG5VTDNPcUh5NmlhSlE?oc=5\" target=\"_blank\">Apple's Siri AI is both cool and 2 years too late</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFBSbkNPUWtCLUxHVG1QckVnTFN6eGl2TlhyZ3JfdUMxU0dCVHU0UWRMblNYU0ZNZFdVZmwxLXJNR3kyUk5nbzVjMFhsX25QaXVRZzY5LS1obm1IdFFOLWxhN0QtMFliVXZqYk9vYzRmX2lFT3Y2LXRxQW0yelpSWm4tVWJUS1NOUUgySHRMR1lMLU84NGVoZWRjUnVVU3RGckNLQ1RXQU5fRHoySG1yLUdWTnQ0Qm53Z0JB?oc=5\" target=\"_blank\">Why Apple's WWDC and Siri AI hype left investors sad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1FcWlfUEpjOXlLVmV1blZkWUxyazFSNkZxVVQ5VC1ZMEpEbEpoR1ZEYkw0VkR3MW9KYnJ5VWRTWDBWV1BDLWtHRGRRWFhnUU1EYmF6R1VWdFBsTVg0eVRudmZyZHdjY0ZsM0lvRnI0Z1F6SGlhVUFBdQ?oc=5\" target=\"_blank\">Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
-      "published": "2026-06-09T09:34:02+00:00",
-      "source": "Axios"
+      "title": "Apple Made a Sports App That Does Almost Nothing. It’s Incredible. - Slate Magazine",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yNnNjU2pPb2tMUWtCUUlqeXZIMWtndVFMS2NJaWc3dHc1N09iRlpSZFE0YjVBQ3VzaVUzTU5YU3hFVTdndXNsTVhGaDRWSTEwUlFjSjF0dG9LaXJFYTVaYnlRbzFQYmpoNzkzM1pNbnpXMFloS2tzRE8yVWw4dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8yNnNjU2pPb2tMUWtCUUlqeXZIMWtndVFMS2NJaWc3dHc1N09iRlpSZFE0YjVBQ3VzaVUzTU5YU3hFVTdndXNsTVhGaDRWSTEwUlFjSjF0dG9LaXJFYTVaYnlRbzFQYmpoNzkzM1pNbnpXMFloS2tzRE8yVWw4dw?oc=5\" target=\"_blank\">Apple Made a Sports App That Does Almost Nothing. It’s Incredible.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Slate Magazine</font>",
+      "published": "2026-06-10T09:45:00+00:00",
+      "source": "Slate Magazine"
     },
     {
-      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXFudmN2aVBBWGlHbXUzY3RIUjFvajlwNkhPOEI5WllHOGt0MXZKQVVFOTlrR201T3ZkYmFkSXZoVEZKRndBVTljMkpDU1pjazc1ZFM1RFdidGRfZmVhdFpBOVQyYldVZnRMTjdlOFczWFZONXZZUmRyS2l2SXlRb2hkckpHSHEwVWxhekd5SGZ3Y19ZamRLeVBucnZWWEtneDNCbUQ5eC1fUDh0dTk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXFudmN2aVBBWGlHbXUzY3RIUjFvajlwNkhPOEI5WllHOGt0MXZKQVVFOTlrR201T3ZkYmFkSXZoVEZKRndBVTljMkpDU1pjazc1ZFM1RFdidGRfZmVhdFpBOVQyYldVZnRMTjdlOFczWFZONXZZUmRyS2l2SXlRb2hkckpHSHEwVWxhekd5SGZ3Y19ZamRLeVBucnZWWEtneDNCbUQ5eC1fUDh0dTk0?oc=5\" target=\"_blank\">macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-06-08T21:03:56+00:00",
-      "source": "Ars Technica"
+      "title": "No tech rule exemption for Apple, EU regulators say amid spat over Siri AI delay - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzNjcTNvOF9vcGtjQlkwczJ2Znk2SGllam1yRlZ2OEdOOHVUdGV6dnl2OW1rMk13cEVxcFlXaHIyVW9FV2liTlhmVHdmT1FlZzFodV9qejNlM2ZRREZkLVNublllRTA0WGRHWnVKS3ViWFFaNEFvUm5JbkZUN0I1NC1MOFF6dXNZY2g0cUl1cFJZQVYwS3VVdnFwdmRFV0Y5TE9KVmFyc1NIMlpseDloU3FkRElFUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzNjcTNvOF9vcGtjQlkwczJ2Znk2SGllam1yRlZ2OEdOOHVUdGV6dnl2OW1rMk13cEVxcFlXaHIyVW9FV2liTlhmVHdmT1FlZzFodV9qejNlM2ZRREZkLVNublllRTA0WGRHWnVKS3ViWFFaNEFvUm5JbkZUN0I1NC1MOFF6dXNZY2g0cUl1cFJZQVYwS3VVdnFwdmRFV0Y5TE9KVmFyc1NIMlpseDloU3FkRElFUQ?oc=5\" target=\"_blank\">No tech rule exemption for Apple, EU regulators say amid spat over Siri AI delay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-06-09T20:44:38+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Apple dials down Liquid Glass, and the Mac looks way better for it - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDVGamdVeE5MRVh6UkgxSGQ0LV9weDFMTXdBTHlVdkxKdy1QM3pZUDl6NnBrVTRZeW40S1FrTVRTLXFESk9ZT1VxWktlMVA0QnJiSzZGdVR0bDRvUDZSMmJ6ZEpOOUd1Yml1dVVvSHV3QkxqMmhpMDFUM3JHeVVod3VuQnB5b01p?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDVGamdVeE5MRVh6UkgxSGQ0LV9weDFMTXdBTHlVdkxKdy1QM3pZUDl6NnBrVTRZeW40S1FrTVRTLXFESk9ZT1VxWktlMVA0QnJiSzZGdVR0bDRvUDZSMmJ6ZEpOOUd1Yml1dVVvSHV3QkxqMmhpMDFUM3JHeVVod3VuQnB5b01p?oc=5\" target=\"_blank\">Apple dials down Liquid Glass, and the Mac looks way better for it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-06-09T13:04:39+00:00",
+      "title": "Apple (AAPL) Declined Defies Strong Fundamentals - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFY1Z09sd0FoQlZGdjdzTUZEeUY1Z29HUDY1NktnbU1pckZuU1pLMnlDRlNNWnBTWVpHb3pKcHN1b0NIMUNkOGFqYk5FZ3VfMTh5ck1DX21WQjU4dngwdllTdVgycGpKdlNIWE5HcktoUDJjRkVHREk5dWJZODVTNDY2RzkycnRtWmZsTENKclM2OGN0QTBvZUxLbTJfUU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFY1Z09sd0FoQlZGdjdzTUZEeUY1Z29HUDY1NktnbU1pckZuU1pLMnlDRlNNWnBTWVpHb3pKcHN1b0NIMUNkOGFqYk5FZ3VfMTh5ck1DX21WQjU4dngwdllTdVgycGpKdlNIWE5HcktoUDJjRkVHREk5dWJZODVTNDY2RzkycnRtWmZsTENKclM2OGN0QTBvZUxLbTJfUU0?oc=5\" target=\"_blank\">Apple (AAPL) Declined Defies Strong Fundamentals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-10T13:08:04+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Waymo buys Apple’s old proving grounds for $220 million. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVhqOFRtTGllU0RjUnZ2QzJWWUZBaHdKUTFhUmJjbG9KUlRNQlV0cmNUUkE4YjZOVFVQZERhdHB0NjF2dHNpVFphZzU3UHlxakFENzBCcnRMNmVUUGQzQ3ItcDBia2JGbDViRE4xRkdvM3J1bk9sbXp4bjBzVnFiSm5HY2VWTXN0bF9QY2tWdmZPb3dueUtEVHJkaEt3NGFvbVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVhqOFRtTGllU0RjUnZ2QzJWWUZBaHdKUTFhUmJjbG9KUlRNQlV0cmNUUkE4YjZOVFVQZERhdHB0NjF2dHNpVFphZzU3UHlxakFENzBCcnRMNmVUUGQzQ3ItcDBia2JGbDViRE4xRkdvM3J1bk9sbXp4bjBzVnFiSm5HY2VWTXN0bF9QY2tWdmZPb3dueUtEVHJkaEt3NGFvbVE?oc=5\" target=\"_blank\">Waymo buys Apple’s old proving grounds for $220 million.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-06-10T12:26:57+00:00",
       "source": "The Verge"
     },
     {
-      "title": "Apple Announces macOS Golden Gate - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1N0IyX1hyWUhxeTBqMXdFa0lBdlJQM1UwNlkyYV8taHEtZGg3UzdOaURBWU9kWUlycUF4VEdnWW9yTF83NWN5a1pJY1luMzBxRUZQcWFSZnlhQ0xtQ3JJUUhlaE12OUZzY0I1SHA3dlptbFk0dWMyNmNpYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA1N0IyX1hyWUhxeTBqMXdFa0lBdlJQM1UwNlkyYV8taHEtZGg3UzdOaURBWU9kWUlycUF4VEdnWW9yTF83NWN5a1pJY1luMzBxRUZQcWFSZnlhQ0xtQ3JJUUhlaE12OUZzY0I1SHA3dlptbFk0dWMyNmNpYw?oc=5\" target=\"_blank\">Apple Announces macOS Golden Gate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-06-08T17:19:09+00:00",
+      "title": "iOS 27 Adds Six New Features to Apple Wallet on Your iPhone - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ENTdwN3lxN2tGUzBldmQ4dG5nNkg3V2xITUlmZzNXTWdiVzViVGx4SFhpMFZHTzJuSHNXWnR2dk9BUFpNNjlIYkg3UFpicUNJS1JyXzJqUHlxdlVHenJ5Vzd5b3hlUC1uVzZrWGdBSUphQ3M2eFlKQzNn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5ENTdwN3lxN2tGUzBldmQ4dG5nNkg3V2xITUlmZzNXTWdiVzViVGx4SFhpMFZHTzJuSHNXWnR2dk9BUFpNNjlIYkg3UFpicUNJS1JyXzJqUHlxdlVHenJ5Vzd5b3hlUC1uVzZrWGdBSUphQ3M2eFlKQzNn?oc=5\" target=\"_blank\">iOS 27 Adds Six New Features to Apple Wallet on Your iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-06-10T14:25:29+00:00",
       "source": "MacRumors"
     },
     {
-      "title": "Marvel at over 250 fixes and improvements coming to your Apple devices this fall - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ2I5S0pGNTkwbXVTVXlRSlZBdjVYVWRhVGFuaDdWQ0JobTJmd09wVElZVm5OZHVsQzhiY0JES2lrME1zenY4VDVzbnlEM0oxYlE2WXlOUG1PcUpuMldZS21Fc0xMMWF3OU9DWlRyRXVpSWE4RmVmSE12NVZ0ZEFILTgxQU0ybFh3OGN4aDBVWjlxSWoxeHpBbTA4OGx2M0xmeXlabzQzRkp6Y2VRNF9MV2lnbWNGR2oxQlY2RUYxS2F4MEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ2I5S0pGNTkwbXVTVXlRSlZBdjVYVWRhVGFuaDdWQ0JobTJmd09wVElZVm5OZHVsQzhiY0JES2lrME1zenY4VDVzbnlEM0oxYlE2WXlOUG1PcUpuMldZS21Fc0xMMWF3OU9DWlRyRXVpSWE4RmVmSE12NVZ0ZEFILTgxQU0ybFh3OGN4aDBVWjlxSWoxeHpBbTA4OGx2M0xmeXlabzQzRkp6Y2VRNF9MV2lnbWNGR2oxQlY2RUYxS2F4MEk?oc=5\" target=\"_blank\">Marvel at over 250 fixes and improvements coming to your Apple devices this fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-06-09T11:54:00+00:00",
+      "title": "Apple's Siri AI is both cool and 2 years too late - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0WDNseWFfc0ZidGVqczllelh3eVZhZmNVVkk2b0xzMkU0MnZCcUxTWTNLXzR2Y0xaaTIydGQtbkNVbkxDZ3NURnB0d3MwWF9OSDhPUjROZklvZVFZUG5VTDNPcUh5NmlhSlE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0WDNseWFfc0ZidGVqczllelh3eVZhZmNVVkk2b0xzMkU0MnZCcUxTWTNLXzR2Y0xaaTIydGQtbkNVbkxDZ3NURnB0d3MwWF9OSDhPUjROZklvZVFZUG5VTDNPcUh5NmlhSlE?oc=5\" target=\"_blank\">Apple's Siri AI is both cool and 2 years too late</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONFVubTBkUTRMLVFiM2RHd1NOdG9acWZRMkp3d25WSjB1U1RGcUJNODd0czFMa2ZSY0E5b3d5QjRzMnNkMDJQTTdHQ2tGRlo0Q193RWMweGQzUl90TlppMGwxUFhvbVpaaEhGVk41VzdSVUdZb3V5VTJndFBQSGRfbzQ5NGE1ZzJLaGJaSEdVSFlnTTVVTF9EYS1FdXlwUGdzWVdR?oc=5\" target=\"_blank\">Why Apple’s slow-and-steady AI bet is starting to look pretty smart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUUdmNlgxY1BreWpCeU8zQzJnUVlWTmtDT0NxcndtYkd3SGsxLUhuYm5NX2s0bXdRc2JHZlk2WHF3cFdGOVBLZ0pCMXg0REVGTE9FbVBrWjViNnh0aXltQWxDVVhneDItUDBVXzhIdGQ2OTdJUWw4ZXlSX1I5bTJseHBwNlJUbWN4UVdaZGhVSk1fVDFubGMw?oc=5\" target=\"_blank\">Apple’s new Siri is a dark horse in the AI race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font></li></ol>",
+      "published": "2026-06-09T19:32:46+00:00",
+      "source": "Axios"
+    },
+    {
+      "title": "Half-red, half-yellow chimera apple draws crowds at New Zealand store - upi.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUU1ZEpBSEwzV3pYQV9VcVJQaGJhRHBmOHl0YmdqU3owZ2VCLVEzSHdla1RETWdmYjV5M2pWQVdDRWdHUld6WU1Mc1gzajBnXzBxai1vVnR1MFJ2RUU1d1BpMDJFQXdRX2VjdVdNekFkZmJkbW15eUh1d0FnbURSSkNTamdrWTN1WGU0S1Z2dE16ZGl6dnBVM3hxVlF3dXY4dlZ4eWJsLXNwNTFaTEZNNWc0dWIwa0pRNGVz0gHAAUFVX3lxTE8zbHk3N3JManFUbFBQaHdKRWJmNU9JX2x1b2lNOFpPY1hNcG52Vk5ib09hSjZDN2xJVTlLanZrNTQ4V1d2N0kwZVRGVExid1ptejRNX1FZMEZIZmdQMkRvRWNHRmFBajJaWUNPTjhGQUEzU3U0N0RoMzYwN0oxM01QcWFZRExPQ2Nqc0xtYWhzQzRRS0xZcDB3N0R3N3VaRDRjTXQ2OWhja3g4RjdBcTQwY1VoN09pajYzOUQzdW5PNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUU1ZEpBSEwzV3pYQV9VcVJQaGJhRHBmOHl0YmdqU3owZ2VCLVEzSHdla1RETWdmYjV5M2pWQVdDRWdHUld6WU1Mc1gzajBnXzBxai1vVnR1MFJ2RUU1d1BpMDJFQXdRX2VjdVdNekFkZmJkbW15eUh1d0FnbURSSkNTamdrWTN1WGU0S1Z2dE16ZGl6dnBVM3hxVlF3dXY4dlZ4eWJsLXNwNTFaTEZNNWc0dWIwa0pRNGVz0gHAAUFVX3lxTE8zbHk3N3JManFUbFBQaHdKRWJmNU9JX2x1b2lNOFpPY1hNcG52Vk5ib09hSjZDN2xJVTlLanZrNTQ4V1d2N0kwZVRGVExid1ptejRNX1FZMEZIZmdQMkRvRWNHRmFBajJaWUNPTjhGQUEzU3U0N0RoMzYwN0oxM01QcWFZRExPQ2Nqc0xtYWhzQzRRS0xZcDB3N0R3N3VaRDRjTXQ2OWhja3g4RjdBcTQwY1VoN09pajYzOUQzdW5PNA?oc=5\" target=\"_blank\">Half-red, half-yellow chimera apple draws crowds at New Zealand store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upi.com</font>",
+      "published": "2026-06-09T16:58:28+00:00",
+      "source": "upi.com"
+    },
+    {
+      "title": "Apple Struck the Right Notes With Its New AI Tools. Here Are 4 Features I'm Excited to Try - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUVBeWpIbXk2T2V4SVc2bDNVWmQyQXEwVTh5VXVySlRPTi0yUm9wV1RhOWplVTZZdG5fdGNUWk00Y2dCZkgxaGYtUzk5VkdfWWhiYm9tX3F2ZDFmdkRkZ2dVb0hDbFBrZ3hIaWRyZVVGaUtwUGkwTTB3ci15RU9UcUxnWmhtcFBTM0J2OGc4djFTUktyZ2V6TkNSQnhCdkFnS3Y3Nm9fU25qQnpxdjcyRVJESnhWS21HaUxhdXhHSUc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUVBeWpIbXk2T2V4SVc2bDNVWmQyQXEwVTh5VXVySlRPTi0yUm9wV1RhOWplVTZZdG5fdGNUWk00Y2dCZkgxaGYtUzk5VkdfWWhiYm9tX3F2ZDFmdkRkZ2dVb0hDbFBrZ3hIaWRyZVVGaUtwUGkwTTB3ci15RU9UcUxnWmhtcFBTM0J2OGc4djFTUktyZ2V6TkNSQnhCdkFnS3Y3Nm9fU25qQnpxdjcyRVJESnhWS21HaUxhdXhHSUc?oc=5\" target=\"_blank\">Apple Struck the Right Notes With Its New AI Tools. Here Are 4 Features I'm Excited to Try</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-06-10T10:54:00+00:00",
+      "source": "CNET"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more - Apple",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXJCVHVtdnRLcWJUbU5yaGZIbnJnaFVfUlFZdUhBYXoxQmRVQTB5a1lTb3lpQktQVHY2TXo3UFRtTFRsSi1Sc3BJcTF6VHhyUlVxNmRESlJFUnMzVkJyMEoxWDAyYndzUXNpbjdHR0ZFMEZJNmp5TTRfSFNGdHlYcEZhaDhiRjFxb0xaaHJKQ0Z0dlZHdHBWdkdvYUpWOGtXem5idjZESElnVkhD?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYXJCVHVtdnRLcWJUbU5yaGZIbnJnaFVfUlFZdUhBYXoxQmRVQTB5a1lTb3lpQktQVHY2TXo3UFRtTFRsSi1Sc3BJcTF6VHhyUlVxNmRESlJFUnMzVkJyMEoxWDAyYndzUXNpbjdHR0ZFMEZJNmp5TTRfSFNGdHlYcEZhaDhiRjFxb0xaaHJKQ0Z0dlZHdHBWdkdvYUpWOGtXem5idjZESElnVkhD?oc=5\" target=\"_blank\">Apple unveils next generation of Apple Intelligence, Siri AI, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
+      "published": "2026-06-08T18:31:41+00:00",
+      "source": "Apple"
+    },
+    {
+      "title": "Apple’s next big products: 13 new Apple devices we could see in 2026 - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Apple’s next big products: 13 new Apple devices we could see in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-06-09T11:12:00+00:00",
       "source": "Macworld"
     },
     {
-      "title": "Apple Did What Google Couldn't: Talk to Me Like a Real Person. I'm Impressed - CNET",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjdFSGVIX1R6MEpCeWk4T0FFeGdFZGZQLVBCc2FyYUR0cVlBTGE3N2l4RGV5c3ppZjNvdG9CYnlTNWVnNWlGSENRbFBITnAtSTdTWUIwbndEREFiSWcxcThhZUxGMUwzZFlUVWN0cHl0dmZlZ3NfZFZKY01QbFJnNzlKaGVxYUFtanlIekd0dXlCZHcyZWQyRWRsVU9YcmpFYl9KdURpbTFiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYjdFSGVIX1R6MEpCeWk4T0FFeGdFZGZQLVBCc2FyYUR0cVlBTGE3N2l4RGV5c3ppZjNvdG9CYnlTNWVnNWlGSENRbFBITnAtSTdTWUIwbndEREFiSWcxcThhZUxGMUwzZFlUVWN0cHl0dmZlZ3NfZFZKY01QbFJnNzlKaGVxYUFtanlIekd0dXlCZHcyZWQyRWRsVU9YcmpFYl9KdURpbTFiZw?oc=5\" target=\"_blank\">Apple Did What Google Couldn't: Talk to Me Like a Real Person. I'm Impressed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2026-06-08T21:55:00+00:00",
-      "source": "CNET"
+      "title": "Slow-to-arrive Apple Intelligence upgrades delayed new product category launches - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEs1bmk0S2VNWHZNRm1GczhsMS0zQjRqd2ZJWllUZ0lOdUFUSWYyUm0wdlZzNFRLRUtxN3p5RHFvSHp6cXVtTXZ2STlvUGZZcnVUZVVvMTFlVFVjbno5VTk1SE9MVEhDVEo2Zzg0eFhQT1JOSDhwcTNzUHliS052SVBNeVdNbG5Bam1LT0lGVEFKNEtZTkF3cDhuaFlXQWJZRnJxNm1KNk90Q21TVXZIbmo4WE5DMm1LNjlidFNRV1o?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEs1bmk0S2VNWHZNRm1GczhsMS0zQjRqd2ZJWllUZ0lOdUFUSWYyUm0wdlZzNFRLRUtxN3p5RHFvSHp6cXVtTXZ2STlvUGZZcnVUZVVvMTFlVFVjbno5VTk1SE9MVEhDVEo2Zzg0eFhQT1JOSDhwcTNzUHliS052SVBNeVdNbG5Bam1LT0lGVEFKNEtZTkF3cDhuaFlXQWJZRnJxNm1KNk90Q21TVXZIbmo4WE5DMm1LNjlidFNRV1o?oc=5\" target=\"_blank\">Slow-to-arrive Apple Intelligence upgrades delayed new product category launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-06-07T15:09:00+00:00",
+      "source": "AppleInsider"
     },
     {
-      "title": "Apple unveiling new child safety features to help parents navigate screen time - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmJfdUZNTmJVd1Jhd3FKWDg0ZXpJQ0hmSHJCOGh0dHJWNkx1NGZEUUVMVTJSaUxxNkZYeXcwYW5YamlxVHJEOHVpWjBMTjZ5SjF1dTdZaTF6alViYjJ3cjRVS05DenY0TW9uV3Y4cFd0Qi1TcjJKLWR1S25hTE9aQkd2amd2T1ptQXhCc2Z3aHNTcU5kZ2pJUXcteGFmeU1BdngzOE8wUWhROFhUM2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmJfdUZNTmJVd1Jhd3FKWDg0ZXpJQ0hmSHJCOGh0dHJWNkx1NGZEUUVMVTJSaUxxNkZYeXcwYW5YamlxVHJEOHVpWjBMTjZ5SjF1dTdZaTF6alViYjJ3cjRVS05DenY0TW9uV3Y4cFd0Qi1TcjJKLWR1S25hTE9aQkd2amd2T1ptQXhCc2Z3aHNTcU5kZ2pJUXcteGFmeU1BdngzOE8wUWhROFhUM2c?oc=5\" target=\"_blank\">Apple unveiling new child safety features to help parents navigate screen time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "published": "2026-06-08T22:07:54+00:00",
-      "source": "CBS News"
+      "title": "Apple will launch two new products this year that could reshape iPad’s future - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHJma2pmMmVKckZFeWwxeFN4Mk1veDQ4UEJVZGRWdnlQVjhJcExmMThkQlViQWVGTnZDU3JNalhwdUZFY3VUMzMxbEtlWHJxTUpjNnZnX3d6dHc2Z19ZS2JWOExiM0JVX1VLbzRTeHJmd2Npb0RXeWR5N2p2cEtxYzE3NkJZbWlRM0E0NWw3SEdkSmtQRms4anZBa0trZHB0MVNqU2lla3o4RW1X?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHJma2pmMmVKckZFeWwxeFN4Mk1veDQ4UEJVZGRWdnlQVjhJcExmMThkQlViQWVGTnZDU3JNalhwdUZFY3VUMzMxbEtlWHJxTUpjNnZnX3d6dHc2Z19ZS2JWOExiM0JVX1VLbzRTeHJmd2Npb0RXeWR5N2p2cEtxYzE3NkJZbWlRM0E0NWw3SEdkSmtQRms4anZBa0trZHB0MVNqU2lla3o4RW1X?oc=5\" target=\"_blank\">Apple will launch two new products this year that could reshape iPad’s future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-05-28T07:00:00+00:00",
+      "source": "9to5Mac"
     },
     {
-      "title": "Apple announces iOS 27 - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83WkUtdU9fcVhsaWg0WE9YeURrb0o0SXdtdXp0dVhfbnI5VjNQbFlNTzBGaVM1SFZYbDVUYW9tUHhKYzRsNTBVU3lFbXhmWmFrNmxhT0plakVjQmYxMU55WWFsOFBiaDJxRHhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE83WkUtdU9fcVhsaWg0WE9YeURrb0o0SXdtdXp0dVhfbnI5VjNQbFlNTzBGaVM1SFZYbDVUYW9tUHhKYzRsNTBVU3lFbXhmWmFrNmxhT0plakVjQmYxMU55WWFsOFBiaDJxRHhR?oc=5\" target=\"_blank\">Apple announces iOS 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-06-08T17:14:34+00:00",
-      "source": "The Verge"
+      "title": "Meet John Ternus, the 51-year-old former swimming champ who will succeed Tim Cook as Apple CEO - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHdUaUMwRV9wOGI3NHdVbEptNGd2OGR4ZUlNcnBwZlI3QjRRaElZYm4tY0ZJZjhMempIbnIzNUlQb044bE5MYk1XaUlPdEd4VldvUkowNFdSa1lnMnplZEt2SndJQXNHSnJCeDQ3MnU1aTA4Z3JJRW15VzBWSWVYWlF0amFTQU13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHdUaUMwRV9wOGI3NHdVbEptNGd2OGR4ZUlNcnBwZlI3QjRRaElZYm4tY0ZJZjhMempIbnIzNUlQb044bE5MYk1XaUlPdEd4VldvUkowNFdSa1lnMnplZEt2SndJQXNHSnJCeDQ3MnU1aTA4Z3JJRW15VzBWSWVYWlF0amFTQU13?oc=5\" target=\"_blank\">Meet John Ternus, the 51-year-old former swimming champ who will succeed Tim Cook as Apple CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-06-10T04:30:29+00:00",
+      "source": "Fortune"
     }
   ],
-  "product_launches": [],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-09",
-      "close": 292.95001220703125
+      "date": "2026-06-10",
+      "close": 288.9700012207031
     },
     "history": [
-      {
-        "date": "2026-06-01",
-        "close": 306.30999755859375
-      },
       {
         "date": "2026-06-02",
         "close": 315.20001220703125
@@ -96,7 +128,11 @@
       },
       {
         "date": "2026-06-09",
-        "close": 292.95001220703125
+        "close": 290.54998779296875
+      },
+      {
+        "date": "2026-06-10",
+        "close": 288.9700012207031
       }
     ],
     "name": "Apple Inc."

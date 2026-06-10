@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-06-09T14:25:34.958999+00:00",
+  "fetched_at": "2026-06-10T14:52:25.017399+00:00",
   "news": [
     {
       "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer - Ars Technica",
@@ -19,56 +19,49 @@
       "source": "404 Media"
     },
     {
+      "title": "Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents - StepSecurity",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbVIxMjMtUFBDc3hpLThYT0QwWXJRTURLeHNuV0NnUTJFYkhRQzZNQkU3M0hNdkJlVkdhMHVnaXZLTF8wTnVPbUZ4YVlLbExCQ3dFbzh6M2VRSjFNRWQxN2YxRWZycHhvWVVlWVRXTldUdTUwSU40Tk9qdHFGb1JVSkw2ckFqOF9Qd2RCMU5tNTRjeXFwcnlzV2FWNnZwWE9peUhLczBDR2hRVmxXZkZ2SmI5LUNxOTBnYWo4WWpjU3doZmE0eFVXdjdJUDBjQ1NubnZtVDdQd1duME1OZEtPYmJpdUpWTnFFMlBzbGtIdUR0dWZlazctMVhBTndGX21BZWU2TXkwMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNbVIxMjMtUFBDc3hpLThYT0QwWXJRTURLeHNuV0NnUTJFYkhRQzZNQkU3M0hNdkJlVkdhMHVnaXZLTF8wTnVPbUZ4YVlLbExCQ3dFbzh6M2VRSjFNRWQxN2YxRWZycHhvWVVlWVRXTldUdTUwSU40Tk9qdHFGb1JVSkw2ckFqOF9Qd2RCMU5tNTRjeXFwcnlzV2FWNnZwWE9peUhLczBDR2hRVmxXZkZ2SmI5LUNxOTBnYWo4WWpjU3doZmE0eFVXdjdJUDBjQ1NubnZtVDdQd1duME1OZEtPYmJpdUpWTnFFMlBzbGtIdUR0dWZlazctMVhBTndGX21BZWU2TXkwMA?oc=5\" target=\"_blank\">Miasma Worm Hits Microsoft Again: Azure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack Targeting AI Coding Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StepSecurity</font>",
+      "published": "2026-06-05T07:00:00+00:00",
+      "source": "StepSecurity"
+    },
+    {
+      "title": "Bill Gates to Amazon, Google, Meta, Microsoft and every other company building data center in the US: Com - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOd3JKeGwydjVKVzVpZVFuZ1dWa1lSY0dnZXJuVFY5WUllR2dXN3dXbEpyc3lRejhkMnFiMUwwLTNqRGx6a3R5Q25ZZTZPeG82WVQyVXU5aUlXTEZtN1RCMDFEbUJ5aGJoTTA3YWhjME5BSG92X2pjclI5N0EtTFdJOFl1SDVmd3B2QVNCeHJOUUc0eTR1ZHY2Z1MzUFJDY2NaY1BMZWlGdXdCdUZkRE8tRTU0dDMxNmNuS2FqUkdrMWw3bkNUTldiemYyTUVKamV0WXZhYXBFbE9JWGVqUVF3UDlOMXBQSmY1V1Z6dW4xNEJNZGM3MnBNaml4NDFLc1otMkNmRmhxb1pUQkV2OF96MHdiVmpSdzV2ejlOdTEtdEdtdzB6aUw4OTRaX0R1dHNXLW5hS3ZjVVpxSU9sWWRjaGtnMkNJVmlna2Nn0gHQAkFVX3lxTE9iMTJmR28xSDNMZnBZbmtUWGllSkFQeW9iQUFXMzN2S2hsRmJTY3dJcDRldzBEQWQ5cEFUMTNLNW9NQWJXY1V5SFcyaVNzenAteUpRbE1xNExNMVhsa184UWJqUWdXY1g1NGxRcnVCcVZMbkZUNDlRS25BVVcwV2lYTVBnMG1XRzhXYmREdnVJUHppOF9BUjVmQWdHa2hDcFJjQUJuN2djc3hVQ0JfNGJsS0U4VHJudDRsN25mcmJPS2h3TnJoczJrTUhjM28wMXhXd0hYd0ctdjFCUVR6VmJzcFhXQUJzc2lKWXprc0o1NEVJODdXZWRVRE94SU9BMldmckJYNEd0dGIzb2I4Vks2MlZkT2RndlZhLWV1ZThxeGxQNEdONXMzVEpVbG5HSjh1SFVyYVpZTHVxcW56WlMzMkQxVmNXeHZ2QnR6T2I3aw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxOd3JKeGwydjVKVzVpZVFuZ1dWa1lSY0dnZXJuVFY5WUllR2dXN3dXbEpyc3lRejhkMnFiMUwwLTNqRGx6a3R5Q25ZZTZPeG82WVQyVXU5aUlXTEZtN1RCMDFEbUJ5aGJoTTA3YWhjME5BSG92X2pjclI5N0EtTFdJOFl1SDVmd3B2QVNCeHJOUUc0eTR1ZHY2Z1MzUFJDY2NaY1BMZWlGdXdCdUZkRE8tRTU0dDMxNmNuS2FqUkdrMWw3bkNUTldiemYyTUVKamV0WXZhYXBFbE9JWGVqUVF3UDlOMXBQSmY1V1Z6dW4xNEJNZGM3MnBNaml4NDFLc1otMkNmRmhxb1pUQkV2OF96MHdiVmpSdzV2ejlOdTEtdEdtdzB6aUw4OTRaX0R1dHNXLW5hS3ZjVVpxSU9sWWRjaGtnMkNJVmlna2Nn0gHQAkFVX3lxTE9iMTJmR28xSDNMZnBZbmtUWGllSkFQeW9iQUFXMzN2S2hsRmJTY3dJcDRldzBEQWQ5cEFUMTNLNW9NQWJXY1V5SFcyaVNzenAteUpRbE1xNExNMVhsa184UWJqUWdXY1g1NGxRcnVCcVZMbkZUNDlRS25BVVcwV2lYTVBnMG1XRzhXYmREdnVJUHppOF9BUjVmQWdHa2hDcFJjQUJuN2djc3hVQ0JfNGJsS0U4VHJudDRsN25mcmJPS2h3TnJoczJrTUhjM28wMXhXd0hYd0ctdjFCUVR6VmJzcFhXQUJzc2lKWXprc0o1NEVJODdXZWRVRE94SU9BMldmckJYNEd0dGIzb2I4Vks2MlZkT2RndlZhLWV1ZThxeGxQNEdONXMzVEpVbG5HSjh1SFVyYVpZTHVxcW56WlMzMkQxVmNXeHZ2QnR6T2I3aw?oc=5\" target=\"_blank\">Bill Gates to Amazon, Google, Meta, Microsoft and every other company building data center in the US: Com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-06-10T04:26:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "Microsoft founder Bill Gates arrives to testify during a hearing related to Jeffrey Epstein - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWXByanVMZVpNY0ZLOVBBc0xENFNWYzViU29nNDNmZy1KNEZNWnZ4MEk5ZnJPV1lsb0Z4Nkh3d2lQYlpXcU4tbWthUWlMNGxZY1N1MlRQZDFSR0FWQ0NiLVVCZ0YyUS1Ob1F2V2cyY2ZNTzhIckcyQzlsNElnS2lSRnlseTlac2txaVZRWC1vSm5ESGZ1TTJmVDJwRXpHdmNUQl81RzFtdkJIVzBaU3dDblVwbWg1Wl9EQm5FSnNGTGFDcmhvVjdmZU9OS2g?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNWXByanVMZVpNY0ZLOVBBc0xENFNWYzViU29nNDNmZy1KNEZNWnZ4MEk5ZnJPV1lsb0Z4Nkh3d2lQYlpXcU4tbWthUWlMNGxZY1N1MlRQZDFSR0FWQ0NiLVVCZ0YyUS1Ob1F2V2cyY2ZNTzhIckcyQzlsNElnS2lSRnlseTlac2txaVZRWC1vSm5ESGZ1TTJmVDJwRXpHdmNUQl81RzFtdkJIVzBaU3dDblVwbWg1Wl9EQm5FSnNGTGFDcmhvVjdmZU9OS2g?oc=5\" target=\"_blank\">Microsoft founder Bill Gates arrives to testify during a hearing related to Jeffrey Epstein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>",
+      "published": "2026-06-10T14:20:08+00:00",
+      "source": "CTV News"
+    },
+    {
+      "title": "Microsoft has bad news for a key AI partner - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kV0plZUZlbjBHUVFDVFp2NmN5TEszWnZLSFBPTThXQU1BWTROc0FSbkRmc1lXd3NNNGU3UjJyLVJULThMYnVnTFR5NXpxYXE4YXlvbmRoZi1wbGtKUWN5LUtHc2kweVo4c1E4a1k4dHFHSWZ3NVB3MkRYSHRlak0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kV0plZUZlbjBHUVFDVFp2NmN5TEszWnZLSFBPTThXQU1BWTROc0FSbkRmc1lXd3NNNGU3UjJyLVJULThMYnVnTFR5NXpxYXE4YXlvbmRoZi1wbGtKUWN5LUtHc2kweVo4c1E4a1k4dHFHSWZ3NVB3MkRYSHRlak0?oc=5\" target=\"_blank\">Microsoft has bad news for a key AI partner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "published": "2026-06-10T14:17:00+00:00",
+      "source": "Yahoo Finance Singapore"
+    },
+    {
+      "title": "Microsoft Has an Answer to Anti-AI Boos From the Class of 2026 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTDFMVkpHODY1bG85SUF2NTFTNGNYal83UVRGNk9iZFdFWjNpUy1YcXZuSnd1bHdxdXVCZzlvb19HZXp1aEdzM2lJcmFzTVU0V0JVMWRJa3NzelNaQ1ZGYWFnV3VpVFQzcDI5N0tfeTZwN1F2YlM2QXJ6Sk96RXd3bmtoeE9CT1ZXV09pcVhuQllyWTNsS2tjbXVhYktzX1JFWi14WnExWG84c0I2d2ZBb3phUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTDFMVkpHODY1bG85SUF2NTFTNGNYal83UVRGNk9iZFdFWjNpUy1YcXZuSnd1bHdxdXVCZzlvb19HZXp1aEdzM2lJcmFzTVU0V0JVMWRJa3NzelNaQ1ZGYWFnV3VpVFQzcDI5N0tfeTZwN1F2YlM2QXJ6Sk96RXd3bmtoeE9CT1ZXV09pcVhuQllyWTNsS2tjbXVhYktzX1JFWi14WnExWG84c0I2d2ZBb3phUQ?oc=5\" target=\"_blank\">Microsoft Has an Answer to Anti-AI Boos From the Class of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-06-10T13:00:00+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
       "title": "Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix - CNBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWJ5aVlCMjNDN2pMbnJxZWRRWmx3dzg3TV9Hcng5dHNZeGNMdjlBN0NZX29mMmFIajNvcXgzdFFvOHZqY3hYTHkwM3JRQTh4LVM0c2E4UmdWMUFBUDE4Z25TU0RELTNHS3kyek13eVR5SU55WEdTYU1yZ3FJeENvQlVOSEXSAYoBQVVfeXFMUHBUV2FERlhPMHVkOXJNUFJtdmY3dXJrNFNMNzBRRk9nX0NJVHZwRXBXRjIzRDdQRGZ5cVNmWjFEY1NIUzY2WUluejNYdl9faVNjY1VSVnFjQVc0N0RXbE5GV3FVR3VhNHlzUURVVTVNelJLVnRFTDgxZDl5bTdhNGMzZFpiNkVobzh3?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWJ5aVlCMjNDN2pMbnJxZWRRWmx3dzg3TV9Hcng5dHNZeGNMdjlBN0NZX29mMmFIajNvcXgzdFFvOHZqY3hYTHkwM3JRQTh4LVM0c2E4UmdWMUFBUDE4Z25TU0RELTNHS3kyek13eVR5SU55WEdTYU1yZ3FJeENvQlVOSEXSAYoBQVVfeXFMUHBUV2FERlhPMHVkOXJNUFJtdmY3dXJrNFNMNzBRRk9nX0NJVHZwRXBXRjIzRDdQRGZ5cVNmWjFEY1NIUzY2WUluejNYdl9faVNjY1VSVnFjQVc0N0RXbE5GV3FVR3VhNHlzUURVVTVNelJLVnRFTDgxZDl5bTdhNGMzZFpiNkVobzh3?oc=5\" target=\"_blank\">Upstart chipmakers keep challenging Nvidia. This time it's Microsoft-backed D-Matrix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2026-06-09T13:00:01+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "‘We don’t want you!’ Lowell residents protest Microsoft’s data center plan - MLive.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNODgwbDhCSVRRS2g2U3BRT2x3Mm9Hc1Zkbk9MNThMNmpVY2RERGZXb0NXQk1tc2k2VDB4RVRwUW15MUowUjFiRjhPWlFNMGpPWlc0ODViZUlqYVR2MV9uX1N1VWlla3RfczVKTmFILW9Jc1RhVnluek9EVDBKYmVpd1oxNFNXTVdId2p5UEVDWERJZHcwdFljd0lDVVBUcEU2c2pLZzBndEd5NWJVM0dHUTFJVDU5QUp0eV9odkwxb9IB0wFBVV95cUxObV82UnBqM2tFNGdxaE5IRVh2WXVXbWQxX3J5bTduT1ZwVmM3ejQzeXpvWGFyOXpScW9XTHpHRnJZUjNZakhza3VPY0ZHLUxWZkRCUDFPdjl6dWxqM1M3WEoxWlNjaVFfaFp3Y0J3ZUdxbHhBM2psODYzcU5WS2EwbnhPM1BWOFNEOVBsNXp4RGV0bkZIVDZFTFF4X2J5N3NNanNxbDMtWGNOTmZocVVRSmJ6Ti1BeDRYWVFzTUk1SWMyYjJMLWZoWTVqYURsTF9JWTBB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNODgwbDhCSVRRS2g2U3BRT2x3Mm9Hc1Zkbk9MNThMNmpVY2RERGZXb0NXQk1tc2k2VDB4RVRwUW15MUowUjFiRjhPWlFNMGpPWlc0ODViZUlqYVR2MV9uX1N1VWlla3RfczVKTmFILW9Jc1RhVnluek9EVDBKYmVpd1oxNFNXTVdId2p5UEVDWERJZHcwdFljd0lDVVBUcEU2c2pLZzBndEd5NWJVM0dHUTFJVDU5QUp0eV9odkwxb9IB0wFBVV95cUxObV82UnBqM2tFNGdxaE5IRVh2WXVXbWQxX3J5bTduT1ZwVmM3ejQzeXpvWGFyOXpScW9XTHpHRnJZUjNZakhza3VPY0ZHLUxWZkRCUDFPdjl6dWxqM1M3WEoxWlNjaVFfaFp3Y0J3ZUdxbHhBM2psODYzcU5WS2EwbnhPM1BWOFNEOVBsNXp4RGV0bkZIVDZFTFF4X2J5N3NNanNxbDMtWGNOTmZocVVRSmJ6Ti1BeDRYWVFzTUk1SWMyYjJMLWZoWTVqYURsTF9JWTBB?oc=5\" target=\"_blank\">‘We don’t want you!’ Lowell residents protest Microsoft’s data center plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
-      "published": "2026-06-09T12:04:00+00:00",
-      "source": "MLive.com"
-    },
-    {
-      "title": "NHS England rolls out Microsoft 365 Copilot to 505,000 staff - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmNscndYZmNrc1lQTmlOcktJci1BT2MtX3dZbUJHTWxXdUpoNlpMTU9BWVp2U2RZQlBuSlhGLXZJUXZsMHY0Mk95N192Q3JtM3lNaUlLdUE3ZW9mTDdwRkw5Y3IxQXFaaWZ5NTJFRVJVTDNQY2p0TTluMHdrSnlMREZaQjE2ZU8wV2d6S0RR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmNscndYZmNrc1lQTmlOcktJci1BT2MtX3dZbUJHTWxXdUpoNlpMTU9BWVp2U2RZQlBuSlhGLXZJUXZsMHY0Mk95N192Q3JtM3lNaUlLdUE3ZW9mTDdwRkw5Y3IxQXFaaWZ5NTJFRVJVTDNQY2p0TTluMHdrSnlMREZaQjE2ZU8wV2d6S0RR?oc=5\" target=\"_blank\">NHS England rolls out Microsoft 365 Copilot to 505,000 staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-06-09T13:18:04+00:00",
-      "source": "Yahoo"
-    },
-    {
-      "title": "At Build 2026, Microsoft Sent a Clear Message: Copilot+ PCs No Longer Matter - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW1Qd0pOaFpGSXdVcVNRV0EyNVgyWnp4U1l1N0lzdXFDOF9nQ05laVJ4UEd6N1hzZW5nd2xZY1dZdTJhV1UyWFVqbUFETmpRMFVMNXhJVmtDTUZkdEtyMlVCUmJ2bko4dGZ2SzVVYW05N3pwZGpsLUpOWWZHRjl5UnUxdlhPMC1VdGNLU3VIeXRmajlhSlpuaDMyMXVPeEZOcHY2Rg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQW1Qd0pOaFpGSXdVcVNRV0EyNVgyWnp4U1l1N0lzdXFDOF9nQ05laVJ4UEd6N1hzZW5nd2xZY1dZdTJhV1UyWFVqbUFETmpRMFVMNXhJVmtDTUZkdEtyMlVCUmJ2bko4dGZ2SzVVYW05N3pwZGpsLUpOWWZHRjl5UnUxdlhPMC1VdGNLU3VIeXRmajlhSlpuaDMyMXVPeEZOcHY2Rg?oc=5\" target=\"_blank\">At Build 2026, Microsoft Sent a Clear Message: Copilot+ PCs No Longer Matter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-06-07T16:00:19+00:00",
-      "source": "PCMag"
-    },
-    {
-      "title": "Microsoft just broke ranks with big tech on Ohio data centers, but don’t applaud just yet - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcERJQUEwZjJIc2FEd29QSng2Tk1LcHhKS1p0ajFlR1Y0djQ1RmJKQjhRRlJiZ1ZLeERlZlFjcFRobzhmUEU1czhxZ095YzEtLTJtS3JJWTVyTTFYVHFSWEZ6N1FPTElza1NIT20tRUItaGU1aXNhSG1QX2ZLUWliWThlMFRoSnJYOUZJZVJ2RmNJcFIwMjBJUDJPdy13Vy1JQmozN1dXU3laMTZDWnlLc3ZhM3AzMlJpMmlfdmdmZThub1pFd1lxZGJxTdIB3wFBVV95cUxQWVlaM0Vjb1NSTkhfcnhwdkw2VGd2bXE2blhrZl9HQ1Rxc1c5djdrWVRGV2VlcTk2SmZTOU51UWxTb0pWdGVZYTh0NTJ0dDhsNlVQMEhMRFF5YXA3MlhrRlVoNXlZZWJ2djQ4Zjh5MXY4TmtoclB3Q0Q0TW55Tmwta2lydFdZZGZQQUFGMUlCcTY0SjN1cVNkRFk3NHF3LWY3dkkxOGVNcElYZlF4ODRuQU1CS2JzTmRXbWZrVjdveVgyMEI1eGNXM2tfdEJmQ0tKN0twNmRydUJYdEtGTnBN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQcERJQUEwZjJIc2FEd29QSng2Tk1LcHhKS1p0ajFlR1Y0djQ1RmJKQjhRRlJiZ1ZLeERlZlFjcFRobzhmUEU1czhxZ095YzEtLTJtS3JJWTVyTTFYVHFSWEZ6N1FPTElza1NIT20tRUItaGU1aXNhSG1QX2ZLUWliWThlMFRoSnJYOUZJZVJ2RmNJcFIwMjBJUDJPdy13Vy1JQmozN1dXU3laMTZDWnlLc3ZhM3AzMlJpMmlfdmdmZThub1pFd1lxZGJxTdIB3wFBVV95cUxQWVlaM0Vjb1NSTkhfcnhwdkw2VGd2bXE2blhrZl9HQ1Rxc1c5djdrWVRGV2VlcTk2SmZTOU51UWxTb0pWdGVZYTh0NTJ0dDhsNlVQMEhMRFF5YXA3MlhrRlVoNXlZZWJ2djQ4Zjh5MXY4TmtoclB3Q0Q0TW55Tmwta2lydFdZZGZQQUFGMUlCcTY0SjN1cVNkRFk3NHF3LWY3dkkxOGVNcElYZlF4ODRuQU1CS2JzTmRXbWZrVjdveVgyMEI1eGNXM2tfdEJmQ0tKN0twNmRydUJYdEtGTnBN?oc=5\" target=\"_blank\">Microsoft just broke ranks with big tech on Ohio data centers, but don’t applaud just yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland.com</font>",
-      "published": "2026-06-08T20:28:00+00:00",
-      "source": "Cleveland.com"
-    },
-    {
-      "title": "Microsoft Makes Governance The Gate For Enterprise AI Agents - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVhiQzRoeWZjU0NwUTgyaXBDTHdKZW5mNG1obXg2b3VzeFFNc28yNGVuSENwVlZqajhqVzZCTEh5OGFjVHMtbm52M3NiSE5XTXFkcXhMenUycXgzRDB5ZnYyOXdXSUxEdUtxR29LbjRmZ0JyVE5qMTAyLWhaYlp6WFpwcW9XTWNHaU54TkE2VU9UemFlUnRISjN1VmRPLS02ZExRUlNUUkZHZ2pEWGd2RG45MzU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVhiQzRoeWZjU0NwUTgyaXBDTHdKZW5mNG1obXg2b3VzeFFNc28yNGVuSENwVlZqajhqVzZCTEh5OGFjVHMtbm52M3NiSE5XTXFkcXhMenUycXgzRDB5ZnYyOXdXSUxEdUtxR29LbjRmZ0JyVE5qMTAyLWhaYlp6WFpwcW9XTWNHaU54TkE2VU9UemFlUnRISjN1VmRPLS02ZExRUlNUUkZHZ2pEWGd2RG45MzU?oc=5\" target=\"_blank\">Microsoft Makes Governance The Gate For Enterprise AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-06-09T13:00:51+00:00",
-      "source": "Forbes"
     }
   ],
   "product_launches": [
-    {
-      "title": "Inforcer launches Microsoft 365 threat response for MSPs - SecurityBrief UK",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDllbGhGZ0pPdC1aSE5JQklHdVIzS0ZMM05Odm1HUlYtajN6S2U0ZDRNYW5laDRxX0cwT253andxN1V2RzU5NUh0dGoyQWFuLThSaVM1ZllKRTJCS3NuU2o1akZ5d1A1dkN3RG1rTHNvUE9DTDZjZHNJZ0FWdmN5eDdTeG1sT0xRTWxyVm80bUpmSU8t?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDllbGhGZ0pPdC1aSE5JQklHdVIzS0ZMM05Odm1HUlYtajN6S2U0ZDRNYW5laDRxX0cwT253andxN1V2RzU5NUh0dGoyQWFuLThSaVM1ZllKRTJCS3NuU2o1akZ5d1A1dkN3RG1rTHNvUE9DTDZjZHNJZ0FWdmN5eDdTeG1sT0xRTWxyVm80bUpmSU8t?oc=5\" target=\"_blank\">Inforcer launches Microsoft 365 threat response for MSPs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityBrief UK</font>",
-      "published": "2026-06-09T08:32:00+00:00",
-      "source": "SecurityBrief UK"
-    },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
@@ -77,11 +70,25 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUw1VEl2Z2xGVDJ2MGE1aWVNZVJFWGoxZEFvZktPTU9UaU5iZlM0R2RvQW51YVNYdUtoaVlhYUFWV19udWVPTWZsZ0lZaExTUTZVSERXcVJha3lLYVBualFvUlV5Y3dpYUgtbk0wN1VYVnJ3a2VuR0VzcmE3WG1OSTd4dmZlWVBNeVdVb3RQT1NWWWtvQnhCLVpkNkt2MHRK?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUw1VEl2Z2xGVDJ2MGE1aWVNZVJFWGoxZEFvZktPTU9UaU5iZlM0R2RvQW51YVNYdUtoaVlhYUFWV19udWVPTWZsZ0lZaExTUTZVSERXcVJha3lLYVBualFvUlV5Y3dpYUgtbk0wN1VYVnJ3a2VuR0VzcmE3WG1OSTd4dmZlWVBNeVdVb3RQT1NWWWtvQnhCLVpkNkt2MHRK?oc=5\" target=\"_blank\">Microsoft launches Scout, an OpenClaw-inspired personal assistant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-06-02T18:02:44+00:00",
-      "source": "TechCrunch"
+      "title": "Inforcer launches Microsoft 365 threat response for MSPs - SecurityBrief UK",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDllbGhGZ0pPdC1aSE5JQklHdVIzS0ZMM05Odm1HUlYtajN6S2U0ZDRNYW5laDRxX0cwT253andxN1V2RzU5NUh0dGoyQWFuLThSaVM1ZllKRTJCS3NuU2o1akZ5d1A1dkN3RG1rTHNvUE9DTDZjZHNJZ0FWdmN5eDdTeG1sT0xRTWxyVm80bUpmSU8t?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDllbGhGZ0pPdC1aSE5JQklHdVIzS0ZMM05Odm1HUlYtajN6S2U0ZDRNYW5laDRxX0cwT253andxN1V2RzU5NUh0dGoyQWFuLThSaVM1ZllKRTJCS3NuU2o1akZ5d1A1dkN3RG1rTHNvUE9DTDZjZHNJZ0FWdmN5eDdTeG1sT0xRTWxyVm80bUpmSU8t?oc=5\" target=\"_blank\">Inforcer launches Microsoft 365 threat response for MSPs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityBrief UK</font>",
+      "published": "2026-06-09T08:32:00+00:00",
+      "source": "SecurityBrief UK"
+    },
+    {
+      "title": "BlueVoyant launches AI platform for security operations - SecurityBrief Australia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0FOX2xHVmdEaC04bHdjYUE1MXZoMEEtaFNpQVhSRVlCZzRTZ3JKVkE1SmhYczRzeHVBcW5aa1ZDTFNRQmp5TTRVV0QzcWNCQjluSU1NaGZ3RnFTdXdpTkhuNkVvc1g3M0NQYjVFcXh4NjFMSm9RY1N6Sm5md05WcExQQUxnaG5vbm42RVpQbEZ6UXdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxON0FOX2xHVmdEaC04bHdjYUE1MXZoMEEtaFNpQVhSRVlCZzRTZ3JKVkE1SmhYczRzeHVBcW5aa1ZDTFNRQmp5TTRVV0QzcWNCQjluSU1NaGZ3RnFTdXdpTkhuNkVvc1g3M0NQYjVFcXh4NjFMSm9RY1N6Sm5md05WcExQQUxnaG5vbm42RVpQbEZ6UXdw?oc=5\" target=\"_blank\">BlueVoyant launches AI platform for security operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityBrief Australia</font>",
+      "published": "2026-06-10T00:57:00+00:00",
+      "source": "SecurityBrief Australia"
+    },
+    {
+      "title": "Microsoft makes agent runtime free, launches Scout - Let's Data Science",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcllpTE5FZ2J5bVZxYlFJVXdBa3pVQzVMdzdVTHdIdXBzRm9HUzJrNDJKTU9aazBpUGxEOFRkdGxLa1htRHc0STNHanp6a1o5MnZzblFfRTFybDZUZjhjZ3NRU1g2b3R0VlZyalJRM0k0bl9tc2ZHOVVNV3dEUTJYVlZlRmtOd0lKOTV0U3pYYjBjWWphbHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcllpTE5FZ2J5bVZxYlFJVXdBa3pVQzVMdzdVTHdIdXBzRm9HUzJrNDJKTU9aazBpUGxEOFRkdGxLa1htRHc0STNHanp6a1o5MnZzblFfRTFybDZUZjhjZ3NRU1g2b3R0VlZyalJRM0k0bl9tc2ZHOVVNV3dEUTJYVlZlRmtOd0lKOTV0U3pYYjBjWWphbHc?oc=5\" target=\"_blank\">Microsoft makes agent runtime free, launches Scout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "published": "2026-06-07T15:00:00+00:00",
+      "source": "Let's Data Science"
     },
     {
       "title": "Euro-Office, Europe's open-source alternative to Microsoft Office and Google Docs, launches June 9 - ZDNET",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQekpPLWxBSHdVaEdMX1dTdnVxVGE3S2RFZ0hkeTJ3eHlFdVJJTUhjV21UVzNHRFg2ekFIclJKdkRvNnE1Q0I3Vnp4aXNMZWN3STBndFRRaS01dzNUaU1BTnl0aG1hU0YyQUwyQnU5eTdYOFFJTnVicVNuQWUzYTd5eGxVRE9HX0xCZ1lxTjR3QTZ6SWVZT1J0T1Z2R29QMWZ6bkFCRkN1Y3BEbHUw?oc=5\" target=\"_blank\">Euro-Office, Europe's open-source alternative to Microsoft Office and Google Docs, launches June 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
       "published": "2026-05-28T07:00:00+00:00",
       "source": "ZDNET"
-    },
-    {
-      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5\" target=\"_blank\">Microsoft launches 3 new AI models in direct shot at OpenAI and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-      "published": "2026-04-03T07:00:00+00:00",
-      "source": "VentureBeat"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-09",
-      "close": 409.55999755859375
+      "date": "2026-06-10",
+      "close": 402.3699951171875
     },
     "history": [
-      {
-        "date": "2026-06-01",
-        "close": 460.5199890136719
-      },
       {
         "date": "2026-06-02",
         "close": 441.30999755859375
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-06-09",
-        "close": 409.55999755859375
+        "close": 403.4100036621094
+      },
+      {
+        "date": "2026-06-10",
+        "close": 402.3699951171875
       }
     ],
     "name": "Microsoft Corporation"
