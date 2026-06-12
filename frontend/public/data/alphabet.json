@@ -2,66 +2,73 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-06-11T15:34:32.401413+00:00",
+  "fetched_at": "2026-06-12T14:34:39.882960+00:00",
   "news": [
     {
-      "title": "Alphabet Convertible Preferred Offers 6% Yield and Upside With Common Stock - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaG1uZVpsbDJfZmpCakZQbkZTd3J5bk5IOEhZOEVYUEV3ZDJHSzJ1elVHeF85aklrTUR1LVlLMFlVT0ktNDJ0MXdmS2RTbGlTWWU0Q2FTUGt6SGRPR1FBYXpsS3RZdGJtYUtjdEdQR24ybWJySElaSDFQRktxdTNMQ0pUREJ4el9ZMTFiLXR2NTBfdVlnUFlVak9TOGNraVlMMGdXcXZ0ai1yNU5CemlEQmstMDNXSTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOaG1uZVpsbDJfZmpCakZQbkZTd3J5bk5IOEhZOEVYUEV3ZDJHSzJ1elVHeF85aklrTUR1LVlLMFlVT0ktNDJ0MXdmS2RTbGlTWWU0Q2FTUGt6SGRPR1FBYXpsS3RZdGJtYUtjdEdQR24ybWJySElaSDFQRktxdTNMQ0pUREJ4el9ZMTFiLXR2NTBfdVlnUFlVak9TOGNraVlMMGdXcXZ0ai1yNU5CemlEQmstMDNXSTA?oc=5\" target=\"_blank\">Alphabet Convertible Preferred Offers 6% Yield and Upside With Common Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-06-09T20:23:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Should You Buy Alphabet Stock Down 10% From Its All-Time Highs? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVozTEJmOWh1S3RQV1U4STVMZ2taODVjT0x2MkFUaTctZktpSVF0ZWtEVS1HX21rLXg1U0otWWxORkt4TktlaG9ZTUEwX1lmYkFoa3JCUDlVQlBpNzlTYUE4U0VMa2taYVFDQlJhZEd5Ylk1dXlPdUtGaG9VcVNncndfUU9MS1JadEprVnlneUp0QUlncGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVozTEJmOWh1S3RQV1U4STVMZ2taODVjT0x2MkFUaTctZktpSVF0ZWtEVS1HX21rLXg1U0otWWxORkt4TktlaG9ZTUEwX1lmYkFoa3JCUDlVQlBpNzlTYUE4U0VMa2taYVFDQlJhZEd5Ylk1dXlPdUtGaG9VcVNncndfUU9MS1JadEprVnlneUp0QUlncGc?oc=5\" target=\"_blank\">Should You Buy Alphabet Stock Down 10% From Its All-Time Highs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-11T12:50:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Apple Just Delivered Bad News for OpenAI and Anthropic, but Alphabet Could Be a Winner - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUxVbUNNM2g3S1d6bGVoRTIwZGF4c1pSUWJaNkJ4Njd6ZmVJSGYxaUNuajUwUURXekRWYVZDU3phbkhZN1lhVkNpUkp1Zmx0TXg5UWpvbEs2Z1RvU3U4VGpVLWtGTENGbFB5U0lUUkowZGN4eGZqN2VCWURYWjZuMjBkZnVvRVQxeVZVdVdfMlJvUHBLUDU3bEVn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUxVbUNNM2g3S1d6bGVoRTIwZGF4c1pSUWJaNkJ4Njd6ZmVJSGYxaUNuajUwUURXekRWYVZDU3phbkhZN1lhVkNpUkp1Zmx0TXg5UWpvbEs2Z1RvU3U4VGpVLWtGTENGbFB5U0lUUkowZGN4eGZqN2VCWURYWjZuMjBkZnVvRVQxeVZVdVdfMlJvUHBLUDU3bEVn?oc=5\" target=\"_blank\">Apple Just Delivered Bad News for OpenAI and Anthropic, but Alphabet Could Be a Winner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-11T13:30:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Alphabet And Microsoft: Holding The Winner, Buying The Laggard (NASDAQ:GOOG) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQko3Z2lMM2sxUWs0UldPcmV3Vnl6aUktNWs3LS1VY2k0SWVEV0RxS20ybFlDUmZ2WWZtVUZKZE0ycjZQQ09sa19Hb29mazByVjViUTFMOGVOeGJMTGhYRWxjODgyR3FjYVJMMXdUbDZhT1FwVmh0TV9SdmVIZGhJeGZ4QTdULTFBNzlFbHU4Vzg0bDBDYk50SFZEZnQ3ZExUMHhN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQko3Z2lMM2sxUWs0UldPcmV3Vnl6aUktNWs3LS1VY2k0SWVEV0RxS20ybFlDUmZ2WWZtVUZKZE0ycjZQQ09sa19Hb29mazByVjViUTFMOGVOeGJMTGhYRWxjODgyR3FjYVJMMXdUbDZhT1FwVmh0TV9SdmVIZGhJeGZ4QTdULTFBNzlFbHU4Vzg0bDBDYk50SFZEZnQ3ZExUMHhN?oc=5\" target=\"_blank\">Alphabet And Microsoft: Holding The Winner, Buying The Laggard (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-06-09T21:28:44+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Intel Is the Market's Most Mispriced AI Hedge - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFNsaURhcndURmVWRDlnWEpTSTI4NGVFcElEUEx0NDZ5V294TExfZXc4TkxGTm55Q1dEc3dqM3IzYmhLel80bE9Ld2Q5UWpuYlNVOTZZUjlMQ24xSHhlbUlBUmR0dGpIRWxCeTZ1R3dveG8zR3I1R2h1MDlQRVoyejVNOFdNaGNIanc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFNsaURhcndURmVWRDlnWEpTSTI4NGVFcElEUEx0NDZ5V294TExfZXc4TkxGTm55Q1dEc3dqM3IzYmhLel80bE9Ld2Q5UWpuYlNVOTZZUjlMQ24xSHhlbUlBUmR0dGpIRWxCeTZ1R3dveG8zR3I1R2h1MDlQRVoyejVNOFdNaGNIanc?oc=5\" target=\"_blank\">Intel Is the Market's Most Mispriced AI Hedge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-      "published": "2026-06-10T18:55:40+00:00",
-      "source": "MarketBeat"
-    },
-    {
-      "title": "Alphabet Is Raising $80 Billion for AI Infrastructure. These 4 Semiconductor Stocks Win the Most. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUN2Q1pVbGpSQ3dpQ2NsYkN1TzgxMDJYT2lLdFhBWWthU2twckVYSGdCZVQ1TTR0RnBYOVFmLUVreVRvT29WR1hBcGZoamdSbFphNVE1a014TFR6UjBLSVlucHNOQ0VrSVJnOTVvblpZeEw3a3NzT2tDWUU4V3NUWHBxQnBsWlgwaVo3TFZOLTBVM0VmLTlGZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUN2Q1pVbGpSQ3dpQ2NsYkN1TzgxMDJYT2lLdFhBWWthU2twckVYSGdCZVQ1TTR0RnBYOVFmLUVreVRvT29WR1hBcGZoamdSbFphNVE1a014TFR6UjBLSVlucHNOQ0VrSVJnOTVvblpZeEw3a3NzT2tDWUU4V3NUWHBxQnBsWlgwaVo3TFZOLTBVM0VmLTlGZw?oc=5\" target=\"_blank\">Alphabet Is Raising $80 Billion for AI Infrastructure. These 4 Semiconductor Stocks Win the Most.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-06-10T08:05:00+00:00",
+      "title": "Apple Just Delivered Bad News for OpenAI and Anthropic, but Alphabet Could Be a Winner - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWdJVDdjNVlCWmd5LUd4aGVnblB5MTRha1R3TGdBbkNFaDJkX1FveEVibkdfY081Mmh5eGxtaHM4Ri01WmNIVllWY0lvLWRVamgtLWlvZEMxYlJSLVJMQy04WnU0MUVsQlhwSXJQQnhILUpBdnZYVVVsU2d2U3F2S0Z4VUZyRG5zTERV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTWdJVDdjNVlCWmd5LUd4aGVnblB5MTRha1R3TGdBbkNFaDJkX1FveEVibkdfY081Mmh5eGxtaHM4Ri01WmNIVllWY0lvLWRVamgtLWlvZEMxYlJSLVJMQy04WnU0MUVsQlhwSXJQQnhILUpBdnZYVVVsU2d2U3F2S0Z4VUZyRG5zTERV?oc=5\" target=\"_blank\">Apple Just Delivered Bad News for OpenAI and Anthropic, but Alphabet Could Be a Winner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-06-11T14:10:00+00:00",
       "source": "The Motley Fool"
     },
     {
-      "title": "Google parent Alphabet taps muni market in first for hyperscalers - Bond Buyer",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPanFvVzBMb2M2YnZrX0pINldyZVliaV84YlU4QUZiRTdEempxZU40ZmIxUThXNFVnZUlHdHZrcUNGVGF0VnlaWXptT3hvaDV3bUpTeE00Y3E0Y1NkZUxyNTBuTVVLN2M0cWI5YU0wUl9wVzlYcnYzNGpCMk1qbXpwWjVhV041ZjBEWGV4WEFlRlB0cHZaZ1M1U2hyajU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPanFvVzBMb2M2YnZrX0pINldyZVliaV84YlU4QUZiRTdEempxZU40ZmIxUThXNFVnZUlHdHZrcUNGVGF0VnlaWXptT3hvaDV3bUpTeE00Y3E0Y1NkZUxyNTBuTVVLN2M0cWI5YU0wUl9wVzlYcnYzNGpCMk1qbXpwWjVhV041ZjBEWGV4WEFlRlB0cHZaZ1M1U2hyajU?oc=5\" target=\"_blank\">Google parent Alphabet taps muni market in first for hyperscalers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bond Buyer</font>",
-      "published": "2026-06-08T16:33:00+00:00",
-      "source": "Bond Buyer"
+      "title": "Alphabet Shares Are Under Pressure Thursday: What Investors Need To Know - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU0NRTWF4M1d6UWpOTlo1QXhOaE5STVlPVkpwMFZDMy10VTdfb2ZYNEVsOWlURWRkYnFNVVZOaEhETXkwZG5vVEN0THNRSHJIUFVfcGJlY1dmZzB1SVZKVy1EdHg1d3dSRUhHQ2p6SEFydm0xN1JpYXVlakJxVFZVVi0zMEFDQUt2RDZJNmUxUnhQLUpmNmNPRGJwQXB3SlVRTkd1bUgyVG1Oelh1eVRBTjNEUUk1WXZHTUVSSHAycFFaY0VSQnFMbXdKVXQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPU0NRTWF4M1d6UWpOTlo1QXhOaE5STVlPVkpwMFZDMy10VTdfb2ZYNEVsOWlURWRkYnFNVVZOaEhETXkwZG5vVEN0THNRSHJIUFVfcGJlY1dmZzB1SVZKVy1EdHg1d3dSRUhHQ2p6SEFydm0xN1JpYXVlakJxVFZVVi0zMEFDQUt2RDZJNmUxUnhQLUpmNmNPRGJwQXB3SlVRTkd1bUgyVG1Oelh1eVRBTjNEUUk1WXZHTUVSSHAycFFaY0VSQnFMbXdKVXQ?oc=5\" target=\"_blank\">Alphabet Shares Are Under Pressure Thursday: What Investors Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "published": "2026-06-11T16:21:33+00:00",
+      "source": "Benzinga"
     },
     {
-      "title": "Waymo acquires 5,458-acre proving grounds site in $220M deal - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcms2cC1uenNjUThoUXQ5Q09aT1BqbVFkVkVnc0ozUVlTazVQTVpzWndvN2lDZ3c1QXdYVy1Db1VuVWhUMmNXaEFPVGFmV1dQSDBHRUhIaXl2Q3p3a3hVazVDdF9BcW95a1ZvckFBcWhZazJfeHRDeHRLODN4cTdBZkpVenkzQ2dBdVpxZFJVdUt4X1B2YkU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcms2cC1uenNjUThoUXQ5Q09aT1BqbVFkVkVnc0ozUVlTazVQTVpzWndvN2lDZ3c1QXdYVy1Db1VuVWhUMmNXaEFPVGFmV1dQSDBHRUhIaXl2Q3p3a3hVazVDdF9BcW95a1ZvckFBcWhZazJfeHRDeHRLODN4cTdBZkpVenkzQ2dBdVpxZFJVdUt4X1B2YkU0?oc=5\" target=\"_blank\">Waymo acquires 5,458-acre proving grounds site in $220M deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
-      "published": "2026-06-08T20:31:00+00:00",
-      "source": "The Business Journals"
+      "title": "3 Billionaires Dumped Alphabet in Q1. 2 Billionaires Bought More. The Winners Are Clear - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODdZSjRZTFR0dGE3cjlPem4zNTdSTERRUjduSFlMaWVyMmdNZXBEdG1LRTRCbko4RXRCLUJFakgwa0k0YnlTYUsyU083OVBpeUlLd3E3TjJ6a0RhZVphRFNZTGRLX0ZKZGRldnF0ZlZtbHJZS1FkbUd6WVQxMHB5NzhwR242VWhsYzBnX3l0VGNHdU9TRXRWcFdtNE1pMjA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPODdZSjRZTFR0dGE3cjlPem4zNTdSTERRUjduSFlMaWVyMmdNZXBEdG1LRTRCbko4RXRCLUJFakgwa0k0YnlTYUsyU083OVBpeUlLd3E3TjJ6a0RhZVphRFNZTGRLX0ZKZGRldnF0ZlZtbHJZS1FkbUd6WVQxMHB5NzhwR242VWhsYzBnX3l0VGNHdU9TRXRWcFdtNE1pMjA?oc=5\" target=\"_blank\">3 Billionaires Dumped Alphabet in Q1. 2 Billionaires Bought More. The Winners Are Clear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-12T14:15:02+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Harvard University AI Stock Portfolio: Alphabet (GOOGL) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2tsSEdJZ045bHExTXZFSEM1SkpDR21faERnbEN4cV9LLUQ3WDY3OHFMN0hVa0plajhPdzhMV2QxM1NaN3ZZbngzekkyZ3M5dk85dTE5TEIwMmhXMGREM05TbThmZldyQkt4R0VnZnV2VGYxUkNxZnc0OGxWcVFyWTl1amRRdkZDZjVOY3hwODdUMXljMHVLZUNYaUZ3b190Q3R5bg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2tsSEdJZ045bHExTXZFSEM1SkpDR21faERnbEN4cV9LLUQ3WDY3OHFMN0hVa0plajhPdzhMV2QxM1NaN3ZZbngzekkyZ3M5dk85dTE5TEIwMmhXMGREM05TbThmZldyQkt4R0VnZnV2VGYxUkNxZnc0OGxWcVFyWTl1amRRdkZDZjVOY3hwODdUMXljMHVLZUNYaUZ3b190Q3R5bg?oc=5\" target=\"_blank\">Harvard University AI Stock Portfolio: Alphabet (GOOGL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-12T13:56:49+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Alphabet’s SpaceX and Anthropic stakes could offset its nearly $200 billion AI spending bill - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVF1RDdrVTNUc0ZTUUpWY3RuMnFOd3lMYjVNWS1VNUtESE9iNWdkN1NxYWdkeThXclhrdGtId1FNY0l3VlZPd3NJbmx0ajI2RFVpSWQwQTNtOXd2d25wM0pGV2ZPaHpsZzBBYnVkblVFeEFYUU5DX1VhdXhOczZaSWxWeHgwaDVlcXdFemdwTFFfc2o4TXZkRlZSZDFhYlp2dElOUkM2WXI2MmxXdjNlNzV4Q292M3hQOXBNOS13c01QRFk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVF1RDdrVTNUc0ZTUUpWY3RuMnFOd3lMYjVNWS1VNUtESE9iNWdkN1NxYWdkeThXclhrdGtId1FNY0l3VlZPd3NJbmx0ajI2RFVpSWQwQTNtOXd2d25wM0pGV2ZPaHpsZzBBYnVkblVFeEFYUU5DX1VhdXhOczZaSWxWeHgwaDVlcXdFemdwTFFfc2o4TXZkRlZSZDFhYlp2dElOUkM2WXI2MmxXdjNlNzV4Q292M3hQOXBNOS13c01QRFk?oc=5\" target=\"_blank\">Alphabet’s SpaceX and Anthropic stakes could offset its nearly $200 billion AI spending bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-06-11T21:30:20+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Google answers 'why' Alphabet rejected Trump's $2B quantum funding - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3U4MGxsUFhvR1N3ZjRuUG5OMmFKdk5tTndGOU9acWVaVVMxVzl0Z25fMDg0djU1TWJ4NGNKaTBMY0NkaTloMGFNRUtlNHFYczdjS18wVGphUmhUZjA2UkxWOU9XSU9kM0xmVmZGc0RENkN0Y0V3TUYxMVVyeVNLLWpNZVpELTJjalBxbnA1M2pEckFIU2NPSkpSd1ByRUpnY3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3U4MGxsUFhvR1N3ZjRuUG5OMmFKdk5tTndGOU9acWVaVVMxVzl0Z25fMDg0djU1TWJ4NGNKaTBMY0NkaTloMGFNRUtlNHFYczdjS18wVGphUmhUZjA2UkxWOU9XSU9kM0xmVmZGc0RENkN0Y0V3TUYxMVVyeVNLLWpNZVpELTJjalBxbnA1M2pEckFIU2NPSkpSd1ByRUpnY3c?oc=5\" target=\"_blank\">Google answers 'why' Alphabet rejected Trump's $2B quantum funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-06-11T17:16:34+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Big Tech stocks mostly fall, with Alphabet and Microsoft posting sharp losses - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQlhJdEx6SDJiTHVQOVZvcGxGcDMtckl0NzE3cVBBYUFtZHpBZDJrSW1qRENweVdodF9nMy1BNHlUYmx0NjlyZ0NuZ3htcFpjSE8zVWJpZ2FMTGtCeVdsRVQwUlJnbThFd2pwZmcwaFNnaGJvelFMbUxXSXlkbU5PUHhNeWFNTGZ2d2M2dTlRRUpxdDg3d2pDZHhCeWhycTdBRHJjWkNfckJmNlo3Sm5yZzNDRHJpbEpHbW1ZVFludzByTDJqTENjRlprbkFtTUF5TkdaOEZPVEZFYmVCX1pQcUhqRS1TOWEtNFZHcURWWVU3cjNMdUFZX2dING4ydTNPbHlHdHlnN3VsSmhPcktJS1JzM3BoYndEMTY3Q2F2TDRNOV9uWmJJWHFDaVBZcVZWOWd1TDRxZURCMmxHR1FCaWlLcDdZZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxNQlhJdEx6SDJiTHVQOVZvcGxGcDMtckl0NzE3cVBBYUFtZHpBZDJrSW1qRENweVdodF9nMy1BNHlUYmx0NjlyZ0NuZ3htcFpjSE8zVWJpZ2FMTGtCeVdsRVQwUlJnbThFd2pwZmcwaFNnaGJvelFMbUxXSXlkbU5PUHhNeWFNTGZ2d2M2dTlRRUpxdDg3d2pDZHhCeWhycTdBRHJjWkNfckJmNlo3Sm5yZzNDRHJpbEpHbW1ZVFludzByTDJqTENjRlprbkFtTUF5TkdaOEZPVEZFYmVCX1pQcUhqRS1TOWEtNFZHcURWWVU3cjNMdUFZX2dING4ydTNPbHlHdHlnN3VsSmhPcktJS1JzM3BoYndEMTY3Q2F2TDRNOV9uWmJJWHFDaVBZcVZWOWd1TDRxZURCMmxHR1FCaWlLcDdZZw?oc=5\" target=\"_blank\">Big Tech stocks mostly fall, with Alphabet and Microsoft posting sharp losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2026-06-11T09:59:00+00:00",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Alphabet’s Waymo is getting into the subscription — and Uber’s — business - Sherwood News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHlMZ1AwaG9LTzl3SlVkYkFQaUx1azVhQmFIWjdtTXUxS2RpbWxUT21nT2EwY2NTeFY2ZWpCQmNWVW9RZ2JKWndXQ05ISF9nZW55eEpBUXB6N2NRbUhDUlZzZVQwV3E1VURlY0NtWkNLbzh0ODdzSVpYSzZjNl92Y19UNFVQRGJIUzJFQmZ2UjNxdTVrWm1PNExmWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHlMZ1AwaG9LTzl3SlVkYkFQaUx1azVhQmFIWjdtTXUxS2RpbWxUT21nT2EwY2NTeFY2ZWpCQmNWVW9RZ2JKWndXQ05ISF9nZW55eEpBUXB6N2NRbUhDUlZzZVQwV3E1VURlY0NtWkNLbzh0ODdzSVpYSzZjNl92Y19UNFVQRGJIUzJFQmZ2UjNxdTVrWm1PNExmWQ?oc=5\" target=\"_blank\">Alphabet’s Waymo is getting into the subscription — and Uber’s — business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sherwood News</font>",
+      "published": "2026-06-11T16:00:10+00:00",
+      "source": "Sherwood News"
     }
   ],
   "product_launches": [
+    {
+      "title": "Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com - Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5\" target=\"_blank\">Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
+      "published": "2026-05-20T07:00:00+00:00",
+      "source": "Investing.com Canada"
+    },
     {
       "title": "Q4 earnings call: Remarks from our CEO - blog.google",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5\" target=\"_blank\">OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2025-10-21T07:00:00+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "GOOGL Q4 2025 Deep Dive: AI Acceleration Drives Search, Cloud, and Product Expansion - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUg5Q0RkajluOXBFX3hHNXlfdGlFZXBMQTJXOGtHZE85UlBRV3J5ME9HLWRrT2tidzRNRWQ1bGR0SHJEbWRKX3VyS05DMllZbnFyWDJnVVh5eTBESkNHZUVWTkZoS2k0SXRJajE4aHpJR1BpOTlyRFAzVFNRMmptdXd0WWZ0WTZkSVhnTi04dDlZdWNuS3FycWc5ak1Lc1NoWE93RExYT2R3UnE5ZnB0T0hlWnNTLThRSVFoSkN1NHZYR1FPLUl0TzZjUWhyWDV6V0h6N3Bxcko1WEtURXNB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUg5Q0RkajluOXBFX3hHNXlfdGlFZXBMQTJXOGtHZE85UlBRV3J5ME9HLWRrT2tidzRNRWQ1bGR0SHJEbWRKX3VyS05DMllZbnFyWDJnVVh5eTBESkNHZUVWTkZoS2k0SXRJajE4aHpJR1BpOTlyRFAzVFNRMmptdXd0WWZ0WTZkSVhnTi04dDlZdWNuS3FycWc5ak1Lc1NoWE93RExYT2R3UnE5ZnB0T0hlWnNTLThRSVFoSkN1NHZYR1FPLUl0TzZjUWhyWDV6V0h6N3Bxcko1WEtURXNB?oc=5\" target=\"_blank\">GOOGL Q4 2025 Deep Dive: AI Acceleration Drives Search, Cloud, and Product Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
-      "published": "2026-02-04T08:00:00+00:00",
-      "source": "StockStory"
     }
   ],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-11",
-      "close": 347.239990234375
+      "date": "2026-06-12",
+      "close": 361.985595703125
     },
     "history": [
-      {
-        "date": "2026-06-03",
-        "close": 358.77569580078125
-      },
       {
         "date": "2026-06-04",
         "close": 371.96783447265625
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-06-11",
-        "close": 347.239990234375
+        "close": 357.7699890136719
+      },
+      {
+        "date": "2026-06-12",
+        "close": 361.985595703125
       }
     ],
     "name": "Alphabet Inc."

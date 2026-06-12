@@ -2,66 +2,73 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-06-11T15:34:39.538806+00:00",
+  "fetched_at": "2026-06-12T14:34:47.785913+00:00",
   "news": [
     {
-      "title": "How AMD Is Mimicking Nvidia’s Circular Funding Deals - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjBRVVJlZ1Qzbl9EZUdBbm9XRnBOUy1rSzhRai1FSkRmb1JqckdXVjdVUno3UDlMOWFLMTdNbzM1V0FwLUhheWtFa0NXQzF3aUNaQkVMT1J0MHlveHhUYUVGdEJ3N2N3aW54SWNyY1BqNXpoRzZ2ZmxhWjhEcWdiNFBrUlVEWjAzSTRJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjBRVVJlZ1Qzbl9EZUdBbm9XRnBOUy1rSzhRai1FSkRmb1JqckdXVjdVUno3UDlMOWFLMTdNbzM1V0FwLUhheWtFa0NXQzF3aUNaQkVMT1J0MHlveHhUYUVGdEJ3N2N3aW54SWNyY1BqNXpoRzZ2ZmxhWjhEcWdiNFBrUlVEWjAzSTRJ?oc=5\" target=\"_blank\">How AMD Is Mimicking Nvidia’s Circular Funding Deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-06-10T13:58:00+00:00",
+      "title": "NVIDIA's CPU Ambitions Expand: Can It Challenge x86 Giants Now? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1BJSDdfYWhzeWdHb05taDZXYW1aZWhPbzNUSDZkWURaWkJxSERCamxwUWh6T1dEcFlVYWVWNGtJbnpBTWR2Q1dVU2lvaVlRTnA1SkFSeHVBeGY5LUZhS1BFUDFiczFRNWIyaE12YUd4TUZGcHZ4WDZjelEyb1ZhYm9BVlI0WktKQTQ4amdubEdwNUtaU01fTHc5bHEtaG1ZdDFHWnhpS0dFNFk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1BJSDdfYWhzeWdHb05taDZXYW1aZWhPbzNUSDZkWURaWkJxSERCamxwUWh6T1dEcFlVYWVWNGtJbnpBTWR2Q1dVU2lvaVlRTnA1SkFSeHVBeGY5LUZhS1BFUDFiczFRNWIyaE12YUd4TUZGcHZ4WDZjelEyb1ZhYm9BVlI0WktKQTQ4amdubEdwNUtaU01fTHc5bHEtaG1ZdDFHWnhpS0dFNFk?oc=5\" target=\"_blank\">NVIDIA's CPU Ambitions Expand: Can It Challenge x86 Giants Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-12T12:37:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "AMD: Our Next Server Chips Will Trounce Nvidia's Vera - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDM3WTNHZ0xzYkpZdmM1bXZjb0dtaTVaU1RQVllCZDhQRXJOVFpRVGRmWFBzRUFNLW51Q2h6OEFCcDJ4WFN6Y0J5QlUySGFNWkJVWF94UE0tY3dORmM4ZHFwSVBsNEg2d284eGhOT1o0bkNVQ1RTS2kyeG5ZTWVMLWdyNUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDM3WTNHZ0xzYkpZdmM1bXZjb0dtaTVaU1RQVllCZDhQRXJOVFpRVGRmWFBzRUFNLW51Q2h6OEFCcDJ4WFN6Y0J5QlUySGFNWkJVWF94UE0tY3dORmM4ZHFwSVBsNEg2d284eGhOT1o0bkNVQ1RTS2kyeG5ZTWVMLWdyNUE?oc=5\" target=\"_blank\">AMD: Our Next Server Chips Will Trounce Nvidia's Vera</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2026-06-11T12:24:06+00:00",
+      "source": "PCMag"
+    },
+    {
+      "title": "Nvidia pitches new Vera CPUs to Chinese clients, orders set for August: Reuters (NVDA:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWloSDd3OHRieVZLMFhiRnp6UGFPR2xoTXIwYXBfRVJNR0hSYnBtZmY0aVVMbGMxd2FOb2ZvMWd5SjYwZ19NcTJsR1BhNnMwOXF3MXM5SXJELXQ0VXZiU0xFdlVtYXNGbW1ua2xQUEVXT1RyQldscFFwT3U1T0hrcnJWQ2xPUzJvaFpySWtwWGswY1hTT3Z0UkJxN19zSVQ0RmtTSmxBdk5oRGhVdUVFRUxQQ1V0Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWloSDd3OHRieVZLMFhiRnp6UGFPR2xoTXIwYXBfRVJNR0hSYnBtZmY0aVVMbGMxd2FOb2ZvMWd5SjYwZ19NcTJsR1BhNnMwOXF3MXM5SXJELXQ0VXZiU0xFdlVtYXNGbW1ua2xQUEVXT1RyQldscFFwT3U1T0hrcnJWQ2xPUzJvaFpySWtwWGswY1hTT3Z0UkJxN19zSVQ0RmtTSmxBdk5oRGhVdUVFRUxQQ1V0Zw?oc=5\" target=\"_blank\">Nvidia pitches new Vera CPUs to Chinese clients, orders set for August: Reuters (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-06-12T07:12:38+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUF5S0g4cU0xVlVLNFBrVTcyOVlsVm1VczhYbkd1M3lFck1URWFzb2d4X082OHVqN3lmNVg2c0lWR1d2Y0dxZ3gtNHlpNFExal9PdHBYWUVqVUl4S3A2Y1FBTUNZVEJMdWpwTVp0cEFfYzBEaUE4T2RvZFFzUFM4cURDUzhjcWlBbEZPQm9JVGJoNmJPLVE?oc=5\" target=\"_blank\">Abridge wants to be the operating system for medicine—and NVIDIA and Eli Lilly are helping build it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-06-11T18:39:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Prometheus raises $12 billion in capital for artificial engineers - statnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGVXY0M1YmRTV2JKSEtFem5jak1TRDhJQ3kxLW0xWnVjSkR2TmJ2WUhUY19iNXVNRHIzdjJmdEdqdTZtOThPUUlQWVFoNFpaMU9LZ1ZIRXFwZlFuVUZBNHRSNk1wQlhhQkdnZ1d4WDNzMUljWnlJOHNwNzhlZnNfMU84M053enNoZm0tbWdtTXQ4ZGg2WjRrVFJ2ZDJBNXhXTm5qV0EyMWl4WEZMSnctYWo0MXduRV9iUW93dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGVXY0M1YmRTV2JKSEtFem5jak1TRDhJQ3kxLW0xWnVjSkR2TmJ2WUhUY19iNXVNRHIzdjJmdEdqdTZtOThPUUlQWVFoNFpaMU9LZ1ZIRXFwZlFuVUZBNHRSNk1wQlhhQkdnZ1d4WDNzMUljWnlJOHNwNzhlZnNfMU84M053enNoZm0tbWdtTXQ4ZGg2WjRrVFJ2ZDJBNXhXTm5qV0EyMWl4WEZMSnctYWo0MXduRV9iUW93dw?oc=5\" target=\"_blank\">Prometheus raises $12 billion in capital for artificial engineers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">statnews.com</font>",
+      "published": "2026-06-12T14:10:03+00:00",
+      "source": "statnews.com"
+    },
+    {
+      "title": "Nvidia (NVDA) Stock: Can Robotics Spark a New Rally? - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zcjNSOVFEWENrenoxTUE0a3VEaF9zSFdaZnNwYXNZSU9Pa0FyMnpoVHpSdnNhVHR3SnlpV2RTblBhMHhOS2J4dkI2eWpTWlROckQ1Q2swUW5odEhKYjBKTFNRajlxUWU0dzRoQkVld2U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4zcjNSOVFEWENrenoxTUE0a3VEaF9zSFdaZnNwYXNZSU9Pa0FyMnpoVHpSdnNhVHR3SnlpV2RTblBhMHhOS2J4dkI2eWpTWlROckQ1Q2swUW5odEhKYjBKTFNRajlxUWU0dzRoQkVld2U?oc=5\" target=\"_blank\">Nvidia (NVDA) Stock: Can Robotics Spark a New Rally?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-06-11T14:36:00+00:00",
       "source": "Barron's"
     },
     {
-      "title": "AMD's Lemonade SDK For Local AI Adds NVIDIA CUDA Support - Phoronix",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RTUlWVElOTTRsMWlwclRISXBQRGhHbUxSTUZPWW92Yk56WllJMWNaTVlsdVRhTXBSM1JzbXJYTXhYd1JaMFk5RlhpOEE4UnVVam1lX3VESUktZXc5UTV2bW5OTm83LXM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RTUlWVElOTTRsMWlwclRISXBQRGhHbUxSTUZPWW92Yk56WllJMWNaTVlsdVRhTXBSM1JzbXJYTXhYd1JaMFk5RlhpOEE4UnVVam1lX3VESUktZXc5UTV2bW5OTm83LXM?oc=5\" target=\"_blank\">AMD's Lemonade SDK For Local AI Adds NVIDIA CUDA Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phoronix</font>",
-      "published": "2026-06-10T16:25:00+00:00",
-      "source": "Phoronix"
+      "title": "NVIDIA Corp. (NVDA) Is A Top AI Stock In Ken Griffin’s Portfolio - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV01BRzUyZWtsY1BYQ1Iza1lZNVczSnJCb0huVmNZODQ0YjY4VjFiTUVwa3BLcmNWdDZvUjd4OWpTVEg0MTZDaEhOajZkSl9kXzRBbFFuSUtqVEJya3Rpdjk5c2NVclotUFdiZ3RsVTMyUDdNMko4VzVOUjhqaDh3aDlqaGJwaEtqMWZTa1Fkakp0QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQV01BRzUyZWtsY1BYQ1Iza1lZNVczSnJCb0huVmNZODQ0YjY4VjFiTUVwa3BLcmNWdDZvUjd4OWpTVEg0MTZDaEhOajZkSl9kXzRBbFFuSUtqVEJya3Rpdjk5c2NVclotUFdiZ3RsVTMyUDdNMko4VzVOUjhqaDh3aDlqaGJwaEtqMWZTa1Fkakp0QQ?oc=5\" target=\"_blank\">NVIDIA Corp. (NVDA) Is A Top AI Stock In Ken Griffin’s Portfolio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-11T17:30:12+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance — company shares first estimated EPYC Venice benchmarks - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxONlRpNVdYcVFQQkZiWm9Rdk8xYjF4VWlkbzZVNU9ZMEpJdkNkdnBMN1RmNHlrOENDV1VkV1hlcDhGZXFCcm04VTZOaWFyVm50aU9oeGJrNzVyVkFCV2pNSU8yZ2EzOHkzV2RiaTg3RDgtekRiUS1GY3huNlJZbUphQ3pJTEwtcjI3dnFhaTdzalNLSGs5V3VZbGUwSWhyb2k1aUhyOW56dnhsdmdRS2NqeDZJVXd3YjlRcG1SVEdvdW50QWV0MGd5TFZxaUVzSWtsWEthb1NKRWtUbnFPWl9IVGZTQi1neVN4WjFoVzE1dl9uLUtWRERMbU9wbXBxd0JheTM2SFB0VzYzWVFJNVFqRU1BV3hIYWx4ZlNxVC03N3l6MzJGRkpHTG5nUkxRTkU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxONlRpNVdYcVFQQkZiWm9Rdk8xYjF4VWlkbzZVNU9ZMEpJdkNkdnBMN1RmNHlrOENDV1VkV1hlcDhGZXFCcm04VTZOaWFyVm50aU9oeGJrNzVyVkFCV2pNSU8yZ2EzOHkzV2RiaTg3RDgtekRiUS1GY3huNlJZbUphQ3pJTEwtcjI3dnFhaTdzalNLSGs5V3VZbGUwSWhyb2k1aUhyOW56dnhsdmdRS2NqeDZJVXd3YjlRcG1SVEdvdW50QWV0MGd5TFZxaUVzSWtsWEthb1NKRWtUbnFPWl9IVGZTQi1neVN4WjFoVzE1dl9uLUtWRERMbU9wbXBxd0JheTM2SFB0VzYzWVFJNVFqRU1BV3hIYWx4ZlNxVC03N3l6MzJGRkpHTG5nUkxRTkU?oc=5\" target=\"_blank\">AMD fires back at Nvidia, claiming 256-core Zen 6 'Venice' CPU beats Vera by 3.3x in rack-level performance — company shares first estimated EPYC Venice benchmarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-06-10T16:00:29+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "Exclusive | Anti-Nvidia Data-Center Startup Is Valued at $1.55 Billion in New Funding Round - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDY2MUdBemFxVm1BU1gzWkcxeDRYR2ZoVE11T0ZESnotQ1ViR05oUFVCUmVWdFh2cm5WcGZScTRzQjZvOWtmYmFBSVdOd0wyRWpLNWtHZV8zajc4aEJoOUF6NTBKMFdBZzBLRG9HRjBUR1Nocl9XS0tlbk9TeEdfeHkwamZjWnV3VHZIbnozSW5KbEpsZGo1OGlrNUxYY0VvSTVsd3U3SHRwUktSMWROeEd5Tkh3Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDY2MUdBemFxVm1BU1gzWkcxeDRYR2ZoVE11T0ZESnotQ1ViR05oUFVCUmVWdFh2cm5WcGZScTRzQjZvOWtmYmFBSVdOd0wyRWpLNWtHZV8zajc4aEJoOUF6NTBKMFdBZzBLRG9HRjBUR1Nocl9XS0tlbk9TeEdfeHkwamZjWnV3VHZIbnozSW5KbEpsZGo1OGlrNUxYY0VvSTVsd3U3SHRwUktSMWROeEd5Tkh3Zw?oc=5\" target=\"_blank\">Exclusive | Anti-Nvidia Data-Center Startup Is Valued at $1.55 Billion in New Funding Round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-06-10T15:35:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "NVIDIA CEO tells graduates to embrace AI or risk falling behind - KOMO",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbWpDdHJPbDJid1lXaVRKVWg0TWpDdlVYSHlIbVRBSlNVMVpFMkNTbHMzaWJ3b1pGelk1TDhiOHpaY0FSWGkxZVV6UDlBXzExTklBLWxieWNxZ1pSUWpySEg5WWNwZ2QtS0VYWlNHVFB1OGdpcndEc2VPRVptakVRbVc4dk5NZkNmOVFMVTlJMm5zVEtLTzgzQVJZNjM2aUxpX2ExbnRVU0J3Y19oNXlhOXV0QlY2WE9QSXBKTnk3ZW9fWXkzeF9VYkZDR0lCeGllMzQ3LW8yVTZmbklmakcwek1DdlRQWkpiZ3UxYnF1d1VWRFE4YTZPVjNfUWVpcUJwMnpUMGRFdHJzMEtmWFBQM1dYSW5VTWp3aWI3SzVDSlFaU0VSZjlIUEpjaGhrNWZfRERXSzdhSmVBaEtxSV9JTzZSUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbWpDdHJPbDJid1lXaVRKVWg0TWpDdlVYSHlIbVRBSlNVMVpFMkNTbHMzaWJ3b1pGelk1TDhiOHpaY0FSWGkxZVV6UDlBXzExTklBLWxieWNxZ1pSUWpySEg5WWNwZ2QtS0VYWlNHVFB1OGdpcndEc2VPRVptakVRbVc4dk5NZkNmOVFMVTlJMm5zVEtLTzgzQVJZNjM2aUxpX2ExbnRVU0J3Y19oNXlhOXV0QlY2WE9QSXBKTnk3ZW9fWXkzeF9VYkZDR0lCeGllMzQ3LW8yVTZmbklmakcwek1DdlRQWkpiZ3UxYnF1d1VWRFE4YTZPVjNfUWVpcUJwMnpUMGRFdHJzMEtmWFBQM1dYSW5VTWp3aWI3SzVDSlFaU0VSZjlIUEpjaGhrNWZfRERXSzdhSmVBaEtxSV9JTzZSUQ?oc=5\" target=\"_blank\">NVIDIA CEO tells graduates to embrace AI or risk falling behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
-      "published": "2026-06-11T14:18:27+00:00",
-      "source": "KOMO"
-    },
-    {
-      "title": "NVIDIA CEO tells graduates to embrace AI or risk falling behind - WCYB",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPOFk5dTB4MTZ2QV8yeXkzZjVMamhEQmVPRFlkN2VYQ2J1NTg0S0Z2dTh1Snc0SEJwTFNHeEtva3BPQVNZWjNUWjVYVkNoVFdkQk1QTXpSS0dLYjhyeWtyRmpNMzYyZEExdUk5R05yM3NabTdXS29oZVBoWkFyNzUtcHBSS2NQbUNOTnprSkF0dm9LZWhMR1dBRnFDV3loZG5tdGlrRjkzTnJQS3Z2ZmZ4UU9aVEx1MlpiZ2xvS21Qb2NDX08tdTVXdDhSalNrb0R2TFdEZnM5VHc5T0E3Rlcwdm1TWFJma2RhUFNFMkZjSkZSX3hEWHdiVWpMNXdQUkZPNHJwWEYwQUxCRk1QZnE2ZDE0UWxqVkRoR3Z5TjdsREUwb3pkamkxTlpzcXJzaW5ZOE9pWVRIT3Rxb1E2NHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxPOFk5dTB4MTZ2QV8yeXkzZjVMamhEQmVPRFlkN2VYQ2J1NTg0S0Z2dTh1Snc0SEJwTFNHeEtva3BPQVNZWjNUWjVYVkNoVFdkQk1QTXpSS0dLYjhyeWtyRmpNMzYyZEExdUk5R05yM3NabTdXS29oZVBoWkFyNzUtcHBSS2NQbUNOTnprSkF0dm9LZWhMR1dBRnFDV3loZG5tdGlrRjkzTnJQS3Z2ZmZ4UU9aVEx1MlpiZ2xvS21Qb2NDX08tdTVXdDhSalNrb0R2TFdEZnM5VHc5T0E3Rlcwdm1TWFJma2RhUFNFMkZjSkZSX3hEWHdiVWpMNXdQUkZPNHJwWEYwQUxCRk1QZnE2ZDE0UWxqVkRoR3Z5TjdsREUwb3pkamkxTlpzcXJzaW5ZOE9pWVRIT3Rxb1E2NHc?oc=5\" target=\"_blank\">NVIDIA CEO tells graduates to embrace AI or risk falling behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCYB</font>",
-      "published": "2026-06-11T14:25:29+00:00",
-      "source": "WCYB"
-    },
-    {
-      "title": "Here are Thursday's biggest analyst calls: SpaceX, Nvidia, Tesla, Intel, Micron, Oracle, Meta, AMD & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2tyRVZtV1otM29GUVdKN1RzOWxzeWh3SXJaSVVDSEJIVkVjN0FzMVdRaDYtSnlVMjd5ZmNfNnEwM194NnNSYmpVVjRQRkJfS0NOb0RnaGdUdUZsQ3hUTGdSQzNHOWNpNTFKZkZrcFFES29jZjk2QVFvQmNYWnNvVTVnWUdzbV9JZmFrT2g3ekRZcWJtUjlya1JTM1U0OGZIR0c0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2tyRVZtV1otM29GUVdKN1RzOWxzeWh3SXJaSVVDSEJIVkVjN0FzMVdRaDYtSnlVMjd5ZmNfNnEwM194NnNSYmpVVjRQRkJfS0NOb0RnaGdUdUZsQ3hUTGdSQzNHOWNpNTFKZkZrcFFES29jZjk2QVFvQmNYWnNvVTVnWUdzbV9JZmFrT2g3ekRZcWJtUjlya1JTM1U0OGZIR0c0?oc=5\" target=\"_blank\">Here are Thursday's biggest analyst calls: SpaceX, Nvidia, Tesla, Intel, Micron, Oracle, Meta, AMD & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-06-11T12:42:13+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "KKR Launches $10 Billion AI Infrastructure Company With Nvidia, Vistra - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQktXelhiWm9rZGloSXN4RTlYSnI5WEFaSVNMSi1tMzFvYmotcVFEbXF5eFpuUDl6N1JGU2ptQkpnLTl2cHVYaVMtTENEdFlkQkNYN2w4dk4tY0prNUJyaElmeFZXZDBhYnFkaENKOVZHS0RiQkZOX3VhTndJdkNFd0VpQUE1cWk5ZVJtemxHVEktak5kY1U3NVNkSWxMTExBX3VEY0t4R3RIcVo4R1hnSjBKVkVQQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQktXelhiWm9rZGloSXN4RTlYSnI5WEFaSVNMSi1tMzFvYmotcVFEbXF5eFpuUDl6N1JGU2ptQkpnLTl2cHVYaVMtTENEdFlkQkNYN2w4dk4tY0prNUJyaElmeFZXZDBhYnFkaENKOVZHS0RiQkZOX3VhTndJdkNFd0VpQUE1cWk5ZVJtemxHVEktak5kY1U3NVNkSWxMTExBX3VEY0t4R3RIcVo4R1hnSjBKVkVQQQ?oc=5\" target=\"_blank\">KKR Launches $10 Billion AI Infrastructure Company With Nvidia, Vistra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-06-11T11:28:00+00:00",
-      "source": "WSJ"
+      "title": "Wall Street Bullish on Nvidia (NVDA), Is It a Good Stock to Buy? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHZMa3N1SXdHdDhtZUdqTXBwcDgxTjJYLWVERHBvVkxxRms1OTVtd2tmbVh4M3pUYXNVczgyZkJoajVoVW13dlg3T0hTSmRxc0cwN3pWQ3BrTGFBNDlZQWNWbzB3QWh2WFViSnRuTlc3N0g3dTNVNGU0dy1VQXlsZnhKanV4UDhYRnpPV0JnbDdvbDM5bDN1U2RQT1U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZHZMa3N1SXdHdDhtZUdqTXBwcDgxTjJYLWVERHBvVkxxRms1OTVtd2tmbVh4M3pUYXNVczgyZkJoajVoVW13dlg3T0hTSmRxc0cwN3pWQ3BrTGFBNDlZQWNWbzB3QWh2WFViSnRuTlc3N0g3dTNVNGU0dy1VQXlsZnhKanV4UDhYRnpPV0JnbDdvbDM5bDN1U2RQT1U?oc=5\" target=\"_blank\">Wall Street Bullish on Nvidia (NVDA), Is It a Good Stock to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-12T13:08:28+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
+    {
+      "title": "CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5\" target=\"_blank\">CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "published": "2026-06-11T20:08:40+00:00",
+      "source": "Stocktwits"
+    },
     {
       "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUZlQXhzZ1BxZUpwQlY5LUhuOEw4ZGdycGpKWWdXZUh2VUlZb3pldEEwajFLVVZjZVczTEFVOGE4VmJlc0g2YjdoZjBBWGxIN192R2NJT05ETlBEUUtLT2w5SmhsRFdWMnlobVh2SG1ZWFJ1V0haV2tSSlZ5X1FaXy1BeWtXekt3UGlpZ1hkeGx0OUlTUlFkRHFpM2ZURkFOTFEyWk1PWVl1ZGoyTjVF?oc=5",
@@ -77,13 +84,6 @@
       "source": "Yahoo Finance Singapore"
     },
     {
-      "title": "Deloitte launches 'Adopt 100' programme with NVIDIA to accelerate AI adoption for businesses - Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0RoeHJ4VE5femZlQVIzUE9rVXk4RGtwN2JEbnpaclpWMEs0ZEozZm1qWXdRTG5yeTVOV2I2VU54emR6dk9TNUxsa3hyOENlblhZY1ltZmxuVjhhbHB6RnJrWlY0MkluWHpRQzV5R0E0U1JPYTF3LTJyMFNfbFB0d2NMNjdKZWFFLUJSQ3N2c3JfS1p6Yy1LSmNpeEJNeXNraWxOTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0RoeHJ4VE5femZlQVIzUE9rVXk4RGtwN2JEbnpaclpWMEs0ZEozZm1qWXdRTG5yeTVOV2I2VU54emR6dk9TNUxsa3hyOENlblhZY1ltZmxuVjhhbHB6RnJrWlY0MkluWHpRQzV5R0E0U1JPYTF3LTJyMFNfbFB0d2NMNjdKZWFFLUJSQ3N2c3JfS1p6Yy1LSmNpeEJNeXNraWxOTA?oc=5\" target=\"_blank\">Deloitte launches 'Adopt 100' programme with NVIDIA to accelerate AI adoption for businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>",
-      "published": "2026-06-09T06:34:30+00:00",
-      "source": "Deloitte"
-    },
-    {
       "title": "Qualcomm stock under pressure as Nvidia unveils new product - thestreet.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWdoSmcxUUlTSDBXY2RLU2lFZUxoeDJOc0o3MzZYVnJhOGJZTDJPajVmRDZ1MTFlamlfZ3o5QzQwYzU1NmdNMnh3MEtzU1lVV3YwR1N3MzB6UWJfT2pjZWUwV0dSYlZJZXM1d3lYZXpCQWo2RDVwazUyN3ZTRll6OXpCZFZmUC1HZVVBel85X3U4RVduNUZJeDJmVEtiME0?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWdoSmcxUUlTSDBXY2RLU2lFZUxoeDJOc0o3MzZYVnJhOGJZTDJPajVmRDZ1MTFlamlfZ3o5QzQwYzU1NmdNMnh3MEtzU1lVV3YwR1N3MzB6UWJfT2pjZWUwV0dSYlZJZXM1d3lYZXpCQWo2RDVwazUyN3ZTRll6OXpCZFZmUC1HZVVBel85X3U4RVduNUZJeDJmVEtiME0?oc=5\" target=\"_blank\">Qualcomm stock under pressure as Nvidia unveils new product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
@@ -91,25 +91,21 @@
       "source": "thestreet.com"
     },
     {
-      "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tWC1RTUduWnF4eHdMaE13SzhxSkI0LVZfTVJ1aWJxWTBQZ01PbmlTU1hfU0xqcmR4ZXdEQTdUMVlaSXdPQXYzYUxEX1VFdFpEMjNob2JWMXduTmR3cks3TlVyU29qZjA4UkJoUGRZdjlnLVJ6dDJz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9tWC1RTUduWnF4eHdMaE13SzhxSkI0LVZfTVJ1aWJxWTBQZ01PbmlTU1hfU0xqcmR4ZXdEQTdUMVlaSXdPQXYzYUxEX1VFdFpEMjNob2JWMXduTmR3cks3TlVyU29qZjA4UkJoUGRZdjlnLVJ6dDJz?oc=5\" target=\"_blank\">NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-05-31T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
+      "title": "Deloitte launches 'Adopt 100' programme with NVIDIA to accelerate AI adoption for businesses - Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0RoeHJ4VE5femZlQVIzUE9rVXk4RGtwN2JEbnpaclpWMEs0ZEozZm1qWXdRTG5yeTVOV2I2VU54emR6dk9TNUxsa3hyOENlblhZY1ltZmxuVjhhbHB6RnJrWlY0MkluWHpRQzV5R0E0U1JPYTF3LTJyMFNfbFB0d2NMNjdKZWFFLUJSQ3N2c3JfS1p6Yy1LSmNpeEJNeXNraWxOTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0RoeHJ4VE5femZlQVIzUE9rVXk4RGtwN2JEbnpaclpWMEs0ZEozZm1qWXdRTG5yeTVOV2I2VU54emR6dk9TNUxsa3hyOENlblhZY1ltZmxuVjhhbHB6RnJrWlY0MkluWHpRQzV5R0E0U1JPYTF3LTJyMFNfbFB0d2NMNjdKZWFFLUJSQ3N2c3JfS1p6Yy1LSmNpeEJNeXNraWxOTA?oc=5\" target=\"_blank\">Deloitte launches 'Adopt 100' programme with NVIDIA to accelerate AI adoption for businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>",
+      "published": "2026-06-09T06:34:30+00:00",
+      "source": "Deloitte"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-11",
-      "close": 200.75
+      "date": "2026-06-12",
+      "close": 205.6999969482422
     },
     "history": [
-      {
-        "date": "2026-06-03",
-        "close": 214.5
-      },
       {
         "date": "2026-06-04",
         "close": 218.66000366210938
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-06-11",
-        "close": 200.75
+        "close": 204.8699951171875
+      },
+      {
+        "date": "2026-06-12",
+        "close": 205.6999969482422
       }
     ],
     "name": "NVIDIA Corporation"
