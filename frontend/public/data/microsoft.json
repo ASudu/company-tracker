@@ -2,79 +2,86 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-06-14T13:28:09.867607+00:00",
+  "fetched_at": "2026-06-15T16:57:00.436393+00:00",
   "news": [
+    {
+      "title": "FBI warns Microsoft Teams, Outlook, OneDrive users of phishing scam - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1FUT0YyTGh0TU9Bc3Mza25iZXB5MFZsSV8wZFVoN2ZCLS1hTTdQdDJpclBsYWY0VVZuOHkyODdZMkNPaC04d2ZNZnhaZ3RTY292U0NlWWEzazdINzdxRU9nQ2NfSl9ma0prZjNYaXEySTVwanI1TTFBRmI1WnRrcE1vMUdHM1E3TE82VTMxZ1Bmc1BZOXNBX3Q0NjlpaG9nZ2dPdTlrclM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc1FUT0YyTGh0TU9Bc3Mza25iZXB5MFZsSV8wZFVoN2ZCLS1hTTdQdDJpclBsYWY0VVZuOHkyODdZMkNPaC04d2ZNZnhaZ3RTY292U0NlWWEzazdINzdxRU9nQ2NfSl9ma0prZjNYaXEySTVwanI1TTFBRmI1WnRrcE1vMUdHM1E3TE82VTMxZ1Bmc1BZOXNBX3Q0NjlpaG9nZ2dPdTlrclM?oc=5\" target=\"_blank\">FBI warns Microsoft Teams, Outlook, OneDrive users of phishing scam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "published": "2026-06-15T08:03:31+00:00",
+      "source": "Fast Company"
+    },
+    {
+      "title": "Microsoft CEO warns that a few AI winners could destroy 'entire industries' - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09wREU4RlpCbVIwRE9fQXlmRm1NUENCbHNvbDQtVkFkQVZEYnlOV0t1Q2l6WTZSb1F2Y1oxSDVGVWRHclJFMnJ5WHZZd2M0a3FYOE5YdTU4VmZXYnRRdGladVlDWG1HRHJTSGZsZm1YZGJTSkF4akhocHVjTTczNDZtVTgyT2FjZ3JvVlR0d2RSV1RSbGREb0UyMmp4WFlkaE9CMXh1OHg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09wREU4RlpCbVIwRE9fQXlmRm1NUENCbHNvbDQtVkFkQVZEYnlOV0t1Q2l6WTZSb1F2Y1oxSDVGVWRHclJFMnJ5WHZZd2M0a3FYOE5YdTU4VmZXYnRRdGladVlDWG1HRHJTSGZsZm1YZGJTSkF4akhocHVjTTczNDZtVTgyT2FjZ3JvVlR0d2RSV1RSbGREb0UyMmp4WFlkaE9CMXh1OHg?oc=5\" target=\"_blank\">Microsoft CEO warns that a few AI winners could destroy 'entire industries'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-06-15T04:09:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Microsoft sued by shareholders over expenses, cloud business, AI - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnNuUDJVREYwYVZuZlQ5Y0JiRTFTN1B3ZUc5OU95UEw4Zk1fS0NGazZmQ1Vsc2xTdTJaNlBwNXdDQmZIM2NsT1l1d1BxVExrcjdURGMwT0JlVy1Jd1RXTVpEVlJvakVMcENITjVhSGRlSXhCa0lrQ1RJd0drMTZPSzE1dVNXR3ZKQWJlaDByU0lYY2xQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnNuUDJVREYwYVZuZlQ5Y0JiRTFTN1B3ZUc5OU95UEw4Zk1fS0NGazZmQ1Vsc2xTdTJaNlBwNXdDQmZIM2NsT1l1d1BxVExrcjdURGMwT0JlVy1Jd1RXTVpEVlJvakVMcENITjVhSGRlSXhCa0lrQ1RJd0drMTZPSzE1dVNXR3ZKQWJlaDByU0lYY2xQ?oc=5\" target=\"_blank\">Microsoft sued by shareholders over expenses, cloud business, AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+      "published": "2026-06-15T15:48:44+00:00",
+      "source": "Yahoo! Finance Canada"
+    },
+    {
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVRTVXRfVW45UlJ3YjlkdzJSVVpNTFVPeXBMdUhNTjdGdU9VdVZ4QVNxankyWXUxTVZsaEVqLXV1MTR6ZUxrNXZBOVI3eE9fWjJvNWdwM3pIZUtuYVhMTnB3bWhGTFl4QmJXak5EZzY5ZG56bEtKRThCS0oxSU5ucw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVRTVXRfVW45UlJ3YjlkdzJSVVpNTFVPeXBMdUhNTjdGdU9VdVZ4QVNxankyWXUxTVZsaEVqLXV1MTR6ZUxrNXZBOVI3eE9fWjJvNWdwM3pIZUtuYVhMTnB3bWhGTFl4QmJXak5EZzY5ZG56bEtKRThCS0oxSU5ucw?oc=5\" target=\"_blank\">One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-06-15T15:09:00+00:00",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "“We want to go head-to-head with Microsoft and Okta”: NewCore emerges with $66M to rebuild identity security - CTech",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Nam1qdVVpWG9rVC02M01YbHVIUl8xd3YxSGlmNTd2OElNbmJVODlUcHNtcDNqTFU5Rno4OHFJcVE1el9HTURNOE1YRTlkOXcxZ3lvT0lUcnkxcllZX3I3a1FZRWFfLUhC?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Nam1qdVVpWG9rVC02M01YbHVIUl8xd3YxSGlmNTd2OElNbmJVODlUcHNtcDNqTFU5Rno4OHFJcVE1el9HTURNOE1YRTlkOXcxZ3lvT0lUcnkxcllZX3I3a1FZRWFfLUhC?oc=5\" target=\"_blank\">“We want to go head-to-head with Microsoft and Okta”: NewCore emerges with $66M to rebuild identity security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTech</font>",
+      "published": "2026-06-15T13:00:00+00:00",
+      "source": "CTech"
+    },
     {
       "title": "Microsoft Has Considered Spinning Out Xbox, Plans New ‘Halo,’ ‘Fallout’ Games - The Information",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjJ5N1lBVzBnN3ZrSDc5dFFWZVpDWG9EZGs2VGVvQVl6NmpiUzFqaWs3ODBaZzllRWd0UFpvSnFuZkl1dHlxdEx0eWRBODkzdm5HRHZmRDNUdmJuR2Q4clRUU0wwWFhhVWpyS2l5OEJuam9WZ2NjWnN5RnBjVFRpUThVb3dPX2hUMnhXa3BGWWRtbjExd0Z3UWNJSWxCNW5tbFZWZTNR?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjJ5N1lBVzBnN3ZrSDc5dFFWZVpDWG9EZGs2VGVvQVl6NmpiUzFqaWs3ODBaZzllRWd0UFpvSnFuZkl1dHlxdEx0eWRBODkzdm5HRHZmRDNUdmJuR2Q4clRUU0wwWFhhVWpyS2l5OEJuam9WZ2NjWnN5RnBjVFRpUThVb3dPX2hUMnhXa3BGWWRtbjExd0Z3UWNJSWxCNW5tbFZWZTNR?oc=5\" target=\"_blank\">Microsoft Has Considered Spinning Out Xbox, Plans New ‘Halo,’ ‘Fallout’ Games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzgyNmFEamxYaUcyeVdSTnNLZDc3ajVVSGwwSlVFZlZoS3lBRzREelhDVG0tbXhYYnItU25zTE9sQWlPbE5XSHVHWkpJTWRScjYzUTJhQmRZdFRsQjlNMUFXQ295al9Kc3NkYkIwUjkzV09CWXY5cDRBVlFNYTY5dUxmaFQ0ak1scWtaZ3lCUDJVNnM1cnF2dkZUaDREQmVVRDg0Q1B6b203ZXc?oc=5\" target=\"_blank\">Microsoft has considered spinning off Xbox, the Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSi1XQXlNT0M3M19ramVROFFsYnpTcmE1S1NhZTg5ZF8tWXpudVQyVC1sZTVZeWk3VWZsMEFMY3R0YUVLcUwtZ1JVRHVyNXhXem8tVWxsNUhPSkZJZVlyWWJyMFZUZmlsaGpPZ25YMkJrcjhZa3AzR05rMF9NbXoydjRoN3hIeThhdEZ6UVk1dDFpeUhZWFBlUjBjVG1WYW1IWlJRLUlOWlFMbmtfdHBJem1LY2JTdw?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella on Xbox: ‘We have to turn this into a sustainable business’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font></li></ol>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjJ5N1lBVzBnN3ZrSDc5dFFWZVpDWG9EZGs2VGVvQVl6NmpiUzFqaWs3ODBaZzllRWd0UFpvSnFuZkl1dHlxdEx0eWRBODkzdm5HRHZmRDNUdmJuR2Q4clRUU0wwWFhhVWpyS2l5OEJuam9WZ2NjWnN5RnBjVFRpUThVb3dPX2hUMnhXa3BGWWRtbjExd0Z3UWNJSWxCNW5tbFZWZTNR?oc=5\" target=\"_blank\">Microsoft Has Considered Spinning Out Xbox, Plans New ‘Halo,’ ‘Fallout’ Games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMi1fY1E5aVhFbXNrYzI5WUViSVFJZl8tcWRmS0ZkQzNVM1hMU0hFN0ZkTVFuRVRoOXpoa3BUdTU2MUtaNTVsanhyeG1kWGdJLVdXaS00dVVOQkIzUEFoZmdtdXUya0dZVlNWQ2Y4eTFfM0xlYWRRZjJuQTVwMG9Rb3FfTi00UFFtX2JudTJrYjVFNTRsLWNzMU9nb2J1WkpqWlhHVS1Fa0JYT3ptS2p1aEFZRUJLRm9XOWdxNHM0dEQ2czFBU0ppN1FkZ3FWeEI1SkZZbFFOSlBDazk2VGRSeG0xc2plQWxNVTUxcQ?oc=5\" target=\"_blank\">PowerA now wants in on Microsoft Flight Simulator 2024 with a specialist new controller, and it'll work on Xbox, too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjVLZUV3aVhsZWJHTjQ5clNVRlgtdDVpSWJEM3pGY19zbVhwYm9lSk80UTNVQ3ozSHJ6RjBzRW5aM1Q0UExkbVBsVlRsaFZQT3hZcDJfT2pKYjdseE9FSWlfXzI2LUs1aHFtOFRTU1laTTB3M0RyVkV6S25icWhFSlJ3?oc=5\" target=\"_blank\">Report: Microsoft weighing up spinning off Xbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamesIndustry.biz</font></li></ol>",
       "published": "2026-06-12T18:10:00+00:00",
       "source": "The Information"
     },
     {
-      "title": "Better Stock to Buy Now: Amazon vs. Microsoft - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUVoY2wycGw0eXhab1dRZThVVnFnX2xlalYyd0JUd1ZrajNqRnNzTmViOTUtaXB0S0VXc0xhWE1FVXVJcUdLZjBGQ1drX3h3UjBVWUJ2NkhiRExpN3ZjME02WTBCVkljUnl1SDBfT1NmaFVVWDdMcWpsbkFldGZsSU9wdmdLVHlOUVdVZXNOWFlONVQ4WG04?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUVoY2wycGw0eXhab1dRZThVVnFnX2xlalYyd0JUd1ZrajNqRnNzTmViOTUtaXB0S0VXc0xhWE1FVXVJcUdLZjBGQ1drX3h3UjBVWUJ2NkhiRExpN3ZjME02WTBCVkljUnl1SDBfT1NmaFVVWDdMcWpsbkFldGZsSU9wdmdLVHlOUVdVZXNOWFlONVQ4WG04?oc=5\" target=\"_blank\">Better Stock to Buy Now: Amazon vs. Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-14T11:50:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Microsoft: Falling Knife or Once-in-a-Decade Buying Opportunity? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVm9HTGZCNGZlSXNyWHlhdFZIb0xkQm92UjgwRVQ5cjRMZEhlRWVtaXRtam1yN3VIQUhRekNBMWpPeXFsVVgxaUtRcGtoMEdJSkF2emFoWGwzeUlYR21iMEpvenNkRWJ4RW42SDUtNWtTSFVucjV1aW9pTTJGN0htaDRuXzNqLTlZVDRvSDA2NXJEYUNLWDZsZQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVm9HTGZCNGZlSXNyWHlhdFZIb0xkQm92UjgwRVQ5cjRMZEhlRWVtaXRtam1yN3VIQUhRekNBMWpPeXFsVVgxaUtRcGtoMEdJSkF2emFoWGwzeUlYR21iMEpvenNkRWJ4RW42SDUtNWtTSFVucjV1aW9pTTJGN0htaDRuXzNqLTlZVDRvSDA2NXJEYUNLWDZsZQ?oc=5\" target=\"_blank\">Microsoft: Falling Knife or Once-in-a-Decade Buying Opportunity?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-06-15T12:05:00+00:00",
+      "source": "The Motley Fool"
     },
     {
-      "title": "Microsoft and Uber hit an AI budget wall — and that’s good news for Canadians worried about losing their jobs to tech - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1RzOVZ5QTg5ZVJhWG82ajY4RVdtZEpxcTlFT1BoT3RsWnpKczVEM1BKRW9ZVTEzTW9fUnl6N1QxQngzbkQxemQwdUR2eUpjM0MzUV9BdHlRdkcwM1lVNExYNDQtcC15aV9VTlJMVFBiVUZrRmVLSXR1U3ZmbHVneXNEYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1RzOVZ5QTg5ZVJhWG82ajY4RVdtZEpxcTlFT1BoT3RsWnpKczVEM1BKRW9ZVTEzTW9fUnl6N1QxQngzbkQxemQwdUR2eUpjM0MzUV9BdHlRdkcwM1lVNExYNDQtcC15aV9VTlJMVFBiVUZrRmVLSXR1U3ZmbHVneXNEYw?oc=5\" target=\"_blank\">Microsoft and Uber hit an AI budget wall — and that’s good news for Canadians worried about losing their jobs to tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-06-14T11:30:00+00:00",
-      "source": "Yahoo! Finance Canada"
-    },
-    {
-      "title": "Microsoft paid $20 million to protect one letter from Linux - XDA",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TTm1idmdhdXpubUhkczBndm9Baloza1hMUzBWZ29mSThRbzdsZi1fYWNPaUNRUEN3V0UzaXR0and5SmtnZUZXcmQtaE5RWHNFQ0hFaWJtRXZYbFRLa1REcFRPeXBTWDFNREY2dHRmWl9pREtEZHRr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5TTm1idmdhdXpubUhkczBndm9Baloza1hMUzBWZ29mSThRbzdsZi1fYWNPaUNRUEN3V0UzaXR0and5SmtnZUZXcmQtaE5RWHNFQ0hFaWJtRXZYbFRLa1REcFRPeXBTWDFNREY2dHRmWl9pREtEZHRr?oc=5\" target=\"_blank\">Microsoft paid $20 million to protect one letter from Linux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XDA</font>",
-      "published": "2026-06-13T16:30:22+00:00",
-      "source": "XDA"
-    },
-    {
-      "title": "Microsoft And Quantinuum Report on Major Gains in Quantum Error Correction - The Quantum Insider",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWZ3VUJTZjcwWkdydG44QTljMS1lLWh2TlFualVFbEloODRxaFdLOWFmelVIQVlEOWZuZHlJTEJxZ2R2RE5ORkFzaVNrbWlXU2dlUG9uMDJValZfZmFrSnhIQTM0X3FfWXZDUGhZQk4wdzBVNzNNZUpjd1RDSTc4UmVQc0NKclRoTERSLVk0WlZRSEpFOThSWVlQYUprRkI2V0lGTWEweXRmTXRvbURmNkJTM3RtWVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWZ3VUJTZjcwWkdydG44QTljMS1lLWh2TlFualVFbEloODRxaFdLOWFmelVIQVlEOWZuZHlJTEJxZ2R2RE5ORkFzaVNrbWlXU2dlUG9uMDJValZfZmFrSnhIQTM0X3FfWXZDUGhZQk4wdzBVNzNNZUpjd1RDSTc4UmVQc0NKclRoTERSLVk0WlZRSEpFOThSWVlQYUprRkI2V0lGTWEweXRmTXRvbURmNkJTM3RtWVE?oc=5\" target=\"_blank\">Microsoft And Quantinuum Report on Major Gains in Quantum Error Correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "published": "2026-06-13T14:04:32+00:00",
-      "source": "The Quantum Insider"
-    },
-    {
-      "title": "Insider trades: Microsoft, Tesla, Pfizer among notable names - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVG9mOW8xbmt2b2FCOHJKQWFScW50UWRvcmdCdG9aX18wWE9nV2RycXNDSjJlcGRTY3VTc3M1RTJ5dHYtM01NUG9abGU5eHNpcGxERVRta2x0M2tiV1drMlM0MG81Z2hNLTZoaV9nRjRwR1RqU1lTbE5vbFJDWmI3WUswZzJVYUIwTFhMTXZyYXd5NDRUcFM5NDBhUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVG9mOW8xbmt2b2FCOHJKQWFScW50UWRvcmdCdG9aX18wWE9nV2RycXNDSjJlcGRTY3VTc3M1RTJ5dHYtM01NUG9abGU5eHNpcGxERVRta2x0M2tiV1drMlM0MG81Z2hNLTZoaV9nRjRwR1RqU1lTbE5vbFJDWmI3WUswZzJVYUIwTFhMTXZyYXd5NDRUcFM5NDBhUQ?oc=5\" target=\"_blank\">Insider trades: Microsoft, Tesla, Pfizer among notable names</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-06-13T15:03:25+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Microsoft Stock Is Having a Rough Week. It’s the Latest AI Play Under Pressure. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8weE5HZlNudnhFeW1GRnVrZktad0lGV2xBbXZXZHZyOG9BSHRtM2JDYTdnVVpnNjFvMzNlMzBIZUtSekZmQlkwX2pTcktPU21BVHItaGZFV2VKNU0yQW80X0E5SW9FOTExR0FfaHAtTzliMk5mbnRkMw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8weE5HZlNudnhFeW1GRnVrZktad0lGV2xBbXZXZHZyOG9BSHRtM2JDYTdnVVpnNjFvMzNlMzBIZUtSekZmQlkwX2pTcktPU21BVHItaGZFV2VKNU0yQW80X0E5SW9FOTExR0FfaHAtTzliMk5mbnRkMw?oc=5\" target=\"_blank\">Microsoft Stock Is Having a Rough Week. It’s the Latest AI Play Under Pressure.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-06-12T18:04:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Microsoft released Windows 11 KB5094149 / KB5095971 / KB5094156 Setup, Recovery updates - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHFLRVpIVk5fZXB0U29JcUR1VnVPWEF5dnZ3UGhlM3lxeHoyNnlmbEFvQk1tNklGbWxfVXAwX0dyanJ0b0lGRnlRWjE3SkxOclRaa0Z1T2ZYTmdtNm9hSjdET21xYnpCNy1IVUJja25KeHY2aEdxblZQQXNoa01IbVhRdTNqYVZzSmNsbkRUY2FaVnNxaTE0MFh6cWZvTEpDeHdSZTFUNC1lYVNyTnRLQU5ydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxObHFLRVpIVk5fZXB0U29JcUR1VnVPWEF5dnZ3UGhlM3lxeHoyNnlmbEFvQk1tNklGbWxfVXAwX0dyanJ0b0lGRnlRWjE3SkxOclRaa0Z1T2ZYTmdtNm9hSjdET21xYnpCNy1IVUJja25KeHY2aEdxblZQQXNoa01IbVhRdTNqYVZzSmNsbkRUY2FaVnNxaTE0MFh6cWZvTEpDeHdSZTFUNC1lYVNyTnRLQU5ydw?oc=5\" target=\"_blank\">Microsoft released Windows 11 KB5094149 / KB5095971 / KB5094156 Setup, Recovery updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "published": "2026-06-13T19:14:00+00:00",
-      "source": "Neowin"
+      "title": "“Why do I need an account for this” Windows 11 users call out new requirements - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZC1yVi1UbE1VZFVwZ0hqaGszQmhDNVRwMXJPbkJsdkN4MWxJNzdaak5kQmo5d0JQVFJoMXFHR0prQXBaS2s1Q2xPaUpIMmJsWjB0MUotNU9TSmplOFRhcGlkYWk0anhlVDV6cnRyNkgwY2RVNFJwbHZrUFVSZ2xSYVRyRVNVZWVzZkUzbTdKTTdIZDRZWGxGOFlwVFplRW9FdjFBaF9LSmZWcTV6SEFGZEFGckxDVUVVblpFLXBHTWtfVTN2eHlr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPZC1yVi1UbE1VZFVwZ0hqaGszQmhDNVRwMXJPbkJsdkN4MWxJNzdaak5kQmo5d0JQVFJoMXFHR0prQXBaS2s1Q2xPaUpIMmJsWjB0MUotNU9TSmplOFRhcGlkYWk0anhlVDV6cnRyNkgwY2RVNFJwbHZrUFVSZ2xSYVRyRVNVZWVzZkUzbTdKTTdIZDRZWGxGOFlwVFplRW9FdjFBaF9LSmZWcTV6SEFGZEFGckxDVUVVblpFLXBHTWtfVTN2eHlr?oc=5\" target=\"_blank\">“Why do I need an account for this” Windows 11 users call out new requirements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-06-14T13:18:33+00:00",
+      "source": "Windows Central"
     }
   ],
   "product_launches": [
+    {
+      "title": "Introducing Microsoft Scout: Your always-on personal agent - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5\" target=\"_blank\">Introducing Microsoft Scout: Your always-on personal agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-06-02T07:00:00+00:00",
+      "source": "Microsoft"
+    },
+    {
+      "title": "Microsoft Ads launches product explorer for catalog insights - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGJNSjVLNzlLVXNHWjV1a0RWUGVMLWhLaU5iSC1jX01xUnhsbVNaRGZZR2xhZjB0MmVQWmQ5Tm1qN1pFWnhOYnBGY0NTTWRuNUJvNzFiazlvcnlhMjROY0JMMVZqak5rMnJ4b1NnWWtOaGJHa184c0RqMG1Zd00tRi1ZOG5EZDhld18yX28yWWNnM2ZSRVZFczFYSzV1bnFPeksySVM5ME1UQjdkZGJjVDB1dk15Mnc5NVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGJNSjVLNzlLVXNHWjV1a0RWUGVMLWhLaU5iSC1jX01xUnhsbVNaRGZZR2xhZjB0MmVQWmQ5Tm1qN1pFWnhOYnBGY0NTTWRuNUJvNzFiazlvcnlhMjROY0JMMVZqak5rMnJ4b1NnWWtOaGJHa184c0RqMG1Zd00tRi1ZOG5EZDhld18yX28yWWNnM2ZSRVZFczFYSzV1bnFPeksySVM5ME1UQjdkZGJjVDB1dk15Mnc5NVE?oc=5\" target=\"_blank\">Microsoft Ads launches product explorer for catalog insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "published": "2026-06-12T18:24:50+00:00",
+      "source": "MSN"
+    },
     {
       "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5\" target=\"_blank\">NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-05-31T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "Euro-Office: Europe’s Open-Source Alternative to Microsoft 365 Launches - H2S Media",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVBuLV9vNnlkS2xqY0VfQ1h6SDRJR3ZIMDlfTldIajYtQk10cnZSVWExeTczVXdOS2NoWUlqMm1fMVRxMlFrbGlDQjhuN3AwNzVZNWNILU5SWEVzVHdkV01sOV9nbkxXYWZLMUtycktPbDhsWHJwclZ1M19IVW82RXU4czNBRWdzWXJIa2xVRkdwaTVQeV9R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVBuLV9vNnlkS2xqY0VfQ1h6SDRJR3ZIMDlfTldIajYtQk10cnZSVWExeTczVXdOS2NoWUlqMm1fMVRxMlFrbGlDQjhuN3AwNzVZNWNILU5SWEVzVHdkV01sOV9nbkxXYWZLMUtycktPbDhsWHJwclZ1M19IVW82RXU4czNBRWdzWXJIa2xVRkdwaTVQeV9R?oc=5\" target=\"_blank\">Euro-Office: Europe’s Open-Source Alternative to Microsoft 365 Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">H2S Media</font>",
-      "published": "2026-06-10T06:45:12+00:00",
-      "source": "H2S Media"
     },
     {
       "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQekpPLWxBSHdVaEdMX1dTdnVxVGE3S2RFZ0hkeTJ3eHlFdVJJTUhjV21UVzNHRFg2ekFIclJKdkRvNnE1Q0I3Vnp4aXNMZWN3STBndFRRaS01dzNUaU1BTnl0aG1hU0YyQUwyQnU5eTdYOFFJTnVicVNuQWUzYTd5eGxVRE9HX0xCZ1lxTjR3QTZ6SWVZT1J0T1Z2R29QMWZ6bkFCRkN1Y3BEbHUw?oc=5\" target=\"_blank\">Euro-Office, Europe's open-source alternative to Microsoft Office and Google Docs, launches June 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font>",
       "published": "2026-05-28T07:00:00+00:00",
       "source": "ZDNET"
-    },
-    {
-      "title": "Everything you need to know about Euro-Office, Europe's open source alternative to Microsoft 365 and Google Workspace – including features, launch dates, and how to access it - IT Pro",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNb2NjRF9oXy1SX0R4MjREMm4yY2tVNnZrZGFkRHlpVUxJOWtEV2VlSFBnTEFkWUExbUJfUWZEMk5UcU1ESjN4VlFUR0Jsb3hPb0EtTF9qenNjNEJjdkxRcndLUUJmWTB1eFA4TG9tekVkRjlTMlRSOXNoOWtGVi1OODRwN2ctWlU5Um1oSjNvdTM1ZEJmMUpZZ0otOEpkVzJJNVZCYWlkdmE4MUJFTFNVVEFzMFNuLWQyVE5ZX2I3WUo3YkZxYjVhaXZmVGZ4YjJ1NG1oLXNGYXJ4RWFQRS04MXhzNHB2RFJob2RtVmVIR0lZbnV1VEk0VkwwMHBiczFOS291LWlEYUtJanVyZmNWQmJUZmlxZHk2LW5rU0tyelp6a0xuMk4yaVVzSHJIdVpjZDlXWmNR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxNb2NjRF9oXy1SX0R4MjREMm4yY2tVNnZrZGFkRHlpVUxJOWtEV2VlSFBnTEFkWUExbUJfUWZEMk5UcU1ESjN4VlFUR0Jsb3hPb0EtTF9qenNjNEJjdkxRcndLUUJmWTB1eFA4TG9tekVkRjlTMlRSOXNoOWtGVi1OODRwN2ctWlU5Um1oSjNvdTM1ZEJmMUpZZ0otOEpkVzJJNVZCYWlkdmE4MUJFTFNVVEFzMFNuLWQyVE5ZX2I3WUo3YkZxYjVhaXZmVGZ4YjJ1NG1oLXNGYXJ4RWFQRS04MXhzNHB2RFJob2RtVmVIR0lZbnV1VEk0VkwwMHBiczFOS291LWlEYUtJanVyZmNWQmJUZmlxZHk2LW5rU0tyelp6a0xuMk4yaVVzSHJIdVpjZDlXWmNR?oc=5\" target=\"_blank\">Everything you need to know about Euro-Office, Europe's open source alternative to Microsoft 365 and Google Workspace – including features, launch dates, and how to access it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Pro</font>",
-      "published": "2026-06-01T07:00:00+00:00",
-      "source": "IT Pro"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-12",
-      "close": 390.739990234375
+      "date": "2026-06-15",
+      "close": 398.9809875488281
     },
     "history": [
-      {
-        "date": "2026-06-04",
-        "close": 428.04998779296875
-      },
       {
         "date": "2026-06-05",
         "close": 416.6700134277344
@@ -133,6 +129,10 @@
       {
         "date": "2026-06-12",
         "close": 390.739990234375
+      },
+      {
+        "date": "2026-06-15",
+        "close": 398.9809875488281
       }
     ],
     "name": "Microsoft Corporation"

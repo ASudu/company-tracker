@@ -2,21 +2,21 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-06-14T13:28:14.589797+00:00",
+  "fetched_at": "2026-06-15T16:57:05.685500+00:00",
   "news": [
     {
       "title": "How Amazon and the White House ended Anthropic's Fable - Axios",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ral9kZkV6VDBnTWQ1X1ZWdlVWRlJrazdORXFxLVJYU1NGVXJQNUFMZ1pCNXRTeUxORGVXWEliX0NEZ3hXT2dFLXdmRGlzYkstbEk1ZlR1VG83bXVNbDVPZEZlX2Qtb3ZpSFBFVlB3?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ral9kZkV6VDBnTWQ1X1ZWdlVWRlJrazdORXFxLVJYU1NGVXJQNUFMZ1pCNXRTeUxORGVXWEliX0NEZ3hXT2dFLXdmRGlzYkstbEk1ZlR1VG83bXVNbDVPZEZlX2Qtb3ZpSFBFVlB3?oc=5\" target=\"_blank\">How Amazon and the White House ended Anthropic's Fable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-06-14T09:23:42+00:00",
+      "published": "2026-06-14T02:00:38+00:00",
       "source": "Axios"
     },
     {
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzA4SFMyal9QUWlFc3BHak93MzY0d0trVVRTV1V6eVZOM3k5Tkg5X1FsY2pUQmZHR3FjVUVXSzQ2SmFabWpwbUlRejIyZW9sQXBEU1NEWW1sQlktdHRxN3k2SXNEc2xZNmpMMVFWdXJoMUpTLWh2XzJ2ZzlWQnBNTC13dUM3Q0RaR3lSR3V2bm5xcTJtRnR4cmQ5V25wZlpQZVBveg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzA4SFMyal9QUWlFc3BHak93MzY0d0trVVRTV1V6eVZOM3k5Tkg5X1FsY2pUQmZHR3FjVUVXSzQ2SmFabWpwbUlRejIyZW9sQXBEU1NEWW1sQlktdHRxN3k2SXNEc2xZNmpMMVFWdXJoMUpTLWh2XzJ2ZzlWQnBNTC13dUM3Q0RaR3lSR3V2bm5xcTJtRnR4cmQ5V25wZlpQZVBveg?oc=5\" target=\"_blank\">Amazon security research reportedly led to the White House’s Anthropic Fable ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-06-13T21:39:26+00:00",
-      "source": "The Verge"
+      "title": "How a warning from Amazon led the White House to shut down Anthropic’s Mythos model - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUl9hdGFDek5QV2FZR0RXYi1nanRLR2R5SjJ5Y2tLdDNvdEZQM0tKRlVUbzZkSWh0NTR6bVpxOTk5Tk4wZFRXSF9fc2ZTZlZPQXFJVk9yTjN6T2Z3Yjl5R2swaTRDZmVfOXdfWmV3cG5ZbnV1aGJjalFuNEEzbzJnZjJZUjVBY3BhSFF6UU5pdkRvaHA2TmEtaTVvSHB1d3JPWTV6dl8tbkRqLW11YWxXaDJLc2w?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUl9hdGFDek5QV2FZR0RXYi1nanRLR2R5SjJ5Y2tLdDNvdEZQM0tKRlVUbzZkSWh0NTR6bVpxOTk5Tk4wZFRXSF9fc2ZTZlZPQXFJVk9yTjN6T2Z3Yjl5R2swaTRDZmVfOXdfWmV3cG5ZbnV1aGJjalFuNEEzbzJnZjJZUjVBY3BhSFF6UU5pdkRvaHA2TmEtaTVvSHB1d3JPWTV6dl8tbkRqLW11YWxXaDJLc2w?oc=5\" target=\"_blank\">How a warning from Amazon led the White House to shut down Anthropic’s Mythos model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-06-14T21:10:00+00:00",
+      "source": "Fortune"
     },
     {
       "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models - WSJ",
@@ -26,62 +26,55 @@
       "source": "WSJ"
     },
     {
-      "title": "New Amazon AI search turns words into shoppable images - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0pySkRtTjlQX0c1UDBGRjlQT0Z4WGUwYzVUYWpycDhWWWhwNkFkV3NTR1QtVGdwRktnWWJGTVpHQXlqWl9OMFV3Q19ubTRwdGFxV01qd0pSazl1LV9ZM2F2cUFDYnRCal9jcmdDUnhaYkxWbE1LT2kwN25YSjg3dE9VYVBaQdIBiwFBVV95cUxPdFdURDhIU2RSaTEwclNfcjRzRGNXNUdkOHAySDhkODB5Vzh1SXJYOUg3M2NrbGZOWHJmbWx5QjB0LWNjWlpSbU5EOHUzdlVVVlVXeW42MHUwcnBSRVE3a3RuQVAyMmw0bW9mWEJ3Tjh3VGI2OVFiT1RQQWRuak5IcU85UE5CeWFyMXZJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0pySkRtTjlQX0c1UDBGRjlQT0Z4WGUwYzVUYWpycDhWWWhwNkFkV3NTR1QtVGdwRktnWWJGTVpHQXlqWl9OMFV3Q19ubTRwdGFxV01qd0pSazl1LV9ZM2F2cUFDYnRCal9jcmdDUnhaYkxWbE1LT2kwN25YSjg3dE9VYVBaQdIBiwFBVV95cUxPdFdURDhIU2RSaTEwclNfcjRzRGNXNUdkOHAySDhkODB5Vzh1SXJYOUg3M2NrbGZOWHJmbWx5QjB0LWNjWlpSbU5EOHUzdlVVVlVXeW42MHUwcnBSRVE3a3RuQVAyMmw0bW9mWEJ3Tjh3VGI2OVFiT1RQQWRuak5IcU85UE5CeWFyMXZJ?oc=5\" target=\"_blank\">New Amazon AI search turns words into shoppable images</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "published": "2026-06-14T11:57:10+00:00",
-      "source": "Fox News"
+      "title": "Man United feature in new Amazon 'All or Nothing' documentary - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVZUNi1nQzAwQ0RFRmRCWGxVV2dXMTZzWHpPd09WZVI3WVl0OWNrNDUwcHY3eW96UzJ2SXBMY28xWTV3LUI2SlhlT2hXdXlPdWJvY2F3X3NURjZTQjFBTjlEZXlHUUl3cG84THJRdWh6M0xnUE05Q0NBTEpWZklSaTFSVC1xd1ZzWndnLTBBMmJ4SlJ6SnZobw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVZUNi1nQzAwQ0RFRmRCWGxVV2dXMTZzWHpPd09WZVI3WVl0OWNrNDUwcHY3eW96UzJ2SXBMY28xWTV3LUI2SlhlT2hXdXlPdWJvY2F3X3NURjZTQjFBTjlEZXlHUUl3cG84THJRdWh6M0xnUE05Q0NBTEpWZklSaTFSVC1xd1ZzWndnLTBBMmJ4SlJ6SnZobw?oc=5\" target=\"_blank\">Man United feature in new Amazon 'All or Nothing' documentary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font>",
+      "published": "2026-06-15T12:00:00+00:00",
+      "source": "ESPN"
     },
     {
-      "title": "Amazon Is Packed with Stylish T-Shirt Dresses That Take the Guesswork Out of Getting Dressed—Starting at $5 - Better Homes & Gardens",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NYzF0bndYMzl6ejhUeEdrd3U3bjM1NmM3QS1QcWZWelU3QXZSbnN1a0Zqcl9TbDJsZTlndktqWURSVkticFhtWDlZUTdwNmgyeDZZdzJIVGxmcndOemhiNzNGRkN2TDhkS3BhNXRyeGZkTW1LdkFDdHdB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5NYzF0bndYMzl6ejhUeEdrd3U3bjM1NmM3QS1QcWZWelU3QXZSbnN1a0Zqcl9TbDJsZTlndktqWURSVkticFhtWDlZUTdwNmgyeDZZdzJIVGxmcndOemhiNzNGRkN2TDhkS3BhNXRyeGZkTW1LdkFDdHdB?oc=5\" target=\"_blank\">Amazon Is Packed with Stylish T-Shirt Dresses That Take the Guesswork Out of Getting Dressed—Starting at $5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Better Homes & Gardens</font>",
-      "published": "2026-06-14T12:00:00+00:00",
-      "source": "Better Homes & Gardens"
+      "title": "Man Utd to appear in Amazon's All or Nothing documentary - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PLUthZHNWSmpzYjVac2U5T014QUUtM294RkRSY1NVRjZoeVFRN1dkcDZpMWFtRWw3RGlOUVhHMUpaTWpEbHdGRWswOG92eXE4RlVoRVNsV3NPZ2x5dllEN3ludlJiZU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PLUthZHNWSmpzYjVac2U5T014QUUtM294RkRSY1NVRjZoeVFRN1dkcDZpMWFtRWw3RGlOUVhHMUpaTWpEbHdGRWswOG92eXE4RlVoRVNsV3NPZ2x5dllEN3ludlJiZU0?oc=5\" target=\"_blank\">Man Utd to appear in Amazon's All or Nothing documentary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-06-15T12:45:38+00:00",
+      "source": "BBC"
     },
     {
-      "title": "We found the 40+ best Father’s Day gifts that will make dad smile — maybe even laugh - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVpnY0Q1YndFY19FbnZFZFg4cXZyN1BHQUpfeFFIREtQc000Q1VRMlI5ZVY2SlZwQmFZU09lVkZtb1dlZk9TYmE2amg2azhoUWEwc2lLdkFmSjVuWHBqOEJUSU9IejZwTUpFbXBCWXc4ckR5QWEweUFNZ2Z1LXNKQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVpnY0Q1YndFY19FbnZFZFg4cXZyN1BHQUpfeFFIREtQc000Q1VRMlI5ZVY2SlZwQmFZU09lVkZtb1dlZk9TYmE2amg2azhoUWEwc2lLdkFmSjVuWHBqOEJUSU9IejZwTUpFbXBCWXc4ckR5QWEweUFNZ2Z1LXNKQQ?oc=5\" target=\"_blank\">We found the 40+ best Father’s Day gifts that will make dad smile — maybe even laugh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-06-14T09:00:00+00:00",
-      "source": "NBC News"
+      "title": "Manchester United ‘All or Nothing’ Amazon Prime documentary announced for 2026-27 season - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEtORkQwTm95dDhmVXQyUEF4R3VFU0NUS182RzVyMU1nd3NOeXBwNW1vYl9kcHV4WGVrQWVGWXBFTlJ2UEZaTXROc0xMcTJZTW1hVzc0Q0JndFpjTkJQWVRfUVd2V2NXc0NHRXktaGY0OU1xWDhrNm11STZ2d0h1WDdvQzg5LTlMcmJraG9BVkx3Y0RrTURqZlE5bzVCNDN6?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEtORkQwTm95dDhmVXQyUEF4R3VFU0NUS182RzVyMU1nd3NOeXBwNW1vYl9kcHV4WGVrQWVGWXBFTlJ2UEZaTXROc0xMcTJZTW1hVzc0Q0JndFpjTkJQWVRfUVd2V2NXc0NHRXktaGY0OU1xWDhrNm11STZ2d0h1WDdvQzg5LTlMcmJraG9BVkx3Y0RrTURqZlE5bzVCNDN6?oc=5\" target=\"_blank\">Manchester United ‘All or Nothing’ Amazon Prime documentary announced for 2026-27 season - The Athletic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-06-15T11:51:57+00:00",
+      "source": "The New York Times"
     },
     {
-      "title": "Amazon Prime Day 2026: Early deals are already live from Apple, Keurig, Hanes, Shark and more, plus everything we know about the big sale in June - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQQUgtdFVhbk1TVUgtcWFqbVhEa0JDUEE3b01DQXE1RmYtMWlZV1BpT01acXFMX0hRUHROaF9oNXJXUVpPellUeHNWU2taRW81N2taLTlfRjZVRWtvbDBYVlhFalVxZVpSOXJYMk91a1VBOG0zcVMtWXJVOXJyTTNKWWoxOV9SVGZJNlhER0NLQ25XczJQcHNvdTNWYkJvS09VSjlDWTE5X045U0g2bnBlRHdFNE9UU3VTVnk1VjJlQl8tQ3NJclcwdHJjMTBzcVdTbkdHRmtmcGRTN3ZUaGw2aWowX0NBTE5KcTRyckVGMVNtaWEySGdnTDZzN0I0YURuZG5YNXhZV3ZMVUZHdUwzcVVtQnR2NGZ6ZVRhb2ZHbkZNWnNRTE50dzFYVFBMNG9vdzZNTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQQUgtdFVhbk1TVUgtcWFqbVhEa0JDUEE3b01DQXE1RmYtMWlZV1BpT01acXFMX0hRUHROaF9oNXJXUVpPellUeHNWU2taRW81N2taLTlfRjZVRWtvbDBYVlhFalVxZVpSOXJYMk91a1VBOG0zcVMtWXJVOXJyTTNKWWoxOV9SVGZJNlhER0NLQ25XczJQcHNvdTNWYkJvS09VSjlDWTE5X045U0g2bnBlRHdFNE9UU3VTVnk1VjJlQl8tQ3NJclcwdHJjMTBzcVdTbkdHRmtmcGRTN3ZUaGw2aWowX0NBTE5KcTRyckVGMVNtaWEySGdnTDZzN0I0YURuZG5YNXhZV3ZMVUZHdUwzcVVtQnR2NGZ6ZVRhb2ZHbkZNWnNRTE50dzFYVFBMNG9vdzZNTg?oc=5\" target=\"_blank\">Amazon Prime Day 2026: Early deals are already live from Apple, Keurig, Hanes, Shark and more, plus everything we know about the big sale in June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-06-13T14:31:59+00:00",
-      "source": "Yahoo"
+      "title": "Couple Plays Grocery Challenge to Win Amazon Gift Cards - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekNhR2tfTW9EWlp1TU93enVvSmZuWjBNX3Bfajk0Y3J6TEZKUXRUYldUVENKVHJ4Uk5wMmppS0JSamhsdkJVVGx3SDRjSDFmZ01uY0VUZXFKMktYaUtTQXdibmVrX09OMTdBdFp3dE54aS1Vd0ItdDlRME9WWGJfb21DMkVJQlZhdlRvZE0yYUhjOHp2Wmo3Y05zeHA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPekNhR2tfTW9EWlp1TU93enVvSmZuWjBNX3Bfajk0Y3J6TEZKUXRUYldUVENKVHJ4Uk5wMmppS0JSamhsdkJVVGx3SDRjSDFmZ01uY0VUZXFKMktYaUtTQXdibmVrX09OMTdBdFp3dE54aS1Vd0ItdDlRME9WWGJfb21DMkVJQlZhdlRvZE0yYUhjOHp2Wmo3Y05zeHA?oc=5\" target=\"_blank\">Couple Plays Grocery Challenge to Win Amazon Gift Cards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TODAY.com</font>",
+      "published": "2026-06-15T15:40:24+00:00",
+      "source": "TODAY.com"
     },
     {
-      "title": "Why did Amazon Prime Day shift to June? Here's what the company has said (and not said). - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iaDY1dlFpN3M5RUV1eWd3eHlkY0Uwc1ZYVC1NWHJMT24tbDQ1Y2lWNTRleWhDY1A3M3pXendCNllOMUFOQThJeTYyYXZ6anpoaW10RTkwSEZmU0RjVkhxdGdkalRJeUhhUlpDYndHc3NiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9iaDY1dlFpN3M5RUV1eWd3eHlkY0Uwc1ZYVC1NWHJMT24tbDQ1Y2lWNTRleWhDY1A3M3pXendCNllOMUFOQThJeTYyYXZ6anpoaW10RTkwSEZmU0RjVkhxdGdkalRJeUhhUlpDYndHc3NiZw?oc=5\" target=\"_blank\">Why did Amazon Prime Day shift to June? Here's what the company has said (and not said).</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-06-13T09:11:40+00:00",
-      "source": "Mashable"
+      "title": "Amazon Prime Day Starts Next Week—I Found The Best Early Deals - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkJPc29zTTJlQXhHeV9TSFBSeUJiRGhDNHlGcUh0Tk5ZRjNoMkwzOXZOVkRFZnZHUVQ5WHRuQVBqVEVKYzdtUUhwaUpKQmlsRi1VSzZJTlk2cUhIaHpyWUdOZ181WFl6RDNuTmw5S1RpS19BSGlxN2FBRHI5N1dMb0lfUUs5cTEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkJPc29zTTJlQXhHeV9TSFBSeUJiRGhDNHlGcUh0Tk5ZRjNoMkwzOXZOVkRFZnZHUVQ5WHRuQVBqVEVKYzdtUUhwaUpKQmlsRi1VSzZJTlk2cUhIaHpyWUdOZ181WFl6RDNuTmw5S1RpS19BSGlxN2FBRHI5N1dMb0lfUUs5cTEw?oc=5\" target=\"_blank\">Amazon Prime Day Starts Next Week—I Found The Best Early Deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-06-15T15:40:21+00:00",
+      "source": "Forbes"
     }
   ],
   "product_launches": [
+    {
+      "title": "SellerSprite Launches 2026 Amazon Growth Intelligence Toolkit for Sellers Facing Higher Costs - ACCESS Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHF3Xzg5Ymw4YXVzTjE5YkdkQllMVXUzMGZzMkZ4LXh2WmVjb2ZuRlhBX2U4enZoallzMGs4UWVfUm9jcFZHOExCQndGYzBabjJnV2VCRl9qVjVFLThDekMxbkVxcldVcHBXVk5BRmh3UnFyOV9QZkpVSWNnZWQyVjlyVnRFNnVjRG5QakFtWTV0ZE1JVHg5cUNrd0ZQSlRSay1CMnQ2ZXVsRm01cV9kcWppQm9DU1ZxUXhTMWkwcERqd2p2VE5GZExHVkFQSGJ1aUFkX3dGekptckduNVdMb08tM28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdHF3Xzg5Ymw4YXVzTjE5YkdkQllMVXUzMGZzMkZ4LXh2WmVjb2ZuRlhBX2U4enZoallzMGs4UWVfUm9jcFZHOExCQndGYzBabjJnV2VCRl9qVjVFLThDekMxbkVxcldVcHBXVk5BRmh3UnFyOV9QZkpVSWNnZWQyVjlyVnRFNnVjRG5QakFtWTV0ZE1JVHg5cUNrd0ZQSlRSay1CMnQ2ZXVsRm01cV9kcWppQm9DU1ZxUXhTMWkwcERqd2p2VE5GZExHVkFQSGJ1aUFkX3dGekptckduNVdMb08tM28?oc=5\" target=\"_blank\">SellerSprite Launches 2026 Amazon Growth Intelligence Toolkit for Sellers Facing Higher Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ACCESS Newswire</font>",
+      "published": "2026-06-15T06:19:07+00:00",
+      "source": "ACCESS Newswire"
+    },
     {
       "title": "Amazon to Use AI to Enforce New Product Title Limits - EcommerceBytes",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFVhazFvOHNWMFRSMXExX0JSMERqbUVhRzBNUmFMNGFGeEYyZzVHMTMxajdHV1AyYXZBV2lCRGdfeWlEV0J3UFNSVEJHVXdTVUlaa1JIbS16dzB4S1lmMWdHWlozc2N5blg4OHF3UkptNWN6MHJieVhJU18xYjAxQUIxX09OWGVGRmhzUHhwWHBGdlpsZXdQaV9Fbw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFVhazFvOHNWMFRSMXExX0JSMERqbUVhRzBNUmFMNGFGeEYyZzVHMTMxajdHV1AyYXZBV2lCRGdfeWlEV0J3UFNSVEJHVXdTVUlaa1JIbS16dzB4S1lmMWdHWlozc2N5blg4OHF3UkptNWN6MHJieVhJU18xYjAxQUIxX09OWGVGRmhzUHhwWHBGdlpsZXdQaV9Fbw?oc=5\" target=\"_blank\">Amazon to Use AI to Enforce New Product Title Limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EcommerceBytes</font>",
       "published": "2026-06-11T20:20:49+00:00",
       "source": "EcommerceBytes"
-    },
-    {
-      "title": "SellerSprite Launches 2026 Amazon Growth Intelligence Toolkit for Sellers Facing Higher Costs - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTZSNHV1VDFqLWYtTUpLR2NUMW5oNmRUOGNLRVIxenZEbEZmVkM3UW9Da3FLU0pfUHpDdFpVTVpkcU9QZ2ZEVFRjc1BNM1hNTnpfZ3VObmtQeEU4Zjl0QW9pV1h5bkx1ZlFqbU4xZjhkMUN3LV9EUDZnYWw1M29TUnBhdEY3cjBJNDY5am9iNEtGY2s?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTZSNHV1VDFqLWYtTUpLR2NUMW5oNmRUOGNLRVIxenZEbEZmVkM3UW9Da3FLU0pfUHpDdFpVTVpkcU9QZ2ZEVFRjc1BNM1hNTnpfZ3VObmtQeEU4Zjl0QW9pV1h5bkx1ZlFqbU4xZjhkMUN3LV9EUDZnYWw1M29TUnBhdEY3cjBJNDY5am9iNEtGY2s?oc=5\" target=\"_blank\">SellerSprite Launches 2026 Amazon Growth Intelligence Toolkit for Sellers Facing Higher Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-06-12T11:30:00+00:00",
-      "source": "Yahoo! Finance Canada"
-    },
-    {
-      "title": "MiNDED, THE SCIENCE-BACKED BRAIN HEALTH COMPANY ANNOUNCES AMAZON LAUNCH OF THEIR FIRST PRODUCT: MIGRA-HEALTH™ - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQnBQSHp0WUdIYUltNkVaa1R0SF9EaFhKUl9QdEdvNFozWWhVM2ROYk11LS03YkFFUy0tWmUweXBNZUprejhzdG1WVVMtXzlFcGdROWdTaGFMOVJSX3B6TV9STW5ubGQ0TDFwXzFwTHJPOG5VbElFdDVodlRjWXllemUwRnVyYWFrU3JZbWxqM2JNZlppdVVvOTNHVmFYX25ycExKc0tlcnJ3NVJ4c2ZBdXNoV2ZERy0tRWhuS1g2cGNFaHBMREdGXzFOcFpqS19yanlFYVZEbkZoNTlIRHpYN09CR3NzZ0lfZ21Hcml2SFZlSnox?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQnBQSHp0WUdIYUltNkVaa1R0SF9EaFhKUl9QdEdvNFozWWhVM2ROYk11LS03YkFFUy0tWmUweXBNZUprejhzdG1WVVMtXzlFcGdROWdTaGFMOVJSX3B6TV9STW5ubGQ0TDFwXzFwTHJPOG5VbElFdDVodlRjWXllemUwRnVyYWFrU3JZbWxqM2JNZlppdVVvOTNHVmFYX25ycExKc0tlcnJ3NVJ4c2ZBdXNoV2ZERy0tRWhuS1g2cGNFaHBMREdGXzFOcFpqS19yanlFYVZEbkZoNTlIRHpYN09CR3NzZ0lfZ21Hcml2SFZlSnox?oc=5\" target=\"_blank\">MiNDED, THE SCIENCE-BACKED BRAIN HEALTH COMPANY ANNOUNCES AMAZON LAUNCH OF THEIR FIRST PRODUCT: MIGRA-HEALTH™</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "published": "2026-06-09T13:01:00+00:00",
-      "source": "PR Newswire"
     },
     {
       "title": "Amazon launches AI image generator to narrow search queries - Retail Dive",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT2IwQUxCNG1MTHhQX081QmExN0hBNzVDdHJTS0QwV2luU0lRWVJEckxScmx6S0Y0c1V3ZnhXR2w4VGZpZ1BrcEpTb2R6ZG02YlRvdnRYX1dPaEM3Ykc5ZkR3aV9QN29GLUpIMlpUa1luNER1LUh3UG9PYmJVX05QN2otTlNiR3JKM3lGY0NqNzVrNElvVHJ1MVUtbXhzTTY0OU5oZm9MTzhIcU5OMmRnanZmV2ptclBrNnNULWNKVHB4b3Zma3dfV3RPSE5leVhh?oc=5\" target=\"_blank\">DELERE Reframes Caviar Skincare With Amazon Launch of Caviar Glow Collection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">markets.businessinsider.com</font>",
       "published": "2026-06-12T16:03:29+00:00",
       "source": "markets.businessinsider.com"
+    },
+    {
+      "title": "MiNDED, THE SCIENCE-BACKED BRAIN HEALTH COMPANY ANNOUNCES AMAZON LAUNCH OF THEIR FIRST PRODUCT: MIGRA-HEALTH™ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREg2b21LZkRnbXdJX0pnVTBlXzBHanZTSU91aG40MG5KSmJWZEk1REprMV9TZTBlWUNSbHd1T2w1bDJMYjBUcVJxSEdVbUt6em5oTXNNMGlOeTlYc1pUVURUQ2NkNVFVYXNNODRrNTNJTWlUWHZPa1UxQmUyX2NXa3M0b01UZzQ2MnQ0bDNpekZkVURtWlBIdEpmcUpuS2sydWhXWlZR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQREg2b21LZkRnbXdJX0pnVTBlXzBHanZTSU91aG40MG5KSmJWZEk1REprMV9TZTBlWUNSbHd1T2w1bDJMYjBUcVJxSEdVbUt6em5oTXNNMGlOeTlYc1pUVURUQ2NkNVFVYXNNODRrNTNJTWlUWHZPa1UxQmUyX2NXa3M0b01UZzQ2MnQ0bDNpekZkVURtWlBIdEpmcUpuS2sydWhXWlZR?oc=5\" target=\"_blank\">MiNDED, THE SCIENCE-BACKED BRAIN HEALTH COMPANY ANNOUNCES AMAZON LAUNCH OF THEIR FIRST PRODUCT: MIGRA-HEALTH™</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-09T13:01:00+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-06-12",
-      "close": 238.5500030517578
+      "date": "2026-06-15",
+      "close": 245.8300018310547
     },
     "history": [
-      {
-        "date": "2026-06-04",
-        "close": 253.7899932861328
-      },
       {
         "date": "2026-06-05",
         "close": 246.02999877929688
@@ -133,6 +129,10 @@
       {
         "date": "2026-06-12",
         "close": 238.5500030517578
+      },
+      {
+        "date": "2026-06-15",
+        "close": 245.8300018310547
       }
     ],
     "name": "Amazon.com, Inc."
