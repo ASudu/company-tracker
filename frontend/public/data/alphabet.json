@@ -2,42 +2,49 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-06-18T14:46:39.389864+00:00",
+  "fetched_at": "2026-06-19T14:42:47.799590+00:00",
   "news": [
-    {
-      "title": "Cramer’s Mad Dash: Alphabet - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOHIzLUpYM1BKODMtdUY3Z0ZGWjJ0S29HYmsyTHZsTi1xRVNUaHBCdTdmZVJJVk8zWmlKcElfYWdIZkt3LXFCMnVWRkliR0RkekJyRnZzTXplWnZJQWY4VTR0ZTRxeHBPUUlFNXRiZkVMaVp1bEhPVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOHIzLUpYM1BKODMtdUY3Z0ZGWjJ0S29HYmsyTHZsTi1xRVNUaHBCdTdmZVJJVk8zWmlKcElfYWdIZkt3LXFCMnVWRkliR0RkekJyRnZzTXplWnZJQWY4VTR0ZTRxeHBPUUlFNXRiZkVMaVp1bEhPVQ?oc=5\" target=\"_blank\">Cramer’s Mad Dash: Alphabet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-06-18T14:00:55+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "SpaceX Joins Nvidia, Alphabet, Apple, Microsoft, Amazon, and Taiwan Semiconductor in the $2 Trillion Club. But Will It Last? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1NSSTZhWmNrM3E3MVhPbDdiOXJXRUJub2pPaEt3eFJheVpPYnprNWtTTU82TUFpemh1cDBST0xsRUoxcC1tTm9SaFc2Yk80V3ItUUFTTnExU0JZbktfN1NTUHA0bGxXQmo1M1QzekxlbmJVdVBnYUZrb3R6TUxaMWtVQ1ZTRGZTVXRONUtJeGdVSWJaQjZlM05YOWRHLVhz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1NSSTZhWmNrM3E3MVhPbDdiOXJXRUJub2pPaEt3eFJheVpPYnprNWtTTU82TUFpemh1cDBST0xsRUoxcC1tTm9SaFc2Yk80V3ItUUFTTnExU0JZbktfN1NTUHA0bGxXQmo1M1QzekxlbmJVdVBnYUZrb3R6TUxaMWtVQ1ZTRGZTVXRONUtJeGdVSWJaQjZlM05YOWRHLVhz?oc=5\" target=\"_blank\">SpaceX Joins Nvidia, Alphabet, Apple, Microsoft, Amazon, and Taiwan Semiconductor in the $2 Trillion Club. But Will It Last?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-06-18T12:43:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "New Mid-Rise Residential Buildings Nearing Completion in Alphabet City, Manhattan - New York YIMBY",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0FLbDI3cmpGTGx6SXVobklJQkc0c1dBSzVXSlhEVWNyenVvRXMzWFJwbHFjeWFzYzRMTFVUSVBQSTlTWU9CYUZ5RVpJYWVxTjVQVE84TGJZVFFPOThYdzFNSjhmOXdlUEp3QV9UZmRfTFIyWUZnY3dLeWlrVVBLRHZVVVV2YWhjUl9ZRVhMUXlKVXFIcU9KRHZVSTZsR01faW95clVDMGFhbjBvSEZXN0NOZkNVLTlpV0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0FLbDI3cmpGTGx6SXVobklJQkc0c1dBSzVXSlhEVWNyenVvRXMzWFJwbHFjeWFzYzRMTFVUSVBQSTlTWU9CYUZ5RVpJYWVxTjVQVE84TGJZVFFPOThYdzFNSjhmOXdlUEp3QV9UZmRfTFIyWUZnY3dLeWlrVVBLRHZVVVV2YWhjUl9ZRVhMUXlKVXFIcU9KRHZVSTZsR01faW95clVDMGFhbjBvSEZXN0NOZkNVLTlpV0E?oc=5\" target=\"_blank\">New Mid-Rise Residential Buildings Nearing Completion in Alphabet City, Manhattan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York YIMBY</font>",
-      "published": "2026-06-16T11:30:34+00:00",
-      "source": "New York YIMBY"
-    },
     {
       "title": "Waymo Has a Tesla-Like Recall. What It Means for Alphabet Stock. - Barron's",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGwwaVdwVWdXNjVKSl9icUZXQnBHN25TcmpnX1VwTU5zZnVLZ0NpUEszQ3BwXzRuYzF1SWs0QVBTOEd6c1JKWkZfZGtrMS1XLUdkVkZlcXEzNU5jcmdVQVBjNmxDcjA2YWg0dHBWT0N5WkFjOHY1bHZBZ19BTDhLUA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGwwaVdwVWdXNjVKSl9icUZXQnBHN25TcmpnX1VwTU5zZnVLZ0NpUEszQ3BwXzRuYzF1SWs0QVBTOEd6c1JKWkZfZGtrMS1XLUdkVkZlcXEzNU5jcmdVQVBjNmxDcjA2YWg0dHBWT0N5WkFjOHY1bHZBZ19BTDhLUA?oc=5\" target=\"_blank\">Waymo Has a Tesla-Like Recall. What It Means for Alphabet Stock.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-06-18T13:56:00+00:00",
+      "published": "2026-06-18T20:09:00+00:00",
       "source": "Barron's"
     },
     {
-      "title": "In Speech To Stanford Grads, Alphabet CEO Sundar Pichai Doesn’t Mention AI - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdmhyU3pwSElsalFPbktRbE1aaXFqbk5SbHp6WlR0eWlhaGRhMndXRjJPQi11SndwNWxvZ2hKZkNacGl2WTYxMFR6RGhZSHZxNjJMNmRUdVJ3OFBpUG5PRFFNSTltSEhlbjg3UnF6ZlR6STdrdGZXSkt2UEVtaGoyTnl1UFFVWHNMSnVxZU5WM1YxTFFDZGd1akpXcldqRVJSSjdfdnJjSkp4WGhuQ0MwYzFQaFVldmpkSjF1WWFjU2staU1LWHAzMjRDNmZ3Zk9sbjFyUA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdmhyU3pwSElsalFPbktRbE1aaXFqbk5SbHp6WlR0eWlhaGRhMndXRjJPQi11SndwNWxvZ2hKZkNacGl2WTYxMFR6RGhZSHZxNjJMNmRUdVJ3OFBpUG5PRFFNSTltSEhlbjg3UnF6ZlR6STdrdGZXSkt2UEVtaGoyTnl1UFFVWHNMSnVxZU5WM1YxTFFDZGd1akpXcldqRVJSSjdfdnJjSkp4WGhuQ0MwYzFQaFVldmpkSjF1WWFjU2staU1LWHAzMjRDNmZ3Zk9sbjFyUA?oc=5\" target=\"_blank\">In Speech To Stanford Grads, Alphabet CEO Sundar Pichai Doesn’t Mention AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-06-15T20:25:01+00:00",
-      "source": "Forbes"
+      "title": "Alphabet (GOOGL) Addresses Public Concerns Around Self-Driving Cars - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3VrZ2NVOWlQMEZaQk1jNnNJbUR3dkNrOTIzMGNfUXkxeDNDai1ZV2lwaUNhUDF0NkZIczRyUFdBM2VDamlaZzU4MEx4cmZIWHNWYVVDMmlsY0d4V1BOMHpWV2F0anpYalF5YThaOVYyX3dWTHRaQlBNOWNhY0lkdEY4dkVwaEJsNkFYdWFKVHJVV2hYbVByZ2RHYy1lNVBiQk9n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3VrZ2NVOWlQMEZaQk1jNnNJbUR3dkNrOTIzMGNfUXkxeDNDai1ZV2lwaUNhUDF0NkZIczRyUFdBM2VDamlaZzU4MEx4cmZIWHNWYVVDMmlsY0d4V1BOMHpWV2F0anpYalF5YThaOVYyX3dWTHRaQlBNOWNhY0lkdEY4dkVwaEJsNkFYdWFKVHJVV2hYbVByZ2RHYy1lNVBiQk9n?oc=5\" target=\"_blank\">Alphabet (GOOGL) Addresses Public Concerns Around Self-Driving Cars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-19T12:19:02+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Cramer’s Mad Dash: Alphabet - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOHIzLUpYM1BKODMtdUY3Z0ZGWjJ0S29HYmsyTHZsTi1xRVNUaHBCdTdmZVJJVk8zWmlKcElfYWdIZkt3LXFCMnVWRkliR0RkekJyRnZzTXplWnZJQWY4VTR0ZTRxeHBPUUlFNXRiZkVMaVp1bEhPVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0yOHIzLUpYM1BKODMtdUY3Z0ZGWjJ0S29HYmsyTHZsTi1xRVNUaHBCdTdmZVJJVk8zWmlKcElfYWdIZkt3LXFCMnVWRkliR0RkekJyRnZzTXplWnZJQWY4VTR0ZTRxeHBPUUlFNXRiZkVMaVp1bEhPVQ?oc=5\" target=\"_blank\">Cramer’s Mad Dash: Alphabet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-06-18T14:00:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "The 1 Tech Stock I'd Buy With My Eyes Closed at Today's Prices - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlFhMGVjMG9UN0NqNFVtODRoR1VKX0tGdTJ6Ym44YzFfM2lsOUF4QUhZRDJvRUlEcG0tdWRiZ0huWG1BWFp2dGNrSVF4OUU5TUQzcVFEMk9aRERIWm12bWVMdnBtNDRIWHpuX21NZXFpTGYyT0JpWk1LazNNMlpKanBQUkpOblp1NVYwZi1KNWIyZzN5NVZEMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlFhMGVjMG9UN0NqNFVtODRoR1VKX0tGdTJ6Ym44YzFfM2lsOUF4QUhZRDJvRUlEcG0tdWRiZ0huWG1BWFp2dGNrSVF4OUU5TUQzcVFEMk9aRERIWm12bWVMdnBtNDRIWHpuX21NZXFpTGYyT0JpWk1LazNNMlpKanBQUkpOblp1NVYwZi1KNWIyZzN5NVZEMA?oc=5\" target=\"_blank\">The 1 Tech Stock I'd Buy With My Eyes Closed at Today's Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-06-19T01:41:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Forget SpaceX. Alphabet Just Beat Earnings by 94% and Doubled Its Cloud Backlog to $460 Billion - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObWprTXVmTVVudjI2SU4yMEI0TW1KbThkSDdSS3IwN1FLZGM2a1hHNHlEOExJai1jSmtkdFlxMjB1a3F1R0hhbUljRHJ0ZWZJT1lOTjEwWUU5eTB5eDRmRjlpdGFZTEJJc05rSDlfN2xEaEpVSmsyeko4ekxtMVJoNXp2Y3RJbzctOTBNamtJNkltR2syS1NjTFVpd1VqaHNvRFVrZWFPMUtUeHREcW9DMkhTYWcxWUEyMGFudFBWLUloaWtXcWVNTE91ZHlDaGZzR2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxObWprTXVmTVVudjI2SU4yMEI0TW1KbThkSDdSS3IwN1FLZGM2a1hHNHlEOExJai1jSmtkdFlxMjB1a3F1R0hhbUljRHJ0ZWZJT1lOTjEwWUU5eTB5eDRmRjlpdGFZTEJJc05rSDlfN2xEaEpVSmsyeko4ekxtMVJoNXp2Y3RJbzctOTBNamtJNkltR2syS1NjTFVpd1VqaHNvRFVrZWFPMUtUeHREcW9DMkhTYWcxWUEyMGFudFBWLUloaWtXcWVNTE91ZHlDaGZzR2c?oc=5\" target=\"_blank\">Forget SpaceX. Alphabet Just Beat Earnings by 94% and Doubled Its Cloud Backlog to $460 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-06-18T15:28:57+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Why this money manager is buying Agnico Eagle, Nutrien and trimming Alphabet - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnBGZ09sRVZJaUFwU0RweFlVS2d3TjY1WlBtZ05BSVlMSm02WW9UWE4zV1RVTUtYTWhZWmRnQlVHTC02dGlvbWx1UTdZUkdBZ0hDZ1VIb004c3NVbGR0anRYQlktcGRPX19XaVhOVUx4YWFISmxJbFdHZWwzUmt2eVZTYU1WQS1KTTB1bUVKNkdDb0NaRzBDZDFiNzJVQVJLRU1IanFJa1c1SlAzSVRGOW5WMnhGQlJsQzVKeS14TTZmWkdSdDVMOGN2YTgtS0N1MzdNVGpVWU56NUdQdXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnBGZ09sRVZJaUFwU0RweFlVS2d3TjY1WlBtZ05BSVlMSm02WW9UWE4zV1RVTUtYTWhZWmRnQlVHTC02dGlvbWx1UTdZUkdBZ0hDZ1VIb004c3NVbGR0anRYQlktcGRPX19XaVhOVUx4YWFISmxJbFdHZWwzUmt2eVZTYU1WQS1KTTB1bUVKNkdDb0NaRzBDZDFiNzJVQVJLRU1IanFJa1c1SlAzSVRGOW5WMnhGQlJsQzVKeS14TTZmWkdSdDVMOGN2YTgtS0N1MzdNVGpVWU56NUdQdXc?oc=5\" target=\"_blank\">Why this money manager is buying Agnico Eagle, Nutrien and trimming Alphabet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "published": "2026-06-19T08:45:00+00:00",
+      "source": "The Globe and Mail"
     },
     {
       "title": "Uncle Sam bets $500M that Alphabet spinoff's AI can dig up new semiconductor materials - The Register",
@@ -47,63 +54,20 @@
       "source": "The Register"
     },
     {
-      "title": "You Can Now Invest in Alphabet With a 6% Dividend Yield, but There's a Catch - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUxrNWFWWFpBd0E2NmdhcjlfbmxfQ3F0dmQtdmgyTmtlQTdmNnhZVE11cEFpVGNGWXp6Y2duTmRDY1FIeEpMZU1yUXlnVW5XNTVuSm1QU3lHUmVKY2JZWW1adVhpUTFqOEdxaTFZcHJQN1lySGRyX21YZVJvVkFrZFRsa3MyR0xFZXktbkVfQm51bUdyM1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUxrNWFWWFpBd0E2NmdhcjlfbmxfQ3F0dmQtdmgyTmtlQTdmNnhZVE11cEFpVGNGWXp6Y2duTmRDY1FIeEpMZU1yUXlnVW5XNTVuSm1QU3lHUmVKY2JZWW1adVhpUTFqOEdxaTFZcHJQN1lySGRyX21YZVJvVkFrZFRsa3MyR0xFZXktbkVfQm51bUdyM1E?oc=5\" target=\"_blank\">You Can Now Invest in Alphabet With a 6% Dividend Yield, but There's a Catch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-06-16T12:18:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Warren Buffett’s successor Greg Abel makes another $10 billion bet - thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkxtREZXUVY1VkgyN1pUUnRYUTFzcDBUNXdrSDY4aU5HVzVfUFZNdEZNM3RpcXRrbnZiZUlGMXYwVl9kMkliQ3JjN3ljeUlHZzFGVHdmdjdvR3Q2VHdmbno1dW1FNFpXWDZjNFh6T0FhakRIcHpTOU43b0JPd28yaFNqblBwUUE2UWg3N3RfekE1MWsxREdNekl4MFNRMU85RHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkxtREZXUVY1VkgyN1pUUnRYUTFzcDBUNXdrSDY4aU5HVzVfUFZNdEZNM3RpcXRrbnZiZUlGMXYwVl9kMkliQ3JjN3ljeUlHZzFGVHdmdjdvR3Q2VHdmbno1dW1FNFpXWDZjNFh6T0FhakRIcHpTOU43b0JPd28yaFNqblBwUUE2UWg3N3RfekE1MWsxREdNekl4MFNRMU85RHc?oc=5\" target=\"_blank\">Warren Buffett’s successor Greg Abel makes another $10 billion bet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "published": "2026-06-17T14:33:00+00:00",
-      "source": "thestreet.com"
+      "title": "New Mid-Rise Residential Buildings Nearing Completion in Alphabet City, Manhattan - New York YIMBY",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0FLbDI3cmpGTGx6SXVobklJQkc0c1dBSzVXSlhEVWNyenVvRXMzWFJwbHFjeWFzYzRMTFVUSVBQSTlTWU9CYUZ5RVpJYWVxTjVQVE84TGJZVFFPOThYdzFNSjhmOXdlUEp3QV9UZmRfTFIyWUZnY3dLeWlrVVBLRHZVVVV2YWhjUl9ZRVhMUXlKVXFIcU9KRHZVSTZsR01faW95clVDMGFhbjBvSEZXN0NOZkNVLTlpV0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0FLbDI3cmpGTGx6SXVobklJQkc0c1dBSzVXSlhEVWNyenVvRXMzWFJwbHFjeWFzYzRMTFVUSVBQSTlTWU9CYUZ5RVpJYWVxTjVQVE84TGJZVFFPOThYdzFNSjhmOXdlUEp3QV9UZmRfTFIyWUZnY3dLeWlrVVBLRHZVVVV2YWhjUl9ZRVhMUXlKVXFIcU9KRHZVSTZsR01faW95clVDMGFhbjBvSEZXN0NOZkNVLTlpV0E?oc=5\" target=\"_blank\">New Mid-Rise Residential Buildings Nearing Completion in Alphabet City, Manhattan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York YIMBY</font>",
+      "published": "2026-06-16T11:30:34+00:00",
+      "source": "New York YIMBY"
     }
   ],
-  "product_launches": [
-    {
-      "title": "Q4 earnings call: Remarks from our CEO - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5\" target=\"_blank\">Q4 earnings call: Remarks from our CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
-      "published": "2026-02-04T08:00:00+00:00",
-      "source": "blog.google"
-    },
-    {
-      "title": "Alphabet Stock (GOOGL) Opinions on AI Product Launches - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkRPOHF2OXdJMnJPcUtSUFlnbkhBLTJ1R0VWSUNpU1pHRzk2YkZEdGFBTUtmRzVCOU5XSmQ3Ty0yRkNGRWtvMjhOcnA3NmpxT2lRWEhVSXh3eUU4dDRPU09zdlBLTUZiRlFtZnpVZU53ZUJWUDg3VjJTX3ZwTXFsV1lBNGhWTXdMYU9vVFJjb2Y4T0pkeXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkRPOHF2OXdJMnJPcUtSUFlnbkhBLTJ1R0VWSUNpU1pHRzk2YkZEdGFBTUtmRzVCOU5XSmQ3Ty0yRkNGRWtvMjhOcnA3NmpxT2lRWEhVSXh3eUU4dDRPU09zdlBLTUZiRlFtZnpVZU53ZUJWUDg3VjJTX3ZwTXFsV1lBNGhWTXdMYU9vVFJjb2Y4T0pkeXc?oc=5\" target=\"_blank\">Alphabet Stock (GOOGL) Opinions on AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": "Quiver Quantitative"
-    },
-    {
-      "title": "Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com - Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5\" target=\"_blank\">Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "Investing.com Canada"
-    },
-    {
-      "title": "Here’s Why Alphabet Stock Rose 4% Today - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVTBSTmliVXgxWUZYeHMyZDZra2hLU2V4ZnNoODd1ZnFNZUVXNGFUOG8zZVNlWEd6TExaZ2lxeERRVWF0WDBzQ1l0Qk5rdHJaT2gtd2ROSnpQa3I0YzAyMlA2YmtnZEttRElvVE95amI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVTBSTmliVXgxWUZYeHMyZDZra2hLU2V4ZnNoODd1ZnFNZUVXNGFUOG8zZVNlWEd6TExaZ2lxeERRVWF0WDBzQ1l0Qk5rdHJaT2gtd2ROSnpQa3I0YzAyMlA2YmtnZEttRElvVE95amI?oc=5\" target=\"_blank\">Here’s Why Alphabet Stock Rose 4% Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
-      "published": "2026-02-21T08:00:00+00:00",
-      "source": "TIKR.com"
-    },
-    {
-      "title": "OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5\" target=\"_blank\">OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-10-21T07:00:00+00:00",
-      "source": "CNBC"
-    }
-  ],
+  "product_launches": [],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
       "date": "2026-06-18",
-      "close": 363.3299865722656
+      "close": 368.0299987792969
     },
     "history": [
       {
@@ -132,7 +96,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 363.3299865722656
+        "close": 368.0299987792969
       }
     ],
     "name": "Alphabet Inc."

@@ -2,8 +2,15 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-06-18T14:46:37.162990+00:00",
+  "fetched_at": "2026-06-19T14:42:45.637126+00:00",
   "news": [
+    {
+      "title": "Satya Nadella Has Positioned Microsoft to Grow. Investors Are Missing the Point. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmN6VHFkV0FKNk9mcjJVN1ZOdzV4UWN6RW5Tb1RLVDk5Vi1FWE1mSFdNc2Zhd0F1QTRJOHZSOExKZE5EWGpWeTFUYnpIR2pVT2owVlV0VmcyOXlpTkhZMlFwUVN6MWZ3WThNaTRPWE50bXBfZ093aV9OOW5yZjVLUGgxNEtXMFJCS1VKWWZ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmN6VHFkV0FKNk9mcjJVN1ZOdzV4UWN6RW5Tb1RLVDk5Vi1FWE1mSFdNc2Zhd0F1QTRJOHZSOExKZE5EWGpWeTFUYnpIR2pVT2owVlV0VmcyOXlpTkhZMlFwUVN6MWZ3WThNaTRPWE50bXBfZ093aV9OOW5yZjVLUGgxNEtXMFJCS1VKWWZ3?oc=5\" target=\"_blank\">Satya Nadella Has Positioned Microsoft to Grow. Investors Are Missing the Point.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-06-19T05:00:00+00:00",
+      "source": "Barron's"
+    },
     {
       "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmpZV3VBc2x3c2txMllwdVEzVzdwUXNGRVNrUEwzdm1MZHBCU1dsS0VVVVRQMFIxYzVjNDhRSzd0LWlnV0NrWFp5LVFwLXEzcnVNZ1FHNE50bFE1MlRkbTAxbzlCWE5MbWxXQ3dfQVJVdEctN0VPYmxRV0FvTEdVRmhKbmh1dHd5MTNaZFNSLVJOSkhPY0FLc0pLUDdXZVo1TnZjWm9vT0NmcEU3?oc=5",
@@ -12,18 +19,11 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFhFbWZfdmlkdW9tYjlYMGVONTM1b08yWXlFMG1HdXhxVDBVQkNRZzRhMklkVElzZkFSV19DUk9rdHdUR2pHZVNGNTdzQjJuRUNJU2JCUjFDSFEtcXhnUDVaUTRveFVINFJHMmdpc1NmUXAyY2d4ZnpaNS1tTUZycnZuNEU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFhFbWZfdmlkdW9tYjlYMGVONTM1b08yWXlFMG1HdXhxVDBVQkNRZzRhMklkVElzZkFSV19DUk9rdHdUR2pHZVNGNTdzQjJuRUNJU2JCUjFDSFEtcXhnUDVaUTRveFVINFJHMmdpc1NmUXAyY2d4ZnpaNS1tTUZycnZuNEU?oc=5\" target=\"_blank\">Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-06-17T12:36:00+00:00",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft Weather AI Outperforms Humans - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUtOUlNadFlId0NQSEQyUHJFdkVpN2JfaWN6bTZ6S2NGeGpPUVZ0UFRybVkzNVZjWWd6U3lHNm5XWkY5VUI4a1FOcTBoMGh2RFh0YVJXblVWNF96QU5ReWdER3dOTWlGVy01S0p1OEdFblRkZEV2NUYtR3ZGdUtwdUtRTE9aaHEzSll1RjNvWkdYdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUtOUlNadFlId0NQSEQyUHJFdkVpN2JfaWN6bTZ6S2NGeGpPUVZ0UFRybVkzNVZjWWd6U3lHNm5XWkY5VUI4a1FOcTBoMGh2RFh0YVJXblVWNF96QU5ReWdER3dOTWlGVy01S0p1OEdFblRkZEV2NUYtR3ZGdUtwdUtRTE9aaHEzSll1RjNvWkdYdw?oc=5\" target=\"_blank\">Microsoft Weather AI Outperforms Humans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-06-18T12:44:00+00:00",
-      "source": "Yahoo"
+      "title": "Microsoft (MSFT) Is Building A Billion Dollar AI Business In China - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHZ3NzUybjQ4YngtNkpJT1BJUERVRHZrVFQxZ3ZDQ0VuaUJNWkZRTkZFaVg4RExrT09kQkN4eXl0TnpySkFYNVN0djhTckRRMGJoUDBLU3pvXzZxTFBpWF9mdFRILU9vNlFoWjl2U3BCVVJfVW5EbmNNWFZySEpOUVRiTjBpNzFtVjZRNS05ZUQ4YVJ5YTI2bEJPa2N3RlpYTUpPdA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHZ3NzUybjQ4YngtNkpJT1BJUERVRHZrVFQxZ3ZDQ0VuaUJNWkZRTkZFaVg4RExrT09kQkN4eXl0TnpySkFYNVN0djhTckRRMGJoUDBLU3pvXzZxTFBpWF9mdFRILU9vNlFoWjl2U3BCVVJfVW5EbmNNWFZySEpOUVRiTjBpNzFtVjZRNS05ZUQ4YVJ5YTI2bEJPa2N3RlpYTUpPdA?oc=5\" target=\"_blank\">Microsoft (MSFT) Is Building A Billion Dollar AI Business In China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-19T01:12:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Microsoft boosts AI ties with China by selling OpenAI models to tech giants - Seeking Alpha",
@@ -33,18 +33,25 @@
       "source": "Seeking Alpha"
     },
     {
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44MEpxWmxOV1doWVllc05pNlB2LXdXbWNyd3Z3LVhhWXZZdk5lTkhIUGpfNl9qQkNnekR2Um1wUzN1YklkSWpaNmgtd1doZjdNc3hFUndDV0h2RGNxYm5kRUFOaTZQMTkyVG04ZHlZZWwzTjFsQ3VfQTFza2tFb2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE44MEpxWmxOV1doWVllc05pNlB2LXdXbWNyd3Z3LVhhWXZZdk5lTkhIUGpfNl9qQkNnekR2Um1wUzN1YklkSWpaNmgtd1doZjdNc3hFUndDV0h2RGNxYm5kRUFOaTZQMTkyVG04ZHlZZWwzTjFsQ3VfQTFza2tFb2c?oc=5\" target=\"_blank\">DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-06-18T13:30:00+00:00",
-      "source": "The Hacker News"
+      "title": "Microsoft picks Checkout.com as EMEA payments partner for key products - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVnROY1ZhWHo4dEcxeTB3Yk5RNnBVVkVRRDdqU1pxNmtwYVV5TDJDYmRpYm5Kckd4WUhqbTJ5cHVodWFKRWU2UUtvN0JDSUgzOWlDNFgzQk5PVnF4YllQcXdpSS04SUZhVEFGLW45amh2SGRDUWh5UU1hR0hyeXl6VXZ6RXRxTjNieVN0aG0xRk1rbTVqX1BFbGx3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVnROY1ZhWHo4dEcxeTB3Yk5RNnBVVkVRRDdqU1pxNmtwYVV5TDJDYmRpYm5Kckd4WUhqbTJ5cHVodWFKRWU2UUtvN0JDSUgzOWlDNFgzQk5PVnF4YllQcXdpSS04SUZhVEFGLW45amh2SGRDUWh5UU1hR0hyeXl6VXZ6RXRxTjNieVN0aG0xRk1rbTVqX1BFbGx3?oc=5\" target=\"_blank\">Microsoft picks Checkout.com as EMEA payments partner for key products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-19T11:47:55+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "DoD’s $9.7B award for Microsoft products derailed by protest - Federal News Network",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeV9QckdUYk5KNmZMd1U3MFBELXd0X3hIV0ZNQlQ2dTFtS0hRb1lSeGZSZ2I1ZmEwU3FQd3M0VHptYUR2V3lsbTVPal9jMlJ3c0k0TTBnb3VGN3NnaUctR1lpTGs5dURtMmJnMjJEck1tZWo4b29uMEVpbEhDQk9mTzY4SlgwU203ZnJJTmJBVE1QWk44cGhfVjdieHNVUHhUejU5V3ZDZTNvLTJkTEhCaFlrS3o?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeV9QckdUYk5KNmZMd1U3MFBELXd0X3hIV0ZNQlQ2dTFtS0hRb1lSeGZSZ2I1ZmEwU3FQd3M0VHptYUR2V3lsbTVPal9jMlJ3c0k0TTBnb3VGN3NnaUctR1lpTGs5dURtMmJnMjJEck1tZWo4b29uMEVpbEhDQk9mTzY4SlgwU203ZnJJTmJBVE1QWk44cGhfVjdieHNVUHhUejU5V3ZDZTNvLTJkTEhCaFlrS3o?oc=5\" target=\"_blank\">DoD’s $9.7B award for Microsoft products derailed by protest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>",
-      "published": "2026-06-17T19:43:35+00:00",
-      "source": "Federal News Network"
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWo3dnIta1VubUs5SWVmaHd4a0VmS2xFVUJxVWJLejJ0Zng0ODRpdUJqclVnY1F2ekpXNnBfc05VRHRUbFBCa1hyYmt2Wi1lWlNmWlpRdkZrNzg3MWpZSGRNRmxrbDhwRzU5eG5sMC1zcGhYMElvRV9BVkxzWDZ5MXdnSXFlYkNZZG5ldDA0TWl0eXBlVjlhRllUcHRqUno5Z2x6R3pVS2M0cEdaT09MNDloY0M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWo3dnIta1VubUs5SWVmaHd4a0VmS2xFVUJxVWJLejJ0Zng0ODRpdUJqclVnY1F2ekpXNnBfc05VRHRUbFBCa1hyYmt2Wi1lWlNmWlpRdkZrNzg3MWpZSGRNRmxrbDhwRzU5eG5sMC1zcGhYMElvRV9BVkxzWDZ5MXdnSXFlYkNZZG5ldDA0TWl0eXBlVjlhRllUcHRqUno5Z2x6R3pVS2M0cEdaT09MNDloY0M?oc=5\" target=\"_blank\">Microsoft discovers new lightweight backdoor that steals cryptocurrency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-06-18T23:28:52+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Meta’s Microsoft Mobile Moment - The Information",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXZWbXY0alVpb0JvOE5KcGlyT1RGMVdneXJkUUtCN0hCaTJ5QTJoZ1ZGTzNtbEIxQ3VfVXFnV1ZCeEE4RnFyc0dYcmgwWndDQy02eFhrbmNYcnBhcnIwWVRTVjZZMlFsQnA4QUNxYW5ta2hjX3VjRE5IQTVkTXZfMmk3Tng4S0VLaE5STmNR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRXZWbXY0alVpb0JvOE5KcGlyT1RGMVdneXJkUUtCN0hCaTJ5QTJoZ1ZGTzNtbEIxQ3VfVXFnV1ZCeEE4RnFyc0dYcmgwWndDQy02eFhrbmNYcnBhcnIwWVRTVjZZMlFsQnA4QUNxYW5ta2hjX3VjRE5IQTVkTXZfMmk3Tng4S0VLaE5STmNR?oc=5\" target=\"_blank\">Meta’s Microsoft Mobile Moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-06-19T00:01:00+00:00",
+      "source": "The Information"
     },
     {
       "title": "Microsoft boss Steve Ballmer publicly dismissed Chrome as a 'rounding error'—but Google’s CEO says he used the jab as fuel to win the browser-wars - Fortune",
@@ -52,13 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeWdoM2ZvUnRHRUtueHRQcEhNUDdkWmI1ZjU5QjlDTlRXUXZkcEVILVFWbTRSZUdNbE1MZzEwczRURnBPVVBTRVNxU0VCbXhLWTRwbGUwMVVqS1ctRFNLeGdiUEtWcFlZVVJqWWhOR1dPSDNaT0lLa2NudUlZT0JNZEJoVWNieTRsSHl4dFlzMkprWWZHWFI4X1Zab05LNnhyQlJyNTQ3SmpfdUFhVmFBdy1kcnlMWmNtV0EweVpaZm5Yak9sbC1WaFdxczhwYkhLOWtkM3dUNTJrSm9ZU3ZDT3NPbw?oc=5\" target=\"_blank\">Microsoft boss Steve Ballmer publicly dismissed Chrome as a 'rounding error'—but Google’s CEO says he used the jab as fuel to win the browser-wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
       "published": "2026-06-17T14:56:00+00:00",
       "source": "Fortune"
-    },
-    {
-      "title": "Microsoft breaks ground on new data center in LaPorte - WSBT",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVJwM2lHM2EyX3hPQXByaWtmR09oMllVeVBtSXpBZGdWSFVUeGdBSlhVcGxvTG5xcXBTaUNjMUN2Q1VRNTI4Sno5NHJTckRQUHhjdGhlUVhVR0NVa1pLc3A2eUZRcmlWbUEzVVRxSGMwd0h5alhSX2pWdUZyV0hYdW5MZFVhWEJ6am5jRVZlMXgySDBjYkhQQ3VXX0l1MU1HcEZfSXFTMGt1bGNBWGxkQlppX1lGT3B5bzBrcldyU0hrd2duMHJYbGZxM0drb1g1U0oycm84Y244czhINnhn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVJwM2lHM2EyX3hPQXByaWtmR09oMllVeVBtSXpBZGdWSFVUeGdBSlhVcGxvTG5xcXBTaUNjMUN2Q1VRNTI4Sno5NHJTckRQUHhjdGhlUVhVR0NVa1pLc3A2eUZRcmlWbUEzVVRxSGMwd0h5alhSX2pWdUZyV0hYdW5MZFVhWEJ6am5jRVZlMXgySDBjYkhQQ3VXX0l1MU1HcEZfSXFTMGt1bGNBWGxkQlppX1lGT3B5bzBrcldyU0hrd2duMHJYbGZxM0drb1g1U0oycm84Y244czhINnhn?oc=5\" target=\"_blank\">Microsoft breaks ground on new data center in LaPorte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSBT</font>",
-      "published": "2026-06-17T20:53:17+00:00",
-      "source": "WSBT"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
-      "published": "2026-06-15T18:55:36+00:00",
-      "source": "Search Engine Journal"
-    },
-    {
       "title": "Microsoft confirms Office apps launch issues after June updates - BleepingComputer",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3FXWFdOQVV5RThZN1RCbHViNVRYbHBfOXptU1VYZl9XY2phbjJFSWNNTmRKekFtU1FrV05SSXU1Z2lPNGFvczNfU2x4cTZqN2QzVUVuWTVYZUpkUTVaTnNtanpOc25qVWh5dVdoT3ZvaERtM0EtQm5sZC1DTkdOTXpBTldocDVmQWVvM0lIdnhTdjg2UzA1RzgwbkFvNVVrSFRxUlZyNUFKdlg0Vmx5Nzh30gG3AUFVX3lxTE02Nmx4cWlQQkFyYkgzQ3hIUEVuSmNVaU1TLTBDWUxuN2d4T2oxbThnb0UtTXk2bWNEMmRBaWdpc3IxeWFWSFFidUdGYXVEVjM0RThDWEtxaXg0NUdhVHZlWVVUM294QkprYk9TaWZyZWVsWmYwV284MXYzNlJ6cE1lSHZSSEhpcjU5bzVPZ2p1S0QyMEYxaVNGdFRDb08xV2Y0aFlhclVreWtrcjZoWFVzYWtRT2pCcw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3FXWFdOQVV5RThZN1RCbHViNVRYbHBfOXptU1VYZl9XY2phbjJFSWNNTmRKekFtU1FrV05SSXU1Z2lPNGFvczNfU2x4cTZqN2QzVUVuWTVYZUpkUTVaTnNtanpOc25qVWh5dVdoT3ZvaERtM0EtQm5sZC1DTkdOTXpBTldocDVmQWVvM0lIdnhTdjg2UzA1RzgwbkFvNVVrSFRxUlZyNUFKdlg0Vmx5Nzh30gG3AUFVX3lxTE02Nmx4cWlQQkFyYkgzQ3hIUEVuSmNVaU1TLTBDWUxuN2d4T2oxbThnb0UtTXk2bWNEMmRBaWdpc3IxeWFWSFFidUdGYXVEVjM0RThDWEtxaXg0NUdhVHZlWVVUM294QkprYk9TaWZyZWVsWmYwV284MXYzNlJ6cE1lSHZSSEhpcjU5bzVPZ2p1S0QyMEYxaVNGdFRDb08xV2Y0aFlhclVreWtrcjZoWFVzYWtRT2pCcw?oc=5\" target=\"_blank\">Microsoft confirms Office apps launch issues after June updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
       "published": "2026-06-17T11:54:21+00:00",
       "source": "BleepingComputer"
+    },
+    {
+      "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
+      "published": "2026-06-15T18:55:36+00:00",
+      "source": "Search Engine Journal"
     },
     {
       "title": "Windows update leaves third-party Office document launches in limbo - The Register",
@@ -91,11 +91,11 @@
       "source": "The Register"
     },
     {
-      "title": "From this month onwards, this Microsoft programme will tell your boss - PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVZWQmxZWWF1eXZaMF9objVjZVp5ZWpUN2lYLUJZR2F1LWd3eUdOWEdaLVpWMHFIbUhEUDhvR2xjYk1ZSGZ4SFFWMXJFMFVHTXFiSnJPTTBHMmJ1TFhiYzJDaDQ3RkRiaEJXaHpHWXU0Z2FEeFBBRU9TQ25QZDJrcUszcEtsYUhLS0dGQk84Um1iak1obF9Wdm13THl2bDZzVDFWbnY0bW5vYVFYLVcwVE9pUjJ0OEtnVnBwcWJ5c1hjakdZQWY4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVZWQmxZWWF1eXZaMF9objVjZVp5ZWpUN2lYLUJZR2F1LWd3eUdOWEdaLVpWMHFIbUhEUDhvR2xjYk1ZSGZ4SFFWMXJFMFVHTXFiSnJPTTBHMmJ1TFhiYzJDaDQ3RkRiaEJXaHpHWXU0Z2FEeFBBRU9TQ25QZDJrcUszcEtsYUhLS0dGQk84Um1iak1obF9Wdm13THl2bDZzVDFWbnY0bW5vYVFYLVcwVE9pUjJ0OEtnVnBwcWJ5c1hjakdZQWY4?oc=5\" target=\"_blank\">From this month onwards, this Microsoft programme will tell your boss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font>",
-      "published": "2026-06-16T02:14:00+00:00",
-      "source": "PCWorld"
+      "title": "Windows 11 KB5094126, KB5093998 bugging out Office apps but it may not be Microsoft's fault - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFJFbFhZTk51SklrMUE4SGE0TVdtSjRFMDdwLVZRNXF3QndJVm5YVUZZYVlKcE85WHpPQzJUTlk2YjBXY1FTaWNEUHVXeUVwcjh3SHdzWU5LLWVDRV9UU251TnpSZUxWY2p6RlAtNXAzQ2NfWjZVRUZvOGFNOXZXV0x5UDBsNGFPZjBIRGFkY0lDaWtzbVB3aGppa3JobFBCSVV3b1JrbjhYMW9ra25YUVV3UkkxaDBZdGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFJFbFhZTk51SklrMUE4SGE0TVdtSjRFMDdwLVZRNXF3QndJVm5YVUZZYVlKcE85WHpPQzJUTlk2YjBXY1FTaWNEUHVXeUVwcjh3SHdzWU5LLWVDRV9UU251TnpSZUxWY2p6RlAtNXAzQ2NfWjZVRUZvOGFNOXZXV0x5UDBsNGFPZjBIRGFkY0lDaWtzbVB3aGppa3JobFBCSVV3b1JrbjhYMW9ra25YUVV3UkkxaDBZdGc?oc=5\" target=\"_blank\">Windows 11 KB5094126, KB5093998 bugging out Office apps but it may not be Microsoft's fault</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2026-06-17T04:24:00+00:00",
+      "source": "Neowin"
     }
   ],
   "stock": {
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-06-18",
-      "close": 377.99749755859375
+      "close": 379.3999938964844
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-06-18",
-        "close": 377.99749755859375
+        "close": 379.3999938964844
       }
     ],
     "name": "Microsoft Corporation"
