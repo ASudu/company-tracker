@@ -2,21 +2,110 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-07-05T13:08:58.108864+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-07-06T14:58:36.931314+00:00",
+  "news": [
+    {
+      "title": "India orders Meta to remove ads promoting child sexual abuse - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wU2FXVzh5T09UUWd1OHNPYVVoZXNON1FCRUJWU094aHJpZ0NZOTQ2UUJyMjliNk5xTDk3SW9VekxNZ2J0TjhJN1R5SzN6ZzkxZllubjRrcG9iZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wU2FXVzh5T09UUWd1OHNPYVVoZXNON1FCRUJWU094aHJpZ0NZOTQ2UUJyMjliNk5xTDk3SW9VekxNZ2J0TjhJN1R5SzN6ZzkxZllubjRrcG9iZw?oc=5\" target=\"_blank\">India orders Meta to remove ads promoting child sexual abuse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-07-06T05:52:45+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Meta’s woes deepen in India as child abuse ads on Instagram draw government ire - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTzRQcHJqM1QyTVdpcTFtRnRYNU5tUEhLUEVRcDFJQ1EyX0lKVHBRZmppaWNReDB1ZklvdFJITHd1dkxtblRHbXB4dmpGNHVWa1hMbmY1YVBIeWhyNjJ3LTk2dVVTcy1hbVBZaEpHOGEtZ2hWdUJtZTZxSTVCSHPSAYQBQVVfeXFMT1dCbzRiMFMxdlVFT3EwNjVMXzB4UHlqaWo1NkhvVDdUMkpxYUdMeGF6cU1jNlc4RVYtS3U1OVBoSkRvbGJjUnZMc1JjUS1OMk1xSmE1cDJYZ2htM0Q0RGhVNVdUaVhxc0dENGZvdlRBOEZVQWdTeUZ0YzRKUC1QYnVZTTha?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTzRQcHJqM1QyTVdpcTFtRnRYNU5tUEhLUEVRcDFJQ1EyX0lKVHBRZmppaWNReDB1ZklvdFJITHd1dkxtblRHbXB4dmpGNHVWa1hMbmY1YVBIeWhyNjJ3LTk2dVVTcy1hbVBZaEpHOGEtZ2hWdUJtZTZxSTVCSHPSAYQBQVVfeXFMT1dCbzRiMFMxdlVFT3EwNjVMXzB4UHlqaWo1NkhvVDdUMkpxYUdMeGF6cU1jNlc4RVYtS3U1OVBoSkRvbGJjUnZMc1JjUS1OMk1xSmE1cDJYZ2htM0Q0RGhVNVdUaVhxc0dENGZvdlRBOEZVQWdTeUZ0YzRKUC1QYnVZTTha?oc=5\" target=\"_blank\">Meta’s woes deepen in India as child abuse ads on Instagram draw government ire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-06T04:58:09+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Stop child sex abuse ads on Insta at once: Govt to Meta - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWC1jeDRtWnJ0SklYYVZBdEZzX3BVZlJMT1Z6MGw5aXpXTDhIVmxsa1k2YUdfYXFjcUFaZmpIMTV0d0dpelBYS1BJNHVUOEZtd1JVSG12RVlLaXJJanppblFBX0VnWHpISXFJTnlQOUw1cXlQV3oxbnJQeWo5UUt1MUlsOEFWalEwYzlGeXZSQkZGd2dqWTdibkhIUjUtdUpZRURsMnc4VXNEcm1La0MzZDNIMmNfRTNXNFNCYndoWdIBxAFBVV95cUxOM0p6dm44RDhjN09RUDRObWo4NUN2ZnBJbDVvSWVseXkyRVZGV2VlSlZMQ0libWNVQ3lldC1EYXhYQ1o5dm0taVRhY2Vad0l3SXJWcEd4a2hjU2paenRFUEZyQjlaM3JwNnNnZEpELVpmdW9CY094UW9sMVE5bHJrbTFnNXZHemFvYlZ2ZHJIUnlxU1hZRHd1LTB2Z1Rfc01VQmtHMUNPVjU2UFZwNHhOOWFEanRsNTlGQml1bUI1Y1FiZ2Z4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPWC1jeDRtWnJ0SklYYVZBdEZzX3BVZlJMT1Z6MGw5aXpXTDhIVmxsa1k2YUdfYXFjcUFaZmpIMTV0d0dpelBYS1BJNHVUOEZtd1JVSG12RVlLaXJJanppblFBX0VnWHpISXFJTnlQOUw1cXlQV3oxbnJQeWo5UUt1MUlsOEFWalEwYzlGeXZSQkZGd2dqWTdibkhIUjUtdUpZRURsMnc4VXNEcm1La0MzZDNIMmNfRTNXNFNCYndoWdIBxAFBVV95cUxOM0p6dm44RDhjN09RUDRObWo4NUN2ZnBJbDVvSWVseXkyRVZGV2VlSlZMQ0libWNVQ3lldC1EYXhYQ1o5dm0taVRhY2Vad0l3SXJWcEd4a2hjU2paenRFUEZyQjlaM3JwNnNnZEpELVpmdW9CY094UW9sMVE5bHJrbTFnNXZHemFvYlZ2ZHJIUnlxU1hZRHd1LTB2Z1Rfc01VQmtHMUNPVjU2UFZwNHhOOWFEanRsNTlGQml1bUI1Y1FiZ2Z4?oc=5\" target=\"_blank\">Stop child sex abuse ads on Insta at once: Govt to Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-07-05T21:41:00+00:00",
+      "source": "The Times of India"
+    },
+    {
+      "title": "How Meta’s Threads Became as Popular as X - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xQXcwLXVxbzNnSkh6S2NHWExTYkIwWkhwbFRkS05GRE11TThPTnlYaFhvS3dPd0hrdTRtcENWd3Z0M1A4TXVveUl3N0tWUk5QTXJqTkU2RExFLUw4T1FfbEoxdTFUb1BoWUlEa0U3ZUtvYjkyT3g4TVZRNW5fQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0xQXcwLXVxbzNnSkh6S2NHWExTYkIwWkhwbFRkS05GRE11TThPTnlYaFhvS3dPd0hrdTRtcENWd3Z0M1A4TXVveUl3N0tWUk5QTXJqTkU2RExFLUw4T1FfbEoxdTFUb1BoWUlEa0U3ZUtvYjkyT3g4TVZRNW5fQQ?oc=5\" target=\"_blank\">How Meta’s Threads Became as Popular as X</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-07-05T14:39:41+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Meta, Google invest in skilled worker training to build Virginia data centers - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hsRlNwRXp3UjB0Z0RveHVmQzNKbXBjU3F0bnV6M1VpOGd4bEFTUTZVbjhZS2lBYmtpU1owdnZCRUdXcjZVOFdtSTZDTXNEMUdza2FkeDZ6WDhzeDV1RWNENjdXU3VwWFpkcU1NdkMxbDNjZ1k2UzlMaXFQbW0xYlRxdHNOaTBKQjdvWW1VNnhTV2VqT0hYd21tS20yclNZQ2J1MkpfOEx5c3c5Z0p4SlJsaldIM2oydmpuTFZwZnFfbU9hdl9MR0RR?oc=5\" target=\"_blank\">Meta, Google invest in skilled worker training to build Virginia data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-07-06T10:25:36+00:00",
+      "source": "Axios"
+    },
+    {
+      "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEVfdnh3bDVKODhUM1N4Q253eFpsSm50SDBIZ3RRQUh5UmxJSEwxRjZUWTVOcmQyLVVBSE13ZDlKb1pjNDA5RGViOUZSUjZlYzJXbjBmcUVFS2NWM1J2cnBOaFpaTmxKcm5OZmJ0MlV3WkE5UlA1M0hhR2NHdUNyR3lzZlM3WVp3NG0zSldmcXVWanVsZ09n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEVfdnh3bDVKODhUM1N4Q253eFpsSm50SDBIZ3RRQUh5UmxJSEwxRjZUWTVOcmQyLVVBSE13ZDlKb1pjNDA5RGViOUZSUjZlYzJXbjBmcUVFS2NWM1J2cnBOaFpaTmxKcm5OZmJ0MlV3WkE5UlA1M0hhR2NHdUNyR3lzZlM3WVp3NG0zSldmcXVWanVsZ09n?oc=5\" target=\"_blank\">Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-07-04T13:02:00+00:00",
+      "source": "Yahoo"
+    },
+    {
+      "title": "Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEs4V3ZYTzhUMHBKTlh2ZDk0WGlncmFObkxYRGlkVXNZTzBjZzRDOWlLaWJpMkFxQUVYdmMyWmw4RHJxTWhNYjdFQWhnOWlNOFlxY19yemRjLXpMenhJd0xWcVMtUFBTdmdNLUNFQkxWMzBzOHNkdFFrWjZqUjZUVGROZ1pHT3pncUtrNFZ5bThKZDExbmFEOEtqSUhwbURI0gGmAUFVX3lxTE1VRHM4S0NQWWV6aWlXT1RON2pnSnp0SGdoOXlGR2xFekVyRW91Z1YtaHM4NjBjRTQyT182YTBRWHVVN0VUR3M3ZmRuYnU2VW5ocGt6QjBwMldDYkxrbjRqcVNPdm03UFNCMGtNd0Y3R3hUa2NyUEx4NUZCdEdTYXc0cTdUZ1VTTVZYcTdMNVJLMmpPUWMtdU5RX29DOF9yZGtvSlNVWWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEs4V3ZYTzhUMHBKTlh2ZDk0WGlncmFObkxYRGlkVXNZTzBjZzRDOWlLaWJpMkFxQUVYdmMyWmw4RHJxTWhNYjdFQWhnOWlNOFlxY19yemRjLXpMenhJd0xWcVMtUFBTdmdNLUNFQkxWMzBzOHNkdFFrWjZqUjZUVGROZ1pHT3pncUtrNFZ5bThKZDExbmFEOEtqSUhwbURI0gGmAUFVX3lxTE1VRHM4S0NQWWV6aWlXT1RON2pnSnp0SGdoOXlGR2xFekVyRW91Z1YtaHM4NjBjRTQyT182YTBRWHVVN0VUR3M3ZmRuYnU2VW5ocGt6QjBwMldDYkxrbjRqcVNPdm03UFNCMGtNd0Y3R3hUa2NyUEx4NUZCdEdTYXc0cTdUZ1VTTVZYcTdMNVJLMmpPUWMtdU5RX29DOF9yZGtvSlNVWWc?oc=5\" target=\"_blank\">Apple veteran's Chinese smart-glasses firm becomes unicorn as Tencent, Meituan fund rival to Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-06T10:00:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Mark Zuckerberg takes business calls on a jet ski wearing his $800 Meta glasses - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjJQM2VEYUNKZ1NLQnpLQnRtUnB3UnA1bll6U0cyY0ZhazQzNlJxSXF1TnNnR0E3Y2c3WVJoOFVlLWFCYnloUWIxdzdtYmVVeGVvRy1oYlRIQzNtZEZhWG1zTHFoZ21KRGVzNFU2Rm5DTUZfYTNzTXItZHM5MGJ1VC1NRUZOQks0WEZEYmUwb0Z6a0RkNU4wVlc5S0NDcWh0SGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjJQM2VEYUNKZ1NLQnpLQnRtUnB3UnA1bll6U0cyY0ZhazQzNlJxSXF1TnNnR0E3Y2c3WVJoOFVlLWFCYnloUWIxdzdtYmVVeGVvRy1oYlRIQzNtZEZhWG1zTHFoZ21KRGVzNFU2Rm5DTUZfYTNzTXItZHM5MGJ1VC1NRUZOQks0WEZEYmUwb0Z6a0RkNU4wVlc5S0NDcWh0SGc?oc=5\" target=\"_blank\">Mark Zuckerberg takes business calls on a jet ski wearing his $800 Meta glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-07-05T12:03:00+00:00",
+      "source": "Fortune"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses - Meta Store",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3h4ZHdPTDhKWGNjOVNya20xNVdFcU50Tnh5dnJGdkV4MFJyMDhzenkwU0xkVmZGNHgybTIzc2VDZEt0VU1RYVpqWV82cHRLZ0NqZTJmaUIwSnJUTUdydm1KdmJkQjhDNDFZallKSEFUQWVLbGxmOFZSYXdHQ1RDUFl0WFE0NnNJODgtb9IBkgFBVV95cUxQbkxNb3c0VWRVWjlEMFdtTV9xWThlQU50Sy05MldQYU5OX3RCdTFJYnlCYmRrMXJ3MmlsZ1J1emxLSGhhZFpkS1JKYWZPRXNVazYzcXY1OG1jWUtwUWl5eVV6b3VXM3p6RWFqZzViNUdCNzFuandPSjM3RWd2UktOQUhmeDJfNkc1bnJXR19zYlBKdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3h4ZHdPTDhKWGNjOVNya20xNVdFcU50Tnh5dnJGdkV4MFJyMDhzenkwU0xkVmZGNHgybTIzc2VDZEt0VU1RYVpqWV82cHRLZ0NqZTJmaUIwSnJUTUdydm1KdmJkQjhDNDFZallKSEFUQWVLbGxmOFZSYXdHQ1RDUFl0WFE0NnNJODgtb9IBkgFBVV95cUxQbkxNb3c0VWRVWjlEMFdtTV9xWThlQU50Sy05MldQYU5OX3RCdTFJYnlCYmRrMXJ3MmlsZ1J1emxLSGhhZFpkS1JKYWZPRXNVazYzcXY1OG1jWUtwUWl5eVV6b3VXM3p6RWFqZzViNUdCNzFuandPSjM3RWd2UktOQUhmeDJfNkc1bnJXR19zYlBKdw?oc=5\" target=\"_blank\">We’re Partnering With EssilorLuxottica to Launch Meta Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": "Meta Store"
+    },
+    {
+      "title": "We tried the new Meta Glasses at the London launch - nssmag.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGkwTmxSSUpNRW9jUEV3eFh5clEySzNMVWljVXdPeWxvWGI0VXh6UU5JeDN1RUF4elllLWtyYXg4MGFZWms5dy02M0FrUklHV2lhYU5PYVAtbmtSbHlDaF9JVGlRTjF2SXFxQUFnb20xejlNY0VVRUVrTFZZZThWVWVoSm04NnNVUzlrX1FkUkF1SE44MDlWME5QclFWRGVraHYzR2pVQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGkwTmxSSUpNRW9jUEV3eFh5clEySzNMVWljVXdPeWxvWGI0VXh6UU5JeDN1RUF4elllLWtyYXg4MGFZWms5dy02M0FrUklHV2lhYU5PYVAtbmtSbHlDaF9JVGlRTjF2SXFxQUFnb20xejlNY0VVRUVrTFZZZThWVWVoSm04NnNVUzlrX1FkUkF1SE44MDlWME5QclFWRGVraHYzR2pVQQ?oc=5\" target=\"_blank\">We tried the new Meta Glasses at the London launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nssmag.com</font>",
+      "published": "2026-07-02T13:53:55+00:00",
+      "source": "nssmag.com"
+    },
+    {
+      "title": "Meta Launches Cheaper Smart Glasses Without Ray-Ban Branding - UploadVR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMC1CVG1lX1hBMVRkMGZHdDNuLURydGhmRlhXdVdDLThYWkMtMnBoYnZfQXI5QkhVWFMxb0pDS2JWOGxvcE9MYTZ4eFAyT01WbmFuODdabFVfLVRXTlgzQnZFY1FPRDFLYlJlUHFWb28zd25FNzkxWkZBYkdYRHdqNzl2YmQ2TEkxRXFUb24ydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMC1CVG1lX1hBMVRkMGZHdDNuLURydGhmRlhXdVdDLThYWkMtMnBoYnZfQXI5QkhVWFMxb0pDS2JWOGxvcE9MYTZ4eFAyT01WbmFuODdabFVfLVRXTlgzQnZFY1FPRDFLYlJlUHFWb28zd25FNzkxWkZBYkdYRHdqNzl2YmQ2TEkxRXFUb24ydw?oc=5\" target=\"_blank\">Meta Launches Cheaper Smart Glasses Without Ray-Ban Branding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": "UploadVR"
+    },
+    {
+      "title": "Meta launches Cheaper Smart Glasses Without Ray-Ban - whopam.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KY1VJQW9kMmtNUVBKZVFYRlBZbVE2alllUVI1SE9hcVpjX2lINjZfOVplWjRwWk9SdnhpRW1VNi1GUkU0VzV0a1Nua1RhbkhRWGxXRm51b1dEdVZJMEZ6RFM5TVJkd1FNT2xkUEd1eC1PVEd6OVMtV01ibGM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9KY1VJQW9kMmtNUVBKZVFYRlBZbVE2alllUVI1SE9hcVpjX2lINjZfOVplWjRwWk9SdnhpRW1VNi1GUkU0VzV0a1Nua1RhbkhRWGxXRm51b1dEdVZJMEZ6RFM5TVJkd1FNT2xkUEd1eC1PVEd6OVMtV01ibGM?oc=5\" target=\"_blank\">Meta launches Cheaper Smart Glasses Without Ray-Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">whopam.com</font>",
+      "published": "2026-07-01T09:01:31+00:00",
+      "source": "whopam.com"
+    },
+    {
+      "title": "Meta Launches $299 AI Glasses - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdk1MdWs3RV9Ua1JwaXVrQlphZy02U3lOcld4S1hTMV8yUm9DX1NUckNtYzBWSHM4X001WjhsTkI2VW1EMVN1ZG85S3llUktjUUdRLXFSVnpGLVdwYnpsQzNhMzMydW43RkxUb3hiMEpZU2R3SmZFWnFtcXk2dEhEeklkMDh0YzlCeDRYZnhlWi1QNUpzZHpv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdk1MdWs3RV9Ua1JwaXVrQlphZy02U3lOcld4S1hTMV8yUm9DX1NUckNtYzBWSHM4X001WjhsTkI2VW1EMVN1ZG85S3llUktjUUdRLXFSVnpGLVdwYnpsQzNhMzMydW43RkxUb3hiMEpZU2R3SmZFWnFtcXk2dEhEeklkMDh0YzlCeDRYZnhlWi1QNUpzZHpv?oc=5\" target=\"_blank\">Meta Launches $299 AI Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-06-24T07:00:00+00:00",
+      "source": "Yahoo Finance"
+    }
+  ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-02",
-      "close": 582.9000244140625
+      "date": "2026-07-06",
+      "close": 589.2199096679688
     },
     "history": [
-      {
-        "date": "2026-06-24",
-        "close": 557.6699829101562
-      },
       {
         "date": "2026-06-25",
         "close": 542.8699951171875
@@ -40,6 +129,10 @@
       {
         "date": "2026-07-02",
         "close": 582.9000244140625
+      },
+      {
+        "date": "2026-07-06",
+        "close": 589.2199096679688
       }
     ],
     "name": "Meta Platforms, Inc."

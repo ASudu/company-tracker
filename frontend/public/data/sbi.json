@@ -2,21 +2,110 @@
   "name": "SBI",
   "slug": "sbi",
   "ticker": "SBIN.NS",
-  "fetched_at": "2026-07-05T13:11:08.588597+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-07-06T14:58:56.695988+00:00",
+  "news": [
+    {
+      "title": "Inmate dies at Moore County Detention Center, SBI investigating - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkhOZHU5RDYxQUM2ZE9uYTZYWWRPcjZva3N1eXBVNDltVlo1YlNGVVhYSUR1MzNpVDdINVYtaXNwUk15am5BbXlzZUR5TFJzeFdyYWwtMkJBYWtVNnJUZlYtanFmVFYtLVdUbG5PRnROTW1XV1ktTVRuNElwQkttU3JmeEJsaUx1MDZVdQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkhOZHU5RDYxQUM2ZE9uYTZYWWRPcjZva3N1eXBVNDltVlo1YlNGVVhYSUR1MzNpVDdINVYtaXNwUk15am5BbXlzZUR5TFJzeFdyYWwtMkJBYWtVNnJUZlYtanFmVFYtLVdUbG5PRnROTW1XV1ktTVRuNElwQkttU3JmeEJsaUx1MDZVdQ?oc=5\" target=\"_blank\">Inmate dies at Moore County Detention Center, SBI investigating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>",
+      "published": "2026-07-05T21:01:45+00:00",
+      "source": "WRAL"
+    },
+    {
+      "title": "Japan is the only country actually using XRP: Inside the SBI empire - Crypto News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDRPWWdqdXF0SUJxeHNUaFQtLU5WcFg4VkpHUGo2dm5ULWFUSlIta19BUGc2XzR2NjVRZFZHUGpFRWxiSExPNHQ3aFNYYW9QTHhSVmE0VUxuYnZCWjQyV0NHcU5UUEIwMTBSU0E3TllxcnpIaERqa2hhbWxsTXZ1UXBUZ0o3eTJBa0dRb2dtNF8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDRPWWdqdXF0SUJxeHNUaFQtLU5WcFg4VkpHUGo2dm5ULWFUSlIta19BUGc2XzR2NjVRZFZHUGpFRWxiSExPNHQ3aFNYYW9QTHhSVmE0VUxuYnZCWjQyV0NHcU5UUEIwMTBSU0E3TllxcnpIaERqa2hhbWxsTXZ1UXBUZ0o3eTJBa0dRb2dtNF8?oc=5\" target=\"_blank\">Japan is the only country actually using XRP: Inside the SBI empire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto News</font>",
+      "published": "2026-07-06T13:54:04+00:00",
+      "source": "Crypto News"
+    },
+    {
+      "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNk02bnljdmNiSTZtTUJaeHRMU2diQlJXSllKcHoxYVg5WHVFd0g5T0t4WDdscHg2Q0RBTW1mRmU3VWE1c3Fic0ZXdWJtSUFWSUxVeV9xSkNZWDJnWmstWEJ2ZFlyUER1eUJDNEdCeWhFQWVyUUlGNmlJMHYwdnNpcmxldWZTMm1WVTlWdHRFck1WLUJKWkN3NnZLSDhnNEdIWi1DRko2REk4c0NUanBzWXdDWjNDVFZrUHF5ckVycWE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNk02bnljdmNiSTZtTUJaeHRMU2diQlJXSllKcHoxYVg5WHVFd0g5T0t4WDdscHg2Q0RBTW1mRmU3VWE1c3Fic0ZXdWJtSUFWSUxVeV9xSkNZWDJnWmstWEJ2ZFlyUER1eUJDNEdCeWhFQWVyUUlGNmlJMHYwdnNpcmxldWZTMm1WVTlWdHRFck1WLUJKWkN3NnZLSDhnNEdIWi1DRko2REk4c0NUanBzWXdDWjNDVFZrUHF5ckVycWE?oc=5\" target=\"_blank\">SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "published": "2026-07-02T14:48:19+00:00",
+      "source": "CoinDesk"
+    },
+    {
+      "title": "NC SBI provides update following inmate takeover at Bertie-Martin Regional Jail - WAVY.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOWE0TXZnajI0QXhqNk51Z24xWVdCeldMaTBDRFNGMHRrVlY1TEx2VDlLMS1WMGZpYXhTeG1EVHhSUW5tOGtVZkFxdXVvMGdSbUZ1dmJ3MDluZVZUMmpKLU5ONHV6cGs3V25JYmVQc0RXRE9WSE43dnY4TklybTAxaWZXR0JQeTN4c096SHoxOENqeFJqT3dCLWxaZGUwcUNwb3ZMS1JJcTYxXzlvTkFEUDlUU0E0dV96T1RoZk5B0gHDAUFVX3lxTE1HZFhEV0xMWDZ3cHRDNVpLVWRFVTZWQXFFZTZVRWFHc3U1XzRtWFctX2lfZEhFdlBUemJCLUhvMkZsaW5KZnhKNTZ4eUVydE5iYzZqY1d5YzdZVUZBYnA5RkMzUXdCQlkwdlZ0aUFqSmRCX1M1bFRHTGY3TlA4aHk3ZVI4SjIzWGVSdDlaUXJaaU1KeFpPNVJhOV9tdDhRX2dDZml1dDJGcUx1VHhlNzNqc2s0akZzWXVXR2VFSWViM285dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQOWE0TXZnajI0QXhqNk51Z24xWVdCeldMaTBDRFNGMHRrVlY1TEx2VDlLMS1WMGZpYXhTeG1EVHhSUW5tOGtVZkFxdXVvMGdSbUZ1dmJ3MDluZVZUMmpKLU5ONHV6cGs3V25JYmVQc0RXRE9WSE43dnY4TklybTAxaWZXR0JQeTN4c096SHoxOENqeFJqT3dCLWxaZGUwcUNwb3ZMS1JJcTYxXzlvTkFEUDlUU0E0dV96T1RoZk5B0gHDAUFVX3lxTE1HZFhEV0xMWDZ3cHRDNVpLVWRFVTZWQXFFZTZVRWFHc3U1XzRtWFctX2lfZEhFdlBUemJCLUhvMkZsaW5KZnhKNTZ4eUVydE5iYzZqY1d5YzdZVUZBYnA5RkMzUXdCQlkwdlZ0aUFqSmRCX1M1bFRHTGY3TlA4aHk3ZVI4SjIzWGVSdDlaUXJaaU1KeFpPNVJhOV9tdDhRX2dDZml1dDJGcUx1VHhlNzNqc2s0akZzWXVXR2VFSWViM285dw?oc=5\" target=\"_blank\">NC SBI provides update following inmate takeover at Bertie-Martin Regional Jail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVY.com</font>",
+      "published": "2026-06-30T17:22:27+00:00",
+      "source": "WAVY.com"
+    },
+    {
+      "title": "SBI Crypto to Shut Bitcoin Mining Pool Launched in 2021 - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc29CWW1vVmJPclZGbWIwX29aLThHOEdtU21SUjZWdV8yc0liV1gxanFvRnFjOXRiUUczc1pfcmhUUkNDQmVqcU9LZHJhbi1hX0l2b3JjSHZrNVl1WVVjSjJIb1RxNnRqeS1SNmRBaVNKSFlHZGxpaVZYXzJSLUxhUzkxcUdCZ1haSkhDYlphRDNzNDhYdndsaFZDUWRkUVpCQkhET0Raa0tQektkSDd1VA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQc29CWW1vVmJPclZGbWIwX29aLThHOEdtU21SUjZWdV8yc0liV1gxanFvRnFjOXRiUUczc1pfcmhUUkNDQmVqcU9LZHJhbi1hX0l2b3JjSHZrNVl1WVVjSjJIb1RxNnRqeS1SNmRBaVNKSFlHZGxpaVZYXzJSLUxhUzkxcUdCZ1haSkhDYlphRDNzNDhYdndsaFZDUWRkUVpCQkhET0Raa0tQektkSDd1VA?oc=5\" target=\"_blank\">SBI Crypto to Shut Bitcoin Mining Pool Launched in 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Foundation</font>",
+      "published": "2026-07-02T10:30:10+00:00",
+      "source": "Bitcoin Foundation"
+    },
+    {
+      "title": "SBI USMNT Man of the Match: Malik Tillman - SBI Soccer - SBI Soccer",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zM05pVzBjVy1kbnVfMkFGSmM1am1RZnlLZ2lDY29PMTYweTZ2Z1N2ZzhFMDVxWFdCMmNPbGtmZENCa2NDWS1fVzYwZWRyUTRDbWtsZXhka1I1RzgyTGhxOERrb19XeEdNd1FFY084SHdQaUVVZ1YyUURVb1rSAYQBQVVfeXFMUGpiem5BSVFqWnhvNDVOVS1jZkdCMjJjMFh2YV9LQ1pYWm1aU2t4N3NSQlNaczVxWEF6MGFob2VLT1ByaGk1eWoyRVhZYWNNc3B6c2h2SXkteEZRWE1vcEVnMXFMemFwMWM5UmNNXzlQN0kwTWFHV0xOdEhLb0ZsU1JVc05V?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0zM05pVzBjVy1kbnVfMkFGSmM1am1RZnlLZ2lDY29PMTYweTZ2Z1N2ZzhFMDVxWFdCMmNPbGtmZENCa2NDWS1fVzYwZWRyUTRDbWtsZXhka1I1RzgyTGhxOERrb19XeEdNd1FFY084SHdQaUVVZ1YyUURVb1rSAYQBQVVfeXFMUGpiem5BSVFqWnhvNDVOVS1jZkdCMjJjMFh2YV9LQ1pYWm1aU2t4N3NSQlNaczVxWEF6MGFob2VLT1ByaGk1eWoyRVhZYWNNc3B6c2h2SXkteEZRWE1vcEVnMXFMemFwMWM5UmNNXzlQN0kwTWFHV0xOdEhLb0ZsU1JVc05V?oc=5\" target=\"_blank\">SBI USMNT Man of the Match: Malik Tillman - SBI Soccer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SBI Soccer</font>",
+      "published": "2026-07-02T02:12:47+00:00",
+      "source": "SBI Soccer"
+    },
+    {
+      "title": "SBI Holdings expands with Bitbank deal - IBS Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVNQaW5Fay1UUGhHZVF6QWZHaTEtcDA3dzBvWHVadERBVkYxWHZpWFpQbWUxMzM5WmE0UEoyS2N4MmhYVmVpY1Rvd29MUzRVOWkwdGEzc1FNNGtuMGx3QTJBdV9sNjVvdmhfVDQxb2dfdGx0U1hwc24xLWhiUXNMUUY2UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVNQaW5Fay1UUGhHZVF6QWZHaTEtcDA3dzBvWHVadERBVkYxWHZpWFpQbWUxMzM5WmE0UEoyS2N4MmhYVmVpY1Rvd29MUzRVOWkwdGEzc1FNNGtuMGx3QTJBdV9sNjVvdmhfVDQxb2dfdGx0U1hwc24xLWhiUXNMUUY2UQ?oc=5\" target=\"_blank\">SBI Holdings expands with Bitbank deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBS Intelligence</font>",
+      "published": "2026-07-06T04:27:15+00:00",
+      "source": "IBS Intelligence"
+    },
+    {
+      "title": "JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWlHcGpBTFh4OTltcU1EcVpQSXBEaFVQOEgzZ0NfRElWdjNEbW1TazduZDEwUk13ckxkRUhGRHZUSXlkcGZHczJWWXVSbmFPaHVFYWxUay0tczRaZ1Q3aG9CWnFpMXJpajBvdi1FbFFIUXVBZ3ZvRVJzTVBOdmQybkU4ek5RVElaVDNfbzdOZVZMR0ptU3dEWEhmMjVZLUU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWlHcGpBTFh4OTltcU1EcVpQSXBEaFVQOEgzZ0NfRElWdjNEbW1TazduZDEwUk13ckxkRUhGRHZUSXlkcGZHczJWWXVSbmFPaHVFYWxUay0tczRaZ1Q3aG9CWnFpMXJpajBvdi1FbFFIUXVBZ3ZvRVJzTVBOdmQybkU4ek5RVElaVDNfbzdOZVZMR0ptU3dEWEhmMjVZLUU?oc=5\" target=\"_blank\">JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-02T18:28:47+00:00",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "USDC Lending To Launch in Japan Through SBI VC Trade - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmV3dExUYVdPaGdqa2ExM0hOMlZUQTZadU4tS0VJMnE2dHdSZkFyaVRURUxYSnJBOWpGWnluc3o1SzhOMFU0UjNTZVNSQkhoOU1aYmZtaDJmQWtXd3JJZnlMRGRJZkdyVHRrSnVkanMzc2hORG9xNEhUZTc1MjJ1WXdYUFZkcjRTZUY4QnFUVFhNMGw1Rm50QzJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmV3dExUYVdPaGdqa2ExM0hOMlZUQTZadU4tS0VJMnE2dHdSZkFyaVRURUxYSnJBOWpGWnluc3o1SzhOMFU0UjNTZVNSQkhoOU1aYmZtaDJmQWtXd3JJZnlMRGRJZkdyVHRrSnVkanMzc2hORG9xNEhUZTc1MjJ1WXdYUFZkcjRTZUY4QnFUVFhNMGw1Rm50QzJB?oc=5\" target=\"_blank\">USDC Lending To Launch in Japan Through SBI VC Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
+      "published": "2026-07-04T11:19:13+00:00",
+      "source": "CoinMarketCap"
+    },
+    {
+      "title": "XRP Enters Traditional Banking As SBI Shinsei Unveils New Pilot Program - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXlUWkxsT1FpT1dWTVk1VkpMWGUwWEN5QjBrc2FnMkg0Tk0tVnFuZF9XUGRCT0FxWWpJR3VPWDlic3l1eXBoYlF1U2FVVW51Q2d4QWx0RDBKMGpHalpOUTBOVG13RnBqV2xROTV1Nm5nWWRDWHRKa0ZNWGtob1hJT0QzYW5YZGdNeWxhLWR2TXo5a0p6eWwzTTl0cVNwOXNZZ2tvc1dTU2FzQzVvUmNoMmdIRjJkdGt2QTJzWm1DUXhfbnlmbFc0VA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXlUWkxsT1FpT1dWTVk1VkpMWGUwWEN5QjBrc2FnMkg0Tk0tVnFuZF9XUGRCT0FxWWpJR3VPWDlic3l1eXBoYlF1U2FVVW51Q2d4QWx0RDBKMGpHalpOUTBOVG13RnBqV2xROTV1Nm5nWWRDWHRKa0ZNWGtob1hJT0QzYW5YZGdNeWxhLWR2TXo5a0p6eWwzTTl0cVNwOXNZZ2tvc1dTU2FzQzVvUmNoMmdIRjJkdGt2QTJzWm1DUXhfbnlmbFc0VA?oc=5\" target=\"_blank\">XRP Enters Traditional Banking As SBI Shinsei Unveils New Pilot Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2026-06-10T07:00:00+00:00",
+      "source": "TradingView"
+    },
+    {
+      "title": "SBI Holdings Launches 10B Yen Blockchain Bond With XRP Rewards - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2dmU3hkREVtZU9EZ0IzV21NaWY4TjhBOWpMY3VOMEZfTDRscVdsZUduV3k2bGNxd3RKSlBGNHIwU3hicGJxSW1naW9CTmJjYmw1VW10a1BSLWRpWDFJSDJoeGhMaG94UkZyM2NLM0MwbGNFdFpXOHdqRFRYMUo2bQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2dmU3hkREVtZU9EZ0IzV21NaWY4TjhBOWpMY3VOMEZfTDRscVdsZUduV3k2bGNxd3RKSlBGNHIwU3hicGJxSW1naW9CTmJjYmw1VW10a1BSLWRpWDFJSDJoeGhMaG94UkZyM2NLM0MwbGNFdFpXOHdqRFRYMUo2bQ?oc=5\" target=\"_blank\">SBI Holdings Launches 10B Yen Blockchain Bond With XRP Rewards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-02-22T08:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "SBI Holdings launches Japan’s first trust bank-backed yen stablecoin - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96OXV5S3E4N09NTkhvb2VmWWJINnpyaHhJS1ljVmRvbGY0UGVhbmhLZmw0SDhnSUF4em5iamJYekNBQ1IwQTJleExiZjVsdkprVFoyZUNSaDZjV1dnTTdySVVtNGktYzJiN2FMYnF1M1JKSnNCdXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE96OXV5S3E4N09NTkhvb2VmWWJINnpyaHhJS1ljVmRvbGY0UGVhbmhLZmw0SDhnSUF4em5iamJYekNBQ1IwQTJleExiZjVsdkprVFoyZUNSaDZjV1dnTTdySVVtNGktYzJiN2FMYnF1M1JKSnNCdXc?oc=5\" target=\"_blank\">SBI Holdings launches Japan’s first trust bank-backed yen stablecoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "published": "2026-06-24T10:58:39+00:00",
+      "source": "Crypto Briefing"
+    },
+    {
+      "title": "Ripple (XRP) News: SBI Group Is Building Japan’s First XRP ETF - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDVicjJCV2FheTdtNTJfclV0OF85NGlEOC0yQVdyOEFhSEtNaDBrU2NiRlNTWUh2SlRCNVhFdWxNY3loUlI2TmNTampRTzJ6dGJJRzdMSHAxWFg0RzM0WTRqT09aZDV2SmprSmNZd2phLWZWTkFhNkZzVGxaLThScnNCRFlTQjZjR3JSUVBRdTB1MjN4WjROUUhENUdEU0NMX0x5YQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDVicjJCV2FheTdtNTJfclV0OF85NGlEOC0yQVdyOEFhSEtNaDBrU2NiRlNTWUh2SlRCNVhFdWxNY3loUlI2TmNTampRTzJ6dGJJRzdMSHAxWFg0RzM0WTRqT09aZDV2SmprSmNZd2phLWZWTkFhNkZzVGxaLThScnNCRFlTQjZjR3JSUVBRdTB1MjN4WjROUUhENUdEU0NMX0x5YQ?oc=5\" target=\"_blank\">Ripple (XRP) News: SBI Group Is Building Japan’s First XRP ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-05-19T07:00:00+00:00",
+      "source": "24/7 Wall St."
+    }
+  ],
   "stock": {
     "ticker": "SBIN.NS",
     "currency": "INR",
     "latest": {
-      "date": "2026-07-03",
-      "close": 1040.0
+      "date": "2026-07-06",
+      "close": 1037.699951171875
     },
     "history": [
-      {
-        "date": "2026-06-25",
-        "close": 1045.4000244140625
-      },
       {
         "date": "2026-06-26",
         "close": 1045.4000244140625
@@ -40,6 +129,10 @@
       {
         "date": "2026-07-03",
         "close": 1040.0
+      },
+      {
+        "date": "2026-07-06",
+        "close": 1037.699951171875
       }
     ],
     "name": "STATE BANK OF INDIA"

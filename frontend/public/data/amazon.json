@@ -2,21 +2,110 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-07-05T13:08:44.403951+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-07-06T14:58:33.706401+00:00",
+  "news": [
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzZNZkNqMENwTTV4VHJxZkdhaTRCanJaUmFKRUxMOU5kVW1IdnU4NnFraFNubjFlQnpCdDM0aFpWeUhkcHMyUGg5clRPR2h3SFh3YTYyY0pVc0tfdlJudkpPelRqb3JzYjc5TzZTeU5YV3pBV3lsYjI4LXpmQkwzVF83LXpQSXhOQzZuWHdBanhIZkMwSUYybVpXbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzZNZkNqMENwTTV4VHJxZkdhaTRCanJaUmFKRUxMOU5kVW1IdnU4NnFraFNubjFlQnpCdDM0aFpWeUhkcHMyUGg5clRPR2h3SFh3YTYyY0pVc0tfdlJudkpPelRqb3JzYjc5TzZTeU5YV3pBV3lsYjI4LXpmQkwzVF83LXpQSXhOQzZuWHdBanhIZkMwSUYybVpXbw?oc=5\" target=\"_blank\">Amazon will stop accepting new customers for Mechanical Turk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-07-05T17:43:36+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon Turns 32 With AI in Focus - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORGgxc1JZWjVCMklLRC1ybWFsZjhDNl9XZnI5UEZ3RVdSM3Z2eGhDSDZKU09laGRFQmVKcTZMSkFJTVVSanpjS1A1QU9xTW9fdzBRUnVLT2xXNlpsVEtUX3N2RHBQTjhUNnpwSUZ5aWN2MzRtM19uLTJvYWFpUG9PeWFFQnVaVEJoYWtPTEVFQUdGdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORGgxc1JZWjVCMklLRC1ybWFsZjhDNl9XZnI5UEZ3RVdSM3Z2eGhDSDZKU09laGRFQmVKcTZMSkFJTVVSanpjS1A1QU9xTW9fdzBRUnVLT2xXNlpsVEtUX3N2RHBQTjhUNnpwSUZ5aWN2MzRtM19uLTJvYWFpUG9PeWFFQnVaVEJoYWtPTEVFQUdGdw?oc=5\" target=\"_blank\">Amazon Turns 32 With AI in Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-06T12:24:41+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Amazon 4th of July sales: Shop deals you can still get up to 60% off from Hanes, Ninja, Apple, Shark and more - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORGhyd0FMUEt0cXhjNkc2Qjlpb3ZzSFFkSmFSS3JZbmUxZ05rb0gydVAzdm9LNmFpZ3B0NEgzOXU0d3A0WGt2M2V3d3RTY01Sb2huSlBvYkMtMlRuZkpYNUdKQl9yd05mY09UOEMtdm1UNWc5VFAySWxxUkxVNlVTWDM0YnJaQUNsaTlJaHZoWHpBUTJNN1NVWGtNTEZYWEs5UTA2QlpEaE1DMGw1bVIxSW90aWFtUmRRNWlBM191SlZRY0Zobk1Td1pISlBCbEg1bVZlRmsyVGd1VDUyZTF1bU9lLXJVcHpFdFFDMXRHbl8tcVlGZnlqWEVTRVBKTmV2U0c2Sw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxORGhyd0FMUEt0cXhjNkc2Qjlpb3ZzSFFkSmFSS3JZbmUxZ05rb0gydVAzdm9LNmFpZ3B0NEgzOXU0d3A0WGt2M2V3d3RTY01Sb2huSlBvYkMtMlRuZkpYNUdKQl9yd05mY09UOEMtdm1UNWc5VFAySWxxUkxVNlVTWDM0YnJaQUNsaTlJaHZoWHpBUTJNN1NVWGtNTEZYWEs5UTA2QlpEaE1DMGw1bVIxSW90aWFtUmRRNWlBM191SlZRY0Zobk1Td1pISlBCbEg1bVZlRmsyVGd1VDUyZTF1bU9lLXJVcHpFdFFDMXRHbl8tcVlGZnlqWEVTRVBKTmV2U0c2Sw?oc=5\" target=\"_blank\">Amazon 4th of July sales: Shop deals you can still get up to 60% off from Hanes, Ninja, Apple, Shark and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-07-06T10:26:06+00:00",
+      "source": "Yahoo"
+    },
+    {
+      "title": "Amazon’s 4th of July Sale Is Still Kicking With Up to 50% Off Tech From HP, LG, Samsung, and More - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVJER3hqeFQ3NXozcGE0b3dSb1hGaHA3S29iVXdrV2RFVWFBMzQyVUdXaldaMFhpRlNyVG9vOEdCcmNpSDk0N0t4aXBuckcwOXp3cUlyeTNGc18tRzVSSnVQZlBBaGpBb0hSMC1SN2lkMFRwOTg0eERiZkdqQzMyMm9HcFRNUkxaSXRidA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVJER3hqeFQ3NXozcGE0b3dSb1hGaHA3S29iVXdrV2RFVWFBMzQyVUdXaldaMFhpRlNyVG9vOEdCcmNpSDk0N0t4aXBuckcwOXp3cUlyeTNGc18tRzVSSnVQZlBBaGpBb0hSMC1SN2lkMFRwOTg0eERiZkdqQzMyMm9HcFRNUkxaSXRidA?oc=5\" target=\"_blank\">Amazon’s 4th of July Sale Is Still Kicking With Up to 50% Off Tech From HP, LG, Samsung, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2026-07-06T14:36:55+00:00",
+      "source": "PCMag"
+    },
+    {
+      "title": "I Found Fourth of July Deals You Can Still Get Today: Comfortable Sandals, Cordless Vacuums, and More Start at $14 - People.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UTTRHMXR1NWtDdFNJdWtiWVBMMVYwTmRWQzZnUkZJZExKeG5FZmVUUzVsc1NIS0dCSTVzOWdpYjNscWdRV3pNQWpWWkhWSktLOUlNcWk2NlNEekQ4ZENXWnd1dWpwMFNQQmtqNVVMbkMzZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5UTTRHMXR1NWtDdFNJdWtiWVBMMVYwTmRWQzZnUkZJZExKeG5FZmVUUzVsc1NIS0dCSTVzOWdpYjNscWdRV3pNQWpWWkhWSktLOUlNcWk2NlNEekQ4ZENXWnd1dWpwMFNQQmtqNVVMbkMzZw?oc=5\" target=\"_blank\">I Found Fourth of July Deals You Can Still Get Today: Comfortable Sandals, Cordless Vacuums, and More Start at $14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-07-05T09:30:00+00:00",
+      "source": "People.com"
+    },
+    {
+      "title": "Netflix, Disney+, Amazon appeal French investment rules - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbU4zY3prVEVaeU51SV80SWl2Ty1USnBuX2J3ZzRxX0RPeFpfcFgyUW55bGZLbHEyOXlRS3pnMlVYdC1zbE9IaFoxWnZScU4xUlF1VTlHMEtQV21paTd4dEE1VFQwRlFRSWJETlFFNGVaS3p6bW9qU2JrbFdLa2hYaWVHOWtuUFZRWmszUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbU4zY3prVEVaeU51SV80SWl2Ty1USnBuX2J3ZzRxX0RPeFpfcFgyUW55bGZLbHEyOXlRS3pnMlVYdC1zbE9IaFoxWnZScU4xUlF1VTlHMEtQV21paTd4dEE1VFQwRlFRSWJETlFFNGVaS3p6bW9qU2JrbFdLa2hYaWVHOWtuUFZRWmszUQ?oc=5\" target=\"_blank\">Netflix, Disney+, Amazon appeal French investment rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "published": "2026-07-06T12:07:50+00:00",
+      "source": "Yahoo Finance UK"
+    },
+    {
+      "title": "Wedding presence of Amazon, Fox TV personalities may hint at Travis Kelce’s next move - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNE9KTUtmZjBmVUVGUkVkbV9KaXkwV3l0X2RlQ3VtRnNOYWlBVFQ4M1RBUm8wTl9aUk5ucy1TZ2ZrcVgtUmZOV2p1RlpseVFkaTRtV1Z1YTNkTEY0VGl3NWw3LXIxX3VwOFdWc3dzUVd2UTlaTWFvOTNJOFpzaXhrckJ4SUdlRmM4U1V3c0ZVRmx2LWFZdGp4R3JrcHg2VW1OcUZxc0lSTUM1MWFiYlBnUl9VT3hsTWFoQWR1RXNDNDdxT3daOFVBclhYQ3lrRlBIN0N0QzdEYWtQZERSRlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNE9KTUtmZjBmVUVGUkVkbV9KaXkwV3l0X2RlQ3VtRnNOYWlBVFQ4M1RBUm8wTl9aUk5ucy1TZ2ZrcVgtUmZOV2p1RlpseVFkaTRtV1Z1YTNkTEY0VGl3NWw3LXIxX3VwOFdWc3dzUVd2UTlaTWFvOTNJOFpzaXhrckJ4SUdlRmM4U1V3c0ZVRmx2LWFZdGp4R3JrcHg2VW1OcUZxc0lSTUM1MWFiYlBnUl9VT3hsTWFoQWR1RXNDNDdxT3daOFVBclhYQ3lrRlBIN0N0QzdEYWtQZERSRlE?oc=5\" target=\"_blank\">Wedding presence of Amazon, Fox TV personalities may hint at Travis Kelce’s next move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Sports</font>",
+      "published": "2026-07-05T21:45:41+00:00",
+      "source": "NBC Sports"
+    },
+    {
+      "title": "Looking for your next great read? Amazon editors unveil their ‘best books of the year so far’ list - WTOP",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQnhaMWRiOE5UNWxWVDVSaHhsZkFwSmI2dEdFODR2dkN4WWtDczBkdkNpRkdkaEd4ZmM1eUxhOWQ1Nnd5dVN2bnJ4MHNWeGJtNnVUTFBSc1JER0c1NlQwWWVYcEUtVmpLVER3S1YtcXFYay1SaEVlbmN0bnBLOS1kQXFIZGVqR01jcnE3dXBzei12bEdkQ3czRm1sbzhmaFNENVFLaVBLZlJrRTdFcDRibTZmLTlzR0MxY1VjQURGZHpuQzRhNEJYVnBHWVlwZTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQnhaMWRiOE5UNWxWVDVSaHhsZkFwSmI2dEdFODR2dkN4WWtDczBkdkNpRkdkaEd4ZmM1eUxhOWQ1Nnd5dVN2bnJ4MHNWeGJtNnVUTFBSc1JER0c1NlQwWWVYcEUtVmpLVER3S1YtcXFYay1SaEVlbmN0bnBLOS1kQXFIZGVqR01jcnE3dXBzei12bEdkQ3czRm1sbzhmaFNENVFLaVBLZlJrRTdFcDRibTZmLTlzR0MxY1VjQURGZHpuQzRhNEJYVnBHWVlwZTQ?oc=5\" target=\"_blank\">Looking for your next great read? Amazon editors unveil their ‘best books of the year so far’ list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font>",
+      "published": "2026-07-06T08:59:07+00:00",
+      "source": "WTOP"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Amazon has deployed enough satellites to launch Leo service later this year - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQdIBrwFBVV95cUxPYk03UXpsMDlWZ0VSTm8wbnVTQW1SaHpNeE9vYUE3YkFTYnd4QTFfT2hTclVyekxtRlRqXzJUYm90c21ZM1dncm90QmhwR0s0WmhyMDlJRC05Mmc4VWtfX1U2QXNDaGlUa3RpTmxyQ3kwOF9JblplS2pBc1k1MWJJdWZrQ292SUhuT2FfekEtWkdfV0xBQXVDTDVwQjJVUjhmVzZmRUp5WHg5Y2lGeFlZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2Z0YVNtTUlDMThhYTNWQWs2NmtSdktpVTRtSXAtU09HWTU1aXRPV1RPR1NSdHpjbTlkLVBhT1dUYy1BQ2hRamgxbFNTdExCSVVJYTZOMHpPWWZfb3RVR3J0c01NV0J4NHRtU0ZtenRxSV9IMVBNUmM3R0wwWEZ3TVZqMnRBQVNzVXFrV2JTY3B6YkVUY09IdUV6SU5wVDhwNi02eGtxaFlEQdIBrwFBVV95cUxPYk03UXpsMDlWZ0VSTm8wbnVTQW1SaHpNeE9vYUE3YkFTYnd4QTFfT2hTclVyekxtRlRqXzJUYm90c21ZM1dncm90QmhwR0s0WmhyMDlJRC05Mmc4VWtfX1U2QXNDaGlUa3RpTmxyQ3kwOF9JblplS2pBc1k1MWJJdWZrQ292SUhuT2FfekEtWkdfV0xBQXVDTDVwQjJVUjhmVzZmRUp5WHg5Y2lGeFlZ?oc=5\" target=\"_blank\">Amazon has deployed enough satellites to launch Leo service later this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-02T18:28:35+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Amazon to Use AI to Enforce New Product Title Limits - EcommerceBytes",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFVhazFvOHNWMFRSMXExX0JSMERqbUVhRzBNUmFMNGFGeEYyZzVHMTMxajdHV1AyYXZBV2lCRGdfeWlEV0J3UFNSVEJHVXdTVUlaa1JIbS16dzB4S1lmMWdHWlozc2N5blg4OHF3UkptNWN6MHJieVhJU18xYjAxQUIxX09OWGVGRmhzUHhwWHBGdlpsZXdQaV9Fbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaFVhazFvOHNWMFRSMXExX0JSMERqbUVhRzBNUmFMNGFGeEYyZzVHMTMxajdHV1AyYXZBV2lCRGdfeWlEV0J3UFNSVEJHVXdTVUlaa1JIbS16dzB4S1lmMWdHWlozc2N5blg4OHF3UkptNWN6MHJieVhJU18xYjAxQUIxX09OWGVGRmhzUHhwWHBGdlpsZXdQaV9Fbw?oc=5\" target=\"_blank\">Amazon to Use AI to Enforce New Product Title Limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EcommerceBytes</font>",
+      "published": "2026-06-11T07:00:00+00:00",
+      "source": "EcommerceBytes"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5\" target=\"_blank\">Amazon launches an AI-powered audio Q&amp;A experience on product pages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-04-28T07:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": "About Amazon"
+    },
+    {
+      "title": "Bank of America resets Amazon stock forecast on key product launch - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVPVjlaa1l2SjNtdHAtRUVmZ0FuemUwT01fSUhYa2ZpcWRGbHh5N3RtUFpJV0Q1TjhCS25ZWER2N3JVdzFRQU9LbnV0anp3LS1iSG1NVVFjejNWeVh6NU9BZTBsLUpOTV9BbV9YRWtlY1NSbmdkU1N4MnBXM2l1UjFLZzlZdkxTaVpia3V6X2hTejhjV0hEYW9Nd01EZmMzSTlZMk10X2VwNVRsX1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEVPVjlaa1l2SjNtdHAtRUVmZ0FuemUwT01fSUhYa2ZpcWRGbHh5N3RtUFpJV0Q1TjhCS25ZWER2N3JVdzFRQU9LbnV0anp3LS1iSG1NVVFjejNWeVh6NU9BZTBsLUpOTV9BbV9YRWtlY1NSbmdkU1N4MnBXM2l1UjFLZzlZdkxTaVpia3V6X2hTejhjV0hEYW9Nd01EZmMzSTlZMk10X2VwNVRsX1E?oc=5\" target=\"_blank\">Bank of America resets Amazon stock forecast on key product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": "thestreet.com"
+    }
+  ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-02",
-      "close": 242.6699981689453
+      "date": "2026-07-06",
+      "close": 242.68499755859375
     },
     "history": [
-      {
-        "date": "2026-06-24",
-        "close": 234.27000427246094
-      },
       {
         "date": "2026-06-25",
         "close": 227.00999450683594
@@ -40,6 +129,10 @@
       {
         "date": "2026-07-02",
         "close": 242.6699981689453
+      },
+      {
+        "date": "2026-07-06",
+        "close": 242.68499755859375
       }
     ],
     "name": "Amazon.com, Inc."
