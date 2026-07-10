@@ -2,21 +2,28 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-07-09T14:30:22.351893+00:00",
+  "fetched_at": "2026-07-10T13:59:00.134990+00:00",
   "news": [
     {
-      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5\" target=\"_blank\">Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-07-07T16:19:46+00:00",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5\" target=\"_blank\">OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-07-10T00:16:54+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHVUVWVqNHpkRnFrVnFsT3oxSzlNYXhKYVRoeVZlS0NqOXpVQ2oxMTIwLTAxQjZNaFo4UnRMN1JIMDNHN1JLNzZuMG9oQ0hmc1gtZWstTXIzTTVnZ1QxdGN6LWxkU05kWkMwYWhUNk5FWkR1Q0lOMmNHVVptbmVZSlczNUZiRkktWVNkUGtoQzFjcWk3V2FCX3FHVWZzUlAwOXNzRUJVYnpZSTI1ZjZTaWx3WQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORHVUVWVqNHpkRnFrVnFsT3oxSzlNYXhKYVRoeVZlS0NqOXpVQ2oxMTIwLTAxQjZNaFo4UnRMN1JIMDNHN1JLNzZuMG9oQ0hmc1gtZWstTXIzTTVnZ1QxdGN6LWxkU05kWkMwYWhUNk5FWkR1Q0lOMmNHVVptbmVZSlczNUZiRkktWVNkUGtoQzFjcWk3V2FCX3FHVWZzUlAwOXNzRUJVYnpZSTI1ZjZTaWx3WQ?oc=5\" target=\"_blank\">Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-07-09T13:31:47+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Microsoft fixes storage-hogging Windows 11 folder - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3BEbkpzZmxFOGtDNkgzaUU4VFRkRl9GdjRLQzFVblNCZTlNN1J0dTVQOER4Y3lldXZ2YzVoTXYwbjVNRHJ2MDZ3SkliYmpxaXYxU0dtLUxxak5fMlgzSnJ4NXNHNkZXNkJJUTRUQ1NvMUxfQ0lZRjNHb0dTQWc5Y1BuaXp2Mlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3BEbkpzZmxFOGtDNkgzaUU4VFRkRl9GdjRLQzFVblNCZTlNN1J0dTVQOER4Y3lldXZ2YzVoTXYwbjVNRHJ2MDZ3SkliYmpxaXYxU0dtLUxxak5fMlgzSnJ4NXNHNkZXNkJJUTRUQ1NvMUxfQ0lZRjNHb0dTQWc5Y1BuaXp2Mlk?oc=5\" target=\"_blank\">Microsoft fixes storage-hogging Windows 11 folder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-07-07T13:52:58+00:00",
-      "source": "The Verge"
+      "title": "Starbucks (SBUX) Is Replacing Microsoft And IBM Software To Cut $400 Million Spend - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlVaMUJxNW9oRXpDbWJ3RTNtNHpsMk4yQ0NpUnd4bU5oQVZVRi1iazVjUzVYMzNFWUpXaGRob1Bxcm45bHdSV2o5YmE4cWVrdkJxVlhYZzRPNGNnNlBqRG9SbGlSdjV5ZnVicFdGcE1nYU1QREV0QlMzYVdvNEo5Zklrc2M3SXlmazlfeHA3OWlFeFozUGowemsxUlhLWkw5NUY1SQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlVaMUJxNW9oRXpDbWJ3RTNtNHpsMk4yQ0NpUnd4bU5oQVZVRi1iazVjUzVYMzNFWUpXaGRob1Bxcm45bHdSV2o5YmE4cWVrdkJxVlhYZzRPNGNnNlBqRG9SbGlSdjV5ZnVicFdGcE1nYU1QREV0QlMzYVdvNEo5Zklrc2M3SXlmazlfeHA3OWlFeFozUGowemsxUlhLWkw5NUY1SQ?oc=5\" target=\"_blank\">Starbucks (SBUX) Is Replacing Microsoft And IBM Software To Cut $400 Million Spend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-10T05:13:12+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Starbucks bets on AI to replace Microsoft and IBM software - Los Angeles Times",
@@ -26,39 +33,32 @@
       "source": "Los Angeles Times"
     },
     {
-      "title": "Microsoft Confirms Windows 11 Storage Bug Fix In New Update - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX01aWXBOV1VXZ1pKd0lOWDRSa0JKRlM5S3VBV3ZDclNVUXFWMkRLQnpjdVZVYTdib3Y5Z2x4dEFwV0NPM0tSZ29rc1VpampkWGxfUEVqZkFQdmJhM1dIMFk3NWdRU1NwMmp1UVNucFVKUkxBUmlEdXlTSGxGV1J6LWtZVGJXQzBTdlV1ZkhaYUhqa09TSGg2M0gzRzREV2JFMVFGeXFEV3MtZEtZc1Y5SjBuYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX01aWXBOV1VXZ1pKd0lOWDRSa0JKRlM5S3VBV3ZDclNVUXFWMkRLQnpjdVZVYTdib3Y5Z2x4dEFwV0NPM0tSZ29rc1VpampkWGxfUEVqZkFQdmJhM1dIMFk3NWdRU1NwMmp1UVNucFVKUkxBUmlEdXlTSGxGV1J6LWtZVGJXQzBTdlV1ZkhaYUhqa09TSGg2M0gzRzREV2JFMVFGeXFEV3MtZEtZc1Y5SjBuYw?oc=5\" target=\"_blank\">Microsoft Confirms Windows 11 Storage Bug Fix In New Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-07-09T14:02:20+00:00",
-      "source": "Forbes"
+      "title": "Why Microsoft is not this portfolio manager's stock pick - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWd2TUdhNF9MR2gzbkl1M3NnZmVlczZldXhyU1NON1NwOG5yanZZZnowRTJOZ3hjbzZpelJVeEhjdUdOLXpyYlliV0xsLVlfY0dnQ1lXaDNJdFplNmNvQWsyNUFmMUIwMV9CdUFlc2t3Q3J4cHhtRTl5ZDJtc3FLRGY5SS1tTHk2QmMw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWd2TUdhNF9MR2gzbkl1M3NnZmVlczZldXhyU1NON1NwOG5yanZZZnowRTJOZ3hjbzZpelJVeEhjdUdOLXpyYlliV0xsLVlfY0dnQ1lXaDNJdFplNmNvQWsyNUFmMUIwMV9CdUFlc2t3Q3J4cHhtRTl5ZDJtc3FLRGY5SS1tTHk2QmMw?oc=5\" target=\"_blank\">Why Microsoft is not this portfolio manager's stock pick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-10T12:00:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft laying off 130 at gaming studio in Richardson - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQW15ZnNSbHRLbjdvbkpiUmtOczlFWTB2WTBhT2VSOE9pMnlCMFZPRXk5VWw2VVUxNUxybTZPRTdxS2NuMURpV0lJOXFDem1tVlRua0NNLVhyTkpBZUVHQlNYMUIxaFh0X3hwTTl4ZlBSSXJyNXVGclZJeEotSUcyelQwN21ZOUNvc2ZXWGRnLUQtNEdUelROMU95SGswWFQwUmtqdGkycUtBTjg?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQW15ZnNSbHRLbjdvbkpiUmtOczlFWTB2WTBhT2VSOE9pMnlCMFZPRXk5VWw2VVUxNUxybTZPRTdxS2NuMURpV0lJOXFDem1tVlRua0NNLVhyTkpBZUVHQlNYMUIxaFh0X3hwTTl4ZlBSSXJyNXVGclZJeEotSUcyelQwN21ZOUNvc2ZXWGRnLUQtNEdUelROMU95SGswWFQwUmtqdGkycUtBTjg?oc=5\" target=\"_blank\">Microsoft laying off 130 at gaming studio in Richardson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRENTWmVTcnJRM3kzNU95STBkR2QtaGxEXzJQbmpLRmVQNmdrM3A1RTZaWjNKcWZjWk1jWTRoaERPOEVNcUlIREgyLW5tTHY5WGZSYjFjNTZPTG5Jd0ZVVXN5WWs0czNLdGY0NUg5WFpHYlBBU1V5MnRCZEI0RW1hTk1FQ2o5RGdSd201cS10OFNmNVJnbUw3RnNPWXpKd2xvVGYzUzhpUkNtbXBXUkxTTnlRc3bSAboBQVVfeXFMTWJnQ1VQM19XdkhOa0s2dXJKa3B6b3pNc3otUFRLd2lNTldCTG1rU2hwY05vYUp2dVhUVC1yYlBpN0p0NFh3MnlGTDdZeHpkNXo1R2Jra2Z6M3ktNjJWSlVZVGpvVEhvalhQcVZ4M1ZCcmhRZjl0eU1IcFhTQVZmdlFsV2lENktldkVlRkdBSUMyd1hySngzRUpmR0oxOE9lMzdnc21sVmhKZ0cxTFl6RVI4SjRzOF9LbmZ3?oc=5\" target=\"_blank\">Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmM3STZ1WHo0bkdiYVRsbTlzdkRiX2JhelFjVmZScEpFRFZpSWV2YWhBT0kzaGljU1dVblozRnoyOUR5RXo4dzNYNWdPQkVFWncwajBfc25JNHptd1IteG1GLXZnQXl1UFlJb3Fiazl3Q1h3R3FNRDNUaW04d0NiM096aEZodGM5YzRhUG83QXNucUgzcmh4bDZMOS1hWm16OWp3TEh5aGoxMHE2ZDl0QmpPRjA2UmY3dkE?oc=5\" target=\"_blank\">Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
-      "published": "2026-07-08T20:25:49+00:00",
-      "source": "Dallas News"
+      "title": "UK Expands Financial Oversight to Microsoft, Google, Amazon and Oracle Cloud Services - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGYwWHZMdm9ya3AxTkVKV1BjVHdIWFJGRWdpV0tRYjJhb28wZ0t4dGVMcUNGdDc4cVlzbEt1VElNbHJzZU85M2l3VzBIMERSeVMwSVhTQlhCQzMyT0hRLTFFY0VKZDZwWnVwMUZiWEJVREQ5U3ZRbGV0RWdiY0FxRHBLRThwLVZzaWtfako0d0Fvalk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGYwWHZMdm9ya3AxTkVKV1BjVHdIWFJGRWdpV0tRYjJhb28wZ0t4dGVMcUNGdDc4cVlzbEt1VElNbHJzZU85M2l3VzBIMERSeVMwSVhTQlhCQzMyT0hRLTFFY0VKZDZwWnVwMUZiWEJVREQ5U3ZRbGV0RWdiY0FxRHBLRThwLVZzaWtfako0d0Fvalk?oc=5\" target=\"_blank\">UK Expands Financial Oversight to Microsoft, Google, Amazon and Oracle Cloud Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "published": "2026-07-10T13:06:32+00:00",
+      "source": "Yahoo Finance UK"
     },
     {
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbUUwa1JtRXZkYWtOa29zQ3BxTG93NlNBRWtNaGNic3VVX0ZFYjRHOE9ncFJ2NUZMMzlzb1FGV3R6eU1vU0pQM3dQT0R4NXdwMTB5OGVoZXNVRHZkZE02a3JJbnlSR3l4bTZERjhOU1lLZDBCd2pUaTM1SmtDa0tOcS1ITQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNbUUwa1JtRXZkYWtOa29zQ3BxTG93NlNBRWtNaGNic3VVX0ZFYjRHOE9ncFJ2NUZMMzlzb1FGV3R6eU1vU0pQM3dQT0R4NXdwMTB5OGVoZXNVRHZkZE02a3JJbnlSR3l4bTZERjhOU1lLZDBCd2pUaTM1SmtDa0tOcS1ITQ?oc=5\" target=\"_blank\">Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-07-09T08:48:00+00:00",
+      "title": "Fargo impact unclear as Microsoft announces plans to eliminate 4,800 jobs - InForum",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHJrQTZISG1Mbmt4OEZDLVhKYnJ4WVRNU1pJcGoycGdJbVd2b0FpTEdEQmd5QXZMck40Tk9GYmwtcXp4LVFINi1EajhOUVRUSHVTb04yakJiTjB0M0hIcGlZVjFaZjdJNGw4QXlOQUZFQnBKZXprems0OUNCNHI3YkJZWXlMSVJwSm5xR3lpX3NscXphVzdmXzhuOTdsSGV4bXgwUjdLMzNrUQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHJrQTZISG1Mbmt4OEZDLVhKYnJ4WVRNU1pJcGoycGdJbVd2b0FpTEdEQmd5QXZMck40Tk9GYmwtcXp4LVFINi1EajhOUVRUSHVTb04yakJiTjB0M0hIcGlZVjFaZjdJNGw4QXlOQUZFQnBKZXprems0OUNCNHI3YkJZWXlMSVJwSm5xR3lpX3NscXphVzdmXzhuOTdsSGV4bXgwUjdLMzNrUQ?oc=5\" target=\"_blank\">Fargo impact unclear as Microsoft announces plans to eliminate 4,800 jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InForum</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQazR1Ym1MUVdvVDBXTFNWbE45c1F4V1JncFJkeWhlY19zMHhUMXFhdWlOOUowYjhhVXlFUWVtOGVGaGFKRW5Gd0VGR2lKQk5iZ2pBNHRfVnBmR3JZeDBaS1dZS2RDV3JOSWwzWUd2LWsxQXI5MFBGM0Q1M096eWxqYl93?oc=5\" target=\"_blank\">Xbox Hits Reset Button, Laying Off Thousands and Dropping Game Studios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHVmTUY1LS1sZERGOVN2N2hPa0tITWFmb2JDZ2FyVUl5S3JUZldxUmFNNHZfSUJBcVU0akYtdHFfNzg2bzE4WnpZZ2JGUmdEWVU0dUxYUnUzcjNZX3VIQUdiYnlRbDdYM3VrVUt6N05leUc1TTdFVzZ0TjNFU09WVEQ2SmRCRV8ycWVkVkU0MG8yZ0RmVjczaFc3OWl1VFNWa2lrWW9MNkVtOWc1QzVHZDF3NHlOeXJKR2tWLdIBwgFBVV95cUxPT01DTFNldGdlRTFPeEwyVHdYa3NsZlRBQW5JZDJ4WVJ5dXpMUmVLdTZJUTRZcW5zM0k0M1ZWSUFmTUxoOUNFS1hKSkNVaXJlemR6MHh2dDVBXzZSaGpMNTM3WGRMOFQwU1hsRVNBS3NndGMyQ29YSnotX2ZMVEpMTENqMzhSWU1JNjM2enc5MXBfNHY3SDRCTXVBcm1xSXhYMGlMX3N0emp0SjJxS19DbkI1SmpXMkdMaU0zbmp2cXNwUQ?oc=5\" target=\"_blank\">Fury erupts as US brand fires 1,600 employees after securing thousands of foreign worker visas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font></li></ol>",
+      "published": "2026-07-09T17:38:00+00:00",
+      "source": "InForum"
+    },
+    {
+      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zdUFjeHVjWGUzenVGeW4xbi1LMENqd0FNaUl1amhsdEJRS3Zhc0hGSWZ4RjBwMmFITWozdU0wMV9oRzBNQVk4c2tldWlpb3ZRdGQ4V09ZWVB5cXR3Wm44X2xlTHZYOFFmY0JZMGdSZC14S3A3YWVsenpUVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8zdUFjeHVjWGUzenVGeW4xbi1LMENqd0FNaUl1amhsdEJRS3Zhc0hGSWZ4RjBwMmFITWozdU0wMV9oRzBNQVk4c2tldWlpb3ZRdGQ4V09ZWVB5cXR3Wm44X2xlTHZYOFFmY0JZMGdSZC14S3A3YWVsenpUVQ?oc=5\" target=\"_blank\">Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-07-10T10:30:00+00:00",
       "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft executive buys Hunts Point mansion for nearly $20M - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0lYUTBKU3lTR05oZ3ZtaGkxRGczTDdnMk51SzY5ZjNnY2NpbzJlazRFRkVhOXdfSTB5RXQxc0Q0MXkxSTZMaTcweTJuVlozLVlVeUxfYkNNZzdwbUVyb0wtNE9oa3o5VFpyNXRCRTJ3QWtpQWlCOTI4OVl4S1ZLMkZTZDRmVjdUbGZXaWdVMlhJTXhraHNxTmp1WXdWLVU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0lYUTBKU3lTR05oZ3ZtaGkxRGczTDdnMk51SzY5ZjNnY2NpbzJlazRFRkVhOXdfSTB5RXQxc0Q0MXkxSTZMaTcweTJuVlozLVlVeUxfYkNNZzdwbUVyb0wtNE9oa3o5VFpyNXRCRTJ3QWtpQWlCOTI4OVl4S1ZLMkZTZDRmVjdUbGZXaWdVMlhJTXhraHNxTmp1WXdWLVU?oc=5\" target=\"_blank\">Microsoft executive buys Hunts Point mansion for nearly $20M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2026-07-08T14:05:36+00:00",
-      "source": "The Seattle Times"
-    },
-    {
-      "title": "Trump Accounts, the Dow's latest record, Microsoft layoffs and more in Morning Squawk - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1VLbmZDM0tndEd0eUJlQ3BiR2VUOWQ0ZjRfcGxLb3pYME14d2tydnpoS2l0TUhiSEFiZnFJZ0NtQmI4VHRJUUM0NDZUM3pXWFY3NjZQT3dLTjNaREN6akZCM1hfUG9pX2NtSlhJeW52OHVCUTIxMmk1ZVVKR3RfVVhqSXpzajJSbmliejUwektZRkV6dFVRRjFDemRsb1VVWDhqQkt3LUhtQUVvblVvRFVrbndjLTEtamFB0gHAAUFVX3lxTE1fMTR5RUJPdTdaUnY0WjhoeWJ0YkFLSHV2dDg0U1pFSE80dXpGYzk2OVRwVl83RU1BTjd4bVJmcFI5T2ZjcXlhd3BaTzdKeXkyeEtaZ3FmQWQ1MHA5QU9zM2RXZGZsQWEzNDFYdExuMlZ1bmI3T0dKWEc1MHd4ZkdmMlFZY0NidEhQLUpQNUFTTzNzQnhIVEdvdlE5ZU84Y3k4OVFiOG1CU3VRREYzVFJqeXluZGU1dkJjcnNISWxDTw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1VLbmZDM0tndEd0eUJlQ3BiR2VUOWQ0ZjRfcGxLb3pYME14d2tydnpoS2l0TUhiSEFiZnFJZ0NtQmI4VHRJUUM0NDZUM3pXWFY3NjZQT3dLTjNaREN6akZCM1hfUG9pX2NtSlhJeW52OHVCUTIxMmk1ZVVKR3RfVVhqSXpzajJSbmliejUwektZRkV6dFVRRjFDemRsb1VVWDhqQkt3LUhtQUVvblVvRFVrbndjLTEtamFB0gHAAUFVX3lxTE1fMTR5RUJPdTdaUnY0WjhoeWJ0YkFLSHV2dDg0U1pFSE80dXpGYzk2OVRwVl83RU1BTjd4bVJmcFI5T2ZjcXlhd3BaTzdKeXkyeEtaZ3FmQWQ1MHA5QU9zM2RXZGZsQWEzNDFYdExuMlZ1bmI3T0dKWEc1MHd4ZkdmMlFZY0NidEhQLUpQNUFTTzNzQnhIVEdvdlE5ZU84Y3k4OVFiOG1CU3VRREYzVFJqeXluZGU1dkJjcnNISWxDTw?oc=5\" target=\"_blank\">Trump Accounts, the Dow's latest record, Microsoft layoffs and more in Morning Squawk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-07T12:03:12+00:00",
-      "source": "CNBC"
     }
   ],
   "product_launches": [
@@ -68,20 +68,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2026-03-09T07:00:00+00:00",
       "source": "Microsoft"
-    },
-    {
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, & Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
-      "published": "2026-07-07T20:59:00+00:00",
-      "source": "Encyclopedia Britannica"
-    },
-    {
-      "title": "Bing Tests Product Detail Overlay With Retailer Pricing, Price Insights & More - Search Engine Roundtable",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqWDRqQjJ3bVcyQkFLMHhhWWMxdmE3TzUzRXNlSUI3YkRibkpOOTlDRHBseklrRU1zOE40dXdZTFhTRkQ4bVV4WjdhbFl3X2cxWlUtYzBNR1JkOS05b1VpcUF6a3JIUzRuZWxMZk9oOU11RjV6b3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBqWDRqQjJ3bVcyQkFLMHhhWWMxdmE3TzUzRXNlSUI3YkRibkpOOTlDRHBseklrRU1zOE40dXdZTFhTRkQ4bVV4WjdhbFl3X2cxWlUtYzBNR1JkOS05b1VpcUF6a3JIUzRuZWxMZk9oOU11RjV6b3c?oc=5\" target=\"_blank\">Bing Tests Product Detail Overlay With Retailer Pricing, Price Insights & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Roundtable</font>",
-      "published": "2026-07-06T11:11:00+00:00",
-      "source": "Search Engine Roundtable"
     },
     {
       "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
@@ -96,20 +82,30 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
       "published": "2026-05-19T07:00:00+00:00",
       "source": "Windows Blog"
+    },
+    {
+      "title": "Bing Tests Product Detail Overlay With Retailer Pricing, Price Insights & More - Search Engine Roundtable",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqWDRqQjJ3bVcyQkFLMHhhWWMxdmE3TzUzRXNlSUI3YkRibkpOOTlDRHBseklrRU1zOE40dXdZTFhTRkQ4bVV4WjdhbFl3X2cxWlUtYzBNR1JkOS05b1VpcUF6a3JIUzRuZWxMZk9oOU11RjV6b3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBqWDRqQjJ3bVcyQkFLMHhhWWMxdmE3TzUzRXNlSUI3YkRibkpOOTlDRHBseklrRU1zOE40dXdZTFhTRkQ4bVV4WjdhbFl3X2cxWlUtYzBNR1JkOS05b1VpcUF6a3JIUzRuZWxMZk9oOU11RjV6b3c?oc=5\" target=\"_blank\">Bing Tests Product Detail Overlay With Retailer Pricing, Price Insights & More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Roundtable</font>",
+      "published": "2026-07-06T11:11:00+00:00",
+      "source": "Search Engine Roundtable"
+    },
+    {
+      "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5\" target=\"_blank\">Microsoft Launches Its Own Legal Agent For Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artificial Lawyer</font>",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": "Artificial Lawyer"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-09",
-      "close": 376.25
+      "date": "2026-07-10",
+      "close": 385.67999267578125
     },
     "history": [
-      {
-        "date": "2026-06-30",
-        "close": 373.0199890136719
-      },
       {
         "date": "2026-07-01",
         "close": 384.2799987792969
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-07-09",
-        "close": 376.25
+        "close": 384.3599853515625
+      },
+      {
+        "date": "2026-07-10",
+        "close": 385.67999267578125
       }
     ],
     "name": "Microsoft Corporation"
