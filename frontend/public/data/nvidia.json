@@ -2,63 +2,63 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-07-12T12:56:06.594434+00:00",
+  "fetched_at": "2026-07-13T14:05:10.920977+00:00",
   "news": [
     {
-      "title": "Nvidia Stock Rises as It Shrugs Off Meta’s New AI Chip - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4b0VELXhJSzVnNEpoLVFvQUgweXBSdzJhRW9QZkl4MHFZSmpOS0pNX2lQRjBiWVdiQkFMUm5vYk5rOEpFbjJSSGRKZUtMMkVPSEFGaXlLT3pPQXpDTWhHRTNYa3JNQUs2eEJOLVlOOVpUdzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA4b0VELXhJSzVnNEpoLVFvQUgweXBSdzJhRW9QZkl4MHFZSmpOS0pNX2lQRjBiWVdiQkFMUm5vYk5rOEpFbjJSSGRKZUtMMkVPSEFGaXlLT3pPQXpDTWhHRTNYa3JNQUs2eEJOLVlOOVpUdzQ?oc=5\" target=\"_blank\">Nvidia Stock Rises as It Shrugs Off Meta’s New AI Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-07-10T16:15:00+00:00",
-      "source": "Barron's"
+      "title": "I quit my job at Nvidia because I wanted work that felt more human. Financial security isn't the same as true fulfillment. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0kyRlVlUGpvNy1JOFJoU0RCVWdkTTFXbHZfam5iTEVhaHZmNXJPRjJocFVFUXRhcW9DMUZEU0NjOTk2cGpjS0tOYVN5VTc2XzAtS0w0bUlaMndQNFdUdTd0TE5pbXlFaHpxRDlGN0VqM2tLOERlNUxXNlg4ZmtHdkE2aXZwSUhWMGY3V2J4cDBobWVL?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0kyRlVlUGpvNy1JOFJoU0RCVWdkTTFXbHZfam5iTEVhaHZmNXJPRjJocFVFUXRhcW9DMUZEU0NjOTk2cGpjS0tOYVN5VTc2XzAtS0w0bUlaMndQNFdUdTd0TE5pbXlFaHpxRDlGN0VqM2tLOERlNUxXNlg4ZmtHdkE2aXZwSUhWMGY3V2J4cDBobWVL?oc=5\" target=\"_blank\">I quit my job at Nvidia because I wanted work that felt more human. Financial security isn't the same as true fulfillment.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-07-13T09:05:09+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool — Nvidia RTX 5070 Ti caught throttling at 107°C over poor TIM application - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQSDlndXNRVFZkNF9ZWjdaLXc5LVFBTldxYjlyRFRNOFpoVWZOdWVCaGJqbThoWENfVjJQQ1RObFRiNmxRX1QwTmpOTGIzaG42UmFBRWRNQlVfUk9IeHg0QUtTWWtHZWx2RHVjQWQtVi1yejdtTHJ3OFdKU3JYS09vaHJDRVVsWi1PdTlva0JZUkZfZlV2V21oZ1BCcWZkNnFuTWVINENzT2lvMzZJR3ZycWVxZFRJeXlIVXg1M19WOGZrUlpTRGFGMGlWLUR6dGlHcl8wdGpuSzBEV3FqZ2d4YVJMSnhQc1RvdXF3TE1jekkzd2szUnFoRmZBYXRqTHdGT2s1OHJWRXJ3RGJRTi1ZQ2xkRW9tZFhMRGRlc2pqRUVlcUQ3aHpObTJoTVBqZElTcEdvLUxoTjdzWUxiakQtVGdEaGlEd2pPV3V3WVhIbXVwb3FFOVVFVDVTMDVuLVhqUmNRSklWZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxQSDlndXNRVFZkNF9ZWjdaLXc5LVFBTldxYjlyRFRNOFpoVWZOdWVCaGJqbThoWENfVjJQQ1RObFRiNmxRX1QwTmpOTGIzaG42UmFBRWRNQlVfUk9IeHg0QUtTWWtHZWx2RHVjQWQtVi1yejdtTHJ3OFdKU3JYS09vaHJDRVVsWi1PdTlva0JZUkZfZlV2V21oZ1BCcWZkNnFuTWVINENzT2lvMzZJR3ZycWVxZFRJeXlIVXg1M19WOGZrUlpTRGFGMGlWLUR6dGlHcl8wdGpuSzBEV3FqZ2d4YVJMSnhQc1RvdXF3TE1jekkzd2szUnFoRmZBYXRqTHdGT2s1OHJWRXJ3RGJRTi1ZQ2xkRW9tZFhMRGRlc2pqRUVlcUQ3aHpObTJoTVBqZElTcEdvLUxoTjdzWUxiakQtVGdEaGlEd2pPV3V3WVhIbXVwb3FFOVVFVDVTMDVuLVhqUmNRSklWZw?oc=5\" target=\"_blank\">Hotspot temperature sensor on Nvidia's Blackwell gaming GPUs is still accessible if you have access to Nvidia's internal MODS tool — Nvidia RTX 5070 Ti caught throttling at 107°C over poor TIM application</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-07-11T16:18:59+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "NVIDIA GPU Hotspot Temperature Has Been Unlocked Through Mods, & Shows Widespread Thermal Issues Affecting RTX 50 GPUs That Throttle Gaming Performance - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEdPcmItamRfSGdTMlpKNnp2dndkVTJkUkpqd0c1WDdEOW1yWHdmYVRjYjZZajZBY2dyaks0dlhLb19xcExrc0ZHZG9UZUhEc3kzUVEyaG5SOFctcjR6cnE1VHpkQnA2LURBQ2NKcEV0QjlQU3hjSlVaTk5Ta2hrck1xVlc0RUE5QUl2bUM0WmU0UFNUVDgzekxXUHJrMXNmUUNoeEF2NzZyamRnVmfSAbMBQVVfeXFMTUtYRlFYSXk1MlFmaGp5eUxyZThDUTQ0Q0w3cEs0ckhtaG55Z0MtLVluTEc1bnM2Z2JnSUpWTU1wS3lCVnpjQXZmeXZlYU5JWDVrQW5vTkdNOGxVT1RsYVVEUDdWS3dMRW9QWjRCRHFobVdOU0pzZVV6NWNUTFFBQXBkeWZVWFc3M0RSa0s4MkZJWHVoc2xkNklEOVYwdDN6QWlOTmc2UXR5cWdibXNrQUI5RU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEdPcmItamRfSGdTMlpKNnp2dndkVTJkUkpqd0c1WDdEOW1yWHdmYVRjYjZZajZBY2dyaks0dlhLb19xcExrc0ZHZG9UZUhEc3kzUVEyaG5SOFctcjR6cnE1VHpkQnA2LURBQ2NKcEV0QjlQU3hjSlVaTk5Ta2hrck1xVlc0RUE5QUl2bUM0WmU0UFNUVDgzekxXUHJrMXNmUUNoeEF2NzZyamRnVmfSAbMBQVVfeXFMTUtYRlFYSXk1MlFmaGp5eUxyZThDUTQ0Q0w3cEs0ckhtaG55Z0MtLVluTEc1bnM2Z2JnSUpWTU1wS3lCVnpjQXZmeXZlYU5JWDVrQW5vTkdNOGxVT1RsYVVEUDdWS3dMRW9QWjRCRHFobVdOU0pzZVV6NWNUTFFBQXBkeWZVWFc3M0RSa0s4MkZJWHVoc2xkNklEOVYwdDN6QWlOTmc2UXR5cWdibXNrQUI5RU0?oc=5\" target=\"_blank\">NVIDIA GPU Hotspot Temperature Has Been Unlocked Through Mods, & Shows Widespread Thermal Issues Affecting RTX 50 GPUs That Throttle Gaming Performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
-      "published": "2026-07-11T08:55:21+00:00",
-      "source": "Wccftech"
-    },
-    {
-      "title": "NVIDIA Readies GeForce RTX 5090 SE Graphics Card - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVdxMzFMVm1WaGhVM1JMM1l1WEgyZGhBMjNIVFJha2h3bERKYlB6ejFGZGJ5bkZNUUk5OVhOOG1qLTZNamNWTmFhUU8tUFl1TlJqcmwxY3RVTGJhN1V4OEFIQ0ZHOVlXeGM4M1EyXzhOeVRoaFFsYWs2ak1XeWdMaGptcGpxT0ktNjRJ0gGQAUFVX3lxTFBFcmZRTU1wSmZkYzNVZUVPN1lPS21HNEpzdVE2ZmNWVGdxSV9jNTY4aUNQVVVLOFZta2VRdHpSMWJRS00yNk9MRE5pVl9YYnZPQ2puNEtUOHBEblB1WnlFUUtTVlM5WTdHSndYQmo5dmpRTkRzRnZwYnFnRms5U3BhNFpqOGdNNHV5cXRpbWZlMw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVdxMzFMVm1WaGhVM1JMM1l1WEgyZGhBMjNIVFJha2h3bERKYlB6ejFGZGJ5bkZNUUk5OVhOOG1qLTZNamNWTmFhUU8tUFl1TlJqcmwxY3RVTGJhN1V4OEFIQ0ZHOVlXeGM4M1EyXzhOeVRoaFFsYWs2ak1XeWdMaGptcGpxT0ktNjRJ0gGQAUFVX3lxTFBFcmZRTU1wSmZkYzNVZUVPN1lPS21HNEpzdVE2ZmNWVGdxSV9jNTY4aUNQVVVLOFZta2VRdHpSMWJRS00yNk9MRE5pVl9YYnZPQ2puNEtUOHBEblB1WnlFUUtTVlM5WTdHSndYQmo5dmpRTkRzRnZwYnFnRms5U3BhNFpqOGdNNHV5cXRpbWZlMw?oc=5\" target=\"_blank\">NVIDIA Readies GeForce RTX 5090 SE Graphics Card</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2026-07-10T08:59:22+00:00",
+      "title": "NVIDIA GeForce RTX 50 Series Hotspot Sensor Can Be Accessed with NVIDIA's Internal Tool - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUxVbVF6LWJqbEF0eEdONUhYQXN6emRYUFhWWWtQd25QemZtSUJHUmY3bkdDM1BzQjZuQ0k3bzlXTUs1VVdWZ0sxTTBqS0hsSVpjSUVJY0JaTUY3d19YcnE3c3JkOVJMRkEwd0RkWGVGQ1pNclk1aXAyRWIzQUlYZkVsUGlvc3JOUHA0UEpiOVQ2OXFMN0JjMVpTbWlKWEQ4MkE5MklVRUw3MEttYl9LZklwNm1uXzVRMWlsd0xn0gHDAUFVX3lxTE1KZ0UzWTZoNTUzMkJDWDJRZFZoX05KQ3VtRVpvbW1FMUZudnpvZUxIMGh0dVduMzBuaER6Z1JscDBGRGlTWURzUU8zcHlvNnBJbXJBOUxQeHZFZVVyUndWSk9UeUl4S1MwT0l3UmJNamxJT19zMUNKMTYwTFFoWFBGY3UzX2xpODFEZTV5X1BacFNSeEJvaWE1cVhJSi1iUzFpQ2t2b1ZuSDlMM3NfTkkzdlhWLUMxN0J6NHBoR1FQSEJVRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUxVbVF6LWJqbEF0eEdONUhYQXN6emRYUFhWWWtQd25QemZtSUJHUmY3bkdDM1BzQjZuQ0k3bzlXTUs1VVdWZ0sxTTBqS0hsSVpjSUVJY0JaTUY3d19YcnE3c3JkOVJMRkEwd0RkWGVGQ1pNclk1aXAyRWIzQUlYZkVsUGlvc3JOUHA0UEpiOVQ2OXFMN0JjMVpTbWlKWEQ4MkE5MklVRUw3MEttYl9LZklwNm1uXzVRMWlsd0xn0gHDAUFVX3lxTE1KZ0UzWTZoNTUzMkJDWDJRZFZoX05KQ3VtRVpvbW1FMUZudnpvZUxIMGh0dVduMzBuaER6Z1JscDBGRGlTWURzUU8zcHlvNnBJbXJBOUxQeHZFZVVyUndWSk9UeUl4S1MwT0l3UmJNamxJT19zMUNKMTYwTFFoWFBGY3UzX2xpODFEZTV5X1BacFNSeEJvaWE1cVhJSi1iUzFpQ2t2b1ZuSDlMM3NfTkkzdlhWLUMxN0J6NHBoR1FQSEJVRQ?oc=5\" target=\"_blank\">NVIDIA GeForce RTX 50 Series Hotspot Sensor Can Be Accessed with NVIDIA's Internal Tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2026-07-13T05:55:01+00:00",
       "source": "TechPowerUp"
     },
     {
-      "title": "Nvidia Investors Need to Be Paying Attention on July 16 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSk9ZdUhEUEJpRGJJcmNkeGJlaVlVZVJzME8xV29CdWQ2M0ptQ2YtY2duT0Z3dGtYaExaTTdzSng2OFRtc1BubGhETnRXa0RzMlY3cTl3MWxCUWJCdnVaTW5tcUNNbEVtQ000Xy1qUWJDVS0zRjFXc3pleU1INUtyUVgyejRyUU1EcXBkcFNSc2ZqWnZ3UHNfUzZKMkZLMUR0U0J2R1p3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSk9ZdUhEUEJpRGJJcmNkeGJlaVlVZVJzME8xV29CdWQ2M0ptQ2YtY2duT0Z3dGtYaExaTTdzSng2OFRtc1BubGhETnRXa0RzMlY3cTl3MWxCUWJCdnVaTW5tcUNNbEVtQ000Xy1qUWJDVS0zRjFXc3pleU1INUtyUVgyejRyUU1EcXBkcFNSc2ZqWnZ3UHNfUzZKMkZLMUR0U0J2R1p3?oc=5\" target=\"_blank\">Nvidia Investors Need to Be Paying Attention on July 16</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-12T09:35:00+00:00",
+      "title": "We're moving from a purely Nvidia story to the broader AI stack, says Plexo's Lo Toney - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb0RZdndkZE81QjhnZU9BVkNxdXN5b2xYSjUyUTd5Y2RoRmtPeWtrTkp4TUlvYTdVMUg1QnlGbjVMQ0V2b1pVRVpqb0ZJcVhOY21PMFpleDQwVFNvaHZlWlduVE5RT0JkaTItSl94bWlnNDFHdkxmTnQ1cnBQOEIxUmJTN1ZMLWFBbWJHQU9QV2RrdWNtTThyNXdfWlFLZ19xajJpNU81ekNvNWFtZ3BPZGxqR3lyOHUzeU9vQ3NWdnZnMGwz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNb0RZdndkZE81QjhnZU9BVkNxdXN5b2xYSjUyUTd5Y2RoRmtPeWtrTkp4TUlvYTdVMUg1QnlGbjVMQ0V2b1pVRVpqb0ZJcVhOY21PMFpleDQwVFNvaHZlWlduVE5RT0JkaTItSl94bWlnNDFHdkxmTnQ1cnBQOEIxUmJTN1ZMLWFBbWJHQU9QV2RrdWNtTThyNXdfWlFLZ19xajJpNU81ekNvNWFtZ3BPZGxqR3lyOHUzeU9vQ3NWdnZnMGwz?oc=5\" target=\"_blank\">We're moving from a purely Nvidia story to the broader AI stack, says Plexo's Lo Toney</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-13T12:52:34+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jim Cramer Was Left Perplexed By NVIDIA Corp. (NVDA)’s Shares - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczlGcHFlZWxPS3FfaWtkOG5VNnF6Z2NxSnpnczh2bmw1LXd5RUpJeTAxMnVLLXh6bWJXNFRGODdUdGplYldteXpmWEdQTlRmdnVHUlVzY2EwOWR2aHQwd01aa0gyU3lhYUtxek1YYmpkRUhYd0Fyc2RDcWY2OTRpdmhFVER3Rlc0eUJBNjNWdExpdjlidVk1LS15TTc3dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOczlGcHFlZWxPS3FfaWtkOG5VNnF6Z2NxSnpnczh2bmw1LXd5RUpJeTAxMnVLLXh6bWJXNFRGODdUdGplYldteXpmWEdQTlRmdnVHUlVzY2EwOWR2aHQwd01aa0gyU3lhYUtxek1YYmpkRUhYd0Fyc2RDcWY2OTRpdmhFVER3Rlc0eUJBNjNWdExpdjlidVk1LS15TTc3dw?oc=5\" target=\"_blank\">Jim Cramer Was Left Perplexed By NVIDIA Corp. (NVDA)’s Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-11T12:52:52+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnIwcHZIdjFlRGh2UEEwMy1tUnJjZFpjdy1GdTBYcU9xbU53M1RNZnQ1aHphZVlpaVdYcjRHQ2VtTDlheXdKbjc2TUNydWRwcXUtSkpKZE9wZFhXRkk0bUhkckhrZEdkZmNKMEpuSTh1dTNmN2xfcjZNbTdVWHdfc1JzV19JekFTZnNkVDdQN1RlamM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnIwcHZIdjFlRGh2UEEwMy1tUnJjZFpjdy1GdTBYcU9xbU53M1RNZnQ1aHphZVlpaVdYcjRHQ2VtTDlheXdKbjc2TUNydWRwcXUtSkpKZE9wZFhXRkk0bUhkckhrZEdkZmNKMEpuSTh1dTNmN2xfcjZNbTdVWHdfc1JzV19JekFTZnNkVDdQN1RlamM?oc=5\" target=\"_blank\">Meet SK Hynix, the Key Nvidia AI Partner That's Delivering Triple-Digit Growth and Just Launched on the Nasdaq. Is the Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-12T09:30:00+00:00",
+      "title": "Nvidia Stock Hasn’t Been This Cheap Since Before 2019. How to Play NVDA Stock Here. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmc2RFpHcGxtQ2RFNHpGcFpkX2xmejJVRnF1WXZhMjFMVV9fYjZfUkIzRjZQWGpmQmFTM0E5eXBNWkhpMmtnWjEyOGFuSHkzbE1tS1AzSmxvb0JnVUFjQktRVkllRC1icDBvWHg0LXV2ODBOdlpRdkhXem1NWmlYdnpONGthWGI3YlNIMHczcGl2UU1RWU1IblRWMU1fMDkwNWlLNWdVZjhIZGRhVkpJaDl5Y05KNlVQRVFrd3FSeEJCUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmc2RFpHcGxtQ2RFNHpGcFpkX2xmejJVRnF1WXZhMjFMVV9fYjZfUkIzRjZQWGpmQmFTM0E5eXBNWkhpMmtnWjEyOGFuSHkzbE1tS1AzSmxvb0JnVUFjQktRVkllRC1icDBvWHg0LXV2ODBOdlpRdkhXem1NWmlYdnpONGthWGI3YlNIMHczcGl2UU1RWU1IblRWMU1fMDkwNWlLNWdVZjhIZGRhVkpJaDl5Y05KNlVQRVFrd3FSeEJCUQ?oc=5\" target=\"_blank\">Nvidia Stock Hasn’t Been This Cheap Since Before 2019. How to Play NVDA Stock Here.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "published": "2026-07-12T18:33:17+00:00",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Nvidia Reassures Investors on AI Roadmap - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZWV2RQcE93RWRjajY4ZnpONVdqMGhtYlNwYmhCTHBmVjJQb0c1LUpRcWVwUEpfRFZTNFlGNDI2NFgybG8weXF2VGdXTDFRUmZDa25OdFJ4NXREUXlZRjU5QlpBSGdUd05qbkdncTliYUxFNksyNzRVbDMxV2t0M2E5ejdydExUS0FxUkhWYXF4bWZwckZXRnl2R1dPcEU2ekpF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxObjZWV2RQcE93RWRjajY4ZnpONVdqMGhtYlNwYmhCTHBmVjJQb0c1LUpRcWVwUEpfRFZTNFlGNDI2NFgybG8weXF2VGdXTDFRUmZDa25OdFJ4NXREUXlZRjU5QlpBSGdUd05qbkdncTliYUxFNksyNzRVbDMxV2t0M2E5ejdydExUS0FxUkhWYXF4bWZwckZXRnl2R1dPcEU2ekpF?oc=5\" target=\"_blank\">Nvidia Reassures Investors on AI Roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-13T13:34:20+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "$1,000 in Nvidia vs. $1,000 in Broadcom: Which AI Chip Bet Paid Off More? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVnlPVjBMWDYtWldkcENXOG1BNXB5OUxNbjV5QzcyRkJaTE1pZXQwdlp0VW55UmtFRW5GUHF5ckFpRDI4cHdKcG5Hdk1ZRGFJV2NQTlp4R29OU1FWNzJkOUg0Wjc5My0xZUFuNWkzWV82U1NZYWlXSkphZzVPaHJKWGxUOFFkaXFyZXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVnlPVjBMWDYtWldkcENXOG1BNXB5OUxNbjV5QzcyRkJaTE1pZXQwdlp0VW55UmtFRW5GUHF5ckFpRDI4cHdKcG5Hdk1ZRGFJV2NQTlp4R29OU1FWNzJkOUg0Wjc5My0xZUFuNWkzWV82U1NZYWlXSkphZzVPaHJKWGxUOFFkaXFyZXc?oc=5\" target=\"_blank\">$1,000 in Nvidia vs. $1,000 in Broadcom: Which AI Chip Bet Paid Off More?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-12T08:18:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXZDajItV1R2RkpySkltcVNzbWpCeFFaR0NLLXNpSFNkYk5uT1F4Y1ZrYzFfbVBKS3JOck41b3o2bzVjZ2NVN0R5UWtvRFl4Z2ZOdFpDakYtZEgtc1JJbVgtV3ZieWVXOS1kLW9YcTJLa2dXYmtyVlFXQlRPWFpQcVNpVEJycTFkbWZteDNRSzdwb05jN3BsTG83LVJhMjV5c2E5NmRmMnB5YXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQXZDajItV1R2RkpySkltcVNzbWpCeFFaR0NLLXNpSFNkYk5uT1F4Y1ZrYzFfbVBKS3JOck41b3o2bzVjZ2NVN0R5UWtvRFl4Z2ZOdFpDakYtZEgtc1JJbVgtV3ZieWVXOS1kLW9YcTJLa2dXYmtyVlFXQlRPWFpQcVNpVEJycTFkbWZteDNRSzdwb05jN3BsTG83LVJhMjV5c2E5NmRmMnB5YXc?oc=5\" target=\"_blank\">Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-07-13T12:43:51+00:00",
+      "source": "24/7 Wall St."
     },
     {
-      "title": "US makes it easier to export Nvidia AI chips and military equipment to the UAE - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5\" target=\"_blank\">US makes it easier to export Nvidia AI chips and military equipment to the UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-10T19:39:42+00:00",
-      "source": "Reuters"
+      "title": "Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger. - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0hRWkVWNjNpXzJVNng5U2dpN0pFQzBGWE5FcGdiWTFWYVViY2ZTQ3dVUm1tT3BZd08zcV96Zmt0RGwyWlZGQVlTcndzVkwyU3dXZGdyd3JHWFRYenUzYjQtRG1YMURKRXhHYUNXdTdHV0FXUk9rb1FzY09mZW5KOGlXSVhkYzJVVC10aXpqQXRYUkktSk5DVTN4WlF1OE5lU0J1TQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0hRWkVWNjNpXzJVNng5U2dpN0pFQzBGWE5FcGdiWTFWYVViY2ZTQ3dVUm1tT3BZd08zcV96Zmt0RGwyWlZGQVlTcndzVkwyU3dXZGdyd3JHWFRYenUzYjQtRG1YMURKRXhHYUNXdTdHV0FXUk9rb1FzY09mZW5KOGlXSVhkYzJVVC10aXpqQXRYUkktSk5DVTN4WlF1OE5lU0J1TQ?oc=5\" target=\"_blank\">Forget GPUs. Nvidia’s Next AI Gold Mine Could Be Even Bigger.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "published": "2026-07-12T20:01:42+00:00",
+      "source": "Barchart.com"
     }
   ],
   "product_launches": [
@@ -66,8 +66,22 @@
       "title": "CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5\" target=\"_blank\">CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
-      "published": "2026-07-10T10:01:22+00:00",
+      "published": "2026-07-11T16:58:25+00:00",
       "source": "Stocktwits"
+    },
+    {
+      "title": "Nvidia’s $100 Billion Revenue Still Accelerates: Jensen Huang Personally Steps In to Defend, Crushing New Product Delay and ASIC Encroachment Rumors - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0QwZk8zd1ROUEpzaThINlZVeExIcjc5UjBWdXltSmVTb0JQemlKTjVKSnhqS3gwNTJqblZjOHFXWEZqT25lWkc1c0pjNTQ0dGFOMGhRaDN6Um1tOEhKVTJNRUFJWmtDV1pZdU1vaTAtU0NHcGJHMGhaaEowdVgyc3dLOGFTZndiWWRJSEpONGotc2ZVM2xIQ2tIV2dRY21sQVlBRk8wVEt4QVUxSU02U1VZX2VBVzhNRWJlZXAzaElWS2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0QwZk8zd1ROUEpzaThINlZVeExIcjc5UjBWdXltSmVTb0JQemlKTjVKSnhqS3gwNTJqblZjOHFXWEZqT25lWkc1c0pjNTQ0dGFOMGhRaDN6Um1tOEhKVTJNRUFJWmtDV1pZdU1vaTAtU0NHcGJHMGhaaEowdVgyc3dLOGFTZndiWWRJSEpONGotc2ZVM2xIQ2tIV2dRY21sQVlBRk8wVEt4QVUxSU02U1VZX2VBVzhNRWJlZXAzaElWS2c?oc=5\" target=\"_blank\">Nvidia’s $100 Billion Revenue Still Accelerates: Jensen Huang Personally Steps In to Defend, Crushing New Product Delay and ASIC Encroachment Rumors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "published": "2026-07-13T08:34:08+00:00",
+      "source": "TradingKey"
+    },
+    {
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-04-14T07:00:00+00:00",
+      "source": "NVIDIA Newsroom"
     },
     {
       "title": "Nvidia Offers New Cards. Trading Cards, That Is - PCMag Middle East",
@@ -77,39 +91,21 @@
       "source": "PCMag Middle East"
     },
     {
-      "title": "NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZUoycWRkekFhdURRelBmYWtMdXk3UjVDaTFjeUF2bmJTOVNmSmk0TEoxZVNWZ29Qd2dPaVg2Sk4xb0tKUDJqaTZYTms0N3FFVnNka0J6S0c3NDRKOUFkeC14ZmhrWEJ6UkFIdjNXZjFzSU5vd09CUFV6TGdUa1FENUFKdFRSZG1DZHNtdDNwOTkzbWdYaGtKRURUT09COUxmcTlVTkVZcWpBS042MFJLdlZUTFl1Qlh1VHpxYkt0YlRjZkwwNmcxWV9FOG85RTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZUoycWRkekFhdURRelBmYWtMdXk3UjVDaTFjeUF2bmJTOVNmSmk0TEoxZVNWZ29Qd2dPaVg2Sk4xb0tKUDJqaTZYTms0N3FFVnNka0J6S0c3NDRKOUFkeC14ZmhrWEJ6UkFIdjNXZjFzSU5vd09CUFV6TGdUa1FENUFKdFRSZG1DZHNtdDNwOTkzbWdYaGtKRURUT09COUxmcTlVTkVZcWpBS042MFJLdlZUTFl1Qlh1VHpxYkt0YlRjZkwwNmcxWV9FOG85RTg?oc=5\" target=\"_blank\">NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
-    },
-    {
       "title": "Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments - Palantir",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3JHRGFSTWVYXzhVanNPa1liMXlKRzNrcVFOdS11NWNmdHNkNU9zcTFaN0l2UkZNT0NhRlMxajl2TlREZlFtMWpFaGRRdGRBS1RWX1hXN0FJRmwzRjFEOTBSNkR5VmtkWjFud2hiazZzOXlUYUo0M2FtOS1naGp6MHZMMU53dUd3eThzdExnUklMMklYYUctcUVxNXJrUnBNeXdhYkxTQkZPY2JsT2NLMmtHemtMRHpSbUE4em5vcDN3c2hvVS13d2l6RENfUG1vcl80ZnJRMFltZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3JHRGFSTWVYXzhVanNPa1liMXlKRzNrcVFOdS11NWNmdHNkNU9zcTFaN0l2UkZNT0NhRlMxajl2TlREZlFtMWpFaGRRdGRBS1RWX1hXN0FJRmwzRjFEOTBSNkR5VmtkWjFud2hiazZzOXlUYUo0M2FtOS1naGp6MHZMMU53dUd3eThzdExnUklMMklYYUctcUVxNXJrUnBNeXdhYkxTQkZPY2JsT2NLMmtHemtMRHpSbUE4em5vcDN3c2hvVS13d2l6RENfUG1vcl80ZnJRMFltZw?oc=5\" target=\"_blank\">Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palantir</font>",
       "published": "2026-06-29T07:00:00+00:00",
       "source": "Palantir"
-    },
-    {
-      "title": "Nvidia boss Jensen Huang’s signed Tom Ford leather jacket can now be yours for the cost of 16 RTX 5090 GPUs - Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUN1bEVqdXhqU3BBazhHR0w5dkhGRzdubkw0eURoYm9naVRMcU8zeWxqd2J6NlBpMEpMOWZyMzk2c09pcUtMbjhCMWQ3QzV4OHhTc3lqN0E1Wk9kOEdqS3o3RVcxWmQzb0NYUHcyZkpSbjhJczZIVGRoTW16THBUU2Q0Ul80Zl9kYnk2MVdIcGl4cy1CNmhsZ2h3YXZ1elpTY0YtRjMxSWdKX2p4RUd1UE82Szg3QlllTzRXbVl5aUtMb2NiUmgxMGk3S1pNSWpaSUhrQjRXRUI2dDNHNmt3VmdJU1B1T00?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxORUN1bEVqdXhqU3BBazhHR0w5dkhGRzdubkw0eURoYm9naVRMcU8zeWxqd2J6NlBpMEpMOWZyMzk2c09pcUtMbjhCMWQ3QzV4OHhTc3lqN0E1Wk9kOEdqS3o3RVcxWmQzb0NYUHcyZkpSbjhJczZIVGRoTW16THBUU2Q0Ul80Zl9kYnk2MVdIcGl4cy1CNmhsZ2h3YXZ1elpTY0YtRjMxSWdKX2p4RUd1UE82Szg3QlllTzRXbVl5aUtMb2NiUmgxMGk3S1pNSWpaSUhrQjRXRUI2dDNHNmt3VmdJU1B1T00?oc=5\" target=\"_blank\">Nvidia boss Jensen Huang’s signed Tom Ford leather jacket can now be yours for the cost of 16 RTX 5090 GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font>",
-      "published": "2026-07-10T18:32:00+00:00",
-      "source": "Notebookcheck"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-10",
-      "close": 210.9600067138672
+      "date": "2026-07-13",
+      "close": 208.94000244140625
     },
     "history": [
-      {
-        "date": "2026-07-01",
-        "close": 197.5800018310547
-      },
       {
         "date": "2026-07-02",
         "close": 194.8300018310547
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-10",
         "close": 210.9600067138672
+      },
+      {
+        "date": "2026-07-13",
+        "close": 208.94000244140625
       }
     ],
     "name": "NVIDIA Corporation"
