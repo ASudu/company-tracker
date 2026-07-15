@@ -2,28 +2,56 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-07-14T13:07:40.149713+00:00",
+  "fetched_at": "2026-07-15T13:11:44.033882+00:00",
   "news": [
     {
-      "title": "Microsoft tests Windows Search without all the ads and fluff - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qVDBWVjFGYW1GNmJhYlE0TFpiY0szVHVZMU54MDYtajJCSWZjQnltZ1FPTjZyM1Z2T0hmMnZvck4tZExHTy1Dai1fOUQ4ZWcybVJ4eS1DRHBUcVRCeDg4ZGZjZmNlVlN3YjdTd0VsZGcxdGFjRWhYUTdqbUVSUQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9qVDBWVjFGYW1GNmJhYlE0TFpiY0szVHVZMU54MDYtajJCSWZjQnltZ1FPTjZyM1Z2T0hmMnZvck4tZExHTy1Dai1fOUQ4ZWcybVJ4eS1DRHBUcVRCeDg4ZGZjZmNlVlN3YjdTd0VsZGcxdGFjRWhYUTdqbUVSUQ?oc=5\" target=\"_blank\">Microsoft tests Windows Search without all the ads and fluff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGhNeERkVDNLaThkQlRJVUExZVJQTk1NLWM1dTVlTk5kelFpV3NrSDhoZ2gwblZLbXpQMmdkUHJMdlpxbW9UUnlndjdVSzN5eWNCTU1zWVoxRTRseGJOc3lNUGZzN09TOHJLcUxzbXpDOVVyZXZaQlpZa0VvczBxY0RBc05IQjBFbmFTVVBtY3JTdlhGMGl0RG9uVmE4QnZraDc1c3o1WQ?oc=5\" target=\"_blank\">Microsoft Is Making The Windows Search Box More Streamlined And Useful</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFZqNFZwYWV3cS12VndZUkNNMnlYQTlvM2x5TXpWaHFiSVpBRkJZTXI0M2QtYU9VTlRHTTZ3R0FhZzJRajQwcXVsenk1d3pMM1BpRGtaZGxYUjc1Tk1ZUTloSGJ2LW44WWFjSzQxYTdOckY2bWM0QXJEbW1HMk14WXNmNElCNU9fS21naC0wY0tmMGxKaDBGcQ?oc=5\" target=\"_blank\">MSFT Stock Bucks Iran-Linked Sell-Off: Microsoft Releases Mac-Style Search On Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-07-13T21:53:20+00:00",
-      "source": "The Verge"
+      "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGxqQlgwelNTQzBHWGNCLUVYWkIwMGdKd091YWY1X1c3dVFaZXM0Y2czcTZmRVJ0a1JhSXk1TUtLUjhFckJZOWxPbTY3UlY3V19zUU1VT3FDVG82MzFBaVlxUlZYUHpPeWRWOUtwOHBNaHkwdGdiT09zamRkQ25JT19VYzBEcXh3MWc?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGxqQlgwelNTQzBHWGNCLUVYWkIwMGdKd091YWY1X1c3dVFaZXM0Y2czcTZmRVJ0a1JhSXk1TUtLUjhFckJZOWxPbTY3UlY3V19zUU1VT3FDVG82MzFBaVlxUlZYUHpPeWRWOUtwOHBNaHkwdGdiT09zamRkQ25JT19VYzBEcXh3MWc?oc=5\" target=\"_blank\">Microsoft Patches a Record 570 Security Flaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Krebs on Security</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOay00bWtmLXNVNWp4ZUl6OTVIaWNXaXFLazlkOXR5MHRPejBFd0ZydUd4R1RvVUZyYkxmcnJFNE9HNnBQM2RadTBfRDNNU2M4X3lTY0pmNWlFQU9lb0E2R0xqMlh6a2pIOUJ3UGZjQWFNVlNtaWl2STczOVVETkppVTc2eWdTcFVSODU5bmZoa0ZFU0Jha2FMVEtEUWk2NmJtazBUS0JRVUIwano4R0FWQ1dHanBFMGg5OVdicXh3NE5UT0ZTU2VhaDdJU1VNaFBoMlE?oc=5\" target=\"_blank\">Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdWdyV0sxN2psN0cyQW44M1llNWFwOVVhLW1fZ0pVUElERjN4R09vUlhMbEw4aTlYM3lsa1JRejVfNVNnalY0SFQ1eUYxYUNvVXlsWWVsSDVOcDltak04Y0dJOVhobXpwU3V6MHU1SUx1V0FFOW5LR2pxTHpncEdVbWxhblRVS1BtX09zWjl6UkZ1bGRmMTVHQmN1STVrdWZwVFNvTXg0VDRTaUstdUpv?oc=5\" target=\"_blank\">CVE-2026-55040: Microsoft SharePoint JWT Token Authentication Bypass (FIXED)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rapid7</font></li></ol>",
+      "published": "2026-07-15T10:16:54+00:00",
+      "source": "Krebs on Security"
     },
     {
-      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzb0RQdFZSYmtRRlRaYmU2YWdFNElCQ3FubE1lQ3V2N2JCVXBfcFFJTG9zcnR6V1RnVmNSNU1FaXhDakNHLUp2UGpER1ZoNTQ1OWFiZkEzWFJvQzNUdTc3R0lKRUxyaExnZlBETUpyQWpuclFoX0tUMkFJb250cVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAzb0RQdFZSYmtRRlRaYmU2YWdFNElCQ3FubE1lQ3V2N2JCVXBfcFFJTG9zcnR6V1RnVmNSNU1FaXhDakNHLUp2UGpER1ZoNTQ1OWFiZkEzWFJvQzNUdTc3R0lKRUxyaExnZlBETUpyQWpuclFoX0tUMkFJb250cVk?oc=5\" target=\"_blank\">Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-07-13T13:03:00+00:00",
-      "source": "The Hacker News"
+      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDdNWDRqSzRtV1JidlFxOWU2Yi15SXU0bnB4UHMwZ1hNenBJZXlGU2VDSnBOWWpBeGl4SUpIRHpEOGVFajRWRW83UF9SSFBSeGZ2LTZwM2t2Nmk2MExadHhoNnA5UHAzQmMyTF9ZNnlBUi1tOG5ZbEJ1eWxvblJiSExJa2R4TkFaQmlpTE14Nkhnc2JSS0FHelhKRmdURm03eHl6TWw2N2w?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDdNWDRqSzRtV1JidlFxOWU2Yi15SXU0bnB4UHMwZ1hNenBJZXlGU2VDSnBOWWpBeGl4SUpIRHpEOGVFajRWRW83UF9SSFBSeGZ2LTZwM2t2Nmk2MExadHhoNnA5UHAzQmMyTF9ZNnlBUi1tOG5ZbEJ1eWxvblJiSExJa2R4TkFaQmlpTE14Nkhnc2JSS0FHelhKRmdURm03eHl6TWw2N2w?oc=5\" target=\"_blank\">Microsoft’s Secure Boot has been broken for a decade and no one noticed until now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-07-14T22:20:48+00:00",
+      "source": "Ars Technica"
     },
     {
-      "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWlVTTd3ejRtcDlXMWNOa01ZdDJrTEoxRVJ1eHktYktnVkI3T0I0WEQ5QjdxZHJqV0xiN3BQa2szamxjSHM2Qlk1c25RWEJFYUZIb3Jtc29GS3B3R1pQb01ENjlUc0J2TGxLNE1SV3I0RE9vdjhIRjgwY2wyOU5fb2NKZlVUUXZkeFYydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWlVTTd3ejRtcDlXMWNOa01ZdDJrTEoxRVJ1eHktYktnVkI3T0I0WEQ5QjdxZHJqV0xiN3BQa2szamxjSHM2Qlk1c25RWEJFYUZIb3Jtc29GS3B3R1pQb01ENjlUc0J2TGxLNE1SV3I0RE9vdjhIRjgwY2wyOU5fb2NKZlVUUXZkeFYydw?oc=5\" target=\"_blank\">Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-07-14T06:01:00+00:00",
-      "source": "The Guardian"
+      "title": "Prediction: Microsoft Stock Could Go Parabolic After July 29. Here's Why. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXRkdUVjR1pXMERxbjBETUJjblMyQi1OWi1hSV9tMFBGMkVDV2pPcHNqNFp2ZW9pOTRiaWhPSTY3aTR3dGdSM3VITmxOVjBhbkJlajBsQUdZSC1vTXFwX203WkZsR3VqM3BpOS16NHVYTFlFengwOXVYUTR6ZjZ6Y2hnUnp1WFFvcjhoRXM0cnlwRWY5NjdraEFqb244b0RhakRfcnF6dHBTSVk?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXRkdUVjR1pXMERxbjBETUJjblMyQi1OWi1hSV9tMFBGMkVDV2pPcHNqNFp2ZW9pOTRiaWhPSTY3aTR3dGdSM3VITmxOVjBhbkJlajBsQUdZSC1vTXFwX203WkZsR3VqM3BpOS16NHVYTFlFengwOXVYUTR6ZjZ6Y2hnUnp1WFFvcjhoRXM0cnlwRWY5NjdraEFqb244b0RhakRfcnF6dHBTSVk?oc=5\" target=\"_blank\">Prediction: Microsoft Stock Could Go Parabolic After July 29. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQeEV5bUF0aFJldEhtVExZLWQ2LTc0bjdNd1NyME9mUkRmbFRUSW5nTzBDVnBGc05KaXlaTHhLNGl0M2hfbmRYdXlzb0ZDU2dhUWRjQ1MwMkc2aUJUR0RwQ2xhQkM3RHo3TkJ5MkRwdXZRc3psNHBEQmZJdUhlN1dMZDZmUWpfcXdWWTNfTTJYbV81cVdUbHlpMkYzdXd1enQwSXlMY2VlTHhldVA0Q3ZTemJZeXYtU0N6Z2trZA?oc=5\" target=\"_blank\">Microsoft’s Price Target Is Lowered, Analyst Remains Positive on the Mag 7 Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaktiU0ZMQk1mcWNMWk50Q3VGUS1lU0lsOWhvdGhRbmJHeVpKSUJDQXVYaGdFcHNmZ290eTdoOFZlRHlzemNkRkl0WHZDdlM4UFQ0d2xnLVhRX3ZkdExoUElqU1RabDRMOFBNWDViY1R5VGs5VjN2dGlDT1RQUWpfRXNsSmJ5cHpucmpXUHd3OGc2Zw?oc=5\" target=\"_blank\">Microsoft: Ignore The Noise, Buy The Fundamentals (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li></ol>",
+      "published": "2026-07-14T06:20:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft rolls out Windows Search updates and they're... quite good - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelFPY1N4UnRIWFQxTGJiZmFFR2xJcGp4WjFqYjJEcndxOXdYaG1PZWFPQ0tvblBOU2s1TS1PeWU0RmpIby0yZF9QaFdaZWNSM0piVmhfYWh5UFZRdDJhR1gtbDFwa3FabXJxU2FiYk10Q0dNd2djeGVFTmhVR3JOa2NTdGpBb1VpdS1DMEJ3TV9PMldDSFA2ZmJUaFZabklRRlpYZ24yNFNZVXJTVmVyWEp3Q1F5Nm43ZkdtZXhIR21HZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelFPY1N4UnRIWFQxTGJiZmFFR2xJcGp4WjFqYjJEcndxOXdYaG1PZWFPQ0tvblBOU2s1TS1PeWU0RmpIby0yZF9QaFdaZWNSM0piVmhfYWh5UFZRdDJhR1gtbDFwa3FabXJxU2FiYk10Q0dNd2djeGVFTmhVR3JOa2NTdGpBb1VpdS1DMEJ3TV9PMldDSFA2ZmJUaFZabklRRlpYZ24yNFNZVXJTVmVyWEp3Q1F5Nm43ZkdtZXhIR21HZw?oc=5\" target=\"_blank\">Microsoft rolls out Windows Search updates and they're... quite good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
+      "published": "2026-07-14T15:38:59+00:00",
+      "source": "The Register"
+    },
+    {
+      "title": "Microsoft unveils major Windows 11 search experience overhaul that it promises will fix search - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZXYteFdoR2JfUXJwVVNQNU43bkVtcGgwOTFHNVBvNk5aZ2pKQ05jOXJXLXpvU3otUWZQM2plS2E0cUdKSUhvSzJzU0pxRmFRc0xwXzJwZUl6UzJzdVNYZHRIYVNqRmtvLVRlYTF3QlEwNFpnRE9zZ3NHSWIxaEVka1RxYlRPY2lPa0FaemQ0X1lOMFF1X1Z3anB5UTRFUXBZU21oekhvU2FIc0ktV2JuRGNsNzMxRl82MG4xMUNqMHBzUHB6OTFRZGk2T0lzVlpwSzFkaDhEbm5DbnFXYWdCWEZLVjI2VVF5aDU1anp1aUM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZXYteFdoR2JfUXJwVVNQNU43bkVtcGgwOTFHNVBvNk5aZ2pKQ05jOXJXLXpvU3otUWZQM2plS2E0cUdKSUhvSzJzU0pxRmFRc0xwXzJwZUl6UzJzdVNYZHRIYVNqRmtvLVRlYTF3QlEwNFpnRE9zZ3NHSWIxaEVka1RxYlRPY2lPa0FaemQ0X1lOMFF1X1Z3anB5UTRFUXBZU21oekhvU2FIc0ktV2JuRGNsNzMxRl82MG4xMUNqMHBzUHB6OTFRZGk2T0lzVlpwSzFkaDhEbm5DbnFXYWdCWEZLVjI2VVF5aDU1anp1aUM?oc=5\" target=\"_blank\">Microsoft unveils major Windows 11 search experience overhaul that it promises will fix search</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-07-13T17:24:08+00:00",
+      "source": "Windows Central"
+    },
+    {
+      "title": "Improving Windows Search Box, with less clutter and more control - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZm9YZTFTVkQ1SlZTelNUc1doVzdESkE0WFQ1Z2lDVnJrTzYtTEdBZlNhYkR4SzNtaXhfTmR1X19VaDFzV3Z4UVRCN05ITTJIUGFBUzZqQnRyNi00MWJtTGFic0Z6clpJQUFPT21yX3FOb2ktRGZGVmpLbGZMX3FENm8yOWtFVVllVGktUXc4RjJONFV3azBXeTZVWTJnUlNzLUpHSU53WUM2ZjZDMVdTWWVoSERGUHBV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZm9YZTFTVkQ1SlZTelNUc1doVzdESkE0WFQ1Z2lDVnJrTzYtTEdBZlNhYkR4SzNtaXhfTmR1X19VaDFzV3Z4UVRCN05ITTJIUGFBUzZqQnRyNi00MWJtTGFic0Z6clpJQUFPT21yX3FOb2ktRGZGVmpLbGZMX3FENm8yOWtFVVllVGktUXc4RjJONFV3azBXeTZVWTJnUlNzLUpHSU53WUM2ZjZDMVdTWWVoSERGUHBV?oc=5\" target=\"_blank\">Improving Windows Search Box, with less clutter and more control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
+      "published": "2026-07-13T19:32:24+00:00",
+      "source": "Windows Blog"
+    },
+    {
+      "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEdqMTZJTTNRTDFzWWJERVRyUTZ5cW9jYVota2xoNnhWU0VKeW95VVg3Ym5pbDRkNmduYm5lN1lLbVZ0dUt4V3FFZV9iTFI3akpqSHVTTDF4STNGMkhqSDVoZXBJR2htdTh6YXVLYnFoT3BOWEZKcGk5enVnU3FtMXBrb19fSFRrTzZNTTVTTlhEM1J3M2ZaOHpNN29MbHFsckNRNlB1Q0JCUEZtN0ZqUmR4RHlfQjI2MVBUTXZDdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEdqMTZJTTNRTDFzWWJERVRyUTZ5cW9jYVota2xoNnhWU0VKeW95VVg3Ym5pbDRkNmduYm5lN1lLbVZ0dUt4V3FFZV9iTFI3akpqSHVTTDF4STNGMkhqSDVoZXBJR2htdTh6YXVLYnFoT3BOWEZKcGk5enVnU3FtMXBrb19fSFRrTzZNTTVTTlhEM1J3M2ZaOHpNN29MbHFsckNRNlB1Q0JCUEZtN0ZqUmR4RHlfQjI2MVBUTXZDdw?oc=5\" target=\"_blank\">Security Hub adds AI workload protection and multicloud support for Microsoft Azure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services (AWS)</font>",
+      "published": "2026-07-14T19:16:57+00:00",
+      "source": "Amazon Web Services (AWS)"
     },
     {
       "title": "Brazilian gamer proves you can fight for the digital preservation of Xbox games and win - Windows Central",
@@ -31,34 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXpsZkc0dUZlT3k4dEpLVERuUFdOTE93bVhrMmlXbU1SQlYySzNreWtNaVByY2QxU01SVlZNY2J4U21kQVZQaHJTSnB0VHIwSnlDRXZ2RHFXV2FKNm5hZnM5MWRTZHBUUnhhY1RLcXVuT2FybDRoY0h0cWJweGVTWGk5a3phTGJwRk9GZmJNVE9EdGJ4SUhzQU9BWVlxc2hQRDlV?oc=5\" target=\"_blank\">Brazilian gamer proves you can fight for the digital preservation of Xbox games and win</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
       "published": "2026-07-13T13:01:46+00:00",
       "source": "Windows Central"
-    },
-    {
-      "title": "First Microsoft, now Apple: Why do OpenAI and Sam Altman keep breaking up with Big Tech? - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUNRcjZFaXBQUFRwdEZwX3FvVGVzTTU2ZzNzY2s3SmdfYzV2STRLTnZ4MzNQbnNaWExsdm8xTlAzQVg4ejM1MEFIQ0xHcjJuNmVOUGpCSTV1UktDSnZ6QzRWS0dhd210TG1VMVJqRTMxTnlxOWpmVW1FSnZRVGtDQVBRc3M4Z3NhNEpYMVZiWUlGdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUNRcjZFaXBQUFRwdEZwX3FvVGVzTTU2ZzNzY2s3SmdfYzV2STRLTnZ4MzNQbnNaWExsdm8xTlAzQVg4ejM1MEFIQ0xHcjJuNmVOUGpCSTV1UktDSnZ6QzRWS0dhd210TG1VMVJqRTMxTnlxOWpmVW1FSnZRVGtDQVBRc3M4Z3NhNEpYMVZiWUlGdw?oc=5\" target=\"_blank\">First Microsoft, now Apple: Why do OpenAI and Sam Altman keep breaking up with Big Tech?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-07-13T20:36:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Pure DC Building Finland AI Data Center, Secures Microsoft Deal - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXy1DNlNNUnRYRjYzd09kODY2NTBVLTlWNFVrMWYzaG4wMnlZc19lU3pwdURGbW45VXNGTWhIVDlBM1RLejMyUnlCWGFYb1pjSy1GcS1DMHc1YmMzQWtYdWsyN3BFcXFfTGFNOFdrV0VXMkZzSzZKOWlNWHJrVkplMnM4NmxTRExXWXE1RGowVnJXVVVTMzltNVl1UlFwS0stb3g0b2NRNE50VlpjeXlEbi1WUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNXy1DNlNNUnRYRjYzd09kODY2NTBVLTlWNFVrMWYzaG4wMnlZc19lU3pwdURGbW45VXNGTWhIVDlBM1RLejMyUnlCWGFYb1pjSy1GcS1DMHc1YmMzQWtYdWsyN3BFcXFfTGFNOFdrV0VXMkZzSzZKOWlNWHJrVkplMnM4NmxTRExXWXE1RGowVnJXVVVTMzltNVl1UlFwS0stb3g0b2NRNE50VlpjeXlEbi1WUQ?oc=5\" target=\"_blank\">Pure DC Building Finland AI Data Center, Secures Microsoft Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-07-14T05:00:00+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella's Sharp Warning for Companies Using AI - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnNkZUxneERZMFBUSk80X21rbUcwWVRQV0tFWnFVdU4xTWFXWXNDSWlqWm9BVmJQMWhiUDIyUHk4eGFHektpc3gyWnpIRTVSY3I2MjhrbDFHRUd0MndBYlVaSGhhd1Q3dmJDLWp6MEhORFBYTndzc2lURVZsOVl5UXRaUVRMNDZkRDNOUG9LTDlnUXhhUFJCWTRKSWtGU1N6UjgwcWR2aU9SRlBCbi1sMjhEZHlmRjBJeGFXSGg3R1pOc2t4SWFoTGVuZHAzZ0nSAdcBQVVfeXFMUHpwWThRNU5iM0tQNkxUTEdKWklyYkQ1RDJCa3JqMVhRdzRhM2dNZUt4MTAteHpSaXBMaEdtLXI3YkNGSXM2RWpDSXVLRThjYlgyZjZyYVdocFQzODhhbTBNNFNia0lEMFljQ0ZTRDVENE0tTWVFdWtzT2VsZ2dlR2UtSmZ1c1daTFE1VVZvU1ZKZXpkcXhTakgtNi1FSVc3ak12THdabnEtS29qT0gxX0VNOFNaR2RpcC1XN1JYZ0otR0g2RHktVkZ0cjVQLTFrSllTLVl5d0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnNkZUxneERZMFBUSk80X21rbUcwWVRQV0tFWnFVdU4xTWFXWXNDSWlqWm9BVmJQMWhiUDIyUHk4eGFHektpc3gyWnpIRTVSY3I2MjhrbDFHRUd0MndBYlVaSGhhd1Q3dmJDLWp6MEhORFBYTndzc2lURVZsOVl5UXRaUVRMNDZkRDNOUG9LTDlnUXhhUFJCWTRKSWtGU1N6UjgwcWR2aU9SRlBCbi1sMjhEZHlmRjBJeGFXSGg3R1pOc2t4SWFoTGVuZHAzZ0nSAdcBQVVfeXFMUHpwWThRNU5iM0tQNkxUTEdKWklyYkQ1RDJCa3JqMVhRdzRhM2dNZUt4MTAteHpSaXBMaEdtLXI3YkNGSXM2RWpDSXVLRThjYlgyZjZyYVdocFQzODhhbTBNNFNia0lEMFljQ0ZTRDVENE0tTWVFdWtzT2VsZ2dlR2UtSmZ1c1daTFE1VVZvU1ZKZXpkcXhTakgtNi1FSVc3ak12THdabnEtS29qT0gxX0VNOFNaR2RpcC1XN1JYZ0otR0g2RHktVkZ0cjVQLTFrSllTLVl5d0U?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella's Sharp Warning for Companies Using AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-      "published": "2026-07-14T09:34:17+00:00",
-      "source": "NDTV"
-    },
-    {
-      "title": "Microsoft carbon emissions rose 25 percent in 2025 as AI data centers grow - WKRN News 2",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUhjOVp3SFp4dVowQ2pjay1HSTZsVzhXbFk5a09MMzFEdWtuU3MtWDk0MjhPLXFOaE1Cd2xiakw3R2MwY0FPcnV2RkRtdm5XSzNyTWFBMjdsZXg1UXd0Rnp5TXlxME1RWEdDaDFQSS10cjB0SjFTRDFHZ1gwMXRkUF9sVVZmdHh2ck9TMzFTcllvWUt0ZV9WUlhLSU5tdjdPOER1Y0Rlc19fQTg4MzZZ0gG0AUFVX3lxTE52VWFuNUhwbUpySDZyQVNjamF4Y3NUdXZPTTdDYWN0UC0xMnVpVTlEblFFbTlDX3V0YlZmdkt5MXhGZTdoTm9qOXhWd1RKbl9XVzBDTklPQUM4cFBSR3JkSC1Fd0tiODJUX3lERktGbEdLYUhkZHNvS3hQX3pwSTNtN3pDdzRza3V1OXdHNW5kSVNzQ0FnS1pPOVItUm9Mc0VNSURSZTh3ZGo1Z0dqcGJMdFppRA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUhjOVp3SFp4dVowQ2pjay1HSTZsVzhXbFk5a09MMzFEdWtuU3MtWDk0MjhPLXFOaE1Cd2xiakw3R2MwY0FPcnV2RkRtdm5XSzNyTWFBMjdsZXg1UXd0Rnp5TXlxME1RWEdDaDFQSS10cjB0SjFTRDFHZ1gwMXRkUF9sVVZmdHh2ck9TMzFTcllvWUt0ZV9WUlhLSU5tdjdPOER1Y0Rlc19fQTg4MzZZ0gG0AUFVX3lxTE52VWFuNUhwbUpySDZyQVNjamF4Y3NUdXZPTTdDYWN0UC0xMnVpVTlEblFFbTlDX3V0YlZmdkt5MXhGZTdoTm9qOXhWd1RKbl9XVzBDTklPQUM4cFBSR3JkSC1Fd0tiODJUX3lERktGbEdLYUhkZHNvS3hQX3pwSTNtN3pDdzRza3V1OXdHNW5kSVNzQ0FnS1pPOVItUm9Mc0VNSURSZTh3ZGo1Z0dqcGJMdFppRA?oc=5\" target=\"_blank\">Microsoft carbon emissions rose 25 percent in 2025 as AI data centers grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRN News 2</font>",
-      "published": "2026-07-14T11:57:57+00:00",
-      "source": "WKRN News 2"
     }
   ],
   "product_launches": [
@@ -91,25 +91,21 @@
       "source": "Search Engine Journal"
     },
     {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXV6S05EQ3Eydjktb2hSb1JYY21RbW9kRUhKbG5VY3RjY0hPTGRpRlNsNjRGLVpYVmhPY1NZalFmVVh4VWdHUWtzSmFoMGVzY2NWajIteHRqYksteHU5YXlpZzJ1VjNWNlhsN3hySjhpSjZfY1dyaHdDRDY1a3RvQXZEci1KeV9nZkc5SktmTDRHaTdFSDJzeXlsb0dpWnpBY0ZudzliR1BfaHl4R0gyYQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXV6S05EQ3Eydjktb2hSb1JYY21RbW9kRUhKbG5VY3RjY0hPTGRpRlNsNjRGLVpYVmhPY1NZalFmVVh4VWdHUWtzSmFoMGVzY2NWajIteHRqYksteHU5YXlpZzJ1VjNWNlhsN3hySjhpSjZfY1dyaHdDRDY1a3RvQXZEci1KeV9nZkc5SktmTDRHaTdFSDJzeXlsb0dpWnpBY0ZudzliR1BfaHl4R0gyYQ?oc=5\" target=\"_blank\">Microsoft launches its own AI deployment company with $2.5 billion commitment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-07-02T07:00:00+00:00",
-      "source": "TechCrunch"
+      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW1ueUxOUUxzZDhQd19OZkxiTUFkQUpIYzU2d1pMeE10Tlp1a0lqeFVsUFJFb01kU3hGeVdsQ29tSW8ya0R6S2Joc0lmNHBTampONmdEUVRFbktCQnREVU1ZSVE1V0hmQ29uempINnp5S0N0SzBmVm9TSkhYOTl5MGtaelAyRDdGWVk3ODdfbnVualhQN0p2UjVScEREZWVDckEwZ1Bvb24?oc=5\" target=\"_blank\">Microsoft launches 3 new AI models in direct shot at OpenAI and Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "published": "2026-04-03T07:00:00+00:00",
+      "source": "VentureBeat"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-13",
-      "close": 390.989990234375
+      "date": "2026-07-14",
+      "close": NaN
     },
     "history": [
-      {
-        "date": "2026-07-02",
-        "close": 390.489990234375
-      },
       {
         "date": "2026-07-06",
         "close": 386.739990234375
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-13",
         "close": 390.989990234375
+      },
+      {
+        "date": "2026-07-14",
+        "close": NaN
       }
     ],
     "name": "Microsoft Corporation"

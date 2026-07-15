@@ -2,86 +2,72 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-07-14T13:07:49.386975+00:00",
+  "fetched_at": "2026-07-15T13:11:53.660394+00:00",
   "news": [
     {
-      "title": "Nvidia halves Asia buyer list in China chip crackdown, FT reports - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3M4ZzYxVVhadmlmVDNrNUhmY19nS1lyTnQyUl9BRDRWaGdsZnFpekdNY3BkLWNBcmd4NVBqdzBBRDcwRWUybjkzZGdfRlEzZkpsZjVfMkEydW1MbEJlTDB3RTVieS1zdlprdDZ5QnF2UXp1dHEwSlJ2Z2JLOURfRlBjbXNUWE9VSWFrTndoTUhEQVJOa2lvXw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3M4ZzYxVVhadmlmVDNrNUhmY19nS1lyTnQyUl9BRDRWaGdsZnFpekdNY3BkLWNBcmd4NVBqdzBBRDcwRWUybjkzZGdfRlEzZkpsZjVfMkEydW1MbEJlTDB3RTVieS1zdlprdDZ5QnF2UXp1dHEwSlJ2Z2JLOURfRlBjbXNUWE9VSWFrTndoTUhEQVJOa2lvXw?oc=5\" target=\"_blank\">Nvidia halves Asia buyer list in China chip crackdown, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-14T03:31:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia halves Asia buyer list in China chip crackdown - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnNPMDdvbldNbzRKdnpVS3dhdjlQLVR4MDlWMk5xY2lGc3JKUTFoYXZaX1l0cU1vT3RRQkpKMl9oeVhHZFRzTm5Ic3QySkRzYnFGblBDd0szcjEwNkdFMERTOHBiR1VRT2lEMWJSN2FfMkkySFg0Q3ZuRUdBTmFKSmZKbUI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnNPMDdvbldNbzRKdnpVS3dhdjlQLVR4MDlWMk5xY2lGc3JKUTFoYXZaX1l0cU1vT3RRQkpKMl9oeVhHZFRzTm5Ic3QySkRzYnFGblBDd0szcjEwNkdFMERTOHBiR1VRT2lEMWJSN2FfMkkySFg0Q3ZuRUdBTmFKSmZKbUI?oc=5\" target=\"_blank\">Nvidia halves Asia buyer list in China chip crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-07-14T03:25:04+00:00",
-      "source": "Financial Times"
-    },
-    {
-      "title": "Nvidia halves Asia buyer list in China chip crackdown, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ042c2NBTzI2SnhBeFZzMC03WndWMmFTRG1KbXI4V2hacnh2SWZUZ29nbkRvcUNVRi1NVEhWd19hSmNNNzh0QzNLVjhZcjFLWXhGdjFhLXIxcDRnUEQ0X0RRaXRVckJRd2Q1bmNpTklSbW5NUnNJUTdNejllLTVpTzF2QkI5V1YwUHVCWVgyREVXZG1QVS1fYWNGRVFweUlVQlpJSVhWNDF6WDd2TGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ042c2NBTzI2SnhBeFZzMC03WndWMmFTRG1KbXI4V2hacnh2SWZUZ29nbkRvcUNVRi1NVEhWd19hSmNNNzh0QzNLVjhZcjFLWXhGdjFhLXIxcDRnUEQ0X0RRaXRVckJRd2Q1bmNpTklSbW5NUnNJUTdNejllLTVpTzF2QkI5V1YwUHVCWVgyREVXZG1QVS1fYWNGRVFweUlVQlpJSVhWNDF6WDd2TGc?oc=5\" target=\"_blank\">Nvidia halves Asia buyer list in China chip crackdown, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-14T03:31:00+00:00",
+      "title": "US official says Nvidia has begun shipping powerful H200 AI chips to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDItR0c4WHhNYk9SeEpucGtPSmk3ZnBnS1lPUll3QkNSLWx3LWpWTk92MldIc3RlWGJUVTQ5ZFQtT3pBSkhfN3B4ZDB4VFpvVEZTVThMMXFVS1hhTGZBSFI2OXRncjFTVndGTUwyRHpXb0I3UXFRZWhBOUpFRm15MURsUnRXMFJfak5sOWNDZlJFWDdJT3Y3NVRleW5iZFZzM2hwUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDItR0c4WHhNYk9SeEpucGtPSmk3ZnBnS1lPUll3QkNSLWx3LWpWTk92MldIc3RlWGJUVTQ5ZFQtT3pBSkhfN3B4ZDB4VFpvVEZTVThMMXFVS1hhTGZBSFI2OXRncjFTVndGTUwyRHpXb0I3UXFRZWhBOUpFRm15MURsUnRXMFJfak5sOWNDZlJFWDdJT3Y3NVRleW5iZFZzM2hwUQ?oc=5\" target=\"_blank\">US official says Nvidia has begun shipping powerful H200 AI chips to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-14T19:22:42+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Nvidia, Micron, and other chip players are poised to become cash-producing machines - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWjExaFFrQlFRbnltYUNNQWkzRFh3dDRUVy1VTzl5NFFHV0JTX250TXdYTld4cU1xR0JkNUtteVVFNVhQV0R0ZGNtZEt2bkFKVUZ6Wkpzcml1c2JZSVg0cHNLdFp6Q21HVFJSejlYTEZ1T0NWVk5jcVZ1bGVIbTJ5MVQyeHpDdTZra283UnZFaEdfemRVVHlkX1J4MzBjU1Bfbm5HeENsTDJRWS16SkVRallOY1QxMnZ2bzd5UEhZT0plVFBpaXVlR3doUGVFUHVpbVpBeg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWjExaFFrQlFRbnltYUNNQWkzRFh3dDRUVy1VTzl5NFFHV0JTX250TXdYTld4cU1xR0JkNUtteVVFNVhQV0R0ZGNtZEt2bkFKVUZ6Wkpzcml1c2JZSVg0cHNLdFp6Q21HVFJSejlYTEZ1T0NWVk5jcVZ1bGVIbTJ5MVQyeHpDdTZra283UnZFaEdfemRVVHlkX1J4MzBjU1Bfbm5HeENsTDJRWS16SkVRallOY1QxMnZ2bzd5UEhZT0plVFBpaXVlR3doUGVFUHVpbVpBeg?oc=5\" target=\"_blank\">Nvidia, Micron, and other chip players are poised to become cash-producing machines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-13T15:02:32+00:00",
+      "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdWd2RUZkOHBLZ3lpeVdGMFZCT1Vpd2FiUXR6c0xWMGhUMkwxLUtVY1dSdnlJNGVKMVN2aTVpNlA4UHJNQUJQSGJiNTVsemVvZ0lEakxvOG1kU2tTeXptLW91Tm1GbmtlSjg2dWlOdkXSAXZBVV95cUxQWVdMZURKQTVEMER2bE8wTmtMczA0NzBDa3NjMGV4aUdRNVdoT1Z6QlA3cFoxYnlOak8ta282ZWU1NnZLYk9oT3lYNzlPYW8xZmh3eVE2aTRmTDFxZXByU3FueERPT0wzNDg4dGpMazA1U0RjVEJn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBZdWd2RUZkOHBLZ3lpeVdGMFZCT1Vpd2FiUXR6c0xWMGhUMkwxLUtVY1dSdnlJNGVKMVN2aTVpNlA4UHJNQUJQSGJiNTVsemVvZ0lEakxvOG1kU2tTeXptLW91Tm1GbmtlSjg2dWlOdkXSAXZBVV95cUxQWVdMZURKQTVEMER2bE8wTmtMczA0NzBDa3NjMGV4aUdRNVdoT1Z6QlA3cFoxYnlOak8ta282ZWU1NnZLYk9oT3lYNzlPYW8xZmh3eVE2aTRmTDFxZXByU3FueERPT0wzNDg4dGpMazA1U0RjVEJn?oc=5\" target=\"_blank\">U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-14T16:50:28+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "NVIDIA Drops 50% of Asian AI Chip Clients in China Crackdown - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFhuQnlDS1paWUxwSDVTSXN5YUFQU3IwXzlxWjkyd0VOZVFwT3lPVHpkUkxmRDMxOU9qLVdHY2ZGa29WM2s4UUxjQ0p1bUdMZWltblR5SldsODhEbG1RTUxuTzFVZzR4X2JrTGJlSW9GMk9jNHVidjJXRUFOekNRZFVtbTRrMnpEWjRlWmtJYjE4dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFhuQnlDS1paWUxwSDVTSXN5YUFQU3IwXzlxWjkyd0VOZVFwT3lPVHpkUkxmRDMxOU9qLVdHY2ZGa29WM2s4UUxjQ0p1bUdMZWltblR5SldsODhEbG1RTUxuTzFVZzR4X2JrTGJlSW9GMk9jNHVidjJXRUFOekNRZFVtbTRrMnpEWjRlWmtJYjE4dw?oc=5\" target=\"_blank\">NVIDIA Drops 50% of Asian AI Chip Clients in China Crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-15T11:50:22+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSVEwcFBVNldpVFBRMDhJZkZBbmF3eE5GelZldTVIWlRReDJVMG9TMFA2S243QkgxZ3hJelJMYW1naUs3NFRISzZlb2x1ZC1mM2thWUI2NTlUVFc4WEhwaThWQ3F5blF5V3lMMGVQYXF3UHdBcHpmWlZwOWNBejRtazlndVBvU0lmNmMzXzliTVc1RkhzYk5taWpCNXY3cEotck52U0tfVTFmREhrdC1RNjBQQ2tscGRFNGp1T2cwRmpOVVZ4WXFLX01wM1hhNVZP?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSVEwcFBVNldpVFBRMDhJZkZBbmF3eE5GelZldTVIWlRReDJVMG9TMFA2S243QkgxZ3hJelJMYW1naUs3NFRISzZlb2x1ZC1mM2thWUI2NTlUVFc4WEhwaThWQ3F5blF5V3lMMGVQYXF3UHdBcHpmWlZwOWNBejRtazlndVBvU0lmNmMzXzliTVc1RkhzYk5taWpCNXY3cEotck52U0tfVTFmREhrdC1RNjBQQ2tscGRFNGp1T2cwRmpOVVZ4WXFLX01wM1hhNVZP?oc=5\" target=\"_blank\">Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-14T10:00:00+00:00",
       "source": "Yahoo Finance"
     },
     {
       "title": "Here are Tuesday's biggest analyst calls: Nvidia, SK Hynix, Apple, SpaceX, Broadcom, AMD, Netflix & more - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUFaU2NFRWJJMDlvSVBIUU1MYi1xZnhBWGpydkRJSjM3MXRwNlNKcWdpdl9pZS1McWxaYTR5SE9LR1BJcUlqdGVnaWJ2TkpNb0E5NV9qRjFjRzdCYUU3aHNvSHd4R3JnaUFaeGR6Y1lGZ29IdTZrdmpXWmZRdVN1NlQyTVAtQldKUi0yRWo1TnVjTFlkTS1MNzZLaklEQVlqWV9fZw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORUFaU2NFRWJJMDlvSVBIUU1MYi1xZnhBWGpydkRJSjM3MXRwNlNKcWdpdl9pZS1McWxaYTR5SE9LR1BJcUlqdGVnaWJ2TkpNb0E5NV9qRjFjRzdCYUU3aHNvSHd4R3JnaUFaeGR6Y1lGZ29IdTZrdmpXWmZRdVN1NlQyTVAtQldKUi0yRWo1TnVjTFlkTS1MNzZLaklEQVlqWV9fZw?oc=5\" target=\"_blank\">Here are Tuesday's biggest analyst calls: Nvidia, SK Hynix, Apple, SpaceX, Broadcom, AMD, Netflix & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBlZEltWTBqVG9Wd0kwbklMU3dRM29kT3VFYl9EVUdaNDZHWUo4QjJwUTNDZVBVNG5vNVNmWTJSNzBuZVVZZGlDZi05MHhPWV9ZbE5vcnFZbFFPRVpTRnRtcU1lLWs2TTdVYk5CdlJJYzNvNk14dGxyVDZadnk?oc=5\" target=\"_blank\">Nvidia Stock Isn’t Getting the Boost It Should from Big AI Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3p4ODhLek42RXl4YWtPY3dEeHB0TXphb0pySXphNk40TWRROWxqZm4zd3d1SUtOR0hDTVFoYUpva0tORnQ1azJQNW5fNWxMeVkzX0R5UlRaSkttLWh5ZjQwZUpDTjBQNGFHdzE4SWUzakRfNThIQVA1WUZvX01HWlBfX256YnVwUmY1Tjc5a1E0WUdteGdFWV9ON05YcGs?oc=5\" target=\"_blank\">Could This \"Magnificent Seven\" Stock End Up Being Nvidia's Biggest Rival?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORUFaU2NFRWJJMDlvSVBIUU1MYi1xZnhBWGpydkRJSjM3MXRwNlNKcWdpdl9pZS1McWxaYTR5SE9LR1BJcUlqdGVnaWJ2TkpNb0E5NV9qRjFjRzdCYUU3aHNvSHd4R3JnaUFaeGR6Y1lGZ29IdTZrdmpXWmZRdVN1NlQyTVAtQldKUi0yRWo1TnVjTFlkTS1MNzZLaklEQVlqWV9fZw?oc=5\" target=\"_blank\">Here are Tuesday's biggest analyst calls: Nvidia, SK Hynix, Apple, SpaceX, Broadcom, AMD, Netflix & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWdJajhZM1NpOFFvV2daaDRyR1lSbk12cXRrSk9sM3RYdWdQQnBuVm5VQmQ0M3RFV1dxV29lLUhXU21zSzNtZWpFYUdhWUJqakYtV1lVaG5ZWk1QOUstMnVwb0NPWVVjMXJfZHgzZ2ZjejF2VF80VmpLYVhqRHBidWRSMkpMYzNJTFpYQ2Qta0hhUQ?oc=5\" target=\"_blank\">Where Will Nvidia Stock Be in 2030?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLdG1QYWhwUEpPdk5aaTVXMXJjM1FIMUhiLU9sVFl1a0lYb2lsUUVBZFdWUUVNM0xFTmRhMlV3ZmpqMVFmSFRVZjVZc2ZodkNsWDN5dUZaZDAzUEV2RTQ3bEk2QVV4cjBDYXZPNXFxa2NmRzQ?oc=5\" target=\"_blank\">Nvidia Stock Is Fighting Back Against Chip Laggard Tag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li></ol>",
       "published": "2026-07-14T12:26:02+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Ellison Falls Behind Nvidia’s Huang As Eighth Richest - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzR2UjdqTXZOeEVaN2dkalBRTGdNb0wweDN2R0xLTHhKS3kwa2xaX1Q1Y3E4dlZhZTBFYUZmSktWUUtGOU1GSWVQUGRGU2RrWC1uVUdZQWZSaThnTE5Jc1VQWFpqbWpkamRYTWxwblN3YzFTVDA1ZUtUUkFoU1A2YUlaZEpfVnB4ay1URDdoZ0E2MEVTSko4c3J6aUNzYTk1LVhJTUpYaFpPeXRlS2pjQ2JSemNyYWhVODhoRjFLQXZqcTZtTjRkU1NuWjR0YWxocmpndkdRRTBlQWttaWJ3MXhPSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzR2UjdqTXZOeEVaN2dkalBRTGdNb0wweDN2R0xLTHhKS3kwa2xaX1Q1Y3E4dlZhZTBFYUZmSktWUUtGOU1GSWVQUGRGU2RrWC1uVUdZQWZSaThnTE5Jc1VQWFpqbWpkamRYTWxwblN3YzFTVDA1ZUtUUkFoU1A2YUlaZEpfVnB4ay1URDdoZ0E2MEVTSko4c3J6aUNzYTk1LVhJTUpYaFpPeXRlS2pjQ2JSemNyYWhVODhoRjFLQXZqcTZtTjRkU1NuWjR0YWxocmpndkdRRTBlQWttaWJ3MXhPSQ?oc=5\" target=\"_blank\">Ellison Falls Behind Nvidia’s Huang As Eighth Richest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-07-13T19:47:13+00:00",
-      "source": "Forbes"
+      "title": "Jensen Huang still steps in to settle internal fights over Nvidia's scarce AI chips, executive says - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1E3M2xtTmt0NlUyZUFzdFZ5TVpSUnBSWC1oQnFQX1QxMUplT3d6T0hxcnNTNTktLUV6eUMxM3V0WjV5SDJydVV3eUpnZ3FBVWZYODNXdnNpSnRvUW11N01yOEdFVmNzMHJna2d0VTRXRUtzNFJLMXNtcjk2RWVYSjJkRDNSMjZiM2VlaFFRUVdCSHhIOGxiNjVqckZwcmtU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1E3M2xtTmt0NlUyZUFzdFZ5TVpSUnBSWC1oQnFQX1QxMUplT3d6T0hxcnNTNTktLUV6eUMxM3V0WjV5SDJydVV3eUpnZ3FBVWZYODNXdnNpSnRvUW11N01yOEdFVmNzMHJna2d0VTRXRUtzNFJLMXNtcjk2RWVYSjJkRDNSMjZiM2VlaFFRUVdCSHhIOGxiNjVqckZwcmtU?oc=5\" target=\"_blank\">Jensen Huang still steps in to settle internal fights over Nvidia's scarce AI chips, executive says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-07-15T12:25:43+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczFNRGZPUlo3c2dmbW1JbHp3alZlNkxQeFdfOWdPZXU4UFBiV1ZKNWplWFZsa3NGVUE3aXlaVHJHNWlaUzZ5SmwxQ3pza0Zvd2dYT2wwVmhoQnR4Z0pYdlJ0T3FOcXJzeGZXMVdyNzV1MHNQaVAtOWRubEh1ZGFmMXRqdHZNRjV4bGlmMkcwTDZ5UjJaQS1wZzFNaFJZalpuWnhNdS16MVllcURhWG1WamRtX28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNczFNRGZPUlo3c2dmbW1JbHp3alZlNkxQeFdfOWdPZXU4UFBiV1ZKNWplWFZsa3NGVUE3aXlaVHJHNWlaUzZ5SmwxQ3pza0Zvd2dYT2wwVmhoQnR4Z0pYdlJ0T3FOcXJzeGZXMVdyNzV1MHNQaVAtOWRubEh1ZGFmMXRqdHZNRjV4bGlmMkcwTDZ5UjJaQS1wZzFNaFJZalpuWnhNdS16MVllcURhWG1WamRtX28?oc=5\" target=\"_blank\">Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-07-14T06:17:00+00:00",
+      "title": "Nokia to Sell Nvidia-Powered AI Mobile Network Gear From 2027 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTl2cG55dmJJLUtja1A5RlBLeGE5SDVQQ21tWGEzWXpQNExCa0RKeTFrRGxkTW0tVlhrM0pfVjR6V3NqVW5yY3NwVFdGMjFMVHU5dGgyUklnNHR2ajhVdG9Sdjhtd0pIV2lWem1hZ0NnbkplQVdObjVMeWRkc1cxc0lpTHB1aE54Q0JqRmZrbTU0QnR5eHZvTzRYWjZaSTZVd2N2aVlSeVE4RmlLTjVFdnd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTl2cG55dmJJLUtja1A5RlBLeGE5SDVQQ21tWGEzWXpQNExCa0RKeTFrRGxkTW0tVlhrM0pfVjR6V3NqVW5yY3NwVFdGMjFMVHU5dGgyUklnNHR2ajhVdG9Sdjhtd0pIV2lWem1hZ0NnbkplQVdObjVMeWRkc1cxc0lpTHB1aE54Q0JqRmZrbTU0QnR5eHZvTzRYWjZaSTZVd2N2aVlSeVE4RmlLTjVFdnd3?oc=5\" target=\"_blank\">Nokia to Sell Nvidia-Powered AI Mobile Network Gear From 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-07-15T07:00:00+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Exclusive: Behind Google’s TPU Ground War to Lure Nvidia’s Most Loyal Customers - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkI4RlMzMzZVUERPMXh4a25kWjllUDBwM3UtSTB5UjhnVFE1cHlPajdZWm5BU0lUd1dxTTlKWU9DNjBXNlhaSmtXeVJWTEVoNHRtSDdrcEEzRk9oZUZBSjN2Uk5SYi1zY1JHYjduV0RtN1NuREtJVm5seXk0SFoyd1ZUMVhZNURzNFNtUGtXaExWbE1fdFNCNUc0aDU0bkNRV2taQUFVdksyeW5nODVmdTdxUXBMbmVEeGln?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkI4RlMzMzZVUERPMXh4a25kWjllUDBwM3UtSTB5UjhnVFE1cHlPajdZWm5BU0lUd1dxTTlKWU9DNjBXNlhaSmtXeVJWTEVoNHRtSDdrcEEzRk9oZUZBSjN2Uk5SYi1zY1JHYjduV0RtN1NuREtJVm5seXk0SFoyd1ZUMVhZNURzNFNtUGtXaExWbE1fdFNCNUc0aDU0bkNRV2taQUFVdksyeW5nODVmdTdxUXBMbmVEeGln?oc=5\" target=\"_blank\">Exclusive: Behind Google’s TPU Ground War to Lure Nvidia’s Most Loyal Customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-07-13T15:00:00+00:00",
-      "source": "The Information"
+      "title": "Nokia says long-term 6G is not doable without Nvidia - Light Reading",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFlOVE8wbXIwTm0tOVYyY0Y4RDI5SHlyVncySml0dXkzb0paVnNrYWYyUEZSMnE0aVlJTC1zV01BZm5hU1ZVX1BBVUpSc2hwc21abnZSanZjM05YSWFsc3luRU9YbG5lMFZSeWJ4MlgwenZDbW5vMVQwT0dobVhCUTdNX3BCODlSa1lYTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFlOVE8wbXIwTm0tOVYyY0Y4RDI5SHlyVncySml0dXkzb0paVnNrYWYyUEZSMnE0aVlJTC1zV01BZm5hU1ZVX1BBVUpSc2hwc21abnZSanZjM05YSWFsc3luRU9YbG5lMFZSeWJ4MlgwenZDbW5vMVQwT0dobVhCUTdNX3BCODlSa1lYTA?oc=5\" target=\"_blank\">Nokia says long-term 6G is not doable without Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Light Reading</font>",
+      "published": "2026-07-15T03:38:55+00:00",
+      "source": "Light Reading"
     }
   ],
   "product_launches": [
-    {
-      "title": "CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZjX1hyR096ZHZ3TEd3bTE2T1V1MWh4czFzTjBaNVg1bXQ3Z19WRlZnMHQ3dlN0bDYwbTVjbGpDRnVqdFJBMVU4TDRYNnJiNmZRZzlGSWNtcnhWREdKVWlpTDhjM2ZBcGMxel85bm4yWmhSbEF6aDhFNTlydWNIT2VxN3ZUOUNFdlNZTkQ0YmFkMlNJRFlXTjlVRHN6a1Q3NVYtazc5eXEzYjR3VW5UdDFKck9DbkpLclAtdW5NaDZNTDdZTUkwX0FTLXZmd2lYaVluVzVhWW5HWVVhWktuWWF5VG1EUFpERGFQMW5aSHQ?oc=5\" target=\"_blank\">CRDO Shares Garner Retail Attention Amid New Product Launches, Nvidia CEO Comments On Copper Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
-      "published": "2026-07-12T20:51:06+00:00",
-      "source": "Stocktwits"
-    },
     {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-04-14T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia’s $100 Billion Revenue Still Accelerates: Jensen Huang Personally Steps In to Defend, Crushing New Product Delay and ASIC Encroachment Rumors - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0QwZk8zd1ROUEpzaThINlZVeExIcjc5UjBWdXltSmVTb0JQemlKTjVKSnhqS3gwNTJqblZjOHFXWEZqT25lWkc1c0pjNTQ0dGFOMGhRaDN6Um1tOEhKVTJNRUFJWmtDV1pZdU1vaTAtU0NHcGJHMGhaaEowdVgyc3dLOGFTZndiWWRJSEpONGotc2ZVM2xIQ2tIV2dRY21sQVlBRk8wVEt4QVUxSU02U1VZX2VBVzhNRWJlZXAzaElWS2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0QwZk8zd1ROUEpzaThINlZVeExIcjc5UjBWdXltSmVTb0JQemlKTjVKSnhqS3gwNTJqblZjOHFXWEZqT25lWkc1c0pjNTQ0dGFOMGhRaDN6Um1tOEhKVTJNRUFJWmtDV1pZdU1vaTAtU0NHcGJHMGhaaEowdVgyc3dLOGFTZndiWWRJSEpONGotc2ZVM2xIQ2tIV2dRY21sQVlBRk8wVEt4QVUxSU02U1VZX2VBVzhNRWJlZXAzaElWS2c?oc=5\" target=\"_blank\">Nvidia’s $100 Billion Revenue Still Accelerates: Jensen Huang Personally Steps In to Defend, Crushing New Product Delay and ASIC Encroachment Rumors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
-      "published": "2026-07-13T08:34:08+00:00",
-      "source": "TradingKey"
     },
     {
       "title": "Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments - Palantir",
@@ -91,25 +77,35 @@
       "source": "Palantir"
     },
     {
+      "title": "Nvidia’s $100 Billion Revenue Still Accelerates: Jensen Huang Personally Steps In to Defend, Crushing New Product Delay and ASIC Encroachment Rumors - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0QwZk8zd1ROUEpzaThINlZVeExIcjc5UjBWdXltSmVTb0JQemlKTjVKSnhqS3gwNTJqblZjOHFXWEZqT25lWkc1c0pjNTQ0dGFOMGhRaDN6Um1tOEhKVTJNRUFJWmtDV1pZdU1vaTAtU0NHcGJHMGhaaEowdVgyc3dLOGFTZndiWWRJSEpONGotc2ZVM2xIQ2tIV2dRY21sQVlBRk8wVEt4QVUxSU02U1VZX2VBVzhNRWJlZXAzaElWS2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0QwZk8zd1ROUEpzaThINlZVeExIcjc5UjBWdXltSmVTb0JQemlKTjVKSnhqS3gwNTJqblZjOHFXWEZqT25lWkc1c0pjNTQ0dGFOMGhRaDN6Um1tOEhKVTJNRUFJWmtDV1pZdU1vaTAtU0NHcGJHMGhaaEowdVgyc3dLOGFTZndiWWRJSEpONGotc2ZVM2xIQ2tIV2dRY21sQVlBRk8wVEt4QVUxSU02U1VZX2VBVzhNRWJlZXAzaElWS2c?oc=5\" target=\"_blank\">Nvidia’s $100 Billion Revenue Still Accelerates: Jensen Huang Personally Steps In to Defend, Crushing New Product Delay and ASIC Encroachment Rumors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
+      "published": "2026-07-13T08:34:08+00:00",
+      "source": "TradingKey"
+    },
+    {
       "title": "After years in CEO Jensen Huang's orbit, these Nvidia veterans are building a startup community of their own - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmo4M1NNRVRIdFgyLVJaak9YdWlIM0o3blAzNm5OZHhvdTE1UGo2VDlrWmF1MUNOUjl4anVKVG1ielc4SFk0Wno3c2VQajZ4RmZfQ3J1UzVQQURleXloMjZEbjBnclF1WjNPbzVmN21ueWRwWTFEUDAtc05Oa3UtT05EdHRCZ2tHUkd4cU44cWRPV2Z3c0gyNQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmo4M1NNRVRIdFgyLVJaak9YdWlIM0o3blAzNm5OZHhvdTE1UGo2VDlrWmF1MUNOUjl4anVKVG1ielc4SFk0Wno3c2VQajZ4RmZfQ3J1UzVQQURleXloMjZEbjBnclF1WjNPbzVmN21ueWRwWTFEUDAtc05Oa3UtT05EdHRCZ2tHUkd4cU44cWRPV2Z3c0gyNQ?oc=5\" target=\"_blank\">After years in CEO Jensen Huang's orbit, these Nvidia veterans are building a startup community of their own</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-06-21T07:00:00+00:00",
       "source": "Business Insider"
+    },
+    {
+      "title": "Nvidia Offers New Cards. Trading Cards, That Is - PCMag Middle East",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlEtMk1QT2Faamx2VXd2bVI4VWpMa24zNnlaUmZjSXdjR1NQNElDREwzUXRiRTctNk5ldnQwbTFfa3kzTXpBblh2WVM1QlhKS2hPNXdIRF9LTUc1R2hRX2MwRXEzV0ljQTE5TkQzYXF5eGdrUlpMa0ZxU1FBUXFUVmpqR0tFdURVR1hYRVY0RVh0dXZl?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlEtMk1QT2Faamx2VXd2bVI4VWpMa24zNnlaUmZjSXdjR1NQNElDREwzUXRiRTctNk5ldnQwbTFfa3kzTXpBblh2WVM1QlhKS2hPNXdIRF9LTUc1R2hRX2MwRXEzV0ljQTE5TkQzYXF5eGdrUlpMa0ZxU1FBUXFUVmpqR0tFdURVR1hYRVY0RVh0dXZl?oc=5\" target=\"_blank\">Nvidia Offers New Cards. Trading Cards, That Is</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag Middle East</font>",
+      "published": "2026-07-10T17:49:59+00:00",
+      "source": "PCMag Middle East"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-13",
-      "close": 203.52999877929688
+      "date": "2026-07-14",
+      "close": NaN
     },
     "history": [
-      {
-        "date": "2026-07-02",
-        "close": 194.8300018310547
-      },
       {
         "date": "2026-07-06",
         "close": 195.5500030517578
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-13",
         "close": 203.52999877929688
+      },
+      {
+        "date": "2026-07-14",
+        "close": NaN
       }
     ],
     "name": "NVIDIA Corporation"
