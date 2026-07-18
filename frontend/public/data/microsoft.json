@@ -2,22 +2,8 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-07-17T13:04:26.676114+00:00",
+  "fetched_at": "2026-07-18T12:51:57.319941+00:00",
   "news": [
-    {
-      "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5\" target=\"_blank\">Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-16T22:51:12+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Exclusive: Microsoft Preps Mythos-Like AI Bug Finder - The Information",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnBuODhrS0ZzTDRlLWJxOEtpY2ZTOE1WS2NtelhUdkdMM0ZoTnNtZ1NPS0lLd3FtNm03azU5Qm9HVHotT0ZEVE5aSk5PMmxZazVYd2huV1JXQTJkTWphRFVPM1lENDZpVXhySG0zbnhzUUh2RUFYT01uUTlUbERXUURnRHRMSXNabDIzZWp4V3QwYWJXaVRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnBuODhrS0ZzTDRlLWJxOEtpY2ZTOE1WS2NtelhUdkdMM0ZoTnNtZ1NPS0lLd3FtNm03azU5Qm9HVHotT0ZEVE5aSk5PMmxZazVYd2huV1JXQTJkTWphRFVPM1lENDZpVXhySG0zbnhzUUh2RUFYT01uUTlUbERXUURnRHRMSXNabDIzZWp4V3QwYWJXaVRR?oc=5\" target=\"_blank\">Exclusive: Microsoft Preps Mythos-Like AI Bug Finder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-07-16T22:05:00+00:00",
-      "source": "The Information"
-    },
     {
       "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files - The Hacker News",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuU2pMb1kyb0FYMGIwcWxfOTY3RVZ3eXFwWWxQa3czcnVFOTNKMTIxanE1QkNsT3ZXOFRJS2p2N0pmWHpKQjY1OW4xenpiRkQ2NWpac3hFZXd2dUdwMm5wS1l1OGVYeGc1X1cxZjZ0Z2VjTWQtaG9YcjB2dXozdw?oc=5",
@@ -26,49 +12,56 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Microsoft (MSFT) Turns to In-House AI Models to Cut Costs and Reduce Reliance on Rivals - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObkJDYWNTRXl4WExpRGpmRi05OVRHdGVhT3dXZFUzaWN5TUc5RGFtYWtFOFZFN254aDE0ak1acExTU1BTZEphOGc2dW5ZSW54N2NmV2xaWHRwbG0yaFFEQjBsS0ZqQVJwRDZLeUF6eGdrbUJnczJITkVPT0wzNDF2eTZxTlVTUUlCdUFRTVVfTnp0NmhubllpTw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObkJDYWNTRXl4WExpRGpmRi05OVRHdGVhT3dXZFUzaWN5TUc5RGFtYWtFOFZFN254aDE0ak1acExTU1BTZEphOGc2dW5ZSW54N2NmV2xaWHRwbG0yaFFEQjBsS0ZqQVJwRDZLeUF6eGdrbUJnczJITkVPT0wzNDF2eTZxTlVTUUlCdUFRTVVfTnp0NmhubllpTw?oc=5\" target=\"_blank\">Microsoft (MSFT) Turns to In-House AI Models to Cut Costs and Reduce Reliance on Rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-16T18:18:22+00:00",
+      "title": "\"Not employee surveillance,\" Microsoft defends Teams' new location tracking feature, now rolling out - Windows Latest",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1haeHdHVEtidkNjLWpBMUd5T0lSclBzZEZPOFVFOEk5bWJabVZaTkJIcmxVWm1QWEFxNHBXcFRVQTNKclY3SWVib0s1bVhzaEo2VDFQN2ZsWkJZQ3o3NF9QT3kwb1dLTjZnMXlfLTNpcE03emNRS3FLZ3hESUxfZF9kZlFIWTlWenFCY0kzaDlWWktjMl9QeGgwODhfT3otMmpsSzNkUHZjem1kZkpRNjlMV2tQazVEMUVxVnUzY3NuOUF6bGlPd1hlbVg2ZHhrQnEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1haeHdHVEtidkNjLWpBMUd5T0lSclBzZEZPOFVFOEk5bWJabVZaTkJIcmxVWm1QWEFxNHBXcFRVQTNKclY3SWVib0s1bVhzaEo2VDFQN2ZsWkJZQ3o3NF9QT3kwb1dLTjZnMXlfLTNpcE03emNRS3FLZ3hESUxfZF9kZlFIWTlWenFCY0kzaDlWWktjMl9QeGgwODhfT3otMmpsSzNkUHZjem1kZkpRNjlMV2tQazVEMUVxVnUzY3NuOUF6bGlPd1hlbVg2ZHhrQnEw?oc=5\" target=\"_blank\">\"Not employee surveillance,\" Microsoft defends Teams' new location tracking feature, now rolling out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
+      "published": "2026-07-17T19:51:05+00:00",
+      "source": "Windows Latest"
+    },
+    {
+      "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5\" target=\"_blank\">Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-16T22:51:12+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft will straight up give you a free pair of Sony XM6 headphones right now - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JUUdQWjlxUHpmREFWd3VPclRhWGUyc05HR0Z0VjlRenNkWEhsR19sSlZ3U1lpendwTEpiemxGcVBWNmctRU1oYXh6UVMweGUxdVVlQWdhWi0tNWxyVVM0Uy1NdExHb1loOHFkUGpn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1JUUdQWjlxUHpmREFWd3VPclRhWGUyc05HR0Z0VjlRenNkWEhsR19sSlZ3U1lpendwTEpiemxGcVBWNmctRU1oYXh6UVMweGUxdVVlQWdhWi0tNWxyVVM0Uy1NdExHb1loOHFkUGpn?oc=5\" target=\"_blank\">Microsoft will straight up give you a free pair of Sony XM6 headphones right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-07-18T09:30:37+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDY1M2ZhRi1zNzlpWFIwSXN2eUFRZFA1aFA3eVNodjF3SzVXNzUwNGhtdmZEQ251TzB4RlgxTkNCRzR0YjJRcG1qeWVxRW9HY1Azb196VVBFMnpEUy1GUDZMZE9ocGRwcTRibU1OV0xBb2EtZDVhb0FSQm9RQzVRUEw4dWVXN3l0TDVWY3NHTnJVRzg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDY1M2ZhRi1zNzlpWFIwSXN2eUFRZFA1aFA3eVNodjF3SzVXNzUwNGhtdmZEQ251TzB4RlgxTkNCRzR0YjJRcG1qeWVxRW9HY1Azb196VVBFMnpEUy1GUDZMZE9ocGRwcTRibU1OV0xBb2EtZDVhb0FSQm9RQzVRUEw4dWVXN3l0TDVWY3NHTnJVRzg?oc=5\" target=\"_blank\">Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-07-17T13:30:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Why Microsoft Is Playing a Different AI Game Than Big Tech—and Cash Flow Is the Test - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1RCQk1SSmFjTUtSb181LVB0SHdUT2VDQlM2cHF0T3FaUWxVckZNMjdraVdRcUVqZEI5RDZZOHZqVi1Nd2J5QVNONHlBRFgyalR3NHJid01CUGFybWFUMHFyWTN0TFFPRlVEeVlQcWh6UlJlV1ZKcDRGV1F1MmtGOUtQVVplYlBISFUtWU9lUm5IQVpYM3diMVJLVEtLa1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1RCQk1SSmFjTUtSb181LVB0SHdUT2VDQlM2cHF0T3FaUWxVckZNMjdraVdRcUVqZEI5RDZZOHZqVi1Nd2J5QVNONHlBRFgyalR3NHJid01CUGFybWFUMHFyWTN0TFFPRlVEeVlQcWh6UlJlV1ZKcDRGV1F1MmtGOUtQVVplYlBISFUtWU9lUm5IQVpYM3diMVJLVEtLa1E?oc=5\" target=\"_blank\">Why Microsoft Is Playing a Different AI Game Than Big Tech—and Cash Flow Is the Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-16T16:00:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Why Nvidia turned to Microsoft for one of its biggest leadership hires in years - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmI1RnBIbEZLV3ROel9YalRFWDg2V3prYlU4NFU1bFBLOHFfUEVnS09iaS1mN21PSGk1SndIbEw5Sm9KdjIxMDBkR3BPblhWcE1CajJmT2FBZWI1UndWMGxnaDQ3SHhzTTJjSXhSUHFEX3Y2dm9mWUpobEFNYlh1cmtmWmIxZkJKSi1HbUVncnVzaWhrci1vajVndm9fZGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmI1RnBIbEZLV3ROel9YalRFWDg2V3prYlU4NFU1bFBLOHFfUEVnS09iaS1mN21PSGk1SndIbEw5Sm9KdjIxMDBkR3BPblhWcE1CajJmT2FBZWI1UndWMGxnaDQ3SHhzTTJjSXhSUHFEX3Y2dm9mWUpobEFNYlh1cmtmWmIxZkJKSi1HbUVncnVzaWhrci1vajVndm9fZGc?oc=5\" target=\"_blank\">Why Nvidia turned to Microsoft for one of its biggest leadership hires in years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-07-17T09:00:02+00:00",
-      "source": "Business Insider"
+      "title": "Hurricane student wins national Microsoft Word championship, advances to world stage - St. George News",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaDJvUlcwU1FGNl9zRlpxZXozbGk0eTFBRjcweXlRQzRrcDVpRU4yamVrQk5UV3c2ZDJwbmR6R1lZN2dRdzFmRUpEaU5rWkRZRXlZX0JHeXYwYXl3U2pSdngwdGhsUnZkTV94bENMXzV6LUZOQ3pNWlAtYUhZMXRfdTRQRGhWTmdzQnpiZzVCQ2xuVjN1QXY5QV8yNldHYlQwckNuajR6MUFRT01BYjRHN09EUUJ0RmphZmV2eEZXd0ExLUE0MUREeFpfanVJM2wzRzM1OFlLVjhuWUJhZ0Z3SVBLUmh4MjhwMEtScUFQYi1sWTEtWThIeEVkV2hWRFZrQTdkRXB4VFg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNaDJvUlcwU1FGNl9zRlpxZXozbGk0eTFBRjcweXlRQzRrcDVpRU4yamVrQk5UV3c2ZDJwbmR6R1lZN2dRdzFmRUpEaU5rWkRZRXlZX0JHeXYwYXl3U2pSdngwdGhsUnZkTV94bENMXzV6LUZOQ3pNWlAtYUhZMXRfdTRQRGhWTmdzQnpiZzVCQ2xuVjN1QXY5QV8yNldHYlQwckNuajR6MUFRT01BYjRHN09EUUJ0RmphZmV2eEZXd0ExLUE0MUREeFpfanVJM2wzRzM1OFlLVjhuWUJhZ0Z3SVBLUmh4MjhwMEtScUFQYi1sWTEtWThIeEVkV2hWRFZrQTdkRXB4VFg?oc=5\" target=\"_blank\">Hurricane student wins national Microsoft Word championship, advances to world stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. George News</font>",
+      "published": "2026-07-17T14:00:00+00:00",
+      "source": "St. George News"
     },
     {
-      "title": "Amsterdam activists throw acid at Microsoft datacenter project - The Register",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVBuaUtoOEtXNGdKREU4OTdmTHJDTXE1LTktbTJrdF9SMkd4bmpCRGFlcGtuOUdMQ241RGV4RTBMVERpXzZsWVctS2lGMER3VkdmQzIxdW1IQWVfRm5hdzlBMUxhaGRxcXdza2Jza1RGMmo0akdudlJ4WkoyckxXUEZaeXpNYUpYeF9rVndiVnJYUTk0RURsZ19IUWFLamJpbXNTWE1CcEl0bkVEazA2OWNRYmVxUWFzS1dv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVBuaUtoOEtXNGdKREU4OTdmTHJDTXE1LTktbTJrdF9SMkd4bmpCRGFlcGtuOUdMQ241RGV4RTBMVERpXzZsWVctS2lGMER3VkdmQzIxdW1IQWVfRm5hdzlBMUxhaGRxcXdza2Jza1RGMmo0akdudlJ4WkoyckxXUEZaeXpNYUpYeF9rVndiVnJYUTk0RURsZ19IUWFLamJpbXNTWE1CcEl0bkVEazA2OWNRYmVxUWFzS1dv?oc=5\" target=\"_blank\">Amsterdam activists throw acid at Microsoft datacenter project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
-      "published": "2026-07-16T21:04:35+00:00",
+      "title": "Microsoft cuts OneDrive support for older Windows 10 versions next month - The Register",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnB2WlRGYnRvRGc0OUNpekJkcFFKalJMWHc4V3JLeVl4dTVKZ05JRlY5ZmItN1ZqMlUtODlGMG56anR4eTZreUdGTjIzTkFDMkpWLTV5WkNjU0JpOTBTYmdqZ3hzbjY0YTUwQmVnV255bnBnQ2huRWJGSTdJaVdUREk5Wm1ZSW4tekQta2dEV1ZaVHlPbk1FS3BGaXFlbGVLVFFON1F3alZvYzRrdkR6YW1rU3NxbHd3cFI5ODNCMjRFNURzeFBuWFJmdTk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnB2WlRGYnRvRGc0OUNpekJkcFFKalJMWHc4V3JLeVl4dTVKZ05JRlY5ZmItN1ZqMlUtODlGMG56anR4eTZreUdGTjIzTkFDMkpWLTV5WkNjU0JpOTBTYmdqZ3hzbjY0YTUwQmVnV255bnBnQ2huRWJGSTdJaVdUREk5Wm1ZSW4tekQta2dEV1ZaVHlPbk1FS3BGaXFlbGVLVFFON1F3alZvYzRrdkR6YW1rU3NxbHd3cFI5ODNCMjRFNURzeFBuWFJmdTk?oc=5\" target=\"_blank\">Microsoft cuts OneDrive support for older Windows 10 versions next month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
+      "published": "2026-07-17T17:00:00+00:00",
       "source": "The Register"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGxqQlgwelNTQzBHWGNCLUVYWkIwMGdKd091YWY1X1c3dVFaZXM0Y2czcTZmRVJ0a1JhSXk1TUtLUjhFckJZOWxPbTY3UlY3V19zUU1VT3FDVG82MzFBaVlxUlZYUHpPeWRWOUtwOHBNaHkwdGdiT09zamRkQ25JT19VYzBEcXh3MWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGxqQlgwelNTQzBHWGNCLUVYWkIwMGdKd091YWY1X1c3dVFaZXM0Y2czcTZmRVJ0a1JhSXk1TUtLUjhFckJZOWxPbTY3UlY3V19zUU1VT3FDVG82MzFBaVlxUlZYUHpPeWRWOUtwOHBNaHkwdGdiT09zamRkQ25JT19VYzBEcXh3MWc?oc=5\" target=\"_blank\">Microsoft Patches a Record 570 Security Flaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Krebs on Security</font>",
-      "published": "2026-07-15T10:16:54+00:00",
-      "source": "Krebs on Security"
-    },
-    {
-      "title": "Unions take legal action against Microsoft for allegedly mishandling Xbox layoffs - Game Developer",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWI2bjkyU0ZXaWdMbHNsRl9xX0d0TFdLRFBtemk5REREbkI5NEoxTVM3ZFNmZVNiWGVFXzhOWGFBeFc0UU9McGp0NWlvTDhJNGdFcDIxWC1CZEFscTNDYVlscFI2bXZQclJDbENNYW95MTFWeWkzQjJqdXFzcWdDT0hTZ0lkcGcwQ2I1cER5WVJaWFBJMHJval9ZbUtfRDFMSFdfNXVVclN6Wjl6ZXNYQWJNV2otWWJHbkNuSWhRYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWI2bjkyU0ZXaWdMbHNsRl9xX0d0TFdLRFBtemk5REREbkI5NEoxTVM3ZFNmZVNiWGVFXzhOWGFBeFc0UU9McGp0NWlvTDhJNGdFcDIxWC1CZEFscTNDYVlscFI2bXZQclJDbENNYW95MTFWeWkzQjJqdXFzcWdDT0hTZ0lkcGcwQ2I1cER5WVJaWFBJMHJval9ZbUtfRDFMSFdfNXVVclN6Wjl6ZXNYQWJNV2otWWJHbkNuSWhRYw?oc=5\" target=\"_blank\">Unions take legal action against Microsoft for allegedly mishandling Xbox layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Game Developer</font>",
-      "published": "2026-07-16T22:15:25+00:00",
-      "source": "Game Developer"
     }
   ],
   "product_launches": [
-    {
-      "title": "Microsoft Readies AI Security Product to Challenge Anthropic's Claude Mitos - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4T3FEWWZvQTFYMmhrM01tSDBSUXVuZDA2Rnd0UmFCa0VWdDFSZW91c2FRd1FXQlFmN3lob3BmY3RRdXZkV1k3b1ZMTTRZOG5QZGdIMXJUZ3BhbklTT1FoQVJ1bzltYUVDVERyck1EcG9yMDNKaWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB4T3FEWWZvQTFYMmhrM01tSDBSUXVuZDA2Rnd0UmFCa0VWdDFSZW91c2FRd1FXQlFmN3lob3BmY3RRdXZkV1k3b1ZMTTRZOG5QZGdIMXJUZ3BhbklTT1FoQVJ1bzltYUVDVERyck1EcG9yMDNKaWc?oc=5\" target=\"_blank\">Microsoft Readies AI Security Product to Challenge Anthropic's Claude Mitos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-      "published": "2026-07-17T08:56:00+00:00",
-      "source": "finance.biggo.com"
-    },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
@@ -77,18 +70,18 @@
       "source": "Microsoft"
     },
     {
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, & Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
-      "published": "2026-07-15T19:41:00+00:00",
-      "source": "Encyclopedia Britannica"
+      "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
+      "published": "2026-05-19T07:00:00+00:00",
+      "source": "Windows Blog"
     },
     {
-      "title": "Introducing new Surface devices built for business and AI acceleration - blogs.windows.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blogs.windows.com</font>",
-      "published": "2026-05-19T07:00:00+00:00",
-      "source": "blogs.windows.com"
+      "title": "Microsoft Readies AI Security Product to Challenge Anthropic's Claude Mitos - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4T3FEWWZvQTFYMmhrM01tSDBSUXVuZDA2Rnd0UmFCa0VWdDFSZW91c2FRd1FXQlFmN3lob3BmY3RRdXZkV1k3b1ZMTTRZOG5QZGdIMXJUZ3BhbklTT1FoQVJ1bzltYUVDVERyck1EcG9yMDNKaWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB4T3FEWWZvQTFYMmhrM01tSDBSUXVuZDA2Rnd0UmFCa0VWdDFSZW91c2FRd1FXQlFmN3lob3BmY3RRdXZkV1k3b1ZMTTRZOG5QZGdIMXJUZ3BhbklTT1FoQVJ1bzltYUVDVERyck1EcG9yMDNKaWc?oc=5\" target=\"_blank\">Microsoft Readies AI Security Product to Challenge Anthropic's Claude Mitos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "published": "2026-07-17T08:56:00+00:00",
+      "source": "finance.biggo.com"
     },
     {
       "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
       "published": "2026-06-15T07:00:00+00:00",
       "source": "Search Engine Journal"
+    },
+    {
+      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5\" target=\"_blank\">NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-05-31T07:00:00+00:00",
+      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-16",
-      "close": 401.1000061035156
+      "date": "2026-07-17",
+      "close": 393.82000732421875
     },
     "history": [
-      {
-        "date": "2026-07-08",
-        "close": 383.3399963378906
-      },
       {
         "date": "2026-07-09",
         "close": 384.3599853515625
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-16",
         "close": 401.1000061035156
+      },
+      {
+        "date": "2026-07-17",
+        "close": 393.82000732421875
       }
     ],
     "name": "Microsoft Corporation"
