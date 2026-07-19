@@ -2,22 +2,8 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-07-18T12:52:02.138295+00:00",
+  "fetched_at": "2026-07-19T12:54:14.687913+00:00",
   "news": [
-    {
-      "title": "Exclusive | Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzJzUVBBblNkM3RGZThHNlZENmtWV1RrR0c5clhpM2hPOTBYNGo5a2IxLWdsUkpHeU1NUno5SFcyUHhyYUcwT01yT0p0ZUozM3RRUGdJRkhDdU91M0hWUmdUZ2RyMWNraFREaXhTTml3V3RBN25hR1NzNDRiZHY2UGhubmJMbS0wdHBTSTdUUVNwMzNkeHZRT202SjVfUkdvWldiNk5TSnI3aFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzJzUVBBblNkM3RGZThHNlZENmtWV1RrR0c5clhpM2hPOTBYNGo5a2IxLWdsUkpHeU1NUno5SFcyUHhyYUcwT01yT0p0ZUozM3RRUGdJRkhDdU91M0hWUmdUZ2RyMWNraFREaXhTTml3V3RBN25hR1NzNDRiZHY2UGhubmJMbS0wdHBTSTdUUVNwMzNkeHZRT202SjVfUkdvWldiNk5TSnI3aFE?oc=5\" target=\"_blank\">Exclusive | Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-07-17T17:41:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Amazon senior cloud executive departs after 18 years - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoU3p5WklMRHNYTk1ERDA1Q0xNdHpHT3pzbzhIZE1VMWNXU0VCQk5NbE9ZTU84a0xGcHpMd29WcHJFeHBMemhGaTZuUVZnT0gycXk1STBvQlhUc3d3emd5cVF1bUVHNzZobkZTVGZYcmlMdWtReW000gF8QVVfeXFMTVpSWHNnOGpidm9CRlJkSmE3dG5oLVc4RmttUXg0dDBZM3RXekJncTl6Q3dWWGZvRm9MNmZROGFFdE5XbGtpckZHMkd6VmlJeE84aFhJN3kwaFlsZ3hjdUc4Vkx6U1V4a01vVUlyUTE3U25nNDZJWG5TSzhTYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBoU3p5WklMRHNYTk1ERDA1Q0xNdHpHT3pzbzhIZE1VMWNXU0VCQk5NbE9ZTU84a0xGcHpMd29WcHJFeHBMemhGaTZuUVZnT0gycXk1STBvQlhUc3d3emd5cVF1bUVHNzZobkZTVGZYcmlMdWtReW000gF8QVVfeXFMTVpSWHNnOGpidm9CRlJkSmE3dG5oLVc4RmttUXg0dDBZM3RXekJncTl6Q3dWWGZvRm9MNmZROGFFdE5XbGtpckZHMkd6VmlJeE84aFhJN3kwaFlsZ3hjdUc4Vkx6U1V4a01vVUlyUTE3U25nNDZJWG5TSzhTYw?oc=5\" target=\"_blank\">Amazon senior cloud executive departs after 18 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-15T18:23:06+00:00",
-      "source": "CNBC"
-    },
     {
       "title": "Amazon Web Services customers receive bills for up to $1.5tn after global glitch - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3ppSkdhczlKUnFmenAwNlRCZGp3M2lkTi1GSFYxemRLRDZRdG1aV0UwUTlNbEI5eXo1OUdFeG9HZl9WTmE4SUF0UTkycnh5ZkZzVmJvYkY5TEtOazc3MXJDRkdzRmtZUUU2REg2ZzU2NXVNMEFHSTVGNkVjUUZYNWlMTUJlb2RHWTV0TnJ3OEpnRlhOVjVrVkVLWmZBTHg5NmhnbnEwbG9fMmNhb2JOTjU5LVdpaTQ?oc=5",
@@ -33,32 +19,46 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZlFzbzRDTE9iQlp0RXlZaEdKSm1OcE9CQi1jQWtkNDBKaTNjamRaMGRSQThySFRKazJ0S1cxZkVaNlZPc0txQ3FQdWo0S3E1cVJscktrNE82VmVwY19DNGhUdnZNSHNQekp2V3NXYkJHYWtkUDF4a3N5Z9IBgAFBVV95cUxQMTlVSE1qTTd5S082NU5UVGRXbnA1eUVEQWc4RVRxRWlBeFBfT2l1R2ZRYWprcGtMalZBQTJJbmxGWTNJdDZudmphdklSc2hYWWZINTdWbGdoX2hiSFVWWG5uNWNkX0J3Q0tJc1dkS2tGU1htbUdmSzh3NmhJcC15QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZlFzbzRDTE9iQlp0RXlZaEdKSm1OcE9CQi1jQWtkNDBKaTNjamRaMGRSQThySFRKazJ0S1cxZkVaNlZPc0txQ3FQdWo0S3E1cVJscktrNE82VmVwY19DNGhUdnZNSHNQekp2V3NXYkJHYWtkUDF4a3N5Z9IBgAFBVV95cUxQMTlVSE1qTTd5S082NU5UVGRXbnA1eUVEQWc4RVRxRWlBeFBfT2l1R2ZRYWprcGtMalZBQTJJbmxGWTNJdDZudmphdklSc2hYWWZINTdWbGdoX2hiSFVWWG5uNWNkX0J3Q0tJc1dkS2tGU1htbUdmSzh3NmhJcC15QQ?oc=5\" target=\"_blank\">Amazon's Zoox issues software recall after robotaxi drove into heavy smoke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-17T14:40:39+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Amazon wants to build $1 billion fulfillment hub in Holbrook - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlTUGRFa0J4aXZyYm0tOUVXY0g2ZzJDQ3pMbjZGYmwzb3F4NzlxV0lMa0xJQlpSRG1Fb1d1bkR6Zmc3NDFZc2dKMDl3TFlVMF9KQ0pZVzdrS2YzSXk2U1V5QmxzclJOczEwNi1Od1BCbHBpeUpMUnpvVGpfV1E5UFlQaGZwRzNGMzBaNURB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzlTUGRFa0J4aXZyYm0tOUVXY0g2ZzJDQ3pMbjZGYmwzb3F4NzlxV0lMa0xJQlpSRG1Fb1d1bkR6Zmc3NDFZc2dKMDl3TFlVMF9KQ0pZVzdrS2YzSXk2U1V5QmxzclJOczEwNi1Od1BCbHBpeUpMUnpvVGpfV1E5UFlQaGZwRzNGMzBaNURB?oc=5\" target=\"_blank\">Amazon wants to build $1 billion fulfillment hub in Holbrook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsday</font>",
-      "published": "2026-07-16T22:43:52+00:00",
-      "source": "Newsday"
-    },
-    {
-      "title": "My Friends Always Ask Me What to Buy at Amazon — These Are the 8 Products That Never Let Me Down from $8 - People.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDVVY4aXB5dkJ4Z1lJR21yaHhUX3NsYk03X1RyRV84ZU1wNlhaWUFucDZRdFVsR2FoekkzZWd3NHRsdUl4bWtoQ2FJNkJTLUZVLU9WZWFBc3MwSm9tbEg5NFJPcnFXOGxQQkRtS3pxYU1admFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBDVVY4aXB5dkJ4Z1lJR21yaHhUX3NsYk03X1RyRV84ZU1wNlhaWUFucDZRdFVsR2FoekkzZWd3NHRsdUl4bWtoQ2FJNkJTLUZVLU9WZWFBc3MwSm9tbEg5NFJPcnFXOGxQQkRtS3pxYU1admFE?oc=5\" target=\"_blank\">My Friends Always Ask Me What to Buy at Amazon — These Are the 8 Products That Never Let Me Down from $8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2026-07-17T10:15:00+00:00",
+      "title": "A Teacher Shared the Comfortable Dresses She Wears ‘All the Time,’ Including 1 That Always Gets Compliments - People.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlpadVQxU0wwcGQzd21wX1l2WTZRSmNZOTN5Z0c3VWZMVUdJYzZveDBIZ2QtVFdTeE9zV05qdkwzMWFJLXhzZm0temsyWmpYRXV0TnlDLXR5MWFfbmduMUpma0syQjVaLXdHMUoyUF95a0U4Rlh3OWhXbEF6OFljMlpB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZlpadVQxU0wwcGQzd21wX1l2WTZRSmNZOTN5Z0c3VWZMVUdJYzZveDBIZ2QtVFdTeE9zV05qdkwzMWFJLXhzZm0temsyWmpYRXV0TnlDLXR5MWFfbmduMUpma0syQjVaLXdHMUoyUF95a0U4Rlh3OWhXbEF6OFljMlpB?oc=5\" target=\"_blank\">A Teacher Shared the Comfortable Dresses She Wears ‘All the Time,’ Including 1 That Always Gets Compliments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-07-19T10:30:00+00:00",
       "source": "People.com"
     },
     {
-      "title": "Tech Moves: Former Amazon exec joins F5; Microsoft security CVP departs; Qualtrics adds leadership - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONllyVWlhVmdBVnBybkw1b3VfeG90bEs4enRtVGNvY0ZWNlY1Z0g5LTVvdGhibTVDcFdvekNjaDlTaEpFS0Z0WEN0dDZqcmFXWjVEVjY5VldTaDhpb0NoVWRZMkRwcE4tWWpHNXpDUTVOZVBsU3V1dXZ5d0ZkOUo1Q3dKeTBVRGNUYno3REZsUXd2cjRHaVdWSXo1ckxNaTNEeGZlSnMwX2xBdkNvQ2lwZHozREp4WDBCVWNrM09CUm1FYkRC?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxONllyVWlhVmdBVnBybkw1b3VfeG90bEs4enRtVGNvY0ZWNlY1Z0g5LTVvdGhibTVDcFdvekNjaDlTaEpFS0Z0WEN0dDZqcmFXWjVEVjY5VldTaDhpb0NoVWRZMkRwcE4tWWpHNXpDUTVOZVBsU3V1dXZ5d0ZkOUo1Q3dKeTBVRGNUYno3REZsUXd2cjRHaVdWSXo1ckxNaTNEeGZlSnMwX2xBdkNvQ2lwZHozREp4WDBCVWNrM09CUm1FYkRC?oc=5\" target=\"_blank\">Tech Moves: Former Amazon exec joins F5; Microsoft security CVP departs; Qualtrics adds leadership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-07-16T17:01:36+00:00",
-      "source": "GeekWire"
+      "title": "Shipping wars: Amazon is ‘aggressively’ going after Fedex and UPS, insiders say - Yahoo News New Zealand",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdG9qcjFlZHVUNkdwSU5ZcUlIUmo2cldtWjZqZXBRa185Vk9fcHZ5RkRBM2d6blJndmxzOGU1UDV6ZDFSYm5GZHcycUNvcUxhTlZJWUQ5Nk0yNlVRa25fd3RQTVNpRlFkNnZTSFRRVVo4UFU0NFdJMDZTTU9Uc3hDTm5LTkVZNDg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdG9qcjFlZHVUNkdwSU5ZcUlIUmo2cldtWjZqZXBRa185Vk9fcHZ5RkRBM2d6blJndmxzOGU1UDV6ZDFSYm5GZHcycUNvcUxhTlZJWUQ5Nk0yNlVRa25fd3RQTVNpRlFkNnZTSFRRVVo4UFU0NFdJMDZTTU9Uc3hDTm5LTkVZNDg?oc=5\" target=\"_blank\">Shipping wars: Amazon is ‘aggressively’ going after Fedex and UPS, insiders say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News New Zealand</font>",
+      "published": "2026-07-19T11:57:07+00:00",
+      "source": "Yahoo News New Zealand"
+    },
+    {
+      "title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5\" target=\"_blank\">Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-07-19T01:24:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "Ukraine strikes warehouses of ‘Russian Amazon’ in revenge attack - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzhfZXk3T3IyYWRyYmc2Q1htMkxOM3Q3UDc4YXdDckt0YWVuRlRyQlpzY2FGbFFDZlJXTnZpbkNoUlYzLVo2ZlMyaGVwVDVlSkQta0JJTmVNdGtPOFlyT0tNVVpCZTNRdEplOFdIcUd2bFgySEUyUk5kVFNSQWFrU2xTUDlFaVppTU9rc1FiRmw3U1dCbWhUeFA0WVQ0NEtKSVl6dXFUaXI0VzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzhfZXk3T3IyYWRyYmc2Q1htMkxOM3Q3UDc4YXdDckt0YWVuRlRyQlpzY2FGbFFDZlJXTnZpbkNoUlYzLVo2ZlMyaGVwVDVlSkQta0JJTmVNdGtPOFlyT0tNVVpCZTNRdEplOFdIcUd2bFgySEUyUk5kVFNSQWFrU2xTUDlFaVppTU9rc1FiRmw3U1dCbWhUeFA0WVQ0NEtKSVl6dXFUaXI0VzA?oc=5\" target=\"_blank\">Ukraine strikes warehouses of ‘Russian Amazon’ in revenge attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
+      "published": "2026-07-18T12:43:00+00:00",
+      "source": "The Telegraph"
+    },
+    {
+      "title": "Putin Humiliated as Drones Set Russia’s Amazon Ablaze in Moscow - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDRnNzhZejNJTG4tRXlXMXY5ZVJaN2dwNks3a0xkWlgzd3VQZ1Bta2h5S2xReG1lV2VoNjdxTHhuLVdfS1hhNlMwU20waURYM0g5ckNuLWVJcHZkRUlBSmxaS3o2WFpzY0dXTWhiNkJGcEpPbkhET0pSZzUxQkloMno2SGFyQnJxemFUM3Q1SVVVb0RjZ0UwMg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDRnNzhZejNJTG4tRXlXMXY5ZVJaN2dwNks3a0xkWlgzd3VQZ1Bta2h5S2xReG1lV2VoNjdxTHhuLVdfS1hhNlMwU20waURYM0g5ckNuLWVJcHZkRUlBSmxaS3o2WFpzY0dXTWhiNkJGcEpPbkhET0pSZzUxQkloMno2SGFyQnJxemFUM3Q1SVVVb0RjZ0UwMg?oc=5\" target=\"_blank\">Putin Humiliated as Drones Set Russia’s Amazon Ablaze in Moscow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+      "published": "2026-07-19T07:54:00+00:00",
+      "source": "The Daily Beast"
+    },
+    {
+      "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1JOMXAzc1ZCOHlqdE13aUNCNGVqbVBFRURBSkloZnVXYkFpbGJ3WGRxRFk5RTdQVmpGWHdIUlIxZUNVdXVKUmRPQlg3OHVZYnVPZkY1b0JYdTF0b3l1T19hMGI2VmR6T1VUOHNjenBxRkh2N0l3M1BtQkJyUWM4bEtSSFpvZl84?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1JOMXAzc1ZCOHlqdE13aUNCNGVqbVBFRURBSkloZnVXYkFpbGJ3WGRxRFk5RTdQVmpGWHdIUlIxZUNVdXVKUmRPQlg3OHVZYnVPZkY1b0JYdTF0b3l1T19hMGI2VmR6T1VUOHNjenBxRkh2N0l3M1BtQkJyUWM4bEtSSFpvZl84?oc=5\" target=\"_blank\">Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-07-16T15:12:35+00:00",
+      "source": "The New York Times"
     }
   ],
   "product_launches": [
@@ -66,7 +66,7 @@
       "title": "Apex Compliance Launches Amazon API Scanning for Marketing Compliance Review - newswire.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1haTTh3UmdXbEh6akxqN0pPeXhJdHlnT1NQYURZUzdXUTNMdGJiZ0pKZlhxUm5MTEpsUk53bjNCVlVYb2V2ZkxSX0xEU0xfM2ItdWZQckJUSVVzMW11elVzbV9LNDRrSFJFNEx2TzhLNFN0WWp0WjNqdV82V2QxRkxfTmZPZzJIMVJuQlFqVXJLcWRSUVBWUkhaOHN2R1QwRURWTmtCTnZwcmtu?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1haTTh3UmdXbEh6akxqN0pPeXhJdHlnT1NQYURZUzdXUTNMdGJiZ0pKZlhxUm5MTEpsUk53bjNCVlVYb2V2ZkxSX0xEU0xfM2ItdWZQckJUSVVzMW11elVzbV9LNDRrSFJFNEx2TzhLNFN0WWp0WjNqdV82V2QxRkxfTmZPZzJIMVJuQlFqVXJLcWRSUVBWUkhaOHN2R1QwRURWTmtCTnZwcmtu?oc=5\" target=\"_blank\">Apex Compliance Launches Amazon API Scanning for Marketing Compliance Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newswire.com</font>",
-      "published": "2026-07-06T16:55:00+00:00",
+      "published": "2026-07-06T07:00:00+00:00",
       "source": "newswire.com"
     },
     {
@@ -84,18 +84,18 @@
       "source": "About Amazon"
     },
     {
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5\" target=\"_blank\">Amazon launches an AI-powered audio Q&amp;A experience on product pages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-04-28T07:00:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products - bbwinc.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYWIxRnIwZ0NLVkJ4aWZrS1FqakhmQU9oeHJDMzFNdW96VGp4RWlRaU95Qk1GYkhhV1BvYm5xVmtaMHBxWk9uOXAzQlM5Y3ZvRE92bUlJRDhSQlBuNC1aUnltNjY0azVmZTRZNVRPdkFIQm1zdkFrV0I1VklwUXlfbDk5NDlCTXRGMlJlbXRNaVVZRjNrMUFNQXZXVkpLekY0TmpoUm83YVJMVDFVM2J5eWdqQ000NUtXSkJZZHExZ2FuVlNNZTlob1FjMkt0bFpMXzJaeDNTaV82SU9xSzRqNGZNbWNiX3BMNjZVMHo3RTJhQQ?oc=5\" target=\"_blank\">Bath & Body Works Officially Launches in Amazon’s U.S. Stores, Expanding Access to Its Iconic Fragrances and Most Loved Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbwinc.com</font>",
       "published": "2026-02-20T08:00:00+00:00",
       "source": "bbwinc.com"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3VIaC13YmJiTUxQSEkzenF2UVc4T29xSFNKS05vcVNPaFRjc3d4NGFYeE5fMHd6Z25fYXY2dENpU2JKOFJteGpWM2s5RHJmcXNqZlNSVC1OX3duYUVndHF6ZFRNZ2tubUwtYmRQNmdEdmRsdGpreGIxZ2cxZVI5MlRFbTBzY0YzYTNlckhUd3hZQk9yS2JZYVA0cjNSVjFERmg4?oc=5\" target=\"_blank\">Amazon launches an AI-powered audio Q&amp;A experience on product pages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-04-28T07:00:00+00:00",
+      "source": "TechCrunch"
     }
   ],
   "stock": {
