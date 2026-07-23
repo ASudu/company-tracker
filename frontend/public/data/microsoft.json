@@ -2,28 +2,14 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-07-22T13:21:18.511317+00:00",
+  "fetched_at": "2026-07-23T13:23:51.067486+00:00",
   "news": [
     {
-      "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral - France 24",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtTY3h3dlFnOTU1b1FmU3RqWm9rLVBzNEl0UUpPa09XdXJDOUZpUkg0NGExbVNoYTZZNEZvZVRHNFpIUFNkUW9pRnZickRNeXpYVjFCNVNhandjSXY3bkJndzd0Mi04b1BwZXZGcXRuSGZPNTAzY1VHWDF0YllLV1RGT01HWThHVU9VR1dqNkdRcHBxOWw3S1piX3ZMaDh3b0ZXOGswaW1EOW1oMWVlOS1fc1JIeUJkWE9JRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGtTY3h3dlFnOTU1b1FmU3RqWm9rLVBzNEl0UUpPa09XdXJDOUZpUkg0NGExbVNoYTZZNEZvZVRHNFpIUFNkUW9pRnZickRNeXpYVjFCNVNhandjSXY3bkJndzd0Mi04b1BwZXZGcXRuSGZPNTAzY1VHWDF0YllLV1RGT01HWThHVU9VR1dqNkdRcHBxOWw3S1piX3ZMaDh3b0ZXOGswaW1EOW1oMWVlOS1fc1JIeUJkWE9JRQ?oc=5\" target=\"_blank\">Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font>",
-      "published": "2026-07-21T14:40:47+00:00",
-      "source": "France 24"
-    },
-    {
-      "title": "Microsoft Deepens Ties With Mistral, Targeting Europe and Enterprise AI - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkpWTy02QlREc3pkUjRSZ2ZEa0FzZ2tIYW5HTXlsMmQ5Z0RzV3RJZFNsLWhvYUZla1RndTVKMXA5ampFZ013cENVcWM4OXBDSlhyWDMxYXhITGVCSnRwN3F4S2o2RkpETEUtSDNILUdFUEh1d3dMcnRaQVhVYzhPTkRBeEhQblh3WEVtQjQxUEFEenAwcFIzdGhJOWJ2X3ZQY1NfTGgyUVJEWFZ1ZGQ5SA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkpWTy02QlREc3pkUjRSZ2ZEa0FzZ2tIYW5HTXlsMmQ5Z0RzV3RJZFNsLWhvYUZla1RndTVKMXA5ampFZ013cENVcWM4OXBDSlhyWDMxYXhITGVCSnRwN3F4S2o2RkpETEUtSDNILUdFUEh1d3dMcnRaQVhVYzhPTkRBeEhQblh3WEVtQjQxUEFEenAwcFIzdGhJOWJ2X3ZQY1NfTGgyUVJEWFZ1ZGQ5SA?oc=5\" target=\"_blank\">Microsoft Deepens Ties With Mistral, Targeting Europe and Enterprise AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-07-21T12:30:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Microsoft Commits Billions for ‘Shared’ GPUs With Europe’s Mistral - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYW0wT3NraWM1OUhLQWw3ZVdkTmRZYmRJNHdGZC1KMnpHVmhndzhmXzdWV0U3a0lpT2Fpb1M1TURpNHNISkQtLWVOZnUyM2JSWmdQcDBHY1JZcHF6NVZNeFF3WFB6d0xKM3A1RVM4ZldaM0liUmNJSUlYZm93T003aE1aMDF0c3lLYXRwc0NaUlRQWVU0bmFQRmhQaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQYW0wT3NraWM1OUhLQWw3ZVdkTmRZYmRJNHdGZC1KMnpHVmhndzhmXzdWV0U3a0lpT2Fpb1M1TURpNHNISkQtLWVOZnUyM2JSWmdQcDBHY1JZcHF6NVZNeFF3WFB6d0xKM3A1RVM4ZldaM0liUmNJSUlYZm93T003aE1aMDF0c3lLYXRwc0NaUlRQWVU0bmFQRmhQaw?oc=5\" target=\"_blank\">Microsoft Commits Billions for ‘Shared’ GPUs With Europe’s Mistral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-07-21T13:35:00+00:00",
-      "source": "The Information"
+      "title": "Microsoft Confirms Windows Has a Global Device ID You Can't Turn Off - Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTR6bEtYX3Y3dUd6em5EWFFra1VYOEFpaFF3WEZ4QlpjN1l0RWpwSEE4NXlDYzFUTEZfcXpCMDRfSU52S0FTMG1tRkRRRXpmSFJSN1FRRkRVN3V6Q2oyaHdBc3psd1lEd0VxZnNiNm1DN1FWVUFXQl8zVVB5cGNJazBqbHRkQ2pFMzNUVWM3NUhrVUhpbXlxUGp4ekw5amlyaTZJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTR6bEtYX3Y3dUd6em5EWFFra1VYOEFpaFF3WEZ4QlpjN1l0RWpwSEE4NXlDYzFUTEZfcXpCMDRfSU52S0FTMG1tRkRRRXpmSFJSN1FRRkRVN3V6Q2oyaHdBc3psd1lEd0VxZnNiNm1DN1FWVUFXQl8zVVB5cGNJazBqbHRkQ2pFMzNUVWM3NUhrVUhpbXlxUGp4ekw5amlyaTZJ?oc=5\" target=\"_blank\">Microsoft Confirms Windows Has a Global Device ID You Can't Turn Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
+      "published": "2026-07-22T13:09:05+00:00",
+      "source": "Yahoo Tech"
     },
     {
       "title": "I'm a Microsoft software engineer. AI makes hitting my deadlines much easier, but I'm still skeptical it will replace me. - Business Insider",
@@ -33,32 +19,46 @@
       "source": "Business Insider"
     },
     {
-      "title": "Microsoft Confirms Windows Has a Global Device ID You Can't Turn Off - extremetech.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS01waDJQNlY4WVo4dTRyZ0IwUmhJTnhURzdoWDFuc0Q4cFFuRm5ncVdZQmtDcVRPOVM3YjFia1kzVUFlZlJkRTBma3RnR3RObE9JVkpJZmpVQUJkYnE1RUNVdlVhc2Rkd2MyVnhGMGRCdmU2aFpDeVd3djNnQkZjQ1NsbUZ0OUdQYlNxRlR4VlpPQXNncXoweUZscF9ZZTZodlpNeTlVcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQS01waDJQNlY4WVo4dTRyZ0IwUmhJTnhURzdoWDFuc0Q4cFFuRm5ncVdZQmtDcVRPOVM3YjFia1kzVUFlZlJkRTBma3RnR3RObE9JVkpJZmpVQUJkYnE1RUNVdlVhc2Rkd2MyVnhGMGRCdmU2aFpDeVd3djNnQkZjQ1NsbUZ0OUdQYlNxRlR4VlpPQXNncXoweUZscF9ZZTZodlpNeTlVcw?oc=5\" target=\"_blank\">Microsoft Confirms Windows Has a Global Device ID You Can't Turn Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">extremetech.com</font>",
-      "published": "2026-07-22T13:09:05+00:00",
-      "source": "extremetech.com"
+      "title": "Knox Systems Partners with Microsoft to Accelerate Secure Government Access to Commercial Innovation on Microsoft Azure - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWmdhNDlWSnh1M0VEajA1c1BfQ0c4SXhIc21OMy1hX3V1UHpsckpUWnVMeXg5bEwzRWVfWTJzUVRXOGtkX1JUZ2JNUUxVeTRMM0lWckVwT2RpVE1CRUUxbjVoblNDc0d6c2VaLVpOZ21reWQ5ZWlBcWVOUzRFUURxc1otM0tnbFdzM0cxRGVGNV9rZkVYY3FVcWVWMTRPQ0s0YzVwX2FrMmJ1NlAxdkM0OU5qTFlKSmp0a0t0S1huckZIaGE3N2VxZTVoOUhralk1OHloTGhkOXp3eFZPRTZDTktCWko0WHgwaV96anNDZmlhVjZNLXdmc3p3REg3cExrUkprdDQ0Vm1OWEFG?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOWmdhNDlWSnh1M0VEajA1c1BfQ0c4SXhIc21OMy1hX3V1UHpsckpUWnVMeXg5bEwzRWVfWTJzUVRXOGtkX1JUZ2JNUUxVeTRMM0lWckVwT2RpVE1CRUUxbjVoblNDc0d6c2VaLVpOZ21reWQ5ZWlBcWVOUzRFUURxc1otM0tnbFdzM0cxRGVGNV9rZkVYY3FVcWVWMTRPQ0s0YzVwX2FrMmJ1NlAxdkM0OU5qTFlKSmp0a0t0S1huckZIaGE3N2VxZTVoOUhralk1OHloTGhkOXp3eFZPRTZDTktCWko0WHgwaV96anNDZmlhVjZNLXdmc3p3REg3cExrUkprdDQ0Vm1OWEFG?oc=5\" target=\"_blank\">Knox Systems Partners with Microsoft to Accelerate Secure Government Access to Commercial Innovation on Microsoft Azure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-07-23T12:10:42+00:00",
+      "source": "Morningstar"
     },
     {
-      "title": "Microsoft set to invest $60M in Energy Department’s Genesis Mission - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUlFd3Bkb1hWRU9tLTktR19DVnZDZV8xa2M0bEV2TVdGNXFnSVQxUHhvLTU2bnJSQVhGVWo3eHVVZTFiekExVmxCYW9PcXhHVlEtcWg2bFVWcmZkazFUSE42aGtHRUxPUHpCMjEzbFBBQ3VFR1R1c21IRGlGM2xUMVBtTXl1b0FR0gGOAUFVX3lxTFB1VGNBWEVMSVZwS0tGUUY4V09PeEZWNUNNTTJZNGsxR3FXZ1dfemlrRjV4Y19yMUN3NXJHcVlDT09MRjdSVzlVcUNMNFhZTnV5TTNYOTRNX2JwZzBrOF9Ua1ZNbjdyY1FLZVdabURQYXZwbXp1clktOXBua3N6YlFpTDlsVUEzSURGUnlqWEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUlFd3Bkb1hWRU9tLTktR19DVnZDZV8xa2M0bEV2TVdGNXFnSVQxUHhvLTU2bnJSQVhGVWo3eHVVZTFiekExVmxCYW9PcXhHVlEtcWg2bFVWcmZkazFUSE42aGtHRUxPUHpCMjEzbFBBQ3VFR1R1c21IRGlGM2xUMVBtTXl1b0FR0gGOAUFVX3lxTFB1VGNBWEVMSVZwS0tGUUY4V09PeEZWNUNNTTJZNGsxR3FXZ1dfemlrRjV4Y19yMUN3NXJHcVlDT09MRjdSVzlVcUNMNFhZTnV5TTNYOTRNX2JwZzBrOF9Ua1ZNbjdyY1FLZVdabURQYXZwbXp1clktOXBua3N6YlFpTDlsVUEzSURGUnlqWEE?oc=5\" target=\"_blank\">Microsoft set to invest $60M in Energy Department’s Genesis Mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-      "published": "2026-07-22T12:00:00+00:00",
-      "source": "The Hill"
+      "title": "Solver Earns Certified Software Designation for Non-Profit AI from Microsoft - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2o5S2oxV0pqX2tqN3hEMjE2azJSYlNHZV84V3M4MkpIQTJWSGhZRTFTOVhJOTdCb1NqekhMbmw1MmVNblA2VFphTU1qeUwtQl82SHREVDhYakpwY0o2ZDlQZ1pmakktc2VqQlhBQWo4blhteEpZOXVJcDBscDRtTktYQ0ptUFZ6anAwQjRrWjlSWXZBbjNz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2o5S2oxV0pqX2tqN3hEMjE2azJSYlNHZV84V3M4MkpIQTJWSGhZRTFTOVhJOTdCb1NqekhMbmw1MmVNblA2VFphTU1qeUwtQl82SHREVDhYakpwY0o2ZDlQZ1pmakktc2VqQlhBQWo4blhteEpZOXVJcDBscDRtTktYQ0ptUFZ6anAwQjRrWjlSWXZBbjNz?oc=5\" target=\"_blank\">Solver Earns Certified Software Designation for Non-Profit AI from Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "published": "2026-07-23T11:25:00+00:00",
+      "source": "Yahoo Finance Singapore"
     },
     {
-      "title": "AMD's deal with Microsoft is a precursor to 'sharp' ramp in AI deployments: Wedbush (AMD:NASDAQ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3NUWlR1bmtjeE9wWnN0STNCTnl0NWMwYnZveGM0Q212b3ExeWFxSzhHMDAtVEFXdWJWNjZaaE9fVU5WRnJ1aFRHQTBCYUhaYUNRZUlrX3hPSVhTd1p3QzlnOTFPeF9QUzFGMGV5QnFtQ3dzU0UxRHVYUTdrOENMVGt0VUZBdnVCT3NvQ0VrSXVzajR0d0FIVDNPU2ZyZkVCNzh5b0dxTlVNYzVkbHRvVFpNcGRGcGZz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3NUWlR1bmtjeE9wWnN0STNCTnl0NWMwYnZveGM0Q212b3ExeWFxSzhHMDAtVEFXdWJWNjZaaE9fVU5WRnJ1aFRHQTBCYUhaYUNRZUlrX3hPSVhTd1p3QzlnOTFPeF9QUzFGMGV5QnFtQ3dzU0UxRHVYUTdrOENMVGt0VUZBdnVCT3NvQ0VrSXVzajR0d0FIVDNPU2ZyZkVCNzh5b0dxTlVNYzVkbHRvVFpNcGRGcGZz?oc=5\" target=\"_blank\">AMD's deal with Microsoft is a precursor to 'sharp' ramp in AI deployments: Wedbush (AMD:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-07-22T12:13:57+00:00",
-      "source": "Seeking Alpha"
+      "title": "Microsoft is bringing original Xbox games to PC - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYVhqblZqc3RhUjZlZXRFSzBKN1M1NGNCTjh5N2E5TW9JZXBGRHNyekIzaHZtSVc2ek1EcmJzR0RoZmR0NUxmNVE2RWVmbEI3c2FMclhfMjNOT2IzLWVZUkJXang1bnp1VnRVMHBOaDFQQXZxdTMzcVA2M1BST2huY0JNZkwyaEROOVZJ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYVhqblZqc3RhUjZlZXRFSzBKN1M1NGNCTjh5N2E5TW9JZXBGRHNyekIzaHZtSVc2ek1EcmJzR0RoZmR0NUxmNVE2RWVmbEI3c2FMclhfMjNOT2IzLWVZUkJXang1bnp1VnRVMHBOaDFQQXZxdTMzcVA2M1BST2huY0JNZkwyaEROOVZJ?oc=5\" target=\"_blank\">Microsoft is bringing original Xbox games to PC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZzJzUEhqeEtuMlR5MF9Ca19aeGdUYW1Tdi16M3lISVZHRi1DN2Z4TWJZMkVjQWZCb2JRWlQwR2F3WmFYbHM0SGhlTGQxUnVMdUNrZ1Q1ekNhUTNubEtmRHk1d2t4T1NkMjFtT3JGSnRMUDZyX1hONDFZREpfZDNlRDEtQkR2WFA0MmFqMS1nX0N2dTIweDdJTVRKd1ZsQVhjUEtrSnQxclBYQ0Z5U1VNODVzb2thUWktdHg5OWlIY3JJRjFaUjFEZ2xsNUxSSUpkblRoTkxkRk96WFUxYnVIaFNGdVZjbzBQdUVXWGhHLW1RWldndFVhY0pqWnl2dw?oc=5\" target=\"_blank\">Microsoft announces Xbox Backward Compatibility for PC — will let gamers play classic console games on PCs and handhelds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA4X0x1cWUtTjRaTHNsTHN0SVBBcGhYbkNENmoxSndOa2dZd3ZmeUhpUTBzZXlCQjlCaVEyTFV0R2lYSUpWU1FXcEdkR3JKU3R2OEwzWl85ZW0tNmRJLWVwN0MwWGZaYnY4djNzU2RaUk5VY1BjeXpVdXNKSXpmdw?oc=5\" target=\"_blank\">Play More of the Games You Love, Wherever You Play with XBOX Backward Compatibility on PC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XBOX Wire</font></li></ol>",
+      "published": "2026-07-22T15:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Chinese asylum-seeker accused of draining elderly NY woman’s $360K life savings in fake Microsoft scam - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmFHaU1YQThzQVVZMG9Qdi1ldkZqcGJwUE9Ka0NpUkxVbU9KbzV5cWZ2VWJCVkpOWk1hdmdqUThqTzRTM2NScC1HZ0dnSktvUE56N2pkOEVDeTZuTkVVYW9uR0kteHdsRTNRckJTdFVrVGd2eUcxSzk2SWgxZDV5N0tXTGFzWVhVekMzVDBYbEU4VFctQmRKLUFlWW90NUtPdlo5UzMwVDdnMkc1QW9PUUdNOE1NdlNKVTFHYTB4aDJrMHU4Z2QtUnpuRnJRQdIB0wFBVV95cUxPTmpQRkNERERHSnBycThpSXdPbTg1TE5tY3FhZXRGRHMtQWU4LTV1VGE5WWUwWDl1dVZIMUNhUzhvZmJNY1cwZlhLQTBiZHFwZ1NGTVlUV05DQjVZQkIxZEdHNHFpbzJPMFpkUXp5akprTGl4ajFWekRLdGgwU1Rtd3YxWm03RlF4Yk1sdGExakdlaXJRRWp5VlByWFpOMmtfd1NCMlYwTkwzQXB5ek5RZ0xYYUctZGcwZndxdHg2ZVNZamFpUVRrUkxVOW1uZW1LMnJr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmFHaU1YQThzQVVZMG9Qdi1ldkZqcGJwUE9Ka0NpUkxVbU9KbzV5cWZ2VWJCVkpOWk1hdmdqUThqTzRTM2NScC1HZ0dnSktvUE56N2pkOEVDeTZuTkVVYW9uR0kteHdsRTNRckJTdFVrVGd2eUcxSzk2SWgxZDV5N0tXTGFzWVhVekMzVDBYbEU4VFctQmRKLUFlWW90NUtPdlo5UzMwVDdnMkc1QW9PUUdNOE1NdlNKVTFHYTB4aDJrMHU4Z2QtUnpuRnJRQdIB0wFBVV95cUxPTmpQRkNERERHSnBycThpSXdPbTg1TE5tY3FhZXRGRHMtQWU4LTV1VGE5WWUwWDl1dVZIMUNhUzhvZmJNY1cwZlhLQTBiZHFwZ1NGTVlUV05DQjVZQkIxZEdHNHFpbzJPMFpkUXp5akprTGl4ajFWekRLdGgwU1Rtd3YxWm03RlF4Yk1sdGExakdlaXJRRWp5VlByWFpOMmtfd1NCMlYwTkwzQXB5ek5RZ0xYYUctZGcwZndxdHg2ZVNZamFpUVRrUkxVOW1uZW1LMnJr?oc=5\" target=\"_blank\">Chinese asylum-seeker accused of draining elderly NY woman’s $360K life savings in fake Microsoft scam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-07-22T17:28:00+00:00",
+      "source": "Fox Business"
     },
     {
       "title": "Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzNBTkhXakNuQnR3aHhOd3NWbWhRZnlkVEcwc2lEQm0ybFJ4U0NQaS1wMG9JODBtbi1XdEw4T0VlRF9oTEcwYzJIMlBCTW0zV0FMdTQwQWVXbTF6QzJQS043UXNTWTVzTm5sejA4S2dZTnBQNnVKOVNSOFBHZUl5REhwMWZIWm1CR0RfTFEyZ3U2Vlh4ZTdEcWtaaHAxSTVEbExpZnJxMkJzTWNyZml3?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzNBTkhXakNuQnR3aHhOd3NWbWhRZnlkVEcwc2lEQm0ybFJ4U0NQaS1wMG9JODBtbi1XdEw4T0VlRF9oTEcwYzJIMlBCTW0zV0FMdTQwQWVXbTF6QzJQS043UXNTWTVzTm5sejA4S2dZTnBQNnVKOVNSOFBHZUl5REhwMWZIWm1CR0RfTFEyZ3U2Vlh4ZTdEcWtaaHAxSTVEbExpZnJxMkJzTWNyZml3?oc=5\" target=\"_blank\">Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4SkJjZDA3WVpELTNVeGpCTVJoeVRtc0lUVkVpNlBKbkZiWXNaVWtxMVBtb3Z5Umc1SHBxS09kUV8tOUs5QlBtWTRZbkd1WXcyVG1kVl91c1NfZnNGMWsycGE3bDZubkpZb1o2OE14LUJFX2thT0RhSXhreGh4OEx6dmNiRUM5NnI0U3FucUxzQlFNMzV4ZkdNVFAwZTJlMzUtVTBKQjdSUQ?oc=5\" target=\"_blank\">Prediction: Microsoft Stock Will Go Parabolic After July 29. Here's Why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxONzhpZ1o0R05icThjRGIyUU8xelhYa3BDTko4VjBoMEpiNlpiQVhvY3kwQ3IxZldKWTI2UGlOdXU2ci1hVFZuVEtrT2xKdnF3Z0ljWTI5cF9GQWN5My1sbmcxWnIyRUhfQXFPQWRSaXJJM2RWVTl6Si1YbGtVclpVV25zdXlMcVJWaVJaOWlIcnZjYlRKQ0htWTJKckdhaFpNVDBjdlJVR0IwLTZHQndDNldZT0R1S0NQdnBxSUU0Sy11SklkYWRlcFdlVVE?oc=5\" target=\"_blank\">Beyond The Sticker Price: What You Are Really Paying For Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font></li></ol>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzNBTkhXakNuQnR3aHhOd3NWbWhRZnlkVEcwc2lEQm0ybFJ4U0NQaS1wMG9JODBtbi1XdEw4T0VlRF9oTEcwYzJIMlBCTW0zV0FMdTQwQWVXbTF6QzJQS043UXNTWTVzTm5sejA4S2dZTnBQNnVKOVNSOFBHZUl5REhwMWZIWm1CR0RfTFEyZ3U2Vlh4ZTdEcWtaaHAxSTVEbExpZnJxMkJzTWNyZml3?oc=5\" target=\"_blank\">Going Into Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-07-22T08:47:26+00:00",
       "source": "Morningstar"
+    },
+    {
+      "title": "Microsoft: A Better Entry Point Before Earnings (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHp6SkJvaUNkc1RSSnVJVThMZklpUWNjZlJaa0U0TzdHVXpSaHlxQUVqWUVLektTaTBlUklBSDEtTVY0LTJMai10QkFxQUdndnJDZnFab3R4ams0dzBmZ0d2eTUzVmJRVGE0NlJ0S21jcmJXSWV1aVVLZWpPQlAyU25hOFFLVVFxZTJMUFVjX0tyT1l6RUNPUmxn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHp6SkJvaUNkc1RSSnVJVThMZklpUWNjZlJaa0U0TzdHVXpSaHlxQUVqWUVLektTaTBlUklBSDEtTVY0LTJMai10QkFxQUdndnJDZnFab3R4ams0dzBmZ0d2eTUzVmJRVGE0NlJ0S21jcmJXSWV1aVVLZWpPQlAyU25hOFFLVVFxZTJMUFVjX0tyT1l6RUNPUmxn?oc=5\" target=\"_blank\">Microsoft: A Better Entry Point Before Earnings (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-07-23T04:44:54+00:00",
+      "source": "Seeking Alpha"
     }
   ],
   "product_launches": [
@@ -70,13 +70,6 @@
       "source": "Microsoft"
     },
     {
-      "title": "Microsoft Prepares to Launch AI Security Product Amid Growing Cy - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxNLWJka2hMVmVOQ1ZoQ21ROTBwcjhuNzktdVlHbGVBRWV3ejA1NnRJRjRXdEpsUmZPczhBVHFtR3BkcW5ybHlSZGRqd2NQSHplUVZEMUl1eGpOaHFsN0R2azdIbkdyaTJjQTBiMXhHc0R1TmtpVXdSYk5Ycm5zUHN6eGJBOXFrZmF3OHdfVGhlUkNtdG0yTUpnZ1FST2Rmdk5pYVVaVW5uRGlEaDZacEVMME5TQnpacFR1ZzlmVEl3ZmpnU0pPcXlwdERLZ0N5LUc3dERhVTMxcHpOYWhPRWZNbjMyOGZNMVFDQ3NTMS1mSTZoZHhGck1FWVVnVUdQWWdrd1FuQ0trYnNKVmZzMHoxb0hpSVp3NzhDSnNkX3lIbHFWV3lJZXJoZHNZYWxYdnFaV29UQmZvQU1Id1ZvYzRKRmRfdkpNWWQ1LXJ5OTZwQTVQTzdTejN5SnpQS0RjazItOTRZNG81Y2gtVEFuZXVUOGFZT3c5NEZieTJqZkRqdWM5YU5KWFNYR29LWWlPemNTN1VnbnpVdTZQNW9ySFZoSmpZajRFN0oybkdBUWs0MmVpWlNtT2JISkxrZ3hRR19lOFNQbGZFRzMwcTBFZVNtZWNIblZPdXgxeW5PNXRZeENXYklNTWgtZm8zcTFoUzhHZm9QWTlOSFYzcnNRWkNZQnFCenFFSXgzelBqb3lTemNIaTFYLTZyZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimARBVV95cUxNLWJka2hMVmVOQ1ZoQ21ROTBwcjhuNzktdVlHbGVBRWV3ejA1NnRJRjRXdEpsUmZPczhBVHFtR3BkcW5ybHlSZGRqd2NQSHplUVZEMUl1eGpOaHFsN0R2azdIbkdyaTJjQTBiMXhHc0R1TmtpVXdSYk5Ycm5zUHN6eGJBOXFrZmF3OHdfVGhlUkNtdG0yTUpnZ1FST2Rmdk5pYVVaVW5uRGlEaDZacEVMME5TQnpacFR1ZzlmVEl3ZmpnU0pPcXlwdERLZ0N5LUc3dERhVTMxcHpOYWhPRWZNbjMyOGZNMVFDQ3NTMS1mSTZoZHhGck1FWVVnVUdQWWdrd1FuQ0trYnNKVmZzMHoxb0hpSVp3NzhDSnNkX3lIbHFWV3lJZXJoZHNZYWxYdnFaV29UQmZvQU1Id1ZvYzRKRmRfdkpNWWQ1LXJ5OTZwQTVQTzdTejN5SnpQS0RjazItOTRZNG81Y2gtVEFuZXVUOGFZT3c5NEZieTJqZkRqdWM5YU5KWFNYR29LWWlPemNTN1VnbnpVdTZQNW9ySFZoSmpZajRFN0oybkdBUWs0MmVpWlNtT2JISkxrZ3hRR19lOFNQbGZFRzMwcTBFZVNtZWNIblZPdXgxeW5PNXRZeENXYklNTWgtZm8zcTFoUzhHZm9QWTlOSFYzcnNRWkNZQnFCenFFSXgzelBqb3lTemNIaTFYLTZyZg?oc=5\" target=\"_blank\">Microsoft Prepares to Launch AI Security Product Amid Growing Cy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-      "published": "2026-07-17T18:10:46+00:00",
-      "source": "GuruFocus"
-    },
-    {
       "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
@@ -84,11 +77,11 @@
       "source": "Windows Blog"
     },
     {
-      "title": "Microsoft Readies AI Security Product to Challenge Anthropic's Claude Mitos - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4T3FEWWZvQTFYMmhrM01tSDBSUXVuZDA2Rnd0UmFCa0VWdDFSZW91c2FRd1FXQlFmN3lob3BmY3RRdXZkV1k3b1ZMTTRZOG5QZGdIMXJUZ3BhbklTT1FoQVJ1bzltYUVDVERyck1EcG9yMDNKaWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB4T3FEWWZvQTFYMmhrM01tSDBSUXVuZDA2Rnd0UmFCa0VWdDFSZW91c2FRd1FXQlFmN3lob3BmY3RRdXZkV1k3b1ZMTTRZOG5QZGdIMXJUZ3BhbklTT1FoQVJ1bzltYUVDVERyck1EcG9yMDNKaWc?oc=5\" target=\"_blank\">Microsoft Readies AI Security Product to Challenge Anthropic's Claude Mitos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-      "published": "2026-07-17T08:56:00+00:00",
-      "source": "finance.biggo.com"
+      "title": "Microsoft Prepares to Launch AI Security Product Amid Growing Cy - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxNLWJka2hMVmVOQ1ZoQ21ROTBwcjhuNzktdVlHbGVBRWV3ejA1NnRJRjRXdEpsUmZPczhBVHFtR3BkcW5ybHlSZGRqd2NQSHplUVZEMUl1eGpOaHFsN0R2azdIbkdyaTJjQTBiMXhHc0R1TmtpVXdSYk5Ycm5zUHN6eGJBOXFrZmF3OHdfVGhlUkNtdG0yTUpnZ1FST2Rmdk5pYVVaVW5uRGlEaDZacEVMME5TQnpacFR1ZzlmVEl3ZmpnU0pPcXlwdERLZ0N5LUc3dERhVTMxcHpOYWhPRWZNbjMyOGZNMVFDQ3NTMS1mSTZoZHhGck1FWVVnVUdQWWdrd1FuQ0trYnNKVmZzMHoxb0hpSVp3NzhDSnNkX3lIbHFWV3lJZXJoZHNZYWxYdnFaV29UQmZvQU1Id1ZvYzRKRmRfdkpNWWQ1LXJ5OTZwQTVQTzdTejN5SnpQS0RjazItOTRZNG81Y2gtVEFuZXVUOGFZT3c5NEZieTJqZkRqdWM5YU5KWFNYR29LWWlPemNTN1VnbnpVdTZQNW9ySFZoSmpZajRFN0oybkdBUWs0MmVpWlNtT2JISkxrZ3hRR19lOFNQbGZFRzMwcTBFZVNtZWNIblZPdXgxeW5PNXRZeENXYklNTWgtZm8zcTFoUzhHZm9QWTlOSFYzcnNRWkNZQnFCenFFSXgzelBqb3lTemNIaTFYLTZyZg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimARBVV95cUxNLWJka2hMVmVOQ1ZoQ21ROTBwcjhuNzktdVlHbGVBRWV3ejA1NnRJRjRXdEpsUmZPczhBVHFtR3BkcW5ybHlSZGRqd2NQSHplUVZEMUl1eGpOaHFsN0R2azdIbkdyaTJjQTBiMXhHc0R1TmtpVXdSYk5Ycm5zUHN6eGJBOXFrZmF3OHdfVGhlUkNtdG0yTUpnZ1FST2Rmdk5pYVVaVW5uRGlEaDZacEVMME5TQnpacFR1ZzlmVEl3ZmpnU0pPcXlwdERLZ0N5LUc3dERhVTMxcHpOYWhPRWZNbjMyOGZNMVFDQ3NTMS1mSTZoZHhGck1FWVVnVUdQWWdrd1FuQ0trYnNKVmZzMHoxb0hpSVp3NzhDSnNkX3lIbHFWV3lJZXJoZHNZYWxYdnFaV29UQmZvQU1Id1ZvYzRKRmRfdkpNWWQ1LXJ5OTZwQTVQTzdTejN5SnpQS0RjazItOTRZNG81Y2gtVEFuZXVUOGFZT3c5NEZieTJqZkRqdWM5YU5KWFNYR29LWWlPemNTN1VnbnpVdTZQNW9ySFZoSmpZajRFN0oybkdBUWs0MmVpWlNtT2JISkxrZ3hRR19lOFNQbGZFRzMwcTBFZVNtZWNIblZPdXgxeW5PNXRZeENXYklNTWgtZm8zcTFoUzhHZm9QWTlOSFYzcnNRWkNZQnFCenFFSXgzelBqb3lTemNIaTFYLTZyZg?oc=5\" target=\"_blank\">Microsoft Prepares to Launch AI Security Product Amid Growing Cy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+      "published": "2026-07-17T18:10:46+00:00",
+      "source": "GuruFocus"
     },
     {
       "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
       "published": "2026-06-15T07:00:00+00:00",
       "source": "Search Engine Journal"
+    },
+    {
+      "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-03-30T07:00:00+00:00",
+      "source": "The Motley Fool"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-21",
-      "close": 397.75
+      "date": "2026-07-22",
+      "close": 390.3399963378906
     },
     "history": [
-      {
-        "date": "2026-07-13",
-        "close": 390.989990234375
-      },
       {
         "date": "2026-07-14",
         "close": 384.92999267578125
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-21",
         "close": 397.75
+      },
+      {
+        "date": "2026-07-22",
+        "close": 390.3399963378906
       }
     ],
     "name": "Microsoft Corporation"

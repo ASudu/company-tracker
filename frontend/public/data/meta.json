@@ -2,8 +2,15 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-07-22T13:21:25.957869+00:00",
+  "fetched_at": "2026-07-23T13:23:58.582860+00:00",
   "news": [
+    {
+      "title": "Teenager drops social media addiction lawsuit against Meta - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Q3FFOTZVemtaT01KOGZpRjBrYXVwUmxBbVdvTnRkUEFLeTdZbFVxX0dnODFMWldyMUhpZVp2bFFnbVpUQkZ6eDlGN2NzdjM4MDdtYjFtUlpBQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Q3FFOTZVemtaT01KOGZpRjBrYXVwUmxBbVdvTnRkUEFLeTdZbFVxX0dnODFMWldyMUhpZVp2bFFnbVpUQkZ6eDlGN2NzdjM4MDdtYjFtUlpBQQ?oc=5\" target=\"_blank\">Teenager drops social media addiction lawsuit against Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQLVUxVm1IR2FUcEVIUk9qTF9kYWp3Z21NalJuTk9NY3VsSVBQb1BRMFRGUFpWSDZRN0tjV3p1VkM1T0hVemVxSGJJc09ZbG93VVowak9sZ0FsN3pvUFNyblVYQ1g4RnpyVEg1ZEZvZkt0d19qVV9xcW90b0NzendnZnEwa0FoTmhNdVE?oc=5\" target=\"_blank\">US teen drops Meta lawsuit on social media addiction days before trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNeXhMX21wYTN1cXRUd1pXTGdrWS1LeTNGSFhTY1FNaHB0SzhDcGxCZTUxakw2UFhURE9QcjAxb1VoNWZyYV9pUGJGcHFxclN1RGRRNW5DOUR5dmdNTGZpMXRGMF9Wbzc5bmJibWtXYkNVQ2tfZmt6cWRzb3dJZV9UMkdR?oc=5\" target=\"_blank\">A teen dropped his social media addiction lawsuit against Meta just before it went to trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font></li></ol>",
+      "published": "2026-07-22T19:04:47+00:00",
+      "source": "BBC"
+    },
     {
       "title": "Meta made its own AI detection system. It should have just used Google’s - The Verge",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNW4yRW5lTkIzZTNremp5QmtiWHhWRTNTZ1RSRzRnMm4xaXNJWkdkeTM5T2RwaFVZbTZ0dU9PZWRXX3R0bEJqVlpGMnRtYXlMV3JZZTZrQmJrOGF6Ti1Ob0M3T2pEQXFxTkR5QVRuZmtyRDVNcjFVcms2NzBsVUdVOFJkY2VyeEpIeWFtMWdzTV9xNU1Ybl83S1J4dw?oc=5",
@@ -12,32 +19,11 @@
       "source": "The Verge"
     },
     {
-      "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXBfNWF0emFGZlhMaUdhVU9nQWpGaW5wUHFLanZKT3dsa1RfeFNzVmtuZ2JCd0h5Ny1hT2Z3OHpINXpzZUZrRlVkeTk2MUx0bHJxLTM5dEFTU0M2YV9RMUFiOThmNS1XRUlSc3Q4VnZOeDVVc0ZxX0R2WG5xNmR1dk5NUWlTc2xORWJ4RWJ4cw?oc=5\" target=\"_blank\">What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-07-22T03:10:17+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cG82LVRNMFBMdlM3dEoxb1hxY2JUM1hfTHZudERyZmpaeHgxLXV4SGFBaXBkTzdCc0t3R3RpQ2RScGl6MkdDdzh5UU9vRF9ndFhHMXFpdldBZ1dVdG4wdE13QThuM2NNLUhIbUZRNVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE51cG82LVRNMFBMdlM3dEoxb1hxY2JUM1hfTHZudERyZmpaeHgxLXV4SGFBaXBkTzdCc0t3R3RpQ2RScGl6MkdDdzh5UU9vRF9ndFhHMXFpdldBZ1dVdG4wdE13QThuM2NNLUhIbUZRNVQ?oc=5\" target=\"_blank\">Meta’s AI Push Threatens Shopify’s Core Business, Analyst Warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-07-21T16:36:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs - The Information",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGdQQ202bE1TVlRUcUpHLWlYaHk3eVdhNjdwdlNPX0R2UEc0V2JEMTdXX00tS0tWYnBkdEpGR3NwZVo2S2JfbXFiMUU1aTM3Vm9DcDBuQThEZHJLVkR1QWhxTW1nQUU3Z1gtbloxZm5TZllTcWwyYmtsSkJQZzREcGpwd095RzRXRmprMXBFVlZVcUFDOEJ1ZURtRFpiZ09UYU8wd3dB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGdQQ202bE1TVlRUcUpHLWlYaHk3eVdhNjdwdlNPX0R2UEc0V2JEMTdXX00tS0tWYnBkdEpGR3NwZVo2S2JfbXFiMUU1aTM3Vm9DcDBuQThEZHJLVkR1QWhxTW1nQUU3Z1gtbloxZm5TZllTcWwyYmtsSkJQZzREcGpwd095RzRXRmprMXBFVlZVcUFDOEJ1ZURtRFpiZ09UYU8wd3dB?oc=5\" target=\"_blank\">Meta’s AI Incubator Is Developing an OpenRouter Rival to Cut Coding Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-07-21T22:36:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Samsung details features of its smart glasses as it enters market dominated by Meta - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFvZXpfRThVaWdtMC1TWTJMN2tIeFpqWTh3SHM4angtY3lfZ2ZCMERPVF9nNzhhcFF3NEx6QTV4THpwTVc3Nk80SXpyZjZRNTFoRUVFZWlXZHZFU2tScjRDcUs3ODZWN21vUUFjS0V6amhTVWhaVURiaW9zZnJSSXNPOEttSjlUaUdkaNIBkgFBVV95cUxQZ1hhZjB0aDVTNEJGSTZSV1hLdGE2anFVX3F6SGpJNjNxY2M5MTFld3d5NTl2akkyU2ZiQTB4VHh6Ykg2Uk10ZFFhNVpPMFBYcXQzMksxSXQ4bHdubkZsUzIwRjBFRTBORlE5OUg3Z0NSMXVaQkIwM3kweUwyTVlPUExBT0tHSmRtZDBpMXFybW8yQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGFvZXpfRThVaWdtMC1TWTJMN2tIeFpqWTh3SHM4angtY3lfZ2ZCMERPVF9nNzhhcFF3NEx6QTV4THpwTVc3Nk80SXpyZjZRNTFoRUVFZWlXZHZFU2tScjRDcUs3ODZWN21vUUFjS0V6amhTVWhaVURiaW9zZnJSSXNPOEttSjlUaUdkaNIBkgFBVV95cUxQZ1hhZjB0aDVTNEJGSTZSV1hLdGE2anFVX3F6SGpJNjNxY2M5MTFld3d5NTl2akkyU2ZiQTB4VHh6Ykg2Uk10ZFFhNVpPMFBYcXQzMksxSXQ4bHdubkZsUzIwRjBFRTBORlE5OUg3Z0NSMXVaQkIwM3kweUwyTVlPUExBT0tHSmRtZDBpMXFybW8yQQ?oc=5\" target=\"_blank\">Samsung details features of its smart glasses as it enters market dominated by Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-22T13:00:01+00:00",
-      "source": "CNBC"
+      "title": "Mark Zuckerberg launches AI optimism campaign - Axios",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaF8yeFh3R3phb1lObTF6REptM2JidFptSGtCYXRLSUJZWnQwdG1WSjFBUkNEVVdxNU5iRlBjYWpITWZhSklvci1hcE8zdGo4YVpBb1diMDc0OEpCcVdBM3BOODN2cVpsREIydw?oc=5\" target=\"_blank\">Mark Zuckerberg launches AI optimism campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-07-23T10:00:49+00:00",
+      "source": "Axios"
     },
     {
       "title": "Kylie Jenner debuted her new Meta glasse. The backlash shows how controversial the tech is. - Business Insider",
@@ -54,20 +40,34 @@
       "source": "The Guardian"
     },
     {
-      "title": "Meta employees' lawsuit shows that if AI fires you, proving it is the hard part - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0xVWTJIRjQyWEZXOGZVbHFrSnFsVG1yTUxWb0hJeklkdFZEWHRabmN4Y2trNnZlTW9rMm9hQUtUUHhfSFlGZnpISjRjWXg0UXNFSTBCdmxPOEpaa3N5VlBFblIwX2IwN3ZqeXRwT1VUY3Jzc2tlNC1MRWlBMmZnYUhSU3Eyb1JJU2tXWUJVY2pyalFUN0xVbzRYLWdtSlFRMVVveFRoWG52dmxHRXRSc3Y1QXF4S05OY0tkaFQtM0dHUUJqQnRaZVpMZk0?oc=5\" target=\"_blank\">Meta employees' lawsuit shows that if AI fires you, proving it is the hard part</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-22T10:23:44+00:00",
-      "source": "Reuters"
+      "title": "Meta Platforms Has $420 Billion in Hidden Debt, and It’s Growing - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXg5d1FZZ1BPRnlmLTFzN2lZOW1FX3lQZFNfcHpQTGNLQV90R3d2aVdNM3B4a2JBdHlYX0daNmpRU1hEc1VzWDRhOEt2VERDM0NRQ2RQcm5iWmFsb3Nlb2l0TjFVWVN2RDgtdWE0UnRWT3JUdndaMy1aemktTVNCVXRjdEpQVEtxckpnUEpFU3FQQlh4TEJjUHNUUFhVams?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXg5d1FZZ1BPRnlmLTFzN2lZOW1FX3lQZFNfcHpQTGNLQV90R3d2aVdNM3B4a2JBdHlYX0daNmpRU1hEc1VzWDRhOEt2VERDM0NRQ2RQcm5iWmFsb3Nlb2l0TjFVWVN2RDgtdWE0UnRWT3JUdndaMy1aemktTVNCVXRjdEpQVEtxckpnUEpFU3FQQlh4TEJjUHNUUFhVams?oc=5\" target=\"_blank\">Meta Platforms Has $420 Billion in Hidden Debt, and It’s Growing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-22T16:06:41+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Should You Buy Amazon and Meta Platforms Stocks Before July 29? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWJFcDM4a2F1Zm8wT2x2YjZOYjNaTGR4b2dlWklHdE16MHZRbkx2ZWZ4MkhJWXNvZEh5amw4UDNEa1pJc2s0eFZRenY3Q0ZMSUpRdUpybzBmVVFRaDNxNk9vc2pzQTJPLVVhWFVsN0VmT1pHQTJabEVxb085RVkzc19tMVprd2JKLUZIalN6RVhPNjJfQXBwTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWJFcDM4a2F1Zm8wT2x2YjZOYjNaTGR4b2dlWklHdE16MHZRbkx2ZWZ4MkhJWXNvZEh5amw4UDNEa1pJc2s0eFZRenY3Q0ZMSUpRdUpybzBmVVFRaDNxNk9vc2pzQTJPLVVhWFVsN0VmT1pHQTJabEVxb085RVkzc19tMVprd2JKLUZIalN6RVhPNjJfQXBwTA?oc=5\" target=\"_blank\">Should You Buy Amazon and Meta Platforms Stocks Before July 29?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-07-23T08:15:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Meta has a 'multibillion-dollar' opportunity with its glasses, says Jefferies - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDcxNVJlcFp0WnZyaS1KazdvZ0d5ZWJ6UDBWTUNhbUR4RDh3S0RtS2JmeGFiT1dvUktnalhMakpNcFdqTEx6a19ZWXNJYjBXOVZNX1BHR1NFczdmemlNZkdXN0JmZFBFV0tDSjJjbW0xdGVMcGtxRXQ2LW9xLWZyeWRCclp6bnQwUzRIQUc2QVVtMjJRS196NXRKVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNDcxNVJlcFp0WnZyaS1KazdvZ0d5ZWJ6UDBWTUNhbUR4RDh3S0RtS2JmeGFiT1dvUktnalhMakpNcFdqTEx6a19ZWXNJYjBXOVZNX1BHR1NFczdmemlNZkdXN0JmZFBFV0tDSjJjbW0xdGVMcGtxRXQ2LW9xLWZyeWRCclp6bnQwUzRIQUc2QVVtMjJRS196NXRKVQ?oc=5\" target=\"_blank\">Meta has a 'multibillion-dollar' opportunity with its glasses, says Jefferies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-21T11:46:04+00:00",
+      "source": "CNBC"
     }
   ],
   "product_launches": [
     {
-      "title": "Introducing Muse Image and Muse Video - AI at Meta",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5\" target=\"_blank\">Introducing Muse Image and Muse Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI at Meta</font>",
-      "published": "2026-07-07T07:00:00+00:00",
-      "source": "AI at Meta"
+      "title": "Meta AI Investment: $145 Billion Strategic Commitment - The Cryptonomist",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTRlFOWUtFQkxYOFlVU05sWEwycy1TV2E4LWR5V3NkalYyaWlXQmk4aVowbFhYZm1mVkR1cEoxRUl3THVLN2FGQjU1eGp0SWdSbGFFTF9mVEdoZlZad1hfSHZNSzZEdmJJSmpvUjR2Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBTRlFOWUtFQkxYOFlVU05sWEwycy1TV2E4LWR5V3NkalYyaWlXQmk4aVowbFhYZm1mVkR1cEoxRUl3THVLN2FGQjU1eGp0SWdSbGFFTF9mVEdoZlZad1hfSHZNSzZEdmJJSmpvUjR2Zw?oc=5\" target=\"_blank\">Meta AI Investment: $145 Billion Strategic Commitment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cryptonomist</font>",
+      "published": "2026-07-23T10:30:52+00:00",
+      "source": "The Cryptonomist"
     },
     {
       "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses - Meta Store",
@@ -91,25 +91,21 @@
       "source": "adnews.com.au"
     },
     {
-      "title": "Meta Put Kylie Jenner’s Voice in Its AI Glasses. It’s a Smart Lesson in Customer Acquisition - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkNYeEx3cWpMNUNENUQzNmtZZEtkb1RnRXJxQld2d2J0a2tMT2xLVkJmcUIycllmYzRQcmhzR25ITTZPUFBJLWYwQzJRUDVHNG9PenllRHpKR3h1eUZ1TzhnMEZXT05xUjZJWmpxa2gtTHZ5cDhIOURjTFhudVZQZm9Za1JPZ1BvTlJaTU02S2EwLW1pbTVfOWFnYWhvZXMtWEFRQlJwZUxvZXVocE1neGpyTW9ETGh4NUNqV2xIazJUTkZCRkdxbzJyVUprdEZQWHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkNYeEx3cWpMNUNENUQzNmtZZEtkb1RnRXJxQld2d2J0a2tMT2xLVkJmcUIycllmYzRQcmhzR25ITTZPUFBJLWYwQzJRUDVHNG9PenllRHpKR3h1eUZ1TzhnMEZXT05xUjZJWmpxa2gtTHZ5cDhIOURjTFhudVZQZm9Za1JPZ1BvTlJaTU02S2EwLW1pbTVfOWFnYWhvZXMtWEFRQlJwZUxvZXVocE1neGpyTW9ETGh4NUNqV2xIazJUTkZCRkdxbzJyVUprdEZQWHc?oc=5\" target=\"_blank\">Meta Put Kylie Jenner’s Voice in Its AI Glasses. It’s a Smart Lesson in Customer Acquisition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc.com</font>",
-      "published": "2026-06-26T07:00:00+00:00",
-      "source": "inc.com"
+      "title": "Introducing Muse Image and Muse Video - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5\" target=\"_blank\">Introducing Muse Image and Muse Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI at Meta</font>",
+      "published": "2026-07-07T07:00:00+00:00",
+      "source": "AI at Meta"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-21",
-      "close": 643.8099975585938
+      "date": "2026-07-22",
+      "close": 627.1699829101562
     },
     "history": [
-      {
-        "date": "2026-07-13",
-        "close": 656.72998046875
-      },
       {
         "date": "2026-07-14",
         "close": 661.0399780273438
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-21",
         "close": 643.8099975585938
+      },
+      {
+        "date": "2026-07-22",
+        "close": 627.1699829101562
       }
     ],
     "name": "Meta Platforms, Inc."
