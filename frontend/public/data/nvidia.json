@@ -2,63 +2,63 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-07-24T13:17:23.670520+00:00",
+  "fetched_at": "2026-07-25T13:01:03.659210+00:00",
   "news": [
     {
-      "title": "AMD launches Helios system in direct challenge to Nvidia's AI dominance - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSi10X2hVeS12eGJfOUZFQlVhaGhiMFlEWXNNMmtJMkU0b3dQWFNnZk1jeGpCVGx3NVh4SjhwS0x1eGFjeXZoREQtUzh0NnBIOUc1ME9vYUFSa3BGQmhQaUhXdV9xQUdnakRSd1dsTG1xV2ZudlYwX2RRU1ZWenNGMmNhWkxjQ0dkbHZQdnE4U24wTC1TX0UyVy1keEx1LVo5dkJ6NEZhcC00VnlCRHBwNmhfSFNEeFVvaHlzMEY5UmhSQXBVQWlmMmdB?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSi10X2hVeS12eGJfOUZFQlVhaGhiMFlEWXNNMmtJMkU0b3dQWFNnZk1jeGpCVGx3NVh4SjhwS0x1eGFjeXZoREQtUzh0NnBIOUc1ME9vYUFSa3BGQmhQaUhXdV9xQUdnakRSd1dsTG1xV2ZudlYwX2RRU1ZWenNGMmNhWkxjQ0dkbHZQdnE4U24wTC1TX0UyVy1keEx1LVo5dkJ6NEZhcC00VnlCRHBwNmhfSFNEeFVvaHlzMEY5UmhSQXBVQWlmMmdB?oc=5\" target=\"_blank\">AMD launches Helios system in direct challenge to Nvidia's AI dominance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTW1qT1BqbXVtbjdxcngwQTNzWDE4bUVLSVJjZlFrUVIwVGNIMDlUamo3MUx4aktiMGJuY3k3QkZ1YllySkRWOHF5Zm4teVBNSTNVOVNnT2dQaEF5V1lETG5LWUxVTkhtMGcwV1UzWUxPTW9SSEIwbmZqR0o0a0VJczhJNFcxYkZIdklQazlzLTVBMjhOTHc?oc=5\" target=\"_blank\">AMD takes on Nvidia with its Helios AI rack-scale system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlhaMlU2dVBUZHNxTVk2UmVyNC1oTnlDQTVmN2RLX3F1OFpiNFVFZ2UzeVdOY2hYaHVZWkctMkFmbDFrcktZYkx0aGlpeE9HVmJpbURhX2dVNEkzSHY4aDZHYWRxVnFnUlVHMXIwWkwwQVA1b1hIZ1RXZFlCeHFHUkxqb0RlWnQ2SGc5SW5kaw?oc=5\" target=\"_blank\">AMD takes a shot at Nvidia by betting on AI's next big shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
-      "published": "2026-07-23T18:30:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia RTX 3090 and RTX 3050 team up to hit 144 FPS at 4K — Lossless Scaling turns old Ampere GPUs into a gaming powerhouse - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMzAta3V6UG1ldDRQTVJqOTlMV1BtYXFoRGx6dkVWOEV4aUU1V0pqdmMxX0dJby1CRWw2TGV4Szk4c1U3d0VVMUNfR0JvX0tzMWtMOHVtWS0xdlhIai0yUnVWUHUweloyUTM2WjVKaWE3aW8xelNVUVlTQ0NxVzZMb1VfV1R2Y0ZWeW9SLXJId0lLWTJBRkk0LU5nMVJkUkYtaHdBN3pIXzZ0TnNZd0wtTGlCUG1XYmcyOE91VU1wUTNRTEFITmdCY3BuaWRNcW5qTFJac25PdWMwMHlTdEJCMk1kVGlHZGJiVTg3eEFnRVU4R25SSkJ2cmRpTXJQZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMzAta3V6UG1ldDRQTVJqOTlMV1BtYXFoRGx6dkVWOEV4aUU1V0pqdmMxX0dJby1CRWw2TGV4Szk4c1U3d0VVMUNfR0JvX0tzMWtMOHVtWS0xdlhIai0yUnVWUHUweloyUTM2WjVKaWE3aW8xelNVUVlTQ0NxVzZMb1VfV1R2Y0ZWeW9SLXJId0lLWTJBRkk0LU5nMVJkUkYtaHdBN3pIXzZ0TnNZd0wtTGlCUG1XYmcyOE91VU1wUTNRTEFITmdCY3BuaWRNcW5qTFJac25PdWMwMHlTdEJCMk1kVGlHZGJiVTg3eEFnRVU4R25SSkJ2cmRpTXJQZw?oc=5\" target=\"_blank\">Nvidia RTX 3090 and RTX 3050 team up to hit 144 FPS at 4K — Lossless Scaling turns old Ampere GPUs into a gaming powerhouse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-07-23T17:39:03+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "NVIDIA Reportedly Raises GDDR6 and GDDR7 Memory Kit Prices for RTX GPUs - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcW5kYUt6RmlpRVp6VWctUkMxajhnUlVsMmNXT3VLYVJST3VSZVBrNDJ0VmNHRkh5TmhUTWxfLUVhbWo4djVLdUJlazg1bzhFbU5VbV9KTG10MUo3MEQyYXlUTU83QXBKRVpsZ1Y3eXg0bFdCTVBfMFF1VlVBOGFkYmtOOU9xYnk1R1NwN2Q4bUVYTnUxdVZzUVI5dmtJWnVUcE5tQTZNRVJUQdIBrwFBVV95cUxPenVEczc1ZkNRUnhWbzdOSkVsUGg5U1lrZUo1LVZnUlRxTm9YaU54aGZvcDg1NjlUTzZYZnJ4a3Z6bFNWRU51ZGU4OHhkLVNKaGtHRnRHYUZIQWljckl2Zy13Q01IYllVM3IwOVRraU5SVENBUWh1N2dMQ29SZy1RX2szVGhad2p1RmRSRTNiTGtrdEh6OG42aDVuRFFZNjktODRoR2hvaGpsN3VyR2dV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcW5kYUt6RmlpRVp6VWctUkMxajhnUlVsMmNXT3VLYVJST3VSZVBrNDJ0VmNHRkh5TmhUTWxfLUVhbWo4djVLdUJlazg1bzhFbU5VbV9KTG10MUo3MEQyYXlUTU83QXBKRVpsZ1Y3eXg0bFdCTVBfMFF1VlVBOGFkYmtOOU9xYnk1R1NwN2Q4bUVYTnUxdVZzUVI5dmtJWnVUcE5tQTZNRVJUQdIBrwFBVV95cUxPenVEczc1ZkNRUnhWbzdOSkVsUGg5U1lrZUo1LVZnUlRxTm9YaU54aGZvcDg1NjlUTzZYZnJ4a3Z6bFNWRU51ZGU4OHhkLVNKaGtHRnRHYUZIQWljckl2Zy13Q01IYllVM3IwOVRraU5SVENBUWh1N2dMQ29SZy1RX2szVGhad2p1RmRSRTNiTGtrdEh6OG42aDVuRFFZNjktODRoR2hvaGpsN3VyR2dV?oc=5\" target=\"_blank\">NVIDIA Reportedly Raises GDDR6 and GDDR7 Memory Kit Prices for RTX GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2026-07-23T16:00:02+00:00",
-      "source": "TechPowerUp"
-    },
-    {
-      "title": "NVIDIA Reportedly Increased GDDR6 And GDDR7 Kit Prices For Its RTX GPUs - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDhqWC1SMHljSFMtWGVoNmJJdllmUkxPdjlicVFzLVRoaF93UlJzQ0tLLXpXZWpZZFJCTGIyc0Q2QUdYU09taWx2UWFYcTRGa0pveG5vVnJiMF9KdjhnUnRwZ09BTGNoUTY0TGRlUHo4LWZXY1NEZWV6Q3ZNRURGalpwX0JobHVNWXNqdG9ENGtaaHRjRzJuR9IBngFBVV95cUxOYldEb0VuWFJYZXRrYTF6YzV1aHotSkZZVGRCYmZoX1U0bS00Wml3bEVYQnNibllEOUpMZktRUVBwM2tvS200TnZZbEFkTTlYTzJlMGFSTFBJVjdyVUV2LWhqb2wyR0VIb1RoUXZRM2dmdXZ6T19ucjNDOUJONTJtcFRUOUQ5TjJ0aURJLVdTMWJiYk95V1VvWm9vcjZSdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDhqWC1SMHljSFMtWGVoNmJJdllmUkxPdjlicVFzLVRoaF93UlJzQ0tLLXpXZWpZZFJCTGIyc0Q2QUdYU09taWx2UWFYcTRGa0pveG5vVnJiMF9KdjhnUnRwZ09BTGNoUTY0TGRlUHo4LWZXY1NEZWV6Q3ZNRURGalpwX0JobHVNWXNqdG9ENGtaaHRjRzJuR9IBngFBVV95cUxOYldEb0VuWFJYZXRrYTF6YzV1aHotSkZZVGRCYmZoX1U0bS00Wml3bEVYQnNibllEOUpMZktRUVBwM2tvS200TnZZbEFkTTlYTzJlMGFSTFBJVjdyVUV2LWhqb2wyR0VIb1RoUXZRM2dmdXZ6T19ucjNDOUJONTJtcFRUOUQ5TjJ0aURJLVdTMWJiYk95V1VvWm9vcjZSdw?oc=5\" target=\"_blank\">NVIDIA Reportedly Increased GDDR6 And GDDR7 Kit Prices For Its RTX GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
-      "published": "2026-07-23T11:48:46+00:00",
-      "source": "Wccftech"
-    },
-    {
-      "title": "Here are Friday's biggest analyst calls of the day: Nvidia, SpaceX, Tesla, AMD, Intel, Dell, Apple, Meta & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZU84QlRmLWtxSm1YUWEtYTczMGNqM3hPcVliSmpSY0h2S2RKOVd1OUdXeWpRcWZDU2ZVOExwRXZUUFUzUmI2LU1fM29YUXR3ZU8xY2IzdGtOZUhkeDRucktsZ2drQk5kdkEtNnVzQXpjMUk1WnhFNmcyd1oxbmpZYXZwZ3lJdzBL?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZU84QlRmLWtxSm1YUWEtYTczMGNqM3hPcVliSmpSY0h2S2RKOVd1OUdXeWpRcWZDU2ZVOExwRXZUUFUzUmI2LU1fM29YUXR3ZU8xY2IzdGtOZUhkeDRucktsZ2drQk5kdkEtNnVzQXpjMUk1WnhFNmcyd1oxbmpZYXZwZ3lJdzBL?oc=5\" target=\"_blank\">Here are Friday's biggest analyst calls of the day: Nvidia, SpaceX, Tesla, AMD, Intel, Dell, Apple, Meta & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-24T12:32:26+00:00",
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXdIVGF2aEhFZkd2RUt4cWJPYnRleXU3VVAwQmdzeFhkVFVLSTduM0FuUFhrR052VGNpLVAzLXo4cHo0NTM0NUR3bG94RGowSDFwZ2E2SjZHTG1SM3M1TVU4bkVJSTZteUc5U3JGZ0ZNTGpfamo2UEpfbk9Jdk9hbHVrMC0zUU9ITmdyNTY3VWtvejRRX282N0packdXaDRKeVRjOGhiTUR5d9IBrwFBVV95cUxQMlAtRUpKdjI3MjdkS0JIckxFdGY2MzVxSVN1eWVPMFFHLXVNUF9teGt1SXZPWG9XU24xZTdpUFk2V183UXdUSXE2SnUyR2NfbXBLX0dlOF96VE8wRXd6ekg3QkVJajlPcEE5Z18teXJ4dko3MktYelZmb1BlbGJjRU5ueTlkZ19CbUlMRnJaWVdXd2NjZ2l1VnVsenNJYng3bVVxdkp0bEV6LXg0ZnNz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXdIVGF2aEhFZkd2RUt4cWJPYnRleXU3VVAwQmdzeFhkVFVLSTduM0FuUFhrR052VGNpLVAzLXo4cHo0NTM0NUR3bG94RGowSDFwZ2E2SjZHTG1SM3M1TVU4bkVJSTZteUc5U3JGZ0ZNTGpfamo2UEpfbk9Jdk9hbHVrMC0zUU9ITmdyNTY3VWtvejRRX282N0packdXaDRKeVRjOGhiTUR5d9IBrwFBVV95cUxQMlAtRUpKdjI3MjdkS0JIckxFdGY2MzVxSVN1eWVPMFFHLXVNUF9teGt1SXZPWG9XU24xZTdpUFk2V183UXdUSXE2SnUyR2NfbXBLX0dlOF96VE8wRXd6ekg3QkVJajlPcEE5Z18teXJ4dko3MktYelZmb1BlbGJjRU5ueTlkZ19CbUlMRnJaWVdXd2NjZ2l1VnVsenNJYng3bVVxdkp0bEV6LXg0ZnNz?oc=5\" target=\"_blank\">Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-25T05:00:01+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Nvidia’s Rev Lebaredian: AI’s greatest impact is in the ‘physical world’ - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSWNOVW91d3kzdFVhR0lXc3EyaDNtVk9sMlZjcXNTY0RTVDhhOFVEQ2EwZXdvMG5DaWFzYWY4UFREYkl5Z0JUZGxkb0xRMGJpRFI3R1VHdHV1Z0k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSWNOVW91d3kzdFVhR0lXc3EyaDNtVk9sMlZjcXNTY0RTVDhhOFVEQ2EwZXdvMG5DaWFzYWY4UFREYkl5Z0JUZGxkb0xRMGJpRFI3R1VHdHV1Z0k?oc=5\" target=\"_blank\">Nvidia’s Rev Lebaredian: AI’s greatest impact is in the ‘physical world’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-      "published": "2026-07-24T12:35:17+00:00",
-      "source": "Fox Business"
+      "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5\" target=\"_blank\">Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-24T23:53:00+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW8xUU5xOWFXYWRkNzcwalBIRUtRUkN4Q1JlbkpveXlMaE1aLVNNdlR1REJDNFZHUUtna1RJanpYUTk3YXk0TU1PRWVrZG9PYjZHQVRqUU9WY29yMnBYeTVWaUptQlpuWndoNE5iUlAxLVRMZlpRYlljNDRObXYwWlU5RlhuaEU?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW8xUU5xOWFXYWRkNzcwalBIRUtRUkN4Q1JlbkpveXlMaE1aLVNNdlR1REJDNFZHUUtna1RJanpYUTk3YXk0TU1PRWVrZG9PYjZHQVRqUU9WY29yMnBYeTVWaUptQlpuWndoNE5iUlAxLVRMZlpRYlljNDRObXYwWlU5RlhuaEU?oc=5\" target=\"_blank\">Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPemRIZ1JMYkdHNVUwU2xJUlVESjdPN1dmVG1FbGcwOGMwN2k2RjY4ZXpTVlFLS28ySWRRRU9hb3hSNjg0X0Z1Ml9HLWlyRnhycDN4NTNvNDdza1l4RXdteGtnVmM1ZEQxNjRTLVMtcmJqZXhRLUZHV2FoUndFNHU4Z1hsWi0xTjkwNXZhNkthdHV4aGx3WkdkTw?oc=5\" target=\"_blank\">Nvidia Stock Is Barely Beating the S&amp;P 500 Index in 2026 Despite Record Revenue. Here's What This Performance Might Suggest.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2dDZkhFckNycmZFNmJ0MmliQURnenB0UzFGbGpLYnZRZjlsOHZ4Y20zS01NOUFEcEVVMzI4SnA2ZTk3S0NrMjd3UktEeDNCUmwzVVBLX3ZnVS16MXlwT1ZyVEFub194OUdUZ216X1E1RHNkOTNMTnFZZlNUUzZnTmYwZ1JvMG13aTdDVDBaY29RdlF4dGNn?oc=5\" target=\"_blank\">Nvidia Shares Are Priced For Everything To Go Wrong: That Makes No Sense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font></li></ol>",
-      "published": "2026-07-23T20:39:00+00:00",
+      "title": "Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0dFZkNBNG5XYW1JY2NVSFl3cTRYeXpUSk5FbHNkWV80MjJnZWFLSGlyVGY5QnVCMUZ3WnRjWmIyaUlOQWc0b1NqZnlPNXg4TzZ3aE1YVC1lZ3F6UVZqRDExWVNDT2lObzEyRjJzX1h6WTduWTEwVjBUMDMwWV9aOGJfWUg1QThlM3hIVThMMlRiclBSd2M4TnBNWUVDVWtwVXkyc1QzbHhzRGYtTWJ0dTd1VQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0dFZkNBNG5XYW1JY2NVSFl3cTRYeXpUSk5FbHNkWV80MjJnZWFLSGlyVGY5QnVCMUZ3WnRjWmIyaUlOQWc0b1NqZnlPNXg4TzZ3aE1YVC1lZ3F6UVZqRDExWVNDT2lObzEyRjJzX1h6WTduWTEwVjBUMDMwWV9aOGJfWUg1QThlM3hIVThMMlRiclBSd2M4TnBNWUVDVWtwVXkyc1QzbHhzRGYtTWJ0dTd1VQ?oc=5\" target=\"_blank\">Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-07-24T23:58:05+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5\" target=\"_blank\">Nvidia, Microsoft and other tech giants back open-source AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5\" target=\"_blank\">Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUVg4bTZpUEo4T1dOYndNWTFXMXF2Tnp0MGhZT29PSjl4MnliNk5LQ2dUaGc4Yk1qaWJwTUxWVEV6eXhJMWRJUEV0anc1VTZaeHpiTmtqSUhUdHVmT3I3aWhtbmdMeFdSLU9wcg?oc=5\" target=\"_blank\">Nvidia CEO: How AI could actually create jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li></ol>",
+      "published": "2026-07-24T18:07:36+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "AMD's customer list keeps growing, and Nvidia should notice - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekVkYW1ZQUhzUm96ZFQ4MUxGcHZ5dTNjV0lYb25nY0kxdDJ4cjlha0VGeTI0QVpNTWVic0RlWGRqWHZSYmVoN25vR2xKUGFNWXUwRElKMUpMek90VFY3RDM5TjZMWEtlRHJFN1NCdElpYVMxcU9XeWg5ZjZlcFJDNDZRVzJUM3ZfQ25rbTZDM0p1WDlzT0FJNGVrNS0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQekVkYW1ZQUhzUm96ZFQ4MUxGcHZ5dTNjV0lYb25nY0kxdDJ4cjlha0VGeTI0QVpNTWVic0RlWGRqWHZSYmVoN25vR2xKUGFNWXUwRElKMUpMek90VFY3RDM5TjZMWEtlRHJFN1NCdElpYVMxcU9XeWg5ZjZlcFJDNDZRVzJUM3ZfQ25rbTZDM0p1WDlzT0FJNGVrNS0?oc=5\" target=\"_blank\">AMD's customer list keeps growing, and Nvidia should notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-24T00:03:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nebius Stock Jumps as Nvidia Partnership Reaches Major AI Milestone - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVRvZTl4NEtEcmxldVh4M20zcVNnRGZPMXpUb1hkRkJOUmVXbHMzMklvWmpWZmVIRkhxR1JGU25nREtxMXFuaTMzZElFZ3ZhVnhCdHpFLWZCU01vLTQyaHpjRVluU2dkQmpFS1RBQ0oxcHNUTFE3b0VhVkRiWEVzVEFfVUJER2JhWTlpb25BTDBPdDRRM2ZmUzVUTVJLczV0S3QtOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVRvZTl4NEtEcmxldVh4M20zcVNnRGZPMXpUb1hkRkJOUmVXbHMzMklvWmpWZmVIRkhxR1JGU25nREtxMXFuaTMzZElFZ3ZhVnhCdHpFLWZCU01vLTQyaHpjRVluU2dkQmpFS1RBQ0oxcHNUTFE3b0VhVkRiWEVzVEFfVUJER2JhWTlpb25BTDBPdDRRM2ZmUzVUTVJLczV0S3QtOA?oc=5\" target=\"_blank\">Nebius Stock Jumps as Nvidia Partnership Reaches Major AI Milestone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-23T15:47:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "This semi stock just struck a deal with Nvidia. UBS sees big gains ahead - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGE4NnY3VjQtamNqeU05WVhDbDlacmYwaUljVGhERDF6QklPcHNwLXI2dWRGazBQOUt1LVQ5Y0dfMlJ5UG9ScksycHhOZWtnX2M0YjZMN0FGZVBmY1A3ZUg5OS0yU1FsREFaWkdsVnVNUUZZQXNyQUNTVGNoRXFGbGlYVmFoM2VBc0xrd0EyWnFtRnNibjNFZVI2c2NuSWJ6aWw4SzhLQzFIRDAy?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGE4NnY3VjQtamNqeU05WVhDbDlacmYwaUljVGhERDF6QklPcHNwLXI2dWRGazBQOUt1LVQ5Y0dfMlJ5UG9ScksycHhOZWtnX2M0YjZMN0FGZVBmY1A3ZUg5OS0yU1FsREFaWkdsVnVNUUZZQXNyQUNTVGNoRXFGbGlYVmFoM2VBc0xrd0EyWnFtRnNibjNFZVI2c2NuSWJ6aWw4SzhLQzFIRDAy?oc=5\" target=\"_blank\">This semi stock just struck a deal with Nvidia. UBS sees big gains ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-24T15:31:33+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vMXR2R0x3UWxLemxmbDd4MXh6cVQ4cXZacnBsWE1IMGE2VjBpY01sT09OcHdILUgtYmthLTZmeUlyZ3VJS0xqTkRIVDdVLWxYdmhkWmlhT2NKOHNQTENuRm1jVW5LdkNVVEhBR2g2Q3E4RjM2WFhEcDBXVENRdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5vMXR2R0x3UWxLemxmbDd4MXh6cVQ4cXZacnBsWE1IMGE2VjBpY01sT09OcHdILUgtYmthLTZmeUlyZ3VJS0xqTkRIVDdVLWxYdmhkWmlhT2NKOHNQTENuRm1jVW5LdkNVVEhBR2g2Q3E4RjM2WFhEcDBXVENRdw?oc=5\" target=\"_blank\">Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-07-24T19:04:00+00:00",
       "source": "Barron's"
-    },
-    {
-      "title": "Nvidia's Huang says no chip bust \"for a while\" - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BbkxleUFYaWV0enQwZmxaMm01Sk9KZjhSdS00eS02el96aVNDSjc0a1NvcDE1T01OcVJucGM2dDV1WlR4Y2dIWXFzZG5kZ0VSeUdwWk9KaVc1VjU0bklZWk9HRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BbkxleUFYaWV0enQwZmxaMm01Sk9KZjhSdS00eS02el96aVNDSjc0a1NvcDE1T01OcVJucGM2dDV1WlR4Y2dIWXFzZG5kZ0VSeUdwWk9KaVc1VjU0bklZWk9HRQ?oc=5\" target=\"_blank\">Nvidia's Huang says no chip bust \"for a while\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-07-24T11:09:41+00:00",
-      "source": "Axios"
     }
   ],
   "product_launches": [
@@ -77,6 +77,13 @@
       "source": "Reuters"
     },
     {
+      "title": "NVIDIA and KAIST Launch Joint AI Research Lab in Seoul to Advance Agentic AI for Korea - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNnAxZlBEM1F1T2pSQzZabmN6R0FSbGx3RzBCNHRsX21tdXpGVHd3SXRWcEl4UWNRVkFaVlFnbWpJUnNlNUhSQTRreGJtMzU3Q1NURUlQdUxscmxaaldlUEVZblc4c09MQTJHckctdXhoVzgxYVVGV1BmbmFsd3Q1c0s5THlTcG5ic3VmVmhlWjJBNXlMQ1U0ZVNXTVBHcFNwZnAxbTkwNzQya0I0NmZOLWJqeFhCUmJmYzFDRDVIcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNnAxZlBEM1F1T2pSQzZabmN6R0FSbGx3RzBCNHRsX21tdXpGVHd3SXRWcEl4UWNRVkFaVlFnbWpJUnNlNUhSQTRreGJtMzU3Q1NURUlQdUxscmxaaldlUEVZblc4c09MQTJHckctdXhoVzgxYVVGV1BmbmFsd3Q1c0s5THlTcG5ic3VmVmhlWjJBNXlMQ1U0ZVNXTVBHcFNwZnAxbTkwNzQya0I0NmZOLWJqeFhCUmJmYzFDRDVIcw?oc=5\" target=\"_blank\">NVIDIA and KAIST Launch Joint AI Research Lab in Seoul to Advance Agentic AI for Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "published": "2026-07-23T23:10:00+00:00",
+      "source": "Quiver Quantitative"
+    },
+    {
       "title": "NVIDIA-KAIST's Seoul lab plans to fund at least 10 KAIST researchers yearly - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNENBd2pWTGRuNGdEaVNVY2U0aF9hTjlIcWdYNzhYblJzRXl1a1cwSEpPOXVhRW9sWWg4Z1VfVFBRNnNuNWsxMDJCV1dvQmU2cTcwZUxMVmNCRTdYcTlYYkd2OV9zWW5uODd2RUJoNjVYT0FoYjB4XzJ4anZIUS1ndFl1SHBSLWktYVEydnRoeWFPUnlaaUpVVkR6VDZzZXpMeU9UUEhfS2piY1JuZ0NRek00QmVQd2Fn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNENBd2pWTGRuNGdEaVNVY2U0aF9hTjlIcWdYNzhYblJzRXl1a1cwSEpPOXVhRW9sWWg4Z1VfVFBRNnNuNWsxMDJCV1dvQmU2cTcwZUxMVmNCRTdYcTlYYkd2OV9zWW5uODd2RUJoNjVYT0FoYjB4XzJ4anZIUS1ndFl1SHBSLWktYVEydnRoeWFPUnlaaUpVVkR6VDZzZXpMeU9UUEhfS2piY1JuZ0NRek00QmVQd2Fn?oc=5\" target=\"_blank\">NVIDIA-KAIST's Seoul lab plans to fund at least 10 KAIST researchers yearly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3pDR3ZReEJFSWlYRm9UczBUbHQtM01YaXNfUU41Nkwybzg4YnNYNjZTQzdQcXhDUUNFOW5UTjVoNG5kMDc2N1pGRndhZXBlcU13dkNVWnZMWWVkNHZISXRETTBEWUw4bHg4ZGtVb1hMaGdGbk5Ba2d2djlPOENtbFRaTzlmaFpPNHlaSHlrdk42UTFBNzBzWEt3QTloYWVJ?oc=5\" target=\"_blank\">AMD stated that its new product's performance is expected to rival NVIDIA's, with customers such as OpenAI committing to large-scale adoption.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
       "published": "2026-07-23T20:15:06+00:00",
       "source": "Moomoo"
-    },
-    {
-      "title": "World's First 2nm GPU Unveiled: Lisa Su Launches Industry's Most Powerful AI Rack with CPU Performance Outperforming NVIDIA - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ORHE0SHdxdkRSbkZOQ3R1dmE1anF0RUhiVjFsV0pra0UtcWpNWFZ5TnI3Q1hXWldwMzVlaHFxbnNKUUJ3YThhakR6UzJPUk85QTdr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ORHE0SHdxdkRSbkZOQ3R1dmE1anF0RUhiVjFsV0pra0UtcWpNWFZ5TnI3Q1hXWldwMzVlaHFxbnNKUUJ3YThhakR6UzJPUk85QTdr?oc=5\" target=\"_blank\">World's First 2nm GPU Unveiled: Lisa Su Launches Industry's Most Powerful AI Rack with CPU Performance Outperforming NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36 Kr</font>",
-      "published": "2026-07-24T00:41:47+00:00",
-      "source": "36 Kr"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-23",
-      "close": 208.75999450683594
+      "date": "2026-07-24",
+      "close": NaN
     },
     "history": [
-      {
-        "date": "2026-07-15",
-        "close": 212.5
-      },
       {
         "date": "2026-07-16",
         "close": 207.39999389648438
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-23",
         "close": 208.75999450683594
+      },
+      {
+        "date": "2026-07-24",
+        "close": NaN
       }
     ],
     "name": "NVIDIA Corporation"
