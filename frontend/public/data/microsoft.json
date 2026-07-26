@@ -2,35 +2,49 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-07-25T13:00:55.451860+00:00",
+  "fetched_at": "2026-07-26T12:57:37.361685+00:00",
   "news": [
     {
       "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models - CNBC",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5\" target=\"_blank\">Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5\" target=\"_blank\">Nvidia, Microsoft and other tech giants back open-source AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmxBWlRDQmpQMWsxVFNxY0MwZjFTcVY5cy1hS2ZjaVh3dU1LYnJzTElRdGc0M1doWTQyR3M3SWtuQUp0RC1Gc1BoUm1BQlgxWmRLWHNsZ0RSSDZmc0k0ZDh3c01uZGpSSnNjNlBwQ0hXY3JUdXNFdG1ncC0yNEdIZ0JoemhZamxmRklISy0wRndweG5qclkxV0otOFlvbTVTbDdTV3l30gGrAUFVX3lxTE9FWV8tTVR4eGJMNlNsVTZScnNFSmU0VFRSdjBCTkdxMGx1aUZ5QmVFZTJkVXRpS1lRdFhONHR1QXZpUTBnakN0RVhmZTktTGFkaFZZY3R4RGpkQ0UtaUYwc0w3TGdqYmotU2ZoX1ZxYzZ3aWQzMWNJTkZwWGVydGtoMlJRemc0SVFlNXBIZXpQY1VaNmpHSDB0UjZIN0xjeXhaU3pOaUtSX1Utaw?oc=5\" target=\"_blank\">Nvidia, Microsoft urge US to avoid broad restrictions on open AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li></ol>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5\" target=\"_blank\">Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2026-07-24T14:15:47+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0VLMFU5M0I4cF9Tb25aNDlPWWJQT2JNRUdvckxYMnhGdTZjSFpqVllzWFhKUjJ6SnUtTVZONG8xaTFHdjZXbkZQZ0M4ZjFDVFdfSlJNeUFQdG05d3g0WlVCMnExNFNQakUxYmQ4WWI1QkY5S1ZSTDAtYVlkSk5BZnRRd0djUTBkMDdFYXJBT040dl9yb3JMTVRFVGJueVJwMmhtVi1KVDBWS1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0VLMFU5M0I4cF9Tb25aNDlPWWJQT2JNRUdvckxYMnhGdTZjSFpqVllzWFhKUjJ6SnUtTVZONG8xaTFHdjZXbkZQZ0M4ZjFDVFdfSlJNeUFQdG05d3g0WlVCMnExNFNQakUxYmQ4WWI1QkY5S1ZSTDAtYVlkSk5BZnRRd0djUTBkMDdFYXJBT040dl9yb3JMTVRFVGJueVJwMmhtVi1KVDBWS1E?oc=5\" target=\"_blank\">Microsoft responds to LG monitors installing McAfee ads on Windows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-07-23T20:47:33+00:00",
-      "source": "Ars Technica"
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5\" target=\"_blank\">Nvidia, Microsoft and other tech giants back open-source AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-24T18:07:36+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXVoZExTQlAxcm1RWXZjT0pYdXBzM1pJOFdfR2IyWVhmdDVmMllMbVFyRjN1cEdMVWlSb05PdTZDdXFPOWlfM2dQLV8yanpTMU1aMW51V1RKdDhsZnd5ZTBhZTBwa1BjZW54MHZZVDZhVDRfamh4Z0pGVEdMamxEd2hnZlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXVoZExTQlAxcm1RWXZjT0pYdXBzM1pJOFdfR2IyWVhmdDVmMllMbVFyRjN1cEdMVWlSb05PdTZDdXFPOWlfM2dQLV8yanpTMU1aMW51V1RKdDhsZnd5ZTBhZTBwa1BjZW54MHZZVDZhVDRfamh4Z0pGVEdMamxEd2hnZlk?oc=5\" target=\"_blank\">Microsoft pressures LG into killing unwanted McAfee ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-07-24T09:20:09+00:00",
-      "source": "The Verge"
+      "title": "Why Nvidia, Meta, Microsoft are defending open-weight models like Kimi K3 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0p5TEtuNE9XT3BsdVlEQTBQdVc2WTVUMElZbVlKZkN1VTRNeGZ4TVNkOEhIU2E1TXFONGItbHBFR0pZR3c1WFhLV0hvWDFUa1dsRWZkbGRDc1VtdWE0dzREMlV2cWdKcnY0eHNJRm1Sbi1fS19QR2xDQl9KSXZWb1JDQlNqVzRJTWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0p5TEtuNE9XT3BsdVlEQTBQdVc2WTVUMElZbVlKZkN1VTRNeGZ4TVNkOEhIU2E1TXFONGItbHBFR0pZR3c1WFhLV0hvWDFUa1dsRWZkbGRDc1VtdWE0dzREMlV2cWdKcnY0eHNJRm1Sbi1fS19QR2xDQl9KSXZWb1JDQlNqVzRJTWc?oc=5\" target=\"_blank\">Why Nvidia, Meta, Microsoft are defending open-weight models like Kimi K3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-24T21:19:51+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft finally found a Windows ad it doesn’t like - PCWorld",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVhBYTlXQjZpUkFzMTVzUmNJenVTallQQmxPNTBkQThNM1BRbXVUeDF5ZTllM09VNDhRaXVTQmNmLWlfSlp3bTBTeF85NEJOdEZBbUh3M1NHYnA3YmFxelBTcTVvV0IwdXdxVklRRWlkVHB3VDJ3WGhyZzZxWWM4VTRLSHZ6YmYzUUw0Z1RWSG1GZXNDa2hYWElpODA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVhBYTlXQjZpUkFzMTVzUmNJenVTallQQmxPNTBkQThNM1BRbXVUeDF5ZTllM09VNDhRaXVTQmNmLWlfSlp3bTBTeF85NEJOdEZBbUh3M1NHYnA3YmFxelBTcTVvV0IwdXdxVklRRWlkVHB3VDJ3WGhyZzZxWWM4VTRLSHZ6YmYzUUw0Z1RWSG1GZXNDa2hYWElpODA?oc=5\" target=\"_blank\">Microsoft finally found a Windows ad it doesn’t like</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font>",
-      "published": "2026-07-24T15:38:00+00:00",
-      "source": "PCWorld"
+      "title": "Your Mac can get Microsoft Office for just $43 - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzBVN3JYeUhKZ0RaSmlZRVVFT0ttWHJjbXYyNDlQdFB0VllaZUFQQ04wMVFPT2o4dUFoMGwtb2UwY1pNQncwb09JTDdWdmJFbUplSXFDT2czdTRaNXltMHM1aTZESHViTF9uUHlpeDhEZFVsM01wVXRjZlRHdFBZQXFfSkNHQVZHVEFwd21kSF9ZdVlidGp6TWdR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzBVN3JYeUhKZ0RaSmlZRVVFT0ttWHJjbXYyNDlQdFB0VllaZUFQQ04wMVFPT2o4dUFoMGwtb2UwY1pNQncwb09JTDdWdmJFbUplSXFDT2czdTRaNXltMHM1aTZESHViTF9uUHlpeDhEZFVsM01wVXRjZlRHdFBZQXFfSkNHQVZHVEFwd21kSF9ZdVlidGp6TWdR?oc=5\" target=\"_blank\">Your Mac can get Microsoft Office for just $43</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-07-25T22:00:00+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Mark Zuckerberg, Microsoft CEO just made major AI decision - Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFFBRlFqcklLZUl3RVhRX1lVUjV4U3EzWjQyaUpiUGF4UlJDSWlNZG93M0N6dGczOTNrbWNITU5BVm1EYjZ0MVB5TTJ2aHVDMTNLYy1zUl9uYlp5eU5pdGN3eGlsZG9nQy0xX3MtWXRVay1KdnN5U2ZLc3JIeHNISFRVUHN2Qmt4bDRr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFFBRlFqcklLZUl3RVhRX1lVUjV4U3EzWjQyaUpiUGF4UlJDSWlNZG93M0N6dGczOTNrbWNITU5BVm1EYjZ0MVB5TTJ2aHVDMTNLYy1zUl9uYlp5eU5pdGN3eGlsZG9nQy0xX3MtWXRVay1KdnN5U2ZLc3JIeHNISFRVUHN2Qmt4bDRr?oc=5\" target=\"_blank\">Mark Zuckerberg, Microsoft CEO just made major AI decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Australia</font>",
+      "published": "2026-07-26T12:03:00+00:00",
+      "source": "Yahoo Finance Australia"
+    },
+    {
+      "title": "Get Microsoft Office Professional 2021 for life for $27.97 — Ditch 365 for good - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFlqR21GWWI2UWdxOVRlZ1lwa2twWllUSFQ0TE92eUpmQjhGdlJ3MlI0YVVlcUhLYU5uN3ppSHhOQl9LMEpXSnNLLVB5SVg0ckdKTWVDRmN4WnpJbklEOEJvWnRlMVhFcWhTUDNsSnBuc29WSEhqcUFRSHVxeE9qLVVra2pCaTNMbGlSeDVFZ1d5TWdXM2JSSVpOeG4tQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWFlqR21GWWI2UWdxOVRlZ1lwa2twWllUSFQ0TE92eUpmQjhGdlJ3MlI0YVVlcUhLYU5uN3ppSHhOQl9LMEpXSnNLLVB5SVg0ckdKTWVDRmN4WnpJbklEOEJvWnRlMVhFcWhTUDNsSnBuc29WSEhqcUFRSHVxeE9qLVVra2pCaTNMbGlSeDVFZ1d5TWdXM2JSSVpOeG4tQQ?oc=5\" target=\"_blank\">Get Microsoft Office Professional 2021 for life for $27.97 — Ditch 365 for good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-07-26T09:00:00+00:00",
+      "source": "Mashable"
     },
     {
       "title": "Beginning Ad-supported Game Streaming Test & Learn - XBOX Wire",
@@ -40,28 +54,21 @@
       "source": "XBOX Wire"
     },
     {
-      "title": "Halo: Campaign Evolved—Cracked Before Launch as Paying Players Fight Microsoft Account Linking - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR2lLWS1uTHZ6ZWdYdFYtXzVReWs4N1Z6dXBoVkF0MF9QWDJyaXRiRFdqWmhCOFIyQjBFZ3RKaklzUDFESmp1Q0N4V0tCblU3dlhkTGxiTXNCc3FMVFEwSzlCQTNhWHlKcEJnWU9tcmhmTzk5REFoUDAwZG1kMVQyb1RjdW5uaElPMmVQb2thZ2NXNEVOSHd3T2VwcUp6X05NTWdVUmN2cjlkZ192emlpYWVlMGs2Umo1a3JLZVlqeDJKZWtXTjIw0gHMAUFVX3lxTFBrZ1VzQUoybS1oQ1BxaWNEa0RJZjFxQWtoNERCcVM4YjBLejBwT1dRbWdCYTVrRlZ1SHlPRVVLRTh3TlNKOHRpZ0ZiV2liWHVMMjRoaFk0emhhR1BDam9ETHNzMmRjVlctWjhLaUx5ekVlcDRQYmhqQ2cwc29PS2doNkF1Ul9VQ3pMbTIzT0xScnhURmkxUFUtRlczeGpGV0hKalVkemRELWZNbldkMnRkMEVSUHhsXzItRFpGYklsN1lxcTI3U1JKd2ZUag?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOR2lLWS1uTHZ6ZWdYdFYtXzVReWs4N1Z6dXBoVkF0MF9QWDJyaXRiRFdqWmhCOFIyQjBFZ3RKaklzUDFESmp1Q0N4V0tCblU3dlhkTGxiTXNCc3FMVFEwSzlCQTNhWHlKcEJnWU9tcmhmTzk5REFoUDAwZG1kMVQyb1RjdW5uaElPMmVQb2thZ2NXNEVOSHd3T2VwcUp6X05NTWdVUmN2cjlkZ192emlpYWVlMGs2Umo1a3JLZVlqeDJKZWtXTjIw0gHMAUFVX3lxTFBrZ1VzQUoybS1oQ1BxaWNEa0RJZjFxQWtoNERCcVM4YjBLejBwT1dRbWdCYTVrRlZ1SHlPRVVLRTh3TlNKOHRpZ0ZiV2liWHVMMjRoaFk0emhhR1BDam9ETHNzMmRjVlctWjhLaUx5ekVlcDRQYmhqQ2cwc29PS2doNkF1Ul9VQ3pMbTIzT0xScnhURmkxUFUtRlczeGpGV0hKalVkemRELWZNbldkMnRkMEVSUHhsXzItRFpGYklsN1lxcTI3U1JKd2ZUag?oc=5\" target=\"_blank\">Halo: Campaign Evolved—Cracked Before Launch as Paying Players Fight Microsoft Account Linking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2026-07-24T15:00:25+00:00",
-      "source": "TechPowerUp"
-    },
-    {
-      "title": "Amazon and Microsoft pivot cloud gaming strategies to target different players - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nSXZXSjBjOEdnQVlTbjVPRWMwODNiQ0JNLW83cDBfV1R1dEcyYUhSeUtaNGg0WktxVlpSSWE5bldjRlFkczVHV21pTlJsd1hKMk9kRUxCZnJBMUxOZGd3NU9JTHNrWEM2aXFXNGFJMG0zcnQ40gF6QVVfeXFMUEZEWExLSFdXbVpNejlLRjRNbjd6REs3WktrRDJlWTBmdWstaEtVb0xQU2pYa2RMMHh4dWQ3c1RBM0QtdTdRbUd6UDBUNGh2cjNQNHdfMjJDbWp6azd6c2FMSk1KVGVRU2c4RDlzbndIS0JHTy1CZC1fU1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9nSXZXSjBjOEdnQVlTbjVPRWMwODNiQ0JNLW83cDBfV1R1dEcyYUhSeUtaNGg0WktxVlpSSWE5bldjRlFkczVHV21pTlJsd1hKMk9kRUxCZnJBMUxOZGd3NU9JTHNrWEM2aXFXNGFJMG0zcnQ40gF6QVVfeXFMUEZEWExLSFdXbVpNejlLRjRNbjd6REs3WktrRDJlWTBmdWstaEtVb0xQU2pYa2RMMHh4dWQ3c1RBM0QtdTdRbUd6UDBUNGh2cjNQNHdfMjJDbWp6azd6c2FMSk1KVGVRU2c4RDlzbndIS0JHTy1CZC1fU1E?oc=5\" target=\"_blank\">Amazon and Microsoft pivot cloud gaming strategies to target different players</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-23T16:00:40+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts - CyberInsider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREIzM05tS3VPdVVEVkpkUkc0c1VyVEs5M2kyNFdfeWVGdGVRcDFqSUFqLWN4MFVPLUpMTGJLb0JIQW9RR1BFN3hIVmhFSE5xVzRjQWN3YUFMMGF1LVZpQ3J0RXpkUnk5MEp0Q1BNY1ZMYko1eXRfdG5lQ0FtU09GUGMtNXQta04zekhJUEdNcTdiUkRLak5zaG5ha2JFNzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOREIzM05tS3VPdVVEVkpkUkc0c1VyVEs5M2kyNFdfeWVGdGVRcDFqSUFqLWN4MFVPLUpMTGJLb0JIQW9RR1BFN3hIVmhFSE5xVzRjQWN3YUFMMGF1LVZpQ3J0RXpkUnk5MEp0Q1BNY1ZMYko1eXRfdG5lQ0FtU09GUGMtNXQta04zekhJUEdNcTdiUkRLak5zaG5ha2JFNzA?oc=5\" target=\"_blank\">Hackers use DNS poisoning on hotel Wi‑Fi to steal Microsoft 365 accounts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CyberInsider</font>",
-      "published": "2026-07-24T14:06:21+00:00",
-      "source": "CyberInsider"
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0VLMFU5M0I4cF9Tb25aNDlPWWJQT2JNRUdvckxYMnhGdTZjSFpqVllzWFhKUjJ6SnUtTVZONG8xaTFHdjZXbkZQZ0M4ZjFDVFdfSlJNeUFQdG05d3g0WlVCMnExNFNQakUxYmQ4WWI1QkY5S1ZSTDAtYVlkSk5BZnRRd0djUTBkMDdFYXJBT040dl9yb3JMTVRFVGJueVJwMmhtVi1KVDBWS1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0VLMFU5M0I4cF9Tb25aNDlPWWJQT2JNRUdvckxYMnhGdTZjSFpqVllzWFhKUjJ6SnUtTVZONG8xaTFHdjZXbkZQZ0M4ZjFDVFdfSlJNeUFQdG05d3g0WlVCMnExNFNQakUxYmQ4WWI1QkY5S1ZSTDAtYVlkSk5BZnRRd0djUTBkMDdFYXJBT040dl9yb3JMTVRFVGJueVJwMmhtVi1KVDBWS1E?oc=5\" target=\"_blank\">Microsoft responds to LG monitors installing McAfee ads on Windows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-07-23T20:47:33+00:00",
+      "source": "Ars Technica"
     }
   ],
   "product_launches": [
+    {
+      "title": "Microsoft launches new MAI family of AI models for reasoning, voice, coding, and images - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhvOFFMdzREZTdVcXgtRldpaFlLZENNMEF3dF9wQnF3UWtfRmN3MWt0a2VEVXY1cmJwQTc4dlk0d0hmTHU3bExNTTdkSldJR21ES0l4VnlCT2xERUJGMS0tNFZpMzNBeDJVRW9kc1lBekM1YWZzZjc3VXBMRDJObjdDdXY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhvOFFMdzREZTdVcXgtRldpaFlLZENNMEF3dF9wQnF3UWtfRmN3MWt0a2VEVXY1cmJwQTc4dlk0d0hmTHU3bExNTTdkSldJR21ES0l4VnlCT2xERUJGMS0tNFZpMzNBeDJVRW9kc1lBekM1YWZzZjc3VXBMRDJObjdDdXY?oc=5\" target=\"_blank\">Microsoft launches new MAI family of AI models for reasoning, voice, coding, and images</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-07-25T14:43:19+00:00",
+      "source": "Mashable"
+    },
     {
       "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5",
@@ -89,13 +96,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
       "published": "2026-06-15T07:00:00+00:00",
       "source": "Search Engine Journal"
-    },
-    {
-      "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": "The Motley Fool"
     }
   ],
   "stock": {
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-07-24",
-      "close": NaN
+      "close": 381.70001220703125
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-07-24",
-        "close": NaN
+        "close": 381.70001220703125
       }
     ],
     "name": "Microsoft Corporation"

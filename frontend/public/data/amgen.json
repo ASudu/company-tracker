@@ -2,7 +2,7 @@
   "name": "Amgen",
   "slug": "amgen",
   "ticker": "AMGN",
-  "fetched_at": "2026-07-25T13:01:11.825637+00:00",
+  "fetched_at": "2026-07-26T12:57:55.335503+00:00",
   "news": [
     {
       "title": "Amgen sheds around 40 staffers as struggles mount - Fierce Biotech",
@@ -47,18 +47,18 @@
       "source": "BioSpace"
     },
     {
-      "title": "Regulatory Shock Sends Amgen Sliding Despite Cash Strength - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTExNenFFYjQ5V0I5bks5MHJad3ByV19DQmVtMVR4ODNOQXVFNUgwSlpQanBvVUFjbllpTlkwbTRRRkZLSEFNUE14U0FMSFIxVHZ2SVYtT0s0R1NjMnJjRV9yazRSMnVmRi1hRFlEUDRCRDFyQWU0YW5sTUdjQTZFVGZQeE5jQ2JsQzhVRW5VTElSVHR0SmNLNGkwNTZNdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTExNenFFYjQ5V0I5bks5MHJad3ByV19DQmVtMVR4ODNOQXVFNUgwSlpQanBvVUFjbllpTlkwbTRRRkZLSEFNUE14U0FMSFIxVHZ2SVYtT0s0R1NjMnJjRV9yazRSMnVmRi1hRFlEUDRCRDFyQWU0YW5sTUdjQTZFVGZQeE5jQ2JsQzhVRW5VTElSVHR0SmNLNGkwNTZNdw?oc=5\" target=\"_blank\">Regulatory Shock Sends Amgen Sliding Despite Cash Strength</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-      "published": "2026-07-23T21:40:16+00:00",
-      "source": "TipRanks"
-    },
-    {
       "title": "A pharmaceutical company is trying to block Colorado’s first-in-the-nation drug price cap in court - The Colorado Sun",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80ZzRIcUIwNU9BX19EMWV5eXJ1V3JNazR4cEY5bDlfWThtVG9Jejg1bHkzWkdKLWc0NVVQWHhET0ZHVFIzU19WNEYtdmtKZU1RaFZJN2R4YnZKMG5vNjFWdVFBZF9yX0JuUWJKclhtdWRXekhuanRSWQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE80ZzRIcUIwNU9BX19EMWV5eXJ1V3JNazR4cEY5bDlfWThtVG9Jejg1bHkzWkdKLWc0NVVQWHhET0ZHVFIzU19WNEYtdmtKZU1RaFZJN2R4YnZKMG5vNjFWdVFBZF9yX0JuUWJKclhtdWRXekhuanRSWQ?oc=5\" target=\"_blank\">A pharmaceutical company is trying to block Colorado’s first-in-the-nation drug price cap in court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Colorado Sun</font>",
       "published": "2026-06-05T07:00:00+00:00",
       "source": "The Colorado Sun"
+    },
+    {
+      "title": "Amgen settles shareholder lawsuit claiming it hid $10.7 billion tax bill - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3YtTFY5b1JGWk5hRmNILXdxSllxZ0hBSnhjVGREdndkQVo3d0VDU0FwWlYxTU40LWVoTVp6OGZHcUM3XzFEMFZ1OFg5NEZzSG9LUkxueUd1U3ZIV1NTanc0cFFPUEpRUHFMa3BDRG9tN0lYOU1FajhXY21KY1RBUkRmTzRZX3lxcFU4MG83NFdLTy1DTGprM2UyNmZFSDFLZ0hBclNnWnFRcklzNG5nYWY2MGp0Z3JvbUVZSTZUX1k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3YtTFY5b1JGWk5hRmNILXdxSllxZ0hBSnhjVGREdndkQVo3d0VDU0FwWlYxTU40LWVoTVp6OGZHcUM3XzFEMFZ1OFg5NEZzSG9LUkxueUd1U3ZIV1NTanc0cFFPUEpRUHFMa3BDRG9tN0lYOU1FajhXY21KY1RBUkRmTzRZX3lxcFU4MG83NFdLTy1DTGprM2UyNmZFSDFLZ0hBclNnWnFRcklzNG5nYWY2MGp0Z3JvbUVZSTZUX1k?oc=5\" target=\"_blank\">Amgen settles shareholder lawsuit claiming it hid $10.7 billion tax bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-21T19:33:00+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-07-24",
-      "close": NaN
+      "close": 376.0400085449219
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-07-24",
-        "close": NaN
+        "close": 376.0400085449219
       }
     ],
     "name": "Amgen Inc."
