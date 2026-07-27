@@ -2,66 +2,80 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-07-26T12:57:35.000059+00:00",
+  "fetched_at": "2026-07-27T14:09:43.375445+00:00",
   "news": [
     {
-      "title": "Apple's First Water-Resistant iPad to Launch Later This Year - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MU0hVYnFzX29iMmNQS3pqOEpodGxXc2x2OGlSbXdTRVlDcGZhWWozWC1od2xkR3RCbjhsN1RJdzVYOXNUOVBWb1JkVGV2ODVlMXM1Y3hVU2U5U2RoREpSejFub1dHbW5RNzdiSUVteDVDdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1MU0hVYnFzX29iMmNQS3pqOEpodGxXc2x2OGlSbXdTRVlDcGZhWWozWC1od2xkR3RCbjhsN1RJdzVYOXNUOVBWb1JkVGV2ODVlMXM1Y3hVU2U5U2RoREpSejFub1dHbW5RNzdiSUVteDVDdw?oc=5\" target=\"_blank\">Apple's First Water-Resistant iPad to Launch Later This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-07-26T01:00:00+00:00",
-      "source": "MacRumors"
+      "title": "Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVlVaXc1cnFqdHQ3bmlBUjVlRkhaa3pGRFhiYUpBRVZuV3QxNVNGR1FpcWJBbUVpcGlFRHFwWjhRQ1RUc0ZNazJPODFNRGlnWW1aa3F2eGxDdHlEQnJIUkRzY19lc2pPbUc0UThtalZ0MEd3U25ZOXZ6ZURxbEM5NU5iNzU1Z0c3LV9zdXZyb2xIUEgxakJ4UFBJbHVUVnZHQkd6cWJYcUJOTzBYZmpKanFVRFFLZkVGTnBYRHFuYUJ0amQ5ZEx4VEJpN0xNcFU2?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVlVaXc1cnFqdHQ3bmlBUjVlRkhaa3pGRFhiYUpBRVZuV3QxNVNGR1FpcWJBbUVpcGlFRHFwWjhRQ1RUc0ZNazJPODFNRGlnWW1aa3F2eGxDdHlEQnJIUkRzY19lc2pPbUc0UThtalZ0MEd3U25ZOXZ6ZURxbEM5NU5iNzU1Z0c3LV9zdXZyb2xIUEgxakJ4UFBJbHVUVnZHQkd6cWJYcUJOTzBYZmpKanFVRFFLZkVGTnBYRHFuYUJ0amQ5ZEx4VEJpN0xNcFU2?oc=5\" target=\"_blank\">Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-07-26T07:00:00+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "After Apple leak, has India lost ground in its supply chain race with China? - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdIcFdZY1Rna0VzaUphUjZ2cF9MVlVUVjROVHlIWmN1TWN3eXNxSmF0aGt1UlJEZDBXcVpKRmlXMncyalVEbERMWDY5WUxfcUt2ZmFNdTdQeFJaUnpOalJjTWs2UlFwN3hVQXpSTWlGNUpKa3F6MTlBVlBjTUNHWjNORVVPR3dYMHRMUGpiQzFJWHZTRE1HYkVmZFA5T3oyaWVpVFBscXVkWW1mWkVlRXozMldYTzNhN3JOaXI5bmZGVGxmUlBGVXRYNklPSmlFT0HSAdIBQVVfeXFMT0RoNWx1YlN4VDhFbWY5eWFBWVZFeUNrOUtzb0NjTkprOVZiWEpXeFBULUJvaXNCRE5kTjFjTFp2T0RDcS1JUF9xUDBmZlNYbGdoSDVDQ0Y3cElkQVhZZS1xMkxwcVV4dk5JSnA4dFNCOTl1Vm5zR3hLdklPTE5ablpkU1IweHZIVmRXVjBDcVh4d2pSdkZxUlFBUnJSTklMUnBBdXAyX0NlN3VMcXpVd2o2b0hSZDZTRzZxeWhJSHd3Umd4dlV6V25GdWdHUHJuVTF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzdIcFdZY1Rna0VzaUphUjZ2cF9MVlVUVjROVHlIWmN1TWN3eXNxSmF0aGt1UlJEZDBXcVpKRmlXMncyalVEbERMWDY5WUxfcUt2ZmFNdTdQeFJaUnpOalJjTWs2UlFwN3hVQXpSTWlGNUpKa3F6MTlBVlBjTUNHWjNORVVPR3dYMHRMUGpiQzFJWHZTRE1HYkVmZFA5T3oyaWVpVFBscXVkWW1mWkVlRXozMldYTzNhN3JOaXI5bmZGVGxmUlBGVXRYNklPSmlFT0HSAdIBQVVfeXFMT0RoNWx1YlN4VDhFbWY5eWFBWVZFeUNrOUtzb0NjTkprOVZiWEpXeFBULUJvaXNCRE5kTjFjTFp2T0RDcS1JUF9xUDBmZlNYbGdoSDVDQ0Y3cElkQVhZZS1xMkxwcVV4dk5JSnA4dFNCOTl1Vm5zR3hLdklPTE5ablpkU1IweHZIVmRXVjBDcVh4d2pSdkZxUlFBUnJSTklMUnBBdXAyX0NlN3VMcXpVd2o2b0hSZDZTRzZxeWhJSHd3Umd4dlV6V25GdWdHUHJuVTF3?oc=5\" target=\"_blank\">After Apple leak, has India lost ground in its supply chain race with China?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-      "published": "2026-07-25T22:00:07+00:00",
-      "source": "South China Morning Post"
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat? - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmJtY3ZuNENJU1FaM0w3cWN6ME42X20zMjhlX0dkY0dRQktNR1ZpQVZLeFE3d3ZSeHcycElteVpIZ25DTEFuc1NxQ3dEYXFxbm96Ni1oeW5GQXQzOHdpc0dFV1ROeUY0NW9tUnp3RlZFdGRtRGtPSFBtdlFDeXNWZnVZNVlZM0pJeng5bGE2dHF2Z0ZLWlpucTdVanNzN2pOVVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmJtY3ZuNENJU1FaM0w3cWN6ME42X20zMjhlX0dkY0dRQktNR1ZpQVZLeFE3d3ZSeHcycElteVpIZ25DTEFuc1NxQ3dEYXFxbm96Ni1oeW5GQXQzOHdpc0dFV1ROeUY0NW9tUnp3RlZFdGRtRGtPSFBtdlFDeXNWZnVZNVlZM0pJeng5bGE2dHF2Z0ZLWlpucTdVanNzN2pOVVE?oc=5\" target=\"_blank\">Can Apple make smart glasses that aren’t a constant privacy threat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-07-26T21:06:44+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Earnings playbook: Apple and other megacaps lead busiest week of the season - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTRkRkZaeWpzZ2pudU5pdEZKN2Y2b0xaVDRTMlM0blkwVU9XbEExUVdtVE5ZVjVGdzJ3SUxsQ29BRnNhcmdnOGZRMGVtS1kwbzNLb1hJalZreG9ac1M2eGFyU3I5MmNJVzd6RUcyYjd3N1JrcHlpTW9MVnpnbFhjYTJSckROOUlQU1BQY3p3NGNVZjNhdXhyVnN6VjFiT19zOHdpbExWR3lyOVU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTRkRkZaeWpzZ2pudU5pdEZKN2Y2b0xaVDRTMlM0blkwVU9XbEExUVdtVE5ZVjVGdzJ3SUxsQ29BRnNhcmdnOGZRMGVtS1kwbzNLb1hJalZreG9ac1M2eGFyU3I5MmNJVzd6RUcyYjd3N1JrcHlpTW9MVnpnbFhjYTJSckROOUlQU1BQY3p3NGNVZjNhdXhyVnN6VjFiT19zOHdpbExWR3lyOVU?oc=5\" target=\"_blank\">Earnings playbook: Apple and other megacaps lead busiest week of the season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-26T11:31:20+00:00",
+      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PbjVVVmlGNnBOM1hmSUV3bmg4SFFtS19JeGlneXZzMkNGTXRNLVdyclEtRmpGbFE2cUpMcVUtTlRwSFUzazk5S01zYU40T0RVcWQ4UTNQTkg2Q1hJNjZZWVRFN0t4ZkhENXJWenh0LXRIZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9PbjVVVmlGNnBOM1hmSUV3bmg4SFFtS19JeGlneXZzMkNGTXRNLVdyclEtRmpGbFE2cUpMcVUtTlRwSFUzazk5S01zYU40T0RVcWQ4UTNQTkg2Q1hJNjZZWVRFN0t4ZkhENXJWenh0LXRIZw?oc=5\" target=\"_blank\">Apple is banking on privacy to set its smart glasses apart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-07-26T19:36:38+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Just Raised Mac Prices, This Refurbished M4 MacBook Air Quietly Undercuts Them All - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVF0OC1hZnFLbkUxajg1N1dHMzdiOE9hT2RGbjhwRXBDX2VNcjNfdVMybXpZN2xhblNySllDaElLWmxTU09GaW5Za0RqTmJYQnEySE93WU9MT0RyRmdxSEJET3YyeTNrb2E3U0NYYTFSQWxJVnptbmxFWEtNSElXbXI1YzFubTYwWjRvcFJIZVlCQ2k3dWVGSXl4OTk1aHZhOFFGV3F4bnVWNU91aVFaVlhfQnpsMGdwbFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVF0OC1hZnFLbkUxajg1N1dHMzdiOE9hT2RGbjhwRXBDX2VNcjNfdVMybXpZN2xhblNySllDaElLWmxTU09GaW5Za0RqTmJYQnEySE93WU9MT0RyRmdxSEJET3YyeTNrb2E3U0NYYTFSQWxJVnptbmxFWEtNSElXbXI1YzFubTYwWjRvcFJIZVlCQ2k3dWVGSXl4OTk1aHZhOFFGV3F4bnVWNU91aVFaVlhfQnpsMGdwbFE?oc=5\" target=\"_blank\">Apple Just Raised Mac Prices, This Refurbished M4 MacBook Air Quietly Undercuts Them All</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-07-27T13:15:59+00:00",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Apple options are doing something unusual into earnings - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjh1Tl9KYmpqUm1rUVNubjE3UUFKaHc4cE8zSEdSd2sxM0RjWDlGSnBBcnZlZVYzVkRmcTc4dXZTRHFtX042UGR6aVdFZ01VakVVVkM1a1ZfMUg5ZFM5UjcyOGtGYXNfOUxKNjNTaHIyQXg3SlluWU5QQXFBMjI2MG8wTUpyU1ZWUWRzLXdKOTJCd3pfTjc40gGcAUFVX3lxTE52YzFmVGhYUW9PQVJWQnJTYzVhWlNyRm9Fb2I1cUJvTEZSVi1PWEEwY2VWY0Z3VmlrUkxMUUJNTmZjMTdrTks1NXV1a1ZibUZBVWxnbUg3Q05jaHVlVFhCMWctLUdyOUtWR3JWOGFDQVZYWWY0a0t4bk1aMHJTYzNNQlBmVmFOZFlKbHZodWxubVo5YjZNd3FnMjV4OQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjh1Tl9KYmpqUm1rUVNubjE3UUFKaHc4cE8zSEdSd2sxM0RjWDlGSnBBcnZlZVYzVkRmcTc4dXZTRHFtX042UGR6aVdFZ01VakVVVkM1a1ZfMUg5ZFM5UjcyOGtGYXNfOUxKNjNTaHIyQXg3SlluWU5QQXFBMjI2MG8wTUpyU1ZWUWRzLXdKOTJCd3pfTjc40gGcAUFVX3lxTE52YzFmVGhYUW9PQVJWQnJTYzVhWlNyRm9Fb2I1cUJvTEZSVi1PWEEwY2VWY0Z3VmlrUkxMUUJNTmZjMTdrTks1NXV1a1ZibUZBVWxnbUg3Q05jaHVlVFhCMWctLUdyOUtWR3JWOGFDQVZYWWY0a0t4bk1aMHJTYzNNQlBmVmFOZFlKbHZodWxubVo5YjZNd3FnMjV4OQ?oc=5\" target=\"_blank\">Apple options are doing something unusual into earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-27T10:58:27+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Woman Drives A New Chevrolet Trailblazer. Then Her iPhone Updates. Then Her Apple CarPlay Stops Working - Motor1.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yZFdsYm1FWFYtaUhoZmVQcUZHZndUdmt0NHpiS25hSEdPRHdpZVVJSFBWdGhwcTlpanNLQjh4SmlJLXFfY25rN1o2djF5Smo5dXNXekZOdUY0aVNQVzdmV0dTTlk0bW1IWXBhVUtPXzJPTzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1yZFdsYm1FWFYtaUhoZmVQcUZHZndUdmt0NHpiS25hSEdPRHdpZVVJSFBWdGhwcTlpanNLQjh4SmlJLXFfY25rN1o2djF5Smo5dXNXekZOdUY0aVNQVzdmV0dTTlk0bW1IWXBhVUtPXzJPTzQ?oc=5\" target=\"_blank\">Woman Drives A New Chevrolet Trailblazer. Then Her iPhone Updates. Then Her Apple CarPlay Stops Working</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor1.com</font>",
-      "published": "2026-07-26T12:00:26+00:00",
-      "source": "Motor1.com"
+      "title": "D4vd's Apple Music page reportedly hacked amid murder charges - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFb1FZandFRFhMRFo3aHFUdlRxc19FMXQxbmQwc2pCOFFSc3BEWHczR3FyUUFEeWZSS3dpN0IzVmVRNThnVzVJNHFMektrOUZvZTBEeVVXNVRydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFb1FZandFRFhMRFo3aHFUdlRxc19FMXQxbmQwc2pCOFFSc3BEWHczR3FyUUFEeWZSS3dpN0IzVmVRNThnVzVJNHFMektrOUZvZTBEeVVXNVRydw?oc=5\" target=\"_blank\">D4vd's Apple Music page reportedly hacked amid murder charges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-07-27T10:42:58+00:00",
+      "source": "BBC"
     },
     {
-      "title": "iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblIzdzVqRTlqZVIycU1pTWNhZTBHR2tsZ1g4Z1doTlMwaFdJZGptdE1XUzg2RThYcHIyWXp4U0hGSjc4YXdlR0I5Ti0zWUgxcjhrWGtLSkNHUjFlR2tTUnk5VnQyM3BiYV9raEFtWEFPX2ExOGxqdmFibEFzTHNkdGltcnRpMmxYb2lFY0pfT2NpdFBrUG9jUEdpVjkxXzlnUjdUeWFOcUVwRmRZc005bEYyRmREdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOblIzdzVqRTlqZVIycU1pTWNhZTBHR2tsZ1g4Z1doTlMwaFdJZGptdE1XUzg2RThYcHIyWXp4U0hGSjc4YXdlR0I5Ti0zWUgxcjhrWGtLSkNHUjFlR2tTUnk5VnQyM3BiYV9raEFtWEFPX2ExOGxqdmFibEFzTHNkdGltcnRpMmxYb2lFY0pfT2NpdFBrUG9jUEdpVjkxXzlnUjdUeWFOcUVwRmRZc005bEYyRmREdw?oc=5\" target=\"_blank\">iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-07-25T16:30:55+00:00",
-      "source": "Forbes"
+      "title": "Fake ‘I Did It’ track uploaded to D4vd’s hacked Apple Music profile - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPOU1vUTBZbDNOdGhHT3RGUWRua21rRmRmV0Jvc0lQcV9ramVxTENrLTg3NjdwdDZsX2diMF80OFNPQW1CS3pIWnRCVmp5UXhRbkhERUVFNzN5SEpzMUIzYmR3UzJPOV9iZTJ5ZHBLdVEtX3JFVTlmUGJB0gF_QVVfeXFMTTZBNkl4ZnR4c2FrZm9qNUZfVEpXaS1NbkxiZjJWcUNobW9hOU1lZUpLUmlWSDl5alhucFhtRHdlcUMzYXZ4djFJRW5qODc0NV9JbUxqZVFFUWt5eUV3LWJrNnBMVWllVnk2UGFKdXN0MUg3aXJOTWhZYTBwWlZuZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBPOU1vUTBZbDNOdGhHT3RGUWRua21rRmRmV0Jvc0lQcV9ramVxTENrLTg3NjdwdDZsX2diMF80OFNPQW1CS3pIWnRCVmp5UXhRbkhERUVFNzN5SEpzMUIzYmR3UzJPOV9iZTJ5ZHBLdVEtX3JFVTlmUGJB0gF_QVVfeXFMTTZBNkl4ZnR4c2FrZm9qNUZfVEpXaS1NbkxiZjJWcUNobW9hOU1lZUpLUmlWSDl5alhucFhtRHdlcUMzYXZ4djFJRW5qODc0NV9JbUxqZVFFUWt5eUV3LWJrNnBMVWllVnk2UGFKdXN0MUg3aXJOTWhZYTBwWlZuZw?oc=5\" target=\"_blank\">Fake ‘I Did It’ track uploaded to D4vd’s hacked Apple Music profile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
+      "published": "2026-07-27T04:59:57+00:00",
+      "source": "KTLA"
     },
     {
-      "title": "Exclusive | Trump Caught Between Apple and Micron in Fight Over Chinese Chips - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNOXpsM1BiR251eGF0YUpvODNNQ1FoTktWNUJOX3hYOWctMHNqNDZPaGlyY3NZY2lTYl9RZklMMFhRb2tYdTg1R0dCaGNYSEpWWERQa3ZIbjJEMlNuR0tJUFhZUzJ2VU5nYUxZYVpibzI5dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNOXpsM1BiR251eGF0YUpvODNNQ1FoTktWNUJOX3hYOWctMHNqNDZPaGlyY3NZY2lTYl9RZklMMFhRb2tYdTg1R0dCaGNYSEpWWERQa3ZIbjJEMlNuR0tJUFhZUzJ2VU5nYUxZYVpibzI5dw?oc=5\" target=\"_blank\">Exclusive | Trump Caught Between Apple and Micron in Fight Over Chinese Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-07-25T01:00:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Apple faces opposition from Micron to use Chinese memory chips - report - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX01peDFTNkRIUzZNdTM5VjhHdUNHZ2s2V0FMbnhxV0JqX0ZCV2puNXdhMU9qb2xXMWprUlBobWtJcVJBd2stbWNacEN4MlhBMmhTaGxvdXJJOWNKZF9KYzFEbTBlbWl4QWthUW9UNVE3NmFKUVRCVW42dzMxT2JqRHo4MzZ1UlRrUnU5YUQxU2NGb25IdXN3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNX01peDFTNkRIUzZNdTM5VjhHdUNHZ2s2V0FMbnhxV0JqX0ZCV2puNXdhMU9qb2xXMWprUlBobWtJcVJBd2stbWNacEN4MlhBMmhTaGxvdXJJOWNKZF9KYzFEbTBlbWl4QWthUW9UNVE3NmFKUVRCVW42dzMxT2JqRHo4MzZ1UlRrUnU5YUQxU2NGb25IdXN3?oc=5\" target=\"_blank\">Apple faces opposition from Micron to use Chinese memory chips - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-07-25T13:30:28+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "Micron urges White House to reject Apple's blacklist memory plan - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbS1VWFVmdHZ3YjkyRzdJbVYwYUszZjFYN2M4UGdUSVYtV2VwNkZUeHFkZlVpYVdpR2FpWGJZUEdKTFdmLTRmMWV6LTlVZFJFdVJIWUxJUTgwSUppc3pSbzdDamxDaU9fT29Ual9YR292eGNNZjhmZXlKRnZ5NlQya25yZXR3VVdiVnBFVG9WNlBBNWxlOE41cnVtd3hSU1hCVzlHRC16b2VMQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbS1VWFVmdHZ3YjkyRzdJbVYwYUszZjFYN2M4UGdUSVYtV2VwNkZUeHFkZlVpYVdpR2FpWGJZUEdKTFdmLTRmMWV6LTlVZFJFdVJIWUxJUTgwSUppc3pSbzdDamxDaU9fT29Ual9YR292eGNNZjhmZXlKRnZ5NlQya25yZXR3VVdiVnBFVG9WNlBBNWxlOE41cnVtd3hSU1hCVzlHRC16b2VMQQ?oc=5\" target=\"_blank\">Micron urges White House to reject Apple's blacklist memory plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
-      "published": "2026-07-25T12:48:00+00:00",
-      "source": "AppleInsider"
+      "title": "Fans question D4vd ‘I DID IT…’ track posted with Tesla artwork - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFgyMEFncXp5ZW0yNWczZ1lOZTBrQTlYYnREMnZKdlotX2JHdUl2dXV6YXM4RGtKR2c2eEZIMy1TZUN5NWQ4aTBvaURXallEa0JBWE0wRmFJX2N2VFVpUHJEajN2YWNMT1NHb0pVWlFlTXAzdVZXcEY4bWZZU3RWNtIBhgFBVV95cUxOTElVYjVwbnRMTE1YSnBKemVwd2kzZDN5MW9mX1lydTU0MVJYU2pCM1ppbzk5djN3ckNfRUtkMXNnSm1nUi1ibWlQUVdOVmhlcko4bGZ5aU1BY0RnR2ZnNFBvcGpZNUFyMG4tMm1LakVaeE1kUHo2bGtrRDhGVzlzb2hjRmtYZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNFgyMEFncXp5ZW0yNWczZ1lOZTBrQTlYYnREMnZKdlotX2JHdUl2dXV6YXM4RGtKR2c2eEZIMy1TZUN5NWQ4aTBvaURXallEa0JBWE0wRmFJX2N2VFVpUHJEajN2YWNMT1NHb0pVWlFlTXAzdVZXcEY4bWZZU3RWNtIBhgFBVV95cUxOTElVYjVwbnRMTE1YSnBKemVwd2kzZDN5MW9mX1lydTU0MVJYU2pCM1ppbzk5djN3ckNfRUtkMXNnSm1nUi1ibWlQUVdOVmhlcko4bGZ5aU1BY0RnR2ZnNFBvcGpZNUFyMG4tMm1LakVaeE1kUHo2bGtrRDhGVzlzb2hjRmtYZw?oc=5\" target=\"_blank\">Fans question D4vd ‘I DID IT…’ track posted with Tesla artwork</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
+      "published": "2026-07-27T00:09:19+00:00",
+      "source": "NewsNation"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple’s next CEO inherits a product empire hungry for its next breakthrough - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mMTQ1dlZaeHU3bFhXeWlPSFdTZ3JGT0dtMF9rdG0wN2dOcEFRNzFpZTlJa3c5alNObmlOczBWeWxvMGxKUDFaQVhSUkNhNmN6V2tzd2trVHktV2d2UlplUDBNZnpPdnN1X29SUGpyUGl0VWxMckhnc0x1OGZmU0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mMTQ1dlZaeHU3bFhXeWlPSFdTZ3JGT0dtMF9rdG0wN2dOcEFRNzFpZTlJa3c5alNObmlOczBWeWxvMGxKUDFaQVhSUkNhNmN6V2tzd2trVHktV2d2UlplUDBNZnpPdnN1X29SUGpyUGl0VWxMckhnc0x1OGZmU0E?oc=5\" target=\"_blank\">Apple’s next CEO inherits a product empire hungry for its next breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-07-27T11:33:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Apple reportedly plans to unveil a new product at WWDC next June - PhoneArena",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVzVnb3A1QjlRQ2R4LUx1V0dHTHEwbEowYWRibXVVSnMyT2dTdnhWTFBITDZfczcyZEhOQlUwclhxUW5pc3djaFgzWnRPR0ZSUWRhemNKUXZ3OXVqTHByTmttWHlfOEtSRGR5M0xjV1A0Skc2OWxYZlJ5a1FhdEI5OER6XzFnb05PdjhLYnJmOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVzVnb3A1QjlRQ2R4LUx1V0dHTHEwbEowYWRibXVVSnMyT2dTdnhWTFBITDZfczcyZEhOQlUwclhxUW5pc3djaFgzWnRPR0ZSUWRhemNKUXZ3OXVqTHByTmttWHlfOEtSRGR5M0xjV1A0Skc2OWxYZlJ5a1FhdEI5OER6XzFnb05PdjhLYnJmOA?oc=5\" target=\"_blank\">Apple reportedly plans to unveil a new product at WWDC next June</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font>",
+      "published": "2026-07-27T04:22:45+00:00",
+      "source": "PhoneArena"
+    },
     {
       "title": "Meet incoming Apple CEO John Ternus: Everything to know - Mashable",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVRJOTRWVFJfcGE2Vjl2N25kbi0yMHpxeWtUb2MxTEIwenBaYURBV0Y2OU9yVDJnQVJKMk9faXh6VTcxUElTZlRMeFljdnRLdVlRTzdRbVI5dnhscVEySzh4NUc0ZnNvWHo5ZExieDU5LWlLQ3o0SG5kcGI5UnlZalRrYXo?oc=5",
@@ -77,39 +91,21 @@
       "source": "Reuters"
     },
     {
-      "title": "iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblIzdzVqRTlqZVIycU1pTWNhZTBHR2tsZ1g4Z1doTlMwaFdJZGptdE1XUzg2RThYcHIyWXp4U0hGSjc4YXdlR0I5Ti0zWUgxcjhrWGtLSkNHUjFlR2tTUnk5VnQyM3BiYV9raEFtWEFPX2ExOGxqdmFibEFzTHNkdGltcnRpMmxYb2lFY0pfT2NpdFBrUG9jUEdpVjkxXzlnUjdUeWFOcUVwRmRZc005bEYyRmREdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOblIzdzVqRTlqZVIycU1pTWNhZTBHR2tsZ1g4Z1doTlMwaFdJZGptdE1XUzg2RThYcHIyWXp4U0hGSjc4YXdlR0I5Ti0zWUgxcjhrWGtLSkNHUjFlR2tTUnk5VnQyM3BiYV9raEFtWEFPX2ExOGxqdmFibEFzTHNkdGltcnRpMmxYb2lFY0pfT2NpdFBrUG9jUEdpVjkxXzlnUjdUeWFOcUVwRmRZc005bEYyRmREdw?oc=5\" target=\"_blank\">iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-07-25T16:30:55+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Apple to Launch ‘Upgrade’ Device Leasing Program With Klarna to Spur Sales - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUtadldZbzFEb1Y2ZlE1UmlvUXVlUExzZVdCcXcyYzhDRVhYRm94QW5obTY5SklRVlhPNHYyaWh6UHhQME1rTDNaLUYwVVJ2X0lYSmZGV0ZsS1JjSExSSTVjOUhRR2VycUwtS01yeHdRWjVUSENDVlpTMUdCMy1YbG5IVGt2SVh6UVNpRzBRYnZ3U3pOYVNEUFN2MXE4MEZTMl9hMURPMURVanpCd0diX2xReVpKQzJKUi1zdWtwZFg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUtadldZbzFEb1Y2ZlE1UmlvUXVlUExzZVdCcXcyYzhDRVhYRm94QW5obTY5SklRVlhPNHYyaWh6UHhQME1rTDNaLUYwVVJ2X0lYSmZGV0ZsS1JjSExSSTVjOUhRR2VycUwtS01yeHdRWjVUSENDVlpTMUdCMy1YbG5IVGt2SVh6UVNpRzBRYnZ3U3pOYVNEUFN2MXE4MEZTMl9hMURPMURVanpCd0diX2xReVpKQzJKUi1zdWtwZFg?oc=5\" target=\"_blank\">Apple to Launch ‘Upgrade’ Device Leasing Program With Klarna to Spur Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-07-21T15:19:34+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple will launch 15+ new products this fall, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXlLYzBZOHBybzFEellJZ2s3VkRBVlB3TFV0NGswVHBKTzJ5R3pvemlJMlBuOWQxQjlBUVdQbFV6WEU1T1JpbTR6VTJQdGlzZzRLbU40SUZnSzR6czVxWEtzYXNua2tFbDNiQ0s4M0lkdUhMNHFiOThyOTV5T2NQQ1NTZXRfWnlwVmFSckZ4aXNLX2Zrb0xMM0l3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXlLYzBZOHBybzFEellJZ2s3VkRBVlB3TFV0NGswVHBKTzJ5R3pvemlJMlBuOWQxQjlBUVdQbFV6WEU1T1JpbTR6VTJQdGlzZzRLbU40SUZnSzR6czVxWEtzYXNua2tFbDNiQ0s4M0lkdUhMNHFiOThyOTV5T2NQQ1NTZXRfWnlwVmFSckZ4aXNLX2Zrb0xMM0l3?oc=5\" target=\"_blank\">Apple will launch 15+ new products this fall, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-06-26T07:00:00+00:00",
-      "source": "9to5Mac"
+      "title": "Apple delays smart glasses to 2027 over privacy concerns, Bloomberg reports - Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWF2VGgyVzdxR0pNWmpiVjNsdUFXLWxWckx4WENuYkMtSE9yeVFzRlJYdENnd0F4aF9SR2d5UGxmSmNDUjJfNFV3T2ZOZ0tfcnpjOFNiSXhmUWxQdURhakFqakVvMXBQLXF2eFFJekJSQ3ZwUTFWSkxMaTJIT2xOampPZGNETjc1R2N0SWFnLVlVd0tCb0NYMUZPZkk3MmdWcDFWUzJfenpVYjlrY0tMRlRaZkFBS2lxSGp5aExfRk81NU4wdnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORWF2VGgyVzdxR0pNWmpiVjNsdUFXLWxWckx4WENuYkMtSE9yeVFzRlJYdENnd0F4aF9SR2d5UGxmSmNDUjJfNFV3T2ZOZ0tfcnpjOFNiSXhmUWxQdURhakFqakVvMXBQLXF2eFFJekJSQ3ZwUTFWSkxMaTJIT2xOampPZGNETjc1R2N0SWFnLVlVd0tCb0NYMUZPZkk3MmdWcDFWUzJfenpVYjlrY0tMRlRaZkFBS2lxSGp5aExfRk81NU4wdnc?oc=5\" target=\"_blank\">Apple delays smart glasses to 2027 over privacy concerns, Bloomberg reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+      "published": "2026-07-27T08:18:27+00:00",
+      "source": "Korea JoongAng Daily"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-24",
-      "close": 333.0199890136719
+      "date": "2026-07-27",
+      "close": 336.260498046875
     },
     "history": [
-      {
-        "date": "2026-07-16",
-        "close": 333.260009765625
-      },
       {
         "date": "2026-07-17",
         "close": 333.739990234375
@@ -133,6 +129,10 @@
       {
         "date": "2026-07-24",
         "close": 333.0199890136719
+      },
+      {
+        "date": "2026-07-27",
+        "close": 336.260498046875
       }
     ],
     "name": "Apple Inc."
