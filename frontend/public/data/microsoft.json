@@ -2,72 +2,86 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-07-27T14:09:45.893431+00:00",
+  "fetched_at": "2026-07-28T13:29:40.816730+00:00",
   "news": [
     {
-      "title": "FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another - The Register",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV0p6bzNIQTNwZjZ3S0U5cnpUTXBfYWNjcnMxMWF6d1d2Q3h4NDB3bWkza0wxOTFKLVk1ZGU0X1d3eXotU1A1OEtKVWk0YU9GdFpNR3h4OWxiY2U0U1FVdDNIZm45ekJ0clc0X3hGZ1V2MmFyUzVyVTF6VXd3QmhRVmU5X1d2OTRyNHItcjhaSVVtZGQ4UWxMS0tNQXNkVXJiNzlsWDBJdmhPQnBGdHlEZzMyMTlRNjJBcEhLMnB0M1F3UVpkdTJNSlZNSkdlbDhyeUIwdENyX2cyZ05WWWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV0p6bzNIQTNwZjZ3S0U5cnpUTXBfYWNjcnMxMWF6d1d2Q3h4NDB3bWkza0wxOTFKLVk1ZGU0X1d3eXotU1A1OEtKVWk0YU9GdFpNR3h4OWxiY2U0U1FVdDNIZm45ekJ0clc0X3hGZ1V2MmFyUzVyVTF6VXd3QmhRVmU5X1d2OTRyNHItcjhaSVVtZGQ4UWxMS0tNQXNkVXJiNzlsWDBJdmhPQnBGdHlEZzMyMTlRNjJBcEhLMnB0M1F3UVpkdTJNSlZNSkdlbDhyeUIwdENyX2cyZ05WWWc?oc=5\" target=\"_blank\">FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
-      "published": "2026-07-27T08:30:00+00:00",
-      "source": "The Register"
-    },
-    {
-      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3k0aFRibGd3bVRvd1ZzQ1NGTGRrUzlfWnc2ajF1OUtCOE9nWTh0djJ2UGlSQnpPZDc1MmV3SU9MTlJpMmZBQUctbmVlVWZPbjRNRi1mM0dCb1NsdWxVQkw2ZmxvN09DZmNUdVA5X2dnOHhqSW1JRVJoejNQNXZiakR3QWg3VjDSAYwBQVVfeXFMTWc1WW5MWjZpbmVWMDRpUF9MYk9aYmZuMldRaWl6NVRSanljSTdQcGVCTUc2UTZfVUFkNjlZeEZfWHBDUWNpcEhGNEp5eHZWN2l4VmpkeU51ZGt5OUpHdnBkYURaekhnVUtEUWhQQVNjMmRtX29vU3RqMlBOeFhnYVEzZ3BoY1VLeDNPMVo?oc=5\" target=\"_blank\">Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-24T14:15:47+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5\" target=\"_blank\">Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-07-27T12:06:22+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU9HcDZxSU13THpkYncxR0VweGg0dUEwYjk5OUZYd1RDWXp6UV9IYXcyc1liSk54WTdRWm5TNWNpVEhaX1Q5Smx6cW9VREs0TzlyN3VoTVp0MDNGdFlVekVXQ2JKVExhQ1VrblhZaXlOWWJYVGE4dE44bnlzMm9zb0VpRElOWlQxUTU4bTd2V0RKb3hPWXBGT0FTNXVrMEYxVG9wLU9zZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU9HcDZxSU13THpkYncxR0VweGg0dUEwYjk5OUZYd1RDWXp6UV9IYXcyc1liSk54WTdRWm5TNWNpVEhaX1Q5Smx6cW9VREs0TzlyN3VoTVp0MDNGdFlVekVXQ2JKVExhQ1VrblhZaXlOWWJYVGE4dE44bnlzMm9zb0VpRElOWlQxUTU4bTd2V0RKb3hPWXBGT0FTNXVrMEYxVG9wLU9zZw?oc=5\" target=\"_blank\">Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-07-25T15:34:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Microsoft Stock Is Near a 1-Year Low. That Could Change on July 29. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWU1pcThEWFUxN3U0VC01czR3dW5WVy1iWkZYaGpvc3hPdWxuS2NBbFVGbVZLRzhZVFhBYkRxT1NuYUlId1N2RGQ2c1JaTWI4ZjRCR25RWWJjNlBtNE5Sd0JQcHdoNUJfWTZDajV5WlRLME54N0dFa3RzTUUwMkZjUThyMVVLS2NycTVZLW9oY3dCZ3pSdmc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWU1pcThEWFUxN3U0VC01czR3dW5WVy1iWkZYaGpvc3hPdWxuS2NBbFVGbVZLRzhZVFhBYkRxT1NuYUlId1N2RGQ2c1JaTWI4ZjRCR25RWWJjNlBtNE5Sd0JQcHdoNUJfWTZDajV5WlRLME54N0dFa3RzTUUwMkZjUThyMVVLS2NycTVZLW9oY3dCZ3pSdmc?oc=5\" target=\"_blank\">Microsoft Stock Is Near a 1-Year Low. That Could Change on July 29.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3d6YTkyMTJRdUI5OFBrVEFOWTVtOHI0enpuYjVCNkF3MWFzZUlBa240bFJXTTMtcXI3WGN5czNGTUVLdWtNZjlQSWlzbU5xWDItdy1rTWp2cERWYW5XeUtoNEh1T1B0QW9pckdhS2hyemtkUGFPb3FTd3lnLVJ1eVpMWHMxXzZMWkNzUmYwWlBiZkNaRlNBT1dIOWZURjVTZXlTQjlkVWl5dW96eU4yc2dGNUU1T1cyanc?oc=5\" target=\"_blank\">Why Microsoft, Meta, and Amazon earnings could crush the S&amp;P 500</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDlBUEU5WTZ6Ql9JYTRoTzFxWEhfVmdfLVJzZHlLTElKWGJTaE1qWllYLW9jeGc4Qk5scEhPb1lKSU52WFZ6ckZfUUZxSVZsaE16N29qUE5mRlZsODVieExHcHdPOU5RYTA4dFo3cklrdzNfalh0R2ViVTdHNW84TW43VGdGVjlCemZ6NHlwN2JwWHJfeTg4eVlwajFzeGI3U3UxWkR1Smx6M1I5RVhSQURVem1mMkNiYXowUmlnbHA4OFFLaEgxRHZzYUYxNnB2QW5z?oc=5\" target=\"_blank\">What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font></li></ol>",
-      "published": "2026-07-25T16:05:00+00:00",
+      "title": "Microsoft to report Q4 earnings as investors look for return on AI investments - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdThraGE0cFkyaW9ETGJJUW1iU01ZdVVKU1h4V0ttYzJ6Z3RabjJDVHl5V21aaEl0QjVUVF8yTmEtbHIyNXJSNkY0V3VLQUJ3d3VBTmVFSGZ5NlBkYVN2RzNobEVuTjc4eWZyN2RpOXNUekx5aWJzTUthQlNNMUFCaHlNS19FSXBQcVlsTTdROHY4cl9fREh4RTNnZWxkQmN4amtGcHFlUS1kWXBjQy1pUWRKS0Zqa2xEMmdyM1U3QWY4T1IxWnNSOTJxb01MS3kzLUVKNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdThraGE0cFkyaW9ETGJJUW1iU01ZdVVKU1h4V0ttYzJ6Z3RabjJDVHl5V21aaEl0QjVUVF8yTmEtbHIyNXJSNkY0V3VLQUJ3d3VBTmVFSGZ5NlBkYVN2RzNobEVuTjc4eWZyN2RpOXNUekx5aWJzTUthQlNNMUFCaHlNS19FSXBQcVlsTTdROHY4cl9fREh4RTNnZWxkQmN4amtGcHFlUS1kWXBjQy1pUWRKS0Zqa2xEMmdyM1U3QWY4T1IxWnNSOTJxb01MS3kzLUVKNA?oc=5\" target=\"_blank\">Microsoft to report Q4 earnings as investors look for return on AI investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-28T12:01:44+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Inside Nadella's hardest year: Is Microsoft's North Star also a noose? - Business Insider",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckdRVzlKTm85WDIzVXFrUk0wdlRpU0h5U0FKRFNvQThFMmw5Sk9yNk5iMUdmdzJLUllVNFF1eGt5TVFDZkxVVTNuY2lnRE9kWTVRZjJ2WVhLa2pJcU5rWTVZZV9LOV9VUzI1ZTh6blNSemNkcFBOMFAtUWp5V3hiS1lpczllZGpNUzh4aUNlbE9udnZucWxmT1ViNzFpMXluUFg5dzZyd2JzaVZ1MlQxa2pVWFY5YXc?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNckdRVzlKTm85WDIzVXFrUk0wdlRpU0h5U0FKRFNvQThFMmw5Sk9yNk5iMUdmdzJLUllVNFF1eGt5TVFDZkxVVTNuY2lnRE9kWTVRZjJ2WVhLa2pJcU5rWTVZZV9LOV9VUzI1ZTh6blNSemNkcFBOMFAtUWp5V3hiS1lpczllZGpNUzh4aUNlbE9udnZucWxmT1ViNzFpMXluUFg5dzZyd2JzaVZ1MlQxa2pVWFY5YXc?oc=5\" target=\"_blank\">Microsoft unveils AI security tools it says outperform competing platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTlyZDZEcHZxSUhHc01jdjkyemw4RWVSeUgwZGgzN3pXUER1VEo1eWJaN2tORUtSb3NfbDdxdFdRZm1CN1VjZG5IZEJnUFNZbG9jQUlScjhQTkQ5UVM5aThka0FzQ3EwQVNldm5RY3I1c1lORXgxVlR3NEJmM0ZmcGNDV2FGTFNvT2d0V1RhTHFMRGpsRFZENEFkVnhTdXZZVUhFZ0ZEc3Bvbllsc0lfQjlFMS0?oc=5\" target=\"_blank\">Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUI5cktQWjNsVVJoQjZuQ01LWUJ1RTVnampNdmtxcTVBR3JJOU9tNGxkanVrMmRLYWNmMWJzQnlfUmRYZkZJY2JJYUNZWTI4RmVCWlBBX3pPMndkMmZhY0YwQmVVd25nMnhtR0VGVl9reExfWmxIWXdWZlNST1dVTjFXZU5wQms?oc=5\" target=\"_blank\">Microsoft launches MAI-Cyber-1-Flash cybersecurity AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font></li></ol>",
+      "published": "2026-07-27T21:56:14+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Microsoft Unveils Lower-Cost AI Model for Cybersecurity - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX25KSFZmTkJfaUtsZUNZQ1hxT2tfR01xeUJOUWM3NVNBU0F5NU1rN1c0cmMxeXhEaE1lZjV3Ri02dFBQdmY3Umhzd2dnTHdCdEwyTnJxUFlsN3lFdXhPOEk4QkpUNzNGV0syMmFJMXZSbVhvZy1UMDRsa1BrS1pjaGxxSkNVUTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX25KSFZmTkJfaUtsZUNZQ1hxT2tfR01xeUJOUWM3NVNBU0F5NU1rN1c0cmMxeXhEaE1lZjV3Ri02dFBQdmY3Umhzd2dnTHdCdEwyTnJxUFlsN3lFdXhPOEk4QkpUNzNGV0syMmFJMXZSbVhvZy1UMDRsa1BrS1pjaGxxSkNVUTA?oc=5\" target=\"_blank\">Microsoft Unveils Lower-Cost AI Model for Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "published": "2026-07-28T12:30:38+00:00",
+      "source": "Yahoo Finance Singapore"
+    },
+    {
+      "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3VYRDgzbDNGN1hfYnpXRXhqY1dfU2h4M1VsR2FSVjE0SDJsb1V6cENtclZYdkxEaUxSa0JmTTNTa0Z0OExhR2Y2ck9LVnVpNTFBVXJYeXNRdW94cmEzbE1ueFVYTXExN0VqUmZ4V1dVSTdRUlNrN1lPVVZET1plSU1pMNIBiAFBVV95cUxQZnhoenA3SDZieTZNTy1SbEZndXZRMjFmN1ZJemI2SHFkdF90Zmt1T013cUM5bWZObzVYMVpNVXd3Zk9MS1Ywa2xrdUpOT1VTYUt4aW5qVHRfX0Q2UlM5ME1VX0RnOGY1RUxqZkJBODhjUW9hU0JzemZEWnNDWlk2OVNlN0FFQU5o?oc=5\" target=\"_blank\">Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-27T11:04:48+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "AI Is Replacing Customer Service Jobs at CBA, Microsoft, Uber - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGJDbGIxWHgwNUpSaVVCLVdVN1hoWEVhNU9lanVPdU8wbG9oOFpvejNiMWhJbThLUTJxVlV0RGpENzRrRGl3Ql9nc25INUk3X1FoY3NTakZCVWl5Vm1BTVBLc21BQ3doQy12YWZPTTNYY1lTT0VpYmt5Sjh1MjhGOFE4Uk1KOU1SXzVPVExyQXlYWDV4ZnBRS3RjV0VERG9xQ2tnSnV4alBlYnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGJDbGIxWHgwNUpSaVVCLVdVN1hoWEVhNU9lanVPdU8wbG9oOFpvejNiMWhJbThLUTJxVlV0RGpENzRrRGl3Ql9nc25INUk3X1FoY3NTakZCVWl5Vm1BTVBLc21BQ3doQy12YWZPTTNYY1lTT0VpYmt5Sjh1MjhGOFE4Uk1KOU1SXzVPVExyQXlYWDV4ZnBRS3RjV0VERG9xQ2tnSnV4alBlYnM?oc=5\" target=\"_blank\">AI Is Replacing Customer Service Jobs at CBA, Microsoft, Uber</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-07-28T09:30:26+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkdiRzMzWlVsVFBGTjB4RklfM1lHS1F2TktJNkI3WXRDYk8ydEFfenRPWTc0YjFTcENYVDRwZ1ZORFB0WDBOM3cybWx4RF9MLXhTc2d6RlFvZGRMZS0zbEw0TWt4d2U3MWJNamRTcExISmtYb2lmUXI4a1dGTzBHVnRZNER6RWJMRjUwWW5RYkV2eXdfZHlncGNPS1RnVkJTSTBaRnZ4TjFRSjFWT091cDg4Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkdiRzMzWlVsVFBGTjB4RklfM1lHS1F2TktJNkI3WXRDYk8ydEFfenRPWTc0YjFTcENYVDRwZ1ZORFB0WDBOM3cybWx4RF9MLXhTc2d6RlFvZGRMZS0zbEw0TWt4d2U3MWJNamRTcExISmtYb2lmUXI4a1dGTzBHVnRZNER6RWJMRjUwWW5RYkV2eXdfZHlncGNPS1RnVkJTSTBaRnZ4TjFRSjFWT091cDg4Yw?oc=5\" target=\"_blank\">More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2026-07-27T21:35:00+00:00",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "Satya Nadella went all in AI. Now it's threatening Microsoft's biggest businesses. - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1lfQS1pVUlJbTd1NXFZNTdsa3paQmEtUVpEbzQyVENQbGh6TWtiYzhHTG5nQ0xad0d5R3YtTjdteFpwVWdQVENiNDIwTFBQVFp1VFY0b0FoUGZ6S2tsUEptemlhZnl1WUoycGlkQWxsQW51eWk5bWhUTVZpSDFjbUlDQkpEU0h5SUVKUHFYbkEzaWc2TVNN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1lfQS1pVUlJbTd1NXFZNTdsa3paQmEtUVpEbzQyVENQbGh6TWtiYzhHTG5nQ0xad0d5R3YtTjdteFpwVWdQVENiNDIwTFBQVFp1VFY0b0FoUGZ6S2tsUEptemlhZnl1WUoycGlkQWxsQW51eWk5bWhUTVZpSDFjbUlDQkpEU0h5SUVKUHFYbkEzaWc2TVNN?oc=5\" target=\"_blank\">Inside Nadella's hardest year: Is Microsoft's North Star also a noose?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1lfQS1pVUlJbTd1NXFZNTdsa3paQmEtUVpEbzQyVENQbGh6TWtiYzhHTG5nQ0xad0d5R3YtTjdteFpwVWdQVENiNDIwTFBQVFp1VFY0b0FoUGZ6S2tsUEptemlhZnl1WUoycGlkQWxsQW51eWk5bWhUTVZpSDFjbUlDQkpEU0h5SUVKUHFYbkEzaWc2TVNN?oc=5\" target=\"_blank\">Satya Nadella went all in AI. Now it's threatening Microsoft's biggest businesses.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
       "published": "2026-07-26T08:07:00+00:00",
       "source": "Business Insider"
     },
     {
-      "title": "On GPS: Exclusive interview with Microsoft CEO Satya Nadella | CNN Business - CNN",
+      "title": "On GPS: Exclusive interview with Microsoft CEO Satya Nadella - CNN",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNby1yME5wNElZZV9YWnZDMWdfMUF5YUFNakRzTFFUaWVrUmlyZkY0amVDTFU5Tkl1SXlvM0JOa0llYnk1S0JTLU4zYVY1YzJKWVJRTXVHV2cyaGNZSnRnMDVDajU0QlZpNWRnTXY2UVJBaWtNVzdmcTE1RUxkVEZiYk5CSG9SOUtoZ0s1WmNlRWExZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNby1yME5wNElZZV9YWnZDMWdfMUF5YUFNakRzTFFUaWVrUmlyZkY0amVDTFU5Tkl1SXlvM0JOa0llYnk1S0JTLU4zYVY1YzJKWVJRTXVHV2cyaGNZSnRnMDVDajU0QlZpNWRnTXY2UVJBaWtNVzdmcTE1RUxkVEZiYk5CSG9SOUtoZ0s1WmNlRWExZw?oc=5\" target=\"_blank\">On GPS: Exclusive interview with Microsoft CEO Satya Nadella | CNN Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNby1yME5wNElZZV9YWnZDMWdfMUF5YUFNakRzTFFUaWVrUmlyZkY0amVDTFU5Tkl1SXlvM0JOa0llYnk1S0JTLU4zYVY1YzJKWVJRTXVHV2cyaGNZSnRnMDVDajU0QlZpNWRnTXY2UVJBaWtNVzdmcTE1RUxkVEZiYk5CSG9SOUtoZ0s1WmNlRWExZw?oc=5\" target=\"_blank\">On GPS: Exclusive interview with Microsoft CEO Satya Nadella</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
       "published": "2026-07-26T15:31:44+00:00",
       "source": "CNN"
-    },
-    {
-      "title": "Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials - Security Affairs",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamNUSEZSd05ZNkIwdFE0VHRkSU56WEdBNktXQWpKbENUVzZvUDRSYU56QjB2YzFjbWktcE1naGVoT3JDQ2FqSFFfWGdReU5kclE4QWxfX1FkbHBCOG9vTEh0dWhsVjVVSXRLQ0FIM0NBcVBZS2htVmF3cGhqcTFib2RuZVNqUDRIR1VLUXVoSWRzd1FURjlwbnlFTXB2bnZrLXF6cTl4VWFwSkpOb0hF0gG0AUFVX3lxTFBiZXVkNktYVEplaTdDZG1NU0pmcWdDbVp6dEZsQkZZQVljS3l4Z3FWOGZVdEFmZUVlMGFsOHEzd2JlSW9GcmZTV08wQ0J4dDlxVVQ1Q3NEWnpnREhpSUlyZ0pTTVBOU2hrbjM2dE1EczhVYk5lWkphbTltbzVqZTljdzFiV1JPWnl1VlVOcmR5YlNrMEJRb0NWeGVGaUlrc3dtcklXajFtR1AtVmZDRm1hSVFJTw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPamNUSEZSd05ZNkIwdFE0VHRkSU56WEdBNktXQWpKbENUVzZvUDRSYU56QjB2YzFjbWktcE1naGVoT3JDQ2FqSFFfWGdReU5kclE4QWxfX1FkbHBCOG9vTEh0dWhsVjVVSXRLQ0FIM0NBcVBZS2htVmF3cGhqcTFib2RuZVNqUDRIR1VLUXVoSWRzd1FURjlwbnlFTXB2bnZrLXF6cTl4VWFwSkpOb0hF0gG0AUFVX3lxTFBiZXVkNktYVEplaTdDZG1NU0pmcWdDbVp6dEZsQkZZQVljS3l4Z3FWOGZVdEFmZUVlMGFsOHEzd2JlSW9GcmZTV08wQ0J4dDlxVVQ1Q3NEWnpnREhpSUlyZ0pTTVBOU2hrbjM2dE1EczhVYk5lWkphbTltbzVqZTljdzFiV1JPWnl1VlVOcmR5YlNrMEJRb0NWeGVGaUlrc3dtcklXajFtR1AtVmZDRm1hSVFJTw?oc=5\" target=\"_blank\">Hackers Hijack Hotel Wi-Fi to Steal Microsoft 365 Credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Affairs</font>",
-      "published": "2026-07-26T13:25:43+00:00",
-      "source": "Security Affairs"
     }
   ],
   "product_launches": [
     {
-      "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5\" target=\"_blank\">ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-21T13:55:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Microsoft Launches Mythos Competitor, New Homegrown AI for Cybersecurity - The Information",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5IbUtNZXltbWlka0s0V3VBRTF2cnZtSTctUzRVdzFpNFhRV3dpZFNpVFBPMlEzT1NGcFA3LTQ4YTVHZWJSM2JRRDMxNUtGSUdDUEgxT0lhNFdJeUM1d1JoMW5SSVk1TUdnSFFlTjd1RnBKejJmcS1laDZ4emRPdlM1OE9UcUZ3UUR6b1NCUlFCLUw2MlZRbWZlVG1tamE1dlB5SkhpQ0V6QlVt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5IbUtNZXltbWlka0s0V3VBRTF2cnZtSTctUzRVdzFpNFhRV3dpZFNpVFBPMlEzT1NGcFA3LTQ4YTVHZWJSM2JRRDMxNUtGSUdDUEgxT0lhNFdJeUM1d1JoMW5SSVk1TUdnSFFlTjd1RnBKejJmcS1laDZ4emRPdlM1OE9UcUZ3UUR6b1NCUlFCLUw2MlZRbWZlVG1tamE1dlB5SkhpQ0V6QlVt?oc=5\" target=\"_blank\">Microsoft Launches Mythos Competitor, New Homegrown AI for Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-07-27T18:09:00+00:00",
+      "source": "The Information"
+    },
+    {
+      "title": "Microsoft's 100+ AI Agents Combat AI-Driven Cyber Threats - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXpjVGt2S1lLYnR4Sk9aT253VVM4c2Nwb0hSaDVWcUYyQVMxd21mYmlEOUtfMEZYYzRtMnpGRmlBTVdtOGNtWnFlRWY5V1dyZHZILXZBSnZpLTE1bjlkX2k0bjh3SF9zYzd3cXpILWo5ZzNpVmhBTlBkWVJZX252bWNINnFibjZv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXpjVGt2S1lLYnR4Sk9aT253VVM4c2Nwb0hSaDVWcUYyQVMxd21mYmlEOUtfMEZYYzRtMnpGRmlBTVdtOGNtWnFlRWY5V1dyZHZILXZBSnZpLTE1bjlkX2k0bjh3SF9zYzd3cXpILWo5ZzNpVmhBTlBkWVJZX252bWNINnFibjZv?oc=5\" target=\"_blank\">Microsoft's 100+ AI Agents Combat AI-Driven Cyber Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+      "published": "2026-07-28T00:30:20+00:00",
+      "source": "조선일보"
+    },
+    {
+      "title": "Microsoft Launches “World-Class” AI Security Product at “Half-the-Cost” - CXOToday.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFJtbGJZRkttTlpNcEdDUm5zNHhhM3ZZZVJXSnBCNGphRGJfVkg1b2NXZ1k1VjNvMzRhWDNvSjNnZTMtZEFPeU5PalY1b1ZHRUVKUDJPMFUzVDdjZnM2ak1WblViNDNyc1FLUmpfWnoxMXBNMW9ONkRVcTdLcF9yQ2JjM3BRRWdZeWNNWEF0d0ZQMUpKRVpYRlIyd1NsWjQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFJtbGJZRkttTlpNcEdDUm5zNHhhM3ZZZVJXSnBCNGphRGJfVkg1b2NXZ1k1VjNvMzRhWDNvSjNnZTMtZEFPeU5PalY1b1ZHRUVKUDJPMFUzVDdjZnM2ak1WblViNDNyc1FLUmpfWnoxMXBNMW9ONkRVcTdLcF9yQ2JjM3BRRWdZeWNNWEF0d0ZQMUpKRVpYRlIyd1NsWjQ?oc=5\" target=\"_blank\">Microsoft Launches “World-Class” AI Security Product at “Half-the-Cost”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CXOToday.com</font>",
+      "published": "2026-07-28T02:20:28+00:00",
+      "source": "CXOToday.com"
     },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
@@ -77,25 +91,11 @@
       "source": "Microsoft"
     },
     {
-      "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
-      "published": "2026-05-19T07:00:00+00:00",
-      "source": "Windows Blog"
-    },
-    {
-      "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
-      "published": "2026-06-15T07:00:00+00:00",
-      "source": "Search Engine Journal"
-    },
-    {
-      "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": "The Motley Fool"
+      "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5\" target=\"_blank\">ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-21T13:55:00+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "stock": {
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-07-27",
-      "close": 391.739990234375
+      "close": 389.1000061035156
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-07-27",
-        "close": 391.739990234375
+        "close": 389.1000061035156
       }
     ],
     "name": "Microsoft Corporation"
