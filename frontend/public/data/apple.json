@@ -2,63 +2,63 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-07-28T13:29:38.598438+00:00",
+  "fetched_at": "2026-07-29T13:45:09.353168+00:00",
   "news": [
-    {
-      "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51TmRpUTZWT3NLS1BOaDNxcF9ORDFGM203V0VURlU2dkVCNWdsa1Jic2tiby1sQVVVZ0VoN3UteEJ0LUFfTmVTQXhYNndkNWlTS0FqU0w1ZFZhLTBiU3VSMFM1cXFUbUlWanlEd2NoeXhYa1Ny?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE51TmRpUTZWT3NLS1BOaDNxcF9ORDFGM203V0VURlU2dkVCNWdsa1Jic2tiby1sQVVVZ0VoN3UteEJ0LUFfTmVTQXhYNndkNWlTS0FqU0w1ZFZhLTBiU3VSMFM1cXFUbUlWanlEd2NoeXhYa1Ny?oc=5\" target=\"_blank\">Apple Regains Spot Over Nvidia as Most Valuable Public Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-07-27T20:26:04+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Apple ends day as world's most valuable company, passing Nvidia - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01cWI2eS1PTkp0QlphT2h1a2t6Y2hOZWJweHE0WHVRcng2SHRJZWdka0wyZVd4VVNWU3FuOVMtTENyZVZwR3pIcXluT1RBMHNXVmktT1RjcnZSaDhjMFBvOW9WanFkdWRPV3ZwVEduRVd0b3U2VDlTTDBxMNIBgAFBVV95cUxQd1prSjRSQnNHQnlXbFVBSHlfVDUyX2JRdkt5Q011NjI4TGo5dXI1bzVGLUhfRERPU290WGhfakZoUzlkdHFEbWNYTFo4clNEUk1ua1RzR1V6akV6d3lJYWQwdFhrRzBPdkZzbHdWZFBlaHAwOHV4Q3VnU09ZcFN1OA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE01cWI2eS1PTkp0QlphT2h1a2t6Y2hOZWJweHE0WHVRcng2SHRJZWdka0wyZVd4VVNWU3FuOVMtTENyZVZwR3pIcXluT1RBMHNXVmktT1RjcnZSaDhjMFBvOW9WanFkdWRPV3ZwVEduRVd0b3U2VDlTTDBxMNIBgAFBVV95cUxQd1prSjRSQnNHQnlXbFVBSHlfVDUyX2JRdkt5Q011NjI4TGo5dXI1bzVGLUhfRERPU290WGhfakZoUzlkdHFEbWNYTFo4clNEUk1ua1RzR1V6akV6d3lJYWQwdFhrRzBPdkZzbHdWZFBlaHAwOHV4Q3VnU09ZcFN1OA?oc=5\" target=\"_blank\">Apple ends day as world's most valuable company, passing Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-07-27T21:10:17+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Nvidia Falls Behind Apple in Mixed Day for Stocks - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9BSDBZWF95N0lDdHVDYmtmWGZBYzE5XzBCb0ZjZWJOTkk2XzdaaDlBcUFRMWpUUHVoeVhZcWhuWklPRE9FSEJVTlpZbkFMSGxKVXJycTAtQ202enFQVE5WMEZqNXREOEY2Z21fQ3FuOWw1MmJQMkZ5a1NqOEJuYmZ4a1p4YXFRY1IwT213?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9BSDBZWF95N0lDdHVDYmtmWGZBYzE5XzBCb0ZjZWJOTkk2XzdaaDlBcUFRMWpUUHVoeVhZcWhuWklPRE9FSEJVTlpZbkFMSGxKVXJycTAtQ202enFQVE5WMEZqNXREOEY2Z21fQ3FuOWw1MmJQMkZ5a1NqOEJuYmZ4a1p4YXFRY1IwT213?oc=5\" target=\"_blank\">Nvidia Falls Behind Apple in Mixed Day for Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-07-27T21:04:00+00:00",
-      "source": "WSJ"
-    },
     {
       "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVlsR3lTOVI4OFZSRTc2dmFsTi1QMnJybDE2LWtMNVhTN2xtWWdqT2FpOHRHblExVXhrLU9lYW96VkFrN3ZGM2tReFhEWjVWa0o3Rkx0OHZaSXUweUplNGhNTmtlNjg0d2Z0RHdua0lPaUY1dmYwWmlsUXdXcGU4eGwtTGl3Ujd3aG96dVZxbHVNZ0dxeklzSFlFWG41UW5jU3JsLXE5RUJELXfSAbABQVVfeXFMT2dfbnRaWWxZb3B0V0lRWUtBSGc2NWNaVzIxa0NTVXNXVWR2VWVZSnlpblhxQ0M2WHJ4QlFKQU42SWc4Z0dBWUxTSGlTV1NfcVFTdHUxZVIwTlhCQnZqWmVJaVJ2OGItNTJibWJzRGFOV2wzSzNDMnBhSGVwYWcyRGdEcExzemVYdkRvdEFzcEUzd09KaG92NTVQM3BZOHpaV3pycUdlcmJIcTd0Rmo5QkI?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVlsR3lTOVI4OFZSRTc2dmFsTi1QMnJybDE2LWtMNVhTN2xtWWdqT2FpOHRHblExVXhrLU9lYW96VkFrN3ZGM2tReFhEWjVWa0o3Rkx0OHZaSXUweUplNGhNTmtlNjg0d2Z0RHdua0lPaUY1dmYwWmlsUXdXcGU4eGwtTGl3Ujd3aG96dVZxbHVNZ0dxeklzSFlFWG41UW5jU3JsLXE5RUJELXfSAbABQVVfeXFMT2dfbnRaWWxZb3B0V0lRWUtBSGc2NWNaVzIxa0NTVXNXVWR2VWVZSnlpblhxQ0M2WHJ4QlFKQU42SWc4Z0dBWUxTSGlTV1NfcVFTdHUxZVIwTlhCQnZqWmVJaVJ2OGItNTJibWJzRGFOV2wzSzNDMnBhSGVwYWcyRGdEcExzemVYdkRvdEFzcEUzd09KaG92NTVQM3BZOHpaV3pycUdlcmJIcTd0Rmo5QkI?oc=5\" target=\"_blank\">Apple plans to lease iPhones for $17.99 a month through partnership with Klarna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5GcjRYd1dWbGpTYXhyTnI5SnplczVnMGNqNjVza2Z2cFpCR2JqeHBvUmR5RUdhWWRPR0FXa3NYYXc2M19Lek1BZmNGeng1LXo4RVU2MklkTUR5M0luM1JmbjF5TTN3aWprQURtT0tEc3BwVllrV3lYWnRHWUs?oc=5\" target=\"_blank\">Apple Introduces Leasing Program for iPhones and Other Devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTRzeVRCd0RnM3FaRGhzTHBNZ1RmVlduampra3pCRUFWRnpGT0trT2pURUx3bG90cERYSFdSQ3Z0MGZBTlRmQWY5MEhLWFY1TmlYc1RoTWlDdy1ablh1Q19KWlIzTzlaN0c0SjBXWF85ODFBSEk5SFlSRWRyMjhOR2tCcmU?oc=5\" target=\"_blank\">Apple Upgrade Program Will Let You Lease an iPhone Without Sticker Shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li></ol>",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVlsR3lTOVI4OFZSRTc2dmFsTi1QMnJybDE2LWtMNVhTN2xtWWdqT2FpOHRHblExVXhrLU9lYW96VkFrN3ZGM2tReFhEWjVWa0o3Rkx0OHZaSXUweUplNGhNTmtlNjg0d2Z0RHdua0lPaUY1dmYwWmlsUXdXcGU4eGwtTGl3Ujd3aG96dVZxbHVNZ0dxeklzSFlFWG41UW5jU3JsLXE5RUJELXfSAbABQVVfeXFMT2dfbnRaWWxZb3B0V0lRWUtBSGc2NWNaVzIxa0NTVXNXVWR2VWVZSnlpblhxQ0M2WHJ4QlFKQU42SWc4Z0dBWUxTSGlTV1NfcVFTdHUxZVIwTlhCQnZqWmVJaVJ2OGItNTJibWJzRGFOV2wzSzNDMnBhSGVwYWcyRGdEcExzemVYdkRvdEFzcEUzd09KaG92NTVQM3BZOHpaV3pycUdlcmJIcTd0Rmo5QkI?oc=5\" target=\"_blank\">Apple plans to lease iPhones for $17.99 a month through partnership with Klarna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFByaE9xajNxVzVsdHJsb2VEMTU3YlA2cDU1aWxkN3laaTRVcUlONFNaM244aXVDay1HdWQxZ1loLXhraTZ6ajhJc1hDcTNCYkhwWm1qV3NreUhGNGhmN3Q4dVdRVV9zSGtXbFpmTVhIY1FTM3hWLXc?oc=5\" target=\"_blank\">Apple will now let you lease your next iPhone or Mac instead of buying it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVFFNWRwTVZQSDBZbUVkd1hkTTNRRVNMTlhuT0tGSVpzc3l4bHpKM2o2bGJoRGhKQjl3cHI5RlNhVnF5MURxZkYtc2xTN2xpLXNTb2R5Y3BONFk5Uzk5T0VhanBXRnNSSGdyNjUxUlYwcFZZbGNIal9HS2V1a1RzM1dScEd3emsyam41Uy1GV3ZtQQ?oc=5\" target=\"_blank\">Apple unveils program to allow consumers to lease devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
       "published": "2026-07-28T12:18:55+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Apple Set to Make Major Smart Home Push With Siri AI at Center - Bloomberg.com",
+      "title": "Apple briefly tops $5 trillion market value for first time - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUZmRGhDbU9sZWNKNm4zU1JTVmNubzllUjF5UnhTREUtbzVHV2FyNzZUMHhfZjItUTh6THB4TDVqRHFHc2tTUkFGSTlqSG1LWmFWS2E0ZFk0bm51RE1wMjQ0X09FdlBvOGVoTGpUUmp5cjZfRG1UM01fSTd4MUdLSWZJMVBoOWRxWExNT1JUaUJWTnZtVGFaMWFKMlB5cVVEQlVFVVFIbWs0ZFlHdlhrZEw0MFd0NUs1UmV3ZWxNZlVxdC03dF94cm9MOGY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUZmRGhDbU9sZWNKNm4zU1JTVmNubzllUjF5UnhTREUtbzVHV2FyNzZUMHhfZjItUTh6THB4TDVqRHFHc2tTUkFGSTlqSG1LWmFWS2E0ZFk0bm51RE1wMjQ0X09FdlBvOGVoTGpUUmp5cjZfRG1UM01fSTd4MUdLSWZJMVBoOWRxWExNT1JUaUJWTnZtVGFaMWFKMlB5cVVEQlVFVVFIbWs0ZFlHdlhrZEw0MFd0NUs1UmV3ZWxNZlVxdC03dF94cm9MOGY?oc=5\" target=\"_blank\">Apple briefly tops $5 trillion market value for first time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-28T19:31:04+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Apple touches $5 trillion market cap for first time - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nlo0Qmx0WW0wZU8tUTNvdHBQV0lwTFlaUV9vX1dzUTd3V2h3UdIBlwFBVV95cUxQalVxcnY2ZWtKNENjeGNSRTJMQVNtZlVrUi02NFI2T1JhcURsRlFWN2N5OVV5elNsWEVwTUY4VXU3eVMteUp1MmIzaC1qVUFHQnlfSy1XbXBEUTZyaHhNOEdTODY3M0ZWNlE1NmFRSHpUS2tzM3BBUEFxM3lDdXRQN045SHVoaXJVckM5T1A0aXJGRnl5TDVJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nlo0Qmx0WW0wZU8tUTNvdHBQV0lwTFlaUV9vX1dzUTd3V2h3UdIBlwFBVV95cUxQalVxcnY2ZWtKNENjeGNSRTJMQVNtZlVrUi02NFI2T1JhcURsRlFWN2N5OVV5elNsWEVwTUY4VXU3eVMteUp1MmIzaC1qVUFHQnlfSy1XbXBEUTZyaHhNOEdTODY3M0ZWNlE1NmFRSHpUS2tzM3BBUEFxM3lDdXRQN045SHVoaXJVckM5T1A0aXJGRnl5TDVJ?oc=5\" target=\"_blank\">Apple touches $5 trillion market cap for first time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-28T18:04:07+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple becomes second $5tn company as investors flee AI stocks - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5\" target=\"_blank\">Apple becomes second $5tn company as investors flee AI stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-07-28T16:51:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Apple to report Q3 earnings following price hikes on Macs, iPads - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTRvU1FvNGw1SnFkZ2R5VlpjVkRheXZtaGlBSlA2QnFNcVdZYVRjNTFVVkFXWmhUY0FKU2hjRnV1ZGtkYk82TnduVTMyT0lLUTNzdDk3eEV1V1B6N3ZWS3RQLXlJYWdoNlAwSXd6d2JNQm8wcWxYYXNXb2lId2FCaXJxa3VPNXlmMWFpUTFTcHlVTFBGRlZnc0NXT1YxNGdHeEdOOUg4cFFYazNTTWlBU2lyS2ZkM256MU84WUVBSnQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTRvU1FvNGw1SnFkZ2R5VlpjVkRheXZtaGlBSlA2QnFNcVdZYVRjNTFVVkFXWmhUY0FKU2hjRnV1ZGtkYk82TnduVTMyT0lLUTNzdDk3eEV1V1B6N3ZWS3RQLXlJYWdoNlAwSXd6d2JNQm8wcWxYYXNXb2lId2FCaXJxa3VPNXlmMWFpUTFTcHlVTFBGRlZnc0NXT1YxNGdHeEdOOUg4cFFYazNTTWlBU2lyS2ZkM256MU84WUVBSnQ?oc=5\" target=\"_blank\">Apple to report Q3 earnings following price hikes on Macs, iPads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-29T11:52:46+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "F1 says Apple partnership's thriving - but not how many are watching - The Race",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3AtUWJnSlhMLTduQ0pXNzBnU3g5WFdZbUdpNFhyaEcydC1OZWJOX0NaX1ZQZGdrSE9iS0lSdzBMMklYNVY4aEJmbVNpay12amt1SGF1X2tMdHQ2eHVWLVA2TENDY2gzSDJPZlg2N0hFZ2xrV3NORHp5SFFjYzd6SkVKcXVzMWUxZ2lGSUJMWDMxZXhSXzg4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3AtUWJnSlhMLTduQ0pXNzBnU3g5WFdZbUdpNFhyaEcydC1OZWJOX0NaX1ZQZGdrSE9iS0lSdzBMMklYNVY4aEJmbVNpay12amt1SGF1X2tMdHQ2eHVWLVA2TENDY2gzSDJPZlg2N0hFZ2xrV3NORHp5SFFjYzd6SkVKcXVzMWUxZ2lGSUJMWDMxZXhSXzg4?oc=5\" target=\"_blank\">F1 says Apple partnership's thriving - but not how many are watching</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Race</font>",
+      "published": "2026-07-29T11:20:01+00:00",
+      "source": "The Race"
+    },
+    {
+      "title": "Apple Set to Make Big Smart Home Push With Siri AI at Center - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0ZiUzV2c0FEUEc4MHhWRmp0ekJsX0ZmNHN0SEN2UG1BWDFCZWZCM3RrVWtoTmpJbmQyWVlBeTRuZDJWbGZ6ZkIxdHotbmY1TThMaFNTeDNXUXBWdlZnMUNfUHlTZExySGtUYUVWX09ocjg4WXowbDRBTjBCT0Q5Rm9wOTB4bFVzNGphbUZuU3NvT0xfTDNQZjVFNnMwYS0xakxHa1R1a05uS2ZGcnAxcVp4Vk44UDJPWHhSV0tB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0ZiUzV2c0FEUEc4MHhWRmp0ekJsX0ZmNHN0SEN2UG1BWDFCZWZCM3RrVWtoTmpJbmQyWVlBeTRuZDJWbGZ6ZkIxdHotbmY1TThMaFNTeDNXUXBWdlZnMUNfUHlTZExySGtUYUVWX09ocjg4WXowbDRBTjBCT0Q5Rm9wOTB4bFVzNGphbUZuU3NvT0xfTDNQZjVFNnMwYS0xakxHa1R1a05uS2ZGcnAxcVp4Vk44UDJPWHhSV0tB?oc=5\" target=\"_blank\">Apple Set to Make Major Smart Home Push With Siri AI at Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-07-28T13:00:00+00:00",
-      "source": "Bloomberg.com"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0ZiUzV2c0FEUEc4MHhWRmp0ekJsX0ZmNHN0SEN2UG1BWDFCZWZCM3RrVWtoTmpJbmQyWVlBeTRuZDJWbGZ6ZkIxdHotbmY1TThMaFNTeDNXUXBWdlZnMUNfUHlTZExySGtUYUVWX09ocjg4WXowbDRBTjBCT0Q5Rm9wOTB4bFVzNGphbUZuU3NvT0xfTDNQZjVFNnMwYS0xakxHa1R1a05uS2ZGcnAxcVp4Vk44UDJPWHhSV0tB?oc=5\" target=\"_blank\">Apple Set to Make Big Smart Home Push With Siri AI at Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-07-28T13:50:52+00:00",
+      "source": "Bloomberg"
     },
     {
-      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTZSUjUybGtPNGpPa3FQZ1puRnlqdUxfM0ZuaHRGQUN5MnYwZzZIRVRqeW5lVkpkb1h6X1hiTjFyMXZhMjZYNjZ1U0ZRT0ZwNm9CMzhySnVFX3JoSEdRcGZMUDM4endxbGVFWVZfTlFvZmJIbGM0bnlpUEliS1hjS05sd1BJOGtLa2RwZE9vY3ltQlV6clBGVUVMaS1NQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTTZSUjUybGtPNGpPa3FQZ1puRnlqdUxfM0ZuaHRGQUN5MnYwZzZIRVRqeW5lVkpkb1h6X1hiTjFyMXZhMjZYNjZ1U0ZRT0ZwNm9CMzhySnVFX3JoSEdRcGZMUDM4endxbGVFWVZfTlFvZmJIbGM0bnlpUEliS1hjS05sd1BJOGtLa2RwZE9vY3ltQlV6clBGVUVMaS1NQQ?oc=5\" target=\"_blank\">Apple sued after alleged App Store crypto scam cost users $1.8M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-07-27T18:28:15+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple’s latest lawsuit involves bogus Bitcoin wallet - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXp4dy02OW5FRHVrWFkxekgyWDVaWUUzOXdjYXR5b2dmTFBrRkRZeEQ3UHhYVWFtMlltdkpXa2V1bjdfTHFtRHlKMmRHYjhRYjdYTGFFUWdoMEExNlItSk9WZ1ZvdXVpMHE4SzBoeU9Ybm5QNFhnMDAzS0JQMm55dm9yVUhLbGw0T1YxbXZPV242UdIBpgFBVV95cUxQTlFzVm1VdXJzaEU3RFlNNDh5SDA4WjVSSUVkaW9zY2p0TjcxYmJsT01RUi1HMmFUeVlFUmlwVDdPT3JVWk5mTXVPeGxVOUVJNVhCMWNnS1RTUlVtWTBPblU0VURmVS15YXA3aVotR1h6ZVpWa0Njd192OTAyRUJic0p6US01NUxJVlFUVXNBajRWc0FRNDZLRXc2NC0zX3FxUkNwY3VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXp4dy02OW5FRHVrWFkxekgyWDVaWUUzOXdjYXR5b2dmTFBrRkRZeEQ3UHhYVWFtMlltdkpXa2V1bjdfTHFtRHlKMmRHYjhRYjdYTGFFUWdoMEExNlItSk9WZ1ZvdXVpMHE4SzBoeU9Ybm5QNFhnMDAzS0JQMm55dm9yVUhLbGw0T1YxbXZPV242UdIBpgFBVV95cUxQTlFzVm1VdXJzaEU3RFlNNDh5SDA4WjVSSUVkaW9zY2p0TjcxYmJsT01RUi1HMmFUeVlFUmlwVDdPT3JVWk5mTXVPeGxVOUVJNVhCMWNnS1RTUlVtWTBPblU0VURmVS15YXA3aVotR1h6ZVpWa0Njd192OTAyRUJic0p6US01NUxJVlFUVXNBajRWc0FRNDZLRXc2NC0zX3FxUkNwY3VR?oc=5\" target=\"_blank\">Apple’s latest lawsuit involves bogus Bitcoin wallet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
-      "published": "2026-07-28T10:00:00+00:00",
-      "source": "AL.com"
-    },
-    {
-      "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkw4T0JXMFJhYUhvV3RmUGJsOE5veUl4Ump0bGp3d1N0Sko5THl1Smt6cGFRYkFUNEZzMFNtdnh4TVdrc2l4STViZ3BtaGl3a1NKay1iYjhydVhpWUFKSVZlWms2MV91RjlhTWRmWlJZU1hLemNVNW1KOW9tczFkUUYzaE1FT1FEU1BpbEFyVm1nX3kwMzdWMEVkX2t3S1pSQVlSVTZRVFh4ZDJBS3RJNlRIeVpmWEMtOTNpY3RxbUhpMnkyU3hyMGZhTGFobTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkw4T0JXMFJhYUhvV3RmUGJsOE5veUl4Ump0bGp3d1N0Sko5THl1Smt6cGFRYkFUNEZzMFNtdnh4TVdrc2l4STViZ3BtaGl3a1NKay1iYjhydVhpWUFKSVZlWms2MV91RjlhTWRmWlJZU1hLemNVNW1KOW9tczFkUUYzaE1FT1FEU1BpbEFyVm1nX3kwMzdWMEVkX2t3S1pSQVlSVTZRVFh4ZDJBS3RJNlRIeVpmWEMtOTNpY3RxbUhpMnkyU3hyMGZhTGFobTQ?oc=5\" target=\"_blank\">Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "published": "2026-07-28T12:00:08+00:00",
-      "source": "CoinDesk"
+      "title": "Apple Smart Home Overhaul: New Smart Display, Apple TV, And HomePod On The Horizon - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmg1bzc2bzgxU0l2ZkE0Yjhpa2MxcDRXbUxMUERFSnBJQ0J6Y2ViX0hpbjlRVmlTYVlnaklWWnM5VC1scERvbFNidkxMN3RnMmdMazdyZDJnOXJhYUhrMVROX1hBVGh5Qmd1VTVCTzNoQkh0b09IMWFpbUUxVE42aTd4alBKSExXTEo5bEp4eVpGd3dVUlF0bTFoQndleGZnWGdYdFo3WXlTYTlyejkweFpyQ1FjYkpJR3lhN0o0UmNpS2hfZzBxaFdQRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmg1bzc2bzgxU0l2ZkE0Yjhpa2MxcDRXbUxMUERFSnBJQ0J6Y2ViX0hpbjlRVmlTYVlnaklWWnM5VC1scERvbFNidkxMN3RnMmdMazdyZDJnOXJhYUhrMVROX1hBVGh5Qmd1VTVCTzNoQkh0b09IMWFpbUUxVE42aTd4alBKSExXTEo5bEp4eVpGd3dVUlF0bTFoQndleGZnWGdYdFo3WXlTYTlyejkweFpyQ1FjYkpJR3lhN0o0UmNpS2hfZzBxaFdQRQ?oc=5\" target=\"_blank\">Apple Smart Home Overhaul: New Smart Display, Apple TV, And HomePod On The Horizon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-07-29T11:16:19+00:00",
+      "source": "Forbes"
     }
   ],
   "product_launches": [
@@ -73,15 +73,22 @@
       "title": "Apple Launches Product Leasing Program Through Klarna - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSWVIa3FKRFVxd3BUMF9OVHZ6NG93djBkTlQ4M2JSMzhGRzlVS2dOTGpjdzNRdURoVHJkMXFGaENYcDZfZDdzdzBGY29LWXBGb3J4R0M4U041RHJ1aDcxM1BSREVod0xSM3dFcE5DZDUxTlI5SWFFYXBn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSWVIa3FKRFVxd3BUMF9OVHZ6NG93djBkTlQ4M2JSMzhGRzlVS2dOTGpjdzNRdURoVHJkMXFGaENYcDZfZDdzdzBGY29LWXBGb3J4R0M4U041RHJ1aDcxM1BSREVod0xSM3dFcE5DZDUxTlI5SWFFYXBn?oc=5\" target=\"_blank\">Apple Launches Product Leasing Program Through Klarna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-07-28T12:43:42+00:00",
+      "published": "2026-07-28T14:07:00+00:00",
       "source": "WSJ"
     },
     {
-      "title": "Apple Upgrade leasing program launches for iPhone, Mac, iPad, and Apple Watch - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDJKc2hUWEZJeXBXUXdhdm9HcE5PbUh5dkNZU3JjM0JXNkNBRUkyX1hkZ0tVRlBhM1FxWmk0bDhBM0pRNjhxSndNLWJGQmxvOHhPc1VTaWRCdU1uTVJxRVp4djVkQUpybnNTQU5kS0I0bXNsaEE3LW9ZbnpBVXVCRHpfNk5nY3Rx?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDJKc2hUWEZJeXBXUXdhdm9HcE5PbUh5dkNZU3JjM0JXNkNBRUkyX1hkZ0tVRlBhM1FxWmk0bDhBM0pRNjhxSndNLWJGQmxvOHhPc1VTaWRCdU1uTVJxRVp4djVkQUpybnNTQU5kS0I0bXNsaEE3LW9ZbnpBVXVCRHpfNk5nY3Rx?oc=5\" target=\"_blank\">Apple Upgrade leasing program launches for iPhone, Mac, iPad, and Apple Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-07-28T12:20:00+00:00",
-      "source": "9to5Mac"
+      "title": "The Week in Tech: Apple speaks the language of finance and X launches a bank - Marketing Week",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xRldUYkVXaDg2STEtZXdtWVQzR3NaN1Rud3lmR0hRNFhZVEpCejRjZWM0ZnZWYWY5dDZGNktJWkFIdXMyT1VubXI1dEg2bjF1QUdmRDZwcUJZNHNvakV3MWhldW53T0lvb3djbmtaZVlYM28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE4xRldUYkVXaDg2STEtZXdtWVQzR3NaN1Rud3lmR0hRNFhZVEpCejRjZWM0ZnZWYWY5dDZGNktJWkFIdXMyT1VubXI1dEg2bjF1QUdmRDZwcUJZNHNvakV3MWhldW53T0lvb3djbmtaZVlYM28?oc=5\" target=\"_blank\">The Week in Tech: Apple speaks the language of finance and X launches a bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marketing Week</font>",
+      "published": "2026-07-29T11:36:27+00:00",
+      "source": "Marketing Week"
+    },
+    {
+      "title": "Apple to lease iPhones, other products to users through Klarna partnership - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUtqWGFVdFc2cU5HMWNFYU8xOVpVTXRobDlHRHhMcjdETHNURE5KWVFLaTIzeUZISHZrTGtNbG14NFJUZm9PWjFKUGc5S0x0UzRDQ1ItVDFrVm9LQmVDU3UwZmk3aG1YZlFNMmhKaTdycm56THJYLVNKTW1UcVhWTjZIUDNnajZlMzN1dTgxTmhUMXVlS0JER294dE0wbkJ6YTRYUFZVUjZ2d9IBrwFBVV95cUxNN0I3QTBxQ3B3eTh0UV9ZTzFWclB3azNvQzBkdzhGbTV3UVpHOVR6S2JmcW4xZGVHc2tuNXJhWTZpUW1SVDQzUWUweWpwTWJXVjhPOFFzTWJNNm9wOVdqYWVtN3FyQnJIREhOYXNhODFKaG91Ri1uMlAxcjQ4dF8zTmhsTkRfeUk4aHVFMGFrRWcybU9oaXFTLTRvYUh0a1ZmM0VCaG5YajVMTkFDQ1d3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUtqWGFVdFc2cU5HMWNFYU8xOVpVTXRobDlHRHhMcjdETHNURE5KWVFLaTIzeUZISHZrTGtNbG14NFJUZm9PWjFKUGc5S0x0UzRDQ1ItVDFrVm9LQmVDU3UwZmk3aG1YZlFNMmhKaTdycm56THJYLVNKTW1UcVhWTjZIUDNnajZlMzN1dTgxTmhUMXVlS0JER294dE0wbkJ6YTRYUFZVUjZ2d9IBrwFBVV95cUxNN0I3QTBxQ3B3eTh0UV9ZTzFWclB3azNvQzBkdzhGbTV3UVpHOVR6S2JmcW4xZGVHc2tuNXJhWTZpUW1SVDQzUWUweWpwTWJXVjhPOFFzTWJNNm9wOVdqYWVtN3FyQnJIREhOYXNhODFKaG91Ri1uMlAxcjQ4dF8zTmhsTkRfeUk4aHVFMGFrRWcybU9oaXFTLTRvYUh0a1ZmM0VCaG5YajVMTkFDQ1d3?oc=5\" target=\"_blank\">Apple to lease iPhones, other products to users through Klarna partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-07-28T17:58:00+00:00",
+      "source": "Fox Business"
     },
     {
       "title": "Apple launches US device leasing program with Klarna - Reuters",
@@ -89,31 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVG9IZjBlTmdvTGpCYzdiSTgxa3J0QkxKbzBhN2FkY3cyQmpJTVBMdGNXWEw1amNzeERsOC1uVHREOWd2ckJoWFhGUUdhZ3VEUWlkVzRYY0xDS05jMTFWMkNTV3lmS0ZiZDVma2YxblJyQi1GMTZwYWhkV0FHVncyRFV4ajlqbUdTdUhOVlNaZ0NSUi1QVUtZUGVoeS1reGEt?oc=5\" target=\"_blank\">Apple launches US device leasing program with Klarna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-07-28T12:52:12+00:00",
       "source": "Reuters"
-    },
-    {
-      "title": "Apple is launching a device leasing program with Klarna starting at $17.99 a month - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wTk5vNU9CRjFSdGFTYmFGSk9VWmZ2MFRGQ0sxTjE4OE5GdzJ6QlhVRTRIN0FSTFFfTWxIMTZ3ZnVuRkRrTkptT0k0bWdCTXlPZklsTTBLOVBXVmlEN2MzWDdsUE5samlBQXZxc2lsZDk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5wTk5vNU9CRjFSdGFTYmFGSk9VWmZ2MFRGQ0sxTjE4OE5GdzJ6QlhVRTRIN0FSTFFfTWxIMTZ3ZnVuRkRrTkptT0k0bWdCTXlPZklsTTBLOVBXVmlEN2MzWDdsUE5samlBQXZxc2lsZDk?oc=5\" target=\"_blank\">Apple is launching a device leasing program with Klarna starting at $17.99 a month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
-      "published": "2026-07-28T12:51:17+00:00",
-      "source": "qz.com"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-27",
-      "close": 336.9100036621094
+      "date": "2026-07-29",
+      "close": 341.8949890136719
     },
     "history": [
-      {
-        "date": "2026-07-17",
-        "close": 333.739990234375
-      },
-      {
-        "date": "2026-07-20",
-        "close": 326.5899963378906
-      },
       {
         "date": "2026-07-21",
         "close": 327.739990234375
@@ -133,6 +125,10 @@
       {
         "date": "2026-07-27",
         "close": 336.9100036621094
+      },
+      {
+        "date": "2026-07-29",
+        "close": 341.8949890136719
       }
     ],
     "name": "Apple Inc."
