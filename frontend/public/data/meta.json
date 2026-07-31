@@ -2,66 +2,80 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-07-30T13:26:29.223362+00:00",
+  "fetched_at": "2026-07-31T13:39:43.324239+00:00",
   "news": [
     {
-      "title": "Meta's Mark Zuckerberg goes on the offensive selling AI optimism - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ01iT25iT2diVDVmS0NUSkNBdWpwRTVCQmZlNjRkQzZzcm1HX3ZvNHBlakkxaWl6WGd0VUdVaVpGMHRRNTRpQWwzVG5qb19OWXl5N09pWGlmdF9MRGZ5aWYwc0pTVU5NZnUtelJILUo2bVRzdEVSRjJDM0ZOVV9SMzYtRUFtOXRBSEc0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ01iT25iT2diVDVmS0NUSkNBdWpwRTVCQmZlNjRkQzZzcm1HX3ZvNHBlakkxaWl6WGd0VUdVaVpGMHRRNTRpQWwzVG5qb19OWXl5N09pWGlmdF9MRGZ5aWYwc0pTVU5NZnUtelJILUo2bVRzdEVSRjJDM0ZOVV9SMzYtRUFtOXRBSEc0?oc=5\" target=\"_blank\">Meta's Mark Zuckerberg goes on the offensive selling AI optimism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-29T15:00:00+00:00",
+      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5\" target=\"_blank\">Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-07-30T08:53:39+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5\" target=\"_blank\">Meta, Microsoft, and the AI Capex Divide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-07-30T21:37:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa09zRlkzUjFBQWdQN3YtWXZiSlZSZ01xM1NnUjlzVnFwdkVaSVdSYlZMOV82bjZJbk5pazV1YnpxVm1NdFJTR2FvOFY4VjlaQ2FtODlGcnRyb0RoMTkwTTJXaGlsdG43TmlOWFhYVHRLaVltQ0FSYWVYVnhpc09jMndJQ3dIX0FhX1dJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa09zRlkzUjFBQWdQN3YtWXZiSlZSZ01xM1NnUjlzVnFwdkVaSVdSYlZMOV82bjZJbk5pazV1YnpxVm1NdFJTR2FvOFY4VjlaQ2FtODlGcnRyb0RoMTkwTTJXaGlsdG43TmlOWFhYVHRLaVltQ0FSYWVYVnhpc09jMndJQ3dIX0FhX1dJ?oc=5\" target=\"_blank\">Meta's & Microsoft's massive AI spending: Why only one is getting rewarded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-30T17:30:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObjhaMWlNLVA5MnM1WWl2NngwLXJueU0zSHVFX01VVmpfRVlzdElvS1hoV0p2dmhENWtYZkdPek9vV19HWHVydmZwYzJETWxjSzlrdTVBQk4tRGVMQ2xmVnd1MUtWNzdpWUU0ekpxTmNRVERucHRuQ1VHTm1XQ3NST0VZZVhMRXRPWm1Gc2JzTWw3Nl9MSGpNdmlrbVVBalRLVG1CadIBqgFBVV95cUxPZjA3cW1vU2V1UEYtZEs4MndkZGlLZnYtdzl2X1BwNzhqb0ZLWVJHenhZTERISmRFUUxiY0NtWXQyUGxHM09Kc29udnRSYjFrT0pNOERkODNSLWRoaEZWbVNLcnBUUlRfMHpsdF9ER0I1WEs5OGVObEZjd1h3YV9RTUdaUFFadUo3ZklPUC1aTUdfMzIzckdDRnJsXy10eEVFUW5ORXlaRHd3UQ?oc=5\" target=\"_blank\">Zuckerberg lays out Meta's AI capacity dilemma: What to sell vs. what to keep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
-      "published": "2026-07-30T00:58:00+00:00",
-      "source": "cnbc.com"
+      "title": "Meta earnings reveal cash flow drops 91% — while Zuckerberg writes op-eds about superintelligence - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXQxcVg1VXgxcHNPS1FRU00xWURwcVAySUdEUEo5dEU0Z09WaEJwSjFHc3ViLTdZUzV3bjlkQmx3a25yMml5dEV1QmlJVU9Xc3JWdUZuRnZGa0VtelFudTJNTkhQTGpPRVJpWENSOUxsT2lDcXBmOXJGQ05WNkxFUEVYNGNqYWs?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXQxcVg1VXgxcHNPS1FRU00xWURwcVAySUdEUEo5dEU0Z09WaEJwSjFHc3ViLTdZUzV3bjlkQmx3a25yMml5dEV1QmlJVU9Xc3JWdUZuRnZGa0VtelFudTJNTkhQTGpPRVJpWENSOUxsT2lDcXBmOXJGQ05WNkxFUEVYNGNqYWs?oc=5\" target=\"_blank\">Meta earnings reveal cash flow drops 91% — while Zuckerberg writes op-eds about superintelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRU16VGxwcmZaeTRwbzZ5VV9aU3FhZmZ6MDZadjZIWXJlRFJYdlN4Wl95ZThPQ1RvSUY2ZmxQQWs4b05tak80emdxYU4wb3lIZElzMnJLZkhVNWhZek5jb2lmODU3M0ViZlpRZUVtaU9XUUExM0FqSEFsRjEwTUtOQm5rSW1VLW90bUxyc0pRaGNRRTAtRHMwcFFiejlobXdIeExGXzNn?oc=5\" target=\"_blank\">Meta’s Zuckerberg Defends AI Bets to Skeptical Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUlXWVB3U0w2blY1VkpfbTRWUkFOLWYxOGNYTmVPN0hIbWUtMFR5cmluTDM4REcydGItUHA3TVEyMllOaVh4MGxOemVfYWxOYVVqVkJFYXh2NUdIR1FVZEp5X3RySzZKeHFyTEEyOUtoOUh0dHIzSXY1Qm5mZW1FcWZBREdpQVhUd29fT1lrOVZQdHRvRmRDMFNsM0hNMEJNNlp2eUZKYXRJSmFTbzdCdDRwOElhZVJ2UzNDb1hzLWliMnFSaEpYMUZLSm53elA5M0pSZFd4V3M?oc=5\" target=\"_blank\">One line from Meta's earnings call that ensured the stock will likely stay dead money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-07-30T13:00:00+00:00",
+      "source": "Fortune"
     },
     {
-      "title": "Meta’s Case for Its AI Spending Keeps Getting Weaker - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHJWNjZndFNnSktPdHZpLXczbnVkaHp6UjlyN1Z6eS1CaFlfeUpVYU82SjN5NEJqaTNxeGtSVzBBN18xNW9rLV9HWld2T1VBbE96MzExZU5TUVMwMEp0THVFcHBNZmYzMDJFYU9ybkpaYTVveV9maU0xb195cTVsVk9VZGV5SmhYdjVYU1Ezd3V0dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSHJWNjZndFNnSktPdHZpLXczbnVkaHp6UjlyN1Z6eS1CaFlfeUpVYU82SjN5NEJqaTNxeGtSVzBBN18xNW9rLV9HWld2T1VBbE96MzExZU5TUVMwMEp0THVFcHBNZmYzMDJFYU9ybkpaYTVveV9maU0xb195cTVsVk9VZGV5SmhYdjVYU1Ezd3V0dw?oc=5\" target=\"_blank\">Meta’s Case for Its AI Spending Keeps Getting Weaker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-07-30T09:30:00+00:00",
-      "source": "WSJ"
+      "title": "TikToker faces police probe over secret filming using 'smart glasses' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wT2JxeGJqdUxmYU96NlNFbDZQQkxud09CcE14VkltN3J4SkFTRURvQmJBXzlvZV9HQy1SSC00N3p3aFItVWRxVWN2aXl0ckhCSlAzSFpwSXZadw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wT2JxeGJqdUxmYU96NlNFbDZQQkxud09CcE14VkltN3J4SkFTRURvQmJBXzlvZV9HQy1SSC00N3p3aFItVWRxVWN2aXl0ckhCSlAzSFpwSXZadw?oc=5\" target=\"_blank\">TikToker faces police probe over secret filming using 'smart glasses'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-07-31T08:50:03+00:00",
+      "source": "BBC"
     },
     {
-      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV01kYzlERkIwM0ZfUXBQTTQyS2FmaFZHRFpoUGFwMHpidjQxX1JzTmRpa3o5bUViMFM2eGk4UldVUE5NcGZ5TGZXRUlCX1JyVmc4bF8xY3haNkpnaG1xRDhhRUNHOEdGY0REUUY2UUVFN03SAXhBVV95cUxPUGJIU0dqamJ2M1gxbW9yQXFhOG9tQV9VTmdMbUxub1RvLUR0MGJGdlMzWUtaTWMzOWtVdFZZcS16azhZY21Gb01zXzlZZ2IteFhjNFpLSWFBS2IwS0ltQWt4VEstckItdUg3SF9LM0YyVGRndjdaWHM?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBpV01kYzlERkIwM0ZfUXBQTTQyS2FmaFZHRFpoUGFwMHpidjQxX1JzTmRpa3o5bUViMFM2eGk4UldVUE5NcGZ5TGZXRUlCX1JyVmc4bF8xY3haNkpnaG1xRDhhRUNHOEdGY0REUUY2UUVFN03SAXhBVV95cUxPUGJIU0dqamJ2M1gxbW9yQXFhOG9tQV9VTmdMbUxub1RvLUR0MGJGdlMzWUtaTWMzOWtVdFZZcS16azhZY21Gb01zXzlZZ2IteFhjNFpLSWFBS2IwS0ltQWt4VEstckItdUg3SF9LM0YyVGRndjdaWHM?oc=5\" target=\"_blank\">Meta's stock drops on disappointing guidance, dwindling free cash flow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2NsT1M3T2YzbTIyNGdEXzh6U0d3N1ZtODQ3VnNNbEpUZkhWZlhFb2o1dWJkYkhyWk1wLVpfbXdmUnlNUXRWajR1T3ZwN2FMX2gtbDR5WnVZU0tsQUdveHBnQ0hEMnlHUll3dTFaOGNkZGhkeHVCS2VCLU9FT2Q4NnhRWTVOUUxxV1ZZRGgySQ?oc=5\" target=\"_blank\">Meta misses on Q2 earnings, stock tumbles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUc1eW83Uzk1MUJZT1NlNUQ0Y0ZLTGdGckxvZVZBMm5hODJlcWRMZ0ZndS1aR1pwenR1TUI3MVpKbk9obFhtYjYzTzZxQ2R0N2NESnFzZzA5cXVDMGxzYnNXNktwVENNTjBqUjZBTzdGcjNfWWsySFV4dG03UG9kTXZJbVV4VERLd3ZfUDkzeFBRZWxYNkVYZWdmNjI2ZWdSRWw2NnZvbUE5d3BwNGV2UGF2MFJLUUQ1RlFrbWREUl8wQQ?oc=5\" target=\"_blank\">Stock Market Today: Dow Rises Ahead Of Key Inflation Data; Meta Plunges On Earnings (Live Coverage)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li></ol>",
-      "published": "2026-07-29T16:00:01+00:00",
-      "source": "cnbc.com"
+      "title": "Meta Glasses Could Be the Gateway Into a Queer Dystopian Nightmare - them.us",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wTWJJNVF6UDFpbjNWdHcxbFlpOUR0R0lwQ0xjVFVoc2RsTnRReDhmdmdrUWlCYjJDa29BWXc1dDViVl9ud0p2MExVaFQ1eV9kMDVjazU1MmZXZnpYSWVqS2l1MElsd3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wTWJJNVF6UDFpbjNWdHcxbFlpOUR0R0lwQ0xjVFVoc2RsTnRReDhmdmdrUWlCYjJDa29BWXc1dDViVl9ud0p2MExVaFQ1eV9kMDVjazU1MmZXZnpYSWVqS2l1MElsd3c?oc=5\" target=\"_blank\">Meta Glasses Could Be the Gateway Into a Queer Dystopian Nightmare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">them.us</font>",
+      "published": "2026-07-30T16:59:32+00:00",
+      "source": "them.us"
     },
     {
-      "title": "Stocks making the biggest moves premarket: Meta, Microsoft, Teladoc, Norwegian Cruise Line & more - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUhlcmZQcWh2WFVILXRfODZqRW1ueV85bHlHM04wSl9KNXYyRGUtZHZ1YTJQRG14b2QwN2RmMVc5aTBGSGZfVDFZMHlYa2FCU2VTYXNfakFsbTNOcktGWExhSnBmanpiMHBLNXVGeUhoSjA4RjRrX3dDQzdJNHk1OWZBam1XOUd4M3JsYUduRDJMZFFSUHpXVTB4dGFlcTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUhlcmZQcWh2WFVILXRfODZqRW1ueV85bHlHM04wSl9KNXYyRGUtZHZ1YTJQRG14b2QwN2RmMVc5aTBGSGZfVDFZMHlYa2FCU2VTYXNfakFsbTNOcktGWExhSnBmanpiMHBLNXVGeUhoSjA4RjRrX3dDQzdJNHk1OWZBam1XOUd4M3JsYUduRDJMZFFSUHpXVTB4dGFlcTg?oc=5\" target=\"_blank\">Stocks making the biggest moves premarket: Meta, Microsoft, Teladoc, Norwegian Cruise Line & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
-      "published": "2026-07-30T11:45:42+00:00",
-      "source": "cnbc.com"
+      "title": "Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE8zRGg1cHZHUE9HRndtaDRHUi15N29DYkx5VlRzdW05THBnbmktSi1QVXRnMXd4Qk5LZVVTQkFzYjJ1RkFubGJiRkNUQ1VJTkctQkhwQjNYcEh5SFJSQ3RBUkdSWENoeWxjSXJNUGtaS3JNYmcxZEdYeHBiazZyX1ZMajA5Mzc3TjVPMTVoeGItdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE8zRGg1cHZHUE9HRndtaDRHUi15N29DYkx5VlRzdW05THBnbmktSi1QVXRnMXd4Qk5LZVVTQkFzYjJ1RkFubGJiRkNUQ1VJTkctQkhwQjNYcEh5SFJSQ3RBUkdSWENoeWxjSXJNUGtaS3JNYmcxZEdYeHBiazZyX1ZMajA5Mzc3TjVPMTVoeGItdw?oc=5\" target=\"_blank\">Meta’s Attempted Crackdown on AI Glasses Perverts Is Already Failing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
+      "published": "2026-07-30T13:50:28+00:00",
+      "source": "Futurism"
     },
     {
-      "title": "Meta Reports $279 Billion in Future Data Center Leases for AI - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHRYM3p1VjVqUzZZOG92clpYeDdfdDUyMFhtZFdYQUowZ2pSVGxDcXZ3clZ3dXNnV1pCSkNFVWpvME1VLXFrUnpYTXdDZGJxbE9kY0tOUm5rS1lBZ1RqWktWZjNaXzhXNjNIbDhWNFhsMEJVTkluQlVJZXpaQUdMX3NrMHdQOF9LMDdKN0VhZ3g5SHRKdkVqYlN2Nl9lZjdHYnc3TmI1QW01X29nUDNwWg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHRYM3p1VjVqUzZZOG92clpYeDdfdDUyMFhtZFdYQUowZ2pSVGxDcXZ3clZ3dXNnV1pCSkNFVWpvME1VLXFrUnpYTXdDZGJxbE9kY0tOUm5rS1lBZ1RqWktWZjNaXzhXNjNIbDhWNFhsMEJVTkluQlVJZXpaQUdMX3NrMHdQOF9LMDdKN0VhZ3g5SHRKdkVqYlN2Nl9lZjdHYnc3TmI1QW01X29nUDNwWg?oc=5\" target=\"_blank\">Meta Reports $279 Billion in Future Data Center Leases for AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "published": "2026-07-30T12:05:57+00:00",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Apple said to delay smart glasses launch after Meta backlash - mashable.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzODlmSld2el9xcHg1STB1bU8zYW9aa2EyVVVEZHE5V08zX0g3azN5UzZjdjBzbnBaZEl5Y1dVak1wME5RU1puaG5yOXIxSjc4S2ZuV041UUdWaF9Ba1pzcXU1LTI4UXpQTkp6N1NMM1dIdGI0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAzODlmSld2el9xcHg1STB1bU8zYW9aa2EyVVVEZHE5V08zX0g3azN5UzZjdjBzbnBaZEl5Y1dVak1wME5RU1puaG5yOXIxSjc4S2ZuV041UUdWaF9Ba1pzcXU1LTI4UXpQTkp6N1NMM1dIdGI0?oc=5\" target=\"_blank\">Apple said to delay smart glasses launch after Meta backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mashable.com</font>",
-      "published": "2026-07-30T11:35:17+00:00",
-      "source": "mashable.com"
-    },
-    {
-      "title": "EXCLUSIVE: US FTC sues Hims & Hers for sending user health info to Meta, Snap - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZERUYTFrc29hLW1hZ0hQZXZvREFRVjA0MC1fMWRNb3RjcUhzRUMwTVBJcVQ1MFFOeVBieHZua2IyZVNfU1pYc0xxV0tCY0pkWHJnMW1yNkU2bEhrU0xKbmc5VTMzQWIxRVctaEI0ZVl6N1VzTHhaZE1lNW9URXhDNVlWMEJFemVHUGstUWduLVF0dl9EbkMyQV9US0U0RGdH?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZERUYTFrc29hLW1hZ0hQZXZvREFRVjA0MC1fMWRNb3RjcUhzRUMwTVBJcVQ1MFFOeVBieHZua2IyZVNfU1pYc0xxV0tCY0pkWHJnMW1yNkU2bEhrU0xKbmc5VTMzQWIxRVctaEI0ZVl6N1VzTHhaZE1lNW9URXhDNVlWMEJFemVHUGstUWduLVF0dl9EbkMyQV9US0U0RGdH?oc=5\" target=\"_blank\">EXCLUSIVE: US FTC sues Hims & Hers for sending user health info to Meta, Snap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T22:02:50+00:00",
+      "title": "India summons Meta executives over briefly restricted Modi Facebook post - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTc5emRfN2JEMG1ONWo2dGh3RzhxZ3hDRnlKM3kyNXdFbk9iVTRIeXhEdVN4UWRqZ1JQaklwWml6NW5GVm9yamZpVXpSTHJsZEdibl9iZnJkNHp1RVNrNEIxOHhhaG9DRW5aYnAyd3BhUnozQUJnOWpsdUVUZjlrQnZHeld0U1lEQ000bFdhbHQ5ejRlQXc2d3VtZEx0X3BDaHF3T3JNQkRQZFA1dXdZeHhTd1pDcWdPZDFtWE1xRmVFMG9fQUs1bTBMYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTc5emRfN2JEMG1ONWo2dGh3RzhxZ3hDRnlKM3kyNXdFbk9iVTRIeXhEdVN4UWRqZ1JQaklwWml6NW5GVm9yamZpVXpSTHJsZEdibl9iZnJkNHp1RVNrNEIxOHhhaG9DRW5aYnAyd3BhUnozQUJnOWpsdUVUZjlrQnZHeld0U1lEQ000bFdhbHQ5ejRlQXc2d3VtZEx0X3BDaHF3T3JNQkRQZFA1dXdZeHhTd1pDcWdPZDFtWE1xRmVFMG9fQUs1bTBMYw?oc=5\" target=\"_blank\">India summons Meta executives over briefly restricted Modi Facebook post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-30T11:41:44+00:00",
       "source": "Reuters"
     }
   ],
   "product_launches": [
+    {
+      "title": "Meta Uses AI to Speed Up the Launch of New Apps - entARABI",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTNITy0zQ0VKRWVWVnRfVDJvMWFGYUZxRVdRVXBGRHB3Ui05bzJLRmpLUUZWYXViTnZPdFpLUTVSNkhaZU00YmpGdWphSkVWZ2hZOEl0Y2llV0ZBOUNPYjlnTVZzSWVWbVhDVjN4LTJ4WkpRNFdVZWgwdFVTNlp4N0E4dmRDU3M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTNITy0zQ0VKRWVWVnRfVDJvMWFGYUZxRVdRVXBGRHB3Ui05bzJLRmpLUUZWYXViTnZPdFpLUTVSNkhaZU00YmpGdWphSkVWZ2hZOEl0Y2llV0ZBOUNPYjlnTVZzSWVWbVhDVjN4LTJ4WkpRNFdVZWgwdFVTNlp4N0E4dmRDU3M?oc=5\" target=\"_blank\">Meta Uses AI to Speed Up the Launch of New Apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">entARABI</font>",
+      "published": "2026-07-30T18:31:25+00:00",
+      "source": "entARABI"
+    },
+    {
+      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-07-09T07:00:00+00:00",
+      "source": "The New York Times"
+    },
     {
       "title": "Samsung bets on lighter AI glasses to challenge Meta - The Korea Herald",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUWERRdmtrY1dhT1BCRVp4ZkNDYXRpOWRFZVNhUHlteVRpUkFQTFpiRjM5WnZubHN2Nm5WWmRoczg4anpkV1liY05tdTFFb2lvMFhBSzBDQQ?oc=5",
@@ -70,18 +84,11 @@
       "source": "The Korea Herald"
     },
     {
-      "title": "Meta Gives Facebook Marketplace Its Own App Called Seller - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOG1CNXY2Uk15OUlleW1qNG9XbU1tbzVOZnpwR2tKRUpsa1B4WmRVeDduN0ZGMTM3NzYwa1lXZGZfMzlCbjRJcVJFaE1vWEMyUkVka1BJdVo4YnVYc3lMd1p6Mkc2VUM1MmF2S2ozblU1NkIwMWtwQ1RmbGp4MUlKbDlhRWk5UERHS1Zv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOG1CNXY2Uk15OUlleW1qNG9XbU1tbzVOZnpwR2tKRUpsa1B4WmRVeDduN0ZGMTM3NzYwa1lXZGZfMzlCbjRJcVJFaE1vWEMyUkVka1BJdVo4YnVYc3lMd1p6Mkc2VUM1MmF2S2ozblU1NkIwMWtwQ1RmbGp4MUlKbDlhRWk5UERHS1Zv?oc=5\" target=\"_blank\">Meta Gives Facebook Marketplace Its Own App Called Seller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-07-24T11:00:09+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses - Meta Store",
+      "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses - about.fb.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3h4ZHdPTDhKWGNjOVNya20xNVdFcU50Tnh5dnJGdkV4MFJyMDhzenkwU0xkVmZGNHgybTIzc2VDZEt0VU1RYVpqWV82cHRLZ0NqZTJmaUIwSnJUTUdydm1KdmJkQjhDNDFZallKSEFUQWVLbGxmOFZSYXdHQ1RDUFl0WFE0NnNJODgtb9IBkgFBVV95cUxQbkxNb3c0VWRVWjlEMFdtTV9xWThlQU50Sy05MldQYU5OX3RCdTFJYnlCYmRrMXJ3MmlsZ1J1emxLSGhhZFpkS1JKYWZPRXNVazYzcXY1OG1jWUtwUWl5eVV6b3VXM3p6RWFqZzViNUdCNzFuandPSjM3RWd2UktOQUhmeDJfNkc1bnJXR19zYlBKdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3h4ZHdPTDhKWGNjOVNya20xNVdFcU50Tnh5dnJGdkV4MFJyMDhzenkwU0xkVmZGNHgybTIzc2VDZEt0VU1RYVpqWV82cHRLZ0NqZTJmaUIwSnJUTUdydm1KdmJkQjhDNDFZallKSEFUQWVLbGxmOFZSYXdHQ1RDUFl0WFE0NnNJODgtb9IBkgFBVV95cUxQbkxNb3c0VWRVWjlEMFdtTV9xWThlQU50Sy05MldQYU5OX3RCdTFJYnlCYmRrMXJ3MmlsZ1J1emxLSGhhZFpkS1JKYWZPRXNVazYzcXY1OG1jWUtwUWl5eVV6b3VXM3p6RWFqZzViNUdCNzFuandPSjM3RWd2UktOQUhmeDJfNkc1bnJXR19zYlBKdw?oc=5\" target=\"_blank\">We’re Partnering With EssilorLuxottica to Launch Meta Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3h4ZHdPTDhKWGNjOVNya20xNVdFcU50Tnh5dnJGdkV4MFJyMDhzenkwU0xkVmZGNHgybTIzc2VDZEt0VU1RYVpqWV82cHRLZ0NqZTJmaUIwSnJUTUdydm1KdmJkQjhDNDFZallKSEFUQWVLbGxmOFZSYXdHQ1RDUFl0WFE0NnNJODgtb9IBkgFBVV95cUxQbkxNb3c0VWRVWjlEMFdtTV9xWThlQU50Sy05MldQYU5OX3RCdTFJYnlCYmRrMXJ3MmlsZ1J1emxLSGhhZFpkS1JKYWZPRXNVazYzcXY1OG1jWUtwUWl5eVV6b3VXM3p6RWFqZzViNUdCNzFuandPSjM3RWd2UktOQUhmeDJfNkc1bnJXR19zYlBKdw?oc=5\" target=\"_blank\">We’re Partnering With EssilorLuxottica to Launch Meta Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about.fb.com</font>",
       "published": "2026-06-23T07:00:00+00:00",
-      "source": "Meta Store"
+      "source": "about.fb.com"
     },
     {
       "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
@@ -89,31 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5\" target=\"_blank\">Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
       "published": "2026-06-23T07:00:00+00:00",
       "source": "Meta Store"
-    },
-    {
-      "title": "Meta Launches Cheaper Smart Glasses Without Ray-Ban Branding - UploadVR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMC1CVG1lX1hBMVRkMGZHdDNuLURydGhmRlhXdVdDLThYWkMtMnBoYnZfQXI5QkhVWFMxb0pDS2JWOGxvcE9MYTZ4eFAyT01WbmFuODdabFVfLVRXTlgzQnZFY1FPRDFLYlJlUHFWb28zd25FNzkxWkZBYkdYRHdqNzl2YmQ2TEkxRXFUb24ydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMC1CVG1lX1hBMVRkMGZHdDNuLURydGhmRlhXdVdDLThYWkMtMnBoYnZfQXI5QkhVWFMxb0pDS2JWOGxvcE9MYTZ4eFAyT01WbmFuODdabFVfLVRXTlgzQnZFY1FPRDFLYlJlUHFWb28zd25FNzkxWkZBYkdYRHdqNzl2YmQ2TEkxRXFUb24ydw?oc=5\" target=\"_blank\">Meta Launches Cheaper Smart Glasses Without Ray-Ban Branding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
-      "published": "2026-06-24T07:00:00+00:00",
-      "source": "UploadVR"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-07-29",
-      "close": 585.6099853515625
+      "date": "2026-07-31",
+      "close": 548.833984375
     },
     "history": [
-      {
-        "date": "2026-07-21",
-        "close": 643.8099975585938
-      },
-      {
-        "date": "2026-07-22",
-        "close": 627.1699829101562
-      },
       {
         "date": "2026-07-23",
         "close": 606.0999755859375
@@ -133,6 +125,14 @@
       {
         "date": "2026-07-29",
         "close": 585.6099853515625
+      },
+      {
+        "date": "2026-07-30",
+        "close": 539.030029296875
+      },
+      {
+        "date": "2026-07-31",
+        "close": 548.833984375
       }
     ],
     "name": "Meta Platforms, Inc."
