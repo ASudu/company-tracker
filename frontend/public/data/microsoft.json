@@ -2,35 +2,56 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-07-31T13:39:36.650467+00:00",
+  "fetched_at": "2026-08-01T12:56:23.630869+00:00",
   "news": [
     {
-      "title": "Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3B2S2czbVdPTVpXd3FyT0s4WllNUEJQdGNpY0gxQS1Jd29UOVFPLVMtcHllbUM0emRpYTBVTmxaT3R5eTUtNEVCNkVBUldrT05VYTFCOTRUVUZoUnlzUV9YaEdxZ3FSb0JoVVppck1XQzRyTkhGdzlrejBuVHA3NkFmbEpoZHE3VFJpdk9R?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxON3B2S2czbVdPTVpXd3FyT0s4WllNUEJQdGNpY0gxQS1Jd29UOVFPLVMtcHllbUM0emRpYTBVTmxaT3R5eTUtNEVCNkVBUldrT05VYTFCOTRUVUZoUnlzUV9YaEdxZ3FSb0JoVVppck1XQzRyTkhGdzlrejBuVHA3NkFmbEpoZHE3VFJpdk9R?oc=5\" target=\"_blank\">Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMWNTbGhpQ1REbEQxc2dGRUxkQktJVWlhcTUtWDRZWFlpU2dfaW95Nlk3UHhMQ2pSVkZDUWxIZ3pkU0VmbTdmYzdZdDJ0dy1TOFE5QXdwOG1BaEIzN3p3N3RHMnl4WkhRRXUyX1NTakphU1ZUa0pwMkZ3S3ZxSk9BNVFDTHlwcC1JQ3lLSmFoaFMzT0VaZWVwT0lCa2hYZC14RlRrS0lla3hTQzdNNG1ybTd1SHNUQkpvdEw5NGJfb1NNM09TaC1uSHdlN0VNUnB0WG5fY1JvWWxOaHlGVWt3SW9UVQ?oc=5\" target=\"_blank\">Microsoft Stock Surge Could Add a Record Amount of Market Cap Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE56eHVsSTRMRzJ1UDhhWEptUWdrb1J1bEJZOVBQdV93NGY2R2k4QW5Gb0JkNVhIR1pVTU1TTVByYTJLQzh4N2ZfbWIxVkhsTTFQdE9IY1liSUd1YkpHV0VUTEdQMjZYRGVYWllHZFFQaWNWNWdjWV9UUA?oc=5\" target=\"_blank\">Microsoft posts record one-day market cap gain after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font></li></ol>",
-      "published": "2026-07-30T14:20:00+00:00",
+      "title": "Copilot worm can spread through Microsoft Word docs - csoonline.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFFlZThaUEJWbnhXQ2lZY0dQZFQzdkhuQ3ZBdnRERG1VNmQyYmN5N3BQVWo0d3ktMGNuSGM5MGM4VTNEbHBaLUw4T3VWc3ZrQkRTY2ZRdFk2LVpkNzRRcFN6cXZmUXR4bVhfNXdXUFRfMV8yY0RLX2p3TzJUZ3gyb2p3bDhYempQbEtQbDJDaTlFLTc2UzFqVnVqN25aZ00?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFFlZThaUEJWbnhXQ2lZY0dQZFQzdkhuQ3ZBdnRERG1VNmQyYmN5N3BQVWo0d3ktMGNuSGM5MGM4VTNEbHBaLUw4T3VWc3ZrQkRTY2ZRdFk2LVpkNzRRcFN6cXZmUXR4bVhfNXdXUFRfMV8yY0RLX2p3TzJUZ3gyb2p3bDhYempQbEtQbDJDaTlFLTc2UzFqVnVqN25aZ00?oc=5\" target=\"_blank\">Copilot worm can spread through Microsoft Word docs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csoonline.com</font>",
+      "published": "2026-07-31T00:36:11+00:00",
+      "source": "csoonline.com"
+    },
+    {
+      "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1d4clZGd29SUlVkemdZNzFwbm5nVUM2WFhjVXQwZWNqb25tMzVnQ0dvcXhYek92M3ZxODE1R2NjNjJrQXBCRzdVMjNOWkV3Sk9oX3RUTmtDbVdPV2tKMGd4TUFFcGFzYTBkYlA4ZVlrN3hneUx5LUY4SWRfRUhLaXZHMEFJcFJBUkJmNGZid0xLdkFCMkhxVUFPRDhHUmpwaktCNVRhWnlGZ0d4b3lHVU1WMVNicFFUNTZ1cXR3MFhKZnpYcEZEaWpjTGUxYWpRTVE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1d4clZGd29SUlVkemdZNzFwbm5nVUM2WFhjVXQwZWNqb25tMzVnQ0dvcXhYek92M3ZxODE1R2NjNjJrQXBCRzdVMjNOWkV3Sk9oX3RUTmtDbVdPV2tKMGd4TUFFcGFzYTBkYlA4ZVlrN3hneUx5LUY4SWRfRUhLaXZHMEFJcFJBUkJmNGZid0xLdkFCMkhxVUFPRDhHUmpwaktCNVRhWnlGZ0d4b3lHVU1WMVNicFFUNTZ1cXR3MFhKZnpYcEZEaWpjTGUxYWpRTVE?oc=5\" target=\"_blank\">Microsoft's stock rockets more than 15% for largest single-day jump in history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnVMRnpOTU9YRU9RX2FwSDQ5dlptV1hxSzJPd1NMSlpEdTJtMXFvZTBYblJWcWFkams4TUczd0dCNm05bS1VSGJ1ZDBlYS0zYlNSbkpzRTlWc2tFTzZjYmJUang3NDcyWVNtQzNsVGFUSWxzc2w5QWJpaHZueTUydEhhQ1dNN3lvMFBrY3VTUFd1NkFJYk9BNWZlcmNhVWJmXy10Nmg2aDRsN2I5ZUJxdQ?oc=5\" target=\"_blank\">Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFpBZ0tFN0JCSll1ZzlsMG55eHNtQjVid2tCeFZEWFpqUHpTZ3l5VGR0OUttbFNrenBCWko0SHB4MHhqNDFqdGwxNE5GdlFFZUg2WmduUlM1LW53bmJDWDNJckg3VVNvSDZfdEZjLUhpbVNIbk4xNEVPNXc4S3FSdjQ1SGJDSTRaS205Q21IWW1oQTFRNVRhdGI1Q3dOWUVNLUduNGdoaFdmRWY1Rm04V9IBtgFBVV95cUxNd3pkNGFPblBZUG1KMkpxNkh1Mlk2RU1tRnY5TExnR0VtaDd4QnZWd0tiaUQ0dTh1RHd3WDVOQV9CSTlRenFzYm9rUDIxOEhlbkZMeVk5cU44Xy13ZEZuaC1TSjdFbjR5Wnh0R0Q3ZlNUS29rOVRXZUlyaEZXUmp0VkVtWjVLM09QY2Jhb2Q4dEdUWm82WncwRDliaWRsS20yZmo2Wm9lV3hkbEVIV1hPeGhSUlFtdw?oc=5\" target=\"_blank\">Microsoft shares are surging. Here’s how to still make money, says Mike Khouw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
+      "published": "2026-07-30T20:03:14+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Traverse City woman, 73, loses $42,000 in Microsoft impersonation scam - WPBN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFdZeFA3OWNpdTB3dS1MbmxyTWhKdU84LTVDa1gzZFlTRzRpRFpYbW9CX3IwX1IwX19sRl81dngwRDhSZWQ0VjZBWjFZNGZSNUVicHU4ZUoxTmNnaWpYODE3d0NZMkxJRGZWTG81bXN6ZjZzU2lid1ZqazNiWm9NTTg5X3NJVHlQSXJTYlo3b1ZZX1Q3STlEbjVGN05VeWFqMnRv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFdZeFA3OWNpdTB3dS1MbmxyTWhKdU84LTVDa1gzZFlTRzRpRFpYbW9CX3IwX1IwX19sRl81dngwRDhSZWQ0VjZBWjFZNGZSNUVicHU4ZUoxTmNnaWpYODE3d0NZMkxJRGZWTG81bXN6ZjZzU2lid1ZqazNiWm9NTTg5X3NJVHlQSXJTYlo3b1ZZX1Q3STlEbjVGN05VeWFqMnRv?oc=5\" target=\"_blank\">Traverse City woman, 73, loses $42,000 in Microsoft impersonation scam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPBN</font>",
-      "published": "2026-07-31T12:52:39+00:00",
-      "source": "WPBN"
+      "title": "Microsoft Promises Better Windows 11 Memory Efficiency - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3h3cnNDN01DekFIQVJQUEpWc0JqejNzOTFwanAxaXc3bnozUVRDTGpRTmRCNTJZSXdvZl84cGk0RHFpcmU3R3IyazNZOC1Lc2tOSGkwZEx0bTVrdVQ0Q2tKZ01TUTJTT3pHLWM1alJZallnYjVhbDJaSjlRdXdQRGRlRHI5UzNYYUhpbmZGZVdvYTjSAZgBQVVfeXFMTmRSQ2xTTWNjcVRfdlFMZGh5VzlFZnIyTU9FRUtPYU9ObHBMU2EwV1ZwSFEtZHduUlNrOEJWREVEMVQzZDFKUWxVZ0NsNmNsZXZFQzl4RS1rMVFLLVRPcDBTallMazFJN0NPeFl1dEtIOXYwcVVtQTg2bzVNT0NxYWhXTXRMMFh6TzIwcnhMX3lnZUprS2s3U2k?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3h3cnNDN01DekFIQVJQUEpWc0JqejNzOTFwanAxaXc3bnozUVRDTGpRTmRCNTJZSXdvZl84cGk0RHFpcmU3R3IyazNZOC1Lc2tOSGkwZEx0bTVrdVQ0Q2tKZ01TUTJTT3pHLWM1alJZallnYjVhbDJaSjlRdXdQRGRlRHI5UzNYYUhpbmZGZVdvYTjSAZgBQVVfeXFMTmRSQ2xTTWNjcVRfdlFMZGh5VzlFZnIyTU9FRUtPYU9ObHBMU2EwV1ZwSFEtZHduUlNrOEJWREVEMVQzZDFKUWxVZ0NsNmNsZXZFQzl4RS1rMVFLLVRPcDBTallMazFJN0NPeFl1dEtIOXYwcVVtQTg2bzVNT0NxYWhXTXRMMFh6TzIwcnhMX3lnZUprS2s3U2k?oc=5\" target=\"_blank\">Microsoft Promises Better Windows 11 Memory Efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnFTLVlrMXJBV0oxamwzcGprdEJGcGY5d0RNUzlxWDJzT1VoNXVpc1NSaUNJekdKcG9fZkc5dDBiWXpfc3NmVnJOM3lKUG1xZzBNNDdfUjNtMGlfN05vQXhZS1U0U3EyOS0xZ0ZLQVBYQlowU09BVEstblFkNnliODdBNWpYOWlnWU9reHJVd2JZNmlPelEtWllPM1diVjMxOC0yRktyTUlvanlJX1hDOXN6bDM?oc=5\" target=\"_blank\">Windows quality: an update on the commitment we made in March</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxNc2FfQzNvN3NRcDhJak82OFNXUXF2Z01Tc2lmSEhfRXByY2U0NWVhTC1TQjBiWFg2dnVHM3Q5Nk81aVotWUxsTHg3RUd4TDBEMEo0YmtTbWZnYloteHFfSUFieUdKd01KUndXUXRMZmo2a0xXbnE1WDRjSFctY3hxalY1dVpGY0gtQW5uVU9OMXhSUWVjZ2daT1RBX3pUOWstVTBqX0k2RF9VLWxKemVnNGhkMWt1elE0Wm9NcWwwQXRhSy1uMXhLUjNnS0FiRkZJa2Uwd0ZvWWthNC1JcHlLTFdSNkxUQ3RydWN1NjZ4SGdCVVBiaGtvMVhCYzBmWUVKLWVCQk80a3daQXJxUklZTnViNlZSRFNpcFVkRnhkc2o4dlpqMEFNMVpJazJTZmd1aGtiNEh3S014MUdmQzhBcy0zSmNUSDV3Z25ONG1NU1BGWWJi?oc=5\" target=\"_blank\">Major Windows 11 update will soon make slow context menus a thing of the past</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font></li></ol>",
+      "published": "2026-07-31T23:22:32+00:00",
+      "source": "TechPowerUp"
     },
     {
-      "title": "Stocks climb as Amazon, Microsoft results reignite AI trade, yen swings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlVXYXdFRjZLcGRvZUdsRkVNc0ZwYUJzNE1rcHdzN3VQOC00WF90TVNOdXhudGZVY3BqWlJ5ZUVTUDZYLVVhd2VEekFRX25rdnZwck13QThNMUhLOEpuVUZHUDhMV3d5ZmlKbDJOTmJmRDQ2Y29uTDBONzZSZ2d5aGtNZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlVXYXdFRjZLcGRvZUdsRkVNc0ZwYUJzNE1rcHdzN3VQOC00WF90TVNOdXhudGZVY3BqWlJ5ZUVTUDZYLVVhd2VEekFRX25rdnZwck13QThNMUhLOEpuVUZHUDhMV3d5ZmlKbDJOTmJmRDQ2Y29uTDBONzZSZ2d5aGtNZw?oc=5\" target=\"_blank\">Stocks climb as Amazon, Microsoft results reignite AI trade, yen swings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-31T01:31:00+00:00",
-      "source": "Reuters"
+      "title": "Microsoft’s US Taxes Drop, Revenue Jumps After Trump Cuts - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkNUVWZEX2pWZmV3UUstOXg5aXR3eElrU05nNzJEY1haMFUtT0xmalBtUjNoMDljV1hFa21EdzNvM0xTRE5UU04yejRhd25hSW9YemVEMXlodVZOYi04S2xWc2dVajF3bEhHRlktS1FQblBIUWpkN18zUkJYbU84LUZHS0dKamEtNy15YlFOdWVUaTUxdXhSLWtyMUJxV3E5V2Z6aVJEXzRPeW8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkNUVWZEX2pWZmV3UUstOXg5aXR3eElrU05nNzJEY1haMFUtT0xmalBtUjNoMDljV1hFa21EdzNvM0xTRE5UU04yejRhd25hSW9YemVEMXlodVZOYi04S2xWc2dVajF3bEhHRlktS1FQblBIUWpkN18zUkJYbU84LUZHS0dKamEtNy15YlFOdWVUaTUxdXhSLWtyMUJxV3E5V2Z6aVJEXzRPeW8?oc=5\" target=\"_blank\">Microsoft’s US Taxes Drop, Revenue Jumps After Trump Cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-07-31T20:16:37+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Microsoft confirms an AI worm is propagating through Copilot and other MS apps - csoonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3VwbzU1X19hUmkxT1Jnbjh2QmRuTzVRLVdZcUdJY25ueTBqYnR6X2o0azc1SHpKZ1pyTlRwaDU2RnI2VjBtckZKNEp4SXEyU1lKbXROczQ2U0ZSZDdxcjhlNVVMdEdrTG5QNDlXSlhkTzVEZHhUdTFaYVIzN3lzbGUwaXFaX1JsNUVObHRzcGZ6N1R3WkFHYi1JZkNadGwwVXZzbFpVeUxtOHM2d0FVbzcwX2pyc29rX2hzM2hCRHJBVkU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3VwbzU1X19hUmkxT1Jnbjh2QmRuTzVRLVdZcUdJY25ueTBqYnR6X2o0azc1SHpKZ1pyTlRwaDU2RnI2VjBtckZKNEp4SXEyU1lKbXROczQ2U0ZSZDdxcjhlNVVMdEdrTG5QNDlXSlhkTzVEZHhUdTFaYVIzN3lzbGUwaXFaX1JsNUVObHRzcGZ6N1R3WkFHYi1JZkNadGwwVXZzbFpVeUxtOHM2d0FVbzcwX2pyc29rX2hzM2hCRHJBVkU?oc=5\" target=\"_blank\">Microsoft confirms an AI worm is propagating through Copilot and other MS apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csoonline.com</font>",
-      "published": "2026-07-31T00:36:11+00:00",
-      "source": "csoonline.com"
+      "title": "Microsoft R&D jobs drop for second straight year as total headcount falls for first time in a decade - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVRkS0k1RzFHRVZkSjQ1WUtOelhxQjk2QlBUNXpwMTRScVhmNV9ZLXY2U1JhcE42MkI3S0pYdXhXRW43Nk1vZjRKeTRLWUxra2pTTXFHa3FxYlN2UVV5RFF6OFNHTWttVXloelFFVER4LTVMbGgyRmMyTWMyWEZDcy1LRWJmUXplZUtMc1huVExTUmtMQ0l6aVQzcDJ6Qlh1WWdOeDNOdnNGQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVRkS0k1RzFHRVZkSjQ1WUtOelhxQjk2QlBUNXpwMTRScVhmNV9ZLXY2U1JhcE42MkI3S0pYdXhXRW43Nk1vZjRKeTRLWUxra2pTTXFHa3FxYlN2UVV5RFF6OFNHTWttVXloelFFVER4LTVMbGgyRmMyTWMyWEZDcy1LRWJmUXplZUtMc1huVExTUmtMQ0l6aVQzcDJ6Qlh1WWdOeDNOdnNGQQ?oc=5\" target=\"_blank\">Microsoft R&amp;D jobs drop for second straight year as total headcount falls for first time in a decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "published": "2026-07-31T15:28:00+00:00",
+      "source": "GeekWire"
+    },
+    {
+      "title": "I'm a founder and decadelong Microsoft engineer. Here's who I'd hire to lead the next stage of AI. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2FhN2FiRkVSTFJRZWRjLV9XVzV3OFlzOUhKQVA1VzE0RVppTXI5SlFsckdXRjNsNkRQd3RlbXlXXzBmaEtfN2JLV2x6MG5XaDJ5ZWU2OWZKV2J0SlJZOTVEUmZQeDB5WkM2YnNLODBnR0g5SnhNRU8waExFLVc5eW5yWDNPME5kQ2JhYTcxR0MxdjR3b1VjTEJkYXFwUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOS2FhN2FiRkVSTFJRZWRjLV9XVzV3OFlzOUhKQVA1VzE0RVppTXI5SlFsckdXRjNsNkRQd3RlbXlXXzBmaEtfN2JLV2x6MG5XaDJ5ZWU2OWZKV2J0SlJZOTVEUmZQeDB5WkM2YnNLODBnR0g5SnhNRU8waExFLVc5eW5yWDNPME5kQ2JhYTcxR0MxdjR3b1VjTEJkYXFwUQ?oc=5\" target=\"_blank\">I'm a founder and decadelong Microsoft engineer. Here's who I'd hire to lead the next stage of AI.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-08-01T07:11:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Microsoft will release a Copilot super app this year - GSMArena.com news - GSMArena.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVNWMk9oMUFHTEZXMzRPTG9pTWF4c3A0NFV0Q29FZXZseGJZRE9XNEJxQmZhcGQ0ZVhZc2Ffc2lyZE1xd2pXMHlEYVpFc3RwRnRaZUJ1cXRSUmNZTEpjNkd3ck5VVHlQT25fOEpaRHpyaFFtZWdselFKa01rR1RKdG5wNE1rekI0d09iNTFabmVXSHIwYnc40gGTAUFVX3lxTE5PV09pQWROc3FWVDFETnBpUjJyTXcweDIwR2piUXBLZXJXcUJad2xVQWlUeTZMeUo1cXRncU1OOXpMVUlkQjU1Y3BWOEVoQS1QT28zLU05ZnlSZEhYYVpicV9ELXVxSkZKMmxOdFZmcFotQkFqemI2T1hmbDRaR3poS1UyRU1MeUROM1hDUlkzTlZnWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVNWMk9oMUFHTEZXMzRPTG9pTWF4c3A0NFV0Q29FZXZseGJZRE9XNEJxQmZhcGQ0ZVhZc2Ffc2lyZE1xd2pXMHlEYVpFc3RwRnRaZUJ1cXRSUmNZTEpjNkd3ck5VVHlQT25fOEpaRHpyaFFtZWdselFKa01rR1RKdG5wNE1rekI0d09iNTFabmVXSHIwYnc40gGTAUFVX3lxTE5PV09pQWROc3FWVDFETnBpUjJyTXcweDIwR2piUXBLZXJXcUJad2xVQWlUeTZMeUo1cXRncU1OOXpMVUlkQjU1Y3BWOEVoQS1QT28zLU05ZnlSZEhYYVpicV9ELXVxSkZKMmxOdFZmcFotQkFqemI2T1hmbDRaR3poS1UyRU1MeUROM1hDUlkzTlZnWQ?oc=5\" target=\"_blank\">Microsoft will release a Copilot super app this year - GSMArena.com news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSMArena.com</font>",
+      "published": "2026-07-31T22:11:02+00:00",
+      "source": "GSMArena.com"
     },
     {
       "title": "A Microsoft Flight Simulator Cinderella Story: Building the A220 Airliner - XBOX Wire",
@@ -38,27 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWRnS3ZXdERPT0ZJR05kVGNGLUxLSnZEQ1ByNkZKa3RBUkVWdWd1NVp0UE1nejNhS2pVb3RiU1haVF93Q1hLNks4U3dQbTBrRkRjNmdVOU1ja2FFWFhSZ0VYMWpySjZrc1Z0d0N5dXhZM19OWXE1RmJtLUMwejUxYURDUUZqLUpGbWNaSkZyY1k2UE5GTG5RVnY2VVZpYWt0M3BpZ2lVT1dBUdIBrwFBVV95cUxOLVctUmtmQkZJWFgxT2Nlb1liWmdMa20tTExPYXYzWFNHeWlPdFl4TVFfY1NpeXlzSThhVlM5T05rSUNWZG9RLTVSNGFsS1NnYlptV3BkU0phV1JwS2kxLVV5MnFrRlkwczk5MUFDdzdqLV9DTUVpN293OXM2SlFPWDYxOXpZcmcyUVNyM0JUb1FVV0NfVFpsYnJPdHg3WjA3c1Y3WlA4YU9nSUZkOEtv?oc=5\" target=\"_blank\">A Microsoft Flight Simulator Cinderella Story: Building the A220 Airliner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XBOX Wire</font>",
       "published": "2026-07-30T19:04:58+00:00",
       "source": "XBOX Wire"
-    },
-    {
-      "title": "Salesforce hires ex-Microsoft exec to lead Agentforce engineering amid string of departures - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUdOMkJLczhrVzQwV0VIMVQzOWt2cHFPbTZzaFRvc3V0QjRlM0U5Z2pTWHBvd3g4WU9zYjdXejFzaHFUcU4xXy13bVpRZElNeFpQMkNpTkp0dlM4QkVEek1tTGxPUkVyTWJjWUEyTUFkVFRRRHlTSWxLN3F5U2pYN1NiZEtRWDVDYW5IeVdna0F5alE0ZnRoZlNBRndObEpiUkx0Wm5vaFhxV3ZYZlZ0QXlSS3ZDZ1RUSy1QYTlHZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUdOMkJLczhrVzQwV0VIMVQzOWt2cHFPbTZzaFRvc3V0QjRlM0U5Z2pTWHBvd3g4WU9zYjdXejFzaHFUcU4xXy13bVpRZElNeFpQMkNpTkp0dlM4QkVEek1tTGxPUkVyTWJjWUEyTUFkVFRRRHlTSWxLN3F5U2pYN1NiZEtRWDVDYW5IeVdna0F5alE0ZnRoZlNBRndObEpiUkx0Wm5vaFhxV3ZYZlZ0QXlSS3ZDZ1RUSy1QYTlHZw?oc=5\" target=\"_blank\">Salesforce hires ex-Microsoft exec to lead Agentforce engineering amid string of departures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-07-30T15:56:54+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "Meta, Microsoft, and the AI Capex Divide - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE95VFJxRm1GSE82NUhwWl9Gc3c4Y1Z0ZmlNU3h0VmNVSkdhRlkxUHF6UGZvLU91b08zTFIzYXdSazhnTFVKM2xlVzFjMlFUdDVvdkllM19Ickw2eTRpMjlrVWJza0t5YnlzbzN0c2hTRTlnd2xrQ3dNakduQQ?oc=5\" target=\"_blank\">Meta, Microsoft, and the AI Capex Divide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-07-30T21:37:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Microsoft’s head count falls for first time in a decade - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnZ5TFlYOHNTRmtEZ0c0V28wajFWVnZ0VVE4c1JUemt0LURhNFVsUFVFdi1VaEw5T1gxMk02Zks1UzhzYldVX3Zfb0Rva0FWbXBld0I3ZDhfVUZvVzVaWDhmbkpFdlRLOEI4ZXJIV2dkd0tQeVVNZlh0SGptMzRCdmJtejJHRGpPVXo5MXUwdmk3WDJoUlVNczM1QlNRX2VBYzlUYjhB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnZ5TFlYOHNTRmtEZ0c0V28wajFWVnZ0VVE4c1JUemt0LURhNFVsUFVFdi1VaEw5T1gxMk02Zks1UzhzYldVX3Zfb0Rva0FWbXBld0I3ZDhfVUZvVzVaWDhmbkpFdlRLOEI4ZXJIV2dkd0tQeVVNZlh0SGptMzRCdmJtejJHRGpPVXo5MXUwdmk3WDJoUlVNczM1QlNRX2VBYzlUYjhB?oc=5\" target=\"_blank\">Microsoft’s head count falls for first time in a decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2026-07-30T21:47:42+00:00",
-      "source": "The Seattle Times"
     }
   ],
   "product_launches": [
@@ -77,18 +77,18 @@
       "source": "LinkedIn"
     },
     {
-      "title": "Microsoft Launches Mythos Competitor, New Homegrown AI for Cybersecurity - The Information",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5IbUtNZXltbWlka0s0V3VBRTF2cnZtSTctUzRVdzFpNFhRV3dpZFNpVFBPMlEzT1NGcFA3LTQ4YTVHZWJSM2JRRDMxNUtGSUdDUEgxT0lhNFdJeUM1d1JoMW5SSVk1TUdnSFFlTjd1RnBKejJmcS1laDZ4emRPdlM1OE9UcUZ3UUR6b1NCUlFCLUw2MlZRbWZlVG1tamE1dlB5SkhpQ0V6QlVt?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5IbUtNZXltbWlka0s0V3VBRTF2cnZtSTctUzRVdzFpNFhRV3dpZFNpVFBPMlEzT1NGcFA3LTQ4YTVHZWJSM2JRRDMxNUtGSUdDUEgxT0lhNFdJeUM1d1JoMW5SSVk1TUdnSFFlTjd1RnBKejJmcS1laDZ4emRPdlM1OE9UcUZ3UUR6b1NCUlFCLUw2MlZRbWZlVG1tamE1dlB5SkhpQ0V6QlVt?oc=5\" target=\"_blank\">Microsoft Launches Mythos Competitor, New Homegrown AI for Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-07-27T18:09:00+00:00",
-      "source": "The Information"
-    },
-    {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2026-03-09T07:00:00+00:00",
       "source": "Microsoft"
+    },
+    {
+      "title": "Microsoft Launches Mythos Competitor, New Homegrown AI for Cybersecurity - The Information",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5IbUtNZXltbWlka0s0V3VBRTF2cnZtSTctUzRVdzFpNFhRV3dpZFNpVFBPMlEzT1NGcFA3LTQ4YTVHZWJSM2JRRDMxNUtGSUdDUEgxT0lhNFdJeUM1d1JoMW5SSVk1TUdnSFFlTjd1RnBKejJmcS1laDZ4emRPdlM1OE9UcUZ3UUR6b1NCUlFCLUw2MlZRbWZlVG1tamE1dlB5SkhpQ0V6QlVt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYk5IbUtNZXltbWlka0s0V3VBRTF2cnZtSTctUzRVdzFpNFhRV3dpZFNpVFBPMlEzT1NGcFA3LTQ4YTVHZWJSM2JRRDMxNUtGSUdDUEgxT0lhNFdJeUM1d1JoMW5SSVk1TUdnSFFlTjd1RnBKejJmcS1laDZ4emRPdlM1OE9UcUZ3UUR6b1NCUlFCLUw2MlZRbWZlVG1tamE1dlB5SkhpQ0V6QlVt?oc=5\" target=\"_blank\">Microsoft Launches Mythos Competitor, New Homegrown AI for Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-07-27T18:09:00+00:00",
+      "source": "The Information"
     },
     {
       "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-07-31",
-      "close": 458.82501220703125
+      "close": 464.7200012207031
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-07-31",
-        "close": 458.82501220703125
+        "close": 464.7200012207031
       }
     ],
     "name": "Microsoft Corporation"
