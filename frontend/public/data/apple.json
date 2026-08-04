@@ -2,114 +2,110 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-08-03T14:14:55.735687+00:00",
+  "fetched_at": "2026-08-04T13:47:10.980486+00:00",
   "news": [
     {
-      "title": "Apple Is Reinventing Itself as the World’s Biggest Subscription Provider - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYThSVjhTLTY3a0JXcTR3WGROR0VOeU1KZHUtOWxqUFRMRVlZRTVMeHY2VHU2V05sQS1ValZHa2l4dnlCVF9LLUtPNHB5ekNVNFN1d25oUDJ0TXdOeTU5RFQ0a2lBLU9ocS1TTlBzVmpEQkdUNHUxLUg2QS1DejE3MnF1V1EyQTRucUpxeGNLZWhsWlczSk1PYXRINmoyQjdGSUdjRHFYejVjMkF5LWJqeDJYMU0yVWJBczhodVBmRldGM2hEcjk4TWtiZWZBVjJHQ2JlTTVoRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYThSVjhTLTY3a0JXcTR3WGROR0VOeU1KZHUtOWxqUFRMRVlZRTVMeHY2VHU2V05sQS1ValZHa2l4dnlCVF9LLUtPNHB5ekNVNFN1d25oUDJ0TXdOeTU5RFQ0a2lBLU9ocS1TTlBzVmpEQkdUNHUxLUg2QS1DejE3MnF1V1EyQTRucUpxeGNLZWhsWlczSk1PYXRINmoyQjdGSUdjRHFYejVjMkF5LWJqeDJYMU0yVWJBczhodVBmRldGM2hEcjk4TWtiZWZBVjJHQ2JlTTVoRQ?oc=5\" target=\"_blank\">Apple Is Reinventing Itself as the World’s Biggest Subscription Provider</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "published": "2026-08-02T14:00:01+00:00",
-      "source": "Bloomberg"
-    },
-    {
-      "title": "Apple's iPhone leasing program: How it works, what to consider - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkg1RmcxSm9EdVBtdm1NT3lsc1UtQ1lmUm84YTdEZ0NrWDJrU2RZclhuWjB0Z2RLS2dmVFpqdERjUWJ2ZGNPOGZlV3JDcDk1SVlVdXJSam1NN1JXR04tajRHc0NlSTdRSWwyTldxdDVWOVNxeThZaTNmckZmb0NhMTdxZTBHNEJoZGdpN0FDZGVuV0E1X1U4RXBiRDhlUFp6ampzdWEySzNobm51ckI4VXh0ZnNMMzEtc2hxSFlSZF9EaUhXa25tdUNqOXB1QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkg1RmcxSm9EdVBtdm1NT3lsc1UtQ1lmUm84YTdEZ0NrWDJrU2RZclhuWjB0Z2RLS2dmVFpqdERjUWJ2ZGNPOGZlV3JDcDk1SVlVdXJSam1NN1JXR04tajRHc0NlSTdRSWwyTldxdDVWOVNxeThZaTNmckZmb0NhMTdxZTBHNEJoZGdpN0FDZGVuV0E1X1U4RXBiRDhlUFp6ampzdWEySzNobm51ckI4VXh0ZnNMMzEtc2hxSFlSZF9EaUhXa25tdUNqOXB1QQ?oc=5\" target=\"_blank\">Apple's iPhone leasing program: How it works, what to consider</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-31T14:31:05+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "What’s the catch with the Apple Upgrade program? - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96OXgyNDBLanVXUkZZbDRNRWN6dGw0SldBYmIyRXRQUnBMTVRORjl5THFfMHNnU0ZsNThvVmlUdDFrZl9VZThfNXYwUUIwNGRqYmE4Vl9UU1VEdUFCY0JTQWFjamZ5c3NiSVF6a29SRXI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE96OXgyNDBLanVXUkZZbDRNRWN6dGw0SldBYmIyRXRQUnBMTVRORjl5THFfMHNnU0ZsNThvVmlUdDFrZl9VZThfNXYwUUIwNGRqYmE4Vl9UU1VEdUFCY0JTQWFjamZ5c3NiSVF6a29SRXI?oc=5\" target=\"_blank\">What’s the catch with the Apple Upgrade program?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-07-29T18:40:06+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Foldables are sort of boring now — and that’s great news for Apple - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVRmhtVVM3NmpvT0hub2MxRmNETWkyNkFIcno3Ukd2eENrZ3NvTlZZVVVOdU15bTZVMWhUdVQwT2swUU9GeHh1cktRcFhWbDNWbXYtc1dRQWhzLWVBanBwUG5Rd19TMmtoWHJmelNvMExGNzc3WGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBVRmhtVVM3NmpvT0hub2MxRmNETWkyNkFIcno3Ukd2eENrZ3NvTlZZVVVOdU15bTZVMWhUdVQwT2swUU9GeHh1cktRcFhWbDNWbXYtc1dRQWhzLWVBanBwUG5Rd19TMmtoWHJmelNvMExGNzc3WGc?oc=5\" target=\"_blank\">Foldables are sort of boring now — and that’s great news for Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-08-02T12:00:00+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple launches legal challenge to new UK ‘backdoor’ order - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGp1ZTJxOG5YY3J4dEpfYm9YU2R4Q3RiTXBMWkxSOGpMeGRtYnQ0bEh5cjBnVE9hb0hGTHB6a09LbEpOaFZ3LWFNczNVQzBaM2M4ZWcyRERCRWFnNHV1M1FXSFJHOTJ1aktSVDlqeGpwTzVVb2RGLXJOUEhiTjNwR2lETU0?oc=5\" target=\"_blank\">Apple launches legal challenge to new UK ‘backdoor’ order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-08-03T14:11:07+00:00",
-      "source": "Financial Times"
-    },
-    {
-      "title": "How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit - theinformation.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXJwdmVDVzlnekNjdWNQYlpKeHE2QjdGeFQzb2tVNjdFVFRLa3JycTlKNnNFOGdkT3dnRDk2azFzMUs3R2M4djBfNUUzNm03Uk1Uem9fUnB2MzB4VFhUbXZOd0lQQjRZQW9lQnpHYjZmb1BiWkprbkc0WVRFeXVDNk5rc1JlamdEQk0zVG1XS1JjNTZSbUlKaThRYVJuSG4y?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXJwdmVDVzlnekNjdWNQYlpKeHE2QjdGeFQzb2tVNjdFVFRLa3JycTlKNnNFOGdkT3dnRDk2azFzMUs3R2M4djBfNUUzNm03Uk1Uem9fUnB2MzB4VFhUbXZOd0lQQjRZQW9lQnpHYjZmb1BiWkprbkc0WVRFeXVDNk5rc1JlamdEQk0zVG1XS1JjNTZSbUlKaThRYVJuSG4y?oc=5\" target=\"_blank\">How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinformation.com</font>",
-      "published": "2026-08-03T13:00:00+00:00",
-      "source": "theinformation.com"
-    },
-    {
-      "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUNBY19KVllkb2drU0RkRnBTVmZLVV9kbzNxajl6a01VNTJuYnRwNTFCLUlTM2ZYOFZUeGVFTWJSV01lbXVWeWpZYzlTa0VUTnB4cTB0WV9pREI5dkp5b19HVEtONy0xRG56QlkxM0I0MjF4VFZjQzVBWjRiMkVSbDVtOTY5NW1QTDVpOTZxMHdPRW5oZEREZUt1ajZ5NTVacG1ENVhPTWlfQ2V4YjVJOVRCTTFoNnRzazNfTGNLeWlEbXgwVDdjRkdCMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUNBY19KVllkb2drU0RkRnBTVmZLVV9kbzNxajl6a01VNTJuYnRwNTFCLUlTM2ZYOFZUeGVFTWJSV01lbXVWeWpZYzlTa0VUTnB4cTB0WV9pREI5dkp5b19HVEtONy0xRG56QlkxM0I0MjF4VFZjQzVBWjRiMkVSbDVtOTY5NW1QTDVpOTZxMHdPRW5oZEREZUt1ajZ5NTVacG1ENVhPTWlfQ2V4YjVJOVRCTTFoNnRzazNfTGNLeWlEbXgwVDdjRkdCMA?oc=5\" target=\"_blank\">India proposes extending tax breaks for contract manufacturing in a boost for Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-03T09:22:22+00:00",
+      "title": "Telegram says Apple suspension followed content norms violation by one user - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXJ0WHFzeUZIZXVYWllwdlFkVEhQNUoyWDNtY3puc1o0QWg0OXp0N05VNDBGY1k3OEVKVEtsN09hU0hYYmFWLXJpaG9jcjFpa1R1cG5UbENvUjZ3dVk5SXNGdHBLV2N5M1JUMlhXakttbUZXQTIwd0ZNY2YxMFJiX1VHLTU2MTdqQ3NnRTBvSEpmMWFxdFZ1YUc2MWU1ckhpR0NFc3lmWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNLXJ0WHFzeUZIZXVYWllwdlFkVEhQNUoyWDNtY3puc1o0QWg0OXp0N05VNDBGY1k3OEVKVEtsN09hU0hYYmFWLXJpaG9jcjFpa1R1cG5UbENvUjZ3dVk5SXNGdHBLV2N5M1JUMlhXakttbUZXQTIwd0ZNY2YxMFJiX1VHLTU2MTdqQ3NnRTBvSEpmMWFxdFZ1YUc2MWU1ckhpR0NFc3lmWQ?oc=5\" target=\"_blank\">Telegram says Apple suspension followed content norms violation by one user</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-04T02:06:00+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Apple faces $32bn lawsuit over biometric data on iPhones - The Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEJyM2FpQ1kwTjJabnY3NElfa19SUGVpSi1kc2Z3OTdXdWpkU3RsU0xHbXhveDlGVnF2Rk1tdGtYTTRlRkIyQU4za052c19kT2l6TUdmQWVMbmJPX3NPNDJ5VWJmbko5aHFpR1g1YlZBSUtoYmtZbkRIZGFxX3RxQXk3QTZGV2RCUm5FaFh4V2szLUhBWm03NEhRVC01TGVmbVZKUWpPdkJYU202V3d0Ng?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEJyM2FpQ1kwTjJabnY3NElfa19SUGVpSi1kc2Z3OTdXdWpkU3RsU0xHbXhveDlGVnF2Rk1tdGtYTTRlRkIyQU4za052c19kT2l6TUdmQWVMbmJPX3NPNDJ5VWJmbko5aHFpR1g1YlZBSUtoYmtZbkRIZGFxX3RxQXk3QTZGV2RCUm5FaFh4V2szLUhBWm03NEhRVC01TGVmbVZKUWpPdkJYU202V3d0Ng?oc=5\" target=\"_blank\">Apple faces $32bn lawsuit over biometric data on iPhones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
-      "published": "2026-08-02T15:02:28+00:00",
-      "source": "The Times"
+      "title": "Apple Briefly Takes Telegram Off App Store Over Abusive Content - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3lLZFBOT2phR2xHekM2RnhDWXF2YjVycVNseUtTeGNoRkk2WFhBOElvUlFVc0ctM1VjQm9CQWE1Z04xaHp0TzhoLUNPakZ3b05WMzVpeGJHdEtyZWRvM1N2TGh1cWdBTlNtTHdpMVFSYnpMSjFsYUUxRHFQazk2ZllRR2F6cFQ1Rk9mV2xrWEpoZEFTYXhRdVFYYVYzMG1CNW5kT2VGU2ZkMHY2RC1pU2JlaDE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3lLZFBOT2phR2xHekM2RnhDWXF2YjVycVNseUtTeGNoRkk2WFhBOElvUlFVc0ctM1VjQm9CQWE1Z04xaHp0TzhoLUNPakZ3b05WMzVpeGJHdEtyZWRvM1N2TGh1cWdBTlNtTHdpMVFSYnpMSjFsYUUxRHFQazk2ZllRR2F6cFQ1Rk9mV2xrWEpoZEFTYXhRdVFYYVYzMG1CNW5kT2VGU2ZkMHY2RC1pU2JlaDE?oc=5\" target=\"_blank\">Apple Briefly Takes Telegram Off App Store Over Abusive Content</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-08-04T04:59:00+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Apple briefly yanked Telegram from the App Store over CSAM violations - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENExWX1RLNDJrcWpwRVM2OFZyRzNyUWFpcWM2bl9TT2NTUGN2U3EwLWRTR0pyRGU3M2RpSTZhQVVOTUk2TVdIZFlNUEhMTlUybUxVazNVbUxGZ0FUcERON29YNmVBcWdzWXB2dFVWNXRxYjVvVmJvMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENExWX1RLNDJrcWpwRVM2OFZyRzNyUWFpcWM2bl9TT2NTUGN2U3EwLWRTR0pyRGU3M2RpSTZhQVVOTUk2TVdIZFlNUEhMTlUybUxVazNVbUxGZ0FUcERON29YNmVBcWdzWXB2dFVWNXRxYjVvVmJvMA?oc=5\" target=\"_blank\">Apple briefly yanked Telegram from the App Store over CSAM violations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-08-04T12:57:43+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Is Reinventing Itself as the World’s Biggest Subscription Provider - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYThSVjhTLTY3a0JXcTR3WGROR0VOeU1KZHUtOWxqUFRMRVlZRTVMeHY2VHU2V05sQS1ValZHa2l4dnlCVF9LLUtPNHB5ekNVNFN1d25oUDJ0TXdOeTU5RFQ0a2lBLU9ocS1TTlBzVmpEQkdUNHUxLUg2QS1DejE3MnF1V1EyQTRucUpxeGNLZWhsWlczSk1PYXRINmoyQjdGSUdjRHFYejVjMkF5LWJqeDJYMU0yVWJBczhodVBmRldGM2hEcjk4TWtiZWZBVjJHQ2JlTTVoRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYThSVjhTLTY3a0JXcTR3WGROR0VOeU1KZHUtOWxqUFRMRVlZRTVMeHY2VHU2V05sQS1ValZHa2l4dnlCVF9LLUtPNHB5ekNVNFN1d25oUDJ0TXdOeTU5RFQ0a2lBLU9ocS1TTlBzVmpEQkdUNHUxLUg2QS1DejE3MnF1V1EyQTRucUpxeGNLZWhsWlczSk1PYXRINmoyQjdGSUdjRHFYejVjMkF5LWJqeDJYMU0yVWJBczhodVBmRldGM2hEcjk4TWtiZWZBVjJHQ2JlTTVoRQ?oc=5\" target=\"_blank\">Apple Is Reinventing Itself as the World’s Biggest Subscription Provider</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-08-02T14:00:01+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Here are Tuesday's biggest analyst calls: Apple, Palantir, Micron, Walmart, Nike, CoreWeave, SK Hynix & more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHEwUVNMR2lJM0tsdC12eTcwQnNiQzJKZVpSQkthWFdsczJ0b0hmZURxX3BPZVFpOTlyV1dJWk1pN01jMm9USXJVT05YSkl5UExPWUE1ZEtMaGxIdmRsV0pzUHo0UmVWY0MtVGthX3BDRzhLSkpjN3d5aHRqamlWQzJKU2pXYWk2R3dWTDA1UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHEwUVNMR2lJM0tsdC12eTcwQnNiQzJKZVpSQkthWFdsczJ0b0hmZURxX3BPZVFpOTlyV1dJWk1pN01jMm9USXJVT05YSkl5UExPWUE1ZEtMaGxIdmRsV0pzUHo0UmVWY0MtVGthX3BDRzhLSkpjN3d5aHRqamlWQzJKU2pXYWk2R3dWTDA1UQ?oc=5\" target=\"_blank\">Here are Tuesday's biggest analyst calls: Apple, Palantir, Micron, Walmart, Nike, CoreWeave, SK Hynix & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-08-04T12:28:02+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5\" target=\"_blank\">Apple seeks preliminary injunction against OpenAI in trade secrets case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTRDRm4xdDRqMERmaENHcDBtcGZrNkNNRlZ5VmdPdUZZRmZMNWZFZW4xS0syTDZqQzdrZEtXTmZoZ1plaURDUlpxa21BX3Ixb0NHc1dOdElWSEQ0dERoeXJmOWVacVZkekYyQzd3MDdkZHpZUGhUczZoaGFvRmZ1WTBQWV8?oc=5\" target=\"_blank\">OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPajJfdzhTb0Zia01GUEZDdmg0ZmZOTVcxbEx3S0R4Tlp3S3BKbWpRU0Jaa0QwUFNrcXlOYmFnT08xbDNGSk5HWnd5UThyWURXZTFiODAxQktfN3Y5U2ZRRHJUdWJoOHZ1cmtGelZPYzZaZEc1aFVoeHhhTEZqRTQxWmZkRVhuaEVMOEFodUJ2OU1fbl9zVUdoajYzdkFVQzJEYWRmYw?oc=5\" target=\"_blank\">OpenAI drags Apple’s lawsuit into the court of public opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li></ol>",
+      "published": "2026-08-04T05:57:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Exclusive: Dinari, founded by Stripe and Apple alums, partners with Circle to offer tokenized stocks to U.S. investors - fortune.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTRJLUdNVjQ4aHFLakJzS1NUTWxnQ1lpZEMtTjRfNTlYQUw0Z0xtamNiNlRqWURJU0FCdnl5dXdHclRiaEFrQWdlcEptZ2xSUkh4M1otU2FodXRfZUFMNTctN2lKVDl6T3dXRnl6bllGVC1WUzFJMG1QTkxEQUVpOE9OeFJLdDlRLTkyOE9xQzZLUXh1Q21UUm9UQmVvVmVFd3dQdlVSeURnZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTRJLUdNVjQ4aHFLakJzS1NUTWxnQ1lpZEMtTjRfNTlYQUw0Z0xtamNiNlRqWURJU0FCdnl5dXdHclRiaEFrQWdlcEptZ2xSUkh4M1otU2FodXRfZUFMNTctN2lKVDl6T3dXRnl6bllGVC1WUzFJMG1QTkxEQUVpOE9OeFJLdDlRLTkyOE9xQzZLUXh1Q21UUm9UQmVvVmVFd3dQdlVSeURnZw?oc=5\" target=\"_blank\">Exclusive: Dinari, founded by Stripe and Apple alums, partners with Circle to offer tokenized stocks to U.S. investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fortune.com</font>",
+      "published": "2026-08-04T13:30:00+00:00",
+      "source": "fortune.com"
+    },
+    {
+      "title": "Buffett-Inspired ETF Owns Berkshire, Apple, Amex and Generates 15% Yield - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NzZvZjZuejlqdm9uMHBseUhZQUQ4WE9SWFRyUnBwSVdpRzFKLUp3RmFpcFdKWWZsZktWOGtyTW9COTVfZnVIZkxvbGkwTWJEcjdaV2JmZElMcmIwT1dFdXRCUkpkQ1FsVWdUWDdxN3pUM09vLUV1blpxeWJpR3M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE85NzZvZjZuejlqdm9uMHBseUhZQUQ4WE9SWFRyUnBwSVdpRzFKLUp3RmFpcFdKWWZsZktWOGtyTW9COTVfZnVIZkxvbGkwTWJEcjdaV2JmZElMcmIwT1dFdXRCUkpkQ1FsVWdUWDdxN3pUM09vLUV1blpxeWJpR3M?oc=5\" target=\"_blank\">Buffett-Inspired ETF Owns Berkshire, Apple, Amex and Generates 15% Yield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-08-03T20:06:00+00:00",
+      "source": "Barron's"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple Upgrade launches in the United States - apple.com",
+      "title": "Apple will launch five new products next month, here’s what’s coming - 9to5mac.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5\" target=\"_blank\">Apple will launch five new products next month, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5mac.com</font>",
+      "published": "2026-08-03T15:46:00+00:00",
+      "source": "9to5mac.com"
+    },
+    {
+      "title": "Apple Upgrade launches in the United States - Apple",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjRzdmZCOXJRTkVEWmotS2QzZGM3ejFWeGMzZkRfT3dkLTB3c0s2Rml6RE1nU3FRSmNxNDBaQlpRQ0FJYWxOUWd6MFIwVjEwT3l5aWJXLUdsQU1Sdk9PYnRRTjFLUnJoUkNlQzNXcTRaR0hyNnRQSkdkd2tRSkEtblJnVnZlZTRlUm1N?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjRzdmZCOXJRTkVEWmotS2QzZGM3ejFWeGMzZkRfT3dkLTB3c0s2Rml6RE1nU3FRSmNxNDBaQlpRQ0FJYWxOUWd6MFIwVjEwT3l5aWJXLUdsQU1Sdk9PYnRRTjFLUnJoUkNlQzNXcTRaR0hyNnRQSkdkd2tRSkEtblJnVnZlZTRlUm1N?oc=5\" target=\"_blank\">Apple Upgrade launches in the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apple.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjRzdmZCOXJRTkVEWmotS2QzZGM3ejFWeGMzZkRfT3dkLTB3c0s2Rml6RE1nU3FRSmNxNDBaQlpRQ0FJYWxOUWd6MFIwVjEwT3l5aWJXLUdsQU1Sdk9PYnRRTjFLUnJoUkNlQzNXcTRaR0hyNnRQSkdkd2tRSkEtblJnVnZlZTRlUm1N?oc=5\" target=\"_blank\">Apple Upgrade launches in the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
       "published": "2026-07-28T12:24:40+00:00",
-      "source": "apple.com"
+      "source": "Apple"
     },
     {
-      "title": "Apple has five products launching this fall that we’ve waited a long time for - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOXk3Q1lTZ0o4NzlkUXRmZmpwaXZSZUlNWTgweVItN2F4MVlBQ3Q5aUwxa0lXUV83WlhiQUhqNGU1T2xOLXdrQkhESDJzOUdZSWZIUldrVWpidmRFTks4VzJzWGE2LUhyYVJKcmdZaDIxVzc3ZVVsNWROYkt3aEVyWEkwS1hKbFVzaXU3M0ZxZVhlLTBiLWtJWExDV3FhTzVGamRsV3BOT3lRd3ZK?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPOXk3Q1lTZ0o4NzlkUXRmZmpwaXZSZUlNWTgweVItN2F4MVlBQ3Q5aUwxa0lXUV83WlhiQUhqNGU1T2xOLXdrQkhESDJzOUdZSWZIUldrVWpidmRFTks4VzJzWGE2LUhyYVJKcmdZaDIxVzc3ZVVsNWROYkt3aEVyWEkwS1hKbFVzaXU3M0ZxZVhlLTBiLWtJWExDV3FhTzVGamRsV3BOT3lRd3ZK?oc=5\" target=\"_blank\">Apple has five products launching this fall that we’ve waited a long time for</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-07-31T15:34:00+00:00",
-      "source": "9to5Mac"
+      "title": "iPhones and home hardware: What to expect from Apple for the rest of 2026 - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzJTc3RuZTV5OVB3YlFCWFpWM2ZabFpjdTlvYlQ3TTVRaFNYMTB5d3F3OGhjNHRqNFVWTE1heTVyYU9TVldneXZOZFEtZVB6U2E1SmwxZ2dTdHVLbWthMlNSVGpsQnlMbnZWMEJUMXEyb1cwQlZwZDYwRGo0YU1FdmZ2R3hQMEJqLXB5LXVKNTJ4U3VBMktFYlhmcHRwRjlQVmxTb0JweEFhaTRHZlF6RldpaERyQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzJTc3RuZTV5OVB3YlFCWFpWM2ZabFpjdTlvYlQ3TTVRaFNYMTB5d3F3OGhjNHRqNFVWTE1heTVyYU9TVldneXZOZFEtZVB6U2E1SmwxZ2dTdHVLbWthMlNSVGpsQnlMbnZWMEJUMXEyb1cwQlZwZDYwRGo0YU1FdmZ2R3hQMEJqLXB5LXVKNTJ4U3VBMktFYlhmcHRwRjlQVmxTb0JweEFhaTRHZlF6RldpaERyQQ?oc=5\" target=\"_blank\">iPhones and home hardware: What to expect from Apple for the rest of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-08-03T13:46:00+00:00",
+      "source": "AppleInsider"
     },
     {
-      "title": "Apple to Release 16 New Products Later This Year - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SYnZwalJFaGFSeDdRT3I4MHVaWDJuVC1xTkFINmFkOEgxVkVNTEYtbS1XdDltVTBMNEZRbEJESzlkcFl1WjVaYm15d1c3TVQyUG0zRE1rOEVDNjFVbG1OSHNROTIzeXltQnJLM3hVbm1KZWdKLTNHSzN3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5SYnZwalJFaGFSeDdRT3I4MHVaWDJuVC1xTkFINmFkOEgxVkVNTEYtbS1XdDltVTBMNEZRbEJESzlkcFl1WjVaYm15d1c3TVQyUG0zRE1rOEVDNjFVbG1OSHNROTIzeXltQnJLM3hVbm1KZWdKLTNHSzN3?oc=5\" target=\"_blank\">Apple to Release 16 New Products Later This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-07-31T17:33:51+00:00",
-      "source": "MacRumors"
+      "title": "Apple's new 'Upgrade' program lets you lease a Mac, iPhone, iPad, or Apple Watch like a car - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZW9rZkcwbW5QWjJyWkl1T0c0ZmdBSGRQbWRodEJGcTUxcVpFMTE2eFFkdENEYWtNYjFrVDZKOHNMdXc5aG1QZDNmcHpWT2lfQnBjQ2ZUWWltVFB1d0RMaTN2MHVDSm1XMV9OYlRKb3lDSEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZW9rZkcwbW5QWjJyWkl1T0c0ZmdBSGRQbWRodEJGcTUxcVpFMTE2eFFkdENEYWtNYjFrVDZKOHNMdXc5aG1QZDNmcHpWT2lfQnBjQ2ZUWWltVFB1d0RMaTN2MHVDSm1XMV9OYlRKb3lDSEk?oc=5\" target=\"_blank\">Apple's new 'Upgrade' program lets you lease a Mac, iPhone, iPad, or Apple Watch like a car</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-08-04T01:37:49+00:00",
+      "source": "Mashable"
     },
     {
-      "title": "Apple Launches Product Leasing Program Through Klarna - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSWVIa3FKRFVxd3BUMF9OVHZ6NG93djBkTlQ4M2JSMzhGRzlVS2dOTGpjdzNRdURoVHJkMXFGaENYcDZfZDdzdzBGY29LWXBGb3J4R0M4U041RHJ1aDcxM1BSREVod0xSM3dFcE5DZDUxTlI5SWFFYXBn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSWVIa3FKRFVxd3BUMF9OVHZ6NG93djBkTlQ4M2JSMzhGRzlVS2dOTGpjdzNRdURoVHJkMXFGaENYcDZfZDdzdzBGY29LWXBGb3J4R0M4U041RHJ1aDcxM1BSREVod0xSM3dFcE5DZDUxTlI5SWFFYXBn?oc=5\" target=\"_blank\">Apple Launches Product Leasing Program Through Klarna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-07-28T14:07:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Apple launches new device leasing program with Klarna - cbs19.tv",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHdDUVJmQ3RXeGx2V0VuZzM0aEIwSU93MGJIRzliS05xTHZnemd0TDNlZTc3Zmt0d3dfWU5IY0VYOUhHTVp3LWdCdEI0UkloYjFTcnlIN3RnaDBDZUF6R0hEZ2NCeDBzLWZTM3M3dGVOQ3pweUE5VWxxR3V5ZXdCTEFqOFhQU1loc1d3bHl1V3hreTdtZ1F1c2pfMHhUcE9ZYUpMeGtfVVQ0S25XV3Y0N1NhUTNGRHl4LVRZY0NOeDk0WUxJOWdsUHpOODA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxONHdDUVJmQ3RXeGx2V0VuZzM0aEIwSU93MGJIRzliS05xTHZnemd0TDNlZTc3Zmt0d3dfWU5IY0VYOUhHTVp3LWdCdEI0UkloYjFTcnlIN3RnaDBDZUF6R0hEZ2NCeDBzLWZTM3M3dGVOQ3pweUE5VWxxR3V5ZXdCTEFqOFhQU1loc1d3bHl1V3hreTdtZ1F1c2pfMHhUcE9ZYUpMeGtfVVQ0S25XV3Y0N1NhUTNGRHl4LVRZY0NOeDk0WUxJOWdsUHpOODA?oc=5\" target=\"_blank\">Apple launches new device leasing program with Klarna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs19.tv</font>",
-      "published": "2026-08-02T20:07:00+00:00",
-      "source": "cbs19.tv"
+      "title": "Report: Apple aiming to launch camera-equipped AirPods this fall - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEFDQVlWSUwtcnpQcUVjVlZmTk9ZMzh1aGdsODR1S3NHSGtGTjdNWS1YbnJKQW9ORWtUTVg0eWpqMXNWQUlDNENzRzA0X0FZM1F5d3NQdVpvUjVXYWdwaWVESTZsb09fTnVWeDZQWmVPWXpNbVZZbHNjb1JZNW4zYkJfMWZhakF0RWh6ckJWa1hiQnNxSklkTDlRREtBdm9nTUthMFNjVkQ1ZXNoVFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEFDQVlWSUwtcnpQcUVjVlZmTk9ZMzh1aGdsODR1S3NHSGtGTjdNWS1YbnJKQW9ORWtUTVg0eWpqMXNWQUlDNENzRzA0X0FZM1F5d3NQdVpvUjVXYWdwaWVESTZsb09fTnVWeDZQWmVPWXpNbVZZbHNjb1JZNW4zYkJfMWZhakF0RWh6ckJWa1hiQnNxSklkTDlRREtBdm9nTUthMFNjVkQ1ZXNoVFE?oc=5\" target=\"_blank\">Report: Apple aiming to launch camera-equipped AirPods this fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-08-03T18:15:00+00:00",
+      "source": "Macworld"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-03",
-      "close": 306.4849853515625
+      "date": "2026-08-04",
+      "close": 304.1099853515625
     },
     "history": [
-      {
-        "date": "2026-07-24",
-        "close": 333.0199890136719
-      },
       {
         "date": "2026-07-27",
         "close": 336.9100036621094
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-08-03",
-        "close": 306.4849853515625
+        "close": 303.4200134277344
+      },
+      {
+        "date": "2026-08-04",
+        "close": 304.1099853515625
       }
     ],
     "name": "Apple Inc."

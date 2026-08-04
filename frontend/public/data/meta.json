@@ -2,63 +2,63 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-08-03T14:15:05.155250+00:00",
+  "fetched_at": "2026-08-04T13:47:19.654300+00:00",
   "news": [
     {
-      "title": "Germany news: Calls intensify to ban Meta Glasses - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1za1pSNDN2UDJGd25JWXJHS2VPM2xWNlFVd1hDVllIcWRYVW5LSllDRzY0LVRjckZpaGlPa094ZzFyZ1dIUVNNcnUwVzlBUzQ2WEJnUFdtM1dKZ3dPVXJpSWdHTWNFQzFHYlhITTM3bnp2bjgtcWNVcDBYbzBNLWFKZmRuakdkRU1kag?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1za1pSNDN2UDJGd25JWXJHS2VPM2xWNlFVd1hDVllIcWRYVW5LSllDRzY0LVRjckZpaGlPa094ZzFyZ1dIUVNNcnUwVzlBUzQ2WEJnUFdtM1dKZ3dPVXJpSWdHTWNFQzFHYlhITTM3bnp2bjgtcWNVcDBYbzBNLWFKZmRuakdkRU1kag?oc=5\" target=\"_blank\">Germany news: Calls intensify to ban Meta Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font>",
-      "published": "2026-08-03T09:07:59+00:00",
-      "source": "dw.com"
+      "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model - Engineering at Meta",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEdtcE82QVZjWDN6RkFHYkwxRlN0cnM0Vmo3d25VWlhXc0FIS2NlVzluVllZMVQydVdVVDV3a0dzZ2lTY0F1NDBHdWhRSExNaTVwdG9MRnc5UEN6OFEtLXg3QUVIbzcwT3VQMFhaeUhIZlhISVZOLUdsRTJYMURNLWxtb0Rsdzk2QUhRMm12ZkFfUVptNDNtbFlkazZaRkZEemp3ZDNEQllQeWJncURQR2FJNFFhWFlFdm55TTlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEdtcE82QVZjWDN6RkFHYkwxRlN0cnM0Vmo3d25VWlhXc0FIS2NlVzluVllZMVQydVdVVDV3a0dzZ2lTY0F1NDBHdWhRSExNaTVwdG9MRnc5UEN6OFEtLXg3QUVIbzcwT3VQMFhaeUhIZlhISVZOLUdsRTJYMURNLWxtb0Rsdzk2QUhRMm12ZkFfUVptNDNtbFlkazZaRkZEemp3ZDNEQllQeWJncURQR2FJNFFhWFlFdm55TTlB?oc=5\" target=\"_blank\">GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engineering at Meta</font>",
+      "published": "2026-08-03T18:04:18+00:00",
+      "source": "Engineering at Meta"
     },
     {
-      "title": "Exclusive: Records reveal Meta's Gallatin data center water use - The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDdWVVNCN1U0TlZZRVBvQXRJR2xVNGk3dFFoT1JMMGM5ZkRnRnFFcjM0cGlmQTFyZ1F1ODhBcnc0QU5XcjZBQTU4anBpd0ppLTVMSk1lZDlNcGQ1MkJOOVcwMVRVT0hCT1JuYnBwR01QZDdRV3BaeWtTdVZjVlBQVjY5ay04TTdlTHJpaDVfcXVNZHl5SUsxZTlKcjY1TGg1bmoyOUpB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDdWVVNCN1U0TlZZRVBvQXRJR2xVNGk3dFFoT1JMMGM5ZkRnRnFFcjM0cGlmQTFyZ1F1ODhBcnc0QU5XcjZBQTU4anBpd0ppLTVMSk1lZDlNcGQ1MkJOOVcwMVRVT0hCT1JuYnBwR01QZDdRV3BaeWtTdVZjVlBQVjY5ay04TTdlTHJpaDVfcXVNZHl5SUsxZTlKcjY1TGg1bmoyOUpB?oc=5\" target=\"_blank\">Exclusive: Records reveal Meta's Gallatin data center water use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tennessean</font>",
-      "published": "2026-08-03T10:01:00+00:00",
-      "source": "The Tennessean"
-    },
-    {
-      "title": "'Apology Not Enough': Inside Panel That Met Meta Officials Over PM Video - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2kxSnB5QlhPSUdsZXRjU3hMelRGZjFUNTgtZER2TzhIYkh0cjI3NUtLc29PWDNnV2cyUDYtOWhuRkRIa0sxSXR5bmFJVjFoNE9XRzhpVWxMU3lDZWVOcG11dENDdlBQQ1ZBRGxBdGVrQVc0NUZsOHNzdS1JTEVHdjBjTzg3WXBsbHM2TzlPVkhxRHV2eUFrMUdZazRqSm9tSnE2U3NITktSTzBwZklBbTdiTl9SV01ZM09PRWxEWmFTSmRnUHV6VzdtZ0ExUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2kxSnB5QlhPSUdsZXRjU3hMelRGZjFUNTgtZER2TzhIYkh0cjI3NUtLc29PWDNnV2cyUDYtOWhuRkRIa0sxSXR5bmFJVjFoNE9XRzhpVWxMU3lDZWVOcG11dENDdlBQQ1ZBRGxBdGVrQVc0NUZsOHNzdS1JTEVHdjBjTzg3WXBsbHM2TzlPVkhxRHV2eUFrMUdZazRqSm9tSnE2U3NITktSTzBwZklBbTdiTl9SV01ZM09PRWxEWmFTSmRnUHV6VzdtZ0ExUQ?oc=5\" target=\"_blank\">'Apology Not Enough': Inside Panel That Met Meta Officials Over PM Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-      "published": "2026-08-03T13:23:55+00:00",
-      "source": "NDTV"
-    },
-    {
-      "title": "Hundreds protest Meta’s planned data centre in Alberta county - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm9NVkphdmtlSF9BSnRVWG40QWtCRU5pU3UzNjEtLWlYTzZhbC1hQVloWGRrZ1NZMTFyY3lVUmp0ZHBnenF6eUtWdnJjS01zU0FacnExWTZpdFRsOGsxLU9pdjJHT2ZyTmFydGcyLVFqTlF4OUdoQUViWlEydV80UUFYRXRwbm9KZXRFVFE3bHdjSWlvZlkyWUlCcFlJenVSSGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm9NVkphdmtlSF9BSnRVWG40QWtCRU5pU3UzNjEtLWlYTzZhbC1hQVloWGRrZ1NZMTFyY3lVUmp0ZHBnenF6eUtWdnJjS01zU0FacnExWTZpdFRsOGsxLU9pdjJHT2ZyTmFydGcyLVFqTlF4OUdoQUViWlEydV80UUFYRXRwbm9KZXRFVFE3bHdjSWlvZlkyWUlCcFlJenVSSGc?oc=5\" target=\"_blank\">Hundreds protest Meta’s planned data centre in Alberta county</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-      "published": "2026-08-03T00:32:44+00:00",
-      "source": "The Globe and Mail"
-    },
-    {
-      "title": "Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODFtbGtLazNGRmtBMlNlMEMyN3FLVHVUaDlHRDJTMHc5SUlLV2Z3dkphdzE4ZmRSUkh0emd0MnBkdmdXRHRlTkZvOG93b21kMDF5eWhkNjZjeU45Mk11NzBhLU9xUlYtZDFZNFFvZVZJaHltblc4ZE5EOFpIb2pKaFdMZmZSVm5scmxjSm9sTmdfdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPODFtbGtLazNGRmtBMlNlMEMyN3FLVHVUaDlHRDJTMHc5SUlLV2Z3dkphdzE4ZmRSUkh0emd0MnBkdmdXRHRlTkZvOG93b21kMDF5eWhkNjZjeU45Mk11NzBhLU9xUlYtZDFZNFFvZVZJaHltblc4ZE5EOFpIb2pKaFdMZmZSVm5scmxjSm9sTmdfdw?oc=5\" target=\"_blank\">Microsoft and Amazon Won the AI Spending Week. Alphabet, Meta, and Oracle Didn't. Now What?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-08-03T13:13:29+00:00",
+      "title": "Why Meta Platforms Stock Popped Today - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWMzM1ZITFFCUnQzNW9VdkJTR0ROT0t2SmtfWlY0VHluY1lwS2tQRDBwNjdoNkpnUEp1WjllVVVjUFlUdW1QUTFMT0tEN1lMaG12aElqX3hselVuSE9fQjJJY0lTQ2gyQ2RHSHZXQTc0Smg1ckpINV9XVWVFOFNFakpnMjI4YUE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWMzM1ZITFFCUnQzNW9VdkJTR0ROT0t2SmtfWlY0VHluY1lwS2tQRDBwNjdoNkpnUEp1WjllVVVjUFlUdW1QUTFMT0tEN1lMaG12aElqX3hselVuSE9fQjJJY0lTQ2gyQ2RHSHZXQTc0Smg1ckpINV9XVWVFOFNFakpnMjI4YUE?oc=5\" target=\"_blank\">Why Meta Platforms Stock Popped Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVM3SFhBd3JhQWFwQ0ZkVWV0S2Z1eWthREVxYUxjYjFaY1NMQjM5T1dwSTNIeGhoX3hmTmpJMUpXY3lLTE0tMm5kbFFIcWM3Q2hfbVctZEhmZ1Nna1loeEZSbmhlSjE2aUhtbG9YRkdYVGRjOW11bnhVTHFZV0tWcWRiVEcxeThkRnE3bEtTcmczUVlFcnJESEFYQ2xtMmRzSzBlZ1hUMTYtS1h3eHdRRDVQZlBMMFl4MU5mV3hZQ2dTQjJfbkk5VE5XQWFIampLNG1CNERKMDcyXzJnSWlv?oc=5\" target=\"_blank\">Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWxuTTNuanNFZEtaX21IUDNpRXZMd2IxTTdhSG9WMUNGVFpicXptWlV3ZWgtRXJsMktGbS05VVFHeGpNa1dfTjJSY1hhTjlBVG1mdW1LTGcycHZway10SnFVU2dBTlZHNWUxUTZaX1hGbFlRTEowWHhlekluLUtUNXVLeHNfYzBlc1JNUjRxeVVLQXJ0TnJyWmhFejB2eWlEeUp4VW1oYmlyNGlQ?oc=5\" target=\"_blank\">The Sharpest Exchanges From META’s Earnings Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font></li></ol>",
+      "published": "2026-08-03T18:52:00+00:00",
       "source": "The Motley Fool"
     },
     {
-      "title": "Meta India head named in police case over Facebook videos targeting Modi - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFM0cDFlekR2dzJFUkpaQjh4RFNHMDRWTERIQWNLUjlEcVNyN3NNalAyU2J5MDh0cUF6dExnRGVhZGUzbjBJSlp3SlJoTkFxdXl0TGUxR0xKRW1faFRLYTVvRExUdTlJNkx3Mk44ZXZNYnZGVVdFZms3aHYzenNSVlZ4YThHWUloMnVNNm9rZVY4MFBQQzJqbXVKN2FBOFlOUjNUZmRUZUVsWXBtT1NNeFZUcGdNd0NQT2dnRTNiY3h3eVNT?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFM0cDFlekR2dzJFUkpaQjh4RFNHMDRWTERIQWNLUjlEcVNyN3NNalAyU2J5MDh0cUF6dExnRGVhZGUzbjBJSlp3SlJoTkFxdXl0TGUxR0xKRW1faFRLYTVvRExUdTlJNkx3Mk44ZXZNYnZGVVdFZms3aHYzenNSVlZ4YThHWUloMnVNNm9rZVY4MFBQQzJqbXVKN2FBOFlOUjNUZmRUZUVsWXBtT1NNeFZUcGdNd0NQT2dnRTNiY3h3eVNT?oc=5\" target=\"_blank\">Meta India head named in police case over Facebook videos targeting Modi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-31T14:32:25+00:00",
+      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5\" target=\"_blank\">Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-03T23:26:37+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Families sue Meta, Snapchat, TikTok and YouTube over deaths of 4 teens - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQk5ScGFXZ2FsN25OdGdPNzZxcUlWYUpEM2d6czc3Z0R5bjh1NkhYR1ZOX2RJMTJfc1NveTVjWXBxZVkwMUdDbEdURjdvcjl2bVZRWVFVaURnT0F0czhWaGV5MTdfQkpnZ1c3UnROcEV2cThYeUFWbENmajExbjlhTnNBZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQk5ScGFXZ2FsN25OdGdPNzZxcUlWYUpEM2d6czc3Z0R5bjh1NkhYR1ZOX2RJMTJfc1NveTVjWXBxZVkwMUdDbEdURjdvcjl2bVZRWVFVaURnT0F0czhWaGV5MTdfQkpnZ1c3UnROcEV2cThYeUFWbENmajExbjlhTnNBZw?oc=5\" target=\"_blank\">Families sue Meta, Snapchat, TikTok and YouTube over deaths of 4 teens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "published": "2026-07-31T16:30:00+00:00",
-      "source": "CBS News"
+      "title": "Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3JaY0J5QjVQNkYzZDhDdzRVUUtET2IyU3haY0QtZDRpVFY2NDF4WUhWOElLWGc5YkdwTXRVNW5ncm9xc0dnZWtkMmJvbHQ2NXlyMlBFaW5CYy1ydDdkNnZ3RFBKUXMtbUdObm9lam1VRGVsdHhoekF4WFppSWpaZGF2SjZQSHRNSXV5UlZieVpsZElsOG5tWm1ualdpZ0Nibnl6MFRlMF9aWVpw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3JaY0J5QjVQNkYzZDhDdzRVUUtET2IyU3haY0QtZDRpVFY2NDF4WUhWOElLWGc5YkdwTXRVNW5ncm9xc0dnZWtkMmJvbHQ2NXlyMlBFaW5CYy1ydDdkNnZ3RFBKUXMtbUdObm9lam1VRGVsdHhoekF4WFppSWpaZGF2SjZQSHRNSXV5UlZieVpsZElsOG5tWm1ualdpZ0Nibnl6MFRlMF9aWVpw?oc=5\" target=\"_blank\">Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-08-04T04:20:00+00:00",
+      "source": "The Guardian"
     },
     {
-      "title": "Meta Horizon+ Adds Five New Games, Plus 50+ Titles With XBOX Game Pass! - Meta Store",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZy1ibnY4YnM0TlBZbV85NWlyN0pTd2FQUThDQkMtaURhOTQ2UVFyOVhlaEJ4SXVpdWM1enBPT3V6RnNjOWNsR1lrRFQ0V2tMLWw3eDdTV3RTcWhmZ2h2b2lKSm9NTUJpbGliaHJPNVJsbURqdm9Gay1TdUxhc055ajZMbGwtdjhUV1NfT1dHMlo4LXg5TEt0a1RyMzF6Mkg0LWpNWXNpbFRUcjJLaE9jczJfMkhXdVRSZmNkQnEtRGtYT1FYdG1V?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZy1ibnY4YnM0TlBZbV85NWlyN0pTd2FQUThDQkMtaURhOTQ2UVFyOVhlaEJ4SXVpdWM1enBPT3V6RnNjOWNsR1lrRFQ0V2tMLWw3eDdTV3RTcWhmZ2h2b2lKSm9NTUJpbGliaHJPNVJsbURqdm9Gay1TdUxhc055ajZMbGwtdjhUV1NfT1dHMlo4LXg5TEt0a1RyMzF6Mkg0LWpNWXNpbFRUcjJLaE9jczJfMkhXdVRSZmNkQnEtRGtYT1FYdG1V?oc=5\" target=\"_blank\">Meta Horizon+ Adds Five New Games, Plus 50+ Titles With XBOX Game Pass!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
-      "published": "2026-08-01T17:06:15+00:00",
-      "source": "Meta Store"
+      "title": "Germany news: Calls intensify to consider Meta Glasses ban - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWhrRkM2aVEwYmQ5bkxkUVZQYmRpQXBhaVFVbVdveGQ4dF9fRkhFeXNXWWtkZFVwNzBVdm84VzB0NGtPWnMtMWpVVnN2ZGt6VE9vakduc0tEZVpOYk1nUGdCaGpOMnZON0xwUUU5WXpacEcyNjNJNTFTcmt0cjRmeTJhUGN5RV96N1R4S094WHllWlBGNHBnWA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWhrRkM2aVEwYmQ5bkxkUVZQYmRpQXBhaVFVbVdveGQ4dF9fRkhFeXNXWWtkZFVwNzBVdm84VzB0NGtPWnMtMWpVVnN2ZGt6VE9vakduc0tEZVpOYk1nUGdCaGpOMnZON0xwUUU5WXpacEcyNjNJNTFTcmt0cjRmeTJhUGN5RV96N1R4S094WHllWlBGNHBnWA?oc=5\" target=\"_blank\">Germany news: Calls intensify to consider Meta Glasses ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font>",
+      "published": "2026-08-03T18:07:14+00:00",
+      "source": "dw.com"
+    },
+    {
+      "title": "Police Investigate TikToker Accused of Secretly Filming Strangers With Meta Smart Glasses - PetaPixel",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFQ2bFAzN1F4elBxQXR6aDE1YjFXOWp5cVNsamJhcTllWUZERnN6ZUlRX3VFMFFITDhDME5rWTBibVpJSE5DdTR4NHp4MzFlckVOb1lWRmpQaW5fTmt3SjhNNkpMcVdQWE9PVllDT3JyVjBsSWE1MFdzQnFKYTZjVENPWGgyRXNJNGxSTm5xWEEzc3o3d1VLTzJsdDVaclVlYXRzVGE3RHhWM2lDZjlLcTRFMG5GenZFdmdWMlQyUEI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFQ2bFAzN1F4elBxQXR6aDE1YjFXOWp5cVNsamJhcTllWUZERnN6ZUlRX3VFMFFITDhDME5rWTBibVpJSE5DdTR4NHp4MzFlckVOb1lWRmpQaW5fTmt3SjhNNkpMcVdQWE9PVllDT3JyVjBsSWE1MFdzQnFKYTZjVENPWGgyRXNJNGxSTm5xWEEzc3o3d1VLTzJsdDVaclVlYXRzVGE3RHhWM2lDZjlLcTRFMG5GenZFdmdWMlQyUEI?oc=5\" target=\"_blank\">Police Investigate TikToker Accused of Secretly Filming Strangers With Meta Smart Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PetaPixel</font>",
+      "published": "2026-08-03T14:36:41+00:00",
+      "source": "PetaPixel"
+    },
+    {
+      "title": "Critics call Meta’s ratepayer protection pledge a ‘meaningless piece of paper’ - Baton Rouge Business Report",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzZJLW1hc1oyaU4tRFpDdHZvMVR4eFh1dS15YlczbXgydk1Zd3ZJMU9JUFY5R2lWVTZzVERsUGt2Wm5RVVJ0czZmWmFodW1idVBtaTNRY0RpZlNKaXFxSVRNaXBMa3FCZ1lOUHlidkY4eU85LXJtWTM0ZnBfQ2ZFSDZ3LXluM1RwZmVXU1dZZElXMGM4SndKMnFZWnYzVDVjcXlQd09OeDUwVnNWWFB4eV9icGxqd9IBvgFBVV95cUxNN0NtRWZ6M0xoV1h1UTVTN2tEcWxudXRtRlBJdGpkYmJvRHpFY0c5dldyZDV3NGRFUUoycVFhUW1sam55Mi1uZUs5TmNiaEFNOVZ1MXNYekVUSWxQVEZFbXNvS29VVi16ZFl6WERNVnlFNjRGWVFnNmx5b1pUaUhrU01JV3pEQ1lxYTRPbHNsaVJlVi1kdkQ0bU9uNlFIMXBDNFhpOWh4MWl3WHZWUUxTV0pNdDdJUUhDaEZaMUd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzZJLW1hc1oyaU4tRFpDdHZvMVR4eFh1dS15YlczbXgydk1Zd3ZJMU9JUFY5R2lWVTZzVERsUGt2Wm5RVVJ0czZmWmFodW1idVBtaTNRY0RpZlNKaXFxSVRNaXBMa3FCZ1lOUHlidkY4eU85LXJtWTM0ZnBfQ2ZFSDZ3LXluM1RwZmVXU1dZZElXMGM4SndKMnFZWnYzVDVjcXlQd09OeDUwVnNWWFB4eV9icGxqd9IBvgFBVV95cUxNN0NtRWZ6M0xoV1h1UTVTN2tEcWxudXRtRlBJdGpkYmJvRHpFY0c5dldyZDV3NGRFUUoycVFhUW1sam55Mi1uZUs5TmNiaEFNOVZ1MXNYekVUSWxQVEZFbXNvS29VVi16ZFl6WERNVnlFNjRGWVFnNmx5b1pUaUhrU01JV3pEQ1lxYTRPbHNsaVJlVi1kdkQ0bU9uNlFIMXBDNFhpOWh4MWl3WHZWUUxTV0pNdDdJUUhDaEZaMUd3?oc=5\" target=\"_blank\">Critics call Meta’s ratepayer protection pledge a ‘meaningless piece of paper’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baton Rouge Business Report</font>",
+      "published": "2026-08-03T19:58:18+00:00",
+      "source": "Baton Rouge Business Report"
+    },
+    {
+      "title": "Exclusive | NY luxury-car dealer demands Meta unmask Instagram troll smearing him as ‘scammer’ and ‘fraudster’ - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMUZWZ2VmTG1UUWJLRWw0V3FMcWNTNWEyUzAyTHpNOWNaMkVzcjA5WTlDZ01nQmhhaXNkWW5oRW5fLXJUVWdNRjR5eWVvclA1QnU0elZvR2g2SE5ZZWJSc3d4NXlQS2M5WWZfX2R6Wmt6V0hGM2ZhbVFQRm4zTjAwZGtoZVI0WEJZbEd2MzAxYXh0WVo1c05obWRfSFFhRVcteF9nSnZQRGZvT3J2RXFWZlhTdjRsYUl6RFR3WWN5TGdldWNOelBUZGtjUnZxUEhlb1U0VDU0WjIxSGtvRzJtSU1SaHVEQlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMUZWZ2VmTG1UUWJLRWw0V3FMcWNTNWEyUzAyTHpNOWNaMkVzcjA5WTlDZ01nQmhhaXNkWW5oRW5fLXJUVWdNRjR5eWVvclA1QnU0elZvR2g2SE5ZZWJSc3d4NXlQS2M5WWZfX2R6Wmt6V0hGM2ZhbVFQRm4zTjAwZGtoZVI0WEJZbEd2MzAxYXh0WVo1c05obWRfSFFhRVcteF9nSnZQRGZvT3J2RXFWZlhTdjRsYUl6RFR3WWN5TGdldWNOelBUZGtjUnZxUEhlb1U0VDU0WjIxSGtvRzJtSU1SaHVEQlE?oc=5\" target=\"_blank\">Exclusive | NY luxury-car dealer demands Meta unmask Instagram troll smearing him as ‘scammer’ and ‘fraudster’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "published": "2026-08-03T21:16:36+00:00",
+      "source": "New York Post"
     }
   ],
   "product_launches": [
@@ -84,32 +84,28 @@
       "source": "Meta Store"
     },
     {
-      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
+      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "published": "2026-07-09T07:00:00+00:00",
-      "source": "The New York Times"
+      "source": "nytimes.com"
     },
     {
-      "title": "Meta Uses AI to Speed Up the Launch of New Apps - entARABI",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTNITy0zQ0VKRWVWVnRfVDJvMWFGYUZxRVdRVXBGRHB3Ui05bzJLRmpLUUZWYXViTnZPdFpLUTVSNkhaZU00YmpGdWphSkVWZ2hZOEl0Y2llV0ZBOUNPYjlnTVZzSWVWbVhDVjN4LTJ4WkpRNFdVZWgwdFVTNlp4N0E4dmRDU3M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTNITy0zQ0VKRWVWVnRfVDJvMWFGYUZxRVdRVXBGRHB3Ui05bzJLRmpLUUZWYXViTnZPdFpLUTVSNkhaZU00YmpGdWphSkVWZ2hZOEl0Y2llV0ZBOUNPYjlnTVZzSWVWbVhDVjN4LTJ4WkpRNFdVZWgwdFVTNlp4N0E4dmRDU3M?oc=5\" target=\"_blank\">Meta Uses AI to Speed Up the Launch of New Apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">entARABI</font>",
-      "published": "2026-07-30T18:31:25+00:00",
-      "source": "entARABI"
+      "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5\" target=\"_blank\">Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": "Meta Store"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-03",
-      "close": 592.4500122070312
+      "date": "2026-08-04",
+      "close": 584.52001953125
     },
     "history": [
-      {
-        "date": "2026-07-24",
-        "close": 595.1900024414062
-      },
       {
         "date": "2026-07-27",
         "close": 593.8699951171875
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-08-03",
-        "close": 592.4500122070312
+        "close": 590.239990234375
+      },
+      {
+        "date": "2026-08-04",
+        "close": 584.52001953125
       }
     ],
     "name": "Meta Platforms, Inc."
