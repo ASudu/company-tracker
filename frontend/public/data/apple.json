@@ -2,72 +2,79 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-08-06T13:40:39.908201+00:00",
+  "fetched_at": "2026-08-07T12:39:28.881501+00:00",
   "news": [
-    {
-      "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5mac.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0Ryd2VKdzUzZlRxdWFwWmVWYXNhQmxORlNuT3pWRDNDYW9QMHJjSV9ISThjSnd3amNlRG1kT3lkS1ZKVkZXS1FLVkhJRXE3LUNVNDZxY2E3R2FEcFpycERwMHdlMkQ1OWdzdUc5bUQtc1ppRG4yUGhWaDk5cTNYQndqbEF6TEVQa1JNd3V6bEhUdlRlNTlzUGhJUzlfeTFZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0Ryd2VKdzUzZlRxdWFwWmVWYXNhQmxORlNuT3pWRDNDYW9QMHJjSV9ISThjSnd3amNlRG1kT3lkS1ZKVkZXS1FLVkhJRXE3LUNVNDZxY2E3R2FEcFpycERwMHdlMkQ1OWdzdUc5bUQtc1ppRG4yUGhWaDk5cTNYQndqbEF6TEVQa1JNd3V6bEhUdlRlNTlzUGhJUzlfeTFZ?oc=5\" target=\"_blank\">Apple Watch Ultra 4: Three new features that already have me excited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5mac.com</font>",
-      "published": "2026-08-05T20:04:00+00:00",
-      "source": "9to5mac.com"
-    },
-    {
-      "title": "CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQWExUcjRFckphNERJYVdNdEdfWThrWWtKUFVpdll0Y1RRVVVwSlN6WEpOT0xNb2pQdE9fdHpSbTd4am52NEFyTzVObEZZUWh3emJDWGZDblkwWEpGVlhCLWgtX3ZaakxfVS1kMjFvcThNRUZGZG1kUmJyeVJERFNLTXZaMzgzbWZUdExNeXVnWWdLeVlhcmxORktnTXl4M0J5MzJiU1NObVVtOWRZTGdNQVVwYVhOazBRenBzdml2OFhQU1lpckHSAcsBQVVfeXFMUHAtMC1LdjloWjBiV2p0b2VGeXFCck1NdnlTTEZZZjlLNUNRNk9MQzhaM2dSaDZSSl9TaWlMcklxSkZYS1VMR01USGplWEpOYmdlVHlmQi04b1FVQWNvcEZKM2dtNmg3MlZrLXZtOVBhalV5YjVQZmFVYWRBU0I5RHd6TVZMSUZuXzVwYVNxLTNCdFpUTkFUWVJhbjlabVFyLVZvbk5GZEVQbDZuNnlEYlVQa2NscW5MY096aHdiYkYxSjZueFNCTGNfd28?oc=5\" target=\"_blank\">CXMT Says No Thank You to Apple’s Demand For A Price Cut, as Huawei And Xiaomi Hand It Rare Leverage – Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
-      "published": "2026-08-05T15:12:53+00:00",
-      "source": "Wccftech"
-    },
-    {
-      "title": "Apple's Bid to Use Chinese Chipmaker as Leverage Backfires - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3IxOHZkRDM5a1JRdHNCTjVHQVAwOW5BVlg5UjFWb2pldElRRl9XQ2R5N2s3Q2FVRWN3ZkJqM3VkTG9FTk81aWVCQU8yR2FTVFBCbWJOcEJpYWtyRXJUbHQwUy04blBnQXdZTHhPQ2tHWjA4d0h0cERMRlNRWERSS1FSTzRaY1YxTDlV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3IxOHZkRDM5a1JRdHNCTjVHQVAwOW5BVlg5UjFWb2pldElRRl9XQ2R5N2s3Q2FVRWN3ZkJqM3VkTG9FTk81aWVCQU8yR2FTVFBCbWJOcEJpYWtyRXJUbHQwUy04blBnQXdZTHhPQ2tHWjA4d0h0cERMRlNRWERSS1FSTzRaY1YxTDlV?oc=5\" target=\"_blank\">Apple's Bid to Use Chinese Chipmaker as Leverage Backfires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-08-06T11:53:43+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple Scrambles for DRAM, CXMT Reportedly Rejects Negotiations - techpowerup.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmZDSnhLWXUwd2JlLXdGVFp5a2hNS2N5dDQxRjd6MmduNzRPWGpZU0p0cWNRZ3ZZcmtaT3VudkF3c1pnWlp4b2oteWRuSW9nQVRpUGhqV3F6anpNMHMxSDJYYjcxVHJnUERwREtfeF9CQy1XeThaamtuSjd4U1JBYnAxV0s0dHdCRWhYSmxNNnlWYklwU21uWW9SWjXSAaIBQVVfeXFMTWp3NEZ5amVpOEhWVDN4bkJIYzJaSWgwMHV5Nk9jbDFMZ0pBdnZQaXl1YXV0ck1GZG1ucm4yNUM5Z25mb3BmYWFXUHRMS1lpOVFONmZHdWtSNGRCMnRmYWF6STBSODJVQUFlanJuMjZFSU0xWEdxS3AxZkJlUEt4eWVHcjBoa1dXenhSSXYtQ0l4VGtrTWpldmlDRjkxVVFyYjhB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmZDSnhLWXUwd2JlLXdGVFp5a2hNS2N5dDQxRjd6MmduNzRPWGpZU0p0cWNRZ3ZZcmtaT3VudkF3c1pnWlp4b2oteWRuSW9nQVRpUGhqV3F6anpNMHMxSDJYYjcxVHJnUERwREtfeF9CQy1XeThaamtuSjd4U1JBYnAxV0s0dHdCRWhYSmxNNnlWYklwU21uWW9SWjXSAaIBQVVfeXFMTWp3NEZ5amVpOEhWVDN4bkJIYzJaSWgwMHV5Nk9jbDFMZ0pBdnZQaXl1YXV0ck1GZG1ucm4yNUM5Z25mb3BmYWFXUHRMS1lpOVFONmZHdWtSNGRCMnRmYWF6STBSODJVQUFlanJuMjZFSU0xWEdxS3AxZkJlUEt4eWVHcjBoa1dXenhSSXYtQ0l4VGtrTWpldmlDRjkxVVFyYjhB?oc=5\" target=\"_blank\">Apple Scrambles for DRAM, CXMT Reportedly Rejects Negotiations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techpowerup.com</font>",
-      "published": "2026-08-05T18:58:50+00:00",
-      "source": "techpowerup.com"
-    },
-    {
-      "title": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2F6STVRR1pYdnZPZ2FPUlh4SllBNkFFY3hrQU5hQW5KeGpFTkYyTjV0bW1xVDVieFdkWFUzSWl3VnhoVjhkYnV4T3ZMYUk5M2paU25rYzVwOURhNk9DdmxCRVg3NXpBakFPdndfalRTcjd3RjNBTWJjaDhnN0J2d3E0d2RNU2VMU21POEZCOVdYZmVSdnJ5bUx4VUM0dnUyY3QwR01ZVy02ZTdFVkpJUUZ6WmhYUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2F6STVRR1pYdnZPZ2FPUlh4SllBNkFFY3hrQU5hQW5KeGpFTkYyTjV0bW1xVDVieFdkWFUzSWl3VnhoVjhkYnV4T3ZMYUk5M2paU25rYzVwOURhNk9DdmxCRVg3NXpBakFPdndfalRTcjd3RjNBTWJjaDhnN0J2d3E0d2RNU2VMU21POEZCOVdYZmVSdnJ5bUx4VUM0dnUyY3QwR01ZVy02ZTdFVkpJUUZ6WmhYUQ?oc=5\" target=\"_blank\">OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-06T06:34:00+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’ - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJ1ckYzd01xQXpJWVBKR1hGcUljc3NSVUEwWGtkRzdFblc5UDVWdi1BY0RsVUd2OGJoWmlBQVI3TWRoeWM0ZGE2c1BiNy1GaFlTb2E1MHlHTlZZSy1YTWNrdU1ZanJ3cS0zbk1uYWRpdmpFWDJUQXdKaDZwV3NDbzNESklGNlJBNjluMTBYT0pkSzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJ1ckYzd01xQXpJWVBKR1hGcUljc3NSVUEwWGtkRzdFblc5UDVWdi1BY0RsVUd2OGJoWmlBQVI3TWRoeWM0ZGE2c1BiNy1GaFlTb2E1MHlHTlZZSy1YTWNrdU1ZanJ3cS0zbk1uYWRpdmpFWDJUQXdKaDZwV3NDbzNESklGNlJBNjluMTBYT0pkSzA?oc=5\" target=\"_blank\">OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-08-06T09:33:11+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI asked a judge to throw out Apple's trade secrets lawsuit, calling it \"baseless\" - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1Y29mbGtiSjVCYXVIdU1OLWtBZ1ZIWGlZMTdCTldNanhaZDE5cFYzRkxNWnFGLUZQZ19lZ3BSNTkwVHRLbE9YRFVCTFhieGowYUMzZ0ZQcG5LSEFHYzJTOFdCMW13dmktV2drUER1MXQ5dl84Ukk2bjd3UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB1Y29mbGtiSjVCYXVIdU1OLWtBZ1ZIWGlZMTdCTldNanhaZDE5cFYzRkxNWnFGLUZQZ19lZ3BSNTkwVHRLbE9YRFVCTFhieGowYUMzZ0ZQcG5LSEFHYzJTOFdCMW13dmktV2drUER1MXQ5dl84Ukk2bjd3UQ?oc=5\" target=\"_blank\">OpenAI asked a judge to throw out Apple's trade secrets lawsuit, calling it \"baseless\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
-      "published": "2026-08-06T12:43:21+00:00",
-      "source": "qz.com"
-    },
     {
       "title": "How Apple and India Built an Alternative iPhone Production Hub - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0Vmb3FVUUdEeWJDQlAycVRBYms2Y1ZzXzJkYzhXNW9zVzlIa1o3LVVFSVExYzJqNmZGQmJTRmNkb2ZBSzVTWjlCNFZzUXJ6SkdIZTlZN0tvN2ZUdmZMRHlkckV5LWNmaHpjdDVhOHVpdDFMaTNyb1ExZkIzbExRMUpCSXFmU1pZWUpNbVh2NkNHenc4Xy03SHlMUU5lNWRIYUJ6RVJnZkN0OXdpOUxuNUNrN0YxcktqdVBMamVVVk8?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0Vmb3FVUUdEeWJDQlAycVRBYms2Y1ZzXzJkYzhXNW9zVzlIa1o3LVVFSVExYzJqNmZGQmJTRmNkb2ZBSzVTWjlCNFZzUXJ6SkdIZTlZN0tvN2ZUdmZMRHlkckV5LWNmaHpjdDVhOHVpdDFMaTNyb1ExZkIzbExRMUpCSXFmU1pZWUpNbVh2NkNHenc4Xy03SHlMUU5lNWRIYUJ6RVJnZkN0OXdpOUxuNUNrN0YxcktqdVBMamVVVk8?oc=5\" target=\"_blank\">How Apple and India Built an Alternative iPhone Production Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "published": "2026-08-05T21:00:16+00:00",
       "source": "Bloomberg.com"
+    },
+    {
+      "title": "Apple sweetens trade-in values for iPhones, iPads, Macs, and even some Android phones - Digital Trends",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFQtRGU2aDNjQWdvTmIxLXJNRGJFamRTR0dfYjRka1VldXMxX3NxeEpWVEo2bFdaSG4tSHlmaFZJZ1lyTzZGOWRfeHlGeUtQN0lpYXREejFRY0Q3RWtWQXBMVWx2cVdoZnRiRS1PNWQ4NjVrM0tJa3F4NXVZbng5NTQydFhCekFmdG10QWRCUFN5U1NMVDRPRS1wZzYxREtvX2hRa01mZG45S09rVTlWclprbEFMVHFCcEJRTktuR3M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFQtRGU2aDNjQWdvTmIxLXJNRGJFamRTR0dfYjRka1VldXMxX3NxeEpWVEo2bFdaSG4tSHlmaFZJZ1lyTzZGOWRfeHlGeUtQN0lpYXREejFRY0Q3RWtWQXBMVWx2cVdoZnRiRS1PNWQ4NjVrM0tJa3F4NXVZbng5NTQydFhCekFmdG10QWRCUFN5U1NMVDRPRS1wZzYxREtvX2hRa01mZG45S09rVTlWclprbEFMVHFCcEJRTktuR3M?oc=5\" target=\"_blank\">Apple sweetens trade-in values for iPhones, iPads, Macs, and even some Android phones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Trends</font>",
+      "published": "2026-08-07T05:34:54+00:00",
+      "source": "Digital Trends"
+    },
+    {
+      "title": "Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlhNRTB5WkVlQUNpVVA0TGZpYmMtZXdUZjY4a3BxU0pONmNSUnlQWTRjTzBjOWFTSVlXVG5EWHhuUm8xbzl1eU5HcWtoMnJSS01XdWpxRGlZbzE0MjcwN092WTFQTHhWbDNfSXpXWlFTT0ZaUnk2SmVqTWdHeE1SUk5vQmlfZEhEa2kxWEtId0gzWUREWkFOXzhCV2NfMXFnRE9keTNBUHJHNmg4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlhNRTB5WkVlQUNpVVA0TGZpYmMtZXdUZjY4a3BxU0pONmNSUnlQWTRjTzBjOWFTSVlXVG5EWHhuUm8xbzl1eU5HcWtoMnJSS01XdWpxRGlZbzE0MjcwN092WTFQTHhWbDNfSXpXWlFTT0ZaUnk2SmVqTWdHeE1SUk5vQmlfZEhEa2kxWEtId0gzWUREWkFOXzhCV2NfMXFnRE9keTNBUHJHNmg4?oc=5\" target=\"_blank\">Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-08-06T13:35:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple increases trade-in offers and adds new Android devices - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01dmN5eF85NXpyWV9tVWxDMXZoRlg2TUNwMXpnUWpZTDJmTGlVT2NKR3RGS2h4WEpNWUVEeG02azF0LXJzdFIxYVlSeGdSNVJ1NC16ZVctMGNfRWcxbk9qQXhnYnlMU05nd2pmbnBHeHJ5OUNSYzcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01dmN5eF85NXpyWV9tVWxDMXZoRlg2TUNwMXpnUWpZTDJmTGlVT2NKR3RGS2h4WEpNWUVEeG02azF0LXJzdFIxYVlSeGdSNVJ1NC16ZVctMGNfRWcxbk9qQXhnYnlMU05nd2pmbnBHeHJ5OUNSYzcw?oc=5\" target=\"_blank\">Apple increases trade-in offers and adds new Android devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-08-06T15:47:15+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Why does Apple keep banning Telegram, but never X? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDdtLVVmZVVzNEZHRGxfRTBkT042cjV6eGFyWkd2SzNkZHpmYnpHM2g2YVpOY3VMSUZHeS15SkRjMG1zNC0wWWVPWGVOTnBMbS1kbER3UmllcDJSYjBYWlZSNnVlUUh3dlFOaVRQT1BTandKWE84TFl0UEp1ZE1LdUw3R3Q?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDdtLVVmZVVzNEZHRGxfRTBkT042cjV6eGFyWkd2SzNkZHpmYnpHM2g2YVpOY3VMSUZHeS15SkRjMG1zNC0wWWVPWGVOTnBMbS1kbER3UmllcDJSYjBYWlZSNnVlUUh3dlFOaVRQT1BTandKWE84TFl0UEp1ZE1LdUw3R3Q?oc=5\" target=\"_blank\">Why does Apple keep banning Telegram, but never X?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-08-07T11:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Moves to Take Advantage of Indian Consumer Desire - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSnpZcE1TNW40LXMwd2VJMV9TY0Y0cTI3QlJjQnNQalB4aWJUcHROQ25fRURkYWc1bVMwenpJZmJITlotUzRYQXVNVUptaWFhWXU0elZCVjNDYy1KN1JVRHl3bmRILXNrUDRYLVlER0hBcV9hY01OeW9UaGVvMkRGZFZNYWhkaTVtbllzbVpfM1V3Mk4tMFBjU3E4SWNNUDRGbEZ1RXNsaUY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSnpZcE1TNW40LXMwd2VJMV9TY0Y0cTI3QlJjQnNQalB4aWJUcHROQ25fRURkYWc1bVMwenpJZmJITlotUzRYQXVNVUptaWFhWXU0elZCVjNDYy1KN1JVRHl3bmRILXNrUDRYLVlER0hBcV9hY01OeW9UaGVvMkRGZFZNYWhkaTVtbllzbVpfM1V3Mk4tMFBjU3E4SWNNUDRGbEZ1RXNsaUY?oc=5\" target=\"_blank\">Apple Moves to Take Advantage of Indian Consumer Desire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-08-07T12:33:34+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Southern California man mourns wife, 2 children killed in crash - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSzJid291MEpBYW9NVkIxdm5hZlUyeHJ0UUFPQWV6c1JIaEk5akdLTS1TNmdqdloyN2Qzb3diempCdUpGTGF6WVJyeTZWT1dfZ1BwX0NEZHgtekg0aDlleklyYUotbVdkNXlCQ1hDMjk1aXVhcjl3U01yWGRUYTBEc9IBhgFBVV95cUxObnBrdWJrRXQ4LXpBU05hSGxhbkoxMDI1dVpqUm1aU0wyTThaTFQxemtRRnpDZGRoVHZqaGxISjROcXFCUHRWSk9XOHdBT0xPaUhUNXdDU3ZjNF9ZSk1oUlhKSGxHd2U2RVhOYlRJNmFhb0tTVUZ2MTlaX3ZtUmJIOWFqSnd6Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSzJid291MEpBYW9NVkIxdm5hZlUyeHJ0UUFPQWV6c1JIaEk5akdLTS1TNmdqdloyN2Qzb3diempCdUpGTGF6WVJyeTZWT1dfZ1BwX0NEZHgtekg0aDlleklyYUotbVdkNXlCQ1hDMjk1aXVhcjl3U01yWGRUYTBEc9IBhgFBVV95cUxObnBrdWJrRXQ4LXpBU05hSGxhbkoxMDI1dVpqUm1aU0wyTThaTFQxemtRRnpDZGRoVHZqaGxISjROcXFCUHRWSk9XOHdBT0xPaUhUNXdDU3ZjNF9ZSk1oUlhKSGxHd2U2RVhOYlRJNmFhb0tTVUZ2MTlaX3ZtUmJIOWFqSnd6Zw?oc=5\" target=\"_blank\">Southern California man mourns wife, 2 children killed in crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
+      "published": "2026-08-06T01:44:41+00:00",
+      "source": "KTLA"
+    },
+    {
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5\" target=\"_blank\">OpenAI says Apple’s own security practices undermine its trade secrets case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-08-06T15:10:32+00:00",
+      "source": "TechCrunch"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple will launch five new products next month, here’s what’s coming - 9to5mac.com",
+      "title": "Apple will launch five new products next month, here’s what’s coming - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5\" target=\"_blank\">Apple will launch five new products next month, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5mac.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5\" target=\"_blank\">Apple will launch five new products next month, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
       "published": "2026-08-03T15:46:00+00:00",
-      "source": "9to5mac.com"
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Everything Apple could still launch before the end of 2026 - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Everything Apple could still launch before the end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-08-05T10:28:00+00:00",
+      "source": "Macworld"
     },
     {
       "title": "Apple Gears Up for September iPhone Launch With Retail Employee Lottery - Bloomberg.com",
@@ -84,18 +91,11 @@
       "source": "Apple"
     },
     {
-      "title": "iPhones and home hardware: What to expect from Apple for the rest of 2026 - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzJTc3RuZTV5OVB3YlFCWFpWM2ZabFpjdTlvYlQ3TTVRaFNYMTB5d3F3OGhjNHRqNFVWTE1heTVyYU9TVldneXZOZFEtZVB6U2E1SmwxZ2dTdHVLbWthMlNSVGpsQnlMbnZWMEJUMXEyb1cwQlZwZDYwRGo0YU1FdmZ2R3hQMEJqLXB5LXVKNTJ4U3VBMktFYlhmcHRwRjlQVmxTb0JweEFhaTRHZlF6RldpaERyQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzJTc3RuZTV5OVB3YlFCWFpWM2ZabFpjdTlvYlQ3TTVRaFNYMTB5d3F3OGhjNHRqNFVWTE1heTVyYU9TVldneXZOZFEtZVB6U2E1SmwxZ2dTdHVLbWthMlNSVGpsQnlMbnZWMEJUMXEyb1cwQlZwZDYwRGo0YU1FdmZ2R3hQMEJqLXB5LXVKNTJ4U3VBMktFYlhmcHRwRjlQVmxTb0JweEFhaTRHZlF6RldpaERyQQ?oc=5\" target=\"_blank\">iPhones and home hardware: What to expect from Apple for the rest of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
-      "published": "2026-08-03T16:20:34+00:00",
-      "source": "AppleInsider"
-    },
-    {
-      "title": "Everything Apple Is Expected to Announce in September - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4WmZvNmxpOC1RYURYMG10aW1vaXhGTUExOFI3dDU3bUk4OW9SZmZCVzRkX2ttZ2JtLUhnbFNHUjFSR1EtaFNZd3M5RGx4ODMwU2pNdDliTEVRYjFtMHduTFcyR3VtYjl1dWtveWJyMGVDUWNnQnRCZW5xRlg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFA4WmZvNmxpOC1RYURYMG10aW1vaXhGTUExOFI3dDU3bUk4OW9SZmZCVzRkX2ttZ2JtLUhnbFNHUjFSR1EtaFNZd3M5RGx4ODMwU2pNdDliTEVRYjFtMHduTFcyR3VtYjl1dWtveWJyMGVDUWNnQnRCZW5xRlg?oc=5\" target=\"_blank\">Everything Apple Is Expected to Announce in September</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-08-04T22:10:01+00:00",
-      "source": "MacRumors"
+      "title": "Apple's new 'Upgrade' program lets you lease a Mac, iPhone, iPad, or Apple Watch like a car - mashable.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZW9rZkcwbW5QWjJyWkl1T0c0ZmdBSGRQbWRodEJGcTUxcVpFMTE2eFFkdENEYWtNYjFrVDZKOHNMdXc5aG1QZDNmcHpWT2lfQnBjQ2ZUWWltVFB1d0RMaTN2MHVDSm1XMV9OYlRKb3lDSEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZW9rZkcwbW5QWjJyWkl1T0c0ZmdBSGRQbWRodEJGcTUxcVpFMTE2eFFkdENEYWtNYjFrVDZKOHNMdXc5aG1QZDNmcHpWT2lfQnBjQ2ZUWWltVFB1d0RMaTN2MHVDSm1XMV9OYlRKb3lDSEk?oc=5\" target=\"_blank\">Apple's new 'Upgrade' program lets you lease a Mac, iPhone, iPad, or Apple Watch like a car</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mashable.com</font>",
+      "published": "2026-08-07T03:00:34+00:00",
+      "source": "mashable.com"
     }
   ],
   "stock": {
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-08-06",
-      "close": 314.010009765625
+      "close": 312.4100036621094
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-08-06",
-        "close": 314.010009765625
+        "close": 312.4100036621094
       }
     ],
     "name": "Apple Inc."

@@ -2,29 +2,8 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-08-06T13:40:42.362154+00:00",
+  "fetched_at": "2026-08-07T12:39:31.625108+00:00",
   "news": [
-    {
-      "title": "Microsoft opens its largest India data center hub as AI race heats up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5\" target=\"_blank\">Microsoft opens its largest India data center hub as AI race heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-06T12:34:10+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5\" target=\"_blank\">Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-08-05T18:31:08+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5\" target=\"_blank\">Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-05T18:06:51+00:00",
-      "source": "Bloomberg.com"
-    },
     {
       "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk - The Hacker News",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PdEFmNm5nNmh1anVad0ttaEQxeG1QOTZoUXJ4UjBWdUtnaWItSWVZclNJTXd5bEJnaWRhQ2Vxamd2WWhqbnNnRHIycjZBSnFXRW41MlIzR082TV9tTjNnQmc1ZTlzc092Wjl6Mi0xN19TY08zVmc?oc=5",
@@ -33,32 +12,53 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Microsoft’s Quantum Chief Doesn’t Care That Scientists Don’t Believe His Results - wired.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BQk5jMEFLeWRMc1hRY042em80Qlk5eXNSbmJvXzk1aUFZYmVxZ0xBdW95N0c2SGVVb2otUFNHUUV1bHE1SGpkbVpJcUN6Yk5GQklqNWxDZm8ydHJXX2VrRElKVmVuSFVhT19Gb2NmelRDWXBJRklyNw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9BQk5jMEFLeWRMc1hRY042em80Qlk5eXNSbmJvXzk1aUFZYmVxZ0xBdW95N0c2SGVVb2otUFNHUUV1bHE1SGpkbVpJcUN6Yk5GQklqNWxDZm8ydHJXX2VrRElKVmVuSFVhT19Gb2NmelRDWXBJRklyNw?oc=5\" target=\"_blank\">Microsoft’s Quantum Chief Doesn’t Care That Scientists Don’t Believe His Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wired.com</font>",
-      "published": "2026-08-06T11:00:00+00:00",
-      "source": "wired.com"
+      "title": "Microsoft moves to limit AI use by its employees - Computerworld",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWF0VXJqNWtBckxfcGpWaS1PVE1qZk16TWszM0MwZDJ0aWE1SkFhQUxtU3p0OGdZSTdiLTBweGVMMWhoamI3MUZNQnhXRzBpOXYyTnp2TE5RN0d0d2huZTdmWDNEcTFUbXVJU3R5bDI0WVlDejY3dW9kejB3bzhBX2pHbzRNS1dBTTZwa3NyamljdHlVWVBQVm9ZQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWF0VXJqNWtBckxfcGpWaS1PVE1qZk16TWszM0MwZDJ0aWE1SkFhQUxtU3p0OGdZSTdiLTBweGVMMWhoamI3MUZNQnhXRzBpOXYyTnp2TE5RN0d0d2huZTdmWDNEcTFUbXVJU3R5bDI0WVlDejY3dW9kejB3bzhBX2pHbzRNS1dBTTZwa3NyamljdHlVWVBQVm9ZQQ?oc=5\" target=\"_blank\">Microsoft moves to limit AI use by its employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computerworld</font>",
+      "published": "2026-08-05T18:50:15+00:00",
+      "source": "Computerworld"
     },
     {
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5\" target=\"_blank\">Microsoft Opens Fourth Data Center Region in India for Azure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-06T12:52:48+00:00",
-      "source": "Bloomberg.com"
+      "title": "Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’ - 404 Media",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVBT1pHTHhGcUkzQU42ZUFNM0pZMjBZWURUR0JyS1lTemJ6RkFfakZiUE5IRVJtRFFIaGo1T29pLWF3a21QdmNNbmRaSTRnLTRRSjYzUGtnYk5BQXNadHdHSzZFX0pGekUxcGloZlgxSVBrUGl6RUZ1WUJBeTlpWnhsVklNTGRmdTNxaUJFY2VqNlVwTVFjbTZCYU1Ndw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVBT1pHTHhGcUkzQU42ZUFNM0pZMjBZWURUR0JyS1lTemJ6RkFfakZiUE5IRVJtRFFIaGo1T29pLWF3a21QdmNNbmRaSTRnLTRRSjYzUGtnYk5BQXNadHdHSzZFX0pGekUxcGloZlgxSVBrUGl6RUZ1WUJBeTlpWnhsVklNTGRmdTNxaUJFY2VqNlVwTVFjbTZCYU1Ndw?oc=5\" target=\"_blank\">Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">404 Media</font>",
+      "published": "2026-08-04T16:18:21+00:00",
+      "source": "404 Media"
     },
     {
-      "title": "Why Microsoft’s boss is reading up on the 1873 financial crash - The Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUZneHNwRnB4R3pMdVFTRDdrcURvYnBVUUFjQ01SczN1UWJMREdUNDFiTHBHODZQVGZ4blFVaFNRY0hXeWlQdFg2OG5YWWZMbTRjZ3R0NndRc2N5ak1TX3h3SEZONW4zcnNhTERPOGNyb1puamR6VnlXaFJVLVVyajFZQmhMQW14enlLOXB0RUFGc1B2Q0xiR2NiSXhQaWFickRSXw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUZneHNwRnB4R3pMdVFTRDdrcURvYnBVUUFjQ01SczN1UWJMREdUNDFiTHBHODZQVGZ4blFVaFNRY0hXeWlQdFg2OG5YWWZMbTRjZ3R0NndRc2N5ak1TX3h3SEZONW4zcnNhTERPOGNyb1puamR6VnlXaFJVLVVyajFZQmhMQW14enlLOXB0RUFGc1B2Q0xiR2NiSXhQaWFickRSXw?oc=5\" target=\"_blank\">Why Microsoft’s boss is reading up on the 1873 financial crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font>",
-      "published": "2026-08-05T15:00:00+00:00",
-      "source": "The Times"
+      "title": "After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ3N3RVJ3aVBDNWo5RHpwcExRUy0wU1FLbFVkdWxIdTZvcUlBV3Q5NGt4NFc0OHBkRmFub2Fsd0o2YXBlWWpyMTIxa3RiOUZrOWNiOXpSTUgwazFFczFObXBEMXB3UWRpaVVfdnBNZk5wRi0yZUtTdFZmNFBuZHVabmFHemRoeHRBMFJqeHdpeVIxOHQ2bGVDSTNxQ1RyejNiZmRieHY3V25WREsxSHM3Z1MtQkM4Z3NKcE1wSkRPRUxXbmJCbUZCd1l5X1hpX2RlTG5PMUhOREVLUGEtU1BCaF9wVVZxZjNfeW5oUER5QkVrOVJycUJySFUtWG9La190MG9ydDFpLWVwRGFhWFItMk1ZQXlUOS1D0gGeAkFVX3lxTE1VSTFESVUzMHBrcUQtVGlmNlQ0TVdvVU5rUHF4OUktZmVCYVJZaVVDZ25PMEtnT3gtZ01LRnVfbTk1cURwbmR1WE1wWEVDMFhrZFBHN3MySXJLTXFQUjI0LVFVWDItWC1XamJ4N1p0ZU1iNmhOblFnVHVsT0RPRGh1Y3lUUDJFazJNNEVCYVlUMjkyS1lVSUdhY3g1WjJHQ2RzTDZwZXZlZDZyVnE1RS1TcU51ZzBrMVFOd25yQ2dWVzdWb2xxYS1SRDJ0NURHZFplcU9YM1ZZSlg0QjZuVWQ3aTBybDdBRnVPcnlET1dKeW82d2VUaHM1V2lGOWE5QlF1TmFNTUNmcUZzZThvZ0hyQzhYMS1OMEhPWnREaHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ3N3RVJ3aVBDNWo5RHpwcExRUy0wU1FLbFVkdWxIdTZvcUlBV3Q5NGt4NFc0OHBkRmFub2Fsd0o2YXBlWWpyMTIxa3RiOUZrOWNiOXpSTUgwazFFczFObXBEMXB3UWRpaVVfdnBNZk5wRi0yZUtTdFZmNFBuZHVabmFHemRoeHRBMFJqeHdpeVIxOHQ2bGVDSTNxQ1RyejNiZmRieHY3V25WREsxSHM3Z1MtQkM4Z3NKcE1wSkRPRUxXbmJCbUZCd1l5X1hpX2RlTG5PMUhOREVLUGEtU1BCaF9wVVZxZjNfeW5oUER5QkVrOVJycUJySFUtWG9La190MG9ydDFpLWVwRGFhWFItMk1ZQXlUOS1D0gGeAkFVX3lxTE1VSTFESVUzMHBrcUQtVGlmNlQ0TVdvVU5rUHF4OUktZmVCYVJZaVVDZ25PMEtnT3gtZ01LRnVfbTk1cURwbmR1WE1wWEVDMFhrZFBHN3MySXJLTXFQUjI0LVFVWDItWC1XamJ4N1p0ZU1iNmhOblFnVHVsT0RPRGh1Y3lUUDJFazJNNEVCYVlUMjkyS1lVSUdhY3g1WjJHQ2RzTDZwZXZlZDZyVnE1RS1TcU51ZzBrMVFOd25yQ2dWVzdWb2xxYS1SRDJ0NURHZFplcU9YM1ZZSlg0QjZuVWQ3aTBybDdBRnVPcnlET1dKeW82d2VUaHM1V2lGOWE5QlF1TmFNTUNmcUZzZThvZ0hyQzhYMS1OMEhPWnREaHc?oc=5\" target=\"_blank\">After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-08-06T03:36:00+00:00",
+      "source": "The Times of India"
     },
     {
-      "title": "Is Microsoft Still Undervalued After Its 25% Post-Earnings Rally? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelVOSzh0UmM4Qk9zZnFIakZGNlI3Tzdib0JWMEcwRURfTXFwMVVWcy1QcTBSOE9PR0dfZFk1S1E4ZVY2NGxEakY5bW80QWpkUWdERnN3T21YdHNRd3lYZTkycGdBa2swZndhOWNNd1RUbWFDLTJqa2NqWGhPcnc0UWVjM0lOb3VzckxxQmZB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNelVOSzh0UmM4Qk9zZnFIakZGNlI3Tzdib0JWMEcwRURfTXFwMVVWcy1QcTBSOE9PR0dfZFk1S1E4ZVY2NGxEakY5bW80QWpkUWdERnN3T21YdHNRd3lYZTkycGdBa2swZndhOWNNd1RUbWFDLTJqa2NqWGhPcnc0UWVjM0lOb3VzckxxQmZB?oc=5\" target=\"_blank\">Is Microsoft Still Undervalued After Its 25% Post-Earnings Rally?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-08-06T11:38:47+00:00",
-      "source": "The Motley Fool"
+      "title": "Microsoft works to unwind tax breaks for its metro Atlanta data centers - AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDViN1I0NmQ1MnZMaU1lQXpsaWJjTkZHRWU0djdOa25pTG5LV2Q1Ti1UT09neno3UlBUV2FDWVJZN1ltb08yRXF6OFNDN2JlaURYSFVNbG1UckhvaG1hdEozRzY4bURVdmd5Wk1jSDkybUIyUENPMXpaMXY4RkdlTm41aXBuZENYVFhHcFhfTUVHSlJ0OEFjb0IxLTRSTTcyajlaU29RdUJMTE9qYnBUQzFWWEU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDViN1I0NmQ1MnZMaU1lQXpsaWJjTkZHRWU0djdOa25pTG5LV2Q1Ti1UT09neno3UlBUV2FDWVJZN1ltb08yRXF6OFNDN2JlaURYSFVNbG1UckhvaG1hdEozRzY4bURVdmd5Wk1jSDkybUIyUENPMXpaMXY4RkdlTm41aXBuZENYVFhHcFhfTUVHSlJ0OEFjb0IxLTRSTTcyajlaU29RdUJMTE9qYnBUQzFWWEU?oc=5\" target=\"_blank\">Microsoft works to unwind tax breaks for its metro Atlanta data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
+      "published": "2026-08-06T17:38:03+00:00",
+      "source": "AJC.com"
+    },
+    {
+      "title": "Microsoft opens its largest India data center hub as AI race heats up - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5\" target=\"_blank\">Microsoft opens its largest India data center hub as AI race heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-06T12:43:19+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Microsoft opens fourth Azure data center region in India - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92MXdjSlRUTklVdC02TGJXX3ZmLVhGZmx1LVhaRk9lWUdrQXBFX0t6bjJEQzFwdjZhVzJxb2JYNlBPTFNOVHp6TzN2REQ4bkJ4ZW4xX1VRaDVwNEN5ZFlxdWpfMFdrb3l2WHVHbS15ZWhYZXM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE92MXdjSlRUTklVdC02TGJXX3ZmLVhGZmx1LVhaRk9lWUdrQXBFX0t6bjJEQzFwdjZhVzJxb2JYNlBPTFNOVHp6TzN2REQ4bkJ4ZW4xX1VRaDVwNEN5ZFlxdWpfMFdrb3l2WHVHbS15ZWhYZXM?oc=5\" target=\"_blank\">Microsoft opens fourth Azure data center region in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-08-07T11:15:00+00:00",
+      "source": "qz.com"
+    },
+    {
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBINzJKYTdUNGlQTkxJdmlaeGt6QkJKd2dOa3VxWFBsT2NHU0wzaW5IcVA4LUdoV3Rpd2EzRFZYd1dDU1RyX1ZtMWVDNmhCR3pWQUM0ZnZQZ1RnbUNlT1ZjelhnWDhmbGUxa0I1U25wUlRXbDNLX0Vud3NBckVYR0k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBINzJKYTdUNGlQTkxJdmlaeGt6QkJKd2dOa3VxWFBsT2NHU0wzaW5IcVA4LUdoV3Rpd2EzRFZYd1dDU1RyX1ZtMWVDNmhCR3pWQUM0ZnZQZ1RnbUNlT1ZjelhnWDhmbGUxa0I1U25wUlRXbDNLX0Vud3NBckVYR0k?oc=5\" target=\"_blank\">Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-08-07T10:38:00+00:00",
+      "source": "The Hacker News"
     }
   ],
   "product_launches": [
@@ -70,11 +70,11 @@
       "source": "Cloud Wars"
     },
     {
-      "title": "Copilot Cowork: A new way of getting work done - microsoft.com",
+      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">microsoft.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2026-03-09T07:00:00+00:00",
-      "source": "microsoft.com"
+      "source": "Microsoft"
     },
     {
       "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-08-06",
-      "close": 492.8699951171875
+      "close": 499.8599853515625
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-08-06",
-        "close": 492.8699951171875
+        "close": 499.8599853515625
       }
     ],
     "name": "Microsoft Corporation"
