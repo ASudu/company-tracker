@@ -2,114 +2,17 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-08-07T12:39:34.322414+00:00",
-  "news": [
-    {
-      "title": "Alphabet Returns to Bond Market Despite AI Spending Worries - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdXlvWVBIWGdJb2d4bGZmdDZEQWVuTHEzZjZ0bjhvRWMwckcxMDdDb0h3cXk5UWNBbDZfa1JIQTBrNGdwTG0zbW0tSlc3dHlJdE1mMFFTS0ZrTTdtaDVwSXh1UmFLXzRXRDlqUnowRUpJeUxrZ1NyUy1XaFQ4aGJqNDFZeVhYODNwdWlNWkc3Q3hoMVBVRzlBTHU3Q0l4SGpMOGNyeVZzdTlHemc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdXlvWVBIWGdJb2d4bGZmdDZEQWVuTHEzZjZ0bjhvRWMwckcxMDdDb0h3cXk5UWNBbDZfa1JIQTBrNGdwTG0zbW0tSlc3dHlJdE1mMFFTS0ZrTTdtaDVwSXh1UmFLXzRXRDlqUnowRUpJeUxrZ1NyUy1XaFQ4aGJqNDFZeVhYODNwdWlNWkc3Q3hoMVBVRzlBTHU3Q0l4SGpMOGNyeVZzdTlHemc?oc=5\" target=\"_blank\">Alphabet Returns to Bond Market Despite AI Spending Worries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-06T20:51:33+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Alphabet looks to raise up to $25 billion from latest bond sale, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUk1NnFMWVUwZEJJTmpvWExsa0hoNWhpbUJXMlpFWUpoY2xtNDk4VGFBTEZORlRQSWVCd3ZsYXBtSTh1ZlJDX2E0OWtFMk5nWW5WV0VNUkJ5REpad2VMMTNrZVBqbERDYWg2QUs2N1hFcHRKRkloQ090VG9lQ3lrLTYyb3otQ243ZzhrQ1pRckZqUmpTMTJoMjVGc1IzQUJpd3BZemd2RHVZRF9WcVg1c2lDdWdia1dU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUk1NnFMWVUwZEJJTmpvWExsa0hoNWhpbUJXMlpFWUpoY2xtNDk4VGFBTEZORlRQSWVCd3ZsYXBtSTh1ZlJDX2E0OWtFMk5nWW5WV0VNUkJ5REpad2VMMTNrZVBqbERDYWg2QUs2N1hFcHRKRkloQ090VG9lQ3lrLTYyb3otQ243ZzhrQ1pRckZqUmpTMTJoMjVGc1IzQUJpd3BZemd2RHVZRF9WcVg1c2lDdWdia1dU?oc=5\" target=\"_blank\">Alphabet looks to raise up to $25 billion from latest bond sale, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-06T20:30:58+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Alphabet's AI Push Takes Expensive New Turn - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVV1eU5JQVdtTDNUYzZoNDhPQVBnSjQxUkJLZ0VpakVLaVZVMjZaMTI1SUdVRTc2OGk2c2pvU1M1M0JsZi16QWxqNXRUOGUwdV9iWGdvV1lJbjE0MTY4cjAxSElDb0FlVXRwVDEyeWhTSHVtZFZiOFVRZi1vdXkxbWF6bXdHNUIzMGplaFJkSWVuSEtKd3c0WFk0cy1vZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUVV1eU5JQVdtTDNUYzZoNDhPQVBnSjQxUkJLZ0VpakVLaVZVMjZaMTI1SUdVRTc2OGk2c2pvU1M1M0JsZi16QWxqNXRUOGUwdV9iWGdvV1lJbjE0MTY4cjAxSElDb0FlVXRwVDEyeWhTSHVtZFZiOFVRZi1vdXkxbWF6bXdHNUIzMGplaFJkSWVuSEtKd3c0WFk0cy1vZw?oc=5\" target=\"_blank\">Alphabet's AI Push Takes Expensive New Turn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-06T19:33:20+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Four Top Google A.I. Researchers Form New Start-Up - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeElEZzJoY1Fvc1NXWHZkcmNmTGR3MmoxTUMzTld2MjZPdXZoSVk3VXBiODlkWlZUTWxxbVZHMk4wMGNjbXZHWGo1SU91WHJnMUowMDFuWDIwOXBhelAtR2NHTE9PMFdUZDZJemhReFdrQ3ZKR3p2eEoxYnZTaWRSWHRtX3VYMGc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeElEZzJoY1Fvc1NXWHZkcmNmTGR3MmoxTUMzTld2MjZPdXZoSVk3VXBiODlkWlZUTWxxbVZHMk4wMGNjbXZHWGo1SU91WHJnMUowMDFuWDIwOXBhelAtR2NHTE9PMFdUZDZJemhReFdrQ3ZKR3p2eEoxYnZTaWRSWHRtX3VYMGc?oc=5\" target=\"_blank\">Four Top Google A.I. Researchers Form New Start-Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFZzYnRpN2lLZnZHcDN4WlhQazZScHd1OHA3a1RiUVNlZzhoMDZnY1BHbVpfSkZRb0NkTklCVXB3UFZjU2ktUDZYRlhSY3Z2eW03YXg0cVdMbXQ5WmJ3WnZQellzVjJPd3JTa3Y5R2VGamZMbFJWcGJPY21XRHFab2JKMzlwdlNCUEFXel95NEhpNDN5SVhkbVJHLWhRWXp4eVRJ?oc=5\" target=\"_blank\">Google’s AI shake-up puts Demis Hassabis where the company needs him most, insiders say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5\" target=\"_blank\">The next chapter of our AI momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font></li></ol>",
-      "published": "2026-08-05T16:00:07+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "SpaceX, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today’s Market - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wdk96VGdyTlNWRHlQMldZakd0ekpoY1NRR0pNTV9ubmZNOU9BRXV5MDVRcUhjbmlGcjYzcTB0U1Vxdi1lWUxsZGlXNlVvWGtVYXNvc2VFWlhGQUgxRW1EREVyYWE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wdk96VGdyTlNWRHlQMldZakd0ekpoY1NRR0pNTV9ubmZNOU9BRXV5MDVRcUhjbmlGcjYzcTB0U1Vxdi1lWUxsZGlXNlVvWGtVYXNvc2VFWlhGQUgxRW1EREVyYWE?oc=5\" target=\"_blank\">SpaceX, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today’s Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-08-05T21:04:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Alphabet slumps on more AI brain drain. We're not too worried - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcS1SbFJieDhXZDJIVHdxZ2NUNlVnNml0TmwwLU5vRFhDUlNEZlRlMkxtOFdQNERJX3ZIM19WS3htVHM1QmdNZC04TFVjbGZGTFk5V3pnN2c0akpXYjdVaU9aOVdhRExYOGU1OElHdEZzVjIyZ0xvNlpmSDgzZlIzU00wYy1OT25mY2I2OXRTSFVQZXZXZVdzMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcS1SbFJieDhXZDJIVHdxZ2NUNlVnNml0TmwwLU5vRFhDUlNEZlRlMkxtOFdQNERJX3ZIM19WS3htVHM1QmdNZC04TFVjbGZGTFk5V3pnN2c0akpXYjdVaU9aOVdhRExYOGU1OElHdEZzVjIyZ0xvNlpmSDgzZlIzU00wYy1OT25mY2I2OXRTSFVQZXZXZVdzMA?oc=5\" target=\"_blank\">Alphabet slumps on more AI brain drain. We're not too worried</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-08-05T19:11:19+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk10cXkxN1BZdF8wd0FGekIwaE02ZzFtdEJnT25QNm50U1ZxbnJPMHg5MFpaM3BvSGREX0VjMm9QWUk1SmlRZVpUeUJUQjJ5VkRQV19Yb051MUlmUWFkcFpfOGtuVmQ3WEdKVnNIR3dwVGtuYTFUSWdKYW5sZkVvcmRaZEV4RWNURjlwR25GQ084QTV1VXNXa3hyOHdvVzZxMjZCS2p6NV9DLUQ0RkFERWR4bjJ6LVpZR2E4ZmtaUjU?oc=5\" target=\"_blank\">The Calm Surface of Alphabet Stock Hides a Turbulent Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
-      "published": "2026-08-05T20:32:43+00:00",
-      "source": "Trefis"
-    },
-    {
-      "title": "Microsoft’s (MSFT) Record Rally Puts Alphabet (GOOGL) Rivalry Back In Focus - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXRqenYwcng4Zll2Yy02U18zR3hic2UzMF9aQXk3Szd1QmFsLVFfLURmbGl0RkxvOE9QVnNpVHo0VW81am42MXktQ2JOaUhraFNmcnk1WW5VNUFqYXJZRWZjdG52QkRrZXlxZFJnRkg3TW96dGxXaWUzSmM3S1AwQWhibFdHZUl0dTRsczA5azJoRldDbk1OUTBqM3JHQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQXRqenYwcng4Zll2Yy02U18zR3hic2UzMF9aQXk3Szd1QmFsLVFfLURmbGl0RkxvOE9QVnNpVHo0VW81am42MXktQ2JOaUhraFNmcnk1WW5VNUFqYXJZRWZjdG52QkRrZXlxZFJnRkg3TW96dGxXaWUzSmM3S1AwQWhibFdHZUl0dTRsczA5azJoRldDbk1OUTBqM3JHQQ?oc=5\" target=\"_blank\">Microsoft’s (MSFT) Record Rally Puts Alphabet (GOOGL) Rivalry Back In Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-06T20:56:22+00:00",
-      "source": "Yahoo Finance"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Q4 earnings call: Remarks from our CEO - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5\" target=\"_blank\">Q4 earnings call: Remarks from our CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
-      "published": "2026-02-04T08:00:00+00:00",
-      "source": "blog.google"
-    },
-    {
-      "title": "Alphabet Stock (GOOGL) Opinions on AI Product Launches - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkRPOHF2OXdJMnJPcUtSUFlnbkhBLTJ1R0VWSUNpU1pHRzk2YkZEdGFBTUtmRzVCOU5XSmQ3Ty0yRkNGRWtvMjhOcnA3NmpxT2lRWEhVSXh3eUU4dDRPU09zdlBLTUZiRlFtZnpVZU53ZUJWUDg3VjJTX3ZwTXFsV1lBNGhWTXdMYU9vVFJjb2Y4T0pkeXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkRPOHF2OXdJMnJPcUtSUFlnbkhBLTJ1R0VWSUNpU1pHRzk2YkZEdGFBTUtmRzVCOU5XSmQ3Ty0yRkNGRWtvMjhOcnA3NmpxT2lRWEhVSXh3eUU4dDRPU09zdlBLTUZiRlFtZnpVZU53ZUJWUDg3VjJTX3ZwTXFsV1lBNGhWTXdMYU9vVFJjb2Y4T0pkeXc?oc=5\" target=\"_blank\">Alphabet Stock (GOOGL) Opinions on AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": "Quiver Quantitative"
-    },
-    {
-      "title": "Here’s Why Alphabet Stock Rose 4% Today - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVTBSTmliVXgxWUZYeHMyZDZra2hLU2V4ZnNoODd1ZnFNZUVXNGFUOG8zZVNlWEd6TExaZ2lxeERRVWF0WDBzQ1l0Qk5rdHJaT2gtd2ROSnpQa3I0YzAyMlA2YmtnZEttRElvVE95amI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVTBSTmliVXgxWUZYeHMyZDZra2hLU2V4ZnNoODd1ZnFNZUVXNGFUOG8zZVNlWEd6TExaZ2lxeERRVWF0WDBzQ1l0Qk5rdHJaT2gtd2ROSnpQa3I0YzAyMlA2YmtnZEttRElvVE95amI?oc=5\" target=\"_blank\">Here’s Why Alphabet Stock Rose 4% Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
-      "published": "2026-02-21T08:00:00+00:00",
-      "source": "TIKR.com"
-    },
-    {
-      "title": "Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com - Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5\" target=\"_blank\">Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "Investing.com Canada"
-    },
-    {
-      "title": "OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVFEyeEMzaDU0WUFwWEFSRnFpZExkYzFULUpvQ2I1a0dzTmRSNXFfZlExVm1wWDNPQWRkbkc1alpQM0ZxenR1anZUOVZlNVlTQlBPZGE5UEZVdDc1anN2YmprVzBvSnBKbnlFNjZzbkh1NlJf0gF6QVVfeXFMT3BsMkRDTzlZcEpYVXN3SU9aczlRX1FKdlJ0ZWJhN0RhcUx1TXJBdEtCRDV2RWhTM19ONDV0NXNieldtamJxeW9ZRm1MSjNBdHpqZ0YyaTE1bzN6a0ktM2dzRkRpazdzSDdIMHJOWFZPWmhiREoweXYyQmc?oc=5\" target=\"_blank\">OpenAI unveils ChatGPT Atlas browser, sending Alphabet shares lower</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2025-10-21T07:00:00+00:00",
-      "source": "CNBC"
-    }
-  ],
+  "fetched_at": "2026-08-08T12:26:45.673999+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "GOOGL",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-06",
-      "close": 357.75
+      "date": "2026-08-07",
+      "close": 354.29998779296875
     },
     "history": [
-      {
-        "date": "2026-07-29",
-        "close": 336.7099914550781
-      },
       {
         "date": "2026-07-30",
         "close": 333.6600036621094
@@ -133,6 +36,10 @@
       {
         "date": "2026-08-06",
         "close": 357.75
+      },
+      {
+        "date": "2026-08-07",
+        "close": 354.29998779296875
       }
     ],
     "name": "Alphabet Inc."

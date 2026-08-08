@@ -2,114 +2,17 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-08-07T12:39:39.472576+00:00",
-  "news": [
-    {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sdm9yT0lvUS1RemVJSlJkZGRtbjZHNndMcFRvLWR1TFB4clBtMlZ5TnBjYXl6aGw0UnZXN0thbzhNa0lpcHMzTW9zWHZjY3UxV0FJSWQwNUpTTnZVVVRqRm04c19IdTRLMjZkcUxsb2ttMExaM2NyT0pDTmM?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sdm9yT0lvUS1RemVJSlJkZGRtbjZHNndMcFRvLWR1TFB4clBtMlZ5TnBjYXl6aGw0UnZXN0thbzhNa0lpcHMzTW9zWHZjY3UxV0FJSWQwNUpTTnZVVVRqRm04c19IdTRLMjZkcUxsb2ttMExaM2NyT0pDTmM?oc=5\" target=\"_blank\">New Mexico court orders Meta to pay $567m over harms to children’s mental health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczhYbjNRU0xvTEpTaU9fS1BTUkpLREZMMWM0bVg0SnpkUExnVjMyWVg4VUtXT2tIeEt0VDBoWUpPV0t2SkE0X194Vk5CTEVJbjQwcUtnMTBINEZ4ZDcwLXk3ZkhSZXoyOXgxLVdyVWdhVTRaMGRQY0ZkdWZkREJHVURwTm1RQzdqQ2lRRFdxbnlZclpyRF9aSW5vV2ZvOWw4bGpuZUs3TEhnY2M?oc=5\" target=\"_blank\">New Mexico court orders Meta to pay additional $567M in child safety case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2NVMVdub093UklEeHcwN09LQVR1dTVlMkV4ZUR1YUlvN21MNVRWdnltME13UTk1U0xRb3oyRXdyWDA1ajF2cmc4SGRqc2ZvSUIwOEpra0U2UDNJbkVfQW1WQlBlVmNQMTZkVUZ2RWF4TGhuZGMxbG4xYTNOdjMxU1VSSXo4Zw?oc=5\" target=\"_blank\">Meta Ordered to Pay $567 Million Fine by New Mexico Judge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
-      "published": "2026-08-07T00:22:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3JnSTJWSVBmUUtJOXJXdXV4YldfRXB5QUg5YXZmNjJYWmVhUHFweDM0alZyODd0SmYwTWJ3dEczNGlqZFpIMHhVYVJFeDJYQmkwQTMxTnZlVTF4QkMyUFhzQzRTT0Q4MzB5UmNYN1czTERhQUZxS2RfbmFfUHhyV05oMkVkUdIBiwFBVV95cUxQMURaV0o2UHdkWjQxUHNQN2M0c0l5WnM4NFQzdW80d2dNWUtOZWpYSy1PV0lkTzJBRXRfbmFLRW9tbkNUV29yUFVCMkhINUVVd3g2NjhWcHVnTzd3d3hiVnA1c2NrUW9MT05CRmR6dFpMcWUwY2FDV184Vmp0VTRRN1paYmh0RUtyM01z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3JnSTJWSVBmUUtJOXJXdXV4YldfRXB5QUg5YXZmNjJYWmVhUHFweDM0alZyODd0SmYwTWJ3dEczNGlqZFpIMHhVYVJFeDJYQmkwQTMxTnZlVTF4QkMyUFhzQzRTT0Q4MzB5UmNYN1czTERhQUZxS2RfbmFfUHhyV05oMkVkUdIBiwFBVV95cUxQMURaV0o2UHdkWjQxUHNQN2M0c0l5WnM4NFQzdW80d2dNWUtOZWpYSy1PV0lkTzJBRXRfbmFLRW9tbkNUV29yUFVCMkhINUVVd3g2NjhWcHVnTzd3d3hiVnA1c2NrUW9MT05CRmR6dFpMcWUwY2FDV184Vmp0VTRRN1paYmh0RUtyM01z?oc=5\" target=\"_blank\">The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-08-07T03:50:00+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta Stock in Focus -- Judge Orders $567 Million Child Safety Payment - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzA2blVXRmpIbUtBbFpVRTN5emR2VkRkV3JqTWVZM0Vhc3dwQmxUTTBnNl92aWY4QVZqUWNuWVNUUGVpaDg1V1lNUmlmbUtQOTd1dEp2YThYVllDWUFGMzIzSHRrRWNWbGJCNldEbGpUQVZRbzFqdExGdGx6U1l4YTVvMjM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzA2blVXRmpIbUtBbFpVRTN5emR2VkRkV3JqTWVZM0Vhc3dwQmxUTTBnNl92aWY4QVZqUWNuWVNUUGVpaDg1V1lNUmlmbUtQOTd1dEp2YThYVllDWUFGMzIzSHRrRWNWbGJCNldEbGpUQVZRbzFqdExGdGx6U1l4YTVvMjM?oc=5\" target=\"_blank\">Meta Stock in Focus -- Judge Orders $567 Million Child Safety Payment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
-      "published": "2026-08-07T12:26:26+00:00",
-      "source": "Yahoo Finance UK"
-    },
-    {
-      "title": "‘Pervert glasses’: Backlash against Meta’s smart glasses grows - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2RXdDlFWGZ4dnZKY2pxQzBWSUVYZjJZRW81bGtnSGt0dFBnQVAwbjdkSXk5RDg1a2NHRWY4YzBjU3FCVUZ3YWpTMWNkTHJVM1kxTHVWLWJBNzZsNUsxRlZtaVhKalhfbmZEdFA0a2RHV1FEYUI5REd0M2VpcTNHeE5tZEJBZkljT2NhN2NoOXV5Qmp4YXY0VHByMk9oSmZqUjNaSEFjTHRoZi1x?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2RXdDlFWGZ4dnZKY2pxQzBWSUVYZjJZRW81bGtnSGt0dFBnQVAwbjdkSXk5RDg1a2NHRWY4YzBjU3FCVUZ3YWpTMWNkTHJVM1kxTHVWLWJBNzZsNUsxRlZtaVhKalhfbmZEdFA0a2RHV1FEYUI5REd0M2VpcTNHeE5tZEJBZkljT2NhN2NoOXV5Qmp4YXY0VHByMk9oSmZqUjNaSEFjTHRoZi1x?oc=5\" target=\"_blank\">‘Pervert glasses’: Backlash against Meta’s smart glasses grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "published": "2026-08-07T10:00:00+00:00",
-      "source": "Los Angeles Times"
-    },
-    {
-      "title": "Meta becomes latest firm to say its AI hacked another company - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQVQ3TDVDai1EZmNvU21ycTFpak42NUxZbll0VkxSQTVVNUVyeVdOOWZQdmd0R1VUSlFtZURIdU1YYWFGZmRGaVVhR21vZG9nTlhfMHRzYVA5Zw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQVQ3TDVDai1EZmNvU21ycTFpak42NUxZbll0VkxSQTVVNUVyeVdOOWZQdmd0R1VUSlFtZURIdU1YYWFGZmRGaVVhR21vZG9nTlhfMHRzYVA5Zw?oc=5\" target=\"_blank\">Meta becomes latest firm to say its AI hacked another company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5\" target=\"_blank\">Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5\" target=\"_blank\">Meta debuts first AI coding agent to take on Anthropic and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li></ol>",
-      "published": "2026-08-06T05:53:58+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "Meta backs out of Bellevue office space - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUJ4UHBFZTU3VHh5eTFXeGhzOEZ0ZVlEdWdPU3lKWXUzOGxCQzJ2MkJoamlRYXhUekk5cVVDZkpXeGx1RHROYUR1a0tXVzZSMENMLXozZDdSdVlPa01TT080RDA5MlFiV0VlWE5RVWdUcXRWd3pnVWVFdi1IUjVaM1FZZVc2ajJDYzFLOE1DVFFIajlIX2ZmdTkwSG5GdEsxR2RFc3J3dExHTVpKTUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUJ4UHBFZTU3VHh5eTFXeGhzOEZ0ZVlEdWdPU3lKWXUzOGxCQzJ2MkJoamlRYXhUekk5cVVDZkpXeGx1RHROYUR1a0tXVzZSMENMLXozZDdSdVlPa01TT080RDA5MlFiV0VlWE5RVWdUcXRWd3pnVWVFdi1IUjVaM1FZZVc2ajJDYzFLOE1DVFFIajlIX2ZmdTkwSG5GdEsxR2RFc3J3dExHTVpKTUE?oc=5\" target=\"_blank\">Meta backs out of Bellevue office space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
-      "published": "2026-08-06T13:00:00+00:00",
-      "source": "The Seattle Times"
-    },
-    {
-      "title": "Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEdjdmxpR2czUGZPcXN6UjFrVlduYkVzQ3ZRVm9xM1hTc2FkdjVUenpPUlVFN01UWDhzRmNQampndVloMG5ZcUtIcDYta2ZzWXlGNGJmRURqWW1RRU5uVEotX21CUVhRX1pQeWt4ZjhjdWU3c0NYYzB2M2pYYzFCZFFVOXZRLXNoZHlpVWM1ejd3RHd6VGg5QnlHcVF4cmpPMEcwTU1MZ3czblZSNS1HVEpnTnpRcFpHWTVOV3pB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEdjdmxpR2czUGZPcXN6UjFrVlduYkVzQ3ZRVm9xM1hTc2FkdjVUenpPUlVFN01UWDhzRmNQampndVloMG5ZcUtIcDYta2ZzWXlGNGJmRURqWW1RRU5uVEotX21CUVhRX1pQeWt4ZjhjdWU3c0NYYzB2M2pYYzFCZFFVOXZRLXNoZHlpVWM1ejd3RHd6VGg5QnlHcVF4cmpPMEcwTU1MZ3czblZSNS1HVEpnTnpRcFpHWTVOV3pB?oc=5\" target=\"_blank\">Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-08-06T09:00:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "[Dev Letter] A New Era of Gunplay: Meta Rotation - PUBG: BATTLEGROUNDS",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE55Y1JCUGk3Mm5yWmtFLXB4NnVZd2lXVGpxS2xVb21CQll3YjZ1YTVIS1JBREpKYkY0YzcwcXhaS0J2TWFO?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE55Y1JCUGk3Mm5yWmtFLXB4NnVZd2lXVGpxS2xVb21CQll3YjZ1YTVIS1JBREpKYkY0YzcwcXhaS0J2TWFO?oc=5\" target=\"_blank\">[Dev Letter] A New Era of Gunplay: Meta Rotation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PUBG: BATTLEGROUNDS</font>",
-      "published": "2026-08-07T08:54:37+00:00",
-      "source": "PUBG: BATTLEGROUNDS"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Battle Huge Bosses and Grab Great Loot in Co-op Adventure ‘Raider Legends,’ Launching Today on Meta Quest - Meta Store",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OTFZNNllucmgwWlRiLTE3eF9WbFJaczdENzBodU42OXl1Y0VIUTBIVkRoT3FmNUlmd1JkYi1mcWpSZUVhdlJOWjM4RHdwd1dKMWNQSGFCell5SUNO?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OTFZNNllucmgwWlRiLTE3eF9WbFJaczdENzBodU42OXl1Y0VIUTBIVkRoT3FmNUlmd1JkYi1mcWpSZUVhdlJOWjM4RHdwd1dKMWNQSGFCell5SUNO?oc=5\" target=\"_blank\">Battle Huge Bosses and Grab Great Loot in Co-op Adventure ‘Raider Legends,’ Launching Today on Meta Quest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
-      "published": "2026-08-06T17:49:15+00:00",
-      "source": "Meta Store"
-    },
-    {
-      "title": "‘Pervert glasses’: Meta struggles with mockery and misgivings toward its star product - EL PAÍS English",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTNNaWNNWGF6RVA3N2llMldFRDdDc3QzQ1E4Y1JGTjlFWU5Nc2tEMU05STh6dXpYSWpRYVRtdUlRVEFDNmpLRG5mTHI3dTlERzJaTUd0M2wzYVhBaTdBbXNGUXFCd1dsWHUzcFRMY2J4cDlsWG9feUlMeEtLbG9uRWZTb2tFN0tqbDJUd00tNHVWVUtsMXYxbUJLclo4Qno2ZnVDUFdGM3hoVjJsQTdLYVZXX0Q0bDQ5bzA3TjJWMkhJUjRRQVlDX19teU9lSm1meGfSAeYBQVVfeXFMTnZPckRKZXRrcUhnQXlYM3VrNGt1a19oSnlqbXBsaDBNM2ZVaU1uM0o0enRTdm9hWWY4ZGxONEt1N1FqOEVzWEJsMHF0VjhaTnFoT2tkUUVWeEFlTEpKdnNOSXgyZjF0M2NLUkxfOWxoNkJ1ajZWOWxsQTQzM0ZHZ2hPTjZpVlhxb1NaV2NVSGZEbHhHdl9BcW1SR3NDamQtN3piWDhNZ0xzNjRoNE1CVlN1Z3F2V2tsdjk2VWRYeHdrYl9HYlZlLVAwZTF2ZkFHODA0U0pvWWY4OXphS095MFRJVGNCYWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTNNaWNNWGF6RVA3N2llMldFRDdDc3QzQ1E4Y1JGTjlFWU5Nc2tEMU05STh6dXpYSWpRYVRtdUlRVEFDNmpLRG5mTHI3dTlERzJaTUd0M2wzYVhBaTdBbXNGUXFCd1dsWHUzcFRMY2J4cDlsWG9feUlMeEtLbG9uRWZTb2tFN0tqbDJUd00tNHVWVUtsMXYxbUJLclo4Qno2ZnVDUFdGM3hoVjJsQTdLYVZXX0Q0bDQ5bzA3TjJWMkhJUjRRQVlDX19teU9lSm1meGfSAeYBQVVfeXFMTnZPckRKZXRrcUhnQXlYM3VrNGt1a19oSnlqbXBsaDBNM2ZVaU1uM0o0enRTdm9hWWY4ZGxONEt1N1FqOEVzWEJsMHF0VjhaTnFoT2tkUUVWeEFlTEpKdnNOSXgyZjF0M2NLUkxfOWxoNkJ1ajZWOWxsQTQzM0ZHZ2hPTjZpVlhxb1NaV2NVSGZEbHhHdl9BcW1SR3NDamQtN3piWDhNZ0xzNjRoNE1CVlN1Z3F2V2tsdjk2VWRYeHdrYl9HYlZlLVAwZTF2ZkFHODA0U0pvWWY4OXphS095MFRJVGNCYWc?oc=5\" target=\"_blank\">‘Pervert glasses’: Meta struggles with mockery and misgivings toward its star product</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EL PAÍS English</font>",
-      "published": "2026-07-31T11:35:52+00:00",
-      "source": "EL PAÍS English"
-    },
-    {
-      "title": "Samsung and Google's New Smart Glasses Have a Secret Weapon That Meta Can't Easily Copy - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdjhmQlFka1pHa0o4VjhEV2g3VXJ1WVY3b29BWjgzRUpJRTNEa2d1RnFDajk5MFFjMU9RSVI5TGhKNVFhYVY1cTNmd0RacGVudUpRUjk4X3lGc0tGdHB4aW84TXloUlp6dE5KeU9vVV9ISDgwdHBRczRFWDFidURtV1FNcjFrOGhoMjdZejVCS0Zka3RBbTJNbzBWWDR4U3FZMnVxczhVVGQxYVg3QklONlhoN1YzM2NOdHlISnJzZ3hZNjF4Sm5B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdjhmQlFka1pHa0o4VjhEV2g3VXJ1WVY3b29BWjgzRUpJRTNEa2d1RnFDajk5MFFjMU9RSVI5TGhKNVFhYVY1cTNmd0RacGVudUpRUjk4X3lGc0tGdHB4aW84TXloUlp6dE5KeU9vVV9ISDgwdHBRczRFWDFidURtV1FNcjFrOGhoMjdZejVCS0Zka3RBbTJNbzBWWDR4U3FZMnVxczhVVGQxYVg3QklONlhoN1YzM2NOdHlISnJzZ3hZNjF4Sm5B?oc=5\" target=\"_blank\">Samsung and Google's New Smart Glasses Have a Secret Weapon That Meta Can't Easily Copy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc.com</font>",
-      "published": "2026-07-29T12:09:25+00:00",
-      "source": "inc.com"
-    },
-    {
-      "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses - Meta Store",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3h4ZHdPTDhKWGNjOVNya20xNVdFcU50Tnh5dnJGdkV4MFJyMDhzenkwU0xkVmZGNHgybTIzc2VDZEt0VU1RYVpqWV82cHRLZ0NqZTJmaUIwSnJUTUdydm1KdmJkQjhDNDFZallKSEFUQWVLbGxmOFZSYXdHQ1RDUFl0WFE0NnNJODgtb9IBkgFBVV95cUxQbkxNb3c0VWRVWjlEMFdtTV9xWThlQU50Sy05MldQYU5OX3RCdTFJYnlCYmRrMXJ3MmlsZ1J1emxLSGhhZFpkS1JKYWZPRXNVazYzcXY1OG1jWUtwUWl5eVV6b3VXM3p6RWFqZzViNUdCNzFuandPSjM3RWd2UktOQUhmeDJfNkc1bnJXR19zYlBKdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3h4ZHdPTDhKWGNjOVNya20xNVdFcU50Tnh5dnJGdkV4MFJyMDhzenkwU0xkVmZGNHgybTIzc2VDZEt0VU1RYVpqWV82cHRLZ0NqZTJmaUIwSnJUTUdydm1KdmJkQjhDNDFZallKSEFUQWVLbGxmOFZSYXdHQ1RDUFl0WFE0NnNJODgtb9IBkgFBVV95cUxQbkxNb3c0VWRVWjlEMFdtTV9xWThlQU50Sy05MldQYU5OX3RCdTFJYnlCYmRrMXJ3MmlsZ1J1emxLSGhhZFpkS1JKYWZPRXNVazYzcXY1OG1jWUtwUWl5eVV6b3VXM3p6RWFqZzViNUdCNzFuandPSjM3RWd2UktOQUhmeDJfNkc1bnJXR19zYlBKdw?oc=5\" target=\"_blank\">We’re Partnering With EssilorLuxottica to Launch Meta Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": "Meta Store"
-    },
-    {
-      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-07-09T07:00:00+00:00",
-      "source": "The New York Times"
-    }
-  ],
+  "fetched_at": "2026-08-08T12:27:22.393453+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-06",
-      "close": 589.9000244140625
+      "date": "2026-08-07",
+      "close": 592.0999755859375
     },
     "history": [
-      {
-        "date": "2026-07-29",
-        "close": 585.6099853515625
-      },
       {
         "date": "2026-07-30",
         "close": 539.030029296875
@@ -133,6 +36,10 @@
       {
         "date": "2026-08-06",
         "close": 589.9000244140625
+      },
+      {
+        "date": "2026-08-07",
+        "close": 592.0999755859375
       }
     ],
     "name": "Meta Platforms, Inc."

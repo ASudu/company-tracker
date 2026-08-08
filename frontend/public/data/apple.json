@@ -2,114 +2,17 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-08-07T12:39:28.881501+00:00",
-  "news": [
-    {
-      "title": "How Apple and India Built an Alternative iPhone Production Hub - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0Vmb3FVUUdEeWJDQlAycVRBYms2Y1ZzXzJkYzhXNW9zVzlIa1o3LVVFSVExYzJqNmZGQmJTRmNkb2ZBSzVTWjlCNFZzUXJ6SkdIZTlZN0tvN2ZUdmZMRHlkckV5LWNmaHpjdDVhOHVpdDFMaTNyb1ExZkIzbExRMUpCSXFmU1pZWUpNbVh2NkNHenc4Xy03SHlMUU5lNWRIYUJ6RVJnZkN0OXdpOUxuNUNrN0YxcktqdVBMamVVVk8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0Vmb3FVUUdEeWJDQlAycVRBYms2Y1ZzXzJkYzhXNW9zVzlIa1o3LVVFSVExYzJqNmZGQmJTRmNkb2ZBSzVTWjlCNFZzUXJ6SkdIZTlZN0tvN2ZUdmZMRHlkckV5LWNmaHpjdDVhOHVpdDFMaTNyb1ExZkIzbExRMUpCSXFmU1pZWUpNbVh2NkNHenc4Xy03SHlMUU5lNWRIYUJ6RVJnZkN0OXdpOUxuNUNrN0YxcktqdVBMamVVVk8?oc=5\" target=\"_blank\">How Apple and India Built an Alternative iPhone Production Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-05T21:00:16+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple sweetens trade-in values for iPhones, iPads, Macs, and even some Android phones - Digital Trends",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFQtRGU2aDNjQWdvTmIxLXJNRGJFamRTR0dfYjRka1VldXMxX3NxeEpWVEo2bFdaSG4tSHlmaFZJZ1lyTzZGOWRfeHlGeUtQN0lpYXREejFRY0Q3RWtWQXBMVWx2cVdoZnRiRS1PNWQ4NjVrM0tJa3F4NXVZbng5NTQydFhCekFmdG10QWRCUFN5U1NMVDRPRS1wZzYxREtvX2hRa01mZG45S09rVTlWclprbEFMVHFCcEJRTktuR3M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFQtRGU2aDNjQWdvTmIxLXJNRGJFamRTR0dfYjRka1VldXMxX3NxeEpWVEo2bFdaSG4tSHlmaFZJZ1lyTzZGOWRfeHlGeUtQN0lpYXREejFRY0Q3RWtWQXBMVWx2cVdoZnRiRS1PNWQ4NjVrM0tJa3F4NXVZbng5NTQydFhCekFmdG10QWRCUFN5U1NMVDRPRS1wZzYxREtvX2hRa01mZG45S09rVTlWclprbEFMVHFCcEJRTktuR3M?oc=5\" target=\"_blank\">Apple sweetens trade-in values for iPhones, iPads, Macs, and even some Android phones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Trends</font>",
-      "published": "2026-08-07T05:34:54+00:00",
-      "source": "Digital Trends"
-    },
-    {
-      "title": "Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlhNRTB5WkVlQUNpVVA0TGZpYmMtZXdUZjY4a3BxU0pONmNSUnlQWTRjTzBjOWFTSVlXVG5EWHhuUm8xbzl1eU5HcWtoMnJSS01XdWpxRGlZbzE0MjcwN092WTFQTHhWbDNfSXpXWlFTT0ZaUnk2SmVqTWdHeE1SUk5vQmlfZEhEa2kxWEtId0gzWUREWkFOXzhCV2NfMXFnRE9keTNBUHJHNmg4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlhNRTB5WkVlQUNpVVA0TGZpYmMtZXdUZjY4a3BxU0pONmNSUnlQWTRjTzBjOWFTSVlXVG5EWHhuUm8xbzl1eU5HcWtoMnJSS01XdWpxRGlZbzE0MjcwN092WTFQTHhWbDNfSXpXWlFTT0ZaUnk2SmVqTWdHeE1SUk5vQmlfZEhEa2kxWEtId0gzWUREWkFOXzhCV2NfMXFnRE9keTNBUHJHNmg4?oc=5\" target=\"_blank\">Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-08-06T13:35:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple increases trade-in offers and adds new Android devices - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01dmN5eF85NXpyWV9tVWxDMXZoRlg2TUNwMXpnUWpZTDJmTGlVT2NKR3RGS2h4WEpNWUVEeG02azF0LXJzdFIxYVlSeGdSNVJ1NC16ZVctMGNfRWcxbk9qQXhnYnlMU05nd2pmbnBHeHJ5OUNSYzcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01dmN5eF85NXpyWV9tVWxDMXZoRlg2TUNwMXpnUWpZTDJmTGlVT2NKR3RGS2h4WEpNWUVEeG02azF0LXJzdFIxYVlSeGdSNVJ1NC16ZVctMGNfRWcxbk9qQXhnYnlMU05nd2pmbnBHeHJ5OUNSYzcw?oc=5\" target=\"_blank\">Apple increases trade-in offers and adds new Android devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-08-06T15:47:15+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Why does Apple keep banning Telegram, but never X? - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDdtLVVmZVVzNEZHRGxfRTBkT042cjV6eGFyWkd2SzNkZHpmYnpHM2g2YVpOY3VMSUZHeS15SkRjMG1zNC0wWWVPWGVOTnBMbS1kbER3UmllcDJSYjBYWlZSNnVlUUh3dlFOaVRQT1BTandKWE84TFl0UEp1ZE1LdUw3R3Q?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDdtLVVmZVVzNEZHRGxfRTBkT042cjV6eGFyWkd2SzNkZHpmYnpHM2g2YVpOY3VMSUZHeS15SkRjMG1zNC0wWWVPWGVOTnBMbS1kbER3UmllcDJSYjBYWlZSNnVlUUh3dlFOaVRQT1BTandKWE84TFl0UEp1ZE1LdUw3R3Q?oc=5\" target=\"_blank\">Why does Apple keep banning Telegram, but never X?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-08-07T11:00:00+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Moves to Take Advantage of Indian Consumer Desire - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSnpZcE1TNW40LXMwd2VJMV9TY0Y0cTI3QlJjQnNQalB4aWJUcHROQ25fRURkYWc1bVMwenpJZmJITlotUzRYQXVNVUptaWFhWXU0elZCVjNDYy1KN1JVRHl3bmRILXNrUDRYLVlER0hBcV9hY01OeW9UaGVvMkRGZFZNYWhkaTVtbllzbVpfM1V3Mk4tMFBjU3E4SWNNUDRGbEZ1RXNsaUY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSnpZcE1TNW40LXMwd2VJMV9TY0Y0cTI3QlJjQnNQalB4aWJUcHROQ25fRURkYWc1bVMwenpJZmJITlotUzRYQXVNVUptaWFhWXU0elZCVjNDYy1KN1JVRHl3bmRILXNrUDRYLVlER0hBcV9hY01OeW9UaGVvMkRGZFZNYWhkaTVtbllzbVpfM1V3Mk4tMFBjU3E4SWNNUDRGbEZ1RXNsaUY?oc=5\" target=\"_blank\">Apple Moves to Take Advantage of Indian Consumer Desire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-07T12:33:34+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Southern California man mourns wife, 2 children killed in crash - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSzJid291MEpBYW9NVkIxdm5hZlUyeHJ0UUFPQWV6c1JIaEk5akdLTS1TNmdqdloyN2Qzb3diempCdUpGTGF6WVJyeTZWT1dfZ1BwX0NEZHgtekg0aDlleklyYUotbVdkNXlCQ1hDMjk1aXVhcjl3U01yWGRUYTBEc9IBhgFBVV95cUxObnBrdWJrRXQ4LXpBU05hSGxhbkoxMDI1dVpqUm1aU0wyTThaTFQxemtRRnpDZGRoVHZqaGxISjROcXFCUHRWSk9XOHdBT0xPaUhUNXdDU3ZjNF9ZSk1oUlhKSGxHd2U2RVhOYlRJNmFhb0tTVUZ2MTlaX3ZtUmJIOWFqSnd6Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSzJid291MEpBYW9NVkIxdm5hZlUyeHJ0UUFPQWV6c1JIaEk5akdLTS1TNmdqdloyN2Qzb3diempCdUpGTGF6WVJyeTZWT1dfZ1BwX0NEZHgtekg0aDlleklyYUotbVdkNXlCQ1hDMjk1aXVhcjl3U01yWGRUYTBEc9IBhgFBVV95cUxObnBrdWJrRXQ4LXpBU05hSGxhbkoxMDI1dVpqUm1aU0wyTThaTFQxemtRRnpDZGRoVHZqaGxISjROcXFCUHRWSk9XOHdBT0xPaUhUNXdDU3ZjNF9ZSk1oUlhKSGxHd2U2RVhOYlRJNmFhb0tTVUZ2MTlaX3ZtUmJIOWFqSnd6Zw?oc=5\" target=\"_blank\">Southern California man mourns wife, 2 children killed in crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
-      "published": "2026-08-06T01:44:41+00:00",
-      "source": "KTLA"
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhhSHBpbG5mclI5bjByY0JZME1SWEVfMkRXRVYtam9RTlJrX1RSZUZWODFIejVEZk9rdGRhbXFnMEo5UnRsY2FuRG8za3hVUUNzUlhYMjRabzlMemhCRXhva1RtOWZiUFJFaFlfNW04cmE3UlVMZndicWFlOEdDajRZUFY4SURiTkdvUG5yVjQ0X3NWd2RMcnVmUlVNN25yejlGQ2FmWm5pcEdpclE?oc=5\" target=\"_blank\">OpenAI says Apple’s own security practices undermine its trade secrets case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-08-06T15:10:32+00:00",
-      "source": "TechCrunch"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Apple will launch five new products next month, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5\" target=\"_blank\">Apple will launch five new products next month, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-08-03T15:46:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Everything Apple could still launch before the end of 2026 - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Everything Apple could still launch before the end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-08-05T10:28:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "Apple Gears Up for September iPhone Launch With Retail Employee Lottery - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT3ZOYl9ROVJqczZoQ1hOQk1QSXN3TFlWeDhncmJmLUFpa1VqQ3M3UTJUZ1JRUzhVY2traTI5dVhEcDdBdWJDSGh2S3dlaUtqcmdla3ZPOGhjWGhzREhhakhzMmxCcGdBV3I3LTlxSHVCand4Q2g3dkgwMGI3VEQ5T3oxSUJ1R080RnFPcVhoV3BENU5oeWRfQjVDRXdIajZ2bjM5cVFaMUo3LXUwOHVjZnE5SVlnZFdtTHlDTjBFTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOT3ZOYl9ROVJqczZoQ1hOQk1QSXN3TFlWeDhncmJmLUFpa1VqQ3M3UTJUZ1JRUzhVY2traTI5dVhEcDdBdWJDSGh2S3dlaUtqcmdla3ZPOGhjWGhzREhhakhzMmxCcGdBV3I3LTlxSHVCand4Q2g3dkgwMGI3VEQ5T3oxSUJ1R080RnFPcVhoV3BENU5oeWRfQjVDRXdIajZ2bjM5cVFaMUo3LXUwOHVjZnE5SVlnZFdtTHlDTjBFTQ?oc=5\" target=\"_blank\">Apple Gears Up for September iPhone Launch With Retail Employee Lottery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-04T16:56:01+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Apple Upgrade launches in the United States - Apple",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjRzdmZCOXJRTkVEWmotS2QzZGM3ejFWeGMzZkRfT3dkLTB3c0s2Rml6RE1nU3FRSmNxNDBaQlpRQ0FJYWxOUWd6MFIwVjEwT3l5aWJXLUdsQU1Sdk9PYnRRTjFLUnJoUkNlQzNXcTRaR0hyNnRQSkdkd2tRSkEtblJnVnZlZTRlUm1N?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjRzdmZCOXJRTkVEWmotS2QzZGM3ejFWeGMzZkRfT3dkLTB3c0s2Rml6RE1nU3FRSmNxNDBaQlpRQ0FJYWxOUWd6MFIwVjEwT3l5aWJXLUdsQU1Sdk9PYnRRTjFLUnJoUkNlQzNXcTRaR0hyNnRQSkdkd2tRSkEtblJnVnZlZTRlUm1N?oc=5\" target=\"_blank\">Apple Upgrade launches in the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
-      "published": "2026-07-28T07:00:00+00:00",
-      "source": "Apple"
-    },
-    {
-      "title": "Apple's new 'Upgrade' program lets you lease a Mac, iPhone, iPad, or Apple Watch like a car - mashable.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZW9rZkcwbW5QWjJyWkl1T0c0ZmdBSGRQbWRodEJGcTUxcVpFMTE2eFFkdENEYWtNYjFrVDZKOHNMdXc5aG1QZDNmcHpWT2lfQnBjQ2ZUWWltVFB1d0RMaTN2MHVDSm1XMV9OYlRKb3lDSEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZW9rZkcwbW5QWjJyWkl1T0c0ZmdBSGRQbWRodEJGcTUxcVpFMTE2eFFkdENEYWtNYjFrVDZKOHNMdXc5aG1QZDNmcHpWT2lfQnBjQ2ZUWWltVFB1d0RMaTN2MHVDSm1XMV9OYlRKb3lDSEk?oc=5\" target=\"_blank\">Apple's new 'Upgrade' program lets you lease a Mac, iPhone, iPad, or Apple Watch like a car</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mashable.com</font>",
-      "published": "2026-08-07T03:00:34+00:00",
-      "source": "mashable.com"
-    }
-  ],
+  "fetched_at": "2026-08-08T12:26:13.067882+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-06",
-      "close": 312.4100036621094
+      "date": "2026-08-07",
+      "close": 313.3299865722656
     },
     "history": [
-      {
-        "date": "2026-07-29",
-        "close": 338.19000244140625
-      },
       {
         "date": "2026-07-30",
         "close": 333.42999267578125
@@ -133,6 +36,10 @@
       {
         "date": "2026-08-06",
         "close": 312.4100036621094
+      },
+      {
+        "date": "2026-08-07",
+        "close": 313.3299865722656
       }
     ],
     "name": "Apple Inc."

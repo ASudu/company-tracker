@@ -1,113 +1,113 @@
 {
-  "generated_at": "2026-08-07T12:40:13.715050+00:00",
+  "generated_at": "2026-08-08T12:31:07.506542+00:00",
   "companies": [
     {
       "name": "Apple",
       "slug": "apple",
       "ticker": "AAPL",
-      "last_updated": "2026-08-07T12:39:28.881501+00:00"
+      "last_updated": "2026-08-08T12:26:13.067882+00:00"
     },
     {
       "name": "Microsoft",
       "slug": "microsoft",
       "ticker": "MSFT",
-      "last_updated": "2026-08-07T12:39:31.625108+00:00"
+      "last_updated": "2026-08-08T12:26:28.590851+00:00"
     },
     {
       "name": "Alphabet",
       "slug": "alphabet",
       "ticker": "GOOGL",
-      "last_updated": "2026-08-07T12:39:34.322414+00:00"
+      "last_updated": "2026-08-08T12:26:45.673999+00:00"
     },
     {
       "name": "Amazon",
       "slug": "amazon",
       "ticker": "AMZN",
-      "last_updated": "2026-08-07T12:39:36.925807+00:00"
+      "last_updated": "2026-08-08T12:27:03.620574+00:00"
     },
     {
       "name": "Meta",
       "slug": "meta",
       "ticker": "META",
-      "last_updated": "2026-08-07T12:39:39.472576+00:00"
+      "last_updated": "2026-08-08T12:27:22.393453+00:00"
     },
     {
       "name": "NVIDIA",
       "slug": "nvidia",
       "ticker": "NVDA",
-      "last_updated": "2026-08-07T12:39:41.961204+00:00"
+      "last_updated": "2026-08-08T12:27:43.165259+00:00"
     },
     {
       "name": "Johnson & Johnson",
       "slug": "johnson-and-johnson",
       "ticker": "JNJ",
-      "last_updated": "2026-08-07T12:39:44.952232+00:00"
+      "last_updated": "2026-08-08T12:28:02.992759+00:00"
     },
     {
       "name": "Vertex Pharmaceuticals",
       "slug": "vertex-pharmaceuticals",
       "ticker": "VRTX",
-      "last_updated": "2026-08-07T12:39:47.593459+00:00"
+      "last_updated": "2026-08-08T12:28:16.792839+00:00"
     },
     {
       "name": "Insilico Medicine",
       "slug": "insilico-medicine",
       "ticker": null,
-      "last_updated": "2026-08-07T12:39:49.530018+00:00"
+      "last_updated": "2026-08-08T12:28:32.899633+00:00"
     },
     {
       "name": "Amgen",
       "slug": "amgen",
       "ticker": "AMGN",
-      "last_updated": "2026-08-07T12:39:52.138931+00:00"
+      "last_updated": "2026-08-08T12:28:51.123733+00:00"
     },
     {
       "name": "Alcon",
       "slug": "alcon",
       "ticker": "ALC",
-      "last_updated": "2026-08-07T12:39:54.736578+00:00"
+      "last_updated": "2026-08-08T12:29:08.283953+00:00"
     },
     {
       "name": "TCS",
       "slug": "tcs",
       "ticker": "TCS.NS",
-      "last_updated": "2026-08-07T12:39:57.397125+00:00"
+      "last_updated": "2026-08-08T12:29:27.119373+00:00"
     },
     {
       "name": "SBI",
       "slug": "sbi",
       "ticker": "SBIN.NS",
-      "last_updated": "2026-08-07T12:40:00.172359+00:00"
+      "last_updated": "2026-08-08T12:29:45.211265+00:00"
     },
     {
       "name": "Infosys",
       "slug": "infosys",
       "ticker": "INFY",
-      "last_updated": "2026-08-07T12:40:02.868236+00:00"
+      "last_updated": "2026-08-08T12:29:58.775897+00:00"
     },
     {
       "name": "IDFC First Bank",
       "slug": "idfc-first-bank",
       "ticker": "IDFCFIRSTB.NS",
-      "last_updated": "2026-08-07T12:40:05.560871+00:00"
+      "last_updated": "2026-08-08T12:30:15.642344+00:00"
     },
     {
       "name": "Yes Bank",
       "slug": "yes-bank",
       "ticker": "YESBANK.NS",
-      "last_updated": "2026-08-07T12:40:08.153540+00:00"
+      "last_updated": "2026-08-08T12:30:31.612048+00:00"
     },
     {
       "name": "Torrent Pharamceuticals",
       "slug": "torrent-pharamceuticals",
       "ticker": "TORNTPHARM.NS",
-      "last_updated": "2026-08-07T12:40:10.825738+00:00"
+      "last_updated": "2026-08-08T12:30:49.781576+00:00"
     },
     {
       "name": "Mahindra & Mahindra",
       "slug": "mahindra-and-mahindra",
       "ticker": "M&M.NS",
-      "last_updated": "2026-08-07T12:40:13.714350+00:00"
+      "last_updated": "2026-08-08T12:31:07.506217+00:00"
     }
   ]
 }

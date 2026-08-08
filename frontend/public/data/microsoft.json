@@ -2,114 +2,17 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-08-07T12:39:31.625108+00:00",
-  "news": [
-    {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PdEFmNm5nNmh1anVad0ttaEQxeG1QOTZoUXJ4UjBWdUtnaWItSWVZclNJTXd5bEJnaWRhQ2Vxamd2WWhqbnNnRHIycjZBSnFXRW41MlIzR082TV9tTjNnQmc1ZTlzc092Wjl6Mi0xN19TY08zVmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1PdEFmNm5nNmh1anVad0ttaEQxeG1QOTZoUXJ4UjBWdUtnaWItSWVZclNJTXd5bEJnaWRhQ2Vxamd2WWhqbnNnRHIycjZBSnFXRW41MlIzR082TV9tTjNnQmc1ZTlzc092Wjl6Mi0xN19TY08zVmc?oc=5\" target=\"_blank\">Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-08-05T11:43:00+00:00",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Microsoft moves to limit AI use by its employees - Computerworld",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWF0VXJqNWtBckxfcGpWaS1PVE1qZk16TWszM0MwZDJ0aWE1SkFhQUxtU3p0OGdZSTdiLTBweGVMMWhoamI3MUZNQnhXRzBpOXYyTnp2TE5RN0d0d2huZTdmWDNEcTFUbXVJU3R5bDI0WVlDejY3dW9kejB3bzhBX2pHbzRNS1dBTTZwa3NyamljdHlVWVBQVm9ZQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWF0VXJqNWtBckxfcGpWaS1PVE1qZk16TWszM0MwZDJ0aWE1SkFhQUxtU3p0OGdZSTdiLTBweGVMMWhoamI3MUZNQnhXRzBpOXYyTnp2TE5RN0d0d2huZTdmWDNEcTFUbXVJU3R5bDI0WVlDejY3dW9kejB3bzhBX2pHbzRNS1dBTTZwa3NyamljdHlVWVBQVm9ZQQ?oc=5\" target=\"_blank\">Microsoft moves to limit AI use by its employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Computerworld</font>",
-      "published": "2026-08-05T18:50:15+00:00",
-      "source": "Computerworld"
-    },
-    {
-      "title": "Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’ - 404 Media",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVBT1pHTHhGcUkzQU42ZUFNM0pZMjBZWURUR0JyS1lTemJ6RkFfakZiUE5IRVJtRFFIaGo1T29pLWF3a21QdmNNbmRaSTRnLTRRSjYzUGtnYk5BQXNadHdHSzZFX0pGekUxcGloZlgxSVBrUGl6RUZ1WUJBeTlpWnhsVklNTGRmdTNxaUJFY2VqNlVwTVFjbTZCYU1Ndw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOUVBT1pHTHhGcUkzQU42ZUFNM0pZMjBZWURUR0JyS1lTemJ6RkFfakZiUE5IRVJtRFFIaGo1T29pLWF3a21QdmNNbmRaSTRnLTRRSjYzUGtnYk5BQXNadHdHSzZFX0pGekUxcGloZlgxSVBrUGl6RUZ1WUJBeTlpWnhsVklNTGRmdTNxaUJFY2VqNlVwTVFjbTZCYU1Ndw?oc=5\" target=\"_blank\">Microsoft Tells Engineers ‘Tokenmaxxing Is Not What We Are Optimizing For’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">404 Media</font>",
-      "published": "2026-08-04T16:18:21+00:00",
-      "source": "404 Media"
-    },
-    {
-      "title": "After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ3N3RVJ3aVBDNWo5RHpwcExRUy0wU1FLbFVkdWxIdTZvcUlBV3Q5NGt4NFc0OHBkRmFub2Fsd0o2YXBlWWpyMTIxa3RiOUZrOWNiOXpSTUgwazFFczFObXBEMXB3UWRpaVVfdnBNZk5wRi0yZUtTdFZmNFBuZHVabmFHemRoeHRBMFJqeHdpeVIxOHQ2bGVDSTNxQ1RyejNiZmRieHY3V25WREsxSHM3Z1MtQkM4Z3NKcE1wSkRPRUxXbmJCbUZCd1l5X1hpX2RlTG5PMUhOREVLUGEtU1BCaF9wVVZxZjNfeW5oUER5QkVrOVJycUJySFUtWG9La190MG9ydDFpLWVwRGFhWFItMk1ZQXlUOS1D0gGeAkFVX3lxTE1VSTFESVUzMHBrcUQtVGlmNlQ0TVdvVU5rUHF4OUktZmVCYVJZaVVDZ25PMEtnT3gtZ01LRnVfbTk1cURwbmR1WE1wWEVDMFhrZFBHN3MySXJLTXFQUjI0LVFVWDItWC1XamJ4N1p0ZU1iNmhOblFnVHVsT0RPRGh1Y3lUUDJFazJNNEVCYVlUMjkyS1lVSUdhY3g1WjJHQ2RzTDZwZXZlZDZyVnE1RS1TcU51ZzBrMVFOd25yQ2dWVzdWb2xxYS1SRDJ0NURHZFplcU9YM1ZZSlg0QjZuVWQ3aTBybDdBRnVPcnlET1dKeW82d2VUaHM1V2lGOWE5QlF1TmFNTUNmcUZzZThvZ0hyQzhYMS1OMEhPWnREaHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ3N3RVJ3aVBDNWo5RHpwcExRUy0wU1FLbFVkdWxIdTZvcUlBV3Q5NGt4NFc0OHBkRmFub2Fsd0o2YXBlWWpyMTIxa3RiOUZrOWNiOXpSTUgwazFFczFObXBEMXB3UWRpaVVfdnBNZk5wRi0yZUtTdFZmNFBuZHVabmFHemRoeHRBMFJqeHdpeVIxOHQ2bGVDSTNxQ1RyejNiZmRieHY3V25WREsxSHM3Z1MtQkM4Z3NKcE1wSkRPRUxXbmJCbUZCd1l5X1hpX2RlTG5PMUhOREVLUGEtU1BCaF9wVVZxZjNfeW5oUER5QkVrOVJycUJySFUtWG9La190MG9ydDFpLWVwRGFhWFItMk1ZQXlUOS1D0gGeAkFVX3lxTE1VSTFESVUzMHBrcUQtVGlmNlQ0TVdvVU5rUHF4OUktZmVCYVJZaVVDZ25PMEtnT3gtZ01LRnVfbTk1cURwbmR1WE1wWEVDMFhrZFBHN3MySXJLTXFQUjI0LVFVWDItWC1XamJ4N1p0ZU1iNmhOblFnVHVsT0RPRGh1Y3lUUDJFazJNNEVCYVlUMjkyS1lVSUdhY3g1WjJHQ2RzTDZwZXZlZDZyVnE1RS1TcU51ZzBrMVFOd25yQ2dWVzdWb2xxYS1SRDJ0NURHZFplcU9YM1ZZSlg0QjZuVWQ3aTBybDdBRnVPcnlET1dKeW82d2VUaHM1V2lGOWE5QlF1TmFNTUNmcUZzZThvZ0hyQzhYMS1OMEhPWnREaHc?oc=5\" target=\"_blank\">After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "published": "2026-08-06T03:36:00+00:00",
-      "source": "The Times of India"
-    },
-    {
-      "title": "Microsoft works to unwind tax breaks for its metro Atlanta data centers - AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDViN1I0NmQ1MnZMaU1lQXpsaWJjTkZHRWU0djdOa25pTG5LV2Q1Ti1UT09neno3UlBUV2FDWVJZN1ltb08yRXF6OFNDN2JlaURYSFVNbG1UckhvaG1hdEozRzY4bURVdmd5Wk1jSDkybUIyUENPMXpaMXY4RkdlTm41aXBuZENYVFhHcFhfTUVHSlJ0OEFjb0IxLTRSTTcyajlaU29RdUJMTE9qYnBUQzFWWEU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNDViN1I0NmQ1MnZMaU1lQXpsaWJjTkZHRWU0djdOa25pTG5LV2Q1Ti1UT09neno3UlBUV2FDWVJZN1ltb08yRXF6OFNDN2JlaURYSFVNbG1UckhvaG1hdEozRzY4bURVdmd5Wk1jSDkybUIyUENPMXpaMXY4RkdlTm41aXBuZENYVFhHcFhfTUVHSlJ0OEFjb0IxLTRSTTcyajlaU29RdUJMTE9qYnBUQzFWWEU?oc=5\" target=\"_blank\">Microsoft works to unwind tax breaks for its metro Atlanta data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AJC.com</font>",
-      "published": "2026-08-06T17:38:03+00:00",
-      "source": "AJC.com"
-    },
-    {
-      "title": "Microsoft opens its largest India data center hub as AI race heats up - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5\" target=\"_blank\">Microsoft opens its largest India data center hub as AI race heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-06T12:43:19+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Microsoft opens fourth Azure data center region in India - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92MXdjSlRUTklVdC02TGJXX3ZmLVhGZmx1LVhaRk9lWUdrQXBFX0t6bjJEQzFwdjZhVzJxb2JYNlBPTFNOVHp6TzN2REQ4bkJ4ZW4xX1VRaDVwNEN5ZFlxdWpfMFdrb3l2WHVHbS15ZWhYZXM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE92MXdjSlRUTklVdC02TGJXX3ZmLVhGZmx1LVhaRk9lWUdrQXBFX0t6bjJEQzFwdjZhVzJxb2JYNlBPTFNOVHp6TzN2REQ4bkJ4ZW4xX1VRaDVwNEN5ZFlxdWpfMFdrb3l2WHVHbS15ZWhYZXM?oc=5\" target=\"_blank\">Microsoft opens fourth Azure data center region in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
-      "published": "2026-08-07T11:15:00+00:00",
-      "source": "qz.com"
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBINzJKYTdUNGlQTkxJdmlaeGt6QkJKd2dOa3VxWFBsT2NHU0wzaW5IcVA4LUdoV3Rpd2EzRFZYd1dDU1RyX1ZtMWVDNmhCR3pWQUM0ZnZQZ1RnbUNlT1ZjelhnWDhmbGUxa0I1U25wUlRXbDNLX0Vud3NBckVYR0k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBINzJKYTdUNGlQTkxJdmlaeGt6QkJKd2dOa3VxWFBsT2NHU0wzaW5IcVA4LUdoV3Rpd2EzRFZYd1dDU1RyX1ZtMWVDNmhCR3pWQUM0ZnZQZ1RnbUNlT1ZjelhnWDhmbGUxa0I1U25wUlRXbDNLX0Vud3NBckVYR0k?oc=5\" target=\"_blank\">Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-08-07T10:38:00+00:00",
-      "source": "The Hacker News"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "The Most Important AI Innovation Isn’t a New Product. It’s Continuous Improvement. - Cloud Wars",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdjBmdVlydjFKSUVNVzlrc04wU0pjTmEtOWRpNkZZbzhmd1NJVUtQUUNVb205cEFoLXc3RDkzNm1kVllPdVdTWl9ldU5Ick5falphbElPNGFud2FPdUNnTWRUeDBNQWFpN2RyVlpwY2N4bDh2eUUwU1RtMlVaYWZxVUU5YVNianA2VEI0WU95M2oyNUN0cFlVUDg4R0VQX2Y4X09TN0k5NA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdjBmdVlydjFKSUVNVzlrc04wU0pjTmEtOWRpNkZZbzhmd1NJVUtQUUNVb205cEFoLXc3RDkzNm1kVllPdVdTWl9ldU5Ick5falphbElPNGFud2FPdUNnTWRUeDBNQWFpN2RyVlpwY2N4bDh2eUUwU1RtMlVaYWZxVUU5YVNianA2VEI0WU95M2oyNUN0cFlVUDg4R0VQX2Y4X09TN0k5NA?oc=5\" target=\"_blank\">The Most Important AI Innovation Isn’t a New Product. It’s Continuous Improvement.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cloud Wars</font>",
-      "published": "2026-08-04T14:00:00+00:00",
-      "source": "Cloud Wars"
-    },
-    {
-      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2026-03-09T07:00:00+00:00",
-      "source": "Microsoft"
-    },
-    {
-      "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
-      "published": "2026-05-19T07:00:00+00:00",
-      "source": "Windows Blog"
-    },
-    {
-      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZYWFpQOXB1YmdpWHo1bEswUlBWaGNUX0Z6dEtVR3dBeXBUVXJoNHk3bVJnYXZfZlNNbWFGY1JULUF3bHBUNk1ySHUta1BGYy12b3ZWdXR0aG1yQVRvRW1ZY1lfSGxMZFJfR0cxc2wySnNKWTc0dVptdjlrX3IxakdqMEVsMmxERHZoR0NVRWJ0d1BUbGlqd3k0TDdxSFFCanMwbVNaMWlnWTZPb2EtN1Jtd2tnYkpoejZrUXBn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZYWFpQOXB1YmdpWHo1bEswUlBWaGNUX0Z6dEtVR3dBeXBUVXJoNHk3bVJnYXZfZlNNbWFGY1JULUF3bHBUNk1ySHUta1BGYy12b3ZWdXR0aG1yQVRvRW1ZY1lfSGxMZFJfR0cxc2wySnNKWTc0dVptdjlrX3IxakdqMEVsMmxERHZoR0NVRWJ0d1BUbGlqd3k0TDdxSFFCanMwbVNaMWlnWTZPb2EtN1Jtd2tnYkpoejZrUXBn?oc=5\" target=\"_blank\">Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-      "published": "2026-07-23T07:00:00+00:00",
-      "source": "VentureBeat"
-    },
-    {
-      "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5\" target=\"_blank\">ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-07-21T07:00:00+00:00",
-      "source": "Yahoo Finance"
-    }
-  ],
+  "fetched_at": "2026-08-08T12:26:28.590851+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-06",
-      "close": 499.8599853515625
+      "date": "2026-08-07",
+      "close": 499.989990234375
     },
     "history": [
-      {
-        "date": "2026-07-29",
-        "close": 390.5400085449219
-      },
       {
         "date": "2026-07-30",
         "close": 451.1000061035156
@@ -133,6 +36,10 @@
       {
         "date": "2026-08-06",
         "close": 499.8599853515625
+      },
+      {
+        "date": "2026-08-07",
+        "close": 499.989990234375
       }
     ],
     "name": "Microsoft Corporation"

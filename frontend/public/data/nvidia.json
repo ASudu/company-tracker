@@ -2,114 +2,17 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-08-07T12:39:41.961204+00:00",
-  "news": [
-    {
-      "title": "Nvidia Weighs Radical Idea: Less Rubin Ultra Chip Memory - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXRHc1FVZ08tT05HWjd3Q0Vkd2R0bXVmZFJycUxHLU9Cb2dnX1lSSXFvRkZWdm52R2p2NzV5eTlFd2pETFJ3dncxcGZCcjVGdVBiX2FFNFR2NzlKY2ZFeGFIUEtDQ3JGcE1iaUVabVZkVTFpekhkNEtrTlY3OG5FemFfaXV6R2pCMWRVX1ZnZklwS3ZFM2MtM0d4RQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXRHc1FVZ08tT05HWjd3Q0Vkd2R0bXVmZFJycUxHLU9Cb2dnX1lSSXFvRkZWdm52R2p2NzV5eTlFd2pETFJ3dncxcGZCcjVGdVBiX2FFNFR2NzlKY2ZFeGFIUEtDQ3JGcE1iaUVabVZkVTFpekhkNEtrTlY3OG5FemFfaXV6R2pCMWRVX1ZnZklwS3ZFM2MtM0d4RQ?oc=5\" target=\"_blank\">Nvidia Weighs Radical Idea: Less Rubin Ultra Chip Memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-08-06T16:16:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Nvidia Stock Blows Gain, Ends 5-Day Winning Streak - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sRS1GeVRaVXhUMVQ0eWF0WURiOGZwVVo3alg1LWZVNDRlU3ZCc05CNFQ3VjNQZW1xLVJJNVBvTHZNUWdKSk5sNnpQNnVDeDA1cDVSU1NBckQ1RUhmbHdMNlZxcUI0bnFod2FLSWxVZ2xQTHlKYjUyWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1sRS1GeVRaVXhUMVQ0eWF0WURiOGZwVVo3alg1LWZVNDRlU3ZCc05CNFQ3VjNQZW1xLVJJNVBvTHZNUWdKSk5sNnpQNnVDeDA1cDVSU1NBckQ1RUhmbHdMNlZxcUI0bnFod2FLSWxVZ2xQTHlKYjUyWQ?oc=5\" target=\"_blank\">Nvidia Stock Blows Gain, Ends 5-Day Winning Streak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-08-06T20:39:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Nvidia Stock Gains but AMD Is Coming for More of the AI Chip Market - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LSFA3OUxFTjZXUDZia3Z3ZUxqcW5xbXJDVXRNb1pjdG9SMVdXUnlHdGhiMkQtanl4RC1zZHVCeDBzRVFkNnk0U3BnZzg2SElYSTNMR196bE1YTHU0bmVHTGNXY0Vqbm5CU2xyY2JBREtpdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5LSFA3OUxFTjZXUDZia3Z3ZUxqcW5xbXJDVXRNb1pjdG9SMVdXUnlHdGhiMkQtanl4RC1zZHVCeDBzRVFkNnk0U3BnZzg2SElYSTNMR196bE1YTHU0bmVHTGNXY0Vqbm5CU2xyY2JBREtpdw?oc=5\" target=\"_blank\">Nvidia Stock Gains but AMD Is Coming for More of the AI Chip Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-08-07T12:27:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "US Reviews China’s Offshore Nvidia Chip Access After AI Gains - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTdpdUdWQmtCamVUUDN2Y0NSMVRQVjBrNGQ5dG0xWVpOVG5xVGprbGFITVRkNzYtaHF0WmVWYUFkaHJubUNROHEwUDdEeGoxZzZ4STVrOHBieEM3SWFUSWpEMm56UUFUOExxTlJwdWg3YkQ0OGU5T1B0a2w2SXNwNEw3N2RMM21TRUoyZEx3REpsdmFqdzd3WXdxeW1zbEtqUVViYmtMa2hFNy13bzIyOTJhRzE2QWQ5SjdGTUY1T0VWQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTdpdUdWQmtCamVUUDN2Y0NSMVRQVjBrNGQ5dG0xWVpOVG5xVGprbGFITVRkNzYtaHF0WmVWYUFkaHJubUNROHEwUDdEeGoxZzZ4STVrOHBieEM3SWFUSWpEMm56UUFUOExxTlJwdWg3YkQ0OGU5T1B0a2w2SXNwNEw3N2RMM21TRUoyZEx3REpsdmFqdzd3WXdxeW1zbEtqUVViYmtMa2hFNy13bzIyOTJhRzE2QWQ5SjdGTUY1T0VWQQ?oc=5\" target=\"_blank\">US Reviews China’s Offshore Nvidia Chip Access After AI Gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-07T09:00:00+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Why Nvidia-Backed Nebius Group Stock Got Crushed on Thursday - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxiWDdQUS1EUURCRm5jMTZLNkM0dTk1SmJTbFhhWlQ3aDdjb256YTAyZmtpLUFFNEhQV3N5YXVGUjFqbTlUNzhKak9OcE5EMGxkOU5QN3hBMk15TjVqa1hfaUhHbEZJRWd1X09aV2RTeVBuNTViai00UmdZRnV4bXBLNFlMSkdOSnVMM1lTYWdkX29EbUNUN2dXUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUxiWDdQUS1EUURCRm5jMTZLNkM0dTk1SmJTbFhhWlQ3aDdjb256YTAyZmtpLUFFNEhQV3N5YXVGUjFqbTlUNzhKak9OcE5EMGxkOU5QN3hBMk15TjVqa1hfaUhHbEZJRWd1X09aV2RTeVBuNTViai00UmdZRnV4bXBLNFlMSkdOSnVMM1lTYWdkX29EbUNUN2dXUQ?oc=5\" target=\"_blank\">Why Nvidia-Backed Nebius Group Stock Got Crushed on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-06T19:06:55+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5\" target=\"_blank\">Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-05T10:05:58+00:00",
-      "source": "Morningstar"
-    },
-    {
-      "title": "Stocks Fall On Spiking Oil Prices, Tumbling AI Plays Sandisk, Western Digital; Nvidia Above Buy Trigger - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2ZwRXhCeVZxVnEwY2UyclFwUFJ4TDdwUFpoUlFRaGgyX1NpVWE2U1J1bzZXaDVqQUc3QmU4QjZTZUhPc1BMRnpsMFFBZmxGQUxZMUQ5Q2xIWXlVdGN4c1ZDMkNpTXhpcUJkRUZVdGl0U3h0SWIySXhNZUI3LWhDTUZNWk5YQ1c4alFsRmlUYklLNUFsRXhmTl95WnBnTW81UEVOb1ltcGJkR0Z4UUlz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2ZwRXhCeVZxVnEwY2UyclFwUFJ4TDdwUFpoUlFRaGgyX1NpVWE2U1J1bzZXaDVqQUc3QmU4QjZTZUhPc1BMRnpsMFFBZmxGQUxZMUQ5Q2xIWXlVdGN4c1ZDMkNpTXhpcUJkRUZVdGl0U3h0SWIySXhNZUI3LWhDTUZNWk5YQ1c4alFsRmlUYklLNUFsRXhmTl95WnBnTW81UEVOb1ltcGJkR0Z4UUlz?oc=5\" target=\"_blank\">Stocks Fall On Spiking Oil Prices, Tumbling AI Plays Sandisk, Western Digital; Nvidia Above Buy Trigger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-08-06T22:20:00+00:00",
-      "source": "Investor's Business Daily"
-    },
-    {
-      "title": "Ooredoo teams up with Nvidia and Nokia to launch 1 GW AI platform in Indonesia - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakwxbmcxQUtRSmFuVHpSYkt0Q0phQVBjN1Y2TGc3WWdQN3lBdF9KTGx3ZkpnbUhELVdOUzM0RUF2ZENFN1NhSll5bDFLbk1RS3U3U3R5MXNOZ3NpaS1mb3NQejRIeDlQaUlVODNDWmRVcUtTV0d5bTE0ZFZSVEF1V2V6MURJTk5SSnhfcnloNUQzNGN1eGtIdlNQQVVNaVFBQlpCQnNXVXhXOXRHUFZTaXBMaHBzbGp3U2dmeWd0MkJ6VXVUWk1jdDUweXZydTJpM0h0Wlh0bw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakwxbmcxQUtRSmFuVHpSYkt0Q0phQVBjN1Y2TGc3WWdQN3lBdF9KTGx3ZkpnbUhELVdOUzM0RUF2ZENFN1NhSll5bDFLbk1RS3U3U3R5MXNOZ3NpaS1mb3NQejRIeDlQaUlVODNDWmRVcUtTV0d5bTE0ZFZSVEF1V2V6MURJTk5SSnhfcnloNUQzNGN1eGtIdlNQQVVNaVFBQlpCQnNXVXhXOXRHUFZTaXBMaHBzbGp3U2dmeWd0MkJ6VXVUWk1jdDUweXZydTJpM0h0Wlh0bw?oc=5\" target=\"_blank\">Ooredoo teams up with Nvidia and Nokia to launch 1 GW AI platform in Indonesia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-08-06T12:00:00+00:00",
-      "source": "Fortune"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTNQTHNWZE1BbWY3Y1RVVno0Nnoyc1RvZFZQVTRLMEdTWDhQTnlTeDJoYU9pcFBBQTd0RGpGSDh6N25UcG5KeDFnUjNXNjd0bXJaZURDSHdsV2tjZ1I2UnBhWGkwU2NnTTd5VWNJOXpxeGEwSzFxSzF2UVFmd213R0RMa05od1pwM2J6TjZNZHl2RW1XanVOa0FPblp1eXNxSUlPelJpZ2FtZWZNUHUtNW92VHRDUnJy?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTNQTHNWZE1BbWY3Y1RVVno0Nnoyc1RvZFZQVTRLMEdTWDhQTnlTeDJoYU9pcFBBQTd0RGpGSDh6N25UcG5KeDFnUjNXNjd0bXJaZURDSHdsV2tjZ1I2UnBhWGkwU2NnTTd5VWNJOXpxeGEwSzFxSzF2UVFmd213R0RMa05od1pwM2J6TjZNZHl2RW1XanVOa0FPblp1eXNxSUlPelJpZ2FtZWZNUHUtNW92VHRDUnJy?oc=5\" target=\"_blank\">NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-07-23T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS094dUNnTkFJRlNPSnRhd3VHdFNycW9QOHZzaGVzQU1fNWdiQ3lvMmJ6akRaMUZGYmppTUc3dlVubVpFRWc1SXo5clRsSThQT1FWU2dUS0oxdllvYzJtSlNGQnBqWVhPX0R5VnljYzRnUkhicUpxdUlIZjVuS1F2LTJkckV2R1dtZEZHSVpsZGpnajA2RUdOdUxTOHBvYS1LWUhFVFNoLU02ckh6VjZUNExITFExUTU2TktUbGxIaHJKNHZCZkE2cXE0aFV0ajQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQS094dUNnTkFJRlNPSnRhd3VHdFNycW9QOHZzaGVzQU1fNWdiQ3lvMmJ6akRaMUZGYmppTUc3dlVubVpFRWc1SXo5clRsSThQT1FWU2dUS0oxdllvYzJtSlNGQnBqWVhPX0R5VnljYzRnUkhicUpxdUlIZjVuS1F2LTJkckV2R1dtZEZHSVpsZGpnajA2RUdOdUxTOHBvYS1LWUhFVFNoLU02ckh6VjZUNExITFExUTU2TktUbGxIaHJKNHZCZkE2cXE0aFV0ajQ?oc=5\" target=\"_blank\">Nvidia supplier Wistron launches $700 million Texas factory for AI system production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-21T07:00:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nvidia RTX Spark Debuts: 128GB Memory, 1 Petaflop AI [2026] - tech-insider.org",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPVXp3M294Q2laZ2xVdnk3R2oyZ3dkYTlIM3BielBYSW9NcHdRb3pPZVRVZzBaWXFBcXhEQzR4eVViS0ZXVG5BTUVKYlFJYUpGc1Ffa0xmdkswYkVnMVNlYWRHLWFDdFJfOFA0MQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBPVXp3M294Q2laZ2xVdnk3R2oyZ3dkYTlIM3BielBYSW9NcHdRb3pPZVRVZzBaWXFBcXhEQzR4eVViS0ZXVG5BTUVKYlFJYUpGc1Ffa0xmdkswYkVnMVNlYWRHLWFDdFJfOFA0MQ?oc=5\" target=\"_blank\">Nvidia RTX Spark Debuts: 128GB Memory, 1 Petaflop AI [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tech-insider.org</font>",
-      "published": "2026-07-28T07:00:00+00:00",
-      "source": "tech-insider.org"
-    },
-    {
-      "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure - NVIDIA Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaENFSnl4VjJyNGsxOGhtYm81OFhQeWk3NHZLVzBFZF9xcWxWV3FRekNwdWRBNXNtQko4bGYwQXJjZWpMX3dPZE5tR3lxbmtpQm4xdlRNVUsxbmV6eUdMRHFGdzRhU0hVT0pWMVRYTjcybTNfNkZzUURjTm8xTHFHU2Jwelo3cTRLWVNUXzVvOUhhTnpKYi02bjViXzFZcTl0WERtVklrcUdHUGhKN1FzMk53RjBIVUN0VjRWa1VYR3QzVVpxYklPZ0xwNGQxamljSFBCZGtJcGM0OTR4OWFrVEsyNGRZYmExdGJ1aHNULXdQSzN5NnI3UHVFc3I1OEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaENFSnl4VjJyNGsxOGhtYm81OFhQeWk3NHZLVzBFZF9xcWxWV3FRekNwdWRBNXNtQko4bGYwQXJjZWpMX3dPZE5tR3lxbmtpQm4xdlRNVUsxbmV6eUdMRHFGdzRhU0hVT0pWMVRYTjcybTNfNkZzUURjTm8xTHFHU2Jwelo3cTRLWVNUXzVvOUhhTnpKYi02bjViXzFZcTl0WERtVklrcUdHUGhKN1FzMk53RjBIVUN0VjRWa1VYR3QzVVpxYklPZ0xwNGQxamljSFBCZGtJcGM0OTR4OWFrVEsyNGRZYmExdGJ1aHNULXdQSzN5NnI3UHVFc3I1OEk?oc=5\" target=\"_blank\">Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Investor Relations</font>",
-      "published": "2026-07-16T07:00:00+00:00",
-      "source": "NVIDIA Investor Relations"
-    },
-    {
-      "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-01-09T08:00:00+00:00",
-      "source": "Business Insider"
-    }
-  ],
+  "fetched_at": "2026-08-08T12:27:43.165259+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-06",
-      "close": 218.99000549316406
+      "date": "2026-08-07",
+      "close": 223.9600067138672
     },
     "history": [
-      {
-        "date": "2026-07-29",
-        "close": 190.00999450683594
-      },
       {
         "date": "2026-07-30",
         "close": 195.0399932861328
@@ -133,6 +36,10 @@
       {
         "date": "2026-08-06",
         "close": 218.99000549316406
+      },
+      {
+        "date": "2026-08-07",
+        "close": 223.9600067138672
       }
     ],
     "name": "NVIDIA Corporation"
