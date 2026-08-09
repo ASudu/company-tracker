@@ -2,9 +2,102 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-08-08T12:26:28.590851+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-08-09T12:28:39.700844+00:00",
+  "news": [
+    {
+      "title": "Moving the Microsoft Edge extensions ecosystem forward with Manifest Version 3 - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjh1RVBWTGRjWXhoRDN0U0JSNzUyLXl0YzFtR0hVZDIxRWk3U2tzMXVJV20wY2VyOXdjejhlbzdTMWRxZGxZNlhzQXlKRGpibXVFak9FSHpxQ05RYkRzX08tTXhrbFJhZ0dvSDVXaE4tSlp1RDFTU09PRU5ma2VjSGtCSFg4eHlOQUxySFFCeFlFN016SGdtamhoQnNzNE1sVEFxZHFRQzBNVW12Zl82QWNtTHlJLU51QW1sM01tb0I4V3p1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjh1RVBWTGRjWXhoRDN0U0JSNzUyLXl0YzFtR0hVZDIxRWk3U2tzMXVJV20wY2VyOXdjejhlbzdTMWRxZGxZNlhzQXlKRGpibXVFak9FSHpxQ05RYkRzX08tTXhrbFJhZ0dvSDVXaE4tSlp1RDFTU09PRU5ma2VjSGtCSFg4eHlOQUxySFFCeFlFN016SGdtamhoQnNzNE1sVEFxZHFRQzBNVW12Zl82QWNtTHlJLU51QW1sM01tb0I4V3p1?oc=5\" target=\"_blank\">Moving the Microsoft Edge extensions ecosystem forward with Manifest Version 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
+      "published": "2026-08-07T18:37:40+00:00",
+      "source": "Windows Blog"
+    },
+    {
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBINzJKYTdUNGlQTkxJdmlaeGt6QkJKd2dOa3VxWFBsT2NHU0wzaW5IcVA4LUdoV3Rpd2EzRFZYd1dDU1RyX1ZtMWVDNmhCR3pWQUM0ZnZQZ1RnbUNlT1ZjelhnWDhmbGUxa0I1U25wUlRXbDNLX0Vud3NBckVYR0k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBINzJKYTdUNGlQTkxJdmlaeGt6QkJKd2dOa3VxWFBsT2NHU0wzaW5IcVA4LUdoV3Rpd2EzRFZYd1dDU1RyX1ZtMWVDNmhCR3pWQUM0ZnZQZ1RnbUNlT1ZjelhnWDhmbGUxa0I1U25wUlRXbDNLX0Vud3NBckVYR0k?oc=5\" target=\"_blank\">Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-08-07T10:38:00+00:00",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Is Microsoft’s AI endgame about to cause a stock market crash? - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlA3ODUxbkVJRGY2UGUwalBhNTUzaXIteHF5Und2MTI0WkN2OXIyR3BqT0ZXM3M1dU94alJtekYzVXhzMFZWbUpPLU1MaXZUcE5JQ1l6b0x2VVY4MThUWjN3S0gyTHQ2c3VZbDZxNnhWd3ZVd2lPazFOaEFmdi0tRDVIS3JUN2Ey?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlA3ODUxbkVJRGY2UGUwalBhNTUzaXIteHF5Und2MTI0WkN2OXIyR3BqT0ZXM3M1dU94alJtekYzVXhzMFZWbUpPLU1MaXZUcE5JQ1l6b0x2VVY4MThUWjN3S0gyTHQ2c3VZbDZxNnhWd3ZVd2lPazFOaEFmdi0tRDVIS3JUN2Ey?oc=5\" target=\"_blank\">Is Microsoft’s AI endgame about to cause a stock market crash?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "published": "2026-08-09T07:16:00+00:00",
+      "source": "Yahoo Finance UK"
+    },
+    {
+      "title": "'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs - IGN",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHR6RGpySE1FN0JRRU5LcEg2VkJPX0VPSnQ5MFNDc2lSNDNpQW0yZkxjS28xdzk5dGpwUHkwXzhRYk93MUE3WF83Qnc2aEp3bWhHd3VyblNBTDQxQ2JGLXZYSnp0bDAzUVZZV1RKTzZyZUk0dUczelNDQTJ0eHIyc2lPVEw5Y1lKWWRvQXNQZXNNUU5wajV4YTZnSHY0SFljaWxXSTJnenp6bkNOUjUzaU1EY1dFcjdudGpsdHJpTVgzMlU2N0RQOXlVMkgxd2duRXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHR6RGpySE1FN0JRRU5LcEg2VkJPX0VPSnQ5MFNDc2lSNDNpQW0yZkxjS28xdzk5dGpwUHkwXzhRYk93MUE3WF83Qnc2aEp3bWhHd3VyblNBTDQxQ2JGLXZYSnp0bDAzUVZZV1RKTzZyZUk0dUczelNDQTJ0eHIyc2lPVEw5Y1lKWWRvQXNQZXNNUU5wajV4YTZnSHY0SFljaWxXSTJnenp6bkNOUjUzaU1EY1dFcjdudGpsdHJpTVgzMlU2N0RQOXlVMkgxd2duRXc?oc=5\" target=\"_blank\">'They Fundamentally Don't Understand Art' — Doom Dev Blasts Xbox After Microsoft 'Gutted' id Software With Layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
+      "published": "2026-08-08T21:25:49+00:00",
+      "source": "IGN"
+    },
+    {
+      "title": "August 6th, 2026 MSFS Weekly Briefing - Microsoft Flight Simulator",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Bd3RncU9FWXdIZnZWMFBMNUFUTzZvY3hqeEZwVTMtX3ZEYTFOamlnWk9WdkU0cnAxd2VJM2RPcWFZalhvTzZMWk5RRWhzSUV4T19haXE1Q1MwSW1lclF3SDFvNm8yaFNiYWVxVFRxTjMyaWJ1bDI0UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Bd3RncU9FWXdIZnZWMFBMNUFUTzZvY3hqeEZwVTMtX3ZEYTFOamlnWk9WdkU0cnAxd2VJM2RPcWFZalhvTzZMWk5RRWhzSUV4T19haXE1Q1MwSW1lclF3SDFvNm8yaFNiYWVxVFRxTjMyaWJ1bDI0UQ?oc=5\" target=\"_blank\">August 6th, 2026 MSFS Weekly Briefing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft Flight Simulator</font>",
+      "published": "2026-08-06T22:20:25+00:00",
+      "source": "Microsoft Flight Simulator"
+    },
+    {
+      "title": "Microsoft Corporation: A Buy And Hold Forever Type Of Stock (NASDAQ:MSFT) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzJWclFTOVdNWEtJOVl3UFprZ3JRT29zdDdNVl9oa0U1T3J2eHhWZXVGOC1iSjI5SV9MendQUFltWmZMbnZSMFFGSG03U1BmM3hIdGpJckNjWlZnWkxubDJobVFqQUh4a1k0RE5pYVlOS0M5R2hoY2FCN2p0dHVQZjNnaU1kX29mdmgwcGxab2N4U0gxMG5MNjl6NkRLOFhx?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzJWclFTOVdNWEtJOVl3UFprZ3JRT29zdDdNVl9oa0U1T3J2eHhWZXVGOC1iSjI5SV9MendQUFltWmZMbnZSMFFGSG03U1BmM3hIdGpJckNjWlZnWkxubDJobVFqQUh4a1k0RE5pYVlOS0M5R2hoY2FCN2p0dHVQZjNnaU1kX29mdmgwcGxab2N4U0gxMG5MNjl6NkRLOFhx?oc=5\" target=\"_blank\">Microsoft Corporation: A Buy And Hold Forever Type Of Stock (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-08-08T10:05:42+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHhlRElKM2FhZXEzN2xCb3lpeXpGZG5qYnZ2Y2VnNmFXSTZUZWtBUm1JZ2pNNDMycER6QW56QWZxX2dNZHpkSTJaMndMV2t4SmVuTnFaejNHU2FESzBXM3hkSzJiSkktRXFVQmt2amJ0NjR6S1NrT09GaWdqV3M4eFhJX1RFLWdHbUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHhlRElKM2FhZXEzN2xCb3lpeXpGZG5qYnZ2Y2VnNmFXSTZUZWtBUm1JZ2pNNDMycER6QW56QWZxX2dNZHpkSTJaMndMV2t4SmVuTnFaejNHU2FESzBXM3hkSzJiSkktRXFVQmt2amJ0NjR6S1NrT09GaWdqV3M4eFhJX1RFLWdHbUE?oc=5\" target=\"_blank\">Microsoft Edge is about to lock out older ad blockers, just like Chrome did</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-08-07T17:43:34+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft accidentally rolled out a OneDrive app to everyone's PCs, and there's no simple way to fix it - XDA",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFV3T0xtTHc1dWRna0h4SjlsQmY1c1owNDNkbFlHN0VKRGh5NVRwbVZwYXpwSGZuZ2Q2YUVHclhyVEMySUtUV0RKLXQzYkpKbjVuRVlZWTAtZ0JLVmFZQl9WMUU2dkJvbmRTZ0NvRHl6cDdmb0Y4eS1iWWdqblB1Nlh2NTNxQVBDUmZmYlVIaThvckZKaWVWTm9HUnF3ejNPb0p0MWg3SHI1T0FUcTRVd1NqaXBSUlhJSWtRaTQyM1A1cVhTX1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFV3T0xtTHc1dWRna0h4SjlsQmY1c1owNDNkbFlHN0VKRGh5NVRwbVZwYXpwSGZuZ2Q2YUVHclhyVEMySUtUV0RKLXQzYkpKbjVuRVlZWTAtZ0JLVmFZQl9WMUU2dkJvbmRTZ0NvRHl6cDdmb0Y4eS1iWWdqblB1Nlh2NTNxQVBDUmZmYlVIaThvckZKaWVWTm9HUnF3ejNPb0p0MWg3SHI1T0FUcTRVd1NqaXBSUlhJSWtRaTQyM1A1cVhTX1E?oc=5\" target=\"_blank\">Microsoft accidentally rolled out a OneDrive app to everyone's PCs, and there's no simple way to fix it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XDA</font>",
+      "published": "2026-08-09T04:12:48+00:00",
+      "source": "XDA"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": "Microsoft"
+    },
+    {
+      "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
+      "published": "2026-05-19T07:00:00+00:00",
+      "source": "Windows Blog"
+    },
+    {
+      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, & Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
+      "published": "2026-08-04T20:36:00+00:00",
+      "source": "Encyclopedia Britannica"
+    },
+    {
+      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZYWFpQOXB1YmdpWHo1bEswUlBWaGNUX0Z6dEtVR3dBeXBUVXJoNHk3bVJnYXZfZlNNbWFGY1JULUF3bHBUNk1ySHUta1BGYy12b3ZWdXR0aG1yQVRvRW1ZY1lfSGxMZFJfR0cxc2wySnNKWTc0dVptdjlrX3IxakdqMEVsMmxERHZoR0NVRWJ0d1BUbGlqd3k0TDdxSFFCanMwbVNaMWlnWTZPb2EtN1Jtd2tnYkpoejZrUXBn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTZYWFpQOXB1YmdpWHo1bEswUlBWaGNUX0Z6dEtVR3dBeXBUVXJoNHk3bVJnYXZfZlNNbWFGY1JULUF3bHBUNk1ySHUta1BGYy12b3ZWdXR0aG1yQVRvRW1ZY1lfSGxMZFJfR0cxc2wySnNKWTc0dVptdjlrX3IxakdqMEVsMmxERHZoR0NVRWJ0d1BUbGlqd3k0TDdxSFFCanMwbVNaMWlnWTZPb2EtN1Jtd2tnYkpoejZrUXBn?oc=5\" target=\"_blank\">Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "published": "2026-07-23T07:00:00+00:00",
+      "source": "VentureBeat"
+    },
+    {
+      "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5\" target=\"_blank\">ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-07-21T07:00:00+00:00",
+      "source": "Yahoo Finance"
+    }
+  ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",

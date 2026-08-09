@@ -2,9 +2,102 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-08-08T12:26:13.067882+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-08-09T12:28:36.974269+00:00",
+  "news": [
+    {
+      "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlR2QW5JZE9sLXYta285NU5Oa3kwdHhXQUk0WE5nT3lPbGxhSEJXQzlOUndnYnp3VzE3UmZJNzUya2NFS3pGUU1LWEFFbEZIaTVzajRrX09CYnBqRnBTSU1aXzgwSXlDTEVKMXNOc1BpcVA0M3BBSUVaQU1UWGc3NlZTempuTlZ0WDluUjdCZ0xtSm1D?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlR2QW5JZE9sLXYta285NU5Oa3kwdHhXQUk0WE5nT3lPbGxhSEJXQzlOUndnYnp3VzE3UmZJNzUya2NFS3pGUU1LWEFFbEZIaTVzajRrX09CYnBqRnBTSU1aXzgwSXlDTEVKMXNOc1BpcVA0M3BBSUVaQU1UWGc3NlZTempuTlZ0WDluUjdCZ0xtSm1D?oc=5\" target=\"_blank\">Apple Tests Chinese Memory Chips as Supply Squeeze Bites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-08-09T10:54:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5\" target=\"_blank\">Apple says Mac users in China can connect to Alibaba's Qwen AI service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-08T12:35:45+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Apple lets Mac link to Alibaba's AI model in China (AAPL:NASDAQ) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcU1ROGhwRENjVzFQVTRwQUpjWDJPUFhfOTMtT1hWVkZKSnZuenJQU3ZlSW4yYzZoUGFTWXNIa1pEN0lHUzZXdjJpY0xqcllyUGs4S3ppakhiTGxKLThITF8wVHYwZkQ2cGQxUXdCYzB5ZlpDYWNiTUNhLW1Kckkyb1hUSnpGNjRv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcU1ROGhwRENjVzFQVTRwQUpjWDJPUFhfOTMtT1hWVkZKSnZuenJQU3ZlSW4yYzZoUGFTWXNIa1pEN0lHUzZXdjJpY0xqcllyUGs4S3ppakhiTGxKLThITF8wVHYwZkQ2cGQxUXdCYzB5ZlpDYWNiTUNhLW1Kckkyb1hUSnpGNjRv?oc=5\" target=\"_blank\">Apple lets Mac link to Alibaba's AI model in China (AAPL:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-08-08T18:46:22+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Apple deletes guide on Chinese mainland Mac users accessing Alibaba’s Qwen AI - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnWkZncWhEdW5nWWlIMk8yaF9GcnhLN2l6c1JEbC1CRFpsa051TlBsVkJBYkFudjVnd1NVOTNRVExlbzRsVk15ckZhLXlWa0tmbTZCTnBoUDBWWW5SdU92b3F3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnWkZncWhEdW5nWWlIMk8yaF9GcnhLN2l6c1JEbC1CRFpsa051TlBsVkJBYkFudjVnd1NVOTNRVExlbzRsVk15ckZhLXlWa0tmbTZCTnBoUDBWWW5SdU92b3F3?oc=5\" target=\"_blank\">Apple deletes guide on Chinese mainland Mac users accessing Alibaba’s Qwen AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
+      "published": "2026-08-09T04:44:00+00:00",
+      "source": "Global Times"
+    },
+    {
+      "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGQzQWk3UmtGOTk1ME5HVUcybmJMMTlzeGozMHlNUVp3WkNqekNkM3ZlSWJlMk92T0dGdlRXRmt2WG1iYWdOUEpkNjBNbTdLNUY4UFBSWmpRLXdLcGt4QjMwTnp3cThuNDNzRGxua3BPOW9OaGVDSTl3ZDBWaG82WTUzd3RTZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGQzQWk3UmtGOTk1ME5HVUcybmJMMTlzeGozMHlNUVp3WkNqekNkM3ZlSWJlMk92T0dGdlRXRmt2WG1iYWdOUEpkNjBNbTdLNUY4UFBSWmpRLXdLcGt4QjMwTnp3cThuNDNzRGxua3BPOW9OaGVDSTl3ZDBWaG82WTUzd3RTZw?oc=5\" target=\"_blank\">Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+      "published": "2026-08-09T12:06:55+00:00",
+      "source": "Yahoo! Finance Canada"
+    },
+    {
+      "title": "Kellogg removing artificial colors from Froot Loops, Apple Jacks a year ahead of schedule - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEFQenF2QVhMX3Zxb3ZaSkhzSXRVSGdSWUlWbUFPbzhsMjZyVlF3ZzVrYjExVlVjMmRaNUpaU0lvN2ZfVlBfbXZJdXNXREpPa3hOOUpBNVNpS3cxNGtrNUtqVFlRM1NUeVNHVDJYZ0Y5MTlBeVp3a2ZHMWhHZUgzeW5wVW9XRi1YY0M4T2ZRU1h4TW5Jb0Z4RklmLWpocHA3VkF2STFUbkVEb2N3cWo4Y0hkZ05iU2RTNjlfYWp30gHDAUFVX3lxTE1USkJBMFJCXzktUmtoWm1lUmZYR1hxSHdmakNPQUV3TmNvVXRDRmJtR0g0ODdYdkRXRGpHUGx0TVo1eU8xT2k1YWNPUDNER0s0NXBkUldkcUYxSFZjYy1xS01sZ29FNENwZEpFTVNFU2Rmcmp0bzlnNFZYX1hfaFEtMHJfdzQzNGdWNEJoMVQxdzUwcEJKVDVTMmJGQ1lPbERoV1FsWWt0enF2SjJhcjZpXzhuaXpYQkhQSE43Z3EzLTUzcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEFQenF2QVhMX3Zxb3ZaSkhzSXRVSGdSWUlWbUFPbzhsMjZyVlF3ZzVrYjExVlVjMmRaNUpaU0lvN2ZfVlBfbXZJdXNXREpPa3hOOUpBNVNpS3cxNGtrNUtqVFlRM1NUeVNHVDJYZ0Y5MTlBeVp3a2ZHMWhHZUgzeW5wVW9XRi1YY0M4T2ZRU1h4TW5Jb0Z4RklmLWpocHA3VkF2STFUbkVEb2N3cWo4Y0hkZ05iU2RTNjlfYWp30gHDAUFVX3lxTE1USkJBMFJCXzktUmtoWm1lUmZYR1hxSHdmakNPQUV3TmNvVXRDRmJtR0g0ODdYdkRXRGpHUGx0TVo1eU8xT2k1YWNPUDNER0s0NXBkUldkcUYxSFZjYy1xS01sZ29FNENwZEpFTVNFU2Rmcmp0bzlnNFZYX1hfaFEtMHJfdzQzNGdWNEJoMVQxdzUwcEJKVDVTMmJGQ1lPbERoV1FsWWt0enF2SjJhcjZpXzhuaXpYQkhQSE43Z3EzLTUzcw?oc=5\" target=\"_blank\">Kellogg removing artificial colors from Froot Loops, Apple Jacks a year ahead of schedule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-08-09T03:48:00+00:00",
+      "source": "Fox Business"
+    },
+    {
+      "title": "Ghana’s cashew apples get a second life - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEY1OHh2dTdHeHVGYUxEZG9MVWVCcDRkWktfMWl6OGZPa2ZlOWd3T3dUdzN5SjhJSGRMMmc0THZBZFh6SE1xbnlyMVZrYk5mdDVQVHhDTzFqT2dkV200Nlo5VVJfdUl4bXFwV00zRUl6Qkp2RnRZUW83ZC1BUHd4cnFpWTHSAYoBQVVfeXFMTWVWTDN0bklvQ05qWnE1UXM2cEpHak1nd1N6RFVIc0FlMEY0VWZtdkxWTUtJcXg2bnZnWkhwNFBqT1FleG4wVV8tVmtNZVFsX3ZCZjJTVzgtbFh2a2tDWnBBV0pxVmF3M293ZUE0UzZocEw1ZmpwdDdLSWQtWGVXUnhQTjBPM2diM1ln?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEY1OHh2dTdHeHVGYUxEZG9MVWVCcDRkWktfMWl6OGZPa2ZlOWd3T3dUdzN5SjhJSGRMMmc0THZBZFh6SE1xbnlyMVZrYk5mdDVQVHhDTzFqT2dkV200Nlo5VVJfdUl4bXFwV00zRUl6Qkp2RnRZUW83ZC1BUHd4cnFpWTHSAYoBQVVfeXFMTWVWTDN0bklvQ05qWnE1UXM2cEpHak1nd1N6RFVIc0FlMEY0VWZtdkxWTUtJcXg2bnZnWkhwNFBqT1FleG4wVV8tVmtNZVFsX3ZCZjJTVzgtbFh2a2tDWnBBV0pxVmF3M293ZUE0UzZocEw1ZmpwdDdLSWQtWGVXUnhQTjBPM2diM1ln?oc=5\" target=\"_blank\">Ghana’s cashew apples get a second life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+      "published": "2026-08-09T04:08:47+00:00",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "iPhone 18 Pro Release Date: Demand Drives September Launch - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQWNyel92UGhGZ0VJMlNXaXhUVl9sYW9NMlJDV3NuREE5NTlpNWV3S3NTaVJ6S1l2TlN4QkhTOERORkNPb3RJNUlpN2Y4QTZ1TXNaYnpXbFJyWVh3M2pZaWRTSjFBcUw2YXNMQ2NzQ185eEE5TExhRjVFUnphdlJuOWJDd3puRmluWUJDbXh4d2d6d2VZMUJwa1o4Q01MV3hpT19WWmdBY0VWaUlFOHMwaURRWjBfZENN?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQWNyel92UGhGZ0VJMlNXaXhUVl9sYW9NMlJDV3NuREE5NTlpNWV3S3NTaVJ6S1l2TlN4QkhTOERORkNPb3RJNUlpN2Y4QTZ1TXNaYnpXbFJyWVh3M2pZaWRTSjFBcUw2YXNMQ2NzQ185eEE5TExhRjVFUnphdlJuOWJDd3puRmluWUJDbXh4d2d6d2VZMUJwa1o4Q01MV3hpT19WWmdBY0VWaUlFOHMwaURRWjBfZENN?oc=5\" target=\"_blank\">iPhone 18 Pro Release Date: Demand Drives September Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnEzcFRQSWhROUw4b3lFZnVhQlhkTjRmNmxFMXZhZDczalJZdGplaUhJUHVleUQ1Ry1RNUYtbmlCWDg0SV9QTDBndnlhWFh0UXNLampFX2YtV0dSX0xwaThUelhEV0tXanFZMFBaOVkxN0xjdzY2eWlLMUxobWVoc3VSLThjYmxpUG1fWGtn?oc=5\" target=\"_blank\">When to expect Apple's iPhone 18 Pro launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUmV0UEpBWk84MW5sZ0tFcmJMaU1YOXRRbU9PY0hOcDloSUo1b2MxY0xrcTNwRmJJZG5FNG9JMEhON0pyVzBoS3RkeTZURWVwbkJudzNjNUpEUTN6b2l6WWRsXzk?oc=5\" target=\"_blank\">How to get a free Apple iPhone 17 from T-Mobile this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li></ol>",
+      "published": "2026-08-08T18:30:58+00:00",
+      "source": "Forbes"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Everything Apple could still launch before the end of 2026 - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Everything Apple could still launch before the end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-08-05T10:28:00+00:00",
+      "source": "Macworld"
+    },
+    {
+      "title": "Apple will launch five new products next month, here’s what’s coming - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQczdUb1dmVWtlUW1nQjU5MXpaOWxPQk93a2xuMzVmVERzN0VmRXQwaVFQQlE2MUhjU2ZiQjVKaUU4VVZsZkZoWk5tV0VRa293LWNOakVuYjhyVWlOZVd3TDUtSnhEWTJnNFhJMWR5VnIwa3NDcFVRLUdtUy0zSXFZclgtOGowSTBrbk1kX0FPX0Z6QVJlODlzMEJDS210dw?oc=5\" target=\"_blank\">Apple will launch five new products next month, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-08-03T15:46:00+00:00",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnQ3aXNzLWVEa0dsS0VjMmVSX0MwUFc3SmlVQ0lWUlNpbDQ3THphSFdNdnRJckJTNlVyMWVpSXRSTXFiQTdtcmRDOW1ZQjM2VkhHM2JCOGc1SHRhdGJaUG8yS1BTRDB6UHBmb1RQcFUyZ3JhYkhCT0tnMDVqX3dzSE9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnQ3aXNzLWVEa0dsS0VjMmVSX0MwUFc3SmlVQ0lWUlNpbDQ3THphSFdNdnRJckJTNlVyMWVpSXRSTXFiQTdtcmRDOW1ZQjM2VkhHM2JCOGc1SHRhdGJaUG8yS1BTRDB6UHBmb1RQcFUyZ3JhYkhCT0tnMDVqX3dzSE9B?oc=5\" target=\"_blank\">Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-08-07T19:06:12+00:00",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Upgrade launches in the United States - Apple",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjRzdmZCOXJRTkVEWmotS2QzZGM3ejFWeGMzZkRfT3dkLTB3c0s2Rml6RE1nU3FRSmNxNDBaQlpRQ0FJYWxOUWd6MFIwVjEwT3l5aWJXLUdsQU1Sdk9PYnRRTjFLUnJoUkNlQzNXcTRaR0hyNnRQSkdkd2tRSkEtblJnVnZlZTRlUm1N?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjRzdmZCOXJRTkVEWmotS2QzZGM3ejFWeGMzZkRfT3dkLTB3c0s2Rml6RE1nU3FRSmNxNDBaQlpRQ0FJYWxOUWd6MFIwVjEwT3l5aWJXLUdsQU1Sdk9PYnRRTjFLUnJoUkNlQzNXcTRaR0hyNnRQSkdkd2tRSkEtblJnVnZlZTRlUm1N?oc=5\" target=\"_blank\">Apple Upgrade launches in the United States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
+      "published": "2026-07-28T07:00:00+00:00",
+      "source": "Apple"
+    },
+    {
+      "title": "Apple Rumored to Launch \"Ultra\" Lineup With Foldable iPhone, Camera AirPods, and Touchscreen MacBook - gHacks",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1I3bnU4VkZjVGNISFZZWkdtSDlCd1RyZ3dVN0JNZ3VZMFZGbEZya2hqZFhHeEdMaUR4dm1vQmJXQUI2dGcyTVAxaGRZNjBaeVZ0d2lwRlhQeVY4ZDBvYi1rVno3akJ1djhselRzWHhaSUkxT1JFaUs4cXBTNmdMYVl2T0g2MGxMZzdOdFlzcVpITHlWQUJDWlhlZkkxSHJQUE5ReWVodW45X056dURNSnVXN3pUQUNTcHpEb2gwV1hhSkl2cm9qZUhsdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1I3bnU4VkZjVGNISFZZWkdtSDlCd1RyZ3dVN0JNZ3VZMFZGbEZya2hqZFhHeEdMaUR4dm1vQmJXQUI2dGcyTVAxaGRZNjBaeVZ0d2lwRlhQeVY4ZDBvYi1rVno3akJ1djhselRzWHhaSUkxT1JFaUs4cXBTNmdMYVl2T0g2MGxMZzdOdFlzcVpITHlWQUJDWlhlZkkxSHJQUE5ReWVodW45X056dURNSnVXN3pUQUNTcHpEb2gwV1hhSkl2cm9qZUhsdw?oc=5\" target=\"_blank\">Apple Rumored to Launch \"Ultra\" Lineup With Foldable iPhone, Camera AirPods, and Touchscreen MacBook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gHacks</font>",
+      "published": "2026-08-09T07:53:02+00:00",
+      "source": "gHacks"
+    }
+  ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",

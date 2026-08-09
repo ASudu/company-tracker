@@ -2,9 +2,102 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-08-08T12:27:03.620574+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-08-09T12:28:45.210034+00:00",
+  "news": [
+    {
+      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5\" target=\"_blank\">New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-08-08T18:17:03+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S. - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPblhfanJfMjNOYmN3YzRqSjF2VTRvT0xpUFdnTGFCcmxGYUctaVQ4VkdYVjZ5VTBsanVSS3B4OUZwSFR1UVBfQzFPLTJ2a0R4dlF4b0l6a0ZGNjRzSTVrb3hBYk1jWjBfSXpuZzJHc0NUWUhTTUQyQnQwU3c5ai1UMHg4Mm9tYjVmSktiemZnMXN5cTdzb3JXQWdSdWstWS11djVHRUNPdVJmb0ZWNC1GSmx4aGQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPblhfanJfMjNOYmN3YzRqSjF2VTRvT0xpUFdnTGFCcmxGYUctaVQ4VkdYVjZ5VTBsanVSS3B4OUZwSFR1UVBfQzFPLTJ2a0R4dlF4b0l6a0ZGNjRzSTVrb3hBYk1jWjBfSXpuZzJHc0NUWUhTTUQyQnQwU3c5ai1UMHg4Mm9tYjVmSktiemZnMXN5cTdzb3JXQWdSdWstWS11djVHRUNPdVJmb0ZWNC1GSmx4aGQ?oc=5\" target=\"_blank\">Planned Amazon data center could become the biggest climate polluter in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-08-08T21:24:02+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How Amazon Built a Data Center in a California Town Without Anyone Noticing - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VUalQxQjZ1dEloSEFjeGgzUmdmb3dyM0JkRm9hbkxYMmpMOVAySDdaMExFaW1NV2p0TlMxMDRwaFRSWlFTSnVKMjhsS0ZjaEo2aDVKb1U1YjZZMnUwdTN3ck1CWGZUZjByanFtZV9Ba3JiWDZOOG9WYzVwSFV1WkNkcjdScmVsVU01djhIRDVtNWdvbllxSHR1UGdfcFVpSTQxNkdtQVgzODVQemVTWlVB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VUalQxQjZ1dEloSEFjeGgzUmdmb3dyM0JkRm9hbkxYMmpMOVAySDdaMExFaW1NV2p0TlMxMDRwaFRSWlFTSnVKMjhsS0ZjaEo2aDVKb1U1YjZZMnUwdTN3ck1CWGZUZjByanFtZV9Ba3JiWDZOOG9WYzVwSFV1WkNkcjdScmVsVU01djhIRDVtNWdvbllxSHR1UGdfcFVpSTQxNkdtQVgzODVQemVTWlVB?oc=5\" target=\"_blank\">How Amazon Built a Data Center in a California Town Without Anyone Noticing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-08-09T03:02:02+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "15 Dresses At Amazon That Keep You Stylish (And Comfortable!) In Between Seasons—Starting At Just $34 - Southern Living",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW9vbElHQjZ3ODhXWWhjMXVJN3JpV25NQkpMSWM1SV9ldmxackpjQVNMOHUzd1RPWXd0amV0czRCaG1XSDBVazJ3bmp4NjM5Qm80WGtad25iRTY0enpMTGw4NExGTG1rbUJ6THFlTmpkTmE4bXBJOEZ5YW1SZkVuanc1VGZlTm8w?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW9vbElHQjZ3ODhXWWhjMXVJN3JpV25NQkpMSWM1SV9ldmxackpjQVNMOHUzd1RPWXd0amV0czRCaG1XSDBVazJ3bmp4NjM5Qm80WGtad25iRTY0enpMTGw4NExGTG1rbUJ6THFlTmpkTmE4bXBJOEZ5YW1SZkVuanc1VGZlTm8w?oc=5\" target=\"_blank\">15 Dresses At Amazon That Keep You Stylish (And Comfortable!) In Between Seasons—Starting At Just $34</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Southern Living</font>",
+      "published": "2026-08-08T04:00:00+00:00",
+      "source": "Southern Living"
+    },
+    {
+      "title": "Amazon Just Dropped August Fashion Arrivals That Will Take You From Summer Trips to Fall Getaways—From $10 - travelandleisure.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDN1LURYdDcyYnF5UC16bXp6S3VyTEFUOFNLYjYyUS02Tl9tbDFNd016X2dxZk1DVS12N2RPTDdONnplXzNxSXU3VTg1VE9KTDVTaVlHcUFoOERVQUxTWDBsVER2akp1S3BISl9Rb243NmN0NS1hWU9FMjZPd29KY3lrWmlQRVFfSmJJbVdsREgtd3JYVllN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDN1LURYdDcyYnF5UC16bXp6S3VyTEFUOFNLYjYyUS02Tl9tbDFNd016X2dxZk1DVS12N2RPTDdONnplXzNxSXU3VTg1VE9KTDVTaVlHcUFoOERVQUxTWDBsVER2akp1S3BISl9Rb243NmN0NS1hWU9FMjZPd29KY3lrWmlQRVFfSmJJbVdsREgtd3JYVllN?oc=5\" target=\"_blank\">Amazon Just Dropped August Fashion Arrivals That Will Take You From Summer Trips to Fall Getaways—From $10</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">travelandleisure.com</font>",
+      "published": "2026-08-09T10:00:00+00:00",
+      "source": "travelandleisure.com"
+    },
+    {
+      "title": "This Soft and Breathable 3-Piece Matching Set Is My Summer Travel Uniform — and It’s on Sale for $24 at Amazon - People.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWdhaGdJYkZTRHR4Q2hJX0pPVVBIb2xOUHpWbFRBQmlaRldoLUxZdUFoYW1KMWxaN1gtQ2U2a0c3NkQ2aHdxQU9xdmcwcGc3dUR5eFF3UmpzdzM0ME9JdTNhSWdlamFXM25JbnVZby0wWFA1RmpFZG03ekpRejJ5Xy0wMGlQMDV6RU0zOThRcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWdhaGdJYkZTRHR4Q2hJX0pPVVBIb2xOUHpWbFRBQmlaRldoLUxZdUFoYW1KMWxaN1gtQ2U2a0c3NkQ2aHdxQU9xdmcwcGc3dUR5eFF3UmpzdzM0ME9JdTNhSWdlamFXM25JbnVZby0wWFA1RmpFZG03ekpRejJ5Xy0wMGlQMDV6RU0zOThRcw?oc=5\" target=\"_blank\">This Soft and Breathable 3-Piece Matching Set Is My Summer Travel Uniform — and It’s on Sale for $24 at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-08-09T09:30:00+00:00",
+      "source": "People.com"
+    },
+    {
+      "title": "My Mom, 66, Convinced Me, 28, to Ditch My Tiny Purses for These Practical Bags That Are Fit for Travel — All from $30 - People.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFNVcTFlZmU5NG5KNVRScFd6T1l6R1VCeTJmbGcyLVJ5NElfZHVWNEpNd3NUSlhlbWpMNlNqSV9BYVgxVWVFd1M5RGxmWF90aDR0SHg4bUpFdmZfVVE3d2tJZ3ZhWm50dF9mTVlBLUR5NC1jMzdOSkJHYXYzaTRjOVRXenpEeFhBeG9Dd3JCbEs2azg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFNVcTFlZmU5NG5KNVRScFd6T1l6R1VCeTJmbGcyLVJ5NElfZHVWNEpNd3NUSlhlbWpMNlNqSV9BYVgxVWVFd1M5RGxmWF90aDR0SHg4bUpFdmZfVVE3d2tJZ3ZhWm50dF9mTVlBLUR5NC1jMzdOSkJHYXYzaTRjOVRXenpEeFhBeG9Dd3JCbEs2azg?oc=5\" target=\"_blank\">My Mom, 66, Convinced Me, 28, to Ditch My Tiny Purses for These Practical Bags That Are Fit for Travel — All from $30</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-08-09T10:00:00+00:00",
+      "source": "People.com"
+    },
+    {
+      "title": "Amazon’s Secret Outlet Is Packed With OXO, Cuisinart, and Vitamix Steals — Shop Now While They Start at Just $3 - foodandwine.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaFRMc0MzaGVnblBpMTZwbExINWpNU0poeGNKaVVJSUstUGFTMFFfWUVWU1RzdWdxdFpPcWd3NktyLXZjajJ0WC1ydDNZcDVHRXVJZ1c1Mzl1aEhfb1RlZTJpR0N0Q3dwN1N2bEdkcVlUSnpOendqRXdsanAzTWk1dQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaFRMc0MzaGVnblBpMTZwbExINWpNU0poeGNKaVVJSUstUGFTMFFfWUVWU1RzdWdxdFpPcWd3NktyLXZjajJ0WC1ydDNZcDVHRXVJZ1c1Mzl1aEhfb1RlZTJpR0N0Q3dwN1N2bEdkcVlUSnpOendqRXdsanAzTWk1dQ?oc=5\" target=\"_blank\">Amazon’s Secret Outlet Is Packed With OXO, Cuisinart, and Vitamix Steals — Shop Now While They Start at Just $3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foodandwine.com</font>",
+      "published": "2026-08-09T06:30:00+00:00",
+      "source": "foodandwine.com"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Amazon’s New Product Title Policy Also Applies to Its Own Listings - EcommerceBytes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVVFVy12ekh3UkhJMHE0X19FOTFSMnoyZUNnTXphRW1Zblp4eFQ0WmtFQ0N1YS1aQXVzdjFtQ1lLeU16VVZvQXFNZDVsdmVXYUZRbjVDS1RnTFlXQ1Fwdy1BUVN3U0xEbDNrdGtGQ3FGUkVEMDVVNVpZLXl0MDdfN3BqT2wyWE00MWlSRzg4UEppa1NjWW16eHdJd1U2T0JGODhsMkYzYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVVFVy12ekh3UkhJMHE0X19FOTFSMnoyZUNnTXphRW1Zblp4eFQ0WmtFQ0N1YS1aQXVzdjFtQ1lLeU16VVZvQXFNZDVsdmVXYUZRbjVDS1RnTFlXQ1Fwdy1BUVN3U0xEbDNrdGtGQ3FGUkVEMDVVNVpZLXl0MDdfN3BqT2wyWE00MWlSRzg4UEppa1NjWW16eHdJd1U2T0JGODhsMkYzYw?oc=5\" target=\"_blank\">Amazon’s New Product Title Policy Also Applies to Its Own Listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EcommerceBytes</font>",
+      "published": "2026-08-08T02:41:48+00:00",
+      "source": "EcommerceBytes"
+    },
+    {
+      "title": "Gorilla Commerce built a 9-figure business on Amazon. Now, it's launching in Walmart stores - Modern Retail",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0pMZWM3WUpQNHozdzRwWmhTcjdMMk1ER25UMEw1eDVkaS05MFZ0S2tzV2J5SGVreWo3MS1lQkliOHFvRTdIYWdlTWNhbmJvWXNEcHV4X0Z1X080ZndoLVR2dUM0WjUxcnYwZU5MZzdyb0dCWHZYTGViWlRMb3c0Sy1YWHNDSWNNMzVYRmllRGFrdXRYX1ZGa2R0cl8xdnZtcnVNdGw3UjFvZS1zb3FWZGR3UV9sYlpCTWlhbjZRbDNDdW8xeTNJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0pMZWM3WUpQNHozdzRwWmhTcjdMMk1ER25UMEw1eDVkaS05MFZ0S2tzV2J5SGVreWo3MS1lQkliOHFvRTdIYWdlTWNhbmJvWXNEcHV4X0Z1X080ZndoLVR2dUM0WjUxcnYwZU5MZzdyb0dCWHZYTGViWlRMb3c0Sy1YWHNDSWNNMzVYRmllRGFrdXRYX1ZGa2R0cl8xdnZtcnVNdGw3UjFvZS1zb3FWZGR3UV9sYlpCTWlhbjZRbDNDdW8xeTNJ?oc=5\" target=\"_blank\">Gorilla Commerce built a 9-figure business on Amazon. Now, it's launching in Walmart stores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Retail</font>",
+      "published": "2026-08-05T04:03:34+00:00",
+      "source": "Modern Retail"
+    },
+    {
+      "title": "FCLGO Launches Amazon Fulfillment Center Locations Routing Servic - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGEyU1BlUFRfS3pKbTA5czhraU5hYnJ0S1BhS0VsTzVKb2dmS2lUT0tSMFF2YzNfTGw4RzZYS1J3YkVFemlEVGNEcGxpd191V2hKUlFJNlZhTlBHcldLVVl5UDhtUHNncDFLdkY2aGt0b05pMHh5NTBFNXEzaGJVNUY1d1Ytd1pjSjI3bnl6SXgzMjdZQndhQV96czNWdGowaC00T2E2bjA2X09rMGJVMFRmRFpUUnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGEyU1BlUFRfS3pKbTA5czhraU5hYnJ0S1BhS0VsTzVKb2dmS2lUT0tSMFF2YzNfTGw4RzZYS1J3YkVFemlEVGNEcGxpd191V2hKUlFJNlZhTlBHcldLVVl5UDhtUHNncDFLdkY2aGt0b05pMHh5NTBFNXEzaGJVNUY1d1Ytd1pjSjI3bnl6SXgzMjdZQndhQV96czNWdGowaC00T2E2bjA2X09rMGJVMFRmRFpUUnc?oc=5\" target=\"_blank\">FCLGO Launches Amazon Fulfillment Center Locations Routing Servic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
+      "published": "2026-08-07T22:49:22+00:00",
+      "source": "The National Law Review"
+    },
+    {
+      "title": "The Wiggles Launch Official Amazon U.S. Store - License Global",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlpWYWpZLVpjRFVDd3c3QXBtY0E4SGVLRjFDWGVBU05WeERCTGhLaDc4ZE84MnRuWjdsN0U4Q2JaSmtIY2ptQXBCdFRTY1l6OFdBLWdFSTV4M3h5LXBWSldKc0RKVnVWcXVkb1FfSDNacjVyd3ZBSS1oTnpjZVk0U2pBTTZ6T185UHBLdmtnU0o?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlpWYWpZLVpjRFVDd3c3QXBtY0E4SGVLRjFDWGVBU05WeERCTGhLaDc4ZE84MnRuWjdsN0U4Q2JaSmtIY2ptQXBCdFRTY1l6OFdBLWdFSTV4M3h5LXBWSldKc0RKVnVWcXVkb1FfSDNacjVyd3ZBSS1oTnpjZVk0U2pBTTZ6T185UHBLdmtnU0o?oc=5\" target=\"_blank\">The Wiggles Launch Official Amazon U.S. Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">License Global</font>",
+      "published": "2026-08-03T07:00:00+00:00",
+      "source": "License Global"
+    },
+    {
+      "title": "Press Release: PayPal and Amazon Launch Buy Now, Pay Later for Customers in Germany and Austria - PayPal Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeU1YRV9WVkF6M1N4YU9sa2ZtRTRqT3AzSUZJRXlGVHd5dkJ1NnVQMVd0MkZNT3BNcHF0c2FtU3FXZnQwZVZCdjJTeUN5aVZUdnhOUUlHMzM5THJBZFRXNHpya2tsU25yOEdtVmltVVRidUFCWE9yckVPWi1hbEFIWGpfdXZhblFJdW1MbUVVVUtBbFA0TDdQUTB2bWlHQ2Nnc29pQkdONzk3bnpBamY4TmhnWEFTRkd6ZzMxbQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeU1YRV9WVkF6M1N4YU9sa2ZtRTRqT3AzSUZJRXlGVHd5dkJ1NnVQMVd0MkZNT3BNcHF0c2FtU3FXZnQwZVZCdjJTeUN5aVZUdnhOUUlHMzM5THJBZFRXNHpya2tsU25yOEdtVmltVVRidUFCWE9yckVPWi1hbEFIWGpfdXZhblFJdW1MbUVVVUtBbFA0TDdQUTB2bWlHQ2Nnc29pQkdONzk3bnpBamY4TmhnWEFTRkd6ZzMxbQ?oc=5\" target=\"_blank\">Press Release: PayPal and Amazon Launch Buy Now, Pay Later for Customers in Germany and Austria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PayPal Newsroom</font>",
+      "published": "2026-07-28T07:00:00+00:00",
+      "source": "PayPal Newsroom"
+    }
+  ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
