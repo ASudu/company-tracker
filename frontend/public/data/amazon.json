@@ -2,63 +2,63 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-08-10T12:43:47.996504+00:00",
+  "fetched_at": "2026-08-11T12:40:36.823210+00:00",
   "news": [
     {
-      "title": "A Fight Brews Between Mamdani and Amazon Over Delivery Workers - nytimes.com",
+      "title": "Amazon backs power plant that may become top source of US climate pollution - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWtnaDI2WUFzcUtxOVJucmdTckRDTGR2RUs3TEFNeWdmaC1sdEFQeTZNamk3dVZJOFBMejVTUWJTV0RKYzE3VGtWdGdvMTFhQ09VMlZ0cUxNTGx1di1OLWZuTTFRTXk1Qk5yWjVydndIdkg1ZklxaFhPYVNYZW9NZHdEcktVR1ZHZVF4SVNSWGRUZVJYWkg4VEgxYThHYktmaEc5RjdtRVZTcGtsdXRr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWtnaDI2WUFzcUtxOVJucmdTckRDTGR2RUs3TEFNeWdmaC1sdEFQeTZNamk3dVZJOFBMejVTUWJTV0RKYzE3VGtWdGdvMTFhQ09VMlZ0cUxNTGx1di1OLWZuTTFRTXk1Qk5yWjVydndIdkg1ZklxaFhPYVNYZW9NZHdEcktVR1ZHZVF4SVNSWGRUZVJYWkg4VEgxYThHYktmaEc5RjdtRVZTcGtsdXRr?oc=5\" target=\"_blank\">Amazon backs power plant that may become top source of US climate pollution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-08-10T20:45:52+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "An Amazon data center could have the worst polluting power plant in the country - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTJWRFNIbDRabUNIODRzdFdMVDY4SEhXVTdrVW1FSGh0RkwyQnhYbncxRVRoR0JIeFFSUnR0TEpLd1R4eG9ud2lTRVZxaUVIU3JkZ1V6a0ZDQ2MwSW0yX25SbDB5T1VlWWc4WGdEZHdvd0ZnU2U0TkJ1X1YtNE9BOXQ4QUExNm9kNTZISElTNmpoY0NWX3UxSXAyTjFUUGpwRDM1cV9fdE8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTJWRFNIbDRabUNIODRzdFdMVDY4SEhXVTdrVW1FSGh0RkwyQnhYbncxRVRoR0JIeFFSUnR0TEpLd1R4eG9ud2lTRVZxaUVIU3JkZ1V6a0ZDQ2MwSW0yX25SbDB5T1VlWWc4WGdEZHdvd0ZnU2U0TkJ1X1YtNE9BOXQ4QUExNm9kNTZISElTNmpoY0NWX3UxSXAyTjFUUGpwRDM1cV9fdE8?oc=5\" target=\"_blank\">An Amazon data center could have the worst polluting power plant in the country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-08-08T17:53:34+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGh3TUdUb3MxZzZCZGJaZ0wyR3cxV185bHIxWGNJYjdpcjlMUnNnZWpxSE82WkxHemFPSzdrUWpudlVQUkd5ZU9laloxbUh6V0tGOVd3dWk5dnpnSEw1cFhzZEN2anNhWmFTNWpLekFxSThlR2MyNkRVRU50LUt1Um1YS3ZMNWhiM3lDcWtWb2YtejQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGh3TUdUb3MxZzZCZGJaZ0wyR3cxV185bHIxWGNJYjdpcjlMUnNnZWpxSE82WkxHemFPSzdrUWpudlVQUkd5ZU9laloxbUh6V0tGOVd3dWk5dnpnSEw1cFhzZEN2anNhWmFTNWpLekFxSThlR2MyNkRVRU50LUt1Um1YS3ZMNWhiM3lDcWtWb2YtejQ?oc=5\" target=\"_blank\">Amazon Used a Startlingly Dirty Trick to Build a Data Center Without Consent of Community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-08-10T15:13:55+00:00",
+      "source": "Yahoo"
+    },
+    {
+      "title": "A Fight Brews Between Mamdani and Amazon Over Delivery Workers - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3pncXozNjE3bThtalAzaFQ4cWtpbGZuOXdlQVBINlNsU3U1QW1KYW91NTh0NmJvbXFMakdfM0V6WTBkd1RRbzNOaWhIV3I2akN2M1Y4b3p1bkxiVjJYM2xFUDlYdFNKbDBSYTRzX1VpUHNWWUF1Y2xwWm9CajFjS3hnUHdvU09RVGpZWA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3pncXozNjE3bThtalAzaFQ4cWtpbGZuOXdlQVBINlNsU3U1QW1KYW91NTh0NmJvbXFMakdfM0V6WTBkd1RRbzNOaWhIV3I2akN2M1Y4b3p1bkxiVjJYM2xFUDlYdFNKbDBSYTRzX1VpUHNWWUF1Y2xwWm9CajFjS3hnUHdvU09RVGpZWA?oc=5\" target=\"_blank\">A Fight Brews Between Mamdani and Amazon Over Delivery Workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "published": "2026-08-10T07:00:05+00:00",
-      "source": "nytimes.com"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3pncXozNjE3bThtalAzaFQ4cWtpbGZuOXdlQVBINlNsU3U1QW1KYW91NTh0NmJvbXFMakdfM0V6WTBkd1RRbzNOaWhIV3I2akN2M1Y4b3p1bkxiVjJYM2xFUDlYdFNKbDBSYTRzX1VpUHNWWUF1Y2xwWm9CajFjS3hnUHdvU09RVGpZWA?oc=5\" target=\"_blank\">A Fight Brews Between Mamdani and Amazon Over Delivery Workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-08-10T18:00:08+00:00",
+      "source": "The New York Times"
     },
     {
-      "title": "How Amazon Built a Data Center in a California Town Without Anyone Noticing - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VUalQxQjZ1dEloSEFjeGgzUmdmb3dyM0JkRm9hbkxYMmpMOVAySDdaMExFaW1NV2p0TlMxMDRwaFRSWlFTSnVKMjhsS0ZjaEo2aDVKb1U1YjZZMnUwdTN3ck1CWGZUZjByanFtZV9Ba3JiWDZOOG9WYzVwSFV1WkNkcjdScmVsVU01djhIRDVtNWdvbllxSHR1UGdfcFVpSTQxNkdtQVgzODVQemVTWlVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3VUalQxQjZ1dEloSEFjeGgzUmdmb3dyM0JkRm9hbkxYMmpMOVAySDdaMExFaW1NV2p0TlMxMDRwaFRSWlFTSnVKMjhsS0ZjaEo2aDVKb1U1YjZZMnUwdTN3ck1CWGZUZjByanFtZV9Ba3JiWDZOOG9WYzVwSFV1WkNkcjdScmVsVU01djhIRDVtNWdvbllxSHR1UGdfcFVpSTQxNkdtQVgzODVQemVTWlVB?oc=5\" target=\"_blank\">How Amazon Built a Data Center in a California Town Without Anyone Noticing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-08-08T07:00:00+00:00",
-      "source": "WSJ"
+      "title": "Amazon Is in the Crosshairs of Mamdani’s Worker Agenda - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkxuNE5SeGtDWFloWGt1WnRlV2g4UzdrcU1hcHFqY0VyX0dGYnhvWkVLLXBYZUxjNEhxbkZfNjVjbHdlM3psWVo4YWJkT000eHJIbHJoWms3R2lfMjhDd0FkMjk3c05JemVSTjliTHpVLWI2WHd2TXFmZGZzSUI1dVA4YzJaU1pNT0llTzZkNGhtNzYwWGNGcE5CRnFkUVRFOFVtaTlyRzc3Ti1Sbnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkxuNE5SeGtDWFloWGt1WnRlV2g4UzdrcU1hcHFqY0VyX0dGYnhvWkVLLXBYZUxjNEhxbkZfNjVjbHdlM3psWVo4YWJkT000eHJIbHJoWms3R2lfMjhDd0FkMjk3c05JemVSTjliTHpVLWI2WHd2TXFmZGZzSUI1dVA4YzJaU1pNT0llTzZkNGhtNzYwWGNGcE5CRnFkUVRFOFVtaTlyRzc3Ti1Sbnc?oc=5\" target=\"_blank\">Amazon Is in the Crosshairs of Mamdani’s Worker Agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-08-11T11:00:24+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTZPMTAxS3FINHdEcmlIV3pqSWpUOVI0MUFJMFRlZ0MxeDJyc19aekRLMFA1ZF9RaU00TXZxWGFxSTBGbEhyekxneHZ3QTFfMXVJZFBRZWlLYlNmamROS1ktTUZVOVJHZElkUkVWYWtpUFRxbDcwenFBQkFMdGc2aFBLb3JOejRGMGc?oc=5\" target=\"_blank\">New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
-      "published": "2026-08-08T09:02:25+00:00",
-      "source": "nytimes.com"
+      "title": "NYC Mayor Mamdani backs Amazon delivery worker bill despite risk of higher costs for customers - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUwtMVp0bkRsYkFHU05zTmY5ZG53eG9SV0pwTk1oQkVfd2NmY1djLVZjQU5feUJsTFoycHJXMFlFWW5FYXl6b2ZVLWd4SnBxNjhJVmp6SzVsSkJlM3JuU0V1a1h3anhRTlJVM09RXzMySU9ZWC1rVTJvS19MbVUtWVU3TnVqWVZRazFhZDV1eXl4dU1ObmMxWGsxcDJERE1kUlZzSXhWbW5wZGk0YThlb1hhOTJXVEduTDd3SW1PRUdpVWhu?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUwtMVp0bkRsYkFHU05zTmY5ZG53eG9SV0pwTk1oQkVfd2NmY1djLVZjQU5feUJsTFoycHJXMFlFWW5FYXl6b2ZVLWd4SnBxNjhJVmp6SzVsSkJlM3JuU0V1a1h3anhRTlJVM09RXzMySU9ZWC1rVTJvS19MbVUtWVU3TnVqWVZRazFhZDV1eXl4dU1ObmMxWGsxcDJERE1kUlZzSXhWbW5wZGk0YThlb1hhOTJXVEduTDd3SW1PRUdpVWhu?oc=5\" target=\"_blank\">NYC Mayor Mamdani backs Amazon delivery worker bill despite risk of higher costs for customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "published": "2026-08-10T16:51:00+00:00",
+      "source": "New York Post"
     },
     {
-      "title": "Amazon Texas gas plant could be biggest U.S. climate polluter - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sSmhMeVpJUmZ1LWhwOGNDM0pVdWNfOHctWVJSWEplNGE3R1hLOGhWS2NwcXJTeXN2a2VJM3lESDFhUGdvZjNCQjZVVnliQTNRT2hzUGtWTm44bjRmY3JiaWVnSmtxTFdwZTA1aWJLTVo0cFNobkFRdmYzMzBvZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5sSmhMeVpJUmZ1LWhwOGNDM0pVdWNfOHctWVJSWEplNGE3R1hLOGhWS2NwcXJTeXN2a2VJM3lESDFhUGdvZjNCQjZVVnliQTNRT2hzUGtWTm44bjRmY3JiaWVnSmtxTFdwZTA1aWJLTVo0cFNobkFRdmYzMzBvZw?oc=5\" target=\"_blank\">Amazon Texas gas plant could be biggest U.S. climate polluter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
-      "published": "2026-08-10T12:21:16+00:00",
-      "source": "qz.com"
+      "title": "Opponents criticize proposed Amazon fulfillment complex at community meeting - newsday.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MQ1QyZW51STI0dEs5em1vSzd0TzBld29GRFg0UDlITFluYWFPUHNuME1JdGhJRDVQZ1FHNzJpUTd5VlBvTXByWEROR0xkSGZwNjZqc3d1Nk5yZ1NXaHYwUzlLdnBPUVBUWHUzN00zdFNqaHZiUEQ3OG43Ri11ZzQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1MQ1QyZW51STI0dEs5em1vSzd0TzBld29GRFg0UDlITFluYWFPUHNuME1JdGhJRDVQZ1FHNzJpUTd5VlBvTXByWEROR0xkSGZwNjZqc3d1Nk5yZ1NXaHYwUzlLdnBPUVBUWHUzN00zdFNqaHZiUEQ3OG43Ri11ZzQ?oc=5\" target=\"_blank\">Opponents criticize proposed Amazon fulfillment complex at community meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsday.com</font>",
+      "published": "2026-08-11T11:35:59+00:00",
+      "source": "newsday.com"
     },
     {
-      "title": "Amazon data center plant in Texas could become America’s biggest polluter - the-independent.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1IxeDdUOTN6X2hrOTdSUGdsaC1NWWFjd1N6TkxWNE5xZFFrTmxhSHlON1FvVFJ6RjJ5clVnN2tNcWc0S2M1YmU4T1labThlQ1hMVzVvTk91akR1TTRVV0NKZE5IOXVNNlRMZklNU1FIaDE5Z1kzSXA2bUVrVV95bW5WQmE2OGppQ1JNb2dWLUxJSF9NX25HLVVES2tOYzd3VGNFMmh6TGxmYk04LWg0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1IxeDdUOTN6X2hrOTdSUGdsaC1NWWFjd1N6TkxWNE5xZFFrTmxhSHlON1FvVFJ6RjJ5clVnN2tNcWc0S2M1YmU4T1labThlQ1hMVzVvTk91akR1TTRVV0NKZE5IOXVNNlRMZklNU1FIaDE5Z1kzSXA2bUVrVV95bW5WQmE2OGppQ1JNb2dWLUxJSF9NX25HLVVES2tOYzd3VGNFMmh6TGxmYk04LWg0?oc=5\" target=\"_blank\">Amazon data center plant in Texas could become America’s biggest polluter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-independent.com</font>",
-      "published": "2026-08-09T01:30:00+00:00",
-      "source": "the-independent.com"
-    },
-    {
-      "title": "Invisible poison: living with mercury pollution in the Colombian Amazon – in pictures - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWJLMlpEUHZGX09pT2ttYWpDM1hKSU9JNDFvTWlRdFowWUdUWWtLUF8tYzlCRTZUZzJOYlNkZHRpNVQ4QkRBbV9YTXNXenV0STYyZ1J5YktuYzVhVEtBVEt3ZmhUYkhnYnc2VHhmVjNyMEtzNlduclN4WUh3OTRyNlhxVE45UXQtMkFuTUVKUnQ4TmxaOHBWSnlZT1ZXSFdmTWFvVkNmcFJOWml0c3h1aGh6WXFyTmZmYWkydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWJLMlpEUHZGX09pT2ttYWpDM1hKSU9JNDFvTWlRdFowWUdUWWtLUF8tYzlCRTZUZzJOYlNkZHRpNVQ4QkRBbV9YTXNXenV0STYyZ1J5YktuYzVhVEtBVEt3ZmhUYkhnYnc2VHhmVjNyMEtzNlduclN4WUh3OTRyNlhxVE45UXQtMkFuTUVKUnQ4TmxaOHBWSnlZT1ZXSFdmTWFvVkNmcFJOWml0c3h1aGh6WXFyTmZmYWkydw?oc=5\" target=\"_blank\">Invisible poison: living with mercury pollution in the Colombian Amazon – in pictures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-08-10T11:00:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "UCLA student dies in fall while interning at Amazon for summer - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzMxN0FJU05hUER2cVd1TUFnWU5QbkNRNEJieEdyR0szTWpEbVRWUVR6ZHlWd0VCZ0pYOHlOU2NzRGhFQ3hNMFg1TmZmVTdmZ3dncUE4ZmtBbXAwcEZGcFJzZ2ZQdXBvZTMtMDQ3eUY5R19kbkVSMDQzRnpHMTJSV3FZaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzMxN0FJU05hUER2cVd1TUFnWU5QbkNRNEJieEdyR0szTWpEbVRWUVR6ZHlWd0VCZ0pYOHlOU2NzRGhFQ3hNMFg1TmZmVTdmZ3dncUE4ZmtBbXAwcEZGcFJzZ2ZQdXBvZTMtMDQ3eUY5R19kbkVSMDQzRnpHMTJSV3FZaw?oc=5\" target=\"_blank\">UCLA student dies in fall while interning at Amazon for summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
-      "published": "2026-08-09T16:25:58+00:00",
-      "source": "SFGATE"
-    },
-    {
-      "title": "Amazon founder Bezos nears deal to buy stake in Liverpool, reports say - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDdMbHg5dEV5Z2x3bW1Ua2pDc0Z4bXhTX0pCWkhfc01fY1pBWGtNLVZRQ3BOcXJHS2FvSlRyWWxlZDUyd09aQ3FNSHRjUDBTQnMzci1BY1MyYnRtekRZN1dfNEwwdktkMGRUVkx6Sk5HWmd3RFoyS05UYm15aGQ5VENNWGFkcDlqbmxpQzkxLTYwelZtQTE0YlRSTndRNkQwZGpHSnJqdTQ0YlpYc3ZhczRfb0o2UQ?oc=5\" target=\"_blank\">Amazon founder Bezos nears deal to buy stake in Liverpool, reports say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-08-10T12:14:58+00:00",
-      "source": "reuters.com"
+      "title": "I left Amazon, came back, and was laid off. My old job-search strategies no longer worked — here's what did. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEFhVzBKbjJPNnZZNUhnWXNKTExZdXp5czBXNDVZbjFMRkRCUDVJZXBqb3hqc2J4TXdjYWNybFdiRHZYbXlmQkRWaUhGck9QR2lwNGtvQ2FJVnNRLUU1Z3NJaFN4SW9yZEEyY09naE1rMzJ2OWdLd3ZTWTNGWFNEdHphUVBiZ2llMTR1RFRBZk9jaEdaMk5YYndLZFpLdlZ2RlhXdUNmT0l0Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEFhVzBKbjJPNnZZNUhnWXNKTExZdXp5czBXNDVZbjFMRkRCUDVJZXBqb3hqc2J4TXdjYWNybFdiRHZYbXlmQkRWaUhGck9QR2lwNGtvQ2FJVnNRLUU1Z3NJaFN4SW9yZEEyY09naE1rMzJ2OWdLd3ZTWTNGWFNEdHphUVBiZ2llMTR1RFRBZk9jaEdaMk5YYndLZFpLdlZ2RlhXdUNmT0l0Zw?oc=5\" target=\"_blank\">I left Amazon, came back, and was laid off. My old job-search strategies no longer worked — here's what did.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-08-11T09:11:15+00:00",
+      "source": "Business Insider"
     }
   ],
   "product_launches": [
@@ -84,32 +84,28 @@
       "source": "PayPal Newsroom"
     },
     {
-      "title": "Bank of America resets Amazon stock forecast on key product launch - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1M1LXhDdG85MWU3VkdOTUFTdHUzYUZLOWhLQWRCbWlXVHhIUGwxaTlnYjhrNHJNLXlxNjVCMFhHNEJUc2pvSXktc1hKbVNINXRvdWpBUEVUU3VrdnNOakFJYy1pSXVGX0lDLUotR0szSGJUeGstOUZSWmlzU3ZoN3RUQnRDNjR2VWtuWUw3QUdDYlllMmc2NUl0aDRpQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPR1M1LXhDdG85MWU3VkdOTUFTdHUzYUZLOWhLQWRCbWlXVHhIUGwxaTlnYjhrNHJNLXlxNjVCMFhHNEJUc2pvSXktc1hKbVNINXRvdWpBUEVUU3VrdnNOakFJYy1pSXVGX0lDLUotR0szSGJUeGstOUZSWmlzU3ZoN3RUQnRDNjR2VWtuWUw3QUdDYlllMmc2NUl0aDRpQQ?oc=5\" target=\"_blank\">Bank of America resets Amazon stock forecast on key product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-05-22T07:00:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Amazon launches new Prime Free Same Day service to deliver your orders in as little as five hours - techguide.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODhYU2pXS0hBS0VnVlZLNDZ6N1BJR1lMVGFGem85TGtjQWlLaVhicEZlM0dhLU9MbFFWS1ZLUm5lcUd3THd0YlRReWZBemItamVPeHdkWkhEMGgxUThPYS1md05HaW1jMUJnR1pqT19jUS00cV9tM2J4QmRwV2wta0lrcnhnYmFNek1wbnh3blVqMHZlY0hEaTEyRlU5Rk8taEljUnVEUDkzeWtaTGl5MXphZVNDRldBV2pxSXFKVWxMV1VuRnRHU19ickstWkRteDZZX1hEbEZtYU1T?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODhYU2pXS0hBS0VnVlZLNDZ6N1BJR1lMVGFGem85TGtjQWlLaVhicEZlM0dhLU9MbFFWS1ZLUm5lcUd3THd0YlRReWZBemItamVPeHdkWkhEMGgxUThPYS1md05HaW1jMUJnR1pqT19jUS00cV9tM2J4QmRwV2wta0lrcnhnYmFNek1wbnh3blVqMHZlY0hEaTEyRlU5Rk8taEljUnVEUDkzeWtaTGl5MXphZVNDRldBV2pxSXFKVWxMV1VuRnRHU19ickstWkRteDZZX1hEbEZtYU1T?oc=5\" target=\"_blank\">Amazon launches new Prime Free Same Day service to deliver your orders in as little as five hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techguide.com.au</font>",
+      "published": "2026-08-11T02:39:07+00:00",
+      "source": "techguide.com.au"
     },
     {
-      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-05-04T07:00:00+00:00",
-      "source": "About Amazon"
+      "title": "The Wiggles Launch Official Amazon U.S. Store - License Global",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlpWYWpZLVpjRFVDd3c3QXBtY0E4SGVLRjFDWGVBU05WeERCTGhLaDc4ZE84MnRuWjdsN0U4Q2JaSmtIY2ptQXBCdFRTY1l6OFdBLWdFSTV4M3h5LXBWSldKc0RKVnVWcXVkb1FfSDNacjVyd3ZBSS1oTnpjZVk0U2pBTTZ6T185UHBLdmtnU0o?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlpWYWpZLVpjRFVDd3c3QXBtY0E4SGVLRjFDWGVBU05WeERCTGhLaDc4ZE84MnRuWjdsN0U4Q2JaSmtIY2ptQXBCdFRTY1l6OFdBLWdFSTV4M3h5LXBWSldKc0RKVnVWcXVkb1FfSDNacjVyd3ZBSS1oTnpjZVk0U2pBTTZ6T185UHBLdmtnU0o?oc=5\" target=\"_blank\">The Wiggles Launch Official Amazon U.S. Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">License Global</font>",
+      "published": "2026-07-31T12:00:15+00:00",
+      "source": "License Global"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-07",
-      "close": 274.4800109863281
+      "date": "2026-08-10",
+      "close": 278.0899963378906
     },
     "history": [
-      {
-        "date": "2026-07-30",
-        "close": 235.5
-      },
       {
         "date": "2026-07-31",
         "close": 271.5799865722656
@@ -133,6 +129,10 @@
       {
         "date": "2026-08-07",
         "close": 274.4800109863281
+      },
+      {
+        "date": "2026-08-10",
+        "close": 278.0899963378906
       }
     ],
     "name": "Amazon.com, Inc."
