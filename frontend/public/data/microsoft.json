@@ -2,79 +2,79 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-08-12T12:43:47.188681+00:00",
+  "fetched_at": "2026-08-13T12:44:53.473067+00:00",
   "news": [
     {
-      "title": "Microsoft Plugs Nearly 400 Security Holes - Krebs on Security",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0RsX3AzWi04RTF6a1hGaFdfeFRUb3M2b2pBYVdzcWRMQ05MekYtZnl1cGU4YzBubXdVTlBKeHhHbXd5aFhJcHNBaXJFdURYY29HQUNrSHFHdmQzTXNGM3gyVXN4ZVQyXzZLLTlSRkRVT25BaWtyNXZscEdudGMzXy1HTjk?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNd0RsX3AzWi04RTF6a1hGaFdfeFRUb3M2b2pBYVdzcWRMQ05MekYtZnl1cGU4YzBubXdVTlBKeHhHbXd5aFhJcHNBaXJFdURYY29HQUNrSHFHdmQzTXNGM3gyVXN4ZVQyXzZLLTlSRkRVT25BaWtyNXZscEdudGMzXy1HTjk?oc=5\" target=\"_blank\">Microsoft Plugs Nearly 400 Security Holes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Krebs on Security</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXpsM1dqWFk1LXpYZGI2c0Z5YVlGUXBiX1hXVW5kNWVfNjBRbEtwOUV2TExzMHVscmxTN19ubDFJYnRlSE5qeXR0Z1lSU0kzWEtUejlvUFF1VFVaOHBuVUtNR09EUnhvZXJQNzRvSzdqTFk0enJJckpfZ3hZVVUwalFn?oc=5\" target=\"_blank\">Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkFjSElCR1I0OVowQTRnZ05qRC1tNlAyM3I0MmsxWUVDbE93SG9lb2FLcXE4SGdZeDlNUTM5ZG9vUlFfZG9LaHZONEUzUV95N3NOY1FhLVpsV1gxaVRhNkpKQWdmR1VGOExPSUswUF9tT29xcDBPdm5EVERPanBYZDlhRUpDdUhzUHMwWUxEcG5fMkZEaVZ4cXNocGJVVFYwTGx1Q2J4NA?oc=5\" target=\"_blank\">Microsoft SharePoint JWT Token Authentication Bypass Technical Analysis (CVE-2026-55040)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rapid7</font></li></ol>",
-      "published": "2026-08-11T21:46:02+00:00",
-      "source": "Krebs on Security"
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalh6cnRnbXBUdldpdTQ4bENubjdTOU1WcHg3b3RBY1M3a0FnRWl3aTZxQnlUTlhOMzNON1JSUnRieW1pVVBvUjdDZE85MlRqa0dBOU1vRDBBcE55dk93RWNxZ25FYUtFWHdjeXdKUENFTmRZdDlJVHItSlhBVW9NZm5aY3BKazlScFRhOW9HWlltY1kwbGxqd1ZQVEl2MGZMeGFJTC12LXktVDR3cnBuRWE3cXRpWDVoQ1JEX3V6ZFpLTkdUVWFCOEFtckU4QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNalh6cnRnbXBUdldpdTQ4bENubjdTOU1WcHg3b3RBY1M3a0FnRWl3aTZxQnlUTlhOMzNON1JSUnRieW1pVVBvUjdDZE85MlRqa0dBOU1vRDBBcE55dk93RWNxZ25FYUtFWHdjeXdKUENFTmRZdDlJVHItSlhBVW9NZm5aY3BKazlScFRhOW9HWlltY1kwbGxqd1ZQVEl2MGZMeGFJTC12LXktVDR3cnBuRWE3cXRpWDVoQ1JEX3V6ZFpLTkdUVWFCOEFtckU4QQ?oc=5\" target=\"_blank\">After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-08-12T15:18:55+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Microsoft’s Homegrown AI Chip Effort Shows Signs of Life After Slow Start - The Information",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnRlVmFiMWR0QzFYTnhPczU1aVoxMEhFdTB4dXREMlQ5WTJPdEM3QWRRZjBTVmtyNnVUSmpFdHJOQ0xGak1zTk9WWHNsT0poVDByZEpYWHlkdk9XOEtCU25wbDQwaUhuRWxiNnBNX3JjalI4WWwtdlhDWHFVUHNfTVdiWWg3ajZ5QUpabFBpbDdIWk1mT2hyQnl3ZFY1cW1Db1lvd25B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnRlVmFiMWR0QzFYTnhPczU1aVoxMEhFdTB4dXREMlQ5WTJPdEM3QWRRZjBTVmtyNnVUSmpFdHJOQ0xGak1zTk9WWHNsT0poVDByZEpYWHlkdk9XOEtCU25wbDQwaUhuRWxiNnBNX3JjalI4WWwtdlhDWHFVUHNfTVdiWWg3ajZ5QUpabFBpbDdIWk1mT2hyQnl3ZFY1cW1Db1lvd25B?oc=5\" target=\"_blank\">Microsoft’s Homegrown AI Chip Effort Shows Signs of Life After Slow Start</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-08-10T13:00:00+00:00",
-      "source": "The Information"
+      "title": "CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign - The Record from Recorded Future News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVjNMVFByVnI0VEVhMmFTMWdNRzllYzJiVW9UeGFnOG1jRFc1c2pPOW9weEZvT1JaTF9MWHNIbFl0YVpjT2NpT19JLVV0SVBaSVA1OWZaOG5pX01VT1RkemJCZmdhQUJBdlp3SVJsZkItX1M4b1gyTDNUeF9sdVRIQmlMNzJ3TEs4c3ZiNVp5aVNJajA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVjNMVFByVnI0VEVhMmFTMWdNRzllYzJiVW9UeGFnOG1jRFc1c2pPOW9weEZvT1JaTF9MWHNIbFl0YVpjT2NpT19JLVV0SVBaSVA1OWZaOG5pX01VT1RkemJCZmdhQUJBdlp3SVJsZkItX1M4b1gyTDNUeF9sdVRIQmlMNzJ3TEs4c3ZiNVp5aVNJajA?oc=5\" target=\"_blank\">CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Record from Recorded Future News</font>",
+      "published": "2026-08-12T12:15:48+00:00",
+      "source": "The Record from Recorded Future News"
     },
     {
-      "title": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3lJQ2hRVnVjYkFKZGRFcmZIenNsM1FwVWI5ZGM2ZVNXSThHWlIzNHFaTjdsaTVpSXN3MWZlMTdnLWJ5U3d0dl9GYk91cVp2UzlISi1vc3FpWVRaZ1ZJTlR6bk1GMy03ekZCWWg4d0VHYXlIWW16OVRLME1neFphXzRhcjRnYlZIam11QWZlclRnS1F0YXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3lJQ2hRVnVjYkFKZGRFcmZIenNsM1FwVWI5ZGM2ZVNXSThHWlIzNHFaTjdsaTVpSXN3MWZlMTdnLWJ5U3d0dl9GYk91cVp2UzlISi1vc3FpWVRaZ1ZJTlR6bk1GMy03ekZCWWg4d0VHYXlIWW16OVRLME1neFphXzRhcjRnYlZIam11QWZlclRnS1F0YXc?oc=5\" target=\"_blank\">Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "published": "2026-08-11T19:20:55+00:00",
-      "source": "finance.yahoo.com"
+      "title": "Microsoft SharePoint JWT Token Authentication Bypass Technical Analysis (CVE-2026-55040) - Rapid7",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkFjSElCR1I0OVowQTRnZ05qRC1tNlAyM3I0MmsxWUVDbE93SG9lb2FLcXE4SGdZeDlNUTM5ZG9vUlFfZG9LaHZONEUzUV95N3NOY1FhLVpsV1gxaVRhNkpKQWdmR1VGOExPSUswUF9tT29xcDBPdm5EVERPanBYZDlhRUpDdUhzUHMwWUxEcG5fMkZEaVZ4cXNocGJVVFYwTGx1Q2J4NA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVkFjSElCR1I0OVowQTRnZ05qRC1tNlAyM3I0MmsxWUVDbE93SG9lb2FLcXE4SGdZeDlNUTM5ZG9vUlFfZG9LaHZONEUzUV95N3NOY1FhLVpsV1gxaVRhNkpKQWdmR1VGOExPSUswUF9tT29xcDBPdm5EVERPanBYZDlhRUpDdUhzUHMwWUxEcG5fMkZEaVZ4cXNocGJVVFYwTGx1Q2J4NA?oc=5\" target=\"_blank\">Microsoft SharePoint JWT Token Authentication Bypass Technical Analysis (CVE-2026-55040)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rapid7</font>",
+      "published": "2026-08-11T13:00:00+00:00",
+      "source": "Rapid7"
     },
     {
-      "title": "Why Manulife chose to expand its Microsoft AI partnership - Digital Insurance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFEwS1lnSzBqVDlTXzQ1ZVR4cUc2eHRMSDBUV0tHcGxqMzhzclRLR19MMUt3Nm45bzlYSTg0a3NCcThMeGlRcmM2cnhkeDk1TTFwVnZYQnBnY2ROMS1ObG1TMVVFcTNzME40OVlCOHlocnFHa1BWLXNPUFFXS2pnbkRxWWV1RTJIRE8xeWVsY0ZYbDQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFEwS1lnSzBqVDlTXzQ1ZVR4cUc2eHRMSDBUV0tHcGxqMzhzclRLR19MMUt3Nm45bzlYSTg0a3NCcThMeGlRcmM2cnhkeDk1TTFwVnZYQnBnY2ROMS1ObG1TMVVFcTNzME40OVlCOHlocnFHa1BWLXNPUFFXS2pnbkRxWWV1RTJIRE8xeWVsY0ZYbDQ?oc=5\" target=\"_blank\">Why Manulife chose to expand its Microsoft AI partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Insurance</font>",
-      "published": "2026-08-11T10:00:00+00:00",
-      "source": "Digital Insurance"
+      "title": "IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72 - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRFRORWsxVE9qTnpiazB2SU03NnhySi1fcjRmVTc1TVVGdm1PcUwzUkpfVllQODNsNEdoOUNnUGo0bnVneGJQZTk3dnVVeDM2QTRuNldodEQtSVBqQ3BaTFFyaEo0TlY3NUZMTGNkRUJ1SmIweHVreER5SkFjbGZMazdOQ3NzNUV0TU0wOUdBM1VVVGNKNjlJTDJfejc0a1BIUXdWT1F4VG5MZ29HTlNvZ3RWTjBIck0xN3FGTXM1bGRmQnZHZGxPRmY0bW1pUjk3VG9rODhJOHVpNkxpQ1J0bXRHSjQ0MHZYM3V6Y3BROXExWEkzZjZ5RA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRFRORWsxVE9qTnpiazB2SU03NnhySi1fcjRmVTc1TVVGdm1PcUwzUkpfVllQODNsNEdoOUNnUGo0bnVneGJQZTk3dnVVeDM2QTRuNldodEQtSVBqQ3BaTFFyaEo0TlY3NUZMTGNkRUJ1SmIweHVreER5SkFjbGZMazdOQ3NzNUV0TU0wOUdBM1VVVGNKNjlJTDJfejc0a1BIUXdWT1F4VG5MZ29HTlNvZ3RWTjBIck0xN3FGTXM1bGRmQnZHZGxPRmY0bW1pUjk3VG9rODhJOHVpNkxpQ1J0bXRHSjQ0MHZYM3V6Y3BROXExWEkzZjZ5RA?oc=5\" target=\"_blank\">IREN Delivers Horizon 1 to Microsoft and Achieves NVIDIA Exemplar Cloud Status on GB300 NVL72</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+      "published": "2026-08-13T11:33:45+00:00",
+      "source": "GlobeNewswire"
     },
     {
-      "title": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued? - global.morningstar.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjBfRnY0TGNTZklUb01LVDl2dmNiX1ZfUDdiM0pMNldvR2F5MWhzMk41UTBTS2UtbUwxWmN0dXYyNUtLR2sxeWV6bVRRYUVvOWpOVTNYc2xZLXVkaG5zcTR6Qi13eWFBNERrM3M2WjZYdm9STldxSDFlaW9ncGloUFZFdUttLVFraERQMXNjcFN3WTYtUnpEWDRRcHRveWNsZ3VPNHY1YVM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjBfRnY0TGNTZklUb01LVDl2dmNiX1ZfUDdiM0pMNldvR2F5MWhzMk41UTBTS2UtbUwxWmN0dXYyNUtLR2sxeWV6bVRRYUVvOWpOVTNYc2xZLXVkaG5zcTR6Qi13eWFBNERrM3M2WjZYdm9STldxSDFlaW9ncGloUFZFdUttLVFraERQMXNjcFN3WTYtUnpEWDRRcHRveWNsZ3VPNHY1YVM?oc=5\" target=\"_blank\">After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
-      "published": "2026-08-11T06:13:12+00:00",
-      "source": "global.morningstar.com"
+      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5\" target=\"_blank\">EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-13T11:17:02+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Microsoft stock just cleared a big hurdle but still trails the S&P 500 - finance.yahoo.com",
+      "title": "Microsoft stock just cleared a big hurdle but still trails the S&P 500 - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEpDSHI2ekgwei13NHYtQk9OVTFINTJMUW5mZjJySjJQR3VDR0dTdVJkd1JucGR1dU54amFUM0ZnZ2FzLUxabzlMVXJpY3JJcG5GdVVCTjFZSkVvLWd4NzY3U3hLZjhVR2Z5T2pmYkZiaEtWMzA5X29NMGptYkxZS01vdXc5WXdpdndfbHU2UU14aTIzM0laUWJfSzg1ekt2RkM3NlN6dkJfVWxEZV80SzQ2SF9kRzd1MHFHWGNOaVktaXh4ZzI2c3RjTTR2UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEpDSHI2ekgwei13NHYtQk9OVTFINTJMUW5mZjJySjJQR3VDR0dTdVJkd1JucGR1dU54amFUM0ZnZ2FzLUxabzlMVXJpY3JJcG5GdVVCTjFZSkVvLWd4NzY3U3hLZjhVR2Z5T2pmYkZiaEtWMzA5X29NMGptYkxZS01vdXc5WXdpdndfbHU2UU14aTIzM0laUWJfSzg1ekt2RkM3NlN6dkJfVWxEZV80SzQ2SF9kRzd1MHFHWGNOaVktaXh4ZzI2c3RjTTR2UQ?oc=5\" target=\"_blank\">Microsoft stock just cleared a big hurdle but still trails the S&amp;P 500</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVEpDSHI2ekgwei13NHYtQk9OVTFINTJMUW5mZjJySjJQR3VDR0dTdVJkd1JucGR1dU54amFUM0ZnZ2FzLUxabzlMVXJpY3JJcG5GdVVCTjFZSkVvLWd4NzY3U3hLZjhVR2Z5T2pmYkZiaEtWMzA5X29NMGptYkxZS01vdXc5WXdpdndfbHU2UU14aTIzM0laUWJfSzg1ekt2RkM3NlN6dkJfVWxEZV80SzQ2SF9kRzd1MHFHWGNOaVktaXh4ZzI2c3RjTTR2UQ?oc=5\" target=\"_blank\">Microsoft stock just cleared a big hurdle but still trails the S&amp;P 500</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2026-08-11T13:08:43+00:00",
-      "source": "finance.yahoo.com"
+      "source": "Yahoo Finance"
     },
     {
-      "title": "I've Been Wrong About Microsoft Stock for Years. Here's Why I'm Finally Changing My Mind. - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmJRQmR0NzU0Vk53QjNsNThLdE1NZlgzRHo4TnFlZ0Z3MzBKdzZZenBjV09CVmFja3hRYV80RnRCbTRBdjBQa2lMeUFsX3JiWG10bmx6eUcyNGxRbGV5Z3B6ZjJaY29uYWxRV2pMNnpoTmF0TDhZUGRRWUdKMHF0dk1hbW1RUFlNWVZJcmlzOVo4S0JKUS1Gbzc5RFg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmJRQmR0NzU0Vk53QjNsNThLdE1NZlgzRHo4TnFlZ0Z3MzBKdzZZenBjV09CVmFja3hRYV80RnRCbTRBdjBQa2lMeUFsX3JiWG10bmx6eUcyNGxRbGV5Z3B6ZjJaY29uYWxRV2pMNnpoTmF0TDhZUGRRWUdKMHF0dk1hbW1RUFlNWVZJcmlzOVo4S0JKUS1Gbzc5RFg?oc=5\" target=\"_blank\">I've Been Wrong About Microsoft Stock for Years. Here's Why I'm Finally Changing My Mind.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "published": "2026-08-12T10:20:00+00:00",
-      "source": "finance.yahoo.com"
+      "title": "Palantir and Microsoft Drop. Why the AI Revival Is Hitting Software Stocks. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0JhWmVXaDRZdmZhMHpLb3RlRGpiWlVFc1dEaE5LbUFFai1Ob1ZyeXg4R09GbG9oVGd4WE94ZWdjckVvZ3NHcEo0TlhkeHIzQ2wwZWF6NGxOSmtFSlNPUGFRVnAxOWd3bnpHb2JxcWpOTUthZWhqV1VHX2JuYjBBdjVNNzY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0JhWmVXaDRZdmZhMHpLb3RlRGpiWlVFc1dEaE5LbUFFai1Ob1ZyeXg4R09GbG9oVGd4WE94ZWdjckVvZ3NHcEo0TlhkeHIzQ2wwZWF6NGxOSmtFSlNPUGFRVnAxOWd3bnpHb2JxcWpOTUthZWhqV1VHX2JuYjBBdjVNNzY?oc=5\" target=\"_blank\">Palantir and Microsoft Drop. Why the AI Revival Is Hitting Software Stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-08-12T20:45:00+00:00",
+      "source": "Barron's"
     },
     {
-      "title": "S&P Global Expands Collaboration with Microsoft, Brings Breadth of Essential Intelligence to Microsoft 365 Copilot - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0xueVl1NjROQnJZN2doUUdCa3N2WEVYNkNCQ2pQY2FJb2NHSEMza2MzdGxvRU5UVVc5X05DV2VsbzVzSDA0b0QzcEU0aHdmZWltamNlWmRRNXptR1JnV24ydS00cEFQNS0tREhIcGFfRXdtdGpqYXVsMWxpTVoxeTl3RmJ0SF9NWTY4eUNlRXZBVl9uRkFGMjFzVFVSZDZWdkQzcTJCbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0xueVl1NjROQnJZN2doUUdCa3N2WEVYNkNCQ2pQY2FJb2NHSEMza2MzdGxvRU5UVVc5X05DV2VsbzVzSDA0b0QzcEU0aHdmZWltamNlWmRRNXptR1JnV24ydS00cEFQNS0tREhIcGFfRXdtdGpqYXVsMWxpTVoxeTl3RmJ0SF9NWTY4eUNlRXZBVl9uRkFGMjFzVFVSZDZWdkQzcTJCbw?oc=5\" target=\"_blank\">S&amp;P Global Expands Collaboration with Microsoft, Brings Breadth of Essential Intelligence to Microsoft 365 Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
-      "published": "2026-08-12T12:00:00+00:00",
-      "source": "finance.yahoo.com"
+      "title": "Microsoft Is Still Negative 1 Year Later: 76% Increase Lies Ahead According to This Analyst - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXBNWEFtRmw5aDY3UFJySmtkYzRqbTFnczBLS1Vqa1lpTHFvaWZBM0tacUtNb0VwdElVVkdMaGZDZ1RDb3JMQUdOWnFEdm14LUVuS2w1ZlJmcC1rYVoyVjVWNU9ENUx3VUdkYkFWRnp0a2hfZ1J5bzMxa01zRkRTZGNEdTNQT0sxenlyM0F4eDctMldtaUNXb3cyenJ3Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQXBNWEFtRmw5aDY3UFJySmtkYzRqbTFnczBLS1Vqa1lpTHFvaWZBM0tacUtNb0VwdElVVkdMaGZDZ1RDb3JMQUdOWnFEdm14LUVuS2w1ZlJmcC1rYVoyVjVWNU9ENUx3VUdkYkFWRnp0a2hfZ1J5bzMxa01zRkRTZGNEdTNQT0sxenlyM0F4eDctMldtaUNXb3cyenJ3Zw?oc=5\" target=\"_blank\">Microsoft Is Still Negative 1 Year Later: 76% Increase Lies Ahead According to This Analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-08-13T11:20:35+00:00",
+      "source": "Yahoo Finance"
     }
   ],
   "product_launches": [
     {
-      "title": "Sionic Launches Instant Bank Pay in U.S. Through Microsoft Marketplace - Business Wire",
+      "title": "Sionic Launches Instant Bank Pay in U.S. Through Microsoft Marketplace - businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVExoZVYyempmVTBiMUJfbmxOSEkxdWJZaUdyVUlBOS14SkRIR1dURGlLY0M2cFBYZEVfUHIzVnkwU0lkbzhrTUpPaW5YbzJhSTRxY1p3QUhaN3E3djQ2M2lGMjRNRnJEd3hWVVZqenVkR3p3S1hZLUdMbzQ5a3N6TW5PZWQwVWJOVmJuRXBJNXp3cXNQWWJDeEQwSTMwQ1JqN3VoN3lhTTlxak1TNHhSNF9Na1JhMTIzSXVyQjFBQkllblUxLUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVExoZVYyempmVTBiMUJfbmxOSEkxdWJZaUdyVUlBOS14SkRIR1dURGlLY0M2cFBYZEVfUHIzVnkwU0lkbzhrTUpPaW5YbzJhSTRxY1p3QUhaN3E3djQ2M2lGMjRNRnJEd3hWVVZqenVkR3p3S1hZLUdMbzQ5a3N6TW5PZWQwVWJOVmJuRXBJNXp3cXNQWWJDeEQwSTMwQ1JqN3VoN3lhTTlxak1TNHhSNF9Na1JhMTIzSXVyQjFBQkllblUxLUE?oc=5\" target=\"_blank\">Sionic Launches Instant Bank Pay in U.S. Through Microsoft Marketplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVExoZVYyempmVTBiMUJfbmxOSEkxdWJZaUdyVUlBOS14SkRIR1dURGlLY0M2cFBYZEVfUHIzVnkwU0lkbzhrTUpPaW5YbzJhSTRxY1p3QUhaN3E3djQ2M2lGMjRNRnJEd3hWVVZqenVkR3p3S1hZLUdMbzQ5a3N6TW5PZWQwVWJOVmJuRXBJNXp3cXNQWWJDeEQwSTMwQ1JqN3VoN3lhTTlxak1TNHhSNF9Na1JhMTIzSXVyQjFBQkllblUxLUE?oc=5\" target=\"_blank\">Sionic Launches Instant Bank Pay in U.S. Through Microsoft Marketplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">businesswire.com</font>",
       "published": "2026-08-12T12:30:00+00:00",
-      "source": "Business Wire"
+      "source": "businesswire.com"
     },
     {
-      "title": "Copilot Cowork: A new way of getting work done - microsoft.com",
+      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">microsoft.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
       "published": "2026-03-09T07:00:00+00:00",
-      "source": "microsoft.com"
+      "source": "Microsoft"
     },
     {
       "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Encyclopedia Britannica",
@@ -91,25 +91,21 @@
       "source": "Windows Blog"
     },
     {
-      "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - finance.yahoo.com",
+      "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5\" target=\"_blank\">ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5\" target=\"_blank\">ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2026-07-21T07:00:00+00:00",
-      "source": "finance.yahoo.com"
+      "source": "Yahoo Finance"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-11",
-      "close": 503.80999755859375
+      "date": "2026-08-12",
+      "close": 492.42999267578125
     },
     "history": [
-      {
-        "date": "2026-08-03",
-        "close": 487.6499938964844
-      },
       {
         "date": "2026-08-04",
         "close": 492.80999755859375
@@ -133,6 +129,10 @@
       {
         "date": "2026-08-11",
         "close": 503.80999755859375
+      },
+      {
+        "date": "2026-08-12",
+        "close": 492.42999267578125
       }
     ],
     "name": "Microsoft Corporation"
