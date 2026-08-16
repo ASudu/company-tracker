@@ -2,8 +2,15 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-08-15T12:17:25.174267+00:00",
+  "fetched_at": "2026-08-16T12:18:25.344816+00:00",
   "news": [
+    {
+      "title": "Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features) - lifehacker.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5\" target=\"_blank\">Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lifehacker.com</font>",
+      "published": "2026-08-14T21:30:00+00:00",
+      "source": "lifehacker.com"
+    },
     {
       "title": "Microsoft Walks Away From China - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3MtbVJnb3ZnVllmLW5FYzVJZHFlZXl3dUJuVWcwMnp6U043V2dkQnJOYXVNX0hYQkpDY3hGUVlDRnNhaG5aZTdiNkk5ZTNqUnpiU3lzdHZqOGpCbVF2Wk9pMXR1WXYweTltTjNMckh3RExKWkJnbHcySERLdTlqTGdqb2ZzdF92d2hMVzA2NmI?oc=5",
@@ -12,63 +19,49 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1U3bmhsSG43ejd1b250NHlkTjdfSG9IbmZxTS1mTlUzTllwSzNSVTltUm05UXJ0UVNTZGlfNFk5TlIzNWFVOUcwWVY2S25kZkhlNDQ3Vngxb05hRG5JaU01M2VycjV0ZDliSUNITFhEX0VPdmtfUmJYeXZQS3loNGxudWthcFZFZnRILUhVMFRDcWJfd0psWVlPbTNTaU5VaUJPNTB3b0g3Ti1KV21MRDFQVG8xeWtCRE9GS0F4eWRHYjVE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1U3bmhsSG43ejd1b250NHlkTjdfSG9IbmZxTS1mTlUzTllwSzNSVTltUm05UXJ0UVNTZGlfNFk5TlIzNWFVOUcwWVY2S25kZkhlNDQ3Vngxb05hRG5JaU01M2VycjV0ZDliSUNITFhEX0VPdmtfUmJYeXZQS3loNGxudWthcFZFZnRILUhVMFRDcWJfd0psWVlPbTNTaU5VaUJPNTB3b0g3Ti1KV21MRDFQVG8xeWtCRE9GS0F4eWRHYjVE?oc=5\" target=\"_blank\">Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9qalV2T2J3amIwRmQxN182WHhGWUt3LXQ4Uk45cG5nSFhySWcyMEdYUFZfNVJvWUpPaWN1Z05qQVJCVFFqZGVfYTdGT3UzSWdDN2NJSC13Mmw4azROcHFZR0JUbzAzU2htZEZTeDZRX19IdERHU3c?oc=5\" target=\"_blank\">Microsoft’s Clippy-like Mico character is no longer the face of Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYTc0TldJOTlyVl9fS0V3YjI1T3NISE1aYUo0enJJSWNvRDhoOWZZaVRRZUwwTDlKN2Y0WUR0bW14UHZ6STEyMEl6bkpwSjQwUmRocDdEek1DSDZ3TU1pMVJZVkxpRGRSSFRqZ1M5V1E?oc=5\" target=\"_blank\">Microsoft Is Combining Its Two 'Copilot' Apps (and Ditching These Three Features)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lifehacker.com</font></li></ol>",
-      "published": "2026-08-13T13:30:43+00:00",
-      "source": "GeekWire"
+      "title": "Microsoft threatened legal action, and this researcher just dropped a new Windows bug anyway - Currently.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3ZsM1VXV2tyVHVWa0g2dkpmUXFidzEteng4NnBNRml5dVRxR2g5OGl0S0xHZWoxT1NDaExuT2N2XzhyQXlLQ0dFN254c05oc1kyb0h5TGI0eWFUZjc1YWx3cHdHZWVfSmRWeko4eHNXc2tXUGcydlA5NjVfMkRHYnA1V0pCM2pyWWd3SjJWNHlpSDlBRlNESTBzSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3ZsM1VXV2tyVHVWa0g2dkpmUXFidzEteng4NnBNRml5dVRxR2g5OGl0S0xHZWoxT1NDaExuT2N2XzhyQXlLQ0dFN254c05oc1kyb0h5TGI0eWFUZjc1YWx3cHdHZWVfSmRWeko4eHNXc2tXUGcydlA5NjVfMkRHYnA1V0pCM2pyWWd3SjJWNHlpSDlBRlNESTBzSQ?oc=5\" target=\"_blank\">Microsoft threatened legal action, and this researcher just dropped a new Windows bug anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Currently.com</font>",
+      "published": "2026-08-16T10:53:47+00:00",
+      "source": "Currently.com"
     },
     {
-      "title": "Why this analyst sees another 30% rip in Microsoft stock - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVU4eEMyS3pWYU1SSnNwRzdYdjlQLU5QdUpteG9NdlBKRVpaay1mVEFzRGFuQ1BxVmYwRDhlNS1mazlZUU9mMmJZd3hUbm9TcU1fUFRiSFRzV0cxaV9WZ0VBc0MtNnpkbXJHaXNGRHZZTnNWNGVlLTBsS3V0SnFocHUwMS1yWjF5V0luLXN6bndLcU1KUkFXN251dUlubzVVQ1NhUjZucl9SYTRvUzJMZDVHaVpSelFBdXJr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVU4eEMyS3pWYU1SSnNwRzdYdjlQLU5QdUpteG9NdlBKRVpaay1mVEFzRGFuQ1BxVmYwRDhlNS1mazlZUU9mMmJZd3hUbm9TcU1fUFRiSFRzV0cxaV9WZ0VBc0MtNnpkbXJHaXNGRHZZTnNWNGVlLTBsS3V0SnFocHUwMS1yWjF5V0luLXN6bndLcU1KUkFXN251dUlubzVVQ1NhUjZucl9SYTRvUzJMZDVHaVpSelFBdXJr?oc=5\" target=\"_blank\">Why this analyst sees another 30% rip in Microsoft stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-13T13:27:16+00:00",
-      "source": "Yahoo Finance"
+      "title": "Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet. - Currently.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1BLeE5KN19ZWUswUTd6OWNscUVyeEM5TXVXM2Q2TEp1M2pBTERyRkNJUnlpbWgwbGtsWTNVWFljNTNKT2tyTW5zSG9lTW4wX0JxYmxfbVA2S0dIQ0RTeGJkLVdqbWUzNERjYVRfeTJTdWdZQzJtclRmY3NzZUc5blhHZDBiaGFQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1BLeE5KN19ZWUswUTd6OWNscUVyeEM5TXVXM2Q2TEp1M2pBTERyRkNJUnlpbWgwbGtsWTNVWFljNTNKT2tyTW5zSG9lTW4wX0JxYmxfbVA2S0dIQ0RTeGJkLVdqbWUzNERjYVRfeTJTdWdZQzJtclRmY3NzZUc5blhHZDBiaGFQ?oc=5\" target=\"_blank\">Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Currently.com</font>",
+      "published": "2026-08-16T11:14:00+00:00",
+      "source": "Currently.com"
     },
     {
-      "title": "Berkshire Bought Alphabet Stock in Q2—and Maybe Microsoft Too - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX00zeUppajZKTldIaHNwSFpVRWdsM19iLWtfZ0V1NXRObVVlLTltdzhyMGZCRzQ5UzlGVlNGcmxYT2ZQS2JoNFZOWF8tdlA4UFV2eVhsWE9yLWxZSkVacXN2M0FXbXQyMzFCWFdMQ3NRNkl5eEt6bWpNdGZqSWU5b3BDXzloTjVBSE5oMERn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOX00zeUppajZKTldIaHNwSFpVRWdsM19iLWtfZ0V1NXRObVVlLTltdzhyMGZCRzQ5UzlGVlNGcmxYT2ZQS2JoNFZOWF8tdlA4UFV2eVhsWE9yLWxZSkVacXN2M0FXbXQyMzFCWFdMQ3NRNkl5eEt6bWpNdGZqSWU5b3BDXzloTjVBSE5oMERn?oc=5\" target=\"_blank\">Berkshire Bought Alphabet Stock in Q2—and Maybe Microsoft Too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-08-13T20:07:00+00:00",
-      "source": "Barron's"
+      "title": "Microsoft Office 2024 Professional Plus is down to $54.99 for a lifetime license - Popular Science",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3VkOWgwa1N0VGpfMjVELWxwc2xBcFN5TU9tVGZjWnRTdjNZbnl0T0hWY2lqbkZWS09OTndTN1hhVER1VlFIT0VIUHl6SC1DaFNmMGRXbEdWVEtOWnpOdktrY2hZNFZLQ3Azc01PYkJ6dE1IVk16T1JUMFRTVFZGOHVzVldXUXdZdXdkbmdNbENqeElsX1ZiLXpNS2hqMmYxMnZOWFpST05FYU5Ed1Vwb3B0d3JGTUpfSEVYczAwOW9wZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3VkOWgwa1N0VGpfMjVELWxwc2xBcFN5TU9tVGZjWnRTdjNZbnl0T0hWY2lqbkZWS09OTndTN1hhVER1VlFIT0VIUHl6SC1DaFNmMGRXbEdWVEtOWnpOdktrY2hZNFZLQ3Azc01PYkJ6dE1IVk16T1JUMFRTVFZGOHVzVldXUXdZdXdkbmdNbENqeElsX1ZiLXpNS2hqMmYxMnZOWFpST05FYU5Ed1Vwb3B0d3JGTUpfSEVYczAwOW9wZw?oc=5\" target=\"_blank\">Microsoft Office 2024 Professional Plus is down to $54.99 for a lifetime license</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Popular Science</font>",
+      "published": "2026-08-15T12:00:00+00:00",
+      "source": "Popular Science"
     },
     {
-      "title": "Better Tech Behemoth: Alphabet vs. Microsoft Stock - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLU9rdHExalNNY1hEYnFYUUFrQWlEWlVYQVY4SVJEdEJOQi0wdU5reUJPUms1Tkdid28xZzB4VzNIdC1yVjlkQ19QSFRnRENUc004b3M1Ym9BNWZ1cGZDLV9PbVdEeGVzelNwdHRrU09UYm5RYzM0Z09oRU1CLWlaMDJhWWU4MF9wVlBnSGJYZ05xNUdYQ3VpZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLU9rdHExalNNY1hEYnFYUUFrQWlEWlVYQVY4SVJEdEJOQi0wdU5reUJPUms1Tkdid28xZzB4VzNIdC1yVjlkQ19QSFRnRENUc004b3M1Ym9BNWZ1cGZDLV9PbVdEeGVzelNwdHRrU09UYm5RYzM0Z09oRU1CLWlaMDJhWWU4MF9wVlBnSGJYZ05xNUdYQ3VpZw?oc=5\" target=\"_blank\">Better Tech Behemoth: Alphabet vs. Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-08-14T12:15:00+00:00",
-      "source": "The Motley Fool"
+      "title": "Windows 11 is heading for a new look as Microsoft replaces another legacy interface with WinUI 3 - Windows Latest",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU01VUhCeFgtWFd1Z1hfV1M3NVVLTjVWRG9UcUlwWW1CaEFrTEROYlh4RGRsNXI1TGZtd0p2Vnh6bktIdWRLVTZPRTFjNlkwWDMydFBhekN2TkQ2RTRnTVhOb1pUZHduSUgyek5ZSjJzRE9VQWd3dExLNkplN1FsS1FMOVVvTTVxa3dnZkh1T0VTbDZtY05EMndpV3JKN3k0cm9lM0tKbmhvMVpWSUhmSTBpUnJpWFRxOHhMaUtZSk9EU0x4TFFMbE1OWXVXWTlxdEhDcQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU01VUhCeFgtWFd1Z1hfV1M3NVVLTjVWRG9UcUlwWW1CaEFrTEROYlh4RGRsNXI1TGZtd0p2Vnh6bktIdWRLVTZPRTFjNlkwWDMydFBhekN2TkQ2RTRnTVhOb1pUZHduSUgyek5ZSjJzRE9VQWd3dExLNkplN1FsS1FMOVVvTTVxa3dnZkh1T0VTbDZtY05EMndpV3JKN3k0cm9lM0tKbmhvMVpWSUhmSTBpUnJpWFRxOHhMaUtZSk9EU0x4TFFMbE1OWXVXWTlxdEhDcQ?oc=5\" target=\"_blank\">Windows 11 is heading for a new look as Microsoft replaces another legacy interface with WinUI 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Latest</font>",
+      "published": "2026-08-16T00:07:02+00:00",
+      "source": "Windows Latest"
     },
     {
-      "title": "Proofpoint, Microsoft Outlook users report outages Friday morning - News4JAX",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzhteXdWb3Y3ZkoyNFJkaktnVnlVTzdyYjFPYkFBSFE5THVLTkU1R2swNEpoZ2l0UUNqR2ZEOFg5WVNocC1tYjNJZXREa0JRT1ZZak9qOHBUNlhid2hUZXFsZ0czUElicGpQcDF1dl84MTZCWFI1azlLN05nM2RuYnFPRlREYjNUaDBtVVlMTVhmeTRYSXdlN0xTMF9ET0h6UnRGTE5fdXloeEpOVGY1cll3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzhteXdWb3Y3ZkoyNFJkaktnVnlVTzdyYjFPYkFBSFE5THVLTkU1R2swNEpoZ2l0UUNqR2ZEOFg5WVNocC1tYjNJZXREa0JRT1ZZak9qOHBUNlhid2hUZXFsZ0czUElicGpQcDF1dl84MTZCWFI1azlLN05nM2RuYnFPRlREYjNUaDBtVVlMTVhmeTRYSXdlN0xTMF9ET0h6UnRGTE5fdXloeEpOVGY1cll3?oc=5\" target=\"_blank\">Proofpoint, Microsoft Outlook users report outages Friday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News4JAX</font>",
-      "published": "2026-08-14T15:49:20+00:00",
-      "source": "News4JAX"
+      "title": "Tech News This Week: Microsoft May Be “Significantly Increasing” Windows 11 Pricing, YouTube Doubles Creators’ Earnings Requirements - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcmFMdTUycldTMG14aGlGc1JCdE1sbVRrSnRaV0d1VTNBUENTZ3dVUEdpZ21XdHhQNVN5RkNJakI0LUJYcTJnTWx5d3FKSWxyV3ZSaHFfcjBIQWdobHh2ZEFvTEIyX1R5X0EtMHhSNUxBdkEwUDdTU3RxZFY3NXBST2VlMk0wTFd3aGphQ05jXzNNb21vUWZjQmJITWlwV0ZfT2ozV201S09WZjdra3RtOTFzVTl3WjZlRlNMZjVjdVZzX1BodThqMmhLbWhxbF81SUllX1RENHNDYUdBNERlYTFZZWFTdUNXaU1JY1VieWtFMEE5S0tYTE8tbjFMZTJzdVh3M3VVTG13MGRZb08wQUN5QmE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPcmFMdTUycldTMG14aGlGc1JCdE1sbVRrSnRaV0d1VTNBUENTZ3dVUEdpZ21XdHhQNVN5RkNJakI0LUJYcTJnTWx5d3FKSWxyV3ZSaHFfcjBIQWdobHh2ZEFvTEIyX1R5X0EtMHhSNUxBdkEwUDdTU3RxZFY3NXBST2VlMk0wTFd3aGphQ05jXzNNb21vUWZjQmJITWlwV0ZfT2ozV201S09WZjdra3RtOTFzVTl3WjZlRlNMZjVjdVZzX1BodThqMmhLbWhxbF81SUllX1RENHNDYUdBNERlYTFZZWFTdUNXaU1JY1VieWtFMEE5S0tYTE8tbjFMZTJzdVh3M3VVTG13MGRZb08wQUN5QmE?oc=5\" target=\"_blank\">Tech News This Week: Microsoft May Be “Significantly Increasing” Windows 11 Pricing, YouTube Doubles Creators’ Earnings Requirements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-08-16T11:00:00+00:00",
+      "source": "Forbes"
     },
     {
-      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5\" target=\"_blank\">EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-13T14:47:26+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Ex-Microsoft engineer builds Outlook rival using a lost Windows feature - Neowin",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWNnR1BtT0ZlaUpsZ0lCeDN4a1E2OC05dWhJNDFFTVo2UHRJVVBQVjdMT3lhX2NyRktxeTlBOWJLLTE1VW1HX3dmUWhJeWQzTkpDQ29rNk5MOEh4LVVDaDVOVGhDUzlMcmlhM3d0YnJvbU5CWFFIMmcwaDJGQUJfSEtCR045Umh5bmt3UGJmZEwxQ24yOHhSR1hSMnRYWW13U2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWNnR1BtT0ZlaUpsZ0lCeDN4a1E2OC05dWhJNDFFTVo2UHRJVVBQVjdMT3lhX2NyRktxeTlBOWJLLTE1VW1HX3dmUWhJeWQzTkpDQ29rNk5MOEh4LVVDaDVOVGhDUzlMcmlhM3d0YnJvbU5CWFFIMmcwaDJGQUJfSEtCR045Umh5bmt3UGJmZEwxQ24yOHhSR1hSMnRYWW13U2c?oc=5\" target=\"_blank\">Ex-Microsoft engineer builds Outlook rival using a lost Windows feature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
-      "published": "2026-08-15T07:12:00+00:00",
-      "source": "Neowin"
+      "title": "Windows 11's context menus are getting a major glow up: Hands on! - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdmp1Q1VWQlpPZ25Jbmpfc0tyWTRLcjFwQzNXbjdReGtQci1kWGN6dzE0ZXJsS0FIWkFPOFZRNFJ1cFBDajd6c2pxd0VEUTZsUUpsb1AyNG94ZjBxNUl5NkdwMXRDY0IyZjYzXzdQdUxSTjlqbVV1TlgtSkxCcUM5ekhqZERBNkw0UXFObW9KSWdBYUpaczNheUdFZTdBaXJFNUxsdkRBUm9DTzhUYlZUZWE2cm1jWl9KMVNQT25NX1NmQVpTeHR3TERROW5Md0doYzFRN1oySkRwTEYzTVBZQ1BFMWFVYWhmOXRyR1VuUGxWUkRQSk9RZVBIZ1REY0pXbVNhNy1jMGlrZGs4bEZSc0RrMXBuc0kwNUUxejRpRFkxVUJSZXVMY0t0eXBCcl9jWUtmQWZYQm1reExzd2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxNdmp1Q1VWQlpPZ25Jbmpfc0tyWTRLcjFwQzNXbjdReGtQci1kWGN6dzE0ZXJsS0FIWkFPOFZRNFJ1cFBDajd6c2pxd0VEUTZsUUpsb1AyNG94ZjBxNUl5NkdwMXRDY0IyZjYzXzdQdUxSTjlqbVV1TlgtSkxCcUM5ekhqZERBNkw0UXFObW9KSWdBYUpaczNheUdFZTdBaXJFNUxsdkRBUm9DTzhUYlZUZWE2cm1jWl9KMVNQT25NX1NmQVpTeHR3TERROW5Md0doYzFRN1oySkRwTEYzTVBZQ1BFMWFVYWhmOXRyR1VuUGxWUkRQSk9RZVBIZ1REY0pXbVNhNy1jMGlrZGs4bEZSc0RrMXBuc0kwNUUxejRpRFkxVUJSZXVMY0t0eXBCcl9jWUtmQWZYQm1reExzd2c?oc=5\" target=\"_blank\">Windows 11's context menus are getting a major glow up: Hands on!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-08-15T20:25:13+00:00",
+      "source": "Windows Central"
     }
   ],
   "product_launches": [
-    {
-      "title": "Sionic Launches Instant Bank Pay in U.S. Through Microsoft Marketplace - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVExoZVYyempmVTBiMUJfbmxOSEkxdWJZaUdyVUlBOS14SkRIR1dURGlLY0M2cFBYZEVfUHIzVnkwU0lkbzhrTUpPaW5YbzJhSTRxY1p3QUhaN3E3djQ2M2lGMjRNRnJEd3hWVVZqenVkR3p3S1hZLUdMbzQ5a3N6TW5PZWQwVWJOVmJuRXBJNXp3cXNQWWJDeEQwSTMwQ1JqN3VoN3lhTTlxak1TNHhSNF9Na1JhMTIzSXVyQjFBQkllblUxLUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVExoZVYyempmVTBiMUJfbmxOSEkxdWJZaUdyVUlBOS14SkRIR1dURGlLY0M2cFBYZEVfUHIzVnkwU0lkbzhrTUpPaW5YbzJhSTRxY1p3QUhaN3E3djQ2M2lGMjRNRnJEd3hWVVZqenVkR3p3S1hZLUdMbzQ5a3N6TW5PZWQwVWJOVmJuRXBJNXp3cXNQWWJDeEQwSTMwQ1JqN3VoN3lhTTlxak1TNHhSNF9Na1JhMTIzSXVyQjFBQkllblUxLUE?oc=5\" target=\"_blank\">Sionic Launches Instant Bank Pay in U.S. Through Microsoft Marketplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
-      "published": "2026-08-12T12:30:00+00:00",
-      "source": "Business Wire"
-    },
     {
       "title": "Copilot Cowork: A new way of getting work done - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
@@ -84,6 +77,13 @@
       "source": "Windows Blog"
     },
     {
+      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Encyclopedia Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, & Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
+      "published": "2026-08-12T23:58:00+00:00",
+      "source": "Encyclopedia Britannica"
+    },
+    {
       "title": "ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmpEMjdmNnVManBJRzhEUFluYjlTNUxGbDNQTExsTUtsM3RRbm9nZWlzOEFMQ2pGeUh6Z1Z0RjdIREFLWGl1YWhqSXNIbDhDVS1MdVVYdk1wbTFfUHJvN2xzbG5oVTY3Zl9WUzBMTmdtTHVUNFZCMVdWSHpFX3pGQnB0RVVyVHRZUVJRa09FNWFRYmRVWHRwd2xfTmZtOXdOT0IzU2NR?oc=5\" target=\"_blank\">ESW launches agentic commerce with Microsoft Copilot, connecting AI-driven discovery to checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -91,11 +91,11 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Encyclopedia Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, & Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Encyclopedia Britannica</font>",
-      "published": "2026-08-10T12:23:00+00:00",
-      "source": "Encyclopedia Britannica"
+      "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5\" target=\"_blank\">Microsoft Launches Its Own Legal Agent For Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artificial Lawyer</font>",
+      "published": "2026-04-30T07:00:00+00:00",
+      "source": "Artificial Lawyer"
     }
   ],
   "stock": {

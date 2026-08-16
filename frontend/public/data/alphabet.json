@@ -2,66 +2,73 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-08-15T12:17:27.531187+00:00",
+  "fetched_at": "2026-08-16T12:18:27.506171+00:00",
   "news": [
-    {
-      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5\" target=\"_blank\">Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDA2LXNVSi01cG5mbEcxc29nMFdzTVIzYVpYcmkxcHhaTzZiYW9iSC1KWFpsdjFyWXFhSnd0aWZ2ekFFN0o4SF9rTk4xWDJMSUZNMTh5b2NJeDJucVFwMVhQb29CcUtOcVhJYmFFY01IaS1NZU90V191LWs0R3dwT0c1SDZ3NXpxenlCWFViaVNpeU9BNHc2MC1ZWlhVZnlOSGthcW54UFllMmhrNkFHUjhB?oc=5\" target=\"_blank\">Berkshire boosted its Alphabet stake by 83% during its biggest stock-buying quarter in years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTM0S3RnSVR5MnNmSk5NVWpoVVphSlA4ZkFRNFNwY1dJVFZULWkwSGJmeDZrcG5qNm1VM3I1SlNjQTVQamp5Sy1QNW13TkhtdXVTRVVtVk10YWdHNWZKaXZDRlM1NGNUMG9YemhfTG43REtfVFhIUXRGV28weVJIU2FhaG1kTUtHaWJkWGFzek9qTzc0ZkZqT2JEbjhXSWk2U2EzdV9KMGdISUh2NEVRR3hZQ0FqelNPVkE?oc=5\" target=\"_blank\">Berkshire Adds to Alphabet Stake, Buys Home Builders and Exits Constellation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
-      "published": "2026-08-14T20:31:30+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Alphabet vs. Oracle: Which Is the Better AI Stock to Own for the Next 5 Years? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0tzSmpoX1AyMnBmckFTbGd6S3E1UlhoQ1VzeVczYVB6Njk0bjA5ZTNUVzRTRmljenRXMzY1UWx4dGcyQUNkckd3dXV5bHI0a1ZxcWhReFdoNFZTMmVRM210MDkyM1phU1ozc1d3bzlabmJfWnViNng0c3I5VDVjZXExNmM2dDFuQ3A3YzJmTkg2UjY2b0M0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0tzSmpoX1AyMnBmckFTbGd6S3E1UlhoQ1VzeVczYVB6Njk0bjA5ZTNUVzRTRmljenRXMzY1UWx4dGcyQUNkckd3dXV5bHI0a1ZxcWhReFdoNFZTMmVRM210MDkyM1phU1ozc1d3bzlabmJfWnViNng0c3I5VDVjZXExNmM2dDFuQ3A3YzJmTkg2UjY2b0M0?oc=5\" target=\"_blank\">Alphabet vs. Oracle: Which Is the Better AI Stock to Own for the Next 5 Years?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-15T11:48:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Sundar Pichai's Alphabet Reported Negative Free Cash Flow for the First Time Ever. Here's Why That Milestone Matters for Shareholders. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXRHZkprc3JvckswNFc5TW9Ib2x0UUUzX2V5cDAwTDdjOF80alAxS09hRDhlNWpib1otNWIzQmU4Z2c5d1ljd3drU29kVWhSUXBMVHFlVDRHckxxRFJGWHJLMVhER1BxZWxnaXBoQWFqeklPTXNtTWp0MW9HU3l2RWJfYWdWVlVWc2NUcGlfNEhVOVFzVG1HTlpwaFM4eG5zbHZZcFFkangtZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXRHZkprc3JvckswNFc5TW9Ib2x0UUUzX2V5cDAwTDdjOF80alAxS09hRDhlNWpib1otNWIzQmU4Z2c5d1ljd3drU29kVWhSUXBMVHFlVDRHckxxRFJGWHJLMVhER1BxZWxnaXBoQWFqeklPTXNtTWp0MW9HU3l2RWJfYWdWVlVWc2NUcGlfNEhVOVFzVG1HTlpwaFM4eG5zbHZZcFFkangtZw?oc=5\" target=\"_blank\">Sundar Pichai's Alphabet Reported Negative Free Cash Flow for the First Time Ever. Here's Why That Milestone Matters for Shareholders.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-15T11:05:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5\" target=\"_blank\">Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-08-14T14:44:23+00:00",
-      "source": "The New York Times"
-    },
     {
       "title": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5\" target=\"_blank\">Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdy04TWhoaktfYUlZa3NSN2J6REJ0eDhySk9lY01Cc3B6UDFwczFGSE5RUUdfT3lwa0F2dHN6ZHhSQkVYY0ltQ05fclJVX3p5TWdYN0JzZmZJeVNlUkdMT1l5Uzl4WHc4TnNqdDNCeUxsZXE2bnRtM28xMHAybmhqZzA2RmpMR2Q3OFNZajdabnZmellGdWM2SWFUOC1ocVY5RFZiMQ?oc=5\" target=\"_blank\">Alphabet Stock Rises as Investors Assess $78 Billion SpaceX Stake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnpQdS03bExRUVAtcmFpLXhjWE14dm12dUNYTjFpVDBwb0tVMWJQV1hlWHlNNnoxWkJBMEZSTjgyN0pzcXZKLTFobDRmbWxBWnRhSVkyZVo4bDktMlhrUC1JdGpHR3N3QnoxbDByR1dYTVhRQlI5ejAycURSelJOMWJkYmFnZWNmbDI5Rm1kVVctRkU1RlNOemk3RzU5andYSEd4MFMzLWVudjZZSU81QTEzdHhldjN0ck5Xa2JR?oc=5\" target=\"_blank\">Google owner made $100bn from early bet on Elon Musk’s SpaceX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times</font></li></ol>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5\" target=\"_blank\">Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-14T20:13:14+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Amazon and Alphabet Both Cost More on Next Year's Earnings Than on Last Year's - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUExQWkJzM1RrOWlCNHhKMU9XcG9BY1NMX2lnTVlySE05bmFVWkxxX3gweV9lem1IU0xBeDNKajlFSkFzV0Z5Tm8zaDBkdWpJcEhKcUdhd3l5ejAyazBMRFJmNFNXbDZxOHY3VXExS3Q3RkhRQmphVjJSZEx6YU56Q3c2c0FDQ3pRVHRaZk1OSFdTOURLTnhMZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUExQWkJzM1RrOWlCNHhKMU9XcG9BY1NMX2lnTVlySE05bmFVWkxxX3gweV9lem1IU0xBeDNKajlFSkFzV0Z5Tm8zaDBkdWpJcEhKcUdhd3l5ejAyazBMRFJmNFNXbDZxOHY3VXExS3Q3RkhRQmphVjJSZEx6YU56Q3c2c0FDQ3pRVHRaZk1OSFdTOURLTnhMZg?oc=5\" target=\"_blank\">Amazon and Alphabet Both Cost More on Next Year's Earnings Than on Last Year's</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-08-14T15:38:00+00:00",
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV30gHDAUFVX3lxTE9FRjlqYUhhTFRVMk9NUHIyMDdxVF9YRVBIU0lXVTdac25za08zSlE0ZUhfOHlPS1VjM25jTGFxM3FOR0dLZlZIU1paRGhKdkJCYjZvYkVHRGUzSHQ2WXRkaldMU0FISThRZ2VRckNLWHhwS0J4VUQzYVVyeEN0RllPMkxTeDNWT040Vm1NWElCZzN1RTRpU2RaejhaRjRKa1pPQ0l5eE9WQlo5REpwNkp3bGxfdzRNQ2hFclZ6ak1Xdm9zYw?oc=5\" target=\"_blank\">Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTM0S3RnSVR5MnNmSk5NVWpoVVphSlA4ZkFRNFNwY1dJVFZULWkwSGJmeDZrcG5qNm1VM3I1SlNjQTVQamp5Sy1QNW13TkhtdXVTRVVtVk10YWdHNWZKaXZDRlM1NGNUMG9YemhfTG43REtfVFhIUXRGV28weVJIU2FhaG1kTUtHaWJkWGFzek9qTzc0ZkZqT2JEbjhXSWk2U2EzdV9KMGdISUh2NEVRR3hZQ0FqelNPVkE?oc=5\" target=\"_blank\">Berkshire Adds to Alphabet Stake, Buys Home Builders and Exits Constellation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpGbU5tanN1MHUyQUdkWF9meWlWTi1WdWFaeHd5cFRNUldOanRobUFMQkFWVkNKcC1HN0s3OU5MZjA5dlo3Y2ZpSTM4a09EWTFWTV9EenpaYmRjSmdrOU1sYU1JXzNBam9VRzZuMXptbUwxNk9MWVRuclI3cC1MTVRyS3l5QXRCMDVaRU16V2FnLVI5eGhYc3poaC15UWkwVXhmLTJYanpXZWhYLUJTZWZ3?oc=5\" target=\"_blank\">Berkshire Pads Delta, Alphabet Stakes as Abel Taps Cash Pile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
+      "published": "2026-08-14T20:31:30+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5\" target=\"_blank\">Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "published": "2026-08-14T14:44:23+00:00",
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUdlV0dJQVNmcXN4Q3I3MUNnYlVadUYzMG15UHlUTTFDQnE2UG1US2lKazJHSmF6c0hJT1dIMlR3eTRJdGdya2J4cktCZzZ0NThfRWltLTA1OTNEbDBwdjctRGpibUN1U0NOQ0dCcmZ2ZWJCYW9MclM2bDVMQkgwVWVveHVYbE5Femx5SEdvQm9ER0FveU5JSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUdlV0dJQVNmcXN4Q3I3MUNnYlVadUYzMG15UHlUTTFDQnE2UG1US2lKazJHSmF6c0hJT1dIMlR3eTRJdGdya2J4cktCZzZ0NThfRWltLTA1OTNEbDBwdjctRGpibUN1U0NOQ0dCcmZ2ZWJCYW9MclM2bDVMQkgwVWVveHVYbE5Femx5SEdvQm9ER0FveU5JSQ?oc=5\" target=\"_blank\">Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-08-14T09:15:00+00:00",
       "source": "The Motley Fool"
+    },
+    {
+      "title": "Alphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3NNakxLYnFkNEJObFdFc3lMallyMHdXNUNpR0EyMUc4UjJDSk9nZGZnVW42UWNkZm9jcU5DTXRIVmUxU0RTbkZJZU91ODJSbU9NcDIzSnliX2h1VmMzUHFZZXpaV3ZzUXlNcVQwNTVkZm43Ty0yVkFNYUw4UE1vYU9hNm1hSmo2RHJVS2l0VHQ0TjZCRzNRZjA4d1NaSFlzVDZEWWFSdWtaR3hEdWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3NNakxLYnFkNEJObFdFc3lMallyMHdXNUNpR0EyMUc4UjJDSk9nZGZnVW42UWNkZm9jcU5DTXRIVmUxU0RTbkZJZU91ODJSbU9NcDIzSnliX2h1VmMzUHFZZXpaV3ZzUXlNcVQwNTVkZm43Ty0yVkFNYUw4UE1vYU9hNm1hSmo2RHJVS2l0VHQ0TjZCRzNRZjA4d1NaSFlzVDZEWWFSdWtaR3hEdWc?oc=5\" target=\"_blank\">Alphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "published": "2026-08-15T15:30:02+00:00",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Is Alphabet signaling a shift in its AI strategy? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjZXSEZHdUF2Q2plM1ppWGd1WllWMDJhUThlQWw2SkRVWmhjbEUzejYwU2F3MVFnWW5QSVROelplRXFNUFg0VnI0eHFDYTlNcUczZ3BKYk9DMUFsWmZ0UlpMN05XR1JkbnV1RHR3cFY2akgzWEZVd2VqTm1JcnFXdU83TzNVN0o0WnRVTzg0dHQ4UWQxc2c5M29oOExqOUhMYUlfbXNsZV8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjZXSEZHdUF2Q2plM1ppWGd1WllWMDJhUThlQWw2SkRVWmhjbEUzejYwU2F3MVFnWW5QSVROelplRXFNUFg0VnI0eHFDYTlNcUczZ3BKYk9DMUFsWmZ0UlpMN05XR1JkbnV1RHR3cFY2akgzWEZVd2VqTm1JcnFXdU83TzNVN0o0WnRVTzg0dHQ4UWQxc2c5M29oOExqOUhMYUlfbXNsZV8?oc=5\" target=\"_blank\">Is Alphabet signaling a shift in its AI strategy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2026-08-15T14:29:05+00:00",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Alphabet: The CapEx 'Tantrum' Feels Wrong (NASDAQ:GOOG) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN0JQRmVReEpLSUFURTJ6YXgwdktSZ1RBUk1IY2NjOVdYT1lneUd3S3BBT0VEcmp5bVlSa2pmSWRiblZZMTFWYXZoNnQtNjFPcXBnQ253SUF4VG1SX21mMXMzWE1XaGNUYnZ1MDQxWDA0RXVsQTdSaUZKVm1saUE1c1NpSFA5QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPN0JQRmVReEpLSUFURTJ6YXgwdktSZ1RBUk1IY2NjOVdYT1lneUd3S3BBT0VEcmp5bVlSa2pmSWRiblZZMTFWYXZoNnQtNjFPcXBnQ253SUF4VG1SX21mMXMzWE1XaGNUYnZ1MDQxWDA0RXVsQTdSaUZKVm1saUE1c1NpSFA5QQ?oc=5\" target=\"_blank\">Alphabet: The CapEx 'Tantrum' Feels Wrong (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-08-15T13:00:00+00:00",
+      "source": "Seeking Alpha"
     },
     {
       "title": "Tesla vs. Alphabet: The Better Investment May Surprise You - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXVQOVZMeEdpWEtweEZ3NWszYmJMSUl5RUVkTlZ6WTcxbUx6dGh3SmZXd21XblhtMDF5a0Q1Sl9YNUM2YmVlakRwZzh4YjVqaXdkUHc1R3k2bEphV0t1QjBFbENVamNfZXNRTnRzUE9lRDNCNDVseDB0LWRsZ2czdU5HZmlEZXprVHR1NlpVcGFsSGxXa0k5ckY4ZXIxX1V2Q1E?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXVQOVZMeEdpWEtweEZ3NWszYmJMSUl5RUVkTlZ6WTcxbUx6dGh3SmZXd21XblhtMDF5a0Q1Sl9YNUM2YmVlakRwZzh4YjVqaXdkUHc1R3k2bEphV0t1QjBFbENVamNfZXNRTnRzUE9lRDNCNDVseDB0LWRsZ2czdU5HZmlEZXprVHR1NlpVcGFsSGxXa0k5ckY4ZXIxX1V2Q1E?oc=5\" target=\"_blank\">Tesla vs. Alphabet: The Better Investment May Surprise You</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-      "published": "2026-08-14T14:30:45+00:00",
+      "published": "2026-08-14T16:57:34+00:00",
       "source": "24/7 Wall St."
-    },
-    {
-      "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODA2MXNGd2lmeFU3bVhjeTM0NVJRQ3lTZjdCckR3UE5nTlNXZEdiLVBZRGtfUlR2OXJfdFprV1NSWThrcGpRRi1Hc2F6RHFiemFQdnB1N0xJOUVTU3FkLUJRdFpNalowd3hnd1hKU3M1cWVxMmtrSmxZa0xydkdqSlVvU3ZOV0JaY1BGSlRMdXItZkxBRVZBTU85YkNOQU9BcjUtV3JVbU1FLU1NWTZNcXAzaXpIVlQxajRLWUUzMnVNUnM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQODA2MXNGd2lmeFU3bVhjeTM0NVJRQ3lTZjdCckR3UE5nTlNXZEdiLVBZRGtfUlR2OXJfdFprV1NSWThrcGpRRi1Hc2F6RHFiemFQdnB1N0xJOUVTU3FkLUJRdFpNalowd3hnd1hKU3M1cWVxMmtrSmxZa0xydkdqSlVvU3ZOV0JaY1BGSlRMdXItZkxBRVZBTU85YkNOQU9BcjUtV3JVbU1FLU1NWTZNcXAzaXpIVlQxajRLWUUzMnVNUnM?oc=5\" target=\"_blank\">Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "published": "2026-08-12T21:55:00+00:00",
-      "source": "MarketWatch"
     }
   ],
   "product_launches": [
+    {
+      "title": "Alphabet vs. Oracle: Which Is the Better AI Stock to Own for the Next 5 Years? - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb0FhQmRwcXVybmRaYlIxTmt1VVRBbENpam0tRndyYTFSOHBYTHgwMG5FTHJsWE5XWXJCdXF6SHR5V2NpcmNwX1QtYzBlMFZ4N0NhZ01GbThKRG42ZWtYZTRrcXQxWXZvbS1RTExSeHZkYldlMmFDUHB2X2ZUWkk1NWNpcDdQamtsbFVjMTJOZTl2UXVzNlJJRTBJcTVRYmwyelA1YjliZWZkM01zSlVBTzlTWUJBQ0NDMWhFQzNZNUhQSTdSV3pSZXl3eGpqdnMycmlBTkVpTl83cHl4WFQyWkxrT2tMVmNjV3cyUVlPY2hZQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb0FhQmRwcXVybmRaYlIxTmt1VVRBbENpam0tRndyYTFSOHBYTHgwMG5FTHJsWE5XWXJCdXF6SHR5V2NpcmNwX1QtYzBlMFZ4N0NhZ01GbThKRG42ZWtYZTRrcXQxWXZvbS1RTExSeHZkYldlMmFDUHB2X2ZUWkk1NWNpcDdQamtsbFVjMTJOZTl2UXVzNlJJRTBJcTVRYmwyelA1YjliZWZkM01zSlVBTzlTWUJBQ0NDMWhFQzNZNUhQSTdSV3pSZXl3eGpqdnMycmlBTkVpTl83cHl4WFQyWkxrT2tMVmNjV3cyUVlPY2hZQQ?oc=5\" target=\"_blank\">Alphabet vs. Oracle: Which Is the Better AI Stock to Own for the Next 5 Years?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "published": "2026-08-15T11:48:00+00:00",
+      "source": "The Globe and Mail"
+    },
     {
       "title": "Hyundai Card launches ‘Alphabet Card’ as its own independent brand universe - Campaign Brief Asia",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjdqMjdFVHlIcUNHZUVEMjNFdU5QTEl5aU9iS3BvMktsYzZfWjdiZnltX3NTU0N3X1JrWmU0X3l2Z1Q0X0ZORmlGYThHR0pqR2lLb0E2Y1NRTWphSWtXWGZCWDgzYi1YRGhZSGswY1V0RnY4OUtKc3d4UzVtcTI4UTB6ZEtGS0JJcUluNzJaZTBXaFoxU1d6VTNvbVpVYTRjQzhTTmhaRXNSNjJjU1ZHeG9vQXNGUQ?oc=5",
@@ -70,25 +77,18 @@
       "source": "Campaign Brief Asia"
     },
     {
+      "title": "Q4 earnings call: Remarks from our CEO - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5\" target=\"_blank\">Q4 earnings call: Remarks from our CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>",
+      "published": "2026-02-04T08:00:00+00:00",
+      "source": "blog.google"
+    },
+    {
       "title": "Alphabet Stock (GOOGL) Opinions on AI Product Launches - Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkRPOHF2OXdJMnJPcUtSUFlnbkhBLTJ1R0VWSUNpU1pHRzk2YkZEdGFBTUtmRzVCOU5XSmQ3Ty0yRkNGRWtvMjhOcnA3NmpxT2lRWEhVSXh3eUU4dDRPU09zdlBLTUZiRlFtZnpVZU53ZUJWUDg3VjJTX3ZwTXFsV1lBNGhWTXdMYU9vVFJjb2Y4T0pkeXc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkRPOHF2OXdJMnJPcUtSUFlnbkhBLTJ1R0VWSUNpU1pHRzk2YkZEdGFBTUtmRzVCOU5XSmQ3Ty0yRkNGRWtvMjhOcnA3NmpxT2lRWEhVSXh3eUU4dDRPU09zdlBLTUZiRlFtZnpVZU53ZUJWUDg3VjJTX3ZwTXFsV1lBNGhWTXdMYU9vVFJjb2Y4T0pkeXc?oc=5\" target=\"_blank\">Alphabet Stock (GOOGL) Opinions on AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
       "published": "2026-03-30T07:00:00+00:00",
       "source": "Quiver Quantitative"
-    },
-    {
-      "title": "Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com - Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGladW16SnlyTUhKTnh3eWIzemVRbWFLczVubkFSbWtIX2dIMm8xdkZoLWRkWE54OUppM0stX1k4UGduSVE1eUYzcHV0eGN3d0lnQXFGZnB3bG1hNlB6ZmtzRW53TjdUallxWDc0eDhRQXRISHI2NkhOXzBnYnU4T2lNUnQ0VnRJUlZWRmJZN3RmdWVINUhadWlIWFJscDYtRW1yUjlrSHpyOTRuTzhWUldBaWJmX0hOZ1VIMEtmZmpxVlZDZnlBRGNn?oc=5\" target=\"_blank\">Piper Sandler reiterates Alphabet stock rating on AI product launches By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>",
-      "published": "2026-05-20T07:00:00+00:00",
-      "source": "Investing.com Canada"
-    },
-    {
-      "title": "Will Google I/O 2026 Launch Gemini 4.0? Markets Eye AI Monetization as Alphabet Seeks to Refresh Its AI Narrative - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTRBQTlfeWtMMDk3SWJVRFA2anAySENiMHY4RUpjUE5TbFJkRHU5SHZwOWRNY1RmRzhlYVRzZUR3TDM0N0xzT3ozeGRnLWFaWVdkVGZzdElGbzFybUcxbzFkNm52TlRqYWJHaG5yUlNJeHRMYUl0VjQtbFBKWHZtSXFjTE1yUkVadnhkM1g1bE92MkdyUE80bDNyZ2g5d2NHeldaenRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTRBQTlfeWtMMDk3SWJVRFA2anAySENiMHY4RUpjUE5TbFJkRHU5SHZwOWRNY1RmRzhlYVRzZUR3TDM0N0xzT3ozeGRnLWFaWVdkVGZzdElGbzFybUcxbzFkNm52TlRqYWJHaG5yUlNJeHRMYUl0VjQtbFBKWHZtSXFjTE1yUkVadnhkM1g1bE92MkdyUE80bDNyZ2g5d2NHeldaenRR?oc=5\" target=\"_blank\">Will Google I/O 2026 Launch Gemini 4.0? Markets Eye AI Monetization as Alphabet Seeks to Refresh Its AI Narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingKey</font>",
-      "published": "2026-05-14T07:00:00+00:00",
-      "source": "TradingKey"
     },
     {
       "title": "Here’s Why Alphabet Stock Rose 4% Today - TIKR.com",
