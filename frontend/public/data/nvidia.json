@@ -2,79 +2,86 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-08-18T12:23:58.300552+00:00",
+  "fetched_at": "2026-08-19T12:23:42.354754+00:00",
   "news": [
     {
-      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5\" target=\"_blank\">Nvidia backing $105 billion in financing for OpenAI data center in Ohio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1WTVZYTGFrandXeVZjWnV6TllsTjRzOEF3b0JLdy1QN2wzbFFFdC1TNXdWOU9LQ1lMbFFoQkUzY3RwU1dYbllrS2xSaE1hN1ZjOEd2ZVpuS2xvSDV2Q0pXRXFtMG43S0ZRWkZFdDRUZXJhRk54M2ZqQmFfMzl1QQ?oc=5\" target=\"_blank\">OpenAI announces massive data center in Ohio with Nvidia guarantee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV21oUjRuVXdHME9CRklXR2RFM3Fad3ZYSnVLYzVVaFd4eGFJOHBFaTNmTkIxNDJ0Z1hSSW9LczZObEl5SFF0NnNKSmV5MDFSX1gwVC1GTzVXb1lJYVFoY2hCV0ZPNk9rWHpjYm5GdWxmVThaNW9lb1V1emlPTnlYV1I3dnU2OUhQ?oc=5\" target=\"_blank\">Nvidia to Back Ohio Data Center With as Much as $105 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font></li></ol>",
-      "published": "2026-08-17T14:10:16+00:00",
-      "source": "CNBC"
+      "title": "China eases limits on Nvidia H200 chips as AI race escalates - ft.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?oc=5\" target=\"_blank\">China eases limits on Nvidia H200 chips as AI race escalates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ft.com</font>",
+      "published": "2026-08-19T02:09:39+00:00",
+      "source": "ft.com"
     },
     {
-      "title": "Cathie Wood's ARK Invest Adds Nvidia Stake, Sells AMD Stock Across Four ETFs - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1dvcU84TUx1T2JwV2lWSGpQQ1AzRS1sdW1icl80QllYekZDVFpIOXVuUG12NjcwTlNlSWNDMmo3cTN0Um4xRVBpWTJxTnJVTXJsTi1paHREemc1ZHluSDVvQ2p3dFlfRUhyeHpkZ1kwZmtQaTV1XzktSWJWaDFFOEdMRjFWbDdqNlZFVGtYTE9YWmlZYUpmYg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1dvcU84TUx1T2JwV2lWSGpQQ1AzRS1sdW1icl80QllYekZDVFpIOXVuUG12NjcwTlNlSWNDMmo3cTN0Um4xRVBpWTJxTnJVTXJsTi1paHREemc1ZHluSDVvQ2p3dFlfRUhyeHpkZ1kwZmtQaTV1XzktSWJWaDFFOEdMRjFWbDdqNlZFVGtYTE9YWmlZYUpmYg?oc=5\" target=\"_blank\">Cathie Wood's ARK Invest Adds Nvidia Stake, Sells AMD Stock Across Four ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-18T10:14:29+00:00",
-      "source": "Yahoo Finance"
+      "title": "Nvidia H200 chips reach China in small shipments, FT reports - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5\" target=\"_blank\">Nvidia H200 chips reach China in small shipments, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-08-19T02:17:00+00:00",
+      "source": "reuters.com"
     },
     {
-      "title": "Nvidia’s $500 Billion Plan Envelops Wall Street in Its AI Frenzy - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3FRcTRnLWNnTE00QTRzTUV1REE2VEpmb2U2ZnRqVVVtcUxONmpkZmxjdGoxbkdnVEVJdVM4NU4zTWFpVmtybW1rMllQNlVpVlQzTm1XYUJrWWFzSzVGeGtPc24tWHU2M3JrcXA1T29WOVlrYzJiQllQb3F3UVR0MGdfSll0akNCX2FJd2NhVWFTTXl2NUxoQmFyMUg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3FRcTRnLWNnTE00QTRzTUV1REE2VEpmb2U2ZnRqVVVtcUxONmpkZmxjdGoxbkdnVEVJdVM4NU4zTWFpVmtybW1rMllQNlVpVlQzTm1XYUJrWWFzSzVGeGtPc24tWHU2M3JrcXA1T29WOVlrYzJiQllQb3F3UVR0MGdfSll0akNCX2FJd2NhVWFTTXl2NUxoQmFyMUg?oc=5\" target=\"_blank\">Nvidia’s $500 Billion Plan Envelops Wall Street in Its AI Frenzy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-14T16:42:09+00:00",
-      "source": "Yahoo Finance"
+      "title": "AM Markets Need to Know: Iran escalation risk, Nvidia H200 shipments to China, and more (SP500:) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjFYZ0tBam91VlNoakloM2JHc1dUVmkxNzZENEY2WnZ5MUVabXZIWjVsNHhNMGN1YUtvR05lVzZKWU0tamNUNFFyM2c0M3o0Nl9OVHUtOTVidmNRNGh6TFRqQjRlMERoU0pIZTRiZ2ZmTm1LZ1lmYTNfakFJWURzQmxoVVNSWGY1STJ5YjlCZkdZQUpDdkNtSkZPWUo1VU02cjdYTWhIWUdVNVFkeHZkUEhhZ3dhc3pIcDBRbXo5MA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjFYZ0tBam91VlNoakloM2JHc1dUVmkxNzZENEY2WnZ5MUVabXZIWjVsNHhNMGN1YUtvR05lVzZKWU0tamNUNFFyM2c0M3o0Nl9OVHUtOTVidmNRNGh6TFRqQjRlMERoU0pIZTRiZ2ZmTm1LZ1lmYTNfakFJWURzQmxoVVNSWGY1STJ5YjlCZkdZQUpDdkNtSkZPWUo1VU02cjdYTWhIWUdVNVFkeHZkUEhhZ3dhc3pIcDBRbXo5MA?oc=5\" target=\"_blank\">AM Markets Need to Know: Iran escalation risk, Nvidia H200 shipments to China, and more (SP500:)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-08-19T10:22:10+00:00",
+      "source": "Seeking Alpha"
     },
     {
-      "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX09QUC03dHd6MktUU2liVXBtWkNYVU1jSUNIWTlmemV5YmtrSUZkZGI5TDZTaGVHdlhDcXBVbm1YWE4zUGJyTzlNbDlRN0ZWbTRXUWg5MEJqZHkxQlZ4UmZhUl92WTBuNEJFeDIyem54STljX3RDUXdpMzM1ZXlrZ3g5M3Ruei1GaGhacEhwd1pWbG0xbks1dDF4VzN0c3pjUE1wblhCbGh1ZWJxM0VRSm13?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQX09QUC03dHd6MktUU2liVXBtWkNYVU1jSUNIWTlmemV5YmtrSUZkZGI5TDZTaGVHdlhDcXBVbm1YWE4zUGJyTzlNbDlRN0ZWbTRXUWg5MEJqZHkxQlZ4UmZhUl92WTBuNEJFeDIyem54STljX3RDUXdpMzM1ZXlrZ3g5M3Ruei1GaGhacEhwd1pWbG0xbks1dDF4VzN0c3pjUE1wblhCbGh1ZWJxM0VRSm13?oc=5\" target=\"_blank\">What Nvidia's $500 billion Wall Street deal signals about the AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "published": "2026-08-17T06:05:19+00:00",
-      "source": "Euronews.com"
-    },
-    {
-      "title": "Nvidia's AI moat is shifting from chips to capital - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUVqUjhzeWswMXdGZlJFMWFhbWxRMHBlSTFQMEFaTjNWbWVla29BNGtPUDFLdTI3NGg2WE9zRE85QjZyaXdpU0doeDBzM1QzdGM1aG9GSTQ5cWxOUDlSX2lNekRWMkxlR1FKMjVwQVphOFAzRmVjZGRfOU03M2VGdWVNWGNvdHdXUjlFMXNBUdIBlAFBVV95cUxPOVJVZ203Y0JGbnk3WGNFWm1jcmNobDNzZ3dJSF9fNVp1c0RzYUtoQWtscGpaRlN6VWRDUEM1dUY5NW1xc2tBM0ItWWtTV2IxMDI3cjZidmNaVjZ6LWRfdWdrUW9keUcxdEc1VFBObmRxaTV1aHFzc1dzZHFTS1FZTjNmWUpWVmJsRDdrWmJvOExEVTdL?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUVqUjhzeWswMXdGZlJFMWFhbWxRMHBlSTFQMEFaTjNWbWVla29BNGtPUDFLdTI3NGg2WE9zRE85QjZyaXdpU0doeDBzM1QzdGM1aG9GSTQ5cWxOUDlSX2lNekRWMkxlR1FKMjVwQVphOFAzRmVjZGRfOU03M2VGdWVNWGNvdHdXUjlFMXNBUdIBlAFBVV95cUxPOVJVZ203Y0JGbnk3WGNFWm1jcmNobDNzZ3dJSF9fNVp1c0RzYUtoQWtscGpaRlN6VWRDUEM1dUY5NW1xc2tBM0ItWWtTV2IxMDI3cjZidmNaVjZ6LWRfdWdrUW9keUcxdEc1VFBObmRxaTV1aHFzc1dzZHFTS1FZTjNmWUpWVmJsRDdrWmJvOExEVTdL?oc=5\" target=\"_blank\">Nvidia's AI moat is shifting from chips to capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-08-18T11:00:01+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "History Says Nvidia Is Going to Disappoint Wall Street After Aug. 26 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkRtSGNiMXRpSFdjVHpiY3UxRE9taDYtRFZ2Ql9LSjZzTkFDZkhab1RNbmNPVmtGcWhhMXFKNnBKSm1xZ1BBd2tuUmxnSl9wekszVWdLeFhCV0Zjb0FRN3dJejdMYnk3TGxSVWk2WEZyYzBVenl4djdYekZwUHdrS0MxSDh6VkpRNENnTnU3Wkw4dXREM1Jrajg2a05MNWQ0LTlJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkRtSGNiMXRpSFdjVHpiY3UxRE9taDYtRFZ2Ql9LSjZzTkFDZkhab1RNbmNPVmtGcWhhMXFKNnBKSm1xZ1BBd2tuUmxnSl9wekszVWdLeFhCV0Zjb0FRN3dJejdMYnk3TGxSVWk2WEZyYzBVenl4djdYekZwUHdrS0MxSDh6VkpRNENnTnU3Wkw4dXREM1Jrajg2a05MNWQ0LTlJ?oc=5\" target=\"_blank\">History Says Nvidia Is Going to Disappoint Wall Street After Aug. 26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-18T11:26:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Bets on the Classical Side of Quantum Computing - EE Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWWk3R2hqdDlvenNYa2lkRF9SYWx6ajFCS01wMzJxNkRKTFRLMUJxS0dNVHp1WFhXVDFYVkU1dmwyTzQxY2tXZjd2SXlHczlSeHd0WDZUX0tYeWdmNnUzcTlMR01WOEVQcjRUVXd5RWVTbmNNdXF6MFRYdGNIa2d2XzNlQjJYQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNWWk3R2hqdDlvenNYa2lkRF9SYWx6ajFCS01wMzJxNkRKTFRLMUJxS0dNVHp1WFhXVDFYVkU1dmwyTzQxY2tXZjd2SXlHczlSeHd0WDZUX0tYeWdmNnUzcTlMR01WOEVQcjRUVXd5RWVTbmNNdXF6MFRYdGNIa2d2XzNlQjJYQQ?oc=5\" target=\"_blank\">Nvidia Bets on the Classical Side of Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times</font>",
-      "published": "2026-08-17T18:32:09+00:00",
-      "source": "EE Times"
-    },
-    {
-      "title": "Exclusive | A $21 Billion ‘Kids in Chips’ Startup Is Scooping Up Nvidia Talent - WSJ",
+      "title": "Exclusive | A $21 Billion ‘Kids in Chips’ Startup Is Scooping Up Nvidia Talent - wsj.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3diZWFKS2RfSXF5T2FaM1p6WnZ0ZzNRdW9uM0FYNGJwWFpWQUpXZEZKM0tfUmNpWjdfSmlUbzMtTE92WGQzY0lWbXJEMHVsX2tSUExWZmVidm1YOFdPY2NEOUJKdXpsN3BFVG84TWMtYXo0Y21WdkxxMTFub2F0M29wVERaeU9UTlJDZWxKdEdzRXBiYWxjXzFkcEhGa0dNelE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3diZWFKS2RfSXF5T2FaM1p6WnZ0ZzNRdW9uM0FYNGJwWFpWQUpXZEZKM0tfUmNpWjdfSmlUbzMtTE92WGQzY0lWbXJEMHVsX2tSUExWZmVidm1YOFdPY2NEOUJKdXpsN3BFVG84TWMtYXo0Y21WdkxxMTFub2F0M29wVERaeU9UTlJDZWxKdEdzRXBiYWxjXzFkcEhGa0dNelE?oc=5\" target=\"_blank\">Exclusive | A $21 Billion ‘Kids in Chips’ Startup Is Scooping Up Nvidia Talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3diZWFKS2RfSXF5T2FaM1p6WnZ0ZzNRdW9uM0FYNGJwWFpWQUpXZEZKM0tfUmNpWjdfSmlUbzMtTE92WGQzY0lWbXJEMHVsX2tSUExWZmVidm1YOFdPY2NEOUJKdXpsN3BFVG84TWMtYXo0Y21WdkxxMTFub2F0M29wVERaeU9UTlJDZWxKdEdzRXBiYWxjXzFkcEhGa0dNelE?oc=5\" target=\"_blank\">Exclusive | A $21 Billion ‘Kids in Chips’ Startup Is Scooping Up Nvidia Talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsj.com</font>",
       "published": "2026-08-18T09:30:00+00:00",
-      "source": "WSJ"
+      "source": "wsj.com"
+    },
+    {
+      "title": "8 Stocks Nvidia Has Invested In - U.S. News - Money",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82OXVTS2ZrdWE1NDFqWDdvbUlpQVd6UUsxSVJxMGJIVDgzTG1xTmx4QzJnYWV0MG5YY1NzTzlWWWRGT3lrUEs1cURrNXRPOHl5SWtiVDlwd3phWHlxbk1qY1J0WHpNSjRDbUpTOU1IVjhteEY3bVhBdklqYlJNZw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE82OXVTS2ZrdWE1NDFqWDdvbUlpQVd6UUsxSVJxMGJIVDgzTG1xTmx4QzJnYWV0MG5YY1NzTzlWWWRGT3lrUEs1cURrNXRPOHl5SWtiVDlwd3phWHlxbk1qY1J0WHpNSjRDbUpTOU1IVjhteEY3bVhBdklqYlJNZw?oc=5\" target=\"_blank\">8 Stocks Nvidia Has Invested In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News - Money</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjJCajA4aDNSSU9MaExrYy1EbERVZG53RVlOYXh3RmlqTzJBNjdzZ2gxMGU2UGxLMnI0RkllNHNXbHlkUThmamwxSmlmcmJGdXN5WDBpbF9QQUhkcDBfZmZrRWRGUFhYTnRKSzlDRzdQM2NZX3diSG9EdXYyTzd0aHk4Y1MxWlFOdFZPZTY0a09YSWloWlZNQV82SF9MLU5hMVhKYk9COHRuV3F3ZFdtUWxTZw?oc=5\" target=\"_blank\">Nvidia's stock has started to come alive. Here's 3 reasons why it can continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUJWRzJVUVd2M3dwZjJ6N2pwcDJaM1JVN1hIRTlJcmZ1MzlYTGVVcUx4cGZOcjg4U1JnSGh5bEJYSkdmYVlCeklGck9TR0VONk1EOVBQTjBlQktsdHE1eHYwZm9Ib3lKQXFvTHB6ZGRBY1ZuZnlUZlc5WGVxaGdhbWZ2U21fbjd2dmpwbE9sUkJLdFdMZ2lmcjhQdUZnVVVJbVY3cGxFLUI5bl9KSldMT3J0MGhWSHE4WjhSekhXcnNabDJjSzgxeVV1SmRsMEE?oc=5\" target=\"_blank\">Nvidia stock's deep discount creates a 'compelling opportunity,' BofA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-08-18T19:50:00+00:00",
+      "source": "U.S. News - Money"
+    },
+    {
+      "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5\" target=\"_blank\">The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-08-19T10:32:51+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia Tries to Spur the AI Boom Into the Future - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSldvS2hSWHF6b1ktYmhDblJhODNWUHFveDVKV2VqaUk2c3JKQjMwYm0yYmhCOXJ2eURuV0JldTYwTWFiU2ZuSWFpNVFmTkV6ZGljemlYWnBaWDVMelVrZnFma3FhcmpEdE5xRVp0Nkh3OHBzaTVVbE9PMWt4VjF3REQwakhvMGdiX0FuVXhzYWFKaU92eW92VnVMT2V1dlcxZ1JtaA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSldvS2hSWHF6b1ktYmhDblJhODNWUHFveDVKV2VqaUk2c3JKQjMwYm0yYmhCOXJ2eURuV0JldTYwTWFiU2ZuSWFpNVFmTkV6ZGljemlYWnBaWDVMelVrZnFma3FhcmpEdE5xRVp0Nkh3OHBzaTVVbE9PMWt4VjF3REQwakhvMGdiX0FuVXhzYWFKaU92eW92VnVMT2V1dlcxZ1JtaA?oc=5\" target=\"_blank\">Nvidia Tries to Spur the AI Boom Into the Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-08-19T11:02:01+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "How NVIDIA scales expertise with ChatGPT Work - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jUHJ4WlM1RVdtVUVLZ1RBYWl1OFRhc3pMcFEwMU1kd1FmNEs3eEJsOTJFejJzWjF5X1gyWUF4V21BLW1ERDM2VUFBcjB0YWtqRXI4UWhhVWw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jUHJ4WlM1RVdtVUVLZ1RBYWl1OFRhc3pMcFEwMU1kd1FmNEs3eEJsOTJFejJzWjF5X1gyWUF4V21BLW1ERDM2VUFBcjB0YWtqRXI4UWhhVWw?oc=5\" target=\"_blank\">How NVIDIA scales expertise with ChatGPT Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+      "published": "2026-08-18T23:30:34+00:00",
+      "source": "OpenAI"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTNQTHNWZE1BbWY3Y1RVVno0Nnoyc1RvZFZQVTRLMEdTWDhQTnlTeDJoYU9pcFBBQTd0RGpGSDh6N25UcG5KeDFnUjNXNjd0bXJaZURDSHdsV2tjZ1I2UnBhWGkwU2NnTTd5VWNJOXpxeGEwSzFxSzF2UVFmd213R0RMa05od1pwM2J6TjZNZHl2RW1XanVOa0FPblp1eXNxSUlPelJpZ2FtZWZNUHUtNW92VHRDUnJy?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTNQTHNWZE1BbWY3Y1RVVno0Nnoyc1RvZFZQVTRLMEdTWDhQTnlTeDJoYU9pcFBBQTd0RGpGSDh6N25UcG5KeDFnUjNXNjd0bXJaZURDSHdsV2tjZ1I2UnBhWGkwU2NnTTd5VWNJOXpxeGEwSzFxSzF2UVFmd213R0RMa05od1pwM2J6TjZNZHl2RW1XanVOa0FPblp1eXNxSUlPelJpZ2FtZWZNUHUtNW92VHRDUnJy?oc=5\" target=\"_blank\">NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-07-23T07:00:00+00:00",
+      "title": "Microchip Unveils Second-Generation Sensor Bridge for Nvidia Edge AI - thelec.net",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNjVaSE1fMVItOElVM3d3NF90bVY5cmZuRS1TMnNwa3h1MS1Pa0pNclNsMVN4b0xJZVZ0b1k0cDlubnBmNTJXYlEzeWVDWnJkekZlSHAxSDJtUVZ3U2x1anNRX0M0Tms?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vNjVaSE1fMVItOElVM3d3NF90bVY5cmZuRS1TMnNwa3h1MS1Pa0pNclNsMVN4b0xJZVZ0b1k0cDlubnBmNTJXYlEzeWVDWnJkekZlSHAxSDJtUVZ3U2x1anNRX0M0Tms?oc=5\" target=\"_blank\">Microchip Unveils Second-Generation Sensor Bridge for Nvidia Edge AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thelec.net</font>",
+      "published": "2026-08-19T07:14:33+00:00",
+      "source": "thelec.net"
+    },
+    {
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-04-14T07:00:00+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia launches new chip to bring AI directly to personal computers - Reuters",
+      "title": "Nvidia launches new chip to bring AI directly to personal computers - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5\" target=\"_blank\">Nvidia launches new chip to bring AI directly to personal computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5\" target=\"_blank\">Nvidia launches new chip to bring AI directly to personal computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-06-01T07:00:00+00:00",
-      "source": "Reuters"
+      "source": "reuters.com"
     },
     {
       "title": "Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments - Palantir IR",
@@ -84,32 +91,21 @@
       "source": "Palantir IR"
     },
     {
-      "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
+      "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - businessinsider.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">businessinsider.com</font>",
       "published": "2026-01-09T08:00:00+00:00",
-      "source": "Business Insider"
-    },
-    {
-      "title": "NVIDIA's Feynman Architecture Launch Pulled Forward; TSMC's A16 Process and Advanced Packaging Capacity in Full Preparation Mode - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nc25WR0N1MlludzBBQ3ZPVk9ELWR6c0ZvWWJRUWNLZFBTWHdkUnh2NGJVVFNJSzQzTXlVendhMmIwM1o4dlFUa19laWN6eENPZXdGcXhIc3NxREpaLTBXLUs3WlVMUjhGMV9JbkJHb3M2d1VMQXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9nc25WR0N1MlludzBBQ3ZPVk9ELWR6c0ZvWWJRUWNLZFBTWHdkUnh2NGJVVFNJSzQzTXlVendhMmIwM1o4dlFUa19laWN6eENPZXdGcXhIc3NxREpaLTBXLUs3WlVMUjhGMV9JbkJHb3M2d1VMQXc?oc=5\" target=\"_blank\">NVIDIA's Feynman Architecture Launch Pulled Forward; TSMC's A16 Process and Advanced Packaging Capacity in Full Preparation Mode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-      "published": "2026-08-14T07:06:00+00:00",
-      "source": "finance.biggo.com"
+      "source": "businessinsider.com"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-17",
-      "close": NaN
+      "date": "2026-08-18",
+      "close": 219.74000549316406
     },
     "history": [
-      {
-        "date": "2026-08-07",
-        "close": 223.9600067138672
-      },
       {
         "date": "2026-08-10",
         "close": 217.5500030517578
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-08-17",
-        "close": NaN
+        "close": 225.00999450683594
+      },
+      {
+        "date": "2026-08-18",
+        "close": 219.74000549316406
       }
     ],
     "name": "NVIDIA Corporation"
