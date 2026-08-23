@@ -2,14 +2,21 @@
   "name": "Alphabet",
   "slug": "alphabet",
   "ticker": "GOOGL",
-  "fetched_at": "2026-08-22T12:18:31.163525+00:00",
+  "fetched_at": "2026-08-23T12:18:42.071979+00:00",
   "news": [
     {
-      "title": "Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis - Bloomberg",
+      "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom's Hidden Ledger - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNXy1vOWNCV2ViRDdzMXRELS1kNWJzeTZVLWpDWDVmbjdqRUwtWTFEWkQxbTRyQjE3ejJfWVlQRUFrbTNTWmdQdVdMdU12VmdJZ0N3WmVRZVdpdHFfWHdNTEUzUjdLak94MlUxa1R4LTlFM042RER0NUhGS21TM1ltcGJsMHBWUTJiVkxrOWtLblJPRThtWjUzOVZYeXBFMHZfNjRFU3YtR0RLM3FlRXVYOTd6aDRRMzRtN0VuTkxsc1c0X3hUck44U3hQYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNXy1vOWNCV2ViRDdzMXRELS1kNWJzeTZVLWpDWDVmbjdqRUwtWTFEWkQxbTRyQjE3ejJfWVlQRUFrbTNTWmdQdVdMdU12VmdJZ0N3WmVRZVdpdHFfWHdNTEUzUjdLak94MlUxa1R4LTlFM042RER0NUhGS21TM1ltcGJsMHBWUTJiVkxrOWtLblJPRThtWjUzOVZYeXBFMHZfNjRFU3YtR0RLM3FlRXVYOTd6aDRRMzRtN0VuTkxsc1c0X3hUck44U3hQYw?oc=5\" target=\"_blank\">Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom's Hidden Ledger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-08-22T15:52:40+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2tFQUNDRVZCa18yamxYcDJYc1FvTWJJQjBnZTZjbkFTWE5iUlBETmhWV1l3dHpLaVZuZkF5WG9NMDdBMmVyTURQWUpRSzllSnBjNmxkVzlpOExrSngtb2FuOUdjMmZqTnlvX3V5TzFMZzdWVzBTZmJISDUzZFNsenZhdVpIc1FXaUg3Vi1ObzhFMFhZd08wMmJCdTMwRm9FVy05TXRKVTZvRE0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2tFQUNDRVZCa18yamxYcDJYc1FvTWJJQjBnZTZjbkFTWE5iUlBETmhWV1l3dHpLaVZuZkF5WG9NMDdBMmVyTURQWUpRSzllSnBjNmxkVzlpOExrSngtb2FuOUdjMmZqTnlvX3V5TzFMZzdWVzBTZmJISDUzZFNsenZhdVpIc1FXaUg3Vi1ObzhFMFhZd08wMmJCdTMwRm9FVy05TXRKVTZvRE0?oc=5\" target=\"_blank\">Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2tFQUNDRVZCa18yamxYcDJYc1FvTWJJQjBnZTZjbkFTWE5iUlBETmhWV1l3dHpLaVZuZkF5WG9NMDdBMmVyTURQWUpRSzllSnBjNmxkVzlpOExrSngtb2FuOUdjMmZqTnlvX3V5TzFMZzdWVzBTZmJISDUzZFNsenZhdVpIc1FXaUg3Vi1ObzhFMFhZd08wMmJCdTMwRm9FVy05TXRKVTZvRE0?oc=5\" target=\"_blank\">Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "published": "2026-08-20T14:00:00+00:00",
-      "source": "Bloomberg"
+      "source": "Bloomberg.com"
     },
     {
       "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit - Yahoo Finance",
@@ -19,18 +26,11 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Alphabet's TPU Chips Generated Revenue for the First Time Last Quarter. Here's Why That Line Item Matters More Than the Headline Cloud Number. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVJOLWdEY2hydERnLUc5RHdyQTBUTElkLUpvZ2NvNWNrNG5WcW5PU0JhQWtDSHhoLVRHMWJmbE9mUnNWSloxbnlka015NUhOZ2NEOGNfNUNocVJnNmZnUkIwVDZSS3lmNko5YlZGc1dTYV9iMVBVaGlBMC12MmdYeVhab0g5SVNPc3BYS0JKSzEtX0NLdkdYcg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVJOLWdEY2hydERnLUc5RHdyQTBUTElkLUpvZ2NvNWNrNG5WcW5PU0JhQWtDSHhoLVRHMWJmbE9mUnNWSloxbnlka015NUhOZ2NEOGNfNUNocVJnNmZnUkIwVDZSS3lmNko5YlZGc1dTYV9iMVBVaGlBMC12MmdYeVhab0g5SVNPc3BYS0JKSzEtX0NLdkdYcg?oc=5\" target=\"_blank\">Alphabet's TPU Chips Generated Revenue for the First Time Last Quarter. Here's Why That Line Item Matters More Than the Headline Cloud Number.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-08-21T20:30:00+00:00",
+      "title": "Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWVYV1pSWGRLOWI0MFNGOUZDM0lrd1FqMkpGdlZkUGIxWXFyX1BMUl9MNkpfdDJpdlVJa21TdXRRekV2SndacUJqbUdBaTA1UEp6SjhXOU1SbkRvQ016NVJtR09rajNJMWx3eTNYal93VElRcmxGRHExMzdfNWRONlNsZTBTMzBfY3hHLUpXUzNFV2FfY0MxXw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWVYV1pSWGRLOWI0MFNGOUZDM0lrd1FqMkpGdlZkUGIxWXFyX1BMUl9MNkpfdDJpdlVJa21TdXRRekV2SndacUJqbUdBaTA1UEp6SjhXOU1SbkRvQ016NVJtR09rajNJMWx3eTNYal93VElRcmxGRHExMzdfNWRONlNsZTBTMzBfY3hHLUpXUzNFV2FfY0MxXw?oc=5\" target=\"_blank\">Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-08-22T19:00:00+00:00",
       "source": "The Motley Fool"
-    },
-    {
-      "title": "Alphabet’s Waymo Unveils Custom Silicon to Power Its Next-Gen Robotaxis - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lUFRKdE56MHAyZWdCMnYwUjczcDFndjhJcU1EWG1qZ0tjZ3YyZXVOd09nbUhPcEdTaGQ0bmNrVjdLZFl0Y3VPMmxGZVVQLVJrUTNKamxhMlBjSXZ4V2hKQVJSS05UTDdhajc2S0pRRHNjS0FfVjBqYi1VdWRuNUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9lUFRKdE56MHAyZWdCMnYwUjczcDFndjhJcU1EWG1qZ0tjZ3YyZXVOd09nbUhPcEdTaGQ0bmNrVjdLZFl0Y3VPMmxGZVVQLVJrUTNKamxhMlBjSXZ4V2hKQVJSS05UTDdhajc2S0pRRHNjS0FfVjBqYi1VdWRuNUE?oc=5\" target=\"_blank\">Alphabet’s Waymo Unveils Custom Silicon to Power Its Next-Gen Robotaxis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
-      "published": "2026-08-20T07:00:00+00:00",
-      "source": "TechRepublic"
     },
     {
       "title": "Alphabet: The $250 Billion Capex Offload Plan (NASDAQ:GOOG) - Seeking Alpha",
@@ -47,18 +47,18 @@
       "source": "Business Insider"
     },
     {
-      "title": "Marvell Won Alphabet’s Deal; Everything Changes (Upgrade) (NASDAQ:MRVL) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2JPVHRJNzJLSlQ0ZUhEZGV3OEFyWjNPY3A1ZEJRNGE4eVFlOTJlUzV4djAyUWlzRUo3YTBqZjRrb0JaU1RURV9YU0hBVkpaX1F1Zkk2OVg5OGpKa0J3NUF6R2oyQl9qdVdoWVhORE5UdEVzZUYyZGlJV2tIU0t0cnYtN0tXTEdnam5hbEhTejc0a3I3cWhIZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2JPVHRJNzJLSlQ0ZUhEZGV3OEFyWjNPY3A1ZEJRNGE4eVFlOTJlUzV4djAyUWlzRUo3YTBqZjRrb0JaU1RURV9YU0hBVkpaX1F1Zkk2OVg5OGpKa0J3NUF6R2oyQl9qdVdoWVhORE5UdEVzZUYyZGlJV2tIU0t0cnYtN0tXTEdnam5hbEhTejc0a3I3cWhIZA?oc=5\" target=\"_blank\">Marvell Won Alphabet’s Deal; Everything Changes (Upgrade) (NASDAQ:MRVL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-08-19T17:50:54+00:00",
-      "source": "Seeking Alpha"
+      "title": "Alphabet’s Waymo Unveils Custom Silicon to Power Its Next-Gen Robotaxis - TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lUFRKdE56MHAyZWdCMnYwUjczcDFndjhJcU1EWG1qZ0tjZ3YyZXVOd09nbUhPcEdTaGQ0bmNrVjdLZFl0Y3VPMmxGZVVQLVJrUTNKamxhMlBjSXZ4V2hKQVJSS05UTDdhajc2S0pRRHNjS0FfVjBqYi1VdWRuNUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9lUFRKdE56MHAyZWdCMnYwUjczcDFndjhJcU1EWG1qZ0tjZ3YyZXVOd09nbUhPcEdTaGQ0bmNrVjdLZFl0Y3VPMmxGZVVQLVJrUTNKamxhMlBjSXZ4V2hKQVJSS05UTDdhajc2S0pRRHNjS0FfVjBqYi1VdWRuNUE?oc=5\" target=\"_blank\">Alphabet’s Waymo Unveils Custom Silicon to Power Its Next-Gen Robotaxis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
+      "published": "2026-08-21T16:45:19+00:00",
+      "source": "TechRepublic"
     },
     {
-      "title": "What Is Alphabet (GOOGL) Signaling With Its New AI Chip Stake Option? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDEzelRoUFNNQ3JPQjFuTWFaMUt6bElfcC1fbVEwUW4yWEpRSzZ4amRUYjN3anpLbktDYWg4ejlxQmtPeVRWQXJyMDZTZDNiSXNIU0U3VWN3bkR0MkNrbUs4dkplRkp3Mm05LTNuMmtjcWlWUmJSN0hWQ2x6VUt6b1pmTDh3SlpWQklfQXFDbGlkeTNPRG1nTy12N2w?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDEzelRoUFNNQ3JPQjFuTWFaMUt6bElfcC1fbVEwUW4yWEpRSzZ4amRUYjN3anpLbktDYWg4ejlxQmtPeVRWQXJyMDZTZDNiSXNIU0U3VWN3bkR0MkNrbUs4dkplRkp3Mm05LTNuMmtjcWlWUmJSN0hWQ2x6VUt6b1pmTDh3SlpWQklfQXFDbGlkeTNPRG1nTy12N2w?oc=5\" target=\"_blank\">What Is Alphabet (GOOGL) Signaling With Its New AI Chip Stake Option?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-20T23:12:21+00:00",
-      "source": "Yahoo Finance"
+      "title": "Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pFNlVfU0ZpYzJ3UFl2YW5TRjhLVUM4SWxWMzNMQTNJazl5ZlJfTTJUZXhoa2R3WlBmUXEtakd4QVJYZFhxeVRDcFhpSVJHX3V1UmY0SE1nN3ZQdDJMMk1aSEczeWhJSzRBbEpfV1JVQ1VCWWRQU0lPY2RBWkQ1cTU1UTJZcktDcXlCaFlEMklHMlJGN0RWTGRkNHFqNG16SGc2SURJXzh3QnJrNUx0QkRzVUNBbWpfY1Q1NUxQNXljcGIxbkhr?oc=5\" target=\"_blank\">Alphabet Stock Ran After Its Ad Machine Had Already Shown Its Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "published": "2026-08-20T17:47:25+00:00",
+      "source": "Trefis"
     }
   ],
   "product_launches": [
