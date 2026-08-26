@@ -2,72 +2,86 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-08-25T12:26:41.508925+00:00",
+  "fetched_at": "2026-08-26T12:29:33.302023+00:00",
   "news": [
     {
-      "title": "Zohran Mamdani Is Turning His Fire on Amazon - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGJWVzRISE1pZ2xRX0RIenJZX0RwR090czdYOUN4MmRqS2FWWGtPR3pPa3FSYndfYnlPNGRVTFNLX3J0aE84OVRRd09zRDdBMks5ZVMwRFh6azFmcjZ1REVadjhQZHNYdUZ3anFtbmw5a09zSFQtMGQwcTY1UTJZS0dacnlFTmw1N1p2X3d3aHZGWWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGJWVzRISE1pZ2xRX0RIenJZX0RwR090czdYOUN4MmRqS2FWWGtPR3pPa3FSYndfYnlPNGRVTFNLX3J0aE84OVRRd09zRDdBMks5ZVMwRFh6azFmcjZ1REVadjhQZHNYdUZ3anFtbmw5a09zSFQtMGQwcTY1UTJZS0dacnlFTmw1N1p2X3d3aHZGWWc?oc=5\" target=\"_blank\">Zohran Mamdani Is Turning His Fire on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-08-25T00:00:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Netflix, YouTube and Amazon Want You to Watch Everything From One App: Theirs - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1kzSkJyTnlBSFNJLVVadG01U040ay1FR2dQOGhSbU11Zmo1VnVDOVhoMDk5TU0tVkExRXl4bENpcXl6aktNQXVXbV96SThWUjViU1R6VkFISzM1VFZEMUU5bFM5aHVScllrOFV0aHQ4MzVIak9xZEZ3NkxCcVZ6eVBrZldEcFBjM3FCay1saTctbndhWjR3WnFVb18?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1kzSkJyTnlBSFNJLVVadG01U040ay1FR2dQOGhSbU11Zmo1VnVDOVhoMDk5TU0tVkExRXl4bENpcXl6aktNQXVXbV96SThWUjViU1R6VkFISzM1VFZEMUU5bFM5aHVScllrOFV0aHQ4MzVIak9xZEZ3NkxCcVZ6eVBrZldEcFBjM3FCay1saTctbndhWjR3WnFVb18?oc=5\" target=\"_blank\">Netflix, YouTube and Amazon Want You to Watch Everything From One App: Theirs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-08-24T09:02:58+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3BxOFZnTzBJVWI5ZGxBWXUwWWdmTG9EYmlDcTBLbXpHb1NyT3lzNDVCWmtyOFRMSUVHbjk5VllueGM0OE5nc0JwRllRTWFBeTUxVlg5MDRhY1NjQmdZWEF6MnFkYWlWZjV1Xy0xWFdxVWt4RlRjS2RRR0Z3OThpNlMxR3p2M3JFQmZld2RFam9DeXhEZm1hcEM2d1haUzQ4dHBjbmgzX3Z0NEXSAbABQVVfeXFMTV9jM3FXZ1NsU0NkVVlISXpLanlUczBVQ2ZDeE4zTDFZUDJBUzRlRlVIalh5MG9aMktBWU1tZWtCR0lYOGVqMDhkdXRvbzgyZno0NC1UdDY1X1BxdHBXbVBqUGg0aFpKamItNmQ5QXFXVmZnSzZwbVQzR3Y2OC1KdmdNeVB5WTg4T1g0ZkdGRktWb0E2aTlCNzVrMV83cTNGQ1R6dXpMUk1HTFZXM3Y0dEY?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3BxOFZnTzBJVWI5ZGxBWXUwWWdmTG9EYmlDcTBLbXpHb1NyT3lzNDVCWmtyOFRMSUVHbjk5VllueGM0OE5nc0JwRllRTWFBeTUxVlg5MDRhY1NjQmdZWEF6MnFkYWlWZjV1Xy0xWFdxVWt4RlRjS2RRR0Z3OThpNlMxR3p2M3JFQmZld2RFam9DeXhEZm1hcEM2d1haUzQ4dHBjbmgzX3Z0NEXSAbABQVVfeXFMTV9jM3FXZ1NsU0NkVVlISXpLanlUczBVQ2ZDeE4zTDFZUDJBUzRlRlVIalh5MG9aMktBWU1tZWtCR0lYOGVqMDhkdXRvbzgyZno0NC1UdDY1X1BxdHBXbVBqUGg0aFpKamItNmQ5QXFXVmZnSzZwbVQzR3Y2OC1KdmdNeVB5WTg4T1g0ZkdGRktWb0E2aTlCNzVrMV83cTNGQ1R6dXpMUk1HTFZXM3Y0dEY?oc=5\" target=\"_blank\">Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTVpaEJzc0JGdHd3QWw3VWItTFA0Q0N3ajhkSXJOWjhCbG50Y1FjR19QaXBJbG54Y1R5SWlQQWRKaG5jSTFXSTllcHoyQjZUMmE4VUdpVTRaY3l0eEFOMkNuSC1wdVNKaE52d3VnS05zWHBwZE81U3JzbDUxMTZFUjJqMU5fRkJFeW9fMVdlY2lLcXBxTE13c0ZBQTVxbmVXLTY5d25oOWd6bm5DN3N3d2h0TUFidXNJbmxyZ0tB0gHSAUFVX3lxTFB4VWVSYXk0bms5bTliS2N2YnFlVDQ0bjZMWXBZNUx5enNFMFBGZ09iTGpaUlh3N09PR2NpQXFEY1ROZnVSRG1xYkR3XzE2V1dOVFNGWUs2WmRaWHA0cXdHZnFxSXRJRF9NVi1WWkZCbGxPNjFLYzNEazMzTGs0d2NYX3RoNnVQcUdtMzdfa09LMXZLVGVldDBHX0lETG5zTjhIVVZESHl5VWhxMVlsWGROa2pndzJ6LWFkV1pXeHA4YXJLOXBxX0VaaGNhcTRxX3liZw?oc=5\" target=\"_blank\">Amazon drone delivery security: Can packages be stolen, tampered with or hacked?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOY25uREp3b2lQcGZoX2ZEN3k4ZFBOZzZMaVQ5cW81SnY5TkRuZHJoUjlmQUZmQ3h3cFFSOVVxVkhLVmg1QWhyMTR1TzVNQmRTSy1NNTJYbWd4dWZPU3pGSUtuUjhOMUc0UFlQWEJONzZuRVIyNGQxemxrMFhVTUZUNE93dUdmZXZnb3hJXy12M3JtWEh0WmEzUTlBN2g4dk94QmJBUy12X2pHQ1lDT2pjRHNNeTTSAboBQVVfeXFMUDZNNXpXd3hUU1BnUUhoY0FYX2U2eHdIRG9TS0YwdDF0ODVLR0ZqQm5wNGowX010WExqRlBuNUpkN1hISHJSMThDQXRDejllS0xoM09GdHNKRmV5YnJQYWZjOG93ZnpjZTFkeDVTWTJqWndManVwV0Z4S2J0Q3FXNU1FZTl6azZuQWhyd1N6cS10WjVxZW9pb3l5RFpSdndybjFlNWw4TXhSVGdNY0ZqdGxaS3BvanlqQWZn?oc=5\" target=\"_blank\">Mantua Township, NJ residents raise concerns over Amazon's planned drone delivery service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">6abc Philadelphia</font></li></ol>",
-      "published": "2026-08-19T10:00:01+00:00",
+      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5\" target=\"_blank\">Amazon service Bezos once called 'artificial artificial intelligence' is shutting down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-08-26T00:34:00+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Amazon driver strikes 71-year-old man in California gas station in newly released video - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjd0S3pvc1A4WldQNE1Qb1ZqdWgyRzRRX1QxS1BlVzhqN2JMc0s5RjE5bmJpMkxJQVBTNm0zVm9nYk1JTkpvZVhYRVBRajhrc0ZubjJoVjBCOVRVMG1FckhoaFp5ZlNSVTBJTFZxQjFsZ0VwMWFiNkpoNGUtX0UzU19NT1d2cWJrN0x1V0FTVm43WGpUYWJkdVk1SUhGcTVpbHhqaVQzWTRseVdsYzdmUWhwZWFSSF9fME1Yak1LUlBlQjllMXhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjd0S3pvc1A4WldQNE1Qb1ZqdWgyRzRRX1QxS1BlVzhqN2JMc0s5RjE5bmJpMkxJQVBTNm0zVm9nYk1JTkpvZVhYRVBRajhrc0ZubjJoVjBCOVRVMG1FckhoaFp5ZlNSVTBJTFZxQjFsZ0VwMWFiNkpoNGUtX0UzU19NT1d2cWJrN0x1V0FTVm43WGpUYWJkdVk1SUhGcTVpbHhqaVQzWTRseVdsYzdmUWhwZWFSSF9fME1Yak1LUlBlQjllMXhR?oc=5\" target=\"_blank\">Amazon driver strikes 71-year-old man in California gas station in newly released video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-      "published": "2026-08-25T05:38:00+00:00",
-      "source": "CBS News"
+      "title": "I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI. - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHV3eXR4YWFwdm5BSjR5aHNiTXRfbnl1TDV3SVZkMG5DajB4enM2VFNURUtUbGdST3U1emhscGpsQ2JFNUxwd0c3Q3BmRnFRdFpCQktPYi04bEJ0NTVITnFmY0lac0ZXRHJyeHNBSGRCcjg1dS1PM0UyU01XOE83bUx3ZnJxbE0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHV3eXR4YWFwdm5BSjR5aHNiTXRfbnl1TDV3SVZkMG5DajB4enM2VFNURUtUbGdST3U1emhscGpsQ2JFNUxwd0c3Q3BmRnFRdFpCQktPYi04bEJ0NTVITnFmY0lac0ZXRHJyeHNBSGRCcjg1dS1PM0UyU01XOE83bUx3ZnJxbE0?oc=5\" target=\"_blank\">I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-08-25T18:38:52+00:00",
+      "source": "About Amazon"
     },
     {
-      "title": "Lawsuit filed after shocking video shows delivery driver punching man at California gas station - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUmVjNWpzS29mMnpGbThfR0NHSjF2WngyaHFkN180Ykg2T0RlNXFTd3RITE5wUWVCMGdUcWIyMXVYY09BdnMzMW9wbGM2eFh6ZjVPN3FUTFdkTWpiajVoQjlTQXJael9jQ3gwVWVwajI5NDFVbUFPdEZtLTdDc1RKU1dlTU5SWGNoa2lXUUVfYUFEYUZxR1FrVGs2WDJ5SElkOFY4a1U4TDd5MTNCTF9vT1g0dEpFZXRlM3M4bHRRZzhfUFFZbDY1cnZVVTNzcHBiaEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUmVjNWpzS29mMnpGbThfR0NHSjF2WngyaHFkN180Ykg2T0RlNXFTd3RITE5wUWVCMGdUcWIyMXVYY09BdnMzMW9wbGM2eFh6ZjVPN3FUTFdkTWpiajVoQjlTQXJael9jQ3gwVWVwajI5NDFVbUFPdEZtLTdDc1RKU1dlTU5SWGNoa2lXUUVfYUFEYUZxR1FrVGs2WDJ5SElkOFY4a1U4TDd5MTNCTF9vT1g0dEpFZXRlM3M4bHRRZzhfUFFZbDY1cnZVVTNzcHBiaEE?oc=5\" target=\"_blank\">Lawsuit filed after shocking video shows delivery driver punching man at California gas station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-      "published": "2026-08-25T01:41:12+00:00",
-      "source": "ABC7 Los Angeles"
+      "title": "New York Mayor Faces Off Against Amazon - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONHRKOGxLanRKMTJIazZ4aXhRMG9fcU03NzFhZFdNQlVFNjJpcjhoeTdwcWdaOWhFS3p3VjV1Uk9QVnFjWVZwVUZYX3VFU3V2TXVVaVNiaURyRkV5NXVDbm9JTW92OVJiUW1ZMERKaXFHOXlYZWJvYXNXSDVya0NpVDExRlRPNjBmbmZNRFpR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONHRKOGxLanRKMTJIazZ4aXhRMG9fcU03NzFhZFdNQlVFNjJpcjhoeTdwcWdaOWhFS3p3VjV1Uk9QVnFjWVZwVUZYX3VFU3V2TXVVaVNiaURyRkV5NXVDbm9JTW92OVJiUW1ZMERKaXFHOXlYZWJvYXNXSDVya0NpVDExRlRPNjBmbmZNRFpR?oc=5\" target=\"_blank\">New York Mayor Faces Off Against Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-08-26T11:07:00+00:00",
+      "source": "WSJ"
     },
     {
-      "title": "Shocking footage shows Amazon worker knocking man to ground in California gas station - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0VQcTl3bnhWRUhNa1dyR1JZRnJsX2UwWDN0NHJfTVJ0WW9LRHphZXVQMFRJQXVqemxjSGdhdExjallIelRuYl9MQUlyME0zWFdvZWtJU1V4NWZPZTJieElPeEdScmtrZ0c1ZjNKSHQzdVY5NHFNalpDMi1jVXU5ZWJ1NmtxSWtoSEF2d1ROa1hHMnd3WEhVVzB4MXp5RTNQUGRNaGF3MkY2cXhmNjFYdkhEeURkR3pobkVz0gHAAUFVX3lxTE4xdG04YmdVc24xN19pWnlVREtobnpnRllFUk92T2VSdkw5azdqQVRaZ2NHZFRoUmNkQWZiVEJ6UTlqQVBWOXZyaHc0Q2lSdHNlZlJEX2dWc2VUbERWUVZJeGJ0V0liNkNKam9JeE5jcGM3cUkxMDNYSlVvSWNXeUZlaG5HLVlOR2F5TExZN3RuZW95blhQZEs1cmlndnFfNk5UT2Z6NjdkYlpnZGp0OTU5eDJNS1J2MEp3QWtrUXFTRA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0VQcTl3bnhWRUhNa1dyR1JZRnJsX2UwWDN0NHJfTVJ0WW9LRHphZXVQMFRJQXVqemxjSGdhdExjallIelRuYl9MQUlyME0zWFdvZWtJU1V4NWZPZTJieElPeEdScmtrZ0c1ZjNKSHQzdVY5NHFNalpDMi1jVXU5ZWJ1NmtxSWtoSEF2d1ROa1hHMnd3WEhVVzB4MXp5RTNQUGRNaGF3MkY2cXhmNjFYdkhEeURkR3pobkVz0gHAAUFVX3lxTE4xdG04YmdVc24xN19pWnlVREtobnpnRllFUk92T2VSdkw5azdqQVRaZ2NHZFRoUmNkQWZiVEJ6UTlqQVBWOXZyaHc0Q2lSdHNlZlJEX2dWc2VUbERWUVZJeGJ0V0liNkNKam9JeE5jcGM3cUkxMDNYSlVvSWNXeUZlaG5HLVlOR2F5TExZN3RuZW95blhQZEs1cmlndnFfNk5UT2Z6NjdkYlpnZGp0OTU5eDJNS1J2MEp3QWtrUXFTRA?oc=5\" target=\"_blank\">Shocking footage shows Amazon worker knocking man to ground in California gas station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
-      "published": "2026-08-24T19:07:17+00:00",
-      "source": "KTLA"
+      "title": "EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWlQbDBkTjZOWlNxMFJUeDkxc0taQllySUkzRzJ4aHJrSzlVQTY5LVhqU2dfd2lUSGZSVjI2dVFPQnZ5X0FuRThHT0JDRkxJTTlLUVFETjM5Y0lGbzFwUkhGWFNVOUJQX1NWZ09SZDViVWNZTmI1TFY4ODUwZXl2UGh5VnRETVhhbDQ4NHh5bmU2YXZXdGZEbnlSUmVZVEZ2dUd3ampaeW94bkhBaEhhRkNKQ1E1QlJSZUFDUTZ5eGFERHlPZHo3TnFaQTJZVUdt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWlQbDBkTjZOWlNxMFJUeDkxc0taQllySUkzRzJ4aHJrSzlVQTY5LVhqU2dfd2lUSGZSVjI2dVFPQnZ5X0FuRThHT0JDRkxJTTlLUVFETjM5Y0lGbzFwUkhGWFNVOUJQX1NWZ09SZDViVWNZTmI1TFY4ODUwZXl2UGh5VnRETVhhbDQ4NHh5bmU2YXZXdGZEbnlSUmVZVEZ2dUd3ampaeW94bkhBaEhhRkNKQ1E1QlJSZUFDUTZ5eGFERHlPZHo3TnFaQTJZVUdt?oc=5\" target=\"_blank\">EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-26T08:14:45+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Netflix, Disney+ & Amazon Rein In Price Rises As Customers Near Financial “Limits” – Ampere - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmxVN1JiYTZ4WUwxY3loUkgwZTFOSFRsU3dtWXRKVFVLTVdqQnRhS0NjTG96aHhpZ3Q4RmxWazZMOG9KVko5ZTQwN3ZWdlZuR1VzclZWaE4zVFh4b2MtcmlYMVlLdlNBcDVzVm5wZTRqekxpcXl4THZQWlRSRTZpZDBGZHY3NTdQWGhvYnFwYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmxVN1JiYTZ4WUwxY3loUkgwZTFOSFRsU3dtWXRKVFVLTVdqQnRhS0NjTG96aHhpZ3Q4RmxWazZMOG9KVko5ZTQwN3ZWdlZuR1VzclZWaE4zVFh4b2MtcmlYMVlLdlNBcDVzVm5wZTRqekxpcXl4THZQWlRSRTZpZDBGZHY3NTdQWGhvYnFwYw?oc=5\" target=\"_blank\">Netflix, Disney+ & Amazon Rein In Price Rises As Customers Near Financial “Limits” – Ampere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>",
-      "published": "2026-08-24T09:47:00+00:00",
-      "source": "Deadline"
+      "title": "Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2x3THU4S191S0dDU0N1Q242S29SZzEyemRJcUtLRjdENTJFUUpyeV9sYkVhMzRNRkhhQXlCYTRxSXY0M0YzRFZLVV9vZlhLWUFjY0FiQVVfaC1Hal95ZFR4NjdNRjRSeHUzbE9WZXpTNDR6UlpRRlRTUEpzVzVHdUN5T0tMMVlU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2x3THU4S191S0dDU0N1Q242S29SZzEyemRJcUtLRjdENTJFUUpyeV9sYkVhMzRNRkhhQXlCYTRxSXY0M0YzRFZLVV9vZlhLWUFjY0FiQVVfaC1Hal95ZFR4NjdNRjRSeHUzbE9WZXpTNDR6UlpRRlRTUEpzVzVHdUN5T0tMMVlU?oc=5\" target=\"_blank\">Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-08-26T12:15:20+00:00",
+      "source": "qz.com"
     },
     {
-      "title": "Amazon Becomes Vital Sales Outlet For Independent Merchants - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDlGZ3NramtqOXZJa2VBb3A4SWZxSkN5YXhhWGtJdVpybm1KcEJZMnR0ZVk2SzNxWUxaRnNxX0JBWGVGS2VuUFdRcU8xbWhnajBPMkxqeGR3ejJ5QXdSZFFCNHpjY29VUnFFTlRzRkZjS19ncV9hRHBMOTc5VjBnYTFWTk45dG8xUDU0VnEtMTA3WWV5VVY3WEdYRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDlGZ3NramtqOXZJa2VBb3A4SWZxSkN5YXhhWGtJdVpybm1KcEJZMnR0ZVk2SzNxWUxaRnNxX0JBWGVGS2VuUFdRcU8xbWhnajBPMkxqeGR3ejJ5QXdSZFFCNHpjY29VUnFFTlRzRkZjS19ncV9hRHBMOTc5VjBnYTFWTk45dG8xUDU0VnEtMTA3WWV5VVY3WEdYRQ?oc=5\" target=\"_blank\">Amazon Becomes Vital Sales Outlet For Independent Merchants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-08-24T13:00:00+00:00",
-      "source": "The Information"
+      "title": "Moonshot mulls revenue-sharing deals with Microsoft, Amazon, Google over Kimi K3 AI model: report - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzJNdGQ1NC1RRWlaZ1JqTUNmYXpqTUdtejE4THZid3BrNUFQQl9paFBZdUgtbWREc2M3R25oaE1mUzBXMnk5WVdoU0ViMklBUTJPUGF5dGktNDA4cWRNbzk5MWJQY0xBenN0cTNfYWV5YWJocFJpNUFudDlVWW50cWROaEp6RG9lYXhSSU5TMGM5YmlZY0hCQW0yRVdVanVJa3RHSHRBWXpQTnI0LW1SVGdnSlFENWt0a0V0T3JTQnRBV00?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzJNdGQ1NC1RRWlaZ1JqTUNmYXpqTUdtejE4THZid3BrNUFQQl9paFBZdUgtbWREc2M3R25oaE1mUzBXMnk5WVdoU0ViMklBUTJPUGF5dGktNDA4cWRNbzk5MWJQY0xBenN0cTNfYWV5YWJocFJpNUFudDlVWW50cWROaEp6RG9lYXhSSU5TMGM5YmlZY0hCQW0yRVdVanVJa3RHSHRBWXpQTnI0LW1SVGdnSlFENWt0a0V0T3JTQnRBV00?oc=5\" target=\"_blank\">Moonshot mulls revenue-sharing deals with Microsoft, Amazon, Google over Kimi K3 AI model: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-08-26T09:04:36+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "Samsung T9 Portable SSD 1TB Is Now Cheaper Than the Older T7 After Another Price Drop on Amazon - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTZ0V25JeC1jeDQ0NV81VFhNbWVDaHE0eTdxTV81eVFtTndIVWJ6dER3LV9IRmVOOVIyUHpJaVk2RDZOdmJqT045a0FkU29tQXNveFdnVDQ2SzhDM1BMOWZ1d1NKVGo5UVA1RWloWlN6Ym1XQWtYMDdSc0VRT0Q4aFBEaUd4NWV5aWtkSVJCWUN4VDJDVHBXdTlzWkpIN2VkVldSZUlZMnlQMDNzLUxscmRfaWZzY2MzVU9BNTlHdkdaQ1VD?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTZ0V25JeC1jeDQ0NV81VFhNbWVDaHE0eTdxTV81eVFtTndIVWJ6dER3LV9IRmVOOVIyUHpJaVk2RDZOdmJqT045a0FkU29tQXNveFdnVDQ2SzhDM1BMOWZ1d1NKVGo5UVA1RWloWlN6Ym1XQWtYMDdSc0VRT0Q4aFBEaUd4NWV5aWtkSVJCWUN4VDJDVHBXdTlzWkpIN2VkVldSZUlZMnlQMDNzLUxscmRfaWZzY2MzVU9BNTlHdkdaQ1VD?oc=5\" target=\"_blank\">Samsung T9 Portable SSD 1TB Is Now Cheaper Than the Older T7 After Another Price Drop on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-08-26T12:10:17+00:00",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Save Up to 60%: These Amazon Device Deals May Be the Best Prices We’ll See for a While - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42cGdwTTAwUUM1S05sNzBIeFpObHRQNnhHQk5rdno3eEw1d01BS29LQVlmLXRJRHVkMS1TdmJ0THNsTkdVMndtbklfV1RCLUtuOUVjWjBibFBDRHd0TGJ3d044ZkVPUDVVd0owLUVxdFA2b0NfN0cwdmx3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE42cGdwTTAwUUM1S05sNzBIeFpObHRQNnhHQk5rdno3eEw1d01BS29LQVlmLXRJRHVkMS1TdmJ0THNsTkdVMndtbklfV1RCLUtuOUVjWjBibFBDRHd0TGJ3d044ZkVPUDVVd0owLUVxdFA2b0NfN0cwdmx3?oc=5\" target=\"_blank\">Save Up to 60%: These Amazon Device Deals May Be the Best Prices We’ll See for a While</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-08-25T17:28:32+00:00",
+      "source": "CNET"
     }
   ],
   "product_launches": [
     {
+      "title": "Pixel 11 post-launch deals: Amazon now lets you stack trade-in bonus with $100+ gift cards - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQ3d3T2k4WTZtcnE2YkxyYllHN0JFNDBGcWF3N0EtYUp6VXVRdHdjSzdLaENxY3NsSFRjY2RqbUhGSTRJRTVRdlR4X3QxOG5wdjBMVWtjTGxnNGEydlUyYUg4MWQtRlNDeVhqb1BR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQ3d3T2k4WTZtcnE2YkxyYllHN0JFNDBGcWF3N0EtYUp6VXVRdHdjSzdLaENxY3NsSFRjY2RqbUhGSTRJRTVRdlR4X3QxOG5wdjBMVWtjTGxnNGEydlUyYUg4MWQtRlNDeVhqb1BR?oc=5\" target=\"_blank\">Pixel 11 post-launch deals: Amazon now lets you stack trade-in bonus with $100+ gift cards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Google</font>",
+      "published": "2026-08-25T18:35:00+00:00",
+      "source": "9to5Google"
+    },
+    {
       "title": "Olifant Digital Helps DTC Beauty Brand Reach $1M on Amazon From Launch - TMX Newsfile",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3R6WC00VDN2WVhzQmxvTjM1cWcwSDdmOHZmdHhxdFg4ZGMzUXpYLTk1Sy00aWxEbVFmQy0tVk5SREZJMEt3NGNKUThDbVpFMWN4SzZUZUFSN1FoSDVaRjFGSWttdDE4UFN0MVJCZlE4Z0cxMkpadkJfclNtS3V1M2lYYUdtTS0wYjdodFpCajdSM2JTTkZxVkloZFpvWjdpNzNkZXBxLWxjeW5uaGtnWkpxZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3R6WC00VDN2WVhzQmxvTjM1cWcwSDdmOHZmdHhxdFg4ZGMzUXpYLTk1Sy00aWxEbVFmQy0tVk5SREZJMEt3NGNKUThDbVpFMWN4SzZUZUFSN1FoSDVaRjFGSWttdDE4UFN0MVJCZlE4Z0cxMkpadkJfclNtS3V1M2lYYUdtTS0wYjdodFpCajdSM2JTTkZxVkloZFpvWjdpNzNkZXBxLWxjeW5uaGtnWkpxZw?oc=5\" target=\"_blank\">Olifant Digital Helps DTC Beauty Brand Reach $1M on Amazon From Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TMX Newsfile</font>",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2o5bFlwT1lEbF9YbjhLSXZkU295TXhDUnVTVUNGSUQ2UFlNZnZNVm1tcmZDalFnNGg0V2lVcjZDWW5QUjNGQWF3bWpaTDdBZ05lNG9nUnRQaVN2ZzYxbEotZUVwVmlwM1VmYzJRQk5VRGw1RUkwYzN1MVJINjM2MTN5QzRuZEtwUnROelVFQ2JkYU9vdVRoUzZ2bWJBV2oyT0hMU1ZHRmpCQWRhdnMyWXdwZnZyQU1jSldXbUhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2o5bFlwT1lEbF9YbjhLSXZkU295TXhDUnVTVUNGSUQ2UFlNZnZNVm1tcmZDalFnNGg0V2lVcjZDWW5QUjNGQWF3bWpaTDdBZ05lNG9nUnRQaVN2ZzYxbEotZUVwVmlwM1VmYzJRQk5VRGw1RUkwYzN1MVJINjM2MTN5QzRuZEtwUnROelVFQ2JkYU9vdVRoUzZ2bWJBV2oyT0hMU1ZHRmpCQWRhdnMyWXdwZnZyQU1jSldXbUhR?oc=5\" target=\"_blank\">Olifant Digital Helps DTC Beauty Brand Reach $1M on Amazon From Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TMX Newsfile</font>",
       "published": "2026-08-20T12:30:00+00:00",
       "source": "TMX Newsfile"
+    },
+    {
+      "title": "Amazon Prime Air launches in the UK - Ecommerce News - Europe",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81VlVmVHlJSWFPYnd5TXVEMnluTWlvdkVaTkxoNjNnTmNKQmxjN0pSRHE4RWdwcExlTGJqT2xCZm9ZVWx2NUNVMnZQX1Bqb2JwbjFuSkFmNjljSW1iU3RQdlpLRHJQXzV0S0JKbnRB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE81VlVmVHlJSWFPYnd5TXVEMnluTWlvdkVaTkxoNjNnTmNKQmxjN0pSRHE4RWdwcExlTGJqT2xCZm9ZVWx2NUNVMnZQX1Bqb2JwbjFuSkFmNjljSW1iU3RQdlpLRHJQXzV0S0JKbnRB?oc=5\" target=\"_blank\">Amazon Prime Air launches in the UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ecommerce News - Europe</font>",
+      "published": "2026-08-25T18:09:56+00:00",
+      "source": "Ecommerce News - Europe"
     },
     {
       "title": "NEXGEL Recalls SilverSeal From Amazon To Launch Product Into Higher-Margin Hospital Market - Pulse 2.0",
@@ -77,39 +91,21 @@
       "source": "Pulse 2.0"
     },
     {
-      "title": "Nilay Patel's Brain Runs on Gadget Launch Dates — And Amazon Just Made Them 60% More Expensive - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdDVweVBFSUw0dzVhV1dBMk9qLVM1T1pZZlc4dnNpLXdwZVNPSWY5MEc2U2pvMG5xNHV6R3hCTEdfVURVSmNQNlMtWDYwZk91MjlVWTQwT3JrRUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdDVweVBFSUw0dzVhV1dBMk9qLVM1T1pZZlc4dnNpLXdwZVNPSWY5MEc2U2pvMG5xNHV6R3hCTEdfVURVSmNQNlMtWDYwZk91MjlVWTQwT3JrRUk?oc=5\" target=\"_blank\">Nilay Patel's Brain Runs on Gadget Launch Dates — And Amazon Just Made Them 60% More Expensive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-      "published": "2026-08-24T21:08:00+00:00",
-      "source": "finance.biggo.com"
-    },
-    {
-      "title": "New tool targets Amazon marketplace compliance risk - PetfoodIndustry",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUdaUTh1NHlZXzJtclY5YURDNGQzYmVQRGs0bE5lNS1mUnlzRHp2ZVFiTTAzakJpMDFuZXgxMmVyVkFRM0Q2QWtqcDhaWF9UMWgzRWNHc1ktcC1ROVQ3NkowRzN5eDR4WmlCdk1fS0NkbGxlalZqTmRBclVVN2xFdUhLdVVxZW9reDJXNVhjeHlIVzB4SDBWSFA3RzMzRjJnY0REVDZzd1lOb0dHZGJuOEp3cXBkTFRhcWVlQnhBVmY0V1BmZENhQjZn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUdaUTh1NHlZXzJtclY5YURDNGQzYmVQRGs0bE5lNS1mUnlzRHp2ZVFiTTAzakJpMDFuZXgxMmVyVkFRM0Q2QWtqcDhaWF9UMWgzRWNHc1ktcC1ROVQ3NkowRzN5eDR4WmlCdk1fS0NkbGxlalZqTmRBclVVN2xFdUhLdVVxZW9reDJXNVhjeHlIVzB4SDBWSFA3RzMzRjJnY0REVDZzd1lOb0dHZGJuOEp3cXBkTFRhcWVlQnhBVmY0V1BmZENhQjZn?oc=5\" target=\"_blank\">New tool targets Amazon marketplace compliance risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PetfoodIndustry</font>",
-      "published": "2026-08-14T07:00:00+00:00",
-      "source": "PetfoodIndustry"
-    },
-    {
-      "title": "The latest gen Samsung Galaxy Watch 9 comes switch free $50 Amazon gift card in this special product launch deal - PC Guide",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2ZoQmFmMlNIazk2RmF2N3pzRlpOaTN6eXF1VXBKdFJJNGwwZUVBaU8ySWs3U1J0SmdSMzV2ZG9fQ19oMnNqY3FMbHU0TWxMRTJjQ2x2dEFuc0RNZV9TbDRkd1BYNl9zQUNZcXViUlNqbHNnSnpYckV2VU1qOGhxTUJtN3dIU2RKUHRuSVJWXzBoQmF4VHJUX2pMSHRGT1cxVHhTdkpzTHA2SDFrcUNULXJWazZXaFN1ajBtR2djdHB6MkdWd3FXeV9pejF5bTR4dkpsZ2lmUHZkQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2ZoQmFmMlNIazk2RmF2N3pzRlpOaTN6eXF1VXBKdFJJNGwwZUVBaU8ySWs3U1J0SmdSMzV2ZG9fQ19oMnNqY3FMbHU0TWxMRTJjQ2x2dEFuc0RNZV9TbDRkd1BYNl9zQUNZcXViUlNqbHNnSnpYckV2VU1qOGhxTUJtN3dIU2RKUHRuSVJWXzBoQmF4VHJUX2pMSHRGT1cxVHhTdkpzTHA2SDFrcUNULXJWazZXaFN1ajBtR2djdHB6MkdWd3FXeV9pejF5bTR4dkpsZ2lmUHZkQQ?oc=5\" target=\"_blank\">The latest gen Samsung Galaxy Watch 9 comes switch free $50 Amazon gift card in this special product launch deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Guide</font>",
-      "published": "2026-08-15T22:11:03+00:00",
-      "source": "PC Guide"
+      "title": "Amazon’s New Product Title Policy Also Applies to Its Own Listings - EcommerceBytes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVVFVy12ekh3UkhJMHE0X19FOTFSMnoyZUNnTXphRW1Zblp4eFQ0WmtFQ0N1YS1aQXVzdjFtQ1lLeU16VVZvQXFNZDVsdmVXYUZRbjVDS1RnTFlXQ1Fwdy1BUVN3U0xEbDNrdGtGQ3FGUkVEMDVVNVpZLXl0MDdfN3BqT2wyWE00MWlSRzg4UEppa1NjWW16eHdJd1U2T0JGODhsMkYzYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVVFVy12ekh3UkhJMHE0X19FOTFSMnoyZUNnTXphRW1Zblp4eFQ0WmtFQ0N1YS1aQXVzdjFtQ1lLeU16VVZvQXFNZDVsdmVXYUZRbjVDS1RnTFlXQ1Fwdy1BUVN3U0xEbDNrdGtGQ3FGUkVEMDVVNVpZLXl0MDdfN3BqT2wyWE00MWlSRzg4UEppa1NjWW16eHdJd1U2T0JGODhsMkYzYw?oc=5\" target=\"_blank\">Amazon’s New Product Title Policy Also Applies to Its Own Listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EcommerceBytes</font>",
+      "published": "2026-08-07T07:00:00+00:00",
+      "source": "EcommerceBytes"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-24",
-      "close": 262.07000732421875
+      "date": "2026-08-25",
+      "close": 261.05999755859375
     },
     "history": [
-      {
-        "date": "2026-08-14",
-        "close": 262.6499938964844
-      },
       {
         "date": "2026-08-17",
         "close": 261.30999755859375
@@ -133,6 +129,10 @@
       {
         "date": "2026-08-24",
         "close": 262.07000732421875
+      },
+      {
+        "date": "2026-08-25",
+        "close": 261.05999755859375
       }
     ],
     "name": "Amazon.com, Inc."
