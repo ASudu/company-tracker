@@ -2,15 +2,8 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-08-27T21:26:35.661989+00:00",
+  "fetched_at": "2026-08-28T21:35:18.785979+00:00",
   "news": [
-    {
-      "title": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5\" target=\"_blank\">Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-08-27T14:04:10+00:00",
-      "source": "The New York Times"
-    },
     {
       "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded. - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVhpalVEX2c1eUE5LVNJX0QyX0oyRmlxOThJTm9TZXpKbnpUbWU1Z1ZuQjlvVWpMQzBaamtsZlRpS2daendQY1pDQ2ZRWG45VlJ0eVlXNFVzUC1DcUQ0eTlMZEhRUnBjSmo3MHB6X1JCT2RZY0YyOGFPdjF2c216MnBZR3RSaFplYTg0bmVuNk42amZERzB3NGM1NGJaMUQtSjZXdlJtZmlUTktDcVBKaXVWekdtOGdoRlQ2d09CRFM1LVN1MktkTg?oc=5",
@@ -19,97 +12,64 @@
       "source": "Reuters"
     },
     {
-      "title": "Why is Meta calling out TikTok and YouTube with a flurry of new ads? It's a game of 'reputational jujitsu.' - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGJoU3ZtazZIeW8tYjdzZnQxYWQ2UEhjNFVIYkhGdXBNbGhHelhGU0RaX2RHc19XMVFwZDJxOUJOWnR2eDZFSFBUVTVURzhHNkVHbXEyak54UkN0Nkl2OGFGUG9KYmJRSktsbVI1cExBLTBPb2hvNkVWem1mWWFFYjAwTm5UOS1BaWs1enc4ODV2akJpN3p3Z2tMQXEtN0Z2V0dZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGJoU3ZtazZIeW8tYjdzZnQxYWQ2UEhjNFVIYkhGdXBNbGhHelhGU0RaX2RHc19XMVFwZDJxOUJOWnR2eDZFSFBUVTVURzhHNkVHbXEyak54UkN0Nkl2OGFGUG9KYmJRSktsbVI1cExBLTBPb2hvNkVWem1mWWFFYjAwTm5UOS1BaWs1enc4ODV2akJpN3p3Z2tMQXEtN0Z2V0dZ?oc=5\" target=\"_blank\">Why is Meta calling out TikTok and YouTube with a flurry of new ads? It's a game of 'reputational jujitsu.'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-08-27T20:48:18+00:00",
-      "source": "Business Insider"
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions” - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdNYUZDU2EtMHktQkxKaGw4YXp6S1JPYkIwMnlrQzM0T3h0T3dUdkllNmlUam5lblhLbjNmNE0zMjhzZ1JoeEp1c1pyR3NZbkNDYUgyTUhvRzNUU25ubXBuaVIySzZfMExJYVg0Q01kWDVEVDFlbGdrNTBCZFp2Mm1XTndJaGZiWEJnbk1nUFcwV2JWOThRTkRwV3d0WEowbnIxdWVZWnFpWXUzN0xB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHdNYUZDU2EtMHktQkxKaGw4YXp6S1JPYkIwMnlrQzM0T3h0T3dUdkllNmlUam5lblhLbjNmNE0zMjhzZ1JoeEp1c1pyR3NZbkNDYUgyTUhvRzNUU25ubXBuaVIySzZfMExJYVg0Q01kWDVEVDFlbGdrNTBCZFp2Mm1XTndJaGZiWEJnbk1nUFcwV2JWOThRTkRwV3d0WEowbnIxdWVZWnFpWXUzN0xB?oc=5\" target=\"_blank\">AI agents meant to replace Meta workers made “large-scale, disruptive actions”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-08-26T21:25:27+00:00",
+      "source": "Ars Technica"
     },
     {
-      "title": "Here’s what Meta’s $18 billion multistate settlement could mean for kids — and for its bottom line - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMjBjUVVOS3FCRXU1X1VvZkk0SFk1aDlOaGxwbk0xRnVzR3N2Y3A4QTVWSFZRSHpOUklCUmxicVdNZEtFZ0dnVWhSWVJndGE3Ulp0RTA2LTBXRjFqNFRENFkxZzZHTTJtUGpxM2trZG5lblEzVUFMNmdVei1kZm1nNnRB?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMjBjUVVOS3FCRXU1X1VvZkk0SFk1aDlOaGxwbk0xRnVzR3N2Y3A4QTVWSFZRSHpOUklCUmxicVdNZEtFZ0dnVWhSWVJndGE3Ulp0RTA2LTBXRjFqNFRENFkxZzZHTTJtUGpxM2trZG5lblEzVUFMNmdVei1kZm1nNnRB?oc=5\" target=\"_blank\">Here’s what Meta’s $18 billion multistate settlement could mean for kids — and for its bottom line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQellBWC1CZXRsVFp0anRWUG9aNEVSVXlweHhWVjdqVE83eXZjWDk4c0tpcEhQeUlKWnNFVVhRLVMwcnpaR29GdkZicjc3aWhfY283ZV94T2VpdXZaa2VlTm5LUTcwd0g1SXhwd0xXalpXRW5vUDVyMGwtNU1oMGgwSm9XN2d6UDE0Vnc?oc=5\" target=\"_blank\">Why Meta's settlement could be an 'inflection point' for reining in Big Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHpaWmhiZl82Z0pMdHdkdE1IVWtyR3dzV1dpZ3MzaTRmSjYyR09MbUFvNXhjT1hUWDM4a2VEcklUeUFKVFk0T0VmdVVmTVFvN1hBb2VtSkRScXJZWnN3Sjh5Z1FOVF9oYTRuLUdaOUlIbkNNUUlJSnFpM1dnN3dVd0F0cTJDQ3BmX3Nib1VwRGdKSF84R0hrTHhZQlFWSjA4TnVQTlhCZTZ3Y24yWXE1MHctblhRTUJla2J5c0U2YnVtTlRYQzl3anBCeDg5TE5jQngw?oc=5\" target=\"_blank\">What Meta’s $18 Billion Settlement Means for Teens on Instagram and Facebook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font></li></ol>",
-      "published": "2026-08-27T13:42:02+00:00",
-      "source": "CNN"
-    },
-    {
-      "title": "Like a rhinestone cowgirl – Dolly Parton’s most glorious, joyful and meta looks - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRU5sZFBFQlVBdWN1TjJCWUNqTTlTWE0yS2pUcVk5T1h3Y085MElPZUhhM0VkMUxoNlZ5U3RRSExFSGlXS2dXaVMwNURxcjhjVGhRRDE5bkt6ejBhVEExLTJvaFliTlJyeG8wbU03OGFPaEJZVnZicGIzdUMtN1JIcHhGbVBnLVVJU0Q1WEJHSTk2Vm9hMTM4WTdLZEhYYW5ESDRmdE96R3U0VE5YSWhnajdpVFhULXZFQ0hsXzl2ZEI4aHBiUEVZNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRU5sZFBFQlVBdWN1TjJCWUNqTTlTWE0yS2pUcVk5T1h3Y085MElPZUhhM0VkMUxoNlZ5U3RRSExFSGlXS2dXaVMwNURxcjhjVGhRRDE5bkt6ejBhVEExLTJvaFliTlJyeG8wbU03OGFPaEJZVnZicGIzdUMtN1JIcHhGbVBnLVVJU0Q1WEJHSTk2Vm9hMTM4WTdLZEhYYW5ESDRmdE96R3U0VE5YSWhnajdpVFhULXZFQ0hsXzl2ZEI4aHBiUEVZNA?oc=5\" target=\"_blank\">Like a rhinestone cowgirl – Dolly Parton’s most glorious, joyful and meta looks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "published": "2026-08-27T17:02:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Iranian operatives used AI to impersonate Americans - Axios",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04THZ2RzR2REcyTmZmREJOd3V5ZlNNemphOXpvRFNtZjBpZjlEMC1OZG5qR3ZRbnk4Z1didWdmWmpnblZiM19HaTZiVEgtSmZURzJKNzRGeV9DSEdSYWlfV05QZExscmpqczNDeXJWbjQyUTNrTks5eEo3bVB5RWs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE04THZ2RzR2REcyTmZmREJOd3V5ZlNNemphOXpvRFNtZjBpZjlEMC1OZG5qR3ZRbnk4Z1didWdmWmpnblZiM19HaTZiVEgtSmZURzJKNzRGeV9DSEdSYWlfV05QZExscmpqczNDeXJWbjQyUTNrTks5eEo3bVB5RWs?oc=5\" target=\"_blank\">Iranian operatives used AI to impersonate Americans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-08-27T17:02:38+00:00",
-      "source": "Axios"
-    },
-    {
-      "title": "Why Rob Bonta says Paramount case is unlike Meta - Politico",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PN3ZmM1VPSzBUYXRHYjJaaUx6dEtfcmFxR1pkSldzZFZzeWtGQTh4SjdWZ2paaEdxSkhPV2lhM01CNC1YZno2MHhrS0Q3N2d3b1VUSHdGcVNJQnF5N1NtWkVQNnc1TWFkNEItX2loRnl0Y0FIUXV3M2tMY01FU1k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1PN3ZmM1VPSzBUYXRHYjJaaUx6dEtfcmFxR1pkSldzZFZzeWtGQTh4SjdWZ2paaEdxSkhPV2lhM01CNC1YZno2MHhrS0Q3N2d3b1VUSHdGcVNJQnF5N1NtWkVQNnc1TWFkNEItX2loRnl0Y0FIUXV3M2tMY01FU1k?oc=5\" target=\"_blank\">Why Rob Bonta says Paramount case is unlike Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
-      "published": "2026-08-27T13:01:00+00:00",
-      "source": "Politico"
-    },
-    {
-      "title": "Glacier collapse may have caused Nepal floods and parents react to Meta settlement: Morning Rundown - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVpPNlNzUzFsSVZtMmdPYmtMNTI4LThyLWJvRDNxRmFJX3Z6N2plLVFrTnR2VXI1QWdyQlNqNmd0SHotYkZDS1ltY2x2cUVEbmZGcVpYQ1djUllYa2hDN0pVRW9Cc3M4eXk3cE5MSkZzOEExM0VqeDdNam82clhFWE5lLTNTZ0plMVZLX294bnhndHVaVkUxMko0SFB1RDla?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONVpPNlNzUzFsSVZtMmdPYmtMNTI4LThyLWJvRDNxRmFJX3Z6N2plLVFrTnR2VXI1QWdyQlNqNmd0SHotYkZDS1ltY2x2cUVEbmZGcVpYQ1djUllYa2hDN0pVRW9Cc3M4eXk3cE5MSkZzOEExM0VqeDdNam82clhFWE5lLTNTZ0plMVZLX294bnhndHVaVkUxMko0SFB1RDla?oc=5\" target=\"_blank\">Glacier collapse may have caused Nepal floods and parents react to Meta settlement: Morning Rundown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-08-27T11:01:33+00:00",
-      "source": "NBC News"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Meta plans to launch its OpenClaw rival, Hatch, within weeks - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjE3VWdqSXYzTGRVQkl1c2tYQXhpQmdvUlBaZnlxME9oZFJIOUU3UExHUnFhbDZMUTQyYzBhOGZ0OTNfeDQ3a25idTR3dzRNeC0wNGVkTXdGWHczd1hVT0lNd0ZmWG0yUlMyZkFDeUZCSXRSbGExMGpEeXI2N01tYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjE3VWdqSXYzTGRVQkl1c2tYQXhpQmdvUlBaZnlxME9oZFJIOUU3UExHUnFhbDZMUTQyYzBhOGZ0OTNfeDQ3a25idTR3dzRNeC0wNGVkTXdGWHczd1hVT0lNd0ZmWG0yUlMyZkFDeUZCSXRSbGExMGpEeXI2N01tYw?oc=5\" target=\"_blank\">Meta plans to launch its OpenClaw rival, Hatch, within weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Web</font>",
-      "published": "2026-08-26T12:59:27+00:00",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5\" target=\"_blank\">Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-08-24T22:40:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Meta Delays Its Next Big AI Launch – Again - TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GSVQtZk9HRVQ2R1RQZms0dzg2aE1KV0R0M3dMT2NMNUI1cDRZNkptUUJoSHI0cHRxVlluSk9UaldmYmJ3dWczREplb0lGV2dDRXpubDk4YThzQ28teWFkb0NzNUU4b0tiekZ3Y09qSTFtODBCYkhQZU5lWlZ3QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9GSVQtZk9HRVQ2R1RQZms0dzg2aE1KV0R0M3dMT2NMNUI1cDRZNkptUUJoSHI0cHRxVlluSk9UaldmYmJ3dWczREplb0lGV2dDRXpubDk4YThzQ28teWFkb0NzNUU4b0tiekZ3Y09qSTFtODBCYkhQZU5lWlZ3QQ?oc=5\" target=\"_blank\">Meta Delays Its Next Big AI Launch – Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRepublic</font>",
-      "published": "2026-08-27T07:19:00+00:00",
-      "source": "TechRepublic"
-    },
-    {
-      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-07-09T07:00:00+00:00",
+      "title": "Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5\" target=\"_blank\">Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-08-27T14:04:10+00:00",
       "source": "The New York Times"
     },
     {
-      "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5\" target=\"_blank\">Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
-      "published": "2026-06-23T07:00:00+00:00",
-      "source": "Meta Store"
+      "title": "How the Meta Settlement Could Change the Internet - The New Yorker",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbHFQS1VKaXFyWGJ3bGktalJtSF9IMDB3QmU2SEI1UHBEN29oQ01BakVaSXlIN0lzRmZTWUprUWd4SnZGSUlYMHRtNzNKTmk5Z0cxVUdRZ0loejRfZHJ5Q2pqaGV6V3d6YjA3SmNOTV9MTGg4d09MalFDQWJGX25jWUVDT2Z4OURCUUVwbkZzUnY2UUE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbHFQS1VKaXFyWGJ3bGktalJtSF9IMDB3QmU2SEI1UHBEN29oQ01BakVaSXlIN0lzRmZTWUprUWd4SnZGSUlYMHRtNzNKTmk5Z0cxVUdRZ0loejRfZHJ5Q2pqaGV6V3d6YjA3SmNOTV9MTGg4d09MalFDQWJGX25jWUVDT2Z4OURCUUVwbkZzUnY2UUE?oc=5\" target=\"_blank\">How the Meta Settlement Could Change the Internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Yorker</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQekpOenlkSUV1WU4wR2NrcHBmeWhwUkFkMmx2SHZ4MG5yQlVndFVKYmx3MTBMWk56SjlBU2w4ZzM1NVFLXzNPcFBQUXpUVnlILW9kS2k4eHdzdDZLSWlVRE1uZGtxS1FKQlE0bjBnbktGTEdHTy01S1UyNXFiWEZsQXpfM1NJa1d1SFZjeExaZjdVRVY0WXdISk9aN1U?oc=5\" target=\"_blank\">Meta reaches $16.68 billion settlement over social media harms to children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2lwUVJjSGxXejRaWUVGLUdxcTVPNWlRRHp6VEVEbTV3VnhsbS04VloxdkZ1ZXl2OGFacDA2ZHpCSmpPdFFhRkEzVGd0VVJDbVFJOVQwMmxJaEFhcG1CU3dPakFPWVNCTmhEc094c2NNZ0pMa0xkanFVd0hvSzlQVEJTOEJEWDBOR0R0Umg1T09vdHJVS1M1c1hmTnZRRWJkYkJ2TzkyZkE1RkMzY2czckYzOUNla3dMMU54NGI2d0xHVm9IR1gwQw?oc=5\" target=\"_blank\">Meta's $17 billion teen safety settlement is really a 1% tax — and a play to box in TikTok and YouTube</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li></ol>",
+      "published": "2026-08-28T19:48:22+00:00",
+      "source": "The New Yorker"
+    },
+    {
+      "title": "OpenAI Hires Meta Executive to Lead Southeast Asia, Australia - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXk1WVQ3djZGQ243VGxaaUExTzJQZUVfanBONDVRV19EM054dGJ0ZW1Kdk04ZktkaUp4b2ZLSFRNZEtYaEJGSG91MzduREhxeldXdjJibWJJUlNNMFJ1TlUyc2ZvMUUtWGVKMFdndk1OUFZEUDVQXzhjZE9iSDZYaGozOG5wWGYzRkE3ZXlKZ1djczhIVExfUGZPYzZKcjJVSDRlT19kV01ud1FQdHJabA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXk1WVQ3djZGQ243VGxaaUExTzJQZUVfanBONDVRV19EM054dGJ0ZW1Kdk04ZktkaUp4b2ZLSFRNZEtYaEJGSG91MzduREhxeldXdjJibWJJUlNNMFJ1TlUyc2ZvMUUtWGVKMFdndk1OUFZEUDVQXzhjZE9iSDZYaGozOG5wWGYzRkE3ZXlKZ1djczhIVExfUGZPYzZKcjJVSDRlT19kV01ud1FQdHJabA?oc=5\" target=\"_blank\">OpenAI Hires Meta Executive to Lead Southeast Asia, Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-08-28T07:58:25+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "The US got Meta to change Instagram and Facebook. Europe wants in. - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ19MX2NBVWNJaWFJRWJ2dlJ1Ql8zUkpUQ3pmZTVwRjJZWFlfY3A4cW9JaUY1YTZmT2s3cTU1LWJYS1JjcWE5emJoSFdsM19SNTZCTGhIMVAyT25yTWlPSkctd3VqNGhqM09zb1ZxVzl5bXhzQ1l3TDl4Mkp4OEJjWktn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ19MX2NBVWNJaWFJRWJ2dlJ1Ql8zUkpUQ3pmZTVwRjJZWFlfY3A4cW9JaUY1YTZmT2s3cTU1LWJYS1JjcWE5emJoSFdsM19SNTZCTGhIMVAyT25yTWlPSkctd3VqNGhqM09zb1ZxVzl5bXhzQ1l3TDl4Mkp4OEJjWktn?oc=5\" target=\"_blank\">The US got Meta to change Instagram and Facebook. Europe wants in.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font>",
+      "published": "2026-08-28T13:59:00+00:00",
+      "source": "politico.eu"
+    },
+    {
+      "title": "The Lesson of META’s Defeat? Release the Tort Lawyers! - The Nation",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOci1HQld2Rm10X0JObUh6OHVCVjFIb2tzV09ObTQxelBkQWhJaFJKNUtzZTd0c05jWl9jQ0JXQW0talBJTVEwRnAyTmhlVExuUU5kcWZCaEM3c0JCQ0tFMFZCeWNKQVV4aXlUVnRHUzRDRXZRMkJWWHJKekVhVC1RSGxsZ3FSYlHSAY8BQVVfeXFMTTNFZU9CMVZQS2REbWJBUk1keDljckZ1SEFnTl9kaE9yRDBWTGdsbXZYMVJKVk14ZEtoMXNjdU5jRVpESUxHSVFPcHpuU1JsNHVZTGZmcWlPQThqNldLMEpBSThnQkZVd241WDMyLUNuQ25DUzhyZE41ZU96TmVCUWFKb1drYnVPR3ZKNDQtNzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOci1HQld2Rm10X0JObUh6OHVCVjFIb2tzV09ObTQxelBkQWhJaFJKNUtzZTd0c05jWl9jQ0JXQW0talBJTVEwRnAyTmhlVExuUU5kcWZCaEM3c0JCQ0tFMFZCeWNKQVV4aXlUVnRHUzRDRXZRMkJWWHJKekVhVC1RSGxsZ3FSYlHSAY8BQVVfeXFMTTNFZU9CMVZQS2REbWJBUk1keDljckZ1SEFnTl9kaE9yRDBWTGdsbXZYMVJKVk14ZEtoMXNjdU5jRVpESUxHSVFPcHpuU1JsNHVZTGZmcWlPQThqNldLMEpBSThnQkZVd241WDMyLUNuQ25DUzhyZE41ZU96TmVCUWFKb1drYnVPR3ZKNDQtNzA?oc=5\" target=\"_blank\">The Lesson of META’s Defeat? Release the Tort Lawyers!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation</font>",
+      "published": "2026-08-28T17:13:42+00:00",
+      "source": "The Nation"
+    },
+    {
+      "title": "Chris Mason Steps Down As Btrfs Co-Maintainer, Departing Meta - Phoronix",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BSVRlMWNyMnVGTWk0N1Y0SE1xUkh1SFpRWklVSkItc0xROEpsNWxNYVhEeTVmSGdsV2M0WUFqeGdCNFZYWndnTXFodkxUSmpRRkstRThxNzY1eXFKYS11REtJaHA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BSVRlMWNyMnVGTWk0N1Y0SE1xUkh1SFpRWklVSkItc0xROEpsNWxNYVhEeTVmSGdsV2M0WUFqeGdCNFZYWndnTXFodkxUSmpRRkstRThxNzY1eXFKYS11REtJaHA?oc=5\" target=\"_blank\">Chris Mason Steps Down As Btrfs Co-Maintainer, Departing Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phoronix</font>",
+      "published": "2026-08-28T11:17:00+00:00",
+      "source": "Phoronix"
     }
   ],
+  "product_launches": [],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-27",
-      "close": 571.0999755859375
+      "date": "2026-08-28",
+      "close": 578.02001953125
     },
     "history": [
-      {
-        "date": "2026-08-19",
-        "close": 546.030029296875
-      },
       {
         "date": "2026-08-20",
         "close": 545.8300170898438
@@ -133,6 +93,10 @@
       {
         "date": "2026-08-27",
         "close": 571.0999755859375
+      },
+      {
+        "date": "2026-08-28",
+        "close": 578.02001953125
       }
     ],
     "name": "Meta Platforms, Inc."
