@@ -2,86 +2,79 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-08-31T18:25:46.990300+00:00",
+  "fetched_at": "2026-09-01T15:45:45.465582+00:00",
   "news": [
     {
-      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5\" target=\"_blank\">Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-31T14:48:40+00:00",
+      "title": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5\" target=\"_blank\">Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-08-31T23:25:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkZwYjlLQzYtTmVrNTNjeXU1QlVIa1l6X1N4MDdPTHlhVkE0UkZHRUZjanllWEN1d1lzR08yRFQyNDVaZ0hIY2hGWUh0Vi1qLU1kaG1fT1NraWJqTFAyVkdQbFhPMUVTaFo3RUJiZGQ1S3A0VGxVT0xZSTdWcWhSaFZ2TGl4TnRzdWlucGNnTHhuSW1YNXEzVU1ZUjFzdTI5MWlhX01hY3FLZml1eUI2bWdnSVptd21IMURKSzlJaw?oc=5\" target=\"_blank\">Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-31T23:59:00+00:00",
       "source": "Reuters"
+    },
+    {
+      "title": "Anthropic Books $35 Billion To Nvidia-Backed Lambda For Cloud Capacity - forbes.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEFOVkdCalFSRTRxSWxqX1FjRW0tT2E1Y1Y2WkZPaDFhS0ZIVFJPTWtnNGotenRzMkpwcmI1ZlkzR0FFb3dydFpFazhfQmkza3JTRUUwX3Y5bnJxUkhFX2tnbzdaZkhObEg1ZElQQXZDWGloSWlLWWVZaU9lZy00UDVUay1EcUZMSEZiN1J1WTJ3MGJlcXNKZ3dabkZ6VDU4VEhCNE5pTE5ONDNyQkNGTUM0Mk5LNEo5S3VDYUh3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEFOVkdCalFSRTRxSWxqX1FjRW0tT2E1Y1Y2WkZPaDFhS0ZIVFJPTWtnNGotenRzMkpwcmI1ZlkzR0FFb3dydFpFazhfQmkza3JTRUUwX3Y5bnJxUkhFX2tnbzdaZkhObEg1ZElQQXZDWGloSWlLWWVZaU9lZy00UDVUay1EcUZMSEZiN1J1WTJ3MGJlcXNKZ3dabkZ6VDU4VEhCNE5pTE5ONDNyQkNGTUM0Mk5LNEo5S3VDYUh3?oc=5\" target=\"_blank\">Anthropic Books $35 Billion To Nvidia-Backed Lambda For Cloud Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">forbes.com</font>",
+      "published": "2026-09-01T14:05:59+00:00",
+      "source": "forbes.com"
+    },
+    {
+      "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05RTBTampvUXh0LUFDY0FCb09GSlFTTXNtUkVtYUl4bGFsdkVVRHF6a1dwYjUzZUFFYVV0Vl9aQ1BwcFFMQ29Yemdjd0tiVGFTWHRVT2E5aDZTN3ppOTlOWkxPWGFNNFhuYk1zakFkRlhIUdIBd0FVX3lxTE1aeWtQaTBtd3NfV1BWT1NWcjhIdmo5WndPTmNQNG5OVkZRVTRrVzBLbTEtRDlKTHluejh1bVNYMHNKWHBzNjFuY2JrVUc0a3V1X1ZlSnEtTnRxbnE3UUp2YTc5dEI0T2xvaTNRNTJCLXVad3hVSGYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE05RTBTampvUXh0LUFDY0FCb09GSlFTTXNtUkVtYUl4bGFsdkVVRHF6a1dwYjUzZUFFYVV0Vl9aQ1BwcFFMQ29Yemdjd0tiVGFTWHRVT2E5aDZTN3ppOTlOWkxPWGFNNFhuYk1zakFkRlhIUdIBd0FVX3lxTE1aeWtQaTBtd3NfV1BWT1NWcjhIdmo5WndPTmNQNG5OVkZRVTRrVzBLbTEtRDlKTHluejh1bVNYMHNKWHBzNjFuY2JrVUc0a3V1X1ZlSnEtTnRxbnE3UUp2YTc5dEI0T2xvaTNRNTJCLXVad3hVSGYw?oc=5\" target=\"_blank\">Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-01T08:00:23+00:00",
+      "source": "CNBC"
     },
     {
       "title": "Nvidia to Invest $3.5 Billion in Chipmaker MediaTek - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0cxUWZ1RkliNUJxdEcwWUZsZksxNUcybS1Ha3ZEeU4zV1pCTnhYdEhmUkNvXzQxSkk4aXVYV09RZnZSLVlrMTRKeXRORmhSc0VJWUprU0ZZN1FPTnpxWEU0YlZ5OGsxT2FGNk5PWUp5djdDR1FtOHJHWV9FR1o1YmpUUmdyOUxJT1NXaHdZZHliUmROYllnU2JsRlZqV3NuMlRj?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0cxUWZ1RkliNUJxdEcwWUZsZksxNUcybS1Ha3ZEeU4zV1pCTnhYdEhmUkNvXzQxSkk4aXVYV09RZnZSLVlrMTRKeXRORmhSc0VJWUprU0ZZN1FPTnpxWEU0YlZ5OGsxT2FGNk5PWUp5djdDR1FtOHJHWV9FR1o1YmpUUmdyOUxJT1NXaHdZZHliUmROYllnU2JsRlZqV3NuMlRj?oc=5\" target=\"_blank\">Nvidia to Invest $3.5 Billion in Chipmaker MediaTek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-08-31T12:30:00+00:00",
+      "published": "2026-08-31T16:00:24+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDJCU0pPZTFUTEN2aXRIb21wLVZXdWhzbWNTTWJyUURIcU5KNFF1REZDVUR4VE5HbWRxWVE3OFFkZ2pJaVJGczBuajhfQl90NmREMjU0QldnUGJSdVpVVnBLem1rLVVQcHNMVGpCVUxKNnBTNHN4azNIdmdCcEFzVmtNRFVKcjQ3czNSVVY1VzJzZUpQVjF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDJCU0pPZTFUTEN2aXRIb21wLVZXdWhzbWNTTWJyUURIcU5KNFF1REZDVUR4VE5HbWRxWVE3OFFkZ2pJaVJGczBuajhfQl90NmREMjU0QldnUGJSdVpVVnBLem1rLVVQcHNMVGpCVUxKNnBTNHN4azNIdmdCcEFzVmtNRFVKcjQ3czNSVVY1VzJzZUpQVjF3?oc=5\" target=\"_blank\">Jensen Huang Says Nvidia Is ‘Not Intimidated’ By Custom AI Chips – $3.5B MediaTek Bet Targets ‘Reinvention’ Of Windows PC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-31T16:47:41+00:00",
+      "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDVjNFNKT0pfZmYwTjM4X2hTRExKVFZfblZQa09jNWNHczhDZGdzSG1kc254dmFiMnZnX0lpeW9BWGcxeWJzQUZFek5LTzhnYkhGTjdoQ09jZllsRXhrdU1DZkZ5dFA3STE2R2tod0w5WEdQemtNdGc3endITHpjSEFOZlY5WXJ4VFdHeWNB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDVjNFNKT0pfZmYwTjM4X2hTRExKVFZfblZQa09jNWNHczhDZGdzSG1kc254dmFiMnZnX0lpeW9BWGcxeWJzQUZFek5LTzhnYkhGTjdoQ09jZllsRXhrdU1DZkZ5dFA3STE2R2tod0w5WEdQemtNdGc3endITHpjSEFOZlY5WXJ4VFdHeWNB?oc=5\" target=\"_blank\">Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-01T15:05:20+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, SpaceX, Dell, Deere, Broadcom, Costco, Redcat & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEJWTkEzS3ZVV2NZWnZkNUtqdml2Qk1UTzFFU0hyMHBseXdYQW1iY3JtdjE0bDY0SFBRVDcxU2dzTU9OT2d1MFVOd1h1QVJsV2FxcVZmOXdjdUtua3Q5MUlNVmdheW90UVl3czZBSjl6ME9nMjRCWUlkNGJKeUF0SElMcU9IcmZ3VnJuM2tn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObEJWTkEzS3ZVV2NZWnZkNUtqdml2Qk1UTzFFU0hyMHBseXdYQW1iY3JtdjE0bDY0SFBRVDcxU2dzTU9OT2d1MFVOd1h1QVJsV2FxcVZmOXdjdUtua3Q5MUlNVmdheW90UVl3czZBSjl6ME9nMjRCWUlkNGJKeUF0SElMcU9IcmZ3VnJuM2tn?oc=5\" target=\"_blank\">Here are Monday's biggest analyst calls: Nvidia, Apple, SpaceX, Dell, Deere, Broadcom, Costco, Redcat & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-08-31T12:07:49+00:00",
+      "title": "AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5\" target=\"_blank\">AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-01T15:32:36+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Prediction: Nvidia Stock Will Trade at $350 on This Date - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09tSTRvcDBJR2NRSEFWQXE3LXJaODZXbnlfVnJEb0xjay0zYTVmdUsydUhTQlpVajBHN3BUc01va3VIN0Q3ajFZWlpHbnRXX0l2amNqS1Q1d1NMcFI2SjY2VEN5TG94TWJrZXdzdmloRXZISmxLY3pVUjB5RGJ0X3Frb3p3NHVCRmVIN0Y2bU1kWGdIajcyX3hoTks1TlU?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09tSTRvcDBJR2NRSEFWQXE3LXJaODZXbnlfVnJEb0xjay0zYTVmdUsydUhTQlpVajBHN3BUc01va3VIN0Q3ajFZWlpHbnRXX0l2amNqS1Q1d1NMcFI2SjY2VEN5TG94TWJrZXdzdmloRXZISmxLY3pVUjB5RGJ0X3Frb3p3NHVCRmVIN0Y2bU1kWGdIajcyX3hoTks1TlU?oc=5\" target=\"_blank\">Prediction: Nvidia Stock Will Trade at $350 on This Date</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVFsaUhJX2RITjlRbkpILUlPdzJKQUV0LWFtaUFLSEU3R1pWcFdYMDBMZy1qc1lwamtuMDJ3V0FVUDNURmRDWE5SZUtwSWtKUHdLQkYxTGxDZTRxdkxtT09zOUVKM210Tnp4OU0wd2YxLTVuYnA4eThickJCbHF2MmNRN3ZVbHJtV2lvT1RVMnZ3MFVtNlE4cy1aSkNDNl9pdVM0QTdwSQ?oc=5\" target=\"_blank\">What caused Nvidia's nasty reversal Friday? Look to the Fed for clues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHdaZGdPdXBnUWd3RTIyaXVtYUtFVzAzcjRySjJ3aXdIYVAyd2pmYk9jNEV5TGo1Wkw5VEVsVjlwSjNFckd2NjNwTTZuQUxERFpBclNjUUlPUl9QRFVIc3hoRV9ONUU1bm8tYlBscDJ2bDVXSVVIbVlPNU9wcEN3Tm00RFF1NE54aWJXUXFWeHRLUlFsSEFHd21EVDVJclh0Ny1zT2FkVjRyTlRKd2FfMEVnZnFIZE16Yl9hM1BkT1JxOF9ReEE?oc=5\" target=\"_blank\">Markets Brief: Value ETFs Making a Big Tech Bet, Nvidia’s Dealmaking, and the Cybersecurity Stock Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font></li></ol>",
-      "published": "2026-08-31T14:00:53+00:00",
+      "title": "Should NVIDIA Stock Be in Your Portfolio Post Solid Q2 Earnings? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHp0NTZQNS1vSHl4dUM1azNlREJyR0IxZkxCcEhFam04WVRoamVhbWM2aXd5aHJWVmxIckphbVo2bURBYXFXOGx3ZmR1UFl3WjVxaFc3OFZCZDdJeFJSZnBrZEhjNFItVk16a3Zpc25UZDhXTkoyeEVkc0daLVROR0JEMEVKWUl2SHNMQy1OcHRsUTk2a0Z3eE1qelJ3bEE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHp0NTZQNS1vSHl4dUM1azNlREJyR0IxZkxCcEhFam04WVRoamVhbWM2aXd5aHJWVmxIckphbVo2bURBYXFXOGx3ZmR1UFl3WjVxaFc3OFZCZDdJeFJSZnBrZEhjNFItVk16a3Zpc25UZDhXTkoyeEVkc0daLVROR0JEMEVKWUl2SHNMQy1OcHRsUTk2a0Z3eE1qelJ3bEE?oc=5\" target=\"_blank\">Should NVIDIA Stock Be in Your Portfolio Post Solid Q2 Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQam42My1XMUFVR1N1QmNmT3h6QW5WRWo1eGlPa1hfb01fQlNXanQwSEEtY0NnZHZDUk00Q3JtSFhzWkFQNWhlQzJJUDJOU0w5RE9TUTRweVE2WmlLeVBZU1FDaXVxWXVTejFkRHpPaFJmdkRldVZzT0VLRjNXUDJFel8wTTlNNEFGaVFrUDJ2dHI5Qlc3dzBzT0VFUGJOdG5xYkJ6NEh4UQ?oc=5\" target=\"_blank\">Why Nvidia and CrowdStrike are up in an otherwise down stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0drTi1YS2NMWXhUMGdYeFpZbXpBbnpxVExfei1ZVFB1YXY4cldrcDZRYmcyTWk2U0UzZjR0Y2dYNmtQckViQ2k0emlQQmo4SGhrUjFPR2JPRHp5YzZseVZhRWN0RUdXdzBWNXY3RjhCbVc3V2Rrc0wyZENRRlAzMUE5X3FjS0o3aG9qc1h3cC1RRlV1Q3dSOQ?oc=5\" target=\"_blank\">Nvidia Just Gave a $267 Billion Warning That Micron Stock Could Crash Before 2029 Is Over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-09-01T14:47:00+00:00",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Wants to Run the World’s Robots. China Is an Eager Customer. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXl6OG5lWGF2aEJWbHVGdzRaVENwZXNZRTN2VFoxQXE2UnZfXzZ2YmVFa1ZFR1NnU3NpaGdlanRiSXNFSUVDbnRZOTU5SVlyY010RUhTRkVzNXo4MHBKWS1sUU45R3JEWk9SM0QtcXFFYTRyaTRMa2ZsM2thOGhIRjFVTXJvX2R3cC11Q1JXZUhUTzBsU25SaFdJdncxY3dtNmtJ?oc=5\" target=\"_blank\">Nvidia Wants to Run the World’s Robots. China Is an Eager Customer.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-08-29T15:00:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "NVIDIA Shuts Down RTX 5000 Power Limit Control OC in Latest Driver Update - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDJaQ2JWanRMbWRvTGhNaF9nQnlxdzJ3clFUY0t4R2NFT2wzaHNDMmNWX3lwWEt3MnpRbUJLV29WdTduSl9VT1RoVmxmbFJ2Vk1XUHhaaDhxd2kzMm9qWFJ4VW5Ib2xLd3VqRm43X0JVSzg4RjVORmhtaTJKQlZYdVpjblV0NlA5M1dtbk5jdXRSLVMxLVRja1hfSi1iV2V0RkxtUHl2ZFUwVGtO0gGyAUFVX3lxTE1mQmcxbFlQQXJhblRqRm1sWS1naktBVU9oeGhTQ2oyMi1UWmptWGwxbXk3QTd5WHZORkNnblhlbnlJd0tvd0hTeUNqSWpDT25tQUNBa1BETzgtaWVrWFFfRENscnFna1dtWHg5X1dYNlNMRkZMOFVvZUh1MTNiY3VHZ3dsTGREUjgxc1pqTXIxRm9OUkg0T1VfSV9vM0hHYkpSWUprbjBhSmZKVWRnTS12b2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDJaQ2JWanRMbWRvTGhNaF9nQnlxdzJ3clFUY0t4R2NFT2wzaHNDMmNWX3lwWEt3MnpRbUJLV29WdTduSl9VT1RoVmxmbFJ2Vk1XUHhaaDhxd2kzMm9qWFJ4VW5Ib2xLd3VqRm43X0JVSzg4RjVORmhtaTJKQlZYdVpjblV0NlA5M1dtbk5jdXRSLVMxLVRja1hfSi1iV2V0RkxtUHl2ZFUwVGtO0gGyAUFVX3lxTE1mQmcxbFlQQXJhblRqRm1sWS1naktBVU9oeGhTQ2oyMi1UWmptWGwxbXk3QTd5WHZORkNnblhlbnlJd0tvd0hTeUNqSWpDT25tQUNBa1BETzgtaWVrWFFfRENscnFna1dtWHg5X1dYNlNMRkZMOFVvZUh1MTNiY3VHZ3dsTGREUjgxc1pqTXIxRm9OUkg0T1VfSV9vM0hHYkpSWUprbjBhSmZKVWRnTS12b2c?oc=5\" target=\"_blank\">NVIDIA Shuts Down RTX 5000 Power Limit Control OC in Latest Driver Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2026-08-30T21:16:02+00:00",
-      "source": "TechPowerUp"
-    },
-    {
-      "title": "NVIDIA's DLSS 5: Slop Or Not? - 80 Level",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01UDF6LUVqU1pNN3hqV2h5NUpWSW5kZ19LWVpPZmJSVmFCRW1qUjVJRV9rdVQyaWFoQWxQa2lRLUV4M1NMdi12YXFzWHlTY1oyZlR5d0tJejgzSm1CSjk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01UDF6LUVqU1pNN3hqV2h5NUpWSW5kZ19LWVpPZmJSVmFCRW1qUjVJRV9rdVQyaWFoQWxQa2lRLUV4M1NMdi12YXFzWHlTY1oyZlR5d0tJejgzSm1CSjk0?oc=5\" target=\"_blank\">NVIDIA's DLSS 5: Slop Or Not?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">80 Level</font>",
-      "published": "2026-08-31T10:27:26+00:00",
-      "source": "80 Level"
     }
   ],
   "product_launches": [
     {
-      "title": "Nvidia revives Rubin CPX chip program with 2027 launch planned, analyst says - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWgwTWhSUHBUNTdxNVljc3dmZG4zd0hFWU45QmJPb1YtOXpkVWt1NGhnMjBjd1hqSXlHZTUyaHl4dXNPNEtxUmJwdEs5aktuNFV5cDBsSDMySk1MWHcycHpZSDJMSDVSZXFLZkFJTXZLdV9TZWxpWnhDVGJqeE9vV01ob2hUMGxrQnhSYllQN0VNQU9ZNHhmdTFqZGktYlNMM2c5WjBrNWU1QVhiMF8ycHVrOHdqVU1oUENWb2JSVF8zbFhSaWJwLVBLTDZoWjhpQk1DNkRUWmlrcGNZNGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxObWgwTWhSUHBUNTdxNVljc3dmZG4zd0hFWU45QmJPb1YtOXpkVWt1NGhnMjBjd1hqSXlHZTUyaHl4dXNPNEtxUmJwdEs5aktuNFV5cDBsSDMySk1MWHcycHpZSDJMSDVSZXFLZkFJTXZLdV9TZWxpWnhDVGJqeE9vV01ob2hUMGxrQnhSYllQN0VNQU9ZNHhmdTFqZGktYlNMM2c5WjBrNWU1QVhiMF8ycHVrOHdqVU1oUENWb2JSVF8zbFhSaWJwLVBLTDZoWjhpQk1DNkRUWmlrcGNZNGc?oc=5\" target=\"_blank\">Nvidia revives Rubin CPX chip program with 2027 launch planned, analyst says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-08-31T14:16:00+00:00",
-      "source": "Investing.com"
-    },
-    {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - nvidianews.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nvidianews.nvidia.com</font>",
       "published": "2026-04-14T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
+      "source": "nvidianews.nvidia.com"
     },
     {
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5\" target=\"_blank\">Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-      "published": "2026-08-25T13:00:00+00:00",
-      "source": "VentureBeat"
+      "title": "Nvidia revives Rubin CPX chip program with 2027 launch planned, analyst says - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeWIybmhvQ2FjeGJnbjRpWHRqenZ5MWlFQTljbWV6WmJpNGZSbkZFblFEVWdOeU11Q0NWelNLMEpNVUdXdVIyMWJ2a1BMaVVxN2p1WDhzOERyUFdIYWZTWFRkeG9lUVVMdlpHZlBDalNYYnB6aFVDYUdOb0hBWVh0b3diOUhpc0Vnc0xZTTlwa19SUkFYWDdLWmx2b1Y5S1l4cFFOd3pvQjRZNXdkV0VjQkF0enVqZGw4ZUtXWHhwQ1ZPaVZmcHZKSGgyeEFZdVdoa2Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeWIybmhvQ2FjeGJnbjRpWHRqenZ5MWlFQTljbWV6WmJpNGZSbkZFblFEVWdOeU11Q0NWelNLMEpNVUdXdVIyMWJ2a1BMaVVxN2p1WDhzOERyUFdIYWZTWFRkeG9lUVVMdlpHZlBDalNYYnB6aFVDYUdOb0hBWVh0b3diOUhpc0Vnc0xZTTlwa19SUkFYWDdLWmx2b1Y5S1l4cFFOd3pvQjRZNXdkV0VjQkF0enVqZGw4ZUtXWHhwQ1ZPaVZmcHZKSGgyeEFZdVdoa2Yw?oc=5\" target=\"_blank\">Nvidia revives Rubin CPX chip program with 2027 launch planned, analyst says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2026-08-31T14:27:50+00:00",
+      "source": "Investing.com"
     },
     {
       "title": "Nvidia launches new chip to bring AI directly to personal computers - Reuters",
@@ -91,25 +84,28 @@
       "source": "Reuters"
     },
     {
-      "title": "Perplexity and NVIDIA launch Portable Computer, a 100% local AI agent with zero token costs - Korben",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakhlUWoyME16QTd5Nkt3eF9sU0NZeG9vZHZzdzlLYXoxOWZBZVVsaGxXWEE1TmFjU2NtUE9xTHdZczMxd1dGZUliYVFRUjJnQ19zSDktNnRwY1dYRXRXMDVobXdPd2VvWmx1RS1idEI3Q0FwNFZTTlhJenZKMFk2WllsekQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQakhlUWoyME16QTd5Nkt3eF9sU0NZeG9vZHZzdzlLYXoxOWZBZVVsaGxXWEE1TmFjU2NtUE9xTHdZczMxd1dGZUliYVFRUjJnQ19zSDktNnRwY1dYRXRXMDVobXdPd2VvWmx1RS1idEI3Q0FwNFZTTlhJenZKMFk2WllsekQ?oc=5\" target=\"_blank\">Perplexity and NVIDIA launch Portable Computer, a 100% local AI agent with zero token costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korben</font>",
-      "published": "2026-08-27T08:19:12+00:00",
-      "source": "Korben"
+      "title": "Bybit Launches Options on Its Own SpaceX and NVIDIA Perpetual - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa2wyT3FJMms5eWhlU1FsRFZxVGhDLS14bWRUaWtwZ21DbEIzM1JJRW5zYUVNOVRfYWptYkdFb3FXRXRoOGxYVGJabjZOSlVZRHBrSFg0dUlJRWVGU3BKMmh5N3RabEFDemswNERnSUZSeTBod3JVSngxbHh0YTFWWjlkQjhDcG14bDVNN09jcWlVQTAyUS1fZmdzZmlVQURUVTk1U1d3MUlQXy1aR0VOa2laX3hwWjVMRjNMQlJvMDZUS2psTmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNa2wyT3FJMms5eWhlU1FsRFZxVGhDLS14bWRUaWtwZ21DbEIzM1JJRW5zYUVNOVRfYWptYkdFb3FXRXRoOGxYVGJabjZOSlVZRHBrSFg0dUlJRWVGU3BKMmh5N3RabEFDemswNERnSUZSeTBod3JVSngxbHh0YTFWWjlkQjhDcG14bDVNN09jcWlVQTAyUS1fZmdzZmlVQURUVTk1U1d3MUlQXy1aR0VOa2laX3hwWjVMRjNMQlJvMDZUS2psTmc?oc=5\" target=\"_blank\">Bybit Launches Options on Its Own SpaceX and NVIDIA Perpetual</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2026-08-28T20:02:01+00:00",
+      "source": "TradingView"
+    },
+    {
+      "title": "Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments - investors.palantir.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3JHRGFSTWVYXzhVanNPa1liMXlKRzNrcVFOdS11NWNmdHNkNU9zcTFaN0l2UkZNT0NhRlMxajl2TlREZlFtMWpFaGRRdGRBS1RWX1hXN0FJRmwzRjFEOTBSNkR5VmtkWjFud2hiazZzOXlUYUo0M2FtOS1naGp6MHZMMU53dUd3eThzdExnUklMMklYYUctcUVxNXJrUnBNeXdhYkxTQkZPY2JsT2NLMmtHemtMRHpSbUE4em5vcDN3c2hvVS13d2l6RENfUG1vcl80ZnJRMFltZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN3JHRGFSTWVYXzhVanNPa1liMXlKRzNrcVFOdS11NWNmdHNkNU9zcTFaN0l2UkZNT0NhRlMxajl2TlREZlFtMWpFaGRRdGRBS1RWX1hXN0FJRmwzRjFEOTBSNkR5VmtkWjFud2hiazZzOXlUYUo0M2FtOS1naGp6MHZMMU53dUd3eThzdExnUklMMklYYUctcUVxNXJrUnBNeXdhYkxTQkZPY2JsT2NLMmtHemtMRHpSbUE4em5vcDN3c2hvVS13d2l6RENfUG1vcl80ZnJRMFltZw?oc=5\" target=\"_blank\">Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investors.palantir.com</font>",
+      "published": "2026-06-29T07:00:00+00:00",
+      "source": "investors.palantir.com"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-08-31",
-      "close": 219.48500061035156
+      "date": "2026-09-01",
+      "close": 219.4398956298828
     },
     "history": [
-      {
-        "date": "2026-08-21",
-        "close": 214.72000122070312
-      },
       {
         "date": "2026-08-24",
         "close": 208.47999572753906
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-08-31",
-        "close": 219.48500061035156
+        "close": 220.77999877929688
+      },
+      {
+        "date": "2026-09-01",
+        "close": 219.4398956298828
       }
     ],
     "name": "NVIDIA Corporation"
