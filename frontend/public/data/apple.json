@@ -2,114 +2,17 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-09-02T15:36:29.982360+00:00",
-  "news": [
-    {
-      "title": "John Ternus Replaces Tim Cook as Apple CEO - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXpOWlFOTE5oWEQ2NUo3amN6S0VWTnNPUVoxWlJ6ZEVBVDgxcnlTWEdxSlgwVFV3d2lTLUZvU1ktRXRkeHRna0NlWldPb3V1Um94THE5ekg0eURkLTVueTNpb2VnbllQU2gwSmhGODV3b2pEdnFRZXQ0R2s4RHJNWFNVOA?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXpOWlFOTE5oWEQ2NUo3amN6S0VWTnNPUVoxWlJ6ZEVBVDgxcnlTWEdxSlgwVFV3d2lTLUZvU1ktRXRkeHRna0NlWldPb3V1Um94THE5ekg0eURkLTVueTNpb2VnbllQU2gwSmhGODV3b2pEdnFRZXQ0R2s4RHJNWFNVOA?oc=5\" target=\"_blank\">John Ternus Replaces Tim Cook as Apple CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEczaEE0ZjZxU0tvUENfTlhYa2NpTDUySDRCbGpTOHFLUmpyQ0Q5QTZ1SGdySExJSVVxaHZzdDN6cy01MFBkSE5fRVJpeE9oa3FFTktCRlU2NU41a21EQmZXZWlHNkJINEtGczNPVWRVU0czZGlPOEdxWDlzbWhfTkxiZHZtQ2h4S1h0Z3F0REFnQWtq?oc=5\" target=\"_blank\">Apple Unveils Pay Package For New CEO John Ternus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">deadline.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPclpybHdwSlZrZ2l4Q2ZzQmNRV3RzQ0h4V1BIQUhzdkRyNFBsdU9XWmlJQnBzanNwWnZLcFZmakVEVVJnWjYwcFJLMGhLMG9OYU96cHhsNG1IdGk1eVZyYUk3VzNsVldZdzA4TmI4WGpranBwc2dMMkNmTVBGYjYtd0xnUW0tUThKWGVacFBEdFpOS2FCSmU4dVpzeC1WcmJVVDlJZXUtRnQ1TGhz?oc=5\" target=\"_blank\">Tech stocks today: John Ternus becomes Apple CEO as legal battle with OpenAI escalates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-09-01T09:01:55+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Apple Launching Eight New Products This Month - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1EtSXVRMkhFYmJWamZKSmROdnBhTnRrWFY2YUNpaFpCR3EzZFhBVjBxRlRYTF9PV3dxMGV6MXpFdW8zYUZRR0VuRzFzbmZqZkFMbXVKV1Q0SG9YLWwxVHNHcXd5c3ZwTUdhZ3RMY0dVeVprUkZPdnR6c2NfSFBUMFhkeDVkd2EzV1Mw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1EtSXVRMkhFYmJWamZKSmROdnBhTnRrWFY2YUNpaFpCR3EzZFhBVjBxRlRYTF9PV3dxMGV6MXpFdW8zYUZRR0VuRzFzbmZqZkFMbXVKV1Q0SG9YLWwxVHNHcXd5c3ZwTUdhZ3RMY0dVeVprUkZPdnR6c2NfSFBUMFhkeDVkd2EzV1Mw?oc=5\" target=\"_blank\">Apple Launching Eight New Products This Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-09-02T08:38:00+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple Maps changes name of Lake Ontario to 'Lake America' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjVNcWhLam9PNXJMYTE1QmhDWlFwTW41eHdYZnloYi1ya2ZkWWhRc25ROGw2RWk4V3VQc25hQmFtN292NnV5WlFfUnV1bnNFaElSUVJvMnNNenpYd05Da0hnTk1jZ0lVT3pSeUJtb1BtZkNmWGxZeEtmVTVhbVM4WTdCR0YyT2tLRzdZeGQ0OUVxa3I0R0RpdHFn?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjVNcWhLam9PNXJMYTE1QmhDWlFwTW41eHdYZnloYi1ya2ZkWWhRc25ROGw2RWk4V3VQc25hQmFtN292NnV5WlFfUnV1bnNFaElSUVJvMnNNenpYd05Da0hnTk1jZ0lVT3pSeUJtb1BtZkNmWGxZeEtmVTVhbVM4WTdCR0YyT2tLRzdZeGQ0OUVxa3I0R0RpdHFn?oc=5\" target=\"_blank\">Apple Maps changes name of Lake Ontario to 'Lake America'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rd2o3OTMwazZMc2JqMHYyYnNwVTBsMEdBbThGY3E1clo1Yi05T1N6d3RrTUllOUFzVzc2T1BkR2RZcEs3Vk1zTlVWaG9FLTFfSWJDR1k4b0R4Ylda?oc=5\" target=\"_blank\">Apple Maps renames Lake Ontario as Lake America after Trump order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.co.uk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNekZkYVhJNGg3eXBXM2F0WXdyVTRsZklMMFJ5Z3BKbzNncG1DWklPVkV0cWVEaTN4UkZ3d2NMdjJfMmVlSFBLa0tsNlBNVTJYMTZXcWpQZElqazlBRGdsc3d3Z2tJRFIwNEhvU29qcWFrT3ZVeWVxYVl3RFZ1eEQycW84akFNbC16R3VOb1VxdTh2ZzMtbWswZ3FNc3NzN1pLQUlLalVYRDFJQ21Qb0EzUEtrUnnSAboBQVVfeXFMUExRazBGOXJ3TmlweGJDZDRGZ0VHUk1tVktHZkdMZEJRWDdnYjJ4eVk5LXlJYVl5LWFCczV1Y0ZwM2FLWWhtUW1FTnRET09XSVA1dzNHRVhlUG4tVktDYWd1RVpVblBESVJJeVVuY1d1THNydEtvZUtQd0NKcVd4RklQLXlaMldyTXV4bDZOd1NpQWJxbWdCczE0dGFYU2dhTU5Kbk9ZcHBmTXptTkhPQjVBVnNLekVPa2xn?oc=5\" target=\"_blank\">MapQuest tops Apple App Store charts after refusing Trump’s ‘Lake America’ change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFLA</font></li></ol>",
-      "published": "2026-09-01T21:30:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple Maps changes Lake Ontario name after Trump request - wane.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNldFVVAtN0RjNjlXZUp1WTBTQWtSRzJhazh1ZnRITk55eEZTRUs5NThWOV9Pc3hWZmJxYVllREFDTGhMMk95aFYxUWo3R1ppWVZoOUdjS1RCeDViaUxtZGZoWm1aM3Z3MXZ0bklZSGx0a1hWbjBGOEpBSlowVzVYekNoSEdoZVhfd1FXY3daN0FwYmE2MTM00gGcAUFVX3lxTE45Sk9MMFAxRjAyaXFpSklBakhDbVBGUXBtcUpkZUUyQm5NVlY1UWlGb0pPNmdoTXM3VUhiUnJtZHNpU2RaY1cwU3VZR0NtV0I4eTI1aE1DSlpOVG0xOF85cXcweUd4TFRKYzdoSjRCeVFaNnZZaXNBOTByTEhFOHhKQ3lmZE1XTlU4NVdXRkF2LUpQOE5ONGtPZ2tGLQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNldFVVAtN0RjNjlXZUp1WTBTQWtSRzJhazh1ZnRITk55eEZTRUs5NThWOV9Pc3hWZmJxYVllREFDTGhMMk95aFYxUWo3R1ppWVZoOUdjS1RCeDViaUxtZGZoWm1aM3Z3MXZ0bklZSGx0a1hWbjBGOEpBSlowVzVYekNoSEdoZVhfd1FXY3daN0FwYmE2MTM00gGcAUFVX3lxTE45Sk9MMFAxRjAyaXFpSklBakhDbVBGUXBtcUpkZUUyQm5NVlY1UWlGb0pPNmdoTXM3VUhiUnJtZHNpU2RaY1cwU3VZR0NtV0I4eTI1aE1DSlpOVG0xOF85cXcweUd4TFRKYzdoSjRCeVFaNnZZaXNBOTByTEhFOHhKQ3lmZE1XTlU4NVdXRkF2LUpQOE5ONGtPZ2tGLQ?oc=5\" target=\"_blank\">Apple Maps changes Lake Ontario name after Trump request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wane.com</font>",
-      "published": "2026-09-02T14:55:50+00:00",
-      "source": "wane.com"
-    },
-    {
-      "title": "Jim Cramer says Nvidia should do a half-trillion dollar, Apple-style stock buyback - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkpNWUhfalJRbEtDNWlDRTNrUEFNQUtfQXQ1bmpWWWFENVVoN2hLTG1tbGxFakdaQ25MRTJxMUJyVUJtbFEwUTJTaHUyMXpRS0MyWng3YVh6a0FvbzZXbVJHVlpWZloybGZVQnR3UlN0VXZGV21hbmg3RXhRaTk0b0hJNm9HN0NLbHU0Zk1iTko0bEhUZHJUY0dZLUlLQzZwWmJjVmlvRE5McWJ4bmRjdkMzZndCd1RqRmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYkpNWUhfalJRbEtDNWlDRTNrUEFNQUtfQXQ1bmpWWWFENVVoN2hLTG1tbGxFakdaQ25MRTJxMUJyVUJtbFEwUTJTaHUyMXpRS0MyWng3YVh6a0FvbzZXbVJHVlpWZloybGZVQnR3UlN0VXZGV21hbmg3RXhRaTk0b0hJNm9HN0NLbHU0Zk1iTko0bEhUZHJUY0dZLUlLQzZwWmJjVmlvRE5McWJ4bmRjdkMzZndCd1RqRmc?oc=5\" target=\"_blank\">Jim Cramer says Nvidia should do a half-trillion dollar, Apple-style stock buyback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-01T23:13:00+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "21 Years Ago, Intel Saved the Mac. Now, We Say Goodbye to the Intel Era Forever - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFeWo5ZnozcGkzLU10RVBmX1ZuSG1kQUQtRWhtQm1md2ZvZVBBSGdGbVhPWUNOYVFLdHd2Nl9DR0Y0djhSOGJqRk02VFRNcHRYel9VZWRnRkhfTTJvUWVaV2Q0aGd6TGNoXy1INjdVSm4tQ2UyclZOZ1RLQm8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBFeWo5ZnozcGkzLU10RVBmX1ZuSG1kQUQtRWhtQm1md2ZvZVBBSGdGbVhPWUNOYVFLdHd2Nl9DR0Y0djhSOGJqRk02VFRNcHRYel9VZWRnRkhfTTJvUWVaV2Q0aGd6TGNoXy1INjdVSm4tQ2UyclZOZ1RLQm8?oc=5\" target=\"_blank\">21 Years Ago, Intel Saved the Mac. Now, We Say Goodbye to the Intel Era Forever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-09-01T07:00:00+00:00",
-      "source": "PCMag"
-    },
-    {
-      "title": "Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUmdna0JKYzlrUFFGV1JaWFdldnpOOHJYcW55VjhZb0hKSVpPTFpMcGhuc0VKbGQ3cV9iUUJuQTBHcUpUMldJbnkzWV9kQ3dHYnpZbVlNRXJfcmVmQmVmZFVEZVk5eTdud0NuOW5jdUgweUlRUVRFRmotZTM3WXdqbzFMMEt4ZmVEMU81YnNGU2llclk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUmdna0JKYzlrUFFGV1JaWFdldnpOOHJYcW55VjhZb0hKSVpPTFpMcGhuc0VKbGQ3cV9iUUJuQTBHcUpUMldJbnkzWV9kQ3dHYnpZbVlNRXJfcmVmQmVmZFVEZVk5eTdud0NuOW5jdUgweUlRUVRFRmotZTM3WXdqbzFMMEt4ZmVEMU81YnNGU2llclk?oc=5\" target=\"_blank\">Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-09-02T09:30:00+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1JScWUyM2dQRGtMTC0xVFV0RTM3S0xIWkRyTTZYVGlrZ0JrQ0s4TEdla0lhRDlZQ2hSczhsMEZ0bExPOU80akVQOGlMeW1HaFUydERwQ2FfLXJ3WFVFemdURG5ReElyZVA0cnBYZTZnZ1lsb1FpdmRUUHdUWnNka2pyUlNBSnUzV3hINk8ta3JNdkp6Ym5hdGN1WktXclZzMlBB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1JScWUyM2dQRGtMTC0xVFV0RTM3S0xIWkRyTTZYVGlrZ0JrQ0s4TEdla0lhRDlZQ2hSczhsMEZ0bExPOU80akVQOGlMeW1HaFUydERwQ2FfLXJ3WFVFemdURG5ReElyZVA0cnBYZTZnZ1lsb1FpdmRUUHdUWnNka2pyUlNBSnUzV3hINk8ta3JNdkp6Ym5hdGN1WktXclZzMlBB?oc=5\" target=\"_blank\">Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-31T21:03:52+00:00",
-      "source": "Yahoo Finance"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Apple Launching Eight New Products This Month - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1EtSXVRMkhFYmJWamZKSmROdnBhTnRrWFY2YUNpaFpCR3EzZFhBVjBxRlRYTF9PV3dxMGV6MXpFdW8zYUZRR0VuRzFzbmZqZkFMbXVKV1Q0SG9YLWwxVHNHcXd5c3ZwTUdhZ3RMY0dVeVprUkZPdnR6c2NfSFBUMFhkeDVkd2EzV1Mw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1EtSXVRMkhFYmJWamZKSmROdnBhTnRrWFY2YUNpaFpCR3EzZFhBVjBxRlRYTF9PV3dxMGV6MXpFdW8zYUZRR0VuRzFzbmZqZkFMbXVKV1Q0SG9YLWwxVHNHcXd5c3ZwTUdhZ3RMY0dVeVprUkZPdnR6c2NfSFBUMFhkeDVkd2EzV1Mw?oc=5\" target=\"_blank\">Apple Launching Eight New Products This Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-09-02T08:38:00+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple will launch 15+ new products this fall, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXlqTWJneVp6Zk1wNThKc3FZeVZWTlpBanMwYWNWeW52UmFwYk10SzY3WW1YTmcxdVJsLXpodS1OYlpNb3h1NFhaN2RDQVNpdVlQZHhGOTFBMlFFQnRNZkNPUXpDd3VENDVRYmZMc2tLREM0cU53U25NS0R4MkJERjh1N1ptd3VDQm8tNzBzXzF6MjVFcG4zS2pR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXlqTWJneVp6Zk1wNThKc3FZeVZWTlpBanMwYWNWeW52UmFwYk10SzY3WW1YTmcxdVJsLXpodS1OYlpNb3h1NFhaN2RDQVNpdVlQZHhGOTFBMlFFQnRNZkNPUXpDd3VENDVRYmZMc2tLREM0cU53U25NS0R4MkJERjh1N1ptd3VDQm8tNzBzXzF6MjVFcG4zS2pR?oc=5\" target=\"_blank\">Apple will launch 15+ new products this fall, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-08-28T14:16:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone, Home, iPad mini : Apple's launches for September and October - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODRSekY1WUxaMGVRUFgyV21UMklGY3hlM0hucE9hSElxMWN5bm40MFBKeVJIZ0NPcElJNUwwNXBNQmRNdEIwWmxvNTFRM2JBY0JoWkVJN1lyME5zc2RBUTdGR1MySTVHX1A2TUVQS2ZkTFlwS3Ztd19FWWFPbFQwN1UtdVBGOTBJTlVFY3M4dkxsRFlHaWRmcTI2S3pzamNCQjJDZEFxLXhwZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODRSekY1WUxaMGVRUFgyV21UMklGY3hlM0hucE9hSElxMWN5bm40MFBKeVJIZ0NPcElJNUwwNXBNQmRNdEIwWmxvNTFRM2JBY0JoWkVJN1lyME5zc2RBUTdGR1MySTVHX1A2TUVQS2ZkTFlwS3Ztd19FWWFPbFQwN1UtdVBGOTBJTlVFY3M4dkxsRFlHaWRmcTI2S3pzamNCQjJDZEFxLXhwZw?oc=5\" target=\"_blank\">iPhone, Home, iPad mini : Apple's launches for September and October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
-      "published": "2026-08-30T17:10:00+00:00",
-      "source": "AppleInsider"
-    },
-    {
-      "title": "Apple’s New CEO Hypes Product Launch in First Employee Address - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWhjdEh3SEo0ZkNzaXFLcVlWby1GMWlJMHhzaDVvbUFDRlprQ2tjcXZFeklycklKN1hhT2NiQ0dQVnFITUpldFBqRWU2QXk4R2hBdG9GX1c3SU4ybXRLdDNobUk1aDg1NGVEYlFBeExmNHBBM25iQkdEYXo1cU5aU1Fic0ItemF2aXZhN2d4aWRVd3FTWm1Sdlctamc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWhjdEh3SEo0ZkNzaXFLcVlWby1GMWlJMHhzaDVvbUFDRlprQ2tjcXZFeklycklKN1hhT2NiQ0dQVnFITUpldFBqRWU2QXk4R2hBdG9GX1c3SU4ybXRLdDNobUk1aDg1NGVEYlFBeExmNHBBM25iQkdEYXo1cU5aU1Fic0ItemF2aXZhN2d4aWRVd3FTWm1Sdlctamc?oc=5\" target=\"_blank\">Apple’s New CEO Hypes Product Launch in First Employee Address</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "published": "2026-09-02T10:50:18+00:00",
-      "source": "PYMNTS.com"
-    },
-    {
-      "title": "Apple Sept. 9 event — all 9 new products we're expecting to see - Tom's Guide",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTlNYm9QZnByM290bHFOZXprRlIwcEFFYlhDQzdqU29haTV2Q1NGLVN5d2RreEkyTFZyc3VOSmlnT0Y0TVhZeGxSY0NOZ1Q3blpsemZrMERXRk80ZkRqZ2NUYldqNDQ5bzc5YTE4N2l4Znh4dUNFeWRRVHpYZEU4X29wOHo5czNQdlVMQkRMQjlSMVF2UnBoeGVsSXdfN21uTHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTlNYm9QZnByM290bHFOZXprRlIwcEFFYlhDQzdqU29haTV2Q1NGLVN5d2RreEkyTFZyc3VOSmlnT0Y0TVhZeGxSY0NOZ1Q3blpsemZrMERXRk80ZkRqZ2NUYldqNDQ5bzc5YTE4N2l4Znh4dUNFeWRRVHpYZEU4X29wOHo5czNQdlVMQkRMQjlSMVF2UnBoeGVsSXdfN21uTHc?oc=5\" target=\"_blank\">Apple Sept. 9 event — all 9 new products we're expecting to see</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font>",
-      "published": "2026-09-02T05:15:00+00:00",
-      "source": "Tom's Guide"
-    }
-  ],
+  "fetched_at": "2026-09-03T15:28:07.481922+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-02",
-      "close": 326.5350036621094
+      "date": "2026-09-03",
+      "close": 330.010009765625
     },
     "history": [
-      {
-        "date": "2026-08-25",
-        "close": 309.8999938964844
-      },
       {
         "date": "2026-08-26",
         "close": 313.45001220703125
@@ -132,7 +35,11 @@
       },
       {
         "date": "2026-09-02",
-        "close": 326.5350036621094
+        "close": 324.9599914550781
+      },
+      {
+        "date": "2026-09-03",
+        "close": 330.010009765625
       }
     ],
     "name": "Apple Inc."

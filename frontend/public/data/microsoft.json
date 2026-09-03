@@ -2,86 +2,22 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-09-02T15:36:33.184416+00:00",
-  "news": [
-    {
-      "title": "Microsoft Defender flags legitimate Google search links as malicious - BleepingComputer",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2JmYlVNSzVTeG0zRnF5elBjUi1haWQ4R3c0RnZyVm52TFZ5VmFQdmFyLXRlRHV6R2wtYUl1c1NScDlLMFRuTnc3WHAwR1VDRF9qTWs0SFlSRmFUbTZ4elVNc0hVUHJsWmMwempwVGVxa2pyeVg5c1hpU3hZVUNUWEZqb2UxZmFPMmpmbktEdS1ZdFVuYVo4aXRlekRkcm5iT04xMjlvXzNYNWFrYkVibExnY0lPSGPSAbwBQVVfeXFMTUJiRmw0SDlpWjlVUk1UeEpveldFejlmaDloMmIwWjgzX3dOMzVMWnNxMHdJemZGNzVHYm0waWJ2WXhQbFhUeGttS1FKSmhNMW5BSTV4VmdNSzhmckZVaFVuYWtGVXhoa1h4YUFXSThfdzNVZGU4TGFWall0NUpIcUxBa0xSTVBZREt1Q3Q5QnVTZ3dKOEo4YjNBWWtPLVp5YlpkLWZzcXJCQUhXYTlfNl8wX2l2WEVvcEwwZU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2JmYlVNSzVTeG0zRnF5elBjUi1haWQ4R3c0RnZyVm52TFZ5VmFQdmFyLXRlRHV6R2wtYUl1c1NScDlLMFRuTnc3WHAwR1VDRF9qTWs0SFlSRmFUbTZ4elVNc0hVUHJsWmMwempwVGVxa2pyeVg5c1hpU3hZVUNUWEZqb2UxZmFPMmpmbktEdS1ZdFVuYVo4aXRlekRkcm5iT04xMjlvXzNYNWFrYkVibExnY0lPSGPSAbwBQVVfeXFMTUJiRmw0SDlpWjlVUk1UeEpveldFejlmaDloMmIwWjgzX3dOMzVMWnNxMHdJemZGNzVHYm0waWJ2WXhQbFhUeGttS1FKSmhNMW5BSTV4VmdNSzhmckZVaFVuYWtGVXhoa1h4YUFXSThfdzNVZGU4TGFWall0NUpIcUxBa0xSTVBZREt1Q3Q5QnVTZ3dKOEo4YjNBWWtPLVp5YlpkLWZzcXJCQUhXYTlfNl8wX2l2WEVvcEwwZU0?oc=5\" target=\"_blank\">Microsoft Defender flags legitimate Google search links as malicious</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
-      "published": "2026-09-02T10:29:39+00:00",
-      "source": "BleepingComputer"
-    },
-    {
-      "title": "Microsoft Outlook Down for Thousands of Users, Downdetector Reports - GV Wire",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1hVc1lCaER1RHJILVZNNl92Q1RxNUx5V2pZekF5ZTFOVWJwZXJveHZBSkdQSWU5bG9GTm92UVp6eEFLR1BOVW9YLXFnR19iZFMyZjBSTHNwOTI0VkpiMzZwdXdFTzhHRDdENnhORlNDZ1VOaDVyTk8yclcta01RUml3ZUE4U0x4X2xmaGhpdVRtdE8tcUp2TmZDQUFKUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPa1hVc1lCaER1RHJILVZNNl92Q1RxNUx5V2pZekF5ZTFOVWJwZXJveHZBSkdQSWU5bG9GTm92UVp6eEFLR1BOVW9YLXFnR19iZFMyZjBSTHNwOTI0VkpiMzZwdXdFTzhHRDdENnhORlNDZ1VOaDVyTk8yclcta01RUml3ZUE4U0x4X2xmaGhpdVRtdE8tcUp2TmZDQUFKUQ?oc=5\" target=\"_blank\">Microsoft Outlook Down for Thousands of Users, Downdetector Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GV Wire</font>",
-      "published": "2026-08-31T19:00:16+00:00",
-      "source": "GV Wire"
-    },
-    {
-      "title": "Microsoft 365 outage drags on, but things are improving - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzF4TlZYRWRxNlByeXR0TDVyU1dDUEg3cXpGSzdtV3ZSV01sS0lmNEwtUEJTcEd2bnNtQ1F4YUMwUmUwazU4MjBZZXdja3ljQ21tT1BQT2RLVzBUOXp0a2VmTzc3VkRHaVI0eDFidkZGLVhmUk1Ra1VpMExUSWxvZkN6TVA3V3RtbnpEakpEa2dkbG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzF4TlZYRWRxNlByeXR0TDVyU1dDUEg3cXpGSzdtV3ZSV01sS0lmNEwtUEJTcEd2bnNtQ1F4YUMwUmUwazU4MjBZZXdja3ljQ21tT1BQT2RLVzBUOXp0a2VmTzc3VkRHaVI0eDFidkZGLVhmUk1Ra1VpMExUSWxvZkN6TVA3V3RtbnpEakpEa2dkbG8?oc=5\" target=\"_blank\">Microsoft 365 outage drags on, but things are improving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-09-01T15:23:15+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft update on Outlook outage: 'Gradual recovery to mail flow' - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jLWRxXzh6M2J0akVMMXFLbjgxdXNYS3l2aHZRcHdpVFBqQVcyYlR6eW51UWlPU29OX3hVTEVNdFY3Nmw3S2lXb2h5ajNvZU9NVkVqbnZ0Mm9NMDY1eEsyMWF0c3U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jLWRxXzh6M2J0akVMMXFLbjgxdXNYS3l2aHZRcHdpVFBqQVcyYlR6eW51UWlPU29OX3hVTEVNdFY3Nmw3S2lXb2h5ajNvZU9NVkVqbnZ0Mm9NMDY1eEsyMWF0c3U?oc=5\" target=\"_blank\">Microsoft update on Outlook outage: 'Gradual recovery to mail flow'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-09-01T00:44:08+00:00",
-      "source": "Mashable"
-    },
-    {
-      "title": "Opera loses court challenge against EU exemption of Microsoft's Edge from DMA rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVU3ZU0tdWEzMDFwQUx0ZnRHZnpqT1YtbWc3eS1QbXZXNDRIUDM5Nm9VcURCX3lCazVRaE1xTUJYWEdMa3hnRFRxNjRJb0p2MW9qTlQtekNlandfRmNYWFIyWm1OWlNSWGM1OVVaNGN4OFJTR3ItTHNLWGZjSS1jb0lSQ25jdEhqTkN6dFNTR21abTRxRmtnX2kweWhWOHMxaGRja2xzVmdkNzNYOW9WeDJhbFJaSnYxeHBXQVhn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUVU3ZU0tdWEzMDFwQUx0ZnRHZnpqT1YtbWc3eS1QbXZXNDRIUDM5Nm9VcURCX3lCazVRaE1xTUJYWEdMa3hnRFRxNjRJb0p2MW9qTlQtekNlandfRmNYWFIyWm1OWlNSWGM1OVVaNGN4OFJTR3ItTHNLWGZjSS1jb0lSQ25jdEhqTkN6dFNTR21abTRxRmtnX2kweWhWOHMxaGRja2xzVmdkNzNYOW9WeDJhbFJaSnYxeHBXQVhn?oc=5\" target=\"_blank\">Opera loses court challenge against EU exemption of Microsoft's Edge from DMA rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T10:16:01+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Microsoft bulls get cold feet - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RGUyVXhCWFo2a2pMNjI2R1VwZk8tZWluX3FfS0U3cDN2R2R4UWlobC16dWV4Y01RcUlEejFuVi1CeVBLT2YxQ2hqalE2ZUNMODdndFp2a1hJWTR5TnBPYTRsVnJBM1E3VHFwcFVKSDN6RDRsVmRUUFczOEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RGUyVXhCWFo2a2pMNjI2R1VwZk8tZWluX3FfS0U3cDN2R2R4UWlobC16dWV4Y01RcUlEejFuVi1CeVBLT2YxQ2hqalE2ZUNMODdndFp2a1hJWTR5TnBPYTRsVnJBM1E3VHFwcFVKSDN6RDRsVmRUUFczOEE?oc=5\" target=\"_blank\">Microsoft bulls get cold feet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-01T17:38:00+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Satya Nadella Changed Microsoft by Letting Go of the Mental Model That Built Its Success - inc.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNkRBZUxUOWIteWNleGdLMm9Ja1VwT0xodldEWk52ZkU3MnpNam9NNWJ5UTNwYlcwMWRWemlpdGJJSzAzU2xwRXpfZFVxSTdhcUlPZkdLY2cyT0VZUDk5WW1jSWVUVmR6WlpVaUdkNjh2LU5vUjdJcnJ2SUwyNjhvSzlLbjE2MGhHWmdrSFg3QWYyMXNRTkV5MUVCb0FWVjI1UmpsTzQyVHJ5cXhLdndGbmQtTVlTWENoczdic1psVWFSR2pYS21Ya19R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNNkRBZUxUOWIteWNleGdLMm9Ja1VwT0xodldEWk52ZkU3MnpNam9NNWJ5UTNwYlcwMWRWemlpdGJJSzAzU2xwRXpfZFVxSTdhcUlPZkdLY2cyT0VZUDk5WW1jSWVUVmR6WlpVaUdkNjh2LU5vUjdJcnJ2SUwyNjhvSzlLbjE2MGhHWmdrSFg3QWYyMXNRTkV5MUVCb0FWVjI1UmpsTzQyVHJ5cXhLdndGbmQtTVlTWENoczdic1psVWFSR2pYS21Ya19R?oc=5\" target=\"_blank\">Satya Nadella Changed Microsoft by Letting Go of the Mental Model That Built Its Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inc.com</font>",
-      "published": "2026-09-01T19:58:10+00:00",
-      "source": "inc.com"
-    },
-    {
-      "title": "Top Analyst Reports for Microsoft, Intel & Bank of America - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTzZCbzNoS3BodDA1bGtsaUpKQ2dyR2RaV1dWQ3JxVHpRQWpfM1Q1ZDZNelJzSmpOZXRFUmJ5eHhzSDFNaDBmeDdiMWlCVGZ6T1NlaENQc0lxYlp5Q19rWlo2U1Jjd0tIMF93Z0c5c1p4WWRsX2lpaUowOC11QTZxcGlQMEktdHFLUnRnQi16ZjVCbWxzSHQ5UjRldUoyUFY5VFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTzZCbzNoS3BodDA1bGtsaUpKQ2dyR2RaV1dWQ3JxVHpRQWpfM1Q1ZDZNelJzSmpOZXRFUmJ5eHhzSDFNaDBmeDdiMWlCVGZ6T1NlaENQc0lxYlp5Q19rWlo2U1Jjd0tIMF93Z0c5c1p4WWRsX2lpaUowOC11QTZxcGlQMEktdHFLUnRnQi16ZjVCbWxzSHQ5UjRldUoyUFY5VFE?oc=5\" target=\"_blank\">Top Analyst Reports for Microsoft, Intel & Bank of America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-31T20:10:00+00:00",
-      "source": "Yahoo Finance"
-    }
-  ],
+  "fetched_at": "2026-09-03T15:28:09.884400+00:00",
+  "news": [],
   "product_launches": [
     {
-      "title": "Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUlyZGRlbk55M202Y3BRQ0hqc2FmbHFLd052Y1F3ZTh0Yk4zZEd5NE5fZXg5NWdSNVZKYmRtVFJOZFVwNm5RLThLU0xhMDluN2RhZG44a2dWX2ZxdzFYSUJMb1VPLTlWcVpoSHNITVM0UldGb3pFVlVJalBKRW5PNXFnWXdBeWRNS1h2RUdyZUppamtJZUJFZXpVVlozLVVkdkJ3eXNYY2h3UVpkQkVOSy1TZU8tRlFlT0xnb3Q0OXNVSzkxRk4wLUpkYmE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUlyZGRlbk55M202Y3BRQ0hqc2FmbHFLd052Y1F3ZTh0Yk4zZEd5NE5fZXg5NWdSNVZKYmRtVFJOZFVwNm5RLThLU0xhMDluN2RhZG44a2dWX2ZxdzFYSUJMb1VPLTlWcVpoSHNITVM0UldGb3pFVlVJalBKRW5PNXFnWXdBeWRNS1h2RUdyZUppamtJZUJFZXpVVlozLVVkdkJ3eXNYY2h3UVpkQkVOSy1TZU8tRlFlT0xnb3Q0OXNVSzkxRk4wLUpkYmE?oc=5\" target=\"_blank\">Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-08-20T07:00:00+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "Introducing Microsoft Scout: Your always-on personal agent - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05vaTgybEpsRVBhZGFEai12SHFkYWZiZjRSR1VaMXFJckxYRnU5MHc2Q3QzTVFqVklRb21qck80M0I0VEZQQjBKS2tuQ2l6bURRQ2NhYkwwTnQya3d5OGsyMTU1V3gtd3ZtZ2F4b3JFTXdoY0N1YXJ4eUthalkyTUg3N2RaR3NzYVZyNEZlRkRMUUROMmV3c1ctN3htRklTdmdTeTVLOFQxNmhwOVNJU2k5WFNfbFNJWWhVSQ?oc=5\" target=\"_blank\">Introducing Microsoft Scout: Your always-on personal agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
-      "published": "2026-06-02T07:00:00+00:00",
+      "title": "Transforming the marketing function at Microsoft with AI - Inside Track Blog - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXFHVTlaM2lNMFJTVmMwT1RxUjExbFBhQjlNQW9sQ3dBWFN0d3lnY2NXZjJnSWRhVjBuYWFZOHJpLWJ5UEJ6X3VVbGZQMXV4Q1MwaEE1ejYwUmc3QXpYazJwdW1qN2tjandBc014T1c3SXJEOEQxRFZFTFY0cVVYQWVLX3lISnBqVDFjR3ZsYk00RkFJaklLbmhnVnMtMlhaYWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXFHVTlaM2lNMFJTVmMwT1RxUjExbFBhQjlNQW9sQ3dBWFN0d3lnY2NXZjJnSWRhVjBuYWFZOHJpLWJ5UEJ6X3VVbGZQMXV4Q1MwaEE1ejYwUmc3QXpYazJwdW1qN2tjandBc014T1c3SXJEOEQxRFZFTFY0cVVYQWVLX3lISnBqVDFjR3ZsYk00RkFJaklLbmhnVnMtMlhaYWc?oc=5\" target=\"_blank\">Transforming the marketing function at Microsoft with AI - Inside Track Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-04-16T07:00:00+00:00",
       "source": "Microsoft"
     },
     {
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5\" target=\"_blank\">OpenAI | ChatGPT, Sam Altman, & Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
-      "published": "2026-08-29T04:49:00+00:00",
-      "source": "Britannica"
+      "title": "PayPal Powers Microsoft’s Launch of Copilot Checkout - PYPL Investor Relations",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamJWank3SUkxWXdvSHlJNndVSDh3ZkVnU0JDM1NUQlotLTluRWtnRDFlV3dXdUVpNHNmM1NGVlpGYVBhUFl4dFNza1Y4blNYZHR0bFEtU2RxUGxjSVlzc25UaFhVS2FfZ0h6bHB5ZFV4cEMzNUthYzl1WkNxd2NuZllfQURDcmNRVTN3dFJWWFh3M1F5ZUFlN1FHYzJzOUJNelhEZTlVUjg2R1l3NTZEeFR2ZDJYcnpSVVJtQkxyd3RYdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamJWank3SUkxWXdvSHlJNndVSDh3ZkVnU0JDM1NUQlotLTluRWtnRDFlV3dXdUVpNHNmM1NGVlpGYVBhUFl4dFNza1Y4blNYZHR0bFEtU2RxUGxjSVlzc25UaFhVS2FfZ0h6bHB5ZFV4cEMzNUthYzl1WkNxd2NuZllfQURDcmNRVTN3dFJWWFh3M1F5ZUFlN1FHYzJzOUJNelhEZTlVUjg2R1l3NTZEeFR2ZDJYcnpSVVJtQkxyd3RYdw?oc=5\" target=\"_blank\">PayPal Powers Microsoft’s Launch of Copilot Checkout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYPL Investor Relations</font>",
+      "published": "2026-01-08T08:00:00+00:00",
+      "source": "PYPL Investor Relations"
     },
     {
       "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
@@ -96,20 +32,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVExoZVYyempmVTBiMUJfbmxOSEkxdWJZaUdyVUlBOS14SkRIR1dURGlLY0M2cFBYZEVfUHIzVnkwU0lkbzhrTUpPaW5YbzJhSTRxY1p3QUhaN3E3djQ2M2lGMjRNRnJEd3hWVVZqenVkR3p3S1hZLUdMbzQ5a3N6TW5PZWQwVWJOVmJuRXBJNXp3cXNQWWJDeEQwSTMwQ1JqN3VoN3lhTTlxak1TNHhSNF9Na1JhMTIzSXVyQjFBQkllblUxLUE?oc=5\" target=\"_blank\">Sionic Launches Instant Bank Pay in U.S. Through Microsoft Marketplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
       "published": "2026-08-12T07:00:00+00:00",
       "source": "Business Wire"
+    },
+    {
+      "title": "Legaltech Rundown: Filevine Launches LOIS Legal Research Tool, Eudia Partners With Microsoft—and More - Law.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeE5lYjFhaXBFVnJrMDdfdHFIMzBkTUFKU2xDdmwzbG8xamJIbkRNNHpNdVVCeGFrLWlrT3RhQThueGxUOFp0VUZaSWpVYnpWM0ZfQk9XUmFtOENRMjJZYXI4NHNocUFJSmlOVktRcGVhMHhLNVctMVd2VzJQZjdia0ZUbmkyY0lRSXhZcmdoRTZGS1BJSmdCU1A4al9zdW9zR2ZtaWNkelhrSGJHZVBxZ180Q2pWT3FNSlpmYy1nWTVWZ3pQRS1DTTg0ZWtDUkVEZThEMVdOUlgyODFSdnRZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeE5lYjFhaXBFVnJrMDdfdHFIMzBkTUFKU2xDdmwzbG8xamJIbkRNNHpNdVVCeGFrLWlrT3RhQThueGxUOFp0VUZaSWpVYnpWM0ZfQk9XUmFtOENRMjJZYXI4NHNocUFJSmlOVktRcGVhMHhLNVctMVd2VzJQZjdia0ZUbmkyY0lRSXhZcmdoRTZGS1BJSmdCU1A4al9zdW9zR2ZtaWNkelhrSGJHZVBxZ180Q2pWT3FNSlpmYy1nWTVWZ3pQRS1DTTg0ZWtDUkVEZThEMVdOUlgyODFSdnRZ?oc=5\" target=\"_blank\">Legaltech Rundown: Filevine Launches LOIS Legal Research Tool, Eudia Partners With Microsoft—and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law.com</font>",
+      "published": "2026-06-26T07:00:00+00:00",
+      "source": "Law.com"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-02",
-      "close": 496.3999938964844
+      "date": "2026-09-03",
+      "close": 512.8599853515625
     },
     "history": [
-      {
-        "date": "2026-08-25",
-        "close": 491.7099914550781
-      },
       {
         "date": "2026-08-26",
         "close": 496.3699951171875
@@ -132,7 +71,11 @@
       },
       {
         "date": "2026-09-02",
-        "close": 496.3999938964844
+        "close": 496.82000732421875
+      },
+      {
+        "date": "2026-09-03",
+        "close": 512.8599853515625
       }
     ],
     "name": "Microsoft Corporation"
