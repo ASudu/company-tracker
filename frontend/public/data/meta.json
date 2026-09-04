@@ -2,21 +2,110 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-09-03T15:28:17.253944+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-09-04T15:26:21.692876+00:00",
+  "news": [
+    {
+      "title": "It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2dkUkwwODY2b2tSYjc0emx0OXBoclV4a0VFVWVmWlRmdE56U29haGRFdmlBUDZ0cS1KMGJDcmJsSzFULUtzY1lhZ2R4dWxMRjZlTEFRWmN5WDJJeG9DbWg3Y1RjM0tyV3lYN3RnOGlhVXVNSldBS29SY3Q2TlZZQXRLcFEwTDJ0b0tkNkxZYXE1TkowWGJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2dkUkwwODY2b2tSYjc0emx0OXBoclV4a0VFVWVmWlRmdE56U29haGRFdmlBUDZ0cS1KMGJDcmJsSzFULUtzY1lhZ2R4dWxMRjZlTEFRWmN5WDJJeG9DbWg3Y1RjM0tyV3lYN3RnOGlhVXVNSldBS29SY3Q2TlZZQXRLcFEwTDJ0b0tkNkxZYXE1TkowWGJB?oc=5\" target=\"_blank\">It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-09-04T10:25:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRW9CQ1BtQmN6aTQ1QTBqYnl6UGtQdkdnc01ObElOU0V1NkttNkc4dVIzeDNmOXpzdHBGdVF0dDRMTEc4VmFSYi1nRjNfNFBJTVJ5ZVlPOWlhMWNCQjRCNG9PSm5MejJldXZvRHc4cVNtWlRMYUtxT1c0YnZXa2p3VlRBbU1GajY5STF5QkRQd0oxSXZoeTNvTHYyZlROTnBDNldKQm1wZ3o4XzdZbWNXUQ?oc=5\" target=\"_blank\">Meta Releases More Powerful AI Model, Edging Closer to Rivals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-09-02T19:00:00+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazlJMnF6UGtkMVBOUjAwcURLbUtJMU12eXdubUgteUhsVHloLWdaNzhKWnA1WlhRQ1F4dlE2RkZpZ1h5OGpqQmR0dDVyVi1nWExRM2Z5WVhTM1llV2U2U2d5OTdpSFhiZzNheWlWX2w0aGJtdmJuejhkUk9pRUhNbnhPLW85MExPQktHSFVqRmJrdjY3M3doZVVR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOazlJMnF6UGtkMVBOUjAwcURLbUtJMU12eXdubUgteUhsVHloLWdaNzhKWnA1WlhRQ1F4dlE2RkZpZ1h5OGpqQmR0dDVyVi1nWExRM2Z5WVhTM1llV2U2U2d5OTdpSFhiZzNheWlWX2w0aGJtdmJuejhkUk9pRUhNbnhPLW85MExPQktHSFVqRmJrdjY3M3doZVVR?oc=5\" target=\"_blank\">Meta is paying to peek at how you use their latest AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-09-03T18:19:56+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYm1mUFFxWmxIM0F4WlJCeTM2cjJIdzN6VnVfTnhXUGIyX1pDeTAtcTk3NmNmNUdIeFZqam40VlZqYXdDVFdkTjRSVjNLWWw3U05NWHlCUXFlSnVTckgxV3F0V0l6aXFOemF3M1Y3ZjFUTTluaDJLZVBIMDNyQjNsWWFMRWJnR3l3QzFPUGl4NFFzZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYm1mUFFxWmxIM0F4WlJCeTM2cjJIdzN6VnVfTnhXUGIyX1pDeTAtcTk3NmNmNUdIeFZqam40VlZqYXdDVFdkTjRSVjNLWWw3U05NWHlCUXFlSnVTckgxV3F0V0l6aXFOemF3M1Y3ZjFUTTluaDJLZVBIMDNyQjNsWWFMRWJnR3l3QzFPUGl4NFFzZw?oc=5\" target=\"_blank\">Meta Rises 4% as Muse Spark 1.3 Claims Parity With Anthropic and OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-03T18:48:59+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5\" target=\"_blank\">Meta settlement could clear the way for new AI product launches, Morgan Stanley says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBVM2xrRHR0dWRka1lWd3lfQmVqNlp4X3FXMmFXclFnUEhtZkNyb0tTRFRJcWhSVTNkLTdPUDl6UXhtclh3WU13UUVVdHVBSFA0LWhBemNMd2FyZVJic2J4ZnJ4UU1JZTFaMlRFQmZMRmNfNzlhQ1ZRbmQybGJ6Zw?oc=5\" target=\"_blank\">How Meta’s $17.1 Billion Social Media Settlement Came Together</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnhfOU1TWWFuZnM4aC1UT1JRLVhoTUNGOE91LURtd29IbVUwWkNzNmhpQWtXMlZ2ekRUOHVtNUVOYzVDWDd0d2VMTkNsNGswRGxUdWUybHE0OU9vMXhsWFl3MWZPSFp6Zjd6RDl1RUUyZEVSYk5wRlJPUHFFdkNuQkRsOHZiSEdPdGppeFJNZU8yRzFOMGI4WHBBUEFoVGNOZV90cg?oc=5\" target=\"_blank\">‘A Win for Meta’: A Debate on the Big Social Media Ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li></ol>",
+      "published": "2026-09-02T09:19:25+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta unveils massive Kuna data center with eco-friendly design, $100M in city infrastructure investment - ktvb.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSEtDaUVKMGZBbGNBR3FEZjVUM2dFWmJqMGVCRkR1QnRoblFZeHN0SEMwQkU4clg0NHV4U1RsUHVwYm5oRjlqMXdSRHpEZVVnMk5TcnE5Y0dIN2NfRlhCUmktNFk1M2tKZVdYcmlMRHVGc1NJMUVlYmxPTXZjSi01UWVJYUliQ25kQm10VWJaYzZhTVl3WXVKMmhpaHlXdEltN0QtN2djSzYtUS0xdTZhclplaHhRanhKSl91YnA3OHJpNTZmREJEQ1IzRHN3bllIUDdMdWV1R3dZeEZVM3JWY21SSjZvV2lxSEF5NWlvQVNMdjN1VnBfblhEemc3Y0o0eTNYV2h0MA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNSEtDaUVKMGZBbGNBR3FEZjVUM2dFWmJqMGVCRkR1QnRoblFZeHN0SEMwQkU4clg0NHV4U1RsUHVwYm5oRjlqMXdSRHpEZVVnMk5TcnE5Y0dIN2NfRlhCUmktNFk1M2tKZVdYcmlMRHVGc1NJMUVlYmxPTXZjSi01UWVJYUliQ25kQm10VWJaYzZhTVl3WXVKMmhpaHlXdEltN0QtN2djSzYtUS0xdTZhclplaHhRanhKSl91YnA3OHJpNTZmREJEQ1IzRHN3bllIUDdMdWV1R3dZeEZVM3JWY21SSjZvV2lxSEF5NWlvQVNMdjN1VnBfblhEemc3Y0o0eTNYV2h0MA?oc=5\" target=\"_blank\">Meta unveils massive Kuna data center with eco-friendly design, $100M in city infrastructure investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ktvb.com</font>",
+      "published": "2026-09-04T03:36:00+00:00",
+      "source": "ktvb.com"
+    },
+    {
+      "title": "Why Meta (META) Stock Is Trading Up Today - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcktGUXVRWU9kTUMwc3duY0JuYVMyMTVpakZXUjNWNzlzejUxRVBNbGNHdl9EZWNrS1p0OTRTcFdjYWVRSXJMUzBaVnl1X1Bva3Bmd24tZk94c2hEaGdraW9IdVo0MjloekpRdVRyM3Y3Y3Z6SVRSdnBMeTgzeWNUQ0p4cnQwcGlNN2RsUU0yVTJXWEIzb1g4?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcktGUXVRWU9kTUMwc3duY0JuYVMyMTVpakZXUjNWNzlzejUxRVBNbGNHdl9EZWNrS1p0OTRTcFdjYWVRSXJMUzBaVnl1X1Bva3Bmd24tZk94c2hEaGdraW9IdVo0MjloekpRdVRyM3Y3Y3Z6SVRSdnBMeTgzeWNUQ0p4cnQwcGlNN2RsUU0yVTJXWEIzb1g4?oc=5\" target=\"_blank\">Why Meta (META) Stock Is Trading Up Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHVmaFpkMEFGVHFrUVdaSUE2T2RHYnZ4TXVLekJDVUl3U08wbmJlWlFUYTE0dURsUGlDUEtTMHVmbHd0UGhTaE1qWDdXV25oQkNZc0ZSS2hGOWVpdDBxeXBpbThOQy1nU2dPVld0UVg5bFZDM2JfMDhqRDNsZllaczctTU5FMlR2c3ZkU2VCbFQ1NkJtWndsQTNDa01ZbFRaZ0E?oc=5\" target=\"_blank\">Stocks making the biggest moves midday: Tesla, Ciena, Meta, Snowflake, Ultragenyx Pharmaceutical & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWxkZFNCOVNWeHpjRmdmdGFJUHJaRjRTbkY5RFRZaDk0VGhiLUJTRHZhTDhQOEtzX2JMSHNyZGxMQ2Rhdy1nbmZvcWhfLWRMT1dhSzRMaG55SWtkbjVHVmFyTTk1RTRubTU1dEtVNmNIUnlvZHVJb0s2TzRJb1oycnJIV3RZTnVreXRGZVN5cXRWTHQ2N0RXbzNZXzdsWFpmNnFPMGl6VWk?oc=5\" target=\"_blank\">Meta: Doesn't Have A Path For Shareholder Returns (Rating Downgrade) (NASDAQ:META)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li></ol>",
+      "published": "2026-09-04T01:51:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Meta bricked the cameras on thousands of its AI glasses - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlNHSEp2OU93SmtTaGlIbzhDZ0t5eHJSaGktZlRRUDRJRXd2LVVTUkl5a25lMXdtZm10NlF3RGpiRlVDMzBWMkxKSDc2a0RkeDBnRXRWUm5rdFFEYXExTVlxUHhkRl9FbGNfWkw4MkZsTlRWWlhpZ0lub0hpX3dTcWtIVGdOTTlqTnNrbXdES1ZoeWJtYV82THlOSXI2ZlBiMEE?oc=5\" target=\"_blank\">Meta bricked the cameras on thousands of its AI glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-09-02T02:59:00+00:00",
+      "source": "Business Insider"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5\" target=\"_blank\">Meta settlement could clear the way for new AI product launches, Morgan Stanley says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-02T09:19:25+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktuN2ZqWnFmVUxNT3Q5Ym16cHE0cF9NeG8tbjdHTnhWZDhjbnZ0REZ1Tzd6M0ZjN1RGdHg3YXVPXzUxNmZnT0RjbmI2T2RhLVppQkV3eEpEQXY3R2U0cGxYcFlWUUtYVmZJX2NOY0hyNmtBemU3bDB2d2R4aWNadHV0SDFwT0RHUUNHVlhrZ0VlbXhk?oc=5\" target=\"_blank\">Meta Launches New A.I. Model as Global Technology Race Heats Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-07-09T07:00:00+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299 - Meta Store",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUk5PUXR3V2JLN2IwYjBicV9vY1oxbTBxc3hKTjJ4eEVGSEVUbTNBSmY0bHhmRkh0clV0aGc3N3h3X1FEZTZ6RXdpTy1WVVFpYVRKck1LZmp2MW4yNldFaG9YMkh6LXZld0N2UWx3aWFyTW9KcFp6cW1XcGZKb0Qwd2JpdDlpLW41YjROVHFsLUdjUTNoaFVBcksyel9vODhTUThJQVljVVRFWG1EQ3hsMkU4RElWcW5kUWdCSQ?oc=5\" target=\"_blank\">Introducing Meta Glasses: A Range of New Styles from Meta and EssilorLuxottica, Starting at $299</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meta Store</font>",
+      "published": "2026-06-23T07:00:00+00:00",
+      "source": "Meta Store"
+    },
+    {
+      "title": "Meta's chatbot costs $7.99. Its agent may cost $199.99 - The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjE3VWdqSXYzTGRVQkl1c2tYQXhpQmdvUlBaZnlxME9oZFJIOUU3UExHUnFhbDZMUTQyYzBhOGZ0OTNfeDQ3a25idTR3dzRNeC0wNGVkTXdGWHczd1hVT0lNd0ZmWG0yUlMyZkFDeUZCSXRSbGExMGpEeXI2N01tYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjE3VWdqSXYzTGRVQkl1c2tYQXhpQmdvUlBaZnlxME9oZFJIOUU3UExHUnFhbDZMUTQyYzBhOGZ0OTNfeDQ3a25idTR3dzRNeC0wNGVkTXdGWHczd1hVT0lNd0ZmWG0yUlMyZkFDeUZCSXRSbGExMGpEeXI2N01tYw?oc=5\" target=\"_blank\">Meta's chatbot costs $7.99. Its agent may cost $199.99</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Web</font>",
+      "published": "2026-08-26T07:00:00+00:00",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Analyst Sees a Google-Like AI Moment Brewing for Meta After $18 Billion Settlement - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZFlVWVFQVXlVekx5ZTVtZ1RuSHVUUXRGZW9ITVB0dUhfSGZlWjJfbm9lVlEwazJqbERzTVgzTWdxOW9KMzR6NFVmRUlvYUZlY1lQQUhnZVJiNE5MOC05TFBONnhmb0VXaVozcXZ1X3FZV1ZRUVJvWHNHdGV2MEtFYVFyWE9MaWhSb0djMXEwOU9yUENncVlva1FnUWhzREd3NUZocDg2MWp0LXZsVU9IbmxWOU0wamdZcjY5RjZuOUFUeW9JNlIwNEFLeFVOQy1UNWE1ZVBuOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZFlVWVFQVXlVekx5ZTVtZ1RuSHVUUXRGZW9ITVB0dUhfSGZlWjJfbm9lVlEwazJqbERzTVgzTWdxOW9KMzR6NFVmRUlvYUZlY1lQQUhnZVJiNE5MOC05TFBONnhmb0VXaVozcXZ1X3FZV1ZRUVJvWHNHdGV2MEtFYVFyWE9MaWhSb0djMXEwOU9yUENncVlva1FnUWhzREd3NUZocDg2MWp0LXZsVU9IbmxWOU0wamdZcjY5RjZuOUFUeW9JNlIwNEFLeFVOQy1UNWE1ZVBuOA?oc=5\" target=\"_blank\">Analyst Sees a Google-Like AI Moment Brewing for Meta After $18 Billion Settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2026-09-03T15:14:32+00:00",
+      "source": "TradingView"
+    }
+  ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-03",
-      "close": 617.739990234375
+      "date": "2026-09-04",
+      "close": 612.5001220703125
     },
     "history": [
-      {
-        "date": "2026-08-26",
-        "close": 576.1400146484375
-      },
       {
         "date": "2026-08-27",
         "close": 571.0999755859375
@@ -39,7 +128,11 @@
       },
       {
         "date": "2026-09-03",
-        "close": 617.739990234375
+        "close": 610.6799926757812
+      },
+      {
+        "date": "2026-09-04",
+        "close": 612.5001220703125
       }
     ],
     "name": "Meta Platforms, Inc."

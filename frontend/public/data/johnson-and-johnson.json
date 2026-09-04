@@ -2,21 +2,110 @@
   "name": "Johnson & Johnson",
   "slug": "johnson-and-johnson",
   "ticker": "JNJ",
-  "fetched_at": "2026-09-03T15:28:22.004691+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-09-04T15:26:27.281712+00:00",
+  "news": [
+    {
+      "title": "Johnson & Johnson Is Boring Which Makes Its Dividend Nearly Perfect. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDNOUmNvZzd2U2txaUJ6R21UT19QLXpIS09KbTRWVURYTmZHUmk1TDdkdjVqQWVYQlBBODdZbVBuaVpFdlpnalBKVmVicE54ZXJjX1FqLVVDLUJRMkVZTUtRcVlhczV6RVNmbUlhTzVyU2lHRDhrOWFnSDVwRXduNm9TUzZYdEgyMXNvT3UxZHVnVXpVTmVURld0R2RKSk9FT3dTaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDNOUmNvZzd2U2txaUJ6R21UT19QLXpIS09KbTRWVURYTmZHUmk1TDdkdjVqQWVYQlBBODdZbVBuaVpFdlpnalBKVmVicE54ZXJjX1FqLVVDLUJRMkVZTUtRcVlhczV6RVNmbUlhTzVyU2lHRDhrOWFnSDVwRXduNm9TUzZYdEgyMXNvT3UxZHVnVXpVTmVURld0R2RKSk9FT3dTaw?oc=5\" target=\"_blank\">Johnson & Johnson Is Boring Which Makes Its Dividend Nearly Perfect.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-04T13:04:20+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXhNUXp4LTJSV3FTWlVpdUZmLVphOFo2a3dNSFFtM3IxWTUwN0JJb1g0R01ScjBJS1p6Wm5rQ3hXbklOZVZ1NmpIV0FiVGVxSVhsb3dvZWNtRkJxYjhPRUFKeFk0RmV6OUtpLUVYUTBSeFdLMkNmaGZ0M2xjNHRBbFBaczVCMXJ0VkVvOEVOX2FRcHQ0UXY2eC1YOHBmVkNIeG5DcVNCOHRNcWVvRldsRXhyaGdoRjhmeFQ4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXhNUXp4LTJSV3FTWlVpdUZmLVphOFo2a3dNSFFtM3IxWTUwN0JJb1g0R01ScjBJS1p6Wm5rQ3hXbklOZVZ1NmpIV0FiVGVxSVhsb3dvZWNtRkJxYjhPRUFKeFk0RmV6OUtpLUVYUTBSeFdLMkNmaGZ0M2xjNHRBbFBaczVCMXJ0VkVvOEVOX2FRcHQ0UXY2eC1YOHBmVkNIeG5DcVNCOHRNcWVvRldsRXhyaGdoRjhmeFQ4?oc=5\" target=\"_blank\">J&amp;J's run to record highs hasn't reached the finish line yet. Here are the key drivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-02T20:39:51+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "J&J stock at all-time high as UBS assumes at Buy (JNJ:NYSE) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdG9YR2psVjJtRGk0OW9za3dMQ0Q3QS1FSHNXSFFwLVd4TGR4cm9ISWpCNzdOOWxtX1pKR2JTaUhxRktEVTM0TTNxenNvdHdobF9WUXAxMGllMUpSbzNUZHE1R1RIT0c0ZXQ4VDBmWWJyb0ZMaURVWi15R0tZNmxCdGhNWHZGUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdG9YR2psVjJtRGk0OW9za3dMQ0Q3QS1FSHNXSFFwLVd4TGR4cm9ISWpCNzdOOWxtX1pKR2JTaUhxRktEVTM0TTNxenNvdHdobF9WUXAxMGllMUpSbzNUZHE1R1RIT0c0ZXQ4VDBmWWJyb0ZMaURVWi15R0tZNmxCdGhNWHZGUQ?oc=5\" target=\"_blank\">J&amp;J stock at all-time high as UBS assumes at Buy (JNJ:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-09-02T16:08:24+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "J&J MedTech is rebranding Shockwave Medical - MassDevice",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWVViN0JlZHB3VzNOV1Jhb0NIRWgtY3lQMUVvaDB3WjY4NURlWjJ6QXVuWXFCb3VmblZ3VzJhWFRERDMwU1BiOUFLVktkdXFKWUpPb3hoVVI0R3FmS0JQNFFZWkQ1MWJyY001Z3lGWWtJU2paMl93dWJxYnY3d1VzbTQ1TkFIUDQ4UllQOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWVViN0JlZHB3VzNOV1Jhb0NIRWgtY3lQMUVvaDB3WjY4NURlWjJ6QXVuWXFCb3VmblZ3VzJhWFRERDMwU1BiOUFLVktkdXFKWUpPb3hoVVI0R3FmS0JQNFFZWkQ1MWJyY001Z3lGWWtJU2paMl93dWJxYnY3d1VzbTQ1TkFIUDQ4UllQOA?oc=5\" target=\"_blank\">J&amp;J MedTech is rebranding Shockwave Medical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MassDevice</font>",
+      "published": "2026-09-02T03:14:40+00:00",
+      "source": "MassDevice"
+    },
+    {
+      "title": "Is Johnson & Johnson Stock Priced For More Growth Than It Has Guided? - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWRrYjNxWFNyeGpJU1BOcUNYMUVxa29jT2NLamhEaGJJalhYdE85RUlyeGNOMURFSUJFdEYxZjkzV3hDN2RpSmh4emFKVmVhblNuMllUQ3h0VkNrcFJFRi1oSnZnMURyY3kxMWluc0lFdzlXZjFKXzhhcDNobmJTUDl0WFp3dzREOFQwOWdWdTA2ZUxzYk11R25wbjF0NWU5LWQ0Zm9WUUtfdmN2ejZSSFRLOWw1UGVnN09UamRNUDlzYzBH?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWRrYjNxWFNyeGpJU1BOcUNYMUVxa29jT2NLamhEaGJJalhYdE85RUlyeGNOMURFSUJFdEYxZjkzV3hDN2RpSmh4emFKVmVhblNuMllUQ3h0VkNrcFJFRi1oSnZnMURyY3kxMWluc0lFdzlXZjFKXzhhcDNobmJTUDl0WFp3dzREOFQwOWdWdTA2ZUxzYk11R25wbjF0NWU5LWQ0Zm9WUUtfdmN2ejZSSFRLOWw1UGVnN09UamRNUDlzYzBH?oc=5\" target=\"_blank\">Is Johnson & Johnson Stock Priced For More Growth Than It Has Guided?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "published": "2026-09-03T15:24:28+00:00",
+      "source": "Trefis"
+    },
+    {
+      "title": "J&J EVP Timothy Schmid sells $9.2m in company stock - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHNoaHpGNXpOZzJHanRTelFpNmV3d1p3RE1iOU43WlVtOVVVak41Y0VUQkRBVm1BLTVZVnl3YTBhQzZGbWRZZXdQRXk2eUgzekdtMzQzRVpveTBnYlM4QngzaVJKODFZYng4bDFSdmJSbkU0NldFNWRfNGVEUk5yZVRnSjU4MUJyMkVhYmN1SEllcW0zYm1MVndodGIyUlpJWUlJcmVfZFpyLXpHbXRqNGhNTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHNoaHpGNXpOZzJHanRTelFpNmV3d1p3RE1iOU43WlVtOVVVak41Y0VUQkRBVm1BLTVZVnl3YTBhQzZGbWRZZXdQRXk2eUgzekdtMzQzRVpveTBnYlM4QngzaVJKODFZYng4bDFSdmJSbkU0NldFNWRfNGVEUk5yZVRnSjU4MUJyMkVhYmN1SEllcW0zYm1MVndodGIyUlpJWUlJcmVfZFpyLXpHbXRqNGhNTQ?oc=5\" target=\"_blank\">J&amp;J EVP Timothy Schmid sells $9.2m in company stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2026-09-04T13:38:13+00:00",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Why Procter & Gamble’s Quieter Dividend Outpaces Johnson & Johnson’s Growth Story - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3VhaldPYzd3T3pvYlBGaV90aG9pQ3d4S1FjY0FZbGVnUWNRRS1VMmxRZVBxVloyc3BpaXZrMDFaVjRENVJFOEp6NzFwZG05N1RIb0xGcUxKNEp1UEs2Tkt1RndqOGVneGNoVVd5X05xbjdqTVd1eDRoRFVsbmlJTWNKSnFIMEFyLUJwVjhSWmhxZjZSNnpzeVoxMXdXSkJPVG40bnBoQ05lZG5JMjhzMlRmWkdFZVVjMzlV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3VhaldPYzd3T3pvYlBGaV90aG9pQ3d4S1FjY0FZbGVnUWNRRS1VMmxRZVBxVloyc3BpaXZrMDFaVjRENVJFOEp6NzFwZG05N1RIb0xGcUxKNEp1UEs2Tkt1RndqOGVneGNoVVd5X05xbjdqTVd1eDRoRFVsbmlJTWNKSnFIMEFyLUJwVjhSWmhxZjZSNnpzeVoxMXdXSkJPVG40bnBoQ05lZG5JMjhzMlRmWkdFZVVjMzlV?oc=5\" target=\"_blank\">Why Procter & Gamble’s Quieter Dividend Outpaces Johnson & Johnson’s Growth Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-09-01T13:05:00+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZE5rMTJMT0RUSXFyRFRHMzlrRjg4NktnSm1NLTRCMklTTkJjelRIcXNiZ1IydTRZampDaVBGT25hVXRybWcwN1VPMVlXMC14SlVYRkg2Q2d6VU1FbEFFZ0loR0ZqQmktMU1BRmpVdjlqbUhycjgzb3ZjdkROdlFWRVkwMENlVDllTTRETU9BZWp4WTg1N0pkbUVnYWdOUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZE5rMTJMT0RUSXFyRFRHMzlrRjg4NktnSm1NLTRCMklTTkJjelRIcXNiZ1IydTRZampDaVBGT25hVXRybWcwN1VPMVlXMC14SlVYRkg2Q2d6VU1FbEFFZ0loR0ZqQmktMU1BRmpVdjlqbUhycjgzb3ZjdkROdlFWRVkwMENlVDllTTRETU9BZWp4WTg1N0pkbUVnYWdOUQ?oc=5\" target=\"_blank\">Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-01T21:45:02+00:00",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Johnson & Johnson Receives FDA Market Authorization in the U.S. for its OTTAVA™ Robotic Surgical System - Johnson & Johnson",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFQzRFB2VW04TjdrQjg2QS1FN2plWUJtS1NzbjZlMXFUQzdtajlWN1Vxcm1sa2NlVHI0anM5NnZJUHFiaTNrTWM5eTZ5ZGFBcDltRDlDOFRxLXhteTdrMnJtMzBFN1BsbHAyVnpLdFdScXBKcDJXYlhCc1Q3R19TUjFLSmZyNTZhSmJDcGp1el8xZUlmQndjS0FuSWE4cmpGa1ltVHhkQUJSVlNIMGJ0Yk9YUFU3bHZIUHBLTDJLRTU1d0c5WDJCZkVTaFh4enU1Rk5CbFZPclJWM2JMWXlfTw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFQzRFB2VW04TjdrQjg2QS1FN2plWUJtS1NzbjZlMXFUQzdtajlWN1Vxcm1sa2NlVHI0anM5NnZJUHFiaTNrTWM5eTZ5ZGFBcDltRDlDOFRxLXhteTdrMnJtMzBFN1BsbHAyVnpLdFdScXBKcDJXYlhCc1Q3R19TUjFLSmZyNTZhSmJDcGp1el8xZUlmQndjS0FuSWE4cmpGa1ltVHhkQUJSVlNIMGJ0Yk9YUFU3bHZIUHBLTDJLRTU1d0c5WDJCZkVTaFh4enU1Rk5CbFZPclJWM2JMWXlfTw?oc=5\" target=\"_blank\">Johnson & Johnson Receives FDA Market Authorization in the U.S. for its OTTAVA™ Robotic Surgical System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Johnson & Johnson</font>",
+      "published": "2026-07-22T07:00:00+00:00",
+      "source": "Johnson & Johnson"
+    },
+    {
+      "title": "Tremfya surges, Icotyde gains ground as J&J raises bar for 2026 - FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IbzdQSmZQdTNmTUt6ZlBBZHhPaEZVd2k2cDljWlVhZENzUHBmNFNOYTVYdVRtYl9RT3NXM0psSU85ODR0Q3FpbGl6N3ptT1NVTHQ0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IbzdQSmZQdTNmTUt6ZlBBZHhPaEZVd2k2cDljWlVhZENzUHBmNFNOYTVYdVRtYl9RT3NXM0psSU85ODR0Q3FpbGl6N3ptT1NVTHQ0?oc=5\" target=\"_blank\">Tremfya surges, Icotyde gains ground as J&amp;J raises bar for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FirstWord Pharma</font>",
+      "published": "2026-07-15T07:00:00+00:00",
+      "source": "FirstWord Pharma"
+    },
+    {
+      "title": "Johnson & Johnson CFO Says This Drug Is Outperforming 'Almost Any Launch' in Recent Memory -- Barrons.com - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnVMS0ZBY01UY3FlUUI0NXVXZkRoNUhONVRvZHhaZWxOR2dWcU5FdmhXVDNXeVBIZFRqSUlxeHlmdHN6SnhIUndydjRzT05nTDd6SklXczg2RS12dDdfb3p0WDV3R3FhdHFvY2QtMUZtSVBubWFfWUp2SGMycDdWMnBBVHNlQjhqa2dmc0p5dEl3ZXhndUlHSVd0dnhYRFZDeEVsSzdhWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnVMS0ZBY01UY3FlUUI0NXVXZkRoNUhONVRvZHhaZWxOR2dWcU5FdmhXVDNXeVBIZFRqSUlxeHlmdHN6SnhIUndydjRzT05nTDd6SklXczg2RS12dDdfb3p0WDV3R3FhdHFvY2QtMUZtSVBubWFfWUp2SGMycDdWMnBBVHNlQjhqa2dmc0p5dEl3ZXhndUlHSVd0dnhYRFZDeEVsSzdhWQ?oc=5\" target=\"_blank\">Johnson & Johnson CFO Says This Drug Is Outperforming 'Almost Any Launch' in Recent Memory -- Barrons.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "published": "2026-07-15T07:00:00+00:00",
+      "source": "Moomoo"
+    },
+    {
+      "title": "Johnson & Johnson launches \"Generation Fine,\" a New Movement Encouraging Patients to Expect More from Depression Treatment and Aim for Remission - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOelN2bDNFMG1wSWRhVlF0RF9vS2Z5S2FmUzc2OS1sSk9FbzZMZHR1ZnFDUkRPdEt2RkZZX2xiQTVsWFF2NmJJdHRDXzRsOTd3TWJUZFZZYm1CWkVvTE9iYkM1d2ZNWW5aUGtCMnZXcVNLVVpPWmhwdWJSNUhyRElrVG15cVRGa05lNnJEQjZxT1l0c0VSZk43X3FRVWJGZ1RlV2RBa1pzVklHMkdCa0p3bUNqdEhseVJiazNiRTUwX09ocXJSMEhST00zTjdqV19qN3BVZnJBbTJVcXhEWDlCSmxBX2pJRmVSTjdQc1RZdHNkU1V4Nm9sMEF0ZUJIM1RCYUFvckV2NEs4MEttVUhxbEtRcFNBRVM5VGdGekJTeWNiUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxOelN2bDNFMG1wSWRhVlF0RF9vS2Z5S2FmUzc2OS1sSk9FbzZMZHR1ZnFDUkRPdEt2RkZZX2xiQTVsWFF2NmJJdHRDXzRsOTd3TWJUZFZZYm1CWkVvTE9iYkM1d2ZNWW5aUGtCMnZXcVNLVVpPWmhwdWJSNUhyRElrVG15cVRGa05lNnJEQjZxT1l0c0VSZk43X3FRVWJGZ1RlV2RBa1pzVklHMkdCa0p3bUNqdEhseVJiazNiRTUwX09ocXJSMEhST00zTjdqV19qN3BVZnJBbTJVcXhEWDlCSmxBX2pJRmVSTjdQc1RZdHNkU1V4Nm9sMEF0ZUJIM1RCYUFvckV2NEs4MEttVUhxbEtRcFNBRVM5VGdGekJTeWNiUQ?oc=5\" target=\"_blank\">Johnson & Johnson launches \"Generation Fine,\" a New Movement Encouraging Patients to Expect More from Depression Treatment and Aim for Remission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "published": "2026-05-07T07:00:00+00:00",
+      "source": "PR Newswire"
+    },
+    {
+      "title": "J&J’s cardiovascular unit stands out again in Q1 - MedTech Dive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWEdJS2JLZGRJVWhINTk2eTNWWFlONlJZQXpJY3NkNGI5VEplcHZ0R3pBMm5SZHRlOEhKdXhqeWIyNlBPeUtMUG1VVy1xMnUyWXNtTXNEczdCVUg5VHFJdDlzbHJ3YU85U25lX0pDX0tOWjFEVWEzSVJuMlVhMkxzS3IzY0tNM0JjeWkxZzNHUzM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWEdJS2JLZGRJVWhINTk2eTNWWFlONlJZQXpJY3NkNGI5VEplcHZ0R3pBMm5SZHRlOEhKdXhqeWIyNlBPeUtMUG1VVy1xMnUyWXNtTXNEczdCVUg5VHFJdDlzbHJ3YU85U25lX0pDX0tOWjFEVWEzSVJuMlVhMkxzS3IzY0tNM0JjeWkxZzNHUzM?oc=5\" target=\"_blank\">J&amp;J’s cardiovascular unit stands out again in Q1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MedTech Dive</font>",
+      "published": "2026-04-14T07:00:00+00:00",
+      "source": "MedTech Dive"
+    }
+  ],
   "stock": {
     "ticker": "JNJ",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-03",
-      "close": 277.9750061035156
+      "date": "2026-09-04",
+      "close": 276.25
     },
     "history": [
-      {
-        "date": "2026-08-26",
-        "close": 270.0
-      },
       {
         "date": "2026-08-27",
         "close": 265.7699890136719
@@ -39,7 +128,11 @@
       },
       {
         "date": "2026-09-03",
-        "close": 277.9750061035156
+        "close": 278.42999267578125
+      },
+      {
+        "date": "2026-09-04",
+        "close": 276.25
       }
     ],
     "name": "Johnson & Johnson"

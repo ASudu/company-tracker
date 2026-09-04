@@ -2,22 +2,79 @@
   "name": "Amgen",
   "slug": "amgen",
   "ticker": "AMGN",
-  "fetched_at": "2026-09-03T15:28:27.978674+00:00",
-  "news": [],
-  "product_launches": [
+  "fetched_at": "2026-09-04T15:26:35.138317+00:00",
+  "news": [
     {
-      "title": "AMGN Q1 Deep Dive: Growth Drivers Offset Patent Losses, Pipeline Progress in Focus - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVNWNG1lV1lXcllJLVh2MjdPZzBsd0JGMU9sUzhZSUt5QWl4M0c2dTdHajZVZVFtVnkta0Z3eXFLNkFadjktNzNjNHJRYmo1YmlEa2taTS1zRDV1enpTM1p2aldYeVNVREd6cFVWZ2swbmxKQktZY3lodXJORFlmS1lRVmhOT3BMNC00aGFxNlRETlZQVXpyVEMwZFYydWhhZFFSZ19KQUZweGNGSC00cmNCQ0hhYUt3emFNckpKSklzQkYwZDdlbkxidHhxdmZuSnRwWXlPbWU1S0xn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVNWNG1lV1lXcllJLVh2MjdPZzBsd0JGMU9sUzhZSUt5QWl4M0c2dTdHajZVZVFtVnkta0Z3eXFLNkFadjktNzNjNHJRYmo1YmlEa2taTS1zRDV1enpTM1p2aldYeVNVREd6cFVWZ2swbmxKQktZY3lodXJORFlmS1lRVmhOT3BMNC00aGFxNlRETlZQVXpyVEMwZFYydWhhZFFSZ19KQUZweGNGSC00cmNCQ0hhYUt3emFNckpKSklzQkYwZDdlbkxidHhxdmZuSnRwWXlPbWU1S0xn?oc=5\" target=\"_blank\">AMGN Q1 Deep Dive: Growth Drivers Offset Patent Losses, Pipeline Progress in Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
-      "published": "2026-04-30T07:00:00+00:00",
-      "source": "StockStory"
+      "title": "ESC: Amgen CMO flags Repatha 'inflection' amid new data on mortality benefit - fiercepharma.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkd0Sm9zX2V1UVZ2TUhIWUczdnBZMnU0VFdkT2tmNW4wdTAteHhoWkJ2TmdOSjJleTFpNTNIOExzWE1hNGF4OWl4N0VvWlJqSWlPLVVBR3E0S3Ixbm5EM25NTTllZWdIck5qNmJyeXp5SlRxMFJjNEh1V1R4TUVMUWRzY2NjQ1JRdlJZaVhKcnM2NkQzbVFjMW82NmNIV1ZYblhQTUlXNGp2NGhzZVdQajEwVU9KM3FfTW16d3AySUJTMlh5alE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkd0Sm9zX2V1UVZ2TUhIWUczdnBZMnU0VFdkT2tmNW4wdTAteHhoWkJ2TmdOSjJleTFpNTNIOExzWE1hNGF4OWl4N0VvWlJqSWlPLVVBR3E0S3Ixbm5EM25NTTllZWdIck5qNmJyeXp5SlRxMFJjNEh1V1R4TUVMUWRzY2NjQ1JRdlJZaVhKcnM2NkQzbVFjMW82NmNIV1ZYblhQTUlXNGp2NGhzZVdQajEwVU9KM3FfTW16d3AySUJTMlh5alE?oc=5\" target=\"_blank\">ESC: Amgen CMO flags Repatha 'inflection' amid new data on mortality benefit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fiercepharma.com</font>",
+      "published": "2026-09-03T12:30:00+00:00",
+      "source": "fiercepharma.com"
     },
     {
-      "title": "FDA rejects Sobi’s gout drug over manufacturing issues, sparing Amgen blockbuster - Fierce Pharma",
+      "title": "UK regulator suspends rare-disease drug Tavneos for new patients over unreliable data - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE83aGF2NWZ4Q29neUZhSVEzTHBhN3Jpd0VvLVRGSkZQdERiSGxkbFpMQmxISEthVTY0T1BFeDNrTWs1aExrQ2pEeWNFLTJySWVRd19QYkVCMjlWRHdMTEZsRHlwZFU1UWxLcTVaLUJsZTFtbWMwTzZJRFRwX3dWM2xvdGc2czdBTVVhQXRnSng5SUV3YXJlcmJkOTF0bG5TLXlSeGhpQWFhTzNUWC1kNEdSX1l1cDQ5bmlfQTU1dVI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSE83aGF2NWZ4Q29neUZhSVEzTHBhN3Jpd0VvLVRGSkZQdERiSGxkbFpMQmxISEthVTY0T1BFeDNrTWs1aExrQ2pEeWNFLTJySWVRd19QYkVCMjlWRHdMTEZsRHlwZFU1UWxLcTVaLUJsZTFtbWMwTzZJRFRwX3dWM2xvdGc2czdBTVVhQXRnSng5SUV3YXJlcmJkOTF0bG5TLXlSeGhpQWFhTzNUWC1kNEdSX1l1cDQ5bmlfQTU1dVI?oc=5\" target=\"_blank\">UK regulator suspends rare-disease drug Tavneos for new patients over unreliable data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-01T15:33:01+00:00",
+      "source": "reuters.com"
+    },
+    {
+      "title": "Tudor Financial Inc. Sells 5,697 Shares of Amgen Inc. $AMGN - MarketBeat",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHBXLVB4bmtFZHpLQXdJMEtFTDF2WWVwT0Nja3NLLUhVbm5SanpyZDA1dXU0TnJ1MU9SY3JoRkNCMjh4ZUlheWkxbGM4aTNhTDRLa0JTYVJhMExmUUl2RzZTamliMVI5T1RPSFh0dkpDZERBV05RMmxqbmlISTFnVVZWUzNRLTJSUzhqNTdySG13OHpzczA0VW9vYmtuWFBtNi1sTHp6ZnIyYmhmN3hobVZHbllDaGM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHBXLVB4bmtFZHpLQXdJMEtFTDF2WWVwT0Nja3NLLUhVbm5SanpyZDA1dXU0TnJ1MU9SY3JoRkNCMjh4ZUlheWkxbGM4aTNhTDRLa0JTYVJhMExmUUl2RzZTamliMVI5T1RPSFh0dkpDZERBV05RMmxqbmlISTFnVVZWUzNRLTJSUzhqNTdySG13OHpzczA0VW9vYmtuWFBtNi1sTHp6ZnIyYmhmN3hobVZHbllDaGM?oc=5\" target=\"_blank\">Tudor Financial Inc. Sells 5,697 Shares of Amgen Inc. $AMGN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "published": "2026-09-04T10:27:36+00:00",
+      "source": "MarketBeat"
+    },
+    {
+      "title": "Tavneos no longer available for new patients in UK as Amgen awaits FDA hearing - biospace.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG9obF93ZFB0WHVmYlZZaE4yV01GMFlsU3RoVzVfaG5PSXc2T0NSel9wWnpQRE9fRV9TSDduM3RrdEdPNkJRQllOTktoWWxnWjU2Qmh0Z0gteVVTSk9sRHJNTmMtRFVXTWhkUTZNOU1peUhlUU9NcmRWc3kxTFV0c013bmJ4c2lILXJFMVpEazNDenIzZmkwNHJ5WE9qcFFvREd3X21UWmgzelpZbExV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG9obF93ZFB0WHVmYlZZaE4yV01GMFlsU3RoVzVfaG5PSXc2T0NSel9wWnpQRE9fRV9TSDduM3RrdEdPNkJRQllOTktoWWxnWjU2Qmh0Z0gteVVTSk9sRHJNTmMtRFVXTWhkUTZNOU1peUhlUU9NcmRWc3kxTFV0c013bmJ4c2lILXJFMVpEazNDenIzZmkwNHJ5WE9qcFFvREd3X21UWmgzelpZbExV?oc=5\" target=\"_blank\">Tavneos no longer available for new patients in UK as Amgen awaits FDA hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">biospace.com</font>",
+      "published": "2026-09-02T11:40:50+00:00",
+      "source": "biospace.com"
+    },
+    {
+      "title": "Is Amgen (AMGN) Reasonable Or Rich As Cash Flow Improves? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVE90YUhBMFU5Mzk5SWEyZ0J0MnF2QVI5NU1TaFQxU3IwX2MwNTRVS0hxOWg2Y0ItQ29mWmlZZ0FPeklNby14clNsbnFJVjcyWlAwZ3hEMy1MMFVueUFSUGl3Wm9ocENEVTVvVkMxTU5YejF3N2w0eEI4elk2ejBRdmZmZTZWU0ZwUjBXTUNpLWlqN05BUEhNNnBjdHE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVE90YUhBMFU5Mzk5SWEyZ0J0MnF2QVI5NU1TaFQxU3IwX2MwNTRVS0hxOWg2Y0ItQ29mWmlZZ0FPeklNby14clNsbnFJVjcyWlAwZ3hEMy1MMFVueUFSUGl3Wm9ocENEVTVvVkMxTU5YejF3N2w0eEI4elk2ejBRdmZmZTZWU0ZwUjBXTUNpLWlqN05BUEhNNnBjdHE?oc=5\" target=\"_blank\">Is Amgen (AMGN) Reasonable Or Rich As Cash Flow Improves?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-02T22:16:23+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Can Amgen (AMGN) Justify Its Valuation After TEZSPIRE Data And Raised Guidance? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjYxYkFydzVzUXJsa3VYOExvZ0YxYk92RDRHZkdSbS1kUUtnODNIczJTREFXc0UzV2hPS2d4UjE0andIX2pLQ1lrTWlWWUxoVEZWQUNyeVE0Ul9pZ2Q3SG1CY2RaSHF3Y1NUN25TTzZQWUF1RjVrd09kNkU4d0E3Ul9pT3BpSFFqNnZWZ2phUGNVdXNGbjUyc2Y4U25DdDVEcjMxcVE5NlpNRzdHbG1vUFUwWmdERUVKZkVQQ0std1lWX0dfeUFnOTZjTndkRjhacXRDNnRR0gHbAUFVX3lxTE03dkpneUE3VTVvenVJdHRBa1YxM01JSmQ3VVRBSVVCNG5Cai00VjJjOC0yYmRPZUxYQ3BmM2k4QWN2TFg4TVFCSnR1ck43SWhmTXJ3TTZ5TjhsUTFrT09ZRFQ2dzlyai1SbHNqTzhlNVhoTm5RTHQ4SFdHN1JnMlhDMnRaLUxEblpvRUJCaXc5WGpUV0Rwa1plVjVxSzh4cVd5SXpodHNJdV9udVpTNTN4WUk5aXd3ZllTV3dUWWdmcFJLZVNRNERoY3VaMzNVV3kydXdvQzJRSWFTVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjYxYkFydzVzUXJsa3VYOExvZ0YxYk92RDRHZkdSbS1kUUtnODNIczJTREFXc0UzV2hPS2d4UjE0andIX2pLQ1lrTWlWWUxoVEZWQUNyeVE0Ul9pZ2Q3SG1CY2RaSHF3Y1NUN25TTzZQWUF1RjVrd09kNkU4d0E3Ul9pT3BpSFFqNnZWZ2phUGNVdXNGbjUyc2Y4U25DdDVEcjMxcVE5NlpNRzdHbG1vUFUwWmdERUVKZkVQQ0std1lWX0dfeUFnOTZjTndkRjhacXRDNnRR0gHbAUFVX3lxTE03dkpneUE3VTVvenVJdHRBa1YxM01JSmQ3VVRBSVVCNG5Cai00VjJjOC0yYmRPZUxYQ3BmM2k4QWN2TFg4TVFCSnR1ck43SWhmTXJ3TTZ5TjhsUTFrT09ZRFQ2dzlyai1SbHNqTzhlNVhoTm5RTHQ4SFdHN1JnMlhDMnRaLUxEblpvRUJCaXc5WGpUV0Rwa1plVjVxSzh4cVd5SXpodHNJdV9udVpTNTN4WUk5aXd3ZllTV3dUWWdmcFJLZVNRNERoY3VaMzNVV3kydXdvQzJRSWFTVQ?oc=5\" target=\"_blank\">Can Amgen (AMGN) Justify Its Valuation After TEZSPIRE Data And Raised Guidance?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "published": "2026-09-03T20:35:25+00:00",
+      "source": "simplywall.st"
+    },
+    {
+      "title": "Wells Fargo Adjusts Price Target on Amgen to $435 From $400, Keeps Equalweight Rating - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2NaeWNjeTd3aTg4bEtfbEpyVXN4QmZ3Y1VSQ0RQZzkzWHFqcWVob0VjWlM2MG8tWVhyOHdaa2l4NkRBSTN3SkZYX2YzVGV5NEV5X3MtWVBqczF0NzVRRVJVaVVEaU8wdmY0VFpOLVl6TGk3OXhXWnFRUml2cTNYWnZxcHlsak15N2ZPQ0JranpvNUZqMWZMT1p0amFvQjItbjBaSE1FMzQtTVh1MXB2aVh1ak9jcF9BLWtBWG9WVHJpUml3SDJIMVRKVEJ6ZUNM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2NaeWNjeTd3aTg4bEtfbEpyVXN4QmZ3Y1VSQ0RQZzkzWHFqcWVob0VjWlM2MG8tWVhyOHdaa2l4NkRBSTN3SkZYX2YzVGV5NEV5X3MtWVBqczF0NzVRRVJVaVVEaU8wdmY0VFpOLVl6TGk3OXhXWnFRUml2cTNYWnZxcHlsak15N2ZPQ0JranpvNUZqMWZMT1p0amFvQjItbjBaSE1FMzQtTVh1MXB2aVh1ak9jcF9BLWtBWG9WVHJpUml3SDJIMVRKVEJ6ZUNM?oc=5\" target=\"_blank\">Wells Fargo Adjusts Price Target on Amgen to $435 From $400, Keeps Equalweight Rating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "published": "2026-09-04T09:32:40+00:00",
+      "source": "marketscreener.com"
+    },
+    {
+      "title": "Amgen Stock Signals Its Confidence. The Market Agrees. - Trefis",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOHhpb3lMaXp0aEpua2lrNVcyVExyQkNlcmN1dnRqcDlmOFNhOUZ0MXAwLU9uZTlfbFVrRW0yYmh2U0E4bFlYUkFqZjlnTHViN0ZtOXRrdGRILW1xMEFCWjBKMy1mblY1R2lTTHFOVmtJclpxaWYzU3AwMU9Ec0xmVUZvU0pwYmd5Um5DSXdNc1NvWkpydk5iTkV2cjBWX3ZDeGJLeW05OUdGbFFfbkJDQV9IWEdHZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOHhpb3lMaXp0aEpua2lrNVcyVExyQkNlcmN1dnRqcDlmOFNhOUZ0MXAwLU9uZTlfbFVrRW0yYmh2U0E4bFlYUkFqZjlnTHViN0ZtOXRrdGRILW1xMEFCWjBKMy1mblY1R2lTTHFOVmtJclpxaWYzU3AwMU9Ec0xmVUZvU0pwYmd5Um5DSXdNc1NvWkpydk5iTkV2cjBWX3ZDeGJLeW05OUdGbFFfbkJDQV9IWEdHZw?oc=5\" target=\"_blank\">Amgen Stock Signals Its Confidence. The Market Agrees.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "published": "2026-09-02T20:55:10+00:00",
+      "source": "Trefis"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Update: Reversal after 20 deaths allows new Japan patients to take Amgen's rare disease drug Tavneos - biospace.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDVhWTJ1dTNFTkx4TlJDUDIxbmpEUFd3c2ZkeG91RUlBZGlNdDBLVlRoUi1Fa1F5TmFfa3liRjJ1WGtSbGc4OVM1Tmtxblp3OWcyR2dITmFRUEpCLUJ4bUNKQ180a0tqcjg0RlFHN05XTHBNMndOUGlZYmhHTmN2cDZ0UmNNYzhPRkNwcV85RlplX1d4Z2lrdQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdDVhWTJ1dTNFTkx4TlJDUDIxbmpEUFd3c2ZkeG91RUlBZGlNdDBLVlRoUi1Fa1F5TmFfa3liRjJ1WGtSbGc4OVM1Tmtxblp3OWcyR2dITmFRUEpCLUJ4bUNKQ180a0tqcjg0RlFHN05XTHBNMndOUGlZYmhHTmN2cDZ0UmNNYzhPRkNwcV85RlplX1d4Z2lrdQ?oc=5\" target=\"_blank\">Update: Reversal after 20 deaths allows new Japan patients to take Amgen's rare disease drug Tavneos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">biospace.com</font>",
+      "published": "2026-05-21T07:00:00+00:00",
+      "source": "biospace.com"
+    },
+    {
+      "title": "FDA rejects Sobi’s gout drug over manufacturing issues, sparing Amgen blockbuster - fiercepharma.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFhDMmFXallqU1VsTXRDdUNQTVpBdkhhWnExWmR0TU1neHlIUGIzcm4wcjRIWXkxX3pseDh3S2pfUFY5eXNFdFgyMGsxMDNDbDFuaEhnV3pBSFVpRFdGSmRBcUdENE9NMElaSHZydFFxUnRWOEV6OG1MOXJZVXBkcjhYcEN6Nm9hTjlBcTRjTjZObnZtRFJYTE5femhmSHNmWlV5eUVsRE00Y25SNllud0dOSFJHeTNpUG9ndlpn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFhDMmFXallqU1VsTXRDdUNQTVpBdkhhWnExWmR0TU1neHlIUGIzcm4wcjRIWXkxX3pseDh3S2pfUFY5eXNFdFgyMGsxMDNDbDFuaEhnV3pBSFVpRFdGSmRBcUdENE9NMElaSHZydFFxUnRWOEV6OG1MOXJZVXBkcjhYcEN6Nm9hTjlBcTRjTjZObnZtRFJYTE5femhmSHNmWlV5eUVsRE00Y25SNllud0dOSFJHeTNpUG9ndlpn?oc=5\" target=\"_blank\">FDA rejects Sobi’s gout drug over manufacturing issues, sparing Amgen blockbuster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Pharma</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFhDMmFXallqU1VsTXRDdUNQTVpBdkhhWnExWmR0TU1neHlIUGIzcm4wcjRIWXkxX3pseDh3S2pfUFY5eXNFdFgyMGsxMDNDbDFuaEhnV3pBSFVpRFdGSmRBcUdENE9NMElaSHZydFFxUnRWOEV6OG1MOXJZVXBkcjhYcEN6Nm9hTjlBcTRjTjZObnZtRFJYTE5femhmSHNmWlV5eUVsRE00Y25SNllud0dOSFJHeTNpUG9ndlpn?oc=5\" target=\"_blank\">FDA rejects Sobi’s gout drug over manufacturing issues, sparing Amgen blockbuster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fiercepharma.com</font>",
       "published": "2026-06-29T07:00:00+00:00",
-      "source": "Fierce Pharma"
+      "source": "fiercepharma.com"
     },
     {
       "title": "Amgen vs Sanofi – A chronology of the patent battle over Repatha and Praluent - JUVE Patent",
@@ -27,32 +84,28 @@
       "source": "JUVE Patent"
     },
     {
-      "title": "AbbVie & Amgen: Safe Dividend Stocks for Recession Fears | 2026 - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1lBbGVKa001a25HWHZRcjV4Y0FDVG9hb1J3Zmc3VzE5RlhXTkFFMldZa25DVU1vRGRPQUF6VEt5N2tOMnZKQUZWN0htbWZqUlo4V0ktUjh2bXZRN215NllBRmFBc1hsTzhteGFhT0R0Y0NZTVM2Tm9yMnFwOGFmSWJJaUxpSXhvQW1SNFdqYm1jc2xtM1k0bS1VZ3F6NmdPQ3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNT1lBbGVKa001a25HWHZRcjV4Y0FDVG9hb1J3Zmc3VzE5RlhXTkFFMldZa25DVU1vRGRPQUF6VEt5N2tOMnZKQUZWN0htbWZqUlo4V0ktUjh2bXZRN215NllBRmFBc1hsTzhteGFhT0R0Y0NZTVM2Tm9yMnFwOGFmSWJJaUxpSXhvQW1SNFdqYm1jc2xtM1k0bS1VZ3F6NmdPQ3c?oc=5\" target=\"_blank\">AbbVie & Amgen: Safe Dividend Stocks for Recession Fears | 2026 - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-      "published": "2026-04-03T07:00:00+00:00",
-      "source": "IndexBox"
+      "title": "Amgen CEO Bob Bradway's 2025 Letter to Shareholders - Amgen",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qQldnZEQtS1ZCREpnY1loTDlGTk16cV9CUkxuN1k5eEJMLVNBd0llTnFUM25DLWhKWkp4Vk40OF9seUpndmNvMXU3UktYd2RLT0N4Ylg2VDJYUG5VVkpYSzM4OFQ1N0lTRG5SMHc2ZWszc1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5qQldnZEQtS1ZCREpnY1loTDlGTk16cV9CUkxuN1k5eEJMLVNBd0llTnFUM25DLWhKWkp4Vk40OF9seUpndmNvMXU3UktYd2RLT0N4Ylg2VDJYUG5VVkpYSzM4OFQ1N0lTRG5SMHc2ZWszc1E?oc=5\" target=\"_blank\">Amgen CEO Bob Bradway's 2025 Letter to Shareholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amgen</font>",
+      "published": "2026-03-31T07:00:00+00:00",
+      "source": "Amgen"
     },
     {
-      "title": "One Common Mission to Serve Patients: Amgen Operations Shine with U.S. Biosimilar Launch - Amgen",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTFBMnYwbUxNWnlUWVBzQk1vSFJtTjNuODhEVGFxNkFlSERldFZCa1ByM0dCOWlaZF91TElDSzQ0YzJoZ180MmJYY25hVWJrODljd09jOUVCSFVNNzdhSVBaQmNUdk5aNzR4c183U19neExuVUhDQmVRRDE2aUNfOUJYR0NpNHN4TmhSaDRCaUV6Z0ZoRkxZVEVNb3FEcG9Tc0c1NzFaSEhicmpVVmNxa0xrVEVuNmxsdjR3M29xYlJjR2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTFBMnYwbUxNWnlUWVBzQk1vSFJtTjNuODhEVGFxNkFlSERldFZCa1ByM0dCOWlaZF91TElDSzQ0YzJoZ180MmJYY25hVWJrODljd09jOUVCSFVNNzdhSVBaQmNUdk5aNzR4c183U19neExuVUhDQmVRRDE2aUNfOUJYR0NpNHN4TmhSaDRCaUV6Z0ZoRkxZVEVNb3FEcG9Tc0c1NzFaSEhicmpVVmNxa0xrVEVuNmxsdjR3M29xYlJjR2M?oc=5\" target=\"_blank\">One Common Mission to Serve Patients: Amgen Operations Shine with U.S. Biosimilar Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amgen</font>",
-      "published": "2023-01-31T08:00:00+00:00",
-      "source": "Amgen"
+      "title": "AMGEN ANNOUNCES ADDITIONAL $300 MILLION U.S. MANUFACTURING INVESTMENT, TOTALING NEARLY $2 BILLION OVER THE LAST YEAR - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNnk5T1gtWUJjNV9oRlJrTS1YQ09Gb2tRVDdyellvTGp1TFdRelI0a25ha0VXOW5IZnJDRkFlVzRQYm51Tm5LZ1ZkUGN3QU9xMUdVX1VoclkyalFNbktmOG5PdDBENzB6QXlIWVFzVFU5R01DYXRKQjZqWmZTMFY3U0swYmZrNVdQUVE1OWltMWJFZl91LWhLT2ZXOHNLaXh0SkcxeGpBdFVDQmVaYmZXRWhlWWdFOVVnVncwTGNHUVVhQ0ZuOVd5YzZGTWI3OUNlbVhmYWIyeXR0bW1wUGQtQjN1dGdCTm1EdzRBck1NSUZ6RUQzNTRhNGhBUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNnk5T1gtWUJjNV9oRlJrTS1YQ09Gb2tRVDdyellvTGp1TFdRelI0a25ha0VXOW5IZnJDRkFlVzRQYm51Tm5LZ1ZkUGN3QU9xMUdVX1VoclkyalFNbktmOG5PdDBENzB6QXlIWVFzVFU5R01DYXRKQjZqWmZTMFY3U0swYmZrNVdQUVE1OWltMWJFZl91LWhLT2ZXOHNLaXh0SkcxeGpBdFVDQmVaYmZXRWhlWWdFOVVnVncwTGNHUVVhQ0ZuOVd5YzZGTWI3OUNlbVhmYWIyeXR0bW1wUGQtQjN1dGdCTm1EdzRBck1NSUZ6RUQzNTRhNGhBUQ?oc=5\" target=\"_blank\">AMGEN ANNOUNCES ADDITIONAL $300 MILLION U.S. MANUFACTURING INVESTMENT, TOTALING NEARLY $2 BILLION OVER THE LAST YEAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": "PR Newswire"
     }
   ],
   "stock": {
     "ticker": "AMGN",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-03",
-      "close": 442.2099914550781
+      "date": "2026-09-04",
+      "close": 437.8074035644531
     },
     "history": [
-      {
-        "date": "2026-08-26",
-        "close": 440.3399963378906
-      },
       {
         "date": "2026-08-27",
         "close": 436.989990234375
@@ -75,7 +128,11 @@
       },
       {
         "date": "2026-09-03",
-        "close": 442.2099914550781
+        "close": 444.1199951171875
+      },
+      {
+        "date": "2026-09-04",
+        "close": 437.8074035644531
       }
     ],
     "name": "Amgen Inc."
