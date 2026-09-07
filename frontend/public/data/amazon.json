@@ -2,86 +2,72 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-09-06T14:37:04.055528+00:00",
+  "fetched_at": "2026-09-07T16:51:10.669363+00:00",
   "news": [
     {
-      "title": "Labor Day sales 2026: The best expert-approved deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNV2pYRHUxY19IMGRPcEF3dGxGQ1pERlVmVFJvYlBzTzVWTEc3cXdVeUNhUlBlTTJqcWMxaHpoLTFaN1N5ZmpPb3cwM0ZYSlhpSWtfdThVR2hIWUR5WnJEel91LUVjT2VybDR4dlAxRENlczdTVEJhQ1RWb0dWUW5vYVl5SkpYd0s1OWpvZXdGcXdPQTlHdVdxbTRrUUo0dFJoVEdGamxTMVEwTGdKdWY0MzdZdFdGMkd5MnZ4SzY1a3ViZmtNRlE1ejFWRW5STVdGMTBveTRRYUh2STV1TDN3M05mYWdzLTlGQXF0V2M1Tks5LVZXX1QxaXBraWFQZjVWSzg1dmxtaw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNV2pYRHUxY19IMGRPcEF3dGxGQ1pERlVmVFJvYlBzTzVWTEc3cXdVeUNhUlBlTTJqcWMxaHpoLTFaN1N5ZmpPb3cwM0ZYSlhpSWtfdThVR2hIWUR5WnJEel91LUVjT2VybDR4dlAxRENlczdTVEJhQ1RWb0dWUW5vYVl5SkpYd0s1OWpvZXdGcXdPQTlHdVdxbTRrUUo0dFJoVEdGamxTMVEwTGdKdWY0MzdZdFdGMkd5MnZ4SzY1a3ViZmtNRlE1ejFWRW5STVdGMTBveTRRYUh2STV1TDN3M05mYWdzLTlGQXF0V2M1Tks5LVZXX1QxaXBraWFQZjVWSzg1dmxtaw?oc=5\" target=\"_blank\">Labor Day sales 2026: The best expert-approved deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjRlZhM3RnS3Z4SmxLMHdNUFlUOXlUa0VweDJrRnhWWEF4VlRRZnBRUmhhRnZyNXNRQjNuRDRndi1HdGVYSklHSVl1c05TdEJJYkVucmtPLXd2VUF6M1hBTkhSZWVEajJqd0JMTDJUZ3NQOUI4UzFMQnp3NHRzMVU?oc=5\" target=\"_blank\">Amazon’s annual Labor Day sale is live. I found 25 deals worth shopping this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1nd3pHUk1fblJpOTRCSmVhQU81b0piRmk3NXY3V0NHWHhidXpqT1ZNME13TmJRdWVOaUlzNkdOQ2pweHZmM2xyMmxacFJHS2p6Tkc1WlVYQUNvY3Q4Ym8yY2VUTm92eVZ5dDF1Z3J3S1NnY2dWR1M3UUdPUXg?oc=5\" target=\"_blank\">Amazon Has Thousands of Labor Day Deals, but I Found the Best Fashion, Home, and Beauty Picks for $10 or Less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Real Simple</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBSajdFN3ZNZUNhOXVKMlJZOXROaHhmSGtaQ2QwZmgyS0swbEkxdjNERFhfbjVlVWJJbG9uNDAwc2o4TVBqVWY0QnpIempEN2FsdnZJRGVEMXJOYW96NW1MdDhQM2FwXzVOaTZXR3poU0loUzA?oc=5\" target=\"_blank\">Amazon’s Labor Day Deals Are Here — Up to 55% off Fall Essentials, Home Upgrades and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TODAY.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHhGcFpkU21sMVBqTTlQdlBuZlowb19vazJHVkVtdnBrQlNoRkpFS2FsU1BLNU9hM2FZdW5wUnZVc2wwaVk4UUxxSngySUgzSHJ4ZnZLc3Q0NUp4THhXU1V0bE5WdFdiUFNneUJoRC1pVTJ0MUlmS0drQjhVYUNTaXc3T2tSOWJtSmhF?oc=5\" target=\"_blank\">Amazon’s Labor Day sale has deals up to 78% on Shark, Brooks, Stanley and more — but they’ll be gone in 3 days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2E0ZUFkU0ZmbjdqVGg1Y2tfN3F0OExTMXBvdWg2azZoSjlhU3pSWF9RQzZuTWxqZl9JYzRyQXNlSF9MYl9QZzJEYWZmR3RqcWgwMWkxMFBmU1VzbkFuR1hEUjQwVjdhWENGQjRwS21udDFGS3RxaXVRckpVOFlFdWJ3?oc=5\" target=\"_blank\">I’m Not Skipping These 10 Super Discounts Under $10 from Amazon’s Outlet This Weekend — Starting at $4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9fMFhrREZLT0pfMXVUV1hWbW9zY3ltS2UzcTZLYlk3M2F6VGhEcF9hZnRpTnRuZUdZSWNBb29VbEVUZ1AzS2RoRjJJZHIyNUt0V3FXT3BvcVVZNV9nbEdxbEROS2lvSlZHMzFfQVh2UnM?oc=5\" target=\"_blank\">The Best Deals on Tech for Labor Day 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lifehacker</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlprRnRZdWpVOEVVWTFLclppbkZ0R3hGVFIwVmxaMkZXTGZURHUxSC1uT3d2U29pQ2hRa3NsUFQ0LUpLSXQ3aG9sRDVybnBmZ0dRREx1NkRoNVFIcGlLcVJkaGtobExPNnV6VFJsT2NOZGY5SXp1WGZvYkxvWWlvX29nZUVSbElDci1LY284YnA3amoyRU80RWphY3YxcFpXX1U0S09yaThtUGdzZlI3UWJ0UGhodTlrZldkX2l2S1JjR040UnRPTl9B?oc=5\" target=\"_blank\">Amazon’s Labor Day deals are up to 45% off — here are 37 worth shopping from Asics, YETI, Weber and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVGthOGptdGl2V2lBaUZINVhqMC1iSXpGUXdOeHAtYTd5dThiRTRvOGFQUUlZUHpWeHEwYmFvbzZtLW5OTHdsV2RQNFBHbXBWb2h6MnJTX3l5eEd2YnMyZzBXcWt0cnBQN1NpaFdETVdYdk94YXlJamxPNGU4YUVEMV9Tc1h5U09IUWRrcU5oaV9Wd0l1LXg5ZU9WUUl2VHc2aDBoN215aGxfZHJ0cFpZOUR0eXRZREFBckhWWG9DLUVnTWVJVS14V04tOHl1bEVnR205MzNzQUxOamd1cnFiaWtGSGNDWUNBQnpyUVdxUmR3LXRPRlRj?oc=5\" target=\"_blank\">Labor Day sales are here: The best deals from Amazon, Apple, Hoka, Patagonia and more up to 75% off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li></ol>",
-      "published": "2026-09-06T14:26:45+00:00",
-      "source": "Yahoo"
+      "title": "Amazon’s annual Labor Day sale has thousands of deals, but these 25 are the best - CNN",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9STkMyZm9Pd0lsZ0hYY0VZZ0Zyd0dOUkNIX29Gdm0xemIxamdIaVNocnpwSDZGWEtyRjNxVk5mSjJFd2Z1Yk5JbjZ2dkx5Vlp0dGRjbkZGckZsM3Y2MnFNUl9UWkZxT3BzbHl1M09HVU5RNW05VjdOajM3STBxQXM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9STkMyZm9Pd0lsZ0hYY0VZZ0Zyd0dOUkNIX29Gdm0xemIxamdIaVNocnpwSDZGWEtyRjNxVk5mSjJFd2Z1Yk5JbjZ2dkx5Vlp0dGRjbkZGckZsM3Y2MnFNUl9UWkZxT3BzbHl1M09HVU5RNW05VjdOajM3STBxQXM?oc=5\" target=\"_blank\">Amazon’s annual Labor Day sale has thousands of deals, but these 25 are the best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2026-09-07T10:45:00+00:00",
+      "source": "CNN"
     },
     {
-      "title": "My 65-Year-Old Mom Always Looks Put Together at the Airport — Her Secret Is These Matching Sets from Amazon - People.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmF1UERwRTM1OThZZm5GSmpTQnhGX08zQlZRZXdVbk9yT01iSnAxeXFBLWhkeEJMUTQ5ZWVoNXRTckc4NWJ5aVJFcy1FVVFVTzRfV3FmYV9jZzRXa3dTSzIyUWUzSkI1VnRqczlSdmJoMmVOSk80NEE2U2dQd1R4aXlMVUxEVWlNa1E4cDZyWXZNNVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmF1UERwRTM1OThZZm5GSmpTQnhGX08zQlZRZXdVbk9yT01iSnAxeXFBLWhkeEJMUTQ5ZWVoNXRTckc4NWJ5aVJFcy1FVVFVTzRfV3FmYV9jZzRXa3dTSzIyUWUzSkI1VnRqczlSdmJoMmVOSk80NEE2U2dQd1R4aXlMVUxEVWlNa1E4cDZyWXZNNVE?oc=5\" target=\"_blank\">My 65-Year-Old Mom Always Looks Put Together at the Airport — Her Secret Is These Matching Sets from Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
-      "published": "2026-09-06T12:30:00+00:00",
+      "title": "Amazon Labor Day sale 2026: Can't-miss deals from Apple, Hanes, Dyson and more are up to 70% off - shopping.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR3hHYkQtMnZFZ3JNWFRyRXlQVG1Vb2l4QWZxcDFNOXVOeHVMR3JCYkNHV2VHV1BUQ0FpRTBuSVNWay1LSUJiZ25fYTZTZ2trbnRINFdNNi1GV2djY1BNNVdjM1FSb3lucDVzM3N2SWtMYTJwVFNRVlhqOUtLMEJWdnRVNzBtMTg5X3dNQkJ1emFkRkVRZ016REJnU1hVb3FncjZSbi1GZV9seF9QTnd0Mmhfa1pGMFFnbHk0bDVMSTc3c294c1NrZWJQOFRaeDBnMXpmZFJGNHk1RjNxWE9leE5nU3hCdHYyYml5X0RreDRMNms?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR3hHYkQtMnZFZ3JNWFRyRXlQVG1Vb2l4QWZxcDFNOXVOeHVMR3JCYkNHV2VHV1BUQ0FpRTBuSVNWay1LSUJiZ25fYTZTZ2trbnRINFdNNi1GV2djY1BNNVdjM1FSb3lucDVzM3N2SWtMYTJwVFNRVlhqOUtLMEJWdnRVNzBtMTg5X3dNQkJ1emFkRkVRZ016REJnU1hVb3FncjZSbi1GZV9seF9QTnd0Mmhfa1pGMFFnbHk0bDVMSTc3c294c1NrZWJQOFRaeDBnMXpmZFJGNHk1RjNxWE9leE5nU3hCdHYyYml5X0RreDRMNms?oc=5\" target=\"_blank\">Amazon Labor Day sale 2026: Can't-miss deals from Apple, Hanes, Dyson and more are up to 70% off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shopping.yahoo.com</font>",
+      "published": "2026-09-07T16:14:04+00:00",
+      "source": "shopping.yahoo.com"
+    },
+    {
+      "title": "Amazon’s Labor Day sale has deals up to 78% on Shark, Brooks, Stanley and more — they’ll gone tonight - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ210d2ZlQmV3ZjVId21xYWZEOVMzNGJYWVlsbTNGb25rZ1FFa2VpV2hxQTFjRDBOdmpCdUJPcWhub2JNeWVTUmdrYkx0c29Ea1djSXB4OXJINlg1NHpKY2k4XzhNVDNxRVJXQ1Jpc3Z6eUNoMi1nWlNJLWM5ZDRnUzMyTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ210d2ZlQmV3ZjVId21xYWZEOVMzNGJYWVlsbTNGb25rZ1FFa2VpV2hxQTFjRDBOdmpCdUJPcWhub2JNeWVTUmdrYkx0c29Ea1djSXB4OXJINlg1NHpKY2k4XzhNVDNxRVJXQ1Jpc3Z6eUNoMi1nWlNJLWM5ZDRnUzMyTQ?oc=5\" target=\"_blank\">Amazon’s Labor Day sale has deals up to 78% on Shark, Brooks, Stanley and more — they’ll gone tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+      "published": "2026-09-07T15:23:23+00:00",
+      "source": "NBC News"
+    },
+    {
+      "title": "Amazon cargo plane crashes at Miami airport, killing five people - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZE5kc2NrR09LQXBMX3hmdERjM0FIR3k2TmRzLXA4TEJIOHp3aDdyTjl1cWhBT2JONktaY2hDYnpjTlc5czFkS2I5eTl3ZXJnSTltbzZiM0JRRF80YjNuWnFaWUU1SUdscnBPRGNFY1B2eU9MYlY2T2JOTzgzVC04NlVzdldQN3FUNE5hVDJGSTEzWV9LaEtkcElmNHU0THVVaVJkWlpWQlNyUzd1SklUeUwyaXBrQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZE5kc2NrR09LQXBMX3hmdERjM0FIR3k2TmRzLXA4TEJIOHp3aDdyTjl1cWhBT2JONktaY2hDYnpjTlc5czFkS2I5eTl3ZXJnSTltbzZiM0JRRF80YjNuWnFaWUU1SUdscnBPRGNFY1B2eU9MYlY2T2JOTzgzVC04NlVzdldQN3FUNE5hVDJGSTEzWV9LaEtkcElmNHU0THVVaVJkWlpWQlNyUzd1SklUeUwyaXBrQQ?oc=5\" target=\"_blank\">Amazon cargo plane crashes at Miami airport, killing five people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">washingtonpost.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXl5N2c3SHdhTWEzX1FiUGEzdkpNTkNjOEIzM2lSb2pfanNJeE1hRGlsYVNISXpGc1NCQnoxWGtiUTNxbUxsc0FUQWcwcWVmNUx1TEtQaENRSW1KSFd2dGRXSjI1OW1fLXFkMVBqYzZqeS1IXzJOY0xqSzVZeDd2OHFaNTRPVGpCY0M2RkJkdHZUZw?oc=5\" target=\"_blank\">At least five dead after Amazon cargo plane crashes at Miami airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSl9pLVpDSVhMYU16NVJKZndFQ21nQ0tyWnlQVHhaaGdMXzJ6Z19VMGc2ZHY0NXRQNzJDYW1MUUtrWWRwOFhGaW52SjNxa2dYMUhYOWJ2TEltVm9ESU5TMnhVNnZxVHRQMTlLR19IYndtV3lkeFozYW5pMW5HRmh5VXBhWjU2YmZ6NEdCdkdHdXlCX3dyWWhGanRWdEJKUXh5eGF0ZHJyT2Q?oc=5\" target=\"_blank\">Witness describes \"surreal\" moment Amazon plane crashed near Miami International Airport: \"Something from a movie\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li></ol>",
+      "published": "2026-09-07T05:14:55+00:00",
+      "source": "washingtonpost.com"
+    },
+    {
+      "title": "Skip the ironing board with this $22 steamer — 40% off on Amazon for Labor Day - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yZDNNeDA4UURDYW1yV3g5Z1dQYWx0ZzZYTVNORmhVbTR4QmdlSVpvZDdBcDJzdjBzM1ZjT2xleWliTWZKTDFmTlVzNjh0bU5iRUtLZmhaRFBXeVJtaGxyYURQUTFxR2lha0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8yZDNNeDA4UURDYW1yV3g5Z1dQYWx0ZzZYTVNORmhVbTR4QmdlSVpvZDdBcDJzdjBzM1ZjT2xleWliTWZKTDFmTlVzNjh0bU5iRUtLZmhaRFBXeVJtaGxyYURQUTFxR2lha0E?oc=5\" target=\"_blank\">Skip the ironing board with this $22 steamer — 40% off on Amazon for Labor Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "published": "2026-09-06T17:04:16+00:00",
+      "source": "Fox News"
+    },
+    {
+      "title": "I Took a 6-Figure Job at Amazon in Between Bouts of Entrepreneurship - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVdrdG55OW5hZFlKci0xWjlkUnBOUVFlcXRYaHhCRmpkNkIydzVGT1lXRUlDT2JDRHFXZ3ZfV1Q3SmUtVElCbzFCNFJPdHc4MzhJVTJWb1BQVjBsdS13X1lIS3JKcnlCdjlLLWlOd0xKWnp1bkNtZlZPVGRpLWZoNUl4U1ZHQm5VMFZnT3dTSVREUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVdrdG55OW5hZFlKci0xWjlkUnBOUVFlcXRYaHhCRmpkNkIydzVGT1lXRUlDT2JDRHFXZ3ZfV1Q3SmUtVElCbzFCNFJPdHc4MzhJVTJWb1BQVjBsdS13X1lIS3JKcnlCdjlLLWlOd0xKWnp1bkNtZlZPVGRpLWZoNUl4U1ZHQm5VMFZnT3dTSVREUQ?oc=5\" target=\"_blank\">I Took a 6-Figure Job at Amazon in Between Bouts of Entrepreneurship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-09-07T09:05:17+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Amazon’s September Fashion Drop Is Packed with Trendy Fall Finds — Here’s What’s Worth Shopping from $8 - People.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ1lQXzJfMjhraUlYcEQ0R05mY2VxdV9wRk9RMlZTY1Jrb3VRU1hDVHJNdEZUSXc2TjUzVlZBQkdfUTY1akN3c2JfTUx3OWl6MThHd0JETEtRQ2FlMm5xdjVSNmU1ZWNFQ2R0MUFpUHlXM3pHNEc0VDhhMlJJVFlweg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ1lQXzJfMjhraUlYcEQ0R05mY2VxdV9wRk9RMlZTY1Jrb3VRU1hDVHJNdEZUSXc2TjUzVlZBQkdfUTY1akN3c2JfTUx3OWl6MThHd0JETEtRQ2FlMm5xdjVSNmU1ZWNFQ2R0MUFpUHlXM3pHNEc0VDhhMlJJVFlweg?oc=5\" target=\"_blank\">Amazon’s September Fashion Drop Is Packed with Trendy Fall Finds — Here’s What’s Worth Shopping from $8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+      "published": "2026-09-07T11:30:00+00:00",
       "source": "People.com"
     },
     {
-      "title": "Amazon Music Presents OFF TO COLLEGE with KANE BROWN, an Exclusive Live Concert - Wisconsin Union",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkNoMzMtWXlWRW9NMGx4dFc3NlNIVHk1S1dKYWtDYV9YT2U2eXFFYVljY1hCX1BmbFJlMHlUdUFRNDBjdU0xT0dnZG9XLVRsRE1GdmwwZ2RXREVFam14cVpGOHVHMXRJRUloaXBPOFlQb0hmWlNXZDRWaHE1OVFxZ1h6bmxFNHV4ODdyNjBFREROOTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkNoMzMtWXlWRW9NMGx4dFc3NlNIVHk1S1dKYWtDYV9YT2U2eXFFYVljY1hCX1BmbFJlMHlUdUFRNDBjdU0xT0dnZG9XLVRsRE1GdmwwZ2RXREVFam14cVpGOHVHMXRJRUloaXBPOFlQb0hmWlNXZDRWaHE1OVFxZ1h6bmxFNHV4ODdyNjBFREROOTQ?oc=5\" target=\"_blank\">Amazon Music Presents OFF TO COLLEGE with KANE BROWN, an Exclusive Live Concert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wisconsin Union</font>",
-      "published": "2026-09-05T22:30:00+00:00",
-      "source": "Wisconsin Union"
-    },
-    {
-      "title": "Amazon Labor Day sales worth adding to your cart: Deals from Apple, Hanes, Dyson and more are up to 70% off - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSjI2cXJRcmFmUXd0MjBhbE83N2hzQ1ppOXNxbmJmZ1dNbzZGVjZabEhLaGI3WDBNUDF0T1gtTDZQZGVSZlpLT1ZYMmJ4ZF9mbWkyWEVDTmZ1d1JaZXdlck9QT1BrR1VKMEE4VWlXWmhzNmRXMzhaN1FfbkRKSnpTci1felloSF9FTE5EVnVrcjlIU0NwbjhJNEJXNU43TGd0ZUotNUJTcE1keXJ2Z0xvUGtIa3F2ZXlHQWhrZkpGaTNpVnpqUVZKNHEtTmR3MTJONnZGYnZtTkkwR1g1M0RXZTBsOFFpUHdQUjRrUjdNMnpaWlhoSkU0R0JSX3E1aW4tb2ZJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOSjI2cXJRcmFmUXd0MjBhbE83N2hzQ1ppOXNxbmJmZ1dNbzZGVjZabEhLaGI3WDBNUDF0T1gtTDZQZGVSZlpLT1ZYMmJ4ZF9mbWkyWEVDTmZ1d1JaZXdlck9QT1BrR1VKMEE4VWlXWmhzNmRXMzhaN1FfbkRKSnpTci1felloSF9FTE5EVnVrcjlIU0NwbjhJNEJXNU43TGd0ZUotNUJTcE1keXJ2Z0xvUGtIa3F2ZXlHQWhrZkpGaTNpVnpqUVZKNHEtTmR3MTJONnZGYnZtTkkwR1g1M0RXZTBsOFFpUHdQUjRrUjdNMnpaWlhoSkU0R0JSX3E1aW4tb2ZJ?oc=5\" target=\"_blank\">Amazon Labor Day sales worth adding to your cart: Deals from Apple, Hanes, Dyson and more are up to 70% off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-09-06T13:32:54+00:00",
-      "source": "Yahoo"
-    },
-    {
-      "title": "This Hidden Amazon Storefront Has Secret Labor Day Kitchen Deals Just for Prime Members—From 61 Cents Apiece - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZllyV3lwbEVWcUFxX3ZoZGlaekhBZnZNV1gxU2pVXzVoN2plbThRUWZuZVFzTjgtUjFTcTk5aU92dVVHc2Q1c1FtR3M1Z3N5Wi16TVlqZlNYa1NrdHdZNHJOVE9neUFPenlsb1U5eG9xVUZobUtaQWNpaUlwa0Q5NWJfR09OeWlKY2NNbU1kUnVQSzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZllyV3lwbEVWcUFxX3ZoZGlaekhBZnZNV1gxU2pVXzVoN2plbThRUWZuZVFzTjgtUjFTcTk5aU92dVVHc2Q1c1FtR3M1Z3N5Wi16TVlqZlNYa1NrdHdZNHJOVE9neUFPenlsb1U5eG9xVUZobUtaQWNpaUlwa0Q5NWJfR09OeWlKY2NNbU1kUnVQSzA?oc=5\" target=\"_blank\">This Hidden Amazon Storefront Has Secret Labor Day Kitchen Deals Just for Prime Members—From 61 Cents Apiece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Allrecipes</font>",
-      "published": "2026-09-06T05:30:00+00:00",
-      "source": "Allrecipes"
-    },
-    {
-      "title": "Amal Clooney and Jennifer Aniston Confirmed Adidas Sneakers Are Still a Cool-Girl Staple—and They’re on Sale - instyle.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS09EYXM0c0NlZ2FKVlRzdE8zWlh5YXc2UjZOa0tHcVdvQUxNUzNXZ0FZWVlrN0o3WkZuQnlfMUtLbkd1UmpBUFh6R2tZdm1IOU51Tk82NnRmU0pTOWRoQ0wxcmxBbjhGemdqckRDRW9EYWtKeHlDbmFfRWZBeDZaN3ZkRVdVaWpMZERyTFBhOGg1bFlu?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQS09EYXM0c0NlZ2FKVlRzdE8zWlh5YXc2UjZOa0tHcVdvQUxNUzNXZ0FZWVlrN0o3WkZuQnlfMUtLbkd1UmpBUFh6R2tZdm1IOU51Tk82NnRmU0pTOWRoQ0wxcmxBbjhGemdqckRDRW9EYWtKeHlDbmFfRWZBeDZaN3ZkRVdVaWpMZERyTFBhOGg1bFlu?oc=5\" target=\"_blank\">Amal Clooney and Jennifer Aniston Confirmed Adidas Sneakers Are Still a Cool-Girl Staple—and They’re on Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font>",
-      "published": "2026-09-06T08:00:00+00:00",
-      "source": "instyle.com"
-    },
-    {
-      "title": "The Best Amazon Labor Day Sale Finds Under $15: Shop KitchenAid, OXO, Cuisinart, and More - Food & Wine",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVlKLW5UT21aMy1yMTFzY3JZQUFHZnN3Y0luS01nb1lTamswLWd5QkpDTFE2NE5LOEpXR204TnNlSWxNNWg4dzZvYk8wRjVuU1p4QzVvN3MwU3hZdEJQTHZKSTNVMVdpeWxSVExoWURzTm1YMFhSOUh1WDhnNTRtXzNpMzJvWlNnaUtfQksxNkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVlKLW5UT21aMy1yMTFzY3JZQUFHZnN3Y0luS01nb1lTamswLWd5QkpDTFE2NE5LOEpXR204TnNlSWxNNWg4dzZvYk8wRjVuU1p4QzVvN3MwU3hZdEJQTHZKSTNVMVdpeWxSVExoWURzTm1YMFhSOUh1WDhnNTRtXzNpMzJvWlNnaUtfQksxNkE?oc=5\" target=\"_blank\">The Best Amazon Labor Day Sale Finds Under $15: Shop KitchenAid, OXO, Cuisinart, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food & Wine</font>",
-      "published": "2026-09-06T06:30:00+00:00",
-      "source": "Food & Wine"
-    },
-    {
-      "title": "Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1RnMWxFWmtqTEJZNmtTNmVHdGZhUXhVbEVTenNKam8xZmtIVGNfQlYwRlY2anZ1ZXZWc1RDUW9DUFc2endnM1pOdU13c2I0RExUUGNrVFlvajZFWk8wNHZDQVdLR0JNc0wxeG1Lb05mektkVnVhejRsd1oxSG1jNGxBVWhoY2xkSHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1RnMWxFWmtqTEJZNmtTNmVHdGZhUXhVbEVTenNKam8xZmtIVGNfQlYwRlY2anZ1ZXZWc1RDUW9DUFc2endnM1pOdU13c2I0RExUUGNrVFlvajZFWk8wNHZDQVdLR0JNc0wxeG1Lb05mektkVnVhejRsd1oxSG1jNGxBVWhoY2xkSHc?oc=5\" target=\"_blank\">Amazon’s response to the FTC’s lawsuit regarding Sponsored Ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-08-31T19:46:53+00:00",
-      "source": "About Amazon"
+      "title": "Amazon Layoffs Continue: How to Play AMZN Stock Now in September 2026 - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ZLdWh4ZWtzTjFDTVlsZ01iUFNpaVJrRnhQTFphWEJFT2FHUzdTUFV6UHEyU3F5aW4tUkY2UkwyaDBEdURFWDllaW9IZzVBZy1xYWVOcEViejhiSDVMamQ3YVYzaFJIaWxpNDRnQjR5SmhiNTkzTWhfTWdUTTBkeXl4TVBsWXB3SUg5dW9NTnJ4RFh1UndkWDBsS0hwUjJacmViX21BSUd1b3BSbE5vV1hR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ZLdWh4ZWtzTjFDTVlsZ01iUFNpaVJrRnhQTFphWEJFT2FHUzdTUFV6UHEyU3F5aW4tUkY2UkwyaDBEdURFWDllaW9IZzVBZy1xYWVOcEViejhiSDVMamQ3YVYzaFJIaWxpNDRnQjR5SmhiNTkzTWhfTWdUTTBkeXl4TVBsWXB3SUg5dW9NTnJ4RFh1UndkWDBsS0hwUjJacmViX21BSUd1b3BSbE5vV1hR?oc=5\" target=\"_blank\">Amazon Layoffs Continue: How to Play AMZN Stock Now in September 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "published": "2026-09-07T13:00:02+00:00",
+      "source": "Barchart.com"
     }
   ],
   "product_launches": [
     {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5\" target=\"_blank\">Amazon Alexa can now alert you when something new might tempt you to shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-09-01T15:51:55+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "YouTube and Amazon launch an offensive against TikTok Shop - RetailDetail EU",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMk14Y3luZWVpc2ptd0hxbmFTLUlndFVPMkhiM2J2cTJWOV9GdE5PbFg3bVJ4SFRyLWN5RWdtbEoxSEJWdzU4c2duazB0ekZoMW42QXBjTzl1RHJlcVQ3Um5oV2FUSy1lMTlUZnJSME9uX2g1QVllTmROSThYUFFSWlZLRmtPa0hCWlFzYTRxYzJUcHJfMy1jT2cwdmp0UkdUMnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMk14Y3luZWVpc2ptd0hxbmFTLUlndFVPMkhiM2J2cTJWOV9GdE5PbFg3bVJ4SFRyLWN5RWdtbEoxSEJWdzU4c2duazB0ekZoMW42QXBjTzl1RHJlcVQ3Um5oV2FUSy1lMTlUZnJSME9uX2g1QVllTmROSThYUFFSWlZLRmtPa0hCWlFzYTRxYzJUcHJfMy1jT2cwdmp0UkdUMnc?oc=5\" target=\"_blank\">YouTube and Amazon launch an offensive against TikTok Shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RetailDetail EU</font>",
-      "published": "2026-09-03T12:48:07+00:00",
-      "source": "RetailDetail EU"
-    },
-    {
-      "title": "YouTube Incentivizes Creators With Amazon Product Tags 08/31/2026 - MediaPost",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFlrazBtZ08taXZ3RC1NWlVIaDFwUXE1cm5XWEhnb1ozWE15OUg5ZkN2dFNxeG16dHJHbWE3VHpXa2xTaDk5US1heURHNldjYVZqMEtPcW1iMkRkTkEyMlI2OXpFMExZVnVtWGRyTUJTa0x6ZjBGM1J3VVdIQkJqVTVyRnAxaUdkay0tcGwzdnVGNDBhUlVUMGF2cUo1Zl9wVklKOXYtXzQxQUVT?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFlrazBtZ08taXZ3RC1NWlVIaDFwUXE1cm5XWEhnb1ozWE15OUg5ZkN2dFNxeG16dHJHbWE3VHpXa2xTaDk5US1heURHNldjYVZqMEtPcW1iMkRkTkEyMlI2OXpFMExZVnVtWGRyTUJTa0x6ZjBGM1J3VVdIQkJqVTVyRnAxaUdkay0tcGwzdnVGNDBhUlVUMGF2cUo1Zl9wVklKOXYtXzQxQUVT?oc=5\" target=\"_blank\">YouTube Incentivizes Creators With Amazon Product Tags 08/31/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
-      "published": "2026-08-30T17:46:05+00:00",
-      "source": "MediaPost"
+      "title": "How do Apple Refurbished products compare with Amazon and Walmart? - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZk43eldoWGZ4SmhESW9MWV9BYUloalBWMkRTcEtKSXhSZktXa1YyaU9zM0lTbGI1cUIwbGpZd1luOWFtMG5IcEpZaDRMM01NaTFzUkR1aFpUSENidlpBTnJlZlpXcUptVU9QMmwteXdSWmIwX3E2ZFV6U3VveW94eHd1NUllZDEza3ZLWUpZaHpGRlJ4Y2g5VTBVNzR5Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZk43eldoWGZ4SmhESW9MWV9BYUloalBWMkRTcEtKSXhSZktXa1YyaU9zM0lTbGI1cUIwbGpZd1luOWFtMG5IcEpZaDRMM01NaTFzUkR1aFpUSENidlpBTnJlZlpXcUptVU9QMmwteXdSWmIwX3E2ZFV6U3VveW94eHd1NUllZDEza3ZLWUpZaHpGRlJ4Y2g5VTBVNzR5Zw?oc=5\" target=\"_blank\">How do Apple Refurbished products compare with Amazon and Walmart?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-09-07T12:50:00+00:00",
+      "source": "9to5Mac"
     },
     {
       "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
@@ -91,11 +77,25 @@
       "source": "About Amazon"
     },
     {
-      "title": "Solinftec launches Amazon store for replacement parts - High Plains Journal",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDVvdDR5bzR4RzZvQ2prQkJGbWRhQ3JPcW95RVJ1RGc4MHFTSEVKV21EWjlwMERWVDZUYk5nWUozSEpGZHYtLVhnZUNHeURZbmN4NzVHZHdrU090YUIxb2dMSXZCcWZBbjNiV2JteFVManRoMXQzOXliTEJtb21lWXJHRXFncHZL?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDVvdDR5bzR4RzZvQ2prQkJGbWRhQ3JPcW95RVJ1RGc4MHFTSEVKV21EWjlwMERWVDZUYk5nWUozSEpGZHYtLVhnZUNHeURZbmN4NzVHZHdrU090YUIxb2dMSXZCcWZBbjNiV2JteFVManRoMXQzOXliTEJtb21lWXJHRXFncHZL?oc=5\" target=\"_blank\">Solinftec launches Amazon store for replacement parts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">High Plains Journal</font>",
-      "published": "2026-09-02T13:32:34+00:00",
-      "source": "High Plains Journal"
+      "title": "YouTube and Amazon launch an offensive against TikTok Shop - retaildetail.eu",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMk14Y3luZWVpc2ptd0hxbmFTLUlndFVPMkhiM2J2cTJWOV9GdE5PbFg3bVJ4SFRyLWN5RWdtbEoxSEJWdzU4c2duazB0ekZoMW42QXBjTzl1RHJlcVQ3Um5oV2FUSy1lMTlUZnJSME9uX2g1QVllTmROSThYUFFSWlZLRmtPa0hCWlFzYTRxYzJUcHJfMy1jT2cwdmp0UkdUMnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMk14Y3luZWVpc2ptd0hxbmFTLUlndFVPMkhiM2J2cTJWOV9GdE5PbFg3bVJ4SFRyLWN5RWdtbEoxSEJWdzU4c2duazB0ekZoMW42QXBjTzl1RHJlcVQ3Um5oV2FUSy1lMTlUZnJSME9uX2g1QVllTmROSThYUFFSWlZLRmtPa0hCWlFzYTRxYzJUcHJfMy1jT2cwdmp0UkdUMnc?oc=5\" target=\"_blank\">YouTube and Amazon launch an offensive against TikTok Shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">retaildetail.eu</font>",
+      "published": "2026-09-03T12:48:07+00:00",
+      "source": "retaildetail.eu"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5\" target=\"_blank\">Amazon Alexa can now alert you when something new might tempt you to shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-09-01T15:51:55+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bank of America resets Amazon stock forecast on key product launch - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1M1LXhDdG85MWU3VkdOTUFTdHUzYUZLOWhLQWRCbWlXVHhIUGwxaTlnYjhrNHJNLXlxNjVCMFhHNEJUc2pvSXktc1hKbVNINXRvdWpBUEVUU3VrdnNOakFJYy1pSXVGX0lDLUotR0szSGJUeGstOUZSWmlzU3ZoN3RUQnRDNjR2VWtuWUw3QUdDYlllMmc2NUl0aDRpQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPR1M1LXhDdG85MWU3VkdOTUFTdHUzYUZLOWhLQWRCbWlXVHhIUGwxaTlnYjhrNHJNLXlxNjVCMFhHNEJUc2pvSXktc1hKbVNINXRvdWpBUEVUU3VrdnNOakFJYy1pSXVGX0lDLUotR0szSGJUeGstOUZSWmlzU3ZoN3RUQnRDNjR2VWtuWUw3QUdDYlllMmc2NUl0aDRpQQ?oc=5\" target=\"_blank\">Bank of America resets Amazon stock forecast on key product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "published": "2026-05-22T07:00:00+00:00",
+      "source": "finance.yahoo.com"
     }
   ],
   "stock": {

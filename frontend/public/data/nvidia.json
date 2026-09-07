@@ -2,66 +2,73 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-09-06T14:37:09.553155+00:00",
+  "fetched_at": "2026-09-07T16:51:15.853216+00:00",
   "news": [
     {
-      "title": "DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOX0E2Rnl0aWdsX05wMWkyUWlocUlXcmpjSDVGNzRUa1Q0TmNnQnRXcmN6WmJXSnVjTlBnSjBCM3VsNzdESTR6WXFyVmo5VUQweTVleW9MejByV1FYOUZDcVFNWUU4MWl1TlNpRVFxMjF2VG1rMHFRT2JRQjNuWnhxTWkxOS15cnVuVmE0UFgwcklMVXlzejEtUHVDQXRKVkFSWkhxZWhVYTJQcnJfdlJSV1FGSW5lYmpwRHRDYkZkRjFHeUZCUVNybzBXblpNdVNVS1BGLTQtZDR6VGl1c0xaVTdNX1FaNkFlZlFmYXF2d3JJZ1ZHSUFoYWFrX2xpSXM1bTlWM3pPQzVQRmV0eEk1alVzVVdQYUZIQlVHSHBkMHY2M1I5?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxOX0E2Rnl0aWdsX05wMWkyUWlocUlXcmpjSDVGNzRUa1Q0TmNnQnRXcmN6WmJXSnVjTlBnSjBCM3VsNzdESTR6WXFyVmo5VUQweTVleW9MejByV1FYOUZDcVFNWUU4MWl1TlNpRVFxMjF2VG1rMHFRT2JRQjNuWnhxTWkxOS15cnVuVmE0UFgwcklMVXlzejEtUHVDQXRKVkFSWkhxZWhVYTJQcnJfdlJSV1FGSW5lYmpwRHRDYkZkRjFHeUZCUVNybzBXblpNdVNVS1BGLTQtZDR6VGl1c0xaVTdNX1FaNkFlZlFmYXF2d3JJZ1ZHSUFoYWFrX2xpSXM1bTlWM3pPQzVQRmV0eEk1alVzVVdQYUZIQlVHSHBkMHY2M1I5?oc=5\" target=\"_blank\">DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-09-04T23:09:31+00:00",
-      "source": "Tom's Hardware"
+      "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVlPMC1CNnpsZ1VBRTAzTlJZU2RzWk92WGRmSUhQY3dwa3d1a1YtMXNwRDJ2UURBRy1vZkh3NnVzbHkxdko0TEFONXR6UnVBeUE1enZaQXhwRlJyVEZ2eWZPelIxME4wM2Z6XzZBMTJYYzM2eWN1SDYxcF9BQ25jdEtBd1Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVlPMC1CNnpsZ1VBRTAzTlJZU2RzWk92WGRmSUhQY3dwa3d1a1YtMXNwRDJ2UURBRy1vZkh3NnVzbHkxdko0TEFONXR6UnVBeUE1enZaQXhwRlJyVEZ2eWZPelIxME4wM2Z6XzZBMTJYYzM2eWN1SDYxcF9BQ25jdEtBd1Y?oc=5\" target=\"_blank\">Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-09-06T22:59:41+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWVFR1hWWEwyTHZSN2o0UTFDX1RBc3BneXlvM2g3WFpBWEJQQzFENUFEVUtzbDZUdFVRN1c0MXBRTnU3N21RbVVKbzZsLXJzM3drNGNlOXR0QnR5d2xKeVBrWHhuTUZMZ3JOdzg3R1YxeXdBSnhZZm9tc3hCQXdyT2NzSEJja2FFSGNSaUxuY003OXZvVlBCWkF3STBWemlkRkE5RTJnNWdhdV9lZlZRZkdSMWbSAboBQVVfeXFMT1VZRDhJUnVuZlB5d1ZjX2tiLVZsZ0FWaHh2Q3E4b0Y2dHVzNG5lcHRUMW1zQUpQMXJ0VnVPeHliMExhNUhiTXVMTG1IbF8wSGtEMzlETVRzQlF0Yl84Z29HZFRVYm1JdWg1eFp4RG8xTVNCRVJJZWMxR0VrNjFkQWNHWWUxbmNCNU5FREtlZHNQY0oxaEdub193WTc1eXltaHVxOWc1bkFGRW1oVnBmcHltYmtOOEJqbmpB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONWVFR1hWWEwyTHZSN2o0UTFDX1RBc3BneXlvM2g3WFpBWEJQQzFENUFEVUtzbDZUdFVRN1c0MXBRTnU3N21RbVVKbzZsLXJzM3drNGNlOXR0QnR5d2xKeVBrWHhuTUZMZ3JOdzg3R1YxeXdBSnhZZm9tc3hCQXdyT2NzSEJja2FFSGNSaUxuY003OXZvVlBCWkF3STBWemlkRkE5RTJnNWdhdV9lZlZRZkdSMWbSAboBQVVfeXFMT1VZRDhJUnVuZlB5d1ZjX2tiLVZsZ0FWaHh2Q3E4b0Y2dHVzNG5lcHRUMW1zQUpQMXJ0VnVPeHliMExhNUhiTXVMTG1IbF8wSGtEMzlETVRzQlF0Yl84Z29HZFRVYm1JdWg1eFp4RG8xTVNCRVJJZWMxR0VrNjFkQWNHWWUxbmNCNU5FREtlZHNQY0oxaEdub193WTc1eXltaHVxOWc1bkFGRW1oVnBmcHltYmtOOEJqbmpB?oc=5\" target=\"_blank\">New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2026-09-06T10:18:01+00:00",
-      "source": "TechPowerUp"
+      "title": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZMYTliejlKS1dfSmZCRmZZUko2WjJHa2RvSW03UVh6V0wwY3VJUnJrSXBDaGczVEJnWTkxR204QzEzUE0tRk15TGlIbm9sQkNGNkVTQ3VUWlVLV1AyRkU5ZVVlaGctSGloX0dRWGdQYUppZEVFNnpnbWE3Y3ZVZ2c2ZXc3SUtLRWZtVlRJUlNyNXFhSy1GTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZMYTliejlKS1dfSmZCRmZZUko2WjJHa2RvSW03UVh6V0wwY3VJUnJrSXBDaGczVEJnWTkxR204QzEzUE0tRk15TGlIbm9sQkNGNkVTQ3VUWlVLV1AyRkU5ZVVlaGctSGloX0dRWGdQYUppZEVFNnpnbWE3Y3ZVZ2c2ZXc3SUtLRWZtVlRJUlNyNXFhSy1GTA?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "published": "2026-09-06T21:39:37+00:00",
+      "source": "finance.yahoo.com"
     },
     {
-      "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control - theverge.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uSHZFR0NDeWhjX2JHM0REQmNHeWtkc1daZ3NocXlvOXM3YXdEQUp2MmY4SHJ1bXhsaGRFb0J1eGZZMFlXT2JfdjYyLWtPSjBFVmliSnRuVlgwWUZaak1FTy03cnJXQ2VJX2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5uSHZFR0NDeWhjX2JHM0REQmNHeWtkc1daZ3NocXlvOXM3YXdEQUp2MmY4SHJ1bXhsaGRFb0J1eGZZMFlXT2JfdjYyLWtPSjBFVmliSnRuVlgwWUZaak1FTy03cnJXQ2VJX2c?oc=5\" target=\"_blank\">Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theverge.com</font>",
-      "published": "2026-09-04T01:49:00+00:00",
-      "source": "theverge.com"
+      "title": "U.S., Iran exchange fresh strikes; Nvidia’s Huang on AGI - what’s moving markets - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdsYjJxVnV5RmIzTThwUnVXT0NZbHFBUkhpNWw4c3JxOFY1aUxaOUpwNFRTNFNtQ0hBck1yTDBYVS1fZHdQLWE2QWNQdGNkQmotV2c4MWpRdW5UeGZ6MWRoVEpqemZVSXRfZDNoWUZWbTZXTXBWN0tOLXRJZFhVSG1jUXhaTjcwcGMtU2YwREVHZlY4ejRKSDc3R3RPRHRIZ3NQTWVqRTZ4dVlLVktaZl9JZFEzNUdjeDE5WTliQlYyQkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjdsYjJxVnV5RmIzTThwUnVXT0NZbHFBUkhpNWw4c3JxOFY1aUxaOUpwNFRTNFNtQ0hBck1yTDBYVS1fZHdQLWE2QWNQdGNkQmotV2c4MWpRdW5UeGZ6MWRoVEpqemZVSXRfZDNoWUZWbTZXTXBWN0tOLXRJZFhVSG1jUXhaTjcwcGMtU2YwREVHZlY4ejRKSDc3R3RPRHRIZ3NQTWVqRTZ4dVlLVktaZl9JZFEzNUdjeDE5WTliQlYyQkE?oc=5\" target=\"_blank\">U.S., Iran exchange fresh strikes; Nvidia’s Huang on AGI - what’s moving markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2026-09-07T08:34:04+00:00",
+      "source": "Investing.com"
     },
     {
-      "title": "Exclusive | U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJmOWRwaGQxLXdMVzlaUk16VUZfVE9FTkN4MVdOXzBYZEY5VlpWMWZFbHBjaTNCTmxnQVdsamU4YUd3YmUtZDV6OUFNZDdvOGFfY0pLSndyc0JVci03c2NrcUtveEhnTU8tOEZMY3FoUUlETnlrM0pZUGlsSFdjOW5xU2VpQ3pOeWhoOHZ2TTNqb3RyQzdFSnR0YktRWjZHeDcxNzBuQmZvOUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJmOWRwaGQxLXdMVzlaUk16VUZfVE9FTkN4MVdOXzBYZEY5VlpWMWZFbHBjaTNCTmxnQVdsamU4YUd3YmUtZDV6OUFNZDdvOGFfY0pLSndyc0JVci03c2NrcUtveEhnTU8tOEZMY3FoUUlETnlrM0pZUGlsSFdjOW5xU2VpQ3pOeWhoOHZ2TTNqb3RyQzdFSnR0YktRWjZHeDcxNzBuQmZvOUk?oc=5\" target=\"_blank\">Exclusive | U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-09-04T23:00:00+00:00",
-      "source": "WSJ"
+      "title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5\" target=\"_blank\">AI computing demand may never be sated, says CEO of Nvidia partner Iren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-09-07T10:00:10+00:00",
+      "source": "Financial Times"
     },
     {
-      "title": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVU5qandGdlMyaUg2N0l4S0REeGNVR182RmhSSnJkYVNxV0NxeGRzakhyV180ZGdZZ3VrQm9jbktneWJwYlJiMHJ0T29VTmIyTC1vLTl4cWV5Y3AxNVdDOV95LTJKQkpCaUlRU2VCdWVsMThGdVdTMmJGUTNmSjZOZzBGR2k1UmtFVzE0aG5Ka1ZQaFJMbXB5OUIydXFfck1zVWpZenh0a1NWSXhPcUlDNlhBak9qR2VlRDdBbHpjZ3FkcWZkLVpZN0d3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVU5qandGdlMyaUg2N0l4S0REeGNVR182RmhSSnJkYVNxV0NxeGRzakhyV180ZGdZZ3VrQm9jbktneWJwYlJiMHJ0T29VTmIyTC1vLTl4cWV5Y3AxNVdDOV95LTJKQkpCaUlRU2VCdWVsMThGdVdTMmJGUTNmSjZOZzBGR2k1UmtFVzE0aG5Ka1ZQaFJMbXB5OUIydXFfck1zVWpZenh0a1NWSXhPcUlDNlhBak9qR2VlRDdBbHpjZ3FkcWZkLVpZN0d3?oc=5\" target=\"_blank\">Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-06T13:26:55+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "How Jensen Huang became AI’s Taylor Swift - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGNqbTR3T1ZpZFJxVjJtXzJvUmdaYUpaY0w5MTZoQ1VZVWhab3M5aDY3WmlmTnF5RXFOZFVuSXlJb2JpT25adGhLRWFtWlFBQWNRVlFoNGdZMW5aOFBHUHNXYjJtVGFndkZVS2t2WFNNdGZ3bkF0dEIxVGU1eWVrMkFOaS1iNHVXb0Nyc3pTU1VkejB3Yk1oSEVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGNqbTR3T1ZpZFJxVjJtXzJvUmdaYUpaY0w5MTZoQ1VZVWhab3M5aDY3WmlmTnF5RXFOZFVuSXlJb2JpT25adGhLRWFtWlFBQWNRVlFoNGdZMW5aOFBHUHNXYjJtVGFndkZVS2t2WFNNdGZ3bkF0dEIxVGU1eWVrMkFOaS1iNHVXb0Nyc3pTU1VkejB3Yk1oSEVB?oc=5\" target=\"_blank\">How Jensen Huang became AI’s Taylor Swift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economist</font>",
-      "published": "2026-09-03T10:08:03+00:00",
-      "source": "The Economist"
-    },
-    {
-      "title": "After Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTF9IOEpMNE1RdnN0YlhSZ21LMnZ2T3V4dG0tUGVURFd0THFHYllyc1dmdFI5a19jX2xTdmFjZlkteW1jMGxGbUswaDVkRmRwMjk5S0RtUzV4MWF0eU03SmxjNjZrVTNRU3Q4dUJHY1hELVFSZXB5Z05tTndlbTNMQXlTV0kyZWZsUUdkVV9JOExoRjBvZEJheXAyMmNPLXJ1SmNUOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTF9IOEpMNE1RdnN0YlhSZ21LMnZ2T3V4dG0tUGVURFd0THFHYllyc1dmdFI5a19jX2xTdmFjZlkteW1jMGxGbUswaDVkRmRwMjk5S0RtUzV4MWF0eU03SmxjNjZrVTNRU3Q4dUJHY1hELVFSZXB5Z05tTndlbTNMQXlTV0kyZWZsUUdkVV9JOExoRjBvZEJheXAyMmNPLXJ1SmNUOA?oc=5\" target=\"_blank\">After Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-09-04T08:12:09+00:00",
-      "source": "Morningstar"
-    },
-    {
-      "title": "Despite Revenue Skyrocketing More Than 100%, Nvidia Stock Trades at 24 Times Forward Earnings. Is the Market Warning Investors About What's to Come? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjBUZm1NVFhiNVMtdmt5ZVBsamtMLWlaTDlsLXQ0TDFnLWFQWC1xV3NNeFdxZ3BsTkN1NzcxX3RkdzlmcUIwR1NZNlRyODFvWnpqTk1tMTFNUzlBMEwxRXZyNE9Xb3AtSmhoWWxVYWlOMjFFalY1a2NWVU9mVXlHb0MzNFJIeFJRZzBDY1ktLXZzZkVN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjBUZm1NVFhiNVMtdmt5ZVBsamtMLWlaTDlsLXQ0TDFnLWFQWC1xV3NNeFdxZ3BsTkN1NzcxX3RkdzlmcUIwR1NZNlRyODFvWnpqTk1tMTFNUzlBMEwxRXZyNE9Xb3AtSmhoWWxVYWlOMjFFalY1a2NWVU9mVXlHb0MzNFJIeFJRZzBDY1ktLXZzZkVN?oc=5\" target=\"_blank\">Despite Revenue Skyrocketing More Than 100%, Nvidia Stock Trades at 24 Times Forward Earnings. Is the Market Warning Investors About What's to Come?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-09-06T13:43:00+00:00",
+      "title": "Not Nvidia, Not Micron. This Magnificent Warren Buffett Stock Could Be the Quiet Winner of the AI Arms Race -- Here's the Case. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUZVcmVaZmpxSG5uRGR2MUxzNU1kckJiZWR4VHhmQU5xdmxJTUxEQTFhY09JWENqTFJ5TDFpNVk0aGZqZUw0Yms1dC1UQjVnd19fbEJJSzNTVGUzMWNETmtFR0w5WWJqQlBEeVVJb3Zud2diNWlrX21EcGNnUkEwS1VodGRxSGh3SUwtZEY2RWhmYWVnMm5QUA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORUZVcmVaZmpxSG5uRGR2MUxzNU1kckJiZWR4VHhmQU5xdmxJTUxEQTFhY09JWENqTFJ5TDFpNVk0aGZqZUw0Yms1dC1UQjVnd19fbEJJSzNTVGUzMWNETmtFR0w5WWJqQlBEeVVJb3Zud2diNWlrX21EcGNnUkEwS1VodGRxSGh3SUwtZEY2RWhmYWVnMm5QUA?oc=5\" target=\"_blank\">Not Nvidia, Not Micron. This Magnificent Warren Buffett Stock Could Be the Quiet Winner of the AI Arms Race -- Here's the Case.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGR4NEVCb1ljZ3BsQ0cxcVRPYzI1eURJXzZXcVNhR29UYnY2Z1lVYWVpT3c0N3RaQW5vMWR5NncwLVlHaUhhUUE1TERGendLWFFEbkR4TnViN2NfN0JuRGxGVnZBekVzUVNuUWNWWUh3QjM3TEpPNTNialVMM0VWbDV4c3ZZdVFfZ3A3alhhbnBUUlhHMUc0YXBoVzRheXBfZjRRWHBn?oc=5\" target=\"_blank\">Nvidia: New Upside Catalysts Emerge And Why I'm Raising My Target (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnhqRjB6VWhRcU5FLUhWRjFTTzNJazlZLTBzcy1yVHMxRHNubUhxMGdGbUprZjRuTzFsSnhZT0dXcTlhZHY0R1VBUEpHd2RTamRwSURTMWh3NG41UzBlczlibi1rZ1VrQzdZQjBXQXVlNWpJNDM1ZDZSSkxTcGxGWkxVSFBZUUlmZTJyd1lZMENzcG5SV1lRVlFkSEJxYUFlWTMyYw?oc=5\" target=\"_blank\">Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font></li></ol>",
+      "published": "2026-09-07T13:33:00+00:00",
       "source": "The Motley Fool"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5\" target=\"_blank\">Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-07T11:58:15+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nvidia’s Investment Portfolio Spans Intel to SpaceX. Why It Can Surge. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckVFc2tmUEM1SHdWTEQ4NzlOSk03QWtMb2ZiWkczV2RrenZDUUVNTFBHdkJPcnhkRWF0dXBRWmViU1dJR2Z6ZHR3Zlo1MVdHeF9TZE5vRkxOMmtaOXM3UUg0azhEN2dSRXF4LWNkeXBKWEFGS2hPZksybzZpWlBITzBqRUE0SFBzd0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOckVFc2tmUEM1SHdWTEQ4NzlOSk03QWtMb2ZiWkczV2RrenZDUUVNTFBHdkJPcnhkRWF0dXBRWmViU1dJR2Z6ZHR3Zlo1MVdHeF9TZE5vRkxOMmtaOXM3UUg0azhEN2dSRXF4LWNkeXBKWEFGS2hPZksybzZpWlBITzBqRUE0SFBzd0E?oc=5\" target=\"_blank\">Nvidia’s Investment Portfolio Spans Intel to SpaceX. Why It Can Surge.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-09-07T14:07:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "NVIDIA Offers GeForce RTX 50-Series Founders Edition GPUs at MSRP at PAX West - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTVkSmVwYXB6Zk9XTzRwOWtwbHlSVVQ0UW1vMi1ubzB4SEt6akpWWHd1ajFWUjZMNGFVR1ZrX2lHZTN1UjhOaEdXR2tIeUZIcFVkNk1mSmFBTmQzN2k5V2NwSEhXWktNZjUzQUhxb1UtMm8yakR1UW5vWE91ZkQtbklvRUgwekdhTW5xZnotMnVfUDl1STZfLXZLQ1BGcUk1VTdGUzB0YVRTU19SY3RTVmFR0gG3AUFVX3lxTE5qMlhPbGpFeHJTTWdBbkNMSlQwcU9wVVhWdTFKLVpTUEdZNUR4R1dxZGRTQmdpQWNIbVROM2s4a1IyaDRlb2YzNDl4Q0lwdGZSbmtCZWNUR1N4Ti1DNE8yZHJGb0ZqUzZtNjB2WVdHbzVxNHZPWnJET3NNVUYzWnlMQjdsY1hyRi1HNU9vQjhqX203a3Y0cURXbDRFVWV4cGl4V2JCN3l0Z1lsUFdTMVN5UnlDRDVscw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTVkSmVwYXB6Zk9XTzRwOWtwbHlSVVQ0UW1vMi1ubzB4SEt6akpWWHd1ajFWUjZMNGFVR1ZrX2lHZTN1UjhOaEdXR2tIeUZIcFVkNk1mSmFBTmQzN2k5V2NwSEhXWktNZjUzQUhxb1UtMm8yakR1UW5vWE91ZkQtbklvRUgwekdhTW5xZnotMnVfUDl1STZfLXZLQ1BGcUk1VTdGUzB0YVRTU19SY3RTVmFR0gG3AUFVX3lxTE5qMlhPbGpFeHJTTWdBbkNMSlQwcU9wVVhWdTFKLVpTUEdZNUR4R1dxZGRTQmdpQWNIbVROM2s4a1IyaDRlb2YzNDl4Q0lwdGZSbmtCZWNUR1N4Ti1DNE8yZHJGb0ZqUzZtNjB2WVdHbzVxNHZPWnJET3NNVUYzWnlMQjdsY1hyRi1HNU9vQjhqX203a3Y0cURXbDRFVWV4cGl4V2JCN3l0Z1lsUFdTMVN5UnlDRDVscw?oc=5\" target=\"_blank\">NVIDIA Offers GeForce RTX 50-Series Founders Edition GPUs at MSRP at PAX West</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2026-09-05T16:45:41+00:00",
+      "source": "TechPowerUp"
     }
   ],
   "product_launches": [
+    {
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-04-14T07:00:00+00:00",
+      "source": "NVIDIA Newsroom"
+    },
     {
       "title": "Nvidia RTX Spark N1X Launches October: 128GB RAM [2026] - tech-insider.org",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFMVRvRUdwZktYM2Z5VllZQU1fWTR5cl9Yc2s1ZDh0V01id040ejl3a2FUM1N4a1Y2R0tvNnM1R0t3ai1aSWdoS013X0lKTVA5dXRxcDUwRHYtbmFWY3ZKaUdMWDlZTFhqRk1FaEFBX0t0dGt2?oc=5",
@@ -70,25 +77,18 @@
       "source": "tech-insider.org"
     },
     {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - nvidianews.nvidia.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nvidianews.nvidia.com</font>",
-      "published": "2026-04-14T07:00:00+00:00",
-      "source": "nvidianews.nvidia.com"
-    },
-    {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center - theverge.com",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center - The Verge",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmp5eHc2N0xxcE8teFNJUlFPeTRzTEJBME9kSV92dG5NVndPTElFcDNHek1INGhoc2tSQl9Jemk5WEdDVnJPN014dmpOUzEweENpVzRIekVaOVhpY1lsZlZna0NOVzE5WVpBNlNHYkQ1N1U3ajE3U3lOSW5ZMVp0UFVleW5kcXdBcXpkY25HMVAzU3FOTHBqN1BDWjV2WGRIcVp5VTVVY2Zvc0tseGJpZmlKSkhfamxhMjdkMllfVWpiUG9JWFFNag?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmp5eHc2N0xxcE8teFNJUlFPeTRzTEJBME9kSV92dG5NVndPTElFcDNHek1INGhoc2tSQl9Jemk5WEdDVnJPN014dmpOUzEweENpVzRIekVaOVhpY1lsZlZna0NOVzE5WVpBNlNHYkQ1N1U3ajE3U3lOSW5ZMVp0UFVleW5kcXdBcXpkY25HMVAzU3FOTHBqN1BDWjV2WGRIcVp5VTVVY2Zvc0tseGJpZmlKSkhfamxhMjdkMllfVWpiUG9JWFFNag?oc=5\" target=\"_blank\">Nvidia launches free tool that links idle computers into a personal AI data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theverge.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmp5eHc2N0xxcE8teFNJUlFPeTRzTEJBME9kSV92dG5NVndPTElFcDNHek1INGhoc2tSQl9Jemk5WEdDVnJPN014dmpOUzEweENpVzRIekVaOVhpY1lsZlZna0NOVzE5WVpBNlNHYkQ1N1U3ajE3U3lOSW5ZMVp0UFVleW5kcXdBcXpkY25HMVAzU3FOTHBqN1BDWjV2WGRIcVp5VTVVY2Zvc0tseGJpZmlKSkhfamxhMjdkMllfVWpiUG9JWFFNag?oc=5\" target=\"_blank\">Nvidia launches free tool that links idle computers into a personal AI data center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2026-09-03T16:00:00+00:00",
-      "source": "theverge.com"
+      "source": "The Verge"
     },
     {
-      "title": "John Ternus Takes Over as Apple CEO Just as Nvidia Chases the Whole AI Stack - startupfortune.com",
+      "title": "John Ternus Takes Over as Apple CEO Just as Nvidia Chases the Whole AI Stack - Startup Fortune",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3FRa3lpYS1NOXhFeURyaW0tQTNBS3pscWRXalFEUlNCXzJnaU1aZEZ6aGF1cmlCT3RUekdFbjFOTElpUjJqdXBHSGZiQXNVdVNJY1g3cWxqMm9RR2k0SDJJcWt4dE81QjMyak9MaEk3QUdFSHhpd2lwV3JUQ3hsOFpaSGYyVDRGc0tiWkJUSWoyOHJvaUxYRFN1UW5CcW5icmZ5bGNzWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3FRa3lpYS1NOXhFeURyaW0tQTNBS3pscWRXalFEUlNCXzJnaU1aZEZ6aGF1cmlCT3RUekdFbjFOTElpUjJqdXBHSGZiQXNVdVNJY1g3cWxqMm9RR2k0SDJJcWt4dE81QjMyak9MaEk3QUdFSHhpd2lwV3JUQ3hsOFpaSGYyVDRGc0tiWkJUSWoyOHJvaUxYRFN1UW5CcW5icmZ5bGNzWQ?oc=5\" target=\"_blank\">John Ternus Takes Over as Apple CEO Just as Nvidia Chases the Whole AI Stack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">startupfortune.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3FRa3lpYS1NOXhFeURyaW0tQTNBS3pscWRXalFEUlNCXzJnaU1aZEZ6aGF1cmlCT3RUekdFbjFOTElpUjJqdXBHSGZiQXNVdVNJY1g3cWxqMm9RR2k0SDJJcWt4dE81QjMyak9MaEk3QUdFSHhpd2lwV3JUQ3hsOFpaSGYyVDRGc0tiWkJUSWoyOHJvaUxYRFN1UW5CcW5icmZ5bGNzWQ?oc=5\" target=\"_blank\">John Ternus Takes Over as Apple CEO Just as Nvidia Chases the Whole AI Stack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
       "published": "2026-09-04T21:24:55+00:00",
-      "source": "startupfortune.com"
+      "source": "Startup Fortune"
     },
     {
       "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
