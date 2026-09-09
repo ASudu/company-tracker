@@ -2,114 +2,110 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-09-08T15:39:04.169036+00:00",
+  "fetched_at": "2026-09-09T15:33:13.172136+00:00",
   "news": [
     {
-      "title": "Apple to Make First Big Change to iPhones in Years - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YejZuYkdiMU5IU3RHLTNFWFd1THBiaERrSWk5NS11NW1YcGhJamNDQlIwVjNZN1NZTE9oY1ZKTjZfSFhRa2lyemVnaW9wN0txU2tUMERhLVhRLWtRdjJ6R0FReWd0OEJfRmFfUjNpUEh2Q1o5bUR0Zg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1YejZuYkdiMU5IU3RHLTNFWFd1THBiaERrSWk5NS11NW1YcGhJamNDQlIwVjNZN1NZTE9oY1ZKTjZfSFhRa2lyemVnaW9wN0txU2tUMERhLVhRLWtRdjJ6R0FReWd0OEJfRmFfUjNpUEh2Q1o5bUR0Zg?oc=5\" target=\"_blank\">Apple to Make First Big Change to iPhones in Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-09-08T09:05:12+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Apple’s $2,000-Plus Foldable iPhone Was a Decade in the Making - bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2tYTWRGOS1MWWVSaGFLZVEtNnNzbG9XMFllWlJnM3N0SXpuUVE4V2FCYmtDb0NzMUNPWFRZbTJjeUpCRzBxN0NfUUUxaFZhNUVMSGZMZWhoQUV2TzUxZnJMYnNqV1VPNUpCVDhKd1Q2Z2JtZ2VSUk5aMUtsR1Q3Mk9faUtJR2FqYjh0eWc5MXNIeEFMN200NXVIbi1rcnZUeVJIUTFjX0lSRHVGbzk1ekVR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2tYTWRGOS1MWWVSaGFLZVEtNnNzbG9XMFllWlJnM3N0SXpuUVE4V2FCYmtDb0NzMUNPWFRZbTJjeUpCRzBxN0NfUUUxaFZhNUVMSGZMZWhoQUV2TzUxZnJMYnNqV1VPNUpCVDhKd1Q2Z2JtZ2VSUk5aMUtsR1Q3Mk9faUtJR2FqYjh0eWc5MXNIeEFMN200NXVIbi1rcnZUeVJIUTFjX0lSRHVGbzk1ekVR?oc=5\" target=\"_blank\">Apple’s $2,000-Plus Foldable iPhone Was a Decade in the Making</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomberg.com</font>",
-      "published": "2026-09-08T12:00:00+00:00",
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Huawei and Xiaomi are launching new foldable phones days before Apple's event - qz.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UWndGQlVOVzVSb1lFNlZOczN3bHotTlhNejc0R01zcGZRb0h0NTViZTZ4MXFWOUZaVFVHYlFMQmtmNnZvUVV3d0dvQXp2SE9zMC1TU0V4bkotZ3N1NmlyM2VDTERSVy1mMW5jTk82S1c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1UWndGQlVOVzVSb1lFNlZOczN3bHotTlhNejc0R01zcGZRb0h0NTViZTZ4MXFWOUZaVFVHYlFMQmtmNnZvUVV3d0dvQXp2SE9zMC1TU0V4bkotZ3N1NmlyM2VDTERSVy1mMW5jTk82S1c?oc=5\" target=\"_blank\">Huawei and Xiaomi are launching new foldable phones days before Apple's event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
-      "published": "2026-09-08T14:06:26+00:00",
-      "source": "qz.com"
-    },
-    {
-      "title": "Apple’s New CEO Has a Hardware Event and an AI Problem - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1pzOFFOc29BN0FjMjlzLTZjZWdJYlF2WHlfSUh3N05CbHQzMVNUdUJJSEJzQXZvSTA2UzFGdGxJcWlFVGdyUmtOVGhoZ0F5RGh5Zlo1NDNaY0tDNnVXcTJ3MDZpbWgtdUpqNEowQ2NFV1RUNWQzTXZ6bWFiZVZzRVZDQzFHa21keHpjdjBhSWx6QQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1pzOFFOc29BN0FjMjlzLTZjZWdJYlF2WHlfSUh3N05CbHQzMVNUdUJJSEJzQXZvSTA2UzFGdGxJcWlFVGdyUmtOVGhoZ0F5RGh5Zlo1NDNaY0tDNnVXcTJ3MDZpbWgtdUpqNEowQ2NFV1RUNWQzTXZ6bWFiZVZzRVZDQzFHa21keHpjdjBhSWx6QQ?oc=5\" target=\"_blank\">Apple’s New CEO Has a Hardware Event and an AI Problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaHhBRzNtVkVsRDM3WTc5Qks2enZNRjZHMTBVSWNSRDZSQ1h6bmlwRzgzZGxVVjVERkl3Y21pOERIRXh6VFdySmdOVmtpOEpqcnNySlEwN1VXdnU5d2xGUzRxbkR0TmlSS2s2Nzh5OVZ6UFYwaW43NzVpX3IxbkFVYkVudWwzNmVkdDZEN0NpOE14UTdoVlhoRzF2dGMyV25iZnhwcmFvZUdIUXZYYUdCZ2hIbEE4N0ZvSUJEQVBEaE1EU2dGVHQ3UlZEN1lRZzFSS3FDSlNR?oc=5\" target=\"_blank\">Apple’s new CEO John Ternus expected to debut foldable iPhone at event Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVhfNHd4cUM0THdLLXBORTB6bkVwXzM3NjhlOEZqOFVLbHNOc1V4MFhzTTN3UGpRaXI1cHFZQ1ZINmV1QTd3djV3b2toam82ZEJBTmJOV3hpaHhLdU93RmNnQTZNaEk0RW1PSFRRTnhzM25TUFV3ZTE1bTdKWFExbW5qLUNwSkJUaGQ0cVBScmdhVk1sTUo4OFlLT29oMVRQanJyeVgzT2JMXzg4OWc?oc=5\" target=\"_blank\">Tim Cook and Warren Buffett are showing what former CEOs can do for their companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li></ol>",
-      "published": "2026-09-08T11:53:59+00:00",
-      "source": "PYMNTS.com"
-    },
-    {
-      "title": "Is Apple Stock a Buy Now Ahead of its Product Launch Event? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUlrVzNmUEptY3hNRW92LWFmdGdnRV9Nb3dRbW96QXVDUUdNV001Ujh0REJaU3JqN1g4M09rSHVheTJFempDWU1WeW1sNU5JX2x3bnFLQjhLTnJGTWgzOHhieVp1STNsZ195X25ZeVBYb1ZweHFPcEV4OUEwcDlTZU5SbUtrREZlVVNib29zWTBTN1g3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUlrVzNmUEptY3hNRW92LWFmdGdnRV9Nb3dRbW96QXVDUUdNV001Ujh0REJaU3JqN1g4M09rSHVheTJFempDWU1WeW1sNU5JX2x3bnFLQjhLTnJGTWgzOHhieVp1STNsZ195X25ZeVBYb1ZweHFPcEV4OUEwcDlTZU5SbUtrREZlVVNib29zWTBTN1g3?oc=5\" target=\"_blank\">Is Apple Stock a Buy Now Ahead of its Product Launch Event?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-07T14:00:00+00:00",
+      "title": "Apple event live updates: Foldable iPhone and watches expected - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWlkSHJaVmRIYWFtX2x4TktOWjg2QUhzTk83d3BSQTZEWDVYbjR2MlRRRlJ3ZVd2M3piRzNQaWt6UjNOY3I2dG5RU2hhbkw5cU1UdENqeFFRTTlWNl81QXRyMTJQWlRuTVVkVi1VUDJFUEdlMXJqbi1Ralg2MmsweTEtSDVMQkxkTFRIMlQ1Und1Y2k5dF9qcE5uaTRPVmRIV1Fta2ZWa29rN2lHMEloRkNZaTVQWHZaTHpoemxvQQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWlkSHJaVmRIYWFtX2x4TktOWjg2QUhzTk83d3BSQTZEWDVYbjR2MlRRRlJ3ZVd2M3piRzNQaWt6UjNOY3I2dG5RU2hhbkw5cU1UdENqeFFRTTlWNl81QXRyMTJQWlRuTVVkVi1VUDJFUEdlMXJqbi1Ralg2MmsweTEtSDVMQkxkTFRIMlQ1Und1Y2k5dF9qcE5uaTRPVmRIV1Fta2ZWa29rN2lHMEloRkNZaTVQWHZaTHpoemxvQQ?oc=5\" target=\"_blank\">Apple event live updates: Foldable iPhone and watches expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXN3cHRwTmR1WDhKSnEyaVRqSFcwN25oT2sxQmRSdDBlSm0tMEFHMGkxeUlmRkpDNGhDV0djc0hVTUJlWU9JTnhlVk9IVmNUVmlTb0lfOXJ5ZXFUbC11ME9KdnhhS19UV2VuNDFB?oc=5\" target=\"_blank\">Apple Event 2026 Live: The First Foldable iPhone, iPhone 18 Pro, Apple Watch 12 and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnet.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVBta2VQR2Y5NUZzNXlHNl8zSFRWTGJiNjZKWlprTGNTRUVBYWdQVkVvZXRURXBSTzhuX3UyTHBYWlA0Qml6ZTFMbFRrV05wLUNfNmlPV3FzZnZlX215TjlaeDRaOE5GX2VmeFdVWTF0bHZJN2xSNHh1UjRRbVUyamtBaU5SSDQ0LVNVMw?oc=5\" target=\"_blank\">Apple’s new CEO expected to reveal first foldable iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+      "published": "2026-09-09T14:53:27+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Tech stocks today: Apple kicks off new era Wednesday, Anthropic S1 watch - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZi1fRmdvalgwYnZJdGFmQWUyaFgwT3o2N3Axb3B1OWNuSklvU3lhOHkydWhQUGV4SEh0d3IyYktjRUd0MVhIek5nNFMxTjhHX0JkMXMtNFBvR2JWZXA3Um5LMnp5aE4xR0x0Z21FNzhMSWJLR09qTDYzZVRndUVXbkQxcmQtcndMRnJCRThBX1hodVdscXlBY0lPY1pDXzdIZmd6S09pYlNYNG9rVW1IaXpRcXNqcVZvM3puWm45OS12cjUzV0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNZi1fRmdvalgwYnZJdGFmQWUyaFgwT3o2N3Axb3B1OWNuSklvU3lhOHkydWhQUGV4SEh0d3IyYktjRUd0MVhIek5nNFMxTjhHX0JkMXMtNFBvR2JWZXA3Um5LMnp5aE4xR0x0Z21FNzhMSWJLR09qTDYzZVRndUVXbkQxcmQtcndMRnJCRThBX1hodVdscXlBY0lPY1pDXzdIZmd6S09pYlNYNG9rVW1IaXpRcXNqcVZvM3puWm45OS12cjUzV0E?oc=5\" target=\"_blank\">Tech stocks today: Apple kicks off new era Wednesday, Anthropic S1 watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-08T12:53:43+00:00",
+      "title": "Stock Market Today: Dow Falls Amid Rising Oil Prices; Apple Shares Drop Ahead Of iPhone Event (Live Coverage) - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWll1YmNBNzBtSTVXUlNkRkpCeWV0WXVzejkzdmNqV2Uwd2RmcXJhRkRLdkFJaTZRQWhNdnlsamZFaW9vQWxGbkZFeVhmcU9MaDRJT003UW5HR2hEMmQ5NUR0bHMtc000Mlc5d1dxZzJweUQzSFl6N3hTSy1nY1djbkxBbXh0aEt0eHRKel9KeGwxT29sQnNDY1pmTEhROTUzb0llRjJid2w3NnA2Zl8tRWllOU5zUFJOYm9xN0Zkaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWll1YmNBNzBtSTVXUlNkRkpCeWV0WXVzejkzdmNqV2Uwd2RmcXJhRkRLdkFJaTZRQWhNdnlsamZFaW9vQWxGbkZFeVhmcU9MaDRJT003UW5HR2hEMmQ5NUR0bHMtc000Mlc5d1dxZzJweUQzSFl6N3hTSy1nY1djbkxBbXh0aEt0eHRKel9KeGwxT29sQnNDY1pmTEhROTUzb0llRjJid2w3NnA2Zl8tRWllOU5zUFJOYm9xN0Zkaw?oc=5\" target=\"_blank\">Stock Market Today: Dow Falls Amid Rising Oil Prices; Apple Shares Drop Ahead Of iPhone Event (Live Coverage)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "published": "2026-09-09T12:13:00+00:00",
+      "source": "Investor's Business Daily"
+    },
+    {
+      "title": "How Apple stock usually reacts to big iPhone reveal events - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXhuTmJUZ2JRZlpfVVVBWWMzM1o3OXpDdHN6dEp3Y2Nhb2pPZ21VS1VFeEpNT1dwdHVXM05MVUM3dFZLSUJxdWstcGt0TWV1LVdIQkFCOURneVFyRUI3c2MyMVFaZ3JCMXVWQUJwV212VFNPQU1sLXFISU1Bd0xlakVKaEgxWHJyZW9KNWhrWGI5TW1iTXU2bjN6VDh0TmgwVVNEenRCd2FhdjNHX01IdUhKVzdaMVhzb3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXhuTmJUZ2JRZlpfVVVBWWMzM1o3OXpDdHN6dEp3Y2Nhb2pPZ21VS1VFeEpNT1dwdHVXM05MVUM3dFZLSUJxdWstcGt0TWV1LVdIQkFCOURneVFyRUI3c2MyMVFaZ3JCMXVWQUJwV212VFNPQU1sLXFISU1Bd0xlakVKaEgxWHJyZW9KNWhrWGI5TW1iTXU2bjN6VDh0TmgwVVNEenRCd2FhdjNHX01IdUhKVzdaMVhzb3c?oc=5\" target=\"_blank\">How Apple stock usually reacts to big iPhone reveal events</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-09T09:08:43+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "How Apple's stock is performing ahead of a pivotal product launch - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkdaM0szUFJiYkhteU1ac0JhRE91aTVvUTBpVDhIb3phbDdQRTR0RUdmUUhZeDB2ZUFNN29UM0h5VldUYk1ILUVLMDFlcDQ3YnhlbFpDYVNZTzlvSklCSGxKSmhhcFVMa0pQRUd1S1RmdDFybWltQ3ZFS2k0ZGhIeWtGaTFLa0kzbWx4MTRZdG1tOU50ZDdXZkV0cnJDQ19zamJVZHM5UDN2MGkyYmljSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkdaM0szUFJiYkhteU1ac0JhRE91aTVvUTBpVDhIb3phbDdQRTR0RUdmUUhZeDB2ZUFNN29UM0h5VldUYk1ILUVLMDFlcDQ3YnhlbFpDYVNZTzlvSklCSGxKSmhhcFVMa0pQRUd1S1RmdDFybWltQ3ZFS2k0ZGhIeWtGaTFLa0kzbWx4MTRZdG1tOU50ZDdXZkV0cnJDQ19zamJVZHM5UDN2MGkyYmljSQ?oc=5\" target=\"_blank\">How Apple's stock is performing ahead of a pivotal product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-08T15:07:01+00:00",
-      "source": "Yahoo Finance"
+      "title": "Options Action: Traders bullish on Apple - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVZnUlc3dE4xSlQ0REYxTC1SNTIwYkczWVo5Y1U4OE5qZlVfWXpLeHptNTY2c3cxekpRSzNBYWFwRzQyS215VDM3QjI1eE9Bb0M5V1pqT21zSl9wUkhkX0wwcV9JbXRBWmxBYTFyTlZCSnQ4dno3eXUxMnZqOFZSTTJ4cl9ydnhDQUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVZnUlc3dE4xSlQ0REYxTC1SNTIwYkczWVo5Y1U4OE5qZlVfWXpLeHptNTY2c3cxekpRSzNBYWFwRzQyS215VDM3QjI1eE9Bb0M5V1pqT21zSl9wUkhkX0wwcV9JbXRBWmxBYTFyTlZCSnQ4dno3eXUxMnZqOFZSTTJ4cl9ydnhDQUE?oc=5\" target=\"_blank\">Options Action: Traders bullish on Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-09T15:09:34+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzQXQ4UUNhOWFSeGdBb1RqX0hYNUw4Rk1FMGxVYU9iLUNCTDRDZFhmbDZmUURnM0E3RVBxWjJrQUZQNzlHLUcxU0oyMV9fRE1oZXJBSTJ4MkZ3aFZIMVpZNmVsUUtIZ2hGaGpaUGFHd2toNDg0Z2pkdTZQVHNnUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAzQXQ4UUNhOWFSeGdBb1RqX0hYNUw4Rk1FMGxVYU9iLUNCTDRDZFhmbDZmUURnM0E3RVBxWjJrQUZQNzlHLUcxU0oyMV9fRE1oZXJBSTJ4MkZ3aFZIMVpZNmVsUUtIZ2hGaGpaUGFHd2toNDg0Z2pkdTZQVHNnUQ?oc=5\" target=\"_blank\">Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-09-08T14:41:00+00:00",
-      "source": "CNN"
+      "title": "‘South Park’ is now ‘South America’ in dig at Apple and Google for observing Trump’s Lake Ontario order - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcEV6SlhTcHV0YndvVHlhTDdHcS1DWjl4U3ptdmRZZWoxMGFYSFRfdE9hVTAzMWNaeHNxSXIyYlcweWtJdWlnVGI5alVjaVpJVXB6ZktxUFZXck12UXJ1X19aMW5OV2FkR3lCdC1TNWY5Rjh1WjIxMDF1eldHSmxMMWZsa1hFWmxUS2lHZFNxYllsWlljMXozNFRzUHk2X25fOXo1MzBZR3h4R0JVbE9COURqVXZIcHh0eFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcEV6SlhTcHV0YndvVHlhTDdHcS1DWjl4U3ptdmRZZWoxMGFYSFRfdE9hVTAzMWNaeHNxSXIyYlcweWtJdWlnVGI5alVjaVpJVXB6ZktxUFZXck12UXJ1X19aMW5OV2FkR3lCdC1TNWY5Rjh1WjIxMDF1eldHSmxMMWZsa1hFWmxUS2lHZFNxYllsWlljMXozNFRzUHk2X25fOXo1MzBZR3h4R0JVbE9COURqVXZIcHh0eFE?oc=5\" target=\"_blank\">‘South Park’ is now ‘South America’ in dig at Apple and Google for observing Trump’s Lake Ontario order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+      "published": "2026-09-09T14:51:25+00:00",
+      "source": "NBC News"
+    },
+    {
+      "title": "Last Seen review – this gripping Apple TV thriller is one of the standout shows of the year - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXFBZVJlWldwVldzejYwTEhubGpHb1RXYTBncHAwRTJ5Mm00TUgydURqSUNpeXZmV1N5NjA5S3pJX3RubFFlNU9ZTWJyNWdkWmFGNC03TnZUeU84dDdxM2t2SHhXakRlNTlyeW44VjQwRUJLZGZrM3NuN0JaUVl3LWprSDBuS2JCSkZWbmFkLWhUdlpKMkxTMjFXOEc5Ny1xRzhSM3NDZi1Eek9OYUNRZXlCMEV6WGs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXFBZVJlWldwVldzejYwTEhubGpHb1RXYTBncHAwRTJ5Mm00TUgydURqSUNpeXZmV1N5NjA5S3pJX3RubFFlNU9ZTWJyNWdkWmFGNC03TnZUeU84dDdxM2t2SHhXakRlNTlyeW44VjQwRUJLZGZrM3NuN0JaUVl3LWprSDBuS2JCSkZWbmFkLWhUdlpKMkxTMjFXOEc5Ny1xRzhSM3NDZi1Eek9OYUNRZXlCMEV6WGs?oc=5\" target=\"_blank\">Last Seen review – this gripping Apple TV thriller is one of the standout shows of the year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-09-09T08:07:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "New Apple CEO John Ternus shares mystery teaser video on X as Apple Event looms - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82Ym9LdGhGeExpaHYwYWdLdHFIWmhHOE1lLXFaQkZNX016OEdCMkd1UjZrODdLOUVLSEplTHhTNkNKYjBMczRMSXdWM0pwdTNzSjVDb0NTeUhzNFZPTlQxeGpldGd6YTlEZEY5bmhQZUM4QmNZS3htTzBBMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE82Ym9LdGhGeExpaHYwYWdLdHFIWmhHOE1lLXFaQkZNX016OEdCMkd1UjZrODdLOUVLSEplTHhTNkNKYjBMczRMSXdWM0pwdTNzSjVDb0NTeUhzNFZPTlQxeGpldGd6YTlEZEY5bmhQZUM4QmNZS3htTzBBMA?oc=5\" target=\"_blank\">New Apple CEO John Ternus shares mystery teaser video on X as Apple Event looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-09-09T14:37:39+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWZ3UTJFZDZFaEVyYUJRLTZGRDJNS2ljbnRaYU9jV1hZRFRhUXUzcWFTSzlMaTg1Vy1sMXZzMXhvMXB2a1E1RzA3UXY4NWM0SlV3aXVvWkkwR1dFNV8yUDd1YXBEbmdXektVa3BseWhORVpBRzM4UTlSQ1ZsZjdlWTQyQXJpM2ZpWGNSd1hR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWZ3UTJFZDZFaEVyYUJRLTZGRDJNS2ljbnRaYU9jV1hZRFRhUXUzcWFTSzlMaTg1Vy1sMXZzMXhvMXB2a1E1RzA3UXY4NWM0SlV3aXVvWkkwR1dFNV8yUDd1YXBEbmdXektVa3BseWhORVpBRzM4UTlSQ1ZsZjdlWTQyQXJpM2ZpWGNSd1hR?oc=5\" target=\"_blank\">Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-09-08T16:00:00+00:00",
+      "source": "WIRED"
     }
   ],
   "product_launches": [
     {
-      "title": "What we expect from the upcoming Apple launch - TechCrunch",
+      "title": "Apple to Unveil $2,000 Foldable iPhone Duo at High-Stakes Event - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUNobXZERmdnRHdVQ0xLdWRwYlNQMEJURmxDRUlqLVJWbWR0OEFxejlickp0VVhZUDZYSHY1cHNoRjd5NFpGMnBUUk1VTW1EU2xrSWpLcHBUdjNKWWJmQ0JDa1BGZHhtTVV2Y1Myb3pKRW5uYUlrSlhzYUtyZnVkVFhHLXJ0MzkwdnVXZXN1X1h5MkZRUzlkN01vaXEwOUZnbEd5SE5hZ0tIX2luMTZXdEltZUM5MFB6YnhMWmo3SEFibjN4Y1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUNobXZERmdnRHdVQ0xLdWRwYlNQMEJURmxDRUlqLVJWbWR0OEFxejlickp0VVhZUDZYSHY1cHNoRjd5NFpGMnBUUk1VTW1EU2xrSWpLcHBUdjNKWWJmQ0JDa1BGZHhtTVV2Y1Myb3pKRW5uYUlrSlhzYUtyZnVkVFhHLXJ0MzkwdnVXZXN1X1h5MkZRUzlkN01vaXEwOUZnbEd5SE5hZ0tIX2luMTZXdEltZUM5MFB6YnhMWmo3SEFibjN4Y1E?oc=5\" target=\"_blank\">Apple to Unveil $2,000 Foldable iPhone Duo at High-Stakes Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-09-09T04:00:00+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Apple Launching Seven New Products This Month - macrumors.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWpnZVlpcElablcwOEszaWhVOTAxZHNyUFFEY1NsRVhJSTJiTUcxemZLSk1vSUxKVExKN2RKc0hvendSb1B4SDhfbVdNb0lOMnpaQ3B3MGEyTE5hZ1VYR1dQdTc3aFNUUHc1Vl85M1k2a0o1bjV1Qjk1eWdKZm9tSWFseWNmWUlmN0RV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWpnZVlpcElablcwOEszaWhVOTAxZHNyUFFEY1NsRVhJSTJiTUcxemZLSk1vSUxKVExKN2RKc0hvendSb1B4SDhfbVdNb0lOMnpaQ3B3MGEyTE5hZ1VYR1dQdTc3aFNUUHc1Vl85M1k2a0o1bjV1Qjk1eWdKZm9tSWFseWNmWUlmN0RV?oc=5\" target=\"_blank\">Apple Launching Seven New Products This Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">macrumors.com</font>",
+      "published": "2026-09-09T08:30:00+00:00",
+      "source": "macrumors.com"
+    },
+    {
+      "title": "Apple expected to announce the biggest iPhone update in its history - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0tDWlNLeG1ubFpLUkF2YkNuNzZTVXJEcElndks0UWJmOGFzVmpxbU0yTHo2am82QS01UEVVUndDMTY0U2dIUjdWV21RbER2dEpKQ21UaXY2ZDZSQURHZW56ejVKb01ySk5UaFcxcXNwVW1ZUndJb1czUk5kQ0lpcXg2Q0k2aFQ1MXZRWVZkQmM3OGM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0tDWlNLeG1ubFpLUkF2YkNuNzZTVXJEcElndks0UWJmOGFzVmpxbU0yTHo2am82QS01UEVVUndDMTY0U2dIUjdWV21RbER2dEpKQ21UaXY2ZDZSQURHZW56ejVKb01ySk5UaFcxcXNwVW1ZUndJb1czUk5kQ0lpcXg2Q0k2aFQ1MXZRWVZkQmM3OGM?oc=5\" target=\"_blank\">Apple expected to announce the biggest iPhone update in its history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-09-09T07:05:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Apple expected to unveil folding iPhone as new CEO takes center stage - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUk5X2ZaX1NFamRxNm5mUEowSEZ0dG03cjRLeXBOeGZyMEdNSVhRQ0haWndpTHVXbE1NYlgxQmlHWnNlWkxkak0yLUdHa1dfZkxHdHR5bUhyaFdNWWlDS0E2NW5haVphMWZ3ZFM0bW9ueVBFVjdTbklqNFo1MjgwYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUk5X2ZaX1NFamRxNm5mUEowSEZ0dG03cjRLeXBOeGZyMEdNSVhRQ0haWndpTHVXbE1NYlgxQmlHWnNlWkxkak0yLUdHa1dfZkxHdHR5bUhyaFdNWWlDS0E2NW5haVphMWZ3ZFM0bW9ueVBFVjdTbklqNFo1MjgwYw?oc=5\" target=\"_blank\">Apple expected to unveil folding iPhone as new CEO takes center stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-09-09T14:25:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "What we expect from the upcoming Apple launch - techcrunch.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYldyUGlFOWZhNGxMZmhBdU96S2UwQUJvcEdWd1M3WnY3VU16T0FMLWRqelFHR0xkeVpCcnZ1WlkzWWhIbm45YXBKT3VPWlhyM2NsNHdtcHlyYzJoYThmQU9pWW1kRFNHZm9STktFZWROeTJOUUo0LXBSWTZlTWJNLWgzZVVOOU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYldyUGlFOWZhNGxMZmhBdU96S2UwQUJvcEdWd1M3WnY3VU16T0FMLWRqelFHR0xkeVpCcnZ1WlkzWWhIbm45YXBKT3VPWlhyM2NsNHdtcHlyYzJoYThmQU9pWW1kRFNHZm9STktFZWROeTJOUUo0LXBSWTZlTWJNLWgzZVVOOU0?oc=5\" target=\"_blank\">What we expect from the upcoming Apple launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYldyUGlFOWZhNGxMZmhBdU96S2UwQUJvcEdWd1M3WnY3VU16T0FMLWRqelFHR0xkeVpCcnZ1WlkzWWhIbm45YXBKT3VPWlhyM2NsNHdtcHlyYzJoYThmQU9pWW1kRFNHZm9STktFZWROeTJOUUo0LXBSWTZlTWJNLWgzZVVOOU0?oc=5\" target=\"_blank\">What we expect from the upcoming Apple launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
       "published": "2026-09-07T15:58:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple will launch six major new products next week, here’s what’s coming - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR01KVF8xb2JaZ3JyVUJQRzA2b2Fvci0tcmRGeUhiSl82T2p1VUVWU3l3UjBjUXh5U0RTaksySklTNDV5RkFSR2xaQ0JTX0FPRTNwUVl2akVkLTNSTTBhR1NDR0JBZElqUjV0VHBkUjZEWHhpRFpUNzJtcDNkWFZYUHhnWEIzRkZZNE5WNDZyOVFyLVIzU0d2WDl4ZUpRdFFDeU1Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOR01KVF8xb2JaZ3JyVUJQRzA2b2Fvci0tcmRGeUhiSl82T2p1VUVWU3l3UjBjUXh5U0RTaksySklTNDV5RkFSR2xaQ0JTX0FPRTNwUVl2akVkLTNSTTBhR1NDR0JBZElqUjV0VHBkUjZEWHhpRFpUNzJtcDNkWFZYUHhnWEIzRkZZNE5WNDZyOVFyLVIzU0d2WDl4ZUpRdFFDeU1Z?oc=5\" target=\"_blank\">Apple will launch six major new products next week, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-09-03T14:25:00+00:00",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Chinese tech giants Huawei and Xiaomi launch new foldable smartphones ahead of Apple event - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnYxekRlZ3NmTTFmTXBGVW84RDhHNUVFMTRNUW81eGVsckpoMGFqaS1WdnBwdWVIbEdKeThfNmlqbERsdVhYNHFDdFRFRk4ydEFHaEktTDNJVFkxb29QVTJwUnJMZGRnR2d4cmRmdXlMQVRBeUxrbS1GZTE0NTZtUTVVZjB2VzZwNVNsVUVRLU1qNHdnVWY0TkwxQ0lOaW83OHE4WWh5Rk0yQUNXcUJoekw2Q28yQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnYxekRlZ3NmTTFmTXBGVW84RDhHNUVFMTRNUW81eGVsckpoMGFqaS1WdnBwdWVIbEdKeThfNmlqbERsdVhYNHFDdFRFRk4ydEFHaEktTDNJVFkxb29QVTJwUnJMZGRnR2d4cmRmdXlMQVRBeUxrbS1GZTE0NTZtUTVVZjB2VzZwNVNsVUVRLU1qNHdnVWY0TkwxQ0lOaW83OHE4WWh5Rk0yQUNXcUJoekw2Q28yQQ?oc=5\" target=\"_blank\">Chinese tech giants Huawei and Xiaomi launch new foldable smartphones ahead of Apple event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-09-08T04:48:00+00:00",
-      "source": "NBC News"
-    },
-    {
-      "title": "Apple to Make First Big Change to iPhones in Years - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YejZuYkdiMU5IU3RHLTNFWFd1THBiaERrSWk5NS11NW1YcGhJamNDQlIwVjNZN1NZTE9oY1ZKTjZfSFhRa2lyemVnaW9wN0txU2tUMERhLVhRLWtRdjJ6R0FReWd0OEJfRmFfUjNpUEh2Q1o5bUR0Zg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1YejZuYkdiMU5IU3RHLTNFWFd1THBiaERrSWk5NS11NW1YcGhJamNDQlIwVjNZN1NZTE9oY1ZKTjZfSFhRa2lyemVnaW9wN0txU2tUMERhLVhRLWtRdjJ6R0FReWd0OEJfRmFfUjNpUEh2Q1o5bUR0Zg?oc=5\" target=\"_blank\">Apple to Make First Big Change to iPhones in Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-09-08T09:05:12+00:00",
-      "source": "The New York Times"
-    },
-    {
-      "title": "How Apple's stock is performing ahead of a pivotal product launch - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkdaM0szUFJiYkhteU1ac0JhRE91aTVvUTBpVDhIb3phbDdQRTR0RUdmUUhZeDB2ZUFNN29UM0h5VldUYk1ILUVLMDFlcDQ3YnhlbFpDYVNZTzlvSklCSGxKSmhhcFVMa0pQRUd1S1RmdDFybWltQ3ZFS2k0ZGhIeWtGaTFLa0kzbWx4MTRZdG1tOU50ZDdXZkV0cnJDQ19zamJVZHM5UDN2MGkyYmljSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkdaM0szUFJiYkhteU1ac0JhRE91aTVvUTBpVDhIb3phbDdQRTR0RUdmUUhZeDB2ZUFNN29UM0h5VldUYk1ILUVLMDFlcDQ3YnhlbFpDYVNZTzlvSklCSGxKSmhhcFVMa0pQRUd1S1RmdDFybWltQ3ZFS2k0ZGhIeWtGaTFLa0kzbWx4MTRZdG1tOU50ZDdXZkV0cnJDQ19zamJVZHM5UDN2MGkyYmljSQ?oc=5\" target=\"_blank\">How Apple's stock is performing ahead of a pivotal product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-08T15:07:01+00:00",
-      "source": "Yahoo Finance"
+      "source": "techcrunch.com"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-08",
-      "close": 316.2049865722656
+      "date": "2026-09-09",
+      "close": 312.7250061035156
     },
     "history": [
-      {
-        "date": "2026-08-28",
-        "close": 319.70001220703125
-      },
       {
         "date": "2026-08-31",
         "close": 316.8500061035156
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-09-08",
-        "close": 316.2049865722656
+        "close": 316.2200012207031
+      },
+      {
+        "date": "2026-09-09",
+        "close": 312.7250061035156
       }
     ],
     "name": "Apple Inc."
