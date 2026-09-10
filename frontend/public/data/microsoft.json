@@ -2,21 +2,49 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-09-09T15:33:15.874985+00:00",
+  "fetched_at": "2026-09-10T15:29:03.793762+00:00",
   "news": [
     {
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes - Krebs on Security",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3RfTmNxYVA3bFVTa1d1REp6RVdGcFV3TVNGUi1Va3RnZGl2bWtFbFAzUF8xb0xqSWpJNEhDZFRZZ0tPSzQyaWZLU0RuNGVFeFp3TVZPR2ttNjdSX3A2T0VmRFprTkVFTm1oaGxXSnRDSncwUDVJSGdUWHVEcXQ0TU5GOGU3dw?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3RfTmNxYVA3bFVTa1d1REp6RVdGcFV3TVNGUi1Va3RnZGl2bWtFbFAzUF8xb0xqSWpJNEhDZFRZZ0tPSzQyaWZLU0RuNGVFeFp3TVZPR2ttNjdSX3A2T0VmRFprTkVFTm1oaGxXSnRDSncwUDVJSGdUWHVEcXQ0TU5GOGU3dw?oc=5\" target=\"_blank\">Microsoft Plugs Nearly 1,000 Security Holes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Krebs on Security</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0hSb3BmdHJ0ZlFMdkp6c0Uxb1VJRmdUWXU2WEtBeWM3bUZvS1Jqclp2UVVfZUlRVzFSbHA2Y0FQNWUzaEsyaWdUX1h3QkF0UkFnaXRqTzFHR0FGc0RiVDlFWjByT1VkakQ0UWFwQUlQVVFqTTJmUTMxYVk3U0N2V0xGR1hDLVM2UnFzVldyTGk4VnJxTFNITzRQTHRFYm5oWXVfbG8xTTlvNXAzMjI4OV9oSQ?oc=5\" target=\"_blank\">Microsoft breaks Patch Tuesday record with 974-CVE deluge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01WbnB6cG9HVXMzeS1kQ1FpZVpsU3RxX1FxVkdrNXItQjZIU0pTM05UODgxdlRvbjkxVmdGdUxxNUtuUV9tRG0tbkZyTDdNY2JmV1VrVmxjNVdQR0s4TEhieTY2UVJHR1NLNlctSU90eUhTRWlaMnNNNmx3bjFwbW5fczlFRkhPREQ3azY2c0c0ZWN2UXhpZHZFTHN6MkMzc28zSVQ1RzFiNE9EWVE?oc=5\" target=\"_blank\">Why this month’s Microsoft patch release is a doozy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li></ol>",
-      "published": "2026-09-08T22:07:59+00:00",
-      "source": "Krebs on Security"
+      "title": "Why this month’s Microsoft patch release is a doozy - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01WbnB6cG9HVXMzeS1kQ1FpZVpsU3RxX1FxVkdrNXItQjZIU0pTM05UODgxdlRvbjkxVmdGdUxxNUtuUV9tRG0tbkZyTDdNY2JmV1VrVmxjNVdQR0s4TEhieTY2UVJHR1NLNlctSU90eUhTRWlaMnNNNmx3bjFwbW5fczlFRkhPREQ3azY2c0c0ZWN2UXhpZHZFTHN6MkMzc28zSVQ1RzFiNE9EWVE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01WbnB6cG9HVXMzeS1kQ1FpZVpsU3RxX1FxVkdrNXItQjZIU0pTM05UODgxdlRvbjkxVmdGdUxxNUtuUV9tRG0tbkZyTDdNY2JmV1VrVmxjNVdQR0s4TEhieTY2UVJHR1NLNlctSU90eUhTRWlaMnNNNmx3bjFwbW5fczlFRkhPREQ3azY2c0c0ZWN2UXhpZHZFTHN6MkMzc28zSVQ1RzFiNE9EWVE?oc=5\" target=\"_blank\">Why this month’s Microsoft patch release is a doozy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV0pLRGk3akdlNDVYaEJZQUZYLUdaM08zX2ZLRk55ZXVTTW8yRGVYbk9OOFZMLW13V3l6U2tIZ2h2ZWxJYVpKQ1VCYzF2ZVBfZWw4TXBXX0NNMlF1cXRLbGIwV3FRTFExdTVmcXd1N2V4RGpTQU5ZamFkZDI5SURMdDNCZ29Nb2JaQS1LdFozRXNRNE0yQzJWWlFFVnFpLUg5aEdLdXBCQnRmS2QyYkxxYnM3QnFidFVqTjVpSA?oc=5\" target=\"_blank\">Serial Microsoft 0-day hunter drops yet another Defender exploit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnNwYk90QkF2cGZqY1NQaTB1M29RWmU1UEVtOHRyTGFwT2NBSHE3MGVZbkxYN0FaaXV3TDRKRjdFemhQMXF3eXM4cEp5Wm1YOV8xTm9BS0k0REFvdDA3ZS02NUx2eXRWakdTc3pQRXY5WmozQU1uZWpJNVN1cXZ1V0JLMjZvT3JDUXpreWR5UFkwNC1xa2xRT3Bxa2thanhlVmxCMEJkaHBvbDI2VFIzVw?oc=5\" target=\"_blank\">Microsoft fixes record 964 flaws, including 2 exploited zero-days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Malwarebytes</font></li></ol>",
+      "published": "2026-09-08T21:11:46+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Microsoft, AFT unveil AI safety and privacy standard for schools - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTR0QmdnNTFJbGRFaERkTlA4MDZHZ1Y1ZGZ1UFVoZHhrbVRVZFl5RC1DRWx0VzNXUzRLT2RSaFlMZUYzRlEydlhKNnBDR0NGVVNoZmQ5eDlPNloyMnFXQ3Q3ZGlJZTQ2UXlQSGQ1TjMzZDE0cHVoWERMaldvQTFjTWc4UzDSAYoBQVVfeXFMTjEtZlhXYW1vYUZFQ0g0dm51dW5BU2lRal9ZZ1FTWEVLN0U2aVliWmduOTBjaEo0NVVKejVsNURPcEg1eG84V25TSmJ1TE5OdnQ1OGxfdTM0UWhtcXU0OHp1ZXZGOE1tUXhNX2o0THFlN2pjdWpJYXJhcEdseGFhWEFsNVdTNENrbzFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTR0QmdnNTFJbGRFaERkTlA4MDZHZ1Y1ZGZ1UFVoZHhrbVRVZFl5RC1DRWx0VzNXUzRLT2RSaFlMZUYzRlEydlhKNnBDR0NGVVNoZmQ5eDlPNloyMnFXQ3Q3ZGlJZTQ2UXlQSGQ1TjMzZDE0cHVoWERMaldvQTFjTWc4UzDSAYoBQVVfeXFMTjEtZlhXYW1vYUZFQ0g0dm51dW5BU2lRal9ZZ1FTWEVLN0U2aVliWmduOTBjaEo0NVVKejVsNURPcEg1eG84V25TSmJ1TE5OdnQ1OGxfdTM0UWhtcXU0OHp1ZXZGOE1tUXhNX2o0THFlN2pjdWpJYXJhcEdseGFhWEFsNVdTNENrbzFR?oc=5\" target=\"_blank\">Microsoft, AFT unveil AI safety and privacy standard for schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+      "published": "2026-09-09T14:22:00+00:00",
+      "source": "The Hill"
     },
     {
       "title": "Teachers union reaches AI privacy deal with Microsoft - Politico",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamtHVVdxTjU3T2hDNUx1TUFZa056NnBxdllvMG1aM3dDLTRlN3lrd1g0YWNidHhXWnJvU01WT0ZEblJOYk9vM0M4cXZMNmtqTUhxMjAyVXB5LUhscnF0RF9vbkVpeUZ6bTA1VGszWk5RSW5YdWlVTl9iLXlJT2xmc3Fpaw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNamtHVVdxTjU3T2hDNUx1TUFZa056NnBxdllvMG1aM3dDLTRlN3lrd1g0YWNidHhXWnJvU01WT0ZEblJOYk9vM0M4cXZMNmtqTUhxMjAyVXB5LUhscnF0RF9vbkVpeUZ6bTA1VGszWk5RSW5YdWlVTl9iLXlJT2xmc3Fpaw?oc=5\" target=\"_blank\">Teachers union reaches AI privacy deal with Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
-      "published": "2026-09-09T14:00:00+00:00",
+      "published": "2026-09-09T20:00:00+00:00",
       "source": "Politico"
+    },
+    {
+      "title": "Microsoft Comes Out With AI Education Guides - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFpKYmdoWTBnZHFlbEpKLUgwQkt3NVZ2cjYtS2ZSRDI3UFN0MWZyZXl0cE40SElYaXhTS200ZGkyeHZRclBkM3dfVGhaUWN3WWhTTVdsRk8zdkV2OVNoc01vVHlySUI2RmFqeF9nVGp0N0dZay1PRk9oNXdYX3lyLVNmR1FLb0VqVVhrOVJqSll5eF9PcS04RjVWY2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFpKYmdoWTBnZHFlbEpKLUgwQkt3NVZ2cjYtS2ZSRDI3UFN0MWZyZXl0cE40SElYaXhTS200ZGkyeHZRclBkM3dfVGhaUWN3WWhTTVdsRk8zdkV2OVNoc01vVHlySUI2RmFqeF9nVGp0N0dZay1PRk9oNXdYX3lyLVNmR1FLb0VqVVhrOVJqSll5eF9PcS04RjVWY2c?oc=5\" target=\"_blank\">Microsoft Comes Out With AI Education Guides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-09-10T14:54:35+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Talkdesk and Microsoft expand partnership to accelerate AI automation for enterprise contact centers - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnUtTE9VV0JiUWxCZUtSdFozWHdMczdGRjlFQjZjczFqd1NtSzYyMFhjWC1XSlMxc1BKWDBfS0E3NFdLSU9fZWVNb1pGbXduR05Ec2JOQUVJMGxUZHNYZUtMYVhDS2xneU5zYU92bWFwd2lTNWpTUHBrQi1tSlZvVzBRSjI2NXBiR2cwQkhTVVRfcTBLNFpZS2Naek5nOFBKd2g2ekdxclNHcnZwTVlMR2pR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnUtTE9VV0JiUWxCZUtSdFozWHdMczdGRjlFQjZjczFqd1NtSzYyMFhjWC1XSlMxc1BKWDBfS0E3NFdLSU9fZWVNb1pGbXduR05Ec2JOQUVJMGxUZHNYZUtMYVhDS2xneU5zYU92bWFwd2lTNWpTUHBrQi1tSlZvVzBRSjI2NXBiR2cwQkhTVVRfcTBLNFpZS2Naek5nOFBKd2g2ekdxclNHcnZwTVlMR2pR?oc=5\" target=\"_blank\">Talkdesk and Microsoft expand partnership to accelerate AI automation for enterprise contact centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-10T15:15:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Almost 1,900 Blizzard workers ratify first union contract with Microsoft - gamesindustry.biz",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmVkOHY2RmVKelE3NW04cUxFUEpMNGlHTUxyR3ZzMnNXTFBiTXNKTy1qdzRYWWtZU0tIVU9QVWQ1YVhRRWdXa2ZzeXZfSS1LTlc1SkJYMEd2cEpwekw1RktNamZONDFjZjlGazYyYjZoYU43cUVCeGZjYWpleHprXzB0ckNTQkJiNWtPRXdmbVFGNEZ5VElPbWk3cXFDSVpQZEEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmVkOHY2RmVKelE3NW04cUxFUEpMNGlHTUxyR3ZzMnNXTFBiTXNKTy1qdzRYWWtZU0tIVU9QVWQ1YVhRRWdXa2ZzeXZfSS1LTlc1SkJYMEd2cEpwekw1RktNamZONDFjZjlGazYyYjZoYU43cUVCeGZjYWpleHprXzB0ckNTQkJiNWtPRXdmbVFGNEZ5VElPbWk3cXFDSVpQZEEw?oc=5\" target=\"_blank\">Almost 1,900 Blizzard workers ratify first union contract with Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gamesindustry.biz</font>",
+      "published": "2026-09-09T20:14:39+00:00",
+      "source": "gamesindustry.biz"
     },
     {
       "title": "How Six AWS Engineers Rebuilt Bedrock to Challenge Microsoft - The Information",
@@ -26,39 +54,11 @@
       "source": "The Information"
     },
     {
-      "title": "AFT, UFT and Microsoft set major AI-in-schools announcement amid NYC classroom restrictions - ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU00ydHFnbnhrNFpRdl9kcVZydWNobGV0SUcyYzhna3psT1lwRzA0YkZwWTc5dmtZcnNtb3NKLWIyaFVnc1B0Tm94TTlNaFgzZUU4VE5FdDJlRkRpc0hmRHB2VFN2M3I4clFHX3E0MklLSkxJNUNCUDBHaWU0dGdNaTdmQkNJMmJoOVFKUHg4eWEtVEFkSm9IMzV4c2FvWWlhNnZXSFo4Mndaei1mRDlYZ2JpOXRxZ2NZ0gG-AUFVX3lxTE1mdVJuUnpVWkVwV1NiZjVubWxxazlZcjNQd1VWaUpVbkQ5MFZTc1FYQmUtMTdobFZ3TEdod19OeFlzTXdmdnRnQnR2dFgweU1mZHBzMXZCdUhkRHdEUjFCbS1NLWEzR1AtYmdYM2EtZEdlcU8wZV9OZnRPQ0VXQ1JaTTF0dVg2MXBVRFBYMGZMSTZucDdVZHZfNkV6YzYxREpfT2toTThhOC1faDJXdDd6SWlJWXBoMXdxd0pCdWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU00ydHFnbnhrNFpRdl9kcVZydWNobGV0SUcyYzhna3psT1lwRzA0YkZwWTc5dmtZcnNtb3NKLWIyaFVnc1B0Tm94TTlNaFgzZUU4VE5FdDJlRkRpc0hmRHB2VFN2M3I4clFHX3E0MklLSkxJNUNCUDBHaWU0dGdNaTdmQkNJMmJoOVFKUHg4eWEtVEFkSm9IMzV4c2FvWWlhNnZXSFo4Mndaei1mRDlYZ2JpOXRxZ2NZ0gG-AUFVX3lxTE1mdVJuUnpVWkVwV1NiZjVubWxxazlZcjNQd1VWaUpVbkQ5MFZTc1FYQmUtMTdobFZ3TEdod19OeFlzTXdmdnRnQnR2dFgweU1mZHBzMXZCdUhkRHdEUjFCbS1NLWEzR1AtYmdYM2EtZEdlcU8wZV9OZnRPQ0VXQ1JaTTF0dVg2MXBVRFBYMGZMSTZucDdVZHZfNkV6YzYxREpfT2toTThhOC1faDJXdDd6SWlJWXBoMXdxd0pCdWc?oc=5\" target=\"_blank\">AFT, UFT and Microsoft set major AI-in-schools announcement amid NYC classroom restrictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 New York</font>",
-      "published": "2026-09-09T09:51:21+00:00",
-      "source": "ABC7 New York"
-    },
-    {
-      "title": "Why Stifel Just Revamped Its Price Target for Microsoft Stock - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUxBQ196c3NhMk9rZ3k3SnhOdG5rU1hTVFdxMGVSSDZwaVBzWlRjc082ZHBSMXVCX3ZUR0RNUnZEQ0h2QmQwM0JuN1VqRWJTRUw3eVVacTNnWjRXOHRXVHRVTXN3WEZVSmNBWklVTGxrMnB1Z25VY3FIMTlfZ1pUTzVOMjlHNGJjSHloQmFaa1NxbHBkQTduNTd2a0dVYXU2U1YwVkpYVGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUxBQ196c3NhMk9rZ3k3SnhOdG5rU1hTVFdxMGVSSDZwaVBzWlRjc082ZHBSMXVCX3ZUR0RNUnZEQ0h2QmQwM0JuN1VqRWJTRUw3eVVacTNnWjRXOHRXVHRVTXN3WEZVSmNBWklVTGxrMnB1Z25VY3FIMTlfZ1pUTzVOMjlHNGJjSHloQmFaa1NxbHBkQTduNTd2a0dVYXU2U1YwVkpYVGc?oc=5\" target=\"_blank\">Why Stifel Just Revamped Its Price Target for Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
-      "published": "2026-09-08T17:30:55+00:00",
-      "source": "Barchart.com"
-    },
-    {
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMndGeWg0RWU2eU1QSFU5a19sTUFvZ1FDakJFd0lkWVhkOVM2OU1xSHY3QTMyQk9jY3dtVmdaUHhtNENOUnRacFA3bnR6ME95LWV2cGZVc1JjLVg5Nm1XeERlQmRNbm9CNGtOY1pGejBkQVh1bnJPYUx3V3BKS0RfWmVMX0M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMndGeWg0RWU2eU1QSFU5a19sTUFvZ1FDakJFd0lkWVhkOVM2OU1xSHY3QTMyQk9jY3dtVmdaUHhtNENOUnRacFA3bnR6ME95LWV2cGZVc1JjLVg5Nm1XeERlQmRNbm9CNGtOY1pGejBkQVh1bnJPYUx3V3BKS0RfWmVMX0M?oc=5\" target=\"_blank\">Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
-      "published": "2026-09-09T06:47:00+00:00",
-      "source": "The Hacker News"
-    },
-    {
-      "title": "Tech Moves: T-Mobile appoints CFO; Microsoft and Blue Origin VPs depart; AZX and Caddi name leaders - geekwire.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHNrWWNCRUpFbW1DUmc0U2p0SVVqM093Vk01QnkzQWRLaUc3V3NQekMtTFRPUk5maFVkZ1ZGeWZCWmxnZ0Jlakd1SmNROGlkdTU4MEtGcGZ6ZGNORmZJV043VmhManpGTWRKb3BRSURqTkFFazZEZEhoTlRMYWcxaTladXlBOXJna25wR1hIb294RVRkZjFPS21BbHA5RkxhVWdkdHpaYXpnU0szQlV6V0syWXhaeEdBQU9DdHBIQlQxZG5OcWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORHNrWWNCRUpFbW1DUmc0U2p0SVVqM093Vk01QnkzQWRLaUc3V3NQekMtTFRPUk5maFVkZ1ZGeWZCWmxnZ0Jlakd1SmNROGlkdTU4MEtGcGZ6ZGNORmZJV043VmhManpGTWRKb3BRSURqTkFFazZEZEhoTlRMYWcxaTladXlBOXJna25wR1hIb294RVRkZjFPS21BbHA5RkxhVWdkdHpaYXpnU0szQlV6V0syWXhaeEdBQU9DdHBIQlQxZG5OcWc?oc=5\" target=\"_blank\">Tech Moves: T-Mobile appoints CFO; Microsoft and Blue Origin VPs depart; AZX and Caddi name leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">geekwire.com</font>",
-      "published": "2026-09-08T21:58:33+00:00",
-      "source": "geekwire.com"
-    },
-    {
-      "title": "Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWRWdjE2RXpjeXNGY0xueEdzWXR2dUE5eWRoRXB2MEJLc3Nnak5FdGVXenJjQUlhWnlSSnd6RUdWM0RDZ2dyMlR3cXBLdTV1S1FfTkZXazlibFZpeWRyRzdWeURjMk95SWUtVk0xSEZqS2RNcXNELVA3cGtRN2VtT3EtOTktd0g3bkU2R2VOaHpnZGRIcXpFMDRvX1Z1S3VjQlhZUDlR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWRWdjE2RXpjeXNGY0xueEdzWXR2dUE5eWRoRXB2MEJLc3Nnak5FdGVXenJjQUlhWnlSSnd6RUdWM0RDZ2dyMlR3cXBLdTV1S1FfTkZXazlibFZpeWRyRzdWeURjMk95SWUtVk0xSEZqS2RNcXNELVA3cGtRN2VtT3EtOTktd0g3bkU2R2VOaHpnZGRIcXpFMDRvX1Z1S3VjQlhZUDlR?oc=5\" target=\"_blank\">Microsoft Had a 3-Year Head Start on AI. macOS Golden Gate Just Destroyed It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-09-09T14:00:17+00:00",
-      "source": "PCMag"
+      "title": "Apple announces iPhone Duo, and my inner Surface Duo fan is mad (and excited) about it - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeko5eVFUc093UzU3T0w5b3JfNUI5Ym05eUJtdldKaXp4dHhOazhnZzJUaUlkdW5XYlQ0Z2ozRS1EV1pHaHNUZ0xBZm1iaDI5RE1YejUwcHRTSk1oNks5S0liTm4xcUwtb0I1SGNqcEEyYkRsbmxIaXdzVXJobXlCc2V0aGR1NHZjb1o5N1p4YU9kVGFvTXJpRVVTUy1OSC1iRzF2RnFIR2NqZVY3c1RJU1JpMWxyRW1WMDRwMlhDWG90akRzUVpBd1JHcFo1ZXI2VjgyNk1GZFFsNjNHTGhVU2JzcXJsUFJIcENrSjhQZHQySkRDWWVmZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeko5eVFUc093UzU3T0w5b3JfNUI5Ym05eUJtdldKaXp4dHhOazhnZzJUaUlkdW5XYlQ0Z2ozRS1EV1pHaHNUZ0xBZm1iaDI5RE1YejUwcHRTSk1oNks5S0liTm4xcUwtb0I1SGNqcEEyYkRsbmxIaXdzVXJobXlCc2V0aGR1NHZjb1o5N1p4YU9kVGFvTXJpRVVTUy1OSC1iRzF2RnFIR2NqZVY3c1RJU1JpMWxyRW1WMDRwMlhDWG90akRzUVpBd1JHcFo1ZXI2VjgyNk1GZFFsNjNHTGhVU2JzcXJsUFJIcENrSjhQZHQySkRDWWVmZA?oc=5\" target=\"_blank\">Apple announces iPhone Duo, and my inner Surface Duo fan is mad (and excited) about it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-09-09T18:55:43+00:00",
+      "source": "Windows Central"
     }
   ],
   "product_launches": [
@@ -70,11 +70,11 @@
       "source": "microsoft.com"
     },
     {
-      "title": "Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not - geekwire.com",
+      "title": "Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not - GeekWire",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUlyZGRlbk55M202Y3BRQ0hqc2FmbHFLd052Y1F3ZTh0Yk4zZEd5NE5fZXg5NWdSNVZKYmRtVFJOZFVwNm5RLThLU0xhMDluN2RhZG44a2dWX2ZxdzFYSUJMb1VPLTlWcVpoSHNITVM0UldGb3pFVlVJalBKRW5PNXFnWXdBeWRNS1h2RUdyZUppamtJZUJFZXpVVlozLVVkdkJ3eXNYY2h3UVpkQkVOSy1TZU8tRlFlT0xnb3Q0OXNVSzkxRk4wLUpkYmE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUlyZGRlbk55M202Y3BRQ0hqc2FmbHFLd052Y1F3ZTh0Yk4zZEd5NE5fZXg5NWdSNVZKYmRtVFJOZFVwNm5RLThLU0xhMDluN2RhZG44a2dWX2ZxdzFYSUJMb1VPLTlWcVpoSHNITVM0UldGb3pFVlVJalBKRW5PNXFnWXdBeWRNS1h2RUdyZUppamtJZUJFZXpVVlozLVVkdkJ3eXNYY2h3UVpkQkVOSy1TZU8tRlFlT0xnb3Q0OXNVSzkxRk4wLUpkYmE?oc=5\" target=\"_blank\">Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">geekwire.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUlyZGRlbk55M202Y3BRQ0hqc2FmbHFLd052Y1F3ZTh0Yk4zZEd5NE5fZXg5NWdSNVZKYmRtVFJOZFVwNm5RLThLU0xhMDluN2RhZG44a2dWX2ZxdzFYSUJMb1VPLTlWcVpoSHNITVM0UldGb3pFVlVJalBKRW5PNXFnWXdBeWRNS1h2RUdyZUppamtJZUJFZXpVVlozLVVkdkJ3eXNYY2h3UVpkQkVOSy1TZU8tRlFlT0xnb3Q0OXNVSzkxRk4wLUpkYmE?oc=5\" target=\"_blank\">Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
       "published": "2026-08-20T07:00:00+00:00",
-      "source": "geekwire.com"
+      "source": "GeekWire"
     },
     {
       "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
@@ -102,14 +102,10 @@
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-09",
-      "close": 491.9949951171875
+      "date": "2026-09-10",
+      "close": 492.3599853515625
     },
     "history": [
-      {
-        "date": "2026-08-31",
-        "close": 507.2900085449219
-      },
       {
         "date": "2026-09-01",
         "close": 501.0199890136719
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-09-09",
-        "close": 491.9949951171875
+        "close": 491.6499938964844
+      },
+      {
+        "date": "2026-09-10",
+        "close": 492.3599853515625
       }
     ],
     "name": "Microsoft Corporation"
