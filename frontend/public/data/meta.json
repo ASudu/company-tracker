@@ -2,114 +2,17 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-09-10T15:29:10.957502+00:00",
-  "news": [
-    {
-      "title": "Exclusive / AI researcher Andrew Tulloch is leaving Meta - Semafor",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3VqOTQwQ2s2V1NlOW05dldHRVdaMDFjMi14QlJmbHZjTXpZU045cG8yNGQwSTlqUXdKT0VrR2xGWGk3V0dYSTFNTlUzT05ieUNwbFY3Yms2YjZHVTlUZ2p6OW9WYzNzakFzTDBsdWtkWEluRnpxV1kzM2lXMHhxS2dfLXhteVNyMFljS20wWXk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3VqOTQwQ2s2V1NlOW05dldHRVdaMDFjMi14QlJmbHZjTXpZU045cG8yNGQwSTlqUXdKT0VrR2xGWGk3V0dYSTFNTlUzT05ieUNwbFY3Yms2YjZHVTlUZ2p6OW9WYzNzakFzTDBsdWtkWEluRnpxV1kzM2lXMHhxS2dfLXhteVNyMFljS20wWXk?oc=5\" target=\"_blank\">Exclusive / AI researcher Andrew Tulloch is leaving Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
-      "published": "2026-09-09T21:29:00+00:00",
-      "source": "Semafor"
-    },
-    {
-      "title": "Star AI Researcher Is Leaving Meta for Anthropic - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMWpEemtXMER4MTJWdnl0V0tUQlh1VUpFc0dRdFBZWFM2SUk2NzEzdUstaXV5dmhkbXljWHNlMjdsUFhDNUF2MlJUSlhiUVVjQlprZ0RBOVFLUENfZnU4NTF3MWdldFgxa3M4ZkNmXzIzRC03M0xVNkhVVQ?oc=5\" target=\"_blank\">Star AI Researcher Is Leaving Meta for Anthropic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-09-10T13:34:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Meta loses its $1.5 billion AI recruit less than a year after hiring him - calcalistech.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VNkUwb3dOdTFDenhXbHNLYW5NZF8ybTlCZUhLMU9jRjR2MlZfWEc1dm5ZY1IxTzhWOXBibVV5bEhLakpsWVYyN2NGaVdJYWRmMXdpdUN1SnMwYW5VaTdUa20yY1FielE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VNkUwb3dOdTFDenhXbHNLYW5NZF8ybTlCZUhLMU9jRjR2MlZfWEc1dm5ZY1IxTzhWOXBibVV5bEhLakpsWVYyN2NGaVdJYWRmMXdpdUN1SnMwYW5VaTdUa20yY1FielE?oc=5\" target=\"_blank\">Meta loses its $1.5 billion AI recruit less than a year after hiring him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>",
-      "published": "2026-09-10T06:46:00+00:00",
-      "source": "calcalistech.com"
-    },
-    {
-      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5\" target=\"_blank\">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1JcTliN0FfcE5jSldzcHI2bjRtWDBfU09ORzZ0VGctbzV4TzRGUEJqZnk1aFpzX1JhRm9GWVRzeHJKc3U1VWduZlhZbXV0d3hHWnZSVTBhR3dUN05LSDllZmVlZWZINFVKekY5eHliZU1CZHM?oc=5\" target=\"_blank\">Meta’s New AI Agent Can Shop For You</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5\" target=\"_blank\">Sure, Meta’s AI Muse works, but it sure creeps me out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li></ol>",
-      "published": "2026-09-08T19:00:51+00:00",
-      "source": "meta.com"
-    },
-    {
-      "title": "Meta Platforms Agreed to Pay Up to $18 Billion and Set Some Limits for Younger Users. Is the Stock a Buy? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORURvbEdaNVdHTW0wZmV5bjhfeUpmZGpuNlhsanI5MlU1andKS0psUGJZOWw3Q1Z4N2owRDhFNUJRYzJ1ejhhck5mT29FYVoxSmtLUlI4YlRIQW5ndHN5MTBfU3FZZ2Z6bXM3VnNUNmo2TC1VWmEzbGY2emNvdHl1RTlIYVg3U3JhZ0pRVVlveUxMRm9nYmhvZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORURvbEdaNVdHTW0wZmV5bjhfeUpmZGpuNlhsanI5MlU1andKS0psUGJZOWw3Q1Z4N2owRDhFNUJRYzJ1ejhhck5mT29FYVoxSmtLUlI4YlRIQW5ndHN5MTBfU3FZZ2Z6bXM3VnNUNmo2TC1VWmEzbGY2emNvdHl1RTlIYVg3U3JhZ0pRVVlveUxMRm9nYmhvZg?oc=5\" target=\"_blank\">Meta Platforms Agreed to Pay Up to $18 Billion and Set Some Limits for Younger Users. Is the Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-10T14:30:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Macy's, Meta, Apple, Novartis and more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMXdtY0RVZVNyRDV4c3FZbVh3ZW5UMUdCNDZ4cHoxeWpkdDJFNjFhSlNGSWxmeDZaZmlvcG1MbFRMamJPdlI3VDZwWG9URUVvMHFWREhhWTZQMTdnZWlGUEZVWllCbnpwVXUwMGk4ZG5GWDNpQkdfQnJjdEhJUXZWTnZoeHJQUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQMXdtY0RVZVNyRDV4c3FZbVh3ZW5UMUdCNDZ4cHoxeWpkdDJFNjFhSlNGSWxmeDZaZmlvcG1MbFRMamJPdlI3VDZwWG9URUVvMHFWREhhWTZQMTdnZWlGUEZVWllCbnpwVXUwMGk4ZG5GWDNpQkdfQnJjdEhJUXZWTnZoeHJQUQ?oc=5\" target=\"_blank\">Stocks making the biggest moves premarket: Macy's, Meta, Apple, Novartis and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-10T11:38:06+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta hires Lauren Zimmerman to lead community engagement for El Paso data center project - KFOX",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSkwxem9RU2EzY2FuVTBnUmphTGIxWDZwSmZvMWpDUVdDeWxPU2praGFaMWFNVjI2QXlNblN4aHBqZ2dWR192WVZtUHRoY3RJS0tUQ204RFA3MVluNkZqV1JZY0NzNWZSeWw5ZXRsYTJjeVQtdFhWcGRqWm03bFp0VWxQbEdNdW15T0N4dWx1cTVlc05ITFVRdFRxcC1uOGNIcDFVbU5XMTdTdDdY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQSkwxem9RU2EzY2FuVTBnUmphTGIxWDZwSmZvMWpDUVdDeWxPU2praGFaMWFNVjI2QXlNblN4aHBqZ2dWR192WVZtUHRoY3RJS0tUQ204RFA3MVluNkZqV1JZY0NzNWZSeWw5ZXRsYTJjeVQtdFhWcGRqWm03bFp0VWxQbEdNdW15T0N4dWx1cTVlc05ITFVRdFRxcC1uOGNIcDFVbU5XMTdTdDdY?oc=5\" target=\"_blank\">Meta hires Lauren Zimmerman to lead community engagement for El Paso data center project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFOX</font>",
-      "published": "2026-09-10T02:51:46+00:00",
-      "source": "KFOX"
-    },
-    {
-      "title": "Scoop: Meta acquires Swedish AI startup Stilla.ai - Axios",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5\" target=\"_blank\">Scoop: Meta acquires Swedish AI startup Stilla.ai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-09-10T08:10:02+00:00",
-      "source": "Axios"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5\" target=\"_blank\">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
-      "published": "2026-09-08T19:00:51+00:00",
-      "source": "meta.com"
-    },
-    {
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5\" target=\"_blank\">Meta launches AI agent that can access other apps to send emails, make payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-08T21:29:41+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5\" target=\"_blank\">Meta Launches a Personal AI Agent Designed to Be Easy to Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-09-08T19:00:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Longtime Rock Band Forced to Change Social Media Handles so Meta Can Launch Identically-Named AI - vice.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm42RFlFZk5sdXRsckVaYVVzTjZQdlV5cmhwUXFZOW5td2VzSlNIdldNaDRVdUI3Mmk3UVFIOHVYelZSRFpmdXVwODJ0eFJlWkI1MDJLR29OdUI2bzFoczNmS0VmelFpSmVBMmI1azRJLU93c1ZhTzZLMVhZRWw3ODhLM01VZi1lT2JNSFY0TlRaRG5hOUJqWWpHLXlzWEtjSlJESnBYdkp3OVU3bktrdWhYZmk3ZGt2T2VjSHhYUWl4SDN2S0Q2cQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm42RFlFZk5sdXRsckVaYVVzTjZQdlV5cmhwUXFZOW5td2VzSlNIdldNaDRVdUI3Mmk3UVFIOHVYelZSRFpmdXVwODJ0eFJlWkI1MDJLR29OdUI2bzFoczNmS0VmelFpSmVBMmI1azRJLU93c1ZhTzZLMVhZRWw3ODhLM01VZi1lT2JNSFY0TlRaRG5hOUJqWWpHLXlzWEtjSlJESnBYdkp3OVU3bktrdWhYZmk3ZGt2T2VjSHhYUWl4SDN2S0Q2cQ?oc=5\" target=\"_blank\">Longtime Rock Band Forced to Change Social Media Handles so Meta Can Launch Identically-Named AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vice.com</font>",
-      "published": "2026-09-09T19:25:32+00:00",
-      "source": "vice.com"
-    },
-    {
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5\" target=\"_blank\">Meta settlement could clear the way for new AI product launches, Morgan Stanley says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-02T09:19:25+00:00",
-      "source": "CNBC"
-    }
-  ],
+  "fetched_at": "2026-09-11T15:32:19.679791+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-10",
-      "close": 652.27001953125
+      "date": "2026-09-11",
+      "close": 652.7949829101562
     },
     "history": [
-      {
-        "date": "2026-09-01",
-        "close": 578.5399780273438
-      },
       {
         "date": "2026-09-02",
         "close": 592.8499755859375
@@ -132,7 +35,11 @@
       },
       {
         "date": "2026-09-10",
-        "close": 652.27001953125
+        "close": 644.3800048828125
+      },
+      {
+        "date": "2026-09-11",
+        "close": 652.7949829101562
       }
     ],
     "name": "Meta Platforms, Inc."

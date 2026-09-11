@@ -2,114 +2,17 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-09-10T15:29:03.793762+00:00",
-  "news": [
-    {
-      "title": "Why this month’s Microsoft patch release is a doozy - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01WbnB6cG9HVXMzeS1kQ1FpZVpsU3RxX1FxVkdrNXItQjZIU0pTM05UODgxdlRvbjkxVmdGdUxxNUtuUV9tRG0tbkZyTDdNY2JmV1VrVmxjNVdQR0s4TEhieTY2UVJHR1NLNlctSU90eUhTRWlaMnNNNmx3bjFwbW5fczlFRkhPREQ3azY2c0c0ZWN2UXhpZHZFTHN6MkMzc28zSVQ1RzFiNE9EWVE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01WbnB6cG9HVXMzeS1kQ1FpZVpsU3RxX1FxVkdrNXItQjZIU0pTM05UODgxdlRvbjkxVmdGdUxxNUtuUV9tRG0tbkZyTDdNY2JmV1VrVmxjNVdQR0s4TEhieTY2UVJHR1NLNlctSU90eUhTRWlaMnNNNmx3bjFwbW5fczlFRkhPREQ3azY2c0c0ZWN2UXhpZHZFTHN6MkMzc28zSVQ1RzFiNE9EWVE?oc=5\" target=\"_blank\">Why this month’s Microsoft patch release is a doozy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV0pLRGk3akdlNDVYaEJZQUZYLUdaM08zX2ZLRk55ZXVTTW8yRGVYbk9OOFZMLW13V3l6U2tIZ2h2ZWxJYVpKQ1VCYzF2ZVBfZWw4TXBXX0NNMlF1cXRLbGIwV3FRTFExdTVmcXd1N2V4RGpTQU5ZamFkZDI5SURMdDNCZ29Nb2JaQS1LdFozRXNRNE0yQzJWWlFFVnFpLUg5aEdLdXBCQnRmS2QyYkxxYnM3QnFidFVqTjVpSA?oc=5\" target=\"_blank\">Serial Microsoft 0-day hunter drops yet another Defender exploit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnNwYk90QkF2cGZqY1NQaTB1M29RWmU1UEVtOHRyTGFwT2NBSHE3MGVZbkxYN0FaaXV3TDRKRjdFemhQMXF3eXM4cEp5Wm1YOV8xTm9BS0k0REFvdDA3ZS02NUx2eXRWakdTc3pQRXY5WmozQU1uZWpJNVN1cXZ1V0JLMjZvT3JDUXpreWR5UFkwNC1xa2xRT3Bxa2thanhlVmxCMEJkaHBvbDI2VFIzVw?oc=5\" target=\"_blank\">Microsoft fixes record 964 flaws, including 2 exploited zero-days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Malwarebytes</font></li></ol>",
-      "published": "2026-09-08T21:11:46+00:00",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Microsoft, AFT unveil AI safety and privacy standard for schools - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTR0QmdnNTFJbGRFaERkTlA4MDZHZ1Y1ZGZ1UFVoZHhrbVRVZFl5RC1DRWx0VzNXUzRLT2RSaFlMZUYzRlEydlhKNnBDR0NGVVNoZmQ5eDlPNloyMnFXQ3Q3ZGlJZTQ2UXlQSGQ1TjMzZDE0cHVoWERMaldvQTFjTWc4UzDSAYoBQVVfeXFMTjEtZlhXYW1vYUZFQ0g0dm51dW5BU2lRal9ZZ1FTWEVLN0U2aVliWmduOTBjaEo0NVVKejVsNURPcEg1eG84V25TSmJ1TE5OdnQ1OGxfdTM0UWhtcXU0OHp1ZXZGOE1tUXhNX2o0THFlN2pjdWpJYXJhcEdseGFhWEFsNVdTNENrbzFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTR0QmdnNTFJbGRFaERkTlA4MDZHZ1Y1ZGZ1UFVoZHhrbVRVZFl5RC1DRWx0VzNXUzRLT2RSaFlMZUYzRlEydlhKNnBDR0NGVVNoZmQ5eDlPNloyMnFXQ3Q3ZGlJZTQ2UXlQSGQ1TjMzZDE0cHVoWERMaldvQTFjTWc4UzDSAYoBQVVfeXFMTjEtZlhXYW1vYUZFQ0g0dm51dW5BU2lRal9ZZ1FTWEVLN0U2aVliWmduOTBjaEo0NVVKejVsNURPcEg1eG84V25TSmJ1TE5OdnQ1OGxfdTM0UWhtcXU0OHp1ZXZGOE1tUXhNX2o0THFlN2pjdWpJYXJhcEdseGFhWEFsNVdTNENrbzFR?oc=5\" target=\"_blank\">Microsoft, AFT unveil AI safety and privacy standard for schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-      "published": "2026-09-09T14:22:00+00:00",
-      "source": "The Hill"
-    },
-    {
-      "title": "Teachers union reaches AI privacy deal with Microsoft - Politico",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamtHVVdxTjU3T2hDNUx1TUFZa056NnBxdllvMG1aM3dDLTRlN3lrd1g0YWNidHhXWnJvU01WT0ZEblJOYk9vM0M4cXZMNmtqTUhxMjAyVXB5LUhscnF0RF9vbkVpeUZ6bTA1VGszWk5RSW5YdWlVTl9iLXlJT2xmc3Fpaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNamtHVVdxTjU3T2hDNUx1TUFZa056NnBxdllvMG1aM3dDLTRlN3lrd1g0YWNidHhXWnJvU01WT0ZEblJOYk9vM0M4cXZMNmtqTUhxMjAyVXB5LUhscnF0RF9vbkVpeUZ6bTA1VGszWk5RSW5YdWlVTl9iLXlJT2xmc3Fpaw?oc=5\" target=\"_blank\">Teachers union reaches AI privacy deal with Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
-      "published": "2026-09-09T20:00:00+00:00",
-      "source": "Politico"
-    },
-    {
-      "title": "Microsoft Comes Out With AI Education Guides - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFpKYmdoWTBnZHFlbEpKLUgwQkt3NVZ2cjYtS2ZSRDI3UFN0MWZyZXl0cE40SElYaXhTS200ZGkyeHZRclBkM3dfVGhaUWN3WWhTTVdsRk8zdkV2OVNoc01vVHlySUI2RmFqeF9nVGp0N0dZay1PRk9oNXdYX3lyLVNmR1FLb0VqVVhrOVJqSll5eF9PcS04RjVWY2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFpKYmdoWTBnZHFlbEpKLUgwQkt3NVZ2cjYtS2ZSRDI3UFN0MWZyZXl0cE40SElYaXhTS200ZGkyeHZRclBkM3dfVGhaUWN3WWhTTVdsRk8zdkV2OVNoc01vVHlySUI2RmFqeF9nVGp0N0dZay1PRk9oNXdYX3lyLVNmR1FLb0VqVVhrOVJqSll5eF9PcS04RjVWY2c?oc=5\" target=\"_blank\">Microsoft Comes Out With AI Education Guides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-09-10T14:54:35+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Talkdesk and Microsoft expand partnership to accelerate AI automation for enterprise contact centers - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnUtTE9VV0JiUWxCZUtSdFozWHdMczdGRjlFQjZjczFqd1NtSzYyMFhjWC1XSlMxc1BKWDBfS0E3NFdLSU9fZWVNb1pGbXduR05Ec2JOQUVJMGxUZHNYZUtMYVhDS2xneU5zYU92bWFwd2lTNWpTUHBrQi1tSlZvVzBRSjI2NXBiR2cwQkhTVVRfcTBLNFpZS2Naek5nOFBKd2g2ekdxclNHcnZwTVlMR2pR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnUtTE9VV0JiUWxCZUtSdFozWHdMczdGRjlFQjZjczFqd1NtSzYyMFhjWC1XSlMxc1BKWDBfS0E3NFdLSU9fZWVNb1pGbXduR05Ec2JOQUVJMGxUZHNYZUtMYVhDS2xneU5zYU92bWFwd2lTNWpTUHBrQi1tSlZvVzBRSjI2NXBiR2cwQkhTVVRfcTBLNFpZS2Naek5nOFBKd2g2ekdxclNHcnZwTVlMR2pR?oc=5\" target=\"_blank\">Talkdesk and Microsoft expand partnership to accelerate AI automation for enterprise contact centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-10T15:15:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Almost 1,900 Blizzard workers ratify first union contract with Microsoft - gamesindustry.biz",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmVkOHY2RmVKelE3NW04cUxFUEpMNGlHTUxyR3ZzMnNXTFBiTXNKTy1qdzRYWWtZU0tIVU9QVWQ1YVhRRWdXa2ZzeXZfSS1LTlc1SkJYMEd2cEpwekw1RktNamZONDFjZjlGazYyYjZoYU43cUVCeGZjYWpleHprXzB0ckNTQkJiNWtPRXdmbVFGNEZ5VElPbWk3cXFDSVpQZEEw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmVkOHY2RmVKelE3NW04cUxFUEpMNGlHTUxyR3ZzMnNXTFBiTXNKTy1qdzRYWWtZU0tIVU9QVWQ1YVhRRWdXa2ZzeXZfSS1LTlc1SkJYMEd2cEpwekw1RktNamZONDFjZjlGazYyYjZoYU43cUVCeGZjYWpleHprXzB0ckNTQkJiNWtPRXdmbVFGNEZ5VElPbWk3cXFDSVpQZEEw?oc=5\" target=\"_blank\">Almost 1,900 Blizzard workers ratify first union contract with Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gamesindustry.biz</font>",
-      "published": "2026-09-09T20:14:39+00:00",
-      "source": "gamesindustry.biz"
-    },
-    {
-      "title": "How Six AWS Engineers Rebuilt Bedrock to Challenge Microsoft - The Information",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkhLWmE5WEdqaTlPQ0ljbGU3SHU3S3ZYTmRuRzNPYTZFVnpBN1pmUjZtQk9meTVNdWFFYmd0RFFfYU1hZW9nSW5CZWN6dEZDdEpNUUppako1QXhQejBWbktEX0tTX0FFSDVCWHpFaFFJcHJUSElrWGhWeFhPTS1oT3hBQ2dTRzFuc0VNUkdIbGRneTZaaTZYVA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVkhLWmE5WEdqaTlPQ0ljbGU3SHU3S3ZYTmRuRzNPYTZFVnpBN1pmUjZtQk9meTVNdWFFYmd0RFFfYU1hZW9nSW5CZWN6dEZDdEpNUUppako1QXhQejBWbktEX0tTX0FFSDVCWHpFaFFJcHJUSElrWGhWeFhPTS1oT3hBQ2dTRzFuc0VNUkdIbGRneTZaaTZYVA?oc=5\" target=\"_blank\">How Six AWS Engineers Rebuilt Bedrock to Challenge Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-09-08T13:00:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Apple announces iPhone Duo, and my inner Surface Duo fan is mad (and excited) about it - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeko5eVFUc093UzU3T0w5b3JfNUI5Ym05eUJtdldKaXp4dHhOazhnZzJUaUlkdW5XYlQ0Z2ozRS1EV1pHaHNUZ0xBZm1iaDI5RE1YejUwcHRTSk1oNks5S0liTm4xcUwtb0I1SGNqcEEyYkRsbmxIaXdzVXJobXlCc2V0aGR1NHZjb1o5N1p4YU9kVGFvTXJpRVVTUy1OSC1iRzF2RnFIR2NqZVY3c1RJU1JpMWxyRW1WMDRwMlhDWG90akRzUVpBd1JHcFo1ZXI2VjgyNk1GZFFsNjNHTGhVU2JzcXJsUFJIcENrSjhQZHQySkRDWWVmZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeko5eVFUc093UzU3T0w5b3JfNUI5Ym05eUJtdldKaXp4dHhOazhnZzJUaUlkdW5XYlQ0Z2ozRS1EV1pHaHNUZ0xBZm1iaDI5RE1YejUwcHRTSk1oNks5S0liTm4xcUwtb0I1SGNqcEEyYkRsbmxIaXdzVXJobXlCc2V0aGR1NHZjb1o5N1p4YU9kVGFvTXJpRVVTUy1OSC1iRzF2RnFIR2NqZVY3c1RJU1JpMWxyRW1WMDRwMlhDWG90akRzUVpBd1JHcFo1ZXI2VjgyNk1GZFFsNjNHTGhVU2JzcXJsUFJIcENrSjhQZHQySkRDWWVmZA?oc=5\" target=\"_blank\">Apple announces iPhone Duo, and my inner Surface Duo fan is mad (and excited) about it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
-      "published": "2026-09-09T18:55:43+00:00",
-      "source": "Windows Central"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Copilot Cowork: A new way of getting work done - microsoft.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUdPSDNNWGxwRkphZHEzdFBfVEZFZHVKN0t2aFhONzFrZXdqR3BhcHlUbzh6eFhER0x6REtzemdQNDBtSHFwakJkZzZxNnpNN1ZDRzU1Nnp5YzltRjd5MXAzNmI4UEpOY1d5WnNuTWlYNUtybko4ZXF3Rk82c1FYYzBHU29wN3FZclJ5YXI4Qlo3MENwb19kVEhlX3ZDck1ncE5qRG02NnQ1bFoz?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">microsoft.com</font>",
-      "published": "2026-03-09T07:00:00+00:00",
-      "source": "microsoft.com"
-    },
-    {
-      "title": "Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUlyZGRlbk55M202Y3BRQ0hqc2FmbHFLd052Y1F3ZTh0Yk4zZEd5NE5fZXg5NWdSNVZKYmRtVFJOZFVwNm5RLThLU0xhMDluN2RhZG44a2dWX2ZxdzFYSUJMb1VPLTlWcVpoSHNITVM0UldGb3pFVlVJalBKRW5PNXFnWXdBeWRNS1h2RUdyZUppamtJZUJFZXpVVlozLVVkdkJ3eXNYY2h3UVpkQkVOSy1TZU8tRlFlT0xnb3Q0OXNVSzkxRk4wLUpkYmE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUlyZGRlbk55M202Y3BRQ0hqc2FmbHFLd052Y1F3ZTh0Yk4zZEd5NE5fZXg5NWdSNVZKYmRtVFJOZFVwNm5RLThLU0xhMDluN2RhZG44a2dWX2ZxdzFYSUJMb1VPLTlWcVpoSHNITVM0UldGb3pFVlVJalBKRW5PNXFnWXdBeWRNS1h2RUdyZUppamtJZUJFZXpVVlozLVVkdkJ3eXNYY2h3UVpkQkVOSy1TZU8tRlFlT0xnb3Q0OXNVSzkxRk4wLUpkYmE?oc=5\" target=\"_blank\">Former Microsoft product manager launches bid to end clock change in Washington state, Congress or not</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-08-20T07:00:00+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
-      "published": "2026-05-19T07:00:00+00:00",
-      "source": "Windows Blog"
-    },
-    {
-      "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
-      "published": "2026-06-15T07:00:00+00:00",
-      "source": "Search Engine Journal"
-    },
-    {
-      "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjRnbkRTcG5rNk9TWlB3RkFNSS1qZW9jYkxwZ0ZZTkNqLTNyc3NvY2lveGxmWHRldHd1ejZVZkNxYnI2MHdtSDl2MUlkSzZ0dF94dHhaUFVqSEVva29fUUM3c3VoRzN1LTM0Tnk5MzQ5Wm1td1d0ZHRGZnhrSEZldUZVUFNmUm5xQzA4X2otbk5iMFlCQXlB?oc=5\" target=\"_blank\">Microsoft Launches Its Own Legal Agent For Word</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artificial Lawyer</font>",
-      "published": "2026-04-30T07:00:00+00:00",
-      "source": "Artificial Lawyer"
-    }
-  ],
+  "fetched_at": "2026-09-11T15:31:32.176906+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-10",
-      "close": 492.3599853515625
+      "date": "2026-09-11",
+      "close": 496.6099853515625
     },
     "history": [
-      {
-        "date": "2026-09-01",
-        "close": 501.0199890136719
-      },
       {
         "date": "2026-09-02",
         "close": 496.82000732421875
@@ -132,7 +35,11 @@
       },
       {
         "date": "2026-09-10",
-        "close": 492.3599853515625
+        "close": 492.44000244140625
+      },
+      {
+        "date": "2026-09-11",
+        "close": 496.6099853515625
       }
     ],
     "name": "Microsoft Corporation"

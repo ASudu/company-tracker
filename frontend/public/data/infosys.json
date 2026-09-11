@@ -2,114 +2,17 @@
   "name": "Infosys",
   "slug": "infosys",
   "ticker": "INFY",
-  "fetched_at": "2026-09-10T15:29:31.858345+00:00",
-  "news": [
-    {
-      "title": "Infosys Ltd. ADR outperforms competitors despite losses on the day - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPamVVbFJtVHVnUWd6bnh3SnptSzRLRXdQWkJkdldmWHdrNEQ2UjVrdTBVdC1mc0NOMTE0YkhuSnBmVk5wZFA2UWRwVHF1c0dfallmQWVtTHZKN1B4V0g1RnE1NmZlWThsU0Mta0dGODFXdXFQLWd5VUNEZWlmLVN2ZktydG5DR09HZnU2dDhSV25ROVpMUHlxcmNTam56UWkxWTFPU0tfMzd0NVF5ZTJNVTFvbHNWTHllTFd1dEFicjFPSmVDMWs0Y3QxMWdXVTZjaXZka3pLRkduRzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPamVVbFJtVHVnUWd6bnh3SnptSzRLRXdQWkJkdldmWHdrNEQ2UjVrdTBVdC1mc0NOMTE0YkhuSnBmVk5wZFA2UWRwVHF1c0dfallmQWVtTHZKN1B4V0g1RnE1NmZlWThsU0Mta0dGODFXdXFQLWd5VUNEZWlmLVN2ZktydG5DR09HZnU2dDhSV25ROVpMUHlxcmNTam56UWkxWTFPU0tfMzd0NVF5ZTJNVTFvbHNWTHllTFd1dEFicjFPSmVDMWs0Y3QxMWdXVTZjaXZka3pLRkduRzQ?oc=5\" target=\"_blank\">Infosys Ltd. ADR outperforms competitors despite losses on the day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
-      "published": "2026-09-09T21:24:00+00:00",
-      "source": "MarketWatch"
-    },
-    {
-      "title": "Infosys and CrowdStrike partner on AI risks through Project QuiltWorks - MSSP Alert",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHE5Z3JKYmdoMTBtdERVczdock5Tc3dveUNVOVdlTlhDNk43Tzd5cExvUE11RFVfX01mVmV3WUVTVkZLYVk0MDBYTExnR0lzWmdsdFk4UGtWeFVlYUlROEtNUzZxT0NYS0xQd2NaNG8wZGpQZVdNZmI4Vmd0RVNZWFdjdUFBWkN3bGtOR0RrbUwwM2VaT0s2bFFsckozT01oRjdzY2JkZ3dtaUc0NG9yQzRRX053RmtTTi1qUGdR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHE5Z3JKYmdoMTBtdERVczdock5Tc3dveUNVOVdlTlhDNk43Tzd5cExvUE11RFVfX01mVmV3WUVTVkZLYVk0MDBYTExnR0lzWmdsdFk4UGtWeFVlYUlROEtNUzZxT0NYS0xQd2NaNG8wZGpQZVdNZmI4Vmd0RVNZWFdjdUFBWkN3bGtOR0RrbUwwM2VaT0s2bFFsckozT01oRjdzY2JkZ3dtaUc0NG9yQzRRX053RmtTTi1qUGdR?oc=5\" target=\"_blank\">Infosys and CrowdStrike partner on AI risks through Project QuiltWorks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSSP Alert</font>",
-      "published": "2026-09-07T15:09:24+00:00",
-      "source": "MSSP Alert"
-    },
-    {
-      "title": "Infosys EVP on AI Adoption and OpenAI Collaboration - AI Magazine",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83Zkd4Qmp6dFBPT3V5YVBUSmV1V2N0UFNIb1RQdWxxNHNKbFlycmlfU3Z0UXVyOTZydS1iVy01UFpVODRfS1dTQ2RLUWJlQWEzWlV6eFpFZHJuU2czQndSalJDM0JtOXA3clJPYzU0SkctaUJpVWFBcVhibWxxZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE83Zkd4Qmp6dFBPT3V5YVBUSmV1V2N0UFNIb1RQdWxxNHNKbFlycmlfU3Z0UXVyOTZydS1iVy01UFpVODRfS1dTQ2RLUWJlQWEzWlV6eFpFZHJuU2czQndSalJDM0JtOXA3clJPYzU0SkctaUJpVWFBcVhibWxxZw?oc=5\" target=\"_blank\">Infosys EVP on AI Adoption and OpenAI Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Magazine</font>",
-      "published": "2026-09-08T10:47:07+00:00",
-      "source": "AI Magazine"
-    },
-    {
-      "title": "Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWlBdTdaeU4yQlVmcUtBc3VFRzB4X240VkRqaTIxSGsyS0xDYlduSm1ZakVOQzJub0NuSU9MNEJwbXMxMUlHcTlfdkV0TzVpSmxGbjdGN3R6VlBBdC1OaE1ycnU3QjhwYmlPVjkwWWNvZ3NzTkZNSmNvaDJ4SkwzN3lxZTUyZlhXblhZSjhRM253TW9tOTdYQU1hQ1VmQV9RTmpiektrbUliNlpheGfSAbYBQVVfeXFMUGZXM0sxaFVHRTVIUVlETEpaUG9qTXdMY0R1Q2RfRGtielVGMVItTUdhYnNydTY0TjFDdDF1MDY1SlRtbFlZX2ZzUDN1cTFrYnUyeGZVUVV0eXgxYWRmMXViS3lSMG5ycEtITlZYLUtPZG03U3pfWGxHTFVWUmtyVzRXTVZuclhGa0hmYTFPRlA4RDBnZUhGTEwwVFJFMHJMb19nNmJRc2QxQl91VUR5b2N3RnRFbEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWlBdTdaeU4yQlVmcUtBc3VFRzB4X240VkRqaTIxSGsyS0xDYlduSm1ZakVOQzJub0NuSU9MNEJwbXMxMUlHcTlfdkV0TzVpSmxGbjdGN3R6VlBBdC1OaE1ycnU3QjhwYmlPVjkwWWNvZ3NzTkZNSmNvaDJ4SkwzN3lxZTUyZlhXblhZSjhRM253TW9tOTdYQU1hQ1VmQV9RTmpiektrbUliNlpheGfSAbYBQVVfeXFMUGZXM0sxaFVHRTVIUVlETEpaUG9qTXdMY0R1Q2RfRGtielVGMVItTUdhYnNydTY0TjFDdDF1MDY1SlRtbFlZX2ZzUDN1cTFrYnUyeGZVUVV0eXgxYWRmMXViS3lSMG5ycEtITlZYLUtPZG03U3pfWGxHTFVWUmtyVzRXTVZuclhGa0hmYTFPRlA4RDBnZUhGTEwwVFJFMHJMb19nNmJRc2QxQl91VUR5b2N3RnRFbEE?oc=5\" target=\"_blank\">Infosys Public Services CEO Lax Gopisetty Missing After Nepal Floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-      "published": "2026-08-29T07:00:00+00:00",
-      "source": "NDTV"
-    },
-    {
-      "title": "Nandan Nilekani, Infosys co-founder, named in SIR's ‘no-mapping’ category - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcTg0TkFtZTI4ckZTdzIwUmNyRndHZ1lyay1MTXIxRUdXUHZySkdQbVJCQnlUbFJzeDZZXy1TN3A3MEhOWlJvNUVhdWdNTDYyWEk2bGNSc2J3RnVBZkxMeEZpOTlJM2tSaDFXcVZUcnJGV18xOGJLS3JPa2lNTWxxRWt5aVo0UGpZWDFxVXFwN19wd3lqYUg1dlpnMEFJVGpDd1NfZ09jSFd3RzNDQVhaamNEWjNtSk9jeHV5aUc1YkVUQlh2MHBjdDJnc0VVc25uMGZ0YlVfZERqSE9LWUlKdkhOelA5eUhXSmpPd2dB0gHzAUFVX3lxTFBxdXpIWHJOVVFubERkc3JqV3VyTjlLZy11aDZRQXFabnNPMkp1SUxuZzR6eWpQVWpBVHo4Ukt0eUZCOUYtSm9yV0tvY3JsT2FBanl2dEhrbVJ6Z081NUhIMlV4Zk9TUFk3dnJ3WnpOZjF6QWtDQzRaU2FjYU5xVHlkVlBJdERRMDRiNHRmcW5Cc29OZzhXSURORDVhQTRJSXk2Ni1KRGFJNTA0clZ0U1ZQTVBUYUw5TkgxQXJJeVJZRWdUUzNpZEtfSFAzdGh2bWhIVGx5SVdjZ2VkX3oyZDVfU2lOc0x5RUhpTGJzZzAteV93aw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcTg0TkFtZTI4ckZTdzIwUmNyRndHZ1lyay1MTXIxRUdXUHZySkdQbVJCQnlUbFJzeDZZXy1TN3A3MEhOWlJvNUVhdWdNTDYyWEk2bGNSc2J3RnVBZkxMeEZpOTlJM2tSaDFXcVZUcnJGV18xOGJLS3JPa2lNTWxxRWt5aVo0UGpZWDFxVXFwN19wd3lqYUg1dlpnMEFJVGpDd1NfZ09jSFd3RzNDQVhaamNEWjNtSk9jeHV5aUc1YkVUQlh2MHBjdDJnc0VVc25uMGZ0YlVfZERqSE9LWUlKdkhOelA5eUhXSmpPd2dB0gHzAUFVX3lxTFBxdXpIWHJOVVFubERkc3JqV3VyTjlLZy11aDZRQXFabnNPMkp1SUxuZzR6eWpQVWpBVHo4Ukt0eUZCOUYtSm9yV0tvY3JsT2FBanl2dEhrbVJ6Z081NUhIMlV4Zk9TUFk3dnJ3WnpOZjF6QWtDQzRaU2FjYU5xVHlkVlBJdERRMDRiNHRmcW5Cc29OZzhXSURORDVhQTRJSXk2Ni1KRGFJNTA0clZ0U1ZQTVBUYUw5TkgxQXJJeVJZRWdUUzNpZEtfSFAzdGh2bWhIVGx5SVdjZ2VkX3oyZDVfU2lOc0x5RUhpTGJzZzAteV93aw?oc=5\" target=\"_blank\">Nandan Nilekani, Infosys co-founder, named in SIR's ‘no-mapping’ category</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">economictimes.com</font>",
-      "published": "2026-09-10T04:11:28+00:00",
-      "source": "economictimes.com"
-    },
-    {
-      "title": "Infosys Slides as Cautious Analyst Views Add to Growth Concerns - Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFSSy1vcFV6NVJxSThTNkJBSlJPY0ZyU3lzSm1JMk1ESGVYQzNEVXdaQ0JWQ0MtSWNJWnRLVzc2RlBNcHRUN052VUM5cWNWcDlzYjhKNWdaenNvWjRwS2FRazdzN0lvdl91anhRaWhBcjB4WXhkWjI4SHNKOXJFTmtZVHZibXA4c25VRkhNZ2xQMTF2azBVSlN4RlA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFSSy1vcFV6NVJxSThTNkJBSlJPY0ZyU3lzSm1JMk1ESGVYQzNEVXdaQ0JWQ0MtSWNJWnRLVzc2RlBNcHRUN052VUM5cWNWcDlzYjhKNWdaenNvWjRwS2FRazdzN0lvdl91anhRaWhBcjB4WXhkWjI4SHNKOXJFTmtZVHZibXA4c25VRkhNZ2xQMTF2azBVSlN4RlA?oc=5\" target=\"_blank\">Infosys Slides as Cautious Analyst Views Add to Growth Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-      "published": "2026-09-04T21:20:00+00:00",
-      "source": "Quiver Quantitative"
-    },
-    {
-      "title": "Infosys' AI Deflation To Continue, Says JPMorgan; Flags Rising Competition — Check Target Price - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSzVEZWx2dkNfZEUwcjFuUFItSm1XU05hYTNoTm9KT0MxNUItTWlmN2ZUR1JqWTRUYXJfaFg2RnRQZEczUlVnZWdBRVRqUkJoLXYtcFA4bmg4Rnh6Tmw3RGZTUmdxYzA2Yk9TMUxOSDBIT0FzSXVNdWV6MXo5QXhoZldydU5uLXhuOWN5Y2VQSFRmb2JlTFBNQzB4Z1VKbjRlb1NlaHFfZWRnNjNYQUFlaE1uQXNwU2dNRkNjN2Q4OUJDWnY2NlVoRENCcTRKYVXSAdcBQVVfeXFMTThCbUNnY0Q2cnJQblhfdndLOFEyd0NsdndsUU5TS0pNZ2pLQ3VqMXE5ZGloVTFxaUZId3dSYU0yQnRQVkdTanVrVWpoOTE0M0lZWlJzU1hObXdhb3pHcTFMTGZTdkNZOWd5X0ZXdEpiWWFMVm9JMjEyVVA3ZEhVNDZjczYyR29Jdy1CR1NJa3Nnc2FOYjd4VlZLckJ1YzYxNDlHX2x1cUV2Z1VOOGFnTjZ6UElwelA0MmNJc0xHRndYcnZReGhLLTZKV0lYRmRRaUk5VGNYdmM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOSzVEZWx2dkNfZEUwcjFuUFItSm1XU05hYTNoTm9KT0MxNUItTWlmN2ZUR1JqWTRUYXJfaFg2RnRQZEczUlVnZWdBRVRqUkJoLXYtcFA4bmg4Rnh6Tmw3RGZTUmdxYzA2Yk9TMUxOSDBIT0FzSXVNdWV6MXo5QXhoZldydU5uLXhuOWN5Y2VQSFRmb2JlTFBNQzB4Z1VKbjRlb1NlaHFfZWRnNjNYQUFlaE1uQXNwU2dNRkNjN2Q4OUJDWnY2NlVoRENCcTRKYVXSAdcBQVVfeXFMTThCbUNnY0Q2cnJQblhfdndLOFEyd0NsdndsUU5TS0pNZ2pLQ3VqMXE5ZGloVTFxaUZId3dSYU0yQnRQVkdTanVrVWpoOTE0M0lZWlJzU1hObXdhb3pHcTFMTGZTdkNZOWd5X0ZXdEpiWWFMVm9JMjEyVVA3ZEhVNDZjczYyR29Jdy1CR1NJa3Nnc2FOYjd4VlZLckJ1YzYxNDlHX2x1cUV2Z1VOOGFnTjZ6UElwelA0MmNJc0xHRndYcnZReGhLLTZKV0lYRmRRaUk5VGNYdmM?oc=5\" target=\"_blank\">Infosys' AI Deflation To Continue, Says JPMorgan; Flags Rising Competition — Check Target Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
-      "published": "2026-09-09T05:03:20+00:00",
-      "source": "NDTV Profit"
-    },
-    {
-      "title": "Infosys Collaborates with Knorr-Bremse to Accelerate AI-Enabled Enterprise Transformation - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaHRCTVJQUk8tMzFFMmc2ZHpFa0swT0RkdS1DUU01WWxYM3RWQjhXMGZfNGxKYUstdWlFTzBrZjNnWGZfUV9HVmhBR2Y1TzJxZDVsMFdmX19jVTAyd19qWEkwd01wbnVkbFZyS2FGT1NVZnd6Vnh4d2pzTkpmeG50SC1ZdlZfT2VXdVU4YmVRUDdXcUZ6NzZaZE1tVjQ1bmk4dTFISUZNMk5NWnRPd191QXpuZ1I1aGo3UHVOcVNWdGEyTnFFQ0hfSUl3NlI0NUFKZk93UzVUMUozZTRnVlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaHRCTVJQUk8tMzFFMmc2ZHpFa0swT0RkdS1DUU01WWxYM3RWQjhXMGZfNGxKYUstdWlFTzBrZjNnWGZfUV9HVmhBR2Y1TzJxZDVsMFdmX19jVTAyd19qWEkwd01wbnVkbFZyS2FGT1NVZnd6Vnh4d2pzTkpmeG50SC1ZdlZfT2VXdVU4YmVRUDdXcUZ6NzZaZE1tVjQ1bmk4dTFISUZNMk5NWnRPd191QXpuZ1I1aGo3UHVOcVNWdGEyTnFFQ0hfSUl3NlI0NUFKZk93UzVUMUozZTRnVlE?oc=5\" target=\"_blank\">Infosys Collaborates with Knorr-Bremse to Accelerate AI-Enabled Enterprise Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "published": "2026-08-18T07:00:00+00:00",
-      "source": "PR Newswire"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position | Corporate - EQS News",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOckw5V0tOeXQ0bmdhVkYxNHlIdkxJNEpGSG5PSXlGLVBDbnJzSGtlRDNmT1B2OTJQYXFNQ0NOdzRsUGtDbXE0NDBfRUJXRnd6cmlEV2tMVGloZVRVTmJkbkhIMWZBZkZjaEZoc1B3U01fdy1Yd09Idm9yY2U5MG03VDE5QUF6N2ZLTmtPMGtmWGRPLWotNDVuYV9sR2JsQ2p4S3FMRDV5bEVrTkkwcVNyV0toNVk4ZW9Fd3hKN1RTQVo0MlJMMEtQYWlwYU9GYnZWZlh2bjdELUdyWEVnUXgxOWEyQ0xnU1ZJeTRCVzZpV1daZzhUdkdlYTVVRWsyb0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOckw5V0tOeXQ0bmdhVkYxNHlIdkxJNEpGSG5PSXlGLVBDbnJzSGtlRDNmT1B2OTJQYXFNQ0NOdzRsUGtDbXE0NDBfRUJXRnd6cmlEV2tMVGloZVRVTmJkbkhIMWZBZkZjaEZoc1B3U01fdy1Yd09Idm9yY2U5MG03VDE5QUF6N2ZLTmtPMGtmWGRPLWotNDVuYV9sR2JsQ2p4S3FMRDV5bEVrTkkwcVNyV0toNVk4ZW9Fd3hKN1RTQVo0MlJMMEtQYWlwYU9GYnZWZlh2bjdELUdyWEVnUXgxOWEyQ0xnU1ZJeTRCVzZpV1daZzhUdkdlYTVVRWsyb0U?oc=5\" target=\"_blank\">Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position | Corporate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EQS News</font>",
-      "published": "2026-03-20T07:00:00+00:00",
-      "source": "EQS News"
-    },
-    {
-      "title": "Infosys Launches AI-First GCC Model to Transform Global Capability Centers into Innovation Hubs - The Fast Mode",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbkZJVmJXZVprSGhqUHRtTTFxMS1qNlEzdEo5RTl6NXIxMHdrdWV2NzZKS1Zjeng0a1FoVXVmSFZoTjduNGVvcGFkSzR5YlZEYTZjcWdzamFraEIxa0J0T3FLX3JOUXhmcF92bGdQeGNDZzVYNFB5LWZaMG9RMjJEUTY2WmxtdHNiZHdsNXVzNGN2R2NHaVZBTlI4dnN1U3c4clRDNkQtQXpKYU1UaFVhT0hqaFlRcEFGUUpqcHkzaGY4M3JqbEg4QjlCbVNJSkh4RDlVUllZeUZ6RmJjSkViYUxXQ0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbkZJVmJXZVprSGhqUHRtTTFxMS1qNlEzdEo5RTl6NXIxMHdrdWV2NzZKS1Zjeng0a1FoVXVmSFZoTjduNGVvcGFkSzR5YlZEYTZjcWdzamFraEIxa0J0T3FLX3JOUXhmcF92bGdQeGNDZzVYNFB5LWZaMG9RMjJEUTY2WmxtdHNiZHdsNXVzNGN2R2NHaVZBTlI4dnN1U3c4clRDNkQtQXpKYU1UaFVhT0hqaFlRcEFGUUpqcHkzaGY4M3JqbEg4QjlCbVNJSkh4RDlVUllZeUZ6RmJjSkViYUxXQ0U?oc=5\" target=\"_blank\">Infosys Launches AI-First GCC Model to Transform Global Capability Centers into Innovation Hubs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fast Mode</font>",
-      "published": "2025-11-18T02:28:13+00:00",
-      "source": "The Fast Mode"
-    },
-    {
-      "title": "AI in CPG: Business Value Radar 2025 - Infosys",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GNEtsZ2JKaEFRZHVGWUpPb0M5c1h5MUQ5a19TYTJoMlU5SUdwemp4THVtbGh2aU9MbmwxeXdDZUxXRzY4Ui1SQVpHdjlkSEdqOEhBNENFdEFkcGg5ejVQRkhHeUV1V1hFWFc3SmhHV3FjZF9kMjlrQkZUMGNUdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5GNEtsZ2JKaEFRZHVGWUpPb0M5c1h5MUQ5a19TYTJoMlU5SUdwemp4THVtbGh2aU9MbmwxeXdDZUxXRzY4Ui1SQVpHdjlkSEdqOEhBNENFdEFkcGg5ejVQRkhHeUV1V1hFWFc3SmhHV3FjZF9kMjlrQkZUMGNUdw?oc=5\" target=\"_blank\">AI in CPG: Business Value Radar 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infosys</font>",
-      "published": "2025-11-04T08:00:00+00:00",
-      "source": "Infosys"
-    },
-    {
-      "title": "Infosys and Handelsblatt Media Group Unveil AI-Powered Editorial Engine to Enhance Storytelling and Enrich Reader Experience | Corporate - EQS News",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPZUc2OC1YUUs5N21rVnJKZmZSaFVuaWowRUFZd2JjQ2puTjByQjBRdkJESFRBVTktOU5wbkd0NFo3ZzR5cVpCajVGUVRfYnFNd0d3ZWZOVGR6amx1ckhmcFlMMG9jcnFVdW0wM2FhVlc5bmRQTWxfbFlwcllBQ1ZPWkcyYk5aeERfX1lxLXZrYVp2N0NZOXM3QUx5ckxncnVrdl9PN0pKTmFpT3FqVTlzNkJCY1RhSGFrR3E1NFZCQl85OC1ObG9LVzI4NEJCTldCampHa3dkeUpBUEJzSkZHZkZXODFkRkd6clcxOC0xd21aQ3FZSW1INUZrSkRrUkhmUEpLTUlQT2JMNmE4RTVORVpROWJqZ3FYdW11UkxGb3hMVTBZSHQwOEVnVDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPZUc2OC1YUUs5N21rVnJKZmZSaFVuaWowRUFZd2JjQ2puTjByQjBRdkJESFRBVTktOU5wbkd0NFo3ZzR5cVpCajVGUVRfYnFNd0d3ZWZOVGR6amx1ckhmcFlMMG9jcnFVdW0wM2FhVlc5bmRQTWxfbFlwcllBQ1ZPWkcyYk5aeERfX1lxLXZrYVp2N0NZOXM3QUx5ckxncnVrdl9PN0pKTmFpT3FqVTlzNkJCY1RhSGFrR3E1NFZCQl85OC1ObG9LVzI4NEJCTldCampHa3dkeUpBUEJzSkZHZkZXODFkRkd6clcxOC0xd21aQ3FZSW1INUZrSkRrUkhmUEpLTUlQT2JMNmE4RTVORVpROWJqZ3FYdW11UkxGb3hMVTBZSHQwOEVnVDg?oc=5\" target=\"_blank\">Infosys and Handelsblatt Media Group Unveil AI-Powered Editorial Engine to Enhance Storytelling and Enrich Reader Experience | Corporate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EQS News</font>",
-      "published": "2026-06-02T07:00:00+00:00",
-      "source": "EQS News"
-    },
-    {
-      "title": "Frost Bank Selects Infosys as Strategic Partner to Launch New Mortgage Loan Product Offering - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVHJTc01NdVBHMHhBY21UQlN4cGZTOUxXazk5WWt4YmhRb08wemFENml2b3ZXSC1GYkNGaEpGeTZRSTI5aUNZdnlGNmJpYTZpTWVoODBZRDVzRWxNSUFTSkpodnJBRWRybWZQaXpJMjlaODBUbzB5ekl5Ym42Q3BJb3NZSTBDemQyWDQwaTh0dWUwdmJ5NUp3ajk5ZUIyZHI4ekZiemYtWkx2UGVkZkU3V0tlanA1VUg4RnphMGlVRjhnSlI4aWVDMVZmMmZvRDdKamVpam1JWS1CVWRqX3lNa1d3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVHJTc01NdVBHMHhBY21UQlN4cGZTOUxXazk5WWt4YmhRb08wemFENml2b3ZXSC1GYkNGaEpGeTZRSTI5aUNZdnlGNmJpYTZpTWVoODBZRDVzRWxNSUFTSkpodnJBRWRybWZQaXpJMjlaODBUbzB5ekl5Ym42Q3BJb3NZSTBDemQyWDQwaTh0dWUwdmJ5NUp3ajk5ZUIyZHI4ekZiemYtWkx2UGVkZkU3V0tlanA1VUg4RnphMGlVRjhnSlI4aWVDMVZmMmZvRDdKamVpam1JWS1CVWRqX3lNa1d3?oc=5\" target=\"_blank\">Frost Bank Selects Infosys as Strategic Partner to Launch New Mortgage Loan Product Offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "published": "2021-09-16T07:00:00+00:00",
-      "source": "PR Newswire"
-    }
-  ],
+  "fetched_at": "2026-09-11T15:34:35.273107+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "INFY",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-10",
-      "close": 10.854999542236328
+      "date": "2026-09-11",
+      "close": 10.864999771118164
     },
     "history": [
-      {
-        "date": "2026-09-01",
-        "close": 12.0
-      },
       {
         "date": "2026-09-02",
         "close": 11.970000267028809
@@ -132,7 +35,11 @@
       },
       {
         "date": "2026-09-10",
-        "close": 10.854999542236328
+        "close": 10.90999984741211
+      },
+      {
+        "date": "2026-09-11",
+        "close": 10.864999771118164
       }
     ],
     "name": "Infosys Limited"
