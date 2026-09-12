@@ -2,15 +2,108 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-09-11T15:32:03.848242+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-09-12T14:37:49.720800+00:00",
+  "news": [
+    {
+      "title": "Luna September Content Update - Amazon Game Studios",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcl9wOEdEajdTUWE3S2NBNDNZdG5BLWZXNTAyNFZLMkFxZWlVQzdTZzhsbGI2UDU0WmdIRmx2WGgxTmI3c2wxZXpHbmFOWnJJMTg4aWpkRm1tNllUa3AtNmx3M2k3MlRpUm5tSERYbXBlMTh4cEV3eWhsZG0xUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcl9wOEdEajdTUWE3S2NBNDNZdG5BLWZXNTAyNFZLMkFxZWlVQzdTZzhsbGI2UDU0WmdIRmx2WGgxTmI3c2wxZXpHbmFOWnJJMTg4aWpkRm1tNllUa3AtNmx3M2k3MlRpUm5tSERYbXBlMTh4cEV3eWhsZG0xUQ?oc=5\" target=\"_blank\">Luna September Content Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Game Studios</font>",
+      "published": "2026-09-10T17:10:53+00:00",
+      "source": "Amazon Game Studios"
+    },
+    {
+      "title": "The Best Star Wars Game in Years is Now on Amazon Prime - Polygon.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnFLSWFYSmxSdkJnQldpc09iVW81UlhiWl9iMjJ3NEw3bkh5QkxwbmczNTJYbjNYZU1VRWZsYXVQaWFmaW1lYkxvRUpWV1JsM1RUaVpnNTlWdEZtdWZPOWl1bi1XVFJPYmpTOV80V1FBQ1NtWkJOZUhaTC1VdUpWUXdqalB2WG41?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnFLSWFYSmxSdkJnQldpc09iVW81UlhiWl9iMjJ3NEw3bkh5QkxwbmczNTJYbjNYZU1VRWZsYXVQaWFmaW1lYkxvRUpWV1JsM1RUaVpnNTlWdEZtdWZPOWl1bi1XVFJPYmpTOV80V1FBQ1NtWkJOZUhaTC1VdUpWUXdqalB2WG41?oc=5\" target=\"_blank\">The Best Star Wars Game in Years is Now on Amazon Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Polygon.com</font>",
+      "published": "2026-09-11T14:34:35+00:00",
+      "source": "Polygon.com"
+    },
+    {
+      "title": "Amazon Prime Is Handing Out DOOM Eternal Codes For Xbox PC This Month - Pure Xbox",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3NlZnlTRjhNSklPOThBV2pJY2YyZ2pBUU80TW9HOXN3My1EWm4xVFZDUjlTTm9BYjZYLWRKZzRybDluUDhYUFRSWTdlQlJhTGI3TEFDdXREeWZzdGlnMGZQSGJKR3JKYzNCdm5FVFZ6XzJqQVV1ZjdPT0RUMlQ4WlUycWc1Ti1yVWpuRENkQWhqOVQwcE1HbWNzUThWRGt4dkNqRm1pTzM4Wjg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3NlZnlTRjhNSklPOThBV2pJY2YyZ2pBUU80TW9HOXN3My1EWm4xVFZDUjlTTm9BYjZYLWRKZzRybDluUDhYUFRSWTdlQlJhTGI3TEFDdXREeWZzdGlnMGZQSGJKR3JKYzNCdm5FVFZ6XzJqQVV1ZjdPT0RUMlQ4WlUycWc1Ti1yVWpuRENkQWhqOVQwcE1HbWNzUThWRGt4dkNqRm1pTzM4Wjg?oc=5\" target=\"_blank\">Amazon Prime Is Handing Out DOOM Eternal Codes For Xbox PC This Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pure Xbox</font>",
+      "published": "2026-09-07T10:00:00+00:00",
+      "source": "Pure Xbox"
+    },
+    {
+      "title": "Amazon seeks to expand UK drone deliveries - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Rdzladi1Sa0ZzMktkVm5rNHJaZWptQ2pBZGpGZzlwOENrWjJfUi1IVENDRnFNdkJxZURNLWdCSDhudDZSczdoYWZsVmRwS292VmZLVTBaMXppUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Rdzladi1Sa0ZzMktkVm5rNHJaZWptQ2pBZGpGZzlwOENrWjJfUi1IVENDRnFNdkJxZURNLWdCSDhudDZSczdoYWZsVmRwS292VmZLVTBaMXppUQ?oc=5\" target=\"_blank\">Amazon seeks to expand UK drone deliveries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-09-11T16:58:57+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Forget Fussing Over Fall Layers: These Maxi Dresses Make Getting Dressed a One-and-Done Decision - Real Simple",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXV3NHV0WV9Td0ZESmR2OG9pSE9UNEJ0YjdpaE5vdUg5eXJiTmJxSWNRT3FQRm9zTXM5aDdRYzJiajh1SU5uYzF1TWVhaGFCZldCb2JPZkJRUmNkUkxGRkcxdGtmUXUxc0w4MktoQXpPcWdCWjlrZ2RNSEE5YmhoSFNVMGh6bkRRVS1oWg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXV3NHV0WV9Td0ZESmR2OG9pSE9UNEJ0YjdpaE5vdUg5eXJiTmJxSWNRT3FQRm9zTXM5aDdRYzJiajh1SU5uYzF1TWVhaGFCZldCb2JPZkJRUmNkUkxGRkcxdGtmUXUxc0w4MktoQXpPcWdCWjlrZ2RNSEE5YmhoSFNVMGh6bkRRVS1oWg?oc=5\" target=\"_blank\">Forget Fussing Over Fall Layers: These Maxi Dresses Make Getting Dressed a One-and-Done Decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Real Simple</font>",
+      "published": "2026-09-12T12:00:00+00:00",
+      "source": "Real Simple"
+    },
+    {
+      "title": "Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030 - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONWhTVmpmMmpQSnRVWE5wVDkxWGJXZGF6WDVHNUczOW0tdW8xRHhEdmR6TUNxSGthN1F3SDJTV2ZiQ1dsa0xIa0FHdVYyQTY3RXpQSTNMT2NiQkltZXlnT2FGR2ZjWE40dFhkaTQ5YldOVGZCejFLcGd6Wm1EQ0xrUkRoRno0TFhBR2hjbTh0UjJ2bUxIWmlXcFFpLXhCVTBEUGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONWhTVmpmMmpQSnRVWE5wVDkxWGJXZGF6WDVHNUczOW0tdW8xRHhEdmR6TUNxSGthN1F3SDJTV2ZiQ1dsa0xIa0FHdVYyQTY3RXpQSTNMT2NiQkltZXlnT2FGR2ZjWE40dFhkaTQ5YldOVGZCejFLcGd6Wm1EQ0xrUkRoRno0TFhBR2hjbTh0UjJ2bUxIWmlXcFFpLXhCVTBEUGc?oc=5\" target=\"_blank\">Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "published": "2026-09-12T11:52:00+00:00",
+      "source": "finance.yahoo.com"
+    },
+    {
+      "title": "Forget Heavy Push Aerators: The Amazon Find That Makes Lawn Maintenance Easier - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT01FcW95YVdUVlpiM214YldzM3Y0dGZoVTJLa2hvUENrZFRoQnVSY0JmYnl4aU1IQ1JmRUdEdmQwVk5QLTdIcTlqdEFYVmRYU1BNWUFiTGlva0ZsWnR3QU9MXzRTTmhLODF4X3pNa0lYcFNlTG9WWWxGMjVlWjQ1TXlLandFUExDZ1V4TDl0bWxaa0NBYjkzYnUyTGo4VTR6ZksxWnVhQW5rdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT01FcW95YVdUVlpiM214YldzM3Y0dGZoVTJLa2hvUENrZFRoQnVSY0JmYnl4aU1IQ1JmRUdEdmQwVk5QLTdIcTlqdEFYVmRYU1BNWUFiTGlva0ZsWnR3QU9MXzRTTmhLODF4X3pNa0lYcFNlTG9WWWxGMjVlWjQ1TXlLandFUExDZ1V4TDl0bWxaa0NBYjkzYnUyTGo4VTR6ZksxWnVhQW5rdw?oc=5\" target=\"_blank\">Forget Heavy Push Aerators: The Amazon Find That Makes Lawn Maintenance Easier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-09-12T12:00:00+00:00",
+      "source": "Yahoo"
+    },
+    {
+      "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon - npr.org",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2NQcl9ZalpMWVJWam5FeDJmN3FkbzNuZXpIeDd2QmUxbW1sSkdhclp6ZHlid1dxTHBxUGsyODRDMkt3VzVlVGZWM2JXUHl1MjhBbzlWRVBIMVh0M0JsNmNpSkxNM0twUHRTWTNTcTF6UHNxUFVMOXFvRWJmbHhtWGlVVQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2NQcl9ZalpMWVJWam5FeDJmN3FkbzNuZXpIeDd2QmUxbW1sSkdhclp6ZHlid1dxTHBxUGsyODRDMkt3VzVlVGZWM2JXUHl1MjhBbzlWRVBIMVh0M0JsNmNpSkxNM0twUHRTWTNTcTF6UHNxUFVMOXFvRWJmbHhtWGlVVQ?oc=5\" target=\"_blank\">Miami crash raises concerns about the jet's operator, and why it's flying for Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">npr.org</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxON280Z0FQUUVvZkszSW1yNE03NEFVeGZYNlQ2Yjc3WG1PTmtfRlBPdndtYTJfemVuWS1XbWdpQUJMTDUyMjRHYnBNbTVkaGtDeVFFZmEtdDM3S2VGS3UxWlBTTkxiSFQxbTJSNUoyYXh3S0FmTjB6Sjl3LTZ3bVRVMkRfa0xRLXQ4bEpCWGltYUdvQjF1T0UyUjZzM2ptRUoxOTJhaDV4OFLSAa4BQVVfeXFMT1Q2eVZUXzlHNlNGd0FlSlBGNGhLX1FZN0dVS1BSanBUdm80b0lmcWRuVUhJYng4azdCOFljQjJMYVlaMDVvQms5alo0cmFWa19xU1ZjWHZGSTBUUUp0aUJ6WWxxV1NWTjdFc0JPZXZRbkJScGxocEdmYThFRk9mTHluOGVJdVJtNUZiWFhzN2pla1ZmSlNndUlTMVdjQU9peW9pc08xdnRHRE1NY0Vn?oc=5\" target=\"_blank\">Amazon cargo pilot repeatedly warned aircraft was 'too fast' before deadly Miami crash, NTSB says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foxnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzZIMmJZZWlYa3haWU9POGlJckVuc0J4STVQRlFSXzRlR2NZU203Y3JFQ1JFREtONTRvWlNSUWJIaEFoaWZTdFpKWFRnaG9na2xjMWl3REdLMmoxZmxJTFZnZHhQcmZBM2dFSU45MW83REtwY0Zrd2lwaEN1OXpaT0NIX3BwWjNRcW9UMmdOT0Nfa3EwNmZMWjNjc1d4VXg5ZFlXblpjZVA0bDJ6cmJHaTVYQm0ycXdMNFVJT3hXc19oN3NmNzd6bEItaFBiMWlM0gHWAUFVX3lxTE5MZWphVWt4ZGNSVjlPelRmSHBUTXFGekNpa1ZTMEtjZGxDbXZ6NFJSVUYtcTZLMjl5OEhzLXZPMHpkblUxSlpYVVlZQVlNcWI5X2ZVQnVDSHdhLWQ3VV9iNXg5Yk1lNXNIdFpaUmxNdVFFVkx5X2VYTzFBRXk0QU9ES0gzZ3M3U0FzNjJpNGVEMWY2QXpGeGh0MzJUQ283bWw0V19GdVVZOE9GVGNoRFBsVEROMmpibk16Q3Y2WE1OUEFJLXJjTU45Um1NczZ5M3ZDWjFXLVE?oc=5\" target=\"_blank\">Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li></ol>",
+      "published": "2026-09-12T09:00:00+00:00",
+      "source": "npr.org"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Jaguar Health Launches Neonorm Dog on Amazon, Expanding Animal-Health Product Franchise - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2djNmdTNDJ3d1lLVHNrR3RiOF9tRG5iZG0zV3F3TTU2RlZYZXYyTEM5ZkI4LVJRWm91WVdHeDZmdmR4VVc3QVUwc1FoY1QydHByRkp1N2w5cVRDNDdZYWRBNGVfZWY5TW1JdTdPTHdPamdFVG9DQzZpN05PMjRycUxqa2tiRThCMmlPTmFFa1FIX2w5azgwM3pLNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2djNmdTNDJ3d1lLVHNrR3RiOF9tRG5iZG0zV3F3TTU2RlZYZXYyTEM5ZkI4LVJRWm91WVdHeDZmdmR4VVc3QVUwc1FoY1QydHByRkp1N2w5cVRDNDdZYWRBNGVfZWY5TW1JdTdPTHdPamdFVG9DQzZpN05PMjRycUxqa2tiRThCMmlPTmFFa1FIX2w5azgwM3pLNA?oc=5\" target=\"_blank\">Jaguar Health Launches Neonorm Dog on Amazon, Expanding Animal-Health Product Franchise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "published": "2026-09-08T15:06:26+00:00",
+      "source": "finance.yahoo.com"
+    },
+    {
+      "title": "Amazon now carries a plant-based product for dogs with loose stools - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRvaldmOEhHRXRFQ3NlTWxQT053Mko4M04ydTE3UHNmRW9EV0Z6U0hhcUZvRkQxVGRuTVJCT0VfbVlWRXNBMEl6US1PUngxb2pERWd0a2xrRVN0ZWl3UFpxYkdtVFF0WTR6RklXelZLQzRSQ2FJbzhLWndkM1RfVnZTbjBoMml3RWhrZ3gtVTE1RVBGWlBITXIwLWZ4YWY5QkE0Y2d0QmRjenVnVmxuemZtbFBVN190NEJPb3Fxalc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzRvaldmOEhHRXRFQ3NlTWxQT053Mko4M04ydTE3UHNmRW9EV0Z6U0hhcUZvRkQxVGRuTVJCT0VfbVlWRXNBMEl6US1PUngxb2pERWd0a2xrRVN0ZWl3UFpxYkdtVFF0WTR6RklXelZLQzRSQ2FJbzhLWndkM1RfVnZTbjBoMml3RWhrZ3gtVTE1RVBGWlBITXIwLWZ4YWY5QkE0Y2d0QmRjenVnVmxuemZtbFBVN190NEJPb3Fxalc?oc=5\" target=\"_blank\">Amazon now carries a plant-based product for dogs with loose stools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "published": "2026-09-08T13:00:00+00:00",
+      "source": "Stock Titan"
+    },
+    {
+      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - aboutamazon.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboutamazon.com</font>",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": "aboutamazon.com"
+    },
+    {
+      "title": "How Frida for Kids tackles the biggest hygiene battles for parents - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUozZ29KWUE0eGNHcThZaHZ1WDNvN0lLVWRmNjQ5eUExR2FzYmlaaTdvbDU4cmJjTldtNjdGYXl3RWdhX3Rydm9ISmtOYjg0R3l5WExHOXY4Q1dvTHRTNDJRQVBtVmZxZkxfRk03U1BTSEZxZmNtbDhseTNxbmNOWW11b25OdjFlbWZWRVZ0dDhxaklaY285TkhiREtScWtMNzZHTmdjNVdvZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUozZ29KWUE0eGNHcThZaHZ1WDNvN0lLVWRmNjQ5eUExR2FzYmlaaTdvbDU4cmJjTldtNjdGYXl3RWdhX3Rydm9ISmtOYjg0R3l5WExHOXY4Q1dvTHRTNDJRQVBtVmZxZkxfRk03U1BTSEZxZmNtbDhseTNxbmNOWW11b25OdjFlbWZWRVZ0dDhxaklaY285TkhiREtScWtMNzZHTmdjNVdvZw?oc=5\" target=\"_blank\">How Frida for Kids tackles the biggest hygiene battles for parents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+      "published": "2026-09-10T13:46:00+00:00",
+      "source": "USA Today"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5\" target=\"_blank\">Amazon Alexa can now alert you when something new might tempt you to shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-09-01T07:00:00+00:00",
+      "source": "TechCrunch"
+    }
+  ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
       "date": "2026-09-11",
-      "close": 256.1099853515625
+      "close": 256.7799987792969
     },
     "history": [
       {
@@ -39,7 +132,7 @@
       },
       {
         "date": "2026-09-11",
-        "close": 256.1099853515625
+        "close": 256.7799987792969
       }
     ],
     "name": "Amazon.com, Inc."

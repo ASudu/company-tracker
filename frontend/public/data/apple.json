@@ -2,15 +2,108 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-09-11T15:31:15.406426+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-09-12T14:37:41.402525+00:00",
+  "news": [
+    {
+      "title": "Foldable Phones Are Unpopular. Why Is Apple Selling One? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY180bTJ0WldVcktJRE05R1BNUUJGdWJEaGl2NEVhMUpCMjVqSWxRaVpoU0ZndFJuQTk1Mk9peW5xdDNrOFhIYjdyc3NHdUExdjZuZTQ5VnZobFIyZFpyeW5wa1BDSzlMNGRYREs0NTMxUnVOVU1jaElZNWJvMWNKUUVSaTZNZWtRTm5QN3MxcklpMklm?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNY180bTJ0WldVcktJRE05R1BNUUJGdWJEaGl2NEVhMUpCMjVqSWxRaVpoU0ZndFJuQTk1Mk9peW5xdDNrOFhIYjdyc3NHdUExdjZuZTQ5VnZobFIyZFpyeW5wa1BDSzlMNGRYREs0NTMxUnVOVU1jaElZNWJvMWNKUUVSaTZNZWtRTm5QN3MxcklpMklm?oc=5\" target=\"_blank\">Foldable Phones Are Unpopular. Why Is Apple Selling One?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVhTTkNyYVpzVHVfMlBkSThSRUNEVGstVEZ3WkRISGZ4bUxBZUhIZnhURGVqNmlVenltRDBGYUpQUDI1UXJ0YklPY1JYV0Z5TjdrMTdqd00waVp1QngxUnhsWnVhdDdJcXllUmlGVkQwRE4xNEI2bUtCNmFKYWlJMFRiZGNiZ2Q4cU5zWTNnNXpxaW5hd2d0eWthZFNuMjRkYXBNWFdEWDNXaWI5VGlMNmVoVQ?oc=5\" target=\"_blank\">Apple’s foldable iPhone poses a $1,999 question: Who is it for?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9TRk02THJwNGdJemNRdVRwRkoza0pKam1pakpPbEdZa0ZPTFQxbTBjZDVwZlZGdm9xRmlRUEJQRlhvMU1Oa25pSDJLWlVWa2RsMGs4b1diYVpPSmg2eTRHajBkOGp5NktJRDRIcnVjUWJuMFl2aGRDTVBoeWM?oc=5\" target=\"_blank\">Pornhub viewers left in droves to see Apple's foldable iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li></ol>",
+      "published": "2026-09-10T09:04:42+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Apple's AI vision is tailored for the moment of AI panic - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmRUYVBpZThuZGZwWll4dVlUZEZzY0JtbVp6N2o2bzhFS2pDbGZDTF9qTUFLVmpudlk1TzdXRl8wc1lqdjI3LVd2a3dsc3U2bnljdmp6Uk0wSV81VEtMNDBwZUVOR2YzWVhSZ2NETk1ldU9JMHRRUnNRYXVtYk9LRGE0ZGhTRU1keXB5czVsUmo0NXlSc3E2WEtGVS1vTmEwWlMxTlM2eU5ERmNRNEx2VzNqVE9hdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmRUYVBpZThuZGZwWll4dVlUZEZzY0JtbVp6N2o2bzhFS2pDbGZDTF9qTUFLVmpudlk1TzdXRl8wc1lqdjI3LVd2a3dsc3U2bnljdmp6Uk0wSV81VEtMNDBwZUVOR2YzWVhSZ2NETk1ldU9JMHRRUnNRYXVtYk9LRGE0ZGhTRU1keXB5czVsUmo0NXlSc3E2WEtGVS1vTmEwWlMxTlM2eU5ERmNRNEx2VzNqVE9hdw?oc=5\" target=\"_blank\">Apple's AI vision is tailored for the moment of AI panic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "published": "2026-09-12T10:00:00+00:00",
+      "source": "finance.yahoo.com"
+    },
+    {
+      "title": "Apple's A20 Pro shatters Geekbench 7 single-core record — 2nm chip beats desktop Intel Core i9 and AMD Ryzen 9 by up to 32% - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZlBzWVd6dUxmbnZyVG93SWZtWGRVN2NlY0k1UW5IMFRUN3hZck1WZzNKT0VPdlFfRDFndHJHRlRpU3VkX0oxOVRWbF9zYlhHM3FUb2k5VllVbjBzRFhLMTJLaVItN0VobkdTMzR3RV95VjNweHJLNTNnX3VtUG5CY3dMa2wwWExvR3hQNnY4U3VVTHMtOFRKMjdGNklxaGJYd2FndXhTeUhZWkVSR18wNG9TRldPMHRsZ2xteG9GTWJNWG5XV3l4aVZCSTZvaW5McXVIV2NZeWlkNlJVVVlWMXU1TkpoTkFzRkFQNzA5MzdoUC1IYU03UXF2R3pfUlZFTkFINTB3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPZlBzWVd6dUxmbnZyVG93SWZtWGRVN2NlY0k1UW5IMFRUN3hZck1WZzNKT0VPdlFfRDFndHJHRlRpU3VkX0oxOVRWbF9zYlhHM3FUb2k5VllVbjBzRFhLMTJLaVItN0VobkdTMzR3RV95VjNweHJLNTNnX3VtUG5CY3dMa2wwWExvR3hQNnY4U3VVTHMtOFRKMjdGNklxaGJYd2FndXhTeUhZWkVSR18wNG9TRldPMHRsZ2xteG9GTWJNWG5XV3l4aVZCSTZvaW5McXVIV2NZeWlkNlJVVVlWMXU1TkpoTkFzRkFQNzA5MzdoUC1IYU03UXF2R3pfUlZFTkFINTB3?oc=5\" target=\"_blank\">Apple's A20 Pro shatters Geekbench 7 single-core record — 2nm chip beats desktop Intel Core i9 and AMD Ryzen 9 by up to 32%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2026-09-12T10:48:32+00:00",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Preorders for the iPhone 18 Pro and iPhone 18 Pro Max are now live - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnNRQm84TW1jU25HM01MMGg2aWFYZXZzSDQwQ1BOUzgzUTg4WEJPc25kRGVNV2NEanhrUkgtYS1iZUpsTzlodkM5OVJLbDFMY0ZtZEp1SElFeER1R2p4bWQwVzFGRHh2eFVJWHkza0JoLTVSdV9oYnFkWTRfLWJ1cVlLeVI2cGVZeEVCR3NNR2RRcDFiaXlMN05RUWpUSFI2OG1kLWFxUGRQTHNYZEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnNRQm84TW1jU25HM01MMGg2aWFYZXZzSDQwQ1BOUzgzUTg4WEJPc25kRGVNV2NEanhrUkgtYS1iZUpsTzlodkM5OVJLbDFMY0ZtZEp1SElFeER1R2p4bWQwVzFGRHh2eFVJWHkza0JoLTVSdV9oYnFkWTRfLWJ1cVlLeVI2cGVZeEVCR3NNR2RRcDFiaXlMN05RUWpUSFI2OG1kLWFxUGRQTHNYZEE?oc=5\" target=\"_blank\">Preorders for the iPhone 18 Pro and iPhone 18 Pro Max are now live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-09-12T12:02:00+00:00",
+      "source": "AppleInsider"
+    },
+    {
+      "title": "Firefighters called to roof fire at Apple Valley Community Center - 5 EYEWITNESS NEWS",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWRxU0gzVG9RV05yWEtmNWRYaXp3VWxlN1dWRzlCaW96andRQXZzTklYeFI5STNYcmN2Uk42d2U0U1ByWDF5X1BlOFVMYnFneWNpak5GazJOV0cwUDZtY20tTVk4LVFra25JMzhnZjl2TFN4ckJ3Rzc5RF9aYmNyb3BfbU1JaFpQSFRGbUhtOUMtN3R4TDhiUk5RUzRBVDVkWjliWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWRxU0gzVG9RV05yWEtmNWRYaXp3VWxlN1dWRzlCaW96andRQXZzTklYeFI5STNYcmN2Uk42d2U0U1ByWDF5X1BlOFVMYnFneWNpak5GazJOV0cwUDZtY20tTVk4LVFra25JMzhnZjl2TFN4ckJ3Rzc5RF9aYmNyb3BfbU1JaFpQSFRGbUhtOUMtN3R4TDhiUk5RUzRBVDVkWjliWQ?oc=5\" target=\"_blank\">Firefighters called to roof fire at Apple Valley Community Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">5 EYEWITNESS NEWS</font>",
+      "published": "2026-09-11T22:45:09+00:00",
+      "source": "5 EYEWITNESS NEWS"
+    },
+    {
+      "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c2d2OGUydFZIODlzQnBwU2tDeE9LMmtGU1lHQno5bF9HeUhya0RrVlVQOHRqNXZjZEpvNU5XVEhRMEJwTjN6SVJZMUdUMXVQVHhBbGlfajFqcENQbnMwQmpYN3ZBS3FqN0t2cTdMMFIta3lZV3fSAXtBVV95cUxQRkRpMkhNRkMyMHFzZThLQlNlanhPZkdKclRfT2tFaFFJTEIwWFhPNjV0QWZLRE1LY20xTUc4a1lNX3V5cHB3c0ZzWmVYR3ktSmhGM1NtbC1iSG8zTldoRmVhZC1iWV9yU1kxdmJfNE12Yk9rSXRLaVk5OVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c2d2OGUydFZIODlzQnBwU2tDeE9LMmtGU1lHQno5bF9HeUhya0RrVlVQOHRqNXZjZEpvNU5XVEhRMEJwTjN6SVJZMUdUMXVQVHhBbGlfajFqcENQbnMwQmpYN3ZBS3FqN0t2cTdMMFIta3lZV3fSAXtBVV95cUxQRkRpMkhNRkMyMHFzZThLQlNlanhPZkdKclRfT2tFaFFJTEIwWFhPNjV0QWZLRE1LY20xTUc4a1lNX3V5cHB3c0ZzWmVYR3ktSmhGM1NtbC1iSG8zTldoRmVhZC1iWV9yU1kxdmJfNE12Yk9rSXRLaVk5OVU?oc=5\" target=\"_blank\">Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-09T20:17:04+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "iPhone 20 rumors: Why iPhone 19 might be skipped entirely - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kbmN3aWtZdHZTYXdleUhlWTZBREl3cjdTUld3SkNnUUQ0dDdma3Jhd3JUeGc0LXJiM0RTX3MxVlIzUTltU1FFS3JMTTRUZV9iZ2pDWHNwNGtSeXhaakZ3SS1rNHV4cnp6?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kbmN3aWtZdHZTYXdleUhlWTZBREl3cjdTUld3SkNnUUQ0dDdma3Jhd3JUeGc0LXJiM0RTX3MxVlIzUTltU1FFS3JMTTRUZV9iZ2pDWHNwNGtSeXhaakZ3SS1rNHV4cnp6?oc=5\" target=\"_blank\">iPhone 20 rumors: Why iPhone 19 might be skipped entirely</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-09-12T09:10:00+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Apple Watch Series 12 vs. Apple Watch Series 11: Is it Worth Upgrading? - CNET",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXlyZWxaNzBINmszY1JuT0ZiS1hRREkxd3JqY1cwUTdVQkYxa0JmcXZRZWpFeUNWSE5pSWI5OEFSeGRSZ1hLWEVJYjZFcEo0MlpISVl1UWl3VHNveVJ0MDA4cmxpdzAycktNUmNqLW1TNGtERzZCMXZLaUo3bUtLRzVkOW1MSXY4cWNzMXgtcW1hVVI2TkIyM2poSk9nT1gwUWR4WA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXlyZWxaNzBINmszY1JuT0ZiS1hRREkxd3JqY1cwUTdVQkYxa0JmcXZRZWpFeUNWSE5pSWI5OEFSeGRSZ1hLWEVJYjZFcEo0MlpISVl1UWl3VHNveVJ0MDA4cmxpdzAycktNUmNqLW1TNGtERzZCMXZLaUo3bUtLRzVkOW1MSXY4cWNzMXgtcW1hVVI2TkIyM2poSk9nT1gwUWR4WA?oc=5\" target=\"_blank\">Apple Watch Series 12 vs. Apple Watch Series 11: Is it Worth Upgrading?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-09-11T21:22:14+00:00",
+      "source": "CNET"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max - Apple",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVNBYnFyaE4wRmxyUzM1RnVpMjUwUmVfc1MyQVJUaUVqX2dtc0ZMdzJQemlaWHVMRHY4RjBEbVhFdWtyUFhuV21pREtMZ3pnMkJnbG03UnlNQTdnMFliTmRlRzVMODRlNVFWVnpXRXpZYU5raXZIbjhMUGNBOFBCdk1hMEhyMmRyUzVfTXVDeFJ4UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVNBYnFyaE4wRmxyUzM1RnVpMjUwUmVfc1MyQVJUaUVqX2dtc0ZMdzJQemlaWHVMRHY4RjBEbVhFdWtyUFhuV21pREtMZ3pnMkJnbG03UnlNQTdnMFliTmRlRzVMODRlNVFWVnpXRXpZYU5raXZIbjhMUGNBOFBCdk1hMEhyMmRyUzVfTXVDeFJ4UQ?oc=5\" target=\"_blank\">Apple debuts iPhone 18 Pro and iPhone 18 Pro Max</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
+      "published": "2026-09-09T19:23:08+00:00",
+      "source": "Apple"
+    },
+    {
+      "title": "5 Apple product launches we still expect to see in 2026 - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kb0NwNTBkV2laNEljU2VPTlk5ZFV1bm5RR29wN2RVYklkcGdHSlJOdWptR3ZnRzF3anJzdFE3bHJadXI5Y0t3T25LektaQUVodmRKZkFfUk04dmd3S2ZZNko1TEg2Mnp5WVMtUE1R?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1kb0NwNTBkV2laNEljU2VPTlk5ZFV1bm5RR29wN2RVYklkcGdHSlJOdWptR3ZnRzF3anJzdFE3bHJadXI5Y0t3T25LektaQUVodmRKZkFfUk04dmd3S2ZZNko1TEg2Mnp5WVMtUE1R?oc=5\" target=\"_blank\">5 Apple product launches we still expect to see in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-09-09T21:07:21+00:00",
+      "source": "Mashable"
+    },
+    {
+      "title": "Apple unveils foldable iPhone Duo and other highlights from its annual tech showcase - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2d2E5aS1zYUp4ZTk2aC1jQk9wZldDMlZXdUVFb016TkpMT21FWXFrb2poSENITEhkWlZOWXVfVkxON211SVRUOWdaRkFKVEhBVkJKeEVzZlBTQ1BmcHkzby1wT1ZLTEVzZVZJVzRya0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB2d2E5aS1zYUp4ZTk2aC1jQk9wZldDMlZXdUVFb016TkpMT21FWXFrb2poSENITEhkWlZOWXVfVkxON211SVRUOWdaRkFKVEhBVkJKeEVzZlBTQ1BmcHkzby1wT1ZLTEVzZVZJVzRya0E?oc=5\" target=\"_blank\">Apple unveils foldable iPhone Duo and other highlights from its annual tech showcase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "published": "2026-09-09T15:04:00+00:00",
+      "source": "CBS News"
+    },
+    {
+      "title": "Everything Apple could still launch before the end of 2026 - Macworld",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Everything Apple could still launch before the end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
+      "published": "2026-09-09T07:00:00+00:00",
+      "source": "Macworld"
+    },
+    {
+      "title": "The 8 biggest Apple announcements from its launch event - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ljTUNhMWlkdU1LY2dLREhBZVlMdnBoWHhoRWpucDUycXhudWp4a1hnbDE2b2JMc2oyVnJtWGVLcmdTc2NjVmxHMDJjYUdlVVJhQzZIRVNxQnEzSkpBZzlaMVhXTnI0aUtDNkdqVHJucXFORmhVWjloWDk4RktHRUFGR1FDVzNfMk4tei1ydzBBbWVHUUQ3aWZPTlI0aDZjMjVnUkpQQ3k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ljTUNhMWlkdU1LY2dLREhBZVlMdnBoWHhoRWpucDUycXhudWp4a1hnbDE2b2JMc2oyVnJtWGVLcmdTc2NjVmxHMDJjYUdlVVJhQzZIRVNxQnEzSkpBZzlaMVhXTnI0aUtDNkdqVHJucXFORmhVWjloWDk4RktHRUFGR1FDVzNfMk4tei1ydzBBbWVHUUQ3aWZPTlI0aDZjMjVnUkpQQ3k?oc=5\" target=\"_blank\">The 8 biggest Apple announcements from its launch event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-09-09T21:38:00+00:00",
+      "source": "Business Insider"
+    }
+  ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
       "date": "2026-09-11",
-      "close": 335.1700134277344
+      "close": 332.2699890136719
     },
     "history": [
       {
@@ -39,7 +132,7 @@
       },
       {
         "date": "2026-09-11",
-        "close": 335.1700134277344
+        "close": 332.2699890136719
       }
     ],
     "name": "Apple Inc."

@@ -2,15 +2,108 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-09-11T15:32:19.679791+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-09-12T14:37:52.543610+00:00",
+  "news": [
+    {
+      "title": "Meta is asking some of its employees to become managers again in a new reorg - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHRGbVRFaFNZX2UybHBMb0wxZ0stbnBPdDcxd0staUxXZHRDbXJzVE1nNEh6cWhNYUF0empEaDZxQlY5MVhfbjh1LVJXMERKeWZseU95cXdTeHVQN0ZCc3BUNTF3bFdRMU85dHBPWE81bG9xampyVG50YjBEVVlsclhWMzQxSGhoNTFsTWNkODN5Z2RQVEE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHRGbVRFaFNZX2UybHBMb0wxZ0stbnBPdDcxd0staUxXZHRDbXJzVE1nNEh6cWhNYUF0empEaDZxQlY5MVhfbjh1LVJXMERKeWZseU95cXdTeHVQN0ZCc3BUNTF3bFdRMU85dHBPWE81bG9xampyVG50YjBEVVlsclhWMzQxSGhoNTFsTWNkODN5Z2RQVEE?oc=5\" target=\"_blank\">Meta is asking some of its employees to become managers again in a new reorg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5RUFBfV3NpUnpsdVVjQUpialY1aEpTTjdGMlJqNTNjdU1rZVlUQ3pFbnBuUHZHanJaWVBYWG5Sbmlla2R2TkNoZU8yNmo2czhpMUFqV1YwdzZJZWJkcl9OZXRjbTBNV0xOem8xRExnS2tnOHpWcmo4aTJKU3M?oc=5\" target=\"_blank\">Meta says it’s changing AI suggestions after posing invasive personal questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tRa3ctWV9IcER1UDYxWjU3WVRsWWoybGVaaTVOSHFsczRJaFJVeHBDSGNGVzBBeG1KOWc1a2JESG5CeUttV0pnbmRrNGRCeFhpakJMdlhkc1dfS0FvYXlxTFc1UEN5a2JlbkFaTUNCdkhDZk9aR0VrR2JVWVEyWXFKQk0?oc=5\" target=\"_blank\">Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fortune.com</font></li></ol>",
+      "published": "2026-09-10T20:39:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "The Meta glasses revolution - is it okay to film people in public? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95M3FlSlFTak9iYXFOXzEyVHlUd1JTU0VnY2JpdjNHYks3Vk1LcUhuVTRhYXRudkM0R1FHMjVlOWtOMkdTZmpHLUU3Qml6VFVJVW42OVRnNC1Gdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95M3FlSlFTak9iYXFOXzEyVHlUd1JTU0VnY2JpdjNHYks3Vk1LcUhuVTRhYXRudkM0R1FHMjVlOWtOMkdTZmpHLUU3Qml6VFVJVW42OVRnNC1Gdw?oc=5\" target=\"_blank\">The Meta glasses revolution - is it okay to film people in public?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+      "published": "2026-09-12T05:13:53+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "First Clear Visuals Of Meta's Project Phoenix Headset Found In Quest Firmware - UploadVR",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdDdvTW00V0lBXzdsNXdwYTZpNS1ZbnF5MmVZOTJHSXM0YUs5LWcyYldVcDRWTk9WaF9EbXdSenVlNnAzczhjZUI5Ny1uTTlaZnZLbEdyRWNvVV90Y2F6UHBVS21PM2NVUUF6OFZ4bGhEQ3M0S3Ztc3ktTVNUcGM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1pdDdvTW00V0lBXzdsNXdwYTZpNS1ZbnF5MmVZOTJHSXM0YUs5LWcyYldVcDRWTk9WaF9EbXdSenVlNnAzczhjZUI5Ny1uTTlaZnZLbEdyRWNvVV90Y2F6UHBVS21PM2NVUUF6OFZ4bGhEQ3M0S3Ztc3ktTVNUcGM?oc=5\" target=\"_blank\">First Clear Visuals Of Meta's Project Phoenix Headset Found In Quest Firmware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
+      "published": "2026-09-10T22:55:38+00:00",
+      "source": "UploadVR"
+    },
+    {
+      "title": "Meta may have leaked the first look at its slim ‘Project Phoenix’ headset - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OUHFROHBXbndNc1BrUXo2ZnpGUDlPY203eF9UMy1iUnNUTjBvY2JxTVFBVU00TVoxWkplYnNQemFzWTJhLU54eUZPbmI0c0NQVi1uYldOSkFZMWFzcmpFbC1Ua21zWVdwcWI3QlV6R2FlLVJpSENZMjh3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5OUHFROHBXbndNc1BrUXo2ZnpGUDlPY203eF9UMy1iUnNUTjBvY2JxTVFBVU00TVoxWkplYnNQemFzWTJhLU54eUZPbmI0c0NQVi1uYldOSkFZMWFzcmpFbC1Ua21zWVdwcWI3QlV6R2FlLVJpSENZMjh3?oc=5\" target=\"_blank\">Meta may have leaked the first look at its slim ‘Project Phoenix’ headset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-09-11T15:38:31+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "New Images Show A Detailed View Of Meta's Upcoming Mixed Reality Headset - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0JJbEREelBwTngtbnJ4SDFfcm45SEE5czg4QUN6Z05ETHRBSldYQkJwb0ZEYTRQWlg3ZGdmUGJ3YU44T240cFh3dnJ5aUhndlJxcndOajhpTlVKdjJ2MjRLbFdHWmZIUzVVLTlQRndpYTNEdXhvVTBFcFBZa29UeGtSRWdpMndUTmEyMGE3dWRfUUZiTnd4dDBTa29zY2tjYl9VLVlEak8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0JJbEREelBwTngtbnJ4SDFfcm45SEE5czg4QUN6Z05ETHRBSldYQkJwb0ZEYTRQWlg3ZGdmUGJ3YU44T240cFh3dnJ5aUhndlJxcndOajhpTlVKdjJ2MjRLbFdHWmZIUzVVLTlQRndpYTNEdXhvVTBFcFBZa29UeGtSRWdpMndUTmEyMGE3dWRfUUZiTnd4dDBTa29zY2tjYl9VLVlEak8?oc=5\" target=\"_blank\">New Images Show A Detailed View Of Meta's Upcoming Mixed Reality Headset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-09-11T17:28:11+00:00",
+      "source": "Engadget"
+    },
+    {
+      "title": "Meta at $645: Recent Momentum Makes One Thing Very Clear - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXZrUlk0THl4WVJjNlV5cnBKU0pIb1VleGY4TmlyWXlDbFJRZXlOSnpfU1ZsVXRwVUJWUXg2OXViSjN0bFJQVEo4ZXl0cDdyQ1duZmE4dEp2bUtuUWUxa0Q5R0J3Q1RiU2NwbnBycjhLQTF1cGlIX1dKQklzdTBfbHVHRVpDdzA1T0NuUm9Ed1NhSDAxcTY3NDlOTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXZrUlk0THl4WVJjNlV5cnBKU0pIb1VleGY4TmlyWXlDbFJRZXlOSnpfU1ZsVXRwVUJWUXg2OXViSjN0bFJQVEo4ZXl0cDdyQ1duZmE4dEp2bUtuUWUxa0Q5R0J3Q1RiU2NwbnBycjhLQTF1cGlIX1dKQklzdTBfbHVHRVpDdzA1T0NuUm9Ed1NhSDAxcTY3NDlOTQ?oc=5\" target=\"_blank\">Meta at $645: Recent Momentum Makes One Thing Very Clear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.yahoo.com</font>",
+      "published": "2026-09-11T13:26:59+00:00",
+      "source": "finance.yahoo.com"
+    },
+    {
+      "title": "Polish developer builds app that detects nearby Meta smart glasses - TVP World",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0poRzNBT0swQjFlaktYRDVQdlc2QVJ6c1k5b1dBWmNyekFfa1RXVjhNSnlzbThqd2JyWkJYS1FRdTdudmljbjBlTzZaWnVDcnEwT2swMmhJbkdrR01yNWZXNno0dW5QS3NtU3cxRU5OYktoTDA2SllwUDBvRUdyT3hjc05CalBFSEJ0dlEyakZkLVVuamU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0poRzNBT0swQjFlaktYRDVQdlc2QVJ6c1k5b1dBWmNyekFfa1RXVjhNSnlzbThqd2JyWkJYS1FRdTdudmljbjBlTzZaWnVDcnEwT2swMmhJbkdrR01yNWZXNno0dW5QS3NtU3cxRU5OYktoTDA2SllwUDBvRUdyT3hjc05CalBFSEJ0dlEyakZkLVVuamU0?oc=5\" target=\"_blank\">Polish developer builds app that detects nearby Meta smart glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVP World</font>",
+      "published": "2026-09-10T19:33:00+00:00",
+      "source": "TVP World"
+    },
+    {
+      "title": "Meta puts additional office spaces up for sublease in western WA - MyNorthwest.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LNzJPX0t4NEpndmxxc0MzeHBVNGoyVXZpbGE0UEt5UVBUU1JzY2IxNk8zcDJ3eWRnSFRnak1VVUljVGt4bUdWekVIT0Q4cUcxMDJfTVRqclU1NzY5bkhoMm5adzh2X0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LNzJPX0t4NEpndmxxc0MzeHBVNGoyVXZpbGE0UEt5UVBUU1JzY2IxNk8zcDJ3eWRnSFRnak1VVUljVGt4bUdWekVIT0Q4cUcxMDJfTVRqclU1NzY5bkhoMm5adzh2X0E?oc=5\" target=\"_blank\">Meta puts additional office spaces up for sublease in western WA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNorthwest.com</font>",
+      "published": "2026-09-11T21:00:38+00:00",
+      "source": "MyNorthwest.com"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - about.fb.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5\" target=\"_blank\">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">about.fb.com</font>",
+      "published": "2026-09-08T19:00:51+00:00",
+      "source": "about.fb.com"
+    },
+    {
+      "title": "Meta debuts Muse, its long-planned personal AI agent - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRGVlc2VIcUxnNHEzYmdrN0JaMU40bHQyY1BXX2ZIUk9XNEgyQy1UaThkRjF3T3JuWWhRc1g4aTNfUDA1RnFfVWstVkprMFNHRm1vRGtpTWhSQ2lsYmpaY2tadkU1T0UzcEpYdENiTmJUbEY4R1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRGVlc2VIcUxnNHEzYmdrN0JaMU40bHQyY1BXX2ZIUk9XNEgyQy1UaThkRjF3T3JuWWhRc1g4aTNfUDA1RnFfVWstVkprMFNHRm1vRGtpTWhSQ2lsYmpaY2tadkU1T0UzcEpYdENiTmJUbEY4R1E?oc=5\" target=\"_blank\">Meta debuts Muse, its long-planned personal AI agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-09-09T00:48:30+00:00",
+      "source": "Axios"
+    },
+    {
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5\" target=\"_blank\">Meta launches AI agent that can access other apps to send emails, make payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-08T21:29:41+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5\" target=\"_blank\">Meta settlement could clear the way for new AI product launches, Morgan Stanley says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-02T07:00:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta Launches a Personal AI Agent Designed to Be Easy to Use - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5\" target=\"_blank\">Meta Launches a Personal AI Agent Designed to Be Easy to Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-09-08T19:00:00+00:00",
+      "source": "WSJ"
+    }
+  ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
       "date": "2026-09-11",
-      "close": 652.7949829101562
+      "close": 648.030029296875
     },
     "history": [
       {
@@ -39,7 +132,7 @@
       },
       {
         "date": "2026-09-11",
-        "close": 652.7949829101562
+        "close": 648.030029296875
       }
     ],
     "name": "Meta Platforms, Inc."
