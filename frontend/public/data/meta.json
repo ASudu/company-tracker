@@ -2,22 +2,8 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-09-14T17:14:36.725323+00:00",
+  "fetched_at": "2026-09-15T15:54:21.245958+00:00",
   "news": [
-    {
-      "title": "Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5RR3JsN0djU2JiMVZvbVduTm1wTk1KVGlUZHFvTVU5aEd3c1FqclFQUTI2eXloa1F1VVFJU3R6Q3R6NmFtQzhFMVBROFJ5TERITUFzeU1LV3Z1aGpWV1R0dUktd0EwSUV2WS1nZmRPTXFMUFZ4aE13bEtWUQ?oc=5\" target=\"_blank\">Why Google and Meta Stocks Are the Big Winners From the Latest AI Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-09-14T13:37:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "The Meta glasses revolution - is it okay to film people in public? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95M3FlSlFTak9iYXFOXzEyVHlUd1JTU0VnY2JpdjNHYks3Vk1LcUhuVTRhYXRudkM0R1FHMjVlOWtOMkdTZmpHLUU3Qml6VFVJVW42OVRnNC1Gdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95M3FlSlFTak9iYXFOXzEyVHlUd1JTU0VnY2JpdjNHYks3Vk1LcUhuVTRhYXRudkM0R1FHMjVlOWtOMkdTZmpHLUU3Qml6VFVJVW42OVRnNC1Gdw?oc=5\" target=\"_blank\">The Meta glasses revolution - is it okay to film people in public?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2026-09-12T05:13:53+00:00",
-      "source": "BBC"
-    },
     {
       "title": "The ‘pick-up artists’ secretly filming women using smart glasses - The Telegraph",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDlVOFBnT1pNYUk4RGkwX2V5XzNyNFloX09FMmFnZEl5WEd4WXBxbjBvcFJ3V2llX1pfbER5cXdBcEJNOFcwSm9ON0JZVXExTUFHMDJUQkswck5nZGZiU3o1NENtTDFpcnlILVlCN3EyV09kSXE0cGxfYXlMVDV6Zl9B?oc=5",
@@ -26,11 +12,18 @@
       "source": "The Telegraph"
     },
     {
-      "title": "Meta Faces a Class Action Lawsuit Over Planned Smart Glasses Facial Recognition - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDRsMFhCakNEZUNxdGZqZmpqVXg0YmtKQzgtT3Z2QzRENnZETi1vVlNRUkc5VG92NWQwRHp4S2lJUV9LWjhSZjRicWd4RjVqYlhwbUdhRkJsNi0yWlVBUHJYNEUxMkpTOVVnaGlUWGMzblJGWmtGVV9nUldPUDNhc3IwS1VWNWJVanRxOWZDcTRBTU15ekRuX0tBa1dnZnJNa1JqRDNaSTJrYkkybERz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDRsMFhCakNEZUNxdGZqZmpqVXg0YmtKQzgtT3Z2QzRENnZETi1vVlNRUkc5VG92NWQwRHp4S2lJUV9LWjhSZjRicWd4RjVqYlhwbUdhRkJsNi0yWlVBUHJYNEUxMkpTOVVnaGlUWGMzblJGWmtGVV9nUldPUDNhc3IwS1VWNWJVanRxOWZDcTRBTU15ekRuX0tBa1dnZnJNa1JqRDNaSTJrYkkybERz?oc=5\" target=\"_blank\">Meta Faces a Class Action Lawsuit Over Planned Smart Glasses Facial Recognition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-09-14T14:45:27+00:00",
-      "source": "Gizmodo"
+      "title": "‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejk0TUR6N1BwanBJSDFGcGd1Y3JBakRBcV9FRDV5UGlwWVQtYUZManNzbzZjTWQ2QVdWS2dXdFRYMzdWdkp0UFU2emY2NjQxbzlRVjJXeXVnaW10WFc5djd3aVpPRmtHVi1OQkJzRjFIaEVMdW9wT1NuTHV0LXJJZ29vZUJqMV9aZzNvUFR1UDVqVDkxZUNfUEVzU0xDV2hYQzZmQ3lzNVhTWHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejk0TUR6N1BwanBJSDFGcGd1Y3JBakRBcV9FRDV5UGlwWVQtYUZManNzbzZjTWQ2QVdWS2dXdFRYMzdWdkp0UFU2emY2NjQxbzlRVjJXeXVnaW10WFc5djd3aVpPRmtHVi1OQkJzRjFIaEVMdW9wT1NuTHV0LXJJZ29vZUJqMV9aZzNvUFR1UDVqVDkxZUNfUEVzU0xDV2hYQzZmQ3lzNVhTWHc?oc=5\" target=\"_blank\">‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-09-15T10:45:00+00:00",
+      "source": "WIRED"
+    },
+    {
+      "title": "How To Use Meta Display Glasses While Driving With The Audio Only Feature - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1VoQmZFMnViT3M2aGREc0t0ejNTMDEzc3R5Vm10b3dwbkZjbDFCWTVhRXFIZ0NKQ0FTT1RkMnNuaUI5dXk5UVZUaDIweldLeklVTDhTRF9NTUhDS010N3lFb2NNUEctaUE1TkFUR25QTWpIUGRlNXVGaEJnOUxJTjFybVRiRHdVNF9SeERYWmVuWklMS1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1VoQmZFMnViT3M2aGREc0t0ejNTMDEzc3R5Vm10b3dwbkZjbDFCWTVhRXFIZ0NKQ0FTT1RkMnNuaUI5dXk5UVZUaDIweldLeklVTDhTRF9NTUhDS010N3lFb2NNUEctaUE1TkFUR25QTWpIUGRlNXVGaEJnOUxJTjFybVRiRHdVNF9SeERYWmVuWklMS1E?oc=5\" target=\"_blank\">How To Use Meta Display Glasses While Driving With The Audio Only Feature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+      "published": "2026-09-15T01:30:00+00:00",
+      "source": "Engadget"
     },
     {
       "title": "Meta plans Eagle Mountain data center expansion, $2.5M community investment - KUTV",
@@ -40,48 +33,55 @@
       "source": "KUTV"
     },
     {
-      "title": "Big Tech built social media for kids. Now it must protect them. - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54aVEzZGFmcnFqZURadG93eVFBZEtPQ3FYMWFndFJmU2VycGg4M2llUWlYcGJicHgwcVJHblU5OHN1SEtuQjJyU2t4cDZDeE9BYk9PczhBeThERUdzaG8yNlFPMmszQUl1WW95djJzd2pZeE1lU3Y3X2RYRmo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE54aVEzZGFmcnFqZURadG93eVFBZEtPQ3FYMWFndFJmU2VycGg4M2llUWlYcGJicHgwcVJHblU5OHN1SEtuQjJyU2t4cDZDeE9BYk9PczhBeThERUdzaG8yNlFPMmszQUl1WW95djJzd2pZeE1lU3Y3X2RYRmo?oc=5\" target=\"_blank\">Big Tech built social media for kids. Now it must protect them.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boston Globe</font>",
-      "published": "2026-09-14T07:24:56+00:00",
-      "source": "The Boston Globe"
+      "title": "Meta Touts the Cost-Saving Benefits of Latest In-House AI Chips - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUZCZk9JODh6eDF4RVB6Q3lGSkt5Ul9IOGRSVFROQ2lxTFAxY21rUmk3WHVsbnBYcTg2eHBuTTk4STNVRkliTEF5azVXZUs0M09yM0J4bW5ManFRMC1yckY1UTh4N2xEX2V6S3NFZ09UdTZnSm01a24xVDYzb3JRd1Zla1BUZDQtQ0JaTERnOVlQS3ZJSTRNamxtNnFFa2hKVmVxNnJicVFoNHBYSHltUlFLUEg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUZCZk9JODh6eDF4RVB6Q3lGSkt5Ul9IOGRSVFROQ2lxTFAxY21rUmk3WHVsbnBYcTg2eHBuTTk4STNVRkliTEF5azVXZUs0M09yM0J4bW5ManFRMC1yckY1UTh4N2xEX2V6S3NFZ09UdTZnSm01a24xVDYzb3JRd1Zla1BUZDQtQ0JaTERnOVlQS3ZJSTRNamxtNnFFa2hKVmVxNnJicVFoNHBYSHltUlFLUEg?oc=5\" target=\"_blank\">Meta Touts the Cost-Saving Benefits of Latest In-House AI Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-09-15T14:00:08+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Meta Quest user vibe-codes 3D object throwing to 3D printer — ‘I've never felt more like Tony Stark’ says the software engineer - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNXRfTElmOUdpT01EbkpzWUJiMzA0TGNkRW9nVDdIZ3doT296YVg0VVZDYjRNWVN0UUJUYi1Qc2dfMTRrN0paZkZkejNmOFd2cVpYNWFlRmR3RFVNMmY4TEhDZXlWU3NEWkVkXzgtUFkwelZHLUVSZnVUSTluZEpLSW5iTTJrNVhLMWFwU0ZWN1FWVE9ZRGFidl91cm9pMWhwQm8wYWpPZlZvYWhXcURtVVFiN3gxeW9ZUjk2eWtzaGtPRVZ1ZUY5elJydUhoUGNraEU2M2VBejFHTHBldmFEVmFpWDVLd0ZvVHJkNkJqRG1yaGJNclE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNXRfTElmOUdpT01EbkpzWUJiMzA0TGNkRW9nVDdIZ3doT296YVg0VVZDYjRNWVN0UUJUYi1Qc2dfMTRrN0paZkZkejNmOFd2cVpYNWFlRmR3RFVNMmY4TEhDZXlWU3NEWkVkXzgtUFkwelZHLUVSZnVUSTluZEpLSW5iTTJrNVhLMWFwU0ZWN1FWVE9ZRGFidl91cm9pMWhwQm8wYWpPZlZvYWhXcURtVVFiN3gxeW9ZUjk2eWtzaGtPRVZ1ZUY5elJydUhoUGNraEU2M2VBejFHTHBldmFEVmFpWDVLd0ZvVHJkNkJqRG1yaGJNclE?oc=5\" target=\"_blank\">Meta Quest user vibe-codes 3D object throwing to 3D printer — ‘I've never felt more like Tony Stark’ says the software engineer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-09-14T11:17:30+00:00",
-      "source": "Tom's Hardware"
+      "title": "Meta’s new One subscriptions put a price on social media and AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94eVZYQ3hkeXdTd1JMV0oxV2lISzk4ZmhsV1NFNlFKNzNDRkZDVEllR20zajJ4bW9uMEpJNEpnQWlwRTh6LVRtaDZPU1F6eHFCMlFhdFlmUUNXSkIyR2lzM0hFdXFpRk0wMVZ4MjJ0cw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE94eVZYQ3hkeXdTd1JMV0oxV2lISzk4ZmhsV1NFNlFKNzNDRkZDVEllR20zajJ4bW9uMEpJNEpnQWlwRTh6LVRtaDZPU1F6eHFCMlFhdFlmUUNXSkIyR2lzM0hFdXFpRk0wMVZ4MjJ0cw?oc=5\" target=\"_blank\">Meta’s new One subscriptions put a price on social media and AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-09-15T15:00:00+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "Threads Apps Arrived On Quest & Meta Ray-Ban Display - UploadVR",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzJud3RzMkF6U2RlRGY1b3VlbUFGRTFsQml6MmVWX3ZlRTU0NEZMXzJHaGRlajU0Mjg4ZXlXU1YxNGp1akhFX1lVb0tMa1NQdmZXMlRJUjlOUlF1NTVmakZrZ05Lczk1U0ZkNjJRTVlJcHBWbEx6cUxoaTJYN3ZiN29R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzJud3RzMkF6U2RlRGY1b3VlbUFGRTFsQml6MmVWX3ZlRTU0NEZMXzJHaGRlajU0Mjg4ZXlXU1YxNGp1akhFX1lVb0tMa1NQdmZXMlRJUjlOUlF1NTVmakZrZ05Lczk1U0ZkNjJRTVlJcHBWbEx6cUxoaTJYN3ZiN29R?oc=5\" target=\"_blank\">Threads Apps Arrived On Quest & Meta Ray-Ban Display</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UploadVR</font>",
-      "published": "2026-09-13T18:50:12+00:00",
-      "source": "UploadVR"
+      "title": "Meta Launches Major New Subscriptions Push for Creators … Powered By AI - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEdSS09nenlUNEFySW45aTFtNVZCSU9ta2JoM0VpREJ1R2NTLXlZRzc3Y2pVaW5fZ1B4aTZGclZOaG5DQ0k2NGFSQnUybHYtUDNQRHpCZTZMWHZZWndhem5Obk9RLUtFbzh3OEJReHB3TWpVMG5xTEp3OFFkUTVzVWpGTFp4bWZPeUU0NTFpQXRROVpXdk1MeUwweFB2M3FGSjgwRUJWTlpkcEJ2VF9nT0xpbDg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEdSS09nenlUNEFySW45aTFtNVZCSU9ta2JoM0VpREJ1R2NTLXlZRzc3Y2pVaW5fZ1B4aTZGclZOaG5DQ0k2NGFSQnUybHYtUDNQRHpCZTZMWHZZWndhem5Obk9RLUtFbzh3OEJReHB3TWpVMG5xTEp3OFFkUTVzVWpGTFp4bWZPeUU0NTFpQXRROVpXdk1MeUwweFB2M3FGSjgwRUJWTlpkcEJ2VF9nT0xpbDg?oc=5\" target=\"_blank\">Meta Launches Major New Subscriptions Push for Creators … Powered By AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
+      "published": "2026-09-15T15:21:28+00:00",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "title": "Instagram wants you to pay for its AI photo-editing filters - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckQzZk1jRC04azR2QmJzNEg0b082enlBMjFid0phRjNHc09RRS1jdm1nZjRHaTd2ZlRzd3N5RWRRZlNWY0w1WV9sdmp4T240WFlrMEhYUW93TkZhX3N5dlZxQUlaT1NIRXdKMUdVWlR4c19uOVdtQmk5RUdUMUFCZDd4WkJ3c0pVLUlpaGdWLUZTOHA1eDJNc0Q5Q1pQQU1OY2ctc3ZwbGg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOckQzZk1jRC04azR2QmJzNEg0b082enlBMjFid0phRjNHc09RRS1jdm1nZjRHaTd2ZlRzd3N5RWRRZlNWY0w1WV9sdmp4T240WFlrMEhYUW93TkZhX3N5dlZxQUlaT1NIRXdKMUdVWlR4c19uOVdtQmk5RUdUMUFCZDd4WkJ3c0pVLUlpaGdWLUZTOHA1eDJNc0Q5Q1pQQU1OY2ctc3ZwbGg?oc=5\" target=\"_blank\">Instagram wants you to pay for its AI photo-editing filters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-09-14T20:31:00+00:00",
+      "source": "Business Insider"
     }
   ],
   "product_launches": [
+    {
+      "title": "Meta Launches Major New Subscriptions Push for Creators … Powered By AI - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEdSS09nenlUNEFySW45aTFtNVZCSU9ta2JoM0VpREJ1R2NTLXlZRzc3Y2pVaW5fZ1B4aTZGclZOaG5DQ0k2NGFSQnUybHYtUDNQRHpCZTZMWHZZWndhem5Obk9RLUtFbzh3OEJReHB3TWpVMG5xTEp3OFFkUTVzVWpGTFp4bWZPeUU0NTFpQXRROVpXdk1MeUwweFB2M3FGSjgwRUJWTlpkcEJ2VF9nT0xpbDg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEdSS09nenlUNEFySW45aTFtNVZCSU9ta2JoM0VpREJ1R2NTLXlZRzc3Y2pVaW5fZ1B4aTZGclZOaG5DQ0k2NGFSQnUybHYtUDNQRHpCZTZMWHZZWndhem5Obk9RLUtFbzh3OEJReHB3TWpVMG5xTEp3OFFkUTVzVWpGTFp4bWZPeUU0NTFpQXRROVpXdk1MeUwweFB2M3FGSjgwRUJWTlpkcEJ2VF9nT0xpbDg?oc=5\" target=\"_blank\">Meta Launches Major New Subscriptions Push for Creators … Powered By AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
+      "published": "2026-09-15T15:21:28+00:00",
+      "source": "The Hollywood Reporter"
+    },
+    {
+      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5\" target=\"_blank\">Meta settlement could clear the way for new AI product launches, Morgan Stanley says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+      "published": "2026-09-02T07:00:00+00:00",
+      "source": "cnbc.com"
+    },
     {
       "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5\" target=\"_blank\">Introducing Muse: The World’s First Personal AI Agent Built for Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
       "published": "2026-09-08T19:00:51+00:00",
       "source": "meta.com"
-    },
-    {
-      "title": "Goldman Sachs reiterates Meta stock Buy rating on AI agent launch - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0hfbjRldnB4LXhkWERVVDZmS280MXRHLTAweVM5NFM1Sm8xd2dNRWJkTWVZcExZdnBjREh1X2tBeTU2ZEFpV0RBOEFKMFRvcksxZXpZbDAyazY0bTlkOUo2RWVtZF9kS01ySmFpWGFQaG81d3l3U3FlNGJqWHNlQXhraV84elVJdFMxX2ctU3h6aWl0OHlJTWhxVkE1dEtzb0dqNDVOVk5uZHFkRG9saWVweGhQdERRcElSb0lSZ2dWakxKTEFEZk5Oc291dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0hfbjRldnB4LXhkWERVVDZmS280MXRHLTAweVM5NFM1Sm8xd2dNRWJkTWVZcExZdnBjREh1X2tBeTU2ZEFpV0RBOEFKMFRvcksxZXpZbDAyazY0bTlkOUo2RWVtZF9kS01ySmFpWGFQaG81d3l3U3FlNGJqWHNlQXhraV84elVJdFMxX2ctU3h6aWl0OHlJTWhxVkE1dEtzb0dqNDVOVk5uZHFkRG9saWVweGhQdERRcElSb0lSZ2dWakxKTEFEZk5Oc291dw?oc=5\" target=\"_blank\">Goldman Sachs reiterates Meta stock Buy rating on AI agent launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-09-14T12:18:00+00:00",
-      "source": "Investing.com"
-    },
-    {
-      "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnlCVDJ6NTNQcnJBNVhHcEJNajZWajdBZ2cxVm42N1lPdl9mNkFWaHBqc1VNV1I0Mmp5UGRlR0p0RGZiRklBdzctQlNibDdpZ0hTamxXeHhaTG9pRVZYbHUwTGhHWFpzVEZXSG5rRkRWT3JnX3dDZVY1bUctc3M4d9IBhgFBVV95cUxPeWYyTW9TNEVVQjMtaXE3UDN5dDFEeEMtRE1QWWtaQUVHZ0JJYVlXN2NFalBSN0JUUFIzMnFpY3pFc2ZBWEhNZGNRNWctOEpyci1pZmE1NHBWMVA4bHZoZjJfVmRfOWFjWWwwSnZVM0hvR0hKRFV3cnhVVm10dFZzcS1tMUlKQQ?oc=5\" target=\"_blank\">Meta settlement could clear the way for new AI product launches, Morgan Stanley says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-02T07:00:00+00:00",
-      "source": "CNBC"
     },
     {
       "title": "Meta debuts Muse, its long-planned personal AI agent - Axios",
@@ -91,25 +91,21 @@
       "source": "Axios"
     },
     {
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5\" target=\"_blank\">Meta launches AI agent that can access other apps to send emails, make payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-08T21:29:41+00:00",
-      "source": "Reuters"
+      "title": "Why Meta’s Stock Is Rising After Muse AI Launch - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemVjSTVpYVVybFJfYlpwLUozYjM3Q3ZCdzJYR3h1enM0bGp0THVOMWpLUzNndFAwMGRkd1JsNEV6c0t6Xy1VX3dIOUROWkhvWGkwQ09Rc2NCR3EtdGZmR1lvTEhoV0dsQmhCbTZZS0VGOEpHeUdpRzVxWS1xZkRYNjhYb3hxRHJhTk1HdmM3SWxmOEx5YXBCcXdadlEzRmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNemVjSTVpYVVybFJfYlpwLUozYjM3Q3ZCdzJYR3h1enM0bGp0THVOMWpLUzNndFAwMGRkd1JsNEV6c0t6Xy1VX3dIOUROWkhvWGkwQ09Rc2NCR3EtdGZmR1lvTEhoV0dsQmhCbTZZS0VGOEpHeUdpRzVxWS1xZkRYNjhYb3hxRHJhTk1HdmM3SWxmOEx5YXBCcXdadlEzRmM?oc=5\" target=\"_blank\">Why Meta’s Stock Is Rising After Muse AI Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-09-09T14:24:58+00:00",
+      "source": "Forbes"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-14",
-      "close": 664.3499145507812
+      "date": "2026-09-15",
+      "close": 667.4450073242188
     },
     "history": [
-      {
-        "date": "2026-09-03",
-        "close": 610.6799926757812
-      },
       {
         "date": "2026-09-04",
         "close": 616.77001953125
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-09-14",
-        "close": 664.3499145507812
+        "close": 665.5999755859375
+      },
+      {
+        "date": "2026-09-15",
+        "close": 667.4450073242188
       }
     ],
     "name": "Meta Platforms, Inc."
