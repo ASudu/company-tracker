@@ -2,71 +2,78 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-09-15T15:54:23.904203+00:00",
+  "fetched_at": "2026-09-16T15:46:41.620792+00:00",
   "news": [
     {
-      "title": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkF6Q0JLVjMyRkRmX2YxS3J3MlRGX2xGdzhDWTF2alBnQ19vSmhxNGJpTTZrcDZlOTV3VTJnN3BCOXkzYzduOGo0bmpIc09CZ1lGbzdmdkc1eVlrYUEwN1RDV1NWUGdqYzBTWlZqYUVHWjFMSEpoMnplbDhkYTkyeHhRb0tFU3V2MXVkLXc2alVVUGlXRnctRFpkTzNDLXhOWWJOYXpVM09vNF94UEFFbVBxeFE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkF6Q0JLVjMyRkRmX2YxS3J3MlRGX2xGdzhDWTF2alBnQ19vSmhxNGJpTTZrcDZlOTV3VTJnN3BCOXkzYzduOGo0bmpIc09CZ1lGbzdmdkc1eVlrYUEwN1RDV1NWUGdqYzBTWlZqYUVHWjFMSEpoMnplbDhkYTkyeHhRb0tFU3V2MXVkLXc2alVVUGlXRnctRFpkTzNDLXhOWWJOYXpVM09vNF94UEFFbVBxeFE?oc=5\" target=\"_blank\">Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hlbmpRM191TmRMWGdwUGhMcEJBZFQ4eHhiUXp6ZWd0MDZXRHFHaUpqbVdlZXhMY1ZQbE1kWjJpRm16dkNUb25fWXdFbDhrNlFFcUJxY0ktX01adi1qOXJ3Sy11Ynh0Um11TUh6MVMxS3QtT19URmhwVVRieWxGR19PanhQbVBhekFFcE5CdFBaM0M5a0tkV25aWlNpVzYxYm1UVHIwXy15bUJhai1IOHRQRHc?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQalphTkFqdlhOSXlUY1ZndGFTMUVMR0I3NTYxMEkwVWtLSHhnTWd5Q1IxNE1wN2ZiOGlIRFF3RlB5UzYyejVQaEJ5V0w3NllTejZ5WFBoUkxEYnF2UUZGdUc1V3h5ZFh1RGYzdEYzUzBBbWYxTUNkLWVjQUdxWWFOd0NSWDg0eTZ6RDFFUVBrUllmTkRyTXVrSXpSTVlmRUI2TFlXYUFNbUhXcF9aZVVrd3JEbUFmNl95d05nVEZ4Yks?oc=5\" target=\"_blank\">Nvidia CEO Puts Trump on Phone While Downplaying AI Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li></ol>",
-      "published": "2026-09-14T23:06:00+00:00",
-      "source": "NBC News"
+      "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5\" target=\"_blank\">Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-16T01:56:00+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Stock Market Today: Dow Dives As Yields Jump; Nvidia Up But This Biotech Play Flashes Sell Signal (Live Coverage) - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3laX0xYU20tcWVGQThpNEZfXzE0SXJ4WUtIVzU4UzNEUW54WG4xV1RZVzNDMTZKY3J4emF4VTUxeU93aWJVRml3MHMtSFdNVDJqWDRSTTE5Rkp0TFR2OUlaT2kwMHI3TmROYVl1UEV0dVJEaHdRWE1vWmJGNXVORmI5cHgxWFI4UHduQXFoSGRvWFBGeU1SY1M4UEJsbU9tWEhJWDViVlE4TFRVeXREeWF1YTV1T0dwMDdsMFJn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3laX0xYU20tcWVGQThpNEZfXzE0SXJ4WUtIVzU4UzNEUW54WG4xV1RZVzNDMTZKY3J4emF4VTUxeU93aWJVRml3MHMtSFdNVDJqWDRSTTE5Rkp0TFR2OUlaT2kwMHI3TmROYVl1UEV0dVJEaHdRWE1vWmJGNXVORmI5cHgxWFI4UHduQXFoSGRvWFBGeU1SY1M4UEJsbU9tWEhJWDViVlE4TFRVeXREeWF1YTV1T0dwMDdsMFJn?oc=5\" target=\"_blank\">Stock Market Today: Dow Dives As Yields Jump; Nvidia Up But This Biotech Play Flashes Sell Signal (Live Coverage)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-09-15T14:42:00+00:00",
+      "title": "Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObG5VOF9FckVMY2o1eWJQVWRMU3ZDaGF4QVNnNDg1Q256UExlSVJnenkyV1luX0IxTTQtcGNvRWVQTEgweVhrQW5qSVJPYTRLRHZEZ1kxRGJqTnNNWnpIbnkyeWYxY3RIRDJUYXBPY21tR3JmcUNQdkZEU2tyOFdLWmgyZmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObG5VOF9FckVMY2o1eWJQVWRMU3ZDaGF4QVNnNDg1Q256UExlSVJnenkyV1luX0IxTTQtcGNvRWVQTEgweVhrQW5qSVJPYTRLRHZEZ1kxRGJqTnNNWnpIbnkyeWYxY3RIRDJUYXBPY21tR3JmcUNQdkZEU2tyOFdLWmgyZmc?oc=5\" target=\"_blank\">Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-09-15T20:55:21+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU5SVF9RcWwtd2h6RDltWHBOZkYtdmRIMTVaVk1ialFTMnJyZWFfMFh0UndsaGhZR1ktWGs4SDBMcjZ0VklrSU14QjZrVl81TGJ0TTlOUENWelNlT0VvNjVfREdTLXhaa0RnNFA4LUFDbTdJbEUzUXlsZG1hTW9HNm1DTEJ0RDNmVXRrUjkzdDgtY0dFeHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU5SVF9RcWwtd2h6RDltWHBOZkYtdmRIMTVaVk1ialFTMnJyZWFfMFh0UndsaGhZR1ktWGs4SDBMcjZ0VklrSU14QjZrVl81TGJ0TTlOUENWelNlT0VvNjVfREdTLXhaa0RnNFA4LUFDbTdJbEUzUXlsZG1hTW9HNm1DTEJ0RDNmVXRrUjkzdDgtY0dFeHc?oc=5\" target=\"_blank\">Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "published": "2026-09-16T13:22:00+00:00",
       "source": "Investor's Business Daily"
     },
     {
-      "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5\" target=\"_blank\">Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">barrons.com</font>",
-      "published": "2026-09-14T18:26:00+00:00",
-      "source": "barrons.com"
+      "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech - theinformation.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5\" target=\"_blank\">Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinformation.com</font>",
+      "published": "2026-09-16T13:00:00+00:00",
+      "source": "theinformation.com"
     },
     {
-      "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjctTDlScHNnRGZ6Zmk4cXA3YnE2S3drQnQ4bUhFSzBpUkhkXzdRRTI4UEhDMDNlUlVyeDI3R3dON2wtMFdNTXpTY3FGT0lUd1NGM2ZJQjdXQTFtSnVNUzFfc2ZYQ1dZN3U4X3prWmFsZU1NMkdoYk9famcwY3RlRmdCdl9ic1ZjZ1Y1R2YtbkkwcGphNl9QSXhUcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjctTDlScHNnRGZ6Zmk4cXA3YnE2S3drQnQ4bUhFSzBpUkhkXzdRRTI4UEhDMDNlUlVyeDI3R3dON2wtMFdNTXpTY3FGT0lUd1NGM2ZJQjdXQTFtSnVNUzFfc2ZYQ1dZN3U4X3prWmFsZU1NMkdoYk9famcwY3RlRmdCdl9ic1ZjZ1Y1R2YtbkkwcGphNl9QSXhUcw?oc=5\" target=\"_blank\">Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-15T15:44:54+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Salesforce Broadens Alliances With Nvidia, Google Cloud, AWS for Enterprise AI Integration - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUFXQWZ5SGZsTEo0Z2c3a0cxMWJxbkROM0R3Uk0xalQwZ1l6MjRqeFBOMTZHNUpUMjlHellQSHprQzdDejF0RGlSeDlTMUVsS2pZdThTZ254Y29wNnd6TFBmT2tiYXNMVzhSTkJaSFlYS2lieEpoUXRvTzVWMW9SV2taMTMyU0dMSkJCU2l2YjZvT2FXYnpTZW1pYlFERnFFXzN3dnYtZFBicmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUFXQWZ5SGZsTEo0Z2c3a0cxMWJxbkROM0R3Uk0xalQwZ1l6MjRqeFBOMTZHNUpUMjlHellQSHprQzdDejF0RGlSeDlTMUVsS2pZdThTZ254Y29wNnd6TFBmT2tiYXNMVzhSTkJaSFlYS2lieEpoUXRvTzVWMW9SV2taMTMyU0dMSkJCU2l2YjZvT2FXYnpTZW1pYlFERnFFXzN3dnYtZFBicmc?oc=5\" target=\"_blank\">Salesforce Broadens Alliances With Nvidia, Google Cloud, AWS for Enterprise AI Integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-15T15:13:59+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWNhdEVPc1dqTGMyRWxhWWFrWF9wM2J3NmhWRW1HS3VQT1U3ZjV5M1R1Qi1faVE0cVJzaXZEWHhac25nT1J4bFlGaVdkVHFOZklJcWxydE5OWk04anFNZURQeEVxZklRYk5rRDN0dXdMWlZSOC13RHY0eXJqVi1VQ2x1WHRWemZXMElNVm5JWHZBS3d3UmNGWXJwa2poV0VGdjBfRjM5WUNHZFhWTW5oRkZVaU4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONWNhdEVPc1dqTGMyRWxhWWFrWF9wM2J3NmhWRW1HS3VQT1U3ZjV5M1R1Qi1faVE0cVJzaXZEWHhac25nT1J4bFlGaVdkVHFOZklJcWxydE5OWk04anFNZURQeEVxZklRYk5rRDN0dXdMWlZSOC13RHY0eXJqVi1VQ2x1WHRWemZXMElNVm5JWHZBS3d3UmNGWXJwa2poV0VGdjBfRjM5WUNHZFhWTW5oRkZVaU4?oc=5\" target=\"_blank\">Palantir, Nvidia curb AI model use over data fears, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-14T15:11:30+00:00",
+      "title": "Apple considers Nvidia tech for return to server market, The Information reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5\" target=\"_blank\">Apple considers Nvidia tech for return to server market, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-16T13:25:29+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Vkb3BoV3lsNElhVzd2SEJCR0hjd3FXbWlmTnE0ZlBLZXk0QkliX0pMY1JFelNhMF8tNlZYUTI4bkNQeUh1M3RsU29UZWRZSkhVUC12RWpQczN0U1hMblBkSGlQNURDQVh5S0VhbEEtOHRKejJxckxKRndFbDlwTzkyWm1CSFZRQXpndGJPV2lVdTlOWUM3RFcxcmdGSFFCSmZBc3N2WkR6RzBLVEpmajFibw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Vkb3BoV3lsNElhVzd2SEJCR0hjd3FXbWlmTnE0ZlBLZXk0QkliX0pMY1JFelNhMF8tNlZYUTI4bkNQeUh1M3RsU29UZWRZSkhVUC12RWpQczN0U1hMblBkSGlQNURDQVh5S0VhbEEtOHRKejJxckxKRndFbDlwTzkyWm1CSFZRQXpndGJPV2lVdTlOWUM3RFcxcmdGSFFCSmZBc3N2WkR6RzBLVEpmajFibw?oc=5\" target=\"_blank\">Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-09-14T13:00:00+00:00",
-      "source": "The Information"
+      "title": "Apple May Return to Server Market With Nvidia Technology - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSEFwTktxSXJ4SUdnUXh3bVpDRUhoTkVRcVF1Q1lUN3J6c1JUc0R2RE8xQk9ncF8wOUtJNGxtamdYUjhBcXpaTjRleWZnd0ItODhtYk1sOUlSR3FkbG5VMjdtcG1FVkJhUjZXR1BzMVJ5YmhYSklHWUdmUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSEFwTktxSXJ4SUdnUXh3bVpDRUhoTkVRcVF1Q1lUN3J6c1JUc0R2RE8xQk9ncF8wOUtJNGxtamdYUjhBcXpaTjRleWZnd0ItODhtYk1sOUlSR3FkbG5VMjdtcG1FVkJhUjZXR1BzMVJ5YmhYSklHWUdmUQ?oc=5\" target=\"_blank\">Apple May Return to Server Market With Nvidia Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-09-16T13:53:01+00:00",
+      "source": "MacRumors"
     },
     {
-      "title": "Nvidia announces project with Palantir to develop AI supply chain management - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1JGUk91ZkpKSFJSRzFsaml2U29idVQ1WjEwY1FUSi1pUDRycEVOSWs5XzJ6LTlCNmVxUUlSQlFSdUE4bFlBb0k2UGZtUHBOQ1BOWW1BODNYbWlQSVYtb2d4Wkt0RVJuMzdsYk9GaWZoYnhSeGlPMVAyb0IzanlVTm1WZEx4dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1JGUk91ZkpKSFJSRzFsaml2U29idVQ1WjEwY1FUSi1pUDRycEVOSWs5XzJ6LTlCNmVxUUlSQlFSdUE4bFlBb0k2UGZtUHBOQ1BOWW1BODNYbWlQSVYtb2d4Wkt0RVJuMzdsYk9GaWZoYnhSeGlPMVAyb0IzanlVTm1WZEx4dw?oc=5\" target=\"_blank\">Nvidia announces project with Palantir to develop AI supply chain management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
-      "published": "2026-09-15T06:09:09+00:00",
-      "source": "The Jerusalem Post"
+      "title": "NVIDIA Tokenized Stock Surges As RWAs Hit $47 Billion - MarketForces Africa",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHlqYnN5bkJZZVFVOEpMa0tJX2piNkxOVVFMczRLQVJrclFmanM4ZHhTckxWZktmNmVZREpuTm5PYkdyaUItRmVabU9vR3ROYjVRd0FfN0JsVERvVkxnQm1YUWNzc3NwSDNMR1l1UU1xWjhIcUszOXBudlhxOWI5b280WHJkdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHlqYnN5bkJZZVFVOEpMa0tJX2piNkxOVVFMczRLQVJrclFmanM4ZHhTckxWZktmNmVZREpuTm5PYkdyaUItRmVabU9vR3ROYjVRd0FfN0JsVERvVkxnQm1YUWNzc3NwSDNMR1l1UU1xWjhIcUszOXBudlhxOWI5b280WHJkdw?oc=5\" target=\"_blank\">NVIDIA Tokenized Stock Surges As RWAs Hit $47 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketForces Africa</font>",
+      "published": "2026-09-16T14:48:26+00:00",
+      "source": "MarketForces Africa"
+    },
+    {
+      "title": "Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026 - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5\" target=\"_blank\">Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-09-16T15:00:00+00:00",
+      "source": "TechCrunch"
     }
   ],
   "product_launches": [
     {
-      "title": "Nvidia RTX 6090 greenlit for 2027 launch – Leak claims - OC3D",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBZNU5ETzVCdnpiZk8wdUhjZ2VQVGtVampKaEpreXpkMlVORU5ZTzhxcWhtUHhPUzFSSkR4ZExlcFQ1SVVDWjlMY0l3UE5nbW5rWFBBLVc3TWRfVGpCNGJMalF6QkxXNThlMi1PczE2SHhBNkF2Y0hPMV9GVTQ5NHptYVVaamNuNEQ3akZKMklURmhPR0dUMDhmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBZNU5ETzVCdnpiZk8wdUhjZ2VQVGtVampKaEpreXpkMlVORU5ZTzhxcWhtUHhPUzFSSkR4ZExlcFQ1SVVDWjlMY0l3UE5nbW5rWFBBLVc3TWRfVGpCNGJMalF6QkxXNThlMi1PczE2SHhBNkF2Y0hPMV9GVTQ5NHptYVVaamNuNEQ3akZKMklURmhPR0dUMDhmZw?oc=5\" target=\"_blank\">Nvidia RTX 6090 greenlit for 2027 launch – Leak claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
-      "published": "2026-09-15T12:12:56+00:00",
+      "title": "Apple Prepares AI Server Launch for 2029, Weighs Adoption of Nvidia Interconnect Technology - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZ0tqOGt3VWtzRTEwdWgyNFlMdlM0MGQ4ajJjVkwtV0lpdW84dkx0X3BlOUpzckNrcHVzRUZhRVRWU01lQUM0Z1RmaWNwVVd3cHlxR2VQSHhPc2YxZ2dCV3ktQVRQOVVsN1lJWkpXeVhxZ0hrd0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZ0tqOGt3VWtzRTEwdWgyNFlMdlM0MGQ4ajJjVkwtV0lpdW84dkx0X3BlOUpzckNrcHVzRUZhRVRWU01lQUM0Z1RmaWNwVVd3cHlxR2VQSHhPc2YxZ2dCV3ktQVRQOVVsN1lJWkpXeVhxZ0hrd0E?oc=5\" target=\"_blank\">Apple Prepares AI Server Launch for 2029, Weighs Adoption of Nvidia Interconnect Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "published": "2026-09-16T13:55:00+00:00",
+      "source": "finance.biggo.com"
+    },
+    {
+      "title": "Prominent leaker refutes Nvidia GeForce RTX 6090 release rumours - OC3D",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2d5Q2FOb1VkWDNIVUJLMGJKRWtMM2NlMFQ3ZU4yVzdfMkZWaXhWVlJOUWdWeXMzM2RJUWVKOTZveEdOVENYV0M5V0Y3QkE5c3k2c0w4SnZ4VDJFV2ZBQWZYeGtVdVg5eDB2OFdmQW1IRVVwQ2t3WkJZdnl2LU5TcXJQejRGN3U1Y0pIQnNrOFF1OXl2MmRTTE1WclgtNnNCTE1YV0Jjb0wxZEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2d5Q2FOb1VkWDNIVUJLMGJKRWtMM2NlMFQ3ZU4yVzdfMkZWaXhWVlJOUWdWeXMzM2RJUWVKOTZveEdOVENYV0M5V0Y3QkE5c3k2c0w4SnZ4VDJFV2ZBQWZYeGtVdVg5eDB2OFdmQW1IRVVwQ2t3WkJZdnl2LU5TcXJQejRGN3U1Y0pIQnNrOFF1OXl2MmRTTE1WclgtNnNCTE1YV0Jjb0wxZEk?oc=5\" target=\"_blank\">Prominent leaker refutes Nvidia GeForce RTX 6090 release rumours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
+      "published": "2026-09-16T14:25:57+00:00",
       "source": "OC3D"
     },
     {
@@ -77,39 +84,28 @@
       "source": "Pinterest Newsroom"
     },
     {
-      "title": "Nvidia and Palantir Launch New AI Stack for Supply Chains - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmc3Yy1GUWRqWXV3STFYMS11Qk96cENLUVZqSXJoMUlnLTlkZVZvWHJpb1NRM1pGM3k1SEJZUGVnOS1ULTV5MWVTVkhkZ0JtVnRVR2hwM0tmZGRoOVM3cHBjOVd3RDVicms0X0NrVUV3SjlRUEZtczY5eDRxX0VTcWhEdG9PLWkwTDNiMFFaS2pMaUVoX2lUWlZnWlFReUplSGdn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmc3Yy1GUWRqWXV3STFYMS11Qk96cENLUVZqSXJoMUlnLTlkZVZvWHJpb1NRM1pGM3k1SEJZUGVnOS1ULTV5MWVTVkhkZ0JtVnRVR2hwM0tmZGRoOVM3cHBjOVd3RDVicms0X0NrVUV3SjlRUEZtczY5eDRxX0VTcWhEdG9PLWkwTDNiMFFaS2pMaUVoX2lUWlZnWlFReUplSGdn?oc=5\" target=\"_blank\">Nvidia and Palantir Launch New AI Stack for Supply Chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-      "published": "2026-09-10T15:43:00+00:00",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - nvidianews.nvidia.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nvidianews.nvidia.com</font>",
       "published": "2026-04-14T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
+      "source": "nvidianews.nvidia.com"
     },
     {
-      "title": "Nvidia launches new chip to bring AI directly to personal computers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5\" target=\"_blank\">Nvidia launches new chip to bring AI directly to personal computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-06-01T07:00:00+00:00",
-      "source": "Reuters"
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5\" target=\"_blank\">Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+      "published": "2026-08-25T07:00:00+00:00",
+      "source": "VentureBeat"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-15",
-      "close": 212.2050018310547
+      "date": "2026-09-16",
+      "close": 216.24000549316406
     },
     "history": [
-      {
-        "date": "2026-09-04",
-        "close": 230.10252380371094
-      },
       {
         "date": "2026-09-08",
         "close": 225.47769165039062
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-09-15",
-        "close": 212.2050018310547
+        "close": 212.1699981689453
+      },
+      {
+        "date": "2026-09-16",
+        "close": 216.24000549316406
       }
     ],
     "name": "NVIDIA Corporation"
