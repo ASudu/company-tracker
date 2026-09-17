@@ -2,93 +2,86 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-09-16T15:46:41.620792+00:00",
+  "fetched_at": "2026-09-17T15:52:49.677678+00:00",
   "news": [
     {
-      "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5\" target=\"_blank\">Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-16T01:56:00+00:00",
-      "source": "CNBC"
+      "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels - NVIDIA Developer",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHU4bTNfMV9DOThPNENkaVlQazROZnNmalh3TEdOdnFSLW1sUS1ueDkyaUs0a3B1amhoLW1QQXBjTGNzR1gzMW9JMWk0a2hkeVlsN3dUd25CRFFLbUV4Y09ROW8wWm5PdG51M1BuSm1jVTViclpoYTlSeXI4c2R5ampOeE1ra2lhbzJHNDFoN252aHB3T2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHU4bTNfMV9DOThPNENkaVlQazROZnNmalh3TEdOdnFSLW1sUS1ueDkyaUs0a3B1amhoLW1QQXBjTGNzR1gzMW9JMWk0a2hkeVlsN3dUd25CRFFLbUV4Y09ROW8wWm5PdG51M1BuSm1jVTViclpoYTlSeXI4c2R5ampOeE1ra2lhbzJHNDFoN252aHB3T2c?oc=5\" target=\"_blank\">Introducing CUDA Rust: Two Tracks for Writing GPU Kernels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Developer</font>",
+      "published": "2026-09-08T07:00:00+00:00",
+      "source": "NVIDIA Developer"
     },
     {
-      "title": "Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObG5VOF9FckVMY2o1eWJQVWRMU3ZDaGF4QVNnNDg1Q256UExlSVJnenkyV1luX0IxTTQtcGNvRWVQTEgweVhrQW5qSVJPYTRLRHZEZ1kxRGJqTnNNWnpIbnkyeWYxY3RIRDJUYXBPY21tR3JmcUNQdkZEU2tyOFdLWmgyZmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObG5VOF9FckVMY2o1eWJQVWRMU3ZDaGF4QVNnNDg1Q256UExlSVJnenkyV1luX0IxTTQtcGNvRWVQTEgweVhrQW5qSVJPYTRLRHZEZ1kxRGJqTnNNWnpIbnkyeWYxY3RIRDJUYXBPY21tR3JmcUNQdkZEU2tyOFdLWmgyZmc?oc=5\" target=\"_blank\">Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-09-15T20:55:21+00:00",
-      "source": "Financial Times"
+      "title": "NVIDIA Reflex: Why VALORANT Pros Choose GeForce RTX - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTVVRE9ZNEpqVmVZa0ZXQ0R5M3g5ZWZMay02N3U5RkVncThSdnpWWHplV2hGZ1lkaHA1SnlSNnh2YXpXZGhfbXZvRE5hd2JQVHVadWktSld5ZERoUXVfRkl3Z20zcFU0clA4RzRBa2tBS2t0Z3ZPbGgyd01zc2VSVWR6cjZkcE81MTVtUUFOVVA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTVVRE9ZNEpqVmVZa0ZXQ0R5M3g5ZWZMay02N3U5RkVncThSdnpWWHplV2hGZ1lkaHA1SnlSNnh2YXpXZGhfbXZvRE5hd2JQVHVadWktSld5ZERoUXVfRkl3Z20zcFU0clA4RzRBa2tBS2t0Z3ZPbGgyd01zc2VSVWR6cjZkcE81MTVtUUFOVVA?oc=5\" target=\"_blank\">NVIDIA Reflex: Why VALORANT Pros Choose GeForce RTX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+      "published": "2026-09-17T14:45:42+00:00",
+      "source": "NVIDIA"
     },
     {
-      "title": "Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU5SVF9RcWwtd2h6RDltWHBOZkYtdmRIMTVaVk1ialFTMnJyZWFfMFh0UndsaGhZR1ktWGs4SDBMcjZ0VklrSU14QjZrVl81TGJ0TTlOUENWelNlT0VvNjVfREdTLXhaa0RnNFA4LUFDbTdJbEUzUXlsZG1hTW9HNm1DTEJ0RDNmVXRrUjkzdDgtY0dFeHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU5SVF9RcWwtd2h6RDltWHBOZkYtdmRIMTVaVk1ialFTMnJyZWFfMFh0UndsaGhZR1ktWGs4SDBMcjZ0VklrSU14QjZrVl81TGJ0TTlOUENWelNlT0VvNjVfREdTLXhaa0RnNFA4LUFDbTdJbEUzUXlsZG1hTW9HNm1DTEJ0RDNmVXRrUjkzdDgtY0dFeHc?oc=5\" target=\"_blank\">Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-09-16T13:22:00+00:00",
-      "source": "Investor's Business Daily"
+      "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02a0FvaWpHem5QUWZvcUhNY0JLWkxvWmVzTW1uRHpjRC1oNk5ybWtuVk5FWlNyTzBfMXJjbEhkeXI4V0xRMWtlbzZTRUpYTE1PMTBaa0RNRm1aUEpEZXVkaWdhN2s2MEZoTUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02a0FvaWpHem5QUWZvcUhNY0JLWkxvWmVzTW1uRHpjRC1oNk5ybWtuVk5FWlNyTzBfMXJjbEhkeXI4V0xRMWtlbzZTRUpYTE1PMTBaa0RNRm1aUEpEZXVkaWdhN2s2MEZoTUE?oc=5\" target=\"_blank\">Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+      "published": "2026-09-17T13:05:48+00:00",
+      "source": "NVIDIA Blog"
     },
     {
-      "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech - theinformation.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5\" target=\"_blank\">Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theinformation.com</font>",
-      "published": "2026-09-16T13:00:00+00:00",
-      "source": "theinformation.com"
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EQnRiYTgzdlJNMk10Z01wY3daTFRjRm5NWjZ6aUw4X0NhZkZtdWlqMWxMc3ZqeVVUX0MtMl9pTFI0X0pTdEZWenB5NHg1VVpVQi1RSE5tOF82REJGMUFjbUx5WVg3RUxxY0VKa2tSMHp5UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5EQnRiYTgzdlJNMk10Z01wY3daTFRjRm5NWjZ6aUw4X0NhZkZtdWlqMWxMc3ZqeVVUX0MtMl9pTFI0X0pTdEZWenB5NHg1VVpVQi1RSE5tOF82REJGMUFjbUx5WVg3RUxxY0VKa2tSMHp5UQ?oc=5\" target=\"_blank\">NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+      "published": "2026-09-16T15:07:09+00:00",
+      "source": "NVIDIA Blog"
     },
     {
-      "title": "Apple considers Nvidia tech for return to server market, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUItV2dPTnNzdl9Fd0RxZlFSWm5fTGwwMmpYc3hBYThTellLMWhESUprY3UyME5SdWtVNVBmWmpJbllMRkYyOGc4d3liVlYxdlgyX2JWYnRRWUluUWd0Tm1fY2ptd2w0MHNYNkZKS2FOR3ktSkxuc0FBUnYxc01sdGVXN1RfRVZ2Z1h1bzBPa0htT2tsYVRfVzV0a0F1Vnpua3RRT2FadUwwdnotaG5RcHItNlZadw?oc=5\" target=\"_blank\">Apple considers Nvidia tech for return to server market, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-16T13:25:29+00:00",
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15OTJ6NjdTOEl1aTB3N08yYkU1Z3JiZjBDNnJjeXBzNHlJeFJ6aWh6ZVBiUGxhWmRPSk1iVXNLWXBFbWNhWDdGX3JuN2txV0RDYnk4NTJ6WHI2MG4wNzF3d1RsN0hnU0k5UVRsWA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15OTJ6NjdTOEl1aTB3N08yYkU1Z3JiZjBDNnJjeXBzNHlJeFJ6aWh6ZVBiUGxhWmRPSk1iVXNLWXBFbWNhWDdGX3JuN2txV0RDYnk4NTJ6WHI2MG4wNzF3d1RsN0hnU0k5UVRsWA?oc=5\" target=\"_blank\">Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+      "published": "2026-09-16T13:07:24+00:00",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SR0x4NGdWbnVGU0hRVUU3N2hWWkJZWW9BNl84Sk4xWW8xUzNhQ0NmMlJMajViMktoU29lZlhGcjZNbGtlaUFiTHNCMmZGbGVINlpTR01kQlUzcGRTclBZSXRYMGQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SR0x4NGdWbnVGU0hRVUU3N2hWWkJZWW9BNl84Sk4xWW8xUzNhQ0NmMlJMajViMktoU29lZlhGcjZNbGtlaUFiTHNCMmZGbGVINlpTR01kQlUzcGRTclBZSXRYMGQ?oc=5\" target=\"_blank\">‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+      "published": "2026-09-15T22:28:14+00:00",
+      "source": "NVIDIA Blog"
+    },
+    {
+      "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5\" target=\"_blank\">China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-17T02:40:00+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Apple May Return to Server Market With Nvidia Technology - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSEFwTktxSXJ4SUdnUXh3bVpDRUhoTkVRcVF1Q1lUN3J6c1JUc0R2RE8xQk9ncF8wOUtJNGxtamdYUjhBcXpaTjRleWZnd0ItODhtYk1sOUlSR3FkbG5VMjdtcG1FVkJhUjZXR1BzMVJ5YmhYSklHWUdmUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSEFwTktxSXJ4SUdnUXh3bVpDRUhoTkVRcVF1Q1lUN3J6c1JUc0R2RE8xQk9ncF8wOUtJNGxtamdYUjhBcXpaTjRleWZnd0ItODhtYk1sOUlSR3FkbG5VMjdtcG1FVkJhUjZXR1BzMVJ5YmhYSklHWUdmUQ?oc=5\" target=\"_blank\">Apple May Return to Server Market With Nvidia Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-09-16T13:53:01+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "NVIDIA Tokenized Stock Surges As RWAs Hit $47 Billion - MarketForces Africa",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHlqYnN5bkJZZVFVOEpMa0tJX2piNkxOVVFMczRLQVJrclFmanM4ZHhTckxWZktmNmVZREpuTm5PYkdyaUItRmVabU9vR3ROYjVRd0FfN0JsVERvVkxnQm1YUWNzc3NwSDNMR1l1UU1xWjhIcUszOXBudlhxOWI5b280WHJkdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNOHlqYnN5bkJZZVFVOEpMa0tJX2piNkxOVVFMczRLQVJrclFmanM4ZHhTckxWZktmNmVZREpuTm5PYkdyaUItRmVabU9vR3ROYjVRd0FfN0JsVERvVkxnQm1YUWNzc3NwSDNMR1l1UU1xWjhIcUszOXBudlhxOWI5b280WHJkdw?oc=5\" target=\"_blank\">NVIDIA Tokenized Stock Surges As RWAs Hit $47 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketForces Africa</font>",
-      "published": "2026-09-16T14:48:26+00:00",
-      "source": "MarketForces Africa"
-    },
-    {
-      "title": "Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026 - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5\" target=\"_blank\">Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-09-16T15:00:00+00:00",
-      "source": "TechCrunch"
+      "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5\" target=\"_blank\">Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-09-16T13:00:00+00:00",
+      "source": "The Information"
     }
   ],
   "product_launches": [
     {
-      "title": "Apple Prepares AI Server Launch for 2029, Weighs Adoption of Nvidia Interconnect Technology - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZ0tqOGt3VWtzRTEwdWgyNFlMdlM0MGQ4ajJjVkwtV0lpdW84dkx0X3BlOUpzckNrcHVzRUZhRVRWU01lQUM0Z1RmaWNwVVd3cHlxR2VQSHhPc2YxZ2dCV3ktQVRQOVVsN1lJWkpXeVhxZ0hrd0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZ0tqOGt3VWtzRTEwdWgyNFlMdlM0MGQ4ajJjVkwtV0lpdW84dkx0X3BlOUpzckNrcHVzRUZhRVRWU01lQUM0Z1RmaWNwVVd3cHlxR2VQSHhPc2YxZ2dCV3ktQVRQOVVsN1lJWkpXeVhxZ0hrd0E?oc=5\" target=\"_blank\">Apple Prepares AI Server Launch for 2029, Weighs Adoption of Nvidia Interconnect Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-      "published": "2026-09-16T13:55:00+00:00",
-      "source": "finance.biggo.com"
+      "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA - newsroom.pinterest.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QX2ZJMjJLZmd3MUtnQXBDbmFuUUJ4S0JvQkZ1bXRBY0RFbUF6eUs1dTFaLW1tQ3gzdE9UdVREdkd6TTM1NllvWFhtQ0pLWXRxTG1XbXJVWXZqQmpSdW1BTUhUNTEzTWdhOUhCMDdQa0t1dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9QX2ZJMjJLZmd3MUtnQXBDbmFuUUJ4S0JvQkZ1bXRBY0RFbUF6eUs1dTFaLW1tQ3gzdE9UdVREdkd6TTM1NllvWFhtQ0pLWXRxTG1XbXJVWXZqQmpSdW1BTUhUNTEzTWdhOUhCMDdQa0t1dw?oc=5\" target=\"_blank\">Pinterest builds a new foundation for multimodal AI with NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsroom.pinterest.com</font>",
+      "published": "2026-09-14T15:05:43+00:00",
+      "source": "newsroom.pinterest.com"
     },
     {
-      "title": "Prominent leaker refutes Nvidia GeForce RTX 6090 release rumours - OC3D",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2d5Q2FOb1VkWDNIVUJLMGJKRWtMM2NlMFQ3ZU4yVzdfMkZWaXhWVlJOUWdWeXMzM2RJUWVKOTZveEdOVENYV0M5V0Y3QkE5c3k2c0w4SnZ4VDJFV2ZBQWZYeGtVdVg5eDB2OFdmQW1IRVVwQ2t3WkJZdnl2LU5TcXJQejRGN3U1Y0pIQnNrOFF1OXl2MmRTTE1WclgtNnNCTE1YV0Jjb0wxZEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2d5Q2FOb1VkWDNIVUJLMGJKRWtMM2NlMFQ3ZU4yVzdfMkZWaXhWVlJOUWdWeXMzM2RJUWVKOTZveEdOVENYV0M5V0Y3QkE5c3k2c0w4SnZ4VDJFV2ZBQWZYeGtVdVg5eDB2OFdmQW1IRVVwQ2t3WkJZdnl2LU5TcXJQejRGN3U1Y0pIQnNrOFF1OXl2MmRTTE1WclgtNnNCTE1YV0Jjb0wxZEk?oc=5\" target=\"_blank\">Prominent leaker refutes Nvidia GeForce RTX 6090 release rumours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
-      "published": "2026-09-16T14:25:57+00:00",
+      "title": "Nvidia RTX 6090 greenlit for 2027 launch – Leak claims - OC3D",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBZNU5ETzVCdnpiZk8wdUhjZ2VQVGtVampKaEpreXpkMlVORU5ZTzhxcWhtUHhPUzFSSkR4ZExlcFQ1SVVDWjlMY0l3UE5nbW5rWFBBLVc3TWRfVGpCNGJMalF6QkxXNThlMi1PczE2SHhBNkF2Y0hPMV9GVTQ5NHptYVVaamNuNEQ3akZKMklURmhPR0dUMDhmZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBZNU5ETzVCdnpiZk8wdUhjZ2VQVGtVampKaEpreXpkMlVORU5ZTzhxcWhtUHhPUzFSSkR4ZExlcFQ1SVVDWjlMY0l3UE5nbW5rWFBBLVc3TWRfVGpCNGJMalF6QkxXNThlMi1PczE2SHhBNkF2Y0hPMV9GVTQ5NHptYVVaamNuNEQ3akZKMklURmhPR0dUMDhmZw?oc=5\" target=\"_blank\">Nvidia RTX 6090 greenlit for 2027 launch – Leak claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
+      "published": "2026-09-15T12:12:56+00:00",
       "source": "OC3D"
     },
     {
-      "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA - Pinterest Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QX2ZJMjJLZmd3MUtnQXBDbmFuUUJ4S0JvQkZ1bXRBY0RFbUF6eUs1dTFaLW1tQ3gzdE9UdVREdkd6TTM1NllvWFhtQ0pLWXRxTG1XbXJVWXZqQmpSdW1BTUhUNTEzTWdhOUhCMDdQa0t1dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9QX2ZJMjJLZmd3MUtnQXBDbmFuUUJ4S0JvQkZ1bXRBY0RFbUF6eUs1dTFaLW1tQ3gzdE9UdVREdkd6TTM1NllvWFhtQ0pLWXRxTG1XbXJVWXZqQmpSdW1BTUhUNTEzTWdhOUhCMDdQa0t1dw?oc=5\" target=\"_blank\">Pinterest builds a new foundation for multimodal AI with NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pinterest Newsroom</font>",
-      "published": "2026-09-14T15:05:43+00:00",
-      "source": "Pinterest Newsroom"
-    },
-    {
-      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - nvidianews.nvidia.com",
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nvidianews.nvidia.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
       "published": "2026-04-14T07:00:00+00:00",
-      "source": "nvidianews.nvidia.com"
+      "source": "NVIDIA Newsroom"
     },
     {
       "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5\" target=\"_blank\">Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
       "published": "2026-08-25T07:00:00+00:00",
       "source": "VentureBeat"
+    },
+    {
+      "title": "Apple Prepares AI Server Push for 2029, Considering Nvidia Interconnect Technology - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZ0tqOGt3VWtzRTEwdWgyNFlMdlM0MGQ4ajJjVkwtV0lpdW84dkx0X3BlOUpzckNrcHVzRUZhRVRWU01lQUM0Z1RmaWNwVVd3cHlxR2VQSHhPc2YxZ2dCV3ktQVRQOVVsN1lJWkpXeVhxZ0hrd0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZ0tqOGt3VWtzRTEwdWgyNFlMdlM0MGQ4ajJjVkwtV0lpdW84dkx0X3BlOUpzckNrcHVzRUZhRVRWU01lQUM0Z1RmaWNwVVd3cHlxR2VQSHhPc2YxZ2dCV3ktQVRQOVVsN1lJWkpXeVhxZ0hrd0E?oc=5\" target=\"_blank\">Apple Prepares AI Server Push for 2029, Considering Nvidia Interconnect Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "published": "2026-09-16T13:55:00+00:00",
+      "source": "finance.biggo.com"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-16",
-      "close": 216.24000549316406
+      "date": "2026-09-17",
+      "close": 219.07000732421875
     },
     "history": [
-      {
-        "date": "2026-09-08",
-        "close": 225.47769165039062
-      },
       {
         "date": "2026-09-09",
         "close": 223.4199981689453
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-09-16",
-        "close": 216.24000549316406
+        "close": 213.89999389648438
+      },
+      {
+        "date": "2026-09-17",
+        "close": 219.07000732421875
       }
     ],
     "name": "NVIDIA Corporation"
