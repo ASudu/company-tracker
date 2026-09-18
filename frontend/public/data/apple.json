@@ -2,79 +2,72 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-09-17T15:52:37.929548+00:00",
+  "fetched_at": "2026-09-18T15:26:30.919492+00:00",
   "news": [
-    {
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEMxNWtFaWk4Rnl0dGp3U2JXQi1uUVNIWUVCbFRVRlZ6NTZ2RWtTa05Ubjc2aXJlX25nV0swQlMxSm1XRGtZN0RUSWN5Q3lPczNMLUhDUE9iTXFlWjJ4SmFDZUNJR0NVRHdHbFlKMVJMSnI5Tk9vX1lhX0dXRmlWM1I0M0I2WnRBUF8tdldzemFRX25ORVBtQkFLby1xUTVaaGtSZHZJSWE3S0Mw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEMxNWtFaWk4Rnl0dGp3U2JXQi1uUVNIWUVCbFRVRlZ6NTZ2RWtTa05Ubjc2aXJlX25nV0swQlMxSm1XRGtZN0RUSWN5Q3lPczNMLUhDUE9iTXFlWjJ4SmFDZUNJR0NVRHdHbFlKMVJMSnI5Tk9vX1lhX0dXRmlWM1I0M0I2WnRBUF8tdldzemFRX25ORVBtQkFLby1xUTVaaGtSZHZJSWE3S0Mw?oc=5\" target=\"_blank\">Apple reportedly building server packed with M-series Ultra chips for AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-09-16T22:02:46+00:00",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech - The Information",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5\" target=\"_blank\">Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-09-16T13:00:00+00:00",
-      "source": "The Information"
-    },
-    {
-      "title": "Apple might make servers again to cash in on the AI rush - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkNUJHWndhSENNek9OaUdPZnZXNlVCaVBwS3p0X3RUczY4WkM4WmRZV2ZEMzlPdDZVd09FQ21ZWjlLaEJLd1daN3IwczRzcEFxTjJreDJiQzNfTXNJWXo2VGtzMWFCTXB5dEhwaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBkNUJHWndhSENNek9OaUdPZnZXNlVCaVBwS3p0X3RUczY4WkM4WmRZV2ZEMzlPdDZVd09FQ21ZWjlLaEJLd1daN3IwczRzcEFxTjJreDJiQzNfTXNJWXo2VGtzMWFCTXB5dEhwaw?oc=5\" target=\"_blank\">Apple might make servers again to cash in on the AI rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-09-16T17:20:29+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Watch Series 12 and Ultra 4 Reviews: Look Out, Oura Ring - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tTnBEa2E2enh3UWJDOFIxeGdib1EwbkRsV3ljOTVQZmg2VHJFN1VjYnZ2Nko2NGNHY0dwQUZydXNJTzFWZG5UcjMwYUVyWmxVTHhGZ0JNSDhjT3VTUHRhbTkyRGNPS0UyR3U1WjA4UFE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4tTnBEa2E2enh3UWJDOFIxeGdib1EwbkRsV3ljOTVQZmg2VHJFN1VjYnZ2Nko2NGNHY0dwQUZydXNJTzFWZG5UcjMwYUVyWmxVTHhGZ0JNSDhjT3VTUHRhbTkyRGNPS0UyR3U1WjA4UFE?oc=5\" target=\"_blank\">Apple Watch Series 12 and Ultra 4 Reviews: Look Out, Oura Ring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnlXeGpqTTM1enJEbWMwN0s2eE9XbWU0NjBQX0ZOTV9UVlhYRFRTcGl4WXBBS2JTa183dm5aX2NiVHA1NklySGZMbU9DSlVBWkUxM0czXzdYMGdZUEVwMW9uT1BacWZ5OGNPU244czkzOWNVZ2M5U1kzc1kyWTJnams4MzZPSjZBS21jOUp5WW8xQklnSFpWalk1RWlOQ3ktbk95MUVXNFhmV25Za0IyblQ1aEUyMXhrN1NNd1dyOWRjT1NCSW9vOGhHN0UyZnkxNERR?oc=5\" target=\"_blank\">The Apple Watch 'Always-Listening' Features Should Worry Every Lawyer, Atlanta Expert Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Law.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE93R1dXcmZabEd0UHotTmFNM015bFBqTkktMUg2UVpXYnljWE1VZkpENHNNcWtCbGJkT1ctRklKMG9vV3Q1VTVpUW9NTm81RlgxZm1lZzhpbHRUTzBrQWRFS2ZTVm5hVVlKbWpPU0F4cw?oc=5\" target=\"_blank\">Apple Watch Series 12 Review: I’m Loving the Subscription-Free Life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li></ol>",
-      "published": "2026-09-17T14:23:34+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "A16 iPad Is Less Than a Quarter the Price of the Cheapest iPhone Duo on Amazon, but Not at the Apple Store - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0QtOXlkWWkwaUZRd2VyU2hQVDJTS1IxMzRjTnNFd21SdXItVEdoOU9TYWt2d05fYVJ6cFd4SzdvWGxUdTBIT2lyWFVCaFV1QUl5ZXA4b1pDa2tfTkVkSmlVZVprd016eDc5Z18xWDZSaG1uLUdvWjh0LWNtdlVUbk1yWElNUUdRZFZUOFducXZ1cU1mRURpR2dqLWw4cmJ5X2NhUzFsSFZ5ekVkWVJ3ZWF2WXdNXy1BMlFqeVFuYUp1WVUyN0VmS1RYcXI4V1NNVlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0QtOXlkWWkwaUZRd2VyU2hQVDJTS1IxMzRjTnNFd21SdXItVEdoOU9TYWt2d05fYVJ6cFd4SzdvWGxUdTBIT2lyWFVCaFV1QUl5ZXA4b1pDa2tfTkVkSmlVZVprd016eDc5Z18xWDZSaG1uLUdvWjh0LWNtdlVUbk1yWElNUUdRZFZUOFducXZ1cU1mRURpR2dqLWw4cmJ5X2NhUzFsSFZ5ekVkWVJ3ZWF2WXdNXy1BMlFqeVFuYUp1WVUyN0VmS1RYcXI4V1NNVlE?oc=5\" target=\"_blank\">A16 iPad Is Less Than a Quarter the Price of the Cheapest iPhone Duo on Amazon, but Not at the Apple Store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-09-17T15:25:48+00:00",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "Apple Stock: iPhone 18 Pro Sales Helped By Carrier Promotions - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNzc5eTl2UldhR2pzeE1fQUt4VE55Umxzc1d6dE43Ykw0ZkVxUXc2d2tPUUdockpFSWlpMlFiTlNHVVFpTlFLaUxCTXJFX2pSY3lCYnRVVVNkcVQxd3Nnbkd4emdRb0Q3bU96T3lvUWlGMDVFUEFZQ2tyY0trNi1DbFF2RXFCVGhXUVBoelhvank?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNzc5eTl2UldhR2pzeE1fQUt4VE55Umxzc1d6dE43Ykw0ZkVxUXc2d2tPUUdockpFSWlpMlFiTlNHVVFpTlFLaUxCTXJFX2pSY3lCYnRVVVNkcVQxd3Nnbkd4emdRb0Q3bU96T3lvUWlGMDVFUEFZQ2tyY0trNi1DbFF2RXFCVGhXUVBoelhvank?oc=5\" target=\"_blank\">Apple Stock: iPhone 18 Pro Sales Helped By Carrier Promotions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-09-17T15:22:00+00:00",
-      "source": "Investor's Business Daily"
-    },
-    {
-      "title": "Beats Solo 4 Is Now the Cheapest Way Into Apple Headphones, More Than 4x Cheaper Than AirPods Max - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPenpuamc2Q3pSVkVIa29BUVRvUmNNRVZxbzRDLXZZTDFmdXRjcml5U0E1NDZFVlJMZWxwbXBQdjJXempUU1Nkd3VreGx3dUFtbS1lZC1vVGVHcE5XNTB0cDhiVWl4WU5QWDJKY25lNlAxMHNBUEtxcGp5UGtBZ3ZGQzFLRkNmTzVSTm9BQ0JSbUxWa2xNckY4MXdNYm5Ma3ItTkw1Yy04YnQySFpNcEdFUG5wV19qbVdFVndZMlRDeVVMSnZ0TlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPenpuamc2Q3pSVkVIa29BUVRvUmNNRVZxbzRDLXZZTDFmdXRjcml5U0E1NDZFVlJMZWxwbXBQdjJXempUU1Nkd3VreGx3dUFtbS1lZC1vVGVHcE5XNTB0cDhiVWl4WU5QWDJKY25lNlAxMHNBUEtxcGp5UGtBZ3ZGQzFLRkNmTzVSTm9BQ0JSbUxWa2xNckY4MXdNYm5Ma3ItTkw1Yy04YnQySFpNcEdFUG5wV19qbVdFVndZMlRDeVVMSnZ0TlE?oc=5\" target=\"_blank\">Beats Solo 4 Is Now the Cheapest Way Into Apple Headphones, More Than 4x Cheaper Than AirPods Max</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-09-17T15:10:52+00:00",
-      "source": "Gizmodo"
-    },
     {
       "title": "Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable Phone - WSJ",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU09GUjYydExXc05JTXhsbkdHc2VQTU1SUnFpd0tUZVMxdTBHUVFWSi0tWVJ1ZnFuUldydjlHT0wwbmwzRFJxa25Fcnh0cE5ZODhzVENTSlBtN1ppQXRtR1pvZkpOT3pGT0dqcWtlVEhtRTkxaEJ6TER2Sl80bm1vQl9OWDdMWjdueExrZktiVmsyVVRMNlB2YlhVV3NKNzg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNU09GUjYydExXc05JTXhsbkdHc2VQTU1SUnFpd0tUZVMxdTBHUVFWSi0tWVJ1ZnFuUldydjlHT0wwbmwzRFJxa25Fcnh0cE5ZODhzVENTSlBtN1ppQXRtR1pvZkpOT3pGT0dqcWtlVEhtRTkxaEJ6TER2Sl80bm1vQl9OWDdMWjdueExrZktiVmsyVVRMNlB2YlhVV3NKNzg?oc=5\" target=\"_blank\">Samsung Fans Are Thoroughly Unimpressed by Apple’s Foldable Phone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-09-17T09:30:00+00:00",
+      "published": "2026-09-18T07:58:10+00:00",
       "source": "WSJ"
+    },
+    {
+      "title": "Apple's iPhone Duo announcement had an unexpected effect on Galaxy Z Fold 8 sales - PhoneArena",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdm9FS29yTjBxSG9iazJpV0hydFV3eXdKUFhIQnNqWEFNYllFanFyWVRfY1didDUtVXJBWVZzck5TN3NHYXZpSHZDZ292b0dTdlF2cGlVdG9pVEJrZG1GRDVib0FxRlU2R0gtSnR3cV9XVGdJTGZtLWVYTS1EZjBNcWFnOWVfUkNNUktSVC1GTUtyTlNhYWtiaW9sRlBEX2NUQ25JUXZHTllNTllsVl91WFpIbS01NmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQdm9FS29yTjBxSG9iazJpV0hydFV3eXdKUFhIQnNqWEFNYllFanFyWVRfY1didDUtVXJBWVZzck5TN3NHYXZpSHZDZ292b0dTdlF2cGlVdG9pVEJrZG1GRDVib0FxRlU2R0gtSnR3cV9XVGdJTGZtLWVYTS1EZjBNcWFnOWVfUkNNUktSVC1GTUtyTlNhYWtiaW9sRlBEX2NUQ25JUXZHTllNTllsVl91WFpIbS01NmM?oc=5\" target=\"_blank\">Apple's iPhone Duo announcement had an unexpected effect on Galaxy Z Fold 8 sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font>",
+      "published": "2026-09-17T07:01:12+00:00",
+      "source": "PhoneArena"
+    },
+    {
+      "title": "I Tried Apple’s New Foldable iPhone Duo. Here’s How It Compares. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXl3UVFleWltQ0o5QkRITzE4emI0aTBZZlBXNlVfV1EyZGxQU0pldDEzTEsySU1Sb2xSYVlKMFQ1MXpOMGFtZ2hqNkZoeVd3bG1QUlhPQng5XzlySF9KODFxd1VyMWxnOFdHNXJwNUlGeFFvWnNkRWhaQ0g3VUVjMFpPLXE1T0p2NWlYclNUWTdHeDZ6Tm5z?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXl3UVFleWltQ0o5QkRITzE4emI0aTBZZlBXNlVfV1EyZGxQU0pldDEzTEsySU1Sb2xSYVlKMFQ1MXpOMGFtZ2hqNkZoeVd3bG1QUlhPQng5XzlySF9KODFxd1VyMWxnOFdHNXJwNUlGeFFvWnNkRWhaQ0g3VUVjMFpPLXE1T0p2NWlYclNUWTdHeDZ6Tm5z?oc=5\" target=\"_blank\">I Tried Apple’s New Foldable iPhone Duo. Here’s How It Compares.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-09-10T21:00:48+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Apple Watch Ultra 4 vs. Ultra 3: How Much 'Ultra' Do You Actually Get for $799? - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaW0yWWMwOGc0bEZENDdlNngzZkhTV3kyMGxqYnhVYmR6QlN0MHFmV1luU2VJMGJvaE5QbWktcmM5UFR5a2oyMHA5cFI2c2RfTk1wa0Zub3B0ekp5Sjd1d2Y0RlBLOVlXR2ZxblhMam5EUHZ6SFl3b2lVbUVaTmg0VlVaV1R6X0VuTFZfSWgwdmhna3M5OVdiQlhZaTV6eVJVU3c1X29NNVl1dw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaW0yWWMwOGc0bEZENDdlNngzZkhTV3kyMGxqYnhVYmR6QlN0MHFmV1luU2VJMGJvaE5QbWktcmM5UFR5a2oyMHA5cFI2c2RfTk1wa0Zub3B0ekp5Sjd1d2Y0RlBLOVlXR2ZxblhMam5EUHZ6SFl3b2lVbUVaTmg0VlVaV1R6X0VuTFZfSWgwdmhna3M5OVdiQlhZaTV6eVJVU3c1X29NNVl1dw?oc=5\" target=\"_blank\">Apple Watch Ultra 4 vs. Ultra 3: How Much 'Ultra' Do You Actually Get for $799?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1QTjNoOUpIQzNiNkV6Smd0eHI5ZTZ1LVlHMVhGTE1JVF85NVJMN2hteVB1cXM2WDNJYXZFN29KOVJKTXhnN1B0Y3doSS1La3JWVGlDRmxCaDRqbUVjR29BN2gzOFY1QlJFVGhfY01IcFhBMUxzdVhLeXpTTQ?oc=5\" target=\"_blank\">Hands-On: The Apple Watch Series 12 And Ultra 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hodinkee</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1uamlMWWx0czFUd0pocGJpTHdLRHQ5WWxGTTBuWGNra2hpUENVU2hQQ0MxVjhRZEN1RWYxWE83WTRWb015UURxeVh4dXYxa2hlZTN0QXEwSzNjUmhESkx0akM3elE5LXAxSVhnYWFnLWtVQQ?oc=5\" target=\"_blank\">Apple Watch Series 12 Review: I’m Loving the Subscription-Free Life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li></ol>",
+      "published": "2026-09-18T14:37:21+00:00",
+      "source": "PCMag"
+    },
+    {
+      "title": "Italian Apple store employees strike on iPhone 18 Pro launch day - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjllekJOQzJrY0hSblh0TUJ5ZFJXM0hLMUZlUFRUUkRqalNlSlN4dENERVB5b2hrRHlZU2paRWNPTXdEYUFEcVkySGN0SlQtaExEYnpsdlR1ellOTGQ4d1MyR1Y2b3M5cVRMTHZaOHFSZjVVWW1NMVV4SG43LVg1b1ZhbTZrLTZJSzVCOHNqMTN0TzBzRU1xNmdDUTA5VE1nUHlHSUthcEh6Tjh3WHJSY0JHdndPSFl6M0NZMXBR?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjllekJOQzJrY0hSblh0TUJ5ZFJXM0hLMUZlUFRUUkRqalNlSlN4dENERVB5b2hrRHlZU2paRWNPTXdEYUFEcVkySGN0SlQtaExEYnpsdlR1ellOTGQ4d1MyR1Y2b3M5cVRMTHZaOHFSZjVVWW1NMVV4SG43LVg1b1ZhbTZrLTZJSzVCOHNqMTN0TzBzRU1xNmdDUTA5VE1nUHlHSUthcEh6Tjh3WHJSY0JHdndPSFl6M0NZMXBR?oc=5\" target=\"_blank\">Italian Apple store employees strike on iPhone 18 Pro launch day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRk1vNjkwLWZSVVNLZzFVS0ZIVTVTV0pLUnZ2VTdDRDFRdVF0b1ozeWg3X1d4N1RYel9qems5dEx3RGdiYVdhM1p3Zm1tZkwyeV85Y1ZUeXhfV09LcTloSXE5RktjLTFPYUdVZFNmWU9GSm9Qa0pVbWxCRWZHTDB3WEVyVlJVRjZjeWdRYzR5NA?oc=5\" target=\"_blank\">Forgot to Pre-Order iPhone 18 Pro? Apple Store Pickup Available Today at Most Locations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONHdYN1NlWGN0VE9sRVZEazFudjlOLTFjbHJBM2xnLU84N1hMRnlFMkNSMDFadXhQUHdtS1BaRm8xaDB5M3NYLTMtRTdURkRzamNjYjIwRjlaVXJIek9PUWhXODk2Y2NsVVpJdUdYR3ZKbVZteEt2ckJUa0hOcnphNE5zYUtkQQ?oc=5\" target=\"_blank\">Apple CEO John Ternus celebrates launch of the iPhone 18</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-09-18T12:49:18+00:00",
+      "source": "reuters.com"
+    },
+    {
+      "title": "Apple Watch Ultra 4 vs. Ultra 3: How Much 'Ultra' Do You Actually Get for $799? - PCMag UK",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWlGbFA1dE52SXgybjYxcEFfdDFtUllwd3RHbzJWRnFweVFZMG9COExZYzJDcERCTnhIaE15Z0RPTU4wZldzZUhJTWNpLTlSVU1BcUxwZTdwakMyeHBPZ0tQTTBUY25mQmpOYXdXRDYyR0xfZmdUVm50eHJCNS1PeWdMSWNaMWF5aklRSXdkVkV3M2gyM1AyMHNGaG1JQldpN0t5ZUI3Z2QzRjRyLURhVVZteHotMmNfeDZlMlJpcjhidm9aNzVF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWlGbFA1dE52SXgybjYxcEFfdDFtUllwd3RHbzJWRnFweVFZMG9COExZYzJDcERCTnhIaE15Z0RPTU4wZldzZUhJTWNpLTlSVU1BcUxwZTdwakMyeHBPZ0tQTTBUY25mQmpOYXdXRDYyR0xfZmdUVm50eHJCNS1PeWdMSWNaMWF5aklRSXdkVkV3M2gyM1AyMHNGaG1JQldpN0t5ZUI3Z2QzRjRyLURhVVZteHotMmNfeDZlMlJpcjhidm9aNzVF?oc=5\" target=\"_blank\">Apple Watch Ultra 4 vs. Ultra 3: How Much 'Ultra' Do You Actually Get for $799?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag UK</font>",
+      "published": "2026-09-18T14:36:30+00:00",
+      "source": "PCMag UK"
+    },
+    {
+      "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, Netflix, Alphabet, Tyson Foods, Yeti, Meta, Amazon & more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc080LUJvODdzZzN5NWdGaTNMSXNoUTBWNUllWDJEc2NFTkhoM0w3WDhySENaS1Z6WWkzZzMzRmZQLV84NE5SbTNSVXFZXzBzSHRIa2JwTzY0cFJLcE1VMk9EYU5lbDhBRHQzeXRjeWNqODcteG1JTzdfX0RnUVBodUw2S1JYVENuLUY2N3JZQWU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQc080LUJvODdzZzN5NWdGaTNMSXNoUTBWNUllWDJEc2NFTkhoM0w3WDhySENaS1Z6WWkzZzMzRmZQLV84NE5SbTNSVXFZXzBzSHRIa2JwTzY0cFJLcE1VMk9EYU5lbDhBRHQzeXRjeWNqODcteG1JTzdfX0RnUVBodUw2S1JYVENuLUY2N3JZQWU?oc=5\" target=\"_blank\">Here are Friday's biggest analyst calls: Nvidia, Apple, Netflix, Alphabet, Tyson Foods, Yeti, Meta, Amazon & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-18T12:20:45+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies - Politico",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fbU13WUVmMVI3VnNHa1JrOTNZTlFxNGo5S1VMc1prSDl1NWhHZVpUbVU5RV9ibnFINGdRbWpnYjJGSHhqLUVsbWpDVmdRNHl5LUJfalhzeWVDVjBpa0ZiakM2endsTXFVc05TZ2c5Szl5MFdCb0dz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5fbU13WUVmMVI3VnNHa1JrOTNZTlFxNGo5S1VMc1prSDl1NWhHZVpUbVU5RV9ibnFINGdRbWpnYjJGSHhqLUVsbWpDVmdRNHl5LUJfalhzeWVDVjBpa0ZiakM2endsTXFVc05TZ2c5Szl5MFdCb0dz?oc=5\" target=\"_blank\">Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+      "published": "2026-09-18T00:26:00+00:00",
+      "source": "Politico"
     }
   ],
   "product_launches": [
     {
-      "title": "Which new Apple products will launch this year – and which won’t? - 9to5mac.com",
+      "title": "Which new Apple products will launch this year – and which won’t? - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlVFcmprcHBMVnZoOTUySlkyUmtFOFJmbFFfQnhtdjdfREhfakR0NFRuTjBlbllqSnVwSVM3OGhPeVdteVI1SzFBcFZpbjIxTVYxLTRhRWUxZTIxWEJlcGlodDJLOWFmbExfd05nZHlLNnA0cmtEVDUyaS1Ea1Q1MnZWeUdhYlBQd3ZhOWZUeXZpNzRSWXFUMw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlVFcmprcHBMVnZoOTUySlkyUmtFOFJmbFFfQnhtdjdfREhfakR0NFRuTjBlbllqSnVwSVM3OGhPeVdteVI1SzFBcFZpbjIxTVYxLTRhRWUxZTIxWEJlcGlodDJLOWFmbExfd05nZHlLNnA0cmtEVDUyaS1Ea1Q1MnZWeUdhYlBQd3ZhOWZUeXZpNzRSWXFUMw?oc=5\" target=\"_blank\">Which new Apple products will launch this year – and which won’t?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5mac.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlVFcmprcHBMVnZoOTUySlkyUmtFOFJmbFFfQnhtdjdfREhfakR0NFRuTjBlbllqSnVwSVM3OGhPeVdteVI1SzFBcFZpbjIxTVYxLTRhRWUxZTIxWEJlcGlodDJLOWFmbExfd05nZHlLNnA0cmtEVDUyaS1Ea1Q1MnZWeUdhYlBQd3ZhOWZUeXZpNzRSWXFUMw?oc=5\" target=\"_blank\">Which new Apple products will launch this year – and which won’t?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
       "published": "2026-09-15T13:01:00+00:00",
-      "source": "9to5mac.com"
-    },
-    {
-      "title": "Apple Launching Seven New Products This Month - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWpnZVlpcElablcwOEszaWhVOTAxZHNyUFFEY1NsRVhJSTJiTUcxemZLSk1vSUxKVExKN2RKc0hvendSb1B4SDhfbVdNb0lOMnpaQ3B3MGEyTE5hZ1VYR1dQdTc3aFNUUHc1Vl85M1k2a0o1bjV1Qjk1eWdKZm9tSWFseWNmWUlmN0RV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWpnZVlpcElablcwOEszaWhVOTAxZHNyUFFEY1NsRVhJSTJiTUcxemZLSk1vSUxKVExKN2RKc0hvendSb1B4SDhfbVdNb0lOMnpaQ3B3MGEyTE5hZ1VYR1dQdTc3aFNUUHc1Vl85M1k2a0o1bjV1Qjk1eWdKZm9tSWFseWNmWUlmN0RV?oc=5\" target=\"_blank\">Apple Launching Seven New Products This Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-09-09T07:00:00+00:00",
-      "source": "MacRumors"
+      "source": "9to5Mac"
     },
     {
       "title": "Apple unveils iPhone Duo - Apple",
@@ -84,17 +77,24 @@
       "source": "Apple"
     },
     {
-      "title": "Apple Just Launched Its New iPhones. Here Are 16 More Products Coming Soon - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDByRlBtckFDZTJmNm96M1VzZjR4UnMzTldtYTRubEtabU51WGNmLVVUTlNSNVZSdy1XV0FTRmVFblppRUpOYzhTbkdfM3Q3bFlGSHMtYkhldEhTNzZvODRQWE1tbW9JTmlDQVdzZHVnakIyd1llODd4bzhRdWg0ZkZBUmgwNGFvUFNydW83Wml1dng5WmFwcXJ1ZzBVZ0Z3eGRqeHpKMFJkX3J5bVFaOTZyeGxvbHp6?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDByRlBtckFDZTJmNm96M1VzZjR4UnMzTldtYTRubEtabU51WGNmLVVUTlNSNVZSdy1XV0FTRmVFblppRUpOYzhTbkdfM3Q3bFlGSHMtYkhldEhTNzZvODRQWE1tbW9JTmlDQVdzZHVnakIyd1llODd4bzhRdWg0ZkZBUmgwNGFvUFNydW83Wml1dng5WmFwcXJ1ZzBVZ0Z3eGRqeHpKMFJkX3J5bVFaOTZyeGxvbHp6?oc=5\" target=\"_blank\">Apple Just Launched Its New iPhones. Here Are 16 More Products Coming Soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-09-14T20:17:35+00:00",
-      "source": "Bloomberg.com"
+      "title": "iPhone 18 Pro, Apple Watch Series 12 and AirPods 5 deliveries begin in North America - theapplepost.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3FhVW5ScFlQVDUxcC04b0U5cWkyUWJWMnVoZkgwNHJQdlBBeFQtOUROTk96bzMybURXTUQ2RHdjSFB1Z05tRFlvLU9aelRpNldLUEhvR3FBaXV5aEZMckEwNXJUTzNZbWZhRmZ6cTg3Y2tabVY3ZGdTUExxYlVxWUREN3lfOHJ0OHp3UTFJV0xOZWVKZ0Iyd285dEFydDRidmk0NUdHckxYWXFzWVBtTTJQX3d5amFsMnpScmFJRjI0ZjdYWld4czNn0gHPAUFVX3lxTE5pODRfNUxwMy00dG1HOUkwNzFRM3pZZUR3Q3B6cDdyaExHRERnemgtSE1MdTFmZWlQQkppcTFFTzhPVEQtOHNHQ3VjUGo1ekR1X1ZDN0N0aDNVYjNSNHRPd25lbG9TYlY1Y3ZmUmNJbUlpN1AyOXlWR1pqbUhFMjhmdWljTDZEMHpWdHFLa25zNkltVVhQU1ZHVnRVQnhpSEEyYjR5ZDZPOGdGNWVBNjBLZ1JXeVBrUy05NmJjbEUtdEZOWDlPY3QyTnlYV1Jtbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3FhVW5ScFlQVDUxcC04b0U5cWkyUWJWMnVoZkgwNHJQdlBBeFQtOUROTk96bzMybURXTUQ2RHdjSFB1Z05tRFlvLU9aelRpNldLUEhvR3FBaXV5aEZMckEwNXJUTzNZbWZhRmZ6cTg3Y2tabVY3ZGdTUExxYlVxWUREN3lfOHJ0OHp3UTFJV0xOZWVKZ0Iyd285dEFydDRidmk0NUdHckxYWXFzWVBtTTJQX3d5amFsMnpScmFJRjI0ZjdYWld4czNn0gHPAUFVX3lxTE5pODRfNUxwMy00dG1HOUkwNzFRM3pZZUR3Q3B6cDdyaExHRERnemgtSE1MdTFmZWlQQkppcTFFTzhPVEQtOHNHQ3VjUGo1ekR1X1ZDN0N0aDNVYjNSNHRPd25lbG9TYlY1Y3ZmUmNJbUlpN1AyOXlWR1pqbUhFMjhmdWljTDZEMHpWdHFLa25zNkltVVhQU1ZHVnRVQnhpSEEyYjR5ZDZPOGdGNWVBNjBLZ1JXeVBrUy05NmJjbEUtdEZOWDlPY3QyTnlYV1Jtbw?oc=5\" target=\"_blank\">iPhone 18 Pro, Apple Watch Series 12 and AirPods 5 deliveries begin in North America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theapplepost.com</font>",
+      "published": "2026-09-18T13:05:00+00:00",
+      "source": "theapplepost.com"
     },
     {
-      "title": "5 Apple product launches we still expect to see in 2026 - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kb0NwNTBkV2laNEljU2VPTlk5ZFV1bm5RR29wN2RVYklkcGdHSlJOdWptR3ZnRzF3anJzdFE3bHJadXI5Y0t3T25LektaQUVodmRKZkFfUk04dmd3S2ZZNko1TEg2Mnp5WVMtUE1R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1kb0NwNTBkV2laNEljU2VPTlk5ZFV1bm5RR29wN2RVYklkcGdHSlJOdWptR3ZnRzF3anJzdFE3bHJadXI5Y0t3T25LektaQUVodmRKZkFfUk04dmd3S2ZZNko1TEg2Mnp5WVMtUE1R?oc=5\" target=\"_blank\">5 Apple product launches we still expect to see in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-09-09T21:10:44+00:00",
+      "title": "Apple Launching Seven New Products This Month - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWpnZVlpcElablcwOEszaWhVOTAxZHNyUFFEY1NsRVhJSTJiTUcxemZLSk1vSUxKVExKN2RKc0hvendSb1B4SDhfbVdNb0lOMnpaQ3B3MGEyTE5hZ1VYR1dQdTc3aFNUUHc1Vl85M1k2a0o1bjV1Qjk1eWdKZm9tSWFseWNmWUlmN0RV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLWpnZVlpcElablcwOEszaWhVOTAxZHNyUFFEY1NsRVhJSTJiTUcxemZLSk1vSUxKVExKN2RKc0hvendSb1B4SDhfbVdNb0lOMnpaQ3B3MGEyTE5hZ1VYR1dQdTc3aFNUUHc1Vl85M1k2a0o1bjV1Qjk1eWdKZm9tSWFseWNmWUlmN0RV?oc=5\" target=\"_blank\">Apple Launching Seven New Products This Month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-09-09T07:00:00+00:00",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Where to buy the new Apple Watches: Shop the best launch deals on the Series 12 and Ultra 4 - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13clVSb3dVdzlIN09sRjRFVDFZMUJYR3E3SlVzSDBudTB0MDlLajRJOHlJcjRvTTBvRHpiS3M4a2J6WDFoUG1xOXhJNWEyNk01SEJXczRibzVVbGd4cVVzNFVCU204amZVazd5M3NnV3JYZDluNXhiM2R1NlVjdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE13clVSb3dVdzlIN09sRjRFVDFZMUJYR3E3SlVzSDBudTB0MDlLajRJOHlJcjRvTTBvRHpiS3M4a2J6WDFoUG1xOXhJNWEyNk01SEJXczRibzVVbGd4cVVzNFVCU204amZVazd5M3NnV3JYZDluNXhiM2R1NlVjdw?oc=5\" target=\"_blank\">Where to buy the new Apple Watches: Shop the best launch deals on the Series 12 and Ultra 4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-09-18T12:30:17+00:00",
       "source": "Mashable"
     }
   ],
@@ -102,14 +102,10 @@
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-17",
-      "close": 334.3399963378906
+      "date": "2026-09-18",
+      "close": 335.5440979003906
     },
     "history": [
-      {
-        "date": "2026-09-09",
-        "close": 315.3399963378906
-      },
       {
         "date": "2026-09-10",
         "close": 326.57000732421875
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-09-17",
-        "close": 334.3399963378906
+        "close": 337.0
+      },
+      {
+        "date": "2026-09-18",
+        "close": 335.5440979003906
       }
     ],
     "name": "Apple Inc."
