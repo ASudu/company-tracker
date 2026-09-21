@@ -2,66 +2,87 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-09-20T15:05:36.873083+00:00",
+  "fetched_at": "2026-09-21T17:25:20.019515+00:00",
   "news": [
     {
-      "title": "Extended interview: Nvidia CEO Jensen Huang on fears about AI - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTZ6MU14azFlVGlPVmdJSzJhUkItbXQtTGJobXVMWGFWWWw5QjgwdVEyTXNhdEdvblVJWGxma25GMTF2TUd5NVlSSUQxeXhSaVFkSGNwNzJQbWJyYW9FTl9yanRDcmdVTW15MTVYMGxpT3ptWW1jcVp1WTdjaVlVY3dhWU03NENQLTBBLXA4bXpsZnJCZ3c?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTZ6MU14azFlVGlPVmdJSzJhUkItbXQtTGJobXVMWGFWWWw5QjgwdVEyTXNhdEdvblVJWGxma25GMTF2TUd5NVlSSUQxeXhSaVFkSGNwNzJQbWJyYW9FTl9yanRDcmdVTW15MTVYMGxpT3ptWW1jcVp1WTdjaVlVY3dhWU03NENQLTBBLXA4bXpsZnJCZ3c?oc=5\" target=\"_blank\">Extended interview: Nvidia CEO Jensen Huang on fears about AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnRwN284dVBRR1NqTHk3ellnNXcwQU1WRkNvR3RtdjdoZHF3Y21meXY0cGNEdmZzZUFjX2o4d3h4TG9HNXhmcFpZbkVaVkJQMEhrQ0NMTi1nRmw0ZU1OdF9JZndyUk1mcDdZS2J6STFhTVlHX1pOZ3JvR2xlUi1DQmdwcGlYMHhoWlNQSEZMUGZuazVXOUN1czVsMnBRajRoQ1HSAacBQVVfeXFMTzNvQ2VidEg5Uk9PbVdFWHdiSnJLLXZvamp3SFF6N1NlT2VGaGlEMGowMVQ3c19lNTZsdkJoWHJQSzFVLWpvbjc1RGlWVUdoRDJsbUpMOHdsU3J6eEJhVnJvTjdoU1JKdWtXQ0ktYjRUZG1QSVYyTWhyS2MyQU5qeldNVmZLbnhlVkViS2E5Zl9MXzFwVVJ6cjI2ZXVLZlEyRWMyTF83NnM?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5\" target=\"_blank\">Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbsnews.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNWGhWdEE4OHhMQ0tzdFp4M3BEWjJUY1lXanpLNGxILWlMTzExbjNwZFdOSFVlRjZqYi0wTG9zUkt3X3hnZVV3SzNhVkxQdVY3LURLMTlGQTR6dTdHSlN3cmp2MGctQW5xRVVQWS1vTFRzay1qVHJJYlR2SnB3d21IajljV254VW84NHhZdXA0bHZhLVRRZExvaUNiZXVSZXBqd21nWXVBN3hCVTZSZ0paWEIwZnRldw?oc=5\" target=\"_blank\">Here’s Another Little-Known Firm Jensen Huang’s Nvidia Is Quietly Backing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTJzNzJmYzhBcG1WaGtLOEhFUzBuRUZKQjd4N042Mkw0SFVBRDI4bmZXT1JDeHNSMjZic0NTejVLSUtrRVBlRXZKbVJEc1R4Mkhyak0wLWp2a0VWSmZncFM5V2NCTnZkQmZTSnJtbFFCRFhuRFF1c2NnMjNPQTBiU0F3?oc=5\" target=\"_blank\">Dario Says AI Should Slow Down. Jensen Wants to Go Full Steam Ahead.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEpnVU8yaS1wUm9jc2RIanhoekN4cDlfaURhQmY3bVYtTTROci1Pc3EtQzVqb0NsSUlIVzJ0ZnNrQU9IaUhoRlNFckV3ZmpVeUkwYjJ5TDF3UTBkOGt4Y1pkZE1qQ2xxdmh3NmpSY1pER1pDWU1mb1FETlpTaEppYWZ4Q2cwb3FHSUxsQkl2MU1weWZrZWR2bQ?oc=5\" target=\"_blank\">Nvidia's Jensen Huang on artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOSy1EZDJFX3BiWVdvWkZkOWVhcUl0TTduVWJoR3BveE9yUlZyeXhsU2lzdXk5bDFYT2NpYWpGZnVKUEZmSklraXRzY0l1UnJEN1l1ZDdjeDNZaG11WDFfaW1ldjBLSEhMLWhaX2JtZEUwclRPTzJFbDM4ckJ6RFdtNS1QUUZqa183ZGZzMzNldlpMWXB4bWdOa1lxX0thUDhBdWZGSHdNSllZcnNV?oc=5\" target=\"_blank\">Nvidia’s Huang Says AI Industry Doesn’t Need Any New Laws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5\" target=\"_blank\">We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObG5VOF9FckVMY2o1eWJQVWRMU3ZDaGF4QVNnNDg1Q256UExlSVJnenkyV1luX0IxTTQtcGNvRWVQTEgweVhrQW5qSVJPYTRLRHZEZ1kxRGJqTnNNWnpIbnkyeWYxY3RIRDJUYXBPY21tR3JmcUNQdkZEU2tyOFdLWmgyZmc?oc=5\" target=\"_blank\">Nvidia and Meta bosses reject efforts to co-ordinate AI slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font></li></ol>",
-      "published": "2026-09-20T13:34:00+00:00",
-      "source": "cbsnews.com"
+      "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5\" target=\"_blank\">Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnRwN284dVBRR1NqTHk3ellnNXcwQU1WRkNvR3RtdjdoZHF3Y21meXY0cGNEdmZzZUFjX2o4d3h4TG9HNXhmcFpZbkVaVkJQMEhrQ0NMTi1nRmw0ZU1OdF9JZndyUk1mcDdZS2J6STFhTVlHX1pOZ3JvR2xlUi1DQmdwcGlYMHhoWlNQSEZMUGZuazVXOUN1czVsMnBRajRoQ1HSAacBQVVfeXFMTzNvQ2VidEg5Uk9PbVdFWHdiSnJLLXZvamp3SFF6N1NlT2VGaGlEMGowMVQ3c19lNTZsdkJoWHJQSzFVLWpvbjc1RGlWVUdoRDJsbUpMOHdsU3J6eEJhVnJvTjdoU1JKdWtXQ0ktYjRUZG1QSVYyTWhyS2MyQU5qeldNVmZLbnhlVkViS2E5Zl9MXzFwVVJ6cjI2ZXVLZlEyRWMyTF83NnM?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2tPQ2RIbjFKMkFBSEhISXY3SkJ0SGZMbkVubW5BOGt1N01FUUdxZFYwanBzcDJid2VpQ1hYdjZnXzFZalRTMGVCd21xOWdWR0Q0R01vaTM4YmpJOUh0a0dEd0tSOXdqY3I0STFyUDhzZGpxUmV1SEpPdlhERDhEcXpvSVN3RWNpems2YVZR?oc=5\" target=\"_blank\">Capitol agenda: Nvidia’s clout tested as AI debate shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li></ol>",
+      "published": "2026-09-20T13:37:00+00:00",
+      "source": "CBS News"
     },
     {
-      "title": "Jim Cramer Said This AI Firm Has More Orders Than “Almost Anybody” Other Than NVIDIA - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2NhSG1GdUw2b19rRngyTzZiOVJSdlg2V1J4SEFjZDlsN2JUeGNtemdBMFpNQXl4aXB2cmpPUVdzTk1nRjh2TFE4X2lUOWJ2WTFIX3lTV2Mwd1F4RkNTRldKRVpyejRqMzJwV245SGlNVXpJNFdmdUNqdUJIdE5XeXZaeVZnbjMwV2ZhVjVfU2k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2NhSG1GdUw2b19rRngyTzZiOVJSdlg2V1J4SEFjZDlsN2JUeGNtemdBMFpNQXl4aXB2cmpPUVdzTk1nRjh2TFE4X2lUOWJ2WTFIX3lTV2Mwd1F4RkNTRldKRVpyejRqMzJwV245SGlNVXpJNFdmdUNqdUJIdE5XeXZaeVZnbjMwV2ZhVjVfU2k?oc=5\" target=\"_blank\">Jim Cramer Said This AI Firm Has More Orders Than “Almost Anybody” Other Than NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-18T23:21:54+00:00",
+      "title": "From $24 to $109: Intel’s Comeback Is Real. The Price Tag Is Now the Problem - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTV3OVlweWZWeGdjVV9BZm9PZ29hN2h6dWNFSU9SN1kxUUhlVldDQncxcThQME9USThvRGdJUHIzazJVTFpuNnpydkQyY0o1RVc1VGgyazJnNmJaaWhkSDhJN3g2aUZOSEVoeG1mY2lLaWtMOTRVcWpiNHR6MXNyNS1QbjZHUEFnNkpIUk1tZVowNVNpZ3doX2F6VC1jRmpWZXFFcFBkbGlxT0xNaHZkZ2xkd2dlQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTV3OVlweWZWeGdjVV9BZm9PZ29hN2h6dWNFSU9SN1kxUUhlVldDQncxcThQME9USThvRGdJUHIzazJVTFpuNnpydkQyY0o1RVc1VGgyazJnNmJaaWhkSDhJN3g2aUZOSEVoeG1mY2lLaWtMOTRVcWpiNHR6MXNyNS1QbjZHUEFnNkpIUk1tZVowNVNpZ3doX2F6VC1jRmpWZXFFcFBkbGlxT0xNaHZkZ2xkd2dlQQ?oc=5\" target=\"_blank\">From $24 to $109: Intel’s Comeback Is Real. The Price Tag Is Now the Problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-09-21T16:05:00+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Nvidia And AI Vendor Financing: Is This The Next Dot-Com Bubble? (NASDAQ:NVDA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGFWdml6bERBbUp3aTJ1T3RlM0N5YjZ3OWlNRDEzWUtNOVBxZFZyb0YzS2FwY2ZtTnRuaXdmLUR3YVRQMUJoOGY1cXJ3enYyOHB3T0RBQXA5bDdfalNMXzVrY3VVZzRGR1laRDk2NG5kR0tnNHdlVmJYLWpGVWZJYWlZVTZUbW9UZ2tXaU9tOGVpb2YwMXA3OGg1eXNTd0daTzljdjJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTGFWdml6bERBbUp3aTJ1T3RlM0N5YjZ3OWlNRDEzWUtNOVBxZFZyb0YzS2FwY2ZtTnRuaXdmLUR3YVRQMUJoOGY1cXJ3enYyOHB3T0RBQXA5bDdfalNMXzVrY3VVZzRGR1laRDk2NG5kR0tnNHdlVmJYLWpGVWZJYWlZVTZUbW9UZ2tXaU9tOGVpb2YwMXA3OGg1eXNTd0daTzljdjJR?oc=5\" target=\"_blank\">Nvidia And AI Vendor Financing: Is This The Next Dot-Com Bubble? (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "published": "2026-09-21T10:00:00+00:00",
+      "source": "Seeking Alpha"
+    },
+    {
+      "title": "I Keep Buying Nvidia Over and Over Despite China Concerns, Despite The Tech Selloff - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGdTeFo3Q0twMFNmMkNlV3czR2tKZ2Fyd0lZRk9rR2tPb2pEWkhicGV2bFp5ZlBMb3g0NTBGOEhXWTVRUXZrRUtYaVZWZzBRTUQzNTFsVlpEaGVGSHRrdFlmMXd6NGZwWXFVdHV0U1V5ejNxeWdObml1ZERETlU0UWZfRkpBZUkxRFUtYXVVenpPVHJpeTc0YXF5bExNeHdUQ0RMSU1uVUYtaUZRM3VhQlIwZmdPaHVqVmk0TmJQMWhrcHNV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGdTeFo3Q0twMFNmMkNlV3czR2tKZ2Fyd0lZRk9rR2tPb2pEWkhicGV2bFp5ZlBMb3g0NTBGOEhXWTVRUXZrRUtYaVZWZzBRTUQzNTFsVlpEaGVGSHRrdFlmMXd6NGZwWXFVdHV0U1V5ejNxeWdObml1ZERETlU0UWZfRkpBZUkxRFUtYXVVenpPVHJpeTc0YXF5bExNeHdUQ0RMSU1uVUYtaUZRM3VhQlIwZmdPaHVqVmk0TmJQMWhrcHNV?oc=5\" target=\"_blank\">I Keep Buying Nvidia Over and Over Despite China Concerns, Despite The Tech Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "published": "2026-09-21T12:19:00+00:00",
+      "source": "24/7 Wall St."
+    },
+    {
+      "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON01GQW1KYkMyLVhDVGJEX05kR3RiRGhqc2E2Ql9wc1EySFNObU5IU01IQXJCM1I2RE1RakJCWWhiZlo0cE5xOGN5UGt6Xy1waXVJQVV6WW5MS18tSkNBOHdVRlN0RkM4NTNwZm9UenBZWURpejJIejBYbHFWb2dZN1RPWnF5c2ppNnpKVWZOSENmRTZQVE9wZDVzOVZ2RTQ2azg0VFd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxON01GQW1KYkMyLVhDVGJEX05kR3RiRGhqc2E2Ql9wc1EySFNObU5IU01IQXJCM1I2RE1RakJCWWhiZlo0cE5xOGN5UGt6Xy1waXVJQVV6WW5MS18tSkNBOHdVRlN0RkM4NTNwZm9UenBZWURpejJIejBYbHFWb2dZN1RPWnF5c2ppNnpKVWZOSENmRTZQVE9wZDVzOVZ2RTQ2azg0VFd3?oc=5\" target=\"_blank\">Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-21T13:39:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15OTJ6NjdTOEl1aTB3N08yYkU1Z3JiZjBDNnJjeXBzNHlJeFJ6aWh6ZVBiUGxhWmRPSk1iVXNLWXBFbWNhWDdGX3JuN2txV0RDYnk4NTJ6WHI2MG4wNzF3d1RsN0hnU0k5UVRsWA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15OTJ6NjdTOEl1aTB3N08yYkU1Z3JiZjBDNnJjeXBzNHlJeFJ6aWh6ZVBiUGxhWmRPSk1iVXNLWXBFbWNhWDdGX3JuN2txV0RDYnk4NTJ6WHI2MG4wNzF3d1RsN0hnU0k5UVRsWA?oc=5\" target=\"_blank\">Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
-      "published": "2026-09-16T13:07:27+00:00",
-      "source": "NVIDIA Blog"
+      "title": "Nvidia to Support Scale-Up of Autonomous Trucks at Sweden’s Einride - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbndjYXpFZW1FamVmUVY1N0xKSVJBaktiRXhYNkV2UlZ6eVM4bTQ5TTFpODVyRDRJOTAwR2ZLRThLNlMtN080bGVyQUJ6aFFOUXYxM2ppZ1RNNmZvNzN4NkU4QjJvZENxbjREcENaOGJocGM0UGdMQmJ5cERYcFFnd3RUSHJ2S25kVmphWkozNmRpVGc2dndWRWVzRklleEZScTZZbUtRbjVxTE92X0lF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQbndjYXpFZW1FamVmUVY1N0xKSVJBaktiRXhYNkV2UlZ6eVM4bTQ5TTFpODVyRDRJOTAwR2ZLRThLNlMtN080bGVyQUJ6aFFOUXYxM2ppZ1RNNmZvNzN4NkU4QjJvZENxbjREcENaOGJocGM0UGdMQmJ5cERYcFFnd3RUSHJ2S25kVmphWkozNmRpVGc2dndWRWVzRklleEZScTZZbUtRbjVxTE92X0lF?oc=5\" target=\"_blank\">Nvidia to Support Scale-Up of Autonomous Trucks at Sweden’s Einride</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-09-21T10:49:00+00:00",
+      "source": "WSJ"
     },
     {
-      "title": "Intel Core Ultra 9 275HX and NVIDIA RTX 5080 laptop with a HUGE 64GB of DDR5 RAM and 2TB storage gets $1,500 slashed off the price, dropping to its lowest ever in Amazon deal - PC Guide",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOR19ZenNyeTRJVE4xNXk0UFNtcmg2bWVHVzZhTEdzUmotbnYtY01EcXd5VV9ESVlISUxPZ1pMRGk2WVhVWXdvNllpSkpsbHZ5ck80ck9uczZyMUo3YTY0TXA5LUVZZDdXMmx0SGIzYlU1ZFRfa2VFNE5pTnNuLW1OMEhWVnpVYWhMTmtJdFN5Q1JQYzRuU01hRk4zbExZaGRwWG9iNUV6WFpDS0x4SGNQV280Nnl2R2J3clFuM01PMS1Xc1E0WnY2dW9aS2JKNXNuWmVmMFZFYktVVEJBZHdoRzVjcTgxamI2VkE2QzcxV2RJRlZ4X0FlUUVGNnBlUXFtNWo4eG55b0kyR1pxWGlkRk1fYkVXbDdZLWI2VXV4Z1JkbHRERVYwemxR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxOR19ZenNyeTRJVE4xNXk0UFNtcmg2bWVHVzZhTEdzUmotbnYtY01EcXd5VV9ESVlISUxPZ1pMRGk2WVhVWXdvNllpSkpsbHZ5ck80ck9uczZyMUo3YTY0TXA5LUVZZDdXMmx0SGIzYlU1ZFRfa2VFNE5pTnNuLW1OMEhWVnpVYWhMTmtJdFN5Q1JQYzRuU01hRk4zbExZaGRwWG9iNUV6WFpDS0x4SGNQV280Nnl2R2J3clFuM01PMS1Xc1E0WnY2dW9aS2JKNXNuWmVmMFZFYktVVEJBZHdoRzVjcTgxamI2VkE2QzcxV2RJRlZ4X0FlUUVGNnBlUXFtNWo4eG55b0kyR1pxWGlkRk1fYkVXbDdZLWI2VXV4Z1JkbHRERVYwemxR?oc=5\" target=\"_blank\">Intel Core Ultra 9 275HX and NVIDIA RTX 5080 laptop with a HUGE 64GB of DDR5 RAM and 2TB storage gets $1,500 slashed off the price, dropping to its lowest ever in Amazon deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Guide</font>",
-      "published": "2026-09-20T12:13:28+00:00",
-      "source": "PC Guide"
+      "title": "Nvidia is partnering with Swedish autonomous truck startup Einride to scale its self-driving fleet - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xRU9NUU9kYVNUa0M3UGdnZVVnVmtwYmpTN05kSVlxdmMySVZ1TERDT0tDQ1p3eFBBSWR3YmI1MU84UkdrYzZRbG9jZzJRR0NRY2pJZHVsbFJVXzlkcngtNXFfM1dRY2pLOTk4RFFiUjRrd0lD?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4xRU9NUU9kYVNUa0M3UGdnZVVnVmtwYmpTN05kSVlxdmMySVZ1TERDT0tDQ1p3eFBBSWR3YmI1MU84UkdrYzZRbG9jZzJRR0NRY2pJZHVsbFJVXzlkcngtNXFfM1dRY2pLOTk4RFFiUjRrd0lD?oc=5\" target=\"_blank\">Nvidia is partnering with Swedish autonomous truck startup Einride to scale its self-driving fleet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-09-21T13:41:55+00:00",
+      "source": "qz.com"
     },
     {
-      "title": "Nvidia Says It Will Double Chip Sales Next Year. The Supply Chain Is Where That Gets Decided. - marketscale.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEhrWWVuaHRWTldzREJJaGtvTG9qTTg0dEJSR19hWG5MWWk1Sl9OOWlEOTJYLXEtNG1LbGxjbTQxQWpUNWlYVEtYZVhvZy1RYXZyMTEwQ0wwTnMyOW51T3N2TEJ4UkZFcTYtYXdaTEViMWRyUXo3VVZXLVhVZzNjLWhtX2xIdDZvOTlhQlNQS0FyanFIVzNFaVdDdURCQjN6RzFqVGFnVWtnaks5MDFXLS1Zb0UtN2t2TUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEhrWWVuaHRWTldzREJJaGtvTG9qTTg0dEJSR19hWG5MWWk1Sl9OOWlEOTJYLXEtNG1LbGxjbTQxQWpUNWlYVEtYZVhvZy1RYXZyMTEwQ0wwTnMyOW51T3N2TEJ4UkZFcTYtYXdaTEViMWRyUXo3VVZXLVhVZzNjLWhtX2xIdDZvOTlhQlNQS0FyanFIVzNFaVdDdURCQjN6RzFqVGFnVWtnaks5MDFXLS1Zb0UtN2t2TUE?oc=5\" target=\"_blank\">Nvidia Says It Will Double Chip Sales Next Year. The Supply Chain Is Where That Gets Decided.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscale.com</font>",
-      "published": "2026-09-20T13:54:33+00:00",
-      "source": "marketscale.com"
-    },
-    {
-      "title": "Nvidia Stock Hasn't Set a Record in 4 Months. History Says These Stalls Have Ended 2 Ways. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3Z1N01UbDlKZDBMbGZCd1B3cXA3V1RzUEtHZEZUQ0hBajZXb3JBYnV2NHhjRkxXTWk0d0dkVkhxZnJZRmUwb1Q4emhoLWw0WGp0X0xaUHJ3c0MwdzhJQnVSZERCQlA0dXFFQkRCMGNGZHVuZHN0TFd4cHZneEloMVZwaEdvMzNIQzhWWkF6dFBIazdZRk9WaG93?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3Z1N01UbDlKZDBMbGZCd1B3cXA3V1RzUEtHZEZUQ0hBajZXb3JBYnV2NHhjRkxXTWk0d0dkVkhxZnJZRmUwb1Q4emhoLWw0WGp0X0xaUHJ3c0MwdzhJQnVSZERCQlA0dXFFQkRCMGNGZHVuZHN0TFd4cHZneEloMVZwaEdvMzNIQzhWWkF6dFBIazdZRk9WaG93?oc=5\" target=\"_blank\">Nvidia Stock Hasn't Set a Record in 4 Months. History Says These Stalls Have Ended 2 Ways.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-20T09:28:01+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia AI Researcher’s Family Demands Answers After His Death - kqed.org",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkdQQnV1QnoxcUxZTmlvYnZHVFc5TklWRG51ZklsejJuRVprRnRETDhXTWxLVWUzcTV6QzBkdWZwZmR3WHZLVkZQOFhvcEVFRlRwRFc0b2poR19sSDVZUkRoaTlTcHN4NHRuWENuaXV4ak41ZHdWaDdZV1l6MEdMUUt5a3BzajdmSHlJZjhKS3VwVTFsbnhWdHhRYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkdQQnV1QnoxcUxZTmlvYnZHVFc5TklWRG51ZklsejJuRVprRnRETDhXTWxLVWUzcTV6QzBkdWZwZmR3WHZLVkZQOFhvcEVFRlRwRFc0b2poR19sSDVZUkRoaTlTcHN4NHRuWENuaXV4ak41ZHdWaDdZV1l6MEdMUUt5a3BzajdmSHlJZjhKS3VwVTFsbnhWdHhRYw?oc=5\" target=\"_blank\">Nvidia AI Researcher’s Family Demands Answers After His Death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kqed.org</font>",
-      "published": "2026-09-18T20:09:28+00:00",
-      "source": "kqed.org"
-    },
-    {
-      "title": "Why Nvidia Stock Looks Like a $5 Trillion Bargain - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SU1dGdkU5Z1J0dC1XOTlla1hvRmFuYW5sUU5ROTF6Ym1LNHJpc2dab0szUzRTc1RmaWVlR0w0am4wTldYUk1hMWVsRW93WUxLNWJyYXZDZnNpeFV0dU9CSUplOWZSYlFNNXVkdTQ2US02bENPRlBOZjRaMzY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1SU1dGdkU5Z1J0dC1XOTlla1hvRmFuYW5sUU5ROTF6Ym1LNHJpc2dab0szUzRTc1RmaWVlR0w0am4wTldYUk1hMWVsRW93WUxLNWJyYXZDZnNpeFV0dU9CSUplOWZSYlFNNXVkdTQ2US02bENPRlBOZjRaMzY?oc=5\" target=\"_blank\">Why Nvidia Stock Looks Like a $5 Trillion Bargain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">barrons.com</font>",
-      "published": "2026-09-17T18:15:00+00:00",
-      "source": "barrons.com"
+      "title": "NVIDIA and Einride team up to develop self-driving trucks - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObDJta3MtdVpNaWxxcUtMLVIyWnJPc0gzNktVRzQ1SGJxTzFiSEo1Q05oOHVfMGstSWJ0dGNFWmRWbUFlQUdiYlUwOElEZ2h2N2hLODR1eHNhcG5CRUpXNkNEVi1XTTE4Y3hnc3ZTOVpfTmNHdFdoTWY1ZFdyVWZfanNqRE1jcVY0T01fcTdTbExEZHQzZVJpVjdXaFp0UkNzTGJEc3lxTmF2eXRMaXZ5dXBER1dvN2xrWnJ4dQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObDJta3MtdVpNaWxxcUtMLVIyWnJPc0gzNktVRzQ1SGJxTzFiSEo1Q05oOHVfMGstSWJ0dGNFWmRWbUFlQUdiYlUwOElEZ2h2N2hLODR1eHNhcG5CRUpXNkNEVi1XTTE4Y3hnc3ZTOVpfTmNHdFdoTWY1ZFdyVWZfanNqRE1jcVY0T01fcTdTbExEZHQzZVJpVjdXaFp0UkNzTGJEc3lxTmF2eXRMaXZ5dXBER1dvN2xrWnJ4dQ?oc=5\" target=\"_blank\">NVIDIA and Einride team up to develop self-driving trucks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "published": "2026-09-21T10:39:36+00:00",
+      "source": "Stock Titan"
     }
   ],
   "product_launches": [
+    {
+      "title": "The 2028 Launch Rumor For NVIDIA RTX 60 “Rubin” GPUs Isn’t Surprising At All, And Makes Sense Given The Current Memory & Price Trajectory - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80bFM5YTlGUjJNT2x4UGxNT2tvMmVQUkFlWTR6S1plVWhBR3Z5TUt2WmR1Y0o3ejlxVjJ5aGVFbU1ydU1hZVQ4R1dtRzkydEZjYW1RTzI1MC1NdVJPb0xRU2d4QdIBaEFVX3lxTE85b3hHUnVkX3Z1N2ZLYkNSWC1iZUZyb3BRQ1VyY3BKMUQ1dkpyQWMxamFMbWdncGZpN1AtZU16bE43el9scVpUdXdVWkpQd3V0UmhydTlaVUNUYVpoZTR6OHozUnRxUTRJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE80bFM5YTlGUjJNT2x4UGxNT2tvMmVQUkFlWTR6S1plVWhBR3Z5TUt2WmR1Y0o3ejlxVjJ5aGVFbU1ydU1hZVQ4R1dtRzkydEZjYW1RTzI1MC1NdVJPb0xRU2d4QdIBaEFVX3lxTE85b3hHUnVkX3Z1N2ZLYkNSWC1iZUZyb3BRQ1VyY3BKMUQ1dkpyQWMxamFMbWdncGZpN1AtZU16bE43el9scVpUdXdVWkpQd3V0UmhydTlaVUNUYVpoZTR6OHozUnRxUTRJ?oc=5\" target=\"_blank\">The 2028 Launch Rumor For NVIDIA RTX 60 “Rubin” GPUs Isn’t Surprising At All, And Makes Sense Given The Current Memory & Price Trajectory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+      "published": "2026-09-21T10:35:25+00:00",
+      "source": "Wccftech"
+    },
+    {
+      "title": "Nvidia GeForce RTX 60 \"postponed\" until 2028, says tech leaker, as AI datacentres eat up all the RAM - Club386",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjZTBvTmltZTBWRzV0dkt5dWJpNTB3R0JLMjYxMENnSkR3MWRTSWpnNGlidmxHYWJTSjJoUG1Rd0YtNzROS0tHMTh6Vm0wTWFsZDlsd0VwY1EyNWJ5cGs3X3pfVGw3ejZaQUxBT1JsSEtfanJaMGg0YQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBjZTBvTmltZTBWRzV0dkt5dWJpNTB3R0JLMjYxMENnSkR3MWRTSWpnNGlidmxHYWJTSjJoUG1Rd0YtNzROS0tHMTh6Vm0wTWFsZDlsd0VwY1EyNWJ5cGs3X3pfVGw3ejZaQUxBT1JsSEtfanJaMGg0YQ?oc=5\" target=\"_blank\">Nvidia GeForce RTX 60 \"postponed\" until 2028, says tech leaker, as AI datacentres eat up all the RAM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Club386</font>",
+      "published": "2026-09-21T15:17:50+00:00",
+      "source": "Club386"
+    },
+    {
+      "title": "Reliable leaker contradicts Moore's Law Is Dead's Nvidia RTX 6090 release date - Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVZwUlcyYkVCd19SUGVETFFxRE4wc0g2bmE4SENaMFJRZXFOeThVV2lZQXo5TG1IVVhsMnRnYW5CZTRTU0FhRml0T05DeVluZlVKblhFMEpUem9tRlZJUllLTTBVOHBtS0tTNEh5NE1ybXdDR3ZxQTZtUjQtTEkwMGNOT3dNUFdMNHpSMGZEbnBDQ3k0NmszbFhDMFUwd21UbVJHMFFwZGFld3Z6MTBXUXpOeHhsRWltTkV0Y04zYTI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVZwUlcyYkVCd19SUGVETFFxRE4wc0g2bmE4SENaMFJRZXFOeThVV2lZQXo5TG1IVVhsMnRnYW5CZTRTU0FhRml0T05DeVluZlVKblhFMEpUem9tRlZJUllLTTBVOHBtS0tTNEh5NE1ybXdDR3ZxQTZtUjQtTEkwMGNOT3dNUFdMNHpSMGZEbnBDQ3k0NmszbFhDMFUwd21UbVJHMFFwZGFld3Z6MTBXUXpOeHhsRWltTkV0Y04zYTI?oc=5\" target=\"_blank\">Reliable leaker contradicts Moore's Law Is Dead's Nvidia RTX 6090 release date</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font>",
+      "published": "2026-09-21T10:03:00+00:00",
+      "source": "Notebookcheck"
+    },
     {
       "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
@@ -70,46 +91,21 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA - Pinterest Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QX2ZJMjJLZmd3MUtnQXBDbmFuUUJ4S0JvQkZ1bXRBY0RFbUF6eUs1dTFaLW1tQ3gzdE9UdVREdkd6TTM1NllvWFhtQ0pLWXRxTG1XbXJVWXZqQmpSdW1BTUhUNTEzTWdhOUhCMDdQa0t1dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9QX2ZJMjJLZmd3MUtnQXBDbmFuUUJ4S0JvQkZ1bXRBY0RFbUF6eUs1dTFaLW1tQ3gzdE9UdVREdkd6TTM1NllvWFhtQ0pLWXRxTG1XbXJVWXZqQmpSdW1BTUhUNTEzTWdhOUhCMDdQa0t1dw?oc=5\" target=\"_blank\">Pinterest builds a new foundation for multimodal AI with NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pinterest Newsroom</font>",
-      "published": "2026-09-14T15:05:43+00:00",
-      "source": "Pinterest Newsroom"
-    },
-    {
-      "title": "Nvidia RTX 6090 greenlit for 2027 launch – Leak claims - OC3D",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBZNU5ETzVCdnpiZk8wdUhjZ2VQVGtVampKaEpreXpkMlVORU5ZTzhxcWhtUHhPUzFSSkR4ZExlcFQ1SVVDWjlMY0l3UE5nbW5rWFBBLVc3TWRfVGpCNGJMalF6QkxXNThlMi1PczE2SHhBNkF2Y0hPMV9GVTQ5NHptYVVaamNuNEQ3akZKMklURmhPR0dUMDhmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzBZNU5ETzVCdnpiZk8wdUhjZ2VQVGtVampKaEpreXpkMlVORU5ZTzhxcWhtUHhPUzFSSkR4ZExlcFQ1SVVDWjlMY0l3UE5nbW5rWFBBLVc3TWRfVGpCNGJMalF6QkxXNThlMi1PczE2SHhBNkF2Y0hPMV9GVTQ5NHptYVVaamNuNEQ3akZKMklURmhPR0dUMDhmZw?oc=5\" target=\"_blank\">Nvidia RTX 6090 greenlit for 2027 launch – Leak claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OC3D</font>",
-      "published": "2026-09-15T12:12:56+00:00",
-      "source": "OC3D"
-    },
-    {
       "title": "EXCLUSIVE: Nvidia's AI Token Trade Has a Catch: 'Attention Correlates. Returns Don't' - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNi1ZN1Z2SU1haDJRdy1hMHJiM2pLOWQ2S2FIT2hRdTlfODJqdHVDMTIzQTZvYVFEamhjQ1JNQlFTbWhOMXVRZ3N2a2pZSHJaX1gyMjZCRHRVNmdkTTQ2NFk4b3dFb3FuNWJhd0haUXk2eExhYTBJOVE5aVA0SnhhVlp5ZGpmZ3FxWUdMVmhuWWVseHFmRkxoakFhZk9xalRRdkhHZXhNd1FPMUlvMmNJUWc3dWI2TVlBRUUzVlE4ak1EMXc3WFJvT2ZoUnl1dkxYbG5qbGV3?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNi1ZN1Z2SU1haDJRdy1hMHJiM2pLOWQ2S2FIT2hRdTlfODJqdHVDMTIzQTZvYVFEamhjQ1JNQlFTbWhOMXVRZ3N2a2pZSHJaX1gyMjZCRHRVNmdkTTQ2NFk4b3dFb3FuNWJhd0haUXk2eExhYTBJOVE5aVA0SnhhVlp5ZGpmZ3FxWUdMVmhuWWVseHFmRkxoakFhZk9xalRRdkhHZXhNd1FPMUlvMmNJUWc3dWI2TVlBRUUzVlE4ak1EMXc3WFJvT2ZoUnl1dkxYbG5qbGV3?oc=5\" target=\"_blank\">EXCLUSIVE: Nvidia's AI Token Trade Has a Catch: 'Attention Correlates. Returns Don't'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "published": "2026-09-18T20:07:11+00:00",
       "source": "TradingView"
-    },
-    {
-      "title": "NVIDIA launches new products, will old GPUs become obsolete soon? - Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jUXliYnpVTHJVZFpfamUwVWQ4d3JFSVNKdDVUeVJoRlJWUE9zb0FPNFFyRG1pbm84ZWQ3MWtYWXJFUFRvY0lnZEl5ZlozdDFONjVoNGc3empkRnZtMmdWeUYzY9IBY0FVX3lxTE9jUXliYnpVTHJVZFpfamUwVWQ4d3JFSVNKdDVUeVJoRlJWUE9zb0FPNFFyRG1pbm84ZWQ3MWtYWXJFUFRvY0lnZEl5ZlozdDFONjVoNGc3empkRnZtMmdWeUYzYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jUXliYnpVTHJVZFpfamUwVWQ4d3JFSVNKdDVUeVJoRlJWUE9zb0FPNFFyRG1pbm84ZWQ3MWtYWXJFUFRvY0lnZEl5ZlozdDFONjVoNGc3empkRnZtMmdWeUYzY9IBY0FVX3lxTE9jUXliYnpVTHJVZFpfamUwVWQ4d3JFSVNKdDVUeVJoRlJWUE9zb0FPNFFyRG1pbm84ZWQ3MWtYWXJFUFRvY0lnZEl5ZlozdDFONjVoNGc3empkRnZtMmdWeUYzYw?oc=5\" target=\"_blank\">NVIDIA launches new products, will old GPUs become obsolete soon?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-      "published": "2026-09-17T07:00:00+00:00",
-      "source": "Bitget"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-18",
-      "close": 222.27000427246094
+      "date": "2026-09-21",
+      "close": 226.6490020751953
     },
     "history": [
-      {
-        "date": "2026-09-10",
-        "close": 218.36000061035156
-      },
       {
         "date": "2026-09-11",
         "close": 218.2899932861328
@@ -133,6 +129,10 @@
       {
         "date": "2026-09-18",
         "close": 222.27000427246094
+      },
+      {
+        "date": "2026-09-21",
+        "close": 226.6490020751953
       }
     ],
     "name": "NVIDIA Corporation"
