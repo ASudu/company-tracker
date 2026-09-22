@@ -2,22 +2,8 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-09-21T17:25:06.329670+00:00",
+  "fetched_at": "2026-09-22T15:56:31.136701+00:00",
   "news": [
-    {
-      "title": "Apple M6 Mac mini review: $300 price hike spoils a nice upgrade - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXVROXE0RTFabXZ2aUhuZnBQM0xnQy14R0RyeDhIR3hLUnloM1JqWmQzOHY2N04wMnhHdVppa1BfSUtVeGFlNmNBcG5JX2J0TVNYSVJFQ0dpMXJrbFR4MzVqaDJTSjh2aWZ5Rmx0ek1YRW9PUEJwWmlqWkxOQUl4OVdrQzFudTYxUWx5RlY4UmNVclhVV1JuZnI4SnpJeGxzaHFEWQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXVROXE0RTFabXZ2aUhuZnBQM0xnQy14R0RyeDhIR3hLUnloM1JqWmQzOHY2N04wMnhHdVppa1BfSUtVeGFlNmNBcG5JX2J0TVNYSVJFQ0dpMXJrbFR4MzVqaDJTSjh2aWZ5Rmx0ek1YRW9PUEJwWmlqWkxOQUl4OVdrQzFudTYxUWx5RlY4UmNVclhVV1JuZnI4SnpJeGxzaHFEWQ?oc=5\" target=\"_blank\">Apple M6 Mac mini review: $300 price hike spoils a nice upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8xMUNrbHdnU3hKNXVCNlFyeEFtT2ZNNTRBMnFnWWEtUEJFMnMxci1QbXZxc29ZV2lXMUZqdGVfeUtUdWNhS0lTY2NQeVFfcEVGc3dud2NsMjNOdS13aTBYZjhBcmtVcnd3SFNvSV9TVi10WFJqbUFn?oc=5\" target=\"_blank\">The Mac Mini is still mighty, just not as cheap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWEpsNWRqYURLeENldDB5UmpYYzEySExaTFZScHJZYk1CVHZIRGlOMi1SQzZYUlZjRTIyRXR1cGNaendTYzF0aC1pbmNuV0VNbVVqMGdod3hLMDNWREFSYTdlQTF4RWFVMDhhX0lwUXc5cVdFQ2F6TQ?oc=5\" target=\"_blank\">Apple Mac Studio With M5 Ultra Review: There’s Simply Nothing Else Like It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li></ol>",
-      "published": "2026-09-21T13:00:24+00:00",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Here's how iPhone users can get up to $95 from Apple's AI delay - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME82UGpKUzI3cEttQ1pyal8wTWFIaXl5WXJwWmJqV044SF9TVEJ5TWVONTN6bXFYV1BsN0ppaks1ZnhJdnVyUlF1U0p5YzVPZk5reGxHMnd6cmxBZXhTZUhwZG9nNkEyZzY3N2FLb0k5S3UxdF9LWkQwUWNMMWNNRnhldFBFZ1U0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME82UGpKUzI3cEttQ1pyal8wTWFIaXl5WXJwWmJqV044SF9TVEJ5TWVONTN6bXFYV1BsN0ppaks1ZnhJdnVyUlF1U0p5YzVPZk5reGxHMnd6cmxBZXhTZUhwZG9nNkEyZzY3N2FLb0k5S3UxdF9LWkQwUWNMMWNNRnhldFBFZ1U0?oc=5\" target=\"_blank\">Here's how iPhone users can get up to $95 from Apple's AI delay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-09-21T16:18:45+00:00",
-      "source": "Axios"
-    },
     {
       "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement - The Verge",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLWVKMjZfLVdGUkM5bUJUR1NkblNRNE5zM3I2eXV4NUswVzRnSDdvNmRjdDZIaEVHZGdQbXlyU0FQZ1RxTmdyMVpMSnZ5Yzh1QWVFYk9femctUG42X2loUnNoQ2M3Z3FIUHNqazE5N0JITDVicjFybU95ZFhJUTliUG5BUkUzRmNoYmM0Mml6al9vWDRqcVRV?oc=5",
@@ -26,39 +12,53 @@
       "source": "The Verge"
     },
     {
-      "title": "Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1walIxY2RaNVhHLV9mUTZhdnhrdWNzc2VJWjNzZ21ocWYzU09iQUkyTnR6RThLaEN3Q3o3czRicE1qMVZEcjNXWVNkM0NzSkpZOW13cUZyQWxadlN1TE9Bd0xLeEpIMjNaVmd0R3BvWlB6OEZfdXV5UzJpRXlsUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1walIxY2RaNVhHLV9mUTZhdnhrdWNzc2VJWjNzZ21ocWYzU09iQUkyTnR6RThLaEN3Q3o3czRicE1qMVZEcjNXWVNkM0NzSkpZOW13cUZyQWxadlN1TE9Bd0xLeEpIMjNaVmd0R3BvWlB6OEZfdXV5UzJpRXlsUQ?oc=5\" target=\"_blank\">Siri AI Settlement Website Now Live: Apple to Pay Some iPhone Owners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-09-21T02:24:00+00:00",
-      "source": "MacRumors"
+      "title": "Apple settlement could mean a payout for some iPhone owners - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObi1NYnlMdHhyZWc3dEhhTUtSbDkydk9rLUxobEVYbVlmQlBGeWdkelZyOXhUZjhwVGQzTk1tZFpZWFY3Y2NvbDI0Y29aUFBIV3cyOElxVFVoN3ZtclVUMHJjcFRjZWJFVl9LUXVQUFNkczZpMTcwUUdYenlXN09SU3BjbFI1SVA4N0pNNTdXX2VFWFFheFRV0gGcAUFVX3lxTFB2cDJqQlAzRHNWd2poVktoU0t3S2E1S3lLMnFya3djb1hoZUh6SzZMMENhakpYNXlGWlBiN1ZWazdBbjVlalRDak1VSjFJcjUwSXZWdEZtdE5ubnl0aTVWZ3RYQUlsRDdRVC1YaU9hcVdmRFdVT0tsMVdBbmdYVGNva1BXUEJLQ0lBcEdCSzgyTW5KN0JQRUNpWmhXeg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObi1NYnlMdHhyZWc3dEhhTUtSbDkydk9rLUxobEVYbVlmQlBGeWdkelZyOXhUZjhwVGQzTk1tZFpZWFY3Y2NvbDI0Y29aUFBIV3cyOElxVFVoN3ZtclVUMHJjcFRjZWJFVl9LUXVQUFNkczZpMTcwUUdYenlXN09SU3BjbFI1SVA4N0pNNTdXX2VFWFFheFRV0gGcAUFVX3lxTFB2cDJqQlAzRHNWd2poVktoU0t3S2E1S3lLMnFya3djb1hoZUh6SzZMMENhakpYNXlGWlBiN1ZWazdBbjVlalRDak1VSjFJcjUwSXZWdEZtdE5ubnl0aTVWZ3RYQUlsRDdRVC1YaU9hcVdmRFdVT0tsMVdBbmdYVGNva1BXUEJLQ0lBcEdCSzgyTW5KN0JQRUNpWmhXeg?oc=5\" target=\"_blank\">Apple settlement could mean a payout for some iPhone owners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-09-21T21:22:00+00:00",
+      "source": "Fox Business"
     },
     {
-      "title": "Google & Apple hunt for crypto talent - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lNjd3RkhDM2xSUzJja3pHOGk2STFGemJ2anVSM0NpSXlPUzdFTnd4bHE0bkk5cFVUSzcyQUcwQ25ray1wbHpjWHlHNk1fVFNXeG52T1pFaks5LXdaRldUdXNVSXNXVWV4R3hBQ1ZZTDRESklN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1lNjd3RkhDM2xSUzJja3pHOGk2STFGemJ2anVSM0NpSXlPUzdFTnd4bHE0bkk5cFVUSzcyQUcwQ25ray1wbHpjWHlHNk1fVFNXeG52T1pFaks5LXdaRldUdXNVSXNXVWV4R3hBQ1ZZTDRESklN?oc=5\" target=\"_blank\">Google & Apple hunt for crypto talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "published": "2026-09-21T16:54:37+00:00",
-      "source": "CoinDesk"
+      "title": "iPhone owners included in Apple’s $250 million settlement can begin filing claims - livenowfox.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMEcxRW1YcUFtMGNWQ3BHM0JOR0xYOGtrbjBXM2lRU3k4eWpvc210QlI2aUpfMVppSVZVeTh2ZS1sYkQxTUtUNHRWX01tTldDRGd2aUF1ZHhZdkNhOTNoLWFRUEUxNjJxUE9UeFF6T1NscV81UjhRSmVPeTNoZ0pmWXBmdkNxU3dDbVh1ZmVFODB0Qml2ckpXVlF4RnVxMHJCdWx5R1B1Q1RrZ2x4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMEcxRW1YcUFtMGNWQ3BHM0JOR0xYOGtrbjBXM2lRU3k4eWpvc210QlI2aUpfMVppSVZVeTh2ZS1sYkQxTUtUNHRWX01tTldDRGd2aUF1ZHhZdkNhOTNoLWFRUEUxNjJxUE9UeFF6T1NscV81UjhRSmVPeTNoZ0pmWXBmdkNxU3dDbVh1ZmVFODB0Qml2ckpXVlF4RnVxMHJCdWx5R1B1Q1RrZ2x4?oc=5\" target=\"_blank\">iPhone owners included in Apple’s $250 million settlement can begin filing claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livenowfox.com</font>",
+      "published": "2026-09-22T02:11:41+00:00",
+      "source": "livenowfox.com"
     },
     {
-      "title": "Get Apple’s Latest iPhone 18 Pro on T-Mobile by Porting Your Number or Trading In - CNET",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42TWsteGlHNGZxcDdVVU1hM3RTNkVOVnF3S3ROTVBWR3daempKZnRVaTJDbzBRTnRnYVBrLUlaWERmMUlDUzVqRXE4TWJHQnNVSlVMM2pHT3VFMEptQmtEa0JmaXU1MWY2cl9TaE9fNWlMeUlZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE42TWsteGlHNGZxcDdVVU1hM3RTNkVOVnF3S3ROTVBWR3daempKZnRVaTJDbzBRTnRnYVBrLUlaWERmMUlDUzVqRXE4TWJHQnNVSlVMM2pHT3VFMEptQmtEa0JmaXU1MWY2cl9TaE9fNWlMeUlZ?oc=5\" target=\"_blank\">Get Apple’s Latest iPhone 18 Pro on T-Mobile by Porting Your Number or Trading In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
-      "published": "2026-09-21T17:15:16+00:00",
+      "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMERWWS1XMjZudmVXeUJ1ek0tYUJCb2ZrMnB5RVFzTXhsRkVqVEdBdzVObkxPQWxDc1FwTklZT29EVGplRGlyWUF1MFNfTVpKTGxsZWpWQVFuV3p2MGdsWGQ3dExxWUVGWkk5cUNJcHZ3Nk5UdXF4ZlAtblh2NkpFRHRBZEpJZ2ZkMGhReVM2S0d6T1RWWWdOcldCV0w?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMERWWS1XMjZudmVXeUJ1ek0tYUJCb2ZrMnB5RVFzTXhsRkVqVEdBdzVObkxPQWxDc1FwTklZT29EVGplRGlyWUF1MFNfTVpKTGxsZWpWQVFuV3p2MGdsWGQ3dExxWUVGWkk5cUNJcHZ3Nk5UdXF4ZlAtblh2NkpFRHRBZEpJZ2ZkMGhReVM2S0d6T1RWWWdOcldCV0w?oc=5\" target=\"_blank\">With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-22T13:01:18+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple M6 Mac mini review: $300 price hike spoils a nice upgrade - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXVROXE0RTFabXZ2aUhuZnBQM0xnQy14R0RyeDhIR3hLUnloM1JqWmQzOHY2N04wMnhHdVppa1BfSUtVeGFlNmNBcG5JX2J0TVNYSVJFQ0dpMXJrbFR4MzVqaDJTSjh2aWZ5Rmx0ek1YRW9PUEJwWmlqWkxOQUl4OVdrQzFudTYxUWx5RlY4UmNVclhVV1JuZnI4SnpJeGxzaHFEWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXVROXE0RTFabXZ2aUhuZnBQM0xnQy14R0RyeDhIR3hLUnloM1JqWmQzOHY2N04wMnhHdVppa1BfSUtVeGFlNmNBcG5JX2J0TVNYSVJFQ0dpMXJrbFR4MzVqaDJTSjh2aWZ5Rmx0ek1YRW9PUEJwWmlqWkxOQUl4OVdrQzFudTYxUWx5RlY4UmNVclhVV1JuZnI4SnpJeGxzaHFEWQ?oc=5\" target=\"_blank\">Apple M6 Mac mini review: $300 price hike spoils a nice upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-09-21T13:00:24+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Apple Mac Studio With M5 Ultra Review: There’s Simply Nothing Else Like It - CNET",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWEpsNWRqYURLeENldDB5UmpYYzEySExaTFZScHJZYk1CVHZIRGlOMi1SQzZYUlZjRTIyRXR1cGNaendTYzF0aC1pbmNuV0VNbVVqMGdod3hLMDNWREFSYTdlQTF4RWFVMDhhX0lwUXc5cVdFQ2F6TQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWEpsNWRqYURLeENldDB5UmpYYzEySExaTFZScHJZYk1CVHZIRGlOMi1SQzZYUlZjRTIyRXR1cGNaendTYzF0aC1pbmNuV0VNbVVqMGdod3hLMDNWREFSYTdlQTF4RWFVMDhhX0lwUXc5cVdFQ2F6TQ?oc=5\" target=\"_blank\">Apple Mac Studio With M5 Ultra Review: There’s Simply Nothing Else Like It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-09-21T13:00:04+00:00",
       "source": "CNET"
     },
     {
-      "title": "L.A.’s best doughnut shop is closing. What’s next for its star baker? - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVp0WnNSMlFtZXpPaU5KcS1MX2diOGQ2SkFleWhpdW9zUTBXVnFMTk84cDdwM3M4NVNMVUQ2T2tCZ0gzVDIxS01DYm9UVmgzbDljV0xCamxfZW4xcGlZLTVPM0VXQnVDWVBRNDFoMk4ydDN5NGU1a3JUSUtpWF9VYnhnb1hjcUJ4c0ZLOTNwNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVp0WnNSMlFtZXpPaU5KcS1MX2diOGQ2SkFleWhpdW9zUTBXVnFMTk84cDdwM3M4NVNMVUQ2T2tCZ0gzVDIxS01DYm9UVmgzbDljV0xCamxfZW4xcGlZLTVPM0VXQnVDWVBRNDFoMk4ydDN5NGU1a3JUSUtpWF9VYnhnb1hjcUJ4c0ZLOTNwNA?oc=5\" target=\"_blank\">L.A.’s best doughnut shop is closing. What’s next for its star baker?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "published": "2026-09-21T10:00:00+00:00",
-      "source": "Los Angeles Times"
+      "title": "US opposes part of Apple contempt finding in Epic Games case at US Supreme Court - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFJUUE85TlZta3Jxd29uX0tIZ3JDamR4R1ZyOG5NXzFHTXVEZFhHenV3ZTZZc18yd0Jva2NDQmhBckxKa3NvZUJ5RVVEQ2diaVN3NTE2ZWxSNndpWVJJbzVhZlpYTTNnVFB2VVpPRHc5bDVGU2sybk1xdS01Xy1zUlE1c25QNVExRVh6b1hXTnJfcFBWNUJfSE80amR5VTZQVkpyd3Rlcklfc05xMklNWUxHWkNpcmRPZGY5ZGtpNHZLZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFJUUE85TlZta3Jxd29uX0tIZ3JDamR4R1ZyOG5NXzFHTXVEZFhHenV3ZTZZc18yd0Jva2NDQmhBckxKa3NvZUJ5RVVEQ2diaVN3NTE2ZWxSNndpWVJJbzVhZlpYTTNnVFB2VVpPRHc5bDVGU2sybk1xdS01Xy1zUlE1c25QNVExRVh6b1hXTnJfcFBWNUJfSE80amR5VTZQVkpyd3Rlcklfc05xMklNWUxHWkNpcmRPZGY5ZGtpNHZLZw?oc=5\" target=\"_blank\">US opposes part of Apple contempt finding in Epic Games case at US Supreme Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-22T15:43:47+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "If You Invest $500 a Month in Apple Starting Now, This is What You’d Have in 2030 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUE9jNVprNnVNa0RYWkZKUTNWN01TM3FGV0w3bVpUR0RxaWozTUxKTHJXNEJBUEcyUjJZUUpmTE5RTFRHS1Y1eWxtQzFDVzNyMy0tcWg2REt5Rlg2czhnMHo3dlotVmhfX3JKdExqZ2hSVXY1NzUxRnhLMWRDX2FXaGtYNEZFRTJuM2d1eS1VVzdBUll0N0J4U0dFVFg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUE9jNVprNnVNa0RYWkZKUTNWN01TM3FGV0w3bVpUR0RxaWozTUxKTHJXNEJBUEcyUjJZUUpmTE5RTFRHS1Y1eWxtQzFDVzNyMy0tcWg2REt5Rlg2czhnMHo3dlotVmhfX3JKdExqZ2hSVXY1NzUxRnhLMWRDX2FXaGtYNEZFRTJuM2d1eS1VVzdBUll0N0J4U0dFVFg?oc=5\" target=\"_blank\">If You Invest $500 a Month in Apple Starting Now, This is What You’d Have in 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-21T15:00:39+00:00",
-      "source": "Yahoo Finance"
+      "title": "Celebs Reportedly Begged Apple CEO for Unreleased $1,999 Foldable iPhone - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUIweUlVZWR6dmk1RURFNWZxZ2VxdHBqbGNNWUNXbFM4ZU5yVUJyX0ZPYjFEd1dSS0NyclhQeGw3emplblY1Q1hQUjBwS0NSNDVwdGItWWh3NmhvWHppUlBUampRMmtpS1Z1YVotZkdkMFNfSmk1cHlxZlY2M2xKaTl2VXBjWktOaHRzUnE0My01U2FZbG5aMnVscG1WYXpCY1p2WDNCYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUIweUlVZWR6dmk1RURFNWZxZ2VxdHBqbGNNWUNXbFM4ZU5yVUJyX0ZPYjFEd1dSS0NyclhQeGw3emplblY1Q1hQUjBwS0NSNDVwdGItWWh3NmhvWHppUlBUampRMmtpS1Z1YVotZkdkMFNfSmk1cHlxZlY2M2xKaTl2VXBjWktOaHRzUnE0My01U2FZbG5aMnVscG1WYXpCY1p2WDNCYw?oc=5\" target=\"_blank\">Celebs Reportedly Begged Apple CEO for Unreleased $1,999 Foldable iPhone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-09-22T15:17:18+00:00",
+      "source": "Yahoo"
     }
   ],
   "product_launches": [
@@ -70,18 +70,18 @@
       "source": "Apple"
     },
     {
+      "title": "Apple Launches New Products in Time for New CEO - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnctZG1ORm1nMk9VdDF4dDFVYWhDWVdiWGUyLUN4VFhKUlNoSExSQmhvLXdweE16bHN5Zm1ZaWUtSXNnMXlfZldWRDE2N3pNdUVVdjZha0RzaThwVlZlQUI2VGl0QzVseUl0czJxVFhKQml4VWdvZ1h3T2lfcWFRdTYyT01OQWFSRGR6UUFVS1JGMmRK?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTnctZG1ORm1nMk9VdDF4dDFVYWhDWVdiWGUyLUN4VFhKUlNoSExSQmhvLXdweE16bHN5Zm1ZaWUtSXNnMXlfZldWRDE2N3pNdUVVdjZha0RzaThwVlZlQUI2VGl0QzVseUl0czJxVFhKQml4VWdvZ1h3T2lfcWFRdTYyT01OQWFSRGR6UUFVS1JGMmRK?oc=5\" target=\"_blank\">Apple Launches New Products in Time for New CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-09-22T03:42:00+00:00",
+      "source": "The Motley Fool"
+    },
+    {
       "title": "Apple will launch six major new products next week, here’s what’s coming - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR01KVF8xb2JaZ3JyVUJQRzA2b2Fvci0tcmRGeUhiSl82T2p1VUVWU3l3UjBjUXh5U0RTaksySklTNDV5RkFSR2xaQ0JTX0FPRTNwUVl2akVkLTNSTTBhR1NDR0JBZElqUjV0VHBkUjZEWHhpRFpUNzJtcDNkWFZYUHhnWEIzRkZZNE5WNDZyOVFyLVIzU0d2WDl4ZUpRdFFDeU1Z?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOR01KVF8xb2JaZ3JyVUJQRzA2b2Fvci0tcmRGeUhiSl82T2p1VUVWU3l3UjBjUXh5U0RTaksySklTNDV5RkFSR2xaQ0JTX0FPRTNwUVl2akVkLTNSTTBhR1NDR0JBZElqUjV0VHBkUjZEWHhpRFpUNzJtcDNkWFZYUHhnWEIzRkZZNE5WNDZyOVFyLVIzU0d2WDl4ZUpRdFFDeU1Z?oc=5\" target=\"_blank\">Apple will launch six major new products next week, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
       "published": "2026-09-03T07:00:00+00:00",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Can John Ternus find Apple’s next big thing? - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZW9ycHpDejJpRjFmMHEtaUdyTmtuOFlOSUZwMkJsVXdZV3BwTURQRi1EX2JrRDBfeWNBd2p2Sks3eWNXUTh5THVVRFBDenFIUF9VTTJ0MjFldkFxZk9GWnhuU2FxeEc3dTB1cjg1Y3lodUN0TGxlUW1wS2Z6RGVTTnd5OUVObERSaFdRc18yWVJpdkFONHY5Y0o2bVNTcGw2NkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZW9ycHpDejJpRjFmMHEtaUdyTmtuOFlOSUZwMkJsVXdZV3BwTURQRi1EX2JrRDBfeWNBd2p2Sks3eWNXUTh5THVVRFBDenFIUF9VTTJ0MjFldkFxZk9GWnhuU2FxeEc3dTB1cjg1Y3lodUN0TGxlUW1wS2Z6RGVTTnd5OUVObERSaFdRc18yWVJpdkFONHY5Y0o2bVNTcGw2NkE?oc=5\" target=\"_blank\">Can John Ternus find Apple’s next big thing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-09-21T14:00:00+00:00",
-      "source": "The Verge"
     },
     {
       "title": "Apple Launching Seven New Products This Month - MacRumors",
@@ -102,14 +102,10 @@
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-21",
-      "close": 338.6499938964844
+      "date": "2026-09-22",
+      "close": 342.1000061035156
     },
     "history": [
-      {
-        "date": "2026-09-11",
-        "close": 332.2699890136719
-      },
       {
         "date": "2026-09-14",
         "close": 333.0799865722656
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-09-21",
-        "close": 338.6499938964844
+        "close": 338.9800109863281
+      },
+      {
+        "date": "2026-09-22",
+        "close": 342.1000061035156
       }
     ],
     "name": "Apple Inc."
