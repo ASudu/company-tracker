@@ -2,66 +2,87 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-09-22T15:56:38.991202+00:00",
+  "fetched_at": "2026-09-23T15:46:25.531143+00:00",
   "news": [
     {
-      "title": "It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb - The New York Times",
+      "title": "Amazon is trying to rehire workers it laid off, emails show - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGJScDJHem1tTi0xTURfcW9kajRCQ0lqVGowSGRUWTlBVGp3UGVSMkJJaHNyRDlvanQ5V1R6aXZWVlR3NTZBdERQcVpkc3dXTUdwaXVxWVRuSkZYRURfRm9LZFhuVjZuc2t3Z1laZ3VGWEdlaHhtcWRjc1FIcDVVQXJ0RGhaODNfQ1c5YW1nQ2o1MEFjSEpFazRjY3M0WTFX?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGJScDJHem1tTi0xTURfcW9kajRCQ0lqVGowSGRUWTlBVGp3UGVSMkJJaHNyRDlvanQ5V1R6aXZWVlR3NTZBdERQcVpkc3dXTUdwaXVxWVRuSkZYRURfRm9LZFhuVjZuc2t3Z1laZ3VGWEdlaHhtcWRjc1FIcDVVQXJ0RGhaODNfQ1c5YW1nQ2o1MEFjSEpFazRjY3M0WTFX?oc=5\" target=\"_blank\">Amazon is trying to rehire workers it laid off, emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-09-23T09:00:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Amazon says it gave delivery partner 30 days' notice before layoffs after partner claimed it only had 1 day - MyNorthwest.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TW5qeWhYMTdkZHZGODljanU0SXQtWEtfZ1BJSVZaa3A1ZUo5enBtV3J2Uk1UMHQ2U3h2TVBMVnRZZk5ZYTNRelNqWEdERVBiaFU4LU02QXcyYnpRZ0pYM3AzTFg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE55TW5qeWhYMTdkZHZGODljanU0SXQtWEtfZ1BJSVZaa3A1ZUo5enBtV3J2Uk1UMHQ2U3h2TVBMVnRZZk5ZYTNRelNqWEdERVBiaFU4LU02QXcyYnpRZ0pYM3AzTFg?oc=5\" target=\"_blank\">Amazon says it gave delivery partner 30 days' notice before layoffs after partner claimed it only had 1 day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNorthwest.com</font>",
+      "published": "2026-09-22T21:24:36+00:00",
+      "source": "MyNorthwest.com"
+    },
+    {
+      "title": "Airway Heights delivery company for Amazon closes, lays off 120 employees - NonStop Local KHQ",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0FRUXdtSDB1YTBHWnhQU2lQaGxKQUNyRVZYWVZDU2ZITzlueG1VRHF1WklYaHdvSzJVeWdMX0wyR3dMXzhqNkdTVXU4bmhsSkdualprRWlLY3FCYUZOMVV5NGlMRTdTOS12eWFEYzMzS3RwWDN4aE5xcldNb3U2WjN1LXhvU0NkVDFCdVR0UkwydmtFTTRWYWVJUGdKb1dBX05wb3JiYWFyVElmb1R4eXlFR1lIVzhZUUZLVW1mWFd5YkFlV2FkLXVyaTBGcmkwNzhVUzJ6ZjNDVGJndW9Daw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0FRUXdtSDB1YTBHWnhQU2lQaGxKQUNyRVZYWVZDU2ZITzlueG1VRHF1WklYaHdvSzJVeWdMX0wyR3dMXzhqNkdTVXU4bmhsSkdualprRWlLY3FCYUZOMVV5NGlMRTdTOS12eWFEYzMzS3RwWDN4aE5xcldNb3U2WjN1LXhvU0NkVDFCdVR0UkwydmtFTTRWYWVJUGdKb1dBX05wb3JiYWFyVElmb1R4eXlFR1lIVzhZUUZLVW1mWFd5YkFlV2FkLXVyaTBGcmkwNzhVUzJ6ZjNDVGJndW9Daw?oc=5\" target=\"_blank\">Airway Heights delivery company for Amazon closes, lays off 120 employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NonStop Local KHQ</font>",
+      "published": "2026-09-22T16:07:00+00:00",
+      "source": "NonStop Local KHQ"
+    },
+    {
+      "title": "It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPelowUXltTmVGMjh3YzB1T29hTGJvNHhCRm1tOVRaVjdpY0tMRUpubTNIbVNSbUM3emlYWDhhRzhyWGVSSXlGaHFqMW5qcW5BMC01dWNmVDNrSFFVOTk5QmxjVEV3bXphc3ktYXJLV0lzdWk0bkpjNFdHNWRWMUo1S0pVVGI1Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPelowUXltTmVGMjh3YzB1T29hTGJvNHhCRm1tOVRaVjdpY0tMRUpubTNIbVNSbUM3emlYWDhhRzhyWGVSSXlGaHFqMW5qcW5BMC01dWNmVDNrSFFVOTk5QmxjVEV3bXphc3ktYXJLV0lzdWk0bkpjNFdHNWRWMUo1S0pVVGI1Zw?oc=5\" target=\"_blank\">It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPelowUXltTmVGMjh3YzB1T29hTGJvNHhCRm1tOVRaVjdpY0tMRUpubTNIbVNSbUM3emlYWDhhRzhyWGVSSXlGaHFqMW5qcW5BMC01dWNmVDNrSFFVOTk5QmxjVEV3bXphc3ktYXJLV0lzdWk0bkpjNFdHNWRWMUo1S0pVVGI1Zw?oc=5\" target=\"_blank\">It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "published": "2026-09-21T09:01:31+00:00",
-      "source": "The New York Times"
+      "source": "nytimes.com"
     },
     {
-      "title": "Raymond Horsch books removed from Amazon: Report - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aRW9QdEJwNE1wOUZOS3lkUUhjeEx6SDVYUkVYVl83ZnFnZXU2OW51NlVNeFhibTNYQWF6aFByMGhlWlhtQi1OVW83dXJCdTYzSVlOT2tLaTl2aFMtcTREZGprT3B4YTdzelBMSHhETVdlNXduMDY5U2d4OGbSAYIBQVVfeXFMTjFTcWZ6VkFSOENSTGRmbGlHc0ZVMnRBMi1zaExvZm5iQW1QZ0tWczl1a3JqUnByOXRQYnZGQjJyRlNFYnd1Wnp6eGgtV1FnT181X0VpSXEyOHZndEJpRHg1blNpVlkyVWk2R2MyNW9Xcl9fcVFRTGs0d25kNWNWMWt1Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5aRW9QdEJwNE1wOUZOS3lkUUhjeEx6SDVYUkVYVl83ZnFnZXU2OW51NlVNeFhibTNYQWF6aFByMGhlWlhtQi1OVW83dXJCdTYzSVlOT2tLaTl2aFMtcTREZGprT3B4YTdzelBMSHhETVdlNXduMDY5U2d4OGbSAYIBQVVfeXFMTjFTcWZ6VkFSOENSTGRmbGlHc0ZVMnRBMi1zaExvZm5iQW1QZ0tWczl1a3JqUnByOXRQYnZGQjJyRlNFYnd1Wnp6eGgtV1FnT181X0VpSXEyOHZndEJpRHg1blNpVlkyVWk2R2MyNW9Xcl9fcVFRTGs0d25kNWNWMWt1Zw?oc=5\" target=\"_blank\">Raymond Horsch books removed from Amazon: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
-      "published": "2026-09-22T11:05:10+00:00",
-      "source": "NewsNation"
+      "title": "Amazon eyes Portland for Prime Air drone delivery expansion - KPTV",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXMtelZQV2YtMzA3ZW4tUVdXNUZnbU5KWkZBTHZmY2Q4T3ljTE1GTDFFYXJNSlMwREdsbUdlT2ZxRGhkWmc4eXphcUlLck9Ldk8zR3N2NU9mNUc0ZDBaekpNdTdxNTVnMWhiTHU4anAtUHgxeUd6bEpDczc1YmU4a1JpUnh0Xy1FTG1kYkFsMjhYd9IBpgFBVV95cUxNd3R1eVduSDc5TVhwRmZVaFVQOS1WajY0MF84Z2NTT29PT01qZjQyc0Z2elk3UXRyaFBIVWp0V2dCM25oN1laU1U4RlltUUtCYmRDWlR6VWxBdUpLTFNWVGRTUmUtdk5uUk8xMWpRYVFLbkRoMkdMbm1KMkhQZ29BT3FVOUM3VDlNX2dxNHhiOFJKb05DMndMZWZmOXJVVGtMSEFpVEZR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXMtelZQV2YtMzA3ZW4tUVdXNUZnbU5KWkZBTHZmY2Q4T3ljTE1GTDFFYXJNSlMwREdsbUdlT2ZxRGhkWmc4eXphcUlLck9Ldk8zR3N2NU9mNUc0ZDBaekpNdTdxNTVnMWhiTHU4anAtUHgxeUd6bEpDczc1YmU4a1JpUnh0Xy1FTG1kYkFsMjhYd9IBpgFBVV95cUxNd3R1eVduSDc5TVhwRmZVaFVQOS1WajY0MF84Z2NTT29PT01qZjQyc0Z2elk3UXRyaFBIVWp0V2dCM25oN1laU1U4RlltUUtCYmRDWlR6VWxBdUpLTFNWVGRTUmUtdk5uUk8xMWpRYVFLbkRoMkdMbm1KMkhQZ29BT3FVOUM3VDlNX2dxNHhiOFJKb05DMndMZWZmOXJVVGtMSEFpVEZR?oc=5\" target=\"_blank\">Amazon eyes Portland for Prime Air drone delivery expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPTV</font>",
+      "published": "2026-09-22T19:48:00+00:00",
+      "source": "KPTV"
     },
     {
-      "title": "Amazon drops WA delivery partner, 120 employees laid off with one day’s notice - KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWdNUnNLbFp3RFFSQThjWTdickQ0V05wSzd5a2lESldINmFuY0piOGZyVmFSNk0wTVU3aWI4a1FiQ1BZSHBCRnE2V0ZYcEdVYnNyX2I1aXNqR2Zmdk5IeVhTWWhuNlhhVUtHeGh1b0ZkbmZyNkpmcDJVNzRGNWtHUlExUWVZcU5OVElQNVVCU2FpdmFETWxTUG9hUF9LZThEUHpFNG9jTFV1WXZIMnhsbHlFbTZrbjR2R3BZa2JBUUN4Zk1iN3JJdUhzdXgxU082bU1Z0gHnAUFVX3lxTFB0bE9qTDhIUGhJMEFPcHlMV1FOZ3RTdDdnSUFZa3kzSFZKU0hTRGsxVnBwd1hlUWcyb21sb2lUNGZDYjh1NDZvYUFqNFJ4MjZSR2tsTDN1a3JCbFJGMUpCdU5jWFpsZUFHZnBGeXpwVmcyc01rNnNZZkxhN1AyYXdESEV0S0s5STgwTTV6eno5QmZvM09HLVpYNnV6TWxsdWY2UVRuXzgtNHlFWWdkaWo3dXUxQUdxcVZXc2JUSFlvV2hVdTRsN004bGs3WGdPWGtXeTVVTVhTZzJEZVRBOXVuMGt3OHVDSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWdNUnNLbFp3RFFSQThjWTdickQ0V05wSzd5a2lESldINmFuY0piOGZyVmFSNk0wTVU3aWI4a1FiQ1BZSHBCRnE2V0ZYcEdVYnNyX2I1aXNqR2Zmdk5IeVhTWWhuNlhhVUtHeGh1b0ZkbmZyNkpmcDJVNzRGNWtHUlExUWVZcU5OVElQNVVCU2FpdmFETWxTUG9hUF9LZThEUHpFNG9jTFV1WXZIMnhsbHlFbTZrbjR2R3BZa2JBUUN4Zk1iN3JJdUhzdXgxU082bU1Z0gHnAUFVX3lxTFB0bE9qTDhIUGhJMEFPcHlMV1FOZ3RTdDdnSUFZa3kzSFZKU0hTRGsxVnBwd1hlUWcyb21sb2lUNGZDYjh1NDZvYUFqNFJ4MjZSR2tsTDN1a3JCbFJGMUpCdU5jWFpsZUFHZnBGeXpwVmcyc01rNnNZZkxhN1AyYXdESEV0S0s5STgwTTV6eno5QmZvM09HLVpYNnV6TWxsdWY2UVRuXzgtNHlFWWdkaWo3dXUxQUdxcVZXc2JUSFlvV2hVdTRsN004bGs3WGdPWGtXeTVVTVhTZzJEZVRBOXVuMGt3OHVDSQ?oc=5\" target=\"_blank\">Amazon drops WA delivery partner, 120 employees laid off with one day’s notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KIRO 7 News Seattle</font>",
-      "published": "2026-09-22T14:55:12+00:00",
-      "source": "KIRO 7 News Seattle"
+      "title": "Texas Neighborhood Fights Back Over Amazon Prime Air Drones - TODAY.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2M1VmwwZ3ZtRTFfU1pRcFFxZWtsUVRPRFBkNTRMZEFkNHkwTGZXbHlKNGd4cGJPR21RTEZtVUZ1dER2Ym1vN21JLTdXZ1pKYlVIY1hDd1lITkRFMWMxREJ5cmN0ZTBQVDdwRDl1SzZxM2dDZGZMSTdtSWkxZWdQV1RTWTAtZEwwcC1lSURxenZydE56MzEwcU5NOUhvNlhkdkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2M1VmwwZ3ZtRTFfU1pRcFFxZWtsUVRPRFBkNTRMZEFkNHkwTGZXbHlKNGd4cGJPR21RTEZtVUZ1dER2Ym1vN21JLTdXZ1pKYlVIY1hDd1lITkRFMWMxREJ5cmN0ZTBQVDdwRDl1SzZxM2dDZGZMSTdtSWkxZWdQV1RTWTAtZEwwcC1lSURxenZydE56MzEwcU5NOUhvNlhkdkE?oc=5\" target=\"_blank\">Texas Neighborhood Fights Back Over Amazon Prime Air Drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TODAY.com</font>",
+      "published": "2026-09-23T11:54:50+00:00",
+      "source": "TODAY.com"
     },
     {
-      "title": "Amazon just announced its October Prime Day 2026 dates with early deals starting now | CNN Underscored - CNN",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qN3lmd3BWUlJybnFRR09LbXQ5RVNacS1xNmJldG0yR2ZxSVRUMWlKelZnTDRTNXJlRjBBREJmc0FEdFlVSzc3ZGw3OUVNMHFtRmt5WGpmRVM0SmZYbTJ3UkV5cXpwR2E0Y2RUNlYwc3RuRENzTDl5dg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1qN3lmd3BWUlJybnFRR09LbXQ5RVNacS1xNmJldG0yR2ZxSVRUMWlKelZnTDRTNXJlRjBBREJmc0FEdFlVSzc3ZGw3OUVNMHFtRmt5WGpmRVM0SmZYbTJ3UkV5cXpwR2E0Y2RUNlYwc3RuRENzTDl5dg?oc=5\" target=\"_blank\">Amazon just announced its October Prime Day 2026 dates with early deals starting now | CNN Underscored</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-09-21T17:01:00+00:00",
-      "source": "CNN"
-    },
-    {
-      "title": "Prime Big Deal Days 2026: Early deals you can shop right now - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpwQl9NUjZyTHlNMEEzSVZLbXRac09VNWV1b3lKZGVtTHBvUTY5dlQxTXRVVzZLcGtWQnk5cGFWaFVLNlhOQjZDekxvZ0NJOEdFdWs0MFR2WDFsVEpuSGRJRWtJc1NmYV9wcE5uejdtMVh4TjBVemtpV1FiX3NJOVBBYmJZaVFLWkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpwQl9NUjZyTHlNMEEzSVZLbXRac09VNWV1b3lKZGVtTHBvUTY5dlQxTXRVVzZLcGtWQnk5cGFWaFVLNlhOQjZDekxvZ0NJOEdFdWs0MFR2WDFsVEpuSGRJRWtJc1NmYV9wcE5uejdtMVh4TjBVemtpV1FiX3NJOVBBYmJZaVFLWkE?oc=5\" target=\"_blank\">Prime Big Deal Days 2026: Early deals you can shop right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-09-14T07:00:00+00:00",
-      "source": "About Amazon"
-    },
-    {
-      "title": "The Best Amazon Prime Big Deal Day Tech Sales in 2026 - Popular Mechanics",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWpHSmNBVlo5Z19lbXg2SndoNV9hZnNzSGdTY0N6bWt0UHdlc0ZJZGJFSEdfdlh6d0NrYW5RVl9tWnJsazhhMDJpVUN1dkVfUXlRWk5JUjdVS2taNTNUdk16N2FCWWFsWW1sTmswVGpkMkRjN3B4Ql82TEhRRVh3TnhvZVAwdWxUSFc0MjQ0WjVQMDliaUd2MlVmQkxDdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZWpHSmNBVlo5Z19lbXg2SndoNV9hZnNzSGdTY0N6bWt0UHdlc0ZJZGJFSEdfdlh6d0NrYW5RVl9tWnJsazhhMDJpVUN1dkVfUXlRWk5JUjdVS2taNTNUdk16N2FCWWFsWW1sTmswVGpkMkRjN3B4Ql82TEhRRVh3TnhvZVAwdWxUSFc0MjQ0WjVQMDliaUd2MlVmQkxDdw?oc=5\" target=\"_blank\">The Best Amazon Prime Big Deal Day Tech Sales in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Popular Mechanics</font>",
-      "published": "2026-09-22T15:46:00+00:00",
-      "source": "Popular Mechanics"
-    },
-    {
-      "title": "$2.5 billion Amazon Prime settlement update: See if you qualify for a $200 payout and learn how to cancel unwanted subscriptions - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QRDNGVG9lR3pWbFp1QWJEejhFRDNKaEFsOHl4aHhzQVBtcjRGakZHSjlHLWFWLVppcFRnNDRMd0J5LUdpaDk1Ym1fRXlRaklBRTFNUEhtSk5TWDVwOGktZzlkTDEzLXlUT1JhMlV5Mk40WTQ3ZkVoZ0dOTGnSAYIBQVVfeXFMTjdJT3BGaDZFNFctZ2swMHlUcDd5c0xSa1RVSzllUDhEcW5MREM2RXFmc1FGekt5d3hocHdVVk43QWVJLXJvd1pDTlNkbDJ2MVN4ZzNtd2s3RnZfSFdNU1NNc3VhSUhnbjlfejY1ei1Ncko2eXRjNmFHTnJWbU11Si1Ndw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9QRDNGVG9lR3pWbFp1QWJEejhFRDNKaEFsOHl4aHhzQVBtcjRGakZHSjlHLWFWLVppcFRnNDRMd0J5LUdpaDk1Ym1fRXlRaklBRTFNUEhtSk5TWDVwOGktZzlkTDEzLXlUT1JhMlV5Mk40WTQ3ZkVoZ0dOTGnSAYIBQVVfeXFMTjdJT3BGaDZFNFctZ2swMHlUcDd5c0xSa1RVSzllUDhEcW5MREM2RXFmc1FGekt5d3hocHdVVk43QWVJLXJvd1pDTlNkbDJ2MVN4ZzNtd2s3RnZfSFdNU1NNc3VhSUhnbjlfejY1ei1Ncko2eXRjNmFHTnJWbU11Si1Ndw?oc=5\" target=\"_blank\">$2.5 billion Amazon Prime settlement update: See if you qualify for a $200 payout and learn how to cancel unwanted subscriptions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-22T15:17:05+00:00",
+      "title": "One hyperscaler's rally is just getting started, Wolfe Research says - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjR0YXBsaWJUcTlVU1BESThTcVgzWTZqWnFJZkVaaHliWnBLZmI1ZzIzbEhtVWctcmlkMEZhV0FFLXlfVXh6YTZDQkxnTEE4amxMM0tuS0JYNndza3FaYnpRWFlqa2RJSVVkRWxhaDhjVVRmcFhoUW1abjA2Y1hFM2ZtcUZhWXRhVldjM1pEOXk0bk9fbUJVbTU1enpXc09sNTJqZENB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjR0YXBsaWJUcTlVU1BESThTcVgzWTZqWnFJZkVaaHliWnBLZmI1ZzIzbEhtVWctcmlkMEZhV0FFLXlfVXh6YTZDQkxnTEE4amxMM0tuS0JYNndza3FaYnpRWFlqa2RJSVVkRWxhaDhjVVRmcFhoUW1abjA2Y1hFM2ZtcUZhWXRhVldjM1pEOXk0bk9fbUJVbTU1enpXc09sNTJqZENB?oc=5\" target=\"_blank\">One hyperscaler's rally is just getting started, Wolfe Research says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-23T13:52:14+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5\" target=\"_blank\">Amazon blocks Meta’s Muse AI assistant in new standoff over agentic shopping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-09-21T07:03:34+00:00",
-      "source": "GeekWire"
+      "title": "Amazon rolls out new agentic AI for third-party sellers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNno1MXBaZ3JtY05ZWHpfU2RsV0JuU3Zlb3hlN2RiaExrSHdEbE5wNGZjZUhINUNJQkdBR0pTM0xQUFhHZjdMdmEwSGtOcDRVcjJ1dFJNU1ZqMWlzbFpDZFhUVTlGaDFpTENaRjhKSDk0YWFiX05VOUZNbVVqRGhSemt6MHpabV8xbHNHSkZwbGRWVy1XdFdGZlVUVS1iMEJCNUNkd2stYUU2TnZ6Ny1LSXZB?oc=5\" target=\"_blank\">Amazon rolls out new agentic AI for third-party sellers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-23T13:03:43+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
+    {
+      "title": "Amazon Launches Agentic AI Workflows to Automate Third-Party Seller Tasks - konsulteer.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlR4UUotVTNZMFhQYXlpUFVuYXNadWFxdGh5UWptT3dweWZIQl9ucHJETmFKb2xwdlF2MHhFNnQ2elNiT19XVlhIVnBxem4tTHhTb3lBcDhOdGpLY2l4VGQxNzJaM0VsMzJUb09iUjlCemdkUmw4TENDWnFfVmgzRkwyQnVfVU50OEx4TVNJZDZQcjNVQ19wd0oyZU1ua3UtdG1PX3huNWlwVlUy?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlR4UUotVTNZMFhQYXlpUFVuYXNadWFxdGh5UWptT3dweWZIQl9ucHJETmFKb2xwdlF2MHhFNnQ2elNiT19XVlhIVnBxem4tTHhTb3lBcDhOdGpLY2l4VGQxNzJaM0VsMzJUb09iUjlCemdkUmw4TENDWnFfVmgzRkwyQnVfVU50OEx4TVNJZDZQcjNVQ19wd0oyZU1ua3UtdG1PX3huNWlwVlUy?oc=5\" target=\"_blank\">Amazon Launches Agentic AI Workflows to Automate Third-Party Seller Tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">konsulteer.com</font>",
+      "published": "2026-09-23T13:44:35+00:00",
+      "source": "konsulteer.com"
+    },
+    {
+      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-05-04T07:00:00+00:00",
+      "source": "About Amazon"
+    },
+    {
+      "title": "Misleading claims, prohibited foods: FSSAI launches crackdown on Amazon, Swiggy, BigBasket, Flipkart, Zep - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcnNrM2pXOUNGT1ZSbzNjXzZEWVk3N1MzRENuNXZHcDV3ZDlwbXhiN3hhQjYydzFVQk5zZk90MUl3TjNSUkdEU1c1ajVpYmRMaVhuSk9YSEUyMnFZME5LRThZLWFXMHZFdXg0VWJtVUpId1VQYmZFQjg4SXpvNlRUTWl2U2wwa2M5dzFuUFV6ZzFfTlhNSEVWRU9rcFhtdzNEQTFXaFY1MlNsOVBacVM3M0dCQTZRWWtiR3RtWTFmNVd0Y1d1LTQzQlBVSk96c3I5Z2pvOFFORkp3WHM4ZnQ5aGZ4OVJMS3BWR2hRZ2F1Z1BvUHBUbE40d1VUc1BndXZQQldOcdIBigJBVV95cUxQdTFzV25ZdjJoNVFUVFZvZFhxdm42a1UyOGM5c0kzQUllTTZIWlp3RlZnVDRndjh1YzZlYnRHc1hua1B0ejVTNzdzU3ZfdnRFM0h5S09ENW9EOHFDZFZCOUcwTk5FOXNpaUsyTkZRU0ZBWjdGQ09MTE5TbHVUQkI2VG1yQmZMbFpUSU1YMzhoMWNNTnBMODhqRnBYTGZ6aGN5ZGRSNWFhWkpYT1ZGd21PWVlpN2ctNXlQTko5UWlZVG9LZ2FaTnNDZXJkN3BBOXZ0OUVkRzk5MVNjNDFNU1NEbDQ0UTBxbHppc3dSSnNNVE50QlNyOGpmalczYUdWUm5DczRKdVpnOXk3Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOcnNrM2pXOUNGT1ZSbzNjXzZEWVk3N1MzRENuNXZHcDV3ZDlwbXhiN3hhQjYydzFVQk5zZk90MUl3TjNSUkdEU1c1ajVpYmRMaVhuSk9YSEUyMnFZME5LRThZLWFXMHZFdXg0VWJtVUpId1VQYmZFQjg4SXpvNlRUTWl2U2wwa2M5dzFuUFV6ZzFfTlhNSEVWRU9rcFhtdzNEQTFXaFY1MlNsOVBacVM3M0dCQTZRWWtiR3RtWTFmNVd0Y1d1LTQzQlBVSk96c3I5Z2pvOFFORkp3WHM4ZnQ5aGZ4OVJMS3BWR2hRZ2F1Z1BvUHBUbE40d1VUc1BndXZQQldOcdIBigJBVV95cUxQdTFzV25ZdjJoNVFUVFZvZFhxdm42a1UyOGM5c0kzQUllTTZIWlp3RlZnVDRndjh1YzZlYnRHc1hua1B0ejVTNzdzU3ZfdnRFM0h5S09ENW9EOHFDZFZCOUcwTk5FOXNpaUsyTkZRU0ZBWjdGQ09MTE5TbHVUQkI2VG1yQmZMbFpUSU1YMzhoMWNNTnBMODhqRnBYTGZ6aGN5ZGRSNWFhWkpYT1ZGd21PWVlpN2ctNXlQTko5UWlZVG9LZ2FaTnNDZXJkN3BBOXZ0OUVkRzk5MVNjNDFNU1NEbDQ0UTBxbHppc3dSSnNNVE50QlNyOGpmalczYUdWUm5DczRKdVpnOXk3Zw?oc=5\" target=\"_blank\">Misleading claims, prohibited foods: FSSAI launches crackdown on Amazon, Swiggy, BigBasket, Flipkart, Zep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "published": "2026-09-23T15:14:00+00:00",
+      "source": "The Times of India"
+    },
     {
       "title": "Amazon Blocks Meta’s Muse AI Agent From Shopping on Its Store - techi.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yZE1QX1Z5d3lUdjdRanVsNkpUWUtUVVFYaXR3MVBZaEZMTlU0amxqeUIzWHNTREZrblBfamQxSjRSQlhZYnVQUVFKZFAzSDFXaU5fLWMxTnVneG0wZHQtN29KdGRUdUNmX2ZtTzhrYmprQQ?oc=5",
@@ -75,41 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2djNmdTNDJ3d1lLVHNrR3RiOF9tRG5iZG0zV3F3TTU2RlZYZXYyTEM5ZkI4LVJRWm91WVdHeDZmdmR4VVc3QVUwc1FoY1QydHByRkp1N2w5cVRDNDdZYWRBNGVfZWY5TW1JdTdPTHdPamdFVG9DQzZpN05PMjRycUxqa2tiRThCMmlPTmFFa1FIX2w5azgwM3pLNA?oc=5\" target=\"_blank\">Jaguar Health Launches Neonorm Dog on Amazon, Expanding Animal-Health Product Franchise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2026-09-08T07:00:00+00:00",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Amazon Leo Adds 6 Ariane 6 Launches, Expanding Arianespace Commitment To 24 Missions - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaktmQmpEazZhTl8wS3FuSWdOZWdMTnV1U2JZYkNTTHRCem01dS1RTkE0bkd6bXp2Z1hYTUdidlJrSTNTenJ5SHQyUDU0MmM5bGlIeFdHM0RWbl9MQUN3aTlPMzJHQnlJbDZIaG02UHRqcG1HaWUxYXAwS0U5eWRmb2NrLWZIQXpfY0d6SHg1MS1qd1FkRUUwb0tOdXRxR1d4bE9aWlNn0gGrAUFVX3lxTE01blBJVGpxSl9uZmtOSUgzU0c3SHF4X1Y0ZFNyQmIydUk3aHRIRWhUbEdxRGtWZzBTVDdJc2RvUWtLdlhEU3lpR0RUSTdrX2RBX0VNVHhRc1VCMEZtbG5KUHp5ZHpRd01yYVhYSl83VW1aTUkxZjNmemhBZWt0ekVwTjVMbDE3OVVOQnNnOG1YMmJXa3NwbWRFemFzZFJmWTZ1YVd0SHpNQ2hfdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaktmQmpEazZhTl8wS3FuSWdOZWdMTnV1U2JZYkNTTHRCem01dS1RTkE0bkd6bXp2Z1hYTUdidlJrSTNTenJ5SHQyUDU0MmM5bGlIeFdHM0RWbl9MQUN3aTlPMzJHQnlJbDZIaG02UHRqcG1HaWUxYXAwS0U5eWRmb2NrLWZIQXpfY0d6SHg1MS1qd1FkRUUwb0tOdXRxR1d4bE9aWlNn0gGrAUFVX3lxTE01blBJVGpxSl9uZmtOSUgzU0c3SHF4X1Y0ZFNyQmIydUk3aHRIRWhUbEdxRGtWZzBTVDdJc2RvUWtLdlhEU3lpR0RUSTdrX2RBX0VNVHhRc1VCMEZtbG5KUHp5ZHpRd01yYVhYSl83VW1aTUkxZjNmemhBZWt0ekVwTjVMbDE3OVVOQnNnOG1YMmJXa3NwbWRFemFzZFJmWTZ1YVd0SHpNQ2hfdw?oc=5\" target=\"_blank\">Amazon Leo Adds 6 Ariane 6 Launches, Expanding Arianespace Commitment To 24 Missions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-      "published": "2026-09-14T19:00:46+00:00",
-      "source": "Pulse 2.0"
-    },
-    {
-      "title": "Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY19LUk5xYzhtVTZucWktS3V5QUxHd3djYkV5eHRrSFY4ZTFEZUNoNWxOS1piWGhHVDdQS3ZMRWRTQ04xMjBFNTVGTkhJcGNNWVJSMjBJb3pKUFlkbmZpZjRwOUJlQjRHRFUtU0I2QlhtMmdUN19IYTV5SXBBaUdYdkJJSHJQZEpk?oc=5\" target=\"_blank\">Introducing Amazon Supply Chain Services: Amazon’s logistics network, now open to every business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-05-04T07:00:00+00:00",
-      "source": "About Amazon"
-    },
-    {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdXa2NXUEthVU5RdXZ0WmNNck1rZEliWjBuMDJNaFlIVVpNWFZmQzRTZE9UXzR6cGhsOXN2bVljcFpFWlpKY1ZPMHlOaTNkMXBnTFZmaUNMR05YSDhUREVZOWktS0JKOE92R3l3MHA1Nlh5R1BGcWF0cGpkd0hMcjFOVlhhVW5NNkwxTXFWZ3RhZ2FLd2NBeldzeFBwOE9sV29hanllSkl2aGRr?oc=5\" target=\"_blank\">Amazon Alexa can now alert you when something new might tempt you to shop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-09-01T07:00:00+00:00",
-      "source": "TechCrunch"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-22",
-      "close": 254.63499450683594
+      "date": "2026-09-23",
+      "close": 250.04989624023438
     },
     "history": [
-      {
-        "date": "2026-09-14",
-        "close": 253.5399932861328
-      },
       {
         "date": "2026-09-15",
         "close": 248.4199981689453
@@ -131,8 +127,8 @@
         "close": 258.45001220703125
       },
       {
-        "date": "2026-09-22",
-        "close": 254.63499450683594
+        "date": "2026-09-23",
+        "close": 250.04989624023438
       }
     ],
     "name": "Amazon.com, Inc."
