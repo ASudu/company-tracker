@@ -2,79 +2,72 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-09-27T16:00:55.162063+00:00",
+  "fetched_at": "2026-09-28T18:56:56.533217+00:00",
   "news": [
     {
-      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5\" target=\"_blank\">Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXU0Z2c2UHBjYVlsSmU2a2t0ZWVfSlk1bXNYNUk1NVo3emZaNVh1ZU9OclI4ejU3NHVoMXhoQjZCMkFhb3NYOWhLVmJnZExSZjN3MXZWeGYzWjZvZFd0TEdfSTV5bWpHWEVFYnRTR1l2U0dZb2lETlJIQU5uUGxIdm9IUXY2Mmt2b1hINHd5RkJiYVJLYU9JdFhlbWFEOGo1UjZtTWxqONIBrAFBVV95cUxQRV9ITE5NeFpHb0xYZkZfUXJoRlBpTS02bGtoNVlkb3poelk1TXlpRXJEQkdJazBvbm5sOGJ3ZF9DRk5Eb1dMemZHaFB5Ty1YN1FBUURwaW9nMjhEOEt0N214YUx0SnF3N2VNbzhZczBlVk9LczBxcnRrTU1hbk8yMmVnLWRtQ0V5Z2VDYzJzTWRDbVJwVG85Yzc5aFMxRWg4a2p5dW5aM2xKU2Nk?oc=5\" target=\"_blank\">Introducing Meta VR Glasses: A Cinema, Courtside Seat, and Workspace in Just 100 Grams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjk0Q2VnTVNKdm1ubXYwSHdGSFlHcDRUN29YWkh5NmU0MjR5cGt1b0xJM21vTWE3aHFBTmhVaThPUXBNTXpiLUY3OFZTYUZPd21KQ2VmZklCU1c4R295cTZVMlpCMkFZblRUUGRDeGd1Q3dTZ2RaU1puQmFWeXJWLXJDSWNma0U1T1NGR1VQZWI1NEEzc3Fsczk3VEtteTMxMDZvV3ppUWd6UU9yZzQza0o3UFFiUmhSb00xbGpUa0NCQ19udmxxOGI2UUtZSDhW?oc=5\" target=\"_blank\">Meta’s VR Glasses Are What the Apple Vision Pro Should Have Been</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font></li></ol>",
-      "published": "2026-09-24T00:45:00+00:00",
+      "title": "Meta taps MongoDB CEO Desai to drive enterprise AI push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEtXZ3gxSXRQejgzMEFqZFdudGYwSWdvUDB5cGVmckloeG9OLWR0Ml8xbWVmLTZjSmI0TWw5QnQ4WGY5cVppYjVDbUhZYUpTSVhFUFFtbjExeUEwRTBVSVUxRTRxRFU3M0hvUXdKcWpVRndxSjJuNEZXc0VtRnhfa1ZiLThJSWdIcFlZbjBLTFlJZHc0RE5QVFIzUkE1SkZyQTFXT1RxMWlWZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEtXZ3gxSXRQejgzMEFqZFdudGYwSWdvUDB5cGVmckloeG9OLWR0Ml8xbWVmLTZjSmI0TWw5QnQ4WGY5cVppYjVDbUhZYUpTSVhFUFFtbjExeUEwRTBVSVUxRTRxRFU3M0hvUXdKcWpVRndxSjJuNEZXc0VtRnhfa1ZiLThJSWdIcFlZbjBLTFlJZHc0RE5QVFIzUkE1SkZyQTFXT1RxMWlWZw?oc=5\" target=\"_blank\">Meta taps MongoDB CEO Desai to drive enterprise AI push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-28T14:47:44+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zd1lieVlXcWZJZnBuTlRmZHlZdWFVdnJ0eUVsdFBwT3JSUEVkTjF6VmFvaWVZLUVHZWY5WnBwbzVzUVJjTlc5X1BYMWczVHlNVGplakFVM1pBM3liWE5GTEpiY1NFTlVoX3fSAW9BVV95cUxPVFVqdXJxalVzdUw2YzZNRzQ4eDhTZnl1eks3cXBJRVAwNnlwYkdaaXlKelltbUhpNF9YZXBFTld6SlpQYUFlNjAzblp1QVZNdENoRkJYM3hPeEQ3dWJBMG54QVpkQzdVY1BMVldGT1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0zd1lieVlXcWZJZnBuTlRmZHlZdWFVdnJ0eUVsdFBwT3JSUEVkTjF6VmFvaWVZLUVHZWY5WnBwbzVzUVJjTlc5X1BYMWczVHlNVGplakFVM1pBM3liWE5GTEpiY1NFTlVoX3fSAW9BVV95cUxPVFVqdXJxalVzdUw2YzZNRzQ4eDhTZnl1eks3cXBJRVAwNnlwYkdaaXlKelltbUhpNF9YZXBFTld6SlpQYUFlNjAzblp1QVZNdENoRkJYM3hPeEQ3dWJBMG54QVpkQzdVY1BMVldGT1E?oc=5\" target=\"_blank\">Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-09-28T12:46:06+00:00",
       "source": "CNBC"
     },
     {
-      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy? - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkJsbXcxMThtdVU2QTZ1RGRpcVRNbzZncTZIa2Zsa3VpSTNCam9uSDlsYkNOQ1ZJMDRWVENmRllEOE1lOGl5R0pHM2R0ZElDV3FrRERaa0kyeC04T3VvNEFEZW85U2NUaTJzQkRIaXpPUkl1SGM1UUQwZDJITkJ2QUZjLUNDS2ROcUpUbUZlUkhBSTluOWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkJsbXcxMThtdVU2QTZ1RGRpcVRNbzZncTZIa2Zsa3VpSTNCam9uSDlsYkNOQ1ZJMDRWVENmRllEOE1lOGl5R0pHM2R0ZElDV3FrRERaa0kyeC04T3VvNEFEZW85U2NUaTJzQkRIaXpPUkl1SGM1UUQwZDJITkJ2QUZjLUNDS2ROcUpUbUZlUkhBSTluOWc?oc=5\" target=\"_blank\">Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-09-26T10:30:00+00:00",
+      "title": "Meta Poaches MongoDB CEO “Effective Immediately” – Stock Sinks 24% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdU5iV1NSaHBGMFlhSlJRSU9EOTQyNlRyV3J5ZVU4SjcwVEhleUZLdGVUeDdiT0d3djlhdXdRbEdEV1UwMFdfMU83T0ZrNHZ3VEI4aHFkT1RXdUtVX1hWNVZHQzNKT09KT2JjSlBIRjFEbTVNRzNWMFAtc1NyZGlDUXdQSktaZk5mb0ltLTA5dUJUVGlldDB2d3p5N0NMUG9x?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdU5iV1NSaHBGMFlhSlJRSU9EOTQyNlRyV3J5ZVU4SjcwVEhleUZLdGVUeDdiT0d3djlhdXdRbEdEV1UwMFdfMU83T0ZrNHZ3VEI4aHFkT1RXdUtVX1hWNVZHQzNKT09KT2JjSlBIRjFEbTVNRzNWMFAtc1NyZGlDUXdQSktaZk5mb0ltLTA5dUJUVGlldDB2d3p5N0NMUG9x?oc=5\" target=\"_blank\">Meta Poaches MongoDB CEO “Effective Immediately” – Stock Sinks 24%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-28T13:14:52+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5\" target=\"_blank\">Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5\" target=\"_blank\">Meta’s Muse Moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNb29oWjlEeWVfaTFqTHdTM1pRbHIteXdsWEkyVzQxTURTaUhVaDI4aS13azVMVFFlSWZTWmdsN3hxVnBqNVAtQUJES3Jhbi03NFZTYzBGZ1puSnRZRS0xWXNvVWsxQ2E4bnFnLTJhQjUxMGI4Y2d0RWwtWTlXakZiTmd5VW1QQklfdnhRNzctdEZPVFJCd0tUVA?oc=5\" target=\"_blank\">A YouTuber says Meta's Muse gave his address to a Facebook Marketplace buyer: 'A guy just showed up at my door'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">businessinsider.com</font></li></ol>",
+      "published": "2026-09-21T18:28:51+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRndJVnEyQ1VyNkszMWh1VjFEWkN5SXpWZGRERkdnODVManN3ZFA4T0U0VkpsUHJ1Ml9BdWVqcFJDaEo0LXQtVjQ2Q2pBUm9hVlpIcGFTRFZrS185bnBXYXNjWks1dE93aGdwUmdVQnQ4M1V4Mkh4ajJyNVVqckZqa25DLW11cTRkemxUa0NtMzNtNXI2VEFaSWZxVXAxZDNNRjcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRndJVnEyQ1VyNkszMWh1VjFEWkN5SXpWZGRERkdnODVManN3ZFA4T0U0VkpsUHJ1Ml9BdWVqcFJDaEo0LXQtVjQ2Q2pBUm9hVlpIcGFTRFZrS185bnBXYXNjWks1dE93aGdwUmdVQnQ4M1V4Mkh4ajJyNVVqckZqa25DLW11cTRkemxUa0NtMzNtNXI2VEFaSWZxVXAxZDNNRjcw?oc=5\" target=\"_blank\">Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-09-28T18:47:00+00:00",
       "source": "WIRED"
     },
     {
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5\" target=\"_blank\">Meta's Muse agent is attacking one of the economy's most profitable weak spots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-27T14:33:22+00:00",
-      "source": "CNBC"
+      "title": "Meta Launches Lightweight $1,299 VR Headset That Looks Like Glasses - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFVkS0F6UDJaV0hTd1NrRTllbTlpemQ0clY4V3otaFVuQmxGLU05OEtibVdpbTRsNkMwYy1HNGFyZlEwR0ZuSUpfYjd0M3BNV0pCT0R3SWUwZ3VReDRyZjhfaU1mVlJwcE42Zk5nZmdWVHVtY1VZUmZjMEptZWE2ZmpwaFBUdk5Lc09SYmNPeEQ4RHlnUVdac1l3RXRJNGFyaVJ1eTY0X2wyRWdkaGtIQVZKVDBzM3FDbTRvZFZFRmROeWJCMXRIaXhn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFVkS0F6UDJaV0hTd1NrRTllbTlpemQ0clY4V3otaFVuQmxGLU05OEtibVdpbTRsNkMwYy1HNGFyZlEwR0ZuSUpfYjd0M3BNV0pCT0R3SWUwZ3VReDRyZjhfaU1mVlJwcE42Zk5nZmdWVHVtY1VZUmZjMEptZWE2ZmpwaFBUdk5Lc09SYmNPeEQ4RHlnUVdac1l3RXRJNGFyaVJ1eTY0X2wyRWdkaGtIQVZKVDBzM3FDbTRvZFZFRmROeWJCMXRIaXhn?oc=5\" target=\"_blank\">Meta Launches Lightweight $1,299 VR Headset That Looks Like Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-09-23T23:41:36+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Meta’s Muse Moment - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVEFuOGY0ZTdaX2tycHVJTjU0a2FZV25xYkg5VktBLWpYOFBaSE1zcW9xbldNQVFJVlkxY3pzTDlHaWY3eXhuVXBfWnJKRTg5UHgxeDJ5UEZRTXRIVkFmSFNNRUc?oc=5\" target=\"_blank\">Meta’s Muse Moment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-09-27T14:55:00+00:00",
-      "source": "WSJ"
+      "title": "At Meta Connect, the company’s smart glasses were everywhere - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5\" target=\"_blank\">At Meta Connect, the company’s smart glasses were everywhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-09-26T01:08:57+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Zuckerberg softens his look with some geeky tweaks — and a message - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNF93eVlPZkhtd0Y0dDA5Njg4NE5DYUZZd0F5MS04NUJnZFYwcGhxbFZLOHpHQUY2SDIxRlpGaFdvSlBHZjBaaGdvcUlIQVhLRjR0MmdoVEQxMXc5NGo5QUN6SV9nM1JMcWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNF93eVlPZkhtd0Y0dDA5Njg4NE5DYUZZd0F5MS04NUJnZFYwcGhxbFZLOHpHQUY2SDIxRlpGaFdvSlBHZjBaaGdvcUlIQVhLRjR0MmdoVEQxMXc5NGo5QUN6SV9nM1JMcWc?oc=5\" target=\"_blank\">Zuckerberg softens his look with some geeky tweaks — and a message</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-09-25T12:02:45+00:00",
-      "source": "CNN"
-    },
-    {
-      "title": "Ex-Meta exec says Mark Zuckerberg taught him a lesson in work-life balance. Now he has strict rules - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWFQzeDBoczdMY2Nkd1NkZnhMMjV4UEJfUUdQMkRjbUtwUzd5ZXF6ZU81ZkE4X3lDcm41aXNDRllpZXV0ME1jcnRveTh4YUgzU0JSLURiQ01CbjFFcmRWQlh6TTBMWXg0UFBWUjlFTUY2LTRPZzRWRFUzbGVoUlppNDBEcEZTLU42VG5kbjQ2YkVEUkR1clFxVHdfSjlYZmpnOUZIZlJpcW5NWW1IcTJOaTV6d2NLekgtOHJMVXNWWmV0SzNQcUJqSGJDNnladnVYOXNScTZSMjRjUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWFQzeDBoczdMY2Nkd1NkZnhMMjV4UEJfUUdQMkRjbUtwUzd5ZXF6ZU81ZkE4X3lDcm41aXNDRllpZXV0ME1jcnRveTh4YUgzU0JSLURiQ01CbjFFcmRWQlh6TTBMWXg0UFBWUjlFTUY2LTRPZzRWRFUzbGVoUlppNDBEcEZTLU42VG5kbjQ2YkVEUkR1clFxVHdfSjlYZmpnOUZIZlJpcW5NWW1IcTJOaTV6d2NLekgtOHJMVXNWWmV0SzNQcUJqSGJDNnladnVYOXNScTZSMjRjUQ?oc=5\" target=\"_blank\">Ex-Meta exec says Mark Zuckerberg taught him a lesson in work-life balance. Now he has strict rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-09-27T13:13:00+00:00",
-      "source": "Fortune"
-    },
-    {
-      "title": "Mark Zuckerberg Loses $9 Billion In A Day Amid AI Overspending Fears - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQenBiZUZDOHNVeDFmLTZQd2lUVEh2S25qWnkwY3BlTzdFYUNUT0c0N21tZUFwTUZvVU5fcGFvcGM1OEZxNUtnM3dFUWtrRDdPbUZRRXUwVXFoYnBIZUdaU3A3bVM0U0dGeWM2ZjJEOUctaHhjbnFtVmJ1cmhJYm1NY0thdl9xR1l4QTlmVUNMdG5lMHo2NkRsVEpESFdBaDJ2Yk1MeTVDbFJ2UFpmREhjTWhpV1RQejI0UERpS2FxUlBzcTl6aWFsOERYeEpzeWNZRXIwSkxTbjhKblZKQ05HMzJR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQenBiZUZDOHNVeDFmLTZQd2lUVEh2S25qWnkwY3BlTzdFYUNUT0c0N21tZUFwTUZvVU5fcGFvcGM1OEZxNUtnM3dFUWtrRDdPbUZRRXUwVXFoYnBIZUdaU3A3bVM0U0dGeWM2ZjJEOUctaHhjbnFtVmJ1cmhJYm1NY0thdl9xR1l4QTlmVUNMdG5lMHo2NkRsVEpESFdBaDJ2Yk1MeTVDbFJ2UFpmREhjTWhpV1RQejI0UERpS2FxUlBzcTl6aWFsOERYeEpzeWNZRXIwSkxTbjhKblZKQ05HMzJR?oc=5\" target=\"_blank\">Mark Zuckerberg Loses $9 Billion In A Day Amid AI Overspending Fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-09-25T19:11:42+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "Now that they think about it, Meta and YouTube actually will take money to run Musk doc ads - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnA3QlRUMmUyOHlpM2x4bFJiWk5fUnR2TWZSODFXYkxzQVhIMnFSdkI4UXFSTi1yRTQxTXVuSmN0Q1ZEa3RrMVdqNEhKeGdxUEhKVjhtckxpb1k5NXAxOVBLa1VTR3Q4WUk3UW1FQkZ3NDBvazBlMjhNc1p0U29PYTB1a2lXQkpZdXF4UWg3Q0Y1NzNBSWtmQ3hvTGg5SDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnA3QlRUMmUyOHlpM2x4bFJiWk5fUnR2TWZSODFXYkxzQVhIMnFSdkI4UXFSTi1yRTQxTXVuSmN0Q1ZEa3RrMVdqNEhKeGdxUEhKVjhtckxpb1k5NXAxOVBLa1VTR3Q4WUk3UW1FQkZ3NDBvazBlMjhNc1p0U29PYTB1a2lXQkpZdXF4UWg3Q0Y1NzNBSWtmQ3hvTGg5SDg?oc=5\" target=\"_blank\">Now that they think about it, Meta and YouTube actually will take money to run Musk doc ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "published": "2026-09-26T20:34:18+00:00",
-      "source": "Yahoo"
+      "title": "Meta’s Smart Glasses PR Cleanup Campaign Is in Full Swing - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OSjNXd0pFY1pycTIxOVdPT1RrVVZ2aFZXaEJwYnBlOHN3NEVTTWlFWTUwQVNudng2QlRJUWtxWTdFYWYtT0gzZ0ZqSERETDVMWGNVNDltVE1PWkFLQVRHN0ZnM2V0SWZ5c09KczE0Q0libGlEUmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5OSjNXd0pFY1pycTIxOVdPT1RrVVZ2aFZXaEJwYnBlOHN3NEVTTWlFWTUwQVNudng2QlRJUWtxWTdFYWYtT0gzZ0ZqSERETDVMWGNVNDltVE1PWkFLQVRHN0ZnM2V0SWZ5c09KczE0Q0libGlEUmc?oc=5\" target=\"_blank\">Meta’s Smart Glasses PR Cleanup Campaign Is in Full Swing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-09-28T18:20:41+00:00",
+      "source": "Gizmodo"
     }
   ],
   "product_launches": [
     {
-      "title": "Introducing Meta VR Glasses, A New Era for Virtual Reality - meta.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5ZzFINlR6Sk8tRV9CazNxcENKa2JDb1lVdC0zU3g0bVRPeTlqMXpydjlRWFd3dWo0N1JndjIxN0dIcnl0UjllWHVKRDhHbmRCT2VDc1ZyTjlwRWp0bGQ5NG5IaFRKS3Vsdm9wQVY4MW9ZNDRwR3Qw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB5ZzFINlR6Sk8tRV9CazNxcENKa2JDb1lVdC0zU3g0bVRPeTlqMXpydjlRWFd3dWo0N1JndjIxN0dIcnl0UjllWHVKRDhHbmRCT2VDc1ZyTjlwRWp0bGQ5NG5IaFRKS3Vsdm9wQVY4MW9ZNDRwR3Qw?oc=5\" target=\"_blank\">Introducing Meta VR Glasses, A New Era for Virtual Reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
-      "published": "2026-09-24T00:55:43+00:00",
-      "source": "meta.com"
-    },
-    {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3lldmNsTC1STzIzTnVJajFDSFNBYjQ2YnEyajFiZ240VTlONUNMaUlXTEJ1X19aOHRxN0FpRlhmT1Y0N050MVZ1ZTN0cEQ4TUtud2tRN1Q0MTRwck1IOTJkZkpiMjFNam54UHdvZnYwQ0xWVWNueHFLSEF5T1dfS1EtbW9wTjNYbHZ2VEx4c0JUQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3lldmNsTC1STzIzTnVJajFDSFNBYjQ2YnEyajFiZ240VTlONUNMaUlXTEJ1X19aOHRxN0FpRlhmT1Y0N050MVZ1ZTN0cEQ4TUtud2tRN1Q0MTRwck1IOTJkZkpiMjFNam54UHdvZnYwQ0xWVWNueHFLSEF5T1dfS1EtbW9wTjNYbHZ2VEx4c0JUQQ?oc=5\" target=\"_blank\">Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-09-23T22:30:00+00:00",
-      "source": "The Verge"
+      "title": "Meta To Launch VR Glasses Amid Wearables Backlash 09/28/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXE2bmM5aFpXUEdFTUQ1d09GYjJ2LU9aU1ljMDdSSzJ6d2ZZMUloVkhjeWlBX0J1VGJyTjlzLTZnb0dFOUU1MUZJOU1iazFKcDVTVEViT3ZvZWwzaGozQU1sRmlCT1hKZnkyMzZDd1k1SGtEY2JFQ2RmWlNxbDBOaGFQTnZrbzNWWUFGNVpkZGszTXlOdko0MjJiNnRwNy1fd3hERFF4UHlsUjgyWGd3R3NqaDk1TGZtekI1bk52SWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXE2bmM5aFpXUEdFTUQ1d09GYjJ2LU9aU1ljMDdSSzJ6d2ZZMUloVkhjeWlBX0J1VGJyTjlzLTZnb0dFOUU1MUZJOU1iazFKcDVTVEViT3ZvZWwzaGozQU1sRmlCT1hKZnkyMzZDd1k1SGtEY2JFQ2RmWlNxbDBOaGFQTnZrbzNWWUFGNVpkZGszTXlOdko0MjJiNnRwNy1fd3hERFF4UHlsUjgyWGd3R3NqaDk1TGZtekI1bk52SWc?oc=5\" target=\"_blank\">Meta To Launch VR Glasses Amid Wearables Backlash 09/28/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
+      "published": "2026-09-28T16:03:20+00:00",
+      "source": "MediaPost"
     },
     {
       "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up - Reuters",
@@ -84,32 +77,35 @@
       "source": "Reuters"
     },
     {
-      "title": "Meta is launching a new product to fix its biggest problem - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXNlZW5lYVFTbVVxc19BRWRWMlhEbUw5am1BOUxTRkYzUEgxS0NleXhlZy1GUWx6NFNtenR1SWI1d3dwX24yazF4VFNHaF91bUFvQlNmR1ZHQktHcF84SHB4VkJ5LVRvSEhrZ2hXbGZPLUc5MHVseEN3WWpOVmVkU3FiOHZDZGI1Uk40?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXNlZW5lYVFTbVVxc19BRWRWMlhEbUw5am1BOUxTRkYzUEgxS0NleXhlZy1GUWx6NFNtenR1SWI1d3dwX24yazF4VFNHaF91bUFvQlNmR1ZHQktHcF84SHB4VkJ5LVRvSEhrZ2hXbGZPLUc5MHVseEN3WWpOVmVkU3FiOHZDZGI1Uk40?oc=5\" target=\"_blank\">Meta is launching a new product to fix its biggest problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-09-24T00:15:00+00:00",
-      "source": "Yahoo! Finance Canada"
+      "title": "Meta Launches Enterprise Platform And Names CJ Desai As Chief Enterprise Platform Officer - Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmJ1X25oeWYxM0x4bEh1amVZUWZKRGFLY2toMlRfVm1ycFlEUVc5YWdtcWE3bElWOUlKQU5kU2hHMVdSREJPdFBBaFQxRzJpc0dXR1dvOVF4YjdEaEdhVTlUYmQ1bXJUUmd1akI3V2ppMjZsTXRieEg5SWdGUUNuSnVhUmJ2dk1ya1A3dXZHb1g1OENlZkRWX3JvZkVNeVJJWEJBS3VmWUtaYWRYR3fSAbMBQVVfeXFMUDBGcW9vNkFnb3N5dkpwQUNiXzVsMGY0Nml5OFZ1NkI1bVR0MHFUTXI1ekZPY2lNVnFtWDRRMkdMN3VSckRocDNRcm9hWmFwTlpSRDhpemd4VGpQWDRMb3hINDR0azQtTVdpWDB4NmtkU2JqMlJxQk1NVlJiSDdPVzZnSHAtN2tIUlA3dnhNQnl1cldpc2pBZlhCTHM5cWFTREMyRFZxb2w3dlB0UDNqdzRib28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmJ1X25oeWYxM0x4bEh1amVZUWZKRGFLY2toMlRfVm1ycFlEUVc5YWdtcWE3bElWOUlKQU5kU2hHMVdSREJPdFBBaFQxRzJpc0dXR1dvOVF4YjdEaEdhVTlUYmQ1bXJUUmd1akI3V2ppMjZsTXRieEg5SWdGUUNuSnVhUmJ2dk1ya1A3dXZHb1g1OENlZkRWX3JvZkVNeVJJWEJBS3VmWUtaYWRYR3fSAbMBQVVfeXFMUDBGcW9vNkFnb3N5dkpwQUNiXzVsMGY0Nml5OFZ1NkI1bVR0MHFUTXI1ekZPY2lNVnFtWDRRMkdMN3VSckRocDNRcm9hWmFwTlpSRDhpemd4VGpQWDRMb3hINDR0azQtTVdpWDB4NmtkU2JqMlJxQk1NVlJiSDdPVzZnSHAtN2tIUlA3dnhNQnl1cldpc2pBZlhCTHM5cWFTREMyRFZxb2w3dlB0UDNqdzRib28?oc=5\" target=\"_blank\">Meta Launches Enterprise Platform And Names CJ Desai As Chief Enterprise Platform Officer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+      "published": "2026-09-28T14:06:32+00:00",
+      "source": "Pulse 2.0"
     },
     {
-      "title": "The 10 biggest announcements from Meta Connect - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ2xxXzJhaTZJalhBd1ZFLTA0ZW5NRHpkM1Q1Z0lTYnlFYUNUUzd3S1JKVXpPSVNjVm1LcTI3VUkxRWhjcUZ0aDN0WDVpdmtJN3JVTUVRcnN0MmJRbk1BMURjRXdGdGNYS2FneXZVLXNYbWMxdVdrWHptNm1vWnkzRkNha241WEd5UTBfUV8zT2xiQUU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ2xxXzJhaTZJalhBd1ZFLTA0ZW5NRHpkM1Q1Z0lTYnlFYUNUUzd3S1JKVXpPSVNjVm1LcTI3VUkxRWhjcUZ0aDN0WDVpdmtJN3JVTUVRcnN0MmJRbk1BMURjRXdGdGNYS2FneXZVLXNYbWMxdVdrWHptNm1vWnkzRkNha241WEd5UTBfUV8zT2xiQUU?oc=5\" target=\"_blank\">The 10 biggest announcements from Meta Connect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-09-24T00:34:00+00:00",
-      "source": "Business Insider"
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3lldmNsTC1STzIzTnVJajFDSFNBYjQ2YnEyajFiZ240VTlONUNMaUlXTEJ1X19aOHRxN0FpRlhmT1Y0N050MVZ1ZTN0cEQ4TUtud2tRN1Q0MTRwck1IOTJkZkpiMjFNam54UHdvZnYwQ0xWVWNueHFLSEF5T1dfS1EtbW9wTjNYbHZ2VEx4c0JUQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3lldmNsTC1STzIzTnVJajFDSFNBYjQ2YnEyajFiZ240VTlONUNMaUlXTEJ1X19aOHRxN0FpRlhmT1Y0N050MVZ1ZTN0cEQ4TUtud2tRN1Q0MTRwck1IOTJkZkpiMjFNam54UHdvZnYwQ0xWVWNueHFLSEF5T1dfS1EtbW9wTjNYbHZ2VEx4c0JUQQ?oc=5\" target=\"_blank\">Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-09-23T22:30:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Meta Launches Meta Enterprise Platform and Taps MongoDB CEO to Lead It - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWt2c211N1NRSVVja2ZqZ1hsYzdLemhXZWFPTWpEVzVBbHgxZVRWbW1uZlBqMVpUNHB0UldxMmxmYWpVUTREaGZ2QkZyN3BQNGpqS0Z4eHhQRXk0TXgtLWFjRmJFb3BZVjl5dkFONEpmdlhrcHZUOWxBQUVWU2hwTFVqUTRmNm9IZ2NEanBxd0R6eE9BTUZz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWt2c211N1NRSVVja2ZqZ1hsYzdLemhXZWFPTWpEVzVBbHgxZVRWbW1uZlBqMVpUNHB0UldxMmxmYWpVUTREaGZ2QkZyN3BQNGpqS0Z4eHhQRXk0TXgtLWFjRmJFb3BZVjl5dkFONEpmdlhrcHZUOWxBQUVWU2hwTFVqUTRmNm9IZ2NEanBxd0R6eE9BTUZz?oc=5\" target=\"_blank\">Meta Launches Meta Enterprise Platform and Taps MongoDB CEO to Lead It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unite.AI</font>",
+      "published": "2026-09-28T17:06:02+00:00",
+      "source": "Unite.AI"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-25",
-      "close": 751.6599731445312
+      "date": "2026-09-28",
+      "close": 721.3499755859375
     },
     "history": [
-      {
-        "date": "2026-09-17",
-        "close": 681.77197265625
-      },
       {
         "date": "2026-09-18",
         "close": 665.2250366210938
@@ -133,6 +129,10 @@
       {
         "date": "2026-09-25",
         "close": 751.6599731445312
+      },
+      {
+        "date": "2026-09-28",
+        "close": 721.3499755859375
       }
     ],
     "name": "Meta Platforms, Inc."
