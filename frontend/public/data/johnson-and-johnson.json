@@ -2,114 +2,17 @@
   "name": "Johnson & Johnson",
   "slug": "johnson-and-johnson",
   "ticker": "JNJ",
-  "fetched_at": "2026-09-29T17:16:09.971176+00:00",
-  "news": [
-    {
-      "title": "Johnson & Johnson’s Next Growth Engine Is Taking Shape - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWlDRGlUSmt1OGJHUVNiZ2cxMklEOXNZRFdid2tCSEU2T3VGYmpzM042MURtdnNPbGxhOFkxOUhVeGpsLUhfdTdodkJjOU9KQUtvUk9Ia0pBOXJSazhxR0ozLUlMWDhXT0IyYVZkS3VubzVYY0I1ZUVacmhyeVJhWG9MTm83akUtYldMaFc5a2haSEtwUnJoMUVhaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWlDRGlUSmt1OGJHUVNiZ2cxMklEOXNZRFdid2tCSEU2T3VGYmpzM042MURtdnNPbGxhOFkxOUhVeGpsLUhfdTdodkJjOU9KQUtvUk9Ia0pBOXJSazhxR0ozLUlMWDhXT0IyYVZkS3VubzVYY0I1ZUVacmhyeVJhWG9MTm83akUtYldMaFc5a2haSEtwUnJoMUVhaw?oc=5\" target=\"_blank\">Johnson & Johnson’s Next Growth Engine Is Taking Shape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-      "published": "2026-09-28T18:00:00+00:00",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "Johnson & Johnson (JNJ) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2Utczk0MktCYk90RGZ4QzlaRGFLX0ZXQXRLemlkczRhNHZxZHhTTTNzaVFRTl9lbXEwdjd1bkM2bnIyOG1ZUFlKV0FDQkwyUVZUSnFLcjVfMzU0RExCTTE5Nm80ZnpzNzlPWW1TTmZUU0ZncmJrUEN3ZGUxZVduYzFQUnR1aHlvOU9EZ25wQXhRbm5XV0lEejVPYW1FaUFjcHc5a1N1SQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2Utczk0MktCYk90RGZ4QzlaRGFLX0ZXQXRLemlkczRhNHZxZHhTTTNzaVFRTl9lbXEwdjd1bkM2bnIyOG1ZUFlKV0FDQkwyUVZUSnFLcjVfMzU0RExCTTE5Nm80ZnpzNzlPWW1TTmZUU0ZncmJrUEN3ZGUxZVduYzFQUnR1aHlvOU9EZ25wQXhRbm5XV0lEejVPYW1FaUFjcHc5a1N1SQ?oc=5\" target=\"_blank\">Johnson & Johnson (JNJ) is Attracting Investor Attention: Here is What You Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-29T12:00:04+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Johnson & Johnson: Strong Catalysts, But I’m Staying At Hold (NYSE:JNJ) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWNWblF0S2dXN2ktNjNwZDRYbURzUmd6TUxlMnZmakhOOVJkTjVlRkd5c0N5UlhxUkwySjA4dWVHeURPUHRyM0NCdXpRVktfWnBsU3hkOUVaeGlrYlBIUEdJOURaRExaQkdPaVNYTUZmNkk1SmNaWndtRl94TDl5dmlycHZQUjdrVE1waEtCX293Sk1VNUJkLWY4V2x5bUNPWkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWNWblF0S2dXN2ktNjNwZDRYbURzUmd6TUxlMnZmakhOOVJkTjVlRkd5c0N5UlhxUkwySjA4dWVHeURPUHRyM0NCdXpRVktfWnBsU3hkOUVaeGlrYlBIUEdJOURaRExaQkdPaVNYTUZmNkk1SmNaWndtRl94TDl5dmlycHZQUjdrVE1waEtCX293Sk1VNUJkLWY4V2x5bUNPWkE?oc=5\" target=\"_blank\">Johnson & Johnson: Strong Catalysts, But I’m Staying At Hold (NYSE:JNJ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-09-29T13:10:24+00:00",
-      "source": "Seeking Alpha"
-    },
-    {
-      "title": "BofA raises Johnson & Johnson stock price target on Icotyde outlook - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUJLU29PbVJKLUFPSzJ6ZU16dDF3WjJQT3BzTUZWOTVaVXNlOEVBRHQ2V19fRDJyWl9kYlRnaE15OEpkdmJWR0F1Tm03dzhkWWYwakRneVJWeUFMazZNTG0za3pEeHJQX2p3ckNuT0dDd2t2SDdybjd6WDBKN0tGOGx0S3RKOFVuXzRpcTBEUThBamxvak54bEdnZnVJa3RtOFZna1l2aFdYVFVuSVNiYl9VSFZXQjFVWXBQaWNSV19YdnJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUJLU29PbVJKLUFPSzJ6ZU16dDF3WjJQT3BzTUZWOTVaVXNlOEVBRHQ2V19fRDJyWl9kYlRnaE15OEpkdmJWR0F1Tm03dzhkWWYwakRneVJWeUFMazZNTG0za3pEeHJQX2p3ckNuT0dDd2t2SDdybjd6WDBKN0tGOGx0S3RKOFVuXzRpcTBEUThBamxvak54bEdnZnVJa3RtOFZna1l2aFdYVFVuSVNiYl9VSFZXQjFVWXBQaWNSV19YdnJ3?oc=5\" target=\"_blank\">BofA raises Johnson & Johnson stock price target on Icotyde outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-09-29T10:24:57+00:00",
-      "source": "Investing.com"
-    },
-    {
-      "title": "Johnson & Johnson Q3 Preview: Analyst Projects In-Line Sales, Earnings Miss - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSE1sY1VFYVFCMUpNRlIyWWpydjRQT3Q2MERqRUlhNC1Qelo4VkEyTUszTTB1SEl3QmgxVlZDYlUyZWphdFA5b0paQ2k4ZUkwMFdGWGRScFpPd0o4SW4tZU5wSzNLWk9OV1liWmF5dHAxQXM5WEtEa0FweDhJeEtuOWpLNExZVXVTRXpEUnJJaGhlSWRnaWtZbm5MTlpsY1RWZ2NfRTdCcUt4YWhHcUFXQmFOcHp6dXc2V29QVi1yLXMzOUoweWcxbjV2b0VYQzNLVGM1Z0hyYmVoQXdramp3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSE1sY1VFYVFCMUpNRlIyWWpydjRQT3Q2MERqRUlhNC1Qelo4VkEyTUszTTB1SEl3QmgxVlZDYlUyZWphdFA5b0paQ2k4ZUkwMFdGWGRScFpPd0o4SW4tZU5wSzNLWk9OV1liWmF5dHAxQXM5WEtEa0FweDhJeEtuOWpLNExZVXVTRXpEUnJJaGhlSWRnaWtZbm5MTlpsY1RWZ2NfRTdCcUt4YWhHcUFXQmFOcHp6dXc2V29QVi1yLXMzOUoweWcxbjV2b0VYQzNLVGM1Z0hyYmVoQXdramp3?oc=5\" target=\"_blank\">Johnson & Johnson Q3 Preview: Analyst Projects In-Line Sales, Earnings Miss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "published": "2026-09-29T17:01:25+00:00",
-      "source": "Benzinga"
-    },
-    {
-      "title": "AbbVie vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUhLdUo2U1UyWDRUekQySGRzWGxjRHlsQi0wbk81bmpRLWRoRGpfekxhemJTcVNXUU9QdkZlOUtBcTIxRlpsLUVTSHlwVEFyMVVCWjZRaG5BUzZROTZRT3RGejdMelNudnB2THZENG1DakVON3B6SkxoTVFlOFFwSktkWHBtSlVlNWJpUVRmNHhiaG1ZMzZGanNwa1c3RnJ1S2hIc1dVNWpUVWVtUU5kTkVDZ2lLa0JLRGZJOUF3TzZuMWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUhLdUo2U1UyWDRUekQySGRzWGxjRHlsQi0wbk81bmpRLWRoRGpfekxhemJTcVNXUU9QdkZlOUtBcTIxRlpsLUVTSHlwVEFyMVVCWjZRaG5BUzZROTZRT3RGejdMelNudnB2THZENG1DakVON3B6SkxoTVFlOFFwSktkWHBtSlVlNWJpUVRmNHhiaG1ZMzZGanNwa1c3RnJ1S2hIc1dVNWpUVWVtUU5kTkVDZ2lLa0JLRGZJOUF3TzZuMWc?oc=5\" target=\"_blank\">AbbVie vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-09-25T23:56:00+00:00",
-      "source": "The Motley Fool"
-    },
-    {
-      "title": "Johnson & Johnson’s Dividend Looks Well Positioned for the Long Term - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeV9oaHVHTXh4WFE3amhJQ2ppeE9UOGNXTFN1Z1ZEUWhWLUlwT0J5UEFoTW9mcTZmZFV5R243LWtWWk0wLWZuVnNwNGZodmVYbFNmTy1aYmZnOVEyMWxQVHFfanAzWmk3Q0VKT2FKelJSUGhDanRVMVViOGNGVzJTSEtBSUh1VXZvSWxsVGZENERVZ1I5TDFCQk12OXE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeV9oaHVHTXh4WFE3amhJQ2ppeE9UOGNXTFN1Z1ZEUWhWLUlwT0J5UEFoTW9mcTZmZFV5R243LWtWWk0wLWZuVnNwNGZodmVYbFNmTy1aYmZnOVEyMWxQVHFfanAzWmk3Q0VKT2FKelJSUGhDanRVMVViOGNGVzJTSEtBSUh1VXZvSWxsVGZENERVZ1I5TDFCQk12OXE?oc=5\" target=\"_blank\">Johnson & Johnson’s Dividend Looks Well Positioned for the Long Term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-08-18T07:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Johnson & Johnson (JNJ) Stock May Be Undervalued As Its 96% Run Continues - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmptS0JTWEllajdSenpwTXJ4V1p2cFNsNmpBXzVORWJDRVhEdE1WTEM2YTlSeVhOTEZOaF9hQXlxNnI5WERyUUhrUzVCSU5Ic2M2djEyckRxWHVLTmw0eDNoVzMyZWxBWW1MWEtGSTRfUUN4ZUFXQXQtTXNmaXY3N1dKeU1ub010bmtPS194cThwdF9iRnBsS1l3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmptS0JTWEllajdSenpwTXJ4V1p2cFNsNmpBXzVORWJDRVhEdE1WTEM2YTlSeVhOTEZOaF9hQXlxNnI5WERyUUhrUzVCSU5Ic2M2djEyckRxWHVLTmw0eDNoVzMyZWxBWW1MWEtGSTRfUUN4ZUFXQXQtTXNmaXY3N1dKeU1ub010bmtPS194cThwdF9iRnBsS1l3?oc=5\" target=\"_blank\">Johnson & Johnson (JNJ) Stock May Be Undervalued As Its 96% Run Continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-29T08:10:41+00:00",
-      "source": "Yahoo Finance"
-    }
-  ],
-  "product_launches": [
-    {
-      "title": "Johnson & Johnson Advances Pulsed Field Ablation Portfolio with the Launch of VARIPULSE Pro in Europe - Johnson & Johnson",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlVRmV1Zm9MUjBLbFRTVVNUQ0hnaFZ1MXQ3ZGVJbDR1WEd1NG5iNW91WFU0RkdYVjVHdTFlZ3Z3V1RQZHdFWEVteE96TjNMSDVIdzZUTGVKSXZXRnhVQ0hRM1hES2pqTVRSaVNHN3hUN3lCRWV1R1plWXBUcTBrVjZzaXdWSW9pU1ZzTm9GSVpvbGtubW5uQWxEYkp5bXVENjhJU3hUSUxYeFpyZWhNY2xRVk1aRzhpRHdtOTlnS3NidmIzN3g4eTdWUUFWQUlFckhNTmdSWmFIRFM2anl1Wg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUlVRmV1Zm9MUjBLbFRTVVNUQ0hnaFZ1MXQ3ZGVJbDR1WEd1NG5iNW91WFU0RkdYVjVHdTFlZ3Z3V1RQZHdFWEVteE96TjNMSDVIdzZUTGVKSXZXRnhVQ0hRM1hES2pqTVRSaVNHN3hUN3lCRWV1R1plWXBUcTBrVjZzaXdWSW9pU1ZzTm9GSVpvbGtubW5uQWxEYkp5bXVENjhJU3hUSUxYeFpyZWhNY2xRVk1aRzhpRHdtOTlnS3NidmIzN3g4eTdWUUFWQUlFckhNTmdSWmFIRFM2anl1Wg?oc=5\" target=\"_blank\">Johnson & Johnson Advances Pulsed Field Ablation Portfolio with the Launch of VARIPULSE Pro in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Johnson & Johnson</font>",
-      "published": "2026-04-07T07:00:00+00:00",
-      "source": "Johnson & Johnson"
-    },
-    {
-      "title": "Johnson & Johnson Targets Double-Digit Growth as STELARA Faces Biosimilar Competition - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON2Y2alpKbmN1RmNab29mdHZOTXJ3bEI2SHV3OFR4M2V1a3BiWndoSno0cENNNlI5R1VpVlVydVRuRjBjTGFzV2VvNnpzRkxfcVlXZnNnOHdkVUk2NTRUeFd4MGdQeWJFMXhXa0J2V2JrcWU3VGFrTUNJcG9XWmhJcFFRU2prYmMzRkM4VnJGaXZnd2tQSXgtQUhOeUlnN2hZY3N2Z2lDOVhnYjdPWHdJblUxVEZnQS1rdVJKdi16SFlUZGxjMHhuZXFWUnpBdEJMVENDWU1LeTdMSFNK?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxON2Y2alpKbmN1RmNab29mdHZOTXJ3bEI2SHV3OFR4M2V1a3BiWndoSno0cENNNlI5R1VpVlVydVRuRjBjTGFzV2VvNnpzRkxfcVlXZnNnOHdkVUk2NTRUeFd4MGdQeWJFMXhXa0J2V2JrcWU3VGFrTUNJcG9XWmhJcFFRU2prYmMzRkM4VnJGaXZnd2tQSXgtQUhOeUlnN2hZY3N2Z2lDOVhnYjdPWHdJblUxVEZnQS1rdVJKdi16SFlUZGxjMHhuZXFWUnpBdEJMVENDWU1LeTdMSFNK?oc=5\" target=\"_blank\">Johnson & Johnson Targets Double-Digit Growth as STELARA Faces Biosimilar Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "published": "2026-09-14T17:02:11+00:00",
-      "source": "TradingView"
-    },
-    {
-      "title": "Johnson & Johnson to launch expanded parameters for ACUVUE OASYS 1-Day for Astigmatism - Glance by Eyes On Eyecare",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2pFLXJremlGZGhFUTIybXQwRGVlQ2dnZVczc2ZEVHpRVjlqSEJYWHBlSE9sX2xJaTBYS3RvMXNEcnRkSU9waVlXZkNLODc2TVF1anExbUowdFUtTFpWeDJVYm85U1VZVzJEaTM2a1VJem5vZGVwTkV3NEZGRjNsRURGa01EeDBkWFR2VXhRWWlZTmQtVDVwd0VFaEtZZVd6cTdNdTBqS3NsTGZUckxhNjhMY182dmZvZnhZb0kzWElXbWgzTmNnS3lxbkVGaE9ScU15RHFobng?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2pFLXJremlGZGhFUTIybXQwRGVlQ2dnZVczc2ZEVHpRVjlqSEJYWHBlSE9sX2xJaTBYS3RvMXNEcnRkSU9waVlXZkNLODc2TVF1anExbUowdFUtTFpWeDJVYm85U1VZVzJEaTM2a1VJem5vZGVwTkV3NEZGRjNsRURGa01EeDBkWFR2VXhRWWlZTmQtVDVwd0VFaEtZZVd6cTdNdTBqS3NsTGZUckxhNjhMY182dmZvZnhZb0kzWElXbWgzTmNnS3lxbkVGaE9ScU15RHFobng?oc=5\" target=\"_blank\">Johnson & Johnson to launch expanded parameters for ACUVUE OASYS 1-Day for Astigmatism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Glance by Eyes On Eyecare</font>",
-      "published": "2026-06-18T07:00:00+00:00",
-      "source": "Glance by Eyes On Eyecare"
-    },
-    {
-      "title": "Johnson & Johnson Says Product Launches, Regulatory Approvals Drive Growth - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTNWTmFzWVRfczZFNHg4TWk0cVlpb1p0bzd3Z0tRQ3JfcC1Qa3lQWG1BZUxNcGNoaG0tMTBkcjJOdVVheFFLbDhrSURnMks3dlBWQmttODR1Zm1xX0J3d0VUTHplUVdkNFRyVXZWc0RuYUtJVlZ4UVpXNzI1SjkzVVNfNTJYLWN1bXJGOXNQbDc4RzIwbUZIOG5palVNblFFMjNFSkFKcmk5WWY5c2ZZVw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWTNWTmFzWVRfczZFNHg4TWk0cVlpb1p0bzd3Z0tRQ3JfcC1Qa3lQWG1BZUxNcGNoaG0tMTBkcjJOdVVheFFLbDhrSURnMks3dlBWQmttODR1Zm1xX0J3d0VUTHplUVdkNFRyVXZWc0RuYUtJVlZ4UVpXNzI1SjkzVVNfNTJYLWN1bXJGOXNQbDc4RzIwbUZIOG5palVNblFFMjNFSkFKcmk5WWY5c2ZZVw?oc=5\" target=\"_blank\">Johnson & Johnson Says Product Launches, Regulatory Approvals Drive Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "published": "2026-01-21T08:00:00+00:00",
-      "source": "PYMNTS.com"
-    },
-    {
-      "title": "Tremfya surges, Icotyde gains ground as J&J raises bar for 2026 - FirstWord",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IbzdQSmZQdTNmTUt6ZlBBZHhPaEZVd2k2cDljWlVhZENzUHBmNFNOYTVYdVRtYl9RT3NXM0psSU85ODR0Q3FpbGl6N3ptT1NVTHQ0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IbzdQSmZQdTNmTUt6ZlBBZHhPaEZVd2k2cDljWlVhZENzUHBmNFNOYTVYdVRtYl9RT3NXM0psSU85ODR0Q3FpbGl6N3ptT1NVTHQ0?oc=5\" target=\"_blank\">Tremfya surges, Icotyde gains ground as J&amp;J raises bar for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FirstWord</font>",
-      "published": "2026-07-15T07:00:00+00:00",
-      "source": "FirstWord"
-    }
-  ],
+  "fetched_at": "2026-09-30T17:15:33.536276+00:00",
+  "news": [],
+  "product_launches": [],
   "stock": {
     "ticker": "JNJ",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-29",
-      "close": 266.57000732421875
+      "date": "2026-09-30",
+      "close": 267.2099914550781
     },
     "history": [
-      {
-        "date": "2026-09-21",
-        "close": 269.4700012207031
-      },
       {
         "date": "2026-09-22",
         "close": 269.19000244140625
@@ -132,7 +35,11 @@
       },
       {
         "date": "2026-09-29",
-        "close": 266.57000732421875
+        "close": 267.57000732421875
+      },
+      {
+        "date": "2026-09-30",
+        "close": 267.2099914550781
       }
     ],
     "name": "Johnson & Johnson"
