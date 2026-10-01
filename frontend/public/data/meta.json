@@ -2,21 +2,110 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-09-30T17:15:00.564096+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-10-01T17:43:01.227449+00:00",
+  "news": [
+    {
+      "title": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaldseExIVE9TcngwcklZeGpVckV4XzhfSzhNRE9FVlFnQWt0dVp6b3pLRXVqQmE4T21KbW5sTVdoejVyRlF6bXlzbTZveUhGejlLZ3g2VzNGd3hwaGQzU2pfc3p6ZFEtUWl0Y2hnS19raVkyNzhrQlEzd1RwS0haQUI1QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQaldseExIVE9TcngwcklZeGpVckV4XzhfSzhNRE9FVlFnQWt0dVp6b3pLRXVqQmE4T21KbW5sTVdoejVyRlF6bXlzbTZveUhGejlLZ3g2VzNGd3hwaGQzU2pfc3p6ZFEtUWl0Y2hnS19raVkyNzhrQlEzd1RwS0haQUI1QQ?oc=5\" target=\"_blank\">How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-09-30T09:00:48+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Meta counted Mark Zuckerberg’s $4.1B stock payout as research pay to claim a $355M tax break — and the IRS wants it back - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONnhRUFNkRjFmS1pmRG91UWkzcTJ2X2JtNV9RQm44aE4yZjJDVkYxN1AxWWZRZElwNHZWMkkxNVYxMVMyWWt6bGxJQndvZnozX0RDX3MzQWM5TzU1WDVhYlltZ1ZTdURoTkZlVHFwcmMxMXdQdmtwZG1SaF83UERkTF9uT3pjamQ1OXI2bWJlR2d1RHZNdkVhemh3Yw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONnhRUFNkRjFmS1pmRG91UWkzcTJ2X2JtNV9RQm44aE4yZjJDVkYxN1AxWWZRZElwNHZWMkkxNVYxMVMyWWt6bGxJQndvZnozX0RDX3MzQWM5TzU1WDVhYlltZ1ZTdURoTkZlVHFwcmMxMXdQdmtwZG1SaF83UERkTF9uT3pjamQ1OXI2bWJlR2d1RHZNdkVhemh3Yw?oc=5\" target=\"_blank\">Meta counted Mark Zuckerberg’s $4.1B stock payout as research pay to claim a $355M tax break — and the IRS wants it back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-01T04:05:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVNiMXBYUkFTbEpaamVsNndyb09FUnNCSW00c3dfcDlSUF9qSXVFWGE4RXZyMGlsYmI0ZTlicC1HR1oxMUVNRi12bmtIU3Q5NDFpY0huXzM3TlBXNXpQVURrMlo5czdXcXBGUkowaDFhc0E4Zy13QnJSUTBhSTFDMVpITUhXMWtUSXZuTXJSSGNCUWczUnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVNiMXBYUkFTbEpaamVsNndyb09FUnNCSW00c3dfcDlSUF9qSXVFWGE4RXZyMGlsYmI0ZTlicC1HR1oxMUVNRi12bmtIU3Q5NDFpY0huXzM3TlBXNXpQVURrMlo5czdXcXBGUkowaDFhc0E4Zy13QnJSUTBhSTFDMVpITUhXMWtUSXZuTXJSSGNCUWczUnc?oc=5\" target=\"_blank\">Taxpayers Have Been Subsidizing Meta’s AI Data Centers: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-09-30T17:50:05+00:00",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTklEd2JHM1hoQzdoMkkzZ05JNkVWaExZc2d2UGlCTmlwMG1rSkFJV3hoREE2U1I5U0FDNUtvMTMxV1Q0SGFzaHdfdlhoMHVwLW1uM0xESXppa0czZklYNVQ1RDhRMlpPRlN1cXR2Vjc0U0p4SHNPRGUwZXQxSFBkOE92ZUpOSnBnRkx4cjRTa0UtX2QwWGJJemRWLUpOMjhoYzlXWmtUNDJ1d9IBrwFBVV95cUxQLXlIVmhvLV8zcEdoSGNKb09XRkE5b2lxYTd3aFdfWWluTnU4R0p0dXdiZkFfWlVvV3Z4M1ZmMV93MWtqYXd5dU1MeV8yNVBfZGh4ZEVXemVQdEJ0OWMzNlgzaTdzY3pySERMbU5sVGxyaWpEdzcwU2FPaFBZWmVOY1dSdWRhZ1BmcXFsQkpjaDNiYTJ1Q3hwSm1tUEh1NEN2dUdmeHVyb1l5cGZhYXZr?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTklEd2JHM1hoQzdoMkkzZ05JNkVWaExZc2d2UGlCTmlwMG1rSkFJV3hoREE2U1I5U0FDNUtvMTMxV1Q0SGFzaHdfdlhoMHVwLW1uM0xESXppa0czZklYNVQ1RDhRMlpPRlN1cXR2Vjc0U0p4SHNPRGUwZXQxSFBkOE92ZUpOSnBnRkx4cjRTa0UtX2QwWGJJemRWLUpOMjhoYzlXWmtUNDJ1d9IBrwFBVV95cUxQLXlIVmhvLV8zcEdoSGNKb09XRkE5b2lxYTd3aFdfWWluTnU4R0p0dXdiZkFfWlVvV3Z4M1ZmMV93MWtqYXd5dU1MeV8yNVBfZGh4ZEVXemVQdEJ0OWMzNlgzaTdzY3pySERMbU5sVGxyaWpEdzcwU2FPaFBZWmVOY1dSdWRhZ1BmcXFsQkpjaDNiYTJ1Q3hwSm1tUEh1NEN2dUdmeHVyb1l5cGZhYXZr?oc=5\" target=\"_blank\">Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVdTQVNoVkxHUnJwXzdIeXEyRVA4aU45TDhiOExPUVVpdS1KTzNEVTEzdjRkZ1lpUFNuS3hIZ1lrY2llRnM1WTlPZGlxQUswMGoyTmFfUXlncmNDUVlPZjdWWmhMVmFPME9PQUhybHNBdEY4eEJBOV9HMnAyS0h3b1ZnUUtOVHlsSWRKZXdHdlI?oc=5\" target=\"_blank\">'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBkdmUyTDhuUzEyRkRjSFljVkF6Q01GbXZGOFhqd0VxbnJ1WC1MVkR5enIxV0xJT1picEFpOGI1Nlp4b1VIYnlvb1E1VjRDZ3BiUElIMUxDVFdjbHZzVHV5SlR4TWtXZFhmSFp4WDMtVHZMNkxCQVpxaVFZNUFmUQ?oc=5\" target=\"_blank\">I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li></ol>",
+      "published": "2026-09-29T09:30:01+00:00",
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Meta’s Mark Zuckerberg is coming for Apple’s empire - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmdjbTd6ZFdLZlJYMG5kRE4tcHI1bzI3amR6bVJ1cUcxanRYNWN4Z2w2M2xnSU5zRnlZNkhQSlhVUHVMYmFTWEFVSUdWMXpsbnZZZnphWDc5TjVxREE0aUxtSE43ME5lU1FUaTdIZGk3QUczNHdpZ29EWWYwSU5Hc2ticVFSdGwyWG4ySmhXeXplN2Z1UlJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmdjbTd6ZFdLZlJYMG5kRE4tcHI1bzI3amR6bVJ1cUcxanRYNWN4Z2w2M2xnSU5zRnlZNkhQSlhVUHVMYmFTWEFVSUdWMXpsbnZZZnphWDc5TjVxREE0aUxtSE43ME5lU1FUaTdIZGk3QUczNHdpZ29EWWYwSU5Hc2ticVFSdGwyWG4ySmhXeXplN2Z1UlJB?oc=5\" target=\"_blank\">Meta’s Mark Zuckerberg is coming for Apple’s empire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2026-10-01T16:24:00+00:00",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "BofA warns Meta's Muse could threaten Apple - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0hYa1EzQnBPdjd1blpwa0RKUmk1MXc0ODZUWUIwT3NCYTBzYXBCTWN1YmViT0YydHZJcFROdmVWR0Y4VGh2SDZHMEdnOWlDT2Z2X2FkYXkxWE9GOVE0bG0wUGhIdkZkVmpqeFN5MU5KN3FJT0RfZDg2Vm9LLW5MQlV4QmRCZG9nTzVsR1hn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0hYa1EzQnBPdjd1blpwa0RKUmk1MXc0ODZUWUIwT3NCYTBzYXBCTWN1YmViT0YydHZJcFROdmVWR0Y4VGh2SDZHMEdnOWlDT2Z2X2FkYXkxWE9GOVE0bG0wUGhIdkZkVmpqeFN5MU5KN3FJT0RfZDg2Vm9LLW5MQlV4QmRCZG9nTzVsR1hn?oc=5\" target=\"_blank\">BofA warns Meta's Muse could threaten Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+      "published": "2026-09-29T21:44:00+00:00",
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Apple Falls 2% as Bank of America Flags Meta’s Shopping Agent; Alphabet Slips, Microsoft Holds Steady - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUV0a3R0alVEX1VVcHBfaVZHOGMzZzNsTlI0LWxIdGFLcGNZaHBIbW1Nb3NxalFaMXZQQWxCRExVa3V3LV93b2JlWXQ4WlJUQTE3eHdHUngtUHB3QVFwbXpKdHNQNTZOaDhIZ2pRSGpIRXZQMzZkaWUxd2lEaE1tN0J3WDZpOG5WeFhra2o3ZW9UZy05enc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUV0a3R0alVEX1VVcHBfaVZHOGMzZzNsTlI0LWxIdGFLcGNZaHBIbW1Nb3NxalFaMXZQQWxCRExVa3V3LV93b2JlWXQ4WlJUQTE3eHdHUngtUHB3QVFwbXpKdHNQNTZOaDhIZ2pRSGpIRXZQMzZkaWUxd2lEaE1tN0J3WDZpOG5WeFhra2o3ZW9UZy05enc?oc=5\" target=\"_blank\">Apple Falls 2% as Bank of America Flags Meta’s Shopping Agent; Alphabet Slips, Microsoft Holds Steady</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-29T17:43:07+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Meta Platforms, IBD Stock Of The Day, Forges New Buy Point After Muse Rally - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFh5UjlfUFp4a2tSRmZFQ2tMRUpiTkxNWW5EM3FhX1VoLXJzWHF6NzZySTJBRUdnMkYzaFJSOWs4emZHMkwtSm9pTVZ0R1h5WkdPN1hxTEpJWnJXM2Z5OXgtM2tPNkpxNWFycHByWkNpN3dpOVpqbTFsZHJwRFBqMlpTTzdRWVBLRlNtaGxLN1RIU1BLd1FF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFh5UjlfUFp4a2tSRmZFQ2tMRUpiTkxNWW5EM3FhX1VoLXJzWHF6NzZySTJBRUdnMkYzaFJSOWs4emZHMkwtSm9pTVZ0R1h5WkdPN1hxTEpJWnJXM2Z5OXgtM2tPNkpxNWFycHByWkNpN3dpOVpqbTFsZHJwRFBqMlpTTzdRWVBLRlNtaGxLN1RIU1BLd1FF?oc=5\" target=\"_blank\">Meta Platforms, IBD Stock Of The Day, Forges New Buy Point After Muse Rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "published": "2026-10-01T17:08:00+00:00",
+      "source": "Investor's Business Daily"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "Everything We Announced at Meta Connect 2026 - meta.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Jd1Zrc1RBOXgxcFEzbnlYemlFdUpfVmRHUzBMeldPRWhzM1FxZTFMRVN4aTBFT3dKLW1UV0RVMlZvdDZVUVdXTGNHZjc0a3l6ekFqcV9CVWFFYVhzOThXSlgxbUJRclVhTXVZbGFoOEpNeXZDLWRN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1Jd1Zrc1RBOXgxcFEzbnlYemlFdUpfVmRHUzBMeldPRWhzM1FxZTFMRVN4aTBFT3dKLW1UV0RVMlZvdDZVUVdXTGNHZjc0a3l6ekFqcV9CVWFFYVhzOThXSlgxbUJRclVhTXVZbGFoOEpNeXZDLWRN?oc=5\" target=\"_blank\">Everything We Announced at Meta Connect 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">meta.com</font>",
+      "published": "2026-09-23T07:00:00+00:00",
+      "source": "meta.com"
+    },
+    {
+      "title": "Meta Connect Recap, Starship Launch and Discord Age Verification - CNET",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDYwNXlSWW5BUXdFUEp0amxuU1JITlh1dWxVUUNhQ1BvUTZPc1pRWG9UX0t6NTBUV3o3M1hPMWRVSXFrRk8yODhvN2N1aU5mQXRGeVdOaUctcnVTeGs3TmhvWlRieWNTYTNSQWNMbm1hVUFhZU45cmhCeG5hWWhrUjNjaW9vaXdXYVU4N1VPYTlnVTJTNXhr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDYwNXlSWW5BUXdFUEp0amxuU1JITlh1dWxVUUNhQ1BvUTZPc1pRWG9UX0t6NTBUV3o3M1hPMWRVSXFrRk8yODhvN2N1aU5mQXRGeVdOaUctcnVTeGs3TmhvWlRieWNTYTNSQWNMbm1hVUFhZU45cmhCeG5hWWhrUjNjaW9vaXdXYVU4N1VPYTlnVTJTNXhr?oc=5\" target=\"_blank\">Meta Connect Recap, Starship Launch and Discord Age Verification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-10-01T12:10:55+00:00",
+      "source": "CNET"
+    },
+    {
+      "title": "Meta launches AI gadget Charm as race for post-smartphone hardware heats up - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObE05WERqVUVFa0UtVllxdVlwckduNFR2RGNDQ0Y4ZmJFVW4xOW8ybWR0bGwza3dMbnFzSFFmQWdmTnJDM1o4RDZZN21Zajk0aDJIcHFnZlRGZXJxYXkxaXBBR2dVZXM3ZUN1R1pjdW1faTIzOE9ucEQ2d1lFOEVkT0FuZlBrd0YxNUplS1htRXFGVVNwQTZENVl3S3JHWGVEb1N5eWxQbUo4REJLOUtMTjNOdklDUWc?oc=5\" target=\"_blank\">Meta launches AI gadget Charm as race for post-smartphone hardware heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-24T04:45:51+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta To Launch VR Glasses Amid Wearables Backlash 09/28/2026 - MediaPost",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXE2bmM5aFpXUEdFTUQ1d09GYjJ2LU9aU1ljMDdSSzJ6d2ZZMUloVkhjeWlBX0J1VGJyTjlzLTZnb0dFOUU1MUZJOU1iazFKcDVTVEViT3ZvZWwzaGozQU1sRmlCT1hKZnkyMzZDd1k1SGtEY2JFQ2RmWlNxbDBOaGFQTnZrbzNWWUFGNVpkZGszTXlOdko0MjJiNnRwNy1fd3hERFF4UHlsUjgyWGd3R3NqaDk1TGZtekI1bk52SWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXE2bmM5aFpXUEdFTUQ1d09GYjJ2LU9aU1ljMDdSSzJ6d2ZZMUloVkhjeWlBX0J1VGJyTjlzLTZnb0dFOUU1MUZJOU1iazFKcDVTVEViT3ZvZWwzaGozQU1sRmlCT1hKZnkyMzZDd1k1SGtEY2JFQ2RmWlNxbDBOaGFQTnZrbzNWWUFGNVpkZGszTXlOdko0MjJiNnRwNy1fd3hERFF4UHlsUjgyWGd3R3NqaDk1TGZtekI1bk52SWc?oc=5\" target=\"_blank\">Meta To Launch VR Glasses Amid Wearables Backlash 09/28/2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaPost</font>",
+      "published": "2026-09-28T16:03:20+00:00",
+      "source": "MediaPost"
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative - techcrunch.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2pCcG05ZzNoMkNGd0FnVUVNXzJzeDJSLTFoaFRuS0w5UUdqZnUxRkdsanotejZ3Wnp0R3NKblR4UmFaNmlYUmwtYzIwN2xUcEo0cXdwMUdvc0J5NmxxbVZBWWF4UWJmN0tFQ1dqYXRhdUEzNU02VDJDYkJGZVN4TVItdXQxM2U0aUNFLWlRb3Zldk40VV9BWThZNDhZTnh1N0tpNGdOV3JsS0JmMEFpWk93?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2pCcG05ZzNoMkNGd0FnVUVNXzJzeDJSLTFoaFRuS0w5UUdqZnUxRkdsanotejZ3Wnp0R3NKblR4UmFaNmlYUmwtYzIwN2xUcEo0cXdwMUdvc0J5NmxxbVZBWWF4UWJmN0tFQ1dqYXRhdUEzNU02VDJDYkJGZVN4TVItdXQxM2U0aUNFLWlRb3Zldk40VV9BWThZNDhZTnh1N0tpNGdOV3JsS0JmMEFpWk93?oc=5\" target=\"_blank\">Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
+      "published": "2026-09-28T16:52:38+00:00",
+      "source": "techcrunch.com"
+    }
+  ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-30",
-      "close": 735.9099731445312
+      "date": "2026-10-01",
+      "close": 729.6701049804688
     },
     "history": [
-      {
-        "date": "2026-09-22",
-        "close": 736.5999755859375
-      },
       {
         "date": "2026-09-23",
         "close": 744.0999755859375
@@ -39,7 +128,11 @@
       },
       {
         "date": "2026-09-30",
-        "close": 735.9099731445312
+        "close": 725.1799926757812
+      },
+      {
+        "date": "2026-10-01",
+        "close": 729.6701049804688
       }
     ],
     "name": "Meta Platforms, Inc."

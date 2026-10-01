@@ -2,21 +2,110 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-09-30T17:14:16.431974+00:00",
-  "news": [],
-  "product_launches": [],
+  "fetched_at": "2026-10-01T17:42:53.017384+00:00",
+  "news": [
+    {
+      "title": "Ryan Roslansky leaving Microsoft amid executive departures - qz.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pRlViMG13el94dWdKZEZVQV9NUDBycF8yMkJxZzJTV2pRYjNaRTBPRmJmeHJWOXUzM05XR2FuTDJFajZBelRfeFZEUllSMTZqSHVrdEFzYWdIZ3BUQmQ4TUhEVl9RX0ZDdGViUmtNRVVNMVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1pRlViMG13el94dWdKZEZVQV9NUDBycF8yMkJxZzJTV2pRYjNaRTBPRmJmeHJWOXUzM05XR2FuTDJFajZBelRfeFZEUllSMTZqSHVrdEFzYWdIZ3BUQmQ4TUhEVl9RX0ZDdGViUmtNRVVNMVU?oc=5\" target=\"_blank\">Ryan Roslansky leaving Microsoft amid executive departures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "published": "2026-10-01T17:04:32+00:00",
+      "source": "qz.com"
+    },
+    {
+      "title": "Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSk9TaTU0eG92SEFYZjZjeU9RZEh1YTZyQm8ydWdvNnVyOEFqdElFdXFGYmtma1BtRzNUd0JiakZ6T21jNWlvemt4M1ZzM2FwcmgyVWJsWHV1eGNkYVlLQXVEdmFGcnV6ZC13NDlBeEVVRklocDZkeGVHa1dkbEsybmVR0gGHAUFVX3lxTE53M3VYamFPSjQ4a1V3QUdtWUY4U05mMmFiVFlrdV9mS3pqYjVmSldUcVk2elVZOXZJczFVdmpNQVgxdFBTYVBBR0o3YklNNnE1VkdDQ1hNWlQ2ZS0wS0pfUVQtblVTVWtYdVJDRnhKbS0wajd4bXVkYk5FZzhVaGNLcmdMT2NJNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSk9TaTU0eG92SEFYZjZjeU9RZEh1YTZyQm8ydWdvNnVyOEFqdElFdXFGYmtma1BtRzNUd0JiakZ6T21jNWlvemt4M1ZzM2FwcmgyVWJsWHV1eGNkYVlLQXVEdmFGcnV6ZC13NDlBeEVVRklocDZkeGVHa1dkbEsybmVR0gGHAUFVX3lxTE53M3VYamFPSjQ4a1V3QUdtWUY4U05mMmFiVFlrdV9mS3pqYjVmSldUcVk2elVZOXZJczFVdmpNQVgxdFBTYVBBR0o3YklNNnE1VkdDQ1hNWlQ2ZS0wS0pfUVQtblVTVWtYdVJDRnhKbS0wajd4bXVkYk5FZzhVaGNLcmdMT2NJNA?oc=5\" target=\"_blank\">Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnbc.com</font>",
+      "published": "2026-10-01T16:08:31+00:00",
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Microsoft executives Peter Lee, president of Microsoft Science, and EVP Ryan Roslansky to depart - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmUtUnM1dFZ4bUN0RUJqeUU3cUJLM05GRmR1YWhpNFZFN0s3ejFkc1Q1LVdSMnd2ajRNQmxYX0JydVBoZnU5NzZWYTFZNnZrZnRtVGFlTUlBWGFUcUJKbGZ4XzUzOE5Vb1JjMTNzS2VmODNZellPQnlQX2ZlN3h3RGU0YjkwTVZ4WHhDbktnVk1qY2lxQWVpeU1rWjhYSkJvRkhSUUQ3Mm5IQTl5aXc0VF9JNzBxNkxyNERET0lzYVNrOTg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmUtUnM1dFZ4bUN0RUJqeUU3cUJLM05GRmR1YWhpNFZFN0s3ejFkc1Q1LVdSMnd2ajRNQmxYX0JydVBoZnU5NzZWYTFZNnZrZnRtVGFlTUlBWGFUcUJKbGZ4XzUzOE5Vb1JjMTNzS2VmODNZellPQnlQX2ZlN3h3RGU0YjkwTVZ4WHhDbktnVk1qY2lxQWVpeU1rWjhYSkJvRkhSUUQ3Mm5IQTl5aXc0VF9JNzBxNkxyNERET0lzYVNrOTg?oc=5\" target=\"_blank\">Microsoft executives Peter Lee, president of Microsoft Science, and EVP Ryan Roslansky to depart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "published": "2026-10-01T16:35:41+00:00",
+      "source": "GeekWire"
+    },
+    {
+      "title": "‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDNORGdBTnY2d0JTYW02VERLS2NxRzRKdEw3NllJWWRLU015S051Mk56UEV1MkZlTFI5UnNJMWZUX25ER2djNWktVGEtcng2SUpFYVFjdVUwMFdGZWRGR0NVWTNZdVZZSzlHMEU3NmpyV1ZQcHFKbEVzbExXY1hSNkRfYWxjQUphVUh3VllCRWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDNORGdBTnY2d0JTYW02VERLS2NxRzRKdEw3NllJWWRLU015S051Mk56UEV1MkZlTFI5UnNJMWZUX25ER2djNWktVGEtcng2SUpFYVFjdVUwMFdGZWRGR0NVWTNZdVZZSzlHMEU3NmpyV1ZQcHFKbEVzbExXY1hSNkRfYWxjQUphVUh3VllCRWM?oc=5\" target=\"_blank\">‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">politico.eu</font>",
+      "published": "2026-09-30T17:56:00+00:00",
+      "source": "politico.eu"
+    },
+    {
+      "title": "Microsoft promised a better Windows 11. Here’s its 6-month report card - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVFjVjk1NDRYb2E5dG9Ua1dJdjY5UzRPTlN3RHZya183aGxSRmJZWXlOUTJYeUM0cjZYOEkyRTlwenFjUmFGcnB5NmhTY1RBenppWXpPWFQ3aHo1ci16Sk1oRDlIMWhSQVF2dVpZLTFUZTBEVlJTZGFuOGJ3Vy1SV2FqcDJLTHZkVXQ0aU9sUjFzYy1SQ0lyeFFUWXZKWVppLWpJRlBiYUxKOXVxUXUyQkNGNA?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVFjVjk1NDRYb2E5dG9Ua1dJdjY5UzRPTlN3RHZya183aGxSRmJZWXlOUTJYeUM0cjZYOEkyRTlwenFjUmFGcnB5NmhTY1RBenppWXpPWFQ3aHo1ci16Sk1oRDlIMWhSQVF2dVpZLTFUZTBEVlJTZGFuOGJ3Vy1SV2FqcDJLTHZkVXQ0aU9sUjFzYy1SQ0lyeFFUWXZKWVppLWpJRlBiYUxKOXVxUXUyQkNGNA?oc=5\" target=\"_blank\">Microsoft promised a better Windows 11. Here’s its 6-month report card</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGFzMDdra2JHbnRCRWljT1JGTHpoOWpmS0hDS3pRRkdsaEhGQ0dPYlBCRnJ3UHJsS3d5cnpiTW5zMlVjMWo5WUltcWhseEtibFowMmk4TW1DVWpaR0xwS2tNM0VmTGlIWG44WmVkZUlJZm9xa29SdWJ4cXZ5UHVnRUdTOUhiVnlWN2F2VFJtZTNwZElQbzdyQWdRb1FHYVZIQjU0SDEyRnZPZzhvUmQ3SGZCWm5sU2thYjZN?oc=5\" target=\"_blank\">Microsoft makes Windows settings backup the default in 26H2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUR4U1h0MkpGVmZfd3RZYWtyb3U2R1VZaUFGN3ZkY25EVkhjd20xbWtMRmpybUQzaHM5LUVxUzJLT1JMM1ZaRjRMVjVtZ0VPdXRIZEN1d25oRklIMzQtQlkyV1JpM0JEd3hsbzFPOWkwWnY3clVzQjVheWg5NEUwMkFpWjJXZmpvdEs0RFVGR29OUVk?oc=5\" target=\"_blank\">How to get the Windows 11 2026 Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font></li></ol>",
+      "published": "2026-10-01T13:00:56+00:00",
+      "source": "PCWorld"
+    },
+    {
+      "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5\" target=\"_blank\">At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-09-29T22:29:02+00:00",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Microsoft’s Trillion-Dollar Quarter Shows AI Trade Won’t Quit - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUVTc2NWZXhDRUk2SzZQTTllMXJnWnpGLVVUbjljb1hmN3N5ZDZDcENJamVUMnk4ZWt3WG92eVVxTURPTG91b2o3dXRxcXgta25fb08ydktwS3NIZnBmd0ZNZ3o5NERDOWZQLVZTS2liV3R4YlhEV0F0dFA4R1pmOEF1bmJXN3FXdVkzZlJwN3hmb0otOHJJMEtCSVhYbTNHY1JUbTRqeFVRS183RVRMekd3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUVTc2NWZXhDRUk2SzZQTTllMXJnWnpGLVVUbjljb1hmN3N5ZDZDcENJamVUMnk4ZWt3WG92eVVxTURPTG91b2o3dXRxcXgta25fb08ydktwS3NIZnBmd0ZNZ3o5NERDOWZQLVZTS2liV3R4YlhEV0F0dFA4R1pmOEF1bmJXN3FXdVkzZlJwN3hmb0otOHJJMEtCSVhYbTNHY1JUbTRqeFVRS183RVRMekd3?oc=5\" target=\"_blank\">Microsoft’s Trillion-Dollar Quarter Shows AI Trade Won’t Quit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-10-01T09:19:04+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services - The Register",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGpxZXJyNnpzdXE3b3R0ZVVqc2FUWjc4WV9vV0JraFdDaWdUamo2d1BGUURrcG5sVFQ5elp5U0xaY09aRHVsb1JXMDBLZ2JYQVd6bmJSdjJSUFVoc2NUVnY1TzlXQTg1S1phaFdRM3dGYTQ0UkRteHVBc3ZDUGRlaXZENU9JclV4NDJxbFVuMUU0eGZLUVdoVU5NMjFEWWFpVUsxZlBqOFVTeUpkQWQxdFZvcG1ZaHJmME05bldlbzRpcldoVl9FclBB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGpxZXJyNnpzdXE3b3R0ZVVqc2FUWjc4WV9vV0JraFdDaWdUamo2d1BGUURrcG5sVFQ5elp5U0xaY09aRHVsb1JXMDBLZ2JYQVd6bmJSdjJSUFVoc2NUVnY1TzlXQTg1S1phaFdRM3dGYTQ0UkRteHVBc3ZDUGRlaXZENU9JclV4NDJxbFVuMUU0eGZLUVdoVU5NMjFEWWFpVUsxZlBqOFVTeUpkQWQxdFZvcG1ZaHJmME05bldlbzRpcldoVl9FclBB?oc=5\" target=\"_blank\">Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
+      "published": "2026-09-30T23:54:57+00:00",
+      "source": "The Register"
+    }
+  ],
+  "product_launches": [
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite - techcrunch.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5\" target=\"_blank\">OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
+      "published": "2026-09-29T17:45:51+00:00",
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Introducing dots - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5\" target=\"_blank\">Introducing dots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+      "published": "2026-09-30T00:47:00+00:00",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5\" target=\"_blank\">Introducing the new Copilot with Home, Code and Autopilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Official Microsoft Blog</font>",
+      "published": "2026-09-25T12:15:07+00:00",
+      "source": "The Official Microsoft Blog"
+    },
+    {
+      "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFBaaERLNnd3eVJ3ODN5a2w4V0JDb1Q4MmJhbEJqaENlUnVZNmRxbkRpeldiZDZOZDkxdFBzUVJEUE5STG12Y3ozV0lYb3dOdXRfdFQ2NHM3ajZ5OW05bW5SMUw1eTVLZ2JTQ3BuZnh5Q3dGNldmd1E3VHRQZk5TVVM2aDFHdWxPOWdERUtwZnpiRVQ5M0ZJMjhMS1l2ZFRGVzZUTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFBaaERLNnd3eVJ3ODN5a2w4V0JDb1Q4MmJhbEJqaENlUnVZNmRxbkRpeldiZDZOZDkxdFBzUVJEUE5STG12Y3ozV0lYb3dOdXRfdFQ2NHM3ajZ5OW05bW5SMUw1eTVLZ2JTQ3BuZnh5Q3dGNldmd1E3VHRQZk5TVVM2aDFHdWxPOWdERUtwZnpiRVQ5M0ZJMjhMS1l2ZFRGVzZUTA?oc=5\" target=\"_blank\">“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-22T07:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelNRbmg1M1hCMU9DVVZMYjdic0Yzb1RDb1RuYmg1MG40NHpZQml2eWZSM0JVMEFoQVdxczN5TjhKS0JSeVhiUnFSSjN0cHpIUHFyel9BU3NLb1c2VVhxN19WS2I5cE9mb21NSVIzYml6VEJkdjR0WnVXVTFKUWljSVYwMFpCWHhwenpkRzA3MDM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOelNRbmg1M1hCMU9DVVZMYjdic0Yzb1RDb1RuYmg1MG40NHpZQml2eWZSM0JVMEFoQVdxczN5TjhKS0JSeVhiUnFSSjN0cHpIUHFyel9BU3NLb1c2VVhxN19WS2I5cE9mb21NSVIzYml6VEJkdjR0WnVXVTFKUWljSVYwMFpCWHhwenpkRzA3MDM?oc=5\" target=\"_blank\">Microsoft thinks its new Copilot ‘super app’ will be as influential as Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-09-25T12:00:00+00:00",
+      "source": "The Verge"
+    }
+  ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-09-30",
-      "close": 517.655029296875
+      "date": "2026-10-01",
+      "close": 516.1199951171875
     },
     "history": [
-      {
-        "date": "2026-09-22",
-        "close": 498.0
-      },
       {
         "date": "2026-09-23",
         "close": 500.5899963378906
@@ -39,7 +128,11 @@
       },
       {
         "date": "2026-09-30",
-        "close": 517.655029296875
+        "close": 512.9000244140625
+      },
+      {
+        "date": "2026-10-01",
+        "close": 516.1199951171875
       }
     ],
     "name": "Microsoft Corporation"
