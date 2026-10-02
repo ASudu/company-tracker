@@ -2,86 +2,72 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-10-01T17:42:58.514446+00:00",
+  "fetched_at": "2026-10-02T17:02:14.569729+00:00",
   "news": [
     {
-      "title": "Amazon introduces a completely redesigned Kindle family - aboutamazon.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLV0JvcFVJYWJhamRudmVSbVR2cTdKMVBkUVd5NXlRUkdiSUo5MFJjZUhmbUM5NldQMGNicHZNQ3dDM0ZicUxnSDlMWlNGaDFRb0ZTOEU5LURaTEJIbDE4bnh2Wk43QkRyNHVvX3ZrYzE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLV0JvcFVJYWJhamRudmVSbVR2cTdKMVBkUVd5NXlRUkdiSUo5MFJjZUhmbUM5NldQMGNicHZNQ3dDM0ZicUxnSDlMWlNGaDFRb0ZTOEU5LURaTEJIbDE4bnh2Wk43QkRyNHVvX3ZrYzE?oc=5\" target=\"_blank\">Amazon introduces a completely redesigned Kindle family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboutamazon.com</font>",
-      "published": "2026-10-01T12:54:24+00:00",
-      "source": "aboutamazon.com"
-    },
-    {
-      "title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzJfSmlJTEFCajRTU2JielN3Q1phNFlxR3dPdjRYdTNRdG9VR2lHQkdQemtGQVo3d0IzdUdQcFRva25BZzV5ZExodDdDbTZ6YlZ0NDhTNTQxOEtaOGNYbG5rUFZpY055QW8xMzVtVE50WEV1M19PRW8zaElxcHNKX0s5UFp5NEZCVWlnT2VyalF3Nmcz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzJfSmlJTEFCajRTU2JielN3Q1phNFlxR3dPdjRYdTNRdG9VR2lHQkdQemtGQVo3d0IzdUdQcFRva25BZzV5ZExodDdDbTZ6YlZ0NDhTNTQxOEtaOGNYbG5rUFZpY055QW8xMzVtVE50WEV1M19PRW8zaElxcHNKX0s5UFp5NEZCVWlnT2VyalF3Nmcz?oc=5\" target=\"_blank\">Amazon is launching colorful new Kindles — and a case with physical page-turn buttons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-10-01T13:00:00+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Get your oral hygiene in check with these Amazon deals on Waterpik, Crest and more - cnn.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDdFNXRuR0dObzhRbVhxOERNSllfdXZMVDhpalQxakRKYnBRenpJN3JIbWtsM084eFdjUDRGYlpQZHhTX3hiaWRUaUQzczlHbVV0N1A4N1ZmTGhweHZ2Q1BLU25DMjVmWmhOVnZDSDByamxidkx2Q3Z4MVJfejRJb0ZiMzJMZ0cyVE1JOGtn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPeDdFNXRuR0dObzhRbVhxOERNSllfdXZMVDhpalQxakRKYnBRenpJN3JIbWtsM084eFdjUDRGYlpQZHhTX3hiaWRUaUQzczlHbVV0N1A4N1ZmTGhweHZ2Q1BLU25DMjVmWmhOVnZDSDByamxidkx2Q3Z4MVJfejRJb0ZiMzJMZ0cyVE1JOGtn?oc=5\" target=\"_blank\">Get your oral hygiene in check with these Amazon deals on Waterpik, Crest and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnn.com</font>",
-      "published": "2026-10-01T17:04:00+00:00",
-      "source": "cnn.com"
-    },
-    {
-      "title": "Tech Moves: Amazon GM departs for Scala; Flyhomes appoints 3 leaders; Heinz Marketing names COO - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0NxU0s1S001eDlVUFFJc0tHTmFZSFExLWJPOVlYUXkyeU95VlVkMFNNd3FRUEMtYW90SldMc3pmTFFDbl9yT01tYW1ETUNjZElfcHNQZjd3ZlJtbGZnaUVMYmhOblBzUzZwUWRmVjBZVFpqZzBjUzNzREhjYzVqQ1M0dUZyYkxITzhsUU92MGNpNkRIRVFrNkVPcXFIM1dMMmVlMWNxZURnUDdjTXhWQ2s4cHFZcW5TZ251QW9jWlo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0NxU0s1S001eDlVUFFJc0tHTmFZSFExLWJPOVlYUXkyeU95VlVkMFNNd3FRUEMtYW90SldMc3pmTFFDbl9yT01tYW1ETUNjZElfcHNQZjd3ZlJtbGZnaUVMYmhOblBzUzZwUWRmVjBZVFpqZzBjUzNzREhjYzVqQ1M0dUZyYkxITzhsUU92MGNpNkRIRVFrNkVPcXFIM1dMMmVlMWNxZURnUDdjTXhWQ2s4cHFZcW5TZ251QW9jWlo?oc=5\" target=\"_blank\">Tech Moves: Amazon GM departs for Scala; Flyhomes appoints 3 leaders; Heinz Marketing names COO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-10-01T17:25:13+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "PSA: The Best Amazon Prime Day Deals Are Already Live - Allure",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94dnpKcUpDYVF6Ulg0NVg1V29iSkZiUDNVSkRvTTRJUjBvNjRQR3gyQmZnN3pfQUlWanpqSVR1ZDZBQ0M5NTFxSGp5ekxlNWtFa194ZDdKUkpXeVpQLW5HX3h1Q3BRdkZOdGQtRTlhcHdXZmdTNEotOQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94dnpKcUpDYVF6Ulg0NVg1V29iSkZiUDNVSkRvTTRJUjBvNjRQR3gyQmZnN3pfQUlWanpqSVR1ZDZBQ0M5NTFxSGp5ekxlNWtFa194ZDdKUkpXeVpQLW5HX3h1Q3BRdkZOdGQtRTlhcHdXZmdTNEotOQ?oc=5\" target=\"_blank\">PSA: The Best Amazon Prime Day Deals Are Already Live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Allure</font>",
-      "published": "2026-10-01T17:17:18+00:00",
-      "source": "Allure"
-    },
-    {
-      "title": "This slim air purifier just hit its lowest price ever on Amazon — now $90 - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BTHhrMWxPeUJQajlTeFFTcjBiVEtfVUptcW95Qlp6NTBWY0NJcEVaYkpvMm92Rmp6M1JsVGJ2dnliUFgxVER1TUtHaGQ1V05KMUhVQkgyQjNieGFqajRwWDVEdWdWZXVlLXpv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5BTHhrMWxPeUJQajlTeFFTcjBiVEtfVUptcW95Qlp6NTBWY0NJcEVaYkpvMm92Rmp6M1JsVGJ2dnliUFgxVER1TUtHaGQ1V05KMUhVQkgyQjNieGFqajRwWDVEdWdWZXVlLXpv?oc=5\" target=\"_blank\">This slim air purifier just hit its lowest price ever on Amazon — now $90</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "published": "2026-09-30T21:58:33+00:00",
-      "source": "Fox News"
-    },
-    {
-      "title": "Amazon, Walmart's Flipkart launch review of unlicensed security camera listings on India platforms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWExCdV9BRjVQVHNwb0QyU2F3cE5aNEhsMGR4R3VLLUJ0djVhREUweEk4NnRBMllZSmVjeVp5QThGNFE4VVRJZWk4UHlBMkxMeFloNVU2Z1FMZUxCRHctZ2lXZS0tTFFEREFwUlNLek9QZGhxbnZ2aEd6Z0Fvb0NSRFpCakx0VnY0S1JEWkN6NmlFS3BRdFNBdDdiS2M1ZktHUGtrQ0FtanR2ano0aFNYVWpHVHZDZkYtQ3BPakl4NA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWExCdV9BRjVQVHNwb0QyU2F3cE5aNEhsMGR4R3VLLUJ0djVhREUweEk4NnRBMllZSmVjeVp5QThGNFE4VVRJZWk4UHlBMkxMeFloNVU2Z1FMZUxCRHctZ2lXZS0tTFFEREFwUlNLek9QZGhxbnZ2aEd6Z0Fvb0NSRFpCakx0VnY0S1JEWkN6NmlFS3BRdFNBdDdiS2M1ZktHUGtrQ0FtanR2ano0aFNYVWpHVHZDZkYtQ3BPakl4NA?oc=5\" target=\"_blank\">Amazon, Walmart's Flipkart launch review of unlicensed security camera listings on India platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-01T12:56:15+00:00",
+      "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5\" target=\"_blank\">Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-02T04:12:00+00:00",
       "source": "Reuters"
     },
     {
-      "title": "Amazon to start sending out settlement payments. Are you eligible? - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVmplWVo1MEFTZHNqNmhpZzVYa2ZSaFhBMTM3TTk3MHh0eWpfeGVzR3FnNkpZRFpCeE9zUU9lMS1xcWYtajZxeWo5YlUxbjFXZkxoV3J5UWEwZVlFRkQ3emxUSGlJX1BxNkFiYWptRC0wY1JfVjlRYmZkc0Y0bTNzNnNwZ3YyMDNvS0dGMlFnZmRSOTFqRUhpUEZUZURRRmJxbzJBZXgzVVFMeTdWTFQyaktFdHRnQnJnWFFJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVmplWVo1MEFTZHNqNmhpZzVYa2ZSaFhBMTM3TTk3MHh0eWpfeGVzR3FnNkpZRFpCeE9zUU9lMS1xcWYtajZxeWo5YlUxbjFXZkxoV3J5UWEwZVlFRkQ3emxUSGlJX1BxNkFiYWptRC0wY1JfVjlRYmZkc0Y0bTNzNnNwZ3YyMDNvS0dGMlFnZmRSOTFqRUhpUEZUZURRRmJxbzJBZXgzVVFMeTdWTFQyaktFdHRnQnJnWFFJ?oc=5\" target=\"_blank\">Amazon to start sending out settlement payments. Are you eligible?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2026-10-01T13:08:00+00:00",
-      "source": "USA Today"
+      "title": "Amazon seeks to offload $8bn of Nvidia chips to investors - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg?oc=5\" target=\"_blank\">Amazon seeks to offload $8bn of Nvidia chips to investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "published": "2026-10-02T04:01:08+00:00",
+      "source": "Financial Times"
+    },
+    {
+      "title": "Amazon hiking AI chip rental prices, exploring Nvidia leaseback - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3p6cTdLbEkwS1dOWDZMZnk5RURsTDlZVWhRZWQ5S29NSkI0OEI2YjBxSl9vdHAya3FleVRudWtnY21TZEZNMlhod3N4S1NIbjV6bE1fSTNiemU2RHEyLWpVZEMyVE0xa29WRHR6Z0ZNY1Q4cktOQ2RfLWRvNl9MYWk4X1J5eHljeGZXNjhRel9aUi1fZ0NV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3p6cTdLbEkwS1dOWDZMZnk5RURsTDlZVWhRZWQ5S29NSkI0OEI2YjBxSl9vdHAya3FleVRudWtnY21TZEZNMlhod3N4S1NIbjV6bE1fSTNiemU2RHEyLWpVZEMyVE0xa29WRHR6Z0ZNY1Q4cktOQ2RfLWRvNl9MYWk4X1J5eHljeGZXNjhRel9aUi1fZ0NV?oc=5\" target=\"_blank\">Amazon hiking AI chip rental prices, exploring Nvidia leaseback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-02T12:21:55+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0szSE5pQWYxdzBaZENlREdEME4ycWNxRU9nejhfMy1lZFZDR3JrUDIzNnBMaTlTeVZSWHU4SWtxMjFidFVCRGphQ2Zxd3JTTHVTU3lZOGl4ek1rdDRTNU91ZTNwSUM4NkpidGZWNjlEX1Z5amRSUXIxdUY3UHFoMnRkUzBhT0pPQjBZQVRzWnFrNW05M3M4X3pZdjlvcV9ZMXZpelB30gGrAUFVX3lxTE1oczZnM05UN0ViVWJidmFURmFLZ0w0RnEtUFJ1OC1PMl9QYzZ0SjlCYnJiWU01eWlhc2QyREZ2Q1dlWWJtSWxIcUVBbTJSNjhmcTdzWkNxRnlDaUZvU244bnVidUh4MDZOdThjSGRIV0VXZDlqTXFJNjU4QkNhTU9sTXgxVlp4bkpNUHEtWjV0WXlrQWREUkpiVjZ0VDd6S2tTb1dWSFpLZUxhbw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0szSE5pQWYxdzBaZENlREdEME4ycWNxRU9nejhfMy1lZFZDR3JrUDIzNnBMaTlTeVZSWHU4SWtxMjFidFVCRGphQ2Zxd3JTTHVTU3lZOGl4ek1rdDRTNU91ZTNwSUM4NkpidGZWNjlEX1Z5amRSUXIxdUY3UHFoMnRkUzBhT0pPQjBZQVRzWnFrNW05M3M4X3pZdjlvcV9ZMXZpelB30gGrAUFVX3lxTE1oczZnM05UN0ViVWJidmFURmFLZ0w0RnEtUFJ1OC1PMl9QYzZ0SjlCYnJiWU01eWlhc2QyREZ2Q1dlWWJtSWxIcUVBbTJSNjhmcTdzWkNxRnlDaUZvU244bnVidUh4MDZOdThjSGRIV0VXZDlqTXFJNjU4QkNhTU9sTXgxVlp4bkpNUHEtWjV0WXlrQWREUkpiVjZ0VDd6S2tTb1dWSFpLZUxhbw?oc=5\" target=\"_blank\">Amazon to invest $1B into data center communities amid backlash against data center rollouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMFBJMDk0OWMwU3l5RV9teUdXVjQ5bW9pb1d5NF9wZE44OEFNc3N5YXBmQ3A2ZWxDSnJiV2xkTjlBeHdEWXp0Q0RSeXFrSF9MS0NhZ09ZWTZmV3RGRXlHd1FUdlU1dFdkZzlFeDNCRnpYanMzcVowWF9ROExUNjk2cC1oRGphbUZxaWQxZXM3UTdKdVlWT0dpbTZ1ZzhTMENQZHYxaXMwNFpYQ2_SAbABQVVfeXFMT0VRNDdmS2h2SjNldEpJcFhNOHQwbjJiZDhMTDRNUVlQMEpIejVTcF80aXNxTjFBQnRSYk5KY0tqUVA4ZU91NGdTMzBReVh2TDJkRzNOakNCcDJRekNGNnlMd2pqMXNIWC0wYTV1YkdUNWFrWmZQXzlSQlpueWJIZUpxcHlGak9yOW9TanlGZGZXcEFjUlhLS09zMm5EZWoxYU9OM0lQNU5CMmRfMFJtNlY?oc=5\" target=\"_blank\">Amazon investing $1B in data center communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxON2xkd0hKc3ppYXpNZ29mb3RuSVN0VDhxYktPajZ6VGk2VWM3NWRfaVY5dmhtaF9YU1E4a1FFX3hibDJ0NS1YNTdYOHFVMVVsMElxWWtaZC1IOXRtNmduTjVKLXBTVWdoTFM4NnVhNlk4WDVFRW5rMTRSWDJOR21oYVpOMkhodTFqUURNeVgwcEpJYXdhakE1VU5WTl9weVlCZDVBM2JxWjdmcFRzWnhRRjNwUnpzd3ZkdDA3Nmpn?oc=5\" target=\"_blank\">Amazon Is Making Concessions to Data Center Critics—and Warning Them Not to Get in the Way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font></li></ol>",
+      "published": "2026-10-02T16:02:29+00:00",
+      "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "October Prime Day 2026: The best Amazon deals from Hanes, Carhartt, Apple and more before Prime Big Deal Days - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbDdLdmZPSGpUeFotWW0wU3M0akNFRlRiUFFWSFVXb19HUUJMamNUazQwTk9iQ1dUQ3BTWTBWVGs4TEdLODlOWm9sdFRNaXliYXYydWFJMGx1U1VIbXQ3RXYzaUdFcXJsQVhLb1BBemFDOVBrWW1DbHI3dHBfeEFoMkNaSkZ5VnJVVy1iV3B0dVpGa25uc3lYaFlKLTNtVHpQUmh3NTN6VU5oZ21WNVFpd2libXRibXRHbUFnQVZCejNBSzVoV2ZUU0dfRVZqbThRZDgtZF9BeGNFU0o4UlFrWE5YTkZ1YTlLdVktWHp3bjVPME5nUDE4U2RoYzlGZzc2dXo1YjJaYw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQbDdLdmZPSGpUeFotWW0wU3M0akNFRlRiUFFWSFVXb19HUUJMamNUazQwTk9iQ1dUQ3BTWTBWVGs4TEdLODlOWm9sdFRNaXliYXYydWFJMGx1U1VIbXQ3RXYzaUdFcXJsQVhLb1BBemFDOVBrWW1DbHI3dHBfeEFoMkNaSkZ5VnJVVy1iV3B0dVpGa25uc3lYaFlKLTNtVHpQUmh3NTN6VU5oZ21WNVFpd2libXRibXRHbUFnQVZCejNBSzVoV2ZUU0dfRVZqbThRZDgtZF9BeGNFU0o4UlFrWE5YTkZ1YTlLdVktWHp3bjVPME5nUDE4U2RoYzlGZzc2dXo1YjJaYw?oc=5\" target=\"_blank\">October Prime Day 2026: The best Amazon deals from Hanes, Carhartt, Apple and more before Prime Big Deal Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVV5OENMZ2kySjlBT1JQU2pVOExPN2p2d216dEE5S3poTjAzYWRhNzg2YjlIdkUtREFCMFYyWlRtY0FMYVd2M05FNGdIaERxQmFXSWJHT0JWc1RFcENuMy1kVDJhbTUxWFNTOTdIbWxpMWlYakd5TnlBSkQyeVY2eF9mR191LTNCaDNtVVFR?oc=5\" target=\"_blank\">Early October Prime Day deals are live 4 days before the sale officially starts — these 53+ are actually worth it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWFvS0NyV05rLU9vU2dKUG9ha2YtNzJPTWZOeFdSZmcwVUdXa1U5TXZkWEozRzBEQXYtQUxZUVRfdXk4ZHFqY09vUHRSdXloSXl2Nm1vU1E5dTNoYlk1Y3dFb2hIRW1PbHB2TnA5ZGhSd3VaelFOa1ZDU2l3OUxMdEFCMlFqS19sMzd6SG8zajVySXZlOWVSNFZPcEVRUWFBM0czTEdjSVZuakJZMXB3aTFR?oc=5\" target=\"_blank\">Amazon's best deals on car safety essentials drivers shouldn't skip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li></ol>",
+      "published": "2026-10-02T14:04:29+00:00",
+      "source": "Yahoo"
+    },
+    {
+      "title": "Prepare for outages: This mini generator hits an Amazon all-time low — over 40% off - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZWUwbXNXa0ZlNHpBd096Rnd3NlN0Rkh3elduMENrZWlaQ1RpNHI0dkZZT1o3b2Q2dUxvU0dWR3FYU215S2FrUHZVUGh3bUhYMW1Od29kaFJxUVdvblR6RkJpdnAycTdMbUF4VEpQY2w?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZWUwbXNXa0ZlNHpBd096Rnd3NlN0Rkh3elduMENrZWlaQ1RpNHI0dkZZT1o3b2Q2dUxvU0dWR3FYU215S2FrUHZVUGh3bUhYMW1Od29kaFJxUVdvblR6RkJpdnAycTdMbUF4VEpQY2w?oc=5\" target=\"_blank\">Prepare for outages: This mini generator hits an Amazon all-time low — over 40% off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+      "published": "2026-10-02T14:58:08+00:00",
+      "source": "Fox News"
+    },
+    {
+      "title": "Preliminary NTSB report details how Amazon cargo plane overran MIA runway, killing 5 - NBC 6 South Florida",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzZyUWF6NENkVEgxTExEYkJ5Vml2NE1Ga1V5MTVJRjVxNVoyd1JkWW5DalNXY3Y0N3RPa1p2YkVmTEYzMklCRnNxMjU1R0FMQmFGc3hBcmFBbklHNEhMOWpyWFBQckkyRmtVTXF4TlU3VVFkdlhTUjYyMTQyWDZ6NDhpOWpHdHRvWXJaOGxLOVV5bnd3Z1JpaUdKbC1DV1Jyel9Lckl3emhZVU1GaGt5SXdVTGNaU1AzVTNoeWpsSVM1c1ZoRDdN0gHPAUFVX3lxTE9zRndaaWJSY3BWZEFhNFFzZklVZERwcFBIS2FhRGNCeVZxN25ONDJfNG8xWEQ5dlZBU2dDV2owWGhsdWRHODc2Y1BrdmJJclpBbGI0cUdBSTV6ZlNJQUFKc0ZzSDdOWTEweDFmaW9JMjZKR2Nza3c3elBhSmkyZ0FwcWtRaC1PMGVkcjFSR0VnNllZME8yZ0V5WkF2Y1ZwLUdwcURPWHo0OFo5QnlCbF9Xc3ktTGd0NHE3QUcwWV91czBKWjh4U2hxaHJVQ3NRUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzZyUWF6NENkVEgxTExEYkJ5Vml2NE1Ga1V5MTVJRjVxNVoyd1JkWW5DalNXY3Y0N3RPa1p2YkVmTEYzMklCRnNxMjU1R0FMQmFGc3hBcmFBbklHNEhMOWpyWFBQckkyRmtVTXF4TlU3VVFkdlhTUjYyMTQyWDZ6NDhpOWpHdHRvWXJaOGxLOVV5bnd3Z1JpaUdKbC1DV1Jyel9Lckl3emhZVU1GaGt5SXdVTGNaU1AzVTNoeWpsSVM1c1ZoRDdN0gHPAUFVX3lxTE9zRndaaWJSY3BWZEFhNFFzZklVZERwcFBIS2FhRGNCeVZxN25ONDJfNG8xWEQ5dlZBU2dDV2owWGhsdWRHODc2Y1BrdmJJclpBbGI0cUdBSTV6ZlNJQUFKc0ZzSDdOWTEweDFmaW9JMjZKR2Nza3c3elBhSmkyZ0FwcWtRaC1PMGVkcjFSR0VnNllZME8yZ0V5WkF2Y1ZwLUdwcURPWHo0OFo5QnlCbF9Xc3ktTGd0NHE3QUcwWV91czBKWjh4U2hxaHJVQ3NRUQ?oc=5\" target=\"_blank\">Preliminary NTSB report details how Amazon cargo plane overran MIA runway, killing 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 6 South Florida</font>",
+      "published": "2026-10-01T20:15:43+00:00",
+      "source": "NBC 6 South Florida"
+    },
+    {
+      "title": "Amazon Air cargo plane flew past nearly half of Miami runway before deadly landing, NTSB says - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuaGF0SUM5SmNRVFB4M05hYzFueUsyTjRLNFRtTERJaTVmZHVER0FFLTdQeWU0MEIwMzFORUNHOEF0OGRqem94a1E0VHJaUk9WMnJiVjdZeXY2QS1vdWZTTGQzNF9Ra0tuTW40UHdudWZMQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuaGF0SUM5SmNRVFB4M05hYzFueUsyTjRLNFRtTERJaTVmZHVER0FFLTdQeWU0MEIwMzFORUNHOEF0OGRqem94a1E0VHJaUk9WMnJiVjdZeXY2QS1vdWZTTGQzNF9Ra0tuTW40UHdudWZMQQ?oc=5\" target=\"_blank\">Amazon Air cargo plane flew past nearly half of Miami runway before deadly landing, NTSB says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2026-10-01T21:37:03+00:00",
+      "source": "CNN"
     }
   ],
   "product_launches": [
     {
-      "title": "Fire TV launches all-new, faster 4K stick and new remote design - aboutamazon.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hNHBsRzI2RXdpR2FUbkpiYzFxQ3ctaXAyRHdtdldVMEJZdnFSMy03dS1oR0lUQVZoaU1GOWUxQmwyVWJMeC1oS1pXVXN2dzhZM2kyY245ZUtEYXExMkplbkZVdEFJa2VvNUpkS2ItSUFsRV96cE40?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5hNHBsRzI2RXdpR2FUbkpiYzFxQ3ctaXAyRHdtdldVMEJZdnFSMy03dS1oR0lUQVZoaU1GOWUxQmwyVWJMeC1oS1pXVXN2dzhZM2kyY245ZUtEYXExMkplbkZVdEFJa2VvNUpkS2ItSUFsRV96cE40?oc=5\" target=\"_blank\">Fire TV launches all-new, faster 4K stick and new remote design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboutamazon.com</font>",
-      "published": "2026-09-29T18:47:27+00:00",
+      "title": "Amazon announces new tools and services to help sellers go global from day one - aboutamazon.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjNWX2F2ckdxRV8yOXZlUWxTZ2g2YXBTUWtUVklhS0xydWxYNVBqLTVudnNCQW1PYU5CdXNvdW83MVE0eUpzTlU0WWVfQ08zMUtpR1ZsNDVlUnRDYVpvc2tWRDJ3MERrWFlkVWdYbEJlUEs3cjB6T2NPQS1rTHVPX0NTYmd0Q0tSblIySmdPOHl0S2Fma1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjNWX2F2ckdxRV8yOXZlUWxTZ2g2YXBTUWtUVklhS0xydWxYNVBqLTVudnNCQW1PYU5CdXNvdW83MVE0eUpzTlU0WWVfQ08zMUtpR1ZsNDVlUnRDYVpvc2tWRDJ3MERrWFlkVWdYbEJlUEs3cjB6T2NPQS1rTHVPX0NTYmd0Q0tSblIySmdPOHl0S2Fma1E?oc=5\" target=\"_blank\">Amazon announces new tools and services to help sellers go global from day one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aboutamazon.com</font>",
+      "published": "2026-09-24T13:06:08+00:00",
       "source": "aboutamazon.com"
-    },
-    {
-      "title": "Amazon, Walmart’s Flipkart launch review of unlicensed security camera listings on India platforms - WTAQ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjZ1QVdKeGZENlhHa21sNFN0V005MTVDZXJOMGNxOEYxQWswME8yWFNNNF91U0FVT3RWT1ZoR2xyTllQQTBjS2tfQUt2Q1EwSjdVTHZldTJHWnlTU2gyZ1RHWVgyTTJ2aHp6emxoUFlaRFBxaXRtaUF6eEJVYzNVQnkxNXJydFlTXzJFem1leWloSzZHRUJUN3hXVmFwV1ltN0lGZHRVZXlYR3lhbl9Jc0N0RUoybzI0RlJ1N3JZSkRPX1k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjZ1QVdKeGZENlhHa21sNFN0V005MTVDZXJOMGNxOEYxQWswME8yWFNNNF91U0FVT3RWT1ZoR2xyTllQQTBjS2tfQUt2Q1EwSjdVTHZldTJHWnlTU2gyZ1RHWVgyTTJ2aHp6emxoUFlaRFBxaXRtaUF6eEJVYzNVQnkxNXJydFlTXzJFem1leWloSzZHRUJUN3hXVmFwV1ltN0lGZHRVZXlYR3lhbl9Jc0N0RUoybzI0RlJ1N3JZSkRPX1k?oc=5\" target=\"_blank\">Amazon, Walmart’s Flipkart launch review of unlicensed security camera listings on India platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTAQ</font>",
-      "published": "2026-10-01T15:01:40+00:00",
-      "source": "WTAQ"
-    },
-    {
-      "title": "Pipper Standard® Expands in India with Amazon Launch as Brand Accelerates Growth - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUVwYndRdmVBWFJFcElDV2xobVV5YjZiZ0RXZ0RPTU1FRmhGM01MYTdYMXZnVVZjU2swWnI1WU40NVM5RU05UXZqVTEtaDBwUVJ6ZEtBWFNJbTNxbzdZRDE2TVU5S1pjWmtXcHpRQjVrR3JqajBwanRFdUFELTFYQUMyZm1INm9ubTNzYmFlR1BVZ0JxQ2ZhQW1xTlNtLUY1U2V0MGtNelBsX0IwVnptRUd5cTBfV3BPNWhOd0Rn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUVwYndRdmVBWFJFcElDV2xobVV5YjZiZ0RXZ0RPTU1FRmhGM01MYTdYMXZnVVZjU2swWnI1WU40NVM5RU05UXZqVTEtaDBwUVJ6ZEtBWFNJbTNxbzdZRDE2TVU5S1pjWmtXcHpRQjVrR3JqajBwanRFdUFELTFYQUMyZm1INm9ubTNzYmFlR1BVZ0JxQ2ZhQW1xTlNtLUY1U2V0MGtNelBsX0IwVnptRUd5cTBfV3BPNWhOd0Rn?oc=5\" target=\"_blank\">Pipper Standard® Expands in India with Amazon Launch as Brand Accelerates Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
-      "published": "2026-10-01T10:39:00+00:00",
-      "source": "EIN News"
     },
     {
       "title": "At its flagship unBoxed conference, Amazon Ads collapses buying silos as AI takes a bigger role in media decisions - Digiday",
@@ -91,25 +77,35 @@
       "source": "Digiday"
     },
     {
-      "title": "Amazon launches Branded Conversations at Unboxed 2026—what buyers think - adage.com",
+      "title": "Amazon launches Branded Conversations at Unboxed 2026—what buyers think - Ad Age",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVN1Rl9WSFoxX2Rjb1BMWWNDWld1dkM4dzNwc2tjQTZZVUhQeFRpRkJoR0RuQVhpVm9Bajd0eGhGODVEeW9fMlFIa1pDWWo5SE5HVzB0djFHaVVaWW0xX29GdVJUZjNiM1JiTm8xaGVkNEx6T0xSTFl6MUMxYm4yMlZNSmpCMWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVN1Rl9WSFoxX2Rjb1BMWWNDWld1dkM4dzNwc2tjQTZZVUhQeFRpRkJoR0RuQVhpVm9Bajd0eGhGODVEeW9fMlFIa1pDWWo5SE5HVzB0djFHaVVaWW0xX29GdVJUZjNiM1JiTm8xaGVkNEx6T0xSTFl6MUMxYm4yMlZNSmpCMWM?oc=5\" target=\"_blank\">Amazon launches Branded Conversations at Unboxed 2026—what buyers think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">adage.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVN1Rl9WSFoxX2Rjb1BMWWNDWld1dkM4dzNwc2tjQTZZVUhQeFRpRkJoR0RuQVhpVm9Bajd0eGhGODVEeW9fMlFIa1pDWWo5SE5HVzB0djFHaVVaWW0xX29GdVJUZjNiM1JiTm8xaGVkNEx6T0xSTFl6MUMxYm4yMlZNSmpCMWM?oc=5\" target=\"_blank\">Amazon launches Branded Conversations at Unboxed 2026—what buyers think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad Age</font>",
       "published": "2026-09-29T14:00:00+00:00",
-      "source": "adage.com"
+      "source": "Ad Age"
+    },
+    {
+      "title": "Amazon Ads Launches Unified AI-Powered Ad Platform — LBB - LBB - Little Black Book",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KbEJMRUE0OTc2Z185c3FGOWVrYVJGMVFXU0ttYW1WTWYxazYzRkppUzk2VDMtVUNsYmlOTWlJd0FkWFFkTHlMT3Jqd2NKSTlGYUJxRFZ6aGR2SktkNmJ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KbEJMRUE0OTc2Z185c3FGOWVrYVJGMVFXU0ttYW1WTWYxazYzRkppUzk2VDMtVUNsYmlOTWlJd0FkWFFkTHlMT3Jqd2NKSTlGYUJxRFZ6aGR2SktkNmJ3?oc=5\" target=\"_blank\">Amazon Ads Launches Unified AI-Powered Ad Platform — LBB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LBB - Little Black Book</font>",
+      "published": "2026-09-30T00:44:41+00:00",
+      "source": "LBB - Little Black Book"
+    },
+    {
+      "title": "Amazon launches all-new Kindle e-readers, introducing new designs and colors — and we got to try them - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUVFgyY2RRZ2xmRDhjaFhUbVpKSTBWbGw0MVJMVDRwS2ltOTQ2YkFNUnJ3OVEyaURQZnpLUmYwQWloNFJldGZic0NWb2hYTHNTX3BkSml2Rk8yM1R6SjV4eGJibDM5dmRpWHlpR05xLVZWNHdvekE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBUVFgyY2RRZ2xmRDhjaFhUbVpKSTBWbGw0MVJMVDRwS2ltOTQ2YkFNUnJ3OVEyaURQZnpLUmYwQWloNFJldGZic0NWb2hYTHNTX3BkSml2Rk8yM1R6SjV4eGJibDM5dmRpWHlpR05xLVZWNHdvekE?oc=5\" target=\"_blank\">Amazon launches all-new Kindle e-readers, introducing new designs and colors — and we got to try them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-10-01T13:00:00+00:00",
+      "source": "Mashable"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-01",
-      "close": 249.4199981689453
+      "date": "2026-10-02",
+      "close": 251.25999450683594
     },
     "history": [
-      {
-        "date": "2026-09-23",
-        "close": 249.27000427246094
-      },
       {
         "date": "2026-09-24",
         "close": 249.3800048828125
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-01",
-        "close": 249.4199981689453
+        "close": 248.22999572753906
+      },
+      {
+        "date": "2026-10-02",
+        "close": 251.25999450683594
       }
     ],
     "name": "Amazon.com, Inc."
