@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-10-06T17:36:33.103296+00:00",
+  "fetched_at": "2026-10-07T18:07:29.023951+00:00",
   "news": [
     {
       "title": "Microsoft Slashes Internal Claude Spending by a Third - The Information",
@@ -12,11 +12,11 @@
       "source": "The Information"
     },
     {
-      "title": "Meta, Microsoft scale back employee use of Claude: report - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRy1RTjlDMEZWSXJmemJ4M0JjV0lOd3plYmtpT01ITUY1Sm5qWnVmQlBheXVpak1zYy1XVm9STnpWUTFyaEYwdTBSMnBEQm1MeHF6ZHJxcGhFcUtLYjh1UmlsdUZvbndxNktzbHg3eUlQYzE1ai1nR1dJbGJaMURpX0doX05OOGFuSFcyZi1CZ25wUkJ5aVJ0Yg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRy1RTjlDMEZWSXJmemJ4M0JjV0lOd3plYmtpT01ITUY1Sm5qWnVmQlBheXVpak1zYy1XVm9STnpWUTFyaEYwdTBSMnBEQm1MeHF6ZHJxcGhFcUtLYjh1UmlsdUZvbndxNktzbHg3eUlQYzE1ai1nR1dJbGJaMURpX0doX05OOGFuSFcyZi1CZ25wUkJ5aVJ0Yg?oc=5\" target=\"_blank\">Meta, Microsoft scale back employee use of Claude: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-10-05T19:07:05+00:00",
-      "source": "Seeking Alpha"
+      "title": "Can Microsoft Help Customers Cut Back on Claude? - The Information",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1VuM1ZWeFRxN0NybV9BWUtaNU5FekpSbVUyeS1fQVJvNXRfdzRtcWZ5T2ZHN1ktNFM0SHl1N09qQTNLMG9tNGFoM2pSd3FOMEtYbkxGNUlBN0xKUmlJaFFjVHJCOTV0MjJlZ000a3RYTUI5cUdkelNQSDlxZlVWMTlUTjJiWFJPWlI4YmZaeXBEN0ctZzhpbU15bS01Q1U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1VuM1ZWeFRxN0NybV9BWUtaNU5FekpSbVUyeS1fQVJvNXRfdzRtcWZ5T2ZHN1ktNFM0SHl1N09qQTNLMG9tNGFoM2pSd3FOMEtYbkxGNUlBN0xKUmlJaFFjVHJCOTV0MjJlZ000a3RYTUI5cUdkelNQSDlxZlVWMTlUTjJiWFJPWlI4YmZaeXBEN0ctZzhpbU15bS01Q1U?oc=5\" target=\"_blank\">Can Microsoft Help Customers Cut Back on Claude?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-10-06T17:33:00+00:00",
+      "source": "The Information"
     },
     {
       "title": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Yahoo Finance",
@@ -33,35 +33,42 @@
       "source": "CNBC"
     },
     {
-      "title": "Microsoft Seen As 'Adults In Charge' Of AI. Stock Upgraded To Buy. - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeGlOSEpJcHJYTm80SVFHS3QwLVM0aTVBVjVYN2RWWFVCZDYzTHdRUENrZVp2dGVMaGFCWS1WdHNodmYxNWcyZllYWXpIYUpmZ0ZNOWJ1aC0xd3pVaExwWTRsdWhvLV91TkZHSy1MZTc0UzFEX3IwVmFXQUoxWE5kdzhtTDR1UmhpbXBXM2JSenJKMGV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPeGlOSEpJcHJYTm80SVFHS3QwLVM0aTVBVjVYN2RWWFVCZDYzTHdRUENrZVp2dGVMaGFCWS1WdHNodmYxNWcyZllYWXpIYUpmZ0ZNOWJ1aC0xd3pVaExwWTRsdWhvLV91TkZHSy1MZTc0UzFEX3IwVmFXQUoxWE5kdzhtTDR1UmhpbXBXM2JSenJKMGV3?oc=5\" target=\"_blank\">Microsoft Seen As 'Adults In Charge' Of AI. Stock Upgraded To Buy.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-10-05T20:40:00+00:00",
-      "source": "Investor's Business Daily"
+      "title": "Windows and Surface live blog: On the ground at Microsoft’s event - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDQwUXFob2NBSHByV0pGYk5RcGpocElQT2xyX2oxcW12WUVpakczQjZ0bEd6TV9DWmVTb3B4Q3FlRFhBOFk0NmZYejk3SjJXc3pDZjNsOEpBU3o0X0JaSHlfWHIwMVkxOWRJU2lmcnh0c3FCNlFLamhnaEZFbUpjMnJ3eklfbHNVZmdVZnRVUEthdnZobGZUaWdYakJyQk5UQ3hxb2dia21YMjkwQ09N?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDQwUXFob2NBSHByV0pGYk5RcGpocElQT2xyX2oxcW12WUVpakczQjZ0bEd6TV9DWmVTb3B4Q3FlRFhBOFk0NmZYejk3SjJXc3pDZjNsOEpBU3o0X0JaSHlfWHIwMVkxOWRJU2lmcnh0c3FCNlFLamhnaEZFbUpjMnJ3eklfbHNVZmdVZnRVUEthdnZobGZUaWdYakJyQk5UQ3hxb2dia21YMjkwQ09N?oc=5\" target=\"_blank\">Windows and Surface live blog: On the ground at Microsoft’s event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlB2U05ZdnJyaF9IREpicjRETV9TVGx0RzMtZFRNMEQ5VExyQS1KTFF5MmxYLUFhWEdraHlPekh0d1VXa3NuUFdzWTlCVF8wd241YXc1MjhaLTlWT1dFU2gtaUIxR1ZYVHZJNnJMWFdQUWdLSkdzUUNUUVlZN1o0WThNckpQLTJ0?oc=5\" target=\"_blank\">Microsoft’s Windows and Surface Event: Live Updates From San Francisco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzZsR282TENBSWRaYkprZTFQcUh0bW5GZkhUNXFsZU9nMF9kOEtlZGRDZ214akhyUHp5cEpjeEJCeXdKbkoyZmh5bjdWMW9rQXBmVnJjR0JpQmhGRTg4NE43VW85ZlV0T29KSW12TXhwNGVJUGdEdzVRczlXYkswTE0xdUxlZ2pxZGxfTVdBM0dfM2RlbmU1VkUxMXpDLW1kNGZzUjdKOW1mQkFrcmVGcVNtM2RoeDJ3cU50LVJWbw?oc=5\" target=\"_blank\">Amazon Offloads HP's 14-Inch Homework Laptop at Nearly 50% Off, Microsoft 365 + SD Card Included</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font></li></ol>",
+      "published": "2026-10-07T16:31:13+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "Nvidia, Apple, and Microsoft are keeping the stock market afloat - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGdfdXVSdklpMHBQSFlLMDVsN2ZkQk83U3R1UUpLbHlLTmtBek9NV0NydG9yOFlzMHdZd2VsQzE5ZGZFUjFFNGVocTlVSjJlYUhtX3FRSWpRMW9SNUMxZEhhaG54QVdDTlNuMkYxTzVYd3NYWkE4MmEzbDc3REs1YURBcGtqTW56OXJLWnA0eFhTSVBKRS11ZHdIemlDOWhmdXBteWNWTWpXYVRwX1JCR1ZSRlJGaURDUVRF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWGdfdXVSdklpMHBQSFlLMDVsN2ZkQk83U3R1UUpLbHlLTmtBek9NV0NydG9yOFlzMHdZd2VsQzE5ZGZFUjFFNGVocTlVSjJlYUhtX3FRSWpRMW9SNUMxZEhhaG54QVdDTlNuMkYxTzVYd3NYWkE4MmEzbDc3REs1YURBcGtqTW56OXJLWnA0eFhTSVBKRS11ZHdIemlDOWhmdXBteWNWTWpXYVRwX1JCR1ZSRlJGaURDUVRF?oc=5\" target=\"_blank\">Nvidia, Apple, and Microsoft are keeping the stock market afloat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-06T14:08:45+00:00",
+      "title": "LIVE: Microsoft partners with Nvidia to announce joint Windows & Local AI Event - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1Z5dDhralFsdDNuWUlUNTZXS3BuRnVIb2lOUFNMdzRDYTdlSTRMRnNudjBzYTBuNlhpQnFHMDBxbFpnSUgxS0ktbFhmbTZjQnJGTTJ0T3BkZldKNjVSZkRUWWZCMER3U2R5SGcxTVh6T2d6S0JabmNFUUVRLUhKWjE2anNHbm9GSlhQbEpHT1NvWjZ2ZVJYM0ljb05saWYwTENpT2VnZWJYZFZscFh6YTJWZE8yLURyUTFVLTY1aDJrQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1Z5dDhralFsdDNuWUlUNTZXS3BuRnVIb2lOUFNMdzRDYTdlSTRMRnNudjBzYTBuNlhpQnFHMDBxbFpnSUgxS0ktbFhmbTZjQnJGTTJ0T3BkZldKNjVSZkRUWWZCMER3U2R5SGcxTVh6T2d6S0JabmNFUUVRLUhKWjE2anNHbm9GSlhQbEpHT1NvWjZ2ZVJYM0ljb05saWYwTENpT2VnZWJYZFZscFh6YTJWZE8yLURyUTFVLTY1aDJrQQ?oc=5\" target=\"_blank\">LIVE: Microsoft partners with Nvidia to announce joint Windows & Local AI Event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-07T11:00:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObW1JQVhXOHZ4WmVqNk1JeXdLOFZJOGtjVnVfYVhSRHIxN3dORGI4WGVjTDB3VHJHbnNBcGhvYTZ3bDNDM1hGUUNUbVd4U2VhdV96eWJYVmtvbGpkRGdIUUt5ZjY5OWR1Si0zdzRDT0hXeEo0LTA5cEN0MUtacWVrMWNGMm05bzZaTHNKSFdBem9EZThYd013TUdRVzBCRnhS?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObW1JQVhXOHZ4WmVqNk1JeXdLOFZJOGtjVnVfYVhSRHIxN3dORGI4WGVjTDB3VHJHbnNBcGhvYTZ3bDNDM1hGUUNUbVd4U2VhdV96eWJYVmtvbGpkRGdIUUt5ZjY5OWR1Si0zdzRDT0hXeEo0LTA5cEN0MUtacWVrMWNGMm05bzZaTHNKSFdBem9EZThYd013TUdRVzBCRnhS?oc=5\" target=\"_blank\">Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-10-05T17:13:38+00:00",
-      "source": "CNBC"
+      "title": "Microsoft Left This Windows Bug Broken for 10 Years. I Fixed It in an Afternoon With Opus 5.5 - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3JUaGx6MW5WTXh2RHEwOG9jVVZ1YmlzUURsQkZuOWdrcGY3UlA4aDVOVm1BMEhUY0prUkRMQTIxRU5TVTBTX21abURZU0ttOTFqTVRoVkxnYnA5MWh0TkNZeVMxNmxCTnVyNGp4Rk5MNE5PWk5IZjhVTTNEY1FCOEljUnJjTXpQei1UNmNNXzZmeFpRZXFncEpEc1VjUWZaajZkaUJSNkdRV3pNMmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3JUaGx6MW5WTXh2RHEwOG9jVVZ1YmlzUURsQkZuOWdrcGY3UlA4aDVOVm1BMEhUY0prUkRMQTIxRU5TVTBTX21abURZU0ttOTFqTVRoVkxnYnA5MWh0TkNZeVMxNmxCTnVyNGp4Rk5MNE5PWk5IZjhVTTNEY1FCOEljUnJjTXpQei1UNmNNXzZmeFpRZXFncEpEc1VjUWZaajZkaUJSNkdRV3pNMmc?oc=5\" target=\"_blank\">Microsoft Left This Windows Bug Broken for 10 Years. I Fixed It in an Afternoon With Opus 5.5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2026-10-07T12:10:32+00:00",
+      "source": "PCMag"
     },
     {
-      "title": "Data centre set to replace Microsoft headquarters - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QTmtGTTdpUk9BWUVNUXZDdlg3YkJQcWFUYUdpR0NtZWVPSFVfcEpWb3E3SjU1OXZJSG9FU2MzWWhHNXZjVGk2QXYxQWdXRllYa25NM3FHLXpUb2s?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QTmtGTTdpUk9BWUVNUXZDdlg3YkJQcWFUYUdpR0NtZWVPSFVfcEpWb3E3SjU1OXZJSG9FU2MzWWhHNXZjVGk2QXYxQWdXRllYa25NM3FHLXpUb2s?oc=5\" target=\"_blank\">Data centre set to replace Microsoft headquarters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-      "published": "2026-10-06T12:12:38+00:00",
-      "source": "BBC"
+      "title": "More than a mark - https://microsoft.design/",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWm8zdzBFMEVEUUM1aVhUS01KRnk2aVN6dERVVnp3SVIxWmkxeFFzRXByZTVXMGtEcFVOejVUZEl2OEEzbE91dlgwb2paaUJJbHFIRFVQVlNNRVpIVFhIbg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSWm8zdzBFMEVEUUM1aVhUS01KRnk2aVN6dERVVnp3SVIxWmkxeFFzRXByZTVXMGtEcFVOejVUZEl2OEEzbE91dlgwb2paaUJJbHFIRFVQVlNNRVpIVFhIbg?oc=5\" target=\"_blank\">More than a mark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://microsoft.design/</font>",
+      "published": "2026-10-05T13:00:00+00:00",
+      "source": "https://microsoft.design/"
     }
   ],
   "product_launches": [
+    {
+      "title": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN?oc=5\" target=\"_blank\">Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tech Buzz</font>",
+      "published": "2026-10-07T13:36:00+00:00",
+      "source": "The Tech Buzz"
+    },
     {
       "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
@@ -77,13 +84,6 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Introducing dots - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5\" target=\"_blank\">Introducing dots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
-      "published": "2026-09-30T00:47:00+00:00",
-      "source": "OpenAI"
-    },
-    {
       "title": "BlueVoyant Launches Microsoft ISOC Deployment Service - Channel Insider",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlhCNnFXNHBZbmozbTlMczFLVm42S0w5MUQyLVFmUHpodXRkWkRYVjFQVUwtbF9Cd3ItYVRCNmdCakdNUDItSWx5LTRuVmoyaTlTMGhoVWhyaVNlZm4ydExfdHlMQWpfME14NWQ5em04U1A4cnVkeUhaeVBlOHJ6VVg3TWZjZ3JoZ2pjUkZRMm83YU5JaC02ejQ5V1drQkFRR0NyNQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlhCNnFXNHBZbmozbTlMczFLVm42S0w5MUQyLVFmUHpodXRkWkRYVjFQVUwtbF9Cd3ItYVRCNmdCakdNUDItSWx5LTRuVmoyaTlTMGhoVWhyaVNlZm4ydExfdHlMQWpfME14NWQ5em04U1A4cnVkeUhaeVBlOHJ6VVg3TWZjZ3JoZ2pjUkZRMm83YU5JaC02ejQ5V1drQkFRR0NyNQ?oc=5\" target=\"_blank\">BlueVoyant Launches Microsoft ISOC Deployment Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Channel Insider</font>",
@@ -91,25 +91,21 @@
       "source": "Channel Insider"
     },
     {
-      "title": "Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0dhVWlTZHpra01ya2NRRVJ2MnpXUjFXaWhBdjBHNmpzclBCZEhSWWU4bmdKZlBZWEVfbFRVLTlhY2VhSDJiUzd5VXpMSmZKRm1lakc5T1lEemdVcUVqMlZJVnBKV1pmXzhrOUdVcDh1NEdRRHRCUUhwN1RPWlBKTWZYUF9Dd2E3Y0ZNNzJqZ2s0WThqT1hUZDVRZVdNWm9IT2pxd3hhSm15aUFENWFYZUFxcW1UQ2p6Y0VyZWpEaVJPTDZmQ0l5Ulg3dk9Ja01lbG9qWE9vXzRMTkZqMGVaM1FTUXRkZmlq?oc=5\" target=\"_blank\">Stock Market Today, March 30: Microsoft Rises on Copilot Expansion and New AI Product Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-03-30T07:00:00+00:00",
-      "source": "The Motley Fool"
+      "title": "Introducing dots - OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5\" target=\"_blank\">Introducing dots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "OpenAI"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-06",
-      "close": 532.239990234375
+      "date": "2026-10-07",
+      "close": 529.8800048828125
     },
     "history": [
-      {
-        "date": "2026-09-28",
-        "close": 509.2200012207031
-      },
       {
         "date": "2026-09-29",
         "close": 508.9599914550781
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-06",
-        "close": 532.239990234375
+        "close": 529.2999877929688
+      },
+      {
+        "date": "2026-10-07",
+        "close": 529.8800048828125
       }
     ],
     "name": "Microsoft Corporation"
