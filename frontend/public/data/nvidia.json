@@ -2,14 +2,56 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-10-07T18:07:39.498676+00:00",
+  "fetched_at": "2026-10-08T18:09:54.590439+00:00",
   "news": [
     {
-      "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5\" target=\"_blank\">Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHZkUkMwOFhZQkZxcW0tTW5BVFpDVW41UWZKcEJyOHlGb0o4OHlTcEdyRXEtTjJ3OFNlbzNiNVdPeXVJQWpTVUltbVFoM2x3cFFxa2tmYndoRGhKV0RWNXZKYkx5bTRiNkJoOFpzV1d1ODB5eWhOelpub3h3b3MxdG9DYXFEQXU2TmplMW5DLUJOZ05pREwzODR0OUFwSHM?oc=5\" target=\"_blank\">Microsoft and Nvidia to Unveil AI-Powered Surface Laptop Ultra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXBsRE5NTWlWMjNIclMyWTdVQ205WjczNkxjVTlySVB3NXNhSUctS2NtZjNabTdieExyZGF0TWFucEhzNkR5TGlQOEdDcUQxTGJhakJBcmd1cEIwbkNQeWpRUEl4N0FaTHlsMmhsYXphckh2MmhXOXh0ZlZYSHRMaHZxYTVfbmR5dWlRajRfWFRkajNSR3FXay04QWU?oc=5\" target=\"_blank\">Microsoft Gets an Nvidia-Powered AI Laptop. Is It Time to Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
-      "published": "2026-10-07T10:47:21+00:00",
+      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5\" target=\"_blank\">Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEN2SzdRLWZYSFVmU1RTUTYwTFZqRE85T1d1TW9QcFRaalJSRHlOVWhlZkJfU3BrSklSWXU0LVlOTU0ybUVuN1lOZGQ0RDNlMGU0dWJwQy0tOXVLVlpnSkwxeWVZSlBodXR0WFk5UktOU0s3TXAtUlZ0NC1yNnFxeHRJMnZ3ajlOM2I2ZU04UFNtd2NncXZRVnExWFNNejdEN05B?oc=5\" target=\"_blank\">Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGR6M2gxc2tYM1YxN1M3WnpZdmt3OEN4SFVJbHlOMFN4WW44MlJzLTRCMklUNWVTNUtHUE1yd3ZnLUZjaGNGVUpGVDQ5MnU5ZzBiRDdXam9tcGsxR2wzYzFPdFk2aVc5X3lVUVVZanZ6MFdGOGhYWTlLN09ZMEFuYTY4UU81ZU91UThWZnZBbGx0cmxxemRVMjhiOFlIUkI0RElPbVlrMTE2RmNpV2dqS18tS19VbWpxTHVhUlRFS0Y4RGY2c1NLczBibDF0SWVRWk04?oc=5\" target=\"_blank\">Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-10-07T18:30:52+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkxVcHFodTdrTDRFTUNuZmo3bnB1VUNiWlhrN3dCaTFvNERyRUhjcmpMdE9QTDhMenRwSkFzdHJNYWE0MkZ0cS1McFNIMDJRS0lrMG1qalBMYXlOYmdvRV9qc2xuRWRtQ256WlJBTVRyYWlDdjQwMlB5S3FBdTlWMXhLQ2ZSbE90eEw1bUlvS0lrajZscG1CeWhKd1dLaVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkxVcHFodTdrTDRFTUNuZmo3bnB1VUNiWlhrN3dCaTFvNERyRUhjcmpMdE9QTDhMenRwSkFzdHJNYWE0MkZ0cS1McFNIMDJRS0lrMG1qalBMYXlOYmdvRV9qc2xuRWRtQ256WlJBTVRyYWlDdjQwMlB5S3FBdTlWMXhLQ2ZSbE90eEw1bUlvS0lrajZscG1CeWhKd1dLaVE?oc=5\" target=\"_blank\">Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-08T10:20:43+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1Bic0VhVWU5NVVMNWxfTzl3WTJPenlXS0JGVzl1cW1NUVlzWHhhcDBteV9nUUJrTFlmVG9DZFpnUGF2N1A5amJoeTItX2pGUnVDaUFjb1UtRGNyZ0N4UzdKeHR4RkYzTkxnX0VSV3V3ODlWMFJiYVN6QkhGU2IyYVh6QmZFQ1dWSmVFalpqX0IwcS03TklBazZFcU1wX19qSmdSNHlLVUdiMzZpRDNVczFkTmNYUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1Bic0VhVWU5NVVMNWxfTzl3WTJPenlXS0JGVzl1cW1NUVlzWHhhcDBteV9nUUJrTFlmVG9DZFpnUGF2N1A5amJoeTItX2pGUnVDaUFjb1UtRGNyZ0N4UzdKeHR4RkYzTkxnX0VSV3V3ODlWMFJiYVN6QkhGU2IyYVh6QmZFQ1dWSmVFalpqX0IwcS03TklBazZFcU1wX19qSmdSNHlLVUdiMzZpRDNVczFkTmNYUQ?oc=5\" target=\"_blank\">Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-10-08T10:20:43+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Nvidia-backed Iambic Therapeutics targets up to $806 million valuation in US IPO - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2duSWZGV1gtNHhZUVRCMHQ4QTN4ZzAzOFR1QjVlbmNfdEYwRG9HRWc1ai1WUXV0TFlESmpzSnhQSW1jT2xDYmdhSXZrXzZTUFVyX1N5VFltX2VyVDZPeEUzZ0hxYnB1MmpYYVhvU3h0VlB3MjZrMThFZFhwMkk2cEw0eGdKSHdySTJEWTNsZklka25TamNFbG91UXRPSjJPYjl4d2JvREdwa2QyeTh5bHpRN3dmUXJzbXRUOFJacHpuM3M0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2duSWZGV1gtNHhZUVRCMHQ4QTN4ZzAzOFR1QjVlbmNfdEYwRG9HRWc1ai1WUXV0TFlESmpzSnhQSW1jT2xDYmdhSXZrXzZTUFVyX1N5VFltX2VyVDZPeEUzZ0hxYnB1MmpYYVhvU3h0VlB3MjZrMThFZFhwMkk2cEw0eGdKSHdySTJEWTNsZklka25TamNFbG91UXRPSjJPYjl4d2JvREdwa2QyeTh5bHpRN3dmUXJzbXRUOFJacHpuM3M0?oc=5\" target=\"_blank\">Nvidia-backed Iambic Therapeutics targets up to $806 million valuation in US IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-08T14:47:19+00:00",
       "source": "Reuters"
+    },
+    {
+      "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0R0am1rbndOQjhQUzhJdTNHcXpnb3lDWFVteEs0SzJiVzc5cFNhMkNJZ2F5dzhjSTFlbFE1ZDRHNVE0MTNJM1phbUU1MVZXX0VkdmZoRUJDaU5OX3pPZ3V2bUZIaTMxZ0std2V2eVFyVUlaZGFXNjhCYTNtV1AxbnVsSlJnVXlWTW9JWWhiYTJaczdTR1JBcDNFaFg0YWRmZjRhZVR6c3dvd3pv?oc=5\" target=\"_blank\">Trump discloses Nvidia stock trades as he prepares to honor CEO Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-08T15:18:12+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nvidia Stock Drops. A Big Options Trade Is a Bet Shares Go Higher. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OR2d5TV9DVTYyTUREaERXMDdRV3BqMFptZUZVREFCZGFaRXhyeDUxdWdhLWpoeE5OcnV6ejQwMFl0ZDljNnR1ZWlnZmJybjJWTTI2eGZsY3ZFOEMtSURPMFhINXJSR2tvcW5aeDY0QWo5RkFkdzRDRlhyZFRzQ3M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1OR2d5TV9DVTYyTUREaERXMDdRV3BqMFptZUZVREFCZGFaRXhyeDUxdWdhLWpoeE5OcnV6ejQwMFl0ZDljNnR1ZWlnZmJybjJWTTI2eGZsY3ZFOEMtSURPMFhINXJSR2tvcW5aeDY0QWo5RkFkdzRDRlhyZFRzQ3M?oc=5\" target=\"_blank\">Nvidia Stock Drops. A Big Options Trade Is a Bet Shares Go Higher.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-10-08T15:28:00+00:00",
+      "source": "Barron's"
+    },
+    {
+      "title": "Intel, AMD, Nvidia Lead Chip Selloff as Oil Soars After Tanker Attack - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1J2Z19UM3A5RGEzYVMtdFkxTWtfZUdGdTNBZmQ2UXpYM2UySnlxc2dvQjZqSTVTY0l3S01oT2JZRHlhYUVjeHlqeC01WWJxaEI0cHIwYlRDLXlQLS1TLVozSlUxRThTOUZHbEI3ekVVSlUzZm1FTHdhRExJLTBPQnlJVThsb3NuWDBlOHI5YU8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1J2Z19UM3A5RGEzYVMtdFkxTWtfZUdGdTNBZmQ2UXpYM2UySnlxc2dvQjZqSTVTY0l3S01oT2JZRHlhYUVjeHlqeC01WWJxaEI0cHIwYlRDLXlQLS1TLVozSlUxRThTOUZHbEI3ekVVSlUzZm1FTHdhRExJLTBPQnlJVThsb3NuWDBlOHI5YU8?oc=5\" target=\"_blank\">Intel, AMD, Nvidia Lead Chip Selloff as Oil Soars After Tanker Attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-08T16:58:47+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips - Bloomberg.com",
@@ -17,58 +59,9 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNelk1VmhBcFVqRmpRQndWdklsTm1EVVZmaHk4REFBRXk1WmJYdDMxUDBxSEFkNHl1YWs2OUNCU1ZDWXRVcG9XaGJzR2JHaFUtLXlNaHZTZVNxQjN2NGkzTW5jczlfZXN1S3ppd0ttdnJZemtvM3llR25xOUVvSVMxY3hPd1dtaEtVV2NRNXN4eU5wMG4zUjNxWW9WTEFHT2l4V1p5OE1oODNoVE45bXJGZUQ1SQ?oc=5\" target=\"_blank\">SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "published": "2026-10-06T22:57:42+00:00",
       "source": "Bloomberg.com"
-    },
-    {
-      "title": "SpaceX looks to raise $40bn to buy Nvidia chips - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdThuRWl1b3NtaUE5aFhSeXVUY0xfYjhBZXJJaG1VWWR0QXBSQ2txLTBrbTlKNm9KQmtqcG95Y3BLNlRQZF96a004TS1xaGlyQUVUaEdqNXZOTzZwdC1IU001ZmM5a191dGNRYjNCWXkwcEk0cjVhams2WUc5aGMxek13b1U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdThuRWl1b3NtaUE5aFhSeXVUY0xfYjhBZXJJaG1VWWR0QXBSQ2txLTBrbTlKNm9KQmtqcG95Y3BLNlRQZF96a004TS1xaGlyQUVUaEdqNXZOTzZwdC1IU001ZmM5a191dGNRYjNCWXkwcEk0cjVhams2WUc5aGMxek13b1U?oc=5\" target=\"_blank\">SpaceX looks to raise $40bn to buy Nvidia chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-10-06T22:28:55+00:00",
-      "source": "Financial Times"
-    },
-    {
-      "title": "How SpaceX's big Nvidia buy could contribute to 'structural changes' to the economy - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWNPSTh5cG8tcHQzOGZ2dmFwak4zUlBjMDB4NVM4WFBhLWxKMk1wQmgyTjJZdU94eDF6dW1jSWR6RFhhcEhvS2ZSWUN5V0Nmd3otdGFucDBOVjBBOVlzdWRvODVhSU1Eem5sdUVoTWZ2LVZxNWRCZDQ0OWR3anRhUA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWNPSTh5cG8tcHQzOGZ2dmFwak4zUlBjMDB4NVM4WFBhLWxKMk1wQmgyTjJZdU94eDF6dW1jSWR6RFhhcEhvS2ZSWUN5V0Nmd3otdGFucDBOVjBBOVlzdWRvODVhSU1Eem5sdUVoTWZ2LVZxNWRCZDQ0OWR3anRhUA?oc=5\" target=\"_blank\">How SpaceX's big Nvidia buy could contribute to 'structural changes' to the economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-07T17:45:34+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Nvidia Director Tops AI Billionaires on Insider Stock Sales - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlJ4cTVnRFEydXJ4SjN4NWhEZWlTSko5SUlqMl9jVDgzWl9ua05kQkw3UGxFMlBmc1NLcGw1MWpnSmIxZFB2WVdUTVRTTjdqSWJhQkctc1VhMDdaaTBMMWJYdC14NGtfWndSVTNkdjFvdlU3elVoVkJkMlJISlNIRi15dW5aX2h2TmZKdUtsNlNvZDNMdm14cjNlTFBsaVRranZPVEROX1Nld3dmdVk5TWhncw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlJ4cTVnRFEydXJ4SjN4NWhEZWlTSko5SUlqMl9jVDgzWl9ua05kQkw3UGxFMlBmc1NLcGw1MWpnSmIxZFB2WVdUTVRTTjdqSWJhQkctc1VhMDdaaTBMMWJYdC14NGtfWndSVTNkdjFvdlU3elVoVkJkMlJISlNIRi15dW5aX2h2TmZKdUtsNlNvZDNMdm14cjNlTFBsaVRranZPVEROX1Nld3dmdVk5TWhncw?oc=5\" target=\"_blank\">Nvidia Director Tops AI Billionaires on Insider Stock Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-10-07T09:00:17+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nvidia Stock: Capitalize On The AI Chipmaker's Moves With This Spread Strategy - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGZ5cXlEM2c5SHRCa2l6TU1EbjlTSEtudm8zYThYZS1Remw1SUpwaWhJV1drZ0lneFlKVnA2UnFxMzJLZEhlbTc0YU13b0prd3ZybGRWeFg5N0hOYkp4cVRDaHFKQUplVHJ0Qkh1TVJDb05RdHVwRXByNGl4QlF4bTNfMXVIQ3VzLV96TV9jdnhRTVlnRTRzQUJzVDB5N1ZuVU0yLVdMbDFkTnVHSXZKNl9RSlFjV2I0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGZ5cXlEM2c5SHRCa2l6TU1EbjlTSEtudm8zYThYZS1Remw1SUpwaWhJV1drZ0lneFlKVnA2UnFxMzJLZEhlbTc0YU13b0prd3ZybGRWeFg5N0hOYkp4cVRDaHFKQUplVHJ0Qkh1TVJDb05RdHVwRXByNGl4QlF4bTNfMXVIQ3VzLV96TV9jdnhRTVlnRTRzQUJzVDB5N1ZuVU0yLVdMbDFkTnVHSXZKNl9RSlFjV2I0?oc=5\" target=\"_blank\">Nvidia Stock: Capitalize On The AI Chipmaker's Moves With This Spread Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "published": "2026-10-07T15:31:00+00:00",
-      "source": "Investor's Business Daily"
-    },
-    {
-      "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw?oc=5\" target=\"_blank\">Nvidia stock rises to new highs as market cap closes in on $6 trillion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-06T15:22:31+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHkzQk8wX3dkc1ItZ1VvTGNzRndHSVhUVV9aVXI3bFktNHhHOWRLd2I1elg3am55M3cwV2NrTUhwOHgyeGpxdFBPVUs1ZUlyNC1CT0g4QjVsYjRIYVhaLWtEVWJwMFc5YWNFeV9NR3VUUHR0eVUzWjlieTZVMnAxNmowcjZPeml5bUwzaG9qTjZ0Vk9UN3V2OQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHkzQk8wX3dkc1ItZ1VvTGNzRndHSVhUVV9aVXI3bFktNHhHOWRLd2I1elg3am55M3cwV2NrTUhwOHgyeGpxdFBPVUs1ZUlyNC1CT0g4QjVsYjRIYVhaLWtEVWJwMFc5YWNFeV9NR3VUUHR0eVUzWjlieTZVMnAxNmowcjZPeml5bUwzaG9qTjZ0Vk9UN3V2OQ?oc=5\" target=\"_blank\">Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "published": "2026-10-06T16:15:00+00:00",
-      "source": "The Motley Fool"
     }
   ],
   "product_launches": [
-    {
-      "title": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch - The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN?oc=5\" target=\"_blank\">Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tech Buzz</font>",
-      "published": "2026-10-07T13:36:00+00:00",
-      "source": "The Tech Buzz"
-    },
     {
       "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5",
@@ -77,11 +70,25 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security Push Grows - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ210VE5nNmhtTEdHZ0x1ZUpVT1VXVU9OUnRRLTdaMk5oNTZCNFFDaW9hd3dJM1c0bFMyV01aSGVtVlZYdlJDaHlPRDRaaC1fT0VvTFRmQ19EQVNGc09SWkEtTVFOX05Yd0ZIOERKUXpBZjVJajZkQzBvc2pZY254SEFFRVhnemFuNDczeUNaM3R3S2x1WDJ1ZGxRQmtpdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQ210VE5nNmhtTEdHZ0x1ZUpVT1VXVU9OUnRRLTdaMk5oNTZCNFFDaW9hd3dJM1c0bFMyV01aSGVtVlZYdlJDaHlPRDRaaC1fT0VvTFRmQ19EQVNGc09SWkEtTVFOX05Yd0ZIOERKUXpBZjVJajZkQzBvc2pZY254SEFFRVhnemFuNDczeUNaM3R3S2x1WDJ1ZGxRQmtpdw?oc=5\" target=\"_blank\">CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security Push Grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-06T14:15:56+00:00",
+      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5\" target=\"_blank\">Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-28T07:00:00+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "Microsoft Is Betting on Local AI, With Nvidia as Its Wingman. On Oct. 7 We'll See If It Pays Off - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFdPck80bU5kSHJ2bE1yei1mb1p5WXM0dDlxUW9QRVRnTXF4bTBqc1RlRGVDVlhVS3UyOFF6aExYdWxsZEIwMW9GUlpjU0htdFBnTHJaRnZPOWphbENqQzBXVE0tQ1dHZndLWkFkM1MtbGVHc25POGNmOU5nQkFxZ1hDNC1QYVdIMjU4X21idUJyRW9Lc2pPdUFxbFlCazdjeFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbFdPck80bU5kSHJ2bE1yei1mb1p5WXM0dDlxUW9QRVRnTXF4bTBqc1RlRGVDVlhVS3UyOFF6aExYdWxsZEIwMW9GUlpjU0htdFBnTHJaRnZPOWphbENqQzBXVE0tQ1dHZndLWkFkM1MtbGVHc25POGNmOU5nQkFxZ1hDNC1QYVdIMjU4X21idUJyRW9Lc2pPdUFxbFlCazdjeFE?oc=5\" target=\"_blank\">Microsoft Is Betting on Local AI, With Nvidia as Its Wingman. On Oct. 7 We'll See If It Pays Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
+      "published": "2026-10-05T22:09:49+00:00",
+      "source": "PCMag"
+    },
+    {
+      "title": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch - The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN?oc=5\" target=\"_blank\">Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tech Buzz</font>",
+      "published": "2026-10-07T13:36:00+00:00",
+      "source": "The Tech Buzz"
     },
     {
       "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5\" target=\"_blank\">Nvidia releases software platform to stop AI agents from misbehaving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
       "published": "2026-09-28T07:00:00+00:00",
       "source": "CNBC"
-    },
-    {
-      "title": "Nvidia DGX Spark 64GB Launches at $4,999 as Memory Prices Surge [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbW9RbW42ay00NmpLdWtsbzR5UnZxMVFyTlVJNVZmN0JQbjI2dmxYb05MZnlOTGNXQ3g5VnhMRS1NSVViUFNlSTZTSVlXbzVvYmlwWjZsY0JuRDFOUUp3VjNGMjVFX0hzckVOQlJiN29UbFQ4eWRrd05R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbW9RbW42ay00NmpLdWtsbzR5UnZxMVFyTlVJNVZmN0JQbjI2dmxYb05MZnlOTGNXQ3g5VnhMRS1NSVViUFNlSTZTSVlXbzVvYmlwWjZsY0JuRDFOUUp3VjNGMjVFX0hzckVOQlJiN29UbFQ4eWRrd05R?oc=5\" target=\"_blank\">Nvidia DGX Spark 64GB Launches at $4,999 as Memory Prices Surge [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
-      "published": "2026-10-02T20:34:53+00:00",
-      "source": "https://tech-insider.org/"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-07",
-      "close": 237.17999267578125
+      "date": "2026-10-08",
+      "close": 230.19000244140625
     },
     "history": [
-      {
-        "date": "2026-09-29",
-        "close": 227.2100067138672
-      },
       {
         "date": "2026-09-30",
         "close": 228.3800048828125
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-07",
-        "close": 237.17999267578125
+        "close": 237.47000122070312
+      },
+      {
+        "date": "2026-10-08",
+        "close": 230.19000244140625
       }
     ],
     "name": "NVIDIA Corporation"

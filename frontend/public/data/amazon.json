@@ -2,66 +2,87 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-10-07T18:07:34.124515+00:00",
+  "fetched_at": "2026-10-08T18:09:49.390289+00:00",
   "news": [
     {
-      "title": "October Prime Day ends tonight: We found the best Amazon deals from Hanes, Carhartt, Apple and more - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbU5pb3FzZTktSnJTOFBlTm1JOWg5dHVLeFNLeGF6N1poMkNzMkQyVG9jRDZtdVBjcTFMZ1IxWldCT2dNTnJoQzFwelJFUndLdVRMVnhIb01FYXhpeVFSVWo0QnRPcktraW1RNnRBRGF6REpITWlVY3RCTV9pNVZ5S1FaYUtXMFZieGJlaHFTV283YXhvYlZicTNSdF81a3BaSGxkNEdVazBrTEFhQUQ5eGY4LVBlNnZuS1RDVy1PYVN3c3BfWEkybHRKMjlURnFxenNDazV4bW5NV2E3Y2R6RlBhd0NLUVZNcmJJejU5SlV4cVloMFE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbU5pb3FzZTktSnJTOFBlTm1JOWg5dHVLeFNLeGF6N1poMkNzMkQyVG9jRDZtdVBjcTFMZ1IxWldCT2dNTnJoQzFwelJFUndLdVRMVnhIb01FYXhpeVFSVWo0QnRPcktraW1RNnRBRGF6REpITWlVY3RCTV9pNVZ5S1FaYUtXMFZieGJlaHFTV283YXhvYlZicTNSdF81a3BaSGxkNEdVazBrTEFhQUQ5eGY4LVBlNnZuS1RDVy1PYVN3c3BfWEkybHRKMjlURnFxenNDazV4bW5NV2E3Y2R6RlBhd0NLUVZNcmJJejU5SlV4cVloMFE?oc=5\" target=\"_blank\">October Prime Day ends tonight: We found the best Amazon deals from Hanes, Carhartt, Apple and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGxWM1RsNGMzbjVpRTNPSmFRTGE3UUFEOFRGcE5ScFZWVU5PVDZGVDNVX1IwZFRZWnhZRVNxa20tdVllNzNzcmFfbkNhSG9BcHdORWhtMXItc1I3cTYwSEhVY0l4UVZqcktiWUQ0bGFuT003dzNnaENZV2txNXdSeTZiTlBtYl9YNEE?oc=5\" target=\"_blank\">It’s Prime Day (Again). Here Are the Best Deals From Amazon’s Prime Big Deal Days.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQRVJsSHhReE0xN2x4dGQxT2NMdFkyeHozOFBvTjdDVTdwR0hHZFpmb3NWSUs3OXJlUDVYc04tN3VTaWxfUU1Pb1V5WmpGSG5CTnhHeUJ0ZE4yU3RIRE1KMk50Y09UVHptTGFhcTZIMUt1NjNrT3VmUENWN2VSZm1sOHl3?oc=5\" target=\"_blank\">Prime Day Is Here—These Are the Deals Worth Buying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li></ol>",
-      "published": "2026-10-07T17:50:08+00:00",
-      "source": "Yahoo"
-    },
-    {
-      "title": "Ring ends smart lock anxiety with a lock you can recharge by hand - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BUmRhMl83ZVgtaHVuZnM2OGxGSW85UUJvd1hqMmhnS0NpT1g3UTFlWGZRck43UjBKX1gyNzQtdHl4ek12RjE0NTJOYUxwMVVJRTFtVEtZN0JUOWhlYlI3ZE9Hckc2RE5IbmZxWXFNOXl2YmFHNGFaQ1d5dXk0UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9BUmRhMl83ZVgtaHVuZnM2OGxGSW85UUJvd1hqMmhnS0NpT1g3UTFlWGZRck43UjBKX1gyNzQtdHl4ek12RjE0NTJOYUxwMVVJRTFtVEtZN0JUOWhlYlI3ZE9Hckc2RE5IbmZxWXFNOXl2YmFHNGFaQ1d5dXk0UQ?oc=5\" target=\"_blank\">Ring ends smart lock anxiety with a lock you can recharge by hand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-10-07T14:11:57+00:00",
+      "title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkRnQVVzRnhxTms2bEEwZ1BKVGt3NzRSS0hGVmZ3R0Qzd3E5VjB4MjdpN1V5Vkp2b3lQb3pZNk1IRk10ZmpXMzVOYVNQRlM3ZE1qVmRjWHh5Y2t0bDZEZ09FclZkOEJuV1pFc2FqdnI0MUFtMzhPV3hCY3JGOTJSWDJR?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkRnQVVzRnhxTms2bEEwZ1BKVGt3NzRSS0hGVmZ3R0Qzd3E5VjB4MjdpN1V5Vkp2b3lQb3pZNk1IRk10ZmpXMzVOYVNQRlM3ZE1qVmRjWHh5Y2t0bDZEZ09FclZkOEJuV1pFc2FqdnI0MUFtMzhPV3hCY3JGOTJSWDJR?oc=5\" target=\"_blank\">Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5SGNYZldkeWh5VG5ENEhhbFJSangxUTU2amZPREZFYnVDVXVUbmxvNVVqYlRGa2FnY1BvUzRKY1ZQNGlpeDFPYkxQVmt0b1ZqY0p4VThTNFZ0UTFFa29hOXJYdFgzQjcySVY4WjY3cUFpcThLcC1KaGdB?oc=5\" target=\"_blank\">Amazon’s Alexa Tablets are coming for the iPad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGNGSERLOWUyQy1lZGhGVGFRZU9EZU5ZLTIxSmFLcGVQbXNYR21ERF84dTdDOG5Sb3QySlhZZVJvM3hfNnJXeE1YWG9UUm4wZEZFR0txTUFJcVluUkpjc3Z2d0E4YUpzdVBMclVINTlrRndfZFZpX1htU0g2aWp3ZlRvZHpOZFlnamxvVlhWeldvQVdzdHFsMUJlNFQ2Q2tyRGx4cG5UVzdzaEt2ak9vTXVPVUl5cEdKVzFkWA?oc=5\" target=\"_blank\">Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li></ol>",
+      "published": "2026-10-08T13:12:46+00:00",
       "source": "About Amazon"
     },
     {
-      "title": "If you'd bought $10,000 worth of Amazon stock 10 years ago, here's how much you'd have today - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkctZThqY2o1RnE4ckVSemFxejZfaEJOYWNPSDFYc0JoSVZhVmJDeW4wOXY3MWcyVHdSaWZLdk0xVkNST21MRlpRNnB2VFdEcnVqMkZ6ZW4yY0xxeFVsaXNNSnBuY3VjY0NjdUVwSm5qLTdHUFNaWERUd2ZTdDBrc2NQTEtwSVI5RHd4bHFOb1UtRGMtcmlIaWNJdUVFTDRBYVh4eUE3OU9PcUFuUE9VcTVwVHAtZlB1UXZ3RGJJSdIBxAFBVV95cUxQLTd4Wk9lUXhpckk5MUg4UExlakpRbXh2SWlMa01SWTFJVUNWT3VBaVRqVnlEU3V6Q0dlWDcxcUxfYUtFNnMwMzVUMDdGN2I4VHZBUDEtUklYQmhEZjUzUGdvX2x4TVI1OS0yZ3dSVmplVTViWl9UM1NleGtzQzIzN1hfbzNGYnJXdFNLOWhRN0dQY0NuLWVGZU1fMFVjdlhJamdhNDdQSENLbnJsYTVQbnZFN1dpR1dfTjNqWFNlUnFoT1Z3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkctZThqY2o1RnE4ckVSemFxejZfaEJOYWNPSDFYc0JoSVZhVmJDeW4wOXY3MWcyVHdSaWZLdk0xVkNST21MRlpRNnB2VFdEcnVqMkZ6ZW4yY0xxeFVsaXNNSnBuY3VjY0NjdUVwSm5qLTdHUFNaWERUd2ZTdDBrc2NQTEtwSVI5RHd4bHFOb1UtRGMtcmlIaWNJdUVFTDRBYVh4eUE3OU9PcUFuUE9VcTVwVHAtZlB1UXZ3RGJJSdIBxAFBVV95cUxQLTd4Wk9lUXhpckk5MUg4UExlakpRbXh2SWlMa01SWTFJVUNWT3VBaVRqVnlEU3V6Q0dlWDcxcUxfYUtFNnMwMzVUMDdGN2I4VHZBUDEtUklYQmhEZjUzUGdvX2x4TVI1OS0yZ3dSVmplVTViWl9UM1NleGtzQzIzN1hfbzNGYnJXdFNLOWhRN0dQY0NuLWVGZU1fMFVjdlhJamdhNDdQSENLbnJsYTVQbnZFN1dpR1dfTjNqWFNlUnFoT1Z3?oc=5\" target=\"_blank\">If you'd bought $10,000 worth of Amazon stock 10 years ago, here's how much you'd have today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-      "published": "2026-10-05T17:33:00+00:00",
-      "source": "Fox Business"
+      "title": "It’s Prime Day (Again). Here Are the Best Deals From Amazon’s Prime Big Deal Days. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGxWM1RsNGMzbjVpRTNPSmFRTGE3UUFEOFRGcE5ScFZWVU5PVDZGVDNVX1IwZFRZWnhZRVNxa20tdVllNzNzcmFfbkNhSG9BcHdORWhtMXItc1I3cTYwSEhVY0l4UVZqcktiWUQ0bGFuT003dzNnaENZV2txNXdSeTZiTlBtYl9YNEE?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGxWM1RsNGMzbjVpRTNPSmFRTGE3UUFEOFRGcE5ScFZWVU5PVDZGVDNVX1IwZFRZWnhZRVNxa20tdVllNzNzcmFfbkNhSG9BcHdORWhtMXItc1I3cTYwSEhVY0l4UVZqcktiWUQ0bGFuT003dzNnaENZV2txNXdSeTZiTlBtYl9YNEE?oc=5\" target=\"_blank\">It’s Prime Day (Again). Here Are the Best Deals From Amazon’s Prime Big Deal Days.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOek9Ua2VReFByNmFWR3FHd1V5YjZOcl93V1lJZUFKcGx2Wm0xN0tSeEt6NEZ0MkwxUXplRVFMUnRqOHdad2FMdWVjdE5TSFhkSHdKSFVQSFBYT0t0SGJVaHgwRkQtaWlPQk9velMxZVVEOWpIWktSR2wyYi1aektReHlqc04wSkU?oc=5\" target=\"_blank\">October Prime Day may be over, but 59 of the best Amazon deals are still up for grabs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQbXQxQzZ6ZFEwVS1qNWFJbjBQUW1YYVRZNmZ4a2pNSU5mREVyUUp2LTZsc1I0d2Z6T1hDVlJpdnZtdkw4S0lvZFZKS00xZm1RRmNyblNJUk1WSlpfZUdJa3BMNXc5ZDZkSUZEUmhFd2laSUpzVW9OTWpCV1g2ZEVBNC1xRlkwNV9jcXc?oc=5\" target=\"_blank\">217+ best October Prime Day 2 deals we found, live — shop before they’re gone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li></ol>",
+      "published": "2026-10-07T23:01:11+00:00",
+      "source": "The New York Times"
     },
     {
-      "title": "SpaceX eyes overtaking Taiwan Semiconductor and Amazon in the trillion-dollar market-cap club - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU2hnck4tVFhBSnV3OFQ0RmhmVEZMRThRV3dWWVNtZGxuYk1Id1lxZXJNYU03MmpsZjVqUHgtTFQ5S2lYYjdPZzYxdnhWajNKUTJaUHpNVzdiZnliVzF6VzJTbkU2ZlBnVGVuQzJTU0psUFNMUDVraVdGamQ4WXExbWVyMFN5RTNZSG0zSmRraW5vWE5CMldFVXFueDR6eEl4Z2dQQ1pYdGIxNkZUUEZZVTB0Y1pjQVZiVFlsWHZVdHNtVk5ZR2I3aFluaG9oczdILTRkX25FSnl2RU9XLXdVdE1kVXBjUGdtYVdNcVh3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU2hnck4tVFhBSnV3OFQ0RmhmVEZMRThRV3dWWVNtZGxuYk1Id1lxZXJNYU03MmpsZjVqUHgtTFQ5S2lYYjdPZzYxdnhWajNKUTJaUHpNVzdiZnliVzF6VzJTbkU2ZlBnVGVuQzJTU0psUFNMUDVraVdGamQ4WXExbWVyMFN5RTNZSG0zSmRraW5vWE5CMldFVXFueDR6eEl4Z2dQQ1pYdGIxNkZUUEZZVTB0Y1pjQVZiVFlsWHZVdHNtVk5ZR2I3aFluaG9oczdILTRkX25FSnl2RU9XLXdVdE1kVXBjUGdtYVdNcVh3?oc=5\" target=\"_blank\">SpaceX eyes overtaking Taiwan Semiconductor and Amazon in the trillion-dollar market-cap club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-07T13:57:19+00:00",
-      "source": "Yahoo Finance"
+      "title": "Amazon dominates Walmart in battle of events - Supermarket News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZURxQUxPUlNhUzZqM05ZVkc4N2dDZTBNSjZyMWswSGYxRDFuZW1PZHc0Ti1vQzBGSUtZc0htU2tHY1lEQ0dMOVRMbDU3dzNvN0xCSVluUVlvVVcxdVlMb2VqYVZZM0pCVlVmd1ZQb1ZmamFKV2dJQUFhLWZIT2ZySzRXSWpjdTRnVzNtRTJvYzhwcjNzR3U0dXlhV2Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZURxQUxPUlNhUzZqM05ZVkc4N2dDZTBNSjZyMWswSGYxRDFuZW1PZHc0Ti1vQzBGSUtZc0htU2tHY1lEQ0dMOVRMbDU3dzNvN0xCSVluUVlvVVcxdVlMb2VqYVZZM0pCVlVmd1ZQb1ZmamFKV2dJQUFhLWZIT2ZySzRXSWpjdTRnVzNtRTJvYzhwcjNzR3U0dXlhV2Y?oc=5\" target=\"_blank\">Amazon dominates Walmart in battle of events</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supermarket News</font>",
+      "published": "2026-10-08T17:40:15+00:00",
+      "source": "Supermarket News"
     },
     {
-      "title": "Getting Ahead Of The Holiday Rush: Amazon And 2 Top Stocks To Buy - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmpvbmxucklHYlZGcVhkTzhWcE1vcjdMSS1rdU1GMnAzdG5CZUE3dlFtV2VJbXU3akVodkhOTFR0azl0LXBUeUVwWTY2Q1JfMXd0OW9tU3R5d0dlV3dhWjlrWTlQcW5PQ2gycHJfM2k2WDVXYTZEMjZFZWZlS0J6NFhaVnJzSFhmLXkzSUlnNUxiYVR1ZDRLVGNiVHhZRlJ5endkYVI5TVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmpvbmxucklHYlZGcVhkTzhWcE1vcjdMSS1rdU1GMnAzdG5CZUE3dlFtV2VJbXU3akVodkhOTFR0azl0LXBUeUVwWTY2Q1JfMXd0OW9tU3R5d0dlV3dhWjlrWTlQcW5PQ2gycHJfM2k2WDVXYTZEMjZFZWZlS0J6NFhaVnJzSFhmLXkzSUlnNUxiYVR1ZDRLVGNiVHhZRlJ5endkYVI5TVE?oc=5\" target=\"_blank\">Getting Ahead Of The Holiday Rush: Amazon And 2 Top Stocks To Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-      "published": "2026-10-06T20:11:23+00:00",
-      "source": "Seeking Alpha"
+      "title": "Amazon employees hit by fresh job cuts across several teams - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTVRemlxOExSVW1Dd2tsMWg3dE1rVnVQbmxFN0EydVlnMmk4amFQZm40MWF6RDFVV1hCTzJDZEp1dVVEN2h0SEx5eUgxQ3NPTXNOQ2FTaEtxN1ByNTZkZkg0VWlROUgzMDZlSXhIU19jWm1KRTZfV1ZMRVBEMXd1S3BzSFA4MFk3anVPSFE0ZVhEdXRjTnRUVmJNVEpVMDlDUFlwYg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTVRemlxOExSVW1Dd2tsMWg3dE1rVnVQbmxFN0EydVlnMmk4amFQZm40MWF6RDFVV1hCTzJDZEp1dVVEN2h0SEx5eUgxQ3NPTXNOQ2FTaEtxN1ByNTZkZkg0VWlROUgzMDZlSXhIU19jWm1KRTZfV1ZMRVBEMXd1S3BzSFA4MFk3anVPSFE0ZVhEdXRjTnRUVmJNVEpVMDlDUFlwYg?oc=5\" target=\"_blank\">Amazon employees hit by fresh job cuts across several teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-10-07T23:48:00+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "Amazon Prime customers could get $200 settlement refunds: Who is eligible for more money? - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGlsc0Z4MWJvN0hmRTZtWGlIQW9RTjVTLUt2R2JicG1ROW9CY3ltbVVwZ2daMkh0cmpQbm9ZREMyblAtXzJ0c1d4ckVlZzJUZWRDNnMzTGxIRWRUekhlQzFRNjVTNmlRQTVLbnVGTjlRNlBINzJabjZVX1NNRFlGZkRwdlFIbzF0bmJmTHo2QUxzQ1BfalpoaTlmWHBZUkJhT0JGWXZ4WjREZ3Q3d1h3YWh2WTN3LXhrYjhZMjRGNHLSAdQBQVVfeXFMTVFxd1ZyNnlkbGdTOTZIcmNhS25hV3pNaElaRnp1NFNiT3pxSWZEc0ZxMmlyV1lBUktrajZ1ajFyaUV4MTBsXzVULVozUHJ0YTlGRGJYUWstZFAwSERHWDBaeVdXUk42Rl83WlM5eXBJR1NhSjludUZibk5DYkFPMXFBdF9NNU5EblhCRFhaSGNvb0FhaEVPTk5kWjBlTjVROHZJRVNESzh0b19CcW5BRzhUUXJJdjB3ZzBVSVdUUmlHcUJnMnItQmtDcl8tZ3hjVHpfZlQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGlsc0Z4MWJvN0hmRTZtWGlIQW9RTjVTLUt2R2JicG1ROW9CY3ltbVVwZ2daMkh0cmpQbm9ZREMyblAtXzJ0c1d4ckVlZzJUZWRDNnMzTGxIRWRUekhlQzFRNjVTNmlRQTVLbnVGTjlRNlBINzJabjZVX1NNRFlGZkRwdlFIbzF0bmJmTHo2QUxzQ1BfalpoaTlmWHBZUkJhT0JGWXZ4WjREZ3Q3d1h3YWh2WTN3LXhrYjhZMjRGNHLSAdQBQVVfeXFMTVFxd1ZyNnlkbGdTOTZIcmNhS25hV3pNaElaRnp1NFNiT3pxSWZEc0ZxMmlyV1lBUktrajZ1ajFyaUV4MTBsXzVULVozUHJ0YTlGRGJYUWstZFAwSERHWDBaeVdXUk42Rl83WlM5eXBJR1NhSjludUZibk5DYkFPMXFBdF9NNU5EblhCRFhaSGNvb0FhaEVPTk5kWjBlTjVROHZJRVNESzh0b19CcW5BRzhUUXJJdjB3ZzBVSVdUUmlHcUJnMnItQmtDcl8tZ3hjVHpfZlQ?oc=5\" target=\"_blank\">Amazon Prime customers could get $200 settlement refunds: Who is eligible for more money?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
-      "published": "2026-10-07T13:00:00+00:00",
-      "source": "AL.com"
+      "title": "Amazon confirms job cuts impacting hundreds of employees in retail unit - GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlBIbVRER3NIV25XUFpXSzdwcWo5cTBMMGpOSEJCRHpVQ3pyNl8wcXg1RTBNSzdIQTk2S0VERDZBZDZROThuOTNLU2VsMzJZWWhOR1Nqd3VldUgyWS1XNFdvR1FIbXBVcWNkU0RwNEVHck5SUFA3Q21Md2pXRDUtdnV2SGdfRVNOSmNZTEN2eGc3RU91ZTVROEJudDU2a2tuZDFodA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlBIbVRER3NIV25XUFpXSzdwcWo5cTBMMGpOSEJCRHpVQ3pyNl8wcXg1RTBNSzdIQTk2S0VERDZBZDZROThuOTNLU2VsMzJZWWhOR1Nqd3VldUgyWS1XNFdvR1FIbXBVcWNkU0RwNEVHck5SUFA3Q21Md2pXRDUtdnV2SGdfRVNOSmNZTEN2eGc3RU91ZTVROEJudDU2a2tuZDFodA?oc=5\" target=\"_blank\">Amazon confirms job cuts impacting hundreds of employees in retail unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "published": "2026-10-08T12:21:33+00:00",
+      "source": "GeekWire"
     },
     {
-      "title": "Amazon is sending more Prime settlement payments. Here’s who is eligible. - KING5.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGZmSUl1S0JYdGd2UWJlT1EzbHhuRHJRelcxdVdLVk02VjJkZkZ6emxRRzlpbWZ1eXdHNEtncDNlSTY1cTBpQkFGaldMQ0RvdFFlQXV1OVhNckRfMFpySUZ0aXFSWHB5SFdMTWRfRnVsUGJJWVJWSUI2djNxY2p4aUdXSFVTeVhXVzBlTmF3YlFmbmZuQkUyaFVTMlozVGJXNXgwU2lVdFV1b09Ield1Tmh4S0xCVFA0VGZkOHlnRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGZmSUl1S0JYdGd2UWJlT1EzbHhuRHJRelcxdVdLVk02VjJkZkZ6emxRRzlpbWZ1eXdHNEtncDNlSTY1cTBpQkFGaldMQ0RvdFFlQXV1OVhNckRfMFpySUZ0aXFSWHB5SFdMTWRfRnVsUGJJWVJWSUI2djNxY2p4aUdXSFVTeVhXVzBlTmF3YlFmbmZuQkUyaFVTMlozVGJXNXgwU2lVdFV1b09Ield1Tmh4S0xCVFA0VGZkOHlnRQ?oc=5\" target=\"_blank\">Amazon is sending more Prime settlement payments. Here’s who is eligible.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KING5.com</font>",
-      "published": "2026-10-07T11:19:00+00:00",
-      "source": "KING5.com"
+      "title": "Amazon cuts retail jobs amid one of its biggest shopping days - FOX 9 Minneapolis-St. Paul",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0M3BkTHVpanI4Zy1qQmhIU0NnNk4tSExBemZuMV9Id0RpejE4bGUzTW1MMGVBR2x1QXNhX09CTXptTXNoa2tKVHo3X09QOXR3QnFxLXdEN0RJdjZHQXkzLXlldTk4MWU0V1NFajN2RQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA0M3BkTHVpanI4Zy1qQmhIU0NnNk4tSExBemZuMV9Id0RpejE4bGUzTW1MMGVBR2x1QXNhX09CTXptTXNoa2tKVHo3X09QOXR3QnFxLXdEN0RJdjZHQXkzLXlldTk4MWU0V1NFajN2RQ?oc=5\" target=\"_blank\">Amazon cuts retail jobs amid one of its biggest shopping days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 9 Minneapolis-St. Paul</font>",
+      "published": "2026-10-08T17:34:58+00:00",
+      "source": "FOX 9 Minneapolis-St. Paul"
     },
     {
-      "title": "Amazon Prime settlement payments are going out. Are you eligible? - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzVpUjJKRk9jUzgtRnUxNnBpTWdWcjJHZDF3a0laQlB4S0k5MmdWUnNqOW0ycjlDdzM5eUZQOUZNMWVPZUVnUnFHLVFjQWtaV2ZEUDh1aTNCeEw5V1VyQXFnemx2WnFHRnFsUDJ6NWlNMFJrN1prWjlfdXpZTDFlc3JUc0FZU1p6VnlfTUo1aTZGVmRaRFNqMlk1UW5ENTdPZ0V6aUd1VUF1ZlR2UWFDUXZlUmVPQmlQSDNxS1diZkV5YUVBYjJaMndYR2tjZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzVpUjJKRk9jUzgtRnUxNnBpTWdWcjJHZDF3a0laQlB4S0k5MmdWUnNqOW0ycjlDdzM5eUZQOUZNMWVPZUVnUnFHLVFjQWtaV2ZEUDh1aTNCeEw5V1VyQXFnemx2WnFHRnFsUDJ6NWlNMFJrN1prWjlfdXpZTDFlc3JUc0FZU1p6VnlfTUo1aTZGVmRaRFNqMlk1UW5ENTdPZ0V6aUd1VUF1ZlR2UWFDUXZlUmVPQmlQSDNxS1diZkV5YUVBYjJaMndYR2tjZw?oc=5\" target=\"_blank\">Amazon Prime settlement payments are going out. Are you eligible?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2026-10-07T14:43:00+00:00",
-      "source": "USA Today"
+      "title": "Amazon's 'About You' pages go viral as users share AI's surprising assumptions. Here's how to see yours - WTHR",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRE5Qd2lmajdObFNwRHA3VWR5b0thMFRuUEgya2lQOHRrTHBEVHBSTThLQ0tTaUJGMnlXdHBKUlFKZnNQd2JXdXZoMEk0ZGpKMG9JZnZXS19QZmkzUWpVUldCMVdadzg3a08zYVI5WnJYUXFnYjktOVNiZHRCZk5LNEhCcUJMei1FdTlUazg0R2ctN1FkclIwUk12WWNXSUV5QUxUbDFZbTVDb21fNTN0a1JqMWdjNVNmZm5DODNrd0wzQ1RIQnd6a3VESEVnbXl5NlJpby1JQnQzc0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRE5Qd2lmajdObFNwRHA3VWR5b0thMFRuUEgya2lQOHRrTHBEVHBSTThLQ0tTaUJGMnlXdHBKUlFKZnNQd2JXdXZoMEk0ZGpKMG9JZnZXS19QZmkzUWpVUldCMVdadzg3a08zYVI5WnJYUXFnYjktOVNiZHRCZk5LNEhCcUJMei1FdTlUazg0R2ctN1FkclIwUk12WWNXSUV5QUxUbDFZbTVDb21fNTN0a1JqMWdjNVNmZm5DODNrd0wzQ1RIQnd6a3VESEVnbXl5NlJpby1JQnQzc0E?oc=5\" target=\"_blank\">Amazon's 'About You' pages go viral as users share AI's surprising assumptions. Here's how to see yours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHR</font>",
+      "published": "2026-10-07T16:18:00+00:00",
+      "source": "WTHR"
+    },
+    {
+      "title": "What does Amazon know about you? The answer is buried in your account info - PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDhGRlRKaENjN1JnNUJsU0EzLW9EMEFuLVA4bTF3ek1KRUJyT1YySlpLSkdlN04xb2ZlT1J6UWs4MUo1TDY5SjJVcmZhdDJtSW5ZcHBoTWI0cDlabkozTTZpYmtNajg0TFYzZXN2UGdFRGw5a2lRajdQX2JuU0I2Qk9nRUZodHdnVFFoUVY5M211cXcyZlpjNkpSMlFUcTN3YzhMd2ZJWmNubWVrM01wT2Z0aDVGNWtzTnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDhGRlRKaENjN1JnNUJsU0EzLW9EMEFuLVA4bTF3ek1KRUJyT1YySlpLSkdlN04xb2ZlT1J6UWs4MUo1TDY5SjJVcmZhdDJtSW5ZcHBoTWI0cDlabkozTTZpYmtNajg0TFYzZXN2UGdFRGw5a2lRajdQX2JuU0I2Qk9nRUZodHdnVFFoUVY5M211cXcyZlpjNkpSMlFUcTN3YzhMd2ZJWmNubWVrM01wT2Z0aDVGNWtzTnc?oc=5\" target=\"_blank\">What does Amazon know about you? The answer is buried in your account info</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font>",
+      "published": "2026-10-07T20:25:58+00:00",
+      "source": "PCWorld"
     }
   ],
   "product_launches": [
+    {
+      "title": "Amazon launches premium Alexa tablets to take on Apple and Samsung - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGRMVnN1TWFaT1U4RGYzOWhDT3ZqTnljY1UxYlVKVFFkaldlYTM0NU1TbVRtMmNLNFR6bGs0d2tpeWdaZ2U4OHFQZGs4UllteWJWNkVrVno0NGpmUEsyNDBOUGhsYkdmVVVZZGVQb295dW9La3hubmdUT2d0dnZ3VTd0UHZmZE14LWpqcFpYdm1UWGstM1RTMXd4VmxsalFJa2lPeEcxMEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGRMVnN1TWFaT1U4RGYzOWhDT3ZqTnljY1UxYlVKVFFkaldlYTM0NU1TbVRtMmNLNFR6bGs0d2tpeWdaZ2U4OHFQZGs4UllteWJWNkVrVno0NGpmUEsyNDBOUGhsYkdmVVVZZGVQb295dW9La3hubmdUT2d0dnZ3VTd0UHZmZE14LWpqcFpYdm1UWGstM1RTMXd4VmxsalFJa2lPeEcxMEk?oc=5\" target=\"_blank\">Amazon launches premium Alexa tablets to take on Apple and Samsung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-10-08T13:00:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Amazon launches 2 new China-to-US air freight options - Supply Chain Dive",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2dEdC13clNPVnlqOGtOaG9DQUJOQmZQRHozVVJqVGxCSGRrUGNpQmUyZXlwNXlfRDNyTUk2bk4wckFudkNEUS0teVRlR3I2M1pjZ1k3bEUwcE5wOGwwdGVjZmNEWFlaX005b0NyRXlLSEtIOFJGWF83Vm5WLS1aSjR3NmpIbUR5LWJOWGF0alNUaFVSN2oyNmFsbU1kQVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2dEdC13clNPVnlqOGtOaG9DQUJOQmZQRHozVVJqVGxCSGRrUGNpQmUyZXlwNXlfRDNyTUk2bk4wckFudkNEUS0teVRlR3I2M1pjZ1k3bEUwcE5wOGwwdGVjZmNEWFlaX005b0NyRXlLSEtIOFJGWF83Vm5WLS1aSjR3NmpIbUR5LWJOWGF0alNUaFVSN2oyNmFsbU1kQVU?oc=5\" target=\"_blank\">Amazon launches 2 new China-to-US air freight options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply Chain Dive</font>",
+      "published": "2026-10-08T13:42:49+00:00",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "title": "Amazon Launches Alexa-Integrated Tablets, Ticker AMZN Sees Mixed Signals from Valuation and Insider Activity - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQajk2STdKRmZhTjg4VG96aElDYVFuQjhtMldXWUlCMXNSQy1BYUh2TzExT21ZWXloVlUxSWw5MDA3V3Y5RXZrTVd2Unh5bVlxeVVRX3FjbWQ3cG1WeWEwUE1oZEtaWE9iU2FyLU5oOXNRR01ROWMwbWNsZ0JkWmZLX3h5U2tXRThWejZBc1lzOFNPOHpvWGxDZDg2V001SjF2Uk5VQ1p6aktjUWQ3U2Y4U092Ym1wX1B6X2hWQW9wUkVvNUhhczdISUJidFo3WEpNc1pZaFNuS1MweE5xUkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQajk2STdKRmZhTjg4VG96aElDYVFuQjhtMldXWUlCMXNSQy1BYUh2TzExT21ZWXloVlUxSWw5MDA3V3Y5RXZrTVd2Unh5bVlxeVVRX3FjbWQ3cG1WeWEwUE1oZEtaWE9iU2FyLU5oOXNRR01ROWMwbWNsZ0JkWmZLX3h5U2tXRThWejZBc1lzOFNPOHpvWGxDZDg2V001SjF2Uk5VQ1p6aktjUWQ3U2Y4U092Ym1wX1B6X2hWQW9wUkVvNUhhczdISUJidFo3WEpNc1pZaFNuS1MweE5xUkE?oc=5\" target=\"_blank\">Amazon Launches Alexa-Integrated Tablets, Ticker AMZN Sees Mixed Signals from Valuation and Insider Activity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+      "published": "2026-10-08T14:29:56+00:00",
+      "source": "GuruFocus"
+    },
     {
       "title": "Amazon announces new tools and services to help sellers go global from day one - About Amazon",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjNWX2F2ckdxRV8yOXZlUWxTZ2g2YXBTUWtUVklhS0xydWxYNVBqLTVudnNCQW1PYU5CdXNvdW83MVE0eUpzTlU0WWVfQ08zMUtpR1ZsNDVlUnRDYVpvc2tWRDJ3MERrWFlkVWdYbEJlUEs3cjB6T2NPQS1rTHVPX0NTYmd0Q0tSblIySmdPOHl0S2Fma1E?oc=5",
@@ -70,46 +91,21 @@
       "source": "About Amazon"
     },
     {
-      "title": "Amazon Launches Prime Big Deal Days Event with Discounts Up to $150 on Tech Products - Nacionale News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2Q4YmVDc09EbHMzSC1rRFZCT3F2cVhXWXZuWEJEWGFXMjJ4UzJRdDZwbTAtUGlxSV9kZV9tT3l3empfT1VJaHJtM2lhNUJRZWN5dlkycFhIX1pteS1xSFlvYkFBOGk5N01Bdk4xQmpxOHowd0Y0a2hQT3EwS2ZVS1hlOUlvWUV5WFo4RVh1NXAtcEdBQ1NrU2tBUDhnM1pXdnhwVkpaWW5QVnN5YlBQbU90NFNMY18zZHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2Q4YmVDc09EbHMzSC1rRFZCT3F2cVhXWXZuWEJEWGFXMjJ4UzJRdDZwbTAtUGlxSV9kZV9tT3l3empfT1VJaHJtM2lhNUJRZWN5dlkycFhIX1pteS1xSFlvYkFBOGk5N01Bdk4xQmpxOHowd0Y0a2hQT3EwS2ZVS1hlOUlvWUV5WFo4RVh1NXAtcEdBQ1NrU2tBUDhnM1pXdnhwVkpaWW5QVnN5YlBQbU90NFNMY18zZHc?oc=5\" target=\"_blank\">Amazon Launches Prime Big Deal Days Event with Discounts Up to $150 on Tech Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nacionale News</font>",
-      "published": "2026-10-07T01:35:09+00:00",
-      "source": "Nacionale News"
-    },
-    {
-      "title": "Amazon reveals deal-drop schedule for October sales event - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc2pLbUpiTmMtRDRWM0xvVlJFcG1ILXJ2UlQzZUgyTDNmWW1Tb3Y1akg2MzdOQ3hndHVZc2xzWjh3Q2IyVjhkaV9pZ2UyQ3FSOFVpMFVMakRPQ193QWxDbGNzc2JfM0QwYmw4TmtKYk5MMUUzNWNoTl9rbjh2dnZFd192cjJ0OC1nSnJnS0dvOHlEWUtpNVZpcDhMTkJYN2pGYWlGaHRHZDZGcm9ndmx0RGdvd1dhLUZuMGpaSWZISklBVUJOMndxVmJTcFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQc2pLbUpiTmMtRDRWM0xvVlJFcG1ILXJ2UlQzZUgyTDNmWW1Tb3Y1akg2MzdOQ3hndHVZc2xzWjh3Q2IyVjhkaV9pZ2UyQ3FSOFVpMFVMakRPQ193QWxDbGNzc2JfM0QwYmw4TmtKYk5MMUUzNWNoTl9rbjh2dnZFd192cjJ0OC1nSnJnS0dvOHlEWUtpNVZpcDhMTkJYN2pGYWlGaHRHZDZGcm9ndmx0RGdvd1dhLUZuMGpaSWZISklBVUJOMndxVmJTcFU?oc=5\" target=\"_blank\">Amazon reveals deal-drop schedule for October sales event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2026-10-05T16:25:00+00:00",
-      "source": "USA Today"
-    },
-    {
-      "title": "K-Beauty Brand Cordiale Receives Amazon’s Choice One Week After U.S. Launch - StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQTAtTFgzSFlEMFFMaVlGSF9JVDNTZlYzTGpnVWl5ckk0RGJrcXp4clhpenNfVUd4bU5vazhGUnpXWGJPZnZlMTAyWHp4R1JnVkNPbE1kOENGTl93eEJQekRQbnh0VVB3WlJLUkl6N3RqeDNHM0h4eUU5eFJtU2RqNWJ2bDQwMjBxUkRITEZtYm1hMU9yYWRHTVE3TmxuRnNDbnlaSzFHMFZJMmdTemtYWk1uSUFKdnR4MlR1LUNSS2FKN1NTd1IzOTFOWUYyLXRab2lpTWFpcm5WQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQTAtTFgzSFlEMFFMaVlGSF9JVDNTZlYzTGpnVWl5ckk0RGJrcXp4clhpenNfVUd4bU5vazhGUnpXWGJPZnZlMTAyWHp4R1JnVkNPbE1kOENGTl93eEJQekRQbnh0VVB3WlJLUkl6N3RqeDNHM0h4eUU5eFJtU2RqNWJ2bDQwMjBxUkRITEZtYm1hMU9yYWRHTVE3TmxuRnNDbnlaSzFHMFZJMmdTemtYWk1uSUFKdnR4MlR1LUNSS2FKN1NTd1IzOTFOWUYyLXRab2lpTWFpcm5WQQ?oc=5\" target=\"_blank\">K-Beauty Brand Cordiale Receives Amazon’s Choice One Week After U.S. Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
-      "published": "2026-10-07T06:29:34+00:00",
-      "source": "StreetInsider"
-    },
-    {
-      "title": "Amazon, Walmart's Flipkart launch review of unlicensed security camera listings on India platforms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWExCdV9BRjVQVHNwb0QyU2F3cE5aNEhsMGR4R3VLLUJ0djVhREUweEk4NnRBMllZSmVjeVp5QThGNFE4VVRJZWk4UHlBMkxMeFloNVU2Z1FMZUxCRHctZ2lXZS0tTFFEREFwUlNLek9QZGhxbnZ2aEd6Z0Fvb0NSRFpCakx0VnY0S1JEWkN6NmlFS3BRdFNBdDdiS2M1ZktHUGtrQ0FtanR2ano0aFNYVWpHVHZDZkYtQ3BPakl4NA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWExCdV9BRjVQVHNwb0QyU2F3cE5aNEhsMGR4R3VLLUJ0djVhREUweEk4NnRBMllZSmVjeVp5QThGNFE4VVRJZWk4UHlBMkxMeFloNVU2Z1FMZUxCRHctZ2lXZS0tTFFEREFwUlNLek9QZGhxbnZ2aEd6Z0Fvb0NSRFpCakx0VnY0S1JEWkN6NmlFS3BRdFNBdDdiS2M1ZktHUGtrQ0FtanR2ano0aFNYVWpHVHZDZkYtQ3BPakl4NA?oc=5\" target=\"_blank\">Amazon, Walmart's Flipkart launch review of unlicensed security camera listings on India platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-01T12:56:15+00:00",
-      "source": "Reuters"
+      "title": "amazon launches new glp 1 weight loss drug program - www.polskieradio.pl",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGlEZHVfb1lUWVJHOUFxMFk4THBzVlR6VEk4SVBlWTZVblQ1a1ozRWJWV1dLWjcxZDlldmt5V093MHZqNzk0SGVSZlFuRVlYYjJMNFQ2VkpMcGNEczU0QTYxWDE5LWs2UXlBY2djUXVjQmlDd3ZVd3cwQkNyT3hySFhKc1hLZDBON0VEWkFZV0IwVmU2RzhRM1JJSjhWR3pPQXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGlEZHVfb1lUWVJHOUFxMFk4THBzVlR6VEk4SVBlWTZVblQ1a1ozRWJWV1dLWjcxZDlldmt5V093MHZqNzk0SGVSZlFuRVlYYjJMNFQ2VkpMcGNEczU0QTYxWDE5LWs2UXlBY2djUXVjQmlDd3ZVd3cwQkNyT3hySFhKc1hLZDBON0VEWkFZV0IwVmU2RzhRM1JJSjhWR3pPQXc?oc=5\" target=\"_blank\">amazon launches new glp 1 weight loss drug program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.polskieradio.pl</font>",
+      "published": "2026-10-08T07:02:49+00:00",
+      "source": "www.polskieradio.pl"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-07",
-      "close": 259.0249938964844
+      "date": "2026-10-08",
+      "close": 254.30999755859375
     },
     "history": [
-      {
-        "date": "2026-09-29",
-        "close": 246.6699981689453
-      },
       {
         "date": "2026-09-30",
         "close": 249.14999389648438
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-07",
-        "close": 259.0249938964844
+        "close": 259.9200134277344
+      },
+      {
+        "date": "2026-10-08",
+        "close": 254.30999755859375
       }
     ],
     "name": "Amazon.com, Inc."
