@@ -2,8 +2,15 @@
   "name": "Apple",
   "slug": "apple",
   "ticker": "AAPL",
-  "fetched_at": "2026-10-11T17:00:26.627704+00:00",
+  "fetched_at": "2026-10-12T20:35:15.998450+00:00",
   "news": [
+    {
+      "title": "Apple’s New Smart Home Hub Is Reportedly Called HomeView and Will Ship in November - CNET",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNXM4dlFqRWtqcFpoeXdqcjRUbk1UdTBjMGpoelN3Z1ZHbVFlVHlqWlE0cEk5aV8zSm5yV2ZtVVBNeDViMUJ6UmJmNDFjaGtMLW5iTzh1Mjc5S2twR3h2Q3I0dXlETE8ybTE0RQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNXM4dlFqRWtqcFpoeXdqcjRUbk1UdTBjMGpoelN3Z1ZHbVFlVHlqWlE0cEk5aV8zSm5yV2ZtVVBNeDViMUJ6UmJmNDFjaGtMLW5iTzh1Mjc5S2twR3h2Q3I0dXlETE8ybTE0RQ?oc=5\" target=\"_blank\">Apple’s New Smart Home Hub Is Reportedly Called HomeView and Will Ship in November</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-10-11T17:35:39+00:00",
+      "source": "CNET"
+    },
     {
       "title": "Apple Is About to Close the Biggest Hole In Its Ecosystem With HomeView - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1FGR2Jka0hNUTZ0M01oOWdJbXRRZ1V6dlJjVG1qRV9xQUkxQmRaQlF6aGQ2TWNGeVNQZUxTaEs3QWFZRXpIc1RHVURSLWE4bk1rQnhVWWZjMWUybkIyMTNLY3pMVEhtTWVqNmhteGEzYXF2N2xFZlVkRnY4VW8wRTFBYWFZQmFHcjdrTFpqUTF5R092NUxITE16VTdQTzg1b0dadVQ0cXBBSS02cUc0aE95R0l6Mzl0VWg3QkFPNnp3dw?oc=5",
@@ -12,56 +19,70 @@
       "source": "Bloomberg.com"
     },
     {
-      "title": "Report: Apple 'HomeView' smart home hub will ship in November, come in four colors, A18 chip - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSzhXVTVXcW5SR09ocXl3b0ViaE51ZVpZcjJ3Sm1VeklYRmcyRzFSbl80a2RaV0owVThndi0yeU9taEhLTHdfd1NOSUt5ZG01RGt2Yy1nbmEwUUEzb0tYWmZVXzZVbmtYZEZKVlFrNzJUYUoxUGNFeDJjY25tX3NLaFVn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSzhXVTVXcW5SR09ocXl3b0ViaE51ZVpZcjJ3Sm1VeklYRmcyRzFSbl80a2RaV0owVThndi0yeU9taEhLTHdfd1NOSUt5ZG01RGt2Yy1nbmEwUUEzb0tYWmZVXzZVbmtYZEZKVlFrNzJUYUoxUGNFeDJjY25tX3NLaFVn?oc=5\" target=\"_blank\">Report: Apple 'HomeView' smart home hub will ship in November, come in four colors, A18 chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
-      "published": "2026-10-11T14:09:00+00:00",
+      "title": "How Apple can win the smart home - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44NEdVUmtOT2NTTy1PLVpnNkVjMVNyVjRLNmc4N1JTQ19YYktqLWJqYUVfc0hGemIwQUx1elpQM1FKaFhuQms0cUtRMU1mOWVjVmJjT2JtVGk3N05ZSkdIN2FQc0gzLWxBV25wZ0VSZEFrd0ZVTXBqU0hB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44NEdVUmtOT2NTTy1PLVpnNkVjMVNyVjRLNmc4N1JTQ19YYktqLWJqYUVfc0hGemIwQUx1elpQM1FKaFhuQms0cUtRMU1mOWVjVmJjT2JtVGk3N05ZSkdIN2FQc0gzLWxBV25wZ0VSZEFrd0ZVTXBqU0hB?oc=5\" target=\"_blank\">How Apple can win the smart home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-12T12:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlk5blAzMUFTejNmYnljempFemZxSzVPMElyU2V6OUJUVm1hcWFNY2dZMmJNWjEweU9SWEYyZkFHYUh5Tm9NZDczSl9mSXcySHRMUi1MRmE3dHFvTzRtRThoUkM3SmNZYk1nanVPbkVKNGVpZUc4bDl2VjZscEI4eG5WRlJJa2ZMemI4M1lnbUswZzAyWWstZTFZWFBhN2ZCUTlMRXhOMUNUOXJUanU0czBxc05ad0hMWThVR213OTZrSGhkSUN6X0Rn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZlk5blAzMUFTejNmYnljempFemZxSzVPMElyU2V6OUJUVm1hcWFNY2dZMmJNWjEweU9SWEYyZkFHYUh5Tm9NZDczSl9mSXcySHRMUi1MRmE3dHFvTzRtRThoUkM3SmNZYk1nanVPbkVKNGVpZUc4bDl2VjZscEI4eG5WRlJJa2ZMemI4M1lnbUswZzAyWWstZTFZWFBhN2ZCUTlMRXhOMUNUOXJUanU0czBxc05ad0hMWThVR213OTZrSGhkSUN6X0Rn?oc=5\" target=\"_blank\">iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-10-12T06:01:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Apple gains smartphone share as stock nears record high - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFNEUmpfRG1nV3o1QVFLUXNZN0hVb2pCc3RuaF9wbWtGYkgtRXNva3R3LVRudmNiRUstM2ZEZHE4N1A3bWxVMWktd19pZGFiRDQzcTVrclRiYWVPTXQ0Wm54LV9oZHg3Wlp6dDBGQkVUcTF2WlVJUGwtX25pdnhBcFhJWWh2WnlCcmFyTjcteEpaMnpNY0pZQ1ZRNURvX0k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFNEUmpfRG1nV3o1QVFLUXNZN0hVb2pCc3RuaF9wbWtGYkgtRXNva3R3LVRudmNiRUstM2ZEZHE4N1A3bWxVMWktd19pZGFiRDQzcTVrclRiYWVPTXQ0Wm54LV9oZHg3Wlp6dDBGQkVUcTF2WlVJUGwtX25pdnhBcFhJWWh2WnlCcmFyTjcteEpaMnpNY0pZQ1ZRNURvX0k?oc=5\" target=\"_blank\">Apple gains smartphone share as stock nears record high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-10-12T20:10:10+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple has reportedly increased its iPhone Duo orders by 30% - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1p3MEMyekNFNjZ2QnlDNnhrZ2xfSWhoY3E4RTZKZnFrSE1Pcnp3S3RicjdVRkQ1TnBlNUpVVmxXb0VURlB1YkRPcndEOWdyTmk4ZXhMQWZYanRCdUFIcDNuaC1sT09YbG42MUdwb3lpV3VWR3dNSTR4RG1CNzVHYWg3SmlXZGVsLXdJRkRIOHVRRGIt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1p3MEMyekNFNjZ2QnlDNnhrZ2xfSWhoY3E4RTZKZnFrSE1Pcnp3S3RicjdVRkQ1TnBlNUpVVmxXb0VURlB1YkRPcndEOWdyTmk4ZXhMQWZYanRCdUFIcDNuaC1sT09YbG42MUdwb3lpV3VWR3dNSTR4RG1CNzVHYWg3SmlXZGVsLXdJRkRIOHVRRGIt?oc=5\" target=\"_blank\">Apple has reportedly increased its iPhone Duo orders by 30%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-10-12T14:53:00+00:00",
       "source": "9to5Mac"
     },
     {
-      "title": "Apple HomeView Smart Hub to Ship in Mid-November in Four Colors - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzA1bmc2RzZaVklPcDk5b2MyVkJiTkpNaThzLVhSYlg2LThYNFAyVVNUYXJQdWxySUJpQmZtdmhzQmlEQ0p6QzFnVXVQNlkxNjVuYnlZN1RjREpIZ0RjenBLSUlaNWFyZlJEcGVXWmx4aERfMFdXaWl6VDZQemFzc1VnOGNVWjY3SHNB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzA1bmc2RzZaVklPcDk5b2MyVkJiTkpNaThzLVhSYlg2LThYNFAyVVNUYXJQdWxySUJpQmZtdmhzQmlEQ0p6QzFnVXVQNlkxNjVuYnlZN1RjREpIZ0RjenBLSUlaNWFyZlJEcGVXWmx4aERfMFdXaWl6VDZQemFzc1VnOGNVWjY3SHNB?oc=5\" target=\"_blank\">Apple HomeView Smart Hub to Ship in Mid-November in Four Colors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-10-11T15:18:41+00:00",
-      "source": "MacRumors"
+      "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajhQU09FRU9CMlpJcUphWno2WjJjMEtBblIxbm9tOW5URHVDd0pmRkM4NzVrTF9EQ0czTzg3ZWotTFpfNTY3Z01sWWQ0akJSQzFfakZNUUZaWXFaYVdQMkFpOXdYemk5TUcxSHhxSFF6Z3lMQWJhZUVZQ0x5aWNHcDg4YThPVGYxamVubGlwZVJBZ0E1ai1qV2RCd1RvSldjMkYxbEZkak5YeGg3MTNJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPajhQU09FRU9CMlpJcUphWno2WjJjMEtBblIxbm9tOW5URHVDd0pmRkM4NzVrTF9EQ0czTzg3ZWotTFpfNTY3Z01sWWQ0akJSQzFfakZNUUZaWXFaYVdQMkFpOXdYemk5TUcxSHhxSFF6Z3lMQWJhZUVZQ0x5aWNHcDg4YThPVGYxamVubGlwZVJBZ0E1ai1qV2RCd1RvSldjMkYxbEZkak5YeGg3MTNJ?oc=5\" target=\"_blank\">Apple planning huge iPhone Duo demo experiences at select retail stores: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font>",
+      "published": "2026-10-11T14:31:00+00:00",
+      "source": "9to5Mac"
     },
     {
-      "title": "Your phone can fix badly framed photos after you take them - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FSDF3N3hoeFVzQzA3aTRhWWt4ZUpuNHNmeUROMUE2MXZDdjlZVzRvay1CMEk4SEd0WUxhbG9iY1huMXF4RFk3cnVSZTdxY3pwTVBvZkdQN3RBMFM3YTBKRDJkLXpHRlBXOUlZcGhicjJ5MlljRjY4V3ZNYTJnQ2vSAYQBQVVfeXFMTkVnZkpzRlNhVFdiRmZnWlZVOGk1cDZjWkE3OTJGWWVJdWVPVklFOHVjNmJkZm9XZlkyam1EcGVwMjFtQVdWVVdvMm1KNjVXVW56M2FDY0hnTnVnbEN0ZGl0a2ZsUXZjY1dJZFB0U3p6eGxPWGhMZ05LcXVNYkVld1dfS3hO?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1FSDF3N3hoeFVzQzA3aTRhWWt4ZUpuNHNmeUROMUE2MXZDdjlZVzRvay1CMEk4SEd0WUxhbG9iY1huMXF4RFk3cnVSZTdxY3pwTVBvZkdQN3RBMFM3YTBKRDJkLXpHRlBXOUlZcGhicjJ5MlljRjY4V3ZNYTJnQ2vSAYQBQVVfeXFMTkVnZkpzRlNhVFdiRmZnWlZVOGk1cDZjWkE3OTJGWWVJdWVPVklFOHVjNmJkZm9XZlkyam1EcGVwMjFtQVdWVVdvMm1KNjVXVW56M2FDY0hnTnVnbEN0ZGl0a2ZsUXZjY1dJZFB0U3p6eGxPWGhMZ05LcXVNYkVld1dfS3hO?oc=5\" target=\"_blank\">Your phone can fix badly framed photos after you take them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-      "published": "2026-10-11T15:37:02+00:00",
-      "source": "Fox News"
-    },
-    {
-      "title": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5\" target=\"_blank\">Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-10T09:53:58+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Apple Shares Dip After Report Says It’s Cutting iPhone 18 Pro Component Orders - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEtkYkhuQ2NtaWV1UV9EYzVlcjNNMncyQUJLT254ODhjZ2NtY2RremtRX21uMUtNdjlWZkQ1bHhlXzY4QnRMNkRDWWt6VEh4dThGYndQSVJMUXV5YVJ6WHkzbW1rSmw4Sl9aRXktbndoVktGU0pGb2VpcTNtc25QX2l4dUxjWHNuNmN3SHlvbER3WjhsRGhzNjB4bEozNE9RZ1BBU09RSm5YVVNGYTRISVJHQkNRdzYxNDhJQ0Nxamc0LVc4aWp2bW1iNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEtkYkhuQ2NtaWV1UV9EYzVlcjNNMncyQUJLT254ODhjZ2NtY2RremtRX21uMUtNdjlWZkQ1bHhlXzY4QnRMNkRDWWt6VEh4dThGYndQSVJMUXV5YVJ6WHkzbW1rSmw4Sl9aRXktbndoVktGU0pGb2VpcTNtc25QX2l4dUxjWHNuNmN3SHlvbER3WjhsRGhzNjB4bEozNE9RZ1BBU09RSm5YVVNGYTRISVJHQkNRdzYxNDhJQ0Nxamc0LVc4aWp2bW1iNA?oc=5\" target=\"_blank\">Apple Shares Dip After Report Says It’s Cutting iPhone 18 Pro Component Orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "published": "2026-10-09T09:38:03+00:00",
-      "source": "Forbes"
-    },
-    {
-      "title": "I Tested the iPhone 18 Pro Camera for a Week, and Its Best Feature Isn't What Apple Is Telling You - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUFKYUN6dVBoeF9yTXFyZTIwZDc5enB0bjFRTG9iLWFVTnBiYUJQTVZsZzdKVFBVZTVUSGFZSEc0dmI5WlJkemU0T1JOZVIzaDgxNzhlbm12QXJlbnB4RUNlZnlfWC0waTdWNFU0N0Jqbmg1SUR1bW9SXzc5Ri1PdHQ4WHhyaG1yVDFKdFRtUDV4dkZMbE4tbnp2bjFFZm5adTlJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUFKYUN6dVBoeF9yTXFyZTIwZDc5enB0bjFRTG9iLWFVTnBiYUJQTVZsZzdKVFBVZTVUSGFZSEc0dmI5WlJkemU0T1JOZVIzaDgxNzhlbm12QXJlbnB4RUNlZnlfWC0waTdWNFU0N0Jqbmg1SUR1bW9SXzc5Ri1PdHQ4WHhyaG1yVDFKdFRtUDV4dkZMbE4tbnp2bjFFZm5adTlJ?oc=5\" target=\"_blank\">I Tested the iPhone 18 Pro Camera for a Week, and Its Best Feature Isn't What Apple Is Telling You</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-10-10T18:06:34+00:00",
-      "source": "PCMag"
-    },
-    {
-      "title": "Big Apple Family Restaurant in Princeton catches fire - KWQC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcThvbWhza1ZoWXZzOTRLN1N2VmswREZJY1NlcF95X21zVy15cU1wcXRmTlgzemJRSEVoWlpoWXYtdW1OZlVCWU1iMEJJX052eTJDS0RkTWlsdEJRUDZSaC1pTmVVUU8wV21BR3N4Ym1JSUtYMXBwN1dOZTlWQkVxZENtY0lRbGhKT0U40gGfAUFVX3lxTE5Fc3VHOUVJaFNqN1d4LVhOX3NiYWhmbnFYVTd1MU9fcVRDYUNUb0hkbXJTalVHV1BKMGlLT2M4SFlKTUJtTjk5dm9IRW44RFFHOUptMjcxT1Btd1VFOGgwWWUzQWZpcFdjaloycUJVOERLTVMzOGp4OEV1TnNhbkk4NjJZYjhGV2ZoeVRIMzV5WmpuMm5JS21rQ0twdmJSZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcThvbWhza1ZoWXZzOTRLN1N2VmswREZJY1NlcF95X21zVy15cU1wcXRmTlgzemJRSEVoWlpoWXYtdW1OZlVCWU1iMEJJX052eTJDS0RkTWlsdEJRUDZSaC1pTmVVUU8wV21BR3N4Ym1JSUtYMXBwN1dOZTlWQkVxZENtY0lRbGhKT0U40gGfAUFVX3lxTE5Fc3VHOUVJaFNqN1d4LVhOX3NiYWhmbnFYVTd1MU9fcVRDYUNUb0hkbXJTalVHV1BKMGlLT2M4SFlKTUJtTjk5dm9IRW44RFFHOUptMjcxT1Btd1VFOGgwWWUzQWZpcFdjaloycUJVOERLTVMzOGp4OEV1TnNhbkk4NjJZYjhGV2ZoeVRIMzV5WmpuMm5JS21rQ0twdmJSZw?oc=5\" target=\"_blank\">Big Apple Family Restaurant in Princeton catches fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWQC</font>",
-      "published": "2026-10-11T01:44:00+00:00",
-      "source": "KWQC"
+      "title": "Grab an Apple Pencil for $69 and Upgrade Your iPhone Duo Experience - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTEk4TC15Ym1nWnN2RzNwYVlBM19YcVRPN2FES0NyU3E3YVFNYlF4LXNhQWlVaEpJd2NidHlRc1VLVGJPYy1MQmh4NUxjeDJhM25vOXZMRURJWFlMOEdJbg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTEk4TC15Ym1nWnN2RzNwYVlBM19YcVRPN2FES0NyU3E3YVFNYlF4LXNhQWlVaEpJd2NidHlRc1VLVGJPYy1MQmh4NUxjeDJhM25vOXZMRURJWFlMOEdJbg?oc=5\" target=\"_blank\">Grab an Apple Pencil for $69 and Upgrade Your iPhone Duo Experience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font>",
+      "published": "2026-10-12T19:29:29+00:00",
+      "source": "CNET"
     }
   ],
   "product_launches": [
+    {
+      "title": "Apple 'Welcome Home' Launch: Everything to Expect Tomorrow - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tQjZ6M2NmdVJPTUYwOUgzdjA5X2UzemhYS1JWVEQzT2gyenEzdTZQQkl3ZUNMb1pUM2hlckV1amVfNTdzMmtXd2FyZ01EcFJwYURMMVZfYmYxTTJkT2c1QUhPQlpTeG40VjZRZ0dhU0ZxMk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9tQjZ6M2NmdVJPTUYwOUgzdjA5X2UzemhYS1JWVEQzT2gyenEzdTZQQkl3ZUNMb1pUM2hlckV1amVfNTdzMmtXd2FyZ01EcFJwYURMMVZfYmYxTTJkT2c1QUhPQlpTeG40VjZRZ0dhU0ZxMk0?oc=5\" target=\"_blank\">Apple 'Welcome Home' Launch: Everything to Expect Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
+      "published": "2026-10-12T17:17:00+00:00",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Is About to Close the Biggest Hole In Its Ecosystem With HomeView - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1FGR2Jka0hNUTZ0M01oOWdJbXRRZ1V6dlJjVG1qRV9xQUkxQmRaQlF6aGQ2TWNGeVNQZUxTaEs3QWFZRXpIc1RHVURSLWE4bk1rQnhVWWZjMWUybkIyMTNLY3pMVEhtTWVqNmhteGEzYXF2N2xFZlVkRnY4VW8wRTFBYWFZQmFHcjdrTFpqUTF5R092NUxITE16VTdQTzg1b0dadVQ0cXBBSS02cUc0aE95R0l6Mzl0VWg3QkFPNnp3dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1FGR2Jka0hNUTZ0M01oOWdJbXRRZ1V6dlJjVG1qRV9xQUkxQmRaQlF6aGQ2TWNGeVNQZUxTaEs3QWFZRXpIc1RHVURSLWE4bk1rQnhVWWZjMWUybkIyMTNLY3pMVEhtTWVqNmhteGEzYXF2N2xFZlVkRnY4VW8wRTFBYWFZQmFHcjdrTFpqUTF5R092NUxITE16VTdQTzg1b0dadVQ0cXBBSS02cUc0aE95R0l6Mzl0VWg3QkFPNnp3dw?oc=5\" target=\"_blank\">Apple Is About to Close the Biggest Hole In Its Ecosystem With HomeView</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-10-11T14:00:02+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "What to expect from Apple's October 13 'Welcome home' releases - AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dPTl9zajNjZ1ZtYkVqMV9WemlFcm93b0hhZXJrbjdLY1R4c3ZvZkR4Yy0yUDJJaW5EYTJPLWdPLXFCSVhWd3A2cU9TV3k2VTlkVWN2enhCX0VOMGtPcnBUeG10eHhzWmEwVkVqR0lLQ0FIXzU3REFNQjN5MVU3VkJ0cXhEYnhJMUxUSElWS0VyNHR5bWVRcTNVdHdJRWR5UkJLUA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dPTl9zajNjZ1ZtYkVqMV9WemlFcm93b0hhZXJrbjdLY1R4c3ZvZkR4Yy0yUDJJaW5EYTJPLWdPLXFCSVhWd3A2cU9TV3k2VTlkVWN2enhCX0VOMGtPcnBUeG10eHhzWmEwVkVqR0lLQ0FIXzU3REFNQjN5MVU3VkJ0cXhEYnhJMUxUSElWS0VyNHR5bWVRcTNVdHdJRWR5UkJLUA?oc=5\" target=\"_blank\">What to expect from Apple's October 13 'Welcome home' releases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font>",
+      "published": "2026-10-12T12:20:00+00:00",
+      "source": "AppleInsider"
+    },
     {
       "title": "Apple will launch 7+ new products in October, here’s what’s coming - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjdLeWRoN2RzaTRZVUJWQmxwNFdOMmx3aDZNWTVqc3cwZjVtWm1XLW9mY08xcHNNU2NHaUxoMWFYcFJRd253U2NiNEZSUlI2NGZjUjBUUnRLQ3JrQlo0QXJRR1JqOFA3NUZod3hXX05FRURBbXZNbUo5ZFYtTUFaSnR5b3ZmaGN0bEprWk1xQ2ZDYXFTZE1KUldn?oc=5",
@@ -70,46 +91,21 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Product Launch Announced for October 13: 'Welcome Home' - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ybjJ3VC01ZXljQ0htQUdGcFdmWUJiSG5EMVNvT3lwbXlpcmNHcW1id0cxdlhwbk90d2NpZTFQTHo4eTRGUjEtamJiVlJtZ3pkU3QyeGVoUWZPV25hcjNraWxrX2xxMHRvMkRQZ0FsR3RrZm43SUoxVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4ybjJ3VC01ZXljQ0htQUdGcFdmWUJiSG5EMVNvT3lwbXlpcmNHcW1id0cxdlhwbk90d2NpZTFQTHo4eTRGUjEtamJiVlJtZ3pkU3QyeGVoUWZPV25hcjNraWxrX2xxMHRvMkRQZ0FsR3RrZm43SUoxVQ?oc=5\" target=\"_blank\">Apple Product Launch Announced for October 13: 'Welcome Home'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font>",
-      "published": "2026-10-08T16:04:12+00:00",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Everything Apple could still launch before the end of 2026 - Macworld",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmszS2FVUEdhSXpxSVpMV0RuekNCbkExbWlUZDU0ckwtaGNfUkw1MjJEX01OTklia3JwamViXzdIRzQzMVMydGhJdnFKMXd0UG90ODM0UEF0WWd1S1pvSnFWLWJnanpDWjB6Z3E2azZpYTI2UlR4YzNaOXp4THI3YXl4bXZadWJGUzgwM25n?oc=5\" target=\"_blank\">Everything Apple could still launch before the end of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font>",
-      "published": "2026-10-07T07:00:00+00:00",
-      "source": "Macworld"
-    },
-    {
-      "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDI2NElweWp0cUlOSVROTjNaZTJBbk55eVFEWUdhcGpIdW9tcXdzRC1sV3dzemdwdlBUSUhPVUVxWThWS3NBZDNEMDhqZjVFcXRvQW9reGs3QjBuVzBTdmpQc2c3MHQ1Ql9WNnh6emJEYWJ2VVFpR1JlUXM1bFlpWTJjaW1oRnN6cGRHeTBWdzM1S0t6SVlrZnhKb1lib2N0QUVsU09lMUVZTVJoWXpVdGVacXpRelFWWFYxd0pJb1Z0QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDI2NElweWp0cUlOSVROTjNaZTJBbk55eVFEWUdhcGpIdW9tcXdzRC1sV3dzemdwdlBUSUhPVUVxWThWS3NBZDNEMDhqZjVFcXRvQW9reGs3QjBuVzBTdmpQc2c3MHQ1Ql9WNnh6emJEYWJ2VVFpR1JlUXM1bFlpWTJjaW1oRnN6cGRHeTBWdzM1S0t6SVlrZnhKb1lib2N0QUVsU09lMUVZTVJoWXpVdGVacXpRelFWWFYxd0pJb1Z0QQ?oc=5\" target=\"_blank\">Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-10-08T20:00:08+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide - Apple",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjRHeTZUSnUyXzZYN3VDYW9LNWZsTU8xOUdkeGVRU3A5NUxjb1h1bWJlWTBVaUhDREhtUzI5MTBubWVZbUtzZ1ZXVUZkVUFrM3RkVFp3dFh3UWhmWC1sc1JsbUg4STgzRlcwMXRZUGR5TVN5bkt3RFdsX3FGZ3g1NDNRTlFRVlFEbG9ac1hFWUNlTXhXd1Nud3duRFBFd2RMU3VQNlNKWjZyRlBsUlJsUHNqYWZ1ZEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjRHeTZUSnUyXzZYN3VDYW9LNWZsTU8xOUdkeGVRU3A5NUxjb1h1bWJlWTBVaUhDREhtUzI5MTBubWVZbUtzZ1ZXVUZkVUFrM3RkVFp3dFh3UWhmWC1sc1JsbUg4STgzRlcwMXRZUGR5TVN5bkt3RFdsX3FGZ3g1NDNRTlFRVlFEbG9ac1hFWUNlTXhXd1Nud3duRFBFd2RMU3VQNlNKWjZyRlBsUlJsUHNqYWZ1ZEE?oc=5\" target=\"_blank\">The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apple</font>",
-      "published": "2026-09-18T07:00:00+00:00",
-      "source": "Apple"
+      "title": "October 13 Product Launch for Apple Announced - www.ilounge.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOendOd01oTzJRQWxEWnVuS01rSzEtQXpkZVk0MkpoSTJXdUFCY3VURUdmQnVDd3VDNlVHQXM1dmFPN0lmSGtuUWxyZVdSRlpDbzVtdVpBam4xSC1ELXVPcUFkbmRaWnZYcmtfcmk2QjJMYzlZbnpMcHNTcmctVEl0aThGYk91REk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOendOd01oTzJRQWxEWnVuS01rSzEtQXpkZVk0MkpoSTJXdUFCY3VURUdmQnVDd3VDNlVHQXM1dmFPN0lmSGtuUWxyZVdSRlpDbzVtdVpBam4xSC1ELXVPcUFkbmRaWnZYcmtfcmk2QjJMYzlZbnpMcHNTcmctVEl0aThGYk91REk?oc=5\" target=\"_blank\">October 13 Product Launch for Apple Announced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.ilounge.com</font>",
+      "published": "2026-10-12T18:07:29+00:00",
+      "source": "www.ilounge.com"
     }
   ],
   "stock": {
     "ticker": "AAPL",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-09",
-      "close": 336.6400146484375
+      "date": "2026-10-12",
+      "close": 340.9700012207031
     },
     "history": [
-      {
-        "date": "2026-10-01",
-        "close": 330.32000732421875
-      },
       {
         "date": "2026-10-02",
         "close": 333.69000244140625
@@ -133,6 +129,10 @@
       {
         "date": "2026-10-09",
         "close": 336.6400146484375
+      },
+      {
+        "date": "2026-10-12",
+        "close": 340.9700012207031
       }
     ],
     "name": "Apple Inc."
