@@ -2,79 +2,72 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-10-13T18:39:24.803188+00:00",
+  "fetched_at": "2026-10-14T16:09:58.093269+00:00",
   "news": [
-    {
-      "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5\" target=\"_blank\">Nvidia's China AI-chip share falls as Huawei closes gap, report finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-13T02:33:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - Cisco Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVo3M2FCNkl0RU44dmtMQ2I5d3BvRS02Z1hxQTZidEhsaGZ6ajd2RlFaZ21rTHNLNElfdVBBQm91UGJvMkZuZEtOcTBGY1dqX0J3YlpyS1NDRzJCU3lXMWxfOU5rU1dwZWRGb2w3MjRSX1J2U3c2WVNjOVRqQWVuSFgwZzhrWmh5VEQ1bGNDS0IwbzllMVVocXdiakoxazdNaFlZREZncklpeVdSODJKUnF0LWVYeWd1MDRjLVMzYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVo3M2FCNkl0RU44dmtMQ2I5d3BvRS02Z1hxQTZidEhsaGZ6ajd2RlFaZ21rTHNLNElfdVBBQm91UGJvMkZuZEtOcTBGY1dqX0J3YlpyS1NDRzJCU3lXMWxfOU5rU1dwZWRGb2w3MjRSX1J2U3c2WVNjOVRqQWVuSFgwZzhrWmh5VEQ1bGNDS0IwbzllMVVocXdiakoxazdNaFlZREZncklpeVdSODJKUnF0LWVYeWd1MDRjLVMzYw?oc=5\" target=\"_blank\">NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cisco Newsroom</font>",
-      "published": "2026-10-12T15:09:14+00:00",
-      "source": "Cisco Newsroom"
-    },
     {
       "title": "Nvidia’s Huang Plans $2 Billion in Europe AI Deals in Next Week - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTUyMWwxLUpnYVFUYlNzVS1YS0d5UkpaWXhsbmZ6U08xMmNKUTFSU01rSTRjN0Z4UF9hTG0tajg4TFZqZExYVS1oZkxJWlNFM0hBc2ctbUZBU1htclhwWVB6ajludXpVT3NDZ21YaEk3UExON3ZpZVF3YU1ycDI2MS0tVU1jelR5N3F2emRKT2JDcUE4V3hiUzlxY21SNXBXdHl1YzJWREFfY2I3cWhEa2Z0VQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTUyMWwxLUpnYVFUYlNzVS1YS0d5UkpaWXhsbmZ6U08xMmNKUTFSU01rSTRjN0Z4UF9hTG0tajg4TFZqZExYVS1oZkxJWlNFM0hBc2ctbUZBU1htclhwWVB6ajludXpVT3NDZ21YaEk3UExON3ZpZVF3YU1ycDI2MS0tVU1jelR5N3F2emRKT2JDcUE4V3hiUzlxY21SNXBXdHl1YzJWREFfY2I3cWhEa2Z0VQ?oc=5\" target=\"_blank\">Nvidia’s Huang Plans $2 Billion in Europe AI Deals in Next Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-10-13T16:07:12+00:00",
+      "published": "2026-10-13T20:15:31+00:00",
       "source": "Bloomberg.com"
     },
     {
-      "title": "Nvidia's Jensen Huang is planning $2 billion in new European AI investments - Quartz",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hd2wwbTVNdkpxTWduLUYxQ2h3bnVwb1lCYTdMR0NUbjNkMFBva0tQb3JkMmY4UVpSQ1pFSmU3MzlHRTNhU3NaOVpKU3VRTlNMaU9uN1YwVVFUUHZxeUktWnlfd0J1SUNIM2pmRjhudE0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9hd2wwbTVNdkpxTWduLUYxQ2h3bnVwb1lCYTdMR0NUbjNkMFBva0tQb3JkMmY4UVpSQ1pFSmU3MzlHRTNhU3NaOVpKU3VRTlNMaU9uN1YwVVFUUHZxeUktWnlfd0J1SUNIM2pmRjhudE0?oc=5\" target=\"_blank\">Nvidia's Jensen Huang is planning $2 billion in new European AI investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
-      "published": "2026-10-13T17:24:56+00:00",
-      "source": "Quartz"
+      "title": "Nvidia CEO Jensen Huang 'optimistic' on AI risks, sovereignty and jobs - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVNuZndDRk9kcGNna2F1Q3hqeTJMQUdqekJYSGFrMmtxWDhka1BEU3BPd2hldV9HdkwwX0ZwSFhGdTI1bjl5V3FrQTVQT1lRZWp2UjhRblNKbWVCODJjQlBSTGhWYXJaRWVNaUJnTWMyUzRXYWNSX0F2cmk5OUFGNzRCRU9UbVdqSVlrWENNNGxxX05hQXFWa2k2M1A2Y3VxWnBpTVZBYm94WTh4ZFVFQkRqMW91cXh5ZHNoX2cxbUJQem5GbzhZR3YyQmdjRHNnQnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVNuZndDRk9kcGNna2F1Q3hqeTJMQUdqekJYSGFrMmtxWDhka1BEU3BPd2hldV9HdkwwX0ZwSFhGdTI1bjl5V3FrQTVQT1lRZWp2UjhRblNKbWVCODJjQlBSTGhWYXJaRWVNaUJnTWMyUzRXYWNSX0F2cmk5OUFGNzRCRU9UbVdqSVlrWENNNGxxX05hQXFWa2k2M1A2Y3VxWnBpTVZBYm94WTh4ZFVFQkRqMW91cXh5ZHNoX2cxbUJQem5GbzhZR3YyQmdjRHNnQnc?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang 'optimistic' on AI risks, sovereignty and jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Monde.fr</font>",
+      "published": "2026-10-14T15:29:53+00:00",
+      "source": "Le Monde.fr"
     },
     {
-      "title": "Nvidia says to invest in French medical website - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkl6OTRZM0loQ2NLZ1VOS19ETmtnVGtDSW1UM201NVBnbllsS0tRY3ZjaDhXX3N5bkZZUFJSOVViSVkzbmVMeXdwcDMzaDVMS2ItdDFNYkExVmNVRHJYVFktdGNpUmRYY25wNmZTN2hXVV9nWTItdHpNUWE1eTd1Z256eXRfMng2R2U5QXNaZWxMbU9ybGpYNDFn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkl6OTRZM0loQ2NLZ1VOS19ETmtnVGtDSW1UM201NVBnbllsS0tRY3ZjaDhXX3N5bkZZUFJSOVViSVkzbmVMeXdwcDMzaDVMS2ItdDFNYkExVmNVRHJYVFktdGNpUmRYY25wNmZTN2hXVV9nWTItdHpNUWE1eTd1Z256eXRfMng2R2U5QXNaZWxMbU9ybGpYNDFn?oc=5\" target=\"_blank\">Nvidia says to invest in French medical website</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-13T17:53:32+00:00",
+      "title": "Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success - Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUJBTldZX29weW5oQVlab0tDYmwwNUw0OHNORkttaVFkUDBFVFd2Ul9iSS1MWXRKdUQ3VlJDMUMzbjhTczNhN3VBSms1YWVuMXVOdzhNd2gwbGZORVZoaHpFSUFoakZLQmQ0amVvb2pRQUR1OS1qM0VaQjVmQWc4U1FfWHFYN2wxbDNTN3R6eUFCaFBmUGY1SDlNd0tCY2hfNWlLNXVNa3RqdVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUJBTldZX29weW5oQVlab0tDYmwwNUw0OHNORkttaVFkUDBFVFd2Ul9iSS1MWXRKdUQ3VlJDMUMzbjhTczNhN3VBSms1YWVuMXVOdzhNd2gwbGZORVZoaHpFSUFoakZLQmQ0amVvb2pRQUR1OS1qM0VaQjVmQWc4U1FfWHFYN2wxbDNTN3R6eUFCaFBmUGY1SDlNd0tCY2hfNWlLNXVNa3RqdVU?oc=5\" target=\"_blank\">Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inc.com</font>",
+      "published": "2026-10-14T13:20:46+00:00",
+      "source": "Inc.com"
+    },
+    {
+      "title": "Nvidia pledges $250 million to UK AI safety research - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN?oc=5\" target=\"_blank\">Nvidia pledges $250 million to UK AI safety research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-14T06:19:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWhacFk5eXRXWGhJdTUwN3JPX3ZCMl9YVndTQWVkNG42NFc5M1ZFamVJMUJraTh6VUstNDBSZERqT29uUzBISndQLXBTRUFldThYOER4d1NIZl82UldNQ1RWZGhHeUFBQU5FR2c1NnhlZWx0QlM0RlFKYTZxXzVQNjV5dDI0eDkwZXNkWmE2aWZET2ls?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWhacFk5eXRXWGhJdTUwN3JPX3ZCMl9YVndTQWVkNG42NFc5M1ZFamVJMUJraTh6VUstNDBSZERqT29uUzBISndQLXBTRUFldThYOER4d1NIZl82UldNQ1RWZGhHeUFBQU5FR2c1NnhlZWx0QlM0RlFKYTZxXzVQNjV5dDI0eDkwZXNkWmE2aWZET2ls?oc=5\" target=\"_blank\">Nvidia, worth $5.5tn, donates $250m to UK for AI safety research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-10-14T14:24:00+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN001cXBCdFZ4bTFlSUIwem8xamFyeVliaU4yTDRoWlo0NlpBMmVPTDFMV0xKa2ZjRkpwckFHRXBLcjY5Vi0xSU1TdW9COTQ3d1ZnN1NCdS12Z0ZZMzc5dFYwb2pRaDJvYWhvSF9GV0o1dVZuaGpVeG5qbThxYTFQVWsxTDFLV1YtcVRrOVowdDR0M29FamZmaUU4WFJ4QzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPN001cXBCdFZ4bTFlSUIwem8xamFyeVliaU4yTDRoWlo0NlpBMmVPTDFMV0xKa2ZjRkpwckFHRXBLcjY5Vi0xSU1TdW9COTQ3d1ZnN1NCdS12Z0ZZMzc5dFYwb2pRaDJvYWhvSF9GV0o1dVZuaGpVeG5qbThxYTFQVWsxTDFLV1YtcVRrOVowdDR0M29FamZmaUU4WFJ4QzA?oc=5\" target=\"_blank\">NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-14T06:01:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia buys stakes in four French tech startups, Les Echos reports - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYU91emRkQ1RtR2xiQXNuVnhwaXRZTkVMMW5GTGdBUldxUjJpVEtCWXJpSC1mVzRNaVc1djRNZ21NZFE0N0xiZlFUY0dHQWZWZlFTbVIxcHlJNVNSV2ZtWlFOcExXNWhURmZVUHdMcHl4STVldWZPZ0JIY1dMam9XemF3dzR0QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPYU91emRkQ1RtR2xiQXNuVnhwaXRZTkVMMW5GTGdBUldxUjJpVEtCWXJpSC1mVzRNaVc1djRNZ21NZFE0N0xiZlFUY0dHQWZWZlFTbVIxcHlJNVNSV2ZtWlFOcExXNWhURmZVUHdMcHl4STVldWZPZ0JIY1dMam9XemF3dzR0QQ?oc=5\" target=\"_blank\">Nvidia buys stakes in four French tech startups, Les Echos reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "published": "2026-10-13T17:49:44+00:00",
-      "source": "Yahoo! Finance Canada"
+      "title": "Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design - The Information",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVlDaG9fR0pKSnNHYzdxRmUyTXdCbW4wNmk4bGpnbWJsVk9JZDRCTXJ4NUNLMkRXQ3J6WWNwTEZYZnQ4dE5LVWtWZkx0cTdDeVZpRGxXYXU4QnJvOTBNZG5lcGo5UXpZaWFmb3pDY0tpUGtjQVRmTTY2YVN5eFlJZlVobmJPV0FNSE9WSjFzb1E1ZjA1VjR4S2hyTFB1YWNCRFlqNGJfb0t1bzQyUnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVlDaG9fR0pKSnNHYzdxRmUyTXdCbW4wNmk4bGpnbWJsVk9JZDRCTXJ4NUNLMkRXQ3J6WWNwTEZYZnQ4dE5LVWtWZkx0cTdDeVZpRGxXYXU4QnJvOTBNZG5lcGo5UXpZaWFmb3pDY0tpUGtjQVRmTTY2YVN5eFlJZlVobmJPV0FNSE9WSjFzb1E1ZjA1VjR4S2hyTFB1YWNCRFlqNGJfb0t1bzQyUnc?oc=5\" target=\"_blank\">Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-10-14T15:10:00+00:00",
+      "source": "The Information"
     },
     {
-      "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ?oc=5\" target=\"_blank\">Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-      "published": "2026-10-13T09:34:12+00:00",
-      "source": "Axios"
-    },
-    {
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, Viking, AT&T & more - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3ZjX1BUQ1ktZG9zdU1zdzB4Uk84aEQ3Y3ktUnNzblRmaE1NTkxBQUo0RUQ5ZWpkQnE3VnZBNGhQZ0VLa05ncm4xYjdwQS1McXlDS0phY1NpNnE5NkRFdVpvc1VHb29YMG15RDQ4Tzk3R09DT1g2NVlUcVNQdmNhWDJwRlp3eF9BWmJnT1dfUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3ZjX1BUQ1ktZG9zdU1zdzB4Uk84aEQ3Y3ktUnNzblRmaE1NTkxBQUo0RUQ5ZWpkQnE3VnZBNGhQZ0VLa05ncm4xYjdwQS1McXlDS0phY1NpNnE5NkRFdVpvc1VHb29YMG15RDQ4Tzk3R09DT1g2NVlUcVNQdmNhWDJwRlp3eF9BWmJnT1dfUQ?oc=5\" target=\"_blank\">Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, Viking, AT&amp;T & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-10-13T12:31:09+00:00",
-      "source": "CNBC"
+      "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA?oc=5\" target=\"_blank\">Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-10-14T14:42:19+00:00",
+      "source": "The Motley Fool"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5\" target=\"_blank\">NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-09-28T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
-    },
-    {
-      "title": "NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ?oc=5\" target=\"_blank\">NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
-      "published": "2026-10-10T07:24:53+00:00",
-      "source": "shattered.io"
+      "title": "RTX Spark: Hundreds of Games Oct 16 - NVIDIA",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjhLNXNOdENvME9BNXdBa3hEeVRPTGpFQWIxaEdnRWhNaEpvNUQyaDZpUm5FRGR0dEJyOGFiLV8zTWZ1YTRTeUxNdXBDLW9CajRPN1c3Tl9uUlU3MGZSY2pjQ21JQ3JNb0Rhdk1XLWtYVlQzX19nUGozbnNDYUJOQzlOb0w4MmhGLXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxObjhLNXNOdENvME9BNXdBa3hEeVRPTGpFQWIxaEdnRWhNaEpvNUQyaDZpUm5FRGR0dEJyOGFiLV8zTWZ1YTRTeUxNdXBDLW9CajRPN1c3Tl9uUlU3MGZSY2pjQ21JQ3JNb0Rhdk1XLWtYVlQzX19nUGozbnNDYUJOQzlOb0w4MmhGLXc?oc=5\" target=\"_blank\">RTX Spark: Hundreds of Games Oct 16</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA</font>",
+      "published": "2026-10-13T11:59:23+00:00",
+      "source": "NVIDIA"
     },
     {
       "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
@@ -84,6 +77,13 @@
       "source": "Yahoo Finance"
     },
     {
+      "title": "NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ?oc=5\" target=\"_blank\">NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
+      "published": "2026-10-10T07:24:53+00:00",
+      "source": "shattered.io"
+    },
+    {
       "title": "Nvidia launches new platform for reining in rogue AI agents - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGhqUC16dE5RTy1QMVZTaWQxREY3eC1SQlFaaElEWjR3NjMwZHoybTQxWERzZG1LdFhMOC1mZ3FLY0lzZFNzU01WbnhjdkdhU1g3QXlDVHhIbEJnRmxVcmR0Y3JUU0djU01KTTNaWW4zT2VsWmtoc3pvb2IxOU1mbjFSR3ZQcHdRZnh0c2x1M1hteTlPQ01FU0xR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGhqUC16dE5RTy1QMVZTaWQxREY3eC1SQlFaaElEWjR3NjMwZHoybTQxWERzZG1LdFhMOC1mZ3FLY0lzZFNzU01WbnhjdkdhU1g3QXlDVHhIbEJnRmxVcmR0Y3JUU0djU01KTTNaWW4zT2VsWmtoc3pvb2IxOU1mbjFSR3ZQcHdRZnh0c2x1M1hteTlPQ01FU0xR?oc=5\" target=\"_blank\">Nvidia launches new platform for reining in rogue AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
@@ -91,25 +91,21 @@
       "source": "TechCrunch"
     },
     {
-      "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5\" target=\"_blank\">Nvidia releases software platform to stop AI agents from misbehaving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-09-28T07:00:00+00:00",
-      "source": "CNBC"
+      "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - LTTS",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYktEQlQ5eC1jZVg1WDdUa3lqMnRSYkJoYzJsSjhQbEdkeVpiU0JGZUx0LTFmTUZ0Ty1HUEl4UDhIX1JMTGZ4N1c3a1VzQmtza19BcHVCTHB1aDhwMEZN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYktEQlQ5eC1jZVg1WDdUa3lqMnRSYkJoYzJsSjhQbEdkeVpiU0JGZUx0LTFmTUZ0Ty1HUEl4UDhIX1JMTGZ4N1c3a1VzQmtza19BcHVCTHB1aDhwMEZN?oc=5\" target=\"_blank\">L&amp;T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LTTS</font>",
+      "published": "2026-10-12T10:49:09+00:00",
+      "source": "LTTS"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-13",
-      "close": 227.22000122070312
+      "date": "2026-10-14",
+      "close": 222.61000061035156
     },
     "history": [
-      {
-        "date": "2026-10-05",
-        "close": 238.89999389648438
-      },
       {
         "date": "2026-10-06",
         "close": 239.24000549316406
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-13",
-        "close": 227.22000122070312
+        "close": 228.52000427246094
+      },
+      {
+        "date": "2026-10-14",
+        "close": 222.61000061035156
       }
     ],
     "name": "NVIDIA Corporation"
