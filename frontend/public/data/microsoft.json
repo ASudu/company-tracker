@@ -2,35 +2,56 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-10-14T16:09:45.956670+00:00",
+  "fetched_at": "2026-10-15T15:57:38.149529+00:00",
   "news": [
     {
-      "title": "Microsoft Patches More Than 1,400 Security Flaws - Krebs on Security",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSTZwQ1gtUS1Vczg5c1lId2YzcEhGMFlvM0t0NUlKR2R4N05jbUJFd2FHZmlIa0MyaUZ6dzVQdm00cHduSHo0V3NHekt5WDV0YVNHX0ptb1BBNWFGRkY1YnVQRVRkMk9KMm9DRVV5UUhLaHpORUhINnJxU3RMdXkxdW8yZmZXSnREb2VXeQ?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSTZwQ1gtUS1Vczg5c1lId2YzcEhGMFlvM0t0NUlKR2R4N05jbUJFd2FHZmlIa0MyaUZ6dzVQdm00cHduSHo0V3NHekt5WDV0YVNHX0ptb1BBNWFGRkY1YnVQRVRkMk9KMm9DRVV5UUhLaHpORUhINnJxU3RMdXkxdW8yZmZXSnREb2VXeQ?oc=5\" target=\"_blank\">Microsoft Patches More Than 1,400 Security Flaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Krebs on Security</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRTRXajgzdUxGLWx6MVJOaVBIdG1aUUdxZWFQaDVPZWdRaXo2a1RtZDdFaFJQMEtkbDhfZG1tN3RjQ0FqbkxwbW1KN2hiRnJsaHlOVHFfU3NNT3pMczVMNXJHWnVqb3d6MVFzRHhDQjJ0cTgtWE42NnVhZlBLalk?oc=5\" target=\"_blank\">Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0tOcWUxQzZfUkhxNm44ckFzaThKb0pqa0M2a1RyYmFacUNEZUt5Rk5tbFpDbTNWUFVrd2xRaTNOSUpORmZuNzZaUzlBRWhJRzJOY0ZtS1JGNFJlZ3JOZThUSTdmM1VZaDhrZm5lNGVBODZ0ZllDTWhFdXRyUnRqQms2b1RNUHgtOFlJbDhpU2ZXM2lfM1hqanVaQzA2SG12cDFaNktBLWhnQ3dhTXVLcWdmMEo?oc=5\" target=\"_blank\">Microsoft breaks record, fixing 1,416 security flaws. Update Windows now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCWorld</font></li></ol>",
-      "published": "2026-10-13T23:39:47+00:00",
-      "source": "Krebs on Security"
+      "title": "Microsoft says Windows 11 is now ‘more responsive’ and runs better on 8GB of RAM - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFVpQjlDZEVhdENDRHRpZlp6SmItRG5EUEpmMzhIaFRGWGZLTk5PSldURWNrNVRHLVF5dHI2dTE5enRhQnc2Wm9uTVFEY0xXTjB2LWRydE9SODVMU1FLUklCUHJURF80X1FCd2VUXy1JNzFDR0s3QXRydUxUZlFjY095Wktzb25KODVnWA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFVpQjlDZEVhdENDRHRpZlp6SmItRG5EUEpmMzhIaFRGWGZLTk5PSldURWNrNVRHLVF5dHI2dTE5enRhQnc2Wm9uTVFEY0xXTjB2LWRydE9SODVMU1FLUklCUHJURF80X1FCd2VUXy1JNzFDR0s3QXRydUxUZlFjY095Wktzb25KODVnWA?oc=5\" target=\"_blank\">Microsoft says Windows 11 is now ‘more responsive’ and runs better on 8GB of RAM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-15T13:41:00+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "Is Microsoft Leaving Regular PC Users Behind? - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtamNuc3h1RkRDVDJUUTVaclVqMEk5Q1RsZ3VpVHBTNGhoamRkV1VJYlctdWhHX0ZneWx2VnVLZ2VKZUJ0ZXJXWmsydEViUEdwNXFUY001MDlfSDdTX2x5NWZfNDl4R3U5Vk9feTFQT09rMmU0azBEZ1htZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFAtamNuc3h1RkRDVDJUUTVaclVqMEk5Q1RsZ3VpVHBTNGhoamRkV1VJYlctdWhHX0ZneWx2VnVLZ2VKZUJ0ZXJXWmsydEViUEdwNXFUY001MDlfSDdTX2x5NWZfNDl4R3U5Vk9feTFQT09rMmU0azBEZ1htZw?oc=5\" target=\"_blank\">Is Microsoft Leaving Regular PC Users Behind?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-10-14T14:00:23+00:00",
-      "source": "PCMag"
+      "title": "Microsoft is gauging interest in Fallout, Elder Scrolls, and Minecraft becoming Xbox exclusives — yes, really - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUhRWXdMWjJzalUwRE5wZnp1UlBBcTU0bkk4YzFhVHJHZm00LUFqeWxKb2t1ZzY4Ymktdms4TTVkR0drUnBrV1NTbkoxWVR5VkRoTHY5M2YyNmYtdS1BTE9BSVFlUkdvSUJnbmp4ekxjenR1U3VPX0UyUFJuTG84VGFBemh3bGRtLWZiS1VMMXhmMG1ud2NkU0ZaSmlHb0F1a2o5NF9VZ1ByRllEelZSbVNib25Da0ZVd2M0RWZkek52WTBuTGxHU2tnNzdJOUN6c1FTbEZnWENMd3NDaEZIUVhSRFp1SWtWRG5kTk05RVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUhRWXdMWjJzalUwRE5wZnp1UlBBcTU0bkk4YzFhVHJHZm00LUFqeWxKb2t1ZzY4Ymktdms4TTVkR0drUnBrV1NTbkoxWVR5VkRoTHY5M2YyNmYtdS1BTE9BSVFlUkdvSUJnbmp4ekxjenR1U3VPX0UyUFJuTG84VGFBemh3bGRtLWZiS1VMMXhmMG1ud2NkU0ZaSmlHb0F1a2o5NF9VZ1ByRllEelZSbVNib25Da0ZVd2M0RWZkek52WTBuTGxHU2tnNzdJOUN6c1FTbEZnWENMd3NDaEZIUVhSRFp1SWtWRG5kTk05RVU?oc=5\" target=\"_blank\">Microsoft is gauging interest in Fallout, Elder Scrolls, and Minecraft becoming Xbox exclusives — yes, really</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-10-14T18:38:36+00:00",
+      "source": "Windows Central"
     },
     {
-      "title": "Opinion | JD Vance needs a Microsoft update - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWERXVjEzQ214cWZfRzhZQ2VoTHJ2UnhvMm5NM0lYWmRhZ3UzeEtQbEV5R0ttVTVncFVSUEtMTjR0SzVSLWltc29jSGxrRU03NkVPMmV0djFFX3YzRWVHcWpYT3IzMWU2ZDRjR2JZRXdpUi1hdXVaVU1CU0FwajZqQ3FiZGg2aUdqNGkwRFo1RUhrMW5BRHlVRmhn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWERXVjEzQ214cWZfRzhZQ2VoTHJ2UnhvMm5NM0lYWmRhZ3UzeEtQbEV5R0ttVTVncFVSUEtMTjR0SzVSLWltc29jSGxrRU03NkVPMmV0djFFX3YzRWVHcWpYT3IzMWU2ZDRjR2JZRXdpUi1hdXVaVU1CU0FwajZqQ3FiZGg2aUdqNGkwRFo1RUhrMW5BRHlVRmhn?oc=5\" target=\"_blank\">Opinion | JD Vance needs a Microsoft update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-      "published": "2026-10-14T04:38:09+00:00",
-      "source": "The Washington Post"
+      "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5\" target=\"_blank\">Trump administration freezes green cards for Microsoft, IT firms, probes universities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ3VpVGd3WEFWN0otLUJjZWxjSXdDeUtsVkN4SHJ1TXhGTFMzQzFMTEh3TGpQbEl1Smp3aWNPRHhsaVlscFZ3bWlRWXJvZktrYnJwd0hFd21ubUk2UjBnbkk1SjdKNk15TmdTa3UzdTJpendTQWsyX1duMm9LX2I3bUFiRFg0Qm4yZ3dna3pjZThCcEdxb3E2cVhQektIeVJOVTdGenpyZk9ScjZVNDYxalIwa3Uya1poU3NZQjJMNXB1RE1T?oc=5\" target=\"_blank\">Microsoft’s president warns White House against skilled immigration crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWERXVjEzQ214cWZfRzhZQ2VoTHJ2UnhvMm5NM0lYWmRhZ3UzeEtQbEV5R0ttVTVncFVSUEtMTjR0SzVSLWltc29jSGxrRU03NkVPMmV0djFFX3YzRWVHcWpYT3IzMWU2ZDRjR2JZRXdpUi1hdXVaVU1CU0FwajZqQ3FiZGg2aUdqNGkwRFo1RUhrMW5BRHlVRmhn?oc=5\" target=\"_blank\">Opinion | JD Vance needs a Microsoft update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font></li></ol>",
+      "published": "2026-10-10T04:29:46+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Microsoft Reports $130 Billion in Data Center Leases - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnRELUlsT1lSclJrajZKVlhlYXYxU0t5eUhzN1lqZ0tRMkp4SUFleGgzQ0J4NU5EeEJOd2FPUFBSd2Y4QlNJVGJZenNLamdZTEd4VjMwT2pzQmozcWwtR1NVU0Y2MVdzVmhCcGlCdUJlS2Zwa25JMjZXa3MwSG1sbXVkSjVCVjQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnRELUlsT1lSclJrajZKVlhlYXYxU0t5eUhzN1lqZ0tRMkp4SUFleGgzQ0J4NU5EeEJOd2FPUFBSd2Y4QlNJVGJZenNLamdZTEd4VjMwT2pzQmozcWwtR1NVU0Y2MVdzVmhCcGlCdUJlS2Zwa25JMjZXa3MwSG1sbXVkSjVCVjQ?oc=5\" target=\"_blank\">Microsoft Reports $130 Billion in Data Center Leases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-13T21:00:57+00:00",
-      "source": "Yahoo Finance"
+      "title": "Meet the XBOX Nano Controller - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94SVotekFQU19NajVrM005YnVkd3VGMWVRa3VXVkU0QklhWE9hYXkteTV0ZU1VMzNZUHNKXzNoQ0ZNYTFfbThaWG9PX0F5NFU3UTkwOVR0UGpoWDBiSkx4c1BqdHRxM25nYVYyYtIBckFVX3lxTE00REVIVzdLeXpQeERhcUFyRHYxR3BfRE5kTGRZSFprRjdVdkR3bUdUQlRfNVlSV2VlblZzS1JXUU5GTkNiZmhKYjN0c2d2c1V0elVoS1ZWZHVFdFhIRF83amNoS0FJZU9CdklrdXBoOUU0QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE94SVotekFQU19NajVrM005YnVkd3VGMWVRa3VXVkU0QklhWE9hYXkteTV0ZU1VMzNZUHNKXzNoQ0ZNYTFfbThaWG9PX0F5NFU3UTkwOVR0UGpoWDBiSkx4c1BqdHRxM25nYVYyYtIBckFVX3lxTE00REVIVzdLeXpQeERhcUFyRHYxR3BfRE5kTGRZSFprRjdVdkR3bUdUQlRfNVlSV2VlblZzS1JXUU5GTkNiZmhKYjN0c2d2c1V0elVoS1ZWZHVFdFhIRF83amNoS0FJZU9CdklrdXBoOUU0QQ?oc=5\" target=\"_blank\">Meet the XBOX Nano Controller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XBOX Wire</font>",
+      "published": "2026-10-14T16:01:37+00:00",
+      "source": "XBOX Wire"
+    },
+    {
+      "title": "Meet the Xbox Nano Controller, the Littlest Official Gamepad from A Console Manufacturer - IGN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PaGFXRkFKd3NFakxlbTdyZHpsUjRwcHFmVTRHSjl5czNheGFHdHVGWmozUEZCbXBhNmRtelBnNnNrUXN6S2hxUWVkYzJkXzlFOW45Q19FVUxSNjJMTjVRWGJhRE44U3RJb2ZzaE43SGtkMTVMdkZ5Xw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9PaGFXRkFKd3NFakxlbTdyZHpsUjRwcHFmVTRHSjl5czNheGFHdHVGWmozUEZCbXBhNmRtelBnNnNrUXN6S2hxUWVkYzJkXzlFOW45Q19FVUxSNjJMTjVRWGJhRE44U3RJb2ZzaE43SGtkMTVMdkZ5Xw?oc=5\" target=\"_blank\">Meet the Xbox Nano Controller, the Littlest Official Gamepad from A Console Manufacturer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
+      "published": "2026-10-14T17:54:02+00:00",
+      "source": "IGN"
+    },
+    {
+      "title": "Xbox unveils a new pint-sized gamepad designed for Xbox Cloud Gaming - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYWV2eENueklqaUljQU9OUU9POEV6RlJ6bzBYNnFmaEpaaDBfcjlrc2pwUzVlT0NCdWt0akVEZ0F2a3JSNXpnelhDSjJTSm5SUVVqd09maVhsRFhWMjBxdUVJOUV5MVZlamRqc2tndnhybkxBMFhHTmRGVGNzVWthaDVXZ1gwV09ibGlIMzZMZnJaWk5MbFdaTWpGNTYyRk11TXE5eDlpXzFOVktkMTBIZ3JKSk9pOVlFR2MtWkVxXy1GbXdBbmJHNmtjTldRUVhrZXQtVHJTTWhmTEs2MkVMRTNiWGctSVVhT0hKT0VlX1VQQ1pSWnF2cUppRU5uVUZCbWVrLXc5Qjk3QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNYWV2eENueklqaUljQU9OUU9POEV6RlJ6bzBYNnFmaEpaaDBfcjlrc2pwUzVlT0NCdWt0akVEZ0F2a3JSNXpnelhDSjJTSm5SUVVqd09maVhsRFhWMjBxdUVJOUV5MVZlamRqc2tndnhybkxBMFhHTmRGVGNzVWthaDVXZ1gwV09ibGlIMzZMZnJaWk5MbFdaTWpGNTYyRk11TXE5eDlpXzFOVktkMTBIZ3JKSk9pOVlFR2MtWkVxXy1GbXdBbmJHNmtjTldRUVhrZXQtVHJTTWhmTEs2MkVMRTNiWGctSVVhT0hKT0VlX1VQQ1pSWnF2cUppRU5uVUZCbWVrLXc5Qjk3QQ?oc=5\" target=\"_blank\">Xbox unveils a new pint-sized gamepad designed for Xbox Cloud Gaming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-10-14T20:58:15+00:00",
+      "source": "Windows Central"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella says AI agents should be treated as an ‘insider risk’ - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmlNMnJVd2otdVNQcU1kcGlBWFZjVU1CYzUyOEdPeWMtMnBRdV9ES3dMQzJIQzhWMk9vSEFxd254QXRMNTRxdDJwRU11TzRwTEZJUE9OdFJVUEZqSHJsRzRSM09mVU9weHFOSGdYVUNZem1HOFVXZmpxcmozZ0JUbEhkbXVIemFMS04wQkdhRmkwWk1FNy11SFMtekJyWFBpMjE2OTB0LUtSeFh5X1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxObmlNMnJVd2otdVNQcU1kcGlBWFZjVU1CYzUyOEdPeWMtMnBRdV9ES3dMQzJIQzhWMk9vSEFxd254QXRMNTRxdDJwRU11TzRwTEZJUE9OdFJVUEZqSHJsRzRSM09mVU9weHFOSGdYVUNZem1HOFVXZmpxcmozZ0JUbEhkbXVIemFMS04wQkdhRmkwWk1FNy11SFMtekJyWFBpMjE2OTB0LUtSeFh5X1E?oc=5\" target=\"_blank\">Microsoft CEO Satya Nadella says AI agents should be treated as an ‘insider risk’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+      "published": "2026-10-15T13:34:59+00:00",
+      "source": "NBC News"
     },
     {
       "title": "Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts - The Information",
@@ -38,27 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzNlcmtQUHRWZzAyWE5wMGlTOFlWSzdBOFhfS256aHg2TEF2d2lhX21rVUhEblpLVFhfSXhtYnJ5OTFqREoxUGpIQjBsaEhXYVJ2b1NtNHFsbXE4MlNXUmhFeW00eWRUbFVFTW10bFhOLWZjYWs3LTViZXhncmwwYUF1cjRWbFktNjV4QVZoNmRSVC1GcmxnME9qUmE?oc=5\" target=\"_blank\">Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
       "published": "2026-10-13T21:42:00+00:00",
       "source": "The Information"
-    },
-    {
-      "title": "Norway fines Microsoft's Xandr $9.6 million over Grindr data sharing - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHdmTEZnTEN2Uk0xcXN1LWM1STRqOFM4VkRXcEFJZ0ttX2swdVd5Vkhyb2xvam1zQVNiZGlLVlVHeVJDNlNzSVpfUllhQzJtNkVEMDZrelhxRmZySnhOVlBWblR3VGVIX3QwZ0FLSV9CRnBORExKWWdjSGljLXZnY1RTMXNIVWdLbm44RVVSci0zWm1ETnJpUWxiaEJPRWluTXZaT1FBTEYxcVlic1VFTnJkaENVMzB4Y1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORHdmTEZnTEN2Uk0xcXN1LWM1STRqOFM4VkRXcEFJZ0ttX2swdVd5Vkhyb2xvam1zQVNiZGlLVlVHeVJDNlNzSVpfUllhQzJtNkVEMDZrelhxRmZySnhOVlBWblR3VGVIX3QwZ0FLSV9CRnBORExKWWdjSGljLXZnY1RTMXNIVWdLbm44RVVSci0zWm1ETnJpUWxiaEJPRWluTXZaT1FBTEYxcVlic1VFTnJkaENVMzB4Y1E?oc=5\" target=\"_blank\">Norway fines Microsoft's Xandr $9.6 million over Grindr data sharing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-12T11:03:11+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Microsoft’s top science exec is leaving to fulfill a childhood dream: Joining a Formula 1 team - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZFhyVDlFWEJJTHBDOVBMNjMxZU83X29FblRidUlnQU9rWjdzTVNyc3NjTzFlalhVX0RTUFFpcVpFcEhmbEFrVk5jNnFfLTRtT0xsN044Y0t4bTFOemZYaENDTll3Ynpwc3dIMGFtNjdLMXZfbl9UUFhKcVE2SmZ1U29pUlI3dXNXNGFEcXVkdkNvOUloSFlPYjdtTG1wX3JYcjJJRnpkWHd1d0JqdkhmY0x6SnQ4di1KZ1hkZUN1bTk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZFhyVDlFWEJJTHBDOVBMNjMxZU83X29FblRidUlnQU9rWjdzTVNyc3NjTzFlalhVX0RTUFFpcVpFcEhmbEFrVk5jNnFfLTRtT0xsN044Y0t4bTFOemZYaENDTll3Ynpwc3dIMGFtNjdLMXZfbl9UUFhKcVE2SmZ1U29pUlI3dXNXNGFEcXVkdkNvOUloSFlPYjdtTG1wX3JYcjJJRnpkWHd1d0JqdkhmY0x6SnQ4di1KZ1hkZUN1bTk?oc=5\" target=\"_blank\">Microsoft’s top science exec is leaving to fulfill a childhood dream: Joining a Formula 1 team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-10-13T17:27:12+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5\" target=\"_blank\">Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-10-14T12:29:19+00:00",
-      "source": "Mashable"
     }
   ],
   "product_launches": [
@@ -77,6 +77,13 @@
       "source": "TechCrunch"
     },
     {
+      "title": "BlueVoyant launches Microsoft Defender ISOC service - SecurityBrief UK",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU9tMFBpTjc0cmtJU3JWZlpOX2QtX0VmbTFfZ1NRU0FhM1V4bDZtcjNTcTRxUVJYMHdpazJWMFBzOVlKTkt2SFh6RUhJZk16MEVhQVg4QW9qWnNfbWxndDJxQ2NleTJoVC16SGZ4V0tCTVN1bWpVa3VqNTNjVHZOcUxUVTU1QjVVaVRsTEJ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU9tMFBpTjc0cmtJU3JWZlpOX2QtX0VmbTFfZ1NRU0FhM1V4bDZtcjNTcTRxUVJYMHdpazJWMFBzOVlKTkt2SFh6RUhJZk16MEVhQVg4QW9qWnNfbWxndDJxQ2NleTJoVC16SGZ4V0tCTVN1bWpVa3VqNTNjVHZOcUxUVTU1QjVVaVRsTEJ3?oc=5\" target=\"_blank\">BlueVoyant launches Microsoft Defender ISOC service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityBrief UK</font>",
+      "published": "2026-10-14T16:23:00+00:00",
+      "source": "SecurityBrief UK"
+    },
+    {
       "title": "Microsoft-Decision-1 runs on Alibaba’s Qwen and costs $0.042 a million - The Next Web",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ELTNqd3JiMVpPRHN3Y0ZQYVFMUUtFREVMRjlkZVVqT01DVzVZZmg1Zjh0SjAtZFVyeXVpNlhXNHpaUE04RzUzTEE1cVVIX1FCWnFrX0EwbHg5aVBjY29kSmhaSndUWEYzVHZXdzRDOVdxMU9qZEhF?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ELTNqd3JiMVpPRHN3Y0ZQYVFMUUtFREVMRjlkZVVqT01DVzVZZmg1Zjh0SjAtZFVyeXVpNlhXNHpaUE04RzUzTEE1cVVIX1FCWnFrX0EwbHg5aVBjY29kSmhaSndUWEYzVHZXdzRDOVdxMU9qZEhF?oc=5\" target=\"_blank\">Microsoft-Decision-1 runs on Alibaba’s Qwen and costs $0.042 a million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Web</font>",
@@ -84,32 +91,21 @@
       "source": "The Next Web"
     },
     {
-      "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFBaaERLNnd3eVJ3ODN5a2w4V0JDb1Q4MmJhbEJqaENlUnVZNmRxbkRpeldiZDZOZDkxdFBzUVJEUE5STG12Y3ozV0lYb3dOdXRfdFQ2NHM3ajZ5OW05bW5SMUw1eTVLZ2JTQ3BuZnh5Q3dGNldmd1E3VHRQZk5TVVM2aDFHdWxPOWdERUtwZnpiRVQ5M0ZJMjhMS1l2ZFRGVzZUTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFBaaERLNnd3eVJ3ODN5a2w4V0JDb1Q4MmJhbEJqaENlUnVZNmRxbkRpeldiZDZOZDkxdFBzUVJEUE5STG12Y3ozV0lYb3dOdXRfdFQ2NHM3ajZ5OW05bW5SMUw1eTVLZ2JTQ3BuZnh5Q3dGNldmd1E3VHRQZk5TVVM2aDFHdWxPOWdERUtwZnpiRVQ5M0ZJMjhMS1l2ZFRGVzZUTA?oc=5\" target=\"_blank\">“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-22T07:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Introducing dots - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5\" target=\"_blank\">Introducing dots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
-      "published": "2026-09-29T07:00:00+00:00",
-      "source": "OpenAI"
+      "title": "Developer Launches Free Open-Source Microsoft Office Clone Using AI - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVBWZDVibEJscEp6WnBLOW9TdlF2aGFKVUxOTnZkVzB3blJPZFlkR00yWGkwUzIxU3VRLU5jRlJjWjI1T1RiSzBHNC0xRkpPUFBtalY5a3JFVl9vZGpaNnNPVExPMlNiVENydnItMDFUdXVDQzlLUGZKUTlBS2xyNlNHWGtDRkFvYWpHel9TQVIxQ0VVUjYyUjdfN1BBRHllTlZB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVBWZDVibEJscEp6WnBLOW9TdlF2aGFKVUxOTnZkVzB3blJPZFlkR00yWGkwUzIxU3VRLU5jRlJjWjI1T1RiSzBHNC0xRkpPUFBtalY5a3JFVl9vZGpaNnNPVExPMlNiVENydnItMDFUdXVDQzlLUGZKUTlBS2xyNlNHWGtDRkFvYWpHel9TQVIxQ0VVUjYyUjdfN1BBRHllTlZB?oc=5\" target=\"_blank\">Developer Launches Free Open-Source Microsoft Office Clone Using AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+      "published": "2026-10-14T23:42:26+00:00",
+      "source": "KuCoin"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-14",
-      "close": 536.8400268554688
+      "date": "2026-10-15",
+      "close": 537.9251098632812
     },
     "history": [
-      {
-        "date": "2026-10-06",
-        "close": 529.2999877929688
-      },
       {
         "date": "2026-10-07",
         "close": 529.760009765625
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-14",
-        "close": 536.8400268554688
+        "close": 533.6900024414062
+      },
+      {
+        "date": "2026-10-15",
+        "close": 537.9251098632812
       }
     ],
     "name": "Microsoft Corporation"
