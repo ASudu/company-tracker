@@ -2,50 +2,8 @@
   "name": "Meta",
   "slug": "meta",
   "ticker": "META",
-  "fetched_at": "2026-10-19T17:57:23.932317+00:00",
+  "fetched_at": "2026-10-20T16:01:15.525452+00:00",
   "news": [
-    {
-      "title": "A big 'yikes' still hangs over the AI trade as Meta and Tesla report: What to watch this week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWHpmR1M1ak5abS10aHNhOWZJOTJ5Y2lTNGxSZ05UVHVZRkFGS29OYkU3eUt4UTg0ZGxvSFpIOVJ6SlZpZjFlYTlDVF96WUVjYnBZS1hjUURKZEVURGtrM093bTgtb3MtcVZkMlNyTnpWV0cyMF9oM2lQTlpKbm9KY2FwT1NGUGZNZFZaNGFzaU5uV3o4blZhdWJxT1c2OWlma01KMGhnT0ExVmUzRzVHLXY1ZmJ3ckdFRDktUC1STWxmQkhtZHd2QWg1THhWTHc0aVRWd1dsYWdZN2txWGJ6aQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWHpmR1M1ak5abS10aHNhOWZJOTJ5Y2lTNGxSZ05UVHVZRkFGS29OYkU3eUt4UTg0ZGxvSFpIOVJ6SlZpZjFlYTlDVF96WUVjYnBZS1hjUURKZEVURGtrM093bTgtb3MtcVZkMlNyTnpWV0cyMF9oM2lQTlpKbm9KY2FwT1NGUGZNZFZaNGFzaU5uV3o4blZhdWJxT1c2OWlma01KMGhnT0ExVmUzRzVHLXY1ZmJ3ckdFRDktUC1STWxmQkhtZHd2QWg1THhWTHc0aVRWd1dsYWdZN2txWGJ6aQ?oc=5\" target=\"_blank\">A big 'yikes' still hangs over the AI trade as Meta and Tesla report: What to watch this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-19T10:00:00+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSXZwWHdvclVzQXBWMWFOOGZpa216a3FaTWtpdkdiSl9CZ18zdWNpdG8zdVVERWUzU1hidjRFZFZUTWx2YmRHbVhPdVVzYXhEdjR2ZldrdkdNbzRmSkhzVVAybkYyNTdlMU9semdzQVJOVk0zeC1BcnhKRFA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSXZwWHdvclVzQXBWMWFOOGZpa216a3FaTWtpdkdiSl9CZ18zdWNpdG8zdVVERWUzU1hidjRFZFZUTWx2YmRHbVhPdVVzYXhEdjR2ZldrdkdNbzRmSkhzVVAybkYyNTdlMU9semdzQVJOVk0zeC1BcnhKRFA?oc=5\" target=\"_blank\">Meta Platforms and Tesla are among the companies set to report next week. What to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-10-18T12:41:18+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Why Amazon Stock Has 40% Upside Even as Meta’s Muse Changes the E-Commerce Landscape - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeEVYeXJTTm1ncDN2eG9wOUY0MnhoR2R5d3UtWmhnSmtaVWVFdmtqeU40cWZ0VzRZU3AtcHNOMUJ1VmJDdlg5QzJOb0U1N1dXd0tUNWY3TFBnaEhyNnZIWkFQbjlPSkJVZWVSbUx3Zi1idmxsQ3FkOHZaR2F2aFU?oc=5\" target=\"_blank\">Why Amazon Stock Has 40% Upside Even as Meta’s Muse Changes the E-Commerce Landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-10-19T13:52:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Outrage after Meta suspends No Kings Instagram account during protests - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUtKUlZFd0NXc1laRHpOdzlYQVRqWGFfWjZQWmwtYkVCYUR4NXJhWXpaSHFFZkVObmJWdmFWZ1owbjk1SGRPd3RySThpVFdTcEJ1cGxBUThkdFZ2MzA1WUo0dUpWeEZNNGRyRDhXMTFFQ3VqMHdXZzhSM0FCZW1BNzRQZ3VlZEtGN0pXVzQ2RjEwT3B5dXNZYmxWTW1kTDJNNVE?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUtKUlZFd0NXc1laRHpOdzlYQVRqWGFfWjZQWmwtYkVCYUR4NXJhWXpaSHFFZkVObmJWdmFWZ1owbjk1SGRPd3RySThpVFdTcEJ1cGxBUThkdFZ2MzA1WUo0dUpWeEZNNGRyRDhXMTFFQ3VqMHdXZzhSM0FCZW1BNzRQZ3VlZEtGN0pXVzQ2RjEwT3B5dXNZYmxWTW1kTDJNNVE?oc=5\" target=\"_blank\">Outrage after Meta suspends No Kings Instagram account during protests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRS0zZWNoLW9WajlJVDROa1puZGVHU0FTMGhMOWNXWGVieWUzM2ZWekUxcWlBX2tjb0sxOEVRYnozR0l3TW90YmlRV2FodkJENFZYY0Y2VVdLelM1MHFlc1FHUVFXdUVLeUpURHFFTjU3ZmZ1RGsyZzYtZmVIeUFxc0JEYm02LU5SRzVGQmx3VEdGd1lza19TZlk0alFEaU5LeHNPUDFNSlpKdw?oc=5\" target=\"_blank\">Meta apologizes after suspending \"No Kings\" Instagram account</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkhEXy1LQWozb3hzRmppTU15cG9XbzgwTEdlM251YzYyMld3NkNILVZBV2JKMG55NzZvYWtySGp3YlFFMWJJeFdNS1BVY2FEZVZnRHlLWldPR1JMNnFEUzJsX0FuXzhIZWRZaDd3RjlVbUdFalBDdHFqYTcyMzJLZThOcEJVNURrNndlVk9XMjhsT2Z6RVdZdTJUOG1KdGp4WFJHRHBJMkFRUjJXSnpHVDA4Nm1xNWt6NnJud05hTdIBxAFBVV95cUxNZUUzNlByRDBILXFuQmt2OVJHc2lGckZJZ0p3SENSOGR3NFo3ZXBhM01UbUlaWlBqUTdrOWpUMHp1bGtqbVRUZjE1UVBYRmlDNnhqSlJ5MnFfWUtKMy1lbm5BeEtFTktsSXNvWG1iS0JSaUhUUnhjdmZ6VVBoTzE1bFRTclFzUHRPMExFZm9BZDJuUVpkdWhhaW9leVU3N0tiUW16bHV6dVJObUJxeWRiVVU2bTJWc01oZ0tyRVdaSHRUWXZ6?oc=5\" target=\"_blank\">Meta apologizes for suspending ‘No Kings’ Instagram account, blaming bot traffic increase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFLA</font></li></ol>",
-      "published": "2026-10-18T19:00:00+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzVoQjRMWHZLWmhIQ0dfNTljZUc2VFdEb3FVMm9PZzViMnE2Q3NSblhFamNJTjRjSmxhV1NfMUpkc0dfSnlEcjdFaHVvX0ZGT0JlbVdhWHd6TGdpaDA0eWg0aEVqS2Q3VTFYRDdtUkJtRjYtN0ljczdVeFMyLXRuUHAzdndKa2lBdFVsVThnNDZnRTNXNVJvN3JqRjFiNkJsOVNQUzZ6ZjhudE11TDF2enJXN1d1dHVy0gG-AUFVX3lxTE82NGM5LXdVUDRKckVxZ05sTFpXT1dHcGUzOXN6Q0lVeENMRGdfNGtvbDRFeF9JZVdtV3pBcEMtUHI0RURNa3VpcE0zTVNhVUZ4MU93U2R5MDFsRllsWTB5b3FSNXBrSTZkNlhVc1NIejZTbWpIaHNmbVZXU1hsVFBFYW1FMXFmR0ZUQllyWm8xT09qaUJIRVZaT2NnZkdSeF91a2dPaGR5bjBWY0oxeTZLdWMyaEd4VC1Uak1mMnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzVoQjRMWHZLWmhIQ0dfNTljZUc2VFdEb3FVMm9PZzViMnE2Q3NSblhFamNJTjRjSmxhV1NfMUpkc0dfSnlEcjdFaHVvX0ZGT0JlbVdhWHd6TGdpaDA0eWg0aEVqS2Q3VTFYRDdtUkJtRjYtN0ljczdVeFMyLXRuUHAzdndKa2lBdFVsVThnNDZnRTNXNVJvN3JqRjFiNkJsOVNQUzZ6ZjhudE11TDF2enJXN1d1dHVy0gG-AUFVX3lxTE82NGM5LXdVUDRKckVxZ05sTFpXT1dHcGUzOXN6Q0lVeENMRGdfNGtvbDRFeF9JZVdtV3pBcEMtUHI0RURNa3VpcE0zTVNhVUZ4MU93U2R5MDFsRllsWTB5b3FSNXBrSTZkNlhVc1NIejZTbWpIaHNmbVZXU1hsVFBFYW1FMXFmR0ZUQllyWm8xT09qaUJIRVZaT2NnZkdSeF91a2dPaGR5bjBWY0oxeTZLdWMyaEd4VC1Uak1mMnc?oc=5\" target=\"_blank\">Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "published": "2026-10-19T17:27:53+00:00",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQXzYzbUpjT2NLMk5yWEQxYTNLNmU1ZEVyclZVY1lVRldRUUJIWkZjWWswckFuT1RmcDJpRk9FSGQydWNfeEt2dTdGM1ctVVZSNDFwX0V3MFZXNHptUFhwU2poaUg2U3N2c01tZEUwUnZzRzRERjJ3U1pOekh5ZlJrX29XbWtYQ2lFeFlUTUZVR3dQU25Md0padmZn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQXzYzbUpjT2NLMk5yWEQxYTNLNmU1ZEVyclZVY1lVRldRUUJIWkZjWWswckFuT1RmcDJpRk9FSGQydWNfeEt2dTdGM1ctVVZSNDFwX0V3MFZXNHptUFhwU2poaUg2U3N2c01tZEUwUnZzRzRERjJ3U1pOekh5ZlJrX29XbWtYQ2lFeFlUTUZVR3dQU25Md0padmZn?oc=5\" target=\"_blank\">WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-      "published": "2026-10-19T16:00:00+00:00",
-      "source": "WIRED"
-    },
     {
       "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster - Engineering at Meta",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0hwbjRNOXVvZy1iZGc5S0RZaHE5dXZIWEcwY0o4WEJyTTM2OTkxRjN4RHNweXJ5enluSVJBMnNvM1V1WW45XzFId3VWSVV3V3pyS0pFcExDOWJyOEFaaXVXTm02THEwR3dNZ0pOQm9zLTRpUGpIMDN5T0FncDlacTJGVDNvekxaOWUzRm54Ml9SaXJoTGxCVEFTeEhzbTN6OVlINkRLMGkyNmNEZk92SnlhMA?oc=5",
@@ -54,11 +12,53 @@
       "source": "Engineering at Meta"
     },
     {
-      "title": "Meta removes language that may have allowed it to scrape news sites - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVcwU0FLMDJBYVQtVVJ2aXVhbGhrZ3puODEyaDQxTDI1eDVURmI2WkFEVlNPT2tqOFZvaVJkaG92WHZnLVVGZVg4b1k5YjhCaWl0OFBCYkw1cUlsQUUxbklrX1BTMm9uam1paS1wVG1tSWtncGwzb3hnVm5xV21hYVNpcUJ5UTFNRnhSNkk4WFFsQmZmcEE0b0E2dWNrQUVka3dmZnVVUFg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVcwU0FLMDJBYVQtVVJ2aXVhbGhrZ3puODEyaDQxTDI1eDVURmI2WkFEVlNPT2tqOFZvaVJkaG92WHZnLVVGZVg4b1k5YjhCaWl0OFBCYkw1cUlsQUUxbklrX1BTMm9uam1paS1wVG1tSWtncGwzb3hnVm5xV21hYVNpcUJ5UTFNRnhSNkk4WFFsQmZmcEE0b0E2dWNrQUVka3dmZnVVUFg?oc=5\" target=\"_blank\">Meta removes language that may have allowed it to scrape news sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-10-17T15:04:36+00:00",
-      "source": "The Verge"
+      "title": "Zuckerberg spent years building on Apple’s terms. His $100 billion-plus AI bet is about owning everything - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRE9ySmJRM3l3NUhKaTc5aHJJUTBXX3FhZEZheHFIYXFQd0VGYllmaXhXa3lYRGVqajJiN19pX2lRYlNRb2ZabGxfQ2ZYT3NkVm1yODNaaUdfaUx4ZzdGV3k5TnBXMjB4R2FzM25FUWh0RGFFazRLYWlVOHRxQ3pnTGd5MzVIUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNRE9ySmJRM3l3NUhKaTc5aHJJUTBXX3FhZEZheHFIYXFQd0VGYllmaXhXa3lYRGVqajJiN19pX2lRYlNRb2ZabGxfQ2ZYT3NkVm1yODNaaUdfaUx4ZzdGV3k5TnBXMjB4R2FzM25FUWh0RGFFazRLYWlVOHRxQ3pnTGd5MzVIUQ?oc=5\" target=\"_blank\">Zuckerberg spent years building on Apple’s terms. His $100 billion-plus AI bet is about owning everything</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-10-20T07:30:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Meta's Muse AI agent hits 10.9 million downloads as ChatGPT slides 25% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWlGMW5wYUxOVm4yWkhETkY2WVBaY3pQakFqZkFjQmdCMzVYdXZfU1MtQ2tlQWROZEpVVFdBQXR2SWF5b1lYYXlQYUwyNnAtaTg4NU0wUlpfamJPRjNpVUx0Ty1yblZJTVpsQkhyZkRLeG9XbEVqLUc5M2lOaW9UR2ZsTVA5TlNTbl9hTk9PVVkySllNTTVyeVJtX3NpTGlseHlFZGx0UGFXZ3kzQVB5NmllSE5rYVFqZmZ3NEFmbnVHQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWlGMW5wYUxOVm4yWkhETkY2WVBaY3pQakFqZkFjQmdCMzVYdXZfU1MtQ2tlQWROZEpVVFdBQXR2SWF5b1lYYXlQYUwyNnAtaTg4NU0wUlpfamJPRjNpVUx0Ty1yblZJTVpsQkhyZkRLeG9XbEVqLUc5M2lOaW9UR2ZsTVA5TlNTbl9hTk9PVVkySllNTTVyeVJtX3NpTGlseHlFZGx0UGFXZ3kzQVB5NmllSE5rYVFqZmZ3NEFmbnVHQQ?oc=5\" target=\"_blank\">Meta's Muse AI agent hits 10.9 million downloads as ChatGPT slides 25%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-20T15:35:32+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Mark Zuckerberg once trashed Apple. Now he’s thanking its new CEO — and had to do it on Elon Musk’s X, not Threads - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEJJOUMzbWF6ckJSMXdMb0ltYk44aFBLMW51MW9zNFZRM2pMQmM2Tjk0Rkt3V0hlY0kzbzN6WkFxYTRWOXM4LWJydUR3WmJvRGxjNTJnSXFKWUhzTDhCSU9KZlloRXEyUnZKTnpKbHV3UW9NWV9PM3h2UkJ3RlZ0RWZja3JJSlBaZXBXV2xUWVlSZmxoa05QejVoTmRRYjA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEJJOUMzbWF6ckJSMXdMb0ltYk44aFBLMW51MW9zNFZRM2pMQmM2Tjk0Rkt3V0hlY0kzbzN6WkFxYTRWOXM4LWJydUR3WmJvRGxjNTJnSXFKWUhzTDhCSU9KZlloRXEyUnZKTnpKbHV3UW9NWV9PM3h2UkJ3RlZ0RWZja3JJSlBaZXBXV2xUWVlSZmxoa05QejVoTmRRYjA?oc=5\" target=\"_blank\">Mark Zuckerberg once trashed Apple. Now he’s thanking its new CEO — and had to do it on Elon Musk’s X, not Threads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-20T15:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "I let agents plan a WNBA Finals trip (but kept my wallet to myself) - Axios",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwQUtQcnZvNXpnU1VwMUNYQjM5Y0Q2TDl3UDVYU3NydGJtanlORjRWRWVWVUVudER1dHZuMW5kRkw1d05mekJzOWYyLWtXNlhSODkzc3ZnQjBzT1RJTl9NbU1oblJpaVFtR05INC1icHpJVkZwUzRWLVNXMFEwLUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwQUtQcnZvNXpnU1VwMUNYQjM5Y0Q2TDl3UDVYU3NydGJtanlORjRWRWVWVUVudER1dHZuMW5kRkw1d05mekJzOWYyLWtXNlhSODkzc3ZnQjBzT1RJTl9NbU1oblJpaVFtR05INC1icHpJVkZwUzRWLVNXMFEwLUE?oc=5\" target=\"_blank\">I let agents plan a WNBA Finals trip (but kept my wallet to myself)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-10-20T14:35:35+00:00",
+      "source": "Axios"
+    },
+    {
+      "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5\" target=\"_blank\">Meta's AI spending, Muse assistant adoption in focus for quarterly results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-20T10:40:34+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta explains why it suspended No Kings Instagram account during day of action - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzZlRW1sclZiM1JyUzloeVQ2SV8xS3ZlaW9fS1FqSll3U1ZZZGkyeEI5eTB1bVZaZFhKNkZlRl90cU5fUmF0cjRhRVYxWEJMYWRId2hudHZRM29FbFdQUllrMGIwV1VUTDRHUS1uMXcxQVNjT09OSXk2WkZhd3dyY0ZzYXhldmoweUhCM0luS0N5NHNyekhSTXFzdw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzZlRW1sclZiM1JyUzloeVQ2SV8xS3ZlaW9fS1FqSll3U1ZZZGkyeEI5eTB1bVZaZFhKNkZlRl90cU5fUmF0cjRhRVYxWEJMYWRId2hudHZRM29FbFdQUllrMGIwV1VUTDRHUS1uMXcxQVNjT09OSXk2WkZhd3dyY0ZzYXhldmoweUhCM0luS0N5NHNyekhSTXFzdw?oc=5\" target=\"_blank\">Meta explains why it suspended No Kings Instagram account during day of action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUtKUlZFd0NXc1laRHpOdzlYQVRqWGFfWjZQWmwtYkVCYUR4NXJhWXpaSHFFZkVObmJWdmFWZ1owbjk1SGRPd3RySThpVFdTcEJ1cGxBUThkdFZ2MzA1WUo0dUpWeEZNNGRyRDhXMTFFQ3VqMHdXZzhSM0FCZW1BNzRQZ3VlZEtGN0pXVzQ2RjEwT3B5dXNZYmxWTW1kTDJNNVE?oc=5\" target=\"_blank\">Outrage after Meta suspends No Kings Instagram account during protests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHlYZ0pVYXBjU0J3d1JfZ3M1bHdXS2h4R3R4LXpaRGlySXE4dGM2cDBTRlMxZmtfX3VGTWRUSk9Sc1Q3WXdodVpoUklYVTA1dFVEUGEyU0Y2U3RLaVAyUEJ4dWJVN3JZQnNDSjdVVXJSTzM4M0s4eGNCRlo3VG9NbVJxcTgxdw?oc=5\" target=\"_blank\">Meta’s ‘No Kings’ restrictions stoke fears of potential right-wing bias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MS NOW</font></li></ol>",
+      "published": "2026-10-19T04:21:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Oversight Board Statement On Protecting Election Integrity On Meta's Platforms - The Oversight Board",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVN6Um95X2VqM0ZaY2t1RXhqMkc2Qk5lSDRNVkFpZnplU1NJQl8xaExFM0ZEVUpONHJIa0tHSWlLTENGWEQySFludTZJMFVDVXVaRnZMdlVHSkcxRnZyNDkxcjJHTE1veExqUU1Md01XZ1loMXkzMnZoT2dpU1NwejV0NWE0SDhhYW1zeVNlZm1VSjlGbzhsa3RrQW5oUEhDQmJiMlFPM1BGaDhWZGJ1NnBhZjE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVN6Um95X2VqM0ZaY2t1RXhqMkc2Qk5lSDRNVkFpZnplU1NJQl8xaExFM0ZEVUpONHJIa0tHSWlLTENGWEQySFludTZJMFVDVXVaRnZMdlVHSkcxRnZyNDkxcjJHTE1veExqUU1Md01XZ1loMXkzMnZoT2dpU1NwejV0NWE0SDhhYW1zeVNlZm1VSjlGbzhsa3RrQW5oUEhDQmJiMlFPM1BGaDhWZGJ1NnBhZjE?oc=5\" target=\"_blank\">Oversight Board Statement On Protecting Election Integrity On Meta's Platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oversight Board</font>",
+      "published": "2026-10-20T09:00:02+00:00",
+      "source": "The Oversight Board"
     }
   ],
   "product_launches": [
@@ -84,32 +84,28 @@
       "source": "TechCrunch"
     },
     {
-      "title": "What to know about Meta’s new ‘Wonder’ AI models - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5yT0RkRGNIYm81NmlFcmwxMmhCbkk0MHQ2bnZMRTJ6LTd6RFRqeDBOOEJpU205ZjV6Q0RUZnBVeXpnb09HRElPUHU3bmNPOHNQNFhEcVFadERzaERpd3kyUk1vRk5aN09BS01haU1pdV9xQkx4UXI1SW1TZS1KYXVnRmZnYVlnbmRkZ25RRk1WaEloRkZJbUZqeEpZLUNjYkhPUFI3aDFkQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5yT0RkRGNIYm81NmlFcmwxMmhCbkk0MHQ2bnZMRTJ6LTd6RFRqeDBOOEJpU205ZjV6Q0RUZnBVeXpnb09HRElPUHU3bmNPOHNQNFhEcVFadERzaERpd3kyUk1vRk5aN09BS01haU1pdV9xQkx4UXI1SW1TZS1KYXVnRmZnYVlnbmRkZ25RRk1WaEloRkZJbUZqeEpZLUNjYkhPUFI3aDFkQQ?oc=5\" target=\"_blank\">What to know about Meta’s new ‘Wonder’ AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "published": "2026-10-13T11:04:05+00:00",
-      "source": "Euronews.com"
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3lldmNsTC1STzIzTnVJajFDSFNBYjQ2YnEyajFiZ240VTlONUNMaUlXTEJ1X19aOHRxN0FpRlhmT1Y0N050MVZ1ZTN0cEQ4TUtud2tRN1Q0MTRwck1IOTJkZkpiMjFNam54UHdvZnYwQ0xWVWNueHFLSEF5T1dfS1EtbW9wTjNYbHZ2VEx4c0JUQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3lldmNsTC1STzIzTnVJajFDSFNBYjQ2YnEyajFiZ240VTlONUNMaUlXTEJ1X19aOHRxN0FpRlhmT1Y0N050MVZ1ZTN0cEQ4TUtud2tRN1Q0MTRwck1IOTJkZkpiMjFNam54UHdvZnYwQ0xWVWNueHFLSEF5T1dfS1EtbW9wTjNYbHZ2VEx4c0JUQQ?oc=5\" target=\"_blank\">Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-09-23T07:00:00+00:00",
+      "source": "The Verge"
     },
     {
-      "title": "SanDisk named exclusive storage partner for Meta VR Glasses - ChannelLife UK",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnQwLXFoUVFPa1JsZWRvLWV2THRpcUFxcTd5U1VfYXZLODZUZnowRG95amRZemVVVTROWlpPYXJZcFFBeWV5RkNDZ0JpcDJNaGtlaU0zMGZ4d2N3N2piTW9GWUpYdmRJME8zdVlyZERxbk5QWGQ0QXBuWU4xNDAxMXAyMkpqWlBqeVFHTmp6blRGNkJTSGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnQwLXFoUVFPa1JsZWRvLWV2THRpcUFxcTd5U1VfYXZLODZUZnowRG95amRZemVVVTROWlpPYXJZcFFBeWV5RkNDZ0JpcDJNaGtlaU0zMGZ4d2N3N2piTW9GWUpYdmRJME8zdVlyZERxbk5QWGQ0QXBuWU4xNDAxMXAyMkpqWlBqeVFHTmp6blRGNkJTSGc?oc=5\" target=\"_blank\">SanDisk named exclusive storage partner for Meta VR Glasses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChannelLife UK</font>",
-      "published": "2026-10-19T05:38:00+00:00",
-      "source": "ChannelLife UK"
+      "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjk1X0RPQVJ6YXU1a08yWGRzMEdHUjVmU3lkbjcySmZibDZ4M2dXQTVodzNrbl9jRUNaZmpHSFJqdlFRaVI5NlZFR0Zab0prdzM3NW9QVm9UM2FTSzgtZGNaTTdydTlBcUFyUHczYTlDcGZZNC15emRpN1hRQl9Dc1pxQTlVS015dldSMHJOc0dMQ2pXV0swadIBngFBVV95cUxQdGRnU0tuRTZhTUt1MVBOMUY0Z3RJWGU2WWJIcDFsT09KNzF4WHBkV1JIaXhfZk0zSUZaRmRrbE9xb1luWDYyYm0xOFFXNjMtQ3BtRUc0TkxTd2FiaUhFS3kzRHlLdWhBaTAxbXNaeTdRakp5dTZmTVFFcFkyOVNyNk9HNXA4aHRDOG5EX1BpaEdFSnkzRmZHdzZUczNwUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjk1X0RPQVJ6YXU1a08yWGRzMEdHUjVmU3lkbjcySmZibDZ4M2dXQTVodzNrbl9jRUNaZmpHSFJqdlFRaVI5NlZFR0Zab0prdzM3NW9QVm9UM2FTSzgtZGNaTTdydTlBcUFyUHczYTlDcGZZNC15emRpN1hRQl9Dc1pxQTlVS015dldSMHJOc0dMQ2pXV0swadIBngFBVV95cUxQdGRnU0tuRTZhTUt1MVBOMUY0Z3RJWGU2WWJIcDFsT09KNzF4WHBkV1JIaXhfZk0zSUZaRmRrbE9xb1luWDYyYm0xOFFXNjMtQ3BtRUc0TkxTd2FiaUhFS3kzRHlLdWhBaTAxbXNaeTdRakp5dTZmTVFFcFkyOVNyNk9HNXA4aHRDOG5EX1BpaEdFSnkzRmZHdzZUczNwUQ?oc=5\" target=\"_blank\">Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+      "published": "2026-09-15T07:00:00+00:00",
+      "source": "Facebook"
     }
   ],
   "stock": {
     "ticker": "META",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-19",
-      "close": 702.0430297851562
+      "date": "2026-10-20",
+      "close": 692.4000244140625
     },
     "history": [
-      {
-        "date": "2026-10-09",
-        "close": 718.6699829101562
-      },
       {
         "date": "2026-10-12",
         "close": 742.9600219726562
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-19",
-        "close": 702.0430297851562
+        "close": 705.4400024414062
+      },
+      {
+        "date": "2026-10-20",
+        "close": 692.4000244140625
       }
     ],
     "name": "Meta Platforms, Inc."

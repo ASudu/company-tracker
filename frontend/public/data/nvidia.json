@@ -2,28 +2,35 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-10-19T17:57:26.669158+00:00",
+  "fetched_at": "2026-10-20T16:01:18.114993+00:00",
   "news": [
     {
-      "title": "Exclusive | Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZ3djBBc0dFbnhMb2NnWk15VWNMRnFDMk90dUtJSWJQWGhPak41eGhDYVE0WEJONXRuMlZ6dDExLVZFR1dsSXhpQ05PbUdzdmRYeXMxN19zMlBBeDFyMnlXc1FQVnY2OEp2STRMSVp3YnQtc3FGQ050anJPVk1nWnZDSzQ2eHp2czZIQlhEWFlJblUtc1NfRTJYbFppMFB1YzJCYWoxNmExbVBzeEVn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZ3djBBc0dFbnhMb2NnWk15VWNMRnFDMk90dUtJSWJQWGhPak41eGhDYVE0WEJONXRuMlZ6dDExLVZFR1dsSXhpQ05PbUdzdmRYeXMxN19zMlBBeDFyMnlXc1FQVnY2OEp2STRMSVp3YnQtc3FGQ050anJPVk1nWnZDSzQ2eHp2czZIQlhEWFlJblUtc1NfRTJYbFppMFB1YzJCYWoxNmExbVBzeEVn?oc=5\" target=\"_blank\">Exclusive | Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-10-19T12:00:00+00:00",
-      "source": "WSJ"
+      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5\" target=\"_blank\">EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-20T15:51:20+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5\" target=\"_blank\">Nvidia launches new open models to run agents in the enterprise and on PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-10-19T15:37:09+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWxscjdzeUEyVFZ2b0lPdUtwOEVfN0F1ZWh5dlgtNlZSNVQtOFpEZlVWYWxtaVBWUnNWaU81UjBJQmh3UTRfYTNTYjNjOFJmNlJERk1kSVdBZ1FYd2VLNUlLcm5LZF96WWFmZk12R2kxV0NIWEp6eF9BN190NTJOSGNFNk40bWVONmxXTU9kd243NmYwVmkzc0pn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWxscjdzeUEyVFZ2b0lPdUtwOEVfN0F1ZWh5dlgtNlZSNVQtOFpEZlVWYWxtaVBWUnNWaU81UjBJQmh3UTRfYTNTYjNjOFJmNlJERk1kSVdBZ1FYd2VLNUlLcm5LZF96WWFmZk12R2kxV0NIWEp6eF9BN190NTJOSGNFNk40bWVONmxXTU9kd243NmYwVmkzc0pn?oc=5\" target=\"_blank\">Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-19T17:40:07+00:00",
+      "title": "Nvidia Reportedly Sees Alibaba, ByteDance, Tencent Order $35B In RTX PRO 5500 Chips Amid US Export Curbs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2RVUTh6TU1FUnhqeTlFQi10b3RublpRWmUwSnNBNlA0SXlyTGxGd2lfNmxFSFpMQlh2WEdKZlVHMExtbjV5azVUbE1fV3RLMmtvRG1vQnFNS2o2V0p4SzJRSGlWNC1rTkFGOU1IaEFDUHMzSjhjNV9tbTBVNW5USGtQOXQ2cEpzelVKZUhkMnhGZmJMNE5obW5XOHphYzFkYXdQRWFTUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2RVUTh6TU1FUnhqeTlFQi10b3RublpRWmUwSnNBNlA0SXlyTGxGd2lfNmxFSFpMQlh2WEdKZlVHMExtbjV5azVUbE1fV3RLMmtvRG1vQnFNS2o2V0p4SzJRSGlWNC1rTkFGOU1IaEFDUHMzSjhjNV9tbTBVNW5USGtQOXQ2cEpzelVKZUhkMnhGZmJMNE5obW5XOHphYzFkYXdQRWFTUQ?oc=5\" target=\"_blank\">Nvidia Reportedly Sees Alibaba, ByteDance, Tencent Order $35B In RTX PRO 5500 Chips Amid US Export Curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-20T10:48:26+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc?oc=5\" target=\"_blank\">ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "published": "2026-10-20T09:29:35+00:00",
+      "source": "Investing.com"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3?oc=5\" target=\"_blank\">Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-10-19T20:09:24+00:00",
+      "source": "TechCrunch"
     },
     {
       "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia - Reuters",
@@ -33,32 +40,25 @@
       "source": "Reuters"
     },
     {
-      "title": "How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia - The Information",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2RQSmZ0elVhQmxYNy1qajBvNDl5NlVmRlFfWlg1WHBtUGVicUNEZEFEbmR5eTVyOGY4cnpRc0tMVGxFTFIyV2pQTEtSLXpTT09KeUFndkV5bktmSERxQmcxX1FUNnhRMlZHdHQ4MnRMRzhuQ1JfajZ3Q1RncXRlVFcwNVBQdV93a0xvUVFEb2VfQlNvbG41dmVNSktQRk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2RQSmZ0elVhQmxYNy1qajBvNDl5NlVmRlFfWlg1WHBtUGVicUNEZEFEbmR5eTVyOGY4cnpRc0tMVGxFTFIyV2pQTEtSLXpTT09KeUFndkV5bktmSERxQmcxX1FUNnhRMlZHdHQ4MnRMRzhuQ1JfajZ3Q1RncXRlVFcwNVBQdV93a0xvUVFEb2VfQlNvbG41dmVNSktQRk0?oc=5\" target=\"_blank\">How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-10-19T16:00:00+00:00",
-      "source": "The Information"
+      "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4?oc=5\" target=\"_blank\">Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+      "published": "2026-10-20T01:15:18+00:00",
+      "source": "Wccftech"
     },
     {
-      "title": "What a New Nvidia-Backed AI Platform Means for Honeywell Stock - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbk1EeDdqMm9weEtscHJScW5FeTY5aEtfV3hwb3ZnVjJJa0ZtRWNmSXZWZm5sYm1Jdi1ubnpLOTNjRk1CMVNKMkF2VTdwVmhxWXBETGc0S2prYjM1T1hHZ0YwendsMWw5MDFMYzFFeXZuT0FWcXYwblJPemdtN21BUnBldkFfZVJuYWhTQ0gxR2V1XzAtVkNqTnJRNGdwNUZpSkpOeEYyb3VyQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbk1EeDdqMm9weEtscHJScW5FeTY5aEtfV3hwb3ZnVjJJa0ZtRWNmSXZWZm5sYm1Jdi1ubnpLOTNjRk1CMVNKMkF2VTdwVmhxWXBETGc0S2prYjM1T1hHZ0YwendsMWw5MDFMYzFFeXZuT0FWcXYwblJPemdtN21BUnBldkFfZVJuYWhTQ0gxR2V1XzAtVkNqTnJRNGdwNUZpSkpOeEYyb3VyQQ?oc=5\" target=\"_blank\">What a New Nvidia-Backed AI Platform Means for Honeywell Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
-      "published": "2026-10-18T18:30:02+00:00",
-      "source": "Barchart.com"
+      "title": "These 2 Billionaires Like Nvidia (NVDA). Should You Buy the Dip Ahead of Earnings? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcU1rMWN2eGFCdXlWYXkyT3BoRnZOcXJNM3EtaUtEVk1TeThzQ19PRTZSVlhyYk5DdjkwUHNDS2t5QjVtRExBTjMtRTREdGd4SW5KX0lMa1lTOVE1NDltdXNTSUl1ZXdZQmJyVVdwWGphVERZSDlpUTlVS3lmZzBENmRGSVRWNHhkVDdYb2RyNWZ0dk1CVDVyZ3U4dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcU1rMWN2eGFCdXlWYXkyT3BoRnZOcXJNM3EtaUtEVk1TeThzQ19PRTZSVlhyYk5DdjkwUHNDS2t5QjVtRExBTjMtRTREdGd4SW5KX0lMa1lTOVE1NDltdXNTSUl1ZXdZQmJyVVdwWGphVERZSDlpUTlVS3lmZzBENmRGSVRWNHhkVDdYb2RyNWZ0dk1CVDVyZ3U4dw?oc=5\" target=\"_blank\">These 2 Billionaires Like Nvidia (NVDA). Should You Buy the Dip Ahead of Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-20T15:01:52+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport — two pallets disappear, distributor seeks explanations but met with zero answers - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdVRCd045dWpxbE5idXhyVzhYNV9ydG9fTm9ycTl1QmtPXzhFT01CSTlYamI5NUVCV0U3YmtBNmZpOF9CeV92LXFvbEVoa1lMTXhuVUhNUDgxREMzeTVqR1lqNmN3Tll1cDNmMnQ1M21mOU5fU3hwZTBSLXNkQV9pbnAxWDVuZnpSaVB3Vk5WR01tY0p2ajNhWmpkaVpoa05CeGx2UUZMeTVyVlFicXYxdG1iR2hZbFVkdHBQb3hWdkFNSWRwRU1Nc2JZelF6YnhkOEhrODRYaTJYNVhYMHBUcXFsc1FhbTM2UVlGcDZtNHBtbFFFNlcxNzRKRXIwNkhsa2dWaFIwM3h2QUVfWDBvOThvWndMd3oxQ3ZIby1wZE5DX2I5bXgzcURn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdVRCd045dWpxbE5idXhyVzhYNV9ydG9fTm9ycTl1QmtPXzhFT01CSTlYamI5NUVCV0U3YmtBNmZpOF9CeV92LXFvbEVoa1lMTXhuVUhNUDgxREMzeTVqR1lqNmN3Tll1cDNmMnQ1M21mOU5fU3hwZTBSLXNkQV9pbnAxWDVuZnpSaVB3Vk5WR01tY0p2ajNhWmpkaVpoa05CeGx2UUZMeTVyVlFicXYxdG1iR2hZbFVkdHBQb3hWdkFNSWRwRU1Nc2JZelF6YnhkOEhrODRYaTJYNVhYMHBUcXFsc1FhbTM2UVlGcDZtNHBtbFFFNlcxNzRKRXIwNkhsa2dWaFIwM3h2QUVfWDBvOThvWndMd3oxQ3ZIby1wZE5DX2I5bXgzcURn?oc=5\" target=\"_blank\">Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport — two pallets disappear, distributor seeks explanations but met with zero answers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-10-18T13:24:23+00:00",
-      "source": "Tom's Hardware"
-    },
-    {
-      "title": "The RTX 5090 Isn’t ‘Alive’ if It Costs $10,000, No Matter What Nvidia Says - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsS1JVS3FMQ2NGWDZacTl6ODlCZ3JPckNHUTdHal9sTDJ4UTdVNVZ1bDVyWG9Pb2Q5aTRNdFR6UF9ERmNoOU1KSHhENmVCOXE5ejVxWTI1bVlSTlNnSTVOcDFicTNRZDRNNmdz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBsS1JVS3FMQ2NGWDZacTl6ODlCZ3JPckNHUTdHal9sTDJ4UTdVNVZ1bDVyWG9Pb2Q5aTRNdFR6UF9ERmNoOU1KSHhENmVCOXE5ejVxWTI1bVlSTlNnSTVOcDFicTNRZDRNNmdz?oc=5\" target=\"_blank\">The RTX 5090 Isn’t ‘Alive’ if It Costs $10,000, No Matter What Nvidia Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-10-19T15:30:20+00:00",
-      "source": "Gizmodo"
+      "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWY2TFFHY3ZtRy1oc2w2YkZyQ0FxSnhSRzZCTmxBVVJNNFdtUXZEQ29UZ1FXYm5yMXFXZ1NZSHVKMjBuWm9ydVc1bVp4cXBwZnFqcmFZOFl5MnZvM2psWlM5aTNuNlUwbDhjejBBMTZQT1JBSkk4bDFYWkV0SEQ2WGp4SUVkaUFnY3lZa19R0gGTAUFVX3lxTE5RaEk5ZVNWazYwOHFKT1ZxaGpBUVY3em5JX1hxS3Y3Q0NTZE96QnhKWVd1dHVpb25YS09Ielc1RjNCN0ktUERHMllFSV9fMllzNDZRbTQyTGEwZ2YyTHRmSlFjMXlBcjBtcHpjNGhOZTQ3MEpGTURzZzR4bEctbldqRkgzNC1sd21CY24zTk1MYllyOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWY2TFFHY3ZtRy1oc2w2YkZyQ0FxSnhSRzZCTmxBVVJNNFdtUXZEQ29UZ1FXYm5yMXFXZ1NZSHVKMjBuWm9ydVc1bVp4cXBwZnFqcmFZOFl5MnZvM2psWlM5aTNuNlUwbDhjejBBMTZQT1JBSkk4bDFYWkV0SEQ2WGp4SUVkaUFnY3lZa19R0gGTAUFVX3lxTE5RaEk5ZVNWazYwOHFKT1ZxaGpBUVY3em5JX1hxS3Y3Q0NTZE96QnhKWVd1dHVpb25YS09Ielc1RjNCN0ktUERHMllFSV9fMllzNDZRbTQyTGEwZ2YyTHRmSlFjMXlBcjBtcHpjNGhOZTQ3MEpGTURzZzR4bEctbldqRkgzNC1sd21CY24zTk1MYllyOA?oc=5\" target=\"_blank\">‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-10-20T02:16:00+00:00",
+      "source": "CNBC"
     }
   ],
   "product_launches": [
@@ -70,24 +70,17 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5\" target=\"_blank\">RTX Spark Ignites Global Celebration as New Windows PCs Arrive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
-      "published": "2026-10-17T21:03:57+00:00",
-      "source": "NVIDIA Blog"
-    },
-    {
-      "title": "NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ?oc=5\" target=\"_blank\">NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
-      "published": "2026-10-16T07:00:00+00:00",
+      "title": "NVIDIA RTX Spark Laptops Launch at $2,399 [2026] - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3aG9nSUIxb3JubFFEalpzUzRtb2NRdEt0a2hlLUs0U2sxSTV3VXNHUVJFQ1Q4d0dRN2VISnhqLUhNa0l1ekRQeTJCeVlYWWx0Xzk1ODJMY3cwZ3luWXdSUjlDbWxFZ0EtakVkVG55T3Q?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB3aG9nSUIxb3JubFFEalpzUzRtb2NRdEt0a2hlLUs0U2sxSTV3VXNHUVJFQ1Q4d0dRN2VISnhqLUhNa0l1ekRQeTJCeVlYWWx0Xzk1ODJMY3cwZ3luWXdSUjlDbWxFZ0EtakVkVG55T3Q?oc=5\" target=\"_blank\">NVIDIA RTX Spark Laptops Launch at $2,399 [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
+      "published": "2026-10-20T01:41:32+00:00",
       "source": "shattered.io"
     },
     {
-      "title": "NVIDIA RTX Spark Laptops Launch at $2,599, 128GB [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTWo1Y3NFLUJHQ3k3N3ZxeGotajJORVZuX1VqM1B6X1pJMlBvZDcxdVU3QjZiNXZ2dnplaG1lTC0xanVMLXpoTXNUTnVlZmdreDRRUl9uVGRWZEtoMzFtWW1qY3NzakpCRFp1b0xuWF9kMW5kbHRPMTUtaDQyZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTWo1Y3NFLUJHQ3k3N3ZxeGotajJORVZuX1VqM1B6X1pJMlBvZDcxdVU3QjZiNXZ2dnplaG1lTC0xanVMLXpoTXNUTnVlZmdreDRRUl9uVGRWZEtoMzFtWW1qY3NzakpCRFp1b0xuWF9kMW5kbHRPMTUtaDQyZw?oc=5\" target=\"_blank\">NVIDIA RTX Spark Laptops Launch at $2,599, 128GB [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
-      "published": "2026-10-16T05:47:17+00:00",
+      "title": "NVIDIA RTX Spark Price: $2,599 to $5,999 (Oct. 16) [2026] - https://tech-insider.org/",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMXphRDY3WTVhaXNLb2hpMVlLRlNtTDZsVHJJRmRLZmJtaUg1QnlCUEpVeDVhSF9qc1V4dWt1YWV1OFNobXBfS3B1MXlVd2VaREdXR3h2c0czaXBtSlRLVEtiZXJSQW1YbjVnVlZDNlBYVklyUjBFdA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMXphRDY3WTVhaXNLb2hpMVlLRlNtTDZsVHJJRmRLZmJtaUg1QnlCUEpVeDVhSF9qc1V4dWt1YWV1OFNobXBfS3B1MXlVd2VaREdXR3h2c0czaXBtSlRLVEtiZXJSQW1YbjVnVlZDNlBYVklyUjBFdA?oc=5\" target=\"_blank\">NVIDIA RTX Spark Price: $2,599 to $5,999 (Oct. 16) [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
+      "published": "2026-10-02T07:00:00+00:00",
       "source": "https://tech-insider.org/"
     },
     {
@@ -96,20 +89,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5\" target=\"_blank\">Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "published": "2026-09-28T07:00:00+00:00",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive - NVIDIA Blog",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5\" target=\"_blank\">RTX Spark Ignites Global Celebration as New Windows PCs Arrive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
+      "published": "2026-10-17T21:03:57+00:00",
+      "source": "NVIDIA Blog"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-19",
-      "close": 217.13499450683594
+      "date": "2026-10-20",
+      "close": 217.4199981689453
     },
     "history": [
-      {
-        "date": "2026-10-09",
-        "close": 229.27999877929688
-      },
       {
         "date": "2026-10-12",
         "close": 226.32000732421875
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-19",
-        "close": 217.13499450683594
+        "close": 217.08999633789062
+      },
+      {
+        "date": "2026-10-20",
+        "close": 217.4199981689453
       }
     ],
     "name": "NVIDIA Corporation"
