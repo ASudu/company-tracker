@@ -2,72 +2,86 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-10-20T16:01:12.795342+00:00",
+  "fetched_at": "2026-10-21T16:18:19.674355+00:00",
   "news": [
     {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3?oc=5\" target=\"_blank\">Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-10-19T20:09:24+00:00",
-      "source": "TechCrunch"
+      "title": "Amazon to hire more than 300,000 US workers for holiday shopping rush - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3RWY2ZGY3kzeGtwb05DVUZ3S3hSNkE4UF9LT2ZfZUZNUHUxRXk5ODlfYzVPS1V5R1hLdG1ITmhkX19QMlp2T3NfOW81TjViWUZsSEcyRFppT2RqRmktdmF2Z2V3d3Z5T1pmbkFMdVU5V0hOWXlQQ2hwS1lfVERTcEFOaXo1T2ZqamY2TWxzV28zMkhOOGN1VU5QVDjSAaIBQVVfeXFMTmZFZTlVLWVBbjRDTUpwbjJnYVVOUER5UTBLRXp4TGtHUGFDSHRZMU9tRlVvcDRkRU4zWUVLcFhLYnEyaXNJQkp6UWgyZVZQZjRsbW5mT0xveVJ0Q296NlhtNXNvQkVMeXlYNXZGSG91Wm1CeVBZT2VPdFd6VnZkT2lKT21oOW9zYmU1ODhZcUZINlQwa3ppQnVFUkdpX1loVFB3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3RWY2ZGY3kzeGtwb05DVUZ3S3hSNkE4UF9LT2ZfZUZNUHUxRXk5ODlfYzVPS1V5R1hLdG1ITmhkX19QMlp2T3NfOW81TjViWUZsSEcyRFppT2RqRmktdmF2Z2V3d3Z5T1pmbkFMdVU5V0hOWXlQQ2hwS1lfVERTcEFOaXo1T2ZqamY2TWxzV28zMkhOOGN1VU5QVDjSAaIBQVVfeXFMTmZFZTlVLWVBbjRDTUpwbjJnYVVOUER5UTBLRXp4TGtHUGFDSHRZMU9tRlVvcDRkRU4zWUVLcFhLYnEyaXNJQkp6UWgyZVZQZjRsbW5mT0xveVJ0Q296NlhtNXNvQkVMeXlYNXZGSG91Wm1CeVBZT2VPdFd6VnZkT2lKT21oOW9zYmU1ODhZcUZINlQwa3ppQnVFUkdpX1loVFB3?oc=5\" target=\"_blank\">Amazon to hire more than 300,000 US workers for holiday shopping rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-10-20T20:22:00+00:00",
+      "source": "Fox Business"
     },
     {
-      "title": "Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGpCQnlRaUpuSnFURWFWVF9IbHRETVhEZkZXOFVVOG1KTWVxZzBvZHNENmFEX2F6SFlUZkRJdTVWc0ZHZWNDYXV3RDNwU0hmME1LcVBJTGJIVThZTmlmeTFneUdkb1UteVpYeUV3UlBaeEhnWXZyWFJ2TklyTDZjT0plUUR1cmRDTzBtZGozSkZKY0FSS0pMQS1WRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGpCQnlRaUpuSnFURWFWVF9IbHRETVhEZkZXOFVVOG1KTWVxZzBvZHNENmFEX2F6SFlUZkRJdTVWc0ZHZWNDYXV3RDNwU0hmME1LcVBJTGJIVThZTmlmeTFneUdkb1UteVpYeUV3UlBaeEhnWXZyWFJ2TklyTDZjT0plUUR1cmRDTzBtZGozSkZKY0FSS0pMQS1WRQ?oc=5\" target=\"_blank\">Amazon opens its AWS Trainium AI chips to every PyTorch developer, no rewrite needed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-10-19T13:06:25+00:00",
-      "source": "About Amazon"
+      "title": "Amazon hiring more than 6,000 workers in Greater Houston for holiday season - Click2Houston",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWV9iVnVvRTZMYkNzRXdQcFNpRVdkUGNiVU93cTVmRVd6Vlg0SW96TXRPN29VX2R0NUxYcmhzbTRzQmFJUENiRjl1MEpnUzl3aENRQXJvTGxuSk9YSlloZ180Z3BPZWNxZzdfcVVoQmZjUHJmanNYX1JuUnMtSURPYzBJTnlyU0dqRnE0WXJuRHd5RlZFZEZzcXNWaHlRMWhkSElUclJiV0FianRZMWw3SmhuV1RzbDI4LXUyaXpjSTM3RTdXV0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWV9iVnVvRTZMYkNzRXdQcFNpRVdkUGNiVU93cTVmRVd6Vlg0SW96TXRPN29VX2R0NUxYcmhzbTRzQmFJUENiRjl1MEpnUzl3aENRQXJvTGxuSk9YSlloZ180Z3BPZWNxZzdfcVVoQmZjUHJmanNYX1JuUnMtSURPYzBJTnlyU0dqRnE0WXJuRHd5RlZFZEZzcXNWaHlRMWhkSElUclJiV0FianRZMWw3SmhuV1RzbDI4LXUyaXpjSTM3RTdXV0E?oc=5\" target=\"_blank\">Amazon hiring more than 6,000 workers in Greater Houston for holiday season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font>",
+      "published": "2026-10-20T18:02:37+00:00",
+      "source": "Click2Houston"
     },
     {
-      "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4?oc=5\" target=\"_blank\">Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
-      "published": "2026-10-20T01:15:18+00:00",
-      "source": "Wccftech"
+      "title": "Amazon seeks 8,000 metro Detroit workers for holidays - Axios",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXR0VEpMYXdsdHpCVmVlcFRydUE1MDViSUh0M2pTN3FFMjM3XzR2Z1NBMTcwUlNBVUhHRlZibGxrMWRPNmVxNmFMbjRyTWxYUk1VNTBfRUtadGpQd3d5NEVKemxtdjVERGJObnFZZ2NqR1pldHRjNjg1NW5fM1hEUzFUNjdjQmUwTHpUbG5IWWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORXR0VEpMYXdsdHpCVmVlcFRydUE1MDViSUh0M2pTN3FFMjM3XzR2Z1NBMTcwUlNBVUhHRlZibGxrMWRPNmVxNmFMbjRyTWxYUk1VNTBfRUtadGpQd3d5NEVKemxtdjVERGJObnFZZ2NqR1pldHRjNjg1NW5fM1hEUzFUNjdjQmUwTHpUbG5IWWM?oc=5\" target=\"_blank\">Amazon seeks 8,000 metro Detroit workers for holidays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-10-21T10:34:18+00:00",
+      "source": "Axios"
     },
     {
-      "title": "AWS's CFO joked about the financial toll of AI. An internal recording reveals why. - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEZnVnJtTG9xWFdXSExvcXVNQU9fS3lNQTY5RlNTMWtyR3V5MXVob3RpSXFVN3ZsMTExNnhYUUNUNHlNclhNWENaeHcwbVFEclVGX3JBWjBLU3drck4tUGcwZHRFV25lWXhidWdyNmlLQ1JRdzNtV242clJyOGZpbU9FNjdWNTE1Sl8yLThkRFM1ZWxxbEp3MFQ5SW50cFk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEZnVnJtTG9xWFdXSExvcXVNQU9fS3lNQTY5RlNTMWtyR3V5MXVob3RpSXFVN3ZsMTExNnhYUUNUNHlNclhNWENaeHcwbVFEclVGX3JBWjBLU3drck4tUGcwZHRFV25lWXhidWdyNmlLQ1JRdzNtV242clJyOGZpbU9FNjdWNTE1Sl8yLThkRFM1ZWxxbEp3MFQ5SW50cFk?oc=5\" target=\"_blank\">AWS's CFO joked about the financial toll of AI. An internal recording reveals why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-10-19T09:00:00+00:00",
+      "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime - Retail Dive",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2otZWFoQUtaZHE1RmNweFBJc2paTEtjbF84QTJ3V3lGa0s3eDJPRGJsekhJM0JXTnMyMXVPNXRZc2JhcnA0RWhnN3d4dVVudHNQMFlLeElzZmdhVFp6UzYtZ2NVOU5Oa09rM2lRRmROTTdjUEktMmYzZVh5Z2hvR3NBR29IX3ZuNjdQdERFM0FlNk51c21fQVl3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2otZWFoQUtaZHE1RmNweFBJc2paTEtjbF84QTJ3V3lGa0s3eDJPRGJsekhJM0JXTnMyMXVPNXRZc2JhcnA0RWhnN3d4dVVudHNQMFlLeElzZmdhVFp6UzYtZ2NVOU5Oa09rM2lRRmROTTdjUEktMmYzZVh5Z2hvR3NBR29IX3ZuNjdQdERFM0FlNk51c21fQVl3?oc=5\" target=\"_blank\">Walmart enlists Sam’s Club in latest challenge to Amazon Prime</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Retail Dive</font>",
+      "published": "2026-10-20T16:27:53+00:00",
+      "source": "Retail Dive"
+    },
+    {
+      "title": "Walmart Bundles Sam’s Club Membership With Its Online Subscription - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUppU25FU0g1YXhaMGxPMy1uSS1VamhZM2FUdUhJVlB2VmxMSklOUzFzOWJHNjlneUNJSU81SThsWDk3SUZyeVdrZHEwQktZMkRma0thRXNCNmtsRjEybFpGel9uaVV1RExScWU2ZXlVZU94VEVYT2hzTHJzOEVMWkdlVWlVZU0wY2YyZHVmdGFhVG1sc3EtSEdnV211bHgySFh5ZmxLVEVMUVM5MzM1ZUFVbV9ZV2I0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUppU25FU0g1YXhaMGxPMy1uSS1VamhZM2FUdUhJVlB2VmxMSklOUzFzOWJHNjlneUNJSU81SThsWDk3SUZyeVdrZHEwQktZMkRma0thRXNCNmtsRjEybFpGel9uaVV1RExScWU2ZXlVZU94VEVYT2hzTHJzOEVMWkdlVWlVZU0wY2YyZHVmdGFhVG1sc3EtSEdnV211bHgySFh5ZmxLVEVMUVM5MzM1ZUFVbV9ZV2I0?oc=5\" target=\"_blank\">Walmart Bundles Sam’s Club Membership With Its Online Subscription</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-10-20T10:00:00+00:00",
+      "source": "Bloomberg.com"
+    },
+    {
+      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal? - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGpna3JPcFBLTHp4TzVNbnJRQ3ROM1ZHTngtMDZObUVYRlZxNGdGVWszQmYzN3JYNldXX05aOGh0N1VBN0x0c2cxd09Va0JMVVRaWmJQM0Mza3NUTVAycktYSm9yYnViVkJOMVpGRWRUTTVTR3F5X1NDTGltSE50eV9QVjltaVBJTEdsTmUzMm55WGg2UHhyTzRvUDdPbkJqU1FDQ3RiRjNObDBxOThGT3NlMzY1NWprbl9wUHp2WnVQekFKWlEtem1PSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGpna3JPcFBLTHp4TzVNbnJRQ3ROM1ZHTngtMDZObUVYRlZxNGdGVWszQmYzN3JYNldXX05aOGh0N1VBN0x0c2cxd09Va0JMVVRaWmJQM0Mza3NUTVAycktYSm9yYnViVkJOMVpGRWRUTTVTR3F5X1NDTGltSE50eV9QVjltaVBJTEdsTmUzMm55WGg2UHhyTzRvUDdPbkJqU1FDQ3RiRjNObDBxOThGT3NlMzY1NWprbl9wUHp2WnVQekFKWlEtem1PSQ?oc=5\" target=\"_blank\">Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "published": "2026-10-20T21:47:00+00:00",
+      "source": "MarketWatch"
+    },
+    {
+      "title": "I found this week’s best Amazon deals from Ego, Philips, Twelve South and more - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Xa2NPQzBvV1ZmV2xBbTZlM3hSTXZPRU1KV3VuemNVYTJzejBHNk5ZWHVBWk4wMG42SndhQ1pnRk5YdjJsNXdzUVh1dGRuTmkyeGNIRWtZQjRNV1FTb3VmdzZ6T3YwQ0VHUTZONVlobDJSMGlQTFN2QUNB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1Xa2NPQzBvV1ZmV2xBbTZlM3hSTXZPRU1KV3VuemNVYTJzejBHNk5ZWHVBWk4wMG42SndhQ1pnRk5YdjJsNXdzUVh1dGRuTmkyeGNIRWtZQjRNV1FTb3VmdzZ6T3YwQ0VHUTZONVlobDJSMGlQTFN2QUNB?oc=5\" target=\"_blank\">I found this week’s best Amazon deals from Ego, Philips, Twelve South and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2026-10-21T15:30:00+00:00",
+      "source": "CNN"
+    },
+    {
+      "title": "Shoppers turn to Amazon for fresh produce and seafood, helping it take market share from supermarkets - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmotSU56TkhWamZJZ3kzc0pBdVpHQlE4MzJyZ3hnUnNzdjI2WENHbDlfVHB1QXM5UjFObGJzTTI5WXRrczNabzBvZ3JDZW5sMlRkLWRnaDBvekZ1X0ZCYmRRS1RhcUh6UnUxTW01ajJfQkpPZ3puNlQ0Yjk5RWM3NDVCR1Boa3FRR0JnbVJLOTVuS1pXeDMyOXlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmotSU56TkhWamZJZ3kzc0pBdVpHQlE4MzJyZ3hnUnNzdjI2WENHbDlfVHB1QXM5UjFObGJzTTI5WXRrczNabzBvZ3JDZW5sMlRkLWRnaDBvekZ1X0ZCYmRRS1RhcUh6UnUxTW01ajJfQkpPZ3puNlQ0Yjk5RWM3NDVCR1Boa3FRR0JnbVJLOTVuS1pXeDMyOXlB?oc=5\" target=\"_blank\">Shoppers turn to Amazon for fresh produce and seafood, helping it take market share from supermarkets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-10-21T15:49:00+00:00",
       "source": "Business Insider"
-    },
-    {
-      "title": "Amazon is creating over 300,000 new US jobs this holiday season with increased pay and expanded benefits - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVE1BZVhfem85b2VQR0NEb3EwU0RPd1lwZ2hUcWx6bHdiYzBIeFZiV1Rwd3FOTFRIWlZMdTlabU41UzVUc0ZNd0o5OWtyb3hILTE4ak10NFZGc0VKcjdHT2stZ25Rc1h6eG9JazhvOTZlaXpUWk5FWWFrUjNjRm95aGV1NndadmZHeVB2eU4zTGlaVFBLQVB0bFJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVE1BZVhfem85b2VQR0NEb3EwU0RPd1lwZ2hUcWx6bHdiYzBIeFZiV1Rwd3FOTFRIWlZMdTlabU41UzVUc0ZNd0o5OWtyb3hILTE4ak10NFZGc0VKcjdHT2stZ25Rc1h6eG9JazhvOTZlaXpUWk5FWWFrUjNjRm95aGV1NndadmZHeVB2eU4zTGlaVFBLQVB0bFJ3?oc=5\" target=\"_blank\">Amazon is creating over 300,000 new US jobs this holiday season with increased pay and expanded benefits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-10-20T12:36:40+00:00",
-      "source": "About Amazon"
-    },
-    {
-      "title": "Amazon to recruit over 300,000 workers for holiday season in first hiring jump in three years - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnRiU1BhX3YzZVBuRHFlT2kycUw1ZWFrMHYxV2NLYUpTNVFlRjhsUlB2a09UdE04aTdRYmNkVlkxb1d2Ry1qYjdhTHUycVRYQUN6UzUybGpGblJjS1ZTWXJ6MWR0OFVUNXAxQzk1dm9iQmRCQmY2bGRfamRzRVNJQzR2UVRRM2hlY3dYVGl3WlFCTmdnWWNNTWlYMEhCQTA1NUpYSm95dG5yMi1GTXFlRnJ3YWZQTGQySVVkX1JjSGFlQ1BPa3EyenZ0Y1Q?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnRiU1BhX3YzZVBuRHFlT2kycUw1ZWFrMHYxV2NLYUpTNVFlRjhsUlB2a09UdE04aTdRYmNkVlkxb1d2Ry1qYjdhTHUycVRYQUN6UzUybGpGblJjS1ZTWXJ6MWR0OFVUNXAxQzk1dm9iQmRCQmY2bGRfamRzRVNJQzR2UVRRM2hlY3dYVGl3WlFCTmdnWWNNTWlYMEhCQTA1NUpYSm95dG5yMi1GTXFlRnJ3YWZQTGQySVVkX1JjSGFlQ1BPa3EyenZ0Y1Q?oc=5\" target=\"_blank\">Amazon to recruit over 300,000 workers for holiday season in first hiring jump in three years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-20T14:23:48+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Amazon to hire 300,000 for holidays; 4,500 in Seattle area, with medical coverage for some - KOMO",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPMGN1YnBYb05WMW9GZl94SGRpbjdOd0N6b3pzQjN1YWt5RVcwWUc4dUMyTkVuc1V5eDV3LXJCQlpnOGpXSDRIOEhMQ1B4OHFfa21rTnlKZnhiYTZiNXpTOUZwNU9QQ3ZfNHhTa2pyOE9lUGx3S215VmNZbHVZeTB3Vkk1eHVPWEdJZTY2NnZSdnFhM3lKbF9JU2xxdE4wWGhRUmw5cG9tdF93Q1QwNVdmdE5KSGM1QXk1bzFHQWg3OS1udm9aQVJQblhnWWx1c2t3Tml4N3M1QWRvR1VVQkN2bkZfLVM1SmxYSWM3MkhxUlBKQUxOazBlM1JBOXl6eUI2VjkzdzRuTy0zU0VBM3lGRFVOYkMzSEQz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPMGN1YnBYb05WMW9GZl94SGRpbjdOd0N6b3pzQjN1YWt5RVcwWUc4dUMyTkVuc1V5eDV3LXJCQlpnOGpXSDRIOEhMQ1B4OHFfa21rTnlKZnhiYTZiNXpTOUZwNU9QQ3ZfNHhTa2pyOE9lUGx3S215VmNZbHVZeTB3Vkk1eHVPWEdJZTY2NnZSdnFhM3lKbF9JU2xxdE4wWGhRUmw5cG9tdF93Q1QwNVdmdE5KSGM1QXk1bzFHQWg3OS1udm9aQVJQblhnWWx1c2t3Tml4N3M1QWRvR1VVQkN2bkZfLVM1SmxYSWM3MkhxUlBKQUxOazBlM1JBOXl6eUI2VjkzdzRuTy0zU0VBM3lGRFVOYkMzSEQz?oc=5\" target=\"_blank\">Amazon to hire 300,000 for holidays; 4,500 in Seattle area, with medical coverage for some</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
-      "published": "2026-10-20T15:54:57+00:00",
-      "source": "KOMO"
-    },
-    {
-      "title": "‘Poof, they go across the bridge’: Curley warns Seattle after Amazon threatens to move delivery operations out of New York City - MyNorthwest.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kcHhsU0JEeDNKdTloRDB0MDdLZTE3bjB1aDRZTjhQZzJWTVN0T0Q2WDA3TmJrdjFsU1NpVFMwYTBrRGhheW54VV9zVlg3cm1OQlBaR21wNWVxMUI2Wjc1eDF6WERHTW5QLWpIUlRnXzAyMlIyaTBURlpVOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5kcHhsU0JEeDNKdTloRDB0MDdLZTE3bjB1aDRZTjhQZzJWTVN0T0Q2WDA3TmJrdjFsU1NpVFMwYTBrRGhheW54VV9zVlg3cm1OQlBaR21wNWVxMUI2Wjc1eDF6WERHTW5QLWpIUlRnXzAyMlIyaTBURlpVOA?oc=5\" target=\"_blank\">‘Poof, they go across the bridge’: Curley warns Seattle after Amazon threatens to move delivery operations out of New York City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNorthwest.com</font>",
-      "published": "2026-10-20T13:47:02+00:00",
-      "source": "MyNorthwest.com"
     }
   ],
   "product_launches": [
     {
-      "title": "Sistema Sigma: How Daniel Miranda Validates Products for Amazon USA - Impakter",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3S3pVQzdiMTZhN29FMEdpS1RSN3RCUVNtUlpQdkM5eHhHekZkNE45QzRKdmdWal9jcWhHOTFTcUJ5SWNVVFZFd1ZsNE5EVjVXRUV3UHJRbmVsYm45MXJxTWZCcUpTTzdQQWlfNDhmbUZyR0xV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA3S3pVQzdiMTZhN29FMEdpS1RSN3RCUVNtUlpQdkM5eHhHekZkNE45QzRKdmdWal9jcWhHOTFTcUJ5SWNVVFZFd1ZsNE5EVjVXRUV3UHJRbmVsYm45MXJxTWZCcUpTTzdQQWlfNDhmbUZyR0xV?oc=5\" target=\"_blank\">Sistema Sigma: How Daniel Miranda Validates Products for Amazon USA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Impakter</font>",
-      "published": "2026-10-20T10:40:57+00:00",
-      "source": "Impakter"
+      "title": "NuvoRetail launches AI-powered Content Studio to optimise Amazon Product Listings - MediaNews4U",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjk2SDJCZW0wcWo1WFlpbEVWN1V0dXJ5a0F3bmFaNmVzU0VxQkotOFFLbFNWaEc1MlVvUWhqTEEtTlR5djEzaW1kYWlwSHFZZHFHTEVVS1Voem5ZZFQ4X2pTRnU3czl4Q2k3LWtCODl0MXFZbHJycWx6b3NHSE1BNEZZeWs2ZEVQTkFMZkNSY2p0TUNOcTlkRThidzhWRUtfTTBRdXJrcnFfcW9CYU1B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjk2SDJCZW0wcWo1WFlpbEVWN1V0dXJ5a0F3bmFaNmVzU0VxQkotOFFLbFNWaEc1MlVvUWhqTEEtTlR5djEzaW1kYWlwSHFZZHFHTEVVS1Voem5ZZFQ4X2pTRnU3czl4Q2k3LWtCODl0MXFZbHJycWx6b3NHSE1BNEZZeWs2ZEVQTkFMZkNSY2p0TUNOcTlkRThidzhWRUtfTTBRdXJrcnFfcW9CYU1B?oc=5\" target=\"_blank\">NuvoRetail launches AI-powered Content Studio to optimise Amazon Product Listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MediaNews4U</font>",
+      "published": "2026-10-21T06:20:32+00:00",
+      "source": "MediaNews4U"
+    },
+    {
+      "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5\" target=\"_blank\">Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-10-15T21:10:06+00:00",
+      "source": "About Amazon"
+    },
+    {
+      "title": "Kimberly-Clark launches Big Dreams diaper and wipes line exclusively on Amazon - Tissue Online North America",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHlBeGdBdmdpRGZqczVOak9CbmNSX2RndXUwQUVpQUU4UTJDTllDWExsRERIbk5tUTJtcTQ5RkJ2VFpBbFV6enBJelpaRzI3cEZ6NlZuRmRLSVdxd3V0V1lvdWxtdTktdGptZWlZNGRhMXRHTkVMUkpUQ3F5bXJaUnpIYkpzOTZjbS14M2xYQVNlR1djOGFGTWJPcUlDLVl4SDR6UlNBQjF1VElkamZrb2U5OThkZnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHlBeGdBdmdpRGZqczVOak9CbmNSX2RndXUwQUVpQUU4UTJDTllDWExsRERIbk5tUTJtcTQ5RkJ2VFpBbFV6enBJelpaRzI3cEZ6NlZuRmRLSVdxd3V0V1lvdWxtdTktdGptZWlZNGRhMXRHTkVMUkpUQ3F5bXJaUnpIYkpzOTZjbS14M2xYQVNlR1djOGFGTWJPcUlDLVl4SDR6UlNBQjF1VElkamZrb2U5OThkZnc?oc=5\" target=\"_blank\">Kimberly-Clark launches Big Dreams diaper and wipes line exclusively on Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tissue Online North America</font>",
+      "published": "2026-10-21T11:38:47+00:00",
+      "source": "Tissue Online North America"
     },
     {
       "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations - CNBC",
@@ -82,34 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBscnZfcVA3aHJnbHRfakN2QkVrVTNQNVduZHlHb1RCb2hJbGx0ckhxcWFLbHVsZURuSkpHWmFYME9FUHZoUElncmZNTE0tdG5QQ1hBZUdnTzlKWlFyTlRLTkRvMWd3UXp5bE9sWkUzUkNBVTlQY29JQg?oc=5\" target=\"_blank\">Amazon launches new \"personal AI\" devices that can listen to your conversations and take notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
       "published": "2026-10-15T15:34:00+00:00",
       "source": "CBS News"
-    },
-    {
-      "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5\" target=\"_blank\">Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-10-15T21:10:06+00:00",
-      "source": "About Amazon"
-    },
-    {
-      "title": "Amazon launches two new portable AI listening devices - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0c4SGNGOWZtd0Y4cUZFbDlZdXdZbmZEMmZrVGNpbU1BdkNWUUtlTjBXRGN4dlVDaWJrUENJcEh0VzVEY09oNHVJbDBkQ2FRV1hqeTFuc3dZaURjTHNuQ2RmS25xNm9KVS1OaXFja2kwSFZPQVV2MG9XNmdKOTBBSERzUVNJYUUxUXNOYTYxSkpNU3VkamZpT21lTlBmeFJ3QVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0c4SGNGOWZtd0Y4cUZFbDlZdXdZbmZEMmZrVGNpbU1BdkNWUUtlTjBXRGN4dlVDaWJrUENJcEh0VzVEY09oNHVJbDBkQ2FRV1hqeTFuc3dZaURjTHNuQ2RmS25xNm9KVS1OaXFja2kwSFZPQVV2MG9XNmdKOTBBSERzUVNJYUUxUXNOYTYxSkpNU3VkamZpT21lTlBmeFJ3QVE?oc=5\" target=\"_blank\">Amazon launches two new portable AI listening devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-15T19:15:34+00:00",
-      "source": "Reuters"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-20",
-      "close": 263.3999938964844
+      "date": "2026-10-21",
+      "close": 262.55499267578125
     },
     "history": [
-      {
-        "date": "2026-10-12",
-        "close": 259.5299987792969
-      },
       {
         "date": "2026-10-13",
         "close": 258.5799865722656
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-20",
-        "close": 263.3999938964844
+        "close": 262.6300048828125
+      },
+      {
+        "date": "2026-10-21",
+        "close": 262.55499267578125
       }
     ],
     "name": "Amazon.com, Inc."

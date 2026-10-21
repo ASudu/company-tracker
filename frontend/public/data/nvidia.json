@@ -2,93 +2,79 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-10-20T16:01:18.114993+00:00",
+  "fetched_at": "2026-10-21T16:18:25.444887+00:00",
   "news": [
     {
-      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5\" target=\"_blank\">EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-20T15:51:20+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nvidia Reportedly Sees Alibaba, ByteDance, Tencent Order $35B In RTX PRO 5500 Chips Amid US Export Curbs - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2RVUTh6TU1FUnhqeTlFQi10b3RublpRWmUwSnNBNlA0SXlyTGxGd2lfNmxFSFpMQlh2WEdKZlVHMExtbjV5azVUbE1fV3RLMmtvRG1vQnFNS2o2V0p4SzJRSGlWNC1rTkFGOU1IaEFDUHMzSjhjNV9tbTBVNW5USGtQOXQ2cEpzelVKZUhkMnhGZmJMNE5obW5XOHphYzFkYXdQRWFTUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2RVUTh6TU1FUnhqeTlFQi10b3RublpRWmUwSnNBNlA0SXlyTGxGd2lfNmxFSFpMQlh2WEdKZlVHMExtbjV5azVUbE1fV3RLMmtvRG1vQnFNS2o2V0p4SzJRSGlWNC1rTkFGOU1IaEFDUHMzSjhjNV9tbTBVNW5USGtQOXQ2cEpzelVKZUhkMnhGZmJMNE5obW5XOHphYzFkYXdQRWFTUQ?oc=5\" target=\"_blank\">Nvidia Reportedly Sees Alibaba, ByteDance, Tencent Order $35B In RTX PRO 5500 Chips Amid US Export Curbs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-20T10:48:26+00:00",
+      "title": "Nvidia reveals plans for 'an AI factory in a shipping container' to build factories in weeks, not months - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSC1XcXJJcnhmcTRVbjRSanZXYUJfMDdaczFubzJVbmpSb3k1NW5idzN4Q3FjRVpQdVdKQWJqNFJBSlhnZG5UNVJSdHNDM0hOZ2NVMlpQUVJNMFVyMDhQSVR3cnNGMDhZNG1ibVB4SUUtTUlQQmppMTMtRUhtaW8zUF9NVl9MVVpXQVZGNkVjRVRjY3JrYjZ0clBiM2M0X2s1b2hwWFZNNXhvR0lMSXJoSWgzczZCRFFmLVpvMjF5QjgteTNhTWhHRnJ0MVNwNkQwX0t2M0NYOExfTlk1NkZ6bEl1SHlNdE0xaUVaejFvNVFHWXM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSC1XcXJJcnhmcTRVbjRSanZXYUJfMDdaczFubzJVbmpSb3k1NW5idzN4Q3FjRVpQdVdKQWJqNFJBSlhnZG5UNVJSdHNDM0hOZ2NVMlpQUVJNMFVyMDhQSVR3cnNGMDhZNG1ibVB4SUUtTUlQQmppMTMtRUhtaW8zUF9NVl9MVVpXQVZGNkVjRVRjY3JrYjZ0clBiM2M0X2s1b2hwWFZNNXhvR0lMSXJoSWgzczZCRFFmLVpvMjF5QjgteTNhTWhHRnJ0MVNwNkQwX0t2M0NYOExfTlk1NkZ6bEl1SHlNdE0xaUVaejFvNVFHWXM?oc=5\" target=\"_blank\">Nvidia reveals plans for 'an AI factory in a shipping container' to build factories in weeks, not months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-21T11:30:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc?oc=5\" target=\"_blank\">ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "published": "2026-10-20T09:29:35+00:00",
-      "source": "Investing.com"
+      "title": "Nvidia Unveils Product to Speed Up AI Factory Buildout - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeF9CRTdWam04bWhvdTI2a2Y2Nm9BLWc3YU8xb1NZU0FfZWpCZXRpUzljUVg1YzhidG1pMmhrVndoaDJfUjk5SU1idTl4SWZvMGNWMTVrRmVQcjA3TmhMX1VrbDNPckRjeEtpOEE0ZElWVUpsX2hydmREWXZOWV9HUUNNeGJYb3dUTGYwN3VVVXVUZ3JJMFNBS3Qydmh0aEFKUDN1c0FTdnRwcHVhb04xNmxtbEdITVNSVFRDa1U0YjFYUTBCZmVySVY3Y2xfcDJMaW9iTnVyZGNpVFMwc1VQWWlGQjNaVGUzdUo0azBHalVmUnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeF9CRTdWam04bWhvdTI2a2Y2Nm9BLWc3YU8xb1NZU0FfZWpCZXRpUzljUVg1YzhidG1pMmhrVndoaDJfUjk5SU1idTl4SWZvMGNWMTVrRmVQcjA3TmhMX1VrbDNPckRjeEtpOEE0ZElWVUpsX2hydmREWXZOWV9HUUNNeGJYb3dUTGYwN3VVVXVUZ3JJMFNBS3Qydmh0aEFKUDN1c0FTdnRwcHVhb04xNmxtbEdITVNSVFRDa1U0YjFYUTBCZmVySVY3Y2xfcDJMaW9iTnVyZGNpVFMwc1VQWWlGQjNaVGUzdUo0azBHalVmUnM?oc=5\" target=\"_blank\">Nvidia Unveils Product to Speed Up AI Factory Buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-10-21T09:20:00+00:00",
+      "source": "WSJ"
     },
     {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3?oc=5\" target=\"_blank\">Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-10-19T20:09:24+00:00",
-      "source": "TechCrunch"
+      "title": "Nvidia Unveils DSX Pod for Faster AI Data Center Builds - Data Center Knowledge",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1lSQk05TWpyR2R1Q2Nmc1VveUxfQnA5UFJCdmhVZkVaT0FhV1UzelBzcFdobzVidHZuNWdZNGJmYXJQN2pIbkNLTDV1MVQ1S3llVG1zY1hnU1JuOTRvWU5qcnRWOVo2bzJfZFBTNU1nVHVpODBaNnNpT2FnejlxZWNjY2tCZ3F1NlJrVDlKMVJ4djAwcWFKckR6aG5wczZLNURYbXp5a3pBNVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb1lSQk05TWpyR2R1Q2Nmc1VveUxfQnA5UFJCdmhVZkVaT0FhV1UzelBzcFdobzVidHZuNWdZNGJmYXJQN2pIbkNLTDV1MVQ1S3llVG1zY1hnU1JuOTRvWU5qcnRWOVo2bzJfZFBTNU1nVHVpODBaNnNpT2FnejlxZWNjY2tCZ3F1NlJrVDlKMVJ4djAwcWFKckR6aG5wczZLNURYbXp5a3pBNVU?oc=5\" target=\"_blank\">Nvidia Unveils DSX Pod for Faster AI Data Center Builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Knowledge</font>",
+      "published": "2026-10-21T14:29:56+00:00",
+      "source": "Data Center Knowledge"
     },
     {
-      "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGVNVWtyU1BHU0pGZFJTZk9RV3NHOXBoSHVqaHVEeXN1TEJveTNIVzQ4eGkxZ2RWbER1clItSk16ODNaVnBFbWhKamR1RURGdG90X3F0ZEF2bko3SW5mUGxjZzBKVm50UFI5eUp2ampsV08ySWlMUEZyQmRUd1M1NF91UGJoZWxiVmR5NGRCMmNNM0V2R3pLMVhBT05EbmRjY0dxMXlSNklIVE9xeG5DQWNPcjVXY1ZBRTBrVU9RMTNPaVJOUHpjS2RrZ3huLXlZa2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGVNVWtyU1BHU0pGZFJTZk9RV3NHOXBoSHVqaHVEeXN1TEJveTNIVzQ4eGkxZ2RWbER1clItSk16ODNaVnBFbWhKamR1RURGdG90X3F0ZEF2bko3SW5mUGxjZzBKVm50UFI5eUp2ampsV08ySWlMUEZyQmRUd1M1NF91UGJoZWxiVmR5NGRCMmNNM0V2R3pLMVhBT05EbmRjY0dxMXlSNklIVE9xeG5DQWNPcjVXY1ZBRTBrVU9RMTNPaVJOUHpjS2RrZ3huLXlZa2c?oc=5\" target=\"_blank\">Amazon says its AI chips will work with popular coding language, challenging Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-19T15:36:43+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone - Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4?oc=5\" target=\"_blank\">Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
-      "published": "2026-10-20T01:15:18+00:00",
-      "source": "Wccftech"
-    },
-    {
-      "title": "These 2 Billionaires Like Nvidia (NVDA). Should You Buy the Dip Ahead of Earnings? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcU1rMWN2eGFCdXlWYXkyT3BoRnZOcXJNM3EtaUtEVk1TeThzQ19PRTZSVlhyYk5DdjkwUHNDS2t5QjVtRExBTjMtRTREdGd4SW5KX0lMa1lTOVE1NDltdXNTSUl1ZXdZQmJyVVdwWGphVERZSDlpUTlVS3lmZzBENmRGSVRWNHhkVDdYb2RyNWZ0dk1CVDVyZ3U4dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcU1rMWN2eGFCdXlWYXkyT3BoRnZOcXJNM3EtaUtEVk1TeThzQ19PRTZSVlhyYk5DdjkwUHNDS2t5QjVtRExBTjMtRTREdGd4SW5KX0lMa1lTOVE1NDltdXNTSUl1ZXdZQmJyVVdwWGphVERZSDlpUTlVS3lmZzBENmRGSVRWNHhkVDdYb2RyNWZ0dk1CVDVyZ3U4dw?oc=5\" target=\"_blank\">These 2 Billionaires Like Nvidia (NVDA). Should You Buy the Dip Ahead of Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-20T15:01:52+00:00",
+      "title": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5\" target=\"_blank\">Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-21T11:30:00+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWY2TFFHY3ZtRy1oc2w2YkZyQ0FxSnhSRzZCTmxBVVJNNFdtUXZEQ29UZ1FXYm5yMXFXZ1NZSHVKMjBuWm9ydVc1bVp4cXBwZnFqcmFZOFl5MnZvM2psWlM5aTNuNlUwbDhjejBBMTZQT1JBSkk4bDFYWkV0SEQ2WGp4SUVkaUFnY3lZa19R0gGTAUFVX3lxTE5RaEk5ZVNWazYwOHFKT1ZxaGpBUVY3em5JX1hxS3Y3Q0NTZE96QnhKWVd1dHVpb25YS09Ielc1RjNCN0ktUERHMllFSV9fMllzNDZRbTQyTGEwZ2YyTHRmSlFjMXlBcjBtcHpjNGhOZTQ3MEpGTURzZzR4bEctbldqRkgzNC1sd21CY24zTk1MYllyOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWY2TFFHY3ZtRy1oc2w2YkZyQ0FxSnhSRzZCTmxBVVJNNFdtUXZEQ29UZ1FXYm5yMXFXZ1NZSHVKMjBuWm9ydVc1bVp4cXBwZnFqcmFZOFl5MnZvM2psWlM5aTNuNlUwbDhjejBBMTZQT1JBSkk4bDFYWkV0SEQ2WGp4SUVkaUFnY3lZa19R0gGTAUFVX3lxTE5RaEk5ZVNWazYwOHFKT1ZxaGpBUVY3em5JX1hxS3Y3Q0NTZE96QnhKWVd1dHVpb25YS09Ielc1RjNCN0ktUERHMllFSV9fMllzNDZRbTQyTGEwZ2YyTHRmSlFjMXlBcjBtcHpjNGhOZTQ3MEpGTURzZzR4bEctbldqRkgzNC1sd21CY24zTk1MYllyOA?oc=5\" target=\"_blank\">‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-10-20T02:16:00+00:00",
-      "source": "CNBC"
+      "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI - Axios",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkVMa1pUYzhMeUdSRms5enZadUZJaVdUbzFtQ2p4VnpNM1ZqMXEtT2hPRXlUQ0hqQXhKcUVXT0I5aU1WTkVjekI4bXZVM1NWNC13YW83RUZvdXF5aGN4SzVwWlNzNjA2emtYWEEtbkZpMHgxeS1iSmh1NFZKcl9EQ2F6WlQ1RjdReFltNHpjdlpzZw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkVMa1pUYzhMeUdSRms5enZadUZJaVdUbzFtQ2p4VnpNM1ZqMXEtT2hPRXlUQ0hqQXhKcUVXT0I5aU1WTkVjekI4bXZVM1NWNC13YW83RUZvdXF5aGN4SzVwWlNzNjA2emtYWEEtbkZpMHgxeS1iSmh1NFZKcl9EQ2F6WlQ1RjdReFltNHpjdlpzZw?oc=5\" target=\"_blank\">\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFJFc2sxWnVYY250czdUd3hqaXlZWWlsVldMU3pwZDh5UENMRk1XdF96cG5XNmE5UTBRSlNnVFlsUnp1ZkF4WUpNMmFyNTdHdmwxVnJGU2Q1Y2d6VGZvejV5d0xHZ3hwSmNaZWs3OXVkSVVUWXRhR3czSWFIOGpDT0g4U2Qwbi00ajdsYzhPbVNFN3RXeTFkSnNWZWt0V1dNNDVpZWZSQ0VfT1dSVU5OQXh3?oc=5\" target=\"_blank\">Nvidia CEO Huang Pushes Europe on All Industries Adopting AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5\" target=\"_blank\">Germany's Agile to make up to 2,000 humanoid robots with Nvidia, CEO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li></ol>",
+      "published": "2026-10-21T14:37:09+00:00",
+      "source": "Axios"
+    },
+    {
+      "title": "Nvidia Outlines Plans to Expand Chipmaking Capacity - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWdKcVg1V2xZaF9KTHBNS0ctZlNaZVdHbG9EVHhlRUVCdjNFWnQwZWM4M3JiaHFWVlZJcmMxVTNSc1NwdnhFd0NMcDdJWnpjNmJpVmtfYlBLank4QTh2czFlSW1Gd1hZWDNJZFJNNl9CRzMtaFd6OFRNRHRxY2lETUdRNlJzdUs1aWR6dU1HRFpBVGJUZVNsMTNvTUtMcl9PMk96S1h4LWRJT0kzX3dGR3hkVng0aGpoZUkwMWFlRU0waTFzelF5TEFjc0xoTGpaZ3RCclBHZWVESjdfR0tFckR1ckJCankzMU9aOG1hOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxORWdKcVg1V2xZaF9KTHBNS0ctZlNaZVdHbG9EVHhlRUVCdjNFWnQwZWM4M3JiaHFWVlZJcmMxVTNSc1NwdnhFd0NMcDdJWnpjNmJpVmtfYlBLank4QTh2czFlSW1Gd1hZWDNJZFJNNl9CRzMtaFd6OFRNRHRxY2lETUdRNlJzdUs1aWR6dU1HRFpBVGJUZVNsMTNvTUtMcl9PMk96S1h4LWRJT0kzX3dGR3hkVng0aGpoZUkwMWFlRU0waTFzelF5TEFjc0xoTGpaZ3RCclBHZWVESjdfR0tFckR1ckJCankzMU9aOG1hOA?oc=5\" target=\"_blank\">Nvidia Outlines Plans to Expand Chipmaking Capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-10-21T09:16:00+00:00",
+      "source": "WSJ"
+    },
+    {
+      "title": "From the lab to the live network: Nokia, T-Mobile and NVIDIA complete world’s first AI-RAN call - Nokia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGtxMk1zNkJaRFhKNkhyQjJlelRBRDR4TGVyUjVCUmo5YWFFUUZzSHVicnJYUUk1UXVaVEkyTUJFTk96RUF5YlNWdXdUNkpLbFY0UGRaaWd4VWVsYmhDaldPTXJFeVhqOVczTmkxdmdpSG42U2JQaTlmNFdiejRnNkNSN0RON1VTbGhkX1VOeHBDY0Jla281OGhlQnNjZktJb0pSeWRpR2lQUVVZNFRRRmdlSnRkT19PbDNZWA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGtxMk1zNkJaRFhKNkhyQjJlelRBRDR4TGVyUjVCUmo5YWFFUUZzSHVicnJYUUk1UXVaVEkyTUJFTk96RUF5YlNWdXdUNkpLbFY0UGRaaWd4VWVsYmhDaldPTXJFeVhqOVczTmkxdmdpSG42U2JQaTlmNFdiejRnNkNSN0RON1VTbGhkX1VOeHBDY0Jla281OGhlQnNjZktJb0pSeWRpR2lQUVVZNFRRRmdlSnRkT19PbDNZWA?oc=5\" target=\"_blank\">From the lab to the live network: Nokia, T-Mobile and NVIDIA complete world’s first AI-RAN call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nokia</font>",
+      "published": "2026-10-21T09:00:54+00:00",
+      "source": "Nokia"
+    },
+    {
+      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDBETHJXTWl6b3BJZ0lhT0w5VUVVVElKLUxDUnlyaGxfdEt5S01iZ1RrcDJTcWdXX1N4elJ5Z3J2emtFVDR5MVJ3V0VlNWcxbC1VM2RMdmtGWW8teUIweFowazd3ZllkVEU1aVFuN01wNXJfNDR1eHZCZW5BbUUyX3VPZU1veVZaaVJabE1ELUxDMF8tRVp5OGV3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDBETHJXTWl6b3BJZ0lhT0w5VUVVVElKLUxDUnlyaGxfdEt5S01iZ1RrcDJTcWdXX1N4elJ5Z3J2emtFVDR5MVJ3V0VlNWcxbC1VM2RMdmtGWW8teUIweFowazd3ZllkVEU1aVFuN01wNXJfNDR1eHZCZW5BbUUyX3VPZU1veVZaaVJabE1ELUxDMF8tRVp5OGV3?oc=5\" target=\"_blank\">Nvidia’s latest GPU driver brings a new way to speed up PC games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-21T13:09:26+00:00",
+      "source": "The Verge"
     }
   ],
   "product_launches": [
     {
-      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFF1Y3NscnpKMlBtdk52SF9LOFE5Y2F3VjBMRGZFNVhOX2NTQkJEUGFENTdvZVQ0ajI0R012ZmNxeTBYaVZzaEJhc0J2YVM2Vy0xZVpqOTNKeno5TDZqMEJSWFU2b1BNb3FrOVZHU29ERXoxYzBKVW9lR1JyVzlIUmRYSXVLX28yNmtja3hDdWQ5QXI4SHBWLTlmNkQ5TTFwRVh6VXZB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFF1Y3NscnpKMlBtdk52SF9LOFE5Y2F3VjBMRGZFNVhOX2NTQkJEUGFENTdvZVQ0ajI0R012ZmNxeTBYaVZzaEJhc0J2YVM2Vy0xZVpqOTNKeno5TDZqMEJSWFU2b1BNb3FrOVZHU29ERXoxYzBKVW9lR1JyVzlIUmRYSXVLX28yNmtja3hDdWQ5QXI4SHBWLTlmNkQ5TTFwRVh6VXZB?oc=5\" target=\"_blank\">NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-10-16T12:03:57+00:00",
+      "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVjJaWWVnN3FsV2ZrdlVrSTRuVEE2V0JWZHJRQ2loQ1czLVdiWXpvQkYxLTU2R0U4VVhkMGNZblBRZ0hyY1pnbXVZMXAzdmN0LXdRTDNSSXpwNmhSaHRzR09wN1kxendGLVRWQm9CTkJmZ2stRUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVjJaWWVnN3FsV2ZrdlVrSTRuVEE2V0JWZHJRQ2loQ1czLVdiWXpvQkYxLTU2R0U4VVhkMGNZblBRZ0hyY1pnbXVZMXAzdmN0LXdRTDNSSXpwNmhSaHRzR09wN1kxendGLVRWQm9CTkJmZ2stRUE?oc=5\" target=\"_blank\">NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-10-21T09:55:45+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA RTX Spark Laptops Launch at $2,399 [2026] - shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3aG9nSUIxb3JubFFEalpzUzRtb2NRdEt0a2hlLUs0U2sxSTV3VXNHUVJFQ1Q4d0dRN2VISnhqLUhNa0l1ekRQeTJCeVlYWWx0Xzk1ODJMY3cwZ3luWXdSUjlDbWxFZ0EtakVkVG55T3Q?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB3aG9nSUIxb3JubFFEalpzUzRtb2NRdEt0a2hlLUs0U2sxSTV3VXNHUVJFQ1Q4d0dRN2VISnhqLUhNa0l1ekRQeTJCeVlYWWx0Xzk1ODJMY3cwZ3luWXdSUjlDbWxFZ0EtakVkVG55T3Q?oc=5\" target=\"_blank\">NVIDIA RTX Spark Laptops Launch at $2,399 [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
-      "published": "2026-10-20T01:41:32+00:00",
-      "source": "shattered.io"
-    },
-    {
-      "title": "NVIDIA RTX Spark Price: $2,599 to $5,999 (Oct. 16) [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMXphRDY3WTVhaXNLb2hpMVlLRlNtTDZsVHJJRmRLZmJtaUg1QnlCUEpVeDVhSF9qc1V4dWt1YWV1OFNobXBfS3B1MXlVd2VaREdXR3h2c0czaXBtSlRLVEtiZXJSQW1YbjVnVlZDNlBYVklyUjBFdA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMXphRDY3WTVhaXNLb2hpMVlLRlNtTDZsVHJJRmRLZmJtaUg1QnlCUEpVeDVhSF9qc1V4dWt1YWV1OFNobXBfS3B1MXlVd2VaREdXR3h2c0czaXBtSlRLVEtiZXJSQW1YbjVnVlZDNlBYVklyUjBFdA?oc=5\" target=\"_blank\">NVIDIA RTX Spark Price: $2,599 to $5,999 (Oct. 16) [2026]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://tech-insider.org/</font>",
-      "published": "2026-10-02T07:00:00+00:00",
-      "source": "https://tech-insider.org/"
-    },
-    {
-      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5\" target=\"_blank\">Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-28T07:00:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Nvidia Launches Containerized DSX Pod System To Accelerate AI Factory Deployments - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVkdkY0cwWEhmQlhhckx1YWpGWm0xVjR1VUJWVjE4ZkcxbGRrc2RfVjEtNFlXOFRXVFJCZHR5cVhjaE95dE9QMkZheW1GTDBUczRfbWNiVkFuWWNOOE9fbTRvaEF4SVVMeWswa2tYSjBoUEx3RzYyeDlfMklhR0RnRWd2bE9ta2gxNElz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVkdkY0cwWEhmQlhhckx1YWpGWm0xVjR1VUJWVjE4ZkcxbGRrc2RfVjEtNFlXOFRXVFJCZHR5cVhjaE95dE9QMkZheW1GTDBUczRfbWNiVkFuWWNOOE9fbTRvaEF4SVVMeWswa2tYSjBoUEx3RzYyeDlfMklhR0RnRWd2bE9ta2gxNElz?oc=5\" target=\"_blank\">Nvidia Launches Containerized DSX Pod System To Accelerate AI Factory Deployments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+      "published": "2026-10-21T13:38:13+00:00",
+      "source": "TIKR.com"
     },
     {
       "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive - NVIDIA Blog",
@@ -96,20 +82,30 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzJueHF6Vmtud2x5M0lqa280dVpiTFY3X1lVTWZabWNQdkdqRFNRSHNZLTMtRFhiSFVzcHNtYWRqNEVzVlJiVXFxU2ZMQy1vUlc5NW5nZGUtbmZZZnVPMWdJaUxiTEZqeWN6YTdfTC1aUnp5Y0ltdHVtNHpPRE1HcjIzYw?oc=5\" target=\"_blank\">RTX Spark Ignites Global Celebration as New Windows PCs Arrive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
       "published": "2026-10-17T21:03:57+00:00",
       "source": "NVIDIA Blog"
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGhqUC16dE5RTy1QMVZTaWQxREY3eC1SQlFaaElEWjR3NjMwZHoybTQxWERzZG1LdFhMOC1mZ3FLY0lzZFNzU01WbnhjdkdhU1g3QXlDVHhIbEJnRmxVcmR0Y3JUU0djU01KTTNaWW4zT2VsWmtoc3pvb2IxOU1mbjFSR3ZQcHdRZnh0c2x1M1hteTlPQ01FU0xR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGhqUC16dE5RTy1QMVZTaWQxREY3eC1SQlFaaElEWjR3NjMwZHoybTQxWERzZG1LdFhMOC1mZ3FLY0lzZFNzU01WbnhjdkdhU1g3QXlDVHhIbEJnRmxVcmR0Y3JUU0djU01KTTNaWW4zT2VsWmtoc3pvb2IxOU1mbjFSR3ZQcHdRZnh0c2x1M1hteTlPQ01FU0xR?oc=5\" target=\"_blank\">Nvidia launches new platform for reining in rogue AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "NVIDIA GeForce RTX 6060 Could Arrive as Late as 2029, Leaker Claims - XenoSpectrum",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zYkc0aVZIV08wZHdPQlRTY25JanM2ckIwODZRRDFnM3dQRVhfSjVHZ3ZYMFozXzZBaTN2ZjFUcTlGcmUtSEp4djlIVUdqcmNlYnh2NVhMVkpqeGFoZklBVDRkU0hJY2lnUHFF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1zYkc0aVZIV08wZHdPQlRTY25JanM2ckIwODZRRDFnM3dQRVhfSjVHZ3ZYMFozXzZBaTN2ZjFUcTlGcmUtSEp4djlIVUdqcmNlYnh2NVhMVkpqeGFoZklBVDRkU0hJY2lnUHFF?oc=5\" target=\"_blank\">NVIDIA GeForce RTX 6060 Could Arrive as Late as 2029, Leaker Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+      "published": "2026-10-21T05:13:26+00:00",
+      "source": "XenoSpectrum"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-20",
-      "close": 217.4199981689453
+      "date": "2026-10-21",
+      "close": 220.3699951171875
     },
     "history": [
-      {
-        "date": "2026-10-12",
-        "close": 226.32000732421875
-      },
       {
         "date": "2026-10-13",
         "close": 228.52000427246094
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-20",
-        "close": 217.4199981689453
+        "close": 216.47000122070312
+      },
+      {
+        "date": "2026-10-21",
+        "close": 220.3699951171875
       }
     ],
     "name": "NVIDIA Corporation"
