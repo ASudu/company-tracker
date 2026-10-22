@@ -2,79 +2,72 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-10-21T16:18:14.113240+00:00",
+  "fetched_at": "2026-10-22T16:17:06.359578+00:00",
   "news": [
     {
-      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5\" target=\"_blank\">OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-10-21T12:00:02+00:00",
-      "source": "CNBC"
+      "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3ZjLTdlTzhLZGFpNGw3SzBjb3p4aUwzb21qdDd5UmZ0OWxOZXlxYVlJMWFERzRfU1pRRkxOWmdBRVd3VjNWak96d1pUaHB6OHlzc2hEX3FwXzhhX2pUR1RDcTFMdExoaGVGeVlNRC16elFnMTZPbmpWTkhuQ2tCZnpBdV9vajJWNmcxRWdHSVppQ2hzYjJySTNIV3RSVEd5a0d6aGZXQUJBaVh3UnVVVkM4dzducmh3Y1h4TW9BZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3ZjLTdlTzhLZGFpNGw3SzBjb3p4aUwzb21qdDd5UmZ0OWxOZXlxYVlJMWFERzRfU1pRRkxOWmdBRVd3VjNWak96d1pUaHB6OHlzc2hEX3FwXzhhX2pUR1RDcTFMdExoaGVGeVlNRC16elFnMTZPbmpWTkhuQ2tCZnpBdV9vajJWNmcxRWdHSVppQ2hzYjJySTNIV3RSVEd5a0d6aGZXQUJBaVh3UnVVVkM4dzducmh3Y1h4TW9BZw?oc=5\" target=\"_blank\">Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-21T21:16:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "MSPs Scramble To Determine Microsoft 365 Tenant Impact In ConnectWise Cloud Backup Breach - CRN",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1AtdER1NXBrSGk2UHFrajE3bjYyX3oxeXRGTkhmcThQRV9ZNHVYeDNiLUthRVA0U2xxdzFwaEV5dEVtRk9pS0ZLU0szS3lCUGFsU2RWRnNJOGNsRG9taDRPNDhwRkxUQjNaMXhwVUpSdnVLWnl1RmRXSGROSkZsUUE2eVRZTWRERHh5MzNqbVA4VXZ3TXl2U0NES0pYZ0NzYXJlWXVGWEZSM09sM05DU2xFUVZ0RHlFUVZrdGJtV1lyS1pXV25hSHc0V190OElDeFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR1AtdER1NXBrSGk2UHFrajE3bjYyX3oxeXRGTkhmcThQRV9ZNHVYeDNiLUthRVA0U2xxdzFwaEV5dEVtRk9pS0ZLU0szS3lCUGFsU2RWRnNJOGNsRG9taDRPNDhwRkxUQjNaMXhwVUpSdnVLWnl1RmRXSGROSkZsUUE2eVRZTWRERHh5MzNqbVA4VXZ3TXl2U0NES0pYZ0NzYXJlWXVGWEZSM09sM05DU2xFUVZ0RHlFUVZrdGJtV1lyS1pXV25hSHc0V190OElDeFE?oc=5\" target=\"_blank\">MSPs Scramble To Determine Microsoft 365 Tenant Impact In ConnectWise Cloud Backup Breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CRN</font>",
+      "published": "2026-10-21T15:05:00+00:00",
+      "source": "CRN"
+    },
+    {
+      "title": "Microsoft Warns of Chinese State-Linked Cyberattacks Powered by AI Agent - The Information",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUxxWV9qVGlNR1BIcm1obUxtakoxb2dpTkl5R0FJU1VvakNmYU14MG43bVZMS1Rxa0l4RXNnbTlFMWxadUloOXNBVl9Mczk3UTZXSjlxdjZEVXN0UDhzMkp1UFAzSmZ6X1JuYzdGbzRWM3kyX21mRG5FMHBjcVEySGQ3ZFk3a2k0UmpQRG5fVzF1NWRtdG5BeTl4NVVLTzdYX0pGekdEWHdEcVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUxxWV9qVGlNR1BIcm1obUxtakoxb2dpTkl5R0FJU1VvakNmYU14MG43bVZMS1Rxa0l4RXNnbTlFMWxadUloOXNBVl9Mczk3UTZXSjlxdjZEVXN0UDhzMkp1UFAzSmZ6X1JuYzdGbzRWM3kyX21mRG5FMHBjcVEySGQ3ZFk3a2k0UmpQRG5fVzF1NWRtdG5BeTl4NVVLTzdYX0pGekdEWHdEcVU?oc=5\" target=\"_blank\">Microsoft Warns of Chinese State-Linked Cyberattacks Powered by AI Agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-10-22T00:41:00+00:00",
+      "source": "The Information"
     },
     {
       "title": "The non-gamer CEO racing to save Microsoft’s Xbox - Fortune",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGJabWtwdEFBZENLOHpvUDBFbWx1VWpIWjJ1bHF3eUx5SlhXZVRJYkRkTkFjSm9JdGJNYWpHNU5vR0lEaE9EZDdRVXZpMzd3N2ljeEhpX1RfM1BZd1Z5MnVVWFpJSVhmY2V4Q3FMY29nY2FUWGZtT1JTUmNNREduT0dqWEJIM0E?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGJabWtwdEFBZENLOHpvUDBFbWx1VWpIWjJ1bHF3eUx5SlhXZVRJYkRkTkFjSm9JdGJNYWpHNU5vR0lEaE9EZDdRVXZpMzd3N2ljeEhpX1RfM1BZd1Z5MnVVWFpJSVhmY2V4Q3FMY29nY2FUWGZtT1JTUmNNREduT0dqWEJIM0E?oc=5\" target=\"_blank\">The non-gamer CEO racing to save Microsoft’s Xbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkpBcktVWlVVUXZkQzlUMzlTd1lHMHpNRVhYRUh0WTZPVF9fWnREVEk1U2ZYTEQwampaeU90THVJdmhxQkR2TUlpT3pBWmtOaFhQbFRWRllVNUl0Z2F2dTJxNFA2clBEWGZCVUlZaGJEaHdMaGl1djVKTWppWEVJTl9nUXZIMUxmZm5oMlpVVVJBQ2k4SFdSOHRjTWktbXhnMXhjVUtUd0psYlB4UlpV?oc=5\" target=\"_blank\">Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVnZIbS1Sb1JPMmNJS0d5T2NoVzhRS2tMRFFnTlcybFh1VmRMa2lqS21HU1NoVFdJQVpidWZGVktJZ0NKWS1WWHJ4M0FTZmhxS2x4QVVta2hEMU5ncmFVVUZaYTdFSzE5em5qUXpIdzZrdHBNTmhlN011OVdHdFhsY1NTbm1zUFhXRkRDZnVUamkxeDlQdmwxMTBNQTRUa0F2V0N5blN4aEJSZ1Bpc3dqd1p4em40cWVueUp3VjZjdmtfZUFBQkpKNVI2S1RvSzhYem82eHVNTnhrVlZkU0hGWW1KSjM?oc=5\" target=\"_blank\">Xbox’s reported $150B valuation shows just how massive Microsoft’s gaming business has become</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font></li></ol>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGJabWtwdEFBZENLOHpvUDBFbWx1VWpIWjJ1bHF3eUx5SlhXZVRJYkRkTkFjSm9JdGJNYWpHNU5vR0lEaE9EZDdRVXZpMzd3N2ljeEhpX1RfM1BZd1Z5MnVVWFpJSVhmY2V4Q3FMY29nY2FUWGZtT1JTUmNNREduT0dqWEJIM0E?oc=5\" target=\"_blank\">The non-gamer CEO racing to save Microsoft’s Xbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
       "published": "2026-10-20T16:10:00+00:00",
       "source": "Fortune"
     },
     {
-      "title": "Microsoft's First-Quarter Results to Match Views Amid Azure's Momentum, Morgan Stanley Says - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXlWODBmYU43MGk2WVhva0JzRElpckVlaGtWYmNweHdpU3l2LUxMdDU3TlgwLUt3VEhBLU1kb3RDWjVKUjVvc2lOWFlKTkpXQjNxdjY4T1dQaFk2YXdBb2NxTVV1VFlQa0FTODdZS1ltOVRCQzBxOVhMdU1rWWh3SFZXcTgwd0VCWmREZjlWWE5VdHV6cWVFOEVjUTllLVQyTzFN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXlWODBmYU43MGk2WVhva0JzRElpckVlaGtWYmNweHdpU3l2LUxMdDU3TlgwLUt3VEhBLU1kb3RDWjVKUjVvc2lOWFlKTkpXQjNxdjY4T1dQaFk2YXdBb2NxTVV1VFlQa0FTODdZS1ltOVRCQzBxOVhMdU1rWWh3SFZXcTgwd0VCWmREZjlWWE5VdHV6cWVFOEVjUTllLVQyTzFN?oc=5\" target=\"_blank\">Microsoft's First-Quarter Results to Match Views Amid Azure's Momentum, Morgan Stanley Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-19T19:43:54+00:00",
-      "source": "Yahoo Finance"
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkpBcktVWlVVUXZkQzlUMzlTd1lHMHpNRVhYRUh0WTZPVF9fWnREVEk1U2ZYTEQwampaeU90THVJdmhxQkR2TUlpT3pBWmtOaFhQbFRWRllVNUl0Z2F2dTJxNFA2clBEWGZCVUlZaGJEaHdMaGl1djVKTWppWEVJTl9nUXZIMUxmZm5oMlpVVVJBQ2k4SFdSOHRjTWktbXhnMXhjVUtUd0psYlB4UlpV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkpBcktVWlVVUXZkQzlUMzlTd1lHMHpNRVhYRUh0WTZPVF9fWnREVEk1U2ZYTEQwampaeU90THVJdmhxQkR2TUlpT3pBWmtOaFhQbFRWRllVNUl0Z2F2dTJxNFA2clBEWGZCVUlZaGJEaHdMaGl1djVKTWppWEVJTl9nUXZIMUxmZm5oMlpVVVJBQ2k4SFdSOHRjTWktbXhnMXhjVUtUd0psYlB4UlpV?oc=5\" target=\"_blank\">Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-10-20T21:14:33+00:00",
+      "source": "Ars Technica"
     },
     {
-      "title": "Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUmFwTzgtN0FOZDRWNFQzWTZtd3VJUXdzeG1wcVVMWG02NFg3cWxTUFY4R0xINzNkV0h5a1lkX2VURW5CMVNuZkNYOXVjaHZ6c3paVUJQQlV0NDNQeXdLWHRiWC0xd3VsTUlfUG9GV1BwZTdNd3ZyTXp3dmNxOGxnRVdYLWE0bk8wd3JMejBrLVFzazExcXJmWTM2ank0dmppSk9uOTlDMDJQNmdmWHE2V282VnJqUWYweFdCelpzZEIyRFQzU2d6R0VPblBvZ2VqQlhVelExdEtBOFY1ZjVuSy1TcHBObkgtSXU3X3RVOFBOa0ZkWG9tUG0tQTZPNEViZmpjRlhaSGUza05mVVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNUmFwTzgtN0FOZDRWNFQzWTZtd3VJUXdzeG1wcVVMWG02NFg3cWxTUFY4R0xINzNkV0h5a1lkX2VURW5CMVNuZkNYOXVjaHZ6c3paVUJQQlV0NDNQeXdLWHRiWC0xd3VsTUlfUG9GV1BwZTdNd3ZyTXp3dmNxOGxnRVdYLWE0bk8wd3JMejBrLVFzazExcXJmWTM2ank0dmppSk9uOTlDMDJQNmdmWHE2V282VnJqUWYweFdCelpzZEIyRFQzU2d6R0VPblBvZ2VqQlhVelExdEtBOFY1ZjVuSy1TcHBObkgtSXU3X3RVOFBOa0ZkWG9tUG0tQTZPNEViZmpjRlhaSGUza05mVVE?oc=5\" target=\"_blank\">Alphabet Slips 2% Despite NASDAQ Rally as Pichai Says Google Cloud Is Giving Up Revenue for AI Capacity; Amazon Dips, Microsoft Holds Steady</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-      "published": "2026-10-21T15:48:00+00:00",
-      "source": "24/7 Wall St."
-    },
-    {
-      "title": "Goldman, McDonald’s, Microsoft Push Back Against Efforts to Tokenize Their Stocks - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSXkxMUNjV0xTLUZWV1B5akxQT1RyNVlsS3ctRzJWUkxxZmMwQlJuV1BDWEFmYUkzWjBuMGNWdzBjc3Q5U21lbnpiYjlJQ1laWURrbkFCMnJoTW1VNUVuN1U4Zjhsb3JRYjRaX0cwd2ItdTh4UEdlbjhPaXV4em5Rb1VZeWpxNkQ4bEswa0N1d0I5QVV3NFNYWVlJc3RuSENOblFDRG9hMHJBM2ZSQWZsZXYyRFdaSTJtM005QWxRSDRsZktVUk1FREswZGpuTmhnYjE2RkVpV3RSbnhYQ2g2UDFMNFRfMnBfYnRSaUNDRGhyN1QxQ3g3ZVg1VGdRNlpydjE2bHpaNUdfdUR2Q29nUUcyY1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNSXkxMUNjV0xTLUZWV1B5akxQT1RyNVlsS3ctRzJWUkxxZmMwQlJuV1BDWEFmYUkzWjBuMGNWdzBjc3Q5U21lbnpiYjlJQ1laWURrbkFCMnJoTW1VNUVuN1U4Zjhsb3JRYjRaX0cwd2ItdTh4UEdlbjhPaXV4em5Rb1VZeWpxNkQ4bEswa0N1d0I5QVV3NFNYWVlJc3RuSENOblFDRG9hMHJBM2ZSQWZsZXYyRFdaSTJtM005QWxRSDRsZktVUk1FREswZGpuTmhnYjE2RkVpV3RSbnhYQ2g2UDFMNFRfMnBfYnRSaUNDRGhyN1QxQ3g3ZVg1VGdRNlpydjE2bHpaNUdfdUR2Q29nUUcyY1E?oc=5\" target=\"_blank\">Goldman, McDonald’s, Microsoft Push Back Against Efforts to Tokenize Their Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-10-20T09:13:00+00:00",
-      "source": "WSJ"
-    },
-    {
-      "title": "Microsoft shuts the door on The Garage, the central program behind its hackathon and maker spaces - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWJmcTRFNWo5S0Z2ZUpsMzZlZ01YLUQwanFyalZyLVBfOGR5cEUtUUdGc1h1RmpoNjFaY25Ra1djdERXSlBwNWoydU5QYmhOc3lyRUlzWDZSb1NGdVh3OEZRQk1iWWZ6WjVrMnBCVVZTeTh0RzlWR2NseGpXaDRNR1NGTW5ycFRIV0F1V0dvckt6ZFF6c3JPU3hULVJaVjBvS3c5UWl6U19qcjVoNnUyeU12Z0FXclg3dEhyY003OG80aF9lOWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWJmcTRFNWo5S0Z2ZUpsMzZlZ01YLUQwanFyalZyLVBfOGR5cEUtUUdGc1h1RmpoNjFaY25Ra1djdERXSlBwNWoydU5QYmhOc3lyRUlzWDZSb1NGdVh3OEZRQk1iWWZ6WjVrMnBCVVZTeTh0RzlWR2NseGpXaDRNR1NGTW5ycFRIV0F1V0dvckt6ZFF6c3JPU3hULVJaVjBvS3c5UWl6U19qcjVoNnUyeU12Z0FXclg3dEhyY003OG80aF9lOWc?oc=5\" target=\"_blank\">Microsoft shuts the door on The Garage, the central program behind its hackathon and maker spaces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
-      "published": "2026-10-20T17:53:47+00:00",
-      "source": "GeekWire"
-    },
-    {
-      "title": "Nvidia-Backed Pigment Raises $250 Million to Take on Microsoft - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzdiTy10MkxyX0NHZzZHU1djY1c1LVE5MDFhNlh1V0tfczVfLXNueGpaT0NySVJXSFAzYUJxNTFpUEM2OEt1VTlyUFdjcEJ2NDFsX2t1cDBsT0NvOWVTdUtNc19INmE5d2JneFVOVUhpczN1ZE9saU93WE95VzB3Ml9TMGxJTGdTNUlkdG5ET09qeFJKQVNDN3lBdXNGOU5uZE1Ma1k3OWFjMUxvTGlLUEtR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONzdiTy10MkxyX0NHZzZHU1djY1c1LVE5MDFhNlh1V0tfczVfLXNueGpaT0NySVJXSFAzYUJxNTFpUEM2OEt1VTlyUFdjcEJ2NDFsX2t1cDBsT0NvOWVTdUtNc19INmE5d2JneFVOVUhpczN1ZE9saU93WE95VzB3Ml9TMGxJTGdTNUlkdG5ET09qeFJKQVNDN3lBdXNGOU5uZE1Ma1k3OWFjMUxvTGlLUEtR?oc=5\" target=\"_blank\">Nvidia-Backed Pigment Raises $250 Million to Take on Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-10-20T20:00:01+00:00",
-      "source": "Bloomberg.com"
-    },
-    {
-      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDBETHJXTWl6b3BJZ0lhT0w5VUVVVElKLUxDUnlyaGxfdEt5S01iZ1RrcDJTcWdXX1N4elJ5Z3J2emtFVDR5MVJ3V0VlNWcxbC1VM2RMdmtGWW8teUIweFowazd3ZllkVEU1aVFuN01wNXJfNDR1eHZCZW5BbUUyX3VPZU1veVZaaVJabE1ELUxDMF8tRVp5OGV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDBETHJXTWl6b3BJZ0lhT0w5VUVVVElKLUxDUnlyaGxfdEt5S01iZ1RrcDJTcWdXX1N4elJ5Z3J2emtFVDR5MVJ3V0VlNWcxbC1VM2RMdmtGWW8teUIweFowazd3ZllkVEU1aVFuN01wNXJfNDR1eHZCZW5BbUUyX3VPZU1veVZaaVJabE1ELUxDMF8tRVp5OGV3?oc=5\" target=\"_blank\">Nvidia’s latest GPU driver brings a new way to speed up PC games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-10-21T13:09:26+00:00",
+      "title": "Xbox mandates a four-day return to office - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeS01VjZOeWl6VU43NldYVk11UXdhenZfZ29UaVp6d0pyQlF1Y0xRaUs0UzdhcGZxMmZaaWYzemprT3cxOFlJWVZVZjBGWVEtaWlRaV83QnJSZVpPLUV2OWw2REtFOUluMG9uRnZZdGtiZ0ZLM3J2dndHV1RneUV6RTNNd0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeS01VjZOeWl6VU43NldYVk11UXdhenZfZ29UaVp6d0pyQlF1Y0xRaUs0UzdhcGZxMmZaaWYzemprT3cxOFlJWVZVZjBGWVEtaWlRaV83QnJSZVpPLUV2OWw2REtFOUluMG9uRnZZdGtiZ0ZLM3J2dndHV1RneUV6RTNNd0E?oc=5\" target=\"_blank\">Xbox mandates a four-day return to office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-21T18:31:15+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Bill Gates thinks AI could make us live like the Amish - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGFhNHJMalprZ1M2ekNjRTNZOHdZSXNweUhwN1BEREVJaEs3Q0ZLdHA5MnM3ekY0eHlxOGUwcHRGc1MxSE8zRW5HUTFiQVZaZ3NZSnoyZ1l2T0JXbXJ4X1ZCUDV4SHRKS1ZDWmtOQVd6M0piWXpwbnEzNkVRM19QSTY2NVR6cFBEak9jMHNyTEtBaFRaX0lmRXBPVnN0SVhYRjN6S0NKNjNyQ2kwVHpvSkZINHA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGFhNHJMalprZ1M2ekNjRTNZOHdZSXNweUhwN1BEREVJaEs3Q0ZLdHA5MnM3ekY0eHlxOGUwcHRGc1MxSE8zRW5HUTFiQVZaZ3NZSnoyZ1l2T0JXbXJ4X1ZCUDV4SHRKS1ZDWmtOQVd6M0piWXpwbnEzNkVRM19QSTY2NVR6cFBEak9jMHNyTEtBaFRaX0lmRXBPVnN0SVhYRjN6S0NKNjNyQ2kwVHpvSkZINHA?oc=5\" target=\"_blank\">Bill Gates thinks AI could make us live like the Amish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-22T14:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nvidia, Apple, Alphabet, Microsoft, and Amazon Now Make Up 30.8% of VOO and 49.2% of VUG. Here's a Better Low-Cost Vanguard ETF to Buy Now. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFAwMkZaVnRQLXFMUk9ZSVRlMGNlRkJHWkQ0Mm1ZM2JZX2RZX3d0OGJEOGNXSkhaemIzSmFnV2hpdDcxWnZRZ0kwZFRvS1laMVh6TU5ZR3NHR2o2eVAybzZyenFReGx6QVRJTEp4OXp4Rld6SXRkUHJ3UmlfT0V3MnZzazdqcW9WMVBZeml5S1JYdEdOTDFPdQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeFAwMkZaVnRQLXFMUk9ZSVRlMGNlRkJHWkQ0Mm1ZM2JZX2RZX3d0OGJEOGNXSkhaemIzSmFnV2hpdDcxWnZRZ0kwZFRvS1laMVh6TU5ZR3NHR2o2eVAybzZyenFReGx6QVRJTEp4OXp4Rld6SXRkUHJ3UmlfT0V3MnZzazdqcW9WMVBZeml5S1JYdEdOTDFPdQ?oc=5\" target=\"_blank\">Nvidia, Apple, Alphabet, Microsoft, and Amazon Now Make Up 30.8% of VOO and 49.2% of VUG. Here's a Better Low-Cost Vanguard ETF to Buy Now.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-10-22T14:01:10+00:00",
+      "source": "The Motley Fool"
     }
   ],
   "product_launches": [
     {
-      "title": "Tavant Launches Accelerator for Microsoft Fabric Through Microsoft Marketplace - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUFadkhIYUgyYzhsSGFrUnhSQlVUMW1yZHotQ2VyTHlsd01aWUdhY3QzM2w3d3ZQQ1NleXpxYTk0a0dOVVRaV1Nva3ZuSE4wVWgyVHBxYUE0UTQ0aUstVEJqaVdMMFh4T1dERTJjNDhhbUVmclRJbkM1bEhZcDItOGxyR0o2bTkxYTZLSEVzZ0dnOVlnNVdqaktHVXlGem9IWWZBUW1URm5RZldkYnR3VUk1bkFrazZCV2RadThkRjNncS0yOE5Hdk1vVC1Jdjhn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUFadkhIYUgyYzhsSGFrUnhSQlVUMW1yZHotQ2VyTHlsd01aWUdhY3QzM2w3d3ZQQ1NleXpxYTk0a0dOVVRaV1Nva3ZuSE4wVWgyVHBxYUE0UTQ0aUstVEJqaVdMMFh4T1dERTJjNDhhbUVmclRJbkM1bEhZcDItOGxyR0o2bTkxYTZLSEVzZ0dnOVlnNVdqaktHVXlGem9IWWZBUW1URm5RZldkYnR3VUk1bkFrazZCV2RadThkRjNncS0yOE5Hdk1vVC1Jdjhn?oc=5\" target=\"_blank\">Tavant Launches Accelerator for Microsoft Fabric Through Microsoft Marketplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
-      "published": "2026-10-21T12:11:00+00:00",
-      "source": "Business Wire"
-    },
-    {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5\" target=\"_blank\">OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-09-29T07:00:00+00:00",
-      "source": "TechCrunch"
+      "title": "SUNMI Launches Windows Commercial Product Family, Expanding Computing Choices for Intelligent Commerce - Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2VROV9VY1NJOHoyUUZVSzJ2OExpcWtSQzhYamJnWndwbFNxWFBxWjBrMUdZRHlLa0hOX3RxU1l4X09iZmQxTGRqWUppNDhxaVVLWU56TWJ0cEdhU1ItYzdTOUhCYXl5ZWtZR3VQdThWcnExR1A2UndwNGtXYXpOY2tHNDVEZ0FnZGxmQXQwdmFaOW1rYnNXTkg3aGc4aDlVTUg2UDFkdU1iR09lRGpoX3AwX05CUXhwWHIxcEI4ZGxOUjVNejRz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2VROV9VY1NJOHoyUUZVSzJ2OExpcWtSQzhYamJnWndwbFNxWFBxWjBrMUdZRHlLa0hOX3RxU1l4X09iZmQxTGRqWUppNDhxaVVLWU56TWJ0cEdhU1ItYzdTOUhCYXl5ZWtZR3VQdThWcnExR1A2UndwNGtXYXpOY2tHNDVEZ0FnZGxmQXQwdmFaOW1rYnNXTkg3aGc4aDlVTUg2UDFkdU1iR09lRGpoX3AwX05CUXhwWHIxcEI4ZGxOUjVNejRz?oc=5\" target=\"_blank\">SUNMI Launches Windows Commercial Product Family, Expanding Computing Choices for Intelligent Commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macau Business</font>",
+      "published": "2026-10-22T15:26:01+00:00",
+      "source": "Macau Business"
     },
     {
       "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
@@ -84,32 +77,35 @@
       "source": "The Official Microsoft Blog"
     },
     {
-      "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFBaaERLNnd3eVJ3ODN5a2w4V0JDb1Q4MmJhbEJqaENlUnVZNmRxbkRpeldiZDZOZDkxdFBzUVJEUE5STG12Y3ozV0lYb3dOdXRfdFQ2NHM3ajZ5OW05bW5SMUw1eTVLZ2JTQ3BuZnh5Q3dGNldmd1E3VHRQZk5TVVM2aDFHdWxPOWdERUtwZnpiRVQ5M0ZJMjhMS1l2ZFRGVzZUTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFBaaERLNnd3eVJ3ODN5a2w4V0JDb1Q4MmJhbEJqaENlUnVZNmRxbkRpeldiZDZOZDkxdFBzUVJEUE5STG12Y3ozV0lYb3dOdXRfdFQ2NHM3ajZ5OW05bW5SMUw1eTVLZ2JTQ3BuZnh5Q3dGNldmd1E3VHRQZk5TVVM2aDFHdWxPOWdERUtwZnpiRVQ5M0ZJMjhMS1l2ZFRGVzZUTA?oc=5\" target=\"_blank\">“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-09-22T07:00:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Copilot Cowork: A new way of getting work done - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVN3N0JqWFltQnNtb1FVTFI2RThjWndlaXpyMmtQRDlqX1k4bkRDT1h4TjNCQjlMU1Z4UkUwNm14eVhUZGt0RUExclBweGVyUEdkNkNWOWxQc3JrLS1aS1FlSmxCOUxWOFc3YUZ0bnZ0VHN3S25pX3cyNFRxTFlMTkZ6UEsyRi1JSTM0RHEwUU9sMWhCV1I5RVlYUnBiQkEzR2dnQw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVN3N0JqWFltQnNtb1FVTFI2RThjWndlaXpyMmtQRDlqX1k4bkRDT1h4TjNCQjlMU1Z4UkUwNm14eVhUZGt0RUExclBweGVyUEdkNkNWOWxQc3JrLS1aS1FlSmxCOUxWOFc3YUZ0bnZ0VHN3S25pX3cyNFRxTFlMTkZ6UEsyRi1JSTM0RHEwUU9sMWhCV1I5RVlYUnBiQkEzR2dnQw?oc=5\" target=\"_blank\">Copilot Cowork: A new way of getting work done</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-03-09T07:00:00+00:00",
+      "source": "Microsoft"
     },
     {
-      "title": "Veeam launches Intelligent ResOps for Microsoft 365 - Techzine Global",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDBfeDBOc2puZGZvSzEtN2JSMkNtbHp4OEJzOEFrRzh1WklmemRlNmtMMUo1RThsREVTMlZRd1RycGFzNk9QbFhRTWhyOUlCMHpJNUs5VU15NkZfX2wzdGp3RHg0UGEwT0M3M1VTUW43UXBveHpNQS1rMkxuWXBnLVRIZ2NaM2Y5a1FxS2lmMnFNTUlzUzJ0cGlRanRGM21aRGwwRlVBcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDBfeDBOc2puZGZvSzEtN2JSMkNtbHp4OEJzOEFrRzh1WklmemRlNmtMMUo1RThsREVTMlZRd1RycGFzNk9QbFhRTWhyOUlCMHpJNUs5VU15NkZfX2wzdGp3RHg0UGEwT0M3M1VTUW43UXBveHpNQS1rMkxuWXBnLVRIZ2NaM2Y5a1FxS2lmMnFNTUlzUzJ0cGlRanRGM21aRGwwRlVBcw?oc=5\" target=\"_blank\">Veeam launches Intelligent ResOps for Microsoft 365</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techzine Global</font>",
-      "published": "2026-10-15T13:00:00+00:00",
-      "source": "Techzine Global"
+      "title": "Introducing Microsoft Scout: Your always-on personal agent | AI at Work Blog - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM25yUGVnN0xBZ1NGZFVORmd0RG43ZmY2MzYxSWpuRE9TX3VyeEhiWi1ORVdfN21GaXB6Tk9YeHJGTHZYcWxyMk0tRy1NSGhlUXlPYWk2RmpDNEhkX3FHaEdWaGplb3JiazhRSVNVSmJERnJXUWdXc3oxMVFBNlZJRFNSQmJSdzI3SjlrQ3dVTS1wNTFyUnJnWlFkN1BSR3g2ZDM2MlNiclhhVWd3N3phNmY4WE4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNM25yUGVnN0xBZ1NGZFVORmd0RG43ZmY2MzYxSWpuRE9TX3VyeEhiWi1ORVdfN21GaXB6Tk9YeHJGTHZYcWxyMk0tRy1NSGhlUXlPYWk2RmpDNEhkX3FHaEdWaGplb3JiazhRSVNVSmJERnJXUWdXc3oxMVFBNlZJRFNSQmJSdzI3SjlrQ3dVTS1wNTFyUnJnWlFkN1BSR3g2ZDM2MlNiclhhVWd3N3phNmY4WE4?oc=5\" target=\"_blank\">Introducing Microsoft Scout: Your always-on personal agent | AI at Work Blog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-06-02T07:00:00+00:00",
+      "source": "Microsoft"
+    },
+    {
+      "title": "Copilot Cowork is now generally available - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkthNkFrbGZxSGVtMXJUb2FLck9kaWotLXNzU01VMDZ2R2c4NTVSM1FrYVhpMjJndWIzakJZaWVMV2FodXN3SlczTUFCWmRlRGtJdXpRQ3hIOWlQZU5HdGgwYVBaSEotZ2ZHQ2gwX2dJSTNWWThrOEcwZFRXc0kxZ1BhYXhBMzlvblVhZjE2eWk2aWFHaUY5MElDQnhhWWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkthNkFrbGZxSGVtMXJUb2FLck9kaWotLXNzU01VMDZ2R2c4NTVSM1FrYVhpMjJndWIzakJZaWVMV2FodXN3SlczTUFCWmRlRGtJdXpRQ3hIOWlQZU5HdGgwYVBaSEotZ2ZHQ2gwX2dJSTNWWThrOEcwZFRXc0kxZ1BhYXhBMzlvblVhZjE2eWk2aWFHaUY5MElDQnhhWWs?oc=5\" target=\"_blank\">Copilot Cowork is now generally available</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "published": "2026-06-16T07:00:00+00:00",
+      "source": "Microsoft"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-21",
-      "close": 531.47998046875
+      "date": "2026-10-22",
+      "close": 526.6099853515625
     },
     "history": [
-      {
-        "date": "2026-10-13",
-        "close": 543.4500122070312
-      },
       {
         "date": "2026-10-14",
         "close": 533.6900024414062
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-21",
-        "close": 531.47998046875
+        "close": 532.9500122070312
+      },
+      {
+        "date": "2026-10-22",
+        "close": 526.6099853515625
       }
     ],
     "name": "Microsoft Corporation"
