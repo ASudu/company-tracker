@@ -2,7 +2,7 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-10-22T16:17:16.427179+00:00",
+  "fetched_at": "2026-10-23T16:07:01.945660+00:00",
   "news": [
     {
       "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce - CNBC",
@@ -12,56 +12,63 @@
       "source": "CNBC"
     },
     {
-      "title": "Nvidia’s Jensen Huang Reveals AI Data Center Quick-Fix. These Stocks Are Winners. - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUDhYeUJnWWhob3owVVl0czY4VWFJck5oTk84ZHpJa2tFaEd5TElmdGJRUnl5bEcxVTZ1S21QcEUtY2QwZ2pDaUdmemNzdlgwRnY4QnBIVG95dTkzOHRaaXFaX3ZRdE45RTJQb0FiVWhZdE5UbE15elNvTWpPWFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUDhYeUJnWWhob3owVVl0czY4VWFJck5oTk84ZHpJa2tFaEd5TElmdGJRUnl5bEcxVTZ1S21QcEUtY2QwZ2pDaUdmemNzdlgwRnY4QnBIVG95dTkzOHRaaXFaX3ZRdE45RTJQb0FiVWhZdE5UbE15elNvTWpPWFE?oc=5\" target=\"_blank\">Nvidia’s Jensen Huang Reveals AI Data Center Quick-Fix. These Stocks Are Winners.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-10-22T12:56:00+00:00",
-      "source": "Barron's"
-    },
-    {
-      "title": "Jensen Huang Says the Next Wave of AI Is Physical. Forget Nvidia and Tesla, I’d Bet on These 2 Mid-Cap Stocks Instead. - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdFotaUFUdXRhWk5JLWRwTWd1WE5YT0M5VTItX2I5TGkzM21LQ2M2SHZjM2lQeVlhd2ZKTENkdlczVUlDZGlxbWdISVZkUXpvZWZCZ01LM1AyX1VFc0pqOUl2LUtpNzFvQk90bFR6cHBpUkFrM2xsUGVrdkowTjVoWWpITmdYZFJrYWF5OWxZV0tmVjZLdElxQ01JRkJwcV9UZ2NXYUdfNVhJazhfcW9HSTRxSFJQbVpaa3pEQ3hfQm1xSU1Ba3hPd0ZQNFdIa1ZVOUlvblYyaWdMeXE5aTBjMncybFVITHE5QWhQQ3NUVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdFotaUFUdXRhWk5JLWRwTWd1WE5YT0M5VTItX2I5TGkzM21LQ2M2SHZjM2lQeVlhd2ZKTENkdlczVUlDZGlxbWdISVZkUXpvZWZCZ01LM1AyX1VFc0pqOUl2LUtpNzFvQk90bFR6cHBpUkFrM2xsUGVrdkowTjVoWWpITmdYZFJrYWF5OWxZV0tmVjZLdElxQ01JRkJwcV9UZ2NXYUdfNVhJazhfcW9HSTRxSFJQbVpaa3pEQ3hfQm1xSU1Ba3hPd0ZQNFdIa1ZVOUlvblYyaWdMeXE5aTBjMncybFVITHE5QWhQQ3NUVQ?oc=5\" target=\"_blank\">Jensen Huang Says the Next Wave of AI Is Physical. Forget Nvidia and Tesla, I’d Bet on These 2 Mid-Cap Stocks Instead.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
-      "published": "2026-10-21T22:25:32+00:00",
-      "source": "Barchart.com"
-    },
-    {
-      "title": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5\" target=\"_blank\">Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-21T11:30:00+00:00",
+      "title": "Nvidia CEO Jensen Huang says data center builders have to be ‘good neighbors’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG5wUUxTbjVJRDY1eV8zOG1aRXRHWjdwZmQxX0NuWG1RR2dnQnYtS2FaX0llOHlQYmRzVkRfbGlQSUtJNlg0Tm1SRWs3bEdHWExwRG9jVGxhdXhIX1RtRTZLODdnZnUyWUc0aWxOS3NjMTU3R2g1TDFVOGNOM2MxMUxWNGk3QWhSRS00R2l0OTZtQ0g1azYzMXpXZ2dWZExmTUYwYkpadWEybjFqNTV6QnFGVEt3Vi11eDFXUkRZYWZRdmFodk9IazJYYzVNS3JG?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG5wUUxTbjVJRDY1eV8zOG1aRXRHWjdwZmQxX0NuWG1RR2dnQnYtS2FaX0llOHlQYmRzVkRfbGlQSUtJNlg0Tm1SRWs3bEdHWExwRG9jVGxhdXhIX1RtRTZLODdnZnUyWUc0aWxOS3NjMTU3R2g1TDFVOGNOM2MxMUxWNGk3QWhSRS00R2l0OTZtQ0g1azYzMXpXZ2dWZExmTUYwYkpadWEybjFqNTV6QnFGVEt3Vi11eDFXUkRZYWZRdmFodk9IazJYYzVNS3JG?oc=5\" target=\"_blank\">Nvidia CEO Jensen Huang says data center builders have to be ‘good neighbors’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-21T13:27:05+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "SpaceX Works With Apollo, Nvidia on New Grok Partnership Program - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEM3cUxUNzF4cHR5V2Y2SU1keG1JNVFjZFMwUThCS1hPOWI2RmgzN1pLbTNUSnBEMGFIZkl1Z1BNV2RUUkEzUnJDc3JPSmJ1V0NuWDh3dkdYcnVPYkFCMjQyZkRMV3ZrcTZNRnM5V3hQdVI4c2YtMXhzZDNKaVZXVHVTQ0dpQUtfalprWnJWdVBxOUJscUd6OWdCUzZpV05yQkVobDhhSzAtTThfVEVrUUl5Mm0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEM3cUxUNzF4cHR5V2Y2SU1keG1JNVFjZFMwUThCS1hPOWI2RmgzN1pLbTNUSnBEMGFIZkl1Z1BNV2RUUkEzUnJDc3JPSmJ1V0NuWDh3dkdYcnVPYkFCMjQyZkRMV3ZrcTZNRnM5V3hQdVI4c2YtMXhzZDNKaVZXVHVTQ0dpQUtfalprWnJWdVBxOUJscUd6OWdCUzZpV05yQkVobDhhSzAtTThfVEVrUUl5Mm0?oc=5\" target=\"_blank\">SpaceX Works With Apollo, Nvidia on New Grok Partnership Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-10-22T15:47:59+00:00",
-      "source": "Bloomberg.com"
+      "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5\" target=\"_blank\">Nvidia's Huang hails Europe's AI potential, flanked by robot ducks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-21T16:56:09+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0hxeEo0VVdfWjZ2Mkh6QTJWZU05RU9rY3lUamNCVkprTGRHak9XR3hkSEIwSnRSVWRFZHpkS3ZxNWpPTURvOTA4amZGdjIzcXFpN1N6QlhZbG8tb0J0ZXk5OXJ4MGdrbGUzblowaHVPUVpQZXZSb1pBeG9BSlhkX1FnbjZuTTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0hxeEo0VVdfWjZ2Mkh6QTJWZU05RU9rY3lUamNCVkprTGRHak9XR3hkSEIwSnRSVWRFZHpkS3ZxNWpPTURvOTA4amZGdjIzcXFpN1N6QlhZbG8tb0J0ZXk5OXJ4MGdrbGUzblowaHVPUVpQZXZSb1pBeG9BSlhkX1FnbjZuTTg?oc=5\" target=\"_blank\">OpenAI, Anthropic, and Nvidia had record lobbying quarters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-10-22T15:50:30+00:00",
-      "source": "The Verge"
+      "title": "Nvidia Stock’s 2 Critical Flaws and More Reasons an Analyst Says Sell - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5SVktBZjJfVEV6cG1KNTRURUZ5MUNuSmFSeW5aeldtcWg4LWNkZC05TVVmRmhZYzhSWnNtbG81Vkt0ellCTWZ3dGRYMGptZ0xfZGdCTU8xY3lmR2tjNE80NE5MZ0l1R3M5M0xHV0k2THFIYk13QXlRRU5hSFdzZw?oc=5\" target=\"_blank\">Nvidia Stock’s 2 Critical Flaws and More Reasons an Analyst Says Sell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-10-23T14:01:00+00:00",
+      "source": "Barron's"
     },
     {
-      "title": "Does Super Micro's Big Quarter Make Nvidia Stock a Buy? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB?oc=5\" target=\"_blank\">Does Super Micro's Big Quarter Make Nvidia Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-22T07:32:01+00:00",
+      "title": "Not Nvidia. Not Micron. This Little-Known Chip Stock Is the AI Boom's Best-Kept Secret. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb01Rb0tTV242ZXZIYWZKcldDVEhKNkZGN1VyMXcyMHlsWXJha24wVTJXd2c4WDNSNlRtOFd2MEFNYlZKbDhZN2Y3cGxtNWxfaDNYemc2WWlhTEVISXdSa2cxY0VXclRKaE5ZbHlaVW9zX3h0OWhDYmxJUG4tRy1aaHIyazk2U3RrWkNiMmxGVlZzLTlmUi12Vw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOb01Rb0tTV242ZXZIYWZKcldDVEhKNkZGN1VyMXcyMHlsWXJha24wVTJXd2c4WDNSNlRtOFd2MEFNYlZKbDhZN2Y3cGxtNWxfaDNYemc2WWlhTEVISXdSa2cxY0VXclRKaE5ZbHlaVW9zX3h0OWhDYmxJUG4tRy1aaHIyazk2U3RrWkNiMmxGVlZzLTlmUi12Vw?oc=5\" target=\"_blank\">Not Nvidia. Not Micron. This Little-Known Chip Stock Is the AI Boom's Best-Kept Secret.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "published": "2026-10-23T13:56:16+00:00",
+      "source": "The Motley Fool"
+    },
+    {
+      "title": "Ignore Near-Term Friction: Nvidia’s Unmatched Scale and CUDA Ecosystem Lock-In Make Every Pullback a Buying Opportunity for Years to Come - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTmx4QlAxZ2F1MjVYTWYwQkd4SGp1cnBuVmJ1NlZnLTF3Njk3TVN5T3RPRHhLOWViQTFDbXZnZGJOVm5qUzBNVkh0dGcxT3dWTWt6N0VGclJETGNObVlMNjgyT3JnWERhU3dmTDdBdkc1YjFFTkZ4SU1ya1hmUmtweDRSRFN2QU5VLTRpR2doZm1XalRudnJlbmk2X2lXdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTmx4QlAxZ2F1MjVYTWYwQkd4SGp1cnBuVmJ1NlZnLTF3Njk3TVN5T3RPRHhLOWViQTFDbXZnZGJOVm5qUzBNVkh0dGcxT3dWTWt6N0VGclJETGNObVlMNjgyT3JnWERhU3dmTDdBdkc1YjFFTkZ4SU1ya1hmUmtweDRSRFN2QU5VLTRpR2doZm1XalRudnJlbmk2X2lXdw?oc=5\" target=\"_blank\">Ignore Near-Term Friction: Nvidia’s Unmatched Scale and CUDA Ecosystem Lock-In Make Every Pullback a Buying Opportunity for Years to Come</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-23T14:45:02+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI Investment - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VeEdHR2lCQXB5TGVFS2dwc0JnRTVDR3loNTVlRlRmTHNWcmpHbUdHdzV6bVJQQWgzQkJZTmZWbXJrQjFHWGhMVEVUZEJyOXh4UWZFa1kybFZWcGVDVGF3RXcwOXhZZkVxWVVKc0pwa1lhak1lRXBB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9VeEdHR2lCQXB5TGVFS2dwc0JnRTVDR3loNTVlRlRmTHNWcmpHbUdHdzV6bVJQQWgzQkJZTmZWbXJrQjFHWGhMVEVUZEJyOXh4UWZFa1kybFZWcGVDVGF3RXcwOXhZZkVxWVVKc0pwa1lhak1lRXBB?oc=5\" target=\"_blank\">Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-10-22T09:30:00+00:00",
-      "source": "Barron's"
+      "title": "AI Giant Nvidia Invests in Entertainment Startup Higgsfield - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWpUZ2FBMnJzWHZtQ3FuMmxPRFBxZEJjZ284SVlaV3BfZk9scXBDeHA1TS1uYzdreU9rbXRTSnhhOHlaV2UyaFA2V2RPZWxKQlNtOWxUaG5uSkNhRnRQay00dlRVVm1PdFRGVGx2SzlrUXdEdUc2Qndub01kdUk4LTBHZlh3VkppWkh0eEdWRUlwWGV3b1lrQUxMSHcyeE5vMldn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWpUZ2FBMnJzWHZtQ3FuMmxPRFBxZEJjZ284SVlaV3BfZk9scXBDeHA1TS1uYzdreU9rbXRTSnhhOHlaV2UyaFA2V2RPZWxKQlNtOWxUaG5uSkNhRnRQay00dlRVVm1PdFRGVGx2SzlrUXdEdUc2Qndub01kdUk4LTBHZlh3VkppWkh0eEdWRUlwWGV3b1lrQUxMSHcyeE5vMldn?oc=5\" target=\"_blank\">AI Giant Nvidia Invests in Entertainment Startup Higgsfield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-23T15:18:11+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ?oc=5\" target=\"_blank\">Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T07:37:51+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
+    {
+      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5\" target=\"_blank\">Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-10-21T11:30:01+00:00",
+      "source": "CNBC"
+    },
     {
       "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVjJaWWVnN3FsV2ZrdlVrSTRuVEE2V0JWZHJRQ2loQ1czLVdiWXpvQkYxLTU2R0U4VVhkMGNZblBRZ0hyY1pnbXVZMXAzdmN0LXdRTDNSSXpwNmhSaHRzR09wN1kxendGLVRWQm9CTkJmZ2stRUE?oc=5",
@@ -77,18 +84,11 @@
       "source": "SiliconANGLE"
     },
     {
-      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5\" target=\"_blank\">Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-10-21T11:30:01+00:00",
-      "source": "CNBC"
-    },
-    {
-      "title": "Germany's Agile Robots Launches Agile ONE SN Humanoid Research Platform Built on Nvidia GR00T - AI Insider",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFVDSmMyRzQ0Nk5hYWozVVBZdm5VZlJaNGYxWWE3b1M5aU53ckJ0bmE1eDdIbGlQTDRNVVlucllKSzFicjhQc2NiVmJtY2Z3Vk5zc0FudVc1cGtkN1dCdGdicGstbWxYTnJleGRUckhkcm1xRTN2MGd5YjBKdzdDc25qNUtmaWRvc1MtT2trSDhxRUVQZ0tUd1k2a0RzYWtBd3k1ZGRjRzk0Tmc4QXZIZjJac1dMenZEYXNwSUlYR2wtaGNPMTJSZ1Bn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFVDSmMyRzQ0Nk5hYWozVVBZdm5VZlJaNGYxWWE3b1M5aU53ckJ0bmE1eDdIbGlQTDRNVVlucllKSzFicjhQc2NiVmJtY2Z3Vk5zc0FudVc1cGtkN1dCdGdicGstbWxYTnJleGRUckhkcm1xRTN2MGd5YjBKdzdDc25qNUtmaWRvc1MtT2trSDhxRUVQZ0tUd1k2a0RzYWtBd3k1ZGRjRzk0Tmc4QXZIZjJac1dMenZEYXNwSUlYR2wtaGNPMTJSZ1Bn?oc=5\" target=\"_blank\">Germany's Agile Robots Launches Agile ONE SN Humanoid Research Platform Built on Nvidia GR00T</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
-      "published": "2026-10-22T11:52:58+00:00",
-      "source": "AI Insider"
+      "title": "qBraid Unveils qBraid OS and Launches Hosted GH200 GPU Simulators at NVIDIA GTC Berlin - Quantum Computing Report",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2RZRDBsMnpNa2ZYcXpvSGQ2VFBwbXpHQWt5eHFMTUNtSWRCNjQ2b2J0WkYzbU9HSWh3by0zQklrRXZDcFhaZ3V3alpnS0lPNDA0dmZPSGdhaHFlSjRuT29RQ3NOYnZpU2xLRlVsQ1gtTExzN3VUd25tSUQyd3YzMEFPXzByNVpzTkstRloyWlQ5RTJ2NkxjcTZCYWpQeW1yS0tQdUktNjExcEYzbTdHd3RGNGswWXlmNG55TmhvRdIBxAFBVV95cUxPZWhfNDNPcDU2R0U3T1VkTlpvZnpzTUlXUENJS1o4SjNSQWFrLVdIdHpCc01hV2hTbEtvbEM4WWhGTzhtd3VzeGQzbzZXcEhzUXF4aEIxcm9hXzFjTWlFSDdNdV9jd3lpYWZQSlBmYkZsQ0R1MmZyU1c5enU4emh0TUdPelVNQThGaW5uV2tvMW5taXVrdkw4aldWT2trTVhvZjY4Nk5sSVF1Z3FZS1J0VXVSMmNlS2t6NTh1b1IzS3R5TmM2?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2RZRDBsMnpNa2ZYcXpvSGQ2VFBwbXpHQWt5eHFMTUNtSWRCNjQ2b2J0WkYzbU9HSWh3by0zQklrRXZDcFhaZ3V3alpnS0lPNDA0dmZPSGdhaHFlSjRuT29RQ3NOYnZpU2xLRlVsQ1gtTExzN3VUd25tSUQyd3YzMEFPXzByNVpzTkstRloyWlQ5RTJ2NkxjcTZCYWpQeW1yS0tQdUktNjExcEYzbTdHd3RGNGswWXlmNG55TmhvRdIBxAFBVV95cUxPZWhfNDNPcDU2R0U3T1VkTlpvZnpzTUlXUENJS1o4SjNSQWFrLVdIdHpCc01hV2hTbEtvbEM4WWhGTzhtd3VzeGQzbzZXcEhzUXF4aEIxcm9hXzFjTWlFSDdNdV9jd3lpYWZQSlBmYkZsQ0R1MmZyU1c5enU4emh0TUdPelVNQThGaW5uV2tvMW5taXVrdkw4aldWT2trTVhvZjY4Nk5sSVF1Z3FZS1J0VXVSMmNlS2t6NTh1b1IzS3R5TmM2?oc=5\" target=\"_blank\">qBraid Unveils qBraid OS and Launches Hosted GH200 GPU Simulators at NVIDIA GTC Berlin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "published": "2026-10-22T13:33:18+00:00",
+      "source": "Quantum Computing Report"
     },
     {
       "title": "Nvidia Launches Containerized DSX Pod System To Accelerate AI Factory Deployments - Yahoo Finance",
@@ -102,14 +102,10 @@
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-22",
-      "close": 213.72000122070312
+      "date": "2026-10-23",
+      "close": 212.78599548339844
     },
     "history": [
-      {
-        "date": "2026-10-14",
-        "close": 221.3000030517578
-      },
       {
         "date": "2026-10-15",
         "close": 217.22999572753906
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-22",
-        "close": 213.72000122070312
+        "close": 212.2100067138672
+      },
+      {
+        "date": "2026-10-23",
+        "close": 212.78599548339844
       }
     ],
     "name": "NVIDIA Corporation"
