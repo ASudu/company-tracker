@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-10-23T16:06:52.525307+00:00",
+  "fetched_at": "2026-10-24T15:03:27.127018+00:00",
   "news": [
     {
       "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor - Reuters",
@@ -12,6 +12,13 @@
       "source": "Reuters"
     },
     {
+      "title": "Microsoft says its AI tool outperforms generalist doctors in complex diagnoses - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjZRcmdGRUdkVXNucEN0SEVaV2tnZXRiWGVDcU15MXlYcnhjeHhWeGprQUhqRzBOQ2l6Nlkyb0t3azZVRUdXTDU4WGxZWlRQcTNRWXJNOEJ5U2xHNWtXckc0M3M3Zm1pRkM3RG04ZFprSWxqNTRMSHRUOFBnbGJXWS1URlA3cDJYZEFmMWlvNmNmZjZNbVM5X0I3TURYTTZfMktqM0RtS0ROYmtrNG5hadIBtgFBVV95cUxPdTR0QUw1b21qaWxyTXo4MDB6b1VWdkptT2lCQVlzS1RIR2pzSkZZd3R1aW1SeWp1NjVpdW9pLXM1ZWs5N2pkTldsWFBwMC0xdVN1RDJsbzA3MzlmNnV5QkVKd1JaRjR5MUZEakVneGpwb1hLU0tXU0pBS2FhQUxHT291WnZUamVXU0luRHp3TVhOUjY5SkhPcHdSdXZ0WHNsaDRfRFBEUjlJLTNFRXFMU0JQRmZtZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjZRcmdGRUdkVXNucEN0SEVaV2tnZXRiWGVDcU15MXlYcnhjeHhWeGprQUhqRzBOQ2l6Nlkyb0t3azZVRUdXTDU4WGxZWlRQcTNRWXJNOEJ5U2xHNWtXckc0M3M3Zm1pRkM3RG04ZFprSWxqNTRMSHRUOFBnbGJXWS1URlA3cDJYZEFmMWlvNmNmZjZNbVM5X0I3TURYTTZfMktqM0RtS0ROYmtrNG5hadIBtgFBVV95cUxPdTR0QUw1b21qaWxyTXo4MDB6b1VWdkptT2lCQVlzS1RIR2pzSkZZd3R1aW1SeWp1NjVpdW9pLXM1ZWs5N2pkTldsWFBwMC0xdVN1RDJsbzA3MzlmNnV5QkVKd1JaRjR5MUZEakVneGpwb1hLU0tXU0pBS2FhQUxHT291WnZUamVXU0luRHp3TVhOUjY5SkhPcHdSdXZ0WHNsaDRfRFBEUjlJLTNFRXFMU0JQRmZtZw?oc=5\" target=\"_blank\">Microsoft says its AI tool outperforms generalist doctors in complex diagnoses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-10-23T19:22:00+00:00",
+      "source": "Fox Business"
+    },
+    {
       "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5\" target=\"_blank\">Microsoft says its AI tool is better than doctors at diagnosing conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
@@ -19,46 +26,39 @@
       "source": "The Verge"
     },
     {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRVdXNUh5Ylc4REo4QVJUQk42eV9PS3B3UDlEdVhsREdRaG1HazZBOHVyZnFJYmhGc3hpcVM5VjRnYW02RlF6d1h3TDhDb1NqcWVyUHdDd0pQVk9GQUdnR1duUi1abGY0Y1EwTWNOaU9JbVZTMGJMVHFGSFV2Wkx6TWdZNDdmS3dnZzNWUEdZaV9KaWxNaDVoZ202ZTloaXE5bi1sam1VOXZuNkRoRHBWNFF0RVVLZTdETW5ZZXpoZGJhYXNWNkRBWEFpYlFyc2dJZmFKakp3Zkp5d29nOERSWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRVdXNUh5Ylc4REo4QVJUQk42eV9PS3B3UDlEdVhsREdRaG1HazZBOHVyZnFJYmhGc3hpcVM5VjRnYW02RlF6d1h3TDhDb1NqcWVyUHdDd0pQVk9GQUdnR1duUi1abGY0Y1EwTWNOaU9JbVZTMGJMVHFGSFV2Wkx6TWdZNDdmS3dnZzNWUEdZaV9KaWxNaDVoZ202ZTloaXE5bi1sam1VOXZuNkRoRHBWNFF0RVVLZTdETW5ZZXpoZGJhYXNWNkRBWEFpYlFyc2dJZmFKakp3Zkp5d29nOERSWQ?oc=5\" target=\"_blank\">Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-10-22T18:43:53+00:00",
-      "source": "TechCrunch"
+      "title": "Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkV1ZGF0amlGUE05UHVISEppem8zZDZWSVM1M3VabV9yYXpTSlptUVhnS0F5V2xCODk4enEwZ1p6Zl80NVA5VWtONHE4enNDZGpqZjFXeTdueVVjT0R1TDlJODloUVBYRlZOT25UOWhJRkhsdWt0Uzg0dGJoNzR6UXpOTDFIdHdnUjYxUmFDUndwWDRLWWFfNlZ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONkV1ZGF0amlGUE05UHVISEppem8zZDZWSVM1M3VabV9yYXpTSlptUVhnS0F5V2xCODk4enEwZ1p6Zl80NVA5VWtONHE4enNDZGpqZjFXeTdueVVjT0R1TDlJODloUVBYRlZOT25UOWhJRkhsdWt0Uzg0dGJoNzR6UXpOTDFIdHdnUjYxUmFDUndwWDRLWWFfNlZ3?oc=5\" target=\"_blank\">Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-10-23T00:46:37+00:00",
+      "source": "Gizmodo"
     },
     {
-      "title": "Durable Growth Reinforces Microsoft Corporation’s (MSFT) Investment Thesis - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmE3ZUloOVJQaU1BWnNsdXRHWTBZUWRyZy1BUHdDWF9QQ0xGU0hwUlNQVzljQkdONXI3dnNORVRSV2JIQlVlcTg0X3lzSFZySzNKZnlfbGsyMUp4dWRJX0hJYVdFeGV4VjRqSnFfZlA0WHpsRjJnVUFaUzg3OGRnLVYySWJkMHB5aVYwYmVWVXkwQXBDbTZmQWxGUGxZd3NyeXg3MmZiZUI2MVVDTXRjLXZn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmE3ZUloOVJQaU1BWnNsdXRHWTBZUWRyZy1BUHdDWF9QQ0xGU0hwUlNQVzljQkdONXI3dnNORVRSV2JIQlVlcTg0X3lzSFZySzNKZnlfbGsyMUp4dWRJX0hJYVdFeGV4VjRqSnFfZlA0WHpsRjJnVUFaUzg3OGRnLVYySWJkMHB5aVYwYmVWVXkwQXBDbTZmQWxGUGxZd3NyeXg3MmZiZUI2MVVDTXRjLXZn?oc=5\" target=\"_blank\">Durable Growth Reinforces Microsoft Corporation’s (MSFT) Investment Thesis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-23T15:36:31+00:00",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "The non-gamer CEO racing to save Microsoft’s Xbox - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGJabWtwdEFBZENLOHpvUDBFbWx1VWpIWjJ1bHF3eUx5SlhXZVRJYkRkTkFjSm9JdGJNYWpHNU5vR0lEaE9EZDdRVXZpMzd3N2ljeEhpX1RfM1BZd1Z5MnVVWFpJSVhmY2V4Q3FMY29nY2FUWGZtT1JTUmNNREduT0dqWEJIM0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGJabWtwdEFBZENLOHpvUDBFbWx1VWpIWjJ1bHF3eUx5SlhXZVRJYkRkTkFjSm9JdGJNYWpHNU5vR0lEaE9EZDdRVXZpMzd3N2ljeEhpX1RfM1BZd1Z5MnVVWFpJSVhmY2V4Q3FMY29nY2FUWGZtT1JTUmNNREduT0dqWEJIM0E?oc=5\" target=\"_blank\">The non-gamer CEO racing to save Microsoft’s Xbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-10-20T16:10:00+00:00",
-      "source": "Fortune"
-    },
-    {
-      "title": "Report: Microsoft Is Running Out Of Time To Save Xbox Studio Arkane - Pure Xbox",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcy12WFEzT2dCRXVwcXJjRGt0bjdXYzlWZmNtMlN0aldWZThTZWFpTWxHdzFtSEwwX3FHbTJGTEVjZENweGVZNzRHZWU4VlJwVVdaTDJuVmd4NHItVmRvWFpNR3hSb2JpOWhaMEJUVFZoVGFFWWltVWpWeDBGQzR2QzdKTDhxVmpIbWUwR2dGVkQ3QkdDMnVtaS10UkZwQzdvM3J2ZjdpNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcy12WFEzT2dCRXVwcXJjRGt0bjdXYzlWZmNtMlN0aldWZThTZWFpTWxHdzFtSEwwX3FHbTJGTEVjZENweGVZNzRHZWU4VlJwVVdaTDJuVmd4NHItVmRvWFpNR3hSb2JpOWhaMEJUVFZoVGFFWWltVWpWeDBGQzR2QzdKTDhxVmpIbWUwR2dGVkQ3QkdDMnVtaS10UkZwQzdvM3J2ZjdpNA?oc=5\" target=\"_blank\">Report: Microsoft Is Running Out Of Time To Save Xbox Studio Arkane</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pure Xbox</font>",
-      "published": "2026-10-23T14:45:00+00:00",
-      "source": "Pure Xbox"
-    },
-    {
-      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it? - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmo0UUdlMExQYU9leTV3SFloaXJhSk55VG9EVlhYYU9pMEtwTU1GZFdnTEYyYWdpT0w3bVhGRFBqQWZKVDR4cWoyQmlOWXNBcG9vdGZFS0piMXd2T2VHWXdJVEFCOUhIeDljQnNyR0lHQjJjM0Q4NmlOU2xOMjFFWTVBN1NLVkszWFY2RzVTcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmo0UUdlMExQYU9leTV3SFloaXJhSk55VG9EVlhYYU9pMEtwTU1GZFdnTEYyYWdpT0w3bVhGRFBqQWZKVDR4cWoyQmlOWXNBcG9vdGZFS0piMXd2T2VHWXdJVEFCOUhIeDljQnNyR0lHQjJjM0Q4NmlOU2xOMjFFWTVBN1NLVkszWFY2RzVTcw?oc=5\" target=\"_blank\">The next-gen Xbox won’t cost you $1,800. It can’t. Can it?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-10-22T23:00:00+00:00",
+      "title": "Xbox’s first chief operating officer is out after just a few months - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0szaFBzRVNlcUw1c2t1aEZ5RFFIY000OGZpQWZocGpudDR4WlVRNmFtb1A0V29Jbk8xOUpreXlZckhSdXBoTEFUckh5WVZQOG9raV9DM0stQWdDNjN1RHFYcE8yQkM0QzYwQTMxczh1SExRY0pSS29zc3BidUlMV2lkM3RZUVJOdmZmODhrYnBMSm8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0szaFBzRVNlcUw1c2t1aEZ5RFFIY000OGZpQWZocGpudDR4WlVRNmFtb1A0V29Jbk8xOUpreXlZckhSdXBoTEFUckh5WVZQOG9raV9DM0stQWdDNjN1RHFYcE8yQkM0QzYwQTMxczh1SExRY0pSS29zc3BidUlMV2lkM3RZUVJOdmZmODhrYnBMSm8?oc=5\" target=\"_blank\">Xbox’s first chief operating officer is out after just a few months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-23T21:39:26+00:00",
       "source": "The Verge"
     },
     {
-      "title": "'Threat Is Very Real To India': Microsoft AI Expert Nicholas Butts At NDTV World Summit - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHBFajZwU1gyQlZ3OTJpTTBiQWNKN2QwbVV3SHMxQ0RtT3ctWm90dC1SNXI1YU1WNEdMSldhMHpMblNqU3YyVFJfaUtXUFZCMjhCeDBlUF9sOHU3eUhaTVlzQTNVbHJReEliOE9rdTRPMzlnMDd6R3c5QVlReHdpTHQ5WGRRaEVGNmhkR1BvaHZHZmZTNVBERjlxUnUwT1hUUXZWeTNJMkNQanIzbUd3WGRxOV8zQnpRVFhjNkxBUU5xQTjSAcsBQVVfeXFMTW9OdlZjU1cxTGdhR0ZraUtBU2ViN0tCOVUwVThtakJyaFhOSEN1RHdwWkNCZXJKcEFnVGJPaXliYlFtQVlLbDRBMndwS1NkT3NIMms1Vlk0bktMUDNMdy0yV0FGdzdDc1NKNmVjZUhVR2VtLXVvdVFHc1NUYkhuNHFQSUNFdnU0SlZzbkJ4N3Y3N0lXR1hIc3lCOE1UcFNKa2NEXzVZNVpURVdoQmpWc3g3QUxldkFuM3UzZ29vYzI4RkVwUi1jeW5HckU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHBFajZwU1gyQlZ3OTJpTTBiQWNKN2QwbVV3SHMxQ0RtT3ctWm90dC1SNXI1YU1WNEdMSldhMHpMblNqU3YyVFJfaUtXUFZCMjhCeDBlUF9sOHU3eUhaTVlzQTNVbHJReEliOE9rdTRPMzlnMDd6R3c5QVlReHdpTHQ5WGRRaEVGNmhkR1BvaHZHZmZTNVBERjlxUnUwT1hUUXZWeTNJMkNQanIzbUd3WGRxOV8zQnpRVFhjNkxBUU5xQTjSAcsBQVVfeXFMTW9OdlZjU1cxTGdhR0ZraUtBU2ViN0tCOVUwVThtakJyaFhOSEN1RHdwWkNCZXJKcEFnVGJPaXliYlFtQVlLbDRBMndwS1NkT3NIMms1Vlk0bktMUDNMdy0yV0FGdzdDc1NKNmVjZUhVR2VtLXVvdVFHc1NUYkhuNHFQSUNFdnU0SlZzbkJ4N3Y3N0lXR1hIc3lCOE1UcFNKa2NEXzVZNVpURVdoQmpWc3g3QUxldkFuM3UzZ29vYzI4RkVwUi1jeW5HckU?oc=5\" target=\"_blank\">'Threat Is Very Real To India': Microsoft AI Expert Nicholas Butts At NDTV World Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-      "published": "2026-10-23T11:32:12+00:00",
-      "source": "NDTV"
+      "title": "'We'll Share More as Plans are Finalized' — Xbox's First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created as Company's Massive Restructuring Continues - IGN",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3pHMmJoZTg1LTB2REg1Y0VhUmltaTdZWUpjbDdiM29pbnBIUWRyN2VRVXF5ckg4M05nNmRsejZ6d2NFTHpMMlNRU2tCdXF1bzhiM3dsRUZNa2lOZmZZNHpib1Q3eWdLRVFvbW9oWDEyeXBiLW9Ta015ZHdWemEtak1RRF95NkNlY2VZMlVQSEhQb040bWU1Z3g1Y1d5cnVMVkV2a1o3NzN0Z3NtUFd1UkdWUjMzN1NHaTd5Mw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3pHMmJoZTg1LTB2REg1Y0VhUmltaTdZWUpjbDdiM29pbnBIUWRyN2VRVXF5ckg4M05nNmRsejZ6d2NFTHpMMlNRU2tCdXF1bzhiM3dsRUZNa2lOZmZZNHpib1Q3eWdLRVFvbW9oWDEyeXBiLW9Ta015ZHdWemEtak1RRF95NkNlY2VZMlVQSEhQb040bWU1Z3g1Y1d5cnVMVkV2a1o3NzN0Z3NtUFd1UkdWUjMzN1NHaTd5Mw?oc=5\" target=\"_blank\">'We'll Share More as Plans are Finalized' — Xbox's First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created as Company's Massive Restructuring Continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
+      "published": "2026-10-24T00:35:00+00:00",
+      "source": "IGN"
+    },
+    {
+      "title": "Xbox's brand-new COO is already gone, three months after the job was created - Eurogamer.net",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ncDd5aTRLTk9aZTdUZU4tZTB1Q1dMYmFGNnh2clhyMm03LU9uV0pVUjlQQk1nMlBwemZ5dVpJaDBzVXhIY2RiYk9fdnZsMnRkZU1Bc0QtN0sxUjJFV0FyUTZpTHN3Y3NGRkRXYXlNakVqQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1ncDd5aTRLTk9aZTdUZU4tZTB1Q1dMYmFGNnh2clhyMm03LU9uV0pVUjlQQk1nMlBwemZ5dVpJaDBzVXhIY2RiYk9fdnZsMnRkZU1Bc0QtN0sxUjJFV0FyUTZpTHN3Y3NGRkRXYXlNakVqQQ?oc=5\" target=\"_blank\">Xbox's brand-new COO is already gone, three months after the job was created</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurogamer.net</font>",
+      "published": "2026-10-24T12:57:17+00:00",
+      "source": "Eurogamer.net"
+    },
+    {
+      "title": "Get Windows 11 Pro for just $9.97 before November rolls in - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZUUzQ3ZFLV85RjB0QVl3Zzl0SkJ4SG55OXFFMlROOVoyNHBBMjBJQkdGMC1MemhfQXZvaTZVMmxJOGt1NTVZUldDcjFrTzJyZi1GanFNdzBHcXEwT2JIakJRTHJtRkN1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZUUzQ3ZFLV85RjB0QVl3Zzl0SkJ4SG55OXFFMlROOVoyNHBBMjBJQkdGMC1MemhfQXZvaTZVMmxJOGt1NTVZUldDcjFrTzJyZi1GanFNdzBHcXEwT2JIakJRTHJtRkN1?oc=5\" target=\"_blank\">Get Windows 11 Pro for just $9.97 before November rolls in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
+      "published": "2026-10-24T09:00:00+00:00",
+      "source": "Mashable"
     }
   ],
   "product_launches": [
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-10-23",
-      "close": 525.1300048828125
+      "close": 524.510009765625
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-10-23",
-        "close": 525.1300048828125
+        "close": 524.510009765625
       }
     ],
     "name": "Microsoft Corporation"
