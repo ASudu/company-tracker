@@ -2,15 +2,8 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-10-24T15:03:27.127018+00:00",
+  "fetched_at": "2026-10-25T15:15:16.528511+00:00",
   "news": [
-    {
-      "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5\" target=\"_blank\">Microsoft develops AI tool that can diagnose 'sequentially' like a doctor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-23T00:34:00+00:00",
-      "source": "Reuters"
-    },
     {
       "title": "Microsoft says its AI tool outperforms generalist doctors in complex diagnoses - Fox Business",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjZRcmdGRUdkVXNucEN0SEVaV2tnZXRiWGVDcU15MXlYcnhjeHhWeGprQUhqRzBOQ2l6Nlkyb0t3azZVRUdXTDU4WGxZWlRQcTNRWXJNOEJ5U2xHNWtXckc0M3M3Zm1pRkM3RG04ZFprSWxqNTRMSHRUOFBnbGJXWS1URlA3cDJYZEFmMWlvNmNmZjZNbVM5X0I3TURYTTZfMktqM0RtS0ROYmtrNG5hadIBtgFBVV95cUxPdTR0QUw1b21qaWxyTXo4MDB6b1VWdkptT2lCQVlzS1RIR2pzSkZZd3R1aW1SeWp1NjVpdW9pLXM1ZWs5N2pkTldsWFBwMC0xdVN1RDJsbzA3MzlmNnV5QkVKd1JaRjR5MUZEakVneGpwb1hLU0tXU0pBS2FhQUxHT291WnZUamVXU0luRHp3TVhOUjY5SkhPcHdSdXZ0WHNsaDRfRFBEUjlJLTNFRXFMU0JQRmZtZw?oc=5",
@@ -19,18 +12,46 @@
       "source": "Fox Business"
     },
     {
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5\" target=\"_blank\">Microsoft says its AI tool is better than doctors at diagnosing conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
-      "published": "2026-10-22T18:00:00+00:00",
-      "source": "The Verge"
+      "title": "Microsoft Says Its New AI Is Better at Diagnosing Patients Than Real Doctors - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDc2TGszMFROMU41ejBycXVYUDczNkRSMkFvTU9zWE1iZW5nZVVKVFlJVm1DMi13d19QeHpyRnpZTVl6Ty1IcG82bXZYZzhRSUsyUThMQ3dTVHVKc0hEUENQY05xd0xyVUNsVmNfM0VaMEYyVHgwSG8xdnBESjZ3Q1pTaTFMVlVY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDc2TGszMFROMU41ejBycXVYUDczNkRSMkFvTU9zWE1iZW5nZVVKVFlJVm1DMi13d19QeHpyRnpZTVl6Ty1IcG82bXZYZzhRSUsyUThMQ3dTVHVKc0hEUENQY05xd0xyVUNsVmNfM0VaMEYyVHgwSG8xdnBESjZ3Q1pTaTFMVlVY?oc=5\" target=\"_blank\">Microsoft Says Its New AI Is Better at Diagnosing Patients Than Real Doctors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
+      "published": "2026-10-25T10:57:00+00:00",
+      "source": "Futurism"
     },
     {
-      "title": "Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkV1ZGF0amlGUE05UHVISEppem8zZDZWSVM1M3VabV9yYXpTSlptUVhnS0F5V2xCODk4enEwZ1p6Zl80NVA5VWtONHE4enNDZGpqZjFXeTdueVVjT0R1TDlJODloUVBYRlZOT25UOWhJRkhsdWt0Uzg0dGJoNzR6UXpOTDFIdHdnUjYxUmFDUndwWDRLWWFfNlZ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONkV1ZGF0amlGUE05UHVISEppem8zZDZWSVM1M3VabV9yYXpTSlptUVhnS0F5V2xCODk4enEwZ1p6Zl80NVA5VWtONHE4enNDZGpqZjFXeTdueVVjT0R1TDlJODloUVBYRlZOT25UOWhJRkhsdWt0Uzg0dGJoNzR6UXpOTDFIdHdnUjYxUmFDUndwWDRLWWFfNlZ3?oc=5\" target=\"_blank\">Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
-      "published": "2026-10-23T00:46:37+00:00",
-      "source": "Gizmodo"
+      "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5\" target=\"_blank\">Microsoft develops AI tool that can diagnose 'sequentially' like a doctor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-23T05:07:07+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Denmark has abandoned plans to ditch Microsoft Office after technical problems - Neowin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1ZnV1UxalNxUy1GQ0luMVV1V055aGF3NnYwdl9lNUwxUWw1YkJNLVo2ZDB6LVZkbmRYbE1SalJzT1BaQ0Z5RlZIeGxxZklULUktUlF3TUF0Ykh1QVVLUHc0VE5Vakl6TnZ4MTNTeDNhVUF1UzBKS1haY0N2TlpZSkZqRWF1MkQwdU90MjlxWEQ3VW5MUjdJSnVUZ2R1SDFOakgwUzVIc2docE0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1ZnV1UxalNxUy1GQ0luMVV1V055aGF3NnYwdl9lNUwxUWw1YkJNLVo2ZDB6LVZkbmRYbE1SalJzT1BaQ0Z5RlZIeGxxZklULUktUlF3TUF0Ykh1QVVLUHc0VE5Vakl6TnZ4MTNTeDNhVUF1UzBKS1haY0N2TlpZSkZqRWF1MkQwdU90MjlxWEQ3VW5MUjdJSnVUZ2R1SDFOakgwUzVIc2docE0?oc=5\" target=\"_blank\">Denmark has abandoned plans to ditch Microsoft Office after technical problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Neowin</font>",
+      "published": "2026-10-25T00:44:00+00:00",
+      "source": "Neowin"
+    },
+    {
+      "title": "Microsoft: China Hackers Unleash AI-Powered Cyberattacks Targeting Supply Chains - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLXVibE8wLXJfWFJ6QWJfX1V3ckU0ZmVhZTRQNzFGbEdVdS03d25PX1U4RGROcXFaUTR6aEZQY1VUXzNBVk9MQXRRbGl5dGkyRF9ITURBVnVuaFRwS0lUdjdiNUFLMmJQMWExek9GQlA5V0k0MFVNQUpQX2FWa1FHdExsS2R5ZGc5amtQMXdEREFxZG5OX3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPLXVibE8wLXJfWFJ6QWJfX1V3ckU0ZmVhZTRQNzFGbEdVdS03d25PX1U4RGROcXFaUTR6aEZQY1VUXzNBVk9MQXRRbGl5dGkyRF9ITURBVnVuaFRwS0lUdjdiNUFLMmJQMWExek9GQlA5V0k0MFVNQUpQX2FWa1FHdExsS2R5ZGc5amtQMXdEREFxZG5OX3c?oc=5\" target=\"_blank\">Microsoft: China Hackers Unleash AI-Powered Cyberattacks Targeting Supply Chains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+      "published": "2026-10-25T13:36:53+00:00",
+      "source": "Yahoo"
+    },
+    {
+      "title": "Seventh by whose count? Microsoft’s cyber ranking and the limits of vendor data - ET Government",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlVUV09SQjhoMDMxb0FfMDVEZWY1TXVTaDNNZjNENmtKYXpVMk9BSHRBNldjZXBuelBIa3NiSl9rakpBMnRlZDNDT3pGOFk1Y1NFYXlwVEpCcjZCejlsWVRGTjVrWERXWHpPODloMFFyQm95SnRlcjdhdzNFamRxUk0ydnk4ZlBEQ0ptQmJueF9ud0tHQ1k1VXNMbWZXbTFwWm52X1FROUVOay0xdVhuS1FNVmp1NkJnN1IwNmFKLU9Ld2N6MVEya19hS2NYRUlXbzJGa19n0gHbAUFVX3lxTE9RZktiLWtDTVdVYl9qa2xjcUh3eWsxMHR6TGkxemZlemNPRXNVc0VxTFNkLU5fdGZnUFhJSC1naVlJMll3UkhKb2lCbzE3M2N6bVZKMEp6WHJkQ0txRnQ3WlAyWEo4MGdmUnM5S0MwbUIxMXl3djRDTlhjWEFRNGZRbXhibURYX25PUk9HSkRxV0RpY00xNFF5dlJXV0VCeE50bHpuWlZoeHpUVHFRb21hWnlwN0dGX01aUHN3SF81ak9WS2ZXMjd3UW41UklWNXJvbFlONEEwa0hGNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlVUV09SQjhoMDMxb0FfMDVEZWY1TXVTaDNNZjNENmtKYXpVMk9BSHRBNldjZXBuelBIa3NiSl9rakpBMnRlZDNDT3pGOFk1Y1NFYXlwVEpCcjZCejlsWVRGTjVrWERXWHpPODloMFFyQm95SnRlcjdhdzNFamRxUk0ydnk4ZlBEQ0ptQmJueF9ud0tHQ1k1VXNMbWZXbTFwWm52X1FROUVOay0xdVhuS1FNVmp1NkJnN1IwNmFKLU9Ld2N6MVEya19hS2NYRUlXbzJGa19n0gHbAUFVX3lxTE9RZktiLWtDTVdVYl9qa2xjcUh3eWsxMHR6TGkxemZlemNPRXNVc0VxTFNkLU5fdGZnUFhJSC1naVlJMll3UkhKb2lCbzE3M2N6bVZKMEp6WHJkQ0txRnQ3WlAyWEo4MGdmUnM5S0MwbUIxMXl3djRDTlhjWEFRNGZRbXhibURYX25PUk9HSkRxV0RpY00xNFF5dlJXV0VCeE50bHpuWlZoeHpUVHFRb21hWnlwN0dGX01aUHN3SF81ak9WS2ZXMjd3UW41UklWNXJvbFlONEEwa0hGNA?oc=5\" target=\"_blank\">Seventh by whose count? Microsoft’s cyber ranking and the limits of vendor data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Government</font>",
+      "published": "2026-10-25T13:26:40+00:00",
+      "source": "ET Government"
+    },
+    {
+      "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0l5dnFfdUxybkFnYjFMWUtiZFRVWVNieXI2bEJhSi1ZUDhfQmJSa3lDekl5bkQwcDRZTWdhQUF4cnIxc2U5aERBcmk3OTgyMUwtOWxYVTZ0TjhfcllPalFSLV9zTUVueTlhLUZPYThDdzlaeTVhR2QxQkNtOXJ6REpB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0l5dnFfdUxybkFnYjFMWUtiZFRVWVNieXI2bEJhSi1ZUDhfQmJSa3lDekl5bkQwcDRZTWdhQUF4cnIxc2U5aERBcmk3OTgyMUwtOWxYVTZ0TjhfcllPalFSLV9zTUVueTlhLUZPYThDdzlaeTVhR2QxQkNtOXJ6REpB?oc=5\" target=\"_blank\">Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-10-25T11:54:08+00:00",
+      "source": "CNBC"
     },
     {
       "title": "Xbox’s first chief operating officer is out after just a few months - The Verge",
@@ -38,27 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0szaFBzRVNlcUw1c2t1aEZ5RFFIY000OGZpQWZocGpudDR4WlVRNmFtb1A0V29Jbk8xOUpreXlZckhSdXBoTEFUckh5WVZQOG9raV9DM0stQWdDNjN1RHFYcE8yQkM0QzYwQTMxczh1SExRY0pSS29zc3BidUlMV2lkM3RZUVJOdmZmODhrYnBMSm8?oc=5\" target=\"_blank\">Xbox’s first chief operating officer is out after just a few months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
       "published": "2026-10-23T21:39:26+00:00",
       "source": "The Verge"
-    },
-    {
-      "title": "'We'll Share More as Plans are Finalized' — Xbox's First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created as Company's Massive Restructuring Continues - IGN",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3pHMmJoZTg1LTB2REg1Y0VhUmltaTdZWUpjbDdiM29pbnBIUWRyN2VRVXF5ckg4M05nNmRsejZ6d2NFTHpMMlNRU2tCdXF1bzhiM3dsRUZNa2lOZmZZNHpib1Q3eWdLRVFvbW9oWDEyeXBiLW9Ta015ZHdWemEtak1RRF95NkNlY2VZMlVQSEhQb040bWU1Z3g1Y1d5cnVMVkV2a1o3NzN0Z3NtUFd1UkdWUjMzN1NHaTd5Mw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3pHMmJoZTg1LTB2REg1Y0VhUmltaTdZWUpjbDdiM29pbnBIUWRyN2VRVXF5ckg4M05nNmRsejZ6d2NFTHpMMlNRU2tCdXF1bzhiM3dsRUZNa2lOZmZZNHpib1Q3eWdLRVFvbW9oWDEyeXBiLW9Ta015ZHdWemEtak1RRF95NkNlY2VZMlVQSEhQb040bWU1Z3g1Y1d5cnVMVkV2a1o3NzN0Z3NtUFd1UkdWUjMzN1NHaTd5Mw?oc=5\" target=\"_blank\">'We'll Share More as Plans are Finalized' — Xbox's First-Ever Chief Operating Officer Leaves Role Just Three Months After It Was Created as Company's Massive Restructuring Continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font>",
-      "published": "2026-10-24T00:35:00+00:00",
-      "source": "IGN"
-    },
-    {
-      "title": "Xbox's brand-new COO is already gone, three months after the job was created - Eurogamer.net",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ncDd5aTRLTk9aZTdUZU4tZTB1Q1dMYmFGNnh2clhyMm03LU9uV0pVUjlQQk1nMlBwemZ5dVpJaDBzVXhIY2RiYk9fdnZsMnRkZU1Bc0QtN0sxUjJFV0FyUTZpTHN3Y3NGRkRXYXlNakVqQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1ncDd5aTRLTk9aZTdUZU4tZTB1Q1dMYmFGNnh2clhyMm03LU9uV0pVUjlQQk1nMlBwemZ5dVpJaDBzVXhIY2RiYk9fdnZsMnRkZU1Bc0QtN0sxUjJFV0FyUTZpTHN3Y3NGRkRXYXlNakVqQQ?oc=5\" target=\"_blank\">Xbox's brand-new COO is already gone, three months after the job was created</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurogamer.net</font>",
-      "published": "2026-10-24T12:57:17+00:00",
-      "source": "Eurogamer.net"
-    },
-    {
-      "title": "Get Windows 11 Pro for just $9.97 before November rolls in - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZUUzQ3ZFLV85RjB0QVl3Zzl0SkJ4SG55OXFFMlROOVoyNHBBMjBJQkdGMC1MemhfQXZvaTZVMmxJOGt1NTVZUldDcjFrTzJyZi1GanFNdzBHcXEwT2JIakJRTHJtRkN1?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE15ZUUzQ3ZFLV85RjB0QVl3Zzl0SkJ4SG55OXFFMlROOVoyNHBBMjBJQkdGMC1MemhfQXZvaTZVMmxJOGt1NTVZUldDcjFrTzJyZi1GanFNdzBHcXEwT2JIakJRTHJtRkN1?oc=5\" target=\"_blank\">Get Windows 11 Pro for just $9.97 before November rolls in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>",
-      "published": "2026-10-24T09:00:00+00:00",
-      "source": "Mashable"
     }
   ],
   "product_launches": [
@@ -91,11 +91,11 @@
       "source": "Windows Blog"
     },
     {
-      "title": "Introducing dots - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5\" target=\"_blank\">Introducing dots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
-      "published": "2026-09-29T07:00:00+00:00",
-      "source": "OpenAI"
+      "title": "Microsoft Advertising Launches Product Explorer - Search Engine Journal",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQczlkYm5PT2IzT3RiWVFfY0FET1l2V1FTSm92clFMaEl6YlJtVVA0NHJhYWE2YUNTaEFzQTJRNTJkdkpOUmdqSzdrR3ZtLXRMOFZHTlVkMDI0akdHak5ZYWUxRThXdVpsSVRFOVdCaG9uNWh2RzQ4VGotdjBIWHlBSGwxRWlCWGd6UlhLU0pRbkRZeTRrOEE?oc=5\" target=\"_blank\">Microsoft Advertising Launches Product Explorer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Search Engine Journal</font>",
+      "published": "2026-06-15T07:00:00+00:00",
+      "source": "Search Engine Journal"
     }
   ],
   "stock": {
