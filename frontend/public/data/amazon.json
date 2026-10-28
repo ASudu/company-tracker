@@ -2,66 +2,87 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-10-27T17:01:04.704042+00:00",
+  "fetched_at": "2026-10-28T17:37:54.274192+00:00",
   "news": [
     {
-      "title": "Verizon Lifts Outlook, Inks Amazon Deal Worth More Than $2 Billion - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkQ4aUFyMGZjNW8xNlJlY0FtTjhOZWhtdmk2d2pMc0lHZ25OQU5YSU1DRUtpekxUbGJobmlXNWhmVkJUSDFQMGlnRGxLelVkNXR6Q3pPVUFfRXh2WndxUlBGd0llWTZReDlNaDh3QTZ5MHNnNTNUbjg1Y1hwdXVqSUQ4bDNVYWJPWlJzOXdzNU16RHk2SndPY1JQbXdwb2VZM1FzOGJvd3B2VXM2WXFmZg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkQ4aUFyMGZjNW8xNlJlY0FtTjhOZWhtdmk2d2pMc0lHZ25OQU5YSU1DRUtpekxUbGJobmlXNWhmVkJUSDFQMGlnRGxLelVkNXR6Q3pPVUFfRXh2WndxUlBGd0llWTZReDlNaDh3QTZ5MHNnNTNUbjg1Y1hwdXVqSUQ4bDNVYWJPWlJzOXdzNU16RHk2SndPY1JQbXdwb2VZM1FzOGJvd3B2VXM2WXFmZg?oc=5\" target=\"_blank\">Verizon Lifts Outlook, Inks Amazon Deal Worth More Than $2 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-10-26T14:32:42+00:00",
-      "source": "WSJ"
+      "title": "Amazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVBnQnNmeDh0Q2poMkJCWlZFQkNkcUJ3cFJGcnlaMWdfc3JqZGF0elFzQ3hTT0FiR2Mwa0dRN25hM2ZMQnR6NFMzSDlZYm5RQS1XMkdETE54ajlyd0RSWVFhd3l3Zzh1dWZQdTNVNjRTbzVEeXUtRnlPWFlJRDVzRGdHSXhWVTIwRkdXeVpzSlBHNnZka0FpUGpJSWpIcTI5X0NqTDc1TTBvRU4tZFpaNTBqVEpFWEd0QkloZDBPNlR0VEU?oc=5\" target=\"_blank\">Amazon Debuts 16-Inch Echo Smart Display and Alexa Photo Frame</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0weHB4RTJjN0F3NHppSWRHVHFVemI1Mkg5T1R2aDFSaU9FQmI5T3U1NTI5Wm1EM2tPNzBfc2FMUDFXS2FvMUM4ZGd0U3h1alRDeXA1Y2FNcnlkb1lzV0FmRW9lQl83d3U4dUZhQ3otX3o4bG9LaGc?oc=5\" target=\"_blank\">Amazon introduces the all-new Echo Show 16—our most advanced, versatile smart display yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3ZBMHlhbDROdmtxanNBbkZnTTBNamxRV2RKSzU2OFBOSGZHVzNHcTU5Nmpoa3BaQlpSaTQzV3hsNGllZ2JIRXNfLVF0bzRDeDRsOVI5VzVYZWduTHE4eFlseW94Nlp2ZWRTcWRZWUJOZXdIRGJDREVFbDBUdXhhRHA4eTk1Nk1oX013?oc=5\" target=\"_blank\">Amazon’s New Echo Lineup Goes in the Opposite Direction of Apple HomeView</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET</font></li></ol>",
+      "published": "2026-10-28T12:00:11+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Amazon CEO Andy Jassy has two Gen Z kids—and has an AI warning for the entire generation - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX3pmcFQxZUp2U1FpWUVNYUR1X3R2YXgzcG1oMDhVcFdRRVY2QTFubHpGeWRNWTZEeXV3NUE5VHRQSmJMa0pabzF2LVJMckQyMnN3Z2ZraFFnYnBfcmxIbHFXY2lWU2otQ3Bqdm5PaGY3OEZQRzc5dS00dUFRT21CaUx2UVBLUWxqWW93c1laSHRsSkdld1BZek05akNYZm16Ym8yb2REdDBwVnV1RWh2cA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOX3pmcFQxZUp2U1FpWUVNYUR1X3R2YXgzcG1oMDhVcFdRRVY2QTFubHpGeWRNWTZEeXV3NUE5VHRQSmJMa0pabzF2LVJMckQyMnN3Z2ZraFFnYnBfcmxIbHFXY2lWU2otQ3Bqdm5PaGY3OEZQRzc5dS00dUFRT21CaUx2UVBLUWxqWW93c1laSHRsSkdld1BZek05akNYZm16Ym8yb2REdDBwVnV1RWh2cA?oc=5\" target=\"_blank\">Amazon CEO Andy Jassy has two Gen Z kids—and has an AI warning for the entire generation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "published": "2026-10-26T16:16:00+00:00",
-      "source": "Fortune"
+      "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI - About Amazon",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOajY2MDU2cll6ZWRoYVVWb3hXd2Zsb2xMbjhkOWNMRVQwd0twRFJUX3J5WjBFWlpycS1LS2UzTngxbU9kTmVTQnN2RW12UGh1S1UwWktOeS15bkdVSFNRNndqYjlCUmhMWTlmaW01bHI2UFhzc2NDUXc1c1lEbG1XN1JUTkdLQXVpaW91UEdDSHV2dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOajY2MDU2cll6ZWRoYVVWb3hXd2Zsb2xMbjhkOWNMRVQwd0twRFJUX3J5WjBFWlpycS1LS2UzTngxbU9kTmVTQnN2RW12UGh1S1UwWktOeS15bkdVSFNRNndqYjlCUmhMWTlmaW01bHI2UFhzc2NDUXc1c1lEbG1XN1JUTkdLQXVpaW91UEdDSHV2dw?oc=5\" target=\"_blank\">An update from Amazon engineering leadership on the role of the developer in the age of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+      "published": "2026-10-27T17:56:54+00:00",
+      "source": "About Amazon"
     },
     {
-      "title": "'Elden Ring' Will Be Biggest Movie At A Market, Amazon Joins A24 Film - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXNmWWdUTVppZWFwOXc5bml4MzBWOUxuRWY3b0JsT2VsM18waXQ0eG01cFdPeGNLaTFMOVgzUXhYVEwzY051RzlPb3J5c2hwcXdCWmxqNW1MRC1qeUlJU3hXSWxNT195M0c3blBBT2xUYjZmNE02ZV9DdzVWU3VGTGtaV2hYMHJucGVIc3EwVjNoS0d3REM2M1YtZUlPQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObXNmWWdUTVppZWFwOXc5bml4MzBWOUxuRWY3b0JsT2VsM18waXQ0eG01cFdPeGNLaTFMOVgzUXhYVEwzY051RzlPb3J5c2hwcXdCWmxqNW1MRC1qeUlJU3hXSWxNT195M0c3blBBT2xUYjZmNE02ZV9DdzVWU3VGTGtaV2hYMHJucGVIc3EwVjNoS0d3REM2M1YtZUlPQQ?oc=5\" target=\"_blank\">'Elden Ring' Will Be Biggest Movie At A Market, Amazon Joins A24 Film</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>",
-      "published": "2026-10-27T15:17:00+00:00",
-      "source": "Deadline"
+      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WmtrREFiT2I0QkhBd2lscUk0YzhjYU5RX0xUTFN4Q0lhemNRQW8xN0VGOTZ3cFpyYm9xa0xSaUQ1SDAwZXN3UUdNbGFzMHZWT3FtVGEzTlNWYUxpQUJPb3E5bUk0ckxjenFLVUItYk1zYUNl0gF6QVVfeXFMUEcxZUliMkFyZC1vOUFTcGkxQ3oxd0Mta05IaV8tM05uQ1gyRndyYWxTbl9GUUdob21fTGt5aEFGUTV0aEpaYWtzQ1F6UE1ITzFDY1pnc2hOTDFXbHlnQlVKWGhyODllVVdOanExTjN5OU1CNGZUM3VLV2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB0WmtrREFiT2I0QkhBd2lscUk0YzhjYU5RX0xUTFN4Q0lhemNRQW8xN0VGOTZ3cFpyYm9xa0xSaUQ1SDAwZXN3UUdNbGFzMHZWT3FtVGEzTlNWYUxpQUJPb3E5bUk0ckxjenFLVUItYk1zYUNl0gF6QVVfeXFMUEcxZUliMkFyZC1vOUFTcGkxQ3oxd0Mta05IaV8tM05uQ1gyRndyYWxTbl9GUUdob21fTGt5aEFGUTV0aEpaYWtzQ1F6UE1ITzFDY1pnc2hOTDFXbHlnQlVKWGhyODllVVdOanExTjN5OU1CNGZUM3VLV2c?oc=5\" target=\"_blank\">Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-10-27T18:41:02+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "UPS gears up for peak season with less Amazon volume in tow - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORkpOM1c0LVR4ejFvTldwS3FoQ3JUeWpxb1dKMnF6VzlPTjJsdkliWE5tbVg3Y3ltZlZJWW1EclV1SkhxWWgtV2ZOalA4ZTVFN3JyWXR1QmY5SGd0U0Y0WGhBaG1tQXZQM0d6VEF4MVZ5WmJmWW9RQk02b2hOcVVTTWwyUlh3aEtWSXlZYUJ3cnNLWU0tQkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxORkpOM1c0LVR4ejFvTldwS3FoQ3JUeWpxb1dKMnF6VzlPTjJsdkliWE5tbVg3Y3ltZlZJWW1EclV1SkhxWWgtV2ZOalA4ZTVFN3JyWXR1QmY5SGd0U0Y0WGhBaG1tQXZQM0d6VEF4MVZ5WmJmWW9RQk02b2hOcVVTTWwyUlh3aEtWSXlZYUJ3cnNLWU0tQkE?oc=5\" target=\"_blank\">UPS gears up for peak season with less Amazon volume in tow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-27T16:06:00+00:00",
-      "source": "Yahoo Finance"
+      "title": "Amazon to Employees: For the Love of God, Stop Tokenmaxxing - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQk9hMFA5Yk9iaWlTX0R2Rnc0Tmh1ajZOU2pLZlJYNjVxM3JBZGtqLVE4UzlOdTNucGJndklaM3hRTHlXMVZ3NEZHUUtKeFZSZDFtYXFLTlB2S3FEX2J6SW5lWmtCbXdyMGoyVzhadzdhSFlVeFJIblhTcW1aZGxMcDFydDdKQ1lDVElZWDhPd05kdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQk9hMFA5Yk9iaWlTX0R2Rnc0Tmh1ajZOU2pLZlJYNjVxM3JBZGtqLVE4UzlOdTNucGJndklaM3hRTHlXMVZ3NEZHUUtKeFZSZDFtYXFLTlB2S3FEX2J6SW5lWmtCbXdyMGoyVzhadzdhSFlVeFJIblhTcW1aZGxMcDFydDdKQ1lDVElZWDhPd05kdw?oc=5\" target=\"_blank\">Amazon to Employees: For the Love of God, Stop Tokenmaxxing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-10-28T16:00:30+00:00",
+      "source": "Gizmodo"
     },
     {
-      "title": "Ring camera footage shows Amazon driver striking cat with package - WAVY.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEdQQnVvOU5aZWh6bXZGWk1UN1FjazdqTVRFQVNXSHk2NWpBUGgtV1lTeVlWaVI5R2U5UG5oMnVHRmN5eDJzNERwSXFzb09pUUFST2hFdVpralJGRkN1X2FJU1FSLUFvbnRzbjg3VTJQRzFoLU5KOXRYdmlxMDhVR2h3NWkzN3p1UFU1NWVQOTdUVUUxSlRQWFQyR0NHQk9sb21iMDBn0gGrAUFVX3lxTE5tY3JWV1ViN0lsanlfNDNZenpHX0RDOU1TVkw5UXh3WHZVQ2xmUmhPS0Yxcks1RVRWRmo0UVc4d0M3OTl4NkJPR0RxLVViM2hpQlNNWHF1eXVyd2tWN1hweXZvclZIRUdqZjEzWHNuQWJVRFJta3h3bjh0OWY1R0VGVThnaTFpZ1pKc1NxQWkxSVlES25SVHVidTcwUF9RQkpyN3NxWkNSc1R0UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEdQQnVvOU5aZWh6bXZGWk1UN1FjazdqTVRFQVNXSHk2NWpBUGgtV1lTeVlWaVI5R2U5UG5oMnVHRmN5eDJzNERwSXFzb09pUUFST2hFdVpralJGRkN1X2FJU1FSLUFvbnRzbjg3VTJQRzFoLU5KOXRYdmlxMDhVR2h3NWkzN3p1UFU1NWVQOTdUVUUxSlRQWFQyR0NHQk9sb21iMDBn0gGrAUFVX3lxTE5tY3JWV1ViN0lsanlfNDNZenpHX0RDOU1TVkw5UXh3WHZVQ2xmUmhPS0Yxcks1RVRWRmo0UVc4d0M3OTl4NkJPR0RxLVViM2hpQlNNWHF1eXVyd2tWN1hweXZvclZIRUdqZjEzWHNuQWJVRFJta3h3bjh0OWY1R0VGVThnaTFpZ1pKc1NxQWkxSVlES25SVHVidTcwUF9RQkpyN3NxWkNSc1R0UQ?oc=5\" target=\"_blank\">Ring camera footage shows Amazon driver striking cat with package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVY.com</font>",
-      "published": "2026-10-27T16:49:47+00:00",
-      "source": "WAVY.com"
+      "title": "Amazon cuts more jobs, in devices unit, after flurry of product rollouts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVoyUXFMZHNCb0FHRDhzSkdTOXA3c3NBWTdPZEpNc1h0RV9DSG02YWh3QXI4Y3J4TGpJczQ5TUpPRkhuVllUQ3VqcEM4VUZpdUlfRjctcE5LLTNqZlVFcGFvcnhOckZrUEhkQjRvYVJvTFFSZUdvcHFQTGZqb0RLTmhzdUtaczVBR3laYTZXclZUeml4R0l0aFYybmZmVGtNT3hQT1Flc0w5cm00UHl5TDFhT0NEaDZuaW9BbG1CWjU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSVoyUXFMZHNCb0FHRDhzSkdTOXA3c3NBWTdPZEpNc1h0RV9DSG02YWh3QXI4Y3J4TGpJczQ5TUpPRkhuVllUQ3VqcEM4VUZpdUlfRjctcE5LLTNqZlVFcGFvcnhOckZrUEhkQjRvYVJvTFFSZUdvcHFQTGZqb0RLTmhzdUtaczVBR3laYTZXclZUeml4R0l0aFYybmZmVGtNT3hQT1Flc0w5cm00UHl5TDFhT0NEaDZuaW9BbG1CWjU?oc=5\" target=\"_blank\">Amazon cuts more jobs, in devices unit, after flurry of product rollouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-28T15:26:55+00:00",
+      "source": "Reuters"
     },
     {
-      "title": "City of Eugene fined for polluting Amazon Creek during restoration - NPR for Oregonians",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1Y2X0Q2bWhMamVjYVdaYWRJUXdMSzZHWWdqNG1VTnJNN2lHeWVPMW9SZUVMbXB0UHROc1BJMzdWRHZGenozdXFRdG1CMVJpZHVtX28tQW9IUXdvaUJlV0pIMGUzdFQyanBDOTJabzlpRHVGX2Z4dFUxTER0QUN6eWZpTzhlckJKYnF4b0x0Smh1bHJ5eVpGdlAxamhscXU0OWtDYkE2MVdqZldJQVpN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1Y2X0Q2bWhMamVjYVdaYWRJUXdMSzZHWWdqNG1VTnJNN2lHeWVPMW9SZUVMbXB0UHROc1BJMzdWRHZGenozdXFRdG1CMVJpZHVtX28tQW9IUXdvaUJlV0pIMGUzdFQyanBDOTJabzlpRHVGX2Z4dFUxTER0QUN6eWZpTzhlckJKYnF4b0x0Smh1bHJ5eVpGdlAxamhscXU0OWtDYkE2MVdqZldJQVpN?oc=5\" target=\"_blank\">City of Eugene fined for polluting Amazon Creek during restoration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR for Oregonians</font>",
-      "published": "2026-10-26T21:43:00+00:00",
-      "source": "NPR for Oregonians"
+      "title": "‘I am mother, leader, warrior of the Amazon’: Nemonte Nenquimo on why the west needs to be rescued - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQamxuYXp1bGE1QlNHU3hyUHdLa0FFam9LYTZnSjhRRDhHTFVRck5ic0Z5d3hxLVBTdkF1NXNCak91YWlHSkUtSkFaRHI1akVUNFMwYTA0TWJOV2d4eG40TEdiNWFxd1Bra3VJVDJiY3ZPN0kxTlkxZFZISmlRR08yMjNiZG54RWVEYUdEOHJ1T2Z2dkNUTTk4RmlTNFBrUFJDcnV4RjlhVE02N3gtMnpiMEpjendnQV9Sc2paN0c4SFZDQXZMQWM5M2hYdXZsMUxBaHdfYXc4Y2pKQ2d5VzdyaURibExhQzg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQamxuYXp1bGE1QlNHU3hyUHdLa0FFam9LYTZnSjhRRDhHTFVRck5ic0Z5d3hxLVBTdkF1NXNCak91YWlHSkUtSkFaRHI1akVUNFMwYTA0TWJOV2d4eG40TEdiNWFxd1Bra3VJVDJiY3ZPN0kxTlkxZFZISmlRR08yMjNiZG54RWVEYUdEOHJ1T2Z2dkNUTTk4RmlTNFBrUFJDcnV4RjlhVE02N3gtMnpiMEpjendnQV9Sc2paN0c4SFZDQXZMQWM5M2hYdXZsMUxBaHdfYXc4Y2pKQ2d5VzdyaURibExhQzg?oc=5\" target=\"_blank\">‘I am mother, leader, warrior of the Amazon’: Nemonte Nenquimo on why the west needs to be rescued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "published": "2026-10-28T12:02:00+00:00",
+      "source": "The Guardian"
     },
     {
-      "title": "Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUm9aVmhQcV9xaWlmQnZvalBLc3JLVmNHTHlXWjNjZTZwSUtNbk16dGZ3UFlCRWx3VGV2ZjFrMUM1OTAyb0NEVnp1cVJkRWFyUFdVRDNHa3BBQUZna0lSdndNSHpOX3R0MjI5eTVSMkFGeXBxcU5ZZllpVjVZV01sLXNhUmE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUm9aVmhQcV9xaWlmQnZvalBLc3JLVmNHTHlXWjNjZTZwSUtNbk16dGZ3UFlCRWx3VGV2ZjFrMUM1OTAyb0NEVnp1cVJkRWFyUFdVRDNHa3BBQUZna0lSdndNSHpOX3R0MjI5eTVSMkFGeXBxcU5ZZllpVjVZV01sLXNhUmE?oc=5\" target=\"_blank\">Amazon weighed ‘difficult trade-offs’ as memory costs squeezed its devices business, internal document shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-10-27T10:00:00+00:00",
+      "title": "Amazon warehouse workers tell us what they think about their new robot coworkers - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFlSWGxibEhSNllvNTkycHY1Rzg1VktWaVB6NGtydUYzQWducERiNHpCaVktNFc4Y2FjbUVaQTh5cHAxMTBHbGluX1FNT1lwdmJyTlFLUzkxMlllaUxTdkdMRlhLX2RqcXAzd09rYzgtbl9CbTh6SWxnZ2xsODRCR1c0LW9UQkMyTm84cjFIS0x0M3lGSlNLcVZubW5OOUYwdEZ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFlSWGxibEhSNllvNTkycHY1Rzg1VktWaVB6NGtydUYzQWducERiNHpCaVktNFc4Y2FjbUVaQTh5cHAxMTBHbGluX1FNT1lwdmJyTlFLUzkxMlllaUxTdkdMRlhLX2RqcXAzd09rYzgtbl9CbTh6SWxnZ2xsODRCR1c0LW9UQkMyTm84cjFIS0x0M3lGSlNLcVZubW5OOUYwdEZ3?oc=5\" target=\"_blank\">Amazon warehouse workers tell us what they think about their new robot coworkers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-10-28T10:00:00+00:00",
       "source": "Business Insider"
     },
     {
-      "title": "Anthropic Increasingly Relies on Google, Amazon, Microsoft Sales - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUZjNFRQUjBBUUZZN2dOOXc5S0syaHJjS3NIazgweUh2X0FPLVhkeFNTVWhLWkVUSGstbzRkT3o0Vm1tVG5BVUpQUVpJVTYtal9UYkRYeVFJeDlKN1hqMU1EekQ2dWRORnJzbHJNNHJHSlFJeTVnV2tiOG9pSWt4UnlNcXdhRldwbFdTX1I2d1VlYldaa043M2xyZDFfblBjUkhGakx6MGlKN29qYUNYSC1xMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUZjNFRQUjBBUUZZN2dOOXc5S0syaHJjS3NIazgweUh2X0FPLVhkeFNTVWhLWkVUSGstbzRkT3o0Vm1tVG5BVUpQUVpJVTYtal9UYkRYeVFJeDlKN1hqMU1EekQ2dWRORnJzbHJNNHJHSlFJeTVnV2tiOG9pSWt4UnlNcXdhRldwbFdTX1I2d1VlYldaa043M2xyZDFfblBjUkhGakx6MGlKN29qYUNYSC1xMA?oc=5\" target=\"_blank\">Anthropic Increasingly Relies on Google, Amazon, Microsoft Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "published": "2026-10-26T20:43:44+00:00",
-      "source": "Bloomberg.com"
+      "title": "My Favorite Part of the New Kindle Paperwhite Is One of the Accessories - WIRED",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vaGV3XzRUM2VveHUzamNqOUd2WEl5alFjTEtYekE4RzBXdEp0MVk0XzJ3Mko3cFJWc2RUcHZ6MFZYNHMzMHBKUkhraTEtR1NJX3pLbGJMX09UUWdUZkVNY3B0RVViam5uU2wtWFNrR2VhZDFNdzNEYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9vaGV3XzRUM2VveHUzamNqOUd2WEl5alFjTEtYekE4RzBXdEp0MVk0XzJ3Mko3cFJWc2RUcHZ6MFZYNHMzMHBKUkhraTEtR1NJX3pLbGJMX09UUWdUZkVNY3B0RVViam5uU2wtWFNrR2VhZDFNdzNEYw?oc=5\" target=\"_blank\">My Favorite Part of the New Kindle Paperwhite Is One of the Accessories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+      "published": "2026-10-28T13:01:00+00:00",
+      "source": "WIRED"
     }
   ],
   "product_launches": [
+    {
+      "title": "Everything announced at Amazon’s October 2026 hardware launch - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVJBenB2NXVUNGhVVlZGTTNCXzROSkRTakFzdTRiR21xWkpxU0VVNlRvR2d1ODFpSER0a2pZcTBldjFGVklSbm1VbHEyUWp1X3dmdEIzZjFLNDBVVjlkTlUtRHlpRnlOTnltRTJnV0RKLUZhWXpmRHBQV190VnJDYzliMDJuaUp6WFUwQVNWazNQTk1iVzNuanlyLWNpVlU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVJBenB2NXVUNGhVVlZGTTNCXzROSkRTakFzdTRiR21xWkpxU0VVNlRvR2d1ODFpSER0a2pZcTBldjFGVklSbm1VbHEyUWp1X3dmdEIzZjFLNDBVVjlkTlUtRHlpRnlOTnltRTJnV0RKLUZhWXpmRHBQV190VnJDYzliMDJuaUp6WFUwQVNWazNQTk1iVzNuanlyLWNpVlU?oc=5\" target=\"_blank\">Everything announced at Amazon’s October 2026 hardware launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-28T12:08:15+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon Revealed 5 New Smart Home Devices Today - Here's What They Are - BGR",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTN3ZGp3dWdxNHlWTW5LSXhUMHpyaFZLY3RSQVBjN2ItSzdLaDBpazJoeWp4WHREMlktM2lmYmd5RjVyRWg0dWktNk9YbjlON2x2cjIyNGIzeTBlSmdMVlhYY01LaGRJX1pycGROeHdtOUpwZ3lRNGdQdV80WXQtSVlSYTBzbXBsRXFhTHk2dlo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTN3ZGp3dWdxNHlWTW5LSXhUMHpyaFZLY3RSQVBjN2ItSzdLaDBpazJoeWp4WHREMlktM2lmYmd5RjVyRWg0dWktNk9YbjlON2x2cjIyNGIzeTBlSmdMVlhYY01LaGRJX1pycGROeHdtOUpwZ3lRNGdQdV80WXQtSVlSYTBzbXBsRXFhTHk2dlo?oc=5\" target=\"_blank\">Amazon Revealed 5 New Smart Home Devices Today - Here's What They Are</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BGR</font>",
+      "published": "2026-10-28T12:50:15+00:00",
+      "source": "BGR"
+    },
+    {
+      "title": "MOO100 Launches on Amazon US With Its Grapefruit Water Shampoo, Over 1 Million Bottles Sold in Korea - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWx6Y0NwVk9DT1g0S3lGV0E4LWc2RWFlRm9iMWhDa2RLSThndTc0UHFnampRWXU1dXlHcldRclVROFJ2RE9hM0o2Ml8xaDYtbms2aFJxVnFrQWN4akRnbWs3ZHJDWUJUdThpaU9RQ0hOVDRPUjFEVzJ0VE54dmw4UnJqejZtXzVlWGxRX1hEc01XQ1Ixc1dJVlNORDhfRHBuX3FHanU2MlExUHhVdkQwQ3RMT2JCMzcwWUlQTUxUTnNwQlBvUEE5UjQzbnVONl9EMkVNU2wtd1Mwa1E2MEhTZFRBcEp0OFFOMGY0YXhIVF9KWDZZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWx6Y0NwVk9DT1g0S3lGV0E4LWc2RWFlRm9iMWhDa2RLSThndTc0UHFnampRWXU1dXlHcldRclVROFJ2RE9hM0o2Ml8xaDYtbms2aFJxVnFrQWN4akRnbWs3ZHJDWUJUdThpaU9RQ0hOVDRPUjFEVzJ0VE54dmw4UnJqejZtXzVlWGxRX1hEc01XQ1Ixc1dJVlNORDhfRHBuX3FHanU2MlExUHhVdkQwQ3RMT2JCMzcwWUlQTUxUTnNwQlBvUEE5UjQzbnVONl9EMkVNU2wtd1Mwa1E2MEhTZFRBcEp0OFFOMGY0YXhIVF9KWDZZ?oc=5\" target=\"_blank\">MOO100 Launches on Amazon US With Its Grapefruit Water Shampoo, Over 1 Million Bottles Sold in Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+      "published": "2026-10-28T14:21:26+00:00",
+      "source": "StreetInsider"
+    },
     {
       "title": "Amazon targets K-beauty hair care as scalp products gain global ground - Korea JoongAng Daily",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHhscVlRb3hDRWpIak5SRHlLUHVEajhodHQ1aHl6MFBzclhZcmFkVWJIam53SmxoeTlwQlBXMnhDc0JaZERzTWxjM2txeG5HbDJnSGZUVDFKbGZoWDloeGU2QlFyd3NUd2o1Qi1mUXlpcHh0VWNUdmVPNERBQWJEdWxqSzZac0VrYUY4bkE2aThmaHZIcGpISTFqU2NFT2M4V1NKZzVXbUVYWEFNZm15WTEtQW4zRXY5cEVxZDBNRQ?oc=5",
@@ -75,41 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGRWbGdVaUNRczR3Q2ZvY0djbm1SSm5id3lDY29GY29PUHhDZGpGUW0tejRxbFdVbTlEcHU4ZWdwbEpfTjdHREdGN1JhMFBzUlRHRGlwV1RXZEZzQ1g4eFFuU0pzTmplQzNtMFJiNWtZNG94MGhYRV9FN1MwS3h1d0FXbG0wU3RmT20tRTM3X1NqREhCQ0c1Z0lmeE9XcEU?oc=5\" target=\"_blank\">Amazon Business launches procurement value tool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OPI - Office Products International</font>",
       "published": "2026-10-27T12:00:54+00:00",
       "source": "OPI - Office Products International"
-    },
-    {
-      "title": "Galaxy S27 Ultra Cases Start Appearing on Amazon Ahead of Launch - SammyGuru",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5obFcxT1RuV2VRMUJoNlJxUnF2d08yZDdVd2tuUGphQ0dhbmE1dVE5dWYzSXk3bVA1eVBRN2FjMVNOQTRYRndUbWVuUWRkRGhLM0NXb3VYU3FYYWd2Y2o2MzBpQXc0dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5obFcxT1RuV2VRMUJoNlJxUnF2d08yZDdVd2tuUGphQ0dhbmE1dVE5dWYzSXk3bVA1eVBRN2FjMVNOQTRYRndUbWVuUWRkRGhLM0NXb3VYU3FYYWd2Y2o2MzBpQXc0dw?oc=5\" target=\"_blank\">Galaxy S27 Ultra Cases Start Appearing on Amazon Ahead of Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SammyGuru</font>",
-      "published": "2026-10-27T08:36:24+00:00",
-      "source": "SammyGuru"
-    },
-    {
-      "title": "BeeBrain Launches AI Amazon Listing Optimisation Tool That Optimizes Listings in Under 2 Mins - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkpHcDQ4Z1k2b1IzMzZUQVRJWnAtNWhwTzRSdllIWlluand2RXpGMGhPeThUeFpGVGhuZlo5aFpHWDQ5c2ZiNVlzZXA0RjVGRUVac29fNVFQU2h6SG92WTBqNTByVkR5TWJGWWRlcmRuSjV5Ylo2QjVDd2hfMmdjSHhHeW51dFJtVmd0VEFRV1piYzZwV2lDZ2N0QzlrOWZ1LUtwd2JVQW5kNWQxU3NKZTM5X3JTOVloTWFDS0I0NURkU0xYZnVGOFJQZk56elRET2ctNXE3bklvbS1RVUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkpHcDQ4Z1k2b1IzMzZUQVRJWnAtNWhwTzRSdllIWlluand2RXpGMGhPeThUeFpGVGhuZlo5aFpHWDQ5c2ZiNVlzZXA0RjVGRUVac29fNVFQU2h6SG92WTBqNTByVkR5TWJGWWRlcmRuSjV5Ylo2QjVDd2hfMmdjSHhHeW51dFJtVmd0VEFRV1piYzZwV2lDZ2N0QzlrOWZ1LUtwd2JVQW5kNWQxU3NKZTM5X3JTOVloTWFDS0I0NURkU0xYZnVGOFJQZk56elRET2ctNXE3bklvbS1RVUE?oc=5\" target=\"_blank\">BeeBrain Launches AI Amazon Listing Optimisation Tool That Optimizes Listings in Under 2 Mins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2026-10-22T12:48:49+00:00",
-      "source": "USA Today"
-    },
-    {
-      "title": "Some of Amazon's Q3 2026 announcements, from new devices to AI breakthroughs - About Amazon",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWS01YVVWMFRHWTdLM0RBSzFZZzFFdk9mX2wyZlAyUGVFVGtUQS1DeHl3aUhGRzNEVVFjdHpnb2RfbDNfUnFmZDBRRUJJcWJnNFVQanptLUV2azZDeUxHRkkzazU5YlFCa1ZvYVBhVjd1STdzcl9XTnhPTzhtd05tenpxRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWS01YVVWMFRHWTdLM0RBSzFZZzFFdk9mX2wyZlAyUGVFVGtUQS1DeHl3aUhGRzNEVVFjdHpnb2RfbDNfUnFmZDBRRUJJcWJnNFVQanptLUV2azZDeUxHRkkzazU5YlFCa1ZvYVBhVjd1STdzcl9XTnhPTzhtd05tenpxRQ?oc=5\" target=\"_blank\">Some of Amazon's Q3 2026 announcements, from new devices to AI breakthroughs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
-      "published": "2026-10-26T13:06:36+00:00",
-      "source": "About Amazon"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-27",
-      "close": 253.60000610351562
+      "date": "2026-10-28",
+      "close": 252.7449951171875
     },
     "history": [
-      {
-        "date": "2026-10-19",
-        "close": 262.45001220703125
-      },
       {
         "date": "2026-10-20",
         "close": 262.6300048828125
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-27",
-        "close": 253.60000610351562
+        "close": 253.10000610351562
+      },
+      {
+        "date": "2026-10-28",
+        "close": 252.7449951171875
       }
     ],
     "name": "Amazon.com, Inc."

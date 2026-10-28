@@ -2,72 +2,86 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-10-27T17:01:09.174442+00:00",
+  "fetched_at": "2026-10-28T17:37:59.353224+00:00",
   "news": [
     {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1oenJIXzh6LWNpZ2tHNnh3RWptVTFTS25tOUtjd0RxaDE1eEJBT2MyVkRUOS1GSjFUS0xoQ0w0OUxiOEY0Q3ZjMlFEcG82UlU5ejlLSk1BOVpvRkRucldrM2tWV2lZQmtPZ1RFYkIycjZ6a1VKSUxzb3ZwZ1l0VW4tanZyc2lVNk9ESjB5MnVsLVJZbmYwRlFoMXhTeUZpWXpVY0IyUFZpS1FPOVNv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1oenJIXzh6LWNpZ2tHNnh3RWptVTFTS25tOUtjd0RxaDE1eEJBT2MyVkRUOS1GSjFUS0xoQ0w0OUxiOEY0Q3ZjMlFEcG82UlU5ejlLSk1BOVpvRkRucldrM2tWV2lZQmtPZ1RFYkIycjZ6a1VKSUxzb3ZwZ1l0VW4tanZyc2lVNk9ESjB5MnVsLVJZbmYwRlFoMXhTeUZpWXpVY0IyUFZpS1FPOVNv?oc=5\" target=\"_blank\">Nvidia backs Indian startup helping companies run AI models with fewer GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-      "published": "2026-10-27T11:00:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nvidia investing $3 billion in Meta in Muse partnership - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3ZzMkpTR19HVVJVcFpWMHpXaHpuZ3dhZjE1UExKNXAtQ0tNQS1oYXk1RmdWcW5jU0Z4NTRuYmVBRTBWN2xxVjJEVW1yR3FwZ3A2dzJyWHRPSUZaclc1b1RfTGQ4VlpjUzZKWExuam1oWk82dVBHbW9yS3JmdklqOVJ1YllxeGE0OUJFaVpzbERZQzk1MTIzUUFkNA?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3ZzMkpTR19HVVJVcFpWMHpXaHpuZ3dhZjE1UExKNXAtQ0tNQS1oYXk1RmdWcW5jU0Z4NTRuYmVBRTBWN2xxVjJEVW1yR3FwZ3A2dzJyWHRPSUZaclc1b1RfTGQ4VlpjUzZKWExuam1oWk82dVBHbW9yS3JmdklqOVJ1YllxeGE0OUJFaVpzbERZQzk1MTIzUUFkNA?oc=5\" target=\"_blank\">Nvidia investing $3 billion in Meta in Muse partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5\" target=\"_blank\">Nvidia, Meta deepen AI ties with $3 billion investment deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUYtTUVGcVg1OEY2WFpMeXZWTmQ0XzB0NGNEdTRTcE5vdGhGaTd3Yzg1XzlLbmZMMTNHUmhGcGxFNXJyNjhmM01KdVU3ZlNsc09IT1o0UWdRSW1fZUdLVVY5UGZOTnVsRXZxUUMtelh0eVFXRUF3YWY4UlQ1OEhLNi1KSVBpcHl5VHRB?oc=5\" target=\"_blank\">Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li></ol>",
-      "published": "2026-10-27T09:23:01+00:00",
+      "title": "SK Hynix, Nvidia and Micron send one clear message to investors with their stocks off the highs - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOG1VS2oyRGs5WkYxbmREb0l6WTJ4TTB3cm9lM2VZTVRTOGt3QmpQQ2hoc2ZHV3htd1JPMWFSd0VmWVY3UVRYZzhOLWtuSWU1Ry1ha1NWOGxDcnI2WEJEQXdiZmpMN042Vi11NmZlckRYVUlUdWEwc0hiYnFLdi1lN2pTYlRJWEREY3ByTTJ6bjdXWVJvbDNEVVB0SzhsRWpuNU53NklQeGVRQ2RYUEJQT2dKZDMtQWN0Z3hZem94RzVOdFpQOTNMc0hlR1J3MDVaUmllUDg0b3ZKZWVHWUVmMjRzbzJ5dF9ONVdtY1pvOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOG1VS2oyRGs5WkYxbmREb0l6WTJ4TTB3cm9lM2VZTVRTOGt3QmpQQ2hoc2ZHV3htd1JPMWFSd0VmWVY3UVRYZzhOLWtuSWU1Ry1ha1NWOGxDcnI2WEJEQXdiZmpMN042Vi11NmZlckRYVUlUdWEwc0hiYnFLdi1lN2pTYlRJWEREY3ByTTJ6bjdXWVJvbDNEVVB0SzhsRWpuNU53NklQeGVRQ2RYUEJQT2dKZDMtQWN0Z3hZem94RzVOdFpQOTNMc0hlR1J3MDVaUmllUDg0b3ZKZWVHWUVmMjRzbzJ5dF9ONVdtY1pvOA?oc=5\" target=\"_blank\">SK Hynix, Nvidia and Micron send one clear message to investors with their stocks off the highs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-28T09:37:13+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5\" target=\"_blank\">Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-27T16:50:09+00:00",
-      "source": "Reuters"
+      "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5\" target=\"_blank\">OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-10-27T23:59:00+00:00",
+      "source": "The Information"
     },
     {
-      "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGFVTVNjTklMQTVqWjhmaVNOSzM5dC1BbWFnRTRPTG51b2xOSFhmamF0RkN2RWJjcVdhbGFQaEZPaUdkMnRjcW5aWFROYVhZblFFUkVaVVBtOV9HRHpoeUdmZTJNYnh0UWxKWFZtSVJRMkZ5NjBDSDR0eXRLN1hLM21PWDg2V1dSckZ0Q1hTN3hheUlPdzhHNml1QnBPT2FBdGlITDZWV3d0V1pZTjRsNlRZNkhnTTJmUXM2Vnptc3o4V0t6dmU4bzRUc2hybnc0c3kxMDZPTFhROUZmZEdjbmpSZXNEdHhCU3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMGFVTVNjTklMQTVqWjhmaVNOSzM5dC1BbWFnRTRPTG51b2xOSFhmamF0RkN2RWJjcVdhbGFQaEZPaUdkMnRjcW5aWFROYVhZblFFUkVaVVBtOV9HRHpoeUdmZTJNYnh0UWxKWFZtSVJRMkZ5NjBDSDR0eXRLN1hLM21PWDg2V1dSckZ0Q1hTN3hheUlPdzhHNml1QnBPT2FBdGlITDZWV3d0V1pZTjRsNlRZNkhnTTJmUXM2Vnptc3o4V0t6dmU4bzRUc2hybnc0c3kxMDZPTFhROUZmZEdjbmpSZXNEdHhCU3c?oc=5\" target=\"_blank\">Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras, and SambaNova</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-27T16:00:00+00:00",
+      "title": "Should Nvidia be worried as OpenAI leans on Google's chips? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzB3S2tTZ0VYcmU4V3dteVZaUjN6Q2daUlBwY3Q4U0NXcThhM0w3T3U1ei1PX3QweE95ZVY5a3dPUG0xVTdqM1RrUkFQTlZETWlqSS16VUZla3U1anE2dHFZa1hUNXNiQ1JSY0QwclVXdFlub0J2bVpIamtWUlFmS2MyTVhZQlhPckJQZkhlR2VEV0tmanI1UTBueFVGazdJdjZDa3M1dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzB3S2tTZ0VYcmU4V3dteVZaUjN6Q2daUlBwY3Q4U0NXcThhM0w3T3U1ei1PX3QweE95ZVY5a3dPUG0xVTdqM1RrUkFQTlZETWlqSS16VUZla3U1anE2dHFZa1hUNXNiQ1JSY0QwclVXdFlub0J2bVpIamtWUlFmS2MyTVhZQlhPckJQZkhlR2VEV0tmanI1UTBueFVGazdJdjZDa3M1dw?oc=5\" target=\"_blank\">Should Nvidia be worried as OpenAI leans on Google's chips?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-28T13:31:20+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings - KSL",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWs1VnlpemM2NEM3WEI1ZlQxQVpGYm02LVl5R3kxNExmVVlEMjlVQl9SUkhqdzVSRlpCVEJEeXFKN0hOUFlaTlMxcjhRQjNhTzIyZlh6dHhfUFNERG1uR1J4amhRaUtsOFJwTVZUY2xBSHo0OFRkVTJFcnJkbERwM2VwU2pLT3Y1eWp0Q3JxMmZDSm5NZkJreGMtZktFdVNuQVQtNDJvWFAyZHF1VG9TamdHdkdHUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWs1VnlpemM2NEM3WEI1ZlQxQVpGYm02LVl5R3kxNExmVVlEMjlVQl9SUkhqdzVSRlpCVEJEeXFKN0hOUFlaTlMxcjhRQjNhTzIyZlh6dHhfUFNERG1uR1J4amhRaUtsOFJwTVZUY2xBSHo0OFRkVTJFcnJkbERwM2VwU2pLT3Y1eWp0Q3JxMmZDSm5NZkJreGMtZktFdVNuQVQtNDJvWFAyZHF1VG9TamdHdkdHUQ?oc=5\" target=\"_blank\">Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSL</font>",
-      "published": "2026-10-27T16:01:04+00:00",
-      "source": "KSL"
+      "title": "Nvidia Faces Fresh Challenge as OpenAI Expands AI Bets - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnR2V2lJQl9IZXVybXRpczZTUTBRSmJjeTJrMzNXd1k2VDlxeFRzb1Izc2U3aEIxazJKUnJYVVFlYXlJMFF2YlYtRjJPRlhtYUtfanJUYnluajVZOHdtNldwSTFzU0NPc2tJbm9odFZrOGwzRmxLWWpoU0xZblJJMk1BVkRVYlV0RUNfajB3SUJyazVOQ0JhczFrN0NUOGVp?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnR2V2lJQl9IZXVybXRpczZTUTBRSmJjeTJrMzNXd1k2VDlxeFRzb1Izc2U3aEIxazJKUnJYVVFlYXlJMFF2YlYtRjJPRlhtYUtfanJUYnluajVZOHdtNldwSTFzU0NPc2tJbm9odFZrOGwzRmxLWWpoU0xZblJJMk1BVkRVYlV0RUNfajB3SUJyazVOQ0JhczFrN0NUOGVp?oc=5\" target=\"_blank\">Nvidia Faces Fresh Challenge as OpenAI Expands AI Bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-28T15:43:45+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Broadcom, Nvidia, Boeing, GM, UPS, JetBlue, and More Stocks That Explain Today’s Market - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBET2xGeDU1LTZXN3FENUloNjE1UEVnT2VOSmVheVNjQUtfUGoydXpjSkx6M2FMMWUxTFZIWWZCT2d5MFZ4OXJMbFNndVY3M0s1bW8wTml4UTVhNEZSVGZ2aUVjWlg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBET2xGeDU1LTZXN3FENUloNjE1UEVnT2VOSmVheVNjQUtfUGoydXpjSkx6M2FMMWUxTFZIWWZCT2d5MFZ4OXJMbFNndVY3M0s1bW8wTml4UTVhNEZSVGZ2aUVjWlg?oc=5\" target=\"_blank\">Broadcom, Nvidia, Boeing, GM, UPS, JetBlue, and More Stocks That Explain Today’s Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-10-27T16:18:00+00:00",
-      "source": "Barron's"
+      "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5\" target=\"_blank\">Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEZla1VqXzQxakdfSk52MkVWQ191TzRxSDJpSi1JMU5jUkZiNTYxQi1xeG92dnhHUDFsWjhBejM1dXNUTUs4WmVvZHFtTUw0bUh0bHVuN0hwUFJvcGdNb2FRZmRoaEtRbHd1aS1BYS11NmU3cXltVm9iZEd0N29IWVZxal9XZjg?oc=5\" target=\"_blank\">Nvidia Stock Is Down 12% From Its High. Here's What History Says Happens Next.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa05Cb1NpWEpwbmpNOVRNV3E4ZTZqNFFLTUhpNERwRWd5N2dlQkFIV05feGs0am5uSDFTWDAzNzRpRlYzdjVwdDdtaXQ5WGhyQTA1bURwT3AyMlpEV0F5LWY2MHpSUnM1SzZFaVN4bzdqdzRTYkY3bTh6M2FhWUk4TlVLUzQ5WVJuOGVtQVpCWUdDZw?oc=5\" target=\"_blank\">AMD and Nvidia Split the AI Chip Market. 1 Stock Is Far Cheaper Today.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-10-27T08:40:53+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Nvidia's sales and marketing leadership is seeing a changing of the guard — and new faces are gaining influence - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWxYaWtYNkFJOENxNHpLTEtqdlozV3hTdnBHNXZGdUhvMjIwbkp0NUhZTXlNQkh3anZHRTRKWlBwOHBzMVVuRVc1UC03aXBmWWtXZDlCWmdXUGZHcldLV2NnOFAycUNHbnVHSExfckFXS1NjVHRVTWJuWUtUdU85Um0tT25tcE45WWZMRDRBWVhycGhMamtJOG9OS0gzQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcWxYaWtYNkFJOENxNHpLTEtqdlozV3hTdnBHNXZGdUhvMjIwbkp0NUhZTXlNQkh3anZHRTRKWlBwOHBzMVVuRVc1UC03aXBmWWtXZDlCWmdXUGZHcldLV2NnOFAycUNHbnVHSExfckFXS1NjVHRVTWJuWUtUdU85Um0tT25tcE45WWZMRDRBWVhycGhMamtJOG9OS0gzQQ?oc=5\" target=\"_blank\">Nvidia's sales and marketing leadership is seeing a changing of the guard — and new faces are gaining influence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
-      "published": "2026-10-26T10:00:00+00:00",
-      "source": "Business Insider"
+      "title": "Nvidia Is the world's most valuable company. This St. Louis firm is right by its side. - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaTNIcTdPYk9RRVh3a01ENm96TjAzNHNmUDhwNzFWRGNqajNNQXMyX3hERmJPSGJsRDBTTWp6MGZqVmJ3ak9iek9lZHVfZ0did2l6UzZsT0U2YU5kWENsMVJyZ3cwRnBoSHJmVzBMYjR4SW1uMmI5MkU0R1YyWXJRaG40RzlFMzJUODBMUDBpTjhhc0VQVGZIaE4xSFM0NlM5U0hOelo1VDY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaTNIcTdPYk9RRVh3a01ENm96TjAzNHNmUDhwNzFWRGNqajNNQXMyX3hERmJPSGJsRDBTTWp6MGZqVmJ3ak9iek9lZHVfZ0did2l6UzZsT0U2YU5kWENsMVJyZ3cwRnBoSHJmVzBMYjR4SW1uMmI5MkU0R1YyWXJRaG40RzlFMzJUODBMUDBpTjhhc0VQVGZIaE4xSFM0NlM5U0hOelo1VDY?oc=5\" target=\"_blank\">Nvidia Is the world's most valuable company. This St. Louis firm is right by its side.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "published": "2026-10-27T21:50:00+00:00",
+      "source": "The Business Journals"
     },
     {
-      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090's peak tensor rate, lifts RTX 3090 Ti matrix math up to 80% - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOdUh2THpuaVc4VDdKMEhWSUFkQVJNOWRyOFNiQXIxdGZJZkZsMlZWUjQ4aWMyLVUtWmVuQVNXV3hFektpanoteXpSR0tZZVlBOFY3WXhhUzZKVVRMVVE3RDkxQ29iODJLUmYwSWtWS09XUU9sb3Q2YjBNdnRpcjlwVVRZUEk1aEdzc19waU44dzRHZXJ2WHRqbmVLVGJNOUJBYXU3RHVVVzF6VGp1NEc2NTl5bXA4d3ZRNnRxby1jLWtjdTU2M0ZNaDFyNWhmUi1BRUY4eWN0ckJLT3R0Q28yUmlEV0hxNkYta3F6R0NjSDdIYS15MEZvNXUwUTk1SURBc3JRUFcwYVFXUTNCb0hNYlB4cHZ0a0F3b0ppblhFNUFvbzZIazZGaEpxQXQtMl9VdE5XVjFqMW5vdDhPNzRoSF84N2E0b0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxOdUh2THpuaVc4VDdKMEhWSUFkQVJNOWRyOFNiQXIxdGZJZkZsMlZWUjQ4aWMyLVUtWmVuQVNXV3hFektpanoteXpSR0tZZVlBOFY3WXhhUzZKVVRMVVE3RDkxQ29iODJLUmYwSWtWS09XUU9sb3Q2YjBNdnRpcjlwVVRZUEk1aEdzc19waU44dzRHZXJ2WHRqbmVLVGJNOUJBYXU3RHVVVzF6VGp1NEc2NTl5bXA4d3ZRNnRxby1jLWtjdTU2M0ZNaDFyNWhmUi1BRUY4eWN0ckJLT3R0Q28yUmlEV0hxNkYta3F6R0NjSDdIYS15MEZvNXUwUTk1SURBc3JRUFcwYVFXUTNCb0hNYlB4cHZ0a0F3b0ppblhFNUFvbzZIazZGaEpxQXQtMl9VdE5XVjFqMW5vdDhPNzRoSF84N2E0b0U?oc=5\" target=\"_blank\">Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090's peak tensor rate, lifts RTX 3090 Ti matrix math up to 80%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
-      "published": "2026-10-26T11:00:00+00:00",
-      "source": "Tom's Hardware"
+      "title": "What to Expect From NVIDIA's Next Quarterly Earnings Report - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Jpa044S1k5R2oxdmNXUU02SzA3dWIwajZ1VFBPSUVVNFpuZ3pDYkpYM1BuTWpydW5aamJjX2RxT1ZKRm5IMURTTndhWlZnMWpqWUFNejQ3dEFRbFZfZHZQMm5UYUtjcnlWWE9paGQyMXBZRW9NSGR3aHpwcDRoMUUycFQ4bXpJU1pfUF9IVXFNNTljM21sMkVnSWVyTGtkNFBNUEJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Jpa044S1k5R2oxdmNXUU02SzA3dWIwajZ1VFBPSUVVNFpuZ3pDYkpYM1BuTWpydW5aamJjX2RxT1ZKRm5IMURTTndhWlZnMWpqWUFNejQ3dEFRbFZfZHZQMm5UYUtjcnlWWE9paGQyMXBZRW9NSGR3aHpwcDRoMUUycFQ4bXpJU1pfUF9IVXFNNTljM21sMkVnSWVyTGtkNFBNUEJR?oc=5\" target=\"_blank\">What to Expect From NVIDIA's Next Quarterly Earnings Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "published": "2026-10-28T15:17:39+00:00",
+      "source": "Barchart.com"
+    },
+    {
+      "title": "Fort Worth offers Nvidia supplier tax deal for $1.3B plant, 600+ jobs - Fort Worth Star-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NcWlFcXFLTzJvUm12WWRGTjhIMGQwRmJjb00xRkNob0dtTE9XMld1dExDWjBLYl9uZFNpMjN3Wjk2dXd0OXRDZ0h2VWNBYndRakxoOUd1SUlPZG1wU1ZvV1hoS2lLTWN0LUVERWFpa2FSRXZOaDVjM2dKYzdNUdIBfkFVX3lxTE9FUjJwSWlpaHBpaVNiWnlWdEp2VUpLQU5MdVRubG9TekNocUlkb3UxZllFbHRvN2tGV1pycXFmVHBQTmZzZldJajgyY1FXNE01NlRVV3hWSFN2YUQxdnlxb3BvamE3QWRqNXZPRkJRc3J5VVNxbWUtN1FPWVNydw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1NcWlFcXFLTzJvUm12WWRGTjhIMGQwRmJjb00xRkNob0dtTE9XMld1dExDWjBLYl9uZFNpMjN3Wjk2dXd0OXRDZ0h2VWNBYndRakxoOUd1SUlPZG1wU1ZvV1hoS2lLTWN0LUVERWFpa2FSRXZOaDVjM2dKYzdNUdIBfkFVX3lxTE9FUjJwSWlpaHBpaVNiWnlWdEp2VUpLQU5MdVRubG9TekNocUlkb3UxZllFbHRvN2tGV1pycXFmVHBQTmZzZldJajgyY1FXNE01NlRVV3hWSFN2YUQxdnlxb3BvamE3QWRqNXZPRkJRc3J5VVNxbWUtN1FPWVNydw?oc=5\" target=\"_blank\">Fort Worth offers Nvidia supplier tax deal for $1.3B plant, 600+ jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fort Worth Star-Telegram</font>",
+      "published": "2026-10-27T22:38:27+00:00",
+      "source": "Fort Worth Star-Telegram"
     }
   ],
   "product_launches": [
     {
-      "title": "Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtYk5fd0hmZ0pKc0RtR2lYTkhHVmJRVXg3clhRSW1jZ1BiR3RvRUYxdXNxTUVsY2RUSXVWUzh6YW5nOGxwM28zY2ZPc1owdnBPNEVsUg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtYk5fd0hmZ0pKc0RtR2lYTkhHVmJRVXg3clhRSW1jZ1BiR3RvRUYxdXNxTUVsY2RUSXVWUzh6YW5nOGxwM28zY2ZPc1owdnBPNEVsUg?oc=5\" target=\"_blank\">Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
-      "published": "2026-10-27T05:44:38+00:00",
-      "source": "bloomingbit"
+      "title": "NYSE to Launch All-or-Nothing Options on Apple, Nvidia and Tesla Shares - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1Y4a1ZJSnBZdDZaUWxzdmc1anRWUHM2WmZtZ2lZOFI5dVp2cE1QNE5yQkFhdWRvbU92TEtDeTNJRmtGWmJCMnVReEpQYldRbUN1OUhIZXdCNUFzSnpVSmpyTmc1cjIwbUY5eWpDYjRPcHc4TGJ1akpHai0tRUJUdjhpcFdEaHJoQWREODhPd00zMXNrV0d2cHZFTW9NckQzQ1BnQVIyWW9xTW9vUUJ6NGdLYkRGYjJKX0lydFVlTE9fZUxyaV9hblY0NmdnWktoeHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1Y4a1ZJSnBZdDZaUWxzdmc1anRWUHM2WmZtZ2lZOFI5dVp2cE1QNE5yQkFhdWRvbU92TEtDeTNJRmtGWmJCMnVReEpQYldRbUN1OUhIZXdCNUFzSnpVSmpyTmc1cjIwbUY5eWpDYjRPcHc4TGJ1akpHai0tRUJUdjhpcFdEaHJoQWREODhPd00zMXNrV0d2cHZFTW9NckQzQ1BnQVIyWW9xTW9vUUJ6NGdLYkRGYjJKX0lydFVlTE9fZUxyaV9hblY0NmdnWktoeHc?oc=5\" target=\"_blank\">NYSE to Launch All-or-Nothing Options on Apple, Nvidia and Tesla Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "published": "2026-10-28T08:46:00+00:00",
+      "source": "TradingView"
+    },
+    {
+      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5\" target=\"_blank\">Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-10-21T11:30:01+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5\" target=\"_blank\">Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents - NVIDIA Newsroom",
@@ -77,39 +91,21 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Injective launches GPU rental index perpetuals with up to 10x leverage - Crypto News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WSjJMT3Y1YlpWLVdNS08ycWt4Sy1YeDZvd0lCcEM4NHZ2Rmp2cDExT2pYVjdJWFhEWllKWTVQSXNQVlBYQnBsc1JPdktCTGVhdlFuYjIxU01vV19SRGtNQm15ZDJVOGcyWVF4bi1DNU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9WSjJMT3Y1YlpWLVdNS08ycWt4Sy1YeDZvd0lCcEM4NHZ2Rmp2cDExT2pYVjdJWFhEWllKWTVQSXNQVlBYQnBsc1JPdktCTGVhdlFuYjIxU01vV19SRGtNQm15ZDJVOGcyWVF4bi1DNU0?oc=5\" target=\"_blank\">Injective launches GPU rental index perpetuals with up to 10x leverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto News</font>",
-      "published": "2026-10-26T21:00:00+00:00",
-      "source": "Crypto News"
-    },
-    {
-      "title": "Nvidia launches new chip to bring AI directly to personal computers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5\" target=\"_blank\">Nvidia launches new chip to bring AI directly to personal computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-06-01T07:00:00+00:00",
-      "source": "Reuters"
-    },
-    {
-      "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure - NVIDIA Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaENFSnl4VjJyNGsxOGhtYm81OFhQeWk3NHZLVzBFZF9xcWxWV3FRekNwdWRBNXNtQko4bGYwQXJjZWpMX3dPZE5tR3lxbmtpQm4xdlRNVUsxbmV6eUdMRHFGdzRhU0hVT0pWMVRYTjcybTNfNkZzUURjTm8xTHFHU2Jwelo3cTRLWVNUXzVvOUhhTnpKYi02bjViXzFZcTl0WERtVklrcUdHUGhKN1FzMk53RjBIVUN0VjRWa1VYR3QzVVpxYklPZ0xwNGQxamljSFBCZGtJcGM0OTR4OWFrVEsyNGRZYmExdGJ1aHNULXdQSzN5NnI3UHVFc3I1OEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaENFSnl4VjJyNGsxOGhtYm81OFhQeWk3NHZLVzBFZF9xcWxWV3FRekNwdWRBNXNtQko4bGYwQXJjZWpMX3dPZE5tR3lxbmtpQm4xdlRNVUsxbmV6eUdMRHFGdzRhU0hVT0pWMVRYTjcybTNfNkZzUURjTm8xTHFHU2Jwelo3cTRLWVNUXzVvOUhhTnpKYi02bjViXzFZcTl0WERtVklrcUdHUGhKN1FzMk53RjBIVUN0VjRWa1VYR3QzVVpxYklPZ0xwNGQxamljSFBCZGtJcGM0OTR4OWFrVEsyNGRZYmExdGJ1aHNULXdQSzN5NnI3UHVFc3I1OEk?oc=5\" target=\"_blank\">Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Investor Relations</font>",
-      "published": "2026-07-16T07:00:00+00:00",
-      "source": "NVIDIA Investor Relations"
+      "title": "Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage - bloomingbit",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtYk5fd0hmZ0pKc0RtR2lYTkhHVmJRVXg3clhRSW1jZ1BiR3RvRUYxdXNxTUVsY2RUSXVWUzh6YW5nOGxwM28zY2ZPc1owdnBPNEVsUg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtYk5fd0hmZ0pKc0RtR2lYTkhHVmJRVXg3clhRSW1jZ1BiR3RvRUYxdXNxTUVsY2RUSXVWUzh6YW5nOGxwM28zY2ZPc1owdnBPNEVsUg?oc=5\" target=\"_blank\">Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+      "published": "2026-10-27T05:44:38+00:00",
+      "source": "bloomingbit"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-10-27",
-      "close": 217.97999572753906
+      "date": "2026-10-28",
+      "close": 217.02000427246094
     },
     "history": [
-      {
-        "date": "2026-10-19",
-        "close": 217.08999633789062
-      },
       {
         "date": "2026-10-20",
         "close": 216.47000122070312
@@ -132,7 +128,11 @@
       },
       {
         "date": "2026-10-27",
-        "close": 217.97999572753906
+        "close": 217.94000244140625
+      },
+      {
+        "date": "2026-10-28",
+        "close": 217.02000427246094
       }
     ],
     "name": "NVIDIA Corporation"
