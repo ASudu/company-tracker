@@ -2,80 +2,66 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-10-30T17:27:23.903185+00:00",
+  "fetched_at": "2026-10-31T16:30:38.914748+00:00",
   "news": [
     {
       "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5\" target=\"_blank\">Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNME1xdllUQU5RU1ZEcFl4VWVLaDFkOHNlSVJCSXdGZzA5OGxRQkhaV1BxbDJKRGNJamUtN1BUcUlWQ3BzMERHS3c4U3dPT2VWMkNPa1hXbTJkbzZsdjZfNnZ1RWdPYVI0Y2YtMXhlWVpHMWk1RThOcThqSTFnaDdoUlhEbnNOOFhlUGtR0gGQAUFVX3lxTE5MRldGbGNiMWhlMVlwOVBEWGwxMHVsTmlDOWFUZ1BfeGRuMTRmRGtLLWMzeTRfTVE1THV2SzYxRjE3STJMUHZsaUlHcU1DeEVveHhfWkhhUDhHZjNvbERJYzlnRnJ3N3FCX3htdlAxMGZ3ZXA4RVdNUWNsdUNSNUZueU1xcHNEdTdrbXdzSHF2MQ?oc=5\" target=\"_blank\">Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNc0ZmOFFSRW9GWFVnVnhxYkNlUnpDNWYxdHBVWllKUUcxa3JvUzBaTUtOYl9pMXRzOUVuZkZCMG9sal84T245YVR6UkZsVmJqU002OTdqTFJKeWpCcTZqOENqb1FfYnhVay1sMmlUdnl1MjBFdEZvalpncmY3SUQwdDhaRWZweEZGSWZvOUxzazhIUmdraENZd1F3WG02QdIBowFBVV95cUxOc3M5UzJYS2tweVEyYXhwWnV2RUJLSXdzbXJ1ZWFNNjFrMnI0T092bTBUV3pKakVsTTZYc3BSbXpEX04tdGt6Z3ZxM3Z5Y3liV0dPUzM3YWFLcldtVURsVmNKczhVUldYamltZEY2NXlscjA3X1lhRGF2cUJQSEh5anlCak93WlFsMUtBZlB0a09pdmxncDJKRWVMV2lRTEFsaHk0?oc=5\" target=\"_blank\">Nvidia denies report that its CEO was allegedly targeted in Chinese spy plot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font></li></ol>",
-      "published": "2026-10-30T13:01:00+00:00",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5\" target=\"_blank\">Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNME1xdllUQU5RU1ZEcFl4VWVLaDFkOHNlSVJCSXdGZzA5OGxRQkhaV1BxbDJKRGNJamUtN1BUcUlWQ3BzMERHS3c4U3dPT2VWMkNPa1hXbTJkbzZsdjZfNnZ1RWdPYVI0Y2YtMXhlWVpHMWk1RThOcThqSTFnaDdoUlhEbnNOOFhlUGtR0gGQAUFVX3lxTE5MRldGbGNiMWhlMVlwOVBEWGwxMHVsTmlDOWFUZ1BfeGRuMTRmRGtLLWMzeTRfTVE1THV2SzYxRjE3STJMUHZsaUlHcU1DeEVveHhfWkhhUDhHZjNvbERJYzlnRnJ3N3FCX3htdlAxMGZ3ZXA4RVdNUWNsdUNSNUZueU1xcHNEdTdrbXdzSHF2MQ?oc=5\" target=\"_blank\">Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUU9vUm5QclVnMFBCWE5kR3NrVk9hRFAyUENCcVl6ei0wVGREM3BDckxReVhGUWdkZUFlR05rQlBtWWtPVklRVjM3b3BiSnVDU3VPcGN6QTdhR1dnVTlKOWRCajdqaF9ST04zaGpMbzZSV05QRGF4eno1WkVOSnFQNjk2R293b1FKUDUtbzU4Z0xId1BqS0JJdFR2Qk5fOUhkNDRnUVBVRXBGSi1jRHFHcDBTeGR2RXYtS1lEaUpCaWhLdENBalVsMi1DaWJCUQ?oc=5\" target=\"_blank\">Chip hawks seize on report Chinese asset cozied up to Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font></li></ol>",
+      "published": "2026-10-31T12:47:00+00:00",
       "source": "WSJ"
     },
     {
-      "title": "Trade Tracker: Steve Weiss sells most of his Nvidia position - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlZEN2Z0UnJnQWR3NFhRSWRRNzhwZWR0SWdySURaMU80THhTZ3NXUzNEd3VXYWg1eEVwLTNMUk4wb05TeC00dzNnU0VaajVOVFpPd0dlSVd6OFJ5b19vMHhaSEk5ajNVWFhxYzZVbDljSFg3ajV0QlBMbmFCazZzb3VPR1VxMGNCNS0yUHpvcm9MUUJvOGY5UG5FazJzaWJ3aFYzTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONlZEN2Z0UnJnQWR3NFhRSWRRNzhwZWR0SWdySURaMU80THhTZ3NXUzNEd3VXYWg1eEVwLTNMUk4wb05TeC00dzNnU0VaajVOVFpPd0dlSVd6OFJ5b19vMHhaSEk5ajNVWFhxYzZVbDljSFg3ajV0QlBMbmFCazZzb3VPR1VxMGNCNS0yUHpvcm9MUUJvOGY5UG5FazJzaWJ3aFYzTg?oc=5\" target=\"_blank\">Trade Tracker: Steve Weiss sells most of his Nvidia position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "published": "2026-10-30T16:52:07+00:00",
-      "source": "CNBC"
+      "title": "NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdFWTJ1Wm1ISjFPRjVLdVowSFF0RHpiODd4cldVU1VEX3FUU1VFc3hROVlzM3Nsd0RONGE2emNfZ1hsTm9MUUNUR05IWFFnVTJpeEV4TjMzRTZ5eG1scm0yT1VOTWF1X2F1VmoxeG9NaUJqa1hKX0JlbDhGVmY5dEhZcUc0d2hBMGdNUWo2eDdyMlJ0Y3dZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGdFWTJ1Wm1ISjFPRjVLdVowSFF0RHpiODd4cldVU1VEX3FUU1VFc3hROVlzM3Nsd0RONGE2emNfZ1hsTm9MUUNUR05IWFFnVTJpeEV4TjMzRTZ5eG1scm0yT1VOTWF1X2F1VmoxeG9NaUJqa1hKX0JlbDhGVmY5dEhZcUc0d2hBMGdNUWo2eDdyMlJ0Y3dZ?oc=5\" target=\"_blank\">NVDA Stock Drops: Nvidia May Back Data Center Loan Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-30T07:22:38+00:00",
+      "source": "Yahoo Finance"
     },
     {
       "title": "Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip. - Barron's",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ?oc=5\" target=\"_blank\">Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-10-30T14:22:00+00:00",
+      "published": "2026-10-30T18:12:00+00:00",
       "source": "Barron's"
     },
     {
-      "title": "NVIDIA Stock: Analyst Estimates & Ratings - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtaX09vY0lvNDRSS196b0l5UFNXbEx0eVp4RmhQT2E0UTVrT2x0MWJQZ1ZLSTMzTk9PbEF1cmNub3laQ1JkaUxnMEJFY0luc0IxUDZvS1V0V21WRnU0RmZpZmtlUDdZUGs0MjdQeVRGMG1kcDkyTmhVOEVtNUlpZ2F6RUFURG5iQkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtaX09vY0lvNDRSS196b0l5UFNXbEx0eVp4RmhQT2E0UTVrT2x0MWJQZ1ZLSTMzTk9PbEF1cmNub3laQ1JkaUxnMEJFY0luc0IxUDZvS1V0V21WRnU0RmZpZmtlUDdZUGs0MjdQeVRGMG1kcDkyTmhVOEVtNUlpZ2F6RUFURG5iQkE?oc=5\" target=\"_blank\">NVIDIA Stock: Analyst Estimates & Ratings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
-      "published": "2026-10-30T15:42:30+00:00",
-      "source": "Barchart.com"
-    },
-    {
-      "title": "Nvidia’s AI Dominance Could Have Further to Run - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkh5aHlweVhseEFHazllRTFLOVRvMWVBM1pzSGQtdW1jR2VUNEQtNUpnNGdCX3U3SkVOOVlSa2JuYmFxejVmaldFdkNya0w1a1djT0MwMUwyMEMwaTZiVFR5NUU3UEVQWXowZVVrSVkzUmw5bEt6aEU1VVpoV0NCU19EeTZrRldEMzN0dF85RlAxbkpaN1JBaHVEZjVkUzQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkh5aHlweVhseEFHazllRTFLOVRvMWVBM1pzSGQtdW1jR2VUNEQtNUpnNGdCX3U3SkVOOVlSa2JuYmFxejVmaldFdkNya0w1a1djT0MwMUwyMEMwaTZiVFR5NUU3UEVQWXowZVVrSVkzUmw5bEt6aEU1VVpoV0NCU19EeTZrRldEMzN0dF85RlAxbkpaN1JBaHVEZjVkUzQ?oc=5\" target=\"_blank\">Nvidia’s AI Dominance Could Have Further to Run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-30T16:03:28+00:00",
+      "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHhTVFYtQ3l2eEZlSV9jRHFJX05VUjRoUEFJVkZLV0t2R2V4T05meU9kT2dxWU92VWl5U3p4Ty01bTBud0pZclRGS2hMYUVHbF9WdzRTUXZoMEFyM055aFh5UmxTZ093UFl0SVN1Vl9zTWJwUE5RN0Rxb1JWTVloWEVJMEhacy02VElrZUNySi1od3Z1bUlyY25MNk0xQWpISmFwQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHhTVFYtQ3l2eEZlSV9jRHFJX05VUjRoUEFJVkZLV0t2R2V4T05meU9kT2dxWU92VWl5U3p4Ty01bTBud0pZclRGS2hMYUVHbF9WdzRTUXZoMEFyM055aFh5UmxTZ093UFl0SVN1Vl9zTWJwUE5RN0Rxb1JWTVloWEVJMEhacy02VElrZUNySi1od3Z1bUlyY25MNk0xQWpISmFwQQ?oc=5\" target=\"_blank\">Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-10-31T13:05:01+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5\" target=\"_blank\">Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-30T01:26:00+00:00",
-      "source": "Reuters"
+      "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5\" target=\"_blank\">Apple Overtakes Nvidia to Become World’s Most Valuable Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "published": "2026-10-30T20:28:39+00:00",
+      "source": "Bloomberg.com"
     },
     {
-      "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project - The Information",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5\" target=\"_blank\">Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
-      "published": "2026-10-29T22:40:00+00:00",
-      "source": "The Information"
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNhWVNJR0JZTnVKVlM5RUZFeGdQZDdMMk9yODB0ZTlGSXRnYzNZU2hVbXBLdVdWbGstX3RPYkphd190d0R5N0VKN0RabTd3aW5OSUI1cHVsME9vVno4Nm1LY0lTV25qZE5EejNqNm91c1dvbVk5YnctUUowaUJoYTJwSEhCY3BIYV9kbVZ1U1RKNTk5Y3NqVDR3YTlrdXZDOWd5ekVvaDdGSzV0aVA5OUFxcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNhWVNJR0JZTnVKVlM5RUZFeGdQZDdMMk9yODB0ZTlGSXRnYzNZU2hVbXBLdVdWbGstX3RPYkphd190d0R5N0VKN0RabTd3aW5OSUI1cHVsME9vVno4Nm1LY0lTV25qZE5EejNqNm91c1dvbVk5YnctUUowaUJoYTJwSEhCY3BIYV9kbVZ1U1RKNTk5Y3NqVDR3YTlrdXZDOWd5ekVvaDdGSzV0aVA5OUFxcw?oc=5\" target=\"_blank\">Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-10-31T01:20:05+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "Nvidia to prop up British AI giant as data centre boom unwinds - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHVIRnNWSzlod0RXWU5tNG1mTGhnYklINVBBVGpLcG8xQVZvcFQzdGdYc0h5ZFV4Z0puajlrMWYzVTNhYnVPcE9ucTBJTFA1NDV6bDJtVFN0REFJUTQtNmlkcmxCdFEzazlPazFOOTgyNHl4cTAtdDZXdm1JZXkwRWhEQl9pMlMtZE9QUktrTExPLWZjemtV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHVIRnNWSzlod0RXWU5tNG1mTGhnYklINVBBVGpLcG8xQVZvcFQzdGdYc0h5ZFV4Z0puajlrMWYzVTNhYnVPcE9ucTBJTFA1NDV6bDJtVFN0REFJUTQtNmlkcmxCdFEzazlPazFOOTgyNHl4cTAtdDZXdm1JZXkwRWhEQl9pMlMtZE9QUktrTExPLWZjemtV?oc=5\" target=\"_blank\">Nvidia to prop up British AI giant as data centre boom unwinds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-10-30T15:34:34+00:00",
-      "source": "Yahoo Finance"
+      "title": "RTX 5080 Vanishes From NVIDIA's US Marketplace Two Weeks After the RTX 5090 - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUZhMUx2OFlOdjVpclB2Q0E2VE16ZE5VYkZLeGRGZW5reUN0SjBDQ0RJNWlGM0pPclkta2dHSFpiMlNVcjBDcGh3NXNfVkZZS19xN3dKczlpdnAwbmpzQi0xMEw1ZXV3alZOZ2VYbkJsMHFaYzhnWGQwX3ozb1FlaTE5akFmamdxU05RRGRnMk1WMUoyVU5KSU41Z3QxRmNSQ3Y4cm9OSVg3MHBLdkHSAbMBQVVfeXFMTnhNNHRDVUtNeXVoQlg1cVJTdEhTRlhFcGt4WTZNcWNtei01XzFROUZ2dDNoaFJmSDMyT2VIMEF6S3IwRWFjYk41Zk1HWTBxdER5TG1MWi1oMlhXQnhVTkEzVnh6aGxYVFpZM3FtUE80Z2xjUXdndEh3bWZRR3FjbFo4VTZOcWN2ODludERtVHIyNTNldlFsVWF2ZHVEY0pwaW9DVUN1NFhrbEhGZmhDX0JzUWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUZhMUx2OFlOdjVpclB2Q0E2VE16ZE5VYkZLeGRGZW5reUN0SjBDQ0RJNWlGM0pPclkta2dHSFpiMlNVcjBDcGh3NXNfVkZZS19xN3dKczlpdnAwbmpzQi0xMEw1ZXV3alZOZ2VYbkJsMHFaYzhnWGQwX3ozb1FlaTE5akFmamdxU05RRGRnMk1WMUoyVU5KSU41Z3QxRmNSQ3Y4cm9OSVg3MHBLdkHSAbMBQVVfeXFMTnhNNHRDVUtNeXVoQlg1cVJTdEhTRlhFcGt4WTZNcWNtei01XzFROUZ2dDNoaFJmSDMyT2VIMEF6S3IwRWFjYk41Zk1HWTBxdER5TG1MWi1oMlhXQnhVTkEzVnh6aGxYVFpZM3FtUE80Z2xjUXdndEh3bWZRR3FjbFo4VTZOcWN2ODludERtVHIyNTNldlFsVWF2ZHVEY0pwaW9DVUN1NFhrbEhGZmhDX0JzUWM?oc=5\" target=\"_blank\">RTX 5080 Vanishes From NVIDIA's US Marketplace Two Weeks After the RTX 5090</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2026-10-30T19:46:28+00:00",
+      "source": "TechPowerUp"
+    },
+    {
+      "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTRvSVFvbHFOaHloakNlYXNoWFR2ZksteE4yMkRuMUkzYnJhSVBsYkxwUzNZbDBsZ0hLZm9wX25ZM3FGZGZRM1hjWFV0ZVNVN3N4R2hGamxiT3R0UDBLS1VuazlfRTVrZXZETTFnaTV0aEdYTW9XbmYyNzNtT2ZBM3FtcUFXa3RKWFNyMk5oeWtHZ1dRa2RjczB5WjM4dEZibjJVbnpGRUZSSWZSSmRNNndqNWhxdllYQkFEVmtsMmtLNzZhR3FOX2RRdTdOekZTWWp1dUROcnJBQU1LaTQydDdnMWRzVTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTRvSVFvbHFOaHloakNlYXNoWFR2ZksteE4yMkRuMUkzYnJhSVBsYkxwUzNZbDBsZ0hLZm9wX25ZM3FGZGZRM1hjWFV0ZVNVN3N4R2hGamxiT3R0UDBLS1VuazlfRTVrZXZETTFnaTV0aEdYTW9XbmYyNzNtT2ZBM3FtcUFXa3RKWFNyMk5oeWtHZ1dRa2RjczB5WjM4dEZibjJVbnpGRUZSSWZSSmRNNndqNWhxdllYQkFEVmtsMmtLNzZhR3FOX2RRdTdOekZTWWp1dUROcnJBQU1LaTQydDdnMWRzVTA?oc=5\" target=\"_blank\">Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "published": "2026-10-30T20:13:10+00:00",
+      "source": "Tom's Hardware"
     }
   ],
   "product_launches": [
-    {
-      "title": "Nvidia launches RTX Spark laptops with local AI push - IT Brief UK",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NwZTIyWk9Jb3BSYnNranhSLWtjdjFqTmI3STk0TGpVMXpYQ2xGMWhFZTU1Y1FYN1IwWEdHTmF1WGotbjR4elM2dkItTE9fYzJOcDBFeUx1enJmOFZnYWNmSVBMQWp3MVBqd3JSZUs5MjcxWGppY0NrMnlrR29OY2V6cy1qa00?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2NwZTIyWk9Jb3BSYnNranhSLWtjdjFqTmI3STk0TGpVMXpYQ2xGMWhFZTU1Y1FYN1IwWEdHTmF1WGotbjR4elM2dkItTE9fYzJOcDBFeUx1enJmOFZnYWNmSVBMQWp3MVBqd3JSZUs5MjcxWGppY0NrMnlrR29OY2V6cy1qa00?oc=5\" target=\"_blank\">Nvidia launches RTX Spark laptops with local AI push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Brief UK</font>",
-      "published": "2026-10-30T16:15:00+00:00",
-      "source": "IT Brief UK"
-    },
-    {
-      "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure - NVIDIA Investor Relations",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaENFSnl4VjJyNGsxOGhtYm81OFhQeWk3NHZLVzBFZF9xcWxWV3FRekNwdWRBNXNtQko4bGYwQXJjZWpMX3dPZE5tR3lxbmtpQm4xdlRNVUsxbmV6eUdMRHFGdzRhU0hVT0pWMVRYTjcybTNfNkZzUURjTm8xTHFHU2Jwelo3cTRLWVNUXzVvOUhhTnpKYi02bjViXzFZcTl0WERtVklrcUdHUGhKN1FzMk53RjBIVUN0VjRWa1VYR3QzVVpxYklPZ0xwNGQxamljSFBCZGtJcGM0OTR4OWFrVEsyNGRZYmExdGJ1aHNULXdQSzN5NnI3UHVFc3I1OEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaENFSnl4VjJyNGsxOGhtYm81OFhQeWk3NHZLVzBFZF9xcWxWV3FRekNwdWRBNXNtQko4bGYwQXJjZWpMX3dPZE5tR3lxbmtpQm4xdlRNVUsxbmV6eUdMRHFGdzRhU0hVT0pWMVRYTjcybTNfNkZzUURjTm8xTHFHU2Jwelo3cTRLWVNUXzVvOUhhTnpKYi02bjViXzFZcTl0WERtVklrcUdHUGhKN1FzMk53RjBIVUN0VjRWa1VYR3QzVVpxYklPZ0xwNGQxamljSFBCZGtJcGM0OTR4OWFrVEsyNGRZYmExdGJ1aHNULXdQSzN5NnI3UHVFc3I1OEk?oc=5\" target=\"_blank\">Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Investor Relations</font>",
-      "published": "2026-07-16T07:00:00+00:00",
-      "source": "NVIDIA Investor Relations"
-    },
     {
       "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents - NVIDIA Newsroom",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVjJaWWVnN3FsV2ZrdlVrSTRuVEE2V0JWZHJRQ2loQ1czLVdiWXpvQkYxLTU2R0U4VVhkMGNZblBRZ0hyY1pnbXVZMXAzdmN0LXdRTDNSSXpwNmhSaHRzR09wN1kxendGLVRWQm9CTkJmZ2stRUE?oc=5",
@@ -84,18 +70,32 @@
       "source": "NVIDIA Newsroom"
     },
     {
+      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5\" target=\"_blank\">Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRqRlJqYUdGSGUtLXZVWFhCMXpqbVYxdW9KbGhNYlNrSU1iUmJHUWJzME9YRzlqaE8wM0EtT2gzWURaQ3hmeFlYTW1pQ05GTFFNejk3TTE1ZjZkLWEyM2pHVUhKM1ZFaTlOdGNwQXRPZVEwWDNuS2E2bXVGOE50Sl82OWsyOWlSMENkNno2Q0Q5emR3VFNXQmhPYkJPTElzdFNIOdIBqgFBVV95cUxPX0huODduWnJfRDdzYWpUc2tQTGpKdWUwdEJzX2FkYThGTWtLSWJ5cnE1VVhwUXZFanoxWHA5VGhFcEo3eDBVUm5lVUVyZ0UzZnVTNjhZbk04ODFDQXY4U0FxV2RDSzJUWVlzRGJUVWtZYU1hcWVERjVLYkxTaldLc3pwSW5wbGQyYUd2NTE0T0puUTJKaGR4S2dhYlh2YlBhVjBLY2Z3NHFPdw?oc=5\" target=\"_blank\">Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "published": "2026-10-21T07:00:00+00:00",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGhqUC16dE5RTy1QMVZTaWQxREY3eC1SQlFaaElEWjR3NjMwZHoybTQxWERzZG1LdFhMOC1mZ3FLY0lzZFNzU01WbnhjdkdhU1g3QXlDVHhIbEJnRmxVcmR0Y3JUU0djU01KTTNaWW4zT2VsWmtoc3pvb2IxOU1mbjFSR3ZQcHdRZnh0c2x1M1hteTlPQ01FU0xR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGhqUC16dE5RTy1QMVZTaWQxREY3eC1SQlFaaElEWjR3NjMwZHoybTQxWERzZG1LdFhMOC1mZ3FLY0lzZFNzU01WbnhjdkdhU1g3QXlDVHhIbEJnRmxVcmR0Y3JUU0djU01KTTNaWW4zT2VsWmtoc3pvb2IxOU1mbjFSR3ZQcHdRZnh0c2x1M1hteTlPQ01FU0xR?oc=5\" target=\"_blank\">Nvidia launches new platform for reining in rogue AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-09-28T07:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
       "title": "NYSE to Launch All-or-Nothing Options on Apple, Nvidia and Tesla Shares - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1Y4a1ZJSnBZdDZaUWxzdmc1anRWUHM2WmZtZ2lZOFI5dVp2cE1QNE5yQkFhdWRvbU92TEtDeTNJRmtGWmJCMnVReEpQYldRbUN1OUhIZXdCNUFzSnpVSmpyTmc1cjIwbUY5eWpDYjRPcHc4TGJ1akpHai0tRUJUdjhpcFdEaHJoQWREODhPd00zMXNrV0d2cHZFTW9NckQzQ1BnQVIyWW9xTW9vUUJ6NGdLYkRGYjJKX0lydFVlTE9fZUxyaV9hblY0NmdnWktoeHc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1Y4a1ZJSnBZdDZaUWxzdmc1anRWUHM2WmZtZ2lZOFI5dVp2cE1QNE5yQkFhdWRvbU92TEtDeTNJRmtGWmJCMnVReEpQYldRbUN1OUhIZXdCNUFzSnpVSmpyTmc1cjIwbUY5eWpDYjRPcHc4TGJ1akpHai0tRUJUdjhpcFdEaHJoQWREODhPd00zMXNrV0d2cHZFTW9NckQzQ1BnQVIyWW9xTW9vUUJ6NGdLYkRGYjJKX0lydFVlTE9fZUxyaV9hblY0NmdnWktoeHc?oc=5\" target=\"_blank\">NYSE to Launch All-or-Nothing Options on Apple, Nvidia and Tesla Shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "published": "2026-10-28T08:46:00+00:00",
       "source": "TradingView"
-    },
-    {
-      "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFF1Y3NscnpKMlBtdk52SF9LOFE5Y2F3VjBMRGZFNVhOX2NTQkJEUGFENTdvZVQ0ajI0R012ZmNxeTBYaVZzaEJhc0J2YVM2Vy0xZVpqOTNKeno5TDZqMEJSWFU2b1BNb3FrOVZHU29ERXoxYzBKVW9lR1JyVzlIUmRYSXVLX28yNmtja3hDdWQ5QXI4SHBWLTlmNkQ5TTFwRVh6VXZB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFF1Y3NscnpKMlBtdk52SF9LOFE5Y2F3VjBMRGZFNVhOX2NTQkJEUGFENTdvZVQ0ajI0R012ZmNxeTBYaVZzaEJhc0J2YVM2Vy0xZVpqOTNKeno5TDZqMEJSWFU2b1BNb3FrOVZHU29ERXoxYzBKVW9lR1JyVzlIUmRYSXVLX28yNmtja3hDdWQ5QXI4SHBWLTlmNkQ5TTFwRVh6VXZB?oc=5\" target=\"_blank\">NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-10-16T07:00:00+00:00",
-      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
@@ -103,7 +103,7 @@
     "currency": "USD",
     "latest": {
       "date": "2026-10-30",
-      "close": 203.25
+      "close": 204.63999938964844
     },
     "history": [
       {
@@ -132,7 +132,7 @@
       },
       {
         "date": "2026-10-30",
-        "close": 203.25
+        "close": 204.63999938964844
       }
     ],
     "name": "NVIDIA Corporation"
