@@ -2,8 +2,15 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-11-02T21:03:31.431126+00:00",
+  "fetched_at": "2026-11-03T18:48:40.996950+00:00",
   "news": [
+    {
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame? - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTFrSFpmRTdvZUVUYVlaOW9KRzFRaGMtZEE5NTBXMDZhcGZXMzN3NzR3bEd0dm12Z3lWVGlqU3Ryd3JWQVdnQ0dYUUhTNjlCSmFXSnp2ODlkMmFtOWdFOEtPZjhwOXVMTzRqRnRqTmxPTV8ycTBIV2VnNTFUTDB4WnZ0SVN2THdQV0E5SV8tWWd4QVlYa1RDNlNmMWpxT1k2dXB6YjhRSnJHRWxMM1E5dFBfXzZxYzg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTFrSFpmRTdvZUVUYVlaOW9KRzFRaGMtZEE5NTBXMDZhcGZXMzN3NzR3bEd0dm12Z3lWVGlqU3Ryd3JWQVdnQ0dYUUhTNjlCSmFXSnp2ODlkMmFtOWdFOEtPZjhwOXVMTzRqRnRqTmxPTV8ycTBIV2VnNTFUTDB4WnZ0SVN2THdQV0E5SV8tWWd4QVlYa1RDNlNmMWpxT1k2dXB6YjhRSnJHRWxMM1E5dFBfXzZxYzg?oc=5\" target=\"_blank\">UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "published": "2026-11-03T16:03:13+00:00",
+      "source": "Ars Technica"
+    },
     {
       "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data - The Hacker News",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QU0t5ZW1GYU4yT0dXekxXaXBwLWgwbmxRQjNQWlFrRnc4Tm9zOUZyb2J3MU45UmNFODBiNTJzUjRlMVdkSEhEVVd2WHVOSzdILVZJVXh6Sm9QakpFVkhYSm42S0ppWTNZYk93WGJaSDJ0ZlhURXBndTdR?oc=5",
@@ -12,76 +19,69 @@
       "source": "The Hacker News"
     },
     {
-      "title": "Former Xbox COO Helen Chiang denies violating Microsoft policies in parting LinkedIn post - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVExUSEpzYnB1OG4xeC1CaGYzWGliT2NFU0VsZTlVUFd0bFExWC1BSHl0S3lFWkFyWk13NURwbmxEcy1hV3Y5SzZBUEtxTnV4Slppblk3S1J5bVZBcUlidDU1eWltbFpHSlFPNVNaSVNWc0NUZjJla0ZFTG1hQldIaWFQeFpuNUxnMmRrampua3BWUlF2cWt2UEVRRGFHR0dfY1ppSHBPaWV4NldPLXh4YVNkM3JwcEZFZnhSbEpnQjk4VldPM3B6eUlkY0I?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOVExUSEpzYnB1OG4xeC1CaGYzWGliT2NFU0VsZTlVUFd0bFExWC1BSHl0S3lFWkFyWk13NURwbmxEcy1hV3Y5SzZBUEtxTnV4Slppblk3S1J5bVZBcUlidDU1eWltbFpHSlFPNVNaSVNWc0NUZjJla0ZFTG1hQldIaWFQeFpuNUxnMmRrampua3BWUlF2cWt2UEVRRGFHR0dfY1ppSHBPaWV4NldPLXh4YVNkM3JwcEZFZnhSbEpnQjk4VldPM3B6eUlkY0I?oc=5\" target=\"_blank\">Former Xbox COO Helen Chiang denies violating Microsoft policies in parting LinkedIn post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
-      "published": "2026-11-02T18:14:16+00:00",
-      "source": "Windows Central"
+      "title": "Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft - Axios",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VzBtMjBQalR5dzM4UlNkR1JCZE0zaUdkdWdjWWM5UXdDS3VPZTEwZENKa2xsZk8wMEc0ZHVrOEE5R2RGWnV3OXBSRGExNW5zdjJCTDlmRkN1VWx0aDRjOHItVkJ0TXVzaFB5ZWtSQ1lERzJSdnZ4b2pka3dMMjA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VzBtMjBQalR5dzM4UlNkR1JCZE0zaUdkdWdjWWM5UXdDS3VPZTEwZENKa2xsZk8wMEc0ZHVrOEE5R2RGWnV3OXBSRGExNW5zdjJCTDlmRkN1VWx0aDRjOHItVkJ0TXVzaFB5ZWtSQ1lERzJSdnZ4b2pka3dMMjA?oc=5\" target=\"_blank\">Hollywood backs NYT in AI copyright battle versus OpenAI, Microsoft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "published": "2026-11-03T17:55:37+00:00",
+      "source": "Axios"
     },
     {
-      "title": "Nvidia, Microsoft, and JPMorgan object to OKXICE tokenized stocks - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1JOb1laRFZYU1R4Y2RIRFpwa3JidGJSVGtQNjE5N01BdksxYXg1dElEcEVjVU01OTZhcmZXd1daaTE1X3NqeHlQcUFrdER6emEtaU1uVXNxaE14ajNndDFsQzZGMENqUjlzS2VTUkVCcDhWNk9qNVRrZjgyeEJkSjZPNzdOUGN0VkxMbDdscw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1JOb1laRFZYU1R4Y2RIRFpwa3JidGJSVGtQNjE5N01BdksxYXg1dElEcEVjVU01OTZhcmZXd1daaTE1X3NqeHlQcUFrdER6emEtaU1uVXNxaE14ajNndDFsQzZGMENqUjlzS2VTUkVCcDhWNk9qNVRrZjgyeEJkSjZPNzdOUGN0VkxMbDdscw?oc=5\" target=\"_blank\">Nvidia, Microsoft, and JPMorgan object to OKXICE tokenized stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-11-02T20:30:00+00:00",
+      "title": "Microsoft Stocks Rise With $44.9 Billion Anthropic Commitment Disclosed - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXFfaGEzdUp6NjFkRHpzVU16VVhlNFVsZ1hQTVh6cUdQTmJCUUxZaXZKdF9EeVhpTTE5WmkzWEt3MGVDQ2p6bDZzQU1SR3VHX0pKeDB4WGdYc1VxN2g5a0VWUzI4Q3p0NHRRQzQ5SFdMMm9BQ1BZdWxrbk02QTFSbFdSOGhaZm5qSlh5Y0JwX2FoSm1DeUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxObXFfaGEzdUp6NjFkRHpzVU16VVhlNFVsZ1hQTVh6cUdQTmJCUUxZaXZKdF9EeVhpTTE5WmkzWEt3MGVDQ2p6bDZzQU1SR3VHX0pKeDB4WGdYc1VxN2g5a0VWUzI4Q3p0NHRRQzQ5SFdMMm9BQ1BZdWxrbk02QTFSbFdSOGhaZm5qSlh5Y0JwX2FoSm1DeUE?oc=5\" target=\"_blank\">Microsoft Stocks Rise With $44.9 Billion Anthropic Commitment Disclosed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-11-03T18:09:55+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Make Microsoft Project Professional 2024 Part of Your Tech Stack for Just $40 - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmNUNjBCZllyTC13VlRkRjcweExmbmVGVWg2U2h4Z3NzbGVIUGhpNzEySjVGT1Z0Umx5dWZoWW52SmJiNTdJbV90ZHk1WGRWTERIQW42VnRkakx3OTVJajZoR2J6eC1zd3RONWtpY2Y0TnhpRjFiVWowSUVfaTl6cFFZUE9HVmFjSGJWakVQMFBndVEwXzF0Rjk4VUNMaHltMEtV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmNUNjBCZllyTC13VlRkRjcweExmbmVGVWg2U2h4Z3NzbGVIUGhpNzEySjVGT1Z0Umx5dWZoWW52SmJiNTdJbV90ZHk1WGRWTERIQW42VnRkakx3OTVJajZoR2J6eC1zd3RONWtpY2Y0TnhpRjFiVWowSUVfaTl6cFFZUE9HVmFjSGJWakVQMFBndVEwXzF0Rjk4VUNMaHltMEtV?oc=5\" target=\"_blank\">Make Microsoft Project Professional 2024 Part of Your Tech Stack for Just $40</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font>",
-      "published": "2026-11-02T21:00:26+00:00",
-      "source": "PCMag"
+      "title": "Yorkville Ives names top software pick for 2027: Microsoft leads on AI strength - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFZOS3RLZnFQMzdwWUpta2ZkYVh5aHNoWGdrSGJHSkgteUNFRGh3SC0xRmFJY3ZVanVuSVI3YkNHSFNEX05JS2JRbC1XdUtKaGpRbUlZWW5PN0ZPRmxWTVZDYmVqckpWZlF0LU5qeXNKNVdRUnk3WXFLbVczTGU3dHJ5ZVp2b1hpZEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTFZOS3RLZnFQMzdwWUpta2ZkYVh5aHNoWGdrSGJHSkgteUNFRGh3SC0xRmFJY3ZVanVuSVI3YkNHSFNEX05JS2JRbC1XdUtKaGpRbUlZWW5PN0ZPRmxWTVZDYmVqckpWZlF0LU5qeXNKNVdRUnk3WXFLbVczTGU3dHJ5ZVp2b1hpZEE?oc=5\" target=\"_blank\">Yorkville Ives names top software pick for 2027: Microsoft leads on AI strength</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "published": "2026-11-03T18:01:18+00:00",
+      "source": "Yahoo Finance Singapore"
     },
     {
-      "title": "Microsoft and Lumen will jointly sell networks built for AI on Azure - The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93MlRDN3V2QjFoVktyVGlidkoxZmxIdEdjSUhzT242bFRwaF9lVzd0RkpKZEdaeFR5Qk44NjNmc0RlNDdwNGJLVVBRZWFJOVkxSFI0d3VvUm5xcUREQXZKUU5ueDEzdlFXTVNFVmk1VnlzSDVveVNNNg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE93MlRDN3V2QjFoVktyVGlidkoxZmxIdEdjSUhzT242bFRwaF9lVzd0RkpKZEdaeFR5Qk44NjNmc0RlNDdwNGJLVVBRZWFJOVkxSFI0d3VvUm5xcUREQXZKUU5ueDEzdlFXTVNFVmk1VnlzSDVveVNNNg?oc=5\" target=\"_blank\">Microsoft and Lumen will jointly sell networks built for AI on Azure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Web</font>",
-      "published": "2026-11-02T20:35:25+00:00",
-      "source": "The Next Web"
+      "title": "I'm an employment law attorney. Here are the 3 steps you should take if you're offered a buyout like Microsoft's. - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnRDNEhTcy1pbmFuVTRKMThUbmV3cWZSbXFOS1phclNOOWFSYWEwMEpOTTJQUHd6MVBsZXdjU2Rlbl94VGw3X3NDVEwyS3I3MHQzNWVwWmpCamdKV0UtdThJNm5DMW85U1JaN0tGWkRXVTJWUkJ2WkdZUDY0aVYzdkdrOTZBLWJHWnJha19FU1pQSHdCb1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnRDNEhTcy1pbmFuVTRKMThUbmV3cWZSbXFOS1phclNOOWFSYWEwMEpOTTJQUHd6MVBsZXdjU2Rlbl94VGw3X3NDVEwyS3I3MHQzNWVwWmpCamdKV0UtdThJNm5DMW85U1JaN0tGWkRXVTJWUkJ2WkdZUDY0aVYzdkdrOTZBLWJHWnJha19FU1pQSHdCb1E?oc=5\" target=\"_blank\">I'm an employment law attorney. Here are the 3 steps you should take if you're offered a buyout like Microsoft's.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-11-03T10:15:00+00:00",
+      "source": "Business Insider"
     },
     {
-      "title": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it - The Register",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbnNhYlpRYzBfSGVtT3lOR18wYXBFbHRJUGtna1o2T0Q4RmpPYVZIRC1KZGRBeVNodnlZSVlwNXlpNEgwdWNqNllmb0JzSG5qTE1rWWkzZ19kWDdac1pLTVhoQndSeTVEQ0hFUzZidkVzbGRfQVZQbDVsNnJnMFlQRUthV3BKS1NFSDN0aXRLV2cxRlFJRnpNMnJoVnQ2bHI5MlpTbUZKWnNqSjB0ZDdnX3M0NHdRTnNnLUQwNFZLM29IWC1SUWk3aUJZUS1rTEpNaE00LXRKUzZWRTRMcHVrbkg4X2pFb04yMkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbnNhYlpRYzBfSGVtT3lOR18wYXBFbHRJUGtna1o2T0Q4RmpPYVZIRC1KZGRBeVNodnlZSVlwNXlpNEgwdWNqNllmb0JzSG5qTE1rWWkzZ19kWDdac1pLTVhoQndSeTVEQ0hFUzZidkVzbGRfQVZQbDVsNnJnMFlQRUthV3BKS1NFSDN0aXRLV2cxRlFJRnpNMnJoVnQ2bHI5MlpTbUZKWnNqSjB0ZDdnX3M0NHdRTnNnLUQwNFZLM29IWC1SUWk3aUJZUS1rTEpNaE00LXRKUzZWRTRMcHVrbkg4X2pFb04yMkE?oc=5\" target=\"_blank\">Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
-      "published": "2026-11-02T10:15:00+00:00",
-      "source": "The Register"
+      "title": "Microsoft data center project raises concerns over groundwater discharge into Juday Creek - WSBT",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTnU4eV9WR29OaGlBTTgwVWFGSzNiSGl2NS1xNlpKMEU5TEJYbWtmdUxQSjBMOTVRN2VSWEk1M2M0VjdsMjBDUWVHZGFXVmxJSWZFSkpvQW1JY2hxdGFtVDNQRlhfTUlfOFIyeFVqLWlvZWFGYkItRVhQNW5XUlc4a1M5bm92SE9VMFBsUmVNNE5yam04bzM3ajg1ZHhCOEpNcy1hQ0JNSXktM3B3STN0b3lwT1BqeWJzU2QtekVqR2d0MExIWGMwdHpYVnNtRERNdVRuTVBvUXI0NlQzbGxEVw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTnU4eV9WR29OaGlBTTgwVWFGSzNiSGl2NS1xNlpKMEU5TEJYbWtmdUxQSjBMOTVRN2VSWEk1M2M0VjdsMjBDUWVHZGFXVmxJSWZFSkpvQW1JY2hxdGFtVDNQRlhfTUlfOFIyeFVqLWlvZWFGYkItRVhQNW5XUlc4a1M5bm92SE9VMFBsUmVNNE5yam04bzM3ajg1ZHhCOEpNcy1hQ0JNSXktM3B3STN0b3lwT1BqeWJzU2QtekVqR2d0MExIWGMwdHpYVnNtRERNdVRuTVBvUXI0NlQzbGxEVw?oc=5\" target=\"_blank\">Microsoft data center project raises concerns over groundwater discharge into Juday Creek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSBT</font>",
+      "published": "2026-11-02T22:50:05+00:00",
+      "source": "WSBT"
     },
     {
-      "title": "Microsoft AI CEO warns industry against trying to build conscious machines - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTk3Q3dma3N6UGxMcFQtX0YwalZoUXlyYkM0Qmlvb3BJU284YTMyeU01V2lDTGtZdHVvMndxRTVZT0Jocl9KM2gxbUdoU21STWxVRWlSaUVzTXNBbjMxT25mQk9MWm1UMXZUTUVmbGo3cVRHSXhacUlIaEVQdHF0SjlZUDBoaVFYSm1OQ0s4YzZuRmh0b0FDNFA5S21pMmtoU3lhcVRickx5b1FvSUp5ajFxZWtsclprV0ZUUVJMRjM4dkJJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTk3Q3dma3N6UGxMcFQtX0YwalZoUXlyYkM0Qmlvb3BJU284YTMyeU01V2lDTGtZdHVvMndxRTVZT0Jocl9KM2gxbUdoU21STWxVRWlSaUVzTXNBbjMxT25mQk9MWm1UMXZUTUVmbGo3cVRHSXhacUlIaEVQdHF0SjlZUDBoaVFYSm1OQ0s4YzZuRmh0b0FDNFA5S21pMmtoU3lhcVRickx5b1FvSUp5ajFxZWtsclprV0ZUUVJMRjM4dkJJ?oc=5\" target=\"_blank\">Microsoft AI CEO warns industry against trying to build conscious machines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
-      "published": "2026-11-02T16:20:00+00:00",
-      "source": "Los Angeles Times"
-    },
-    {
-      "title": "Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time - Futurism",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2hoMWw5c2MwUVlFbUxRYVhLLUhvT2pZQXVPMnJPUWVyZU52R2FWbE5ZdENMQTU4dHlQSmVJVHE5WTR3VFlIeE14M3VxOW5OVm5SYlFCeG9vb09ZNHBKMUc2TUtUS3ZMc3p4RkVLUFN4NnpMOHhoRDdMcTBlNFlxWS04dk1Gc3BJdEFNNkgwWkNmS0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2hoMWw5c2MwUVlFbUxRYVhLLUhvT2pZQXVPMnJPUWVyZU52R2FWbE5ZdENMQTU4dHlQSmVJVHE5WTR3VFlIeE14M3VxOW5OVm5SYlFCeG9vb09ZNHBKMUc2TUtUS3ZMc3p4RkVLUFN4NnpMOHhoRDdMcTBlNFlxWS04dk1Gc3BJdEFNNkgwWkNmS0E?oc=5\" target=\"_blank\">Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
-      "published": "2026-11-01T17:09:00+00:00",
-      "source": "Futurism"
+      "title": "Here’s Microsoft’s Plan to Save Windows 11 From RAMaggedon - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oZ1hLNjA0NENtN0V1N1hrWEVYWEJIT0x2TURueUFILWgtOTd6b19EUlBvTmdDOExRdzlsQUFiTkdESEFFdEt3Q3otdjRMWktNWElScjE3LTF1ZHlkNnBOc1lsMUtaTXZEOTZiRHB3bUJUd1U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1oZ1hLNjA0NENtN0V1N1hrWEVYWEJIT0x2TURueUFILWgtOTd6b19EUlBvTmdDOExRdzlsQUFiTkdESEFFdEt3Q3otdjRMWktNWElScjE3LTF1ZHlkNnBOc1lsMUtaTXZEOTZiRHB3bUJUd1U?oc=5\" target=\"_blank\">Here’s Microsoft’s Plan to Save Windows 11 From RAMaggedon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+      "published": "2026-11-03T17:00:07+00:00",
+      "source": "Gizmodo"
     }
   ],
   "product_launches": [
+    {
+      "title": "Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland - Microsoft UK Stories",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU29BNnZZV19UdXU2dlFtUElSc1F6cFQ0SWJrWHJmNWFia0FraVN3YlRjY255LVc0ejE3T2NfX2ZJazBjTXNqbmdJR05KN3Q5dEhJWl8tOG80MXpLQkNLYjdDaE85djd4RzYzdHgxLXFCSk5yTG5YeVdPTGlYdjRKdlJwcmxMX19rLTB4S0FNV2hmNlYtMHVQTE9wczJqbkdIUTJkYm5PcmdzUXlOTHJmaWRya1hKeHZxTHZ2MEFrdkREd0NTTE5pLW0yN1NGSUE5R1FvRmpKc1NlZmtyQmJiMGU2akhjbkhvSWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU29BNnZZV19UdXU2dlFtUElSc1F6cFQ0SWJrWHJmNWFia0FraVN3YlRjY255LVc0ejE3T2NfX2ZJazBjTXNqbmdJR05KN3Q5dEhJWl8tOG80MXpLQkNLYjdDaE85djd4RzYzdHgxLXFCSk5yTG5YeVdPTGlYdjRKdlJwcmxMX19rLTB4S0FNV2hmNlYtMHVQTE9wczJqbkdIUTJkYm5PcmdzUXlOTHJmaWRya1hKeHZxTHZ2MEFrdkREd0NTTE5pLW0yN1NGSUE5R1FvRmpKc1NlZmtyQmJiMGU2akhjbkhvSWc?oc=5\" target=\"_blank\">Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft UK Stories</font>",
+      "published": "2026-11-03T08:02:16+00:00",
+      "source": "Microsoft UK Stories"
+    },
+    {
+      "title": "Ontinue Launches MXDR Essentials to Extend Microsoft ISOC With 24/7 Security Operations - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1BxWExsT1c2RUFMVkFldjBxZmhqQTNnMEFwckZXWk15UGF2b2QybHU3Wlk0VHh0WWxBbWVPeGhvQXFpbmpudHAxVmVZUjRsZ2trbVNXRDBrODZOVmw2bzZvbVhMYlhNemVhaTVBNXU4TEMtQ2ZzTTZNVmU2ZC1sTnZXOXEyWkducVZPdUU0RG15OHM0UjVCTXFzc2xRRHdCOUNJM3JwM1R3dnctekVESTNLSEJQNHpldG54WHF3UWpqNlpN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1BxWExsT1c2RUFMVkFldjBxZmhqQTNnMEFwckZXWk15UGF2b2QybHU3Wlk0VHh0WWxBbWVPeGhvQXFpbmpudHAxVmVZUjRsZ2trbVNXRDBrODZOVmw2bzZvbVhMYlhNemVhaTVBNXU4TEMtQ2ZzTTZNVmU2ZC1sTnZXOXEyWkducVZPdUU0RG15OHM0UjVCTXFzc2xRRHdCOUNJM3JwM1R3dnctekVESTNLSEJQNHpldG54WHF3UWpqNlpN?oc=5\" target=\"_blank\">Ontinue Launches MXDR Essentials to Extend Microsoft ISOC With 24/7 Security Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+      "published": "2026-11-03T14:47:37+00:00",
+      "source": "citybiz"
+    },
     {
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5\" target=\"_blank\">OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
       "published": "2026-09-29T07:00:00+00:00",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5\" target=\"_blank\">Introducing the new Copilot with Home, Code and Autopilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Official Microsoft Blog</font>",
-      "published": "2026-09-25T07:00:00+00:00",
-      "source": "The Official Microsoft Blog"
-    },
-    {
-      "title": "Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQ1QxVlQ1OU9vWnkzSWxkakR3dk01UHVrclNlNFZxX0c4MXJCcjc3Y3pkc1Z6dmxQUHF0Tm9TLVNzZEVHR0Y5ZHltMXUySlBDczEySGtYNHo3VkFfWDFibHpDZXNnSDlZTU9tTy1XY2lYekdweVlkdVhPY2RWUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQ1QxVlQ1OU9vWnkzSWxkakR3dk01UHVrclNlNFZxX0c4MXJCcjc3Y3pkc1Z6dmxQUHF0Tm9TLVNzZEVHR0Y5ZHltMXUySlBDczEySGtYNHo3VkFfWDFibHpDZXNnSDlZTU9tTy1XY2lYekdweVlkdVhPY2RWUQ?oc=5\" target=\"_blank\">Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
-      "published": "2026-10-27T15:42:42+00:00",
-      "source": "Mezha.net"
     },
     {
       "title": "“The New Clippy”: Benioff Uses Salesforce’s Biggest Product Launch in Years to Challenge Microsoft - Yahoo Finance",
@@ -91,25 +91,21 @@
       "source": "Yahoo Finance"
     },
     {
-      "title": "Ex Meta AI Director Leaves Big Tech to Build a Microsoft Office Killer - Android Headlines",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUp2cTlOQUFidXI3UC1FY25CR294R2Q2ZE8yOGNWVDJDQ1czSEhCLWhELU4tdTdtYnBYU3Q5UHdCOWdnSUZRazhQMDBBMzZvYUVyMFd5WVdHck9mUkdCYVdISjJYeWZFaHpEMGh3RW1NdmRJMDJnZU9ia25uWkNfanZMX1ZkVUZGem9oYnJzSVN2ZmM5NGw0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUp2cTlOQUFidXI3UC1FY25CR294R2Q2ZE8yOGNWVDJDQ1czSEhCLWhELU4tdTdtYnBYU3Q5UHdCOWdnSUZRazhQMDBBMzZvYUVyMFd5WVdHck9mUkdCYVdISjJYeWZFaHpEMGh3RW1NdmRJMDJnZU9ia25uWkNfanZMX1ZkVUZGem9oYnJzSVN2ZmM5NGw0?oc=5\" target=\"_blank\">Ex Meta AI Director Leaves Big Tech to Build a Microsoft Office Killer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Android Headlines</font>",
-      "published": "2026-10-28T01:37:39+00:00",
-      "source": "Android Headlines"
+      "title": "Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQ1QxVlQ1OU9vWnkzSWxkakR3dk01UHVrclNlNFZxX0c4MXJCcjc3Y3pkc1Z6dmxQUHF0Tm9TLVNzZEVHR0Y5ZHltMXUySlBDczEySGtYNHo3VkFfWDFibHpDZXNnSDlZTU9tTy1XY2lYekdweVlkdVhPY2RWUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQ1QxVlQ1OU9vWnkzSWxkakR3dk01UHVrclNlNFZxX0c4MXJCcjc3Y3pkc1Z6dmxQUHF0Tm9TLVNzZEVHR0Y5ZHltMXUySlBDczEySGtYNHo3VkFfWDFibHpDZXNnSDlZTU9tTy1XY2lYekdweVlkdVhPY2RWUQ?oc=5\" target=\"_blank\">Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
+      "published": "2026-10-27T15:42:42+00:00",
+      "source": "Mezha.net"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-11-02",
-      "close": 507.1199951171875
+      "date": "2026-11-03",
+      "close": 520.7249755859375
     },
     "history": [
-      {
-        "date": "2026-10-23",
-        "close": 524.510009765625
-      },
       {
         "date": "2026-10-26",
         "close": 532.5999755859375
@@ -133,6 +129,10 @@
       {
         "date": "2026-11-02",
         "close": 507.1199951171875
+      },
+      {
+        "date": "2026-11-03",
+        "close": 520.7249755859375
       }
     ],
     "name": "Microsoft Corporation"
