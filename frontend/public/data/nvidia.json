@@ -2,86 +2,79 @@
   "name": "NVIDIA",
   "slug": "nvidia",
   "ticker": "NVDA",
-  "fetched_at": "2026-11-04T19:03:48.671500+00:00",
+  "fetched_at": "2026-11-19T19:44:56.058422+00:00",
   "news": [
     {
-      "title": "Why Nvidia Stock Can Ride Out a Data-Center Crackdown - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5\" target=\"_blank\">Why Nvidia Stock Can Ride Out a Data-Center Crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
-      "published": "2026-11-04T15:06:00+00:00",
-      "source": "Barron's"
+      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHlsTnZZSU9BNjZuZUZvQXBGUkZnc2hxZ2U4cE5WWkE2OG81eUZxVTVsRHdaMTVGdFBTWnBSQUZhS0lBOEhJdVhCNjJ5ZURrOGlCekFWU010bWRjRXJQd1JuVFRSbGRtYWl4STNlVFNrREdVV3BXYW4zRDlMNGFoek5TbkVLaVlaWGpCcjJrVXJzb2xHQ0xNUm50U2V2YUVPRlJrYdIBqgFBVV95cUxNNzZwUmstbGVkVFNDZ3FfTkNYRHZmUlhMRGJvbENlNG1sRl9MZjJjSVpORzVvRTZ2ZWNJWWRTQ2pkYlY4ZTdpMzhfN1AwVzZzSWUxR1hPR2pCWDJPLTIxZGdMT0JMLVdZUUlyWWVxT2ZsNXFwZ2VEZ2czRl9Ya3NDVEFBZF9wb0lOMVlnczBIazh1OHdJTFRCYXVNTWU1RVVjQnBWREQxQ005Zw?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHlsTnZZSU9BNjZuZUZvQXBGUkZnc2hxZ2U4cE5WWkE2OG81eUZxVTVsRHdaMTVGdFBTWnBSQUZhS0lBOEhJdVhCNjJ5ZURrOGlCekFWU010bWRjRXJQd1JuVFRSbGRtYWl4STNlVFNrREdVV3BXYW4zRDlMNGFoek5TbkVLaVlaWGpCcjJrVXJzb2xHQ0xNUm50U2V2YUVPRlJrYdIBqgFBVV95cUxNNzZwUmstbGVkVFNDZ3FfTkNYRHZmUlhMRGJvbENlNG1sRl9MZjJjSVpORzVvRTZ2ZWNJWWRTQ2pkYlY4ZTdpMzhfN1AwVzZzSWUxR1hPR2pCWDJPLTIxZGdMT0JMLVdZUUlyWWVxT2ZsNXFwZ2VEZ2czRl9Ya3NDVEFBZF9wb0lOMVlnczBIazh1OHdJTFRCYXVNTWU1RVVjQnBWREQxQ005Zw?oc=5\" target=\"_blank\">Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTlGckwtak9hN1pSenpIZUtiT2RqZWVuSkFuVF9WYnJCYmlfRFc4MGplRkRncTJYdjRNOWVnQkZLWm9kb1AxUEJYMmtvbTNMMHM0S1VrbFlXQ1JEMVdJa1R1R1dPYjR6NXBYZ1h3SUdxcGhyM0VWa3R1VW1EZndLVWJCX2hTblJJUWxua2s2TkJtV3dNR1VKV3VBZVo1RFRrY1Q2aHhESnV5cWoxaW1UQ0x6T3FoQ1Bh0gG-AUFVX3lxTFBPMjY3ZTEzMmlIVWpaOU1UYUMxVkNUcGRNcm5yVEo3d1BubDJ3dDRXa1dBUHk3OGpIQ1FyVFZlVU9GdlRtaGRpZk9rYWJwSjFRY0NIa0RwcFlSamF3czhfUXNFSmlPYkNPcGNVOVoxNkNhWW1ObXFFQ0RJQlE3ZnVXZFpCd0dYeXFQdjVZcXZPNVgwOGhZN3dwdDJJQk9PUHVFNXh4cVN0c0VndUhsRUZDUnU4dktBSEhWT2JzdEE?oc=5\" target=\"_blank\">Bill Ackman blasts Nvidia's board over Jensen Huang's ouster, says it 'panicked'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxONkt2a1FuMHgxdndLQXlVbTExU05Vd3FoU25SWFhIY0pXZTlVZWdtWk1IUEt4Y2tzcnI2OUprTENuY0FYekpJcXVXWGhPdElMeUpvNXMtWGlob3hSaklkU0ZoWnJuU3dXM0dPR1h5bkVRVVZ2bFFSanUwdTVZMVpWdDdOMEhiZ0xBQnJRRmdtQnZWY0d4UlFyUFRtNXZzbUZsUVE?oc=5\" target=\"_blank\">Nvidia reportedly approaches Arm CEO Rene Haas in search for Jensen Huang successor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li></ol>",
+      "published": "2026-11-18T19:09:18+00:00",
+      "source": "CNBC"
     },
     {
-      "title": "Nvidia orders data center clients to reduce China exposure: FT - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU24zQnBzOGNvR2gwYWs0ekQ0b0JlSWd6Snd1TUVGOXJ3UWJOX25KaWhqX3ZZampncFphLWtDdUc4U3cxTm9pSTBHWFBicVlCemNoWFA5VXRUZzNPMXUzNV92MFdvc2N6c21FaEx5OHR5YnpES25CZVJhQjk3MjgtTDZZQm5zdUF0eWkyWHNPeVduTWpHZjdIQWptWWdKQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOU24zQnBzOGNvR2gwYWs0ekQ0b0JlSWd6Snd1TUVGOXJ3UWJOX25KaWhqX3ZZampncFphLWtDdUc4U3cxTm9pSTBHWFBicVlCemNoWFA5VXRUZzNPMXUzNV92MFdvc2N6c21FaEx5OHR5YnpES25CZVJhQjk3MjgtTDZZQm5zdUF0eWkyWHNPeVduTWpHZjdIQWptWWdKQQ?oc=5\" target=\"_blank\">Nvidia orders data center clients to reduce China exposure: FT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-11-03T08:09:11+00:00",
-      "source": "Yahoo Finance"
+      "title": "How Nvidia Chips Ended Up Within Reach of China’s Military - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVc5N1B2V0VEaE01RDFyU3NaYTNiV3pmb2dqRDVMMWpjenVCbGUwNTh6aHhKX3hLNnBEU3dFZWxFU3I2SkJqQUVEUC1TY0IzNkNnRHc5OUU3SEY3R0RGRFE5M0UwOThfQktjVHgtSUhyeW9XNjJlQm1qdnFMcGtJNVBLNzZtX00?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVc5N1B2V0VEaE01RDFyU3NaYTNiV3pmb2dqRDVMMWpjenVCbGUwNTh6aHhKX3hLNnBEU3dFZWxFU3I2SkJqQUVEUC1TY0IzNkNnRHc5OUU3SEY3R0RGRFE5M0UwOThfQktjVHgtSUhyeW9XNjJlQm1qdnFMcGtJNVBLNzZtX00?oc=5\" target=\"_blank\">How Nvidia Chips Ended Up Within Reach of China’s Military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2026-11-19T04:13:05+00:00",
+      "source": "The New York Times"
     },
     {
-      "title": "Nvidia orders data centre clients to reduce China exposure - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY?oc=5\" target=\"_blank\">Nvidia orders data centre clients to reduce China exposure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-      "published": "2026-11-03T05:01:04+00:00",
-      "source": "Financial Times"
-    },
-    {
-      "title": "US concerned by close ties between Nvidia CEO and Chinese Businesswoman - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVEpKY2VBNUxXb01ZTy1paWo5SE9PN1dmM2hKOWJUbXB3ZmNSeFFTb3ZFRFFEN1JtY1FMUm16X0ktVjI4VHB6cE83eW9kN2F5dzdRRUhUTTJKbDdlWnpwV25SYnkxWTVCbnN6a2J6cF9vby12Nnh5UGFENTFBVXJuaXpuV05KbGJVX2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPVEpKY2VBNUxXb01ZTy1paWo5SE9PN1dmM2hKOWJUbXB3ZmNSeFFTb3ZFRFFEN1JtY1FMUm16X0ktVjI4VHB6cE83eW9kN2F5dzdRRUhUTTJKbDdlWnpwV25SYnkxWTVCbnN6a2J6cF9vby12Nnh5UGFENTFBVXJuaXpuV05KbGJVX2c?oc=5\" target=\"_blank\">US concerned by close ties between Nvidia CEO and Chinese Businesswoman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-11-03T03:49:11+00:00",
+      "title": "Blacklisted Chinese universities procured Nvidia chips, records show - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGFqcVo3R2tHZlQwNG5XamN5ZXV0bWxEUUdlT00wMUl6czg5QkFfOW9WdVNIQnRvci1FR2RBUlp5MmxkVzc0TEEwX3c3dkNaUFlyb1N0c2QtblNPLTRNdm5TT2Q5c3V6dVp6dHBsQlA5RHJ0aHhibHNBT09BM0FrNExB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGFqcVo3R2tHZlQwNG5XamN5ZXV0bWxEUUdlT00wMUl6czg5QkFfOW9WdVNIQnRvci1FR2RBUlp5MmxkVzc0TEEwX3c3dkNaUFlyb1N0c2QtblNPLTRNdm5TT2Q5c3V6dVp6dHBsQlA5RHJ0aHhibHNBT09BM0FrNExB?oc=5\" target=\"_blank\">Blacklisted Chinese universities procured Nvidia chips, records show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "published": "2026-11-19T12:35:56+00:00",
       "source": "CNN"
     },
     {
-      "title": "Nvidia And Tesla Left Behind, As Rest Of Mag7 Rally On Dem’s Big Night - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFBkMEZDMkhXYW56T1NkN2pidVZmeDJKMjNlR29rUFZUcHFQOFlfSEpHUnoxTm15ckxUWVhZVWExWFNMZFFEeGVxY2cxNFpCbTBkV2ZDNG1vd0ZEZ2dUOWxwNmRkbVRMZmw1TF9ub2xDLVR6N3Z0U2VJdnMtMk9fLXBTX3A0ZWRzRk5MdDZiOW00R1Q0ZDZmOXZn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFBkMEZDMkhXYW56T1NkN2pidVZmeDJKMjNlR29rUFZUcHFQOFlfSEpHUnoxTm15ckxUWVhZVWExWFNMZFFEeGVxY2cxNFpCbTBkV2ZDNG1vd0ZEZ2dUOWxwNmRkbVRMZmw1TF9ub2xDLVR6N3Z0U2VJdnMtMk9fLXBTX3A0ZWRzRk5MdDZiOW00R1Q0ZDZmOXZn?oc=5\" target=\"_blank\">Nvidia And Tesla Left Behind, As Rest Of Mag7 Rally On Dem’s Big Night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "published": "2026-11-04T18:19:04+00:00",
+      "title": "Congress Warns Nvidia Scandal Exposes A Bigger AI Threat - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2hXQVg1Nm9oN2pvWUQ4dkJyUmlaRGktck5xOTJoNWZwWXg4NzI5MERXQko0b1dhbXdMYW1pRUFVLW9CdF9DVUVwVEhmSjFjbmgyQkozQkNVbDFQdmhjOF9iWEhyRFlSbEJQVkRxWDhsOHlBY2JWZ1dNMW9oQkpJaDBEdW5IV0daaGFqQ2pyLUozZjJPNkpnWUtPQl9FaDZaNVhhR2tLTk5WYlVTOUJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2hXQVg1Nm9oN2pvWUQ4dkJyUmlaRGktck5xOTJoNWZwWXg4NzI5MERXQko0b1dhbXdMYW1pRUFVLW9CdF9DVUVwVEhmSjFjbmgyQkozQkNVbDFQdmhjOF9iWEhyRFlSbEJQVkRxWDhsOHlBY2JWZ1dNMW9oQkpJaDBEdW5IV0daaGFqQ2pyLUozZjJPNkpnWUtPQl9FaDZaNVhhR2tLTk5WYlVTOUJR?oc=5\" target=\"_blank\">Congress Warns Nvidia Scandal Exposes A Bigger AI Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "published": "2026-11-19T17:53:39+00:00",
+      "source": "Forbes"
+    },
+    {
+      "title": "Bloomberg News journalist barred from China meeting after Nvidia question - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk8waFFIY21HMDBWY1VQRDhUSFVHVWcxcVhheGJ2TG8xRmRqclJYU3piWDg4RU5kVHZLUW43a3duaHlqVENtdFJvNzNKbVB3VnRsNkozNzJzOGtBdFNMMXFYYXdGWUtvX2ExWFpzcGtZN1FweDZKaVFaei14bjhEYUxHd3hXRGp5UjJWOF8xYnhFd2hBWWxfZ0VvZDNmS0lyd2ZFT3E2X1JrR3JrQlR0VW9kR1dRMHVKOTFWMQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk8waFFIY21HMDBWY1VQRDhUSFVHVWcxcVhheGJ2TG8xRmRqclJYU3piWDg4RU5kVHZLUW43a3duaHlqVENtdFJvNzNKbVB3VnRsNkozNzJzOGtBdFNMMXFYYXdGWUtvX2ExWFpzcGtZN1FweDZKaVFaei14bjhEYUxHd3hXRGp5UjJWOF8xYnhFd2hBWWxfZ0VvZDNmS0lyd2ZFT3E2X1JrR3JrQlR0VW9kR1dRMHVKOTFWMQ?oc=5\" target=\"_blank\">Bloomberg News journalist barred from China meeting after Nvidia question</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+      "published": "2026-11-19T19:27:20+00:00",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Being Bearish on Anthropic: $1 Trillion Compute Bill and Nvidia turmoil - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb0Foa0hqVDlaUUJoN3JhRnJBUGw5a0lpbVltTGhxaFEwbkdkYjVCeTdmLWJ2Q3UyNUs1c1RwVk91ZGpkQk1zOWh0RVBzbXdncF9lVXd3bUFyNV9YaTZsMDB2Tmw2bEFkZFdMeDFJbV9DRjM1T3M0T0QwbG5vekptWGpIZ1Zlb0p4dHNpQ0pKaU1QUTBwbkZ5MDhSM0lRT0RHRWh2VzRLSDFGT2ZTajNZdjFpUjdUWFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPb0Foa0hqVDlaUUJoN3JhRnJBUGw5a0lpbVltTGhxaFEwbkdkYjVCeTdmLWJ2Q3UyNUs1c1RwVk91ZGpkQk1zOWh0RVBzbXdncF9lVXd3bUFyNV9YaTZsMDB2Tmw2bEFkZFdMeDFJbV9DRjM1T3M0T0QwbG5vekptWGpIZ1Zlb0p4dHNpQ0pKaU1QUTBwbkZ5MDhSM0lRT0RHRWh2VzRLSDFGT2ZTajNZdjFpUjdUWFE?oc=5\" target=\"_blank\">Being Bearish on Anthropic: $1 Trillion Compute Bill and Nvidia turmoil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-11-19T17:24:53+00:00",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Crypto’s biggest heist ever, the spy who loved Nvidia and Hacktober’s unsolved mysteries : Machine Gods - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDM3TFhZY3A4bzF4eEN5SXdvNXJ5Y056T1pESzRSWkhhc0VBZHZYMGVHWFVMVnZ6QXg1cWNEbHFFNEpGRlZoWkM1ZUVIaFFMTEh1LWJEaWc4cFo5TXQ4TmtrYmdGb0NtUXAwem13bktVSTZOV3BpLVBuZXN1YlBoWjNveGFXRG54V0g4d19UQzhtb3F0ZjhrMDBRNUR6bmo0M1oxeGdlcGpQUGlSbHFxUWVILVBpRjdf?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDM3TFhZY3A4bzF4eEN5SXdvNXJ5Y056T1pESzRSWkhhc0VBZHZYMGVHWFVMVnZ6QXg1cWNEbHFFNEpGRlZoWkM1ZUVIaFFMTEh1LWJEaWc4cFo5TXQ4TmtrYmdGb0NtUXAwem13bktVSTZOV3BpLVBuZXN1YlBoWjNveGFXRG54V0g4d19UQzhtb3F0ZjhrMDBRNUR6bmo0M1oxeGdlcGpQUGlSbHFxUWVILVBpRjdf?oc=5\" target=\"_blank\">Crypto’s biggest heist ever, the spy who loved Nvidia and Hacktober’s unsolved mysteries : Machine Gods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
-      "published": "2026-11-04T12:00:00+00:00",
-      "source": "NPR"
+      "title": "The Short Seller Who Called Out Nvidia Has a New Target - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTFIRGhZc3lUVlByaGdmNGpFNVQ0NDJ5enlVRy1NT3pjQThJbW16NVJKNHAzakxOaUFwS3FiN0VnTjlJUWFqcGMwMWF3S1pXYlVPcy1MaTdEc3dsTzlISEV2czJkX05Ball0U0NfODJmOV8tMXJUVEpudVI0cEJ4NGtxWHNoNTFmT1RtTXpn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTFIRGhZc3lUVlByaGdmNGpFNVQ0NDJ5enlVRy1NT3pjQThJbW16NVJKNHAzakxOaUFwS3FiN0VnTjlJUWFqcGMwMWF3S1pXYlVPcy1MaTdEc3dsTzlISEV2czJkX05Ball0U0NfODJmOV8tMXJUVEpudVI0cEJ4NGtxWHNoNTFmT1RtTXpn?oc=5\" target=\"_blank\">The Short Seller Who Called Out Nvidia Has a New Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "published": "2026-11-19T18:52:00+00:00",
+      "source": "Barron's"
     },
     {
-      "title": "Police investigating $11.4 million Nvidia cargo theft from Oakland - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUpiUUtxcFdfT0NjYnVzZnpLOV85ekZrRWZnUjdidG1YQVZrcW4xMXJhTWRIQ3Y3SllWWGZyYTVQUjZqSzdXVklHWWZ1NE1lTjZFX3BvRzJ1U3ZxTGszV01SRkFWenlkS1BqdTlpRUJTZmdya3A5NUk1c3J3SFV0dWV3NGhxQzhzdmkzc2lLVEJ5TzFmOGhIRDJDVEx2N2hleWxoWEh1NXE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUpiUUtxcFdfT0NjYnVzZnpLOV85ekZrRWZnUjdidG1YQVZrcW4xMXJhTWRIQ3Y3SllWWGZyYTVQUjZqSzdXVklHWWZ1NE1lTjZFX3BvRzJ1U3ZxTGszV01SRkFWenlkS1BqdTlpRUJTZmdya3A5NUk1c3J3SFV0dWV3NGhxQzhzdmkzc2lLVEJ5TzFmOGhIRDJDVEx2N2hleWxoWEh1NXE?oc=5\" target=\"_blank\">Police investigating $11.4 million Nvidia cargo theft from Oakland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
-      "published": "2026-11-04T16:58:44+00:00",
-      "source": "The Mercury News"
-    },
-    {
-      "title": "NVIDIA DLSS 5 Arrives in Hogwarts Legacy, War Thunder, and Where Winds Meet, Promising Impressive Performance Boost - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQkRNbXNmT1MxVGZFSURTYTNvU3NHZVU2VGJoamtkUkdfa01fVmRpUVVUQlo4Q1ROUUtCV1FNRk9LYWlNaHZEZzh5V0FiM0t1ZVJVNHY5cHF2ZlBBalhWODVNWThQNDBYQ3p6SU9Melk5STFzdXFzS1FMYkFFWWQ2NnA1RDFiY3VoZGhST2hkLWl5X3VWdVZxYko2OWdxQ1hjU0lpdGdZRGFBSndmTHB6TzlTTnQ5R3dDa2dSbzZUMzV5Q3ZqM2lfREVjRTBoUVl0SEVlaEtialI2bGJ6TXROQtIB5gFBVV95cUxQbGF6elEzc051eUN1X2t0TWhZT3lJSno3TXRFVlF6ZWFXMXVoeFpVZjJ3ZXdOellIeHhTV3M1a3lUNVBaME40SFpZVVZQdVlCZG5BcFdUajM1b2Y3YmMxY2djMGZYZWsxS0Fxbi1yb2Z2eDNVcDMtS1lYc2RnMUFnUGY0a1FmVmdIV2JCbVBacDM2SkhVdXFOT3JudG14T1lrUXkyNkpxTlpqMFBLNlUxLXBxQm80bHhHQkFRejFEVmFMbE85d2VWSTF6amJNNl9tZUdMeS1oRVd0WEtYTTlqTFktb09Ydw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQkRNbXNmT1MxVGZFSURTYTNvU3NHZVU2VGJoamtkUkdfa01fVmRpUVVUQlo4Q1ROUUtCV1FNRk9LYWlNaHZEZzh5V0FiM0t1ZVJVNHY5cHF2ZlBBalhWODVNWThQNDBYQ3p6SU9Melk5STFzdXFzS1FMYkFFWWQ2NnA1RDFiY3VoZGhST2hkLWl5X3VWdVZxYko2OWdxQ1hjU0lpdGdZRGFBSndmTHB6TzlTTnQ5R3dDa2dSbzZUMzV5Q3ZqM2lfREVjRTBoUVl0SEVlaEtialI2bGJ6TXROQtIB5gFBVV95cUxQbGF6elEzc051eUN1X2t0TWhZT3lJSno3TXRFVlF6ZWFXMXVoeFpVZjJ3ZXdOellIeHhTV3M1a3lUNVBaME40SFpZVVZQdVlCZG5BcFdUajM1b2Y3YmMxY2djMGZYZWsxS0Fxbi1yb2Z2eDNVcDMtS1lYc2RnMUFnUGY0a1FmVmdIV2JCbVBacDM2SkhVdXFOT3JudG14T1lrUXkyNkpxTlpqMFBLNlUxLXBxQm80bHhHQkFRejFEVmFMbE85d2VWSTF6amJNNl9tZUdMeS1oRVd0WEtYTTlqTFktb09Ydw?oc=5\" target=\"_blank\">NVIDIA DLSS 5 Arrives in Hogwarts Legacy, War Thunder, and Where Winds Meet, Promising Impressive Performance Boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
-      "published": "2026-11-04T09:57:16+00:00",
-      "source": "TechPowerUp"
+      "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5\" target=\"_blank\">Trump bought up to $265,000 of Nvidia stock in September, disclosure shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-19T18:37:35+00:00",
+      "source": "Reuters"
     }
   ],
   "product_launches": [
     {
-      "title": "Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland - Microsoft UK Stories",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU29BNnZZV19UdXU2dlFtUElSc1F6cFQ0SWJrWHJmNWFia0FraVN3YlRjY255LVc0ejE3T2NfX2ZJazBjTXNqbmdJR05KN3Q5dEhJWl8tOG80MXpLQkNLYjdDaE85djd4RzYzdHgxLXFCSk5yTG5YeVdPTGlYdjRKdlJwcmxMX19rLTB4S0FNV2hmNlYtMHVQTE9wczJqbkdIUTJkYm5PcmdzUXlOTHJmaWRya1hKeHZxTHZ2MEFrdkREd0NTTE5pLW0yN1NGSUE5R1FvRmpKc1NlZmtyQmJiMGU2akhjbkhvSWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU29BNnZZV19UdXU2dlFtUElSc1F6cFQ0SWJrWHJmNWFia0FraVN3YlRjY255LVc0ejE3T2NfX2ZJazBjTXNqbmdJR05KN3Q5dEhJWl8tOG80MXpLQkNLYjdDaE85djd4RzYzdHgxLXFCSk5yTG5YeVdPTGlYdjRKdlJwcmxMX19rLTB4S0FNV2hmNlYtMHVQTE9wczJqbkdIUTJkYm5PcmdzUXlOTHJmaWRya1hKeHZxTHZ2MEFrdkREd0NTTE5pLW0yN1NGSUE5R1FvRmpKc1NlZmtyQmJiMGU2akhjbkhvSWc?oc=5\" target=\"_blank\">Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft UK Stories</font>",
-      "published": "2026-11-03T08:02:16+00:00",
-      "source": "Microsoft UK Stories"
-    },
-    {
-      "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVjJaWWVnN3FsV2ZrdlVrSTRuVEE2V0JWZHJRQ2loQ1czLVdiWXpvQkYxLTU2R0U4VVhkMGNZblBRZ0hyY1pnbXVZMXAzdmN0LXdRTDNSSXpwNmhSaHRzR09wN1kxendGLVRWQm9CTkJmZ2stRUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVjJaWWVnN3FsV2ZrdlVrSTRuVEE2V0JWZHJRQ2loQ1czLVdiWXpvQkYxLTU2R0U4VVhkMGNZblBRZ0hyY1pnbXVZMXAzdmN0LXdRTDNSSXpwNmhSaHRzR09wN1kxendGLVRWQm9CTkJmZ2stRUE?oc=5\" target=\"_blank\">NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
-      "published": "2026-10-21T07:00:00+00:00",
+      "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTVZQdUtmWUZoalpDUWVYQWNpdVV0MFdfM3FDWk4xTjFYQjRqZHBXN2hiSUlGR28ySjJPUEx0UUFGR3E1aGc0R1V0Y3R2c1RBVXRQMExSNUV2RVFIb3U2U2dsQm42eW0wTFppQVIxUVFVOVdpT2pabF9XVFl3NWczU1VTcUIzc1VmNC0wOUdfbVYxZGZHTFVIdWRCWklDOGpNeDg5akNBcUlsVEY5cE1KMnBSZG5ITGdrRDNHSjhwTi1DNVNrX1lwazZqUlB5WEJzMFAtQjRXNk1Jc1VKclRTNzcyV2ZGbEd6QUV6RU9ZWk9xV2FDU3ZDd2VBUVdHblBfMGFwUmZ5OGRtUzhTbGpTRFE4dHFvNnltTEZUNnJObHo5Ui1wOTUycDBTcGdDQzJOMVhRVG4yY1d0VUhZOVdNNnlKRDlyeWd5ZnR4VHRBNEhrWWZBMS1J?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTVZQdUtmWUZoalpDUWVYQWNpdVV0MFdfM3FDWk4xTjFYQjRqZHBXN2hiSUlGR28ySjJPUEx0UUFGR3E1aGc0R1V0Y3R2c1RBVXRQMExSNUV2RVFIb3U2U2dsQm42eW0wTFppQVIxUVFVOVdpT2pabF9XVFl3NWczU1VTcUIzc1VmNC0wOUdfbVYxZGZHTFVIdWRCWklDOGpNeDg5akNBcUlsVEY5cE1KMnBSZG5ITGdrRDNHSjhwTi1DNVNrX1lwazZqUlB5WEJzMFAtQjRXNk1Jc1VKclRTNzcyV2ZGbEd6QUV6RU9ZWk9xV2FDU3ZDd2VBUVdHblBfMGFwUmZ5OGRtUzhTbGpTRFE4dHFvNnltTEZUNnJObHo5Ui1wOTUycDBTcGdDQzJOMVhRVG4yY1d0VUhZOVdNNnlKRDlyeWd5ZnR4VHRBNEhrWWZBMS1J?oc=5\" target=\"_blank\">NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-11-16T16:04:02+00:00",
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "Nvidia launches new chip to bring AI directly to personal computers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5\" target=\"_blank\">Nvidia launches new chip to bring AI directly to personal computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-06-01T07:00:00+00:00",
-      "source": "Reuters"
+      "title": "System76 Thelio Prime Launches With 600W Supply Below NVIDIA's 650W RTX 5070 Requirement - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkZiVEtUNVFaa1hVNnVqMVRCSEZodFB1bTNFMFQxVHU5SURodUEwYkE5RXUwTlR4VFE5YmxKRTJpT2J2MkxvdGtMSHF5STB3Rk5OWVJ5SnluWThWNUU4T050cFBGNE9CUXdCaTczZG9uS1JaVlByb3B3RzBQZURxeVNUNFowWUg4OFdrTmRuTUUzNVdQZjFGR0lRcWVkWE5hR1k1d0x6ZDRHRlVlellISDI4MW91SzNOdWRjcGdnekhtZXVnZ19FaEJHckgyUEdRMlg4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkZiVEtUNVFaa1hVNnVqMVRCSEZodFB1bTNFMFQxVHU5SURodUEwYkE5RXUwTlR4VFE5YmxKRTJpT2J2MkxvdGtMSHF5STB3Rk5OWVJ5SnluWThWNUU4T050cFBGNE9CUXdCaTczZG9uS1JaVlByb3B3RzBQZURxeVNUNFowWUg4OFdrTmRuTUUzNVdQZjFGR0lRcWVkWE5hR1k1d0x6ZDRHRlVlellISDI4MW91SzNOdWRjcGdnekhtZXVnZ19FaEJHckgyUEdRMlg4?oc=5\" target=\"_blank\">System76 Thelio Prime Launches With 600W Supply Below NVIDIA's 650W RTX 5070 Requirement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+      "published": "2026-11-19T00:44:27+00:00",
+      "source": "Tech Times"
     },
     {
       "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
@@ -91,48 +84,55 @@
       "source": "NVIDIA Newsroom"
     },
     {
-      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories - NVIDIA Blog",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRnV4OW9vM1I1cDRTNnJOMzVhMnBaWGtXNVV1V0wyM2VxNzBid3JFbjI3NUgyUDFLX1NYTm14ZVRrUnpZSlZlQkYxWmxWOEFOdkotZU5jSlJ5Q2xaaDVsdE5rWU9LbkhzbmRDVnZmTGQ3QUg4Q3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRnV4OW9vM1I1cDRTNnJOMzVhMnBaWGtXNVV1V0wyM2VxNzBid3JFbjI3NUgyUDFLX1NYTm14ZVRrUnpZSlZlQkYxWmxWOEFOdkotZU5jSlJ5Q2xaaDVsdE5rWU9LbkhzbmRDVnZmTGQ3QUg4Q3c?oc=5\" target=\"_blank\">NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Blog</font>",
-      "published": "2026-09-21T07:00:00+00:00",
-      "source": "NVIDIA Blog"
+      "title": "CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3ZYd1UtSDd3UDlzNHJoalc4eGw2SG9tRWVoem91MmNfMWNhS0RRUHRzYlFjRnpqZUNmMVJzd1YydDlMbEtCRmN3dlpadXV5UnZxMkNPcVZHTWVKb1JOekpQdGtqdzJ2aDJqRmt1MW40amxHNllRRTV5cGZMOXdwNFlGUGRGODc2LUE?oc=5\" target=\"_blank\">CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "published": "2026-01-09T08:00:00+00:00",
+      "source": "Business Insider"
+    },
+    {
+      "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTUpOczZMZ2dSY1ZLS01kYy05UWlwOEl4bzBYZy1hSExta1BBaGlTa012YU45SUV5ZklzXzg2dFoyc0FSZmg4c2YtNWVvbjNCbkdGWE0zamRuU255UWtwczBHOV90NU9POExjME1NcnZnMlU0Z1hTLWlVU3oxZmFIV0xTRUVPX1lvZWF4R2Q5N1NmSUltU3VEc29MTERnYVNETTJQQWs3T0QxMlJvY3VlYWcwODdBbW9hRTJyZGM3ZFA5MnhMR2p5N0w1NFlRVGZsUVlWWQ?oc=5\" target=\"_blank\">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "published": "2026-04-14T07:00:00+00:00",
+      "source": "NVIDIA Newsroom"
     }
   ],
   "stock": {
     "ticker": "NVDA",
     "currency": "USD",
     "latest": {
-      "date": "2026-11-04",
-      "close": 203.14500427246094
+      "date": "2026-11-19",
+      "close": 148.3800048828125
     },
     "history": [
       {
-        "date": "2026-10-27",
-        "close": 217.94000244140625
+        "date": "2026-11-11",
+        "close": 173.72999572753906
       },
       {
-        "date": "2026-10-28",
-        "close": 215.3800048828125
+        "date": "2026-11-12",
+        "close": 166.19000244140625
       },
       {
-        "date": "2026-10-29",
-        "close": 213.66000366210938
+        "date": "2026-11-13",
+        "close": 162.85000610351562
       },
       {
-        "date": "2026-10-30",
-        "close": 204.63999938964844
+        "date": "2026-11-16",
+        "close": 156.13999938964844
       },
       {
-        "date": "2026-11-02",
-        "close": 202.05999755859375
+        "date": "2026-11-17",
+        "close": 155.4600067138672
       },
       {
-        "date": "2026-11-03",
-        "close": 206.69000244140625
+        "date": "2026-11-18",
+        "close": 150.9600067138672
       },
       {
-        "date": "2026-11-04",
-        "close": 203.14500427246094
+        "date": "2026-11-19",
+        "close": 148.3800048828125
       }
     ],
     "name": "NVIDIA Corporation"
