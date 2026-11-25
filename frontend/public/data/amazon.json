@@ -2,73 +2,66 @@
   "name": "Amazon",
   "slug": "amazon",
   "ticker": "AMZN",
-  "fetched_at": "2026-11-24T21:42:56.528117+00:00",
+  "fetched_at": "2026-11-25T20:50:49.562338+00:00",
   "news": [
     {
-      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qWUtZX1p5dVJja3JzN1l2Q1p3VFc2UF9wSEhpNFJqQWZ0ZjJEWkFNV25HR1dLNDJLSXpDckRMN19JZWk5QWhFRGR3YWlwQWtDSDBaSjZLRTI4ZjVmZTFTUUpIOHM1Qm5uSURj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5qWUtZX1p5dVJja3JzN1l2Q1p3VFc2UF9wSEhpNFJqQWZ0ZjJEWkFNV25HR1dLNDJLSXpDckRMN19JZWk5QWhFRGR3YWlwQWtDSDBaSjZLRTI4ZjVmZTFTUUpIOHM1Qm5uSURj?oc=5\" target=\"_blank\">Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-      "published": "2026-11-24T14:22:00+00:00",
+      "title": "Exclusive: Meta and Amazon discuss ending Muse shopping bot blockade, as ads, search emerge as key issues - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFZrb3pJUHc3MGFvSnI5cV9GSE40UnhHQU9uRDB2MHlYNnZIVk9JX3lhdEsxXzlNaTg1OFhSN0FBdG9UcGJ4MUVLQjlYM015bXZUWXpQdzA5Tnd1czQ3a2lzN05NV0ZUSkx1VWdhakF4WGJxb3NxQmxWaXNVelFiTWlZRjNlN1ZiWkE1SEZTY3JRa1RWRlJUQVpMYVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFZrb3pJUHc3MGFvSnI5cV9GSE40UnhHQU9uRDB2MHlYNnZIVk9JX3lhdEsxXzlNaTg1OFhSN0FBdG9UcGJ4MUVLQjlYM015bXZUWXpQdzA5Tnd1czQ3a2lzN05NV0ZUSkx1VWdhakF4WGJxb3NxQmxWaXNVelFiTWlZRjNlN1ZiWkE1SEZTY3JRa1RWRlJUQVpMYVU?oc=5\" target=\"_blank\">Exclusive: Meta and Amazon discuss ending Muse shopping bot blockade, as ads, search emerge as key issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "published": "2026-11-25T08:01:00+00:00",
+      "source": "Fortune"
+    },
+    {
+      "title": "Amazon and Meta are negotiating the future of AI shopping. Consumers aren't quite there yet. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU19jRHZ4WVFEZFZDcXo1OC02WUhsYVByc1VCeWRLVzRyMFluLW1zOHJtWEV2SDRJR1NCc3BVaWZoQWM3Y014OE1KdjV3blR1TlhJUkUxZFdYdnE0OTQ1TS1LcXA5S3NNRS1idFBpR1pYZktmbTlZNjJubHEtUlJOelZwcTlENEI3dmZ4SkV3Q1JpS05LWlduVDNfQlU3LTdmQWlxcW5FRDNjMFNqenFrWnlkNzFnZEw0Tng1NXA4OEEybmt0ZVlFOHBLajBVNnRJc3pNZjIzaXF6ZHlydDBuQnJiUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU19jRHZ4WVFEZFZDcXo1OC02WUhsYVByc1VCeWRLVzRyMFluLW1zOHJtWEV2SDRJR1NCc3BVaWZoQWM3Y014OE1KdjV3blR1TlhJUkUxZFdYdnE0OTQ1TS1LcXA5S3NNRS1idFBpR1pYZktmbTlZNjJubHEtUlJOelZwcTlENEI3dmZ4SkV3Q1JpS05LWlduVDNfQlU3LTdmQWlxcW5FRDNjMFNqenFrWnlkNzFnZEw0Tng1NXA4OEEybmt0ZVlFOHBLajBVNnRJc3pNZjIzaXF6ZHlydDBuQnJiUQ?oc=5\" target=\"_blank\">Amazon and Meta are negotiating the future of AI shopping. Consumers aren't quite there yet.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-11-25T14:42:15+00:00",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHFMME9sY3NJajRoUmFLeXBMMEd5TkZWRkpMTkdKU1c1aUo5RnVxNjBmdHY5VkdQLUVKZDY2cTNqek1HVDVTWkJYSEhmellKWk9fNGQ2SW1OcnYxNWFZaWRxb05qQTJPbFd3WW5sOFFCU3hPaTFlSUJVdWdQWE9ySnQ5a3NfbFZIUVM5UlR2d1R1ZkFOLXNycTVFX3NIa05FaGd0UTZibw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHFMME9sY3NJajRoUmFLeXBMMEd5TkZWRkpMTkdKU1c1aUo5RnVxNjBmdHY5VkdQLUVKZDY2cTNqek1HVDVTWkJYSEhmellKWk9fNGQ2SW1OcnYxNWFZaWRxb05qQTJPbFd3WW5sOFFCU3hPaTFlSUJVdWdQWE9ySnQ5a3NfbFZIUVM5UlR2d1R1ZkFOLXNycTVFX3NIa05FaGd0UTZibw?oc=5\" target=\"_blank\">Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+      "published": "2026-11-25T14:10:18+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEtzNzh2NUdSdE41Yi1FYUY2Unk4Q3Z6bGlrb1UxVkxScVV5cmJzRmNZaUp4VFhCSEUwcWNOVHM2aUU3LVByVG81UEhHSFBnWWlmbnFqbC10QzhmVW5JMk84Y0RiVXpvZ3dUWElUNWVnWFBYZEN6Nk8xMVFHWlVPOUxPYi1MdHFSa3NXeVJ0ck9RdHVWYTdXSVJHZzBTZ3lNdFdzUU03MzFjaThMREZxaDUwdm8wQ2JjM25UNlR1ODlOb2c0Vk9DRHRKR3Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEtzNzh2NUdSdE41Yi1FYUY2Unk4Q3Z6bGlrb1UxVkxScVV5cmJzRmNZaUp4VFhCSEUwcWNOVHM2aUU3LVByVG81UEhHSFBnWWlmbnFqbC10QzhmVW5JMk84Y0RiVXpvZ3dUWElUNWVnWFBYZEN6Nk8xMVFHWlVPOUxPYi1MdHFSa3NXeVJ0ck9RdHVWYTdXSVJHZzBTZ3lNdFdzUU03MzFjaThMREZxaDUwdm8wQ2JjM25UNlR1ODlOb2c0Vk9DRHRKR3Y?oc=5\" target=\"_blank\">Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-25T06:04:00+00:00",
+      "source": "Reuters"
+    },
+    {
+      "title": "Amazon Autos Plans to Launch Services in U.K. in Early 2027 - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2pVMDVTbmVZOHkwaGZ0d1dHVEVObExKaTJMaVFIb1dfdGZHQ0N5WWotVzNreXhoMWs4SWphNHlYT29zU3RIbHdnZF91SGswdTdlcUtUN20yRW1OZFk3Z2swZGgxYlF5eEwxVmEwbVVsRHVIV1lHdWt3ZzU5VjlXMkFFNW43MXVPcHRpVnJ1eldNUi00Y2wyZU14STQwQ2JsU0pRYg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2pVMDVTbmVZOHkwaGZ0d1dHVEVObExKaTJMaVFIb1dfdGZHQ0N5WWotVzNreXhoMWs4SWphNHlYT29zU3RIbHdnZF91SGswdTdlcUtUN20yRW1OZFk3Z2swZGgxYlF5eEwxVmEwbVVsRHVIV1lHdWt3ZzU5VjlXMkFFNW43MXVPcHRpVnJ1eldNUi00Y2wyZU14STQwQ2JsU0pRYg?oc=5\" target=\"_blank\">Amazon Autos Plans to Launch Services in U.K. in Early 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "published": "2026-11-25T07:32:00+00:00",
       "source": "WSJ"
     },
     {
-      "title": "Amazon drone crashes into garage after delivering shampoo - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43NTg2TXltdXBlMGFXcXJOT1d0NnU2RUFMYnJhcVNVbVNwaGl1YWhfTHRZUXBxOU9ydkZzVXFaR2hRTm5PbUQ2ejNyQmREOUFDWXhyWndNU01aSlRXZUY0Q3gwaHY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE43NTg2TXltdXBlMGFXcXJOT1d0NnU2RUFMYnJhcVNVbVNwaGl1YWhfTHRZUXBxOU9ydkZzVXFaR2hRTm5PbUQ2ejNyQmREOUFDWXhyWndNU01aSlRXZUY0Q3gwaHY?oc=5\" target=\"_blank\">Amazon drone crashes into garage after delivering shampoo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-11-23T23:27:33+00:00",
+      "title": "Amazon Targets UK Car Buyers Being Reeled In by Chinese Brands - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHZqNGJKbm03MGllbE5mdktQWFF2WVcyb0ppS0hlVUZkaHozblVHRXJNLTFfZmRIdWxWQWJiNDV6Mk03cFNxbWNIX3ExSVhSUnpTSDJ0eEVMSmVUU1g0MGFuNGs2UVhiNWZ6UHdoZHRTdHc2UVphRnBRbmJ1OG02M2t4WGRhdW0wODEyWEh2NEpTZ205RGlieUhxT1Q4c3ZLRGs4aVc3SEZ5c3RWLWU4T2NIaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHZqNGJKbm03MGllbE5mdktQWFF2WVcyb0ppS0hlVUZkaHozblVHRXJNLTFfZmRIdWxWQWJiNDV6Mk03cFNxbWNIX3ExSVhSUnpTSDJ0eEVMSmVUU1g0MGFuNGs2UVhiNWZ6UHdoZHRTdHc2UVphRnBRbmJ1OG02M2t4WGRhdW0wODEyWEh2NEpTZ205RGlieUhxT1Q4c3ZLRGs4aVc3SEZ5c3RWLWU4T2NIaw?oc=5\" target=\"_blank\">Amazon Targets UK Car Buyers Being Reeled In by Chinese Brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "published": "2026-11-25T11:20:52+00:00",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "I found the 86 best Amazon Black Friday deals on AirPods, Dyson vacuums and more - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tTFNyX3ZxMWFaazNSU2FBaGdtNE9YNTZzUGgzcGNGZW9ZQ3A3ZmhCaTZ2RjNmOEZTcWJfczY5MjRSeFRGcXFHZVR4Qk02cXNTekVtYkE4SjV5R1RXNmx0WlhtTHlUNHg5U3FCTk1ORllFVWJNck5XUURVX3Q?oc=5",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1tTFNyX3ZxMWFaazNSU2FBaGdtNE9YNTZzUGgzcGNGZW9ZQ3A3ZmhCaTZ2RjNmOEZTcWJfczY5MjRSeFRGcXFHZVR4Qk02cXNTekVtYkE4SjV5R1RXNmx0WlhtTHlUNHg5U3FCTk1ORllFVWJNck5XUURVX3Q?oc=5\" target=\"_blank\">I found the 86 best Amazon Black Friday deals on AirPods, Dyson vacuums and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQMklVWTJpbDJIaHRBQi1DQ2s4OUIxLUpYbVdJRVRfUHZHN0ZBLVAwcTVCUWpZUW9YUmpGbnJFUnVOMmYydHJhZF9OSEZBV1lEcnRCekNQdUtoNXY4Zkp3UzI2eklrZVA2MW5LbEtObUtJS1pJREw0V0VPV0FMQ2hhNTlUY2tMM0NBWEVaUThxa2Nmc2lRR2Rja1ZMeXFaTXIyQnQzS1F0SjJRVm00SlNLZWxoNHl5ZGh0S2FyWHFqT0VvZ0ZaV05pdDM1RHlqbHUxNl9FTmx2bEdiU3J4QXg1NlR0MllHUVZuY2dCWTVWMXdPVWZOc1RKX3VmOFNoYU9JVjVmVk9qSFFRUjhnTENaNzJfUGx4UV9ubTBfSVQ3bGhqUQ?oc=5\" target=\"_blank\">Amazon Black Friday deals: Live updates on the biggest sales from Apple, Yeti, Ninja, Ring, KitchenAid and more during Cyber Week 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWFzajNUcS0tRzJIdzIwZDcyS19QMlhveE1XT3J4MjlTd0tfa2JXdFE3SFI3YlVRclNvN2stY3NmLVdsaWp5eVhFZ2hPa3lTY01wUG01Y3FJNGdiQjdfc25NbFpzYU5oQ3Q2aW41Ml9yUW9SX2xtVm1RZW1laHFkdk9IMmNBRXFzVFk0eGdpZ2IwS095NHpkaVBTMTZLdURxdnVqV1dieWtZWnJXcWc?oc=5\" target=\"_blank\">I found the 10 best skincare deals on Amazon for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li></ol>",
+      "published": "2026-11-25T20:45:00+00:00",
       "source": "CNN"
     },
     {
-      "title": "Amazon drone delivering shampoo snags on wire and tumbles onto Michigan man’s garage roof - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGJLZEhNaFE2OV8zY09jQ0xzaVQ1bS1DeHVSRG5Pd1pDN21Makh6WkxIaXB6aWdEbHZERjQ4b0lnWG1hOUcycEZfQTV3Q2ZtdjRuck4wLXVLTFVlZ1l5YUR1T3lQcVRSaHZ4bnBpWGdNenpud1NiM1ZVSHctekdMVlF3V2tWYlduUjdWZWY4SVo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGJLZEhNaFE2OV8zY09jQ0xzaVQ1bS1DeHVSRG5Pd1pDN21Makh6WkxIaXB6aWdEbHZERjQ4b0lnWG1hOUcycEZfQTV3Q2ZtdjRuck4wLXVLTFVlZ1l5YUR1T3lQcVRSaHZ4bnBpWGdNenpud1NiM1ZVSHctekdMVlF3V2tWYlduUjdWZWY4SVo?oc=5\" target=\"_blank\">Amazon drone delivering shampoo snags on wire and tumbles onto Michigan man’s garage roof</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-      "published": "2026-11-24T00:34:00+00:00",
-      "source": "NBC News"
-    },
-    {
-      "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhObjFzYktRYW1pU3h1YjJ4UTVndlVVQjRzODlJaWZUTzNEdVMxdjR2NTVPblRCX3Y2cG1XeUlUVktaS3p2clpTRk5IZFNnS1dfQmFaVmVybHF2NG5CRERGOHA2NC1MYVY2TTlQSHBTbnNBc0JjVjY4a2haVXNHeHhUc082SjkxZURBLVZqbGo0TmNCWU5ld3lyM0lZZnRlZnNud0kwSXdiUmpQWHZqYWpneVdqTXM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhObjFzYktRYW1pU3h1YjJ4UTVndlVVQjRzODlJaWZUTzNEdVMxdjR2NTVPblRCX3Y2cG1XeUlUVktaS3p2clpTRk5IZFNnS1dfQmFaVmVybHF2NG5CRERGOHA2NC1MYVY2TTlQSHBTbnNBc0JjVjY4a2haVXNHeHhUc082SjkxZURBLVZqbGo0TmNCWU5ld3lyM0lZZnRlZnNud0kwSXdiUmpQWHZqYWpneVdqTXM?oc=5\" target=\"_blank\">FAA opens probe after Amazon delivery drone clips cable, crashes into garage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-11-23T08:00:00+00:00",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Amazon Black Friday 2026 live updates: Best deals today, Nov. 24 - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDAyRTlMYnZwdFllWThNSWNGQXR1d0gwLWFBcEJFbTlIU3BMSjNVNW5uOXJNQzczVzFEdU4zNWR6Y1NNd1dSV0hEYVd1aEpyZ0kyTTFnLVItVVRRbDM4SWxLUWF3NU41MWRWMmZXbDVHcklMb0VDWm5UNFFxbXF2cmdaNTk1YkxRYVBhSTFPN2NMYXd6cTJXdDBvNDZsVGw2VUctU1p3NmxwY3dqbHd4YXJWUThCN2hjWEhUXzV2TXdscUNVOUxJMWNSV3lHLVJqalhhag?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDAyRTlMYnZwdFllWThNSWNGQXR1d0gwLWFBcEJFbTlIU3BMSjNVNW5uOXJNQzczVzFEdU4zNWR6Y1NNd1dSV0hEYVd1aEpyZ0kyTTFnLVItVVRRbDM4SWxLUWF3NU41MWRWMmZXbDVHcklMb0VDWm5UNFFxbXF2cmdaNTk1YkxRYVBhSTFPN2NMYXd6cTJXdDBvNDZsVGw2VUctU1p3NmxwY3dqbHd4YXJWUThCN2hjWEhUXzV2TXdscUNVOUxJMWNSV3lHLVJqalhhag?oc=5\" target=\"_blank\">Amazon Black Friday 2026 live updates: Best deals today, Nov. 24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-      "published": "2026-11-24T21:11:00+00:00",
-      "source": "USA Today"
-    },
-    {
-      "title": "Amazon’s Black Friday sale is live with thousands of deals. These 70 are the best - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RS3FNSWZ6amVKUnRIOFYtN0thZTZCUFVPeUJCc3FLaUVlT09QeEZBczVMTU5PRzI1STFTdHZvN1hwUEdnaUhXVzl0WVJCeGlZTVFkYVVkNFVMQmczS3NOY1NxYWtNeFdnTWxlUjRNQ3JtSGlCUXU2U05JX2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5RS3FNSWZ6amVKUnRIOFYtN0thZTZCUFVPeUJCc3FLaUVlT09QeEZBczVMTU5PRzI1STFTdHZvN1hwUEdnaUhXVzl0WVJCeGlZTVFkYVVkNFVMQmczS3NOY1NxYWtNeFdnTWxlUjRNQ3JtSGlCUXU2U05JX2M?oc=5\" target=\"_blank\">Amazon’s Black Friday sale is live with thousands of deals. These 70 are the best</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "published": "2026-11-24T21:35:00+00:00",
-      "source": "CNN"
-    },
-    {
-      "title": "Amazon says hackers’ AI agents found and exploited 0-day with little human input - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEl5b3ZJMXBEYm5sS0J6cWR4WUhtUnYzaXV1emJQSFFDdERIVTMyVmdPVnpHaV9ubVJDUTVBa3NQOVFlcXBDQjJiWkQyVmJ0X3hxamd1MEFfWC1sZHE4RmVIRy1tUnBMMHBrdXpOMnVoX1JEXzRrVGthRkQtRlI0dFh0VHBSX0t3STlmRFRGbGd2azlMSjlxbnA3Y3lhbWNBWFRwSHN0NjVfbHBPSEVsdWRtNUR5Y1ZtcGJkRHF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEl5b3ZJMXBEYm5sS0J6cWR4WUhtUnYzaXV1emJQSFFDdERIVTMyVmdPVnpHaV9ubVJDUTVBa3NQOVFlcXBDQjJiWkQyVmJ0X3hxamd1MEFfWC1sZHE4RmVIRy1tUnBMMHBrdXpOMnVoX1JEXzRrVGthRkQtRlI0dFh0VHBSX0t3STlmRFRGbGd2azlMSjlxbnA3Y3lhbWNBWFRwSHN0NjVfbHBPSEVsdWRtNUR5Y1ZtcGJkRHF3?oc=5\" target=\"_blank\">Amazon says hackers’ AI agents found and exploited 0-day with little human input</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-11-24T12:30:05+00:00",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Could a City Council Bill Really Raise Amazon Prices by $5? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkVpVVREbGZnVTJKeGY2QW1qaDM4bUdEUnZMZnhlWkN4ZWhQNnh6VHNRX3BuaTJaTjhXaEFfeVdxeDlEZzVJN055TWJkZm5rU19YeHkzVXZWM3prMUY4U2ZMbV80N0tuVUxCSXc5ZWtVUTFSNUtiUktsNWl2N0JxcA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkVpVVREbGZnVTJKeGY2QW1qaDM4bUdEUnZMZnhlWkN4ZWhQNnh6VHNRX3BuaTJaTjhXaEFfeVdxeDlEZzVJN055TWJkZm5rU19YeHkzVXZWM3prMUY4U2ZMbV80N0tuVUxCSXc5ZWtVUTFSNUtiUktsNWl2N0JxcA?oc=5\" target=\"_blank\">Could a City Council Bill Really Raise Amazon Prices by $5?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "published": "2026-11-23T23:47:58+00:00",
-      "source": "The New York Times"
+      "title": "Amazon delivery drone crashes onto garage after hitting cable - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVQzaUZZVDFGSUpNU1Q3SV94OTVELXdHSl9CZU5rY0ZkcUtqWlNZYVVINzJPejQxV2pRQmFhWmNWX3J5NXNiaHRDby11S2ExUklaUjZyVXRFdTB1VjZlNXVOTFFPcU01dGttSTlrWGYxbzBxTzhzR1dfNGRkLVlmNFdZaFlnQWk0NUJULWxUMm5yNldmSTcxS3RwWTZ4d0F5dHfSAacBQVVfeXFMT181QWNuaFdrcEZMQnk1MF96bnRpU2ItczJ0bGNXbnNjS3dpcmw4bGNlUU5DMUloNC1laF9wUlFIb1dkNHh5MXQwWHAzVC1DUkhJaDhvcG5IT09xdFUtTlZYUzlpdngwc20yRl9IU2d0TWJ5eV9kcmR5aDlWekdJNy1WcGlKV0Z0Z3hQZFo5OXBJdVRLdlZybDd0MmZGQWFrS29QSUdXYW8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVQzaUZZVDFGSUpNU1Q3SV94OTVELXdHSl9CZU5rY0ZkcUtqWlNZYVVINzJPejQxV2pRQmFhWmNWX3J5NXNiaHRDby11S2ExUklaUjZyVXRFdTB1VjZlNXVOTFFPcU01dGttSTlrWGYxbzBxTzhzR1dfNGRkLVlmNFdZaFlnQWk0NUJULWxUMm5yNldmSTcxS3RwWTZ4d0F5dHfSAacBQVVfeXFMT181QWNuaFdrcEZMQnk1MF96bnRpU2ItczJ0bGNXbnNjS3dpcmw4bGNlUU5DMUloNC1laF9wUlFIb1dkNHh5MXQwWHAzVC1DUkhJaDhvcG5IT09xdFUtTlZYUzlpdngwc20yRl9IU2d0TWJ5eV9kcmR5aDlWekdJNy1WcGlKV0Z0Z3hQZFo5OXBJdVRLdlZybDd0MmZGQWFrS29QSUdXYW8?oc=5\" target=\"_blank\">Amazon delivery drone crashes onto garage after hitting cable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "published": "2026-11-24T17:40:00+00:00",
+      "source": "Fox Business"
     }
   ],
   "product_launches": [
-    {
-      "title": "8 Amazon Launch Agencies Compared for Established Brands - Impakter",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qdV84azV3TlVOOVRUbmpZdnYyVllFd3UxTF95ZUtkdjFpUWtIQzBINkhUa0tpYVZzeXcxLWJxMFhIWkRmM0tETloxeF9oQ3JXVGhXQW5ldjVkSTFxUHhlMV9NQTNrckdtVzc2VDhTeHRNMExoQnQ4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5qdV84azV3TlVOOVRUbmpZdnYyVllFd3UxTF95ZUtkdjFpUWtIQzBINkhUa0tpYVZzeXcxLWJxMFhIWkRmM0tETloxeF9oQ3JXVGhXQW5ldjVkSTFxUHhlMV9NQTNrckdtVzc2VDhTeHRNMExoQnQ4?oc=5\" target=\"_blank\">8 Amazon Launch Agencies Compared for Established Brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Impakter</font>",
-      "published": "2026-11-23T16:52:41+00:00",
-      "source": "Impakter"
-    },
     {
       "title": "Product Success Is a System: Jungle Scout's Sam Johnson Talks New Product Launches With Amazon - Jungle Scout",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFgtNGFtcUwwN3RZRjVrdXQ2bFBFZVNJMWRzcVpHVF9jdUxpM21MWXhDWmVLc21WRm9iWHVBblk0Rm1wNDhqRjdMZVJXa3VHcmNLbHF3dHdkbFMxd00zRTZZeThsOHlsekpvUG1GblB2UVRaa2Yta21kV3dzUWk3UFQwT1VHWXg5QU9jLVI2aFZsTVRzR0FJNVJwQ0tUZElPLUV5a0FRY21welJZalR2TUF2TXZ0SjRzTWo2VjNERTJHYkt3MTBLWV96OHp5N0tyeFFVdzdKYw?oc=5",
@@ -84,32 +77,35 @@
       "source": "Amazon Web Services"
     },
     {
-      "title": "Amazon Launches Product Carbon Footprinting Solution - ESG Today",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2UyTk52Rm94NVVfNlpjZXhMLXA5SVFIVTlCUnN2OHBYY2VCeVFGaGhmMThFbzhUclVDV0tkbll3bTZHQ0o0V3lyZTNXNHVoMW5KZzRTb3V2UUhxWTE4UlA2cHE3eURQOHFvWS1vSWNPSmd1RkE5eWtheUphMms4QTRtNC0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2UyTk52Rm94NVVfNlpjZXhMLXA5SVFIVTlCUnN2OHBYY2VCeVFGaGhmMThFbzhUclVDV0tkbll3bTZHQ0o0V3lyZTNXNHVoMW5KZzRTb3V2UUhxWTE4UlA2cHE3eURQOHFvWS1vSWNPSmd1RkE5eWtheUphMms4QTRtNC0?oc=5\" target=\"_blank\">Amazon Launches Product Carbon Footprinting Solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESG Today</font>",
-      "published": "2026-11-13T08:00:00+00:00",
-      "source": "ESG Today"
+      "title": "Amazon cuts 250 jobs in devices unit after flurry of new product launches - The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWlFUkdHQUlnNWk0SUc3Y2FGeGliVWg4alNYc0ltOF95ejljb2dVR0N1Nzktb25jd29XRjRMQW9QSUh4U1RsSnh5TWlndEJPQXZ4VnllSTl0Q1VtX05MaWRkQ295RGl0MThPeUlWbHY1UXd6OWt3Skp1TnpCZ044eHdwem5CMG5sMlk4bHNNNXc1SjR4S3VsT0ZoakZqaFc2Y0J1aUtzNWlEV0VyekZzNGFSN3BabEdjYmFMRUgtdGtjaVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWlFUkdHQUlnNWk0SUc3Y2FGeGliVWg4alNYc0ltOF95ejljb2dVR0N1Nzktb25jd29XRjRMQW9QSUh4U1RsSnh5TWlndEJPQXZ4VnllSTl0Q1VtX05MaWRkQ295RGl0MThPeUlWbHY1UXd6OWt3Skp1TnpCZ044eHdwem5CMG5sMlk4bHNNNXc1SjR4S3VsT0ZoakZqaFc2Y0J1aUtzNWlEV0VyekZzNGFSN3BabEdjYmFMRUgtdGtjaVU?oc=5\" target=\"_blank\">Amazon cuts 250 jobs in devices unit after flurry of new product launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Bazaar</font>",
+      "published": "2026-10-28T07:00:00+00:00",
+      "source": "The American Bazaar"
     },
     {
-      "title": "Motorola's Moto Tag 3 Surfaces on Amazon UK Before Any Official Launch - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WeWowNEp4SzduRDA1Mm1vNnRJSlgyd3R1N2toUTVWTFRySUFNcjJlV1FXT3FZZE9VR2duZ0x0QUo4a2o5dUNxOGlNVnN0VmhVLU5la3lETVVfa0N6bFBaQjlxTkloMlRZVGxVY29ieFlIU1ZYYnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5WeWowNEp4SzduRDA1Mm1vNnRJSlgyd3R1N2toUTVWTFRySUFNcjJlV1FXT3FZZE9VR2duZ0x0QUo4a2o5dUNxOGlNVnN0VmhVLU5la3lETVVfa0N6bFBaQjlxTkloMlRZVGxVY29ieFlIU1ZYYnc?oc=5\" target=\"_blank\">Motorola's Moto Tag 3 Surfaces on Amazon UK Before Any Official Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
-      "published": "2026-11-23T14:35:00+00:00",
-      "source": "BigGo Finance"
+      "title": "Everything announced at Amazon’s October 2026 hardware launch - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVJBenB2NXVUNGhVVlZGTTNCXzROSkRTakFzdTRiR21xWkpxU0VVNlRvR2d1ODFpSER0a2pZcTBldjFGVklSbm1VbHEyUWp1X3dmdEIzZjFLNDBVVjlkTlUtRHlpRnlOTnltRTJnV0RKLUZhWXpmRHBQV190VnJDYzliMDJuaUp6WFUwQVNWazNQTk1iVzNuanlyLWNpVlU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVJBenB2NXVUNGhVVlZGTTNCXzROSkRTakFzdTRiR21xWkpxU0VVNlRvR2d1ODFpSER0a2pZcTBldjFGVklSbm1VbHEyUWp1X3dmdEIzZjFLNDBVVjlkTlUtRHlpRnlOTnltRTJnV0RKLUZhWXpmRHBQV190VnJDYzliMDJuaUp6WFUwQVNWazNQTk1iVzNuanlyLWNpVlU?oc=5\" target=\"_blank\">Everything announced at Amazon’s October 2026 hardware launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+      "published": "2026-10-28T07:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon launches Branded Conversations at Unboxed 2026—what buyers think - Ad Age",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVN1Rl9WSFoxX2Rjb1BMWWNDWld1dkM4dzNwc2tjQTZZVUhQeFRpRkJoR0RuQVhpVm9Bajd0eGhGODVEeW9fMlFIa1pDWWo5SE5HVzB0djFHaVVaWW0xX29GdVJUZjNiM1JiTm8xaGVkNEx6T0xSTFl6MUMxYm4yMlZNSmpCMWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVN1Rl9WSFoxX2Rjb1BMWWNDWld1dkM4dzNwc2tjQTZZVUhQeFRpRkJoR0RuQVhpVm9Bajd0eGhGODVEeW9fMlFIa1pDWWo5SE5HVzB0djFHaVVaWW0xX29GdVJUZjNiM1JiTm8xaGVkNEx6T0xSTFl6MUMxYm4yMlZNSmpCMWM?oc=5\" target=\"_blank\">Amazon launches Branded Conversations at Unboxed 2026—what buyers think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad Age</font>",
+      "published": "2026-09-29T07:00:00+00:00",
+      "source": "Ad Age"
     }
   ],
   "stock": {
     "ticker": "AMZN",
     "currency": "USD",
     "latest": {
-      "date": "2026-11-24",
-      "close": 252.2899932861328
+      "date": "2026-11-25",
+      "close": 245.02999877929688
     },
     "history": [
-      {
-        "date": "2026-11-16",
-        "close": 257.75
-      },
       {
         "date": "2026-11-17",
         "close": 257.8900146484375
@@ -133,6 +129,10 @@
       {
         "date": "2026-11-24",
         "close": 252.2899932861328
+      },
+      {
+        "date": "2026-11-25",
+        "close": 245.02999877929688
       }
     ],
     "name": "Amazon.com, Inc."
