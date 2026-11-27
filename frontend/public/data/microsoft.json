@@ -2,7 +2,7 @@
   "name": "Microsoft",
   "slug": "microsoft",
   "ticker": "MSFT",
-  "fetched_at": "2026-11-26T20:42:09.716710+00:00",
+  "fetched_at": "2026-11-27T20:28:04.029402+00:00",
   "news": [
     {
       "title": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show - Reuters",
@@ -19,20 +19,6 @@
       "source": "The Verge"
     },
     {
-      "title": "Microsoft’s historic cloud outage exposed an engineering “fog of war” - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3N2cjRYc2MyZTh4cGdIbjB4a2dac0h2VG5TN21RdllmQjdhNHg2UWNsRVNpaGUyUmFibjkwT1JEOWx2WE5QTmtXYUk2SXR3Y2VsQ3NBRFYzOUlIOXp3cHZYV0pabktqQlBnaUttQlFZcVlMMU90SGphZjJuREVsSnBLZEJBd0tuY0VFY0lKRU1feUVpMm5pa2FrcnRrMTZrYjlpbjA1aldzRDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3N2cjRYc2MyZTh4cGdIbjB4a2dac0h2VG5TN21RdllmQjdhNHg2UWNsRVNpaGUyUmFibjkwT1JEOWx2WE5QTmtXYUk2SXR3Y2VsQ3NBRFYzOUlIOXp3cHZYV0pabktqQlBnaUttQlFZcVlMMU90SGphZjJuREVsSnBLZEJBd0tuY0VFY0lKRU1feUVpMm5pa2FrcnRrMTZrYjlpbjA1aldzRDg?oc=5\" target=\"_blank\">Microsoft’s historic cloud outage exposed an engineering “fog of war”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
-      "published": "2026-11-24T22:36:28+00:00",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Microsoft declares 'Code Red' after historic service outage - FOX 11 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkRpd0tZUG5BcUVyaWh3WjdmdTE2U29oUXJPc2w2VE5wNkxBb3M5NmIxS1g0bS04aS1TSmxMRmFOTFNTVHJfVmh1a1U4bVpvQjRRdVktelhzd3lEN1NfOTZxWXFnaEw5NmlBMWI3dGxEMjhFWk5kREw4RGdiU0h2Y3IxRGxyT1pQRWk4aA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONkRpd0tZUG5BcUVyaWh3WjdmdTE2U29oUXJPc2w2VE5wNkxBb3M5NmIxS1g0bS04aS1TSmxMRmFOTFNTVHJfVmh1a1U4bVpvQjRRdVktelhzd3lEN1NfOTZxWXFnaEw5NmlBMWI3dGxEMjhFWk5kREw4RGdiU0h2Y3IxRGxyT1pQRWk4aA?oc=5\" target=\"_blank\">Microsoft declares 'Code Red' after historic service outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 11 Los Angeles</font>",
-      "published": "2026-11-25T15:45:20+00:00",
-      "source": "FOX 11 Los Angeles"
-    },
-    {
       "title": "Microsoft Declares “Code Red” After Disastrous Outage, Thinks Deploying More AI Will Do the Trick - Futurism",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uUTY0Z01VeTgyMERpXzRfU2dIdmN3YWNXODV4TmROeGN5a3RZNG1DLVR6Z1R1cVU3eENkV050a3lVZjQyWXZ6dEE1MmlWRHBWUjA2UnY5dFIyTzViSm9SUXFOczJCdU1hcEZFZkc3bEgzaUxiWWlZcHFR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1uUTY0Z01VeTgyMERpXzRfU2dIdmN3YWNXODV4TmROeGN5a3RZNG1DLVR6Z1R1cVU3eENkV050a3lVZjQyWXZ6dEE1MmlWRHBWUjA2UnY5dFIyTzViSm9SUXFOczJCdU1hcEZFZkc3bEgzaUxiWWlZcHFR?oc=5\" target=\"_blank\">Microsoft Declares “Code Red” After Disastrous Outage, Thinks Deploying More AI Will Do the Trick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>",
@@ -40,34 +26,48 @@
       "source": "Futurism"
     },
     {
-      "title": "Satya Nadella Says “the Floor of Cyber Attacks Has Fallen.” Microsoft Just Declared Code Red After a 24-Hour Outage - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlp1UFo5QlNzZUJCTGlNNk9tRWdCMFhlM1ZUR1RmQWRUV0xiYUxPRHJSZGg2T29QMlBRMDFZVFoyeWhyTzR3YTNSNUF5UUM2YWZLZ0xhMmVsREQxRHJKWTVoNmQzaW5kYWpzVDlhZU5wYkMtLUh1T0lmd3NlSEpZWUZQU0pSMk9OV1ZNYjhvdTQzSS1kQjI3ckZpczJfYjN2SHl2Zy1INHROZXROZm1wYlVScVVrcEktV2dET0xvejJ4T2VnNDd1QmJlMWtPcVNzNWJTeg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlp1UFo5QlNzZUJCTGlNNk9tRWdCMFhlM1ZUR1RmQWRUV0xiYUxPRHJSZGg2T29QMlBRMDFZVFoyeWhyTzR3YTNSNUF5UUM2YWZLZ0xhMmVsREQxRHJKWTVoNmQzaW5kYWpzVDlhZU5wYkMtLUh1T0lmd3NlSEpZWUZQU0pSMk9OV1ZNYjhvdTQzSS1kQjI3ckZpczJfYjN2SHl2Zy1INHROZXROZm1wYlVScVVrcEktV2dET0xvejJ4T2VnNDd1QmJlMWtPcVNzNWJTeg?oc=5\" target=\"_blank\">Satya Nadella Says “the Floor of Cyber Attacks Has Fallen.” Microsoft Just Declared Code Red After a 24-Hour Outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
-      "published": "2026-11-26T00:34:55+00:00",
-      "source": "TIKR.com"
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes - BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUZSQWE4VXFMd01DVW43Y1FCNTVFalJHRGNvMTMwakR2LWw0NUxSNldySVEtUXB0eGk3cXVGMWZiREtLeER1Zmtub3o4MFJzSXBtb0NQMVhPVjBESEpfU2VFZ1c5NngtRjJIZnJsb2toczhodjduWTYyOTJXeHM1eUpqSHRTdWpjZ3FfWWdGdDM3SEYyeGxFWnNSTlpRSHJiVThRbnBnNjEtaVZFbmxBLXNkcmhuYUctWVdFWTBR0gHDAUFVX3lxTFA4MmVKWHJrZ1gxVFgtMDBfeFdPSHpkTTBndFNiVUVhejNabmJkS2JWMVJ2Mk5VUzJRLTU3RjJ2SWdQTEhaeDRJSFdyQnBpalczbll6TXNid3NSTlB2aGN2a3NfY1ZtakVSMGdkcDlzbUVXQ0JUSWJhcEZZZjVVWV8weW8yQnFXT3dVUDZ3aVh3MFRnTGRIRFUtOW1pQ3d5ekJSV1BPcUpQTTJiSDFONHk2TFBzX1Q3cmQtYTM0b1FtYVg4bw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUZSQWE4VXFMd01DVW43Y1FCNTVFalJHRGNvMTMwakR2LWw0NUxSNldySVEtUXB0eGk3cXVGMWZiREtLeER1Zmtub3o4MFJzSXBtb0NQMVhPVjBESEpfU2VFZ1c5NngtRjJIZnJsb2toczhodjduWTYyOTJXeHM1eUpqSHRTdWpjZ3FfWWdGdDM3SEYyeGxFWnNSTlpRSHJiVThRbnBnNjEtaVZFbmxBLXNkcmhuYUctWVdFWTBR0gHDAUFVX3lxTFA4MmVKWHJrZ1gxVFgtMDBfeFdPSHpkTTBndFNiVUVhejNabmJkS2JWMVJ2Mk5VUzJRLTU3RjJ2SWdQTEhaeDRJSFdyQnBpalczbll6TXNid3NSTlB2aGN2a3NfY1ZtakVSMGdkcDlzbUVXQ0JUSWJhcEZZZjVVWV8weW8yQnFXT3dVUDZ3aVh3MFRnTGRIRFUtOW1pQ3d5ekJSV1BPcUpQTTJiSDFONHk2TFBzX1Q3cmQtYTM0b1FtYVg4bw?oc=5\" target=\"_blank\">Microsoft pushes emergency hotpatch to fix Windows Server crashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+      "published": "2026-11-27T09:08:16+00:00",
+      "source": "BleepingComputer"
     },
     {
-      "title": "11,000+ messages, across 11 Teams chats and a decade of ‘acceptable failures’: How the 24-hour outage tha - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOdFpkQXhGRXBzZC13dzdfTXBEYkJ5Q1pybzJNM1c1SVJUbUEtVjNTM0djWTdFczBFUXNIMy1XSm9MRlROSFQzN3l1SlJPOTE1MW5zdDN4b0RVa2s3SmtjY3E5ejRPdUVPZGp0YjNDWl9UQWlRUm4waWlrMGQ5bXQ4cTlfNUczUEpoLTZrX1FnNlJCUmtqdlJxSTZJUzY3UTV5M3huZWllY1VTSms0RVVlRm53MW5MZm5DY19nQlJlRGVxZVRORElIbDlYZGtucjhPLXJVd2dHVzJvaHg4aWw5aExTV1gyX3Q5RFhEWWNLd01oaU5SY0pnajBqRlN6NWo5SXJjdEVxY2tJZDBEVjc3eTdEN1dlS2tzd3FmdjBocmk2UUJIMjk0M0laNXZuak5mRDVjUUlXbUgtNVdZTWZiT0tJTlBZVlNaYWhtVGJIZW9CbG5BY2pIOEQySHdlVXlfYkpXdnpaS0FjNXU0M3NBY0swanhlV0lUZ0Z2U0V3dXpRY2ZnZGpXZ1o0TEM1YU0ySmNFLUpVZzJTeWtxbWhKdU1MWjNMNGRXc0Fv0gGwA0FVX3lxTE5vMjlaZDRka18xYlZWaVlZdmU5RUNLblNKVXdWdlMtVE8yak9STVZEeE1ZSHV1anFLS1Byc0YtWUdXa3dQeXljWHhZdlpDY3czQ1dfVHVBQllBWm1VeldsUVo1eWNrWU5odEI3aUd1MUYtcFJmQWZ2dE04MWEwbFQyX1BNSENWWUd5WTlmM0o1Z01YSlhBRUpRYlJFdG5QVXZQUDMwaC1IeGZlemVNZXlLeHk4bFR3QlNUa1dvLXh2azdQM1FFNmJ3Qm50Sk41SV96TWFuU0x1NTZZUkl3WkRMWW9zZmFTU3BFOC12UzJENmdQaUtESVhpNkUyeWxSQnVSZm54U29oV2dIWjZBeXU0MXVDS3NtVVhpcnFQM25ldXZTN2xHYkhkUHRMZ1VXQ0xlZnEzMVNfWWNZTXNhcnlTbEIzbU1rOVFJUkQ3cWhDUXZJbXh6VXFZanRZVmZJaThZSzluMk43THNYT0xBbUNkWmVFQ1ZkcVBVamlGeFhRdTh3OHdCaFc2a3JlV0hnZFA1cjZPNUoyNDNjb21ZX21hcGFoenpmU040d1NPelo4Sg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwNBVV95cUxOdFpkQXhGRXBzZC13dzdfTXBEYkJ5Q1pybzJNM1c1SVJUbUEtVjNTM0djWTdFczBFUXNIMy1XSm9MRlROSFQzN3l1SlJPOTE1MW5zdDN4b0RVa2s3SmtjY3E5ejRPdUVPZGp0YjNDWl9UQWlRUm4waWlrMGQ5bXQ4cTlfNUczUEpoLTZrX1FnNlJCUmtqdlJxSTZJUzY3UTV5M3huZWllY1VTSms0RVVlRm53MW5MZm5DY19nQlJlRGVxZVRORElIbDlYZGtucjhPLXJVd2dHVzJvaHg4aWw5aExTV1gyX3Q5RFhEWWNLd01oaU5SY0pnajBqRlN6NWo5SXJjdEVxY2tJZDBEVjc3eTdEN1dlS2tzd3FmdjBocmk2UUJIMjk0M0laNXZuak5mRDVjUUlXbUgtNVdZTWZiT0tJTlBZVlNaYWhtVGJIZW9CbG5BY2pIOEQySHdlVXlfYkpXdnpaS0FjNXU0M3NBY0swanhlV0lUZ0Z2U0V3dXpRY2ZnZGpXZ1o0TEM1YU0ySmNFLUpVZzJTeWtxbWhKdU1MWjNMNGRXc0Fv0gGwA0FVX3lxTE5vMjlaZDRka18xYlZWaVlZdmU5RUNLblNKVXdWdlMtVE8yak9STVZEeE1ZSHV1anFLS1Byc0YtWUdXa3dQeXljWHhZdlpDY3czQ1dfVHVBQllBWm1VeldsUVo1eWNrWU5odEI3aUd1MUYtcFJmQWZ2dE04MWEwbFQyX1BNSENWWUd5WTlmM0o1Z01YSlhBRUpRYlJFdG5QVXZQUDMwaC1IeGZlemVNZXlLeHk4bFR3QlNUa1dvLXh2azdQM1FFNmJ3Qm50Sk41SV96TWFuU0x1NTZZUkl3WkRMWW9zZmFTU3BFOC12UzJENmdQaUtESVhpNkUyeWxSQnVSZm54U29oV2dIWjZBeXU0MXVDS3NtVVhpcnFQM25ldXZTN2xHYkhkUHRMZ1VXQ0xlZnEzMVNfWWNZTXNhcnlTbEIzbU1rOVFJUkQ3cWhDUXZJbXh6VXFZanRZVmZJaThZSzluMk43THNYT0xBbUNkWmVFQ1ZkcVBVamlGeFhRdTh3OHdCaFc2a3JlV0hnZFA1cjZPNUoyNDNjb21ZX21hcGFoenpmU040d1NPelo4Sg?oc=5\" target=\"_blank\">11,000+ messages, across 11 Teams chats and a decade of ‘acceptable failures’: How the 24-hour outage tha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "published": "2026-11-26T04:36:00+00:00",
-      "source": "The Times of India"
+      "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0dnTGJIRjhKaG1fZUsyeUdTQXZpYWtBQkQwUWJmdFJoeEFNZlYyYWpxRHVsS2p2LVVSMHZFMzkxTTdUNlNfdGdsaTRHWmtOTWxwQnRQLXpDUW1GNzA5dmZRWEIzbWZma0hJMnRYeFZySl84R1Vfb1JOSFZFaFpoOVpnWUowM1ZHS2lJX0RBSkZ3UEpJZnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0dnTGJIRjhKaG1fZUsyeUdTQXZpYWtBQkQwUWJmdFJoeEFNZlYyYWpxRHVsS2p2LVVSMHZFMzkxTTdUNlNfdGdsaTRHWmtOTWxwQnRQLXpDUW1GNzA5dmZRWEIzbWZma0hJMnRYeFZySl84R1Vfb1JOSFZFaFpoOVpnWUowM1ZHS2lJX0RBSkZ3UEpJZnc?oc=5\" target=\"_blank\">Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "published": "2026-11-27T03:30:00+00:00",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Report: Microsoft Declared \"Code Red\" Alert After Historic Service Outage - Thurrott.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaS01eE1kODAtQl94M0RlY2FES3FoaDNTSV9zMTNXSVFYaWZVWUQzWEIzSTlaWU1uTW9FTHFkVl91RW1BNURUd1JpQktuNXhBUW5GM2VEcFBDck9mdUp6Ums0dmNKZzBzYlRjbGh6b0V6UHpOU1pqWTNwSVVNOEw1YjA5SE5JSWlmUUJWREVXUk9MZThaM2pTSVpWajB6M0ZRUGdUUnlMd1hUNERTLTV1emV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaS01eE1kODAtQl94M0RlY2FES3FoaDNTSV9zMTNXSVFYaWZVWUQzWEIzSTlaWU1uTW9FTHFkVl91RW1BNURUd1JpQktuNXhBUW5GM2VEcFBDck9mdUp6Ums0dmNKZzBzYlRjbGh6b0V6UHpOU1pqWTNwSVVNOEw1YjA5SE5JSWlmUUJWREVXUk9MZThaM2pTSVpWajB6M0ZRUGdUUnlMd1hUNERTLTV1emV3?oc=5\" target=\"_blank\">Report: Microsoft Declared \"Code Red\" Alert After Historic Service Outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thurrott.com</font>",
-      "published": "2026-11-25T18:44:47+00:00",
-      "source": "Thurrott.com"
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTFUaHNzaTM0YzN3MnRwNGR0dGJfcjBtSUpJdlROTzBsM1QzOFRjMkJBQkRZUUhNZXgxOXBLcVFLUTc4Mk5LNnl3Vk1jSmx4RFZQbmFLT2szX1c1N2JwUHlNcXA1bFljaXlvc1BUQzFlOF91LUp6N2lHZGY5VkFZeg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTFUaHNzaTM0YzN3MnRwNGR0dGJfcjBtSUpJdlROTzBsM1QzOFRjMkJBQkRZUUhNZXgxOXBLcVFLUTc4Mk5LNnl3Vk1jSmx4RFZQbmFLT2szX1c1N2JwUHlNcXA1bFljaXlvc1BUQzFlOF91LUp6N2lHZGY5VkFZeg?oc=5\" target=\"_blank\">Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>",
+      "published": "2026-11-27T11:49:00+00:00",
+      "source": "The Hacker News"
+    },
+    {
+      "title": "Microsoft Cuts Memory Utilization in Windows 11 In Response To RAMpocalypse - TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnhhSHRPZm13eFlVV1dUc1ZFWENKVTFpdndEUV9hMUt3el9hN2czNENmYXE1UTJ6Zm5aS0tSYkJYZFFGMVdPQ0Z4N1M0MG1reXBpVmxGajgtbHJ6bFZ2OFZQeWRORnpxN1B6TzFiT0NpYjdCcS1wdU9oaFRYMF8zZ1A1Um55Q1N6Y2ktQTM0ejdpZnZxVGt4ajlCZElUUjFqb09FT0M3SlppLVRKWExj0gG0AUFVX3lxTE1INTdGQ1I0WFpBNWRlZzNjN25tLXpyOGkweWxOellDTm9oQ3AwNFFCLWpUdldPeEdBa2VYQ3BfZTd5RnRTSWNJcmhGeDBkTENJNUc0NjRBUDU4UmVXTzBRTThBOWtKMmhWY25aQng1Q2w0cl94TDNSd05iM2RSR2RzUnNnUC1hOHM3VGJVX210TmhBM2lERmhVWENPeXdLNkkxUmR6SllKNkVDN0JkVnRmdUdoQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnhhSHRPZm13eFlVV1dUc1ZFWENKVTFpdndEUV9hMUt3el9hN2czNENmYXE1UTJ6Zm5aS0tSYkJYZFFGMVdPQ0Z4N1M0MG1reXBpVmxGajgtbHJ6bFZ2OFZQeWRORnpxN1B6TzFiT0NpYjdCcS1wdU9oaFRYMF8zZ1A1Um55Q1N6Y2ktQTM0ejdpZnZxVGt4ajlCZElUUjFqb09FT0M3SlppLVRKWExj0gG0AUFVX3lxTE1INTdGQ1I0WFpBNWRlZzNjN25tLXpyOGkweWxOellDTm9oQ3AwNFFCLWpUdldPeEdBa2VYQ3BfZTd5RnRTSWNJcmhGeDBkTENJNUc0NjRBUDU4UmVXTzBRTThBOWtKMmhWY25aQng1Q2w0cl94TDNSd05iM2RSR2RzUnNnUC1hOHM3VGJVX210TmhBM2lERmhVWENPeXdLNkkxUmR6SllKNkVDN0JkVnRmdUdoQQ?oc=5\" target=\"_blank\">Microsoft Cuts Memory Utilization in Windows 11 In Response To RAMpocalypse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font>",
+      "published": "2026-11-27T03:00:54+00:00",
+      "source": "TechPowerUp"
+    },
+    {
+      "title": "GitHub's AnyPS5 Post Sparks Double Standard Debate - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWxaUFZleGxITWhrZ1dSRm9ma1FjY2V2OVo1S0d6YWpTVVpIZGRiUDI1b0x0SDlEYVN5ZmVDVS1rOVJFSE90ZjM1dUFOZS1jVFpUMFZyV2ttc3d0TTNkZTh4SmJ4eHNEZ1BPZWdrVkpQUEJTYVNiT0pBN3pKSW9ta2kwVXVaNWdscDJEZ1ZWOWhxSDF1Yktkb0xhTmc0ZmhaZ3RrMGk1ZEtzaElSdWpKX0ZtTThiTnkyS0lDMkxkcXAzSlRQWmlGYXptLW5qTkhhNHA4MDJ5SnFDYUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWxaUFZleGxITWhrZ1dSRm9ma1FjY2V2OVo1S0d6YWpTVVpIZGRiUDI1b0x0SDlEYVN5ZmVDVS1rOVJFSE90ZjM1dUFOZS1jVFpUMFZyV2ttc3d0TTNkZTh4SmJ4eHNEZ1BPZWdrVkpQUEJTYVNiT0pBN3pKSW9ta2kwVXVaNWdscDJEZ1ZWOWhxSDF1Yktkb0xhTmc0ZmhaZ3RrMGk1ZEtzaElSdWpKX0ZtTThiTnkyS0lDMkxkcXAzSlRQWmlGYXptLW5qTkhhNHA4MDJ5SnFDYUE?oc=5\" target=\"_blank\">GitHub's AnyPS5 Post Sparks Double Standard Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+      "published": "2026-11-26T20:55:04+00:00",
+      "source": "Windows Central"
     }
   ],
   "product_launches": [
     {
-      "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnBldHlfWlM4TjV6Y2NWTlNMUjFzQ0ZUa2M5MTkwX2pkaHNhbXc0TDJJbUs4bmxHZ3RSXzQ3SlFXd3VuemZFaWJFekFneHRNUDBNb2ZyTmgxVWFqR1BySzZRelo1ZjdTWXhuYjlGc1dOQm9JNTJMWHNlSHY0Z2FxS3hhMnp1OGVqWFdMTGlFYXZoZV9mc29ySDhGdUlZOW1RM3Rv?oc=5\" target=\"_blank\">Introducing the new Copilot with Home, Code and Autopilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Official Microsoft Blog</font>",
-      "published": "2026-09-25T07:00:00+00:00",
-      "source": "The Official Microsoft Blog"
+      "title": "Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland - Microsoft UK Stories",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU29BNnZZV19UdXU2dlFtUElSc1F6cFQ0SWJrWHJmNWFia0FraVN3YlRjY255LVc0ejE3T2NfX2ZJazBjTXNqbmdJR05KN3Q5dEhJWl8tOG80MXpLQkNLYjdDaE85djd4RzYzdHgxLXFCSk5yTG5YeVdPTGlYdjRKdlJwcmxMX19rLTB4S0FNV2hmNlYtMHVQTE9wczJqbkdIUTJkYm5PcmdzUXlOTHJmaWRya1hKeHZxTHZ2MEFrdkREd0NTTE5pLW0yN1NGSUE5R1FvRmpKc1NlZmtyQmJiMGU2akhjbkhvSWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU29BNnZZV19UdXU2dlFtUElSc1F6cFQ0SWJrWHJmNWFia0FraVN3YlRjY255LVc0ejE3T2NfX2ZJazBjTXNqbmdJR05KN3Q5dEhJWl8tOG80MXpLQkNLYjdDaE85djd4RzYzdHgxLXFCSk5yTG5YeVdPTGlYdjRKdlJwcmxMX19rLTB4S0FNV2hmNlYtMHVQTE9wczJqbkdIUTJkYm5PcmdzUXlOTHJmaWRya1hKeHZxTHZ2MEFrdkREd0NTTE5pLW0yN1NGSUE5R1FvRmpKc1NlZmtyQmJiMGU2akhjbkhvSWc?oc=5\" target=\"_blank\">Microsoft and NVIDIA launch Frontier Launchpad to boost next wave of AI-focused software firms across UK & Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft UK Stories</font>",
+      "published": "2026-11-03T08:00:00+00:00",
+      "source": "Microsoft UK Stories"
     },
     {
       "title": "Introducing new Surface devices built for business and AI acceleration - Windows Blog",
@@ -75,6 +75,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc29kRjJrWWM4MTdxTDROYVV1Y3dvdVZndXAwejVGSFVLakpJbFluR0pYRlMzM2d4NWlQOE5QUkJMMWhLbkV4SEw0d01HN0F1c0xpUlN3YlRobnlIYlVNUWFkLUhiYUtORHhGSlRVdG8waHMwcV9EUUdLcG9sSTZsOGtDREJHY002bldiQzhrQnBYOEhNNGE5MjE4WXB0XzFXc1k5aHZRUGt1NXk3UEV2NTdhZWFieU0?oc=5\" target=\"_blank\">Introducing new Surface devices built for business and AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Blog</font>",
       "published": "2026-05-19T07:00:00+00:00",
       "source": "Windows Blog"
+    },
+    {
+      "title": "Anthropic Launches New Workplace Software, Sending Microsoft Shares Tanking - The Information",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZWNFZW9UMG9qeUhoMmF5RkViUlVlZGNWcXdPRnc1azRrYVN0c1NJS0F1YnBlV21sOUhLbURKYnJUUXM5YU0wUFhQM3BzbXJuUWd4RWdEeHVpOHFkY1pnbmsxR29IRWlwdTF0bERXWlMzdFd0OVpHOEVqQ0djeEd6ZERNU0hzZF9DczFjT3NGbGVYYTB3d3BWMDhFRHN5M19tdDBSY1BMenNad1VsM1d6T3ZuM2Qzdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZWNFZW9UMG9qeUhoMmF5RkViUlVlZGNWcXdPRnc1azRrYVN0c1NJS0F1YnBlV21sOUhLbURKYnJUUXM5YU0wUFhQM3BzbXJuUWd4RWdEeHVpOHFkY1pnbmsxR29IRWlwdTF0bERXWlMzdFd0OVpHOEVqQ0djeEd6ZERNU0hzZF9DczFjT3NGbGVYYTB3d3BWMDhFRHN5M19tdDBSY1BMenNad1VsM1d6T3ZuM2Qzdw?oc=5\" target=\"_blank\">Anthropic Launches New Workplace Software, Sending Microsoft Shares Tanking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Information</font>",
+      "published": "2026-11-10T08:00:00+00:00",
+      "source": "The Information"
     },
     {
       "title": "Anthropic Launches Claude Sheets. Is Microsoft's Stock in Trouble? - Yahoo Finance",
@@ -89,27 +96,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMThVYXNHdk44dXhHc1F0NHZ5SzJYd2FBN3BWSHJ3R1pXMjMySWlfbTQwaVRxc2l3QkFGUDJLamZ2Yk1zVlBFekl6SVRlbF9kc0lpWEdjQVBHUzhETUNMQm0waVdPSmlOLTh6MlhNZ2pmbFZBR0hpQnYtQUhVX2tiTzBtbEp0YkRuQjViX0Z2eGFpTzVwMFlOd010STAyeVRKVHhlWVNnZ0xpYTcxVDlxM3dha2tjbXp3SE9QRGhfTkdNNlJLQm9sOTh4dHdpQQ?oc=5\" target=\"_blank\">OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
       "published": "2026-09-29T07:00:00+00:00",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft launches AI transparency effort with more than 40 organizations - Superpower Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmRCeW0xSExraWhNV2VyZXpJcERXS1lZUV9kZTQtX0RaYUpHcTdoZDR0OGg2UlFOaHYyeldUdXM2c3U1Zm51eHJjY0lsMEJ3R1FUYndGWk9ZRmlSb1lLMWFwMWdLQU1VSDItVFlQTnJIa1JYS3paQ1g5cWZudHZ5YmVRSUhYRXBxaS03Uml6aExQaGM2THVlUVhoeXhXbVdaSGs3c0hTeXVnVWs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmRCeW0xSExraWhNV2VyZXpJcERXS1lZUV9kZTQtX0RaYUpHcTdoZDR0OGg2UlFOaHYyeldUdXM2c3U1Zm51eHJjY0lsMEJ3R1FUYndGWk9ZRmlSb1lLMWFwMWdLQU1VSDItVFlQTnJIa1JYS3paQ1g5cWZudHZ5YmVRSUhYRXBxaS03Uml6aExQaGM2THVlUVhoeXhXbVdaSGs3c0hTeXVnVWs?oc=5\" target=\"_blank\">Microsoft launches AI transparency effort with more than 40 organizations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Superpower Daily</font>",
-      "published": "2026-11-18T00:37:00+00:00",
-      "source": "Superpower Daily"
     }
   ],
   "stock": {
     "ticker": "MSFT",
     "currency": "USD",
     "latest": {
-      "date": "2026-11-25",
-      "close": 489.92999267578125
+      "date": "2026-11-27",
+      "close": 492.8500061035156
     },
     "history": [
-      {
-        "date": "2026-11-17",
-        "close": 505.2639465332031
-      },
       {
         "date": "2026-11-18",
         "close": 507.30999755859375
@@ -133,6 +129,10 @@
       {
         "date": "2026-11-25",
         "close": 489.92999267578125
+      },
+      {
+        "date": "2026-11-27",
+        "close": 492.8500061035156
       }
     ],
     "name": "Microsoft Corporation"
